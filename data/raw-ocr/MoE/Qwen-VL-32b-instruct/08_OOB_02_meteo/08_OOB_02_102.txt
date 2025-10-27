@@ -1,0 +1,17 @@
+# Date: 20 Juin 1901
+
+|   | 9th Établir 3rd Soir |   |
+| --- | --- | --- |
+|  Hauteur Marométrique | 766.1 | 766.2  |
+|  Direction Su vent | Nord | N.N.E  |
+|  Force | 4 fa.th. | 1 fort  |
+|  Débutosité | Reg. G. (Terre) | 0  |
+|  Débutosité | Reg. E. (mer) | 0  |
+|  Direction Ses nuages | Nord | Nord  |
+|  Mise tombée |  |   |
+|  Température Se l'air | 21.1 | 23.2  |
+|  Hauteur Se la mer | 18.2 | 63.6  |
+|  Agitation Se l'eau | 3 fort | 2 fa.th.  |
+|  Densité Se l'eau | au Nord Se la jetée | 1027.7  |
+|  Densité Se l'eau | au Large | 18.7  |
+|  Température Se l'eau | 18.7 | 19.7  |

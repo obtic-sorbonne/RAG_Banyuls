@@ -1,0 +1,12 @@
+| **Date** | **Heure** | **Haut. Barométrique (mm)** | **Dir. du vent** | **Force** | **Reg. c. (hèm.)** | **Nébulosité (%)** | **Dir. des nuages** | **Pluie tombée (mm)** | **Température de l'air (°C)** | **Haut. de la mer (m)** | **Agitation de l'eau** | **Densité au bout de la jetée (g/cm³)** | **Température de l'eau (°C)** |
+|----------|-----------|-----------------------------|------------------|------------|----------------------|---------------------|-----------------------|-------------------------|-------------------------------|------------------------|-----------------------|---------------------------------|------------------------------|
+| 4 Septembre 1905 | Matin | 768.8 | cr. cr. o | is | 2 fort | 0 | 0 | - | 24.0 | 17.1 | 2 fort | 1027.6 | 22.8 |
+| 4 Septembre 1905 | Soir | 767.0 | croît | 2 faible | 0 | 0 | - | " | 30.0 | 18.9 | s faible | 1027.8 | 23.3 |
+| 5 Septembre 1905 | Matin | 768.0 | S. 8 | is | 1 fort | 0 | 0 | - | 23.0 | 19.0 | 2 | 1027.6 | 22.4 |
+| 5 Septembre 1905 | Soir | 766.6 | S. S. 8 | 2 | 2 faible | 0 | 0 | - | 27.4 | 10.1 | 2 faible | 1027.9 | 23.6 |
+
+**Remarques :**
+- Les directions du vent sont indiquées par leurs points cardinaux.
+- La force du vent est qualifiée comme "fort" ou "faible".
+- Les valeurs de nébulosité et pluie tombée sont notées à zéro lorsqu'il n'y a pas d'observation significative.
+- Les symboles "cr." signifient "croissant", et les doubles traits ("") indiquent que les données sont identiques aux précédentes observations.

@@ -1,0 +1,35 @@
+# V. 21 Janvier - 1908
+
+|  **Position** | **Date**  |
+| --- | --- |
+|  Hauteur Mawinérique | 193.5  |
+|  Direction du vent | or. 8  |
+|  **Force** | 1  |
+|  **Hébulonte** | 10  |
+|  (Reg. C. (min)) | 10  |
+|  Direction des mays | or. 0  |
+|  **Prix tombe** | 10.8  |
+|  **Dempirature de l'air** | 62.1  |
+|  Hauteur de la mer | 1,68  |
+|  **Agitation de l'air** | 1,68  |
+|  Permit au bout de la fête | 1026.9  |
+|  Dempirature de l'air | 11.6  |
+|  **Dempirature de l'air** | 11.8  |
+
+# V. 22 Janvier - 1908
+
+|  **Position** | **Date**  |
+| --- | --- |
+|  Hauteur Mawinétrique | 771.4  |
+|  Direction du vent | or. 0.0  |
+|  **Force** | 2,68  |
+|  **Hébulonte** | 2  |
+|  (Reg. C. (min)) | 2  |
+|  Direction des mays | or. 2  |
+|  **Prix tombe** | 16.8  |
+|  Dempirature de l'air | 62.1  |
+|  Hauteur de la mer | 5  |
+|  **Agitation de l'air** | 1026.9  |
+|  Permit au bout de la fête | 1026.9  |
+|  Dempirature de l'air | 11.8  |
+|  **Dempirature de l'air** | 11.8  |

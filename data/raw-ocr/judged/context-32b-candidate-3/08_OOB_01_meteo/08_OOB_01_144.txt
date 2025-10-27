@@ -1,0 +1,20 @@
+# Date - 17 Décembre - 1900
+
+|   | 3e Matin | 3e Soir  |
+| --- | --- | --- |
+|  Hauteur Barométrique | 773,1 | 771,8  |
+|  Direction du vent | Ouest | Sud  |
+|  Force | 17 faible | 1  |
+|  Nébulosité | 10 | 1  |
+|  Rég. E. (mer) | 10 | 0  |
+|  Direction des nuages | Ouest | Sud  |
+|  Pluie tombée | 8,7 | 18,2  |
+|  Température de l'air | 13,8 | 17,4  |
+|  Hauteur de la mer | 53,9 | 57,1  |
+|  Agitation de l'eau | 2 faible | 2 faible  |
+|  Densité de l'eau | 1029,2 | 1023,8  |
+|  Température de l'eau | 14,8 | 14,0  |
+
+Densité de l'eau
+- au bout de la jetée: 1029,2
+- au large: 1023,8

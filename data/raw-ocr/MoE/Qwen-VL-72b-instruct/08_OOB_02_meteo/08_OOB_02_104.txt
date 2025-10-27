@@ -1,0 +1,16 @@
+| **Observations météorologiques** | **9h Matin** | **3h Soir** |
+|-----------------------------|-------------|--------------|
+| **Date** | 22 Juin 1901 | |
+| **Hauteur Barométrique** | 762.5 | 761.4 |
+| **Direction du vent** | S.S.E | Sud |
+| **Force** | 2 faible | 2 fort |
+| **Nébulosité** |  |  |
+| Reg. 6. (terre) | 0 | 0 |
+| Reg. E. (mer) | 0 | 0 |
+| **Direction des nuages** | - | Surs. |
+| **Pluie tombée** | - | - |
+| **Température de l'air** | 25.5 | 32.3 |
+| **Hauteur de la mer** | 51.6 | 52.6 |
+| **Agitation de l'eau** | 0 | 1 faible |
+| **Densité de l'eau** | 1027.0 | 1026.2 |
+| **Température de l'eau** | 21.3 | 23.6 |

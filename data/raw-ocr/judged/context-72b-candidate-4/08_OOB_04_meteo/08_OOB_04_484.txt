@@ -1,0 +1,30 @@
+```plaintext
+|  | V.11 Avril - 1905 | Matin | Soir |
+| --- | --- | --- | --- |
+| Hauteur Barométrique | 748.6 |  |  |
+| Direction du vent | cr.o |  |  |
+| Force | is |  |  |
+| Nébulosité | (Deg.O.(terre) Légère) |  |  |
+|  | (Deg.2i.(mer) légère) |  |  |
+| Direction des nuages | cr.o |  |  |
+| Pluie tombée | quelques g |  |  |
+| Température de l'air | 17.1 |  |  |
+| Hauteur de la mer | 47.3 |  |  |
+| Agitation de l'eau | faible |  |  |
+| Densité au bout de la jetée | 1028.6 |  |  |
+| Température de l'eau | 14.8 |  |  |
+|  | V.12 Avril - 1905 | Matin | Soir |
+| --- | --- | --- | --- |
+| Hauteur Barométrique | 760.7 | 760.7 |  |
+| Direction du vent | cr.cr.o | cr.o/cr.s |  |
+| Force | id | 3forte | 2 |
+| Nébulosité | (Deg.O.(terre)) | 10 | 3 |
+|  | (Deg.2i.(mer)) | 10 | 0 |
+| Direction des nuages | cr.cr.o | cr.o |  |
+| Pluie tombée | 19.2g | " |  |
+| Température de l'air | 19.8 | 19.7 |  |
+| Hauteur de la mer | 48.4 | 50.3 |  |
+| Agitation de l'eau | 3 | 2fort |  |
+| Densité au bout de la jetée | 1028.6 | 1028.7 |  |
+| Température de l'eau | 14.1 | 11.2 |  |
+```

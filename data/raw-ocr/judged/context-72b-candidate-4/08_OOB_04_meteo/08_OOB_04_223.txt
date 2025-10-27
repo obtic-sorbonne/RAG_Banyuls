@@ -1,0 +1,8 @@
+```plaintext
+| Date       | Heure   | Hauteur Barométrique (mmHg) | Direction du vent | Force | Reg. O. (clarté) | Nébulosité | Reg. E. (mer) | Direction des nuages | Pluie tombée | Température de l'air (°C) | Hauteur de la mer (cm) | Agitation de l'eau | Densité au bout de la jetée (kg/m³) | Température de l'eau (°C) |
+|------------|---------|-----------------------------|-------------------|-------|------------------|------------|---------------|----------------------|--------------|---------------------------|------------------------|---------------------|--------------------------------|--------------------------|
+| 6 Mai 1903 | Matin   | 742.3                       | 1.6               | 2     | 0                | 3.0        | Ouest         | -                    | 25.3         | 43.4                      | 1                      | 1028.6             | 14.0                     |
+| 6 Mai 1903 | Soir    | 744.8                       | 5.8               | 2     | 2                | Sud-Est    | -             | 21.5                 | 38.6         | 1 (faible)                | 1028.9                 | 14.4                     |
+| 7 Mai 1903 | Matin   | 739.8                       | 87.6              | 2     | 10 (terre)       | Ouest      | -             | 18.7                 | 48.7         | 2                         | 1028.1                 | 14.0                     |
+| 7 Mai 1903 | Soir    | 747.7                       | 5.8               | 2     | 10 (mer)         | Sud-Est    | -             | 16.7                 | 44.6         | 2 (faib)                  | 1028.1                 | 14.2                     |
+```

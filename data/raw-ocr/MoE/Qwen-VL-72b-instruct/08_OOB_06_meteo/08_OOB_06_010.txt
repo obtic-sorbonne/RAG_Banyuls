@@ -1,0 +1,45 @@
+OBSERVATIONS DU 1900 21 Avril
+
+| Nombre de bateaux sortis (pêche à la traine) | Réduit |
+|---|---|
+| Température de l'air | maxima depuis la veille | 19.7 |
+| | minima id. | 18.3 |
+| Température de l'eau | maxima depuis la veille |  |
+| | minima id. |  |
+| Pluie tombée depuis la veille, en millim. |  |
+| Evaporation depuis le 190, en millim. |  |
+
+| à 9 h. m. | à 3 h. s. |
+|---|---|
+| Direction du vent (à terre) | N.N.O | Nord |
+| Force | 4 | 3 fort |
+| Direction des nuages | N.N.O | N.N.O |
+| Nébulosité | région Ouest (terre) | 6 | 0 |
+| | id. Est (mer) | 0 | 2 |
+| Hauteur de la mer, en centimètres, au-dessus du zéro | 31.7 | 29.0 |
+| Agitation de l'eau | 2 | 2 faible |
+| Densité de l'eau au bout de la jetée | 1027.8 | 1027.9 |
+| Température id. | 12.6 | 12.6 |
+
+OBSERVATIONS DU 1900 22 Avril
+
+| Nombre de bateaux sortis (pêche à la traine) | 84 |
+|---|---|
+| Température de l'air | maxima depuis la veille | 21.7 |
+| | minima id. | 19.8 |
+| Température de l'eau | maxima depuis la veille |  |
+| | minima id. |  |
+| Pluie tombée depuis la veille, en millim. |  |
+| Evaporation depuis le 190, en millim. |  |
+
+| à 9 h. m. | à 3 h. s. |
+|---|---|
+| Direction du vent (à terre) | N.N.O | Nord |
+| Force | 4 faible | 3 fort |
+| Direction des nuages | N.N.O | N.N.O |
+| Nébulosité | région Ouest (terre) | 0 | 4 |
+| | id. Est (mer) | 4 | 3 |
+| Hauteur de la mer, en centimètres, au-dessus du zéro | 36.8 | 26.8 |
+| Agitation de l'eau | 2 faible | 2 faible |
+| Densité de l'eau au bout de la jetée | 1027.9 | 1027.9 |
+| Température id. | 12.7 | 12.7 |

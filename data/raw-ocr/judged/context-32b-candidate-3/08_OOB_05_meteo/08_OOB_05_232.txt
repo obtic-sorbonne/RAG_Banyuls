@@ -1,0 +1,8 @@
+```markdown
+# 14 Avril 1907
+
+| **Date**       | **Heure** | **Hauteur Barométrique** | **Direction du Vent** | **Force** | **Nébulosité (0/10)** | **Direction des nuages** | **Pluie tombée** | **Température de l'air** | **Hauteur de la mer (cm)** | **Agitation de l'eau** | **Densité au bord de la jetée** | **Température de l'eau** |
+|----------------|-----------|--------------------------|-----------------------|-----------|-----------------------|--------------------------|------------------|--------------------------|---------------------------|-----------------------|-------------------------------|--------------------------|
+| 14 Avril 1907  | **Matin** | 750.6 mmHg               | Nord-Est              | 1         | 10 (Clair)            | Sud-Ouest                | 32.7 mm          | 15.7 °C                  | 58.2                      | 2                     | 1028.7 g/cm³                 | 15.7 °C                 |
+| 14 Avril 1907  | **Soir**  | 750.0 mmHg               | Nord                  | 1         | 10 (Clair)            | Sud-Ouest                | 13.0 mm          | 13.0 °C                  | 88.2                      | 2                     | 1028.9 g/cm³                 | 12.7 °C                 |
+```

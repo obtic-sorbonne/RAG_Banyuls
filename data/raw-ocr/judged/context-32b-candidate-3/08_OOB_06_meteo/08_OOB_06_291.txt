@@ -1,0 +1,49 @@
+### OBSERVATIONS DU 1902 18 JUIN
+
+| **Nombre de bateaux sortis (pêche à l.)** |  |
+| --- | --- |
+| **Température de l'air** |  |
+| - maxima depuis la veille | 23.9 | °C |
+| - minima id. | 13.7 | °C |
+| **Température de l'eau** |  |
+| - maxima depuis la veille |  | °C |
+| - minima id. |  | °C |
+| **Pluie tombée depuis la veille, en millim.** |  | mm |
+| **Évaporation depuis le 190, en millim.** |  | mm |
+| **Direction du vent (à terre)** | **à 9 h. m.** | **à 3 h. s.** |
+| - Direction | N.N.O. |  |
+| - Force | 2 | 1 |
+| **Direction des nuages** | S.O. |  |
+| **Nébulosité** |  |  |
+| - région Ouest (terre) | 10 |  |
+| - id. Est (mer) | 10 |  |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.)** | 44.9 | cm |
+| **Agitation de l'eau** | 1 |  |
+| **Densité de l'eau au bout de la jetée** | 1026.9 |  |
+| **Température** |  |  |
+| - id. Perrame | 17.1 | °C |
+
+### OBSERVATIONS DU 1902 19 JUIN
+
+| **Nombre de bateaux sortis (pêche à l.)** | 2.8 |
+| --- | --- |
+| **Température de l'air** |  |
+| - maxima depuis la veille | 27.8 | °C |
+| - minima id. | 17.2 | °C |
+| **Température de l'eau** |  |
+| - maxima depuis la veille |  | °C |
+| - minima id. |  | °C |
+| **Pluie tombée depuis la veille, en millim.** |  | mm |
+| **Évaporation depuis le 190, en millim.** |  | mm |
+| **Direction du vent (à terre)** | **à 9 h. m.** | **à 3 h. s.** |
+| - Direction | N.E. | 1 force |
+| - Force |  |  |
+| **Direction des nuages** | Sud |  |
+| **Nébulosité** |  |  |
+| - région Ouest (terre) | 10 |  |
+| - id. Est (mer) | 60 |  |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.)** | 44.9 | cm |
+| **Agitation de l'eau** | 1 par 2 |  |
+| **Densité de l'eau au bout de la jetée** | 1026.9 |  |
+| **Température** |  |  |
+| - id. | 17.1 | °C |

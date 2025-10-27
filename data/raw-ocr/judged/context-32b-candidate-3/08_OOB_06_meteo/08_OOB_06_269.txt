@@ -1,0 +1,50 @@
+```plaintext
+### OBSERVATIONS DU 1902 9 AVRIL
+
+| **Nombre de bateaux sortis (pêche à l.)** |  |  |
+| **Température de l'air** | maxima depuis la veille | **24.8** |
+|  | minima id. | **12.8** |
+| **Température de l'eau** | maxima depuis la veille |  |
+|  | minima id. |  |
+| **Pluie tombée depuis la veille, en millim.** |  |  |
+| **Évaporation depuis le 1900, en millim.** |  |  |
+| **Direction du vent (à terre)** | **à 9 h. m.** | **à 3 h. s.** |
+|  | **Nord-Nord-Ouest** | **Nord-Nord-Ouest** |
+| **Force** | **2 Fort** | **2 Fort** |
+| **Direction des nuages** | **Nord-Nord-Ouest** | **Nord-Nord-Ouest** |
+| **Nébulosité** | région Ouest (terre) | **10** | **10** |
+|  | id. Est (mer) | **10** | **10** |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B. R.)** |  | **44.9** |  |
+| **Agitation de l'eau** |  | **2** |  |
+| **Densité de l'eau au bout de la jetée** |  | **1028.3** |  |
+| **Température** | id. Matin maxima | **10.8** |  |
+|  | minima |  |  |
+|  | id. Soir maxima |  |  |
+|  | minima |  |  |
+
+### OBSERVATIONS DU 1902 10 AVRIL
+
+| **Nombre de bateaux sortis (pêche à l.)** |  |  |
+| **Température de l'air** | maxima depuis la veille | **18.4** |
+|  | minima id. | **12.6** |
+| **Température de l'eau** | maxima depuis la veille |  |
+|  | minima id. |  |
+| **Pluie tombée depuis la veille, en millim.** |  |  |
+| **Évaporation depuis le 1900, en millim.** |  | **150** | **160** |
+| **Direction du vent (à terre)** | **à 9 h. m.** | **à 3 h. s.** |
+|  | **Nord-Nord-Ouest** | **Nord-Nord-Ouest** |
+| **Force** | **2 Fort** | **2 Fort** |
+| **Direction des nuages** | **Nord-Nord-Ouest** | **Nord-Nord-Ouest** |
+| **Nébulosité** | région Ouest (terre) | **2** | **1** |
+|  | id. Est (mer) | **1** | **1** |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B. R.)** |  | **54.0** |  |
+| **Agitation de l'eau** |  | **2** |  |
+| **Densité de l'eau au bout de la jetée** |  | **1027.3** |  |
+| **Température** | id. Matin maxima | **12.6** |  |
+|  | minima |  |  |
+|  | id. Soir maxima |  |  |
+|  | minima |  |  |
+
+| **15. Perman. Voir L. Maxima** | **31.4** |
+| **Minima** | **1.9** |
+```

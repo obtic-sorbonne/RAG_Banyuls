@@ -1,0 +1,28 @@
+| Date |  |  | Matin | Soir |
+|------|-----------------|----------------------|-----------------------------------|--------------------------|
+|      | Tant. Barom.    | Direction du vent   | 761.7 mm HG                      | 760.7 mm HG              |
+| V. 18 Mai 1907 |  | Force              | cn.-o                           | cn.-o                    |
+|      |                | 15                   |                                |                          |
+|      |                | Rége. c. (Clair)    | 4 fort                         | 4 fort                   |
+|      | Nébulecte      |                     | 10                             | 10                       |
+|      |                | Rége. n. (nu)      |                                |                          |
+|      |              | Direction des nuages |                                | cn.-c.n.-o                |
+|      |              | Pluie tombée         |                                |                          |
+|      |              | Témpérature de l'air | 17.2°C                         | 17.7°C                    |
+|      |              | Tanteur de la mer    | 12.0 m                          | 12.0 m                    |
+|      |              | Agritation de l'eau  | 3                              | 3                         |
+|      |              | Densité au bout de la jété | 1028.2                       | 1027.8                   |
+|      |              | Témpérature de l'eau | 14.4°C                         | 14.7°C                    |
+
+| Date |  |  |            |  | Matin | Soir |
+|------|-----------------|------------------|--------------------|-----------------------|---------------------|
+|      | Tant. Barom.    | Direction du vent | Force             | Rége. c. (Clair)     |                     |
+| V. 20 Mai 1907 |  |                     | 15                 |                       |                     |
+|      | Nébulecte      |                    | Rége. n. (nu)     |                       |                     |
+|      |              | Direction des nuages |                   |                       |                     |
+|      |              | Pluie tombée         |                   |                       |                     |
+|      |              | Température de l'air |                   |                       |                     |
+|      |              | Tanteur de la mer    |                   |                       |                     |
+|      |              | Agritation de l'eau  |                   |                       |                     |
+|      |              | Densité au bout de la jété |               |                       |                     |
+|      |              | Température de l'eau |                   |                       |                     |

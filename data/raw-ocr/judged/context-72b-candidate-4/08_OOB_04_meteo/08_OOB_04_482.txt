@@ -1,0 +1,10 @@
+```plaintext
+| Pêche à la traîne nombre de pairs de bateaux 8 | Hauteur Barométrique | Direction du vent | Force | Nébulosité Reg. O. (terre) | Reg. E. (mer) | Direction des nuages | Pluie tombée | Température de l'air | Hauteur de la mer | Agitation de l'eau | Densité au bout de la jetée | Température de l'eau |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| Quantité de poisson pêché 399 kg. | Matin | 765.0 | N.O | 3 fort. | 4/10 | N.O | " | 14.9 | 14.5 | 2 | 1028.4 | 14.9 |
+| du 6 Avril 1905 | Soir | 763.6 | S.E | 3 fort. | 4/10 | N.N.O | " | 18.0 | 69.4 | 3 fort. | 1028.4 | 19.0 |
+| Pêche à la traîne nombre de pairs de bateaux 11 | Hauteur Barométrique | Direction du vent | Force | Nébulosité Reg. O. (terre) | Reg. E. (mer) | Direction des nuages | Pluie tombée | Température de l'air | Hauteur de la mer | Agitation de l'eau | Densité au bout de la jetée | Température de l'eau |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| Quantité de poisson pêché 509 kg. | Matin | 766.2 | Nord | 2 | 4/10 | N.N.O | " | 14.0 | 14.0 | 3 | 1028.9 | 14.7 |
+| du 7 Avril 1905 | Soir | 763.0 |  |  |  |  |  | 18.0 | 69.4 |  | 1028.4 | 19.0 |
+```

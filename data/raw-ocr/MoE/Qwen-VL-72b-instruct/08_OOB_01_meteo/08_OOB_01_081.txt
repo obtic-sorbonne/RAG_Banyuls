@@ -1,0 +1,14 @@
+| **Date** | **13 Octobre 1900** |
+| --- | --- |
+| **Paramètres** | **9h** | **3h** |
+| Hauteur Barométrique | 760.4 | 760.4 |
+| Direction du Vent | NE | E |
+| Force id | 10 | 10 |
+| Mébulosité | Reg. O(tene) | Reg. E|ouest | 3 | |
+| Direction des images | S | E |
+| Pluie tombée | 1.65 | 13.875 |
+| Température de l'air | 19.8 | 17.2 |
+| Hauteur de la mer | 46.5 | 43.7 |
+| Agitation de l'eau | 2 | 6 |
+| Densité de l'eau | 1025.2 | 1024.2 |
+| Température de l'eau | 21.3 | 21.1 |

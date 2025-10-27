@@ -1,0 +1,25 @@
+```plaintext
+N°
+
+Sortie du 31 Juillet 1909
+
+Départ de Banyuls à 6ʰ30 heures du matin pour Châletin. Arrivée à 8ʰ.
+Départ de Châletin à 8ʰ30 heures du matin pour Banyuls.
+Départ de Banyuls à 10ʰ heures du matin.
+Arrivée au mouillage à Banyuls à 11ʰ du matin.
+
+État du temps: Bonne brise du Nord
+
+Passagers à bord: M<sup>e</sup> Buxton professeur
+
+Objet de la sortie: pour régénérer les aquariums
+
+Consommation {
+  26 briquettes de 10 kilos        Total en kilos 260
+  2 huile                          Total en litres 2
+}
+
+Dépenses
+
+Observations: Bonne pêche.
+```

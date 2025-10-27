@@ -1,0 +1,29 @@
+```
+| Date | Matin | Soir |
+|------|-------|------|
+| **22 Novembre 1905** |   |    |
+| Hauteur barométrique | 767.2 |     |
+| Direction du vent | cr.cr.o | st.jour |
+| Force | is | W |
+| Nébulosité (Rég. O. (terre)) | 10 | 0 |
+| Direction des nuages | S.O | " |
+| Pluie tombée | " | " |
+| Température de l'air | 11.1 | 11.2 |
+| Hauteur de la mer | 43.0 | 38.8 |
+| Agitation de l'eau | 3 | 2 T. jour |
+| Densité au bout de la jetée | 1028.8 | 1028.7 |
+| Température de l'eau | 16.1 | 17.2 |
+
+| **23 Novembre 1905** |   |    |
+| Hauteur barométrique | 768.3 |     |
+| Direction du vent | or.or.o | 2 |
+| Force | is | 0 |
+| Nébulosité (Rég. O. (terre)) | 0 | 0 |
+| Direction des nuages | " | " |
+| Pluie tombée | " | " |
+| Température de l'air | 11.2 | 11.2 |
+| Hauteur de la mer | 38.8 |  |
+| Agitation de l'eau | 2 T. jour |  |
+| Densité au bout de la jetée | 1028.7 |  |
+| Température de l'eau | 17.2 |  |
+```

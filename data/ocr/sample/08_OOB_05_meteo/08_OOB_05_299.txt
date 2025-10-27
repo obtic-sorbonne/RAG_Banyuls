@@ -1,0 +1,35 @@
+```markdown
+# 24 SEPTEMBRE 1907
+
+| **Date** | **Matin** | **Soir** |
+|----------|-----------|----------|
+| Hauteur barométrique | 764.8 | 765.3 |
+| Direction du vent | E.8 | E.8 |
+| Force | 1 (faible) | 1 (faible) |
+| Nébulosité (Reg. C. (terre)) | 10 | 10 |
+| Nébulosité (Reg. C. (mer)) | 10 | 10 |
+| Direction des nuages | E.4 | E.4 |
+| Pluie tombée | —— | —— |
+| Température de l'air | 23.4 | 24.3 |
+| Hauteur de la mer | 15.5.7 | 15.6 |
+| Agitation de l'eau | 1 (faible) | 1 (faible) |
+| Densité au bout de la jetée | 1027.4 | 1027.2 |
+| Température de l'eau | 20.4 | 21.1 |
+
+# 25 SEPTEMBRE 1907
+
+| **Date** | **Matin** | **Soir** |
+|----------|-----------|----------|
+| Hauteur barométrique | 760.3 | 769.8 |
+| Direction du vent | E.8 | E.8 |
+| Force | 2 (fort) | 1 (faible) |
+| Nébulosité (Reg. C. (terre)) | 2 | 1 |
+| Nébulosité (Reg. C. (mer)) | 5 | 5 |
+| Direction des nuages | E.0 | E.0 |
+| Pluie tombée | 21.4 | 24.2 |
+| Température de l'air | 25.3 | 24.3 |
+| Hauteur de la mer | 46.4 | 46.4 |
+| Agitation de l'eau | 4 (moyenne) | 1 (faible) |
+| Densité au bout de la jetée | 1027.7 | 1027.6 |
+| Température de l'eau | 20.0 | 21.5 |
+```

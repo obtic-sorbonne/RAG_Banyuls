@@ -1,0 +1,36 @@
+```
+Journal Météorologique du Navire "La Belle Poule"
+Période : 13 au 14 Novembre 1905
+
+| Date       | Matin | Soir  |
+|------------|-------|-------|
+| 13 Novembre 1905 |      |      |
+| Hauteur Barométrique (mm) | 748.2 | 746.3 |
+| Direction du vent | cr.o  | s.o   |
+| Force | 3     | 1 fort |
+| Nébulosité (Reg. o. Terre) | w     | w     |
+| Nébulosité (Reg. E. Mer) | w     | w     |
+| Direction des nuages | Ouest | s.o   |
+| Pluie tombée (mm) | 0.87  | "     |
+| Température de l'air (°C) | 12.8  | 12.2  |
+| Hauteur de la mer (m) | 20.9  | 48.0  |
+| Agitation de l'eau (code) | S     | 2 T. fort |
+| Densité au bout de la jetée (g/cm³) | 1028.8 | 1028.8 |
+| Température de l'eau (°C) | 16.9  | 16.8  |
+
+| 14 Novembre 1905 | Matin | Soir  |
+| Hauteur Barométrique (mm) | 749.6 | 749.6 |
+| Direction du vent | er.cr.o | cr.cr.o |
+| Force | 4     | 2     |
+| Nébulosité (Reg. o. Terre) | w     | w     |
+| Nébulosité (Reg. E. Mer) | w     | w     |
+| Direction des nuages | Ouest | Ouest |
+| Pluie tombée (mm) | "     | "     |
+| Température de l'air (°C) | 12.3  | 12.6  |
+| Hauteur de la mer (m) | 40.8  | 36.7  |
+| Agitation de l'eau (code) | 2 fort | 2 faible |
+| Densité au bout de la jetée (g/cm³) | 1029.0 | 1029.3 |
+| Température de l'eau (°C) | 19.6  | 19.6  |
+
+Note Marginale : Aucune remarque particulière pour ces dates.
+```

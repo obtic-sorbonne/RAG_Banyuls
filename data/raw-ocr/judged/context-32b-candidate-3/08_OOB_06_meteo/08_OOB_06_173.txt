@@ -1,0 +1,49 @@
+```plaintext
+### OBSERVATIONS DU 1901-06-30
+
+| **Nombre de bateaux sortis (pêche à l'ancre)** | **41.4** |
+| **Température de l'air** |  |
+| - **maxima depuis la veille** | **19.4** |
+| - **minima id.** | **17.6** |
+| **Température de l'eau** |  |
+| - **maxima depuis la veille** |  |
+| - **minima id.** |  |
+| **Pluie tombée depuis la veille, en millim.** | **11.0** |
+| **Évaporation depuis le 1901, en millim.** | **190.0** |
+| **Direction du vent (à terre)** | **à 9 h. m.** | **à 3 h. s.** |
+| - **Force** | **1** | **1** |
+| - **Direction des nuages** | **N.E.** | **S.O.** |
+| **Nébulosité** |  |
+| - **région Ouest (terre)** | **0** | **10** |
+| - **id. Est (mer)** | **10** | **10** |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.)** | **21.8** | **29.8** |
+| **Agitation de l'eau** | **faible** | **faible** |
+| **Densité de l'eau au bout de la jetée** | **1026.6** | **1026.2** |
+| **Température id. (terre)** |  |
+| - **id. Matin** | **max. 39.6** | **min. 14.1** |
+| - **id. Soir** | **max. 40.4** | **min. 29.0** |
+
+### OBSERVATIONS DU 1901-07-01
+
+| **Nombre de bateaux sortis (pêche à l'ancre)** | **29.3** |
+| **Température de l'air** |  |
+| - **maxima depuis la veille** | **19.3** |
+| - **minima id.** | **17.6** |
+| **Température de l'eau** |  |
+| - **maxima depuis la veille** |  |
+| - **minima id.** |  |
+| **Pluie tombée depuis la veille, en millim.** | **1.7** |
+| **Évaporation depuis le 1901, en millim.** | **190.0** |
+| **Direction du vent (à terre)** | **à 9 h. m.** | **à 3 h. s.** |
+| - **Force** | **1** | **1** |
+| - **Direction des nuages** | **N.N.O.** | **N.N.O.** |
+| **Nébulosité** |  |
+| - **région Ouest (terre)** | **10** | **10** |
+| - **id. Est (mer)** | **10** | **10** |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.)** | **44.9** |  |
+| **Agitation de l'eau** | **1 fort** | **1 fort** |
+| **Densité de l'eau au bout de la jetée** | **1027.6** | **1027.6** |
+| **Température id. (terre)** |  |
+| - **id. Matin** | **-** | **-** |
+| - **id. Soir** | **max. 43.7** | **min. 16.7** |
+```

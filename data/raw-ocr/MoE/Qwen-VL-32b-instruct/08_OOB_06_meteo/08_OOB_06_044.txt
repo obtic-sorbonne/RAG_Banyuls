@@ -1,0 +1,41 @@
+| **Observations du 12 juillet** | **1960* | ** |  
+| :--- | :--- | :--- | :--- | 
+| Nombre de bateaux sortis (pêche à l…) |  | **28.1** |  |  
+| Température de l'air | maxima depuis la veille | **28.1** |  |  
+|  | minima id. | **27.0** |  |  
+| Température de l’eau | maxima depuis la veille |  |  |  
+|  | minima id. |  |  |  
+| Pluie tombée depuis la veille, en millim. |  | **quelque9** |  |  
+| Évaporation depuis le **190**, en millim. |  |  |  |  
+| Direction du vent (à terre) | à 9 h. m. | **N.N.O** |  |  
+|  | à 3 h. s. | **Merd** |  |  
+| Force |  | **fart** | **1jout** |  
+| Direction des nuages |  | **N.0** | **N.0** |  
+| **Nébulosité** | région Ouest (terre) | **10** | **10** |  
+|  | id. Est (mer) | **10** | **10** |  
+| Hauteur de la mer, en centimètres, au-dessus du zéro |  | **49.0** | **41.4** |  
+| Agitation de l’eau |  | **facile** | **1** |  
+| Densité de l’eau au bout de la jetée |  | **1027.0** | **1026.1** |  
+| Température id. |  | **18.7** | **20.0** |  
+|  |  |  |  |  
+
+| **Observations du 13 juillet** | **1960** | ** |  
+| :--- | :--- | :--- | :--- |  
+| Nombre de bateaux sortis (pêche à l…) |  | **33.2** |  |  
+| Température de l’air | maxima depuis la veille | **33.2** |  |  
+|  | minima id. | **17.1** |  |  
+| Température de l’eau | maxima depuis la veille |  |  |  
+|  | minima id. |  |  |  
+| Pluie tombée depuis la veille, en millim. |  | — |  |  
+| Évaporation depuis le **190**, en millim. |  |  |  |  
+| Direction du vent (à terre) | à 9 h. m. | **S.S.E** |  |  
+|  | à 3 h. s. | **S.S.E** |  |  
+| Force |  | **1 fortress je** | **1** |  
+| Direction des nuages |  | **n.n.0** | **n.n.0** |  
+| **Nébulosité** | région Ouest (terre) | **0** | **0** |  
+|  | id. Est (mer) | **0** | **2** |  
+| Hauteur de la mer, en centimètres, au-dessus du zéro |  | **56.8** |  |  
+| Agitation de l’eau |  | **facile** | **1 facile** |  
+| Densité de l’eau au bout de la jetée |  | **1026.5** | **1026.3** |  
+| Température id. |  | **19.7** | **22.6** |  
+|  |  |  |  |  

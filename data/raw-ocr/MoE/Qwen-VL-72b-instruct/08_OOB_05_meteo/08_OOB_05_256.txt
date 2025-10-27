@@ -1,0 +1,28 @@
+| Date       | Matin | Soir |
+|------------|-------|------|
+| V. 11 Juin 1907 |       |      |
+| Hauteur Barométrique | 762,3 | 762,8 |
+| Direction du Vent | E.S.E | S.S.E |
+| Force | 3 | 3 |
+| Nébulosité (Reg. C. Aire) | 1 faible | 10 |
+| Nébulosité (Reg. D. (mr)) | 10 légère | 10 |
+| Direction des nuages | E.S.E | ouest |
+| Pluie tombée | " | " |
+| Température de l'air | 23,6 | 27,7 |
+| Hauteur de la mer | 91,0 | 92,7 |
+| Agitation de l'eau | 1 faible | 1 fort |
+| Densité au bord de la jetée | 1027,8 | 1026,7 |
+| Température de l'eau | 20,4 | 22,3 |
+| V. 12 Juin 1907 |       |      |
+| Hauteur Barométrique | 763,8 | 763,8 |
+| Direction du Vent | est | " |
+| Force | 3 | 0 |
+| Nébulosité (Reg. C. Aire) | 10 légère | 10 |
+| Nébulosité (Reg. D. (mr)) | 10 légère | 10 |
+| Direction des nuages | S.E | S.O |
+| Pluie tombée | " | " |
+| Température de l'air | 22,6 | 27,7 |
+| Hauteur de la mer | 46,7 | 54,9 |
+| Agitation de l'eau | 1 fort | 1 |
+| Densité au bord de la jetée | 1027,8 | 1027,6 |
+| Température de l'eau | 18,2 | 19,0 |

@@ -1,0 +1,17 @@
+# Sorlie du 10 190
+
+|  Départ de | à | heures du  |
+| --- | --- | --- |
+|  pour | Arrivée à |   |
+|  Départ de | à | heures du  |
+|  pour | Arrivée à |   |
+|  Départ de | à | heures du  |
+|  pour |  |   |
+|  Arrivée au mouillage |  | à  |
+|  Etat du temps: |  |   |
+|  Passagers à bord: |  |   |
+|  Objet de la sortie: |  |   |
+|  Consommation | Briquettes de | Soids en kilos  |
+|   | Huile | Total en litres  |
+|  Dépenses |  |   |
+|  Observations: |  |   |

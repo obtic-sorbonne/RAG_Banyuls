@@ -1,0 +1,29 @@
+|  Y. de Juin - 1902 | Matin | Soir  |
+| --- | --- | --- |
+|  Hauteur Marométrique | 264,4 | 267,2  |
+|  Direction Su vent | or.0.0 | or.0.0  |
+|  Force | 3 | 3  |
+|  Nebulosite | Reg. O. (lire) | 10  |
+|  Nebulosite | Reg. E. (mer) | 10  |
+|  Direction des nuages | or.0.0 | or.0.0  |
+|  Flux tombé |  |   |
+|  Température de l'air | 22,4 | 23,1  |
+|  Hauteur de la mer | 14,8 | 44,3  |
+|  Égrégation de l'eau | 1 foot | 1 faible  |
+|  Densité au bout de la jolie | 1026,1 | 1027,1  |
+|  Température de l'eau | 15,8 | 17,1  |
+
+|  Y. de Juin - 1902 | Matin | Soir  |
+| --- | --- | --- |
+|  Hauteur Marométrique | 266,2 | 267,8  |
+|  Direction Su vent | 0.001 | 0.001  |
+|  Force | 3 | 3  |
+|  Nebulosite | Reg. O. (lire) | 0  |
+|  Nebulosite | Reg. E. (mer) | 2  |
+|  Direction des nuages | 0.001 | or.0.0  |
+|  Flux tombé |  |   |
+|  Température de l'air | 22,4 | 23,0  |
+|  Hauteur de la mer | 11,9 | 47,1  |
+|  Égrégation de l'eau | 1 T. faible | 1  |
+|  Densité au bout de la jolie | 1027,3 | 1027,4  |
+|  Température de l'eau | 19,6 | 19,3  |

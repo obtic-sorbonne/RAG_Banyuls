@@ -1,0 +1,31 @@
+```plaintext
+| **Date**         | **Matin**          | **Soir**          |
+|------------------|--------------------|-------------------|
+| **9 Mars 1904**  |                    |                   |
+| Hauteur Barométrique | 794.7 mm         | 792.8 mm         |
+| Direction du vent   | Sud               | S.S.0            |
+| Force              | 2                 | 1 forte          |
+| Nébulosité (Terre) | Reg. 0. (claire)  | 10 légers        |
+| Nébulosité (Mer)   | Reg. 0. (mer)     | 10               |
+| Direction des nuages | Sud              | N.W. 0           |
+| Pluie tombée       | —                 | —                |
+| Température de l'air | 11.0 °C          | 16.2 °C          |
+| Hauteur de la mer   | 26.3              | 46.2             |
+| Agitation de l'eau  | 3                 | 2                |
+| Densité au bout de la jetée | 1029.7 mm       | 1029.4 mm       |
+| Température de l'eau | 10.6 °C          | 10.6 °C          |
+|                    |                   |                  |
+| **9 Mars 1904**  |                    |                   |
+| Hauteur Barométrique | 794.7 mm         | —                |
+| Direction du vent   | S. 0              | —                |
+| Force              | 1 forte           | —                |
+| Nébulosité (Terre) | Reg. 0. (claire)  | —                |
+| Nébulosité (Mer)   | Reg. 0. (mer)     | —                |
+| Direction des nuages | S. 0              | —                |
+| Pluie tombée       | —                 | —                |
+| Température de l'air | 14.8 °C          | —                |
+| Hauteur de la mer   | 28.6              | —                |
+| Agitation de l'eau  | 1 forte           | —                |
+| Densité au bout de la jetée | 1029.2 mm       | —                |
+| Température de l'eau | 11.6 °C          | —                |
+```

@@ -1,0 +1,17 @@
+# Date à Avril 1902
+
+|  Nom | Date | Type  |
+| --- | --- | --- |
+|  Hauteur Barométrique | 3rd Sour | 3rd Sour  |
+|  Direction du vent | 263.5 | 263.6  |
+|  Force | 3 | 3 for  |
+|  Pédulorite | 10 | 3 for  |
+|  Pédulorite | 10 | 3 for  |
+|  Direction des nuages | 10 | 10  |
+|  Pluie Tombe | 1 | 1  |
+|  Température de l'air | 17.6 | 17.2  |
+|  Hauteur de la mer | 49.4 | 46.6  |
+|  Régulation de l'eau | 1/7 | 1/7  |
+|  Densité de l'eau | 1/22.9 | 1/22.8  |
+|  Densité de l'eau | 1/2 | 1/2  |
+|  Température de l'eau | 14.5 | 14.5  |

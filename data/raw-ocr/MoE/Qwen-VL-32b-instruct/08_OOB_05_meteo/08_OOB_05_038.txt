@@ -1,0 +1,16 @@
+| **Date** | **Heure** | **Haut. Barométrique (mm)** | **Dir. Vent** | **Force du Vent** | **Nébulosité (%)** | **Pluie tombée (mm)** | **Température de l'air (°C)** | **Hauteur de la mer (m)** | **Agitation de l'eau** | **Densité au bout de la jetée (kg/m³)** | **Température de l'eau (°C)** |
+|----------|-----------|-----------------------------|---------------|--------------------|---------------------|-------------------------|----------------------------|------------------------|-----------------------|---------------------------------|------------------------------|
+| 27 Septembre 1905 | Matin | 760.8 | cr.cr.o | is | 40 | - | 13.7 | 48.2 | faible | 1028.3 | 19.4 |
+| 27 Septembre 1905 | Soir | 7/8.8 | s.s.8 | 1 fort | plénière | - | 19.4 | 46.2 | " | 1028.3 | 20./ |
+| 28 Septembre 1905 | Matin | 7/4.6 | s.s.8 | 2 | 20 | 7.87 | 18.8 | 89.1 | 1 jour | 1028.3 | 19.9 |
+| 28 Septembre 1905 | Soir | 7/2.6 | s.0 | 1 fort | 0 | - | 21.3 | 49.3 | 1 jour | 1028.2 | 20.0 |
+
+### Notes :
+- Dir. = Direction
+- Haut. = Hauteur
+- Nébulosité : % de couverture nuageuse
+- Pluie tombée : précipitations mesurées
+- Température de l'air et de l'eau : températures respectives à différentes heures
+- Hauteur de la mer : niveau de la marée
+- Agitation de l'eau : intensité des vagues ou courants
+- Densité au bout de la jetée : densité de l'eau mesurée à un point spécifique

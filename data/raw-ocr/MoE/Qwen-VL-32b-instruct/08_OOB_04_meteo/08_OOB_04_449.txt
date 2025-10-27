@@ -1,0 +1,27 @@
+|  V. 2 Décembre 1904 | Ybatin | Joir  |
+| --- | --- | --- |
+|  Hauteur Marométrique | 3/8.8 | 3/8.3  |
+|  Direction du vent |  | 0.0  |
+|  Force |  | 1 fort  |
+|  (Reg. O. (tome) |  | 10  |
+|  (Reg. X. (mur) |  | 4  |
+|  Direction des mages |  | 1/2  |
+|  Phie tombie |  | 8.9  |
+|  Température de l'air | 9.4 | 21.4  |
+|  Hauteur de la mer | 36.0 | 21.4  |
+|  Régilation de l'eau | 2 | 2  |
+|  Densité au bout de la jeté | 1029.9 | 1028.2  |
+|  Température de l'eau | 11.1 | 11.3  |
+|  V. 3 Décembre 1904 | Ybatin | Joir  |
+|  Hauteur Marométrique | 3/6.4 | 3/8.9  |
+|  Direction du vent |  | 0.0  |
+|  Force |  | 3 fort  |
+|  (Reg. O. (tome) |  | 10  |
+|  (Reg. X. (mur) |  | 10  |
+|  Direction des mages | 0.0 | 0.0  |
+|  Phie tombie | 38.3 | quelques  |
+|  Température de l'air | 8.3 | 10.4  |
+|  Hauteur de la mer |  | 11.3  |
+|  Régilation de l'eau | 4 | 4 faibles  |
+|  Densité au bout de la jeté |  | 1029.2  |
+|  Température de l'eau |  | 14.5  |

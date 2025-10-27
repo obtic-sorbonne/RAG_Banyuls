@@ -1,0 +1,17 @@
+# Salle 11 Janvier 1902
+
+|  | 9th Matin | 3rd Soir |
+| --- | --- | --- |
+| Hauteur Barométrique | 770.2 | 778.0 |
+| Direction du vent | N.N.O | N.N.O |
+| Force | 0 | 0 |
+| Nébulosité { Reg. C. (terre) } | 0 | 0 |
+| Nébulosité { Reg. E. (mer) } | 1 | 0 |
+| Direction des nuages | Nul | Nul |
+| Pluie tombée | - | - |
+| Température de l'air | 7.5 | 8.1 |
+| Hauteur de la mer | 10.0 | 81.0 |
+| Agitation de l'eau | 3 | 0 r. fort |
+| Densité de l'eau { au bout de la jetée } | 1028.0 | 1028.3 |
+| Densité de l'eau { au large } | - | - |
+| Température de l'eau | 11.5 | 11.7 |

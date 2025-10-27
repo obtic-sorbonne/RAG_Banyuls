@@ -1,0 +1,33 @@
+# 1er Avril 1902
+
+## Matin
+
+|  **Kanteur Barométrique** | **760,2**  |
+| --- | --- |
+|  Direction du vent | SE  |
+|  Force | 2 faible  |
+|  **Nébulosité** | **(Reg. O. (verre))** | **0**  |
+|  | **(Reg. E. (mer))** | **0**  |
+|  Direction des nuages | SE  |
+|  Pluie tombée |   |
+|  Température de l'air | 15,8  |
+|  Hauteur de la mer | 14,8  |
+|  Égitation de l'eau | 2  |
+|  Densité au bout de la jetée | 1028,2  |
+|  Température de l'eau | 13,6  |
+
+## Soir
+
+|  **Kanteur Barométrique** | **753,2**  |
+| --- | --- |
+|  Direction du vent | SE  |
+|  Force | 1 faible  |
+|  **Nébulosité** | **(Reg. O. (verre))** | **10**  |
+|  | **(Reg. E. (mer))** | **10**  |
+|  Direction des nuages | N  |
+|  Pluie tombée |   |
+|  Température de l'air | 14,6  |
+|  Hauteur de la mer | 38,0  |
+|  Égitation de l'eau | 1  |
+|  Densité au bout de la jetée | 1027,9  |
+|  Température de l'eau | 13,7  |

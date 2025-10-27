@@ -1,0 +1,37 @@
+```
+V. 12 Juillet. 1902
+
+|  Name | Pension | Soir  |
+| --- | --- | --- |
+|  Hauteur Prorométrique | 758.0 | 757.1  |
+|  Direction du vent | or.0.0 | 7.3  |
+|  Force | 2 | 1 foot  |
+|  Nébulosité | 1 Seg. ente | 0  |
+|  Reg. O. (terre) |  |  |
+|  Reg. E. (mer) | 3 | 1  |
+|  Direction des images | or.0.0 | 0  |
+|  Pluie tombée |  |  |
+|  Température de l'air | 21.0 | 24.0  |
+|  Hauteur de la mer | 15.3 | 14.8  |
+|  Agitation de l'eau | 2 | 10 foot  |
+|  Densité au bout de la jetée | 1026.7 | 1026.7  |
+|  Température de l'eau | 21.3 | 21.7  |
+
+V. 17 Juillet. 1902
+
+|  Name | Pension | Soir  |
+| --- | --- | --- |
+|  Hauteur Prorométrique | 754.7 | 753.2  |
+|  Direction du vent | 2.7.2 | or.0.0  |
+|  Force | 1 | 1  |
+|  Nébulosité | Seg. ente | 10  |
+|  Reg. O. (terre) |  |  |
+|  Reg. E. (mer) | 10 | 0  |
+|  Direction des images | or.0.0 |  |
+|  Pluie tombée |  |  |
+|  Température de l'air | 22.6 | 22.4  |
+|  Hauteur de la mer | 11.0 | 41.0  |
+|  Agitation de l'eau | 0 | 0  |
+|  Densité au bout de la jetée | 1025.6 | 1025.6  |
+|  Température de l'eau | 24.1 | 23.4  |
+```

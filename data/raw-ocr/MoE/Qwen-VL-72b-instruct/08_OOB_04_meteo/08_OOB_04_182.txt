@@ -1,0 +1,29 @@
+| Date       |           | Matin         |                     |  | Soir       |                     |
+|------------|-----------|---------------|---------------------|---|------------|---------------------|
+| V. 22 Janvier. 1903 | Hauteur Barométrique | 767.3 |             | | 767.5 |             |
+|             | Direction du vent | er. cr. 0 |               | | er. 8 |               |
+|             | Force | 1/2 faible |               | | 1/2 faible |             |
+|             | Reg. 6. (classe) | 3 légère |             | | 1 |               |
+|             | Nébulosité | |                 | | 1 |               |
+|             | (Reg. E. (mer)) | |                 | | |               |
+|             | Direction des nuages | Courant |             | | cr. 8 |             |
+|             | Pluie tombée | " |                 | | " |               |
+|             | Température de l'air | 8.8 |                 | | 10.0 |             |
+|             | Hauteur de la mer | 47.3 |                 | | 44.4 |             |
+|             | Agitation de l'eau | 3 |                 | | 2 |               |
+|             | Densité au bout de la jète | 1027.0 |           | | 1029.3 |           |
+|             | Température de l'eau | 10.9 |               | | 10.7 |             |
+|------------|-----------|---------------|---------------------|---|------------|---------------------|
+| V. 23 Janvier. 1903 | Hauteur Barométrique | 767.6 | |               | 767.2 |                     |
+|             | Direction du vent | Ouest | |               | cr. cr. 0 |                     |
+|             | Force | 1/2 faible | |               | 1/2 faible |                     |
+|             | (Reg. 6. (clase)) | 10 | |               | 10 |                         |
+|             | Nébulosité | | |               | 10 |                         |
+|             | (Reg. E. (mer)) | | |               | 10 |                         |
+|             | Direction des nuages | Cour. cr. 0 | |               | Cour. cr. 0 |                     |
+|             | Pluie tombée | | |               | quelques g |                     |
+|             | Température de l'air | 6.9 | |               | 10.6 |                     |
+|             | Hauteur de la mer | 48.6 | |               | 46.9 |                     |
+|             | Agitation de l'eau | 1 | |               | 2 |                         |
+|             | Densité au bout de la jète | 1027.1 | |               | 1024.9 |                     |
+|             | Température de l'eau | 9.6 | |               | 9.9 |                         |

@@ -1,0 +1,29 @@
+|  4. 24 Septembre 1907 | Moatin | Soir  |
+| --- | --- | --- |
+|  Hauteur Wavornetrique | 404,8 | 405,3  |
+|  Direction du Vent | 1.8 | 1.8  |
+|  Force | 1 foot | 1 foot  |
+|  (Reg. a. Chine) | 10 | 10  |
+|  Mébubonité | 10 | 10  |
+|  (Reg. K.-Cour) | 10 | 10  |
+|  Direction des mages | 28,4 | 24,4  |
+|  Flue Vombeé | 28,4 | 24,3  |
+|  Demporature de l'air | 46,4 | 14,3  |
+|  Hauteur de la mer | 1 | 1  |
+|  (Agitation de l'eau) | 1084,4 | 1084,2  |
+|  Densité au bout de la jetée | 20,4 | 21,1  |
+|  Demporature de l'eau | 20,4 | 21,1  |
+|  4. 25 Septembre 1907 | Moatin | Soir  |
+|  Hauteur Wavornetrique | 400,3 | 419,8  |
+|  Direction du Vent | 2 foot | 2 foot  |
+|  Force | 2 foot | 1 foot  |
+|  (Reg. G. Chine) | 2 | 2  |
+|  Mébubonité | 2 | 1  |
+|  (Reg. K.-Cour) | 50 | 50  |
+|  Direction des mages | 51,0 | 51,0  |
+|  Flue Vombeé | 21,4 | 24,2  |
+|  Demporature de l'air | 25,3 | 43,1  |
+|  Hauteur de la mer | 46,4 | 46,4  |
+|  (Agitation de l'eau) | 1084,4 | 1084,4  |
+|  Densité au bout de la jetée | 20,0 | 19,6  |
+|  Demporature de l'eau |  |   |

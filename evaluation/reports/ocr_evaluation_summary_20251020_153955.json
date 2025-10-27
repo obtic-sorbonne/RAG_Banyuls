@@ -1,0 +1,101 @@
+{
+  "total_files": 109,
+  "total_ref_characters": 28391,
+  "total_hyp_characters": 32179,
+  "total_ref_words": 5234,
+  "total_hyp_words": 5885,
+  "total_char_errors": 12060,
+  "total_word_errors": 2611.0,
+  "total_substitutions": 3156,
+  "total_deletions": 2558,
+  "total_insertions": 6346,
+  "evaluation_date": "2025-10-20T15:39:55.591511",
+  "page_level": {
+    "avg_cer": 0.38382278566271677,
+    "avg_wer": 0.5767538273695536,
+    "median_cer": 0.3275862068965517,
+    "median_wer": 0.5714285714285714,
+    "std_cer": 0.22113522792389342,
+    "std_wer": 0.22344837567166953,
+    "avg_char_accuracy": 0.6161772143372833,
+    "avg_word_accuracy": 0.42324617263044634
+  },
+  "weighted_metrics": {
+    "weighted_cer": 0.42478250149695324,
+    "weighted_wer": 0.4988536492166603,
+    "weighted_char_accuracy": 0.5752174985030467,
+    "weighted_word_accuracy": 0.5011463507833397,
+    "total_char_errors": 12060,
+    "total_ref_chars": 28391,
+    "total_word_errors": 2611.0,
+    "total_ref_words": 5234
+  },
+  "primary_metrics": {
+    "cer": 0.42478250149695324,
+    "wer": 0.4988536492166603,
+    "char_accuracy": 0.5752174985030467,
+    "word_accuracy": 0.5011463507833397
+  },
+  "book_statistics": [
+    {
+      "book": "05_OOB_04_log",
+      "weighted_cer": 0.30631007104053487,
+      "weighted_wer": 0.5603015075376885,
+      "avg_cer": 0.3580864865423238,
+      "avg_wer": 0.5866152989665377,
+      "page_count": 17,
+      "total_ref_chars": 2393,
+      "total_ref_words": 398
+    },
+    {
+      "book": "05_OOB_05_log",
+      "weighted_cer": 0.2828122848092549,
+      "weighted_wer": 0.41436265709156195,
+      "avg_cer": 0.3102651250128842,
+      "avg_wer": 0.4399044615394553,
+      "page_count": 26,
+      "total_ref_chars": 14522,
+      "total_ref_words": 2785
+    },
+    {
+      "book": "05_OOB_06_log",
+      "weighted_cer": 0.13916083916083916,
+      "weighted_wer": 0.3372093023255814,
+      "avg_cer": 0.21135001295377345,
+      "avg_wer": 0.4206460904507877,
+      "page_count": 5,
+      "total_ref_chars": 1430,
+      "total_ref_words": 258
+    },
+    {
+      "book": "05_OOB_02_log",
+      "weighted_cer": 1.2536327608982827,
+      "weighted_wer": 0.7514880952380952,
+      "avg_cer": 0.5043992703553839,
+      "avg_wer": 0.7514223267851686,
+      "page_count": 21,
+      "total_ref_chars": 3785,
+      "total_ref_words": 672
+    },
+    {
+      "book": "05_OOB_03_log",
+      "weighted_cer": 0.3842616249361267,
+      "weighted_wer": 0.5597826086956522,
+      "avg_cer": 0.3767335627169437,
+      "avg_wer": 0.5531604714632715,
+      "page_count": 16,
+      "total_ref_chars": 1957,
+      "total_ref_words": 368
+    },
+    {
+      "book": "05_OOB_01_log",
+      "weighted_cer": 0.354089219330855,
+      "weighted_wer": 0.5790172642762285,
+      "avg_cer": 0.4168936820824419,
+      "avg_wer": 0.613438510111231,
+      "page_count": 24,
+      "total_ref_chars": 4304,
+      "total_ref_words": 753
+    }
+  ]
+}

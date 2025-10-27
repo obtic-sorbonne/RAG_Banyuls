@@ -1,0 +1,33 @@
+# 27 9thai-1902
+
+|  Name | Date | Type  |
+| --- | --- | --- |
+|  Xantaw Praxometrique | 7.11.14 | 7.14.14  |
+|  Direction du vent | cr.ct. | 7.15  |
+|  Force | 1/7/2016 | 1/7/20  |
+|  P. Reg. O. (terre) |  |   |
+|  P. Reg. O. (mur) |  |   |
+|  Direction des mages | cr.ct. | 1/1  |
+|  M. M. Tombes |  |   |
+|  Rempliration de l'air | 21.4 | 24.0  |
+|  M. M. Tombes de la mer | 15.1 | 62.9  |
+|  Régulation de l'eau | 17/7/2016 | 17/7/20  |
+|  Densité au bout de la fête | 1028.1 | 1027.1  |
+|  Rempliration de l'eau | 16.7 | 19.5  |
+
+# 28 9thai-1902
+
+|  Name | Date | Type  |
+| --- | --- | --- |
+|  Xantaw Praxometrique | 7.11.14 | 7.14.14  |
+|  Direction du vent | fr. | 7.15  |
+|  Force | 1/7/2016 | 1/7/20  |
+|  P. Reg. O. (terre) |  |   |
+|  P. Reg. O. (mur) |  |   |
+|  Direction des mages | fr. | 7.15  |
+|  M. M. Tombes |  |   |
+|  Rempliration de l'air | 16.1 | 17.1  |
+|  M. M. Tombes de la mer | 11.1 | 11.2  |
+|  Régulation de l'eau | 2 | 2  |
+|  Densité au bout de la fête | 1028.2 | 1027.6  |
+|  Rempliration de l'eau | 11.0 | 11.7  |

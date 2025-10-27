@@ -1,0 +1,28 @@
+|  V. 8 Septembre 1906 | Maitre | Soir  |
+| --- | --- | --- |
+|  Hauteur Barométrique | 202.8 |   |
+|  Direction du vent |  | 2.5  |
+|  Force |  | 2  |
+|  Mébulorité | (Reg. c. (1ère)) | 0  |
+|  (Reg. F. (nur)) |  | 3 Reg. c.c.  |
+|  Direction des nuages |  | 1.5  |
+|  Pluie Toméee |  | 30.1  |
+|  Température de l'air |  | 16.8  |
+|  Hauteur de la mer |  | 1.8  |
+|  (Agitation de l'eau) |  |   |
+|  Densité au bout de la jetée |  | 102.0  |
+|  (Dempotance de l'eau) |  | 23.8  |
+|  V. 11 Septembre 1906 | Maitre | Soir  |
+|  Hauteur Barométrique | 213.8 |   |
+|  Direction du vent | or.0.0 |   |
+|  Force |  | 2  |
+|  Mébulorité | (Reg. c. (1ère)) | 0  |
+|  (Reg. F. (nur)) |  | 0  |
+|  Direction des nuages | or.0.0 |   |
+|  Pluie Toméee |  | 2  |
+|  Température de l'air |  | 21.0  |
+|  Hauteur de la mer |  | 149.2  |
+|  (Agitation de l'eau) |  |   |
+|  Densité au bout de la jetée |  | 3 fort  |
+|  (Dempotance de l'eau) |  | 102.1  |
+|  (28.5) |  |   |

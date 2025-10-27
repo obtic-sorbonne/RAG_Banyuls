@@ -1,0 +1,18 @@
+| **Observation**                 | **Valeur**    |
+|-------------------------------|---------------|
+| **Date**                       | 10 Novembre 1901 |
+| **Heure**                      | 9H Malin | 3H Soir |
+| **Hauteur Barométrique**       | 764.8 | --- |
+| **Direction du vent**          | N.N.O. | --- |
+| **Force**                      | T. fort | --- |
+| **Nébulosité**                 | Reg. O. (claire) | 0 |
+|                               | Reg. E. (mar) | 0 |
+| **Direction des nuages**       | --- | --- |
+| **Pluie tombée**               | --- | --- |
+| **Température de l'air**      | 10.5°C | --- |
+| **Hauteur de la mer**          | --- | 1027.3 |
+| **Agitation de l'eau**         | --- | 2 |
+| **Densité de l'eau**           | --- | --- |
+| **au bout de la jetée**       | --- | --- |
+| **au Large**                  | --- | --- |
+| **Température de l'eau**      | --- | 15.4°C |

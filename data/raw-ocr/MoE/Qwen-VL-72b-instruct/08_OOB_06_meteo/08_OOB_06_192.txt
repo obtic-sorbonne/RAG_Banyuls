@@ -1,0 +1,45 @@
+| OBSERVATIONS DU 1901 2 Septembre |
+| --- |
+| Nombre de bateaux sortis (pêche à l...) |  |
+| Température de l'air | maxima depuis la veille | 29.6 |
+|  | minima id. | 20.9 |
+| Température de l'eau | maxima depuis la veille |  |
+|  | minima id. |  |
+| Pluie tombée depuis la veille, en millim. | " |  |
+| Evaporation depuis le 1901, en millim. | 190 |  |
+|  | à 9 h. m. | à 3 h. s. |
+| Direction du vent (à terre) | NE |  |
+| Force | 1 |  |
+| Direction des nuages | Sud |  |
+| Nebulosité | région Ouest (terre) | 10 |  |
+|  | id. Est (mer) | 10 |  |
+| Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.) | 40.9 |  |
+| Agitation de l'eau | 1 foot |  |
+| Densité de l'eau au bout de la jetée | 1025.7 |  |
+| Température id. | 24.7 |  |
+| - i教室 Matin (Maxima) | 34.3 |  |
+| - i教室 (Minima) | 18.8 |  |
+
+| **OBSERVATIONS DU 1901 4 Septembre** |
+| --- |
+| Nombre de bateaux sortis (pêche à l...) |  |
+| Température de l'air | maxima depuis la veille | 30.3 |
+|  | minima id. | 19.3 |
+| Température de l'eau | maxima depuis la veille |  |
+|  | minima id. |  |
+| Pluie tombée depuis la veille, en millim. | " |  |
+| Evaporation depuis le 22 Août 1901, en millim. | 72.7/" |  |
+|  | à 9 h. m. | à 3 h. s. |
+| Direction du vent (à terre) | SSE | SSE |
+| Force | 1 foot | 1 foot |
+| Direction des nuages | r | r |
+| Nebulosité | région Ouest (terre) | 0 | 0 |
+|  | id. Est (mer) | 0 | 0 |
+| Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.) | 41.6 | 42.2 |
+| Agitation de l'eau | 1 foot | 1 |
+| Densité de l'eau au bout de la jetée | 1026.0 | 1025.9 |
+| Température id. | 24.3 | 28.4 |
+| - i教室 Balum Matin et Soir | 27.0 | 31.0 |
+| - i教室 Barrre Matin (Maxima) | 41.2 | 34.5 |
+| - i教室 (Minima) | 17.1 | 27.0 |
+| - i教室 soir (maxima) |  |  |

@@ -1,0 +1,6 @@
+2025-08-19 15:13:49,368 - INFO - Initialized LLM Judge with model: qwen2.5-72b-instruct
+2025-08-19 15:13:49,368 - INFO - Processing book: 08_OOB_05_meteo | Type: meteo
+2025-08-19 15:36:55,775 - INFO - Completed 08_OOB_05_meteo with 105 pages
+2025-08-19 15:36:55,777 - INFO - Processing book: 05_OOB_04_log | Type: log
+2025-08-19 15:48:05,570 - INFO - Completed 05_OOB_04_log with 153 pages
+2025-08-19 15:48:05,572 - INFO - Finished! Total pages curated: 258

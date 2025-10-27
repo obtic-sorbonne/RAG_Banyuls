@@ -1,0 +1,16 @@
+| **Élément**                         | **Valeur**         | **Heure** |
+|-----------------------------------|--------------------|-----------|
+| Date                               | 16 Mai 1901       |           |
+| H. Barométrique                   | 761.2             |           |
+| Direction du vent                 | S. E              |           |
+| Force                             | 1T. Foible        |           |
+| Nébulosité                        | **Reg. 6. (lèvre)** | 0        |
+|                                   | **Reg. E. (mur)** | 0        |
+| Direction des nuages              | -                 |           |
+| Pluie tombée                      | -                 |           |
+| Température de l'air              | 16.9              |           |
+| Hauteur de la mer                 | 56.4              |           |
+| Agitation de l’eau                | 0                 |           |
+| Densité de l’eau                  | **Au bout de la jetée** | 1028.2 |
+|                                   | **Au large**      |           |
+| Température de l’eau              | 16.6              |           |

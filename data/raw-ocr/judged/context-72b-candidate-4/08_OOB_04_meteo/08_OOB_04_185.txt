@@ -1,0 +1,15 @@
+```plaintext
+# 28 Janvier. 1903
+
+|  Heure | Hauteur Barométrique | Direction du Vent | Force | Nébulosité (Reg. O. (terre)) | Nébulosité (Reg. E. (mer)) | Direction des nuages | Pluie Tombée | Température de l'air | Hauteur de la mer | Agitation de l'eau | Densité au bout de la jetée | Température de l'eau |
+|--------|-----------------------|-------------------|-------|-----------------------------|-----------------------------|----------------------|--------------|----------------------|-------------------|---------------------|-----------------------------|----------------------|
+|  Matin | 772.4                | O. S. O           | 1     | 1                           | 1                           | 6.9.0                | -            | 8.2                 | 60.2             | 1 (faible)          | 1028.0                     | 10.9                |
+|  Soir  | 771.1                | cv. cv.           | 1     | 0                           | 0                           | -                    | -            | 11.4                | 72.2             | 1 (faible)          | 1027.6                     | 10.6                |
+
+# 30 Janvier. 1903
+
+|  Heure | Hauteur Barométrique | Direction du Vent | Force | Nébulosité (Reg. O. (terre)) | Nébulosité (Reg. E. (mer)) | Direction des nuages | Pluie Tombée | Température de l'air | Hauteur de la mer | Agitation de l'eau | Densité au bout de la jetée | Température de l'eau |
+|--------|-----------------------|-------------------|-------|-----------------------------|-----------------------------|----------------------|--------------|----------------------|-------------------|---------------------|-----------------------------|----------------------|
+|  Matin | 774.6                | cv. cv.           | 1.5   | 0                           | 0                           | cv. cv. o            | -            | 12.0                | 98.1             | 1 (faible)          | 1028.0                     | 10.6                |
+|  Soir  | 773.7                | cv. cv. o         | 2     | 0                           | 0                           | -                    | -            | 13.4                | 74.1             | 1 (faible)          | 1027.9                     | 11.8                |
+```

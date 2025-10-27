@@ -1,0 +1,51 @@
+| **Observations du 1902, 8 Mars** |  |  |
+| --- | --- | --- |
+| Nombre de bateaux sortis (pêche à l…) |  | **14.9** |
+| Température de l'air | maxima depuis la veille | **14.9** |
+|  | minima id. | **7.2** |
+| Température de l'eau | maxima depuis la veille |  |
+|  | minima id. |  |
+| Pluie tombée depuis la veille, en millim. |  | **1** |
+| Évaporation depuis le 190_, en millim. |  |  |
+|  | **à 9 h. m.** | **à 3 h. s.** |
+| Direction du vent (à terre) |  | **Nord** | **S. S. E.** |
+| Force |  | **1 Fort** | **1 Fort** |
+| Direction des nuages |  |  |  |
+| Nébulosité | région Ouest (terre) | **2** | **10** |
+|  | id. Est (mer) | **2** | **10** |
+| Hauteur de la mer, en centimètres, au-dessus du zéro (B. R.) |  | **46.7** |  |
+| Agitation de l'eau |  | **1 Fort** | **1** |
+| Densité de l'eau au bout de la jetée |  | **1023.3** | **1027.4** |
+| Température | id. | **12.0** | **12.6** |
+|  | -  |
+| **- 15.** | **Jenne ** | **Maxima** | **17.3** |
+| **22.9** | **Matin** | **Minima** | **4.8** |
+|  | **- 15.** | **Jenne** | **Maxima** | **23.0** |
+|  | **- 15.** | **Matin** | **Minima** | **4.9** |
+|  | **- 15.** | **Filet à huîtres** | **Maxima** | **21.3** |
+|  | **- 15.** | **Filet à huîtres** | **Minima** | **12.2** |
+
+| **Observations du 1902, 11 Mars** |  |  |
+| --- | --- | --- |
+| Nombre de bateaux sortis (pêche à l…) |  | **13.5** |
+| Température de l'air | maxima depuis la veille | **12.9** |
+|  | minima id. | **7.1** |
+| Température de l'eau | maxima depuis la veille |  |
+|  | minima id. |  |
+| Pluie tombée depuis la veille, en millim. |  | **quelques gouttes** |
+| Évaporation depuis le 190_, en millim. |  |  |
+|  | **à 9 h. m.** | **à 3 h. s.** |
+| Direction du vent (à terre) |  | **N. N. O.** | **N. E.** |
+| Force |  | **1 Fort** | **1 Fort** |
+| Direction des nuages |  | **N. N. O.** | **Ouest** |
+| Nébulosité | région Ouest (terre) | **2** | **4** |
+|  | id. Est (mer) | **2** | **9** |
+| Hauteur de la mer, en centimètres, au-dessus du zéro (B. R.) |  | **29.7** | **32.0** |
+| Agitation de l'eau |  | **1** | **1 Fort** |
+| Densité de l'eau au bout de la jetée |  | **1027.9** | **1027.6** |
+| Température | id. | **12.3** | **12.2** |
+|  | -  |
+| **- 15.** | **Jenne** | **Maxima** | **23.0** |
+| **22.9** | **Matin** | **Minima** | **4.9** |
+|  | **- 15.** | **Matin** | **Maxima** | **21.3** |
+|  | **- 15.** | **Matin** | **Minima** | **12.2** |

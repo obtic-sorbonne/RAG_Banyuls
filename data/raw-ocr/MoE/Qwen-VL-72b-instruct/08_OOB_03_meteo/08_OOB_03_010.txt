@@ -1,0 +1,19 @@
+| **Date** | 30 Septembre 1901 |
+| --- | --- |
+| **Observations** | **9 h Matin** | **3 h Soir** |
+| --- | --- | --- |
+| Hauteur Barométrique | 769.4 |  |
+| Direction du vent | Nord | S.S.E. |
+| Force | 1 | 1 T. faible | 1 T. fort |
+| Région | Rég. 0. (Clere) | 10 | 10 |
+| Région | Rég. E. (mer) | 10 | 10 |
+| Nébulosité |  |  |  |
+| Direction des nuages | Sud | Sud |
+| Pluie tombée | 0."072 | 0."011 |
+| Température de l'air | 18.6 | 19.4 |
+| --- | --- | --- |
+| Hauteur de la mer | 34.7 | 48.8 |
+| Agitation de l'eau | 3 fort | 3 fort |
+| Densité de l'eau | au bout de la jetée | 1027.5 | 1027.0 |
+| au Large |  |  |
+| Température de l'eau | 17.7 | 18.0 |

@@ -1,0 +1,25 @@
+```plaintext
+Sortie du 19 janvier 1909
+
+Départ de Port-Vendres à 8 heures du matin pour Fontainhas. Arrivée à 10h matin.
+
+Départ de Fontainhas à 2h45 heures du soir pour Banyuls. Arrivée à 4h10.
+
+Départ de Banyuls à 8 heures du matin pour le mouillage. Arrivée au mouillage à 10h.
+
+État du temps : à 9h Calme.
+
+Passagers à bord : M^r^ Pirot Jeannin.
+
+Objet de la sortie : Pour pêcher de chez Rech Lacaze.
+
+Consommation
+{ 70 briquettes de 6 Poids en Kilos 420
+  4 huile Total en litres 4
+
+Dépenses
+
+Observations : à 11h du matin nous tournons pour 380°
+Dépins. Saléme del Gabach par la montagne de St. Antoine (celle du milieu dans le groupe de la chaîne nur Colobre).
+Puig del Gaillino, par la tour de midi St. Elme par le phare de Port-Vendres, Les deux Doigts de Calaguiri bien rentrés par la montagne de Pagny.
+```

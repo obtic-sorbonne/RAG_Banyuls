@@ -1,0 +1,41 @@
+OBSERVATIONS DU 1980 29 ybre
+
+| Nombre de bateaux sortis (pêche à l |  |  |
+| --- | --- | --- |
+| Température de l'air | maxima depuis la veille | 22.8 |
+|  | minima id. | 16.0 |
+| Température de l'eau | maxima depuis la veille |  |
+|  | minima id. |  |
+| Pluie tombée depuis la veille, en millim. |  | quelque |
+| Evaporation depuis le 190, en millim. |  |  |
+|  | à 9 h. m. | à 3 h. s. |
+| Direction du vent (à terre) |  |  |
+| Force |  | 0 | 1 |
+| Direction des nuages |  | S.S.O |  |
+| Nébulosité | région Ouest (terre) | 10 | 10 |
+|  | id. Est (mer) | 10 | 10 |
+| Hauteur de la mer, en centimètres, au-dessus du zéro. (C.R.) |  | 43.4 | 31.2 |
+| Agitation de l'eau |  | 1 | 1 |
+| Densité de l'eau au bout de la jetée |  | 627.9 | 628.0 |
+| Température id. |  | 17.0 | 17.0 |
+
+OBSERVATIONS DU 1980 30 ybre
+
+| Nombre de bateaux sortis (pêche à l |  |  |
+| --- | --- | --- |
+| Température de l'air | maxima depuis la veille | 22.4 |
+|  | minima id. | 15.4 |
+| Température de l'eau | maxima depuis la veille |  |
+|  | minima id. |  |
+| Pluie tombée depuis la veille, en millim. |  |  |
+| Evaporation depuis le 190, en millim. |  |  |
+|  | à 9 h. m. | à 3 h. s. |
+| Direction du vent (à terre) |  |  |
+| Force |  | 0 | 1 |
+| Direction des nuages |  | S.S.O |  |
+| Nébulosité | région Ouest (terre) | 10 | 10 |
+|  | id. Est (mer) | 10 | 10 |
+| Hauteur de la mer, en centimètres, au-dessus du zéro. (C.R.) |  | 39.9 | 38.0 |
+| Agitation de l'eau |  | 1 | 1 |
+| Densité de l'eau au bout de la jetée |  | 628.8 | 628.3 |
+| Température id. |  | 17.2 | 18.4 |

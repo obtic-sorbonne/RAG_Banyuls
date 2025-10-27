@@ -1,0 +1,55 @@
+```plaintext
+### OBSERVATIONS DU 1901 9 SEPTEMBRE
+
+| **Nombre de bateaux sortis (pêche à l')** | 31,3 |
+| **Température de l'air** |  |  |
+| – maxima depuis la veille | 31,3 |  |
+| – minima id. | 19,9 |  |
+| **Température de l'eau** |  |  |
+| – maxima depuis la veille |  |  |
+| – minima id. |  |  |
+| **Pluie tombée depuis la veille, en millim.** | 11 |  |
+| **Evaporation depuis le 1901, en millim.** |  |  |
+| **Direction du vent (à terre)** | **à 9 h. m.** | **à 3 h. s.** |
+| – Force | 1 | 1 |
+| – Direction des nuages |  |  |
+| **Nébulosité** |  |  |
+| – région Ouest (terre) | 0 | 0 |
+| – id. Est (mer) | 0 | 0 |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.)** | 39,7 | 34,4 |
+| **Agitation de l'eau** | 1 T faible | 1 faible |
+| **Densité de l'eau au bout de la jetée** | 102,9/5 | 102,54 |
+| **Température** |  |  |
+| – id. | 24,4 | 26,0 |
+| – 15 Balanc Matin | 27,8 |  |
+| – 15 Terrane Matin | 31,9 | 17,4 |
+| – 15 Terrane Loir | 39,7 | 26,8 |
+| – maxima | 39,7 |  |
+| – minima | 26,8 |  |
+
+### OBSERVATIONS DU 1901 11 SEPTEMBRE
+
+| **Nombre de bateaux sortis (pêche à l')** | 34,6 |
+| **Température de l'air** |  |  |
+| – maxima depuis la veille | 34,6 |  |
+| – minima id. | 20,7 |  |
+| **Température de l'eau** |  |  |
+| – maxima depuis la veille |  |  |
+| – minima id. |  |  |
+| **Pluie tombée depuis la veille, en millim.** |  |  |
+| **Evaporation depuis le 4 Septembre 1901, en millim.** | 41,7 |
+| **Direction du vent (à terre)** | **à 9 h. m.** | **à 3 h. s.** |
+| – Force | 1 | 2 |
+| – Direction des nuages | S.S.E. | S.S.E. |
+| **Nébulosité** |  |  |
+| – région Ouest (terre) | 4 (léger) | 6 |
+| – id. Est (mer) | 4 (léger) | 6 |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.)** | 25,3 | 38,8 |
+| **Agitation de l'eau** | 1 (faible) | 1 (faible) |
+| **Densité de l'eau au bout de la jetée** | 1,029,6 | 1,029,6 |
+| **Température id.** | 25,1 | 25,2 |
+| – 15 heures Bals. |  | 30,8 |
+| – 15 heures Matin |  | 41,8 |
+| – 15 heures Minima |  | 17,9 |
+| – 15 heures Soir |  | 26,1 |
+```

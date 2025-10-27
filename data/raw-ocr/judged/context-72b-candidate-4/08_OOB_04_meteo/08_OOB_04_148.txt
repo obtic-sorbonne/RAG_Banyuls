@@ -1,0 +1,15 @@
+```plaintext
+# V. 28 Octobre 1902
+
+| Heure | Hauteur Barométrique | Direction du Vent | Force | Nébulosité | Direction des nuages | Pluie Tombée | Température de l'air | Hauteur de la mer | Agitation de l'eau | Densité au bout de la jetée | Température de l'eau |
+|-------|-----------------------|-------------------|-------|------------|----------------------|--------------|----------------------|-------------------|-------------------|-----------------------------|----------------------|
+| Matin | 762.4                | cr. cr. o         | 4     | Reg. O. (Clair) | cr. cr. o            |              | 14.4                 | 9.8               | 3 fort            | 1028.7                      | 19.2                 |
+| Soir  |                      |                   |       | Reg. 6. (mer)   |                      |              |                      |                   |                    |                            |                      |
+
+# V. 29 Octobre 1902
+
+| Heure | Hauteur Barométrique | Direction du Vent | Force | Nébulosité | Direction des nuages | Pluie Tombée | Température de l'air | Hauteur de la mer | Agitation de l'eau | Densité au bout de la jetée | Température de l'eau |
+|-------|-----------------------|-------------------|-------|------------|----------------------|--------------|----------------------|-------------------|-------------------|-----------------------------|----------------------|
+| Matin | 760.6                | cr. cr. o         | 4     | Reg. O. (Clair) | cr. cr. o            |              | 12.9                 | 44.8              | 3 fort            | 1029.3                      | 16.2                 |
+| Soir  |                      |                   |       | Reg. 6. (mer)   |                      |              |                      |                   |                    |                            |                      |
+```

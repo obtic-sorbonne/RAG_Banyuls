@@ -1,0 +1,26 @@
+| Date       | Matin | Soir |
+|------------|-------|------|
+| V. 11 Février 1907 |       |      |
+| Hauteur Barométrique | 797.6 | 798.3 |
+| Direction du vent | cr.o | cr.o |
+| Force | 1 fort | 1 fort |
+| Nébulosité | Res. 0 (terre) | 0 |
+| Direction des nuages | cr.cr.o | cr.cr.o |
+| Pluie tombée | quelques g | quelques g |
+| Température de l'air | 9.8 | 11.7 |
+| Hauteur de la mer | 49.3 | 56.7 |
+| Agitation de l'eau | 1 | 1 fort |
+| Densité au bout de la jetée | 1029.4 | 1029.3 |
+| Température de l'eau | 10.8 | 10.6 |
+| V. 23 Février 1907 |       |      |
+| Hauteur Barométrique | 799.0 | 798.3 |
+| Direction du vent | cr.o | cr.o |
+| Force | 0 | 1 fort |
+| Nébulosité | Res. 0 (terre) | 10 légère | 10 légère |
+| Direction des nuages | cr.o | cr.o |
+| Pluie tombée | " | " |
+| Température de l'air | 8.3 | 12.9 |
+| Hauteur de la mer | 12.0 | 11.0 |
+| Agitation de l'eau | 1 | 1 fort |
+| Densité au bout de la jetée | 1029.4 | 1029.4 |
+| Température de l'eau | 10.6 | 11.0 |

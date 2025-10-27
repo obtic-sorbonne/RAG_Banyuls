@@ -1,0 +1,33 @@
+# 13 Septembre 1902
+
+|  Name | Position | Voir  |
+| --- | --- | --- |
+|  Hauteur Maronnetrique | 782.3 | 781.4  |
+|  Direction du vent | cr.or.o | cror  |
+|  Force | 2 faible | 3 faible  |
+|  Nébulosité | 0 | 3  |
+|  Rég. E. (mor) |  |   |
+|  Direction des nuages | cr.or.o | cror  |
+|  Unité tombé | 2.2/0 |   |
+|  Température de l'air | 21.0 | 28.3  |
+|  Hauteur de la mer | 49.4 | 38.8  |
+|  Égitation de l'eau | 2 | 3  |
+|  Densité au bout de la jeté | 1026.4 | 1026.3  |
+|  Température de l'eau | 22.3 | 22.4  |
+
+# 14 Septembre 1902
+
+|  Name | Position | Voir  |
+| --- | --- | --- |
+|  Hauteur Maronnetrique | 784.3 |   |
+|  Direction du vent | cr.or.o |   |
+|  Force | 15 | 4  |
+|  Nébulosité | 0 |   |
+|  Rég. E. (mor) |  |   |
+|  Direction des nuages | cr.or.o |   |
+|  Unité tombé | 18.4 |   |
+|  Température de l'air | 18.4 |   |
+|  Hauteur de la mer | 10.1 |   |
+|  Égitation de l'eau | 3 fort |   |
+|  Densité au bout de la jeté | 1027.4 |   |
+|  Température de l'eau | 21.4 |   |

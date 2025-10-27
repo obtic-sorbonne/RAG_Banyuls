@@ -1,0 +1,11 @@
+```markdown
+# 8 Février 1908
+
+| **Hauteur de la mer à différentes heures** |
+|-------------------------------------------|
+| **Heure** | **Lieu** | **Métrique (m)** |
+| 6h        | au puissant | 0.89 |
+|           | au bassin Radaoù | 0.74 |
+| Midi      | au puissant | 0.73 |
+|           | bassin de Radaoù | 0.77 |
+```

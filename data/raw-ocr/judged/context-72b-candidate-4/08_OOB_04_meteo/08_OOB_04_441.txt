@@ -1,0 +1,6 @@
+```plaintext
+| Date | Matin | Soir |
+|---|---|---|
+| V. 10 Novembre 1904 | Hauteur Barométrique<br>Direction du vent<br>Force is<br>Nébulosité Reg. O. (terre)<br>Reg. E. (mer)<br>Direction des nuages<br>Pluie Tombée<br>Température de l'air<br>Hauteur de la mer<br>Agitation de l'eau<br>Densité au bout de la jetée<br>Température de l'eau | 768.0<br>cr.cr.o<br>3<br>10<br>10<br>cr.o<br>"<br>18.5<br>71.5<br>2 fort.<br>1029.0<br>17.0 | 766.6<br>cr.N.o<br>2 fort.<br>0<br>1<br>cr.o<br>"<br>20.8<br>70.5<br>2 fort.<br>1028.6<br>16.8 |
+| V. 11 Novembre 1904 | Hauteur Barométrique<br>Direction du vent<br>Force is<br>Nébulosité Reg. O. (terre)<br>Reg. E. (mer)<br>Direction des nuages<br>Pluie Tombée<br>Température de l'air<br>Hauteur de la mer<br>Agitation de l'eau<br>Densité au bout de la jetée<br>Température de l'eau | -<br>-<br>-<br>-<br>-<br>-<br>-<br>-<br>-<br>-<br>-<br>- | 767.2<br>cr.cr.o<br>1 fort.<br>0<br>2<br>"<br>"<br>20.0<br>76.6<br>1 fort.<br>1028.6<br>17.8 |
+```

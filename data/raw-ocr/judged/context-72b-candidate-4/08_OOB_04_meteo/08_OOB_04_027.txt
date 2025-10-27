@@ -1,0 +1,31 @@
+```plaintext
+| **Date**              | **Matin** | **Soir** |
+|-----------------------|-----------|----------|
+| **17 Novembre 1901**  |           |          |
+| **Hauteur Barométrique** | 767.7 mm | 767.7 mm |
+| **Direction du vent**    | er.cr. 0 | er.cr. 0 |
+| **Force**               | faible   | 2        |
+| **Pluie tombée**        | "        | 1,9      |
+| **Température de l'air** | 9.6 °C   | 11.8 °C  |
+| **Nébulosité** | **Ciel clair (terre)** | 10      | 0       |
+|                       | **Ciel couvert (mer)** | 0       | 0       |
+| **Direction des nuages** | Ouest    | er.cr. 0 |
+| **Hauteur de la mer**   | 31.1 m   | 40.0 m   |
+| **Agitation de l'eau**  | 2        | 2        |
+| **Densité au bout de la jetée** | 1027.4 kg/m³ | 1027.4 kg/m³ |
+| **Température de l'eau** | 17.9 °C  | 15.1 °C  |
+
+| **18 Novembre 1901**  |           |          |
+| **Hauteur Barométrique** | 771.0 mm | 771.0 mm |
+| **Direction du vent**    | er.cr. 0 | er.cr. 0 |
+| **Force**               | 2        | 2        |
+| **Pluie tombée**        | "        | "        |
+| **Température de l'air** | 13.9 °C  | 13.9 °C  |
+| **Nébulosité** | **Ciel clair (terre)** | 0       | 0       |
+|                       | **Ciel couvert (mer)** | 0       | 0       |
+| **Direction des nuages** | er.cr. 0 | er.cr. 0 |
+| **Hauteur de la mer**   | 40.0 m   | 44.9 m   |
+| **Agitation de l'eau**  | 2        | 2        |
+| **Densité au bout de la jetée** | 1027.7 kg/m³ | 1027.4 kg/m³ |
+| **Température de l'eau** | 15.4 °C  | 15.4 °C  |
+```

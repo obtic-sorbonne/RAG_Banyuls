@@ -1,0 +1,25 @@
+|  V. 14 Mars. 1901 | Moatin | Soir  |
+| --- | --- | --- |
+|  Hauteur Praxometrique |  | 161.0  |
+|  Direction des vent |  | 11.8  |
+|  Force | 15 | 1 fort  |
+|  Nébulosité | (Rig. O. (1ine) | 10  |
+|  Direction des nuages |  | 100  |
+|  Hue tombé |  | 10.8  |
+|  Température de l'air |  | 60.3  |
+|  Hauteur de la mer |  | 1 fort  |
+|  Oligotation de l'eau |  | 1029.9  |
+|  Densité au bout de la jetée |  | 18.1  |
+|  Température de l'eau |  | 18.1  |
+|  V. 15 Mars. 1901 | Moatin | Soir  |
+|  Hauteur Praxometrique | 111.6 | 114.3  |
+|  Direction des vent |  | 11.8  |
+|  Force | 15 | 10  |
+|  Nébulosité | (Rig. O. (1ere) | 10  |
+|  Détection des nuages |  | 10  |
+|  Hue tombé |  | 10  |
+|  Température de l'air | 13.8 | 16.2  |
+|  Hauteur de la mer | 14.0 | 46.2  |
+|  Oligotation de l'eau |  | 1  |
+|  Densité au bout de la jetée | 1029.8 | 1029.1  |
+|  Température de l'eau | 18.3 | 18.3  |

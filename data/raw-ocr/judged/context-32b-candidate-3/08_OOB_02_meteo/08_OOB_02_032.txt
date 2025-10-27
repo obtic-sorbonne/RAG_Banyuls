@@ -1,0 +1,18 @@
+# Date: 11 Avril 1901
+
+| Nom | 9e matin | 3e Soir |
+| --- | --- | --- |
+| Hauteur Barométrique | 758,7 | 755,7 |
+| Direction du vent | Ouest | Ouest |
+| Force | 4 faible | 3 fort |
+| Nébulosité | 2 | 2 |
+| Rég. O. (terre) | 2 | 2 |
+| Rég. E. (mer) | 2 | 2 |
+| Direction des nuages | Ouest | Ouest |
+| Pluie tombée | 11 | 11 |
+| Température de l'air | 17,6 | 17,5 |
+| Hauteur de la mer | 51,0 | 51,0 |
+| Agitation de l'eau | 48,4 | 48,4 |
+| Densité de l'eau | 1028,4 | 1028,5 |
+| 1 au frange |  |  |
+| Température de l'eau | 13,7 | 13,7 |

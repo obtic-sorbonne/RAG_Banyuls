@@ -1,0 +1,8 @@
+```markdown
+# 19 Mai 1907
+
+| **Date**       | **Heure** | **Hauteur Barométrique** | **Direction du Vent** | **Force** | **Nébulosité (0/10)** | **Réglage**  | **Direction des nuages** | **Pluie tombée** | **Température de l'air** | **Hauteur de la mer (cm)** | **Agitation de l'eau** | **Densité au bout de la jetée** | **Température de l'eau** |
+|----------------|-----------|--------------------------|-----------------------|-----------|-----------------------|---------------|--------------------------|------------------|--------------------------|----------------------------|-----------------------|-------------------------------|--------------------------|
+| 19 Mai 1907    | **Matin** | 760.0 mmHg               | Sud-Ouest             | 3         | 10 (Couvert)           | 10            | Sud-Ouest                | quelques g        | 18.0 °C                  | 42.0 cm                    | 2/7 fort              | 1027.5 g/cm³                 | 14.5 °C                 |
+| 19 Mai 1907    | **Soir**  | 759.5 mmHg               | Sud-Ouest             | 2         | 10 (Couvert)           | 10            | Sud-Ouest                | quelques g        | 19.2 °C                  | 41.5 cm                    | 2/7 fort              | 1027.0 g/cm³                 | 14.8 °C                 |
+```

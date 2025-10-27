@@ -1,0 +1,48 @@
+```
+OBSERVATIONS DU 1960 17 Mai
+
+| Nombre de bateaux sortis (pêche à l) |  |
+|---|---|
+| Température de l'air | maxima depuis la veille | 20,2 |
+|  | minima id. | 11,8 |
+| Température de l'eau | maxima depuis la veille |  |
+|  | minima id. |  |
+| Pluie tombée depuis la veille, en millim. | 19,27 |
+| Evaporation depuis le 190, en millim. |  |
+
+|  | à 9 h. m. | à 3 h. s. |
+|---|---|---|
+| Direction du vent (à terre) | S.S.O | S.S.S |
+| Force | 2 fort | 3 faible |
+| Direction des nuages | S.S.O | S.S.S |
+| Nébulosité | région Ouest (terre) | 60 | 60 |
+|  | id. Est (mer) | 60 | 60 |
+| Hauteur de la mer, en centimètres, au-dessus du zéro | 47,9 | 37,8 |
+| Agitation de l'eau | 3 | 2,2 |
+| Densité de l'eau au bout de la jetée | 1028,1 | 1027,4 |
+| Température id. | 13,2 | 13,4 |
+
+
+OBSERVATIONS DU 1960 18 Mai
+
+| Nombre de bateaux sortis (pêche à la Plaine) | 20 |
+|---|---|
+| Température de l'air | maxima depuis la veille | 23,7 |
+|  | minima id. | 11,2 |
+| Température de l'eau | maxima depuis la veille |  |
+|  | minima id. |  |
+| Pluie tombée depuis la veille, en millim. | quelque |
+| Evaporation depuis le 190, en millim. |  |
+
+|  | à 9 h. m. | à 3 h. s. |
+|---|---|---|
+| Direction du vent (à terre) | S.S.S | S.S.S |
+| Force | 1 fort | 1 fort |
+| Direction des nuages | S.S.O | S.S.O |
+| Nébulosité | région Ouest (terre) | 60 | 60 |
+|  | id. Est (mer) | 60 | 60 |
+| Hauteur de la mer, en centimètres, au-dessus du zéro | 47,6 | 34,7 |
+| Agitation de l'eau | 1 fort | 1 fort |
+| Densité de l'eau au bout de la jetée | 1028,1 | 1028,1 |
+| Température id. | 13,4 | 14,0 |
+```

@@ -1,0 +1,27 @@
+|  1. 18 novembre - 1907 | Moutin | Poir  |
+| --- | --- | --- |
+|  Hauteur Wannachique | 207.3 | 207.4  |
+|  Direction du vent | 0.0 | 0.0  |
+|  Force | 1 | 1  |
+|  Mibulonte | 10 | 10  |
+|  Reg. E. (mur) | 10 | 10  |
+|  Direction des mages | 0.0 | 0.0  |
+|  Pluie tombale | 13.0 | 13.9  |
+|  Température de l'air | 13.0 | 13.9  |
+|  Hauteur de la mur | 40.7 | 43.4  |
+|  Agitation de l'eau | 3.60 | 3.60  |
+|  Permite au bout de la jetée | 1025.0 | 1025.7  |
+|  Température de l'eau | 15.7 | 15.4  |
+|  1. 19 novembre - 1907 | Moutin | Poir  |
+|  Hauteur Wannachique | 208.0 | 265.7  |
+|  Direction du vent | 1.0 | 1.2  |
+|  Force | 1.6 | 2  |
+|  Mibulonte | 10 | 10  |
+|  Reg. E. (mur) | 10 | 10  |
+|  Direction des mages | 1.0 | 1.0  |
+|  Pluie tombale | 11.0 | 11.2  |
+|  Température de l'air | 14.3 | 14.2  |
+|  Hauteur de la mur | 3.60 | 3.60  |
+|  Agitation de l'eau | 1026.0 | 1025.3  |
+|  Permite au bout de la jetée | 15.9 | 15.3  |
+|  Température de l'eau |  |   |

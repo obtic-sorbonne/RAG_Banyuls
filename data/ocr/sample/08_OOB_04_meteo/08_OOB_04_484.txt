@@ -1,0 +1,27 @@
+```plaintext
+|  11 Avril - 1905 | Matin | Jours  |
+| --- | --- | --- |
+|  Hauteur Barométrique | 748.6 |   |
+|  Direction du vent | N.O. |   |
+|  Force | 2 |   |
+|  Nébulosité | Reg. 1 (terre) | 250 cmb  |
+|  Direction des nuages |  | N.O.  |
+|  Pluie tombée |  | quelques  |
+|  Température de l'air |  | 17.1  |
+|  Hauteur de la mer |  | 4.0  |
+|  Agitation de l'eau | 13.5 léger | 13.5 léger  |
+|  Densité au bout de la jetée |  | 1028.6  |
+|  Température de l'eau |  | 17.1  |
+|  12 Avril - 1905 | Matin | Jours  |
+|  Hauteur Barométrique | 760.2 | 760.2  |
+|  Direction du vent | N.E. | N.E.  |
+|  Force | 5 | 5  |
+|  Nébulosité | Reg. 1 (terre) | 0  |
+|  Direction des nuages |  | N.E.  |
+|  Pluie tombée |  | 0  |
+|  Température de l'air |  | 19.3  |
+|  Hauteur de la mer |  | 17.8  |
+|  Agitation de l'eau | 4.0 | 4.0  |
+|  Densité au bout de la jetée |  | 1028.6  |
+|  Température de l'eau |  | 14.1  |
+```

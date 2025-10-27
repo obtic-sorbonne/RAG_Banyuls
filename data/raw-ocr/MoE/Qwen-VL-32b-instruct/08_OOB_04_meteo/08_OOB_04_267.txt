@@ -1,0 +1,29 @@
+|  V. 26 Août. 1903 | Matin | Soir  |
+| --- | --- | --- |
+|  Hauteur Franconchique | 287.0 | 287.4  |
+|  Direction du vent | cr.cr. | cr.cr.  |
+|  Force | 1 fort | 1 fort  |
+|  (Reg. o. (m) | 10 | 10  |
+|  (Reg. o. (m) | 10 | 10  |
+|  Direction des mages | cr.cr. | cr.cr.  |
+|  Mise Tombe | goulain. |   |
+|  Température de l'air | 31.3 | 38.1  |
+|  Hauteur de la mer | 11.3 | 18.2  |
+|  Égitation de l'eau | 1 fort | 1  |
+|  Densité au bout de la fête | 1038.3 | 1039.4  |
+|  Température de l'eau | 19.3 | 30.3  |
+
+|  V. 26 Août. 1903 | Matin | Soir  |
+| --- | --- | --- |
+|  Hauteur Franconchique | 287.9 | 287.3  |
+|  Direction du vent | cr. | cr.  |
+|  Force | 3 | 3 fort  |
+|  (Reg. o. (m) | 10 | 10  |
+|  (Reg. o. (m) | 10 | 10  |
+|  Direction des mages | cr. | cr.  |
+|  Mise Tombe |  |   |
+|  Température de l'air | 31.0 | 31.3  |
+|  Hauteur de la mer | 45.1 | 19.0  |
+|  Égitation de l'eau | 3 fort | 3 fort  |
+|  Densité au bout de la fête | 1038.3 | 1038.4  |
+|  Température de l'eau | 30.1 | 30.3  |

@@ -1,0 +1,52 @@
+| **Observations du 1901 4 Novembre** |
+| --- |
+| **Nombre de bateaux sortis (pêche à l.)** | 19.3 |
+| **Température de l'air** |  |  |
+|     maxima depuis la veille | 19.3 |
+|     minima id. | 9.8 |
+| **Température de l'eau** |  |  |
+|     maxima depuis la veille |  |
+|     minima id. |  |
+| **Pluie tombée depuis la veille, en millim** | " |
+| **Evaporation depuis le 190 , en millim** |  |
+| **Direction du vent (à terre)** | **à 9 h. m.** | **à 3 h. s.** |
+| **Force** | 1 | 1 fort |
+| **Direction des nuages** |  |  |
+| **Nébulosité** |  |  |
+|     région Ouest (terre) | 0 | 10 légère |
+|     id. Est (mer) | 0 | 40 légère |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.)** | 43.9 | 39.0 |
+| **Agitation de l'eau** | 1 faible | 1 faible |
+| **Densité de l'eau au bout de la jetée** | 1027.7 | 1027.8 |
+| **Température id.** |  |  |
+|     -is-. Bolanz Matin | 13.0 | 24.3 |
+|     -is-. Loir | 21.6 | 29.0 |
+|     -is-. Grenane Matin | 21.6 | 29.0 |
+|         maxima |  |  |
+|         minima | 6.8 | 18.3 |
+|   |  |  |
+| ** OBSERVATIONS DU 1901 6 Novembre** |
+| **Nombre de bateaux sortis (pêche à l.)** | 20.9 |
+| **Température de l'air** |  |  |
+|     maxima depuis la veille | 20.9 |
+|     minima id. | 10.4 |
+| **Température de l'eau** |  |  |
+|     maxima depuis la veille |  |
+|     minima id. |  |
+| **Pluie tombée depuis la veille, en millim** | " |
+| **Evaporation depuis le 190 , en millim** |  |
+| **Direction du vent (à terre)** | **à 9 h. m.** | **à 3 h. s.** |
+| **Force** | 2 | 3 fort |
+| **Direction des nuages** | Nord-Ouest | Sud-Ouest |
+| **Nébulosité** |  |  |
+|     région Ouest (terre) | 40 | 60 |
+|     id. Est (mer) | 60 | 60 |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.)** | 36.8 | 46.9 |
+| **Agitation de l'eau** | 1 faible | 1 fort |
+| **Densité de l'eau au bout de la jetée** | 1027.7 | 1027.7 |
+| **Température id.** |  |  |
+|     -is-. Tannera Matin | 29.8 | 16.1 |
+|     -is-. Loir | 21.6 | 16.1 |
+|         maxima |  |  |
+|         minima | 7.6 |  |
+|   |  |  |

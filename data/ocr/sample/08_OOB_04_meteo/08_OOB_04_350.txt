@@ -1,0 +1,33 @@
+# V. 11 Mars. 1904
+
+|  Matin |  |  Soir  |
+| --- | --- | --- |
+|  Hauteur Barométrique | 767.4 |  |
+|  Direction du vent | 7.8 |  |
+|  Force | 1 |  |
+|  Nébulosité | Rég. O. (terre) | 10 |
+|  Nébulosité | Rég. E. (mer) | 10 |
+|  Direction des nuages | 250.0 | 250.0 |
+|  Pluie tombée | 12.0 |  |
+|  Température de l'air | 12.0 |  |
+|  Hauteur de la mer | 12.0 |  |
+|  Agitation de l'eau | 12.7 |  |
+|  Densité au bout de la jetée | 11.3 |  |
+|  Température de l'eau | 11.3 |  |
+
+# V. 12 Mars. 1904
+
+|  Matin |  |  Soir  |
+| --- | --- | --- |
+|  Hauteur Barométrique | 761.6 |  |
+|  Direction du vent | 7.8 |  |
+|  Force | 1 |  |
+|  Nébulosité | Rég. O. (terre) | 10 |
+|  Nébulosité | Rég. E. (mer) | 10 |
+|  Direction des nuages | 250.0 | 250.0 |
+|  Pluie tombée | 10.8 |  |
+|  Température de l'air | 47.1 |  |
+|  Hauteur de la mer | 47.1 |  |
+|  Agitation de l'eau | 3.5 |  |
+|  Densité au bout de la jetée | 1026.9 |  |
+|  Température de l'eau | 11.4 |  |

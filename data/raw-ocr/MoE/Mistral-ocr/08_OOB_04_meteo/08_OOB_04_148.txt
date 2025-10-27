@@ -1,0 +1,31 @@
+# 2. 29 Octobre 1902
+
+|  Hantum Parométrique | 762.4  |
+| --- | --- |
+|  Direction du vent | or.or.o  |
+|  Force | 4  |
+|  (Reg. O. (lire)) | 8  |
+|  (Reg. O. (mer)) | 0  |
+|  Direction du nuage | or.or.o  |
+|  Flux tombé | 14.4  |
+|  Température de l'air | 14.4  |
+|  Hantum de la mer | 14.4  |
+|  Crétation de l'eau | 3 fois  |
+|  Densité au bout de la fête | 1029.7  |
+|  Température de l'eau | 11.7  |
+
+# 3. 29 Octobre 1902
+
+|  Hantum Parométrique | 760.6  |
+| --- | --- |
+|  Direction du vent | or.or.o  |
+|  Force | 4  |
+|  (Reg. O. (lire)) | 10  |
+|  (Reg. O. (mer)) | 10  |
+|  Direction du nuage | or.or.o  |
+|  Flux tombé | 14.1  |
+|  Température de l'air | 14.1  |
+|  Hantum de la mer | 44.5  |
+|  Crétation de l'eau | 3 fois  |
+|  Densité au bout de la fête | 1029.3  |
+|  Température de l'eau | 16.2  |

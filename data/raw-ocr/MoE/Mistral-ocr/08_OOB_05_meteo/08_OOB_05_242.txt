@@ -1,0 +1,30 @@
+|  9.9 Mai - 1907 | Moutan | Soir  |
+| --- | --- | --- |
+|  Hauteur Econométrique | 255,3 |   |
+|  Direction du Vent | 1,8 |   |
+|  Force | 1/2 |   |
+|  Névitante | 10 |   |
+|  (Res. G. (en)) | 10 |   |
+|  Névitante | 10 |   |
+|  Direction des nuages | 1,0 |   |
+|  Heur Eombci | 6,0 |   |
+|  Température de l'air | 11,5 |   |
+|  Hauteur de la mer | 11,5 |   |
+|  Agitation de l'eau | 1,5 |   |
+|  Densité au bout de la jetée | 102,8 |   |
+|  Température de l'eau | 13,8 |   |
+
+|  9.10 Mai - 1907 | Moutan | Soir  |
+| --- | --- | --- |
+|  Hauteur Econométrique |  | 253,4  |
+|  Direction du Vent |  | 1,8  |
+|  Force | 1/2 | 3,8  |
+|  Névitante | (Res. G. (en)) | 3,8  |
+|  (Res. G. (en)) |  | 2,0  |
+|  Direction des nuages |  | 1,0  |
+|  Heur Eombci |  | 22,4  |
+|  Température de l'air |  | 1,8  |
+|  Hauteur de la mer |  | 3,8  |
+|  Agitation de l'eau |  | 102,8  |
+|  Densité au bout de la jetée |  | 102,8  |
+|  Température de l'eau |  | 16,4  |

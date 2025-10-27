@@ -1,0 +1,30 @@
+```plaintext
+| Pêche à la traîne | nombre de bateaux 4 | quantité de poisson - 232 kg. | valeur du poisson | du 25 mars-1905 | Matin | Soir |
+|---|---|---|---|---|---|---|
+| Hauteur Barométrique | 762,2 | 761,6 | | | | |
+| Direction du vent | N.O. | S.E. | | | | |
+| Force | is | faible | | | | |
+| Nébulosité | Reg. o. (terre) | 8 | 10 | | | |
+| Reg. xi (mer) | 0 | 10 | | | | |
+| Direction des nuages | N.N.O. | N.S.E. | | | | |
+| Pluie tombée | quelques gouttes | " | | | | |
+| Température de l'air | 12,3 | 18,2 | | | | |
+| Hauteur de la mer | 55,7 | 64,7 | | | | |
+| Agitation de l'eau | 1 | 1, faible | | | | |
+| Densité au bout de la jetée | 1029,7 | 1029,2 | | | | |
+| Température de l'eau | 13,0 | 14,1 | | | | |
+| Pêche à la traîne | nombre de bateaux 10 | quantité de poisson - 426 kg. | valeur du poisson | du 27 mars-1905 | Matin | Soir |
+|---|---|---|---|---|---|---|
+| Hauteur Barométrique | 766,3 | 764,0 | | | | |
+| Direction du vent | S.S.E. | S.S.E. | | | | |
+| Force | is | 1 T. fort | 1 T. fort | | | |
+| Nébulosité | Reg. o. (terre) légère entrée | légère entrée | | | | |
+| Reg. xi (mer) | légère entrée | légère entrée | | | | |
+| Direction des nuages | N.O. | N.O. | | | | |
+| Pluie tombée | " | " | | | | |
+| Température de l'air | 19,0 | 22,0 | | | | |
+| Hauteur de la mer | 19,8 | 19,6 | | | | |
+| Agitation de l'eau | 1, faible | 1, faible | | | | |
+| Densité au bout de la jetée | 1028,8 | 1028,6 | | | | |
+| Température de l'eau | 19,9 | 17,0 | | | | |
+```

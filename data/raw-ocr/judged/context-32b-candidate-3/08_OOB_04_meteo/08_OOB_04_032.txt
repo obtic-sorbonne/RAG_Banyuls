@@ -1,0 +1,33 @@
+# 9.27 Novembre 1901
+
+|  **Hauteur Barométrique** | **Matin** | **Soir**  |
+| --- | --- | --- |
+|  Direction du vent | or.0.8 | or.0.0  |
+|  Force | 3 | 2 fort  |
+|  (Reg. O. (terre)) | 10 | 10  |
+|  **Nébulosité** |  |  |
+|  (Reg. E. (mer)) | 10 | 10  |
+|  Direction des nuages | or.0.3 | or.0.0  |
+|  **Pluie tombée** |  |  |
+|  **Température de l'air** | 7,7 | 7,0  |
+|  **Hauteur de la mer** | 21,1 | 42,1  |
+|  **Agitation de l'eau** | 3 | 3  |
+|  **Densité au bout de la jetée** | 1029,0 | 1029,1  |
+|  **Température de l'eau** | 13,4 | 13,3  |
+
+# 10.28 Novembre 1901
+
+|  **Hauteur Barométrique** | **Matin** | **Soir**  |
+| --- | --- | --- |
+|  Direction du vent | or.0.0 | or.0.0  |
+|  Force | 4 fort | 1  |
+|  (Reg. O. (terre)) | 0 | 0  |
+|  **Nébulosité** |  |  |
+|  (Reg. E. (mer)) | 0 | 0  |
+|  Direction des nuages |  |  |
+|  **Pluie tombée** |  |  |
+|  **Température de l'air** | 7,3 | 8,0  |
+|  **Hauteur de la mer** | 22,3 | 44,1  |
+|  **Agitation de l'eau** | 3 fort | 47,1  |
+|  **Densité au bout de la jetée** | 1029,1 | 1029,2  |
+|  **Température de l'eau** | 12,6 | 12,8  |

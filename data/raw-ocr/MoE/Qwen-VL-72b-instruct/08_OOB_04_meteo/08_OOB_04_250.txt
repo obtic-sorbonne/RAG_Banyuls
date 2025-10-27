@@ -1,0 +1,27 @@
+| Date       | Matin                         |            |            | Soir                        |            |            |
+|------------|-------------------------------|------------|------------|-----------------------------|------------|------------|
+| 7 juillet 1903 | **Hauteur barométrique**       | 766.2      | 769.4      |                             |            |            |
+|            | **Direction du vent**          | cr. cr. 0  |            | cr. 0                       |            |            |
+|            | **Force**                     | 15         |            | faible                      |            |            |
+|            | **Reg. 6 (cler)**              | 0          |            | 10                          |            |            |
+|            | **Nébulosité**                 |            |            |                             |            |            |
+|            | Reg. 2 (mer)                   | 0          |            | 10                          |            |            |
+|            | **Direction des nuages**       | cr. cr. 0  |            | cr. 0                       |            |            |
+|            | **Pluie tombée**               | "          |            | "                           |            |            |
+|            | **Température de l'air**       | 20.6       |            | 24.7                        |            |            |
+|            | **Hauteur de la mer**           | 96.4       |            | 38.0                        |            |            |
+|            | **Agitation de l'eau**          | 3 points   |            | 3 points                    |            |            |
+|            | **Densité au bout de la jetée** | 1027.4     |            | 1027.3                      |            |            |
+|            | **Température de l'eau**        | 20.6       |            | 21.0                        |            |            |
+| 8 juillet 1903 | **Hauteur barométrique**       | 766.4      |            |                             |            |            |
+|            | **Direction du vent**          | cr. 0      |            | 3 T. pouls. légumier         |            | légumier   |
+|            | **Force**                     | 15         |            |                             |            |            |
+|            | **Reg. 6 (cler)**              |            |            |                             |            |            |
+|            | **Nébulosité**                 | deg. L- (mer) |            |                             |            |            |
+|            | **Direction des nuages**       | "          |            |                             |            |            |
+|            | **Pluie tombée**               | "          |            |                             |            |            |
+|            | **Température de l'air**       | 29.4       |            |                             |            |            |
+|            | **Hauteur de la mer**           | 64.7       |            |                             |            |            |
+|            | **Agitation de l'eau**          | 2          |            |                             |            |            |
+|            | **Densité au bout de la jetée** | 1027.5     |            |                             |            |            |
+|            | **Température de l'eau**        | 20.4       |            |                             |            |            |

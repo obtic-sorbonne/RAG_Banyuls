@@ -1,0 +1,17 @@
+| **Éléments**                     | **9h Matin** | **3h Soir** |
+|----------------------------------|-------------|-------------|
+| Hauteur Barométrique             | 764.7       | —           |
+| Direction du vent                | N.N.E.      | —           |
+| Force                            | 5           | Fort        |
+| Tébulosité                       |             |             |
+|   - Reg. 0. (feu)                | 10          | —           |
+|   - Reg. E. (max)                | 10          | —           |
+| Direction des nuages             | S.O.        | —           |
+| Pluie tombée                     | 11          | —           |
+| Température de l'air             | 20,6        | —           |
+| Hauteur de la mer                | 7f.9        | —           |
+| Agitation de l'eau               | Faible      | —           |
+| Densité de l'eau                 |             |             |
+|   - au bout de la jetée          | 1027,3      | —           |
+|   - au large                     | —           | —           |
+| Température de l'eau             | 20,1        | —           |

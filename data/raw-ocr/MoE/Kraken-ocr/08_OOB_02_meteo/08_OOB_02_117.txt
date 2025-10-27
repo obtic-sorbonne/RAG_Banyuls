@@ -1,0 +1,50 @@
+Date -6 Juillet-1901
+1
+fauteur Barometrique
+ddirection du vent
+Por e 
+7
+1
+Rébutosite 
+m
+5
+Reg-E- (M.
+Cemperature de l'air
+fauteur de la mer
+agitation de l'eau
+densite de l'eau
+St Matin 34 Goir
+A
+7of,3
+N.40
+0
+N.A0
+24, 6
+49
+2
+1
+Nord
+2foit
+O
+Nor
+2
+25.0
+12
+62,8
+ifort
+sau bout de la fetee 1027.3 1027.6
+4
+pau Targe
+Cemperature de l'eau
+7
+3
+(Verre)
+Drrection des nuages
+Fluie tombée
+7
+D
+3
+1
+---
+1375
+20.0

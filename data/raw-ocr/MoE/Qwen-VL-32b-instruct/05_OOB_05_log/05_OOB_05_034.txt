@@ -1,0 +1,29 @@
+N°
+
+Sortie du 6 Mai 1901
+
+Départ de Banyuls à 5h30 heures du matin
+pour la pêche
+Arrivée sur la plage d'Argelès à 6h40
+Départ de
+pour
+Arrivée à
+à heures du
+Départ de
+Arrivée au mouillage à Banyuls à 4h10 h du
+
+Etat du temps : Beau
+
+Passagers à bord : M<sup>e</sup> Pruvot
+
+Objet de la sortie : Pêche à la senne et au chalut
+
+Consommations {
+     | braquettes de Poids en Kilos
+     | huile                Total en litres
+
+Dépenses
+
+Observations : Dîner sur la plage d'Argelès
+et dénoir un coup de chalut en
+face Port Vendre

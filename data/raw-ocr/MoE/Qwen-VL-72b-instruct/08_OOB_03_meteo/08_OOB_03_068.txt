@@ -1,0 +1,17 @@
+| **Observations météorologiques** | **9h Matin** | **3h Soir** |
+|---|---|---|
+| Hauteur Barométrique | 770.6 |  |
+| Direction du vent | Ouest |  |
+| Force | faible |  |
+| Nelbulosité |  |  |
+| ├── Reg. O. (clém.) | 0 |  |
+| └── Reg. E. (mer) | 0 |  |
+| Direction des nuages |  |  |
+| Pluie tombée |  |  |
+| Tempéralure de l'air | 6.7 |
+| Hauteur de la mer | 17.3 |  |
+| Agitation de l'eau | 2 |  |
+| Densité de l'eau |  |  |
+| ├── au bout de la jetée | 1029.1 |  |
+| └── à l'large |  |  |
+| Tempéralure de l'eau | 15.7 |  |

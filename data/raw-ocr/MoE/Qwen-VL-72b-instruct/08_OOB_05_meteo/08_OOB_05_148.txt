@@ -1,0 +1,27 @@
+| V. 8 Septembre 1906 | Matin | Soir |
+|---------------------|-------|------|
+| Hauteur Barometrique | 767.0 | 767.2 |
+| Direction du vent | S.S.E | S.S.E |
+| Force | 3 | 2 |
+| Nébulosité | Reg. c. (claire) | 0 |
+| Direction des nuages | Reg. E. (mor) | 3 degrés est |
+| Pluie tombée | | S.S.E |
+| Température de l'air | | 80.1 |
+| Hauteur de la mer | | 50.18 |
+| Agitation de l'eau | | 1 fort |
+| Vensité au bout de la jetée | | 1026.6 |
+| Température de l'eau | | 23.8 |
+
+| V. 11 Septembre 1906 | Matin | Soir |
+|----------------------|-------|------|
+| Hauteur Barometrique | 763.2 | |
+| Direction du vent | cr.c.r.o | |
+| Force | 3 | 2 |
+| Nébulosité | Reg. c. (claire) | 0 |
+| Direction des nuages | Reg. E. (mor) | cr.c.r.o |
+| Pluie tombée | | |
+| Température de l'air | | 29.0 |
+| Hauteur de la mer | | 49.2 |
+| Agitation de l'eau | | 3 fort |
+| Vensité au bout de la jetée | | 1027.1 |
+| Température de l'eau | | 22.5 |

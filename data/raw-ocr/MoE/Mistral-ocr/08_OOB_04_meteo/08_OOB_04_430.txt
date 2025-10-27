@@ -1,0 +1,35 @@
+# V. 12 Octobre - 1904
+
+|  **Plaque** | **Prix**  |
+| --- | --- |
+|  Hantour Praxometrique | 766,3  |
+|  Direction Su vent | 766,3  |
+|  Force | 1  |
+|  (Rég. O. (1ere)) | 0  |
+|  **Découtosité** |   |
+|  (Rég. E. (mer)) | 0  |
+|  Direction Ses mages | "  |
+|  **Chac tombe** |   |
+|  Dempéranne de l'air | 14,3  |
+|  Hantour de la mer | 56,8  |
+|  Régination de l'eau | 2  |
+|  Densité au bout de la jetée | 1028,4  |
+|  Dempéranne de l'eau | 18,2  |
+
+# V. 13 Octobre - 1904
+
+|  **Plaque** | **Prix**  |
+| --- | --- |
+|  Hantour Praxometrique | 769,3  |
+|  Direction Su vent | 769,3  |
+|  Force | 1  |
+|  (Rég. O. (1ere)) | 0  |
+|  **Découtosité** |   |
+|  (Rég. E. (mer)) | 10  |
+|  Direction Ses mages | 8  |
+|  **Chac tombe** |   |
+|  Dempéranne de l'air | 14,3  |
+|  Hantour de la mer | 56,8  |
+|  Régination de l'eau | 2  |
+|  Densité au bout de la jetée | 1028,4  |
+|  Dempéranne de l'eau | 18,2  |

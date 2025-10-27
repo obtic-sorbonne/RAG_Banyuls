@@ -1,0 +1,67 @@
+# 9. 1er Mai - 1902
+
+## Matin
+|  **Pfandeur Barométrique** | **750,0**  |
+| --- | --- |
+|  Direction du vent | or. or. o  |
+|  Force | 2  |
+|  **Nébulosité** | **10**  |
+|  | **(Reg. O. (terre))** | **10**  |
+|  | **(Reg. F. (mer))** | **10**  |
+|  Direction des nuages | or. or. o  |
+|  **Pluie tombée** | **quelques**  |
+|  **Température de l'air** | **13,4**  |
+|  **Hauteur de la mer** | **15,6**  |
+|  **Égitation de l'eau** | **3**  |
+|  Densité au bout de la jetée | 1027,7  |
+|  **Température de l'eau** | **14,1**  |
+
+## Soir
+|  **Pfandeur Barométrique** | **750,0**  |
+| --- | --- |
+|  Direction du vent | or. or. o  |
+|  Force | 3  |
+|  **Nébulosité** | **10**  |
+|  | **(Reg. O. (terre))** | **10**  |
+|  | **(Reg. F. (mer))** | **10**  |
+|  Direction des nuages | or. or. o  |
+|  **Pluie tombée** | **15,1**  |
+|  **Température de l'air** | **15,9**  |
+|  **Hauteur de la mer** | **15,9**  |
+|  **Égitation de l'eau** | **3**  |
+|  Densité au bout de la jetée | 1027,7  |
+|  **Température de l'eau** | **14,3**  |
+
+# 11. 1er Mai - 1903
+
+## Matin
+|  **Pfandeur Barométrique** | **752,9**  |
+| --- | --- |
+|  Direction du vent | or. or. o  |
+|  Force | 2  |
+|  **Nébulosité** | **10**  |
+|  | **(Reg. O. (terre))** | **10**  |
+|  | **(Reg. F. (mer))** | **10**  |
+|  Direction des nuages | or. or. o  |
+|  **Pluie tombée** | **14,4**  |
+|  **Température de l'air** | **14,4**  |
+|  **Hauteur de la mer** | **52,2**  |
+|  **Égitation de l'eau** | **3**  |
+|  Densité au bout de la jetée | 1027,7  |
+|  **Température de l'eau** | **14,1**  |
+
+## Soir
+|  **Pfandeur Barométrique** | **752,1**  |
+| --- | --- |
+|  Direction du vent | or. or. o  |
+|  Force | 2  |
+|  **Nébulosité** | **10**  |
+|  | **(Reg. O. (terre))** | **10**  |
+|  | **(Reg. F. (mer))** | **10**  |
+|  Direction des nuages | or. or. o  |
+|  **Pluie tombée** | **15,2**  |
+|  **Température de l'air** | **15,2**  |
+|  **Hauteur de la mer** | **19,2**  |
+|  **Égitation de l'eau** | **3**  |
+|  Densité au bout de la jetée | 1027,7  |
+|  **Température de l'eau** | **14,1**  |

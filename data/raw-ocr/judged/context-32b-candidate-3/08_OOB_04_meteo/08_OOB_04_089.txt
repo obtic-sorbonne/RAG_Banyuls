@@ -1,0 +1,36 @@
+```
+130
+Avril -1902
+
+## Matin
+|  **Pfandeur Barométrique** | **761,4**  |
+| --- | --- |
+|  Direction du vent | or. or. o  |
+|  Force | 6  |
+|  Nébulosité | 0  |
+|  | **(Reg. O. (terre))** | **0**  |
+|  | **(Reg. E. (mer))** | **0**  |
+|  Direction des nuages | or. or. o  |
+|  Pluie tombée | quelques. y  |
+|  Température de l'air | 14,5  |
+|  Hauteur de la mer | 49,0  |
+|  Égitation de l'eau | 3 foot  |
+|  Densité au bout de la jetée | 1028,7  |
+|  Température de l'eau | 14,6  |
+
+## Soir
+|  **Pfandeur Barométrique** | **762,6**  |
+| --- | --- |
+|  Direction du vent | or. or. o  |
+|  Force | /faible  |
+|  Nébulosité | 0 (faire)  |
+|  | **(Reg. O. (terre))** | **2 digs.**  |
+|  | **(Reg. E. (mer))** | **0**  |
+|  Direction des nuages | or. or. o  |
+|  Pluie tombée |  |
+|  Température de l'air | 14,4  |
+|  Hauteur de la mer | 10,6  |
+|  Égitation de l'eau | 3  |
+|  Densité au bout de la jetée | 1026,1  |
+|  Température de l'eau | 14,7 | 14,3  |
+```

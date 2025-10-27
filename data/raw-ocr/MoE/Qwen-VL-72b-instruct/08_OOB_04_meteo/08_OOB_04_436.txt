@@ -1,0 +1,4 @@
+| Date | Matin | Soir |
+|---|---|---|
+| 27 Octobre 1904 | Hauteur Barométrique<br>Direction du vent<br>Force<br>Nébulosité<br>Direction des nuages<br>Pluie tombée<br>Température de l'air<br>Hauteur de la mer<br>Agitation de l'eau<br>Densité au bout de la jetée<br>Température de l'eau | 761.9<br>V.O.<br>IS<br>Rég. O. (claire)<br>Rég. E. (mur)<br>"<br>"<br>21.9<br>49.3<br>3 fort<br>1028.4<br>17.8 | 759.7<br>E.V.O.<br>3 fort<br>Léger ant. c<br>Léger ant. c<br>"<br>"<br>26.8<br>51.2 forte<br>2 fort<br>1028.2<br>18.4 |
+| 28 Octobre 1904 | Hauteur Barométrique<br>Direction du vent<br>Force<br>Nébulosité<br>Direction des nuages<br>Pluie tombée<br>Température de l'air<br>Hauteur de la mer<br>Agitation de l'eau<br>Densité au bout de la jetée<br>Température de l'eau | -<br>-<br>IS<br>Rég. O. (claire)<br>Rég. E. (mur)<br>-<br>-<br>-<br>-<br>-<br>- | 760.2<br>E.V.E.<br>1<br>2<br>"<br>"<br>17.3<br>46.3<br>2 fort<br>1028.7<br>18.2 |

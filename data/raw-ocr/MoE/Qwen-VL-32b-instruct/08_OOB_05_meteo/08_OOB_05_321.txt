@@ -1,0 +1,29 @@
+| Date                 | Matin                                   | Soir                                   |
+|---------------------|-----------------------------------------|-----------------------------------------|
+| 29 Novembre - 1907   |                                         |                                         |
+| Hauteur barométrique | 769.7                                  | 764.3                                  |
+| Direction du vent    | Este                                   | Este                                   |
+| Force                | 2                                      | 2                                      |
+| Nébulosité          | (Reg. 0. (Clare))                      | (Reg. 2. (Nbr))                       |
+| Direction des nuages | cr. o                                  | cr. e                                  |
+| Pluie tombée         | "                                     | "                                     |
+| Température de l'air | 9.2                                   | 11.6                                  |
+| Hauteur de la mer    | 28.6                                  | 41.2                                  |
+| Agitation de l'eau   | 3                                     | 8 + fort                               |
+| Vitesse au bout de la jetée | 1027.3                              | 1027.2                                 |
+| Température de l'eau | 16.8                                  | 17.9                                  |
+
+| Date                 | Matin                                   | Soir                                   |
+|---------------------|-----------------------------------------|-----------------------------------------|
+| 28 Novembre - 1907   |                                         |                                         |
+| Hauteur barométrique | 762.8                                  | "                                     |
+| Direction du vent    | Este                                   | Este                                   |
+| Force                | 2                                      | "                                     |
+| Nébulosité          | (Reg. 0. (Clare))                      | (Reg. 2. (Nbr))                       |
+| Direction des nuages | "                                     | "                                     |
+| Pluie tombée         | "                                     | "                                     |
+| Température de l'air | 9.2                                   | 9.2                                   |
+| Hauteur de la mer    | 28.7                                  | 28.7                                  |
+| Agitation de l'eau   | 1 fort                                 | "                                     |
+| Vitesse au bout de la jetée | 1027.6                              | 1027.6                                 |
+| Température de l'eau | 16.9                                  | 16.9                                  |

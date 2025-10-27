@@ -1,0 +1,27 @@
+|  V. 39 (Avril - 1905) | Moutien | Joir  |
+| --- | --- | --- |
+|  Hauteur Miarométrique | 263.2 | 2/9.1  |
+|  Direction du vent | 1.1.8 | 1/1.8  |
+|  Force | 1 | 1 port  |
+|  Nébulosité | 10 | 10  |
+|  (Ang. K. (min) | 10 | 10  |
+|  Direction des nuages | Ouest | Sud  |
+|  Flux tombé | 19.2 | 21.2  |
+|  Température de l'air | 19.2 | 44.5  |
+|  Hauteur de la mer | 48.9 | 44.5  |
+|  Oxyitation de l'eau | 1 | 2/2080  |
+|  Densité au bout de la jetée | 1029.2 | 1029.0  |
+|  Température de l'eau | 1/1 | 1/1  |
+|  V. 1° (Mari - 1905) | Moutien | Joir  |
+|  Hauteur Miarométrique | 262.1 | 260.1  |
+|  Direction du vent | 1.6 | Sud  |
+|  Force | 1 port | 2 port  |
+|  Nébulosité | 10 | 10  |
+|  (Ang. K. (min) | 10 | 10  |
+|  Direction des nuages | 1.0 | Ouest  |
+|  Flux tombé | 19.5 | 21.2  |
+|  Température de l'air | 19.5 | 32.0  |
+|  Hauteur de la mer | 48.0 | 1 port  |
+|  Oxyitation de l'eau | 1 | 1 port  |
+|  Densité au bout de la jetée | 1029.1 | 1029.2  |
+|  Température de l'eau | 14.8 | 14.6  |

@@ -1,0 +1,25 @@
+|  0.20 Octobre 1908 | Mbatin | Jair  |
+| --- | --- | --- |
+|  Hauteur Marométrique | 7/9.0 | 7/8.0  |
+|  Direction du vent | 0.00.0 | 0.00.0  |
+|  Force | 8 faible | 1 fort  |
+|  (F) Ébulosité | 10 | 10  |
+|  Direction des mays | 10 | 10  |
+|  Heure Vombre | 8.68/ | 10.00.0  |
+|  Température de l'air | 8.68/ | 8.68/  |
+|  Hauteur de la mer | 87.2 | 86.2  |
+|  Débitation de l'eau | 10.8/ | 10.8/  |
+|  Densité au bout de la jetée | 10.8/ | 10.8/  |
+|  Température de l'eau | 17.3 | 16.3  |
+|  0.21 Octobre 1908 | Mbatin | Jair  |
+|  Hauteur Marométrique |  | 7.60/  |
+|  Direction du vent |  | Nord  |
+|  Force | 15 | 5  |
+|  (F) Ébulosité | 0.00.0 | 0  |
+|  Direction des mays |  | 0  |
+|  Heure Vombre |  | 0  |
+|  Température de l'air |  | 33.0  |
+|  Hauteur de la mer |  | 3.30  |
+|  Débitation de l'eau |  | 3  |
+|  Densité au bout de la jetée |  | 10.8/  |
+|  Température de l'eau |  | 17.4  |

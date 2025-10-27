@@ -1,0 +1,33 @@
+# 9. 20 M6ai. 1903
+
+|  Hanté | Noms  |
+| --- | --- |
+|  Hanté | 202.3  |
+|  Direction Su vent | "  |
+|  Force | 1  |
+|  Nocébutosité | 10  |
+|  (Reg. K - (mer)) | 10  |
+|  Direction des mages | 007.0  |
+|  Flux lombri | 900l/1000.9  |
+|  Rempliérative de l'air | 18.5  |
+|  Hanté | 18.2  |
+|  Régulation de l'eau | 0  |
+|  Densité au bout de la fétie | 1022.0  |
+|  Rempliérative de l'eau | 15.8  |
+
+# 17. 22 M6ai. 1903
+
+|  Hanté | Noms  |
+| --- | --- |
+|  Hanté | 209.8  |
+|  Direction Su vent | 8.07.8  |
+|  Force | 1  |
+|  Nocébutosité | 0  |
+|  (Reg. K - (mer)) | 0  |
+|  Direction des mages | "  |
+|  Flux lombri | 18.2  |
+|  Rempliérative de l'air | 18.2  |
+|  Hanté | 68.6  |
+|  Régulation de l'eau | 0  |
+|  Densité au bout de la fétie | 1026.1  |
+|  Rempliérative de l'eau | 18.3  |

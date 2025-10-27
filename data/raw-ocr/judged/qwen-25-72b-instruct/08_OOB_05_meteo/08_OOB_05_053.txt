@@ -1,0 +1,13 @@
+```
+Journal Météorologique du Navire "La Belle Poule"
+Période : 30 au 31 Octobre 1905
+
+| Date       | Heure | Hauteur Barométrique (mm) | Direction du vent | Force | Nébulosité (Reg. o. Terre) | Nébulosité (Reg. E. Mer) | Direction des nuages | Pluie tombée (mm) | Température de l'air (°C) | Hauteur de la mer (m) | Agitation de l'eau (code) | Densité au bout de la jetée (g/cm³) | Température de l'eau (°C) |
+|------------|-------|---------------------------|-------------------|-------|---------------------------|---------------------------|---------------------|-------------------|--------------------------|-----------------------|--------------------------|------------------------------------|-------------------------|
+| 30 Octobre 1905 | Matin | 767.6                    | S.O               | 15    | 10                        | 10                        | O.c.r.o             | "                 | 13.9                     | 24.3                  | 1 fort                   | 1029.0                             | 18.8                    |
+| 30 Octobre 1905 | Soir  | 756.5                    | crois             | 2     | 10                        | 10                        | S.O                 | "                 | 19.9                     | 48.6                  | 17 fort                  | 1029.0                             | 17.8                    |
+| 31 Octobre 1905 | Matin | 768.4                    | cr.cr.o           | 15    | 10                        | 10                        | Ouest               | quelques g        | 19.0                     | 34.4                  | 1 T fort                | 1028.6                             | 27.3                    |
+| 31 Octobre 1905 | Soir  |                          |                   | 1 fort |                           |                           |                     |                   |                          |                       |                          |                                 |                         |
+
+Note Marginale : Aucune remarque particulière pour ces dates.
+```

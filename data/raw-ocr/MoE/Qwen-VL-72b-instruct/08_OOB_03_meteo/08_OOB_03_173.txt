@@ -1,0 +1,16 @@
+| Date | 18 Avril 1902 |
+|-------|--------------------------------------------------------|
+| **Observations** | **9ʰ Matin** | **3ʰ Soir** |
+|---------|------------------|-----------------|
+| Hauteur Barométrique | 762.3 | ... |
+| Direction du vent | c.r. o | ... |
+| Force (deg. O. (clère)) | 15 | 0 |
+| Nébulosité (deg. E. (mer)) | ... | 2 |
+| Direction des nuages | ... | ... |
+| Pluie tombée | ... | ... |
+| Température de l'air | 15.8 | ... |
+| Hauteur de la mer | ... | ... |
+| Agitation de l'eau | 42.9 | Paixible |
+| Densité de l'eau (au bout de la jétee) | ... | 1026.4 |
+| au large | ... | ... |
+| Température de l'eau | ... | 14.3 |

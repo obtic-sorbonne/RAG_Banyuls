@@ -1,0 +1,25 @@
+| Date           | Heure | Pression barométrique (mbar) | Direction du vent |Force du vent | Umidité relative (%) | Observations                  |
+|----------------|-------|-----------------------------|-------------------|--------------|---------------------|-------------------------------|
+| 28 Xbre 1907 | Matin  | 760,8                       | O-N-E             | serif.o      | 10                  | Clarté                       |
+|               |       |                             |                   | 2            |                     |                               |
+|               |       |                             |                   |              |                     | Température de l'air: 12,4    |
+|               |       |                             |                   |              |                     | Hauteur de la mer: 23,2       |
+|               |       |                             |                   |              |                     | Agitation de l'eau: 2 fort    |
+|               |       |                             |                   |              |                     | Vitesse au bout de la jetée: 1028,3 |
+|               |       |                             |                   |              |                     | Température de l'eau: 14,7    |
+|               |       |                             |                   |              |                     | is ampuisprint 13,7           |
+| 28 Xbre 1907 | Soir  | 7/7                         | ceO               | -            | -                   | Plusie tonnes                      |
+| 30 Xbre 1907 | Matin  | 7/9,2                       | O-N-E             | serif.o      | 10                  | Clarté                       |
+|               |       |                             |                   | 0            |                     |                               |
+|               |       |                             |                   |              |                     | Température de l'air: 9,4     |
+|               |       |                             |                   |              |                     | Hauteur de la mer: 46,6       |
+|               |       |                             |                   |              |                     | Agitation de l'eau: 1 fort    |
+|               |       |                             |                   |              |                     | Vitesse au bout de la jetée: 1027,3 |
+|               |       |                             |                   |              |                     | Température de l'eau: 13,7    |
+| 30 Xbre 1907 | Soir  | 77,3                        | cercaO            | faible       | 10                  |                               |
+|               |       |                             |                   |              |                     | Température de l'air: 10,7    |
+|               |       |                             |                   |              |                     | Hauteur de la mer: 34,7       |
+|               |       |                             |                   |              |                     | Agitation de l'eau: 1 fort    |
+|               |       |                             |                   |              |                     | Vitesse au bout de la jetée: 1027,4 |
+|               |       |                             |                   |              |                     | Température de l'eau: 13,7    |
+|               |       |                             |                   |              |                     | is ampuisprint 13,0           |

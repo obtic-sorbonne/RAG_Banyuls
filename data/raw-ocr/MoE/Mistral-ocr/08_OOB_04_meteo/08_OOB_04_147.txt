@@ -1,0 +1,35 @@
+# V. 23 Octobre - 1902
+
+|  Nom | Date | Prénom  |
+| --- | --- | --- |
+|  Hauteur Barométrique | 1701 | 168.9  |
+|  Direction du vent | or. or. | or.or.  |
+|  Force | / fort | 6  |
+|  Rég. O. (Vine) |  |   |
+|  Substante |  |   |
+|  Rég. E. (mer) | 2 |   |
+|  Direction des nuages | or.or. | or.or.  |
+|  Flux lombaire |  |   |
+|  Température de l'air | 11.2 | 11.1  |
+|  Hauteur de la mer | 60.1 | 14.5  |
+|  Régulation de l'eau | 4 | 4  |
+|  Densité au bout de la jetée | 1029.2 | 1028.9  |
+|  Température de l'eau | 17.0 | 17.0  |
+
+# V. 27 Octobre - 1902
+
+|  Nom | Date | Prénom  |
+| --- | --- | --- |
+|  Hauteur Barométrique | 1601 | 160.1  |
+|  Direction du vent | or. or. | or.or.  |
+|  Force | / fort |   |
+|  Rég. O. (Vine) |  |   |
+|  Substante |  |   |
+|  Rég. E. (mer) |  |   |
+|  Direction des nuages |  |   |
+|  Flux lombaire |  |   |
+|  Température de l'air | 19.4 |   |
+|  Hauteur de la mer | 51.2 |   |
+|  Régulation de l'eau | 4 faible |   |
+|  Densité au bout de la jetée | 1029.2 |   |
+|  Température de l'eau | 16.4 |   |

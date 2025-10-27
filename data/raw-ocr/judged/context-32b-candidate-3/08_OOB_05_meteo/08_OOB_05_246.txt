@@ -1,0 +1,15 @@
+```markdown
+# 18 Mai 1907
+
+| **Date**       | **Heure** | **Hauteur Barométrique** | **Direction du Vent** | **Force** | **Nébulosité (0/10)** | **Réglage**  | **Direction des nuages** | **Pluie tombée** | **Température de l'air** | **Hauteur de la mer (cm)** | **Agitation de l'eau** | **Densité au bout de la jetée** | **Température de l'eau** |
+|----------------|-----------|--------------------------|-----------------------|-----------|-----------------------|---------------|--------------------------|------------------|--------------------------|----------------------------|-----------------------|-------------------------------|--------------------------|
+| 18 Mai 1907    | **Matin** | 761.7 mmHg               | Centro-Ouest           | 15         | 10 (Couvert)           | 4 fort        | Centro-Ouest              | -                | 17.2 °C                  | 12.0 m                     | 3                     | 1028.2 g/cm³                 | 14.4 °C                 |
+| 18 Mai 1907    | **Soir**  | 760.7 mmHg               | Centro-Ouest           | 15         | 10 (Couvert)           | 4 fort        | Centro-Ouest              | -                | 17.7 °C                  | 12.0 m                     | 3                     | 1027.8 g/cm³                 | 14.7 °C                 |
+
+# 20 Mai 1907
+
+| **Date**       | **Heure** | **Hauteur Barométrique** | **Direction du Vent** | **Force** | **Nébulosité (0/10)** | **Réglage**  | **Direction des nuages** | **Pluie tombée** | **Température de l'air** | **Hauteur de la mer (cm)** | **Agitation de l'eau** | **Densité au bout de la jetée** | **Température de l'eau** |
+|----------------|-----------|--------------------------|-----------------------|-----------|-----------------------|---------------|--------------------------|------------------|--------------------------|----------------------------|-----------------------|-------------------------------|--------------------------|
+| 20 Mai 1907    | **Matin** | -                        | -                     | -         | -                     | -             | -                        | -                | -                        | -                         | -                     | -                             | -                       |
+| 20 Mai 1907    | **Soir**  | -                        | -                     | -         | -                     | -             | -                        | -                | -                        | -                         | -                     | -                             | -                       |
+```

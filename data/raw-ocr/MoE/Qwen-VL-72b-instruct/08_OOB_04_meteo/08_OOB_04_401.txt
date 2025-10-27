@@ -1,0 +1,29 @@
+| Date        | Matin      | Soir       |
+|-------------|------------|------------|
+| 21 juillet 1902         |            |            |
+| Hauteur barométrique     | 764.8      |            |
+| Direction du vent       | Est        |            |
+| Force                      | 1/5        | 1          |
+| Nébulosité Reg. 6. (claire) | 0        |            |
+| Nébulosité (Reg. Z. (mur)) | 0        |            |
+| Direction des nuages      | Est        |            |
+| Pluie tombée            |            |            |
+| Température de l'air     | 27.0       |            |
+| Hauteur de la mer         | 12.3       |            |
+| Agitation de l'eau       | 1T. faible |            |
+| Vitesse au bout de la jetée | 102%   |            |
+| Température de l'eau    | 28.8       |            |
+|            |            |            |
+| 22 juillet 1902         |            |            |
+| Hauteur barométrique     | 766.3      | 764.9      |
+| Direction du vent       | Est        | S.S.E.     |
+| Force                      | 1/5        | 2/4        |
+| Nébulosité Reg. 6. (claire) | 0        | 2          |
+| Nébulosité (Reg. Z. (mur)) | 0        | 1          |
+| Direction des nuages      |            | S.O.       |
+| Pluie tombée            |            |            |
+| Température de l'air     | 28.3       | 30.6       |
+| Hauteur de la mer         | 10.3       | 37.3       |
+| Agitation de l'eau       | 1T. faible | 1          |
+| Vitesse au bout de la jetée | 102%   | 102%   |
+| Température de l'eau    | 28.3       | 26.9       |

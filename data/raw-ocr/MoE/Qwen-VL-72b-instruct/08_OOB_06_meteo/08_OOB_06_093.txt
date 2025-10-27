@@ -1,0 +1,45 @@
+OBSERVATIONS DU 1906 8 Xbre
+
+| Nombre de bateaux sortis (pêche à l...) |  |
+| --- | --- |
+| Température de l'air maxima depuis la veille | 13.6 |
+| minima id. | 10.9 |
+| Température de l'eau maxima depuis la veille |  |
+| minima id. |  |
+| Pluie tombée depuis la veille, en millim |  |
+| Evaporation depuis le 190 , en millim |  |
+
+| à 9 h. m. | à 3 h. s. |
+| --- | --- |
+| Direction du vent (à terre) | S.E. |
+| Force | 3 |
+| Direction des nuages | P.S.O. |
+| Nébulosité région Ouest (terre) | 10 |
+| id. Est (mer) | 10 |
+| Hauteur de la mer, en centimètres, au-dessus du zéro (R.P.) | 2.9 |
+| Agitation de l'eau | 1 |
+| Densité de l'eau au bout de la jetée | 1027.0 |
+| Température id. | 19.7 |
+
+OBSERVATIONS DU 1906 9 Xbre
+
+| Nombre de bateaux sortis (pêche à l...) |  |
+| --- | --- |
+| Température de l'air maxima depuis la veille | 19.8 |
+| minima id. | 7.8 |
+| Température de l'eau maxima depuis la veille |  |
+| minima id. |  |
+| Pluie tombée depuis la veille, en millim |  |
+| Evaporation depuis le 190 , en millim |  |
+
+| à 9 h. m. | à 3 h. s. |
+| --- | --- |
+| Direction du vent (à terre) | " |
+| Force | 0 | 11 faible |
+| Direction des nuages | S.E. |  |
+| Nébulosité région Ouest (terre) | 10 | 0 |
+| id. Est (mer) | 10 | 0 |
+| Hauteur de la mer, en centimètres, au-dessus du zéro (R.P.) | 8.0 |
+| Agitation de l'eau | 1 fort | 1 fort |
+| Densité de l'eau au bout de la jetée | 1027.4 | 1027.8 |
+| Température id. | 19.0 | 19.2 |

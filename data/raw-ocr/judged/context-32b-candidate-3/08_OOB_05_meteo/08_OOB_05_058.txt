@@ -1,0 +1,26 @@
+```
+| **Date** | **Heure** | **Paramètre** | **Matin** | **Soir** |
+|----------|-----------|---------------|-----------|----------|
+| 9.13 Novembre 1905 | Matin        | Hauteur Barométrique (mm) | 748.2   | 746.3    |
+|                  |              | Direction du vent         | cr.0    | s.o      |
+|                  |              | Force                     | is      |          |
+|                  |              | Nébulosité                | Des. 0 (claire) | 10       |
+|                  |              | Direction des nuages      | courant | s.o      |
+|                  |              | Pluie tombée               | "       | "        |
+|                  |              | Température de l'air (°C) | 12.8    | 12.2     |
+|                  |              | Hauteur de la mer (m)     | 20.9    | 48.0     |
+|                  |              | Agitation de l'eau        | 2       | 2 T. fort |
+|                  |              | Densité au bout de la jetée (kg/m³) | 1028.8   | 1028.8   |
+|                  |              | Température de l'eau (°C) | 16.9    | 16.8     |
+| 9.14 Novembre 1905 | Matin        | Hauteur Barométrique (mm) | 749.6   | 749.6    |
+|                  |              | Direction du vent         | er.cr.o | cr.o     |
+|                  |              | Force                     | is      |          |
+|                  |              | Nébulosité                | Des. 0 (claire) | 10       |
+|                  |              | Direction des nuages      | courant | courant  |
+|                  |              | Pluie tombée               | "       | "        |
+|                  |              | Température de l'air (°C) | 12.3    | 12.6     |
+|                  |              | Hauteur de la mer (m)     | 40.8    | 16.7     |
+|                  |              | Agitation de l'eau        | 2 fort  | 2 faible |
+|                  |              | Densité au bout de la jetée (kg/m³) | 1029.0   | 1029.3   |
+|                  |              | Température de l'eau (°C) | 19.6    | 19.6     |
+```

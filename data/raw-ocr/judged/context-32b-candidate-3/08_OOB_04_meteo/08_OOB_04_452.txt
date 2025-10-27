@@ -1,0 +1,33 @@
+```plaintext
+|  7. 13 Décembre - 1904 | Matin | Soir  |
+| --- | --- | --- |
+|  Hauteur Barométrique | 2/4.1 | 2/1.4  |
+|  Direction du vent | 10.0 | 10.0  |
+|  Force | 3 part. | 3  |
+|  (Reg. O. (terre)) | 8 | 10  |
+|  Nébulosité | 8 | 10  |
+|  (Reg. O. (mer)) | 8 | 10  |
+|  Direction des nuages | 10.0 | 10.0  |
+|  Pluie tombée | 9.2 | 10.0  |
+|  Température de l'air | 12.2 | 12.8  |
+|  Hauteur de la mer | 2 | 2  |
+|  Régulation de l'eau | 1029.5 | 1029.5  |
+|  Densité au bout de la jetée | 14.2 | 14.1  |
+|  Température de l'eau | 14.2 | 14.1  |
+
+|  7. 14 Décembre - 1904 | Matin | Soir  |
+| --- | --- | --- |
+|  Hauteur Barométrique | 2/8.5 | 2/5.4  |
+|  Direction du vent | 10.0 | 1.1.8  |
+|  Force | 2 faits | 1 fort  |
+|  (Reg. O. (terre)) | 3 | 10  |
+|  Nébulosité | 8 | 10  |
+|  (Reg. O. (mer)) | 8 | 10  |
+|  Direction des nuages | 10.0 | 10.0  |
+|  Pluie tombée | 8.8 | quelques.  |
+|  Température de l'air | 13.1 | 14.2  |
+|  Hauteur de la mer | 27.9 | 27.9  |
+|  Régulation de l'eau | 1030.0 | 1030.0  |
+|  Densité au bout de la jetée | 14.0 | 14.8  |
+|  Température de l'eau |  |   |
+```

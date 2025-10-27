@@ -1,0 +1,18 @@
+# Date - 11 Décembre 1900
+
+|  **Date** | **Prix**  |
+| --- | --- |
+|  9th Matin, 3rd Soir |   |
+|  **Fauteur Novométrique** | 769,8  |
+|  Direction du vent | Ouest  |
+|  Force | 1 faible  |
+|  Tébulosité | 0  |
+|  Reg. E. (mer) | 0  |
+|  Direction des nuages | 11  |
+|  Enne tombée | 11  |
+|  Température de l'air | 10,2  |
+|  **Fauteur de la mer** | 39,8  |
+|  Agitation de l'eau | 1  |
+|  Densité de l'eau | 1089,1  |
+|  **Lien Large** |   |
+|  Température de l'eau | 14,9  |

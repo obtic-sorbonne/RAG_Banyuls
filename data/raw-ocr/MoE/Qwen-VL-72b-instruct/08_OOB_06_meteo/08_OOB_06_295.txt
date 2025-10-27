@@ -1,0 +1,43 @@
+| Observations du 12 juillet 1902 |
+| --- |
+| Nombre de bateaux sortis (pêche à l...) | 32.6 |
+| Température de l'air } maxima depuis la veille | 32.6 |
+| Température de l'air } minima id. | 11.9 |
+| Température de l'eau } maxima depuis la veille |  |
+| Température de l'eau } minima id. |  |
+| Pluie tombée depuis la veille, en millim. |  |
+| Evaporation depuis le 190, en millim |  |
+|  | à 9 h. m. | à 3 h. s. |
+| Direction du vent (à terre) | E.S.E |  |
+| Force | 2 |  |
+| Direction des nuages | S. | S. O. |
+| Nébulosité } région Ouest (terre) | 10 |  |
+| Nébulosité } id. Est (mer) | 10 |  |
+| Hauteur de la mer, en centimètres, au-dessus du zéro (b.q.) | 33.9 |  |
+| Agitation de l'eau | 1 jan |  |
+| Densité de l'eau au bout de la jetée | 1.26.6 | 20.8 |
+| Température id. i5. Bolan lir (Amis.) | 24.8 |  |
+| Température id. i5. Penane lors Maxima } | 38.0 |  |
+| Température id. } Minima | 11.7 |  |
+
+---
+
+| Observations du 29 juillet 1902 |
+| --- |
+| Nombre de bateaux sortis (pêche à l...) | 3 |
+| Température de l'air } maxima depuis la veille |  |
+| Température de l'air } minima id. |  |
+| Température de l'eau } maxima depuis la veille |  |
+| Température de l'eau } minima id. |  |
+| Pluie tombée depuis la veille, en millim. | quelques |  |
+| Evaporation depuis le 190, en millim |  |
+|  | à 9 h. m. | à 3 h. s. |
+| Direction du vent (à terre) | S.S.O. |  |
+| Force | 3 fort |  |
+| Direction des nuages | 7.0 |  |
+| Nébulosité } région Ouest (terre) | 10 |  |
+| Nébulosité } id. Est (mer) | 10 |  |
+| Hauteur de la mer, en centimètres, au-dessus du zéro (b.q.) | 29.2 |  |
+| Agitation de l'eau | 1 jan |  |
+| Densité de l'eau au bout de la jetée | 1.29.0 |  |
+| Température id. | 17.8 |  |

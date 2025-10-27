@@ -1,0 +1,25 @@
+| **Date et Heure** | **Observations** | **Données Numériques** |
+|-------------------|------------------|-----------------------|
+| **J. 26 Octobre 1907 - Matin Prof.** | **Hauteur Barométrique** | **798.2 - 797.7** |
+| | Direction du Vent | **cr. 0 - cr. 0** |
+| | Force | **3 - 4** |
+| | Nébulosité (Reg. G. Terre) | **10 - 10** |
+| | Direction des nuages | **cr. 0 - cr. 0** |
+| | Pluie tombée | **1' - 1'** |
+| | Température de l'air | **19.0 - 14.7** |
+| | Hauteur de la mer | **32.3 - 32.2** |
+| | Agitation de l'eau | **2faibles - 2** |
+| | Embâti au bout de la jetée | **1087.0 - 1086.0** |
+| | Température de l'eau | **17.7 - 17.3** |
+
+| **J. 29 Octobre 1907 - Matin Prof.** | **Hauteur Barométrique** | **791.9 - 790.0** |
+| | Direction du Vent | **cr. 0 - cr. 0** |
+| | Force | **2faible - 2** |
+| | Nébulosité (Reg. G. Claire)**(Reg. L. cour)** | **10 - 1** |
+| | Direction des nuages | **ouest - ** |
+| | Pluie tombée | **" - "** |
+| | Température de l'air | **14.7 - 16.6** |
+| | Hauteur de la mer | **26.6 - 16.2** |
+| | Agitation de l'eau | **1fort - 1** |
+| | Embâti au bout de la jetée | **1027.0 - 1026.7** |
+| | Température de l'eau | **17.9 - 17.7** |

@@ -1,0 +1,31 @@
+```plaintext
+|  V. 11 Juin - 1902 | Matin | Soir  |
+| --- | --- | --- |
+|  Hauteur Barométrique | 777.3 | 777.2  |
+|  Direction du vent | er. cr. o | Est  |
+|  Force | 3 | 1  |
+|  Nébulosité (Reg. O. (lère)) | 1 | 10  |
+|  Nébulosité (Reg. E. (mer)) | 2 | 10  |
+|  Direction des nuages | er. cr. o | Ouest  |
+|  Pluie tombée | quelques g | -  |
+|  Température de l'air | 16.7 | 20.2  |
+|  Hauteur de la mer | 41.0 | 44.4  |
+|  Agitation de l'eau | 2 forte | 3 faible  |
+|  Densité au bout de la jetée | 1026.7 | 1026.9  |
+|  Température de l'eau | 16.7 | 17.0  |
+
+|  V. 12 Juin - 1902 | Matin | Soir  |
+| --- | --- | --- |
+|  Hauteur Barométrique | 777.6 | 773.1  |
+|  Direction du vent | er. cr. o | Ouest  |
+|  Force | 2 | 1 forte  |
+|  Nébulosité (Reg. O. (lère)) | 1 | 10  |
+|  Nébulosité (Reg. E. (mer)) | 10 | 10  |
+|  Direction des nuages | - | -  |
+|  Pluie tombée | - | -  |
+|  Température de l'air | 25.6 | 21.6  |
+|  Hauteur de la mer | 36.0 | 36.0  |
+|  Agitation de l'eau | 1 faible | 1 faible  |
+|  Densité au bout de la jetée | 1027.1 | 1027.1  |
+|  Température de l'eau | 16.1 | 17.2  |
+```

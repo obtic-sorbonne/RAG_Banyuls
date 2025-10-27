@@ -1,0 +1,35 @@
+```plaintext
+# V. 8 Septembre - 1903
+
+|  **Niveau** | **Matin** | **Soir**  |
+| --- | --- | --- |
+|  Hauteur Barométrique | 759.4 | 768.0  |
+|  Direction du vent | SO | SO  |
+|  Force | 8 | 3  |
+|  (Reg. O. (terre)) | 10 | 10  |
+|  (Reg. F. (mer)) | 10 | 10  |
+|  Direction des nuages | 2.0 | 2.0  |
+|  (Pluie tombée) |  |   |
+|  Température de l'air | 26.6 | 27.0  |
+|  Hauteur de la mer | 49.8 | 62.0  |
+|  (Agitation de l'eau) | 1 | 2  |
+|  Densité au bout de la jetée | 1027.4 | 1027.3  |
+|  Température de l'eau | 21.4 | 21.1  |
+
+# V. 9 Septembre - 1903
+
+|  **Niveau** | **Matin** | **Soir**  |
+| --- | --- | --- |
+|  Hauteur Barométrique | 759.3 |   |
+|  Direction du vent | SO |   |
+|  Force | 8 |   |
+|  (Reg. O. (terre)) | 0 |   |
+|  (Reg. F. (mer)) | 0 |   |
+|  Direction des nuages |  |   |
+|  (Pluie tombée) |  |   |
+|  Température de l'air | 26.6 |   |
+|  Hauteur de la mer | 49.1 |   |
+|  (Agitation de l'eau) | 1 |   |
+|  Densité au bout de la jetée | 1027.4 |   |
+|  Température de l'eau | 21.1 |   |
+```

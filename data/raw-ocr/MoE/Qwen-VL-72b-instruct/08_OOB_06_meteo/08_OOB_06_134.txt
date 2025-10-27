@@ -1,0 +1,45 @@
+### OBSERVATIONS DU 1931 - 23 Mars
+
+| **Nombre de bateaux sortis (pêche à la traine)** | **38** |
+| **Température de l'air** |
+| maxima depuis la veille | **11.0** |
+| minima id. | **7.1** |
+| **Température de l'eau** |
+| maxima depuis la veille |  |
+| minima id. |  |
+| **Pluie tombée depuis la veille, en millim.** | **"-"** |
+| **Evaporation depuis le 190, en millim.** |  |
+| **à 9 h. m.** | **à 3 h. s.** |
+| **Direction du vent (à terre)** | **Nord** | **S. S. Est** |
+| **Force** | **1 fort** | **7.75 faible** |
+| **Direction des nuages** | **n. n. o.** | **n. o.** |
+| **Nébulosité** |
+| région Ouest (terre) | **60** | **60** |
+| id. Est (mer) | **40** | **40** |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.)** | **41.6** | **46.2** |
+| **Agitation de l'eau** | **1 fort** | **1** |
+| **Densité de l'eau au bout de la jetée** | **1029.2** | **1029.1** |
+| **Température** | **11.2** | **11.3** |
+
+### OBSERVATIONS DU 1931 - 24 Mars
+
+| **Nombre de bateaux sortis (pêche à la traine)** | **38** |
+| **Température de l'air** |
+| maxima depuis la veille | **14.3** |
+| minima id. | **9.7** |
+| **Température de l'eau** |
+| maxima depuis la veille |  |
+| minima id. |  |
+| **Pluie tombée depuis la veille, en millim.** | **"-"** |
+| **Evaporation depuis le 190, en millim.** |  |
+| **à 9 h. m.** | **à 3 h. s.** |
+| **Direction du vent (à terre)** | **N. N. O.** | **Sud** |
+| **Force** | **1 fort** | **7.75 faible** |
+| **Direction des nuages** | **n. m. o.** | **n. o.** |
+| **Nébulosité** |
+| région Ouest (terre) | **6 ligr. et.** | **60** |
+| id. Est (mer) | **3 diss.** | **60** |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.)** | **42.0** | **43.0** |
+| **Agitation de l'eau** | **1 faible** | **1 faible** |
+| **Densité de l'eau au bout de la jetée** | **1028.6** | **1027.7** |
+| **Température** | **11.7** | **12.7** |

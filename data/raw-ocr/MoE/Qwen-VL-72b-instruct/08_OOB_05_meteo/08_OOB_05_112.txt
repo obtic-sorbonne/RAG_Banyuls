@@ -1,0 +1,24 @@
+| Nombre de jours de bateau à la Sardine 19 | Nombre de bateau à la Sardine 19 | Matin | Soir |
+|---|---|---|---|
+| 17 Mai 1906 | | Hauteur Barométrique | 791.7 | 791.8 |
+| | | Direction du vent | cr.o | S.o |
+| | | Force | 2 fort | 1 fort |
+| | | Nébulosité (Reg. n. (terre)) | 10 | 10 |
+| | | Direction des nuages | cr.o | cr.o |
+| | | Pluie tombée | quelques g | quelques g |
+| | | Température de l'air | 13.2 | 13.0 |
+| | | Hauteur de la mer | 39.9 | 39.0 |
+| | | Agitation de l'eau | 1 T. faible | 1 T. faible |
+| | | Densité au bout de la jetée | 1027.9 | 1027.4 |
+| | | Température de l'eau | 19.0 | 19.8 |
+| 18 Mai 1906 | | Hauteur Barométrique | 792.6 | 793.1 |
+| | | Direction du vent | cr.cr.o | cr.o |
+| | | Force | 2 | 3 |
+| | | Nébulosité (Reg. n. (mer)) | 10 | 10 |
+| | | Direction des nuages | cr.o | N.o |
+| | | Pluie tombée | quelques g | quelques g |
+| | | Température de l'air | 13.7 | 10.0 |
+| | | Hauteur de la mer | 36.2 | 39.1 |
+| | | Agitation de l'eau | 2 | 1 fort |
+| | | Densité au bout de la jetée | 1027.3 | 1027.1 |
+| | | Température de l'eau | 19.9 | 19.3 |

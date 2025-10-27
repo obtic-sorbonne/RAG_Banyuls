@@ -1,0 +1,31 @@
+```plaintext
+|  V. 1er Décembre 1902 | Matin | Soir  |
+| --- | --- | --- |
+|  Hauteur Barométrique | 757.7 | 757.8  |
+|  Direction du vent | or.or.o | or.or.o  |
+|  Force | 3 fort | 1 faible  |
+|  Nébulosité (Rég. O. (terre)) | 10 | 10  |
+|  Nébulosité (Rég. E. (mer)) | 10 | 10  |
+|  Direction des nuages | or.or.o | or.or.o  |
+|  Pluie tombée | quelques. 9 |   |
+|  Température de l'air | 12.9 | 13.1  |
+|  Hauteur de la mer | 21.5 | 41.2  |
+|  Agitation de l'eau | 2 | 3  |
+|  Densité au bout de la jetée | 1028.8 | 1028.4  |
+|  Température de l'eau | 14.9 | 11.0  |
+
+|  V. 2 Décembre 1902 | Matin | Soir  |
+| --- | --- | --- |
+|  Hauteur Barométrique | 761.3 | 761.6  |
+|  Direction du vent | or.or.o | or.or.o  |
+|  Force | 4 faible | 3  |
+|  Nébulosité (Rég. O. (terre)) | 10 | 10  |
+|  Nébulosité (Rég. E. (mer)) | 10 | 10  |
+|  Direction des nuages | or.o | or.  |
+|  Pluie tombée |  |   |
+|  Température de l'air | 14.3 | 13.6  |
+|  Hauteur de la mer | 39.0 | 41.8  |
+|  Agitation de l'eau | 3 | 3 fort  |
+|  Densité au bout de la jetée | 1029.3 | 1028.4  |
+|  Température de l'eau | 14.4 | 14.4  |
+```

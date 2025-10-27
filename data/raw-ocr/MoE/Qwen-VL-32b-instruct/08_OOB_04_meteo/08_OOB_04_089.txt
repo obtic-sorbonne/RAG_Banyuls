@@ -1,0 +1,31 @@
+# 9. 30 (Avril. 1902
+
+|  **Pfandeur** | **Pbarométrique** | **761,4**  |
+| --- | --- | --- |
+|  Direction du vent | or. or. o |   |
+|  Force | 6 |   |
+|  %bebulosiée | 0 |   |
+|  %reg. E. (mur) | 0 |   |
+|  Direction des nuages | " |   |
+|  Thie tombée | quidgues. y |   |
+|  Température de l'air | 14,5 |   |
+|  Hauteur de la mer | 49,0 |   |
+|  Régulation de l'eau | 3 foot |   |
+|  Sensite au bout de la jetée | 108,7 |   |
+|  Température de l'eau | 14,6 |   |
+
+# 1er 31 Mai. 1902
+
+|  **Pfandeur** | **Pbarométrique** | **762,6**  |
+| --- | --- | --- |
+|  Direction du vent | or. or. o |   |
+|  Force | /faible |   |
+|  %bebulosiée | 0 (faire) |   |
+|  %reg. E. (mur) | 2 digs. |   |
+|  Direction des nuages | or. or. o |   |
+|  Thie tombée | " |   |
+|  Température de l'air | 14,4 |   |
+|  Hauteur de la mer | 10,6 |   |
+|  Régulation de l'eau | 3 |   |
+|  Sensite au bout de la jetée | 1026,1 |   |
+|  Température de l'eau | 14,7 | 14,3  |

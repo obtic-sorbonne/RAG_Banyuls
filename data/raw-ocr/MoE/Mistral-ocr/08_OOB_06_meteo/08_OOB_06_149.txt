@@ -1,0 +1,66 @@
+# OBSERVATIONS DU 1901
+
+Nombre de bateaux sortis (pêche à 1..........................................).
+
+|  |   |
+| --- | --- |
+|  Température de l'air | maxima depuis la veille.  |
+|   | minima  |
+|  Température de l'eau | maxima depuis la veille.  |
+|   | minima  |
+|  Pluie tombée depuis la veille, en millim. |   |
+|  Evaporation depuis le ................................................. |   |
+|   | 190, en millim.  |
+|  Direction du vent (à terre)......................................... |   |
+|  Force | 6  |
+|  Direction des nuages................................................ |   |
+|  Nébulosité | région Ouest (terre)  |
+|   | id. Est (mer).  |
+|  Hauteur de la mer, en centimètres, au-dessus du zéro (P.S.P.). |   |
+|  Agitation de l'eau........................................................ |   |
+|  Densité de l'eau au bout de la jetée........................................ |   |
+|  Température | id.  |
+
+# OBSERVATIONS DU 1901
+
+Nombre de bateaux sortis (pêche à la 2400).
+
+|  |   |
+| --- | --- |
+|  Température de l'air | maxima depuis la veille.  |
+|   | minima  |
+|  Température de l'eau | maxima depuis la veille.  |
+|   | minima  |
+|  Pluie tombée depuis la veille, en millim. |   |
+|  Evaporation depuis le ................................................. |   |
+|   | 2400, en millim.  |
+|  Direction du vent (à terre)......................................... |   |
+|  Force | 1901.0  |
+|  Direction des nuages................................................ |   |
+|  Nébulosité | région Ouest (terre)  |
+|   | id. Est (mer).  |
+|  Hauteur de la mer, en centimètres, au-dessus du zéro. (P.S.P.). |   |
+|  Agitation de l'eau........................................................ |   |
+|  Densité de l'eau au bout de la jetée........................................ |   |
+|  Température | id.  |
+
+# 2400
+
+Nombre de bateaux sortis (pêche à la 1800).
+
+|  |   |
+| --- | --- |
+|  Température de l'air | maxima depuis la veille.  |
+|   | minima  |
+|  Pluie tombée depuis la veille, en millim. |   |
+|  Evaporation depuis le ................................................. |   |
+|   | 2400, en millim.  |
+|  Direction du vent (à terre)......................................... |   |
+|  Force | 1901.0  |
+|  Direction des nuages........................................................ |   |
+|  Nébulosité | région Ouest (terre)  |
+|   | id. Est (mer).  |
+|  Hauteur de la mer, en centimètres, au-dessus du zéro. (P.S.P.). |   |
+|  Agitation de l'eau........................................................ |   |
+|  Densité de l'eau au bout de la jetée........................................ |   |
+|  Température | id.  |

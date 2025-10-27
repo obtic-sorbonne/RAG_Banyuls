@@ -1,0 +1,18 @@
+| **Observations météorologiques**      | **Matin (9h)** | **Soir (3h)** |
+|-----------------------------------|----------------|---------------|
+| **Haut. Barom.**                  | 771.2          | 770.0         |
+| **Dir. du vent**                  | Nord           | Nord          |
+| **Force**                         | 4              | 5             |
+| **Nébulosité**                    |                |               |
+| - Rég. O. (clére)                | 0              | 1             |
+| - Rég. E. (moi)                  | 1              | 5             |
+| **Dir. des nuages**               | Nord           | Nord          |
+| **Pluie tombée**                  | 11             | 11            |
+| **Temp. de l'air**                | 11.2           | 11.6          |
+| **Haut. de la mer**               | 63.1           | 73.5          |
+| **Agitation de l'eau**            | 2              | 3 (fort)      |
+| **Dens. de l'eau**                |                |               |
+| - A cou de la jetée               | 1028.2         | 1028.0        |
+| - Au Large                       |                |               |
+| **Temp. de l'eau**                | 12.1           | 11.9          |
+| **Pression**                      | 769.9          |               |

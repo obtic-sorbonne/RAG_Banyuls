@@ -1,0 +1,32 @@
+```plaintext
+| **Date**           | **Matin**                     | **Soir**                     |
+|--------------------|------------------------------|------------------------------|
+| **1er Octobre 1901**   |                              |                              |
+| **Hauteur Barom.** | 763.7                        | 762.3                        |
+| **Dir. vent**      | E.S.E                        | Ett                          |
+| **Force**          | 1                            | faible                       |
+| **Nébulosit.**     |                             |                              |
+| (Reg. O. (terre))  | 10                           | 10                           |
+| (Reg. E. (mer))    | 10                           | 10                           |
+| **Dir. nuages**    | Est                          | c.n.0                        |
+| **Pluie tombée**   | 0.090                        | 0.003                        |
+| **Temp. de l'air** | 18.0                         | 18.6                         |
+| **H. de la mer**   | 21.1                         | 36.7                         |
+| **Agitation de l'eau** | fort                      | fort                        |
+| **Vélocité à la j.** | 1027.8                       | 1026.9                       |
+| **Temp. de l'eau** | 17.0                         | 17.6                         |
+| **2 Octobre 1901**   |                              |                              |
+| **Hauteur Barom.** | 763.4                        | 763.3                        |
+| **Dir. vent**      | S.S.E                        | Quert                        |
+| **Force**          | 1                            | faible / faible              |
+| **Nébulosit.**     |                             |                              |
+| (Reg. O. (terre))  | 10                           | 10                           |
+| (Reg. E. (mer))    | 10                           | 10                           |
+| **Dir. nuages**    | c.n.0                        | "                            |
+| **Pluie tombée**   | 0.007                        | 0.009                        |
+| **Temp. de l'air** | 18.4                         | 17.2                         |
+| **H. de la mer**   | 26.0                         | 39.3                         |
+| **Agitation de l'eau** | 2                         | 3                            |
+| **Vélocité à la j.** | 1027.1                       | 1026.6                       |
+| **Temp. de l'eau** | 17.8                         | 17.9                         |
+```

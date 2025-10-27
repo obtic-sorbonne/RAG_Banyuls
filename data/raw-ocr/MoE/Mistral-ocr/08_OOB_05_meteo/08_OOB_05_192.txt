@@ -1,0 +1,33 @@
+# 27 Décembre 1906
+
+|  Nom | Date | Type | Prix  |
+| --- | --- | --- | --- |
+|  Hauteur Maronetrique | 2/05 |  | 749.9  |
+|  Direction du vent |  |  | 368.9  |
+|  Force | 1/1 | 2 fort | 1 faible  |
+|  Nébulorite | (Rey. O. (lame)) | 10 | 10  |
+|  Nébulorite | (Rey. R. (mur)) | 10 | 10  |
+|  Direction des nuages |  |  | 10  |
+|  Pline tombée |  |  | 10  |
+|  Température de l'air |  | 8.7 | 1/1  |
+|  Hauteur de la mer |  | 4/0 | 3  |
+|  Capitation de l'eau |  | 1 | 1  |
+|  Densité au bout de la jetée |  | 1.28.9 | 1  |
+|  Température de l'eau |  | 12.0 | 3  |
+
+# 28 Décembre 1906
+
+|  Nom | Date | Type | Prix  |
+| --- | --- | --- | --- |
+|  Hauteur Maronetrique | 2/05 |  | 749.9  |
+|  Direction du vent |  |  | 368.9  |
+|  Force | 1/1 | 1 fort | 1 faible  |
+|  Nébulorite | (Rey. O. (lame)) | 10 | 10  |
+|  Nébulorite | (Rey. R. (mur)) | 10 | 10  |
+|  Direction des nuages |  |  | 10  |
+|  Pline tombée |  |  | 12.2  |
+|  Température de l'air |  | 1.2 | 1  |
+|  Hauteur de la mer |  | 31.7 | 37.1  |
+|  Capitation de l'eau |  | 1 fort | 1/1  |
+|  Densité au bout de la jetée |  | 1.29.3 | 1.29.0  |
+|  Température de l'eau |  | 12.3 | 11.7  |

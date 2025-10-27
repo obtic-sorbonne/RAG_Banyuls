@@ -1,0 +1,31 @@
+```plaintext
+| Date          | Matin       |    |    |       |         |    | Soir       |    |    |       |          |    |
+|---------------|-------------|----|----|-------|---------|----|------------|----|----|-------|----------|----|
+| 22 Septembre 1906 |            |    |    |       |         |    |            |    |    |       |          |    |
+| Hauteur Barométrique |   | 767.4 |    |       |         |    |    |    |    |       |          |    |
+| Direction du vent | Est |    |    |       |         |    |    |    |    |       |          |    |
+| Force | i |    |    |       | 1 T. faible |    |    |    |    |       |          |    |
+| Nébulosité | Reg. o. (clère) | 10 |    |       |         |    |    |    |    |       |          |    |
+| (Reg. z- (nu)) | 10 |    |    |       |         |    |    |    |    |       |          |    |
+| Direction des nuages | Soud |    |    |       | 2 Nord |    |    |    |    |       |          |    |
+| Pluie tombée |    |    |    |       |    |    |    |    |    |       |          |    |
+| Température de l'air | 21.f |    |    |       |         |    |    |    |    |       |          |    |
+| Hauteur de la mer | 43.5 |    |    |       |         |    |    |    |    |       |          |    |
+| Agitation de l'eau | 2 |    |    |       |         |    |    |    |    |       |          |    |
+| Densité au bout de la jatte | 1027.8 |    |    |       |         |    |    |    |    |       |          |    |
+| Température de l'eau | 19.9 |    |    |       |         |    |    |    |    |       |          |    |
+| -------------- | ------------- | ---- | ---- | ------- | -------- | ---- | ---------------- | ---- | ---- | ------- | ---------- | ---- |
+| 24 Septembre 1906 |            |    |    |       |         |    |            |    |    |       |          |    |
+| Hauteur Barométrique |   | 769./ |    |       |    764.7 |    |    |    |    |       |          |    |
+| Direction du vent | Croût |    |    |       | cr. E |    |    |    |    |       |          |    |
+| Force | i |    |    |       |    1 T. faible |    |    |    |    |       |          |    |
+| Nébulosité | Reg. o. (clère) | 10 légère |    |       |    10 légère |    |    |    |    |       |          |    |
+| (Reg. z. (nu)) | 10 légère |    |    |       |    10 légère |    |    |    |    |       |          |    |
+| Direction des nuages | Sud |    |    |       |    S. O. |    |    |    |    |       |          |    |
+| Pluie tombée |    |    |    |       |    " |    |    |    |    |       |          |    |
+| Température de l'air | 19.8 |    |    |       |    22.f |    |    |    |    |       |          |    |
+| Hauteur de la mer | 46.3 |    |    |       |    44.2 |    |    |    |    |       |          |    |
+| Agitation de l'eau | 2 |    |    |       |    2 fort |    |    |    |    |       |          |    |
+| Densité au bout de la jatte | 1028.0 |    |    |       |    1027.8 |    |    |    |    |       |          |    |
+| Température de l'eau | 20.0 |    |    |       |    20.2 |    |    |    |    |       |          |    |
+```

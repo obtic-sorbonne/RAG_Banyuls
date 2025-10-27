@@ -1,0 +1,29 @@
+| R. 22 Aout. 1907 | Matin | Soir |
+|-----------------|-------|------|
+| Hauteur Barométrique | 770.8 | 769.6 |
+| Direction du Vent | E.N.E. | S.E. |
+| Force | 2 | 1 faible |
+| (Reg. C. Aire) | 0 | 0 |
+| Nébulosité | 0 | 0 |
+| (Reg. N. (nu)) | 0 | 0 |
+| Direction des nuages | " | " |
+| Pluie tombée | " | " |
+| Température de l'air | 23.2 | 28.0 |
+| Hauteur de la mer | 62.0 | 59.7 |
+| Agitation de la mer | 2 fort | 2 fort |
+| Densité au bout de la jetée | 1028.2 | 1027.4 |
+| Température de l'eau | 21.6 | 21.3 |
+| R. 23 Aout. 1907 | Matin | Soir |
+| Hauteur Barométrique | 768.6 | 766.6 |
+| Direction du Vent | E.N.E. | S.E. |
+| Force | 2 | 2 |
+| (Reg. C. Aire) | 0 | 0 |
+| Nébulosité | 1 | 10 |
+| (Reg. N. (nu)) | 1 | 10 |
+| Direction des nuages | E.N.E. | S.E. |
+| Pluie tombée | " | " |
+| Température de l'air | 24.3 | 29.7 |
+| Hauteur de la mer | 52.9 | 52.3 |
+| Agitation de la mer | 1 | 1 fort |
+| Densité au bout de la jetée | 1027.7 | 1027.6 |
+| Température de l'eau | 21.2 | 21.4 |

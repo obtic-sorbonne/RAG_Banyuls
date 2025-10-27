@@ -1,0 +1,27 @@
+```plaintext
+|  4. 15 9thai - 1904 | 9thatin | Soir  |
+| --- | --- | --- |
+|  Hauteur Barométrique - Direction du vent | 762.8 | 767.2  |
+|  Force | 16 | 1.8  |
+|  Reg. C. (terre) | 1 | 0  |
+|  Sububosite | 1 | 1  |
+|  Direction des nuages | 1 | 1.8  |
+|  Flux tombé |  |   |
+|  Température de l'air | 12.2 | 18.8  |
+|  Hauteur de la mer | 12.2 | 16.4  |
+|  Agitation de l'eau | 1 faible | 1 faible  |
+|  Densité au bout de la jetée | 1028.2 | 1028.6  |
+|  Température de l'eau | 19.1 | 18.1  |
+|  5. 17 9thai - 1904 | 9thatin | Soir  |
+|  Hauteur Barométrique - Direction du vent |  | 762.4  |
+|  Force |  | 1.8  |
+|  Reg. C. (terre) |  | 1  |
+|  Sububosite |  | 1  |
+|  Direction des nuages |  | 1  |
+|  Flux tombé |  | 31.0  |
+|  Température de l'air |  | 16.3  |
+|  Hauteur de la mer |  | 1 faible  |
+|  Agitation de l'eau |  | 1027.0  |
+|  Densité au bout de la jetée |  | 1028.8  |
+|  Température de l'eau |  | 1  |
+```

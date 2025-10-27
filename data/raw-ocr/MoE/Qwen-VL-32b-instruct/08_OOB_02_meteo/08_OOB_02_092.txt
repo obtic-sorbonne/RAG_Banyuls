@@ -1,0 +1,28 @@
+# Date: 10 juin 1901
+
+|  |   |   |
+| --- | --- | --- |
+|  9" Matin 3" Soir |  |   |
+|  J'enter |  |   |
+|  Direction Su vent | 763,6 | 763,4  |
+|  Force | 84 | Hors  |
+|  9" Échosite / Reg. - (Turre) | 3 | 3 faille  |
+|  9" Échosite / Reg. - E. (mer) | 10 |   |
+|  Direction Ses mages | 10 |   |
+|  Mure Tombe | 22,4 | 23,7  |
+|  Température Se l'air | 47,6 | 44,2  |
+|  1 | 1 | 2  |
+|  J'enter | 102,9 | 1026,6  |
+|  47,6 |  |   |
+|  44,2 |  |   |
+|  1 |  |   |
+|  2 |  |   |
+|  102,9 |  |   |
+|  1026,6 |  |   |
+|  23,0 |  |   |
+|  23,2 |  |   |
+|  22,4 |  |   |
+|  21,6 |  |   |
+|  21,2 |  |   |
+|  20,4 |  |   |
+|  20,2 |  |   |

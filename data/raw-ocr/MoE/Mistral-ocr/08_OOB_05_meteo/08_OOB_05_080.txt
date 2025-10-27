@@ -1,0 +1,27 @@
+|  V. 16 février - 1906 | Mbatin | Soir  |
+| --- | --- | --- |
+|  Hauteur Barometrique | 281.2 |   |
+|  Direction du vent | cr.cr. |   |
+|  Porex | 2 |   |
+|  Mébulorite | 36gr.mts |   |
+|  (Reg. X. (mer)) |  |   |
+|  Direction des mags | croud |   |
+|  Fluie tombée | goulgur |   |
+|  Température de l'air | 8.0 |   |
+|  Hauteur de la mer | 18.2 |   |
+|  Acaptation de l'eau | 2 |   |
+|  Densité au bout de la jetée | 1029.8 |   |
+|  Température de l'eau | 13.1 |   |
+|  V. 17 février - 1906 | Mbatin | Soir  |
+|  Hauteur Barometrique | 262.2 | 281.2  |
+|  Direction du vent | crust | 2.8  |
+|  Porex | 15.6 | 1.8  |
+|  Mébulorite | 10 | 10  |
+|  (Reg. X. (mer)) |  |   |
+|  Direction des mags | 10 | 10  |
+|  Fluie tombée | 10.68 | 8.8  |
+|  Température de l'air | 9.3 | 11.6  |
+|  Hauteur de la mer | 5 | 5  |
+|  Acaptation de l'eau | 0 | 1  |
+|  Densité au bout de la jetée | 5 | 5  |
+|  Température de l'eau |  |   |

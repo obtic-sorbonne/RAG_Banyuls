@@ -1,0 +1,14 @@
+| Date | 22 Octobre 1901 |
+| --- | --- |
+| 9h Matin | 15h Soir |
+| **Hauteur Barométrique** | 755.4 | 755.6 |
+| **Direction du Vent** | N.N.O | N.N.E |
+| **Force** | 2 | 1 fort |
+| **Nébulosité** | Rég. 6 (Terre) | 2 (Mer) | 0 |
+| **Direction des Nuages** | N.N.O | N.N.E |
+| **Pluie tombée** |  |  |
+| **Température de l'air** | 13.2 | 15.9 |
+| **Hauteur de la mer** | 38.2 | 22.1 |
+| **Agitation de l'eau** | 1 faible (bout de la jetée) | 1 fort (bout de la jetée) |
+| **Densité de l'eau** | 1027.9 (bout de la jetée) | 1027.4 (bout de la jetée) |
+| **Température de l'eau** | 17.2 | 17.3 |

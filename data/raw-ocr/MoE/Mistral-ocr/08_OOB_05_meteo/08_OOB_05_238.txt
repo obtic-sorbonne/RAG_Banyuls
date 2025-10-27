@@ -1,0 +1,29 @@
+|  V. 30 Avril - 1907 | Mbatin | Prix  |
+| --- | --- | --- |
+|  Hauteur Pracrométrique | 207.7 | 207.2  |
+|  Direction du Vent | 10.0 | 1.8  |
+|  Po.ce | 1 fort. | 2  |
+|  N. 1 Reg. G. (terre) | 10 | 10  |
+|  N. 1 Reg. G. (mer) | 10 | 10  |
+|  Direction des images | 10.0 | 10.0  |
+|  Pluie tombée |  | quelques.  |
+|  Température de l'air | 17.0 | 17.0  |
+|  Hauteur de la mer | 18.6 | 17.8  |
+|  A. 1907 | 1 fort. | 1 fort.  |
+|  A. 1907 | 1029.4 | 1029.2  |
+|  Densité au bout de la jetée | 1029.4 | 1029.2  |
+|  Température de l'eau | 13.0 | 13.7  |
+|  V. 1er Moai - 1907 | Mbatin | Prix  |
+|  Hauteur Pracrométrique | 207.2 | 207.8  |
+|  Direction du vent | 10.0 | 10.0  |
+|  Po.ce | 8 fort. | 2  |
+|  N. 1 Reg. G. (terre) | 10 | 10  |
+|  N. 1 Reg. G. (mer) | 10 | 10  |
+|  Direction des images | 10.0 | 10.0  |
+|  Pluie tombée | quelques.  |
+|  Température de l'air | 12.3 | quelques.  |
+|  Hauteur de la mer | 18.2 | 18.7  |
+|  A. 1907 | 2 | 2  |
+|  A. 1907 | 2 | 2  |
+|  Densité au bout de la jetée | 1029.3 | 1029.3  |
+|  Température de l'eau | 18.6 | 18.6  |

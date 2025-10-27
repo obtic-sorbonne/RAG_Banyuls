@@ -1,0 +1,28 @@
+| Date       | Matin | Soir |
+|------------|-------|------|
+| V. 31 Janvier 1907 |       |      |
+| Hauteur Barométrique | 761.9 | 760.3 |
+| Direction du Vent | N.O | N.O |
+| Force | 4 | A faible |
+| Nébulosité | Reg. 0. (clère) | 10 |
+| Reg. 2. (mer) | 10 | 10 |
+| Direction des nuages | N.N.O | N.O |
+| Pluie Tombée | " | quelque |
+| Température de l'air | 4.9 | 2.2 |
+| Hauteur de la mer | 54.8 | 5 |
+| Agitation de l'eau | 2 | 2 |
+| Densité au bout de la jetée | 1028.6 |  |
+| Température de l'eau | 10.1 |  |
+| V. 1er Février 1907 |       |      |
+| Hauteur Barométrique | 761.7 | 762.2 |
+| Direction du Vent | N.O | N.O |
+| Force | 3 | A faible |
+| Nébulosité | Reg. 0. (clère) | 10 |
+| Reg. 2. (mer) | 10 | 3 |
+| Direction des nuages | N.N.O | N.N.O |
+| Pluie Tombée | " | " |
+| Température de l'air | 3.7 | 4.2 |
+| Hauteur de la mer | 50.5 | 64.5 |
+| Agitation de l'eau | 3 | 3 fort |
+| Densité au bout de la jetée | 1029.4 | 1029.4 |
+| Température de l'eau | 10.2 | 10.0 |

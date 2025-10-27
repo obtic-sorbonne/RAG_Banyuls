@@ -1,0 +1,25 @@
+|  V. 12 Mbars. 1907 | Mbaru | Pair  |
+| --- | --- | --- |
+|  Hantum Waxomelique | 267.0 | 267.0  |
+|  Direction du vent | 00.0 | 00.0  |
+|  Force | 6 foot | 6 foot  |
+|  Meburhanti (Res. O. (sur) | 0 | 0  |
+|  Direction des nuages | 1.0 | 1.0  |
+|  Flue Tombe | 1.9 | 1.8  |
+|  Température de l'air | 61.8 | 63.3  |
+|  Hantum de la mer | 3 | 3 foot  |
+|  Capitation de l'eau | 1029.3 | 1029.4  |
+|  Densité au cours de la jetée | 10.1 | 10.1  |
+|  Température de l'eau | 10.1 | 10.1  |
+|  V. 13 Mbars. 1907 | Mbaru | Pair  |
+|  Hantum Waxomelique | 269.7 | 267.8  |
+|  Direction des nuages | 00.0 | 00.0  |
+|  Flue Tombe | 1.3 | 1.2  |
+|  Température de l'air | 61.0 | 70.8  |
+|  Hantum de la mer | 3 | 3  |
+|  Capitation de l'eau | 1029.7 | 1029.6  |
+|  Densité au cours de la jetée | 10.1 | 10  |
+|  Meburhanti (Res. O. (sur) | 10 | 10  |
+|  Direction du vent | 00.0 | 00.0  |
+|  Force | 3 foot | 4 foot  |
+|  Température de l'eau | 10.3 | 10.4  |

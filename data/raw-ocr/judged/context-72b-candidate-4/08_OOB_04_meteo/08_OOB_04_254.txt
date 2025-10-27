@@ -1,0 +1,30 @@
+```plaintext
+| Date       | Matin | Soir |
+|------------|-------|------|
+| **25 juillet 1903** | **Hauteur Barométrique** | 766.2 | 754.4 |
+|                 | **Direction du vent**  | NE | SSE |
+|                 | **Force**              | 1 | Foible |
+|                 | **Reg. 6 (clair)**     | 0 | 0 |
+|                 | **Nébulosité**         | 0 | 0 |
+|                 | **Reg. 2 (mer)**       | 0 | 0 |
+|                 | **Direction des nuages** | er. oc. o | er. oc. o |
+|                 | **Pluie tombée**       | - | - |
+|                 | **Température de l'air** | 21.9 | 23.4 |
+|                 | **Hauteur de la mer**  | 12.3 | 13.3 |
+|                 | **Agitation de l'eau**  | Foible | Foible |
+|                 | **Densité au bout de la jetée** | 1026.7 | 1026.7 |
+|                 | **Température de l'eau** | 21.3 | 23.4 |
+| **26 juillet 1903** | **Hauteur Barométrique** | 762.1 | 763.1 |
+|                 | **Direction du vent**  | SW | NW |
+|                 | **Force**              | 1 | 2 |
+|                 | **Reg. 6 (clair)**     | 0 | 10 |
+|                 | **Nébulosité**         | 10 | 0 |
+|                 | **Reg. 2 (mer)**       | 10 | 0 |
+|                 | **Direction des nuages** | er. oc. o | - |
+|                 | **Pluie tombée**       | - | - |
+|                 | **Température de l'air** | 22.0 | 23.1 |
+|                 | **Hauteur de la mer**  | 49.8 | 49.0 |
+|                 | **Agitation de l'eau**  | Foible | Foible |
+|                 | **Densité au bout de la jetée** | 1027.1 | 1027.4 |
+|                 | **Température de l'eau** | 21.6 | - |
+```

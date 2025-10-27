@@ -1,0 +1,27 @@
+|  V. 22 Octobie - 1907 | Nkatin | Soir  |
+| --- | --- | --- |
+|  Hauteur Maronetrique | 70/3 | 704,6  |
+|  Direction des Fent | or.ur.c | or.ct.3  |
+|  Fozce | 1 font | 1 font  |
+|  (Reg. O. (tren) | 10 | 10  |
+|  Nebulobite (Reg. K. (nur) | 10 | 10  |
+|  Direction des mags | or. 8 | 10  |
+|  Flue Tomliei | 8,0 | 18,1  |
+|  Gempirature de l'air | 19,0 | 19,1  |
+|  Hauteur de la nur | 34,1 | 40,0  |
+|  Gigtation de l'eau | 3 font. | 3  |
+|  Densité au bout de la jetee | 126,6 | 103,1  |
+|  Gempirature de l'eau | 19,3 | 19,1  |
+|  V. 23 Octobie - 1907 | Nkatin | Soir  |
+|  Hauteur Maronetrique | 704,3 | 768,1  |
+|  Direction du Fent | or.ur.c | or.0  |
+|  Fozce | 3 | 3 font  |
+|  (Reg. O. (tren) | 10 | 10  |
+|  Nebulobite (Reg. K. (nur) | 10 | 10  |
+|  Direction des mags | or. 8 | 18,1  |
+|  Flue Tomliei | 13,3 | 11,1  |
+|  Gempirature de l'air | 16,8 | 11,1  |
+|  Hauteur de la nur | 36,4 | 37,1  |
+|  Gigtation de l'eau | 28 | 3 font  |
+|  Densité au bout de la jetee | 1036,1 | 1036,3  |
+|  Gempirature de l'eau | 18,7 | 18,8  |

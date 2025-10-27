@@ -1,0 +1,18 @@
+# Data D. E. Clop. F. 1900.
+
+|  Obere |  |   |
+| --- | --- | --- |
+|  Hauteur barométrique |  | 766,8  |
+|  Direction du vent |  | N.N.O.  |
+|  Force | 3 | 2  |
+|  Nébulosité | Réy. O. (tome) | 0  |
+|   | Réy. E. (tome) | 0  |
+|  Direction des nuages |  |   |
+|  Pluie tombée |  |   |
+|  Température de l'air |  | 24,8  |
+|  Hauteur de la mer |  | 0,30  |
+|  Agitation de l'eau |  | 1  |
+|  Densité de l'eau | (au bout de la jetée) | 1097,0  |
+|  Température de l'eau |  | 21,5  |
+
+Obere.

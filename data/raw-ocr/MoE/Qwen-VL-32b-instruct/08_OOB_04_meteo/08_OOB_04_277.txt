@@ -1,0 +1,32 @@
+# 9. 18 Septembre 1903
+
+|  Nom | Date | Type  |
+| --- | --- | --- |
+|  Hauteur Marométrique | 1861/1 | 164.4  |
+|  Direction du vent | 18.3 | 11.3  |
+|  Force | 1/20th | 2  |
+|  Rég. O. (lire) | 0 | 0  |
+|  N. Reg. X. (mer) | 1/20th | 1/20th  |
+|  Direction des nuages | " | "  |
+|  N. N. 10 mbar | 18.3 | 20.3  |
+|  Sémolarité de l'air | 60/1 | 43.1  |
+|  Sémolard de l'eau | 1/20th | 1  |
+|  Sémolarité au bout de la jetée | 1028.3 | 1028.3  |
+|  Sémolarité de l'eau | 18.0 | 18.3  |
+
+# 19. 20 Septembre 1903
+
+|  Nom | Date | Type  |
+| --- | --- | --- |
+|  Hauteur Marométrique | 1903 | 163.6  |
+|  Direction du vent |  | 10.4  |
+|  Force | 1/20th | 1  |
+|  Rég. O. (lire) | 10 | 10  |
+|  N. Reg. X. (mer) | 10 | 10  |
+|  Direction des nuages |  | 20.4  |
+|  N. N. 10 mbar |  | 20.4  |
+|  Sémolarité de l'air |  | 20.4  |
+|  Sémolard de l'eau |  | 20.4  |
+|  Sémolard de l'eau |  | 20.4  |
+|  Sémolarité au bout de la jetée |  | 20.4  |
+|  Sémolarité de l'eau |  | 20.4  |

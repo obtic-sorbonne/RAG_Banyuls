@@ -1,0 +1,31 @@
+```markdown
+| 3 Novembre 1906 | Matin | Soir |
+|-----------------|-------|------|
+| Hauteur Barométrique (mmHg) | 744.3 | 743.1 |
+| Direction du Vent | Ouest | Ouest |
+| Force | 3 faible | 3 faible |
+| Nébulosité | 10 | 10 |
+| Rég. c. (terre) | 10 | 10 |
+| Direction des Nuages | Ouest | Ouest |
+| Pluie Tombée | quelques | quelques |
+| Température de l'Air (°C) | 15.4 | 15.6 |
+| Hauteur de la Mer (m) | 1.0 | 1.0 |
+| Agitation de l'Eau | 1028.1 | 1028.1 |
+| Densité au bout de la Jetée (kg/m³) | 14.4 | 14.4 |
+| Température de l'Eau (°C) | 17.7 | 17.8 |
+
+| 4 Novembre 1906 | Matin | Soir |
+|-----------------|-------|------|
+| Hauteur Barométrique (mmHg) | 743.1 | 741.4 |
+| Direction du Vent | Ouest | Ouest |
+| Force | 3 | 3 |
+| Nébulosité | 10 | 10 |
+| Rég. c. (terre) | 10 | 10 |
+| Direction des Nuages | Ouest | Ouest |
+| Pluie Tombée | 3.0 | 3.0 |
+| Température de l'Air (°C) | 15.6 | 15.4 |
+| Hauteur de la Mer (m) | 1.0 | 1.0 |
+| Agitation de l'Eau | 1028.1 | 1028.1 |
+| Densité au bout de la Jetée (kg/m³) | 14.4 | 14.4 |
+| Température de l'Eau (°C) | 17.8 | 17.7 |
+```

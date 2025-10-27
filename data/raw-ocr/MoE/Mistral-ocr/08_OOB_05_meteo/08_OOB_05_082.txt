@@ -1,0 +1,23 @@
+|  7. 22 Jervier - 1900 | Mboatin | Four  |
+| --- | --- | --- |
+|  Hauteur Basométrique de la section du vent | 2 | 262.8  |
+|  Force | 15 | 10  |
+|  Hébulosité (Rég. 0. (lire) |  | 10  |
+|  Direction des mages |  | 10  |
+|  Flue tombée |  | 11.0  |
+|  Température de l'air |  | 07.0  |
+|  Hauteur de la mer |  | 2 fort  |
+|  Cajitation de l'eau |  | 1629.0  |
+|  Sensité au bout de la jetée |  | 14.9  |
+|  Température de l'eau |  |   |
+|  7. 23 Jervier - 1900 | Mboatin | Four  |
+|  Hauteur Basométrique de la section du vent | 4/5.0 | 7/8.2  |
+|  Force | 07.0 | 07.0  |
+|  Hébulosité (Rég. 0. (lire) | 2 / 262.8 | 3 fort  |
+|  Direction des mages | 10 | 10  |
+|  Flue tombée |  | 10  |
+|  Température de l'air |  | 07.0  |
+|  Hauteur de la mer |  | 11.0  |
+|  Cajitation de l'eau |  | 3 fort  |
+|  Sensité au bout de la jetée |  | 3 fort  |
+|  Température de l'eau |  | 3  |

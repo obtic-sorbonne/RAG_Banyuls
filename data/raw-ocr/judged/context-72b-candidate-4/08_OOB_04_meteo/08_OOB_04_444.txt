@@ -1,0 +1,29 @@
+```plaintext
+| V. 17 Novembre - 1904 | Matin | Soir |
+|---|---|---|
+| Hauteur Barométrique | 769,0 | 769,0 |
+| Direction du vent | cr.cr.o | vr.8 |
+| Force is | 2 | 1 fort |
+| Nébulosité Reg. O. (terre) | 0 | 10 |
+| Reg. E. (mer) | 0 | 10 |
+| Direction des nuages | " | Est |
+| Pluie tombée | " | " |
+| Température de l'air | 11,6 | 13,8 |
+| Hauteur de la mer | 51,3 | 41,2 |
+| Agitation de l'eau | 2 fort | 2 fort |
+| Densité au bout de la jetée | 1029,2 | 1028,8 |
+| Température de l'eau | 16,7 | 16,7 |
+| V. 18 Novembre - 1904 | Matin | Soir |
+| Hauteur Barométrique | 770,9 | 769,0 |
+| Direction du vent | cr.cr.o | S.S.E |
+| Force is | 1 fort | 1 faible |
+| Nébulosité Reg. O. (terre) | 2 | 4 |
+| Reg. E. (mer) | 2 | 6 légère |
+| Direction des nuages | cv.o | cr.cr.o |
+| Pluie tombée | 4,12" | " |
+| Température de l'air | 12,7 | 14,4 |
+| Hauteur de la mer | 50,8 | 41,6 |
+| Agitation de l'eau | 2 fort | 2 |
+| Densité au bout de la jetée | 1028,7 | 1028,6 |
+| Température de l'eau | 17,0 | 17,1 |
+```

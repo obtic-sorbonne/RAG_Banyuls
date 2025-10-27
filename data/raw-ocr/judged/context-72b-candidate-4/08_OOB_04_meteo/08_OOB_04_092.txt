@@ -1,0 +1,32 @@
+```plaintext
+| **Date**     | **9h Matin** | **18h Soir** |
+|--------------|-------------|--------------|
+| **9 mai 1902** |            |            |
+| Hauteur Barométrique | 782.6          | 762.2          |
+| Direction du vent     | er. cr. o      | er. cr. o      |
+| Force                 | 15 (faible)    | 3              |
+| Nebulosité (Reg. O. - Terre) | 3              | 10             |
+| Nebulosité (Reg. E. - Mer)   | 2              | 10             |
+| Direction des nuages  | er. cr. o      | er. cr. o      |
+| Pluie Tombée          | quelques g     | quelques g     |
+| Température de l'air  | 11.3           | 13.1           |
+| Hauteur de la mer     | 67.9           | 63.1           |
+| Agitation de l'eau    | 2 (faible)     | 2 (faible)     |
+| Densité au bout de la jetée | 1027.9       | 1027.9         |
+| Température de l'eau  | 14.0           | 14.3           |
+
+| **10 mai 1902** |             |             |
+|-----------------|-------------|-------------|
+| Hauteur Barométrique | 764.6          | 769.6          |
+| Direction du vent     | er. cr. o      | er. cr. o      |
+| Force                 | 15 (faible)    | A. T. fort     |
+| Nebulosité (Reg. O. - Terre) | 0              | légères       |
+| Nebulosité (Reg. E. - Mer)   | 2              | légères       |
+| Direction des nuages  | er. cr. o      | er. cr. o      |
+| Pluie Tombée          | "             | "             |
+| Température de l'air  | 13.4           | 12.9           |
+| Hauteur de la mer     | 63.4           | 61.9           |
+| Agitation de l'eau    | 2              | 3 (faible)     |
+| Densité au bout de la jetée | 1028.6       | 1028.0         |
+| Température de l'eau  | 14.2           | 14.3           |
+```

@@ -1,0 +1,29 @@
+| **Date**         | **Matin**             | **Soir**             |
+|-------------------|-----------------------|----------------------|
+| **V. 17 mars. 1902** |                       |                      |
+| Hauteur Barométrique | 771.7                 |                      |
+| Direction du vent  |                                       | er. or. 0          |
+| Force             | 2                     |                      |
+| Rég. O. (ciel)     |                       | **W**                |
+| Rég. E. (mer)     |                       | **W**                |
+| Nuage(s)          |                       |                      |
+| Direction des nuages |                   | er. 8                |
+| Pluie Tombée       |                       | quelque g            |
+| Température de l'air    | 11.7                  |                      |
+| Hauteur de la mer  | 26.3                  |                      |
+| Agitation de l'eau | 2                     |                      |
+| Vitesse au bout de la jetée | 1026.7            |                      |
+| Température de l'eau   | 11.7                  |                      |
+| **V. 18 mars. 1902** |                       |                      |
+| Hauteur Barométrique |                       | 761.7                |
+| Direction du vent  |                                       | er. or. 0          |
+| Force             | 2                     |                      |
+| Rég. O. (ciel)     |                       | 0                    |
+| Rég. E. (mer)     |                       | 0                    |
+| Nuage(s)          |                       |                      |
+| Pluie Tombée       |                                       | 2.0                |
+| Température de l'air    |                                       | 15.9               |
+| Hauteur de la mer  |                                       | 45.9               |
+| Agitation de l'eau |                                       | 2 fort             |
+| Vitesse au bout de la jetée |                                       | 1027.7             |
+| Température de l'eau   |                                       | 18.6               |

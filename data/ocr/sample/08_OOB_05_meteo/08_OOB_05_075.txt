@@ -1,0 +1,28 @@
+```
+| Date                  | Matin                              | Soir                             |
+|-----------------------|------------------------------------|----------------------------------|
+| **31 Janvier 1906**   | Hauteur Barométrique: 764.8       |                                  |
+|                       | Direction du vent: cr.cr.o          |                                  |
+|                       | Force: i5                          |                                  |
+|                       | Nébulosité (Reg. o. (terre)): 0    |                                  |
+|                       | Nébulosité (Reg. E. (mer)): 0      |                                  |
+|                       | Direction des nuages: N.E.         |                                  |
+|                       | Pluie tombée: "                  |                                  |
+|                       | Température de l'air: 11.9         |                                  |
+|                       | Hauteur de la mer: 5               |                                  |
+|                       | Agitation de l'eau: 2 fort.        |                                  |
+|                       | Densité au bout de la jetée:       |                                  |
+|                       | Température de l'eau: 5            |                                  |
+| **1er Février 1906**  | Hauteur Barométrique: 771.0       |                                  |
+|                       | Direction du vent: cr.cr.o          |                                  |
+|                       | Force: 0                           |                                  |
+|                       | Nébulosité (Reg. o. (terre)): 0    |                                  |
+|                       | Nébulosité (Reg. E. (mer)): 0      |                                  |
+|                       | Direction des nuages:              |                                  |
+|                       | Pluie tombée: "                  |                                  |
+|                       | Température de l'air: 11.2         |                                  |
+|                       | Hauteur de la mer: f.f./1          |                                  |
+|                       | Agitation de l'eau: 3              |                                  |
+|                       | Densité au bout de la jetée:       |                                  |
+|                       | Température de l'eau: 5            |                                  |
+```

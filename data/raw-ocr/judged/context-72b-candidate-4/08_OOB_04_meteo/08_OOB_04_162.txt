@@ -1,0 +1,8 @@
+```plaintext
+| Date       | Heure    | Hauteur Barométrique | Direction du vent | Force | Reg. O. (terre) | Reg. E. (mer) | Direction des nuages | Pluie tombée | Température de l'air | Hauteur de la mer | Agitation de l'eau | Densité au bout de la jetée | Température de l'eau |
+|------------|----------|---------------------|-------------------|-------|-----------------|---------------|----------------------|--------------|----------------------|-------------------|-------------------|-----------------------------|-----------------------|
+| 5 Xbre 1902 | Matin    | 769.0               | er. cr. o.        | 15    | légère          | 10            | er. cr. o.           | "            | -5/10               | 33.4              | 4                 | 5                          | 12.7                 |
+| 5 Xbre 1902 | Soir     | 769.1               | er. cr. o.        | 6     | légère          | 10            | er. cr. o.           | "            | 1.2                 | 40.2              | 4                 | 5                          | 12.7                 |
+| 6 Xbre 1902 | Matin    | 761.1               | er. cr. o.        | 8     | 1               | 0             | er. cr. o.           | "            | -2/10               | 40.9              | 3                 | 1029.7                    | 12.7                 |
+| 6 Xbre 1902 | Soir     | 760.0               | croix             | 1     | 0               | 0             | er. cr. o.           | "            | 3.8                 | 39.2              | 2                 | 1029.6                    | 13.4                 |
+```

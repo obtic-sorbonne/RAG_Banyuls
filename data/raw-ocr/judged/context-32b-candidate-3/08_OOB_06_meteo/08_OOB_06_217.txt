@@ -1,0 +1,56 @@
+```
+OBSERVATIONS DU 1901, 7 Novembre
+
+| Nombre de bateaux sortis (pêche à l...) | 16,8 |
+| --- | --- |
+| Température de l'air } maxima depuis la veille... | 16,8 |
+| } minima id. | 11,8 |
+| Température de l'eau } maxima depuis la veille.. |  | 
+| } minima id. |  | 
+| Pluie tombée depuis la veille, en millim... |  | 
+| Evaporation depuis le 190 , en millim... |  | 
+
+| Direction du vent (à terre) | à 9 h. m. | à 3 h. s. |
+| --- | --- | --- |
+| Force | 3 faible | 2 fort |
+| Direction des nuages | N. N. O. | N. N. O. |
+| Nébulosité } région Ouest (terre) | 60 | 40 |
+| } id. Est (mer) | 60 | 60 |
+| Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.) | 40,0 | 52,1 |
+| Agitation de l'eau | 2 | 2 faible |
+| Densité de l'eau au bout de la jetée | 1028,4 | 1028,6 |
+| Température id. | 16,4 | 16,2 |
+
+| Température matin } maxima | 19,9 |  |
+| } minima | 11,2 |  |
+| Température loir } maxima | 19,2 |  |
+| } minima | 12,3 |  |
+
+
+OBSERVATIONS DU 1901, 8 Novembre
+
+| Nombre de bateaux sortis (pêche à l...) | 17,9 |
+| --- | --- |
+| Température de l'air } maxima depuis la veille... | 17,7 |
+| } minima id. | 14,4 |
+| Température de l'eau } maxima depuis la veille.. |  | 
+| } minima id. |  | 
+| Pluie tombée depuis la veille, en millim... |  | 
+| Evaporation depuis le 190 , en millim... |  | 
+
+| Direction du vent (à terre) | à 9 h. m. | à 3 h. s. |
+| --- | --- | --- |
+| Force | 1 fort | 1 faible |
+| Direction des nuages | N. O. | Sud |
+| Nébulosité } région Ouest (terre) | 60 | 60 |
+| } id. Est (mer) | 60 | 60 |
+| Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.) | 29,4 | 41,9 |
+| Agitation de l'eau | 1 | 1 fort |
+| Densité de l'eau au bout de la jetée | 1028,0 | 1027,8 |
+| Température id. | 16,7 | 16,4 |
+
+| Température matin } maxima | 19,3 |  |
+| } minima | 4,3 |  |
+| Température loir } maxima | 25,9 |  |
+| } minima | 11,7 |  |
+```

@@ -1,0 +1,16 @@
+```
+|  8. 16 Juin - 1902 | Obatin | Soir  |
+| --- | --- | --- |
+|  Hauteur Barométrique | 202,2 | 201,8  |
+|  Direction du vent | or. | or.  |
+|  Force | 1 part. | Afr.  |
+|  Nébulosité | 10 | (Reg. O. (terre)) | 10  |
+|  (Reg. E. (mer)) |  | 10  |
+|  Direction des nuages | or. | or.  |
+|  Pluie tombée | 0 | 10  |
+|  Température de l'air | 11,0 | 18,1  |
+|  Hauteur de la mer | 19,5 | 48,5  |
+|  Agitation de l'eau | 2 | 2  |
+|  Densité au bout de la jetée | 102,9 | 102,9  |
+|  Température de l'eau | 11,8 | 16,2  |
+```

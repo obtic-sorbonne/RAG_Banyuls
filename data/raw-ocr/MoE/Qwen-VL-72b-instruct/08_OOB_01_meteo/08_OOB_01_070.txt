@@ -1,0 +1,18 @@
+| **Date**          | Mardi 2 Octobre 1900       |
+|-------------------|---------------------------|
+| **Heures**        | 9h/ 17h 30'              |
+| **H. Barométrique** | 761,8 / 760,5 (mmHg)      |
+| **Direction du Vent** | S. / S.                 |
+| **Force d.**      | 1 / 1                  |
+| **Nébulosité (O. (terre))** | 2 / 8                |
+| **Nébulosité (E. (mer))** | 2 / 8                 |
+| **Direction des nuages** | S. / S.                |
+| **Pluie tombée** | 0 / 15 mm                |
+| **Température de l'air** | 22°C, 9 / 23°C, 1      |
+| **Hauteur de la mer** | 0,44 / 0,55 m           |
+| **Agitation de l'eau** | 1 / 1                  |
+| **Densité de l'eau (ambouch)** | 1025,7              |
+| **Température de l'eau** | 21°C                   |
+| **Observations** | Violent orage à matin châtienn. |
+
+**NB**: Les mesures sont typiques de l'époque avec certaines approximations, les symboles ou unités sont fidèlement retranscrits.

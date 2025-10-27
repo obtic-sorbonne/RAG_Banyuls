@@ -1,0 +1,31 @@
+| Date | Matin | Soir |
+|------|-------|------|
+| V. 30 Novembre 1906 | | |
+| Hauteur Barometrique | 768.9 | 766.0 |
+| Direction du vent | er. o | er. o |
+| Force | 15 | 1 |
+| Reg. O. (Clare) | 10 | 10 |
+| Nébulosité | | |
+| Reg. X. (mur) | 10 | 10 |
+| Direction des nuages | N. 8 | er. 3 |
+| Pluie tombée | " | " |
+| Température de l'air | 16.6 | 13.5 |
+| Hauteur de la mer | 46.2 | 14.6 |
+| Agitation de l'eau | 17.20m | 18.02m |
+| Vitesse au bout de la jetée | 0.28.9 | 0.28.7 |
+| Température de l'eau | 19.8 | 17.7 |
+| | | |
+| 9. 1er Décembre 1906 | | |
+| Hauteur Barometrique | | 798.0 |
+| Direction du vent | | er. o |
+| Force | 15 | 6 fort |
+| Reg. O. (Clare) | 10 | 10 |
+| Nébulosité | | |
+| Reg. X. (mur) | 10 | 10 |
+| Direction des nuages | | er. 3 |
+| Pluie tombée | | quelques g |
+| Température de l'air | | 9.3 |
+| Hauteur de la mer | | 5 |
+| Agitation de l'eau | | 2 fort |
+| Vitesse au bout de la jetée | | 5 |
+| Température de l'eau | | 5 |

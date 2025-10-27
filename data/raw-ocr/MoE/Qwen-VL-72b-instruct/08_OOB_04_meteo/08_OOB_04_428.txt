@@ -1,0 +1,27 @@
+| V. 5 Octobre 1904 | Matin | Soir |
+|---|---|---|
+| Hauteur Barométrique | - | 763.0 |
+| Direction du vent | S.S.E | S.S.E |
+| Force | iS | 1 Faible |
+| Nébulosité Reg. O. (Terre) | - | 10 |
+| Reg. E. (mer) | - | 10 |
+| Direction des nuages | - | Est |
+| Pluie Tombée | - | " |
+| Température de l'air | - | 24,8 |
+| Hauteur de la mer | - | 43.3 |
+| Agitation de l'eau | - | 1 T. fort |
+| Densité au bout de la jetée | - | 1027.2 |
+| Température de l'eau | - | 20.3 |
+| V. 6 Octobre 1904 | 9h Matin | Soir |
+| Hauteur Barométrique | 760.5 | 760.5 |
+| Direction du vent | " | cr. o |
+| Force | iS | 4 fort |
+| Nébulosité Reg. O. (terre) | w | 10 |
+| Reg. E. (mer) | w | 10 |
+| Direction des nuages | - | Ouest |
+| Pluie Tombée | " | cr. n°o |
+| Température de l'air | 20.5 | quelques g. |
+| Hauteur de la mer | 32.9 | 36.5 |
+| Agitation de l'eau | faible | 1 |
+| Densité au bout de la jetée | 1027.0 | 1027.3 |
+| Température de l'eau | 20.5 | 20.3 |

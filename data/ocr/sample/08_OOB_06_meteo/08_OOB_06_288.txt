@@ -1,0 +1,52 @@
+### OBSERVATIONS DU 1902 6 JUIN
+
+| **Nombre de bateaux sortis (pêche à l.)** |  |
+| --- | --- |
+| **Température de l'air** |  |
+| - maxima depuis la veille | 21.3 | °C |
+| - minima id. | 13.7 | °C |
+| **Température de l'eau** |  |
+| - maxima depuis la veille |  | °C |
+| - minima id. |  | °C |
+| **Pluie tombée depuis la veille, en millim.** |  | mm |
+| **Évaporation depuis le 1900, en millim.** |  | mm |
+| **Direction du vent (à terre)** | **à 9 h. m.** | **à 3 h. s.** |
+| - Direction | S.S.E. | S.S.E. |
+| - Force | 2 |  |
+| **Direction des nuages** | S.S.E. | S.S.E. |
+| **Nébulosité** |  |
+| - région Ouest (terre) | 10 |
+| - id. Est (mer) | 10 |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.)** | 20.2 | cm |
+| **Agitation de l'eau** | 1 |  |
+| **Densité de l'eau au bout de la jetée** | 1027.4 |
+| **Température** |  |
+| - id. Bollaro (Amurida) Matin | 16.7 | °C |
+| - id. Peternau Matin |  |
+| - Maxima | 18.7 | °C |
+| - Minima | 11.2 | °C |
+
+### OBSERVATIONS DU 1902 7 JUIN
+
+| **Nombre de bateaux sortis (pêche à l.)** |  |
+| --- | --- |
+| **Température de l'air** |  |
+| - maxima depuis la veille |  | °C |
+| - minima id. |  | °C |
+| **Température de l'eau** |  |
+| - maxima depuis la veille |  | °C |
+| - minima id. |  | °C |
+| **Pluie tombée depuis la veille, en millim.** |  | mm |
+| **Évaporation depuis le 1900, en millim.** |  | mm |
+| **Direction du vent (à terre)** | **à 9 h. m.** | **à 3 h. s.** |
+| - Direction | Nord | Faible, 1 vent d'oraison |
+| - Force |  |  |
+| **Direction des nuages** |  |  |
+| **Nébulosité** |  |
+| - région Ouest (terre) | 10 |
+| - id. Est (mer) | 10 |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.)** | 35.2 | cm |
+| **Agitation de l'eau** | 2 |  |
+| **Densité de l'eau au bout de la jetée** | 1027.3 |
+| **Température** |  |
+| - id. | 16.9 | °C |

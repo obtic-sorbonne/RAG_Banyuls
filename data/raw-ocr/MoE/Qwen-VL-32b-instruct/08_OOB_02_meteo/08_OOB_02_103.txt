@@ -1,0 +1,17 @@
+# Date: 21 Juin 1901
+
+|   | 9th Matin 3rd Soir |   |
+| --- | --- | --- |
+|  Kanteur Praxometrique | 765.2 | 763.7  |
+|  Direction du vent | 8.E | 8.8.E  |
+|  Force | 1 T. faith | 2 faith  |
+|  Ébulosité | 0 | 0  |
+|  Reg. E. (mer) | 0 | 1  |
+|  Direction des nuages | " | Mort  |
+|  Shine tombée | " | Mort  |
+|  Température de l'air | 21.3 | 27.8  |
+|  Kanteur de la mer | 12.8 | 60.9  |
+|  Égitation de l'eau | 1 faith | 1 T. faith  |
+|  Densité de l'eau | 1027.3 | 1026.8  |
+|  au Sarge |  |   |
+|  Température de l'eau | 30.4 | 32.2  |

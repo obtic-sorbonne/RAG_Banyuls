@@ -1,0 +1,64 @@
+### OBSERVATIONS DU 1902 4 JUIN
+
+| **Nombre de bateaux sortis (pêche à l.)** |  |
+| --- | --- |
+| **Température de l'air** |  |
+| - maxima depuis la veille | 19.0 | °C |
+| - minima id. | 11.2 | °C |
+| **Température de l'eau** |  |
+| - maxima depuis la veille |  | °C |
+| - minima id. |  | °C |
+| **Pluie tombée depuis la veille, en millim.** | quelques | mm |
+| **Évaporation depuis le 1900, en millim.** |  | mm |
+| **Direction du vent (à terre)** | **à 9 h. m.** | **à 3 h. s.** |
+| - Direction | S.O. | S.S.O. |
+| - Force | 1 | 2 |
+| **Direction des nuages** |  |
+| - à 9 h. m. | S.O. | 
+| - à 3 h. s. | S.S.O. |
+| **Nébulosité** |  |
+| - région Ouest (terre) | 10 |
+| - id. Est (mer) | 10 |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B.Q.)** | 29.3 | cm |
+| **Agitation de l'eau** | 1 forte | 1 |
+| **Densité de l'eau au bout de la jetée** | 1028.0 |  |
+| **Température** |  |
+| - id. Balaize (matin et soir) | 16.4 | 16.9 | °C |
+| - id. Bénane matin | Maxima 20.0 | 21.4 | °C |
+| - id. Bénane matin | Minima 24.6 |  | °C |
+| - id. Bénane midi | Maxima 8.8 | 28.4 | °C |
+| - id. Bénane midi | Minima  | 20.7 | °C |
+| - id. Bénane soir | Maxima |  | °C |
+| - id. Bénane soir | Minima |  | °C |
+
+### OBSERVATIONS DU 1902 5 JUIN
+
+| **Nombre de bateaux sortis (pêche à l.)** | 24.0 |
+| --- | --- |
+| **Température de l'air** |  |
+| - maxima depuis la veille | 24.0 | °C |
+| - minima id. | 14.9 | °C |
+| **Température de l'eau** |  |
+| - maxima depuis la veille |  | °C |
+| - minima id. |  | °C |
+| **Pluie tombée depuis la veille, en millim.** |  | mm |
+| **Évaporation depuis le 1900, en millim.** |  | mm |
+| **Direction du vent (à terre)** | **à 9 h. m.** | **à 3 h. s.** |
+| - Direction | Nord | S.S.O. |
+| - Force | 2 | 2 |
+| **Direction des nuages** |  |
+| - à 9 h. m. | N.M.O. | 
+| - à 3 h. s. | N.M.O. |
+| **Nébulosité** |  |
+| - région Ouest (terre) | 10 |
+| - id. Est (mer) | 10 |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B.Q.)** | 31.6 | 37.6 | cm |
+| **Agitation de l'eau** | 1 forte | 1 |
+| **Densité de l'eau au bout de la jetée** | 1027.9 | 1028.4 |
+| **Température** |  |
+| - id. Bénane matin | Maxima 27.7 | 16.9 | °C |
+| - id. Bénane matin | Minima 13.1 | 16.9 | °C |
+| - id. Bénane midi | Maxima |  | °C |
+| - id. Bénane midi | Minima |  | °C |
+| - id. Bénane soir | Maxima |  | °C |
+| - id. Bénane soir | Minima |  | °C |

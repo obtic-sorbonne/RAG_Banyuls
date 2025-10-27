@@ -1,0 +1,1 @@
+Heures Minaudière Moyenne mer atmosphérique Vent Barométrique Direction Force Hauteur 7h ½ m 0 33 9 m 0 27 N N E 1_pci 764 7 10h ½ 0 2 E 1_pci 764 7 midi 0 20 E 1_fait 764 3 1h ½ 0 21 E S E 1_fait 763 9 3h 0 26 E 1_fait 763 6 4h ½ 0 375 E 1_huitième 763 4 6h 0 45 0 763 8 7h ¾ 0 40 O 1_huitième 764 0 9h 0 36 N O 1 764 1 10h ½ 0 29 O N O 2 764 6 minuit 0 25 O N O 2 764 6

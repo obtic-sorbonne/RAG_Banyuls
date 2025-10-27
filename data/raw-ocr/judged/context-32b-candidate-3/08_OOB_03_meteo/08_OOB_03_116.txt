@@ -1,0 +1,17 @@
+# Date 30 Janvier 1902
+
+|   | 9e Matin | 3e Soir  |
+| --- | --- | --- |
+| Hauteur Barométrique | 763,3 | 763,3  |
+| Direction du vent | M. M. O | M. M. O  |
+| Force | 1 | 1  |
+| Nébulosité { Reg. C. (terre) } | 0 | 0  |
+| Nébulosité { Reg. E. (mer) } | 0 | 0  |
+| Direction des nuages | 4. M. O | 4. M. O  |
+| Pluie tombée | 4,1 | 4,1  |
+| Température de l'air | 16,1 | 16,1  |
+| Hauteur de la mer | 30,1 | 30,1  |
+| Agitation de l'eau | 3 fort | 3 fort  |
+| Densité de l'eau { au bout de la jetée } | 1029,0 | 1029,0  |
+| Densité de l'eau { au large } | 1029,0 | 1029,0  |
+| Température de l'eau | 11,0 | 11,0  |

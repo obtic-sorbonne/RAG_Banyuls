@@ -1,0 +1,36 @@
+```
+Journal Météorologique du Navire "La Belle Poule"
+Période : 22 et 23 Mars 1906
+
+| Date       | Matin | Soir  |
+|------------|-------|-------|
+| 22 Mars 1906 |      |      |
+| Hauteur Barométrique (mm) | 770.2 | - |
+| Direction du vent | N.N.O | - |
+| Force | 15 | fort |
+| Nébulosité (Reg. O. Terre) | 10 | - |
+| Nébulosité (Reg. E. Mer) | 10 | - |
+| Direction des nuages | S.V.S.V.O | - |
+| Pluie tombée (mm) | 3.0 | - |
+| Température de l'air (°C) | 8.7 | - |
+| Hauteur de la mer (m) | 5 | - |
+| Agitation de l'eau (code) | 4 | - |
+| Densité au bout de la jetée (g/cm³) | - | 3 |
+| Température de l'eau (°C) | - | - |
+
+| 23 Mars 1906 | Matin | Soir  |
+| Hauteur Barométrique (mm) | 747.3 | - |
+| Direction du vent | S.E.S.E.O | - |
+| Force | 15 | f |
+| Nébulosité (Reg. O. Terre) | 10 | - |
+| Nébulosité (Reg. E. Mer) | 10 | - |
+| Direction des nuages | S.V.S.V.O | - |
+| Pluie tombée (mm) | quelques gouttes | - |
+| Température de l'air (°C) | 8.7 | - |
+| Hauteur de la mer (m) | 5 | - |
+| Agitation de l'eau (code) | 2 forts | - |
+| Densité au bout de la jetée (g/cm³) | - | 5 |
+| Température de l'eau (°C) | - | - |
+
+Note Marginale : Aucune remarque particulière pour ces dates.
+```

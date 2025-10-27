@@ -1,0 +1,33 @@
+# V. 10 Novembre 1901
+
+## Obatir Soir
+
+|  Hauteur | Praxometrique | 704,8  |
+| --- | --- | --- |
+|  Direction du vent | or.orie |   |
+|  Force | 17.701 |   |
+|  Subbulosité | Reg. O. (terre) |   |
+|   | Reg. R. (mer) |   |
+|  Direction des nuages |  |   |
+|  Fluie tombée |  |   |
+|  Température de l'air | 10,1 |   |
+|  Hauteur de la mer | 47,6 |   |
+|  Cagitation de l'eau | 2 |   |
+|  Sécurité au bout de la jetée | 1027,3 |   |
+|  Température de l'eau | 11,4 |   |
+
+## V. 11 Novembre 1901
+
+|  Hauteur | Praxometrique | 704,2  |
+| --- | --- | --- |
+|  Direction du vent | oncol | 70,3  |
+|  Force | 17.701 |   |
+|  Subbulosité | Reg. O. (terre) |   |
+|   | Reg. R. (mer) |   |
+|  Direction des nuages | oncol | 7,7  |
+|  Fluie tombée |  |   |
+|  Température de l'air | 9,1 | 12,0  |
+|  Hauteur de la mer | 41,9 | 49,2  |
+|  Cagitation de l'eau | 2faible | 1  |
+|  Sécurité au bout de la jetée | 1027,6 | 1027,4  |
+|  Température de l'eau | 11,1 | 11,3  |

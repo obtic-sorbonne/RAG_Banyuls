@@ -1,0 +1,10 @@
+```plaintext
+3<sup>e</sup> Armement
+le 12 Octobre 1889
+
+Patron: Bonafon Jean
+Matelots:
+- Rocaries Joseph
+- Cazales Antoine
+Mousse: Bailly Jean
+```

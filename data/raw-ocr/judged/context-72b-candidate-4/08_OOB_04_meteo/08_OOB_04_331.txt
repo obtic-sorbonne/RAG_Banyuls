@@ -1,0 +1,30 @@
+```plaintext
+| Date       | Heure | Paramètre                      | Matin  | Soir   |
+|------------|-------|-------------------------------|--------|--------|
+| **13 Janvier 1904** |     | **Hauteur barométrique**      | 767.5  | 763.1  |
+|             |       | **Direction du vent**           | S.S.O  | S.S.O  |
+|             |       | **Force**                       | 1      | 1 (faible)  |
+|             |       | **Nébulosité**                  |        |        |
+|             |       | Reg. O. (Terre)                 | 10     | 10     |
+|             |       | Reg. E. (Mer)                   | 10     | 10     |
+|             |       | **Direction des nuages**        | Est    | N.O.O  |
+|             |       | **Pluie tombée**                |        |        |
+|             |       | **Température de l'air**        | 11.4   | 13.7   |
+|             |       | **Hauteur de la mer**           | 48.1   | 49.1   |
+|             |       | **Agitation de l'eau**          | 0      | 1 (faible)  |
+|             |       | **Densité au bout de la jetée** | 1028.5 | 1028.1  |
+|             |       | **Température de l'eau**        | 11.2   | 12.0   |
+| **16 Janvier 1904** |     | **Hauteur barométrique**      |        | 760.5  |
+|             |       | **Direction du vent**           | cr. cr.O | cr. cr.O  |
+|             |       | **Force**                       | 1      | 4      |
+|             |       | **Nébulosité**                  |        |        |
+|             |       | Reg. O. (Terre)                 | 10     | 10     |
+|             |       | Reg. E. (Mer)                   | 10     |        |
+|             |       | **Direction des nuages**        |        | cr. cr.O  |
+|             |       | **Pluie tombée**                |        |        |
+|             |       | **Température de l'air**        |        | 9.8    |
+|             |       | **Hauteur de la mer**           |        | 61.1   |
+|             |       | **Agitation de l'eau**          |        | 2 (porvelle)  |
+|             |       | **Densité au bout de la jetée** |        | 1028.7  |
+|             |       | **Température de l'eau**        |        | 11.7   |
+```

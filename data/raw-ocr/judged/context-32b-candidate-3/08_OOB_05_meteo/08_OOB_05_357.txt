@@ -1,0 +1,17 @@
+```
+# 13 Février 1908
+
+| **Date**         | **Matin** | **Soir** |
+|------------------|-----------|----------|
+| **Hauteur barométrique (mmHg)** | 779.5 | 780.0 |
+| **Direction du vent** | S. 0 | S. 0 |
+| **Force** | 2 | 2 |
+| **Nébulosité (Reg. II, Clous.)** | 3 | 2 |
+| **Direction des nuages** | S. 0 | - |
+| **Pluie tombée (mm)** | - | - |
+| **Température de l'air (°C)** | 8.5 | 10.2 |
+| **Hauteur de la mer (cm)** | 34.5 | 45.9 |
+| **Agitation de l'eau** | 2 | 2 |
+| **Densité au bout de la jetée (g/cm³)** | 1028.6 | 1028.7 |
+| **Température de l'eau (°C)** | 10.1 | 10.4 |
+```

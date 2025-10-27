@@ -1,0 +1,17 @@
+# Date: 27 Juin. 1901
+
+|   | 9e Station | 3e Soir  |
+| --- | --- | --- |
+|  Hauteur Barométrique | 757,8 | 764,3  |
+|  Direction du vent | 3.3.5 | Sud  |
+|  Force | 1 fort | 3 fort  |
+|  Nébulosité / Reg. O. (terre) | 0 | 0  |
+|  Nébulosité / Reg. E. (mer) | 0 | 0  |
+|  Direction des nuages | Sud | Sud  |
+|  Pluie tombée | 0 | 0  |
+|  Température de l'air | 33,9 | 34,7  |
+|  Hauteur de la mer | 61,4 | 49,6  |
+|  Agitation de l'eau | 0 | 1 fort  |
+|  Densité de l'eau / au bout de la jetée | 1037,1 | 1036,7  |
+|  Densité de l'eau / au large |  |  |
+|  Température de l'eau | 30,8 | 33,4  |

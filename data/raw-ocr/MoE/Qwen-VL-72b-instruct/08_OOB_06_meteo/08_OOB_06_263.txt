@@ -1,0 +1,68 @@
+| **Observations du 1902, 16 Mars** |
+| --- |
+| **Nombre de bateaux sortis (pêche à l'____)** |  |
+| **Température de l'air** |  |
+| maxima depuis la veille | 17.1 |
+| minima id. | 8.6 |
+| **Température de l'eau** |  |
+| maxima depuis la veille |  |
+| minima id. |  |
+| **Pluie tombée depuis la veille, en millim.** | "11" |
+| **Évaporation depuis le 190, en millim.** |  |
+| **Direction du vent (à terre)** | **à 9 h. m.** | **à 3 h. s.** |
+| **Force** | N.N.O. | N.N.O. |
+|  | 4 fort | 3 fort |
+| **Direction des nuages** | n.n.o. | n.n.o. |
+| **Nébulosité** |  |  |
+| région Ouest (terre) | 2 | 3 |
+| id. Est (mer) | 2 | 3 |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B.Q.)** | 134 | 436 |
+| **Agitation de l'eau** | 3 faible | 2 fort |
+| **Densité de l'eau au bout de la jetée** | 628.0 | 623.9 |
+| **Température** |  |  |
+| id. |  |  |
+| Terram Maxima | 21.7 | 16.7 |
+| Minima | 7.7 | 10.7 |
+| id. |  |  |
+| Terram Matin |  |  |
+| Maxima |  |  |
+| Minima |  |  |
+| id. |  |  |
+| Terram soir |  |  |
+| Maxima |  |  |
+| Minima |  |  |
+
+| **Observations du 1902, 18 Mars** |
+| --- |
+| **Nombre de bateaux sortis (pêche à l'____)** |  |
+| **Température de l'air** |  |
+| maxima depuis la veille | 19.3 |
+| minima id. | 7.6 |
+| **Température de l'eau** |  |
+| maxima depuis la veille |  |
+| minima id. |  |
+| **Pluie tombée depuis la veille, en millim.** | "-" |
+| **Évaporation depuis le 190, en millim.** |  |
+| **Direction du vent (à terre)** | **à 9 h. m.** | **à 3 h. s.** |
+| **Force** | N.N.O. | S.S.O. |
+|  | 1 fort | 2 |
+| **Direction des nuages** | N.O. | N.O. |
+| **Nébulosité** |  |  |
+| région Ouest (terre) | 3 | 10 |
+| id. Est (mer) | 4 | 10 |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B.Q.)** | 19.7 |  |
+| **Agitation de l'eau** | 1 fort | 1 fort |
+| **Densité de l'eau au bout de la jetée** | 627.9 | 623.6 |
+| **Température** |  |  |
+| id. |  |  |
+| Balanc soir |  | 17.0 |
+| Terram Maxima |  | 24.3 |
+| Minima |  | 12.9 |
+| id. | 19.7 | 13.4 |
+| Terram Matin |  |  |
+| Maxima |  |  |
+| Minima |  |  |
+| id. |  |  |
+| Terram soir |  |  |
+| Maxima |  |  |
+| Minima |  |  |

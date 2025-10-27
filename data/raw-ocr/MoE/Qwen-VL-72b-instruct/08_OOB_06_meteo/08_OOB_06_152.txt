@@ -1,0 +1,45 @@
+| **Observations du 19** **8 Mai** |  |
+| --- | --- |
+| **Nombre de bateaux sortis (pêche à la canne)** | 40 |
+| **Température de l'air** |  |
+| максимальная depuis la veille | 20,0 |
+| минимальная id. | 12,3 |
+| **Température de l'eau** |  |
+| максимальная depuis la veille | — |
+| минимальная id. | — |
+| **Pluie tombée depuis la veille, en millim.** | 0 |
+| **Evaporation depuis le <u>190</u> , en millim.** | — |
+| **Direction du vent (à terre)** | à 9 h. m. | à 3 h. s. |
+| **Force** | NE | SE |
+| | 2 fort | 1 fort |
+| **Direction des nuages** | — | — |
+| **Nébulosité** |  |  |
+| région Ouest (terre) | 0 | 0 |
+| id. Est (mer) | 0 | 2 |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (BR.)** | 38,9 | 36,2 |
+| **Agitation de l'eau** | 2 | 1 |
+| **Densité de l'eau au bout de la jetée** | 1028,4 | 1028,4 |
+| **Température id.** | 13,7 | 14,0 |
+
+| **Observations du 19** **9 Mai** |  |
+| --- | --- |
+| **Nombre de bateaux sortis (pêche à la canne)** | 40 |
+| **Température de l'air** |  |
+| максимальная depuis la veille | — |
+| минимальная id. | — |
+| **Température de l'eau** |  |
+| максимальная depuis la veille | — |
+| минимальная id. | — |
+| **Pluie tombée depuis la veille, en millim.** | 0 |
+| **Evaporation depuis le <u>190</u> , en millim.** | — |
+| **Direction du vent (à terre)** | à 9 h. m. | à 3 h. s. |
+| **Force** | S.S.E | S.S.E |
+| | 1 fort | 2 fort |
+| **Direction des nuages** | S.S.O | S.S.O |
+| **Nébulosité** |  |  |
+| région Ouest (terre) | 60 | 60 |
+| id. Est (mer) | 60 | 60 |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (BR.)** | 36,0 | 38,1 |
+| **Agitation de l'eau** | 1 | 1 fort |
+| **Densité de l'eau au bout de la jetée** | 1027,8 | 1028,3 |
+| **Température id.** | 13,9 | 14,4 |

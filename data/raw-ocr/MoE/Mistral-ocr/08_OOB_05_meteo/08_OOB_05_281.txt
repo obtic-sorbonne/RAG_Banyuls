@@ -1,0 +1,27 @@
+|  V. 7 (Jout. 1907) | Nkatin | Paix  |
+| --- | --- | --- |
+|  Hauteur Nravonietrique | 767.2 | 767.2  |
+|  Direction du rent | crant | crant  |
+|  Force | 1.700 | 3.700  |
+|  Nébulosité | 10 | 10  |
+|  (Reg. 2. cmur) |  |   |
+|  Direction des mages | 20 | 10  |
+|  Tire trinke |  |   |
+|  Semplirature de l'air | 37.3 | 39.0  |
+|  Hauteur de la mer | 49.7 | 78.0  |
+|  Agitation de l'eau | 1.27.7 | 1.27.0  |
+|  Sernite au baux de la jetée | 1.27.7 | 1.27.0  |
+|  Semplirature de l'eau | 38.7 | 38.9  |
+|  V. 8 (Jout. 1907) | Nkatin | Paix  |
+|  Hauteur Nravonietrique | 769.3 | 768.6  |
+|  Direction du rent | crant | 2.8  |
+|  Force | 1.700 | 1.700  |
+|  Nébulosité | 3.700 | 0  |
+|  (Reg. 2.cm) |  |   |
+|  Direction des mages |  |   |
+|  Tire trinke |  |   |
+|  Semplirature de l'air | 36.4 | 31.3  |
+|  Hauteur de la mer | 73.2 | 77.8  |
+|  Agitation de l'eau | 1.27.8 | 1.27.0  |
+|  Sernite au baux de la jetée | 1.27.8 | 1.26.3  |
+|  Semplirature de l'eau | 36.1 | 37.5  |

@@ -1,0 +1,61 @@
+```plaintext
+OBSERVATIONS DU 1960 11 Août
+
+| **Nombre de bateaux sortis (pêche à l’ancre)** | **22.7** |
+|---|---|
+| **Température de l'air** |  |
+| - maxima depuis la veille | **22.7 °C** |
+| - minima id. | **17.2 °C** |
+| **Température de l'eau** |  |
+| - maxima depuis la veille | **-** |
+| - minima id. | **-** |
+| **Pluie tombée depuis la veille, en millim.** | **11 mm** |
+| **Évaporation depuis le 1900, en millim.** | **-** |
+| **Direction du vent (à terre)** |  |
+| - à 9 h. m. | **N.N.O.** |
+| - à 3 h. s. | **N.O.** |
+| **Force** |  |
+| - à 9 h. m. | **2** |
+| - à 3 h. s. | **1** |
+| **Direction des nuages** |  |
+| - à 9 h. m. | **N.N.O.** |
+| - à 3 h. s. | **N.O.** |
+| **Nébulosité** |  |
+| - région Ouest (terre) | **10** |
+| - id. Est (mer) | **10** |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro** | **1 cm** |
+| **Agitation de l'eau** | **2** | **1 faible** |
+| **Densité de l'eau au bout de la jetée** | **1027.7 g/cm³** | **1026.8 g/cm³** |
+| **Température de l'eau au bout de la jetée** | **19.0 °C** | **19.7 °C** |
+
+---
+
+OBSERVATIONS DU 1960 12 Août
+
+| **Nombre de bateaux sortis (pêche à l’ancre)** | **22.4** |
+|---|---|
+| **Température de l'air** |  |
+| - maxima depuis la veille | **22.4 °C** |
+| - minima id. | **17.7 °C** |
+| **Température de l'eau** |  |
+| - maxima depuis la veille | **-** |
+| - minima id. | **-** |
+| **Pluie tombée depuis la veille, en millim.** | **-** |
+| **Évaporation depuis le 1900, en millim.** | **-** |
+| **Direction du vent (à terre)** |  |
+| - à 9 h. m. | **N.N.O.** |
+| - à 3 h. s. | **N.N.O.** |
+| **Force** |  |
+| - à 9 h. m. | **2** |
+| - à 3 h. s. | **2** |
+| **Direction des nuages** |  |
+| - à 9 h. m. | **N.N.O.** |
+| - à 3 h. s. | **N.N.O.** |
+| **Nébulosité** |  |
+| - région Ouest (terre) | **2** |
+| - id. Est (mer) | **2** |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro** | **1 cm** |
+| **Agitation de l'eau** | **2** | **2** |
+| **Densité de l'eau au bout de la jetée** | **1027.4 g/cm³** | **1026.9 g/cm³** |
+| **Température de l'eau au bout de la jetée** | **19.1 °C** | **19.7 °C** |
+```

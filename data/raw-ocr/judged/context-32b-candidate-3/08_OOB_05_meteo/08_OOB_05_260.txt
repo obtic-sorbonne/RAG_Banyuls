@@ -1,0 +1,35 @@
+```markdown
+# V. 20 Juin 1907
+
+| **Date et heure**    | **Matin** | **Soir** |
+|---------------------|----------|----------|
+| Hauteur Barométrique | 766.0 mmHg | 763.6 mmHg |
+| Direction du vent    | S.E.     | S.E.     |
+| Force               | 1 (faible) | 2 (léger) |
+| Nébulosité (Reg. 0. (Ciel clair)) | 0        | 3 (éclairs) |
+| (Reg. 2. (nu))      |           |          |
+| Direction des nuages | --        | --        |
+| Pluie tombée         | --        | --        |
+| Température de l'air | 29.3 °C   | 30.7 °C   |
+| Hauteur de la mer    | 12.0 cm   | 14.0 cm   |
+| Agitation de l'eau  | 1 (faible) | 1 (faible) |
+| Densité au bout de la jetée | 1027.9 g/cm³ | 1027.3 g/cm³ |
+| Température de l'eau | 20.0 °C   | 20.4 °C   |
+
+# V. 21 Juin 1907
+
+| **Date et heure**    | **Matin** | **Soir** |
+|---------------------|----------|----------|
+| Hauteur Barométrique | 766.3 mmHg | 765.8 mmHg |
+| Direction du vent    | E. (près) | S.E.     |
+| Force               | 1 (fort)  | 2 (léger) |
+| Nébulosité (Reg. 0. (Ciel clair)) | 10       | 10 (éclairs et c.) |
+| (Reg. 2. (nu))      |           |          |
+| Direction des nuages | S.O.      | S.O.      |
+| Pluie tombée         | --        | --        |
+| Température de l'air | 29.3 °C   | 29.0 °C   |
+| Hauteur de la mer    | 12.0 cm   | 12.0 cm   |
+| Agitation de l'eau  | 1 (faible) | 1 (faible) |
+| Densité au bout de la jetée | 1027.8 g/cm³ | 1027.6 g/cm³ |
+| Température de l'eau | 18.7 °C   | 19.3 °C   |
+```

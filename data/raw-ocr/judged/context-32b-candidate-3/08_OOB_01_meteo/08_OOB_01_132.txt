@@ -1,0 +1,25 @@
+# Date. 5 Décembre. 1900.
+
+|  9. Matin | 3. Soir  |
+| --- | --- |
+|  Hauteur Barométrique | 705,2 | 705,4  |
+|  Direction du vent | 1000 | 1000  |
+|  Force | 3 | 3  |
+|  Nébulosité | 10 | 10  |
+|  Rég. E. (mer) | 10 | 10  |
+|  Direction des nuages | 1000 | 1000  |
+|  Pluie tombée | 10,2 | 10,2  |
+|  Température de l'air | 48,5 | 50,5  |
+|  Hauteur de la mer | 1,28,4 | 1,28,5  |
+|  Agitation de l'eau | 13,8 | 13,8  |
+
+Dernière de la mer
+
+Égalation de l'eau
+
+Densité de l'eau
+
+- au bout de la jetée: 1028,4
+- au large: 1028,4
+
+Température de l'eau

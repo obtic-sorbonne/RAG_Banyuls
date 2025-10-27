@@ -1,0 +1,36 @@
+```
+Journal Météorologique du Navire "La Belle Poule"
+Période : 6 au 7 Novembre 1905
+
+| Date       | Matin | Soir  |
+|------------|-------|-------|
+| 6 Novembre 1905 |      |      |
+| Hauteur Barométrique (mm) | 762.8 |      |
+| Direction du vent | cr.cr.o |      |
+| Force | 1     |      |
+| Nébulosité (Reg. o. Terre) | w     |      |
+| Nébulosité (Reg. E. Mer) | w     |      |
+| Direction des nuages | Sud   |      |
+| Pluie tombée (mm) | 13.62 p |      |
+| Température de l'air (°C) | 10.4  |      |
+| Hauteur de la mer (m) | 34.1  |      |
+| Agitation de l'eau (code) | 2 T. fort. |      |
+| Densité au bout de la jetée (g/cm³) | 1028.1 |      |
+| Température de l'eau (°C) | 16.4  |      |
+
+| 7 Novembre 1905 | Matin | Soir  |
+| Hauteur Barométrique (mm) |      |      |
+| Direction du vent |      |      |
+| Force |      |      |
+| Nébulosité (Reg. o. Terre) |      |      |
+| Nébulosité (Reg. E. Mer) |      |      |
+| Direction des nuages |      |      |
+| Pluie tombée (mm) |      |      |
+| Température de l'air (°C) |      |      |
+| Hauteur de la mer (m) |      |      |
+| Agitation de l'eau (code) |      |      |
+| Densité au bout de la jetée (g/cm³) |      |      |
+| Température de l'eau (°C) |      |      |
+
+Note Marginale : Aucune remarque particulière pour ces dates.
+```

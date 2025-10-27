@@ -1,0 +1,51 @@
+# 9. 20 M6ai. 1903
+
+|  Hanté | Noms  |
+| --- | --- |
+|  Hanté | 202.3  |
+|  Direction Su vent | "  |
+|  Force | 1  |
+|  Nocébutosité | 10  |
+|  (Reg. K - (mer) | 10  |
+|  Direction des mages | 0005  |
+|  Flux lombri | 900  |
+|  Rempléciation de l'air | 18.6  |
+|  Hanté | 18.3  |
+|  (Rég. K - (mer) | 10  |
+|  (Rég. K - (min) | 10  |
+|  2005 |   |
+|  18.6 |   |
+|  18.3 |   |
+
+# 10. 21 M6ai. 1903
+
+|  Hanté | Noms  |
+| --- | --- |
+|  Hanté | 209.8  |
+|  Direction Su vent | 209.8  |
+|  Force | 1  |
+|  Nocébutosité | 0  |
+|  (Reg. K - (mer) | 0  |
+|  Direction des mages | "  |
+|  Flux lombri | 18.6  |
+|  Rempléciation de l'air | 18.6  |
+|  Hanté | 18.6  |
+|  (Rég. K - (mer) | 10  |
+|  (Rég. K - (min) | 10  |
+|  2005 |   |
+|  18.6 |   |
+|  18.3 |   |
+
+# 11. 22 M6ai. 1903
+
+|  Hanté | Noms  |
+| --- | --- |
+|  Hanté | 209.8  |
+|  Direction Su vent | 209.8  |
+|  Force | 1  |
+|  Nocébutosité | 0  |
+|  (Reg. K - (mer) | 0  |
+|  (Rég. K - (min) | 10  |
+|  2005 |   |
+|  18.6 |   |
+|  18.3 |   |

@@ -1,0 +1,35 @@
+```plaintext
+V. 9 Janvier. 1903
+
+|  Nom | Matin | Soir  |
+| --- | --- | --- |
+|  Hauteur Barométrique | 765.0 | 767.2  |
+|  Direction du vent | Ouest | Ouest  |
+|  Force | 3 | 3  |
+|  Nébulosité (Reg. O. (terre)) | 10 | 10  |
+|  Nébulosité (Reg. E. (mer)) | 10 | 10  |
+|  Direction des nuages | Ouest | Ouest  |
+|  Pluie tombée |  |   |
+|  Température de l'air | 14.3 | 13.6  |
+|  Hauteur de la mer | 36.6 | 30.0  |
+|  Agitation de l'eau | 4 | 1  |
+|  Densité au bout de la jetée | 1039.1 | 1039.1  |
+|  Température de l'eau | 13.6 | 13.6  |
+
+V. 10 Janvier. 1903
+
+|  Nom | Matin | Soir  |
+| --- | --- | --- |
+|  Hauteur Barométrique | 767.4 | 763.2  |
+|  Direction du vent | Ouest | Ouest  |
+|  Force | 3 | 3  |
+|  Nébulosité (Reg. O. (terre)) | 10 | 10  |
+|  Nébulosité (Reg. E. (mer)) | 10 | 10  |
+|  Direction des nuages | Ouest | Ouest  |
+|  Pluie tombée |  |   |
+|  Température de l'air | 13.8 | 14.9  |
+|  Hauteur de la mer | 37.3 | 18.8  |
+|  Agitation de l'eau | 4 | 4  |
+|  Densité au bout de la jetée | 1039.3 | 1039.1  |
+|  Température de l'eau | 13.4 | 13.4  |
+```

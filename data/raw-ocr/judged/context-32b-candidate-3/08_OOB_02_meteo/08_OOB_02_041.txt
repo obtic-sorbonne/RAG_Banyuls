@@ -1,0 +1,17 @@
+# Date: 20 Avril 1901
+
+|   | 9th Matin | 3rd Soir  |
+| --- | --- | --- |
+|  Hauteur Barométrique | 764,6 | 763,6  |
+|  Direction du vent | Sud | Sud  |
+|  Force | 3 fort | 3 fort  |
+|  Ébulosité / Rég. O. (terre) | 0 | 0  |
+|  Rég. E. (mer) | 0 | 0  |
+|  Direction des nuages | Sud | Sud  |
+|  Pluie tombée | 14,4 | 14,6  |
+|  Température de l'air | 47,2 | 63,8  |
+|  Hauteur de la mer | 3 fort | 3 fort  |
+|  Agitation de l'eau | 1028,9 | 1028,7  |
+|  Densité de l'eau / au bout de la jetée |  |   |
+|  Densité de l'eau / au large |  |   |
+|  Température de l'eau | 13,0 | 13,3  |

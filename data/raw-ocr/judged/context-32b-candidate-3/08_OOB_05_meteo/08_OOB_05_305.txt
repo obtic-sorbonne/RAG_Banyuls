@@ -1,0 +1,15 @@
+```markdown
+# 12 OCTOBRE 1907
+
+| **Date** | **Heure** | **Hauteur Barométrique (mmHg)** | **Direction du Vent** | **Force** | **Nébulosité (Reg. G. clair)** | **Nébulosité (Reg. X. cour.)** | **Direction des nuages** | **Pluie tombée (mm)** | **Température de l'air (°C)** | **Hauteur de la mer (cm)** | **Agitation de l'eau** | **Densité au bout de la jetée** | **Température de l'eau (°C)** |
+|----------|-----------|---------------------------------|-----------------------|-----------|--------------------------------|--------------------------------|-------------------------|-----------------------|-----------------------------|---------------------------|-----------------------|--------------------------------|-----------------------------|
+| V. 12 Octobre 1907 | Matin | 767.3 | Est | 2 fort | 10 | 10 | 9.12 | 20.3 | 7 | 3 | 3 | 3 |
+| V. 12 Octobre 1907 | Soir | 767.8 | Est | 3 faible | 10 | 10 | 9.12 | 21.0 | 7 | 4 | 3 |  |
+
+# 14 OCTOBRE 1907
+
+| **Date** | **Heure** | **Hauteur Barométrique (mmHg)** | **Direction du Vent** | **Force** | **Nébulosité (Reg. G. clair)** | **Nébulosité (Reg. X. cour.)** | **Direction des nuages** | **Pluie tombée (mm)** | **Température de l'air (°C)** | **Hauteur de la mer (cm)** | **Agitation de l'eau** | **Densité au bout de la jetée** | **Température de l'eau (°C)** |
+|----------|-----------|---------------------------------|-----------------------|-----------|--------------------------------|--------------------------------|-------------------------|-----------------------|-----------------------------|---------------------------|-----------------------|--------------------------------|-----------------------------|
+| V. 14 Octobre 1907 | Matin | 718.2 | Nord | 0 | 2 | 10 | 47.12 | 16.1 | 31.8 | 2 fort | 1026.7 | 20.1 |
+| V. 14 Octobre 1907 | Soir | 719.6 | Sud-Ouest | 1 fort | 1 | 10 | 47.12 | 19.1 | 18.1 | 1 fort | 1029.7 | 19.8 |
+```

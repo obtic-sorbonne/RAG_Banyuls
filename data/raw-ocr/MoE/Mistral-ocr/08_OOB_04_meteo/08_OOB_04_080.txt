@@ -1,0 +1,33 @@
+# 10 avril 1903
+
+## Matin
+
+|  Maitre | Prénom | Date  |
+| --- | --- | --- |
+|  Hauteur | Praverentique | 2/5/2  |
+|  Direction des images du vent |  | 3/1/3  |
+|  Mise tombe | Force | 3/2/5  |
+|  Sémpérative de l'air |  | 3/2/7  |
+|  20° Ébulosité | Reg. O. (1ère) | 10/10  |
+|   | Reg. F. (mer) | 10/10  |
+|  Direction des images |  | 3/1/1  |
+|  Mise tombe |  | 14/3/2  |
+|  Sémpérative de l'air |  | 11/3/3  |
+|  Hauteur de la mer |  | 32/3/4  |
+|  Régination de l'eau |  | 4/3/5  |
+|  Sémisité au bout de la jolie |  | 10/3/6  |
+|  Sémpérative de l'eau |  | 13/4/7  |
+
+## Matin
+
+|  Maitre | Prénom | Date  |
+| --- | --- | --- |
+|  Hauteur | Praverentique | 2/5/2  |
+|  Direction du vent |  | or. or.  |
+|  Force |  | 1  |
+|  Sémpérative de l'air |  | 2  |
+|  Sémpérative de l'eau |  | 1  |
+|  Hauteur de la mer |  | 14/1  |
+|  Régination de l'eau |  | 4  |
+|  Sémisité au bout de la jolie |  | 10/3/6  |
+|  Sémpérative de l'eau |  | 13/4/7  |

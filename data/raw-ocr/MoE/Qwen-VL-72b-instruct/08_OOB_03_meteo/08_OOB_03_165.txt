@@ -1,0 +1,18 @@
+| **Date**       | 10 Avril 1902                  |
+|---------------|--------------------------------|
+| **Heure**     | **9ʰ Malin** | **3ʰ S’oir**      |
+| **Hauteur Barométrique** | 76.2 | 711.3         |
+| **Direction du vent**    | Est | Est            |
+| **Force**     | 2-3 jost | 1 jost             |
+| **Nébulosité**          |                             |
+| **Reg. 6. (ferme)**     | 10 | 10              |
+| **Reg. E. (mar)**       | 10 | 10              |
+| **Direction ses nuages**| Est | Est             |
+| **Pluie tombée**        | 14. 2p | 4f. 0         |
+| **Température de l'air**| 11. 3 | 13. 4         |
+| **Hauteur de la mer**   | 22,0                     |
+| **Agitation de l'eau**  | faible | 9             |
+| **Densité de l'eau**    |                             |
+| **au bout de la jetée** | 1028.4                   |
+| **au Large**             | 13.4                    |
+| **Température de l'eau** | 13.4                    |

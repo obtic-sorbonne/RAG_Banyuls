@@ -1,0 +1,22 @@
+| **Date** | **Heures** |
+|----------|------------|
+| M. 1900 | 9 h.m.     |
+| 1 Septembre | 3 h. s.   |
+|          | 4 h. s.    |
+
+| **Hauteur barométrique** | 768,8 | **767,1** |
+| **Direction du vent**    | N.E.  | E.        |
+| **Force**                | 1     | 1         |
+| **Nébulosité**           | Reg. S. (ten.) | 4  | 1       |
+|                          | Reg. E. (men.) | 2  | 5       |
+| **Direction des nuages** | S.-O. |           |
+| **Pluie tombée**         |       |           |
+| **Température de l'air** | 22°,1 | 22°,8     |
+| **Hauteur de la mer**    | 0 m., 90 | 0°,37 |
+| **Agitation de l'eau**   | 5     | 1         |
+| **Densité**              |        |           |
+| **à la surface**         |      | 1026,7    |
+| **au large**             | 1026,4 |          |
+| **Température de l'eau (surface)** | 22°,0   | 22°,7    |
+
+**Observations :** C mot, houillard et douaniers.

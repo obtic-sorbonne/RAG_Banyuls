@@ -1,0 +1,45 @@
+OBSERVATIONS DU 1900 24 Mai
+
+| Nombre de bateaux sortis (pêche à la Graine) | 18 |
+|---|---|
+| Température de l'air | maxima depuis la veille | 19.8 |
+| | minima id. | 14.2 |
+| Température de l'eau | maxima depuis la veille |  |
+| | minima id. |  |
+| Pluie tombée depuis la veille, en millim. | quelques |
+| Evaporation depuis le 190, en millim. |  |
+
+| à 9 h. m. | à 3 h. s. |
+|---|---|
+| Direction du vent (à terre) | N.N.O |  |
+| Force | 3 |  |
+| Direction des nuages | N.N.O |  |
+| Nébulosité | région Ouest (terre) | 10 |
+| | id. Est (mer) | 10 |
+| Hauteur de la mer, en centimètres, au-dessus du zéro | 12.6 |  |
+| Agitation de l'eau | 2 |  |
+| Densité de l'eau au bout de la jetée | 1026.8 |  |
+| Température id. | 13.8 |  |
+
+OBSERVATIONS DU 1900 25 Mai
+
+| Nombre de bateaux sortis (pêche à la Graine) | 18 |
+|---|---|
+| Température de l'air | maxima depuis la veille | 19.7 |
+| | minima id. | 18.4 |
+| Température de l'eau | maxima depuis la veille |  |
+| | minima id. |  |
+| Pluie tombée depuis la veille, en millim. | 11 |
+| Evaporation depuis le 190, en millim. |  |
+
+| à 9 h. m. | à 3 h. s. |
+|---|---|
+| Direction du vent (à terre) | Nord | S.S.O |
+| Force | 2 | 1 faible |
+| Direction des nuages | N.N.O | N.N.O |
+| Nébulosité | région Ouest (terre) | 10 |
+| | id. Est (mer) | 10 |
+| Hauteur de la mer, en centimètres, au-dessus du zéro | 11.9 | 45.0 |
+| Agitation de l'eau | 1 | 1 |
+| Densité de l'eau au bout de la jetée | 1026.3 | 1026.2 |
+| Température id. | 14.4 | 15.5 |

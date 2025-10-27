@@ -1,0 +1,33 @@
+# N. 18 Janvier - 1903
+
+|  **Pfandem** | **Ponent**  |
+| --- | --- |
+|  Sélection du vent | 7.8  |
+|  Force | 3 fort  |
+|  Obéébutosité | 10  |
+|  (Reg. E. (mur) | 10  |
+|  Sélection des mages | 7.8  |
+|  Flux tombé | 37.0  |
+|  Rempliration de l'air | 3.2  |
+|  Fauteu de la mer | 6 faible  |
+|  Égrégation de l'eau | 6 faible  |
+|  Bureté au bout de la jetée | 5  |
+|  Rempliration de l'eau | 5 faible  |
+
+# N. 19 Janvier - 1903
+
+|  **Pfandem** | **Ponent**  |
+| --- | --- |
+|  Sélection du vent | 770.3  |
+|  Force | 7.8  |
+|  Obéébutosité | 1 fort  |
+|  (Reg. E. (mur) | 10  |
+|  Sélection des mages | 7.8  |
+|  Flux tombé | 37.2  |
+|  Rempliration de l'air | 3.2  |
+|  Fauteu de la mer | 6 faible  |
+|  Égrégation de l'eau | 6 faible  |
+|  Bureté au bout de la jetée | 5  |
+|  Rempliration de l'eau | 5  |
+
+# N. 20 Janvier - 1903

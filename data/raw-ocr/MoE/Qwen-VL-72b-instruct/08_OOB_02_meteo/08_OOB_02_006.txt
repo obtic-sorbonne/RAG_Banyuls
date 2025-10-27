@@ -1,0 +1,18 @@
+| **Date** | 08/03/1901 |
+|----------|------------|
+| **9h Matin** | **3h 1/4 Soir** |
+| **Haut. Barométrique** | 749,7 | 749,6 |
+| **Direction du vent** | N.O | E.-N.E. |
+| **Force** | 1 fort | 2 faibl |
+| **Nébulosité** |
+|  | Reg. O. (ciel) | 10 léger. c. | 8 |
+|  | Reg. E. (mer) | 10 léger. c. | 0 |
+| **Direction des nuages** | Nord | Nord |
+| **Pluie tombée** | 4.70 | 11 |
+| **Temp. de l'air** | 8,3 | 10,2 |
+| **Haut. de la mer** | 41,2 | 53,1 |
+| **Agitation de l'eau** |
+|  | au bout de la jetée | 1 fort | 1 fort |
+|  | au large |  |  |
+| **Densité de l'eau** |  |  |  |
+| **Temp. de l'eau** | 11,3 | 11,4 |

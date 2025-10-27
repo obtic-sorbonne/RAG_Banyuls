@@ -1,0 +1,43 @@
+### OBSERVATIONS DU 1960 3 Mai
+
+| **Nombre de bateaux sortis (pêche à la traîne)** | **Néant** |
+| **Température de l'air** |  |
+| - maxima depuis la veille | 11.9°C |
+| - minima id. | 10.7°C |
+| **Température de l'eau** |  |
+| - maxima depuis la veille |  |
+| - minima id. |  |
+| **Pluie tombée depuis la veille, en millim.** | 1.6 mm |
+| **Evaporation depuis le 190, en millim.** |  |
+| **Direction du vent (à terre)** | **N.N.O** | **N.N.O** |
+| **Force** | **3 fort** | **4 fort** |
+| **Direction des nuages** | **N.N.O** | **N.N.O** |
+| **Nébulosité** |  |  |
+| - région Ouest (terre) | 10 | 10 |
+| - id. Est (mer) | 10 | 10 |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro** | 27.9 cm | 24.8 cm |
+| **Agitation de l'eau** | 2 | 2 |
+| **Densité de l'eau au bout de la jetée** | 1.028.9 | 1.028.9 |
+| **Température id.** | 12.9°C | 12.9°C |
+
+### OBSERVATIONS DU 1960 4 Mai
+
+| **Nombre de bateaux sortis (pêche à la traîne)** | **Néant** |
+| **Température de l'air** |  |
+| - maxima depuis la veille | 11.2°C |
+| - minima id. | 10.8°C |
+| **Température de l'eau** |  |
+| - maxima depuis la veille |  |
+| - minima id. |  |
+| **Pluie tombée depuis la veille, en millim.** |  |
+| **Evaporation depuis le 190, en millim.** |  |
+| **Direction du vent (à terre)** | **N.N.O** | **S.O.** |
+| **Force** |  |  |
+| **Direction des nuages** |  | **S.O.** |
+| **Nébulosité** |  |  |
+| - région Ouest (terre) | 10 | 10 |
+| - id. Est (mer) | 10 | 10 |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro** |  | 30.8 cm |
+| **Agitation de l'eau** |  | 3 |
+| **Densité de l'eau au bout de la jetée** |  | 1.028.2 |
+| **Température id.** |  | 12.7°C |

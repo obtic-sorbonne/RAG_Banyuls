@@ -1,0 +1,17 @@
+# Date: 29 janvier 1902
+
+|  | 9e Matin | 3e Soir  |
+| --- | --- | --- |
+| Hauteur Barométrique | 769,3 | 769,4  |
+| Direction du vent | N.N.O. | Ouest  |
+| Force | faible | 1  |
+| Nébulosité { Reg. C. (terre) } | 10 | 10  |
+| Nébulosité { Reg. E. (mer) } | 10 | 10  |
+| Direction des nuages | Ouest | N.N.O.  |
+| Pluie tombée | - | quelques  |
+| Température de l'air | 10,8 | 11,0  |
+| Hauteur de la mer | 73,1 | 60,2  |
+| Agitation de l'eau | 1 | 2  |
+| Densité de l'eau { au bout de la jetée } | 1029,2 | 1028,9  |
+| Densité de l'eau { au large } | 1029,2 | 1028,9  |
+| Température de l'eau | 12,1 | 15,1  |

@@ -1,0 +1,45 @@
+```plaintext
+| **Observations du 1900 22 juil.** |
+| --- |
+| **Nombre de bateaux sortis (pêche à l.)** |  |
+| **Température de l'air** |  |
+| - maxima depuis la veille | 18.2 °C |
+| - minima id. | 14.2 °C |
+| **Température de l'eau** |  |
+| - maxima depuis la veille |  |
+| - minima id. |  |
+| **Pluie tombée depuis la veille, en millim.** | 1.0 |
+| **Évaporation depuis le 1900, en millim.** |  |
+| **Direction du vent (à terre)** | **à 9 h. m.** | **à 3 h. s.** |
+| - Force | 2 | 5 |
+| - Direction des nuages |  |  |
+| **Nébulosité** |  |
+| - région Ouest (terre) | 0 | 0 |
+| - id. Est (mer) | 0 | 0 |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (Bassin St. Radulp)** | 41.9 |  |
+| **Agitation de l'eau** | 2 |  |
+| **Densité de l'eau au bout de la jetée** | 1028.7 g/cm³ |  |
+| **Température id.** | 16.4 °C |  |
+
+| **Observations du 1900 23 juil.** |
+| --- |
+| **Nombre de bateaux sortis (pêche à l.)** |  |
+| **Température de l'air** |  |
+| - maxima depuis la veille | 17.2 °C |
+| - minima id. | 14.7 °C |
+| **Température de l'eau** |  |
+| - maxima depuis la veille |  |
+| - minima id. |  |
+| **Pluie tombée depuis la veille, en millim.** |  |
+| **Évaporation depuis le 1900, en millim.** |  |
+| **Direction du vent (à terre)** | **à 9 h. m.** | **à 3 h. s.** |
+| - Force | 5 |  |
+| - Direction des nuages | N.N.O. | N.N.O. |
+| **Nébulosité** |  |
+| - région Ouest (terre) | 0 | 10 |
+| - id. Est (mer) | 0 | 10 |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (Bassin St. Radulp)** | 48.6 |  |
+| **Agitation de l'eau** | 2 | 5 |
+| **Densité de l'eau au bout de la jetée** | 1028.9 g/cm³ | 1028.3 g/cm³ |
+| **Température id.** | 16.4 °C | 16.1 °C |
+```

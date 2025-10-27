@@ -1,0 +1,29 @@
+| V. 11 Mai - 1907 | Matin | Soir |
+|------------------|-------|------|
+| Hauteur Barométrique | 764,2 | 762,7 |
+| Direction du Vent | er. 8 | L. 8 |
+| Force | 1 | 2 |
+| Nébulosité (Deg. C. Clère) | 10 | 4 légère |
+| Reg. N. (mm) | 0 | 0 |
+| Direction des nuages | 1.0 | 5.0 |
+| Pluie tombée | " | " |
+| Température de l'air | 17.8 | 24.2 |
+| Hauteur de la mer | 91.8 | 99.5 |
+| Agitation de l'eau | 1 faible | 2 faible |
+| Densité au bord de la jetée | 1028.0 | 1027.7 |
+| Température de l'eau | 17.6 | 16.8 |
+
+| V. 13 Mai - 1907 | Matin | Soir |
+|------------------|-------|------|
+| Hauteur Barométrique | 766.3 | 765.2 |
+| Direction du Vent | S. S. E | S. E |
+| Force | 1 fort | 2 légère |
+| Nébulosité (Deg. C. Clère) | 0 | 10 légère |
+| Reg. N. (mm) | 0 | 0 |
+| Direction des nuages | Sud | Sud |
+| Pluie tombée | 3.875 | " |
+| Température de l'air | 16.00 | 20.6 |
+| Hauteur de la mer | 45.0 | 96.7 |
+| Agitation de l'eau | 2 faible | 1 |
+| Densité au bord de la jetée | 1027.7 | 1027.8 |
+| Température de l'eau | 14.7 | 16.3 |

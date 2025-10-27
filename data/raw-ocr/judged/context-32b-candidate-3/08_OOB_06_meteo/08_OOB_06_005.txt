@@ -1,0 +1,63 @@
+### Observations du 1906, 9 Avril
+
+| **Éléments**                                      | **Valeurs**         |
+|---------------------------------------------------|---------------------|
+| Nombre de bateaux sortis (pêche à la ligne)        | 24                  |
+| Température de l'air                               |                      |
+|    - maxima depuis la veille                       | 17.2                |
+|    - minima id.                                   | 4.6                 |
+| Température de l'eau                              |                      |
+|    - maxima depuis la veille                       | -                   |
+|    - minima id.                                   | -                   |
+| Pluie tombée depuis la veille, en millim.         | quelques            |
+| Evaporation depuis le 190, en millim.             | -                   |
+| Direction du vent (à terre)                       | -                   |
+|    - à 9 h. m.                                    | Nord-Nord-Ouest     |
+|    - à 3 h. s.                                    | Nord-Nord-Ouest     |
+| Force                                             | -                   |
+|    - à 9 h. m.                                    | 1                   |
+|    - à 3 h. s.                                    | 2                   |
+| Direction des nuages                              |                      |
+| - région Ouest (terre)                            | 2                   |
+| - id. Est (mer)                                   | 2                   |
+| Nébulosité                                        |                      |
+| - région Ouest (terre)                            | 2                   |
+| - id. Est (mer)                                   | 4                   |
+| Hauteur de la mer, en centimètres, au-dessus du zéro | 20.2                |
+| Agitation de l'eau                               | 2 fort              |
+| Densité de l'eau au bout de la jetée               | 1028.8              |
+| Température                                      | 14.7                |
+
+---
+
+### Observations du 1906, 11 Avril
+
+| **Éléments**                                      | **Valeurs**         |
+|---------------------------------------------------|---------------------|
+| Nombre de bateaux sortis (pêche à la ligne)        | 34                  |
+| Température de l'air                               |                      |
+|    - maxima depuis la veille                       | 17.7                |
+|    - minima id.                                   | 6.1                 |
+| Température de l'eau                              |                      |
+|    - maxima depuis la veille                       | -                   |
+|    - minima id.                                   | -                   |
+| Pluie tombée depuis la veille, en millim.         | -                   |
+| Evaporation depuis le 190, en millim.             | -                   |
+| Direction du vent (à terre)                       | -                   |
+|    - à 9 h. m.                                    | Est-Sud-Est         |
+|    - à 3 h. s.                                    | Sud-Sud-Est         |
+| Force                                             | -                   |
+|    - à 9 h. m.                                    | 1                   |
+|    - à 3 h. s.                                    | 2                   |
+| Direction des nuages                              | -                   |
+| - région Ouest (terre)                            | 2                   |
+| - id. Est (mer)                                   | 0                   |
+| Nébulosité                                        | -                   |
+| - région Ouest (terre)                            | 2                   |
+| - id. Est (mer)                                   | 4                   |
+| Hauteur de la mer, en centimètres, au-dessus du zéro | 38.3                |
+| Agitation de l'eau                               | 1 fort              |
+| Densité de l'eau au bout de la jetée               | 1028.0              |
+| Température                                      | 11.8                |
+| - à 9 h. m.                                       | 11.8                |
+| - à 3 h. s.                                       | 12.3                |

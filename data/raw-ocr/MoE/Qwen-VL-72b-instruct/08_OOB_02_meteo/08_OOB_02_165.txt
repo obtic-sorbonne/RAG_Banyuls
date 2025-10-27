@@ -1,0 +1,17 @@
+| **Date**         | **Heure**        |
+|-------------------|------------------|
+| 25 août 1901     | 9h Matin 3h Soir |
+
+| **Paramètre**                           | ** Valeur** |
+|-----------------------------------------|-------------|
+| Hauteur Barométrique                    |             |
+| Direction du vent                       |             |
+| Force                                   | 3           |
+| Nébulosité                              | Rég. 0 (claire)<br> Rég. E (mer)           |
+| Direction des nuages                    |             |
+| Pluie tombée                            |             |
+| Température de l'air                    |             |
+| Hauteur de la mer                       |             |
+| Agitation de l'eau                      |             |
+| Densité de l'eau                        | au bout de la jetée<br> au large           |
+| Température de l'eau                    |             |

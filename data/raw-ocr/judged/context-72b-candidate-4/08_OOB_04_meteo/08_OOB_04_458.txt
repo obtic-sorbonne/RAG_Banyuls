@@ -1,0 +1,31 @@
+```plaintext
+| V. 28 Décembre 1904 | Matin | Soir |
+|----------------------|-------|------|
+| Hauteur Barométrique | 772,3 | 771,7 |
+| Direction du vent    | cr.o  | cr.o  |
+| Force                | 1     | 1 fort|
+| Nébulosité (Reg. O. (terre)) | légèrement voilée | voilée  |
+| (Reg. E. (mer))      |       |      |
+| Direction des nuages | cr.S  | cr.S  |
+| Pluie tombée         | "     | "     |
+| Température de l'air | 9,8   | 11,6  |
+| Hauteur de la mer    | 45,1  | 46,0  |
+| Agitation de l'eau   | 3 fort| 3 fort|
+| Densité au bout de la jetée | 1029,1 | 1029,1 |
+| Température de l'eau | 13,2  | 13,3  |
+
+| V. 3 Janvier 1905 | Matin | Soir |
+|-------------------|-------|------|
+| Hauteur Barométrique | 771,0 | -    |
+| Direction du vent    | cr.o  | -    |
+| Force                | 3     | -    |
+| Nébulosité (Reg. O. (terre)) | 0    | 1    |
+| (Reg. E. (mer))      | 1    | -    |
+| Direction des nuages | cr.o  | -    |
+| Pluie tombée         | "     | -    |
+| Température de l'air | -2,1  | -    |
+| Hauteur de la mer    | 13,0  | -    |
+| Agitation de l'eau   | 3 fort| -    |
+| Densité au bout de la jetée | 1029,7 | -    |
+| Température de l'eau | +9,8  | -    |
+```

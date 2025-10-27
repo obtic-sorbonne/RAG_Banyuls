@@ -1,0 +1,17 @@
+# Bale. 10 Novembre 1901
+
+|  |   |
+| --- | --- |
+|  Kauteur Marometrique | 9" Malin, 3" Soir  |
+|  Direction du vent | 764,8  |
+|  Force | 8.4.0  |
+|   | 17.704  |
+|  Nebulosite | Reg. 2 (lire)  |
+|  Direction des mirages |   |
+|  Huie lombie | "  |
+|  Température de l'air | 10,5  |
+|  Kauteur de la mer | 45,8  |
+|  Cigitation de l'eau | 2  |
+|  Densité de l'eau | 1027,3  |
+|  |   |
+|  Température de l'eau | 15,4  |

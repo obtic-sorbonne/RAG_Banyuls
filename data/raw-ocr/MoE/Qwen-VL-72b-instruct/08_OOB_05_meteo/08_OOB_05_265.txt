@@ -1,0 +1,31 @@
+| V. 2 Juillet 1907 | Matin | Soir |
+|------------------|-------|------|
+| Hauteur Barometrique | 764,7 | 764,7 |
+| Direction du Vent | cr.o | cr.o |
+| Force | 4 fort | 4 |
+| (Reg. 6. (terre)) | 10 | 10 |
+| Nébulosité | 10 | 10 |
+| (Reg. 2. (mer)) | cr.d.o | cr.o |
+| Direction des nuages | quelques g | " |
+| Pluie tombée | 18,0 | 21,8 |
+| Température de l'air | 0,2 | 0,4 |
+| Hauteur de la mer | 1/2 | 1/4 |
+| Agitation de l'eau | 2 | 2 faible |
+| Densité au bout de la jetée | 1028,0 | 1027,8 |
+| Température de l'eau | 18,7 | 19,0 |
+
+| V. 3 Juillet 1907 | Matin | Soir |
+|------------------|-------|------|
+| Hauteur Barometrique | 766,1 | 765,7 |
+| Direction du Vent | cr.o.o | S. &o |
+| Force | 4 | 2 |
+| (Reg. 6. (terre)) | 10 | 10 |
+| Nébulosité | 10 | 10 |
+| (Reg. 2. (mer)) | Ouest | Ouest |
+| Direction des nuages | " | " |
+| Pluie tombée | 18,1 | 23,2 |
+| Température de l'air | 0,4 | 0,3 |
+| Hauteur de la mer | 1/4 | 1/4 |
+| Agitation de l'eau | 2 | 1 fort |
+| Densité au bout de la jetée | 1028,4 | 1027,7 |
+| Température de l'eau | 18,7 | 19,8 |

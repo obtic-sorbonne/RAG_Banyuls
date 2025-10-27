@@ -1,0 +1,33 @@
+# 10 Septembre 1903
+
+|  Hauteur Barométrique | Matin | Soir  |
+| --- | --- | --- |
+|  767.2 | 764.6 | 764.0  |
+|  Direction du vent | Nord | Nord  |
+|  Force | 5 | 5  |
+|  (Reg. O. (terre)) | 10 | 10  |
+|  (Reg. F. (mer)) | 10 | 10  |
+|  Direction des nuages | Nord | Nord  |
+|  (Pluie tombée) | 1 | 1  |
+|  Température de l'air | 26.2 | 26.4  |
+|  Hauteur de la mer | 49.8 | 49.5  |
+|  (Agitation de l'eau) | 2 | 2  |
+|  Densité au bout de la jetée | 1027.1 | 1027.1  |
+|  Température de l'eau | 21.6 | 21.6  |
+
+## 11 Septembre 1903
+
+|  Hauteur Barométrique | Matin | Soir  |
+| --- | --- | --- |
+|  767.8 | 764.6 | 764.0  |
+|  Direction du vent | Nord | Nord  |
+|  Force | 5 | 5  |
+|  (Reg. O. (terre)) | 10 | 10  |
+|  (Reg. F. (mer)) | 10 | 10  |
+|  Direction des nuages | Nord | Nord  |
+|  (Pluie tombée) | 1 | 1  |
+|  Température de l'air | 26.4 | 26.6  |
+|  Hauteur de la mer | 49.5 | 49.0  |
+|  (Agitation de l'eau) | 2 | 2  |
+|  Densité au bout de la jetée | 1027.1 | 1027.1  |
+|  Température de l'eau | 21.6 | 21.6  |

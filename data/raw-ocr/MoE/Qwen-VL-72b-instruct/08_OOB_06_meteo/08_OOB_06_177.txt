@@ -1,0 +1,61 @@
+| **Observations du 17 juillet 190** |
+| --- |
+| **Nombre de bateaux sortis (pêche à l’ancroin)** | 84 |
+| **Température de l'air** |  |
+|  | maxima depuis la veille |  |
+|  | minima id. |  |
+| **Température de l'eau** |  |
+|  | maxima depuis la veille |  |
+|  | minima id. |  |
+| **Pluie tombée depuis la veille, en millim.** |  |
+| **Evaporation depuis le 190**, en millim. |  |
+| **Direction du vent (à terre)** | **à 9 h. m.** | **à 3 h. s.** |
+|  | N.E |  S.S.E. |
+| **Force** |  |  |
+|  | 1 fort | 1 fort |
+| **Direction des nuages** | **à 9 h. m.** | **à 3 h. s.** |
+|  | N.N.0 | 0.N.0 |
+| **Nébulosité** |  |  |
+|  | région Ouest (terre) | 1 | 10 |
+|  | id. Est (mer) | 1 | 10 |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro** |  |  |
+| **Agitation de l’eau** |  |  |
+|  | 1 faible | 1 faible |
+| **Densité de l’eau au bout de la jetée** |  |  |
+|  | 1029.7 | 1024.7 |
+| **Température** | **à 9 h. m.** | **à 3 h. s.** |
+|  | Balanье | 29.6 | 33.9 |
+|  | is. Teraine Maxima |  | Minima |  |
+|  | 48.7 |  | 19.8 |  |
+| **Observations du 18 juillet 1901** |
+| --- |
+| **Nombre de bateaux sortis (pêche à l’ancroin)** | 98.9 |
+| **Température de l'air** |  |
+|  | maxima depuis la veille |  |
+|  | minima id. | 18.3 |
+| **Température de l'eau** |  |
+|  | maxima depuis la veille |  |
+|  | minima id. |  |
+| **Pluie tombée depuis la veille, en millim.** |  |
+| **Evaporation depuis le 11 juillet 1901**, en millim. | 67 |
+| **Direction du vent (à terre)** | **à 9 h. m.** | **à 3 h. s.** |
+|  | N.N.E | S.S.E. |
+| **Force** |  |  |
+|  | 1 | 1 |
+| **Direction des nuages** | **à 9 h. m.** | **à 3 h. s.** |
+|  |  | S.S. |
+| **Nébulosité** |  |  |
+|  | région Ouest (terre) | 0 | 2 |
+|  | id. Est (mer) | 0 | 2 |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro** |  |  |
+|  | (B.R.) | 31.5 | 31.1 |
+| **Agitation de l’eau** |  |  |
+|  | 1 faible | 1 |
+| **Densité de l’eau au bout de la jetée** |  |  |
+|  | 1029.5 | 1028.9 |
+| **Température** | **à 9 h. m.** | **à 3 h. s.** |
+|  | Balanье | 29.6 | 37.7 |
+|  | is. Teraine Maxima |  | Minima |  |
+|  | 36.3 |  | 19.6 |  |
+|  | is. Loire Maxima |  | Minima |  |
+|  | 42.4 |  | 30.6 |  |

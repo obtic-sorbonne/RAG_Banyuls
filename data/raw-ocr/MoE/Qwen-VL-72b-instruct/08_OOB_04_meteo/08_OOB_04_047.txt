@@ -1,0 +1,31 @@
+| **Date**       | **Matin** | **Soir** |
+|----------------|-----------|----------|
+| **Hauteur Barométrique**         | 769.3    | 768.2    |
+| **Direction du vent**            | cr. cr. o| S. E.    |
+| **Force**                         |    5    | "fort"   |
+| **Nébulosité**                                                                 |
+|   - Reg. 0. (Terre)              |    0    |    0    |
+|   - Reg. 2. (Mer)                |    1    |    0    |
+| **Direction des nuages**         |         |          |
+| **Pluie tombée**                 |         |          |
+| **Température de l'air**         | 15.3    | 15.6    |
+| **Hauteur de la mer**            | 18.9    | 14.7    |
+| **Agitation de l'eau**           | 2 (faible)| 2      |
+| **Densité au bout de la jetée**  | 1028.6  | 1028.7  |
+| **Température de l'eau**         | 12.2    | 12.3    |
+
+| **Date**       | **Matin** | **Soir** |
+|----------------|-----------|----------|
+| **Hauteur Barométrique**         | 772.4    |          |
+| **Direction du vent**            | cr. cr. o|          |
+| **Force**                         |    5    |    1    |
+| **Nébulosité**                                                                 |
+|   - Reg. 0. (Terre)              |    0    |          |
+|   - Reg. 2. (Mer)                |    0    |          |
+| **Direction des nuages**         | cr. cr. o|          |
+| **Pluie tombée**                 |         |          |
+| **Température de l'air**         | 9.2     |          |
+| **Hauteur de la mer**            | 65.4    |          |
+| **Agitation de l'eau**           |    3    |          |
+| **Densité au bout de la jetée**  | 1028.9  |          |
+| **Température de l'eau**         | 11.4    |          |

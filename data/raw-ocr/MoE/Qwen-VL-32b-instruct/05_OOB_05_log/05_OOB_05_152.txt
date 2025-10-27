@@ -1,0 +1,22 @@
+No Sortie du 31 190
+
+Départ de     _     à _ heures du
+Arrivée à     _     à _ heures du
+
+Départ de     _     à _ heures du
+Arrivée à     _     à _ heures du
+
+Départ de     _     à _ heures du
+Arrivée à     _     à _ heures du
+
+Arrivée au mouillage à _ h. du
+
+Etat du temps: _  
+Passagers à bord: _  
+Objet de la sortie: _  
+
+Consommation}{
+(brquettes de huile          Poids en Kilos
+                             Total en litres
+Dépenses                     _  
+Observations: _  

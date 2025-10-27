@@ -1,0 +1,49 @@
+### Observations du 1940 21 Octobre
+
+| **Nombre de bateaux sortis (pêche à l.)** | 2.7 |
+|---|---|
+| **Température de l'air** |  |
+| - maxima depuis la veille | 9.7 |
+| - minima id. | 4.0 |
+| **Température de l'eau** |  |
+| - maxima depuis la veille |  |
+| - minima id. |  |
+| **Pluie tombée depuis la veille, en millim.** | quelques |
+| **Evaporation depuis le 190, en millim.** |  |
+| **Direction du vent (à terre)** |  |
+| - à 9 h. m. | **O.S.O.** |
+| - à 3 h. s. | **Nord** |
+| **Force** | 1 | 1 |
+| **Direction des nuages** | **N.N.O.** | **N.N.O.** |
+| **Nébulosité** |  |
+| - région Ouest (terre) | 10 | 10 |
+| - id. Est (mer) | 10 | 10 |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.)** | 22.8 | 99.4 |
+| **Agitation de l'eau** | 1 petite | 1 forte |
+| **Densité de l'eau au bout de la jetée** | 1029.4 | 1029.7 |
+| **Température id.** | 13.9 | 14.7 |
+
+### Observations du 1940 22 Octobre
+
+| **Nombre de bateaux sortis (pêche à l.)** | 16.1 |
+|---|---|
+| **Température de l'air** |  |
+| - maxima depuis la veille | 16.1 |
+| - minima id. | 9.2 |
+| **Température de l'eau** |  |
+| - maxima depuis la veille |  |
+| - minima id. |  |
+| **Pluie tombée depuis la veille, en millim.** | 4.0 |
+| **Evaporation depuis le 190, en millim.** |  |
+| **Direction du vent (à terre)** |  |
+| - à 9 h. m. | **N.N.O.** |
+| - à 3 h. s. | **N.N.O.** |
+| **Force** | 1 forte | 1 |
+| **Direction des nuages** | **N.N.O.** | **N.N.O.** |
+| **Nébulosité** |  |
+| - région Ouest (terre) | 60 | 60 |
+| - id. Est (mer) | 60 | 60 |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.)** | 35.2 | 39.8 |
+| **Agitation de l'eau** | 1 forte | 1 très forte |
+| **Densité de l'eau au bout de la jetée** | 1028.1 | 1028.7 |
+| **Température id.** | 14.13 | 14.3 |

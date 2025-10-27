@@ -1,0 +1,31 @@
+```plaintext
+|  V. 17 Juin - 1902 | Matin | Soir  |
+| --- | --- | --- |
+|  Hauteur Barométrique | 762,7 | 763,3  |
+|  Direction du vent | er. o | cr. n o  |
+|  Force | 15 | 2  |
+|  Nébulosité (Reg. O. (terre)) | 10 | 10  |
+|  Nébulosité (Reg. E. (mer)) | 10 | 10  |
+|  Direction des nuages | er. c. o | er. c. o  |
+|  Pluie tombée | - | -  |
+|  Température de l'air | 16,1 | 19,6  |
+|  Hauteur de la mer | 18,0 | 11,3  |
+|  Agitation de l'eau | 1 faible | 1  |
+|  Densité au bout de la jetée | 1027,1 | 1027,8  |
+|  Température de l'eau | 16,6 | 16,6  |
+
+|  V. 18 Juin - 1902 | Matin | Soir  |
+| --- | --- | --- |
+|  Hauteur Barométrique | 764,9 | 763,1  |
+|  Direction du vent | er. cr. o | cr. n  |
+|  Force | 15 | 3 faible  |
+|  Nébulosité (Reg. O. (terre)) | 0 | 0  |
+|  Nébulosité (Reg. E. (mer)) | 3 lig. 2 | 10  |
+|  Direction des nuages | er. c. o | er. o  |
+|  Pluie tombée | - | -  |
+|  Température de l'air | 16,2 | 19,7  |
+|  Hauteur de la mer | 60,3 | 13,7  |
+|  Agitation de l'eau | 1 | 1  |
+|  Densité au bout de la jetée | 1027,8 | 1027,8  |
+|  Température de l'eau | 16,1 | 18,6  |
+```

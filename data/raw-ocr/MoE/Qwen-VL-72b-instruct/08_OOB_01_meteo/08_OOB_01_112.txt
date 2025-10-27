@@ -1,0 +1,17 @@
+| **Observations** | **9h Matin** | **3h Soir** |
+|---|---|---|
+| Hauteur Barométrique | 759,8 | 758,3 |
+| Direction du vent | Nord | Nord |
+| Force | 3 | 1 |
+| Nébulosité <br> Reg. 6 (terre) | 0 | 0 |
+| Reg. 5 (mer) | 0 | 0 |
+| Direction des images | Nord | Nord |
+| Pluie tombée | " | " |
+| Température de l'air | 12,3 | 14,3 |
+| Hauteur de la mer | 42,8 | 32,7 |
+| Agitation de l'eau | 3 faible | 2 fort |
+| Densité de l'eau <br> au bout dalajeté | 1029,5 | 1029,3 |
+| au large | - | - |
+| Température de l'eau | 16,0 | 16,3 |
+
+**Date et Lieu**: Vâle, 15 Novembre 1900.

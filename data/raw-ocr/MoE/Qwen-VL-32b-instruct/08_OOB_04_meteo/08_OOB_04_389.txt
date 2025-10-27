@@ -1,0 +1,35 @@
+# 21 Juin - 1907
+
+|  **Position** | **Date** | **Prix**  |
+| --- | --- | --- |
+|  Hauteur **Fourométrique** | 266.6 | 266.4  |
+|  Direction du vent | 00.00 | 00.00  |
+|  Force | 1/20 | 1  |
+|  **Toucher** | **Reg. 0. (1000)** | **0**  |
+|  **Toucher** | **Reg. 2. (1000)** | **0**  |
+|  Direction des nuages | 00.00 | 00.00  |
+|  **Fourier** | **Fourier** | **0**  |
+|  **Période** | **Température de l'air** | **27.0**  |
+|  Hauteur de la mer | 27.0 | 29.1  |
+|  **Fourier** | **Fourier** | **41.6**  |
+|  **Période de l'eau** | **Température de l'eau** | **1027.4**  |
+|  **Toucher au bout de la jetée** | **Température de l'eau** | **1027.0**  |
+|  **Toucher** | **Reg. 4. (1000)** | **23.7**  |
+
+# 22 Juin - 1907
+
+|  **Position** | **Date** | **Prix**  |
+| --- | --- | --- |
+|  Hauteur **Fourométrique** | 263.7 | 263.7  |
+|  Direction du vent | 00.00 | 00.00  |
+|  Force | 1/20 | 1  |
+|  **Toucher** | **Reg. 0. (1000)** | **0**  |
+|  **Toucher** | **Reg. 2. (1000)** | **0**  |
+|  Direction des nuages | 00.00 | 00.00  |
+|  **Fourier** | **Fourier** | **0**  |
+|  **Période** | **Température de l'air** | **26.4**  |
+|  Hauteur de la mer | 26.4 | 26.4  |
+|  **Fourier** | **Fourier** | **47.7**  |
+|  **Période de l'eau** | **Température de l'eau** | **1027.0**  |
+|  **Toucher au bout de la jetée** | **Température de l'eau** | **1027.2**  |
+|  **Toucher** | **Reg. 2. (1000)** | **21.2**  |

@@ -1,0 +1,17 @@
+| **Éléments météorologiques** | **10H Matin** | **3H Soir** |
+|-----------------------------|--------------|--------------|
+| Hauteur Barométrique       | 763.3        | 763.0        |
+| Direction du vent          | Nord         | Nord         |
+| Force                      | 7            | 6 Fort       |
+| **Nébulosité**             |              |              |
+| Reg. O. (Terre)            | 0            | 0            |
+| Reg. E. (mer)              | 1            | 0            |
+| Direction des nuages       | Nord         | Nord         |
+| Pluie tombée               | —            | —            |
+| Température de l'air       | 6,9          | 9,3          |
+| Hauteur de la mer          | 61,3         | 71,5         |
+| Agitation de l'eau         | S            | S            |
+| **Densité de l'eau**       |              |              |
+| au bord dela jetée        |              |              |
+| au large                  |              |              |
+| Température de l'eau       | 10,0         | 10,3         |

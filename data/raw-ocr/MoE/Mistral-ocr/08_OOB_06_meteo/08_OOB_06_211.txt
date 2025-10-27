@@ -1,0 +1,43 @@
+# OBSERVATIONS DU 190 23 Octobre 
+
+Nombre de bateaux sortis (pêche à $l$ $\qquad$ ).
+Température de l'air $\left\{\begin{array}{l}\text { maxima depuis la veille. } \\ \text { minima id. }\end{array}\right.$
+$34,7$
+1610
+Température de l'eau $\left\{\begin{array}{l}\text { maxima depuis la veille. } \\ \text { minima id. }\end{array}\right.$
+Pluie tombée depuis la veille, en millim.
+Evaporation depuis le $\qquad$ 190 , en millim.
+
+Direction du vent (à terre).
+Force
+Direction des nuages
+Nébulosité $\left\{\begin{array}{l}\text { région Ouest (terre) } \\ \text { id. Est (mer) }\end{array}\right.$
+Hauteur de la mer, en centimètres, au-dessus du zéro. (P.3.7.)
+Agitation de l'eau
+Densité de l'eau au bout de la jetée
+Température
+id.
+- is - 6
+- is - is - 1515
+id.
+
+## OBSERVATIONS DU 19024 Octobre
+
+Nombre de bateaux sortis (pêche à $l$ $\qquad$ ).
+Température de l'air $\left\{\begin{array}{l}\text { maxima depuis la veille. } \\ \text { minima id. }\end{array}\right.$
+$20,7$
+11.2
+Température de l'eau $\left\{\begin{array}{l}\text { maxima depuis la veille. } \\ \text { minima id. }\end{array}\right.$
+Pluie tombée depuis la veille, en millim.
+Evaporation depuis le $\qquad$ 190 , en millim.
+
+Direction du vent (à terre).
+Force
+Direction des nuages
+Nébulosité $\left\{\begin{array}{l}\text { région Ouest (terre) } \\ \text { id. Est (mer) }\end{array}\right.$
+Hauteur de la mer, en centimètres, au-dessus du zéro. (P. 7.)
+Agitation de l'eau
+Densité de l'eau au bout de la jetée
+Température id.
+- is - 6
+$\mathrm{mm} \cdot \mathrm{m}$

@@ -1,0 +1,27 @@
+|  9. 5 Juin - 1907 | Matin | Jour  |
+| --- | --- | --- |
+|  Hauteur Prenomatique | 18/3 |   |
+|  Direction du vent | cr. 00.0 |   |
+|  Force | 3 fort |   |
+|  Hébulonte | 10 |   |
+|  (Reg. G. (nur) | 10 |   |
+|  Direction des mages | cr. 00 |   |
+|  Enie tombe | 19.8 |   |
+|  Température de l'air | 18.8 |   |
+|  Hauteur de la mer | 18.8 |   |
+|  (Agitation de l'eau) | 2 fort |   |
+|  Densité au bout de la jetée | 1028.0 |   |
+|  Température de l'eau | 18.1 |   |
+|  9. 7 Juin - 1907 | Matin | Jour  |
+|  Hauteur Prenomatique | 184.7 | 188.8  |
+|  Direction du vent | cr. 00 | 8.08.5  |
+|  Force | 6 | 1 port  |
+|  Hébulonte | 10 | 3  |
+|  (Reg. G. (nur) | 10 | 0  |
+|  Direction des mages | 0000 | cr. 8  |
+|  Enie tombe | 30.4 | 37.3  |
+|  Température de l'air | 18.2 |   |
+|  Hauteur de la mer | 18.2 |   |
+|  (Agitation de l'eau) | 1 fort |   |
+|  Densité au bout de la jetée | 1028.3 |   |
+|  Température de l'eau | 17.3 |   |

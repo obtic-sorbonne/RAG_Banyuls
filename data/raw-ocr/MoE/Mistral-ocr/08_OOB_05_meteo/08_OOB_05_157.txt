@@ -1,0 +1,28 @@
+|  N. f. Octobre - 1905 | Nibatin | Soir  |
+| --- | --- | --- |
+|  Hauteur Maroniteique | 757.3 | 757.8  |
+|  Direction du rent | 3.4 | 5.3  |
+|  Force | faible | faible  |
+|  Nibutivité | 10 | 10  |
+|  Rég. E. (mer) | 10 | 10  |
+|  Direction des mages | 0.50 | 0.50  |
+|  Pinc tombé |  |   |
+|  Température de l'air | 38.5 | 34.5  |
+|  Hauteur de la mer | 43.0 | 77.4  |
+|  Régilation de l'eau | faible | 17.6  |
+|  Densité au bout de la jetée | 1028.3 | 1027.8  |
+|  Température de l'eau | 30.7 | 32.0  |
+|  N. 6 Octobre - 1905 | Nibatin | Soir  |
+|  Hauteur Maroniteique | 758.7 | 757.4  |
+|  Direction du rent | orné | 5.3  |
+|  Force | faible | 1  |
+|  N. 6 Octobre - 1905 | 10 | 10  |
+|  Nibutivité | 10 | 10  |
+|  Rég. E. (mer) | 10 | 10  |
+|  Direction des mages | 0.50 | 0.50  |
+|  Pinc tombé |  |   |
+|  Température de l'air | 34.7 | 34.7  |
+|  Hauteur de la mer | 45.4 | 77.4  |
+|  Régilation de l'eau | 1028.3 | 1028.3  |
+|  Densité au bout de la jetée | 30.3 | 30.5  |
+|  Température de l'eau |  |   |

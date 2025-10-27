@@ -1,0 +1,27 @@
+|  V. 15 Avril - 1902 | Matin | Soir  |
+| --- | --- | --- |
+|  Hauteur P'arometrique | 7/4/5 | 7/2/5  |
+|  Direction du vent | 7/1/5 | 7/8/5  |
+|  Force | 1 fort | 1 fort  |
+|  Mécbulosité | Reg. O. (lire) | 10  |
+|  Mécbulosité | Reg. E. (mer) | 10  |
+|  Direction des nuages | 2/2/5 | 2/1/5  |
+|  Mise tombée | quelques-2 | 1/1/5  |
+|  Température de l'air | 4/5 | 1/8/4  |
+|  Hauteur de la mer | 4 | 3 fort  |
+|  Cégétation de l'eau | 4 | 3 fort  |
+|  Densité au bout de la jetée |  |   |
+|  Température de l'eau | 5 | 5  |
+|  V. 16 Avril - 1902 | Matin | Soir  |
+|  Hauteur P'arometrique | 4/1/5 |   |
+|  Direction du vent | 7/2/5 |   |
+|  Force | 1/2/5 |   |
+|  Mécbulosité | Reg. O. (lire) | 1  |
+|  Mécbulosité | Reg. E. (mer) | 1  |
+|  Direction des nuages | 4/1/5 |   |
+|  Mise tombée | quelques-2 |   |
+|  Température de l'air | 1/1/5 |   |
+|  Hauteur de la mer | 3/1/5 |   |
+|  Cégétation de l'eau | 3 |   |
+|  Densité au bout de la jetée | 1089/1 |   |
+|  Température de l'eau | 18,6 |   |

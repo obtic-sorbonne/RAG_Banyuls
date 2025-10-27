@@ -1,0 +1,26 @@
+# Date. 14 janvier. 1901.
+
+|  |   |
+| --- | --- |
+|  9e Matin. 3e Soir |   |
+|  Fauteur Pärométrique Direction du vent | 772,2  |
+|  Force | Ouest  |
+|  1 fort |   |
+|  9e Lubusité (Reg. 9-(terre) | 0  |
+|  Direction des nuages |   |
+|  0 |   |
+|  11,1 |   |
+|  Direction des nuages |   |
+|  11,1 |   |
+|  Température de l'air | 01,5  |
+|  1 fort |   |
+|  1 fort |   |
+|  11,1 |   |
+|  Fauteur de la mer |   |
+|  01,5 |   |
+|  1 fort |   |
+|  1 fort |   |
+|  11,1 |   |
+|  Densité de l'eau |   |
+|  au large |   |
+|  Température de l'eau | 11,1  |

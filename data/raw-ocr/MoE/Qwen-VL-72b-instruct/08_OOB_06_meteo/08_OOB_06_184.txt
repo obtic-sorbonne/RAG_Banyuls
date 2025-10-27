@@ -1,0 +1,51 @@
+| **OBSERVATIONS DU 1901 / 1 Août** |
+| --- |
+| **Nombre de bateaux sortis (pêche à l.)** | 33.4 |
+| **Température de l'air** |
+|  - maxima depuis la veille | 33.4 |
+|  - minima id. | 22.0 |
+| **Température de l'eau** |
+|  - maxima depuis la veille |  |
+|  - minima id. |  |
+| **Pluie tombée depuis la veille, en millim.** | 0 |
+| **Evaporation depuis le 1901, en millim.** |  |
+| **Direction du vent (à terre)** | **à 9 h. m.** | **à 3 h. s.** |
+| **- Force** | 1 fort | 1 |
+| **- Direction des nuages** | S.S.E. | N.6 |
+| **Nébulosité** |
+|  - région Ouest (terre) | 10 légère | 10 |
+|  - id. Est (mer) | 10 légère | 10 |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.)** | 32.0 | 29.2 |
+| **Agitation de l'eau** | faible | 1 |
+| **Densité de l'eau au bout de la jetée** | 1023.7 | 1023.0 |
+| **Température id.** |
+|  - Balano | 26.3 | 26.4 |
+|  - bernane Matin |
+|    - maxima | 36.3 | 38.2 |
+|    - minima | 20.0 | 27.9 |
+|  -  is . soir | 24.7 | 30.0 |
+| --- |
+| **OBSERVATIONS DU 1901 / 2 Août** |
+| **Nombre de bateaux sortis (pêche à l.)** | 27.7 |
+| **Température de l'air** |
+|  - maxima depuis la veille | 27.7 |
+|  - minima id. | 26.7 |
+| **Température de l'eau** |
+|  - maxima depuis la veille |  |
+|  - minima id. |  |
+| **Pluie tombée depuis la veille, en millim.** | 0 |
+| **Evaporation depuis le 31 juillet 1901, en millim.** |  |
+| **Direction du vent (à terre)** | **à 9 h. m.** | **à 3 h. s.** |
+| **- Force** | 1 |  |  |
+| **- Direction des nuages** | N.E |  |  |
+| **Nébulosité** |
+|  - région Ouest (terre) | 1 |  |  |
+|  - id. Est (mer) | 1 |  |  |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.)** | 35.8 |  |
+| **Agitation de l'eau** | faible | 1 |
+| **Densité de l'eau au bout de la jetée** | 1024.7 |  |
+| **Température id.** |
+|  - Balano | 28.6 |  |
+|  - bernane Matin | 46.3 |  |
+|    - minima | 19.2 |  |
+| --- | --- | --- | --- |

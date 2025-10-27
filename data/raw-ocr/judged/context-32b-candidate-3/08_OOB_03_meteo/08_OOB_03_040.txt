@@ -1,0 +1,16 @@
+# Date. 2 Novembre. 1901
+
+|  | 9" Matin | 3" Soir  |
+| --- | --- | --- |
+|  Hauteur Barométrique | 708,8 | 708,8  |
+|  Direction du vent | N.N.O | N.N.O  |
+|  Force | 4 | 4  |
+|  Nébulosité { Reg. O. (terre)} | 3 | 3  |
+|  Reg. E. (mer) | 3 | 3  |
+|  Direction des nuages | N.N.O | N.N.O  |
+|  Pluie tombée | 3% | 3%  |
+|  Température de l'air | 15,6 | 15,6  |
+|  Hauteur de la mer | 39,5 | 39,5  |
+|  Agitation de l'eau | 4 jour | 4 jour  |
+|  Densité de l'eau { au bout de la jetée } | 1025,0 | 1025,0  |
+|  Température de l'eau | 14,8 | 14,8  |

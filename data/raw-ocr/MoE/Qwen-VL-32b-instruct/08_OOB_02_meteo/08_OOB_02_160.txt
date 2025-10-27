@@ -1,0 +1,17 @@
+# Date: 20 Aoiv 1901
+
+|  Name | 9th Station | 3rd Soir  |
+| --- | --- | --- |
+|  Kauteur Peurométrique | 755,4 | 755,4  |
+|  Direction du vent | N.E | S.S.E  |
+|  Force | 1 T. fort | 1 T. fort  |
+|  Débutosite | Reg. 6 - (mer) | 350,0  |
+|  Débutosite |  | 350,0  |
+|  Direction des nuages |  |   |
+|  Flue tombée |  |   |
+|  Température de l'air | 31,3 | 35,3  |
+|  Hauteur de la mer | 47,3 | 53,3  |
+|  Agitation de l'eau | 1 T. fort | 0  |
+|  Densité de l'eau | 1027,5 | 1026,9  |
+|  **Lempe** |  |   |
+|  Température de l'eau | 31,7 | 34,0  |

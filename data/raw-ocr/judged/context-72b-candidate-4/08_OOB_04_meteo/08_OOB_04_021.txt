@@ -1,0 +1,30 @@
+```plaintext
+| **Date**         | **Matin**                     | **Soir**                     |
+|------------------|------------------------------|------------------------------|
+| **4 Novembre 1901** |                              |                              |
+| Hauteur Barométrique | 767.2 mm                    | 769.7 mm                     |
+| Direction du vent   | cr. or. o                    | Est                          |
+| Force               | 1 Fort                      | 1 T. faible                  |
+| Nebulosité (Terre)  | 0                            | 0                            |
+| Nebulosité (Mer)    | 0                            | 0                            |
+| Direction des nuages | cr. or. o                    | Sud                          |
+| Pluie tombée        | "                             | "                            |
+| Température de l'air | 11.2 °C                     | 14.3 °C                     |
+| Hauteur de la mer   | 43.6 m                       | 39.0 m                       |
+| Agitation de l'eau  | 2                            | 2 T. fort                   |
+| Densité au bout de la jetée | 1026.3 kg/m³          | 1029.3 kg/m³                 |
+| Température de l'eau | 19.1 °C                     | 19.6 °C                     |
+| **5 Novembre 1901** |                              |                              |
+| Hauteur Barométrique | 769.4 mm                    | 768.6 mm                     |
+| Direction du vent   | cr. or.                     | S. S. 8                      |
+| Force               | 1                            | 1 Fort                       |
+| Nebulosité (Terre)  | 0                            | 0                            |
+| Nebulosité (Mer)    | 2                            | 2                            |
+| Direction des nuages | Sud                         | Sud                          |
+| Pluie tombée        | "                             | "                            |
+| Température de l'air | 12.0 °C                     | 15.1 °C                     |
+| Hauteur de la mer   | 40.3 m                       | 38.9 m                       |
+| Agitation de l'eau  | 2 faible                     | 1 fort                       |
+| Densité au bout de la jetée | 1026.2 kg/m³          | 1029.8 kg/m³                 |
+| Température de l'eau | 19.4 °C                     | 19.7 °C                     |
+```

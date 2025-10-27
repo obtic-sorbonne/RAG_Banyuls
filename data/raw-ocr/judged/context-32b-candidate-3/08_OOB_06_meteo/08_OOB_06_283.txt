@@ -1,0 +1,68 @@
+### OBSERVATIONS DU 1902 17 Mai
+
+| **Nombre de bateaux sortis (pêche à l.)** | 31 |
+| --- | --- |
+| **Température de l'air** |  |
+| - maxima depuis la veille | 31.6 | °C |
+| - minima id. | 19.4 | °C |
+| **Température de l'eau** |  |
+| - maxima depuis la veille |  | °C |
+| - minima id. |  | °C |
+| **Pluie tombée depuis la veille, en millim.** |  | mm |
+| **Évaporation depuis le 1900, en millim.** |  | mm |
+| **Direction du vent (à terre)** |  |  |
+| - à 9 h. m. | N.N.O. |
+| - à 3 h. s. | N.N.E. |
+| **Force** |  |  |
+| - à 9 h. m. | faible |
+| - à 3 h. s. | 2 |
+| **Direction des nuages** |  |  |
+| - à 9 h. m. | N.N.E. |
+| - à 3 h. s. | N.N.O. |
+| **Nébulosité** |  |  |
+| - région Ouest (terre) | 4 | 6 |
+| - id. Est (mer) | 8 | 2 |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.)** | 44.9 | 12.4 | cm |
+| **Agitation de l'eau** | 2 | 2 (forte) |
+| **Densité de l'eau au bout de la jetée** | 1027.2 | 1026.9 |
+| **Température de l'eau au bout de la jetée** |  |  |
+| - matin | 16.2 | 16.6 | °C |
+| **is. Pernaux Matin** |  |  |  |
+| - maxima | 11.9 |  | °C |
+| - minima |  |  |
+
+### OBSERVATIONS DU 1902 20 Mai
+
+| **Nombre de bateaux sortis (pêche à l.)** | 23.2 |
+| --- | --- |
+| **Température de l'air** |  |
+| - maxima depuis la veille | 29.3 | °C |
+| - minima id. | 19.6 | °C |
+| **Température de l'eau** |  |
+| - maxima depuis la veille |  | °C |
+| - minima id. |  | °C |
+| **Pluie tombée depuis la veille, en millim.** | 1.088 | mm |
+| **Évaporation depuis le 1900, en millim.** | 78 | mm |
+| **Direction du vent (à terre)** |  |  |
+| - à 9 h. m. | S.S.E. |
+| - à 3 h. s. | S.S.E. |
+| **Force** |  |  |
+| - à 9 h. m. | fort |
+| - à 3 h. s. | 2 |
+| **Direction des nuages** |  |  |
+| - à 9 h. m. | S.S.E. |
+| - à 3 h. s. | S.S.O. |
+| **Nébulosité** |  |  |
+| - région Ouest (terre) | 10 | 6 |
+| - id. Est (mer) | 10 | 10 |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.)** | 34.7 | 44.1 | cm |
+| **Agitation de l'eau** | 1 | 1 (forte) |
+| **Densité de l'eau au bout de la jetée** | 1027.3 | 1027.3 |
+| **Température de l'eau au bout de la jetée** |  |  |
+| - matin | 16.1 | 16.0 | °C |
+| **is. Pernaux Matin** |  |  |  |
+| - maxima | 31.7 |  | °C |
+| - minima |  |  |
+| **is. Pernaux Jour** |  |  |  |
+| - maxima | 10.6 |  | °C |
+| - minima |  |  |

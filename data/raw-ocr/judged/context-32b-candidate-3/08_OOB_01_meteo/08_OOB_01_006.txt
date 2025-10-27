@@ -1,0 +1,17 @@
+Dale: D. 19 Hous 1900.
+
+|  |  |  |
+| --- | --- | --- |
+|  Kautern barométrique | 764,5 | 763,0  |
+|  Direction du vent |  | E.  |
+|  Force | 0 | 1  |
+|  Nébulosité | 0 | 0  |
+|  Direction des nuages |  |   |
+|  Pluie tombée |  |   |
+|  Température de l'air | 25,0 | 25,0  |
+|  Kautern de la mer | 0,25 | 0,405  |
+|  Agitation de l'eau | 0 | 1  |
+|  Densité de l'eau | au bout de la jetée: | 1026,9  |
+|  Température de l'eau | 25,1 | 25,3  |
+
+Obsess.

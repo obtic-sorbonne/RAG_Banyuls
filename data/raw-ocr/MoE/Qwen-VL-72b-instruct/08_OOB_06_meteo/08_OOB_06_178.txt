@@ -1,0 +1,53 @@
+| **OBSERVATIONS DU 19 Juillet** |
+| --- |
+| Nombre de bateaux sortis (pêche à l’anchoroi) | 84 |
+| **Température de l'air** |  |
+| 	maxima depuis la veille | 32,7 |
+| 	minima id. | 20,6 |
+| **Température de l'eau** |  |
+| 	maxima depuis la veille |  |
+| 	minima id. |  |
+| Pluie tombée depuis la veille, en millim. |  |
+| Evaporation depuis le **190**, en millim. |  |
+| **à 9 h. m.** | **à 3 h. s.** |
+| Direction du vent (à terre) | n.n.o. | — |
+| Force | **2** | **0** |
+| Direction des nuages | n. | — |
+| **Nébulosité** |  |
+| 	région Ouest (terre) | **0** | **1** |
+| 	id. Est (mer) | **0** | **1** |
+| Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.) | **39,2** |  |
+| Agitation de l'eau | **1** | faible |
+| Densité de l'eau au bout de la jetée | **1027,6** | ! |
+| **Température** | **id.** |  |
+|  - is. **Bolan** | **23,8** | **29,3** |
+|  - is. **Terrier** | **43,1** | **20,9** |
+|    Matin | maxima | minima | maxima | minima |
+|    Soir | maxima | minima | **32,3** | **10,1** |
+
+| **OBSERVATIONS DU 20 Juillet** |
+| --- |
+| Nombre de bateaux sortis (pêche à l’anchoroi) | 84 |
+| **Température de l'air** |  |
+| 	maxima depuis la veille | 32,7 |
+| 	minima id. | 20,6 |
+| **Température de l'eau** |  |
+| 	maxima depuis la veille |  |
+| 	minima id. |  |
+| Pluie tombée depuis la veille, en millim. |  |
+| Evaporation depuis le **190**, en millim. |  |
+| **à 9 h. m.** | **à 3 h. s.** |
+| Direction du vent (à terre) | n.n.o. | — |
+| Force | **2** | **0** |
+| Direction des nuages | n. | — |
+| **Nébulosité** |  |
+| 	région Ouest (terre) | **0** | **1** |
+| 	id. Est (mer) | **0** | **1** |
+| Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.) | **39,2** |  |
+| Agitation de l'eau | **1** | faible |
+| Densité de l'eau au bout de la jetée | **1027,6** | ! |
+| **Température** | **id.** |  |
+|  - is. **Bolan** | **23,8** | **29,3** |
+|  - is. **Terrier** | **43,1** | **20,9** |
+|    Matin | maxima | minima | maxima | minima |
+|    Soir | maxima | minima | **32,3** | **10,1** |

@@ -1,0 +1,31 @@
+| Date       | Matin   | Soir    |
+|------------|---------|---------|
+| 26 Octobre 1906 |        |         |
+| Hauteur Barométrique | 766,4 | 764,6  |
+| Direction du Vent | cr.o | or.cr.o |
+| Force       | 2 foil  | 2       |
+| Reg. o. (Clair) | 10    | 3       |
+| Nébulosité  |        |         |
+| Reg. ri. (mer) | 10    | 3       |
+| Direction des nuages | cr.o | cr.o   |
+| Pluie tombée |      |     |
+| Température de l'air | 17.8  | 19.8   |
+| Hauteur de la mer | 10/ | 33.8   |
+| Agitation de l'eau | 2    | 2 foille |
+| Densité au bout de la jetée | 1028.1 | 1028.6 |
+| Tempé[ra]ture de l'eau | 18.8 | 18.9   |
+|            |         |         |
+| 27 Octobre 1906 |        |         |
+| Hauteur Barométrique | 764.3 | 763.7  |
+| Direction du Vent | cr.o | er.o   |
+| Force       | 3      | 3       |
+| Reg. o. (Clair) | 1    | 4       |
+| Nébulosité  |        |         |
+| Reg. ri. (mer) | 1    | 0       |
+| Direction des nuages | cr.co | cr.co  |
+| Pluie tombée |      |     |
+| Température de l'air | 17.3  | 17.4   |
+| Hauteur de la mer | 48.2 | 33.2   |
+| Agitation de l'eau | 2    | 2       |
+| Densité au bout de la jetée | 1029.0 | 1028.7 |
+| Température de l'eau | 18./ | 18.4   |

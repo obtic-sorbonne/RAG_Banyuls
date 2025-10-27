@@ -1,0 +1,29 @@
+```plaintext
+|  9. 13 Juin - 1902 | Matin | Soir  |
+| --- | --- | --- |
+|  Hauteur Barométrique | 760,6 | 761,3  |
+|  Direction du vent | cr. or. o | Ouest  |
+|  Force | 2 fort | 1  |
+|  Rég. O. (terre) | 10 | 10  |
+|  Rég. E. (mer) | 10 | 10  |
+|  Direction des nuages | cr. or. o | cr. or. o  |
+|  Pluie tombée | - | 3,37  |
+|  Température de l'air | 17,7 | 19,7  |
+|  Hauteur de la mer | 47,1 | 44,2  |
+|  Agitation de l'eau | 1 fort | 1 fort  |
+|  Densité au bout de la jetée | 1027,2 | 1027,6  |
+|  Température de l'eau | 16,1 | 16,3  |
+|  9. 14 Juin - 1902 | Matin | Soir  |
+|  Hauteur Barométrique | 764,9 | 762,9  |
+|  Direction du vent | cr. or. o | Ouest  |
+|  Force | 3 fort | 2  |
+|  Rég. O. (terre) | 0 | 0  |
+|  Rég. E. (mer) | 10 | 10  |
+|  Direction des nuages | cr. or. o | cr. or. o  |
+|  Pluie tombée | quelques g | -  |
+|  Température de l'air | 16,8 | 18,6  |
+|  Hauteur de la mer | 18,7 | 11,4  |
+|  Agitation de l'eau | 2 T. fort | 2 T. fort  |
+|  Densité au bout de la jetée | 1027,8 | 1027,8  |
+|  Température de l'eau | 16,2 | 16,3  |
+```

@@ -1,0 +1,42 @@
+| **Observations du 23 juin 1960** |
+| --- |
+| **Nombre de bateaux sortis (pêche à l.)** |  |  |
+| **Température de l'air** | **maxima depuis la veille** | 29.3 |
+|  | **minima id.** | 16.8 |
+| **Température de l'eau** | **maxima depuis la veille** |  |  |
+|  | **minima id.** |  |  |
+| **Pluie tombée depuis la veille, en millim.** |  | quelques |
+| **Evaporation depuis le 190, en millim.** |  |  |
+| **Direction du vent (à terre)** | à 9 h. m. | à 3 h. s. |
+|  | **Nord** | **Nord-Est** |
+| **Force** | **2 forts** | **2 forts** |
+| **Direction des nuages** | | |
+|  | ** Nord** | **Nord-Nord-Ouest** |
+| **Nébulosité** | **région Ouest (terre)** | 3 | 10 |
+|  | **id. Est (mer)** | 3 | 10 |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro** | **28.0** | **37.0** |
+| **Agitation de l'eau** | **1 fort** | **1 fort** |
+| **Densité de l'eau au bout de la jetée** | **1027.6** | **1027.7** |
+| **Température id.** | **18.2** | **20.0** |
+
+
+| **Observations du 24 juin 1960** |
+| --- |
+| **Nombre de bateaux sortis (pêche à l.)** |  |  |
+| **Température de l'air** | **maxima depuis la veille** | 29.8 |
+|  | **minima id.** | 16.4 |
+| **Température de l'eau** | **maxima depuis la veille** |  |  |
+|  | **minima id.** |  |  |
+| **Pluie tombée depuis la veille, en millim.** |  |  |
+| **Evaporation depuis le 190, en millim.** |  |  |
+| **Direction du vent (à terre)** | à 9 h. m. | à 3 h. s. |
+|  | **Nord-Nord-Ouest** | **Sud-Sud-Est** |
+| **Force** | **2 forts** | **1 fort** |
+| **Direction des nuages** | | |
+|  | **Nord-Nord-Ouest** | **Ouest-Nord-Ouest** |
+| **Nébulosité** | **région Ouest (terre)** | **1** | **10** |
+|  | **id. Est (mer)** | **2** | **10** |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro** | **39.8** | **22.8** |
+| **Agitation de l'eau** | **2** | **1 fort** |
+| **Densité de l'eau au bout de la jetée** | **1026.7** | **1027.4** |
+| **Température id.** | **18.7** | **19.3** |

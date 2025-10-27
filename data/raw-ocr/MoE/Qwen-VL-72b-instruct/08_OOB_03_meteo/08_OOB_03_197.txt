@@ -1,0 +1,4 @@
+| Date        | Heure | Température (°C) | Pression atmosphérique (mm Hg) | Direction du vent | Force du vent | Précipitations (mm) | Remarques                 |
+|-------------|-------|-----------------|-------------------------------|-------------------|---------------|---------------------|---------------------------|
+|             |       |                 |                               |                   |               |                     |                           |
+|             |       |                 |                               |                   |               |                     |                           |

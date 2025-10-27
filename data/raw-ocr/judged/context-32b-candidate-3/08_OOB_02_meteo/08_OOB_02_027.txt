@@ -1,0 +1,16 @@
+# Date: 29 mars 1901
+
+|            | 9" Matin | 3" Soir |
+|------------|----------|---------|
+| Hauteur Barométrique | 751,5 | 751,7  |
+| Direction du vent | N.E | S.E  |
+| Force | 1.5 | 2 fort  |
+| Rég. O. (terre) | 10 | 10  |
+| Nébulosité / Rég. E. (mer) | 10 | 10  |
+| Direction des nuages | Quel | 10  |
+| Pluie tombée | 11,4 | 8,7  |
+| Température de l'air | 15,3 | 50,4  |
+| Hauteur de la mer | 1 |  |
+| Agitation de l'eau | 10,5 | 10,5  |
+| Densité de l'eau |  |  |
+| Température de l'eau | 10,5 | 10,5  |

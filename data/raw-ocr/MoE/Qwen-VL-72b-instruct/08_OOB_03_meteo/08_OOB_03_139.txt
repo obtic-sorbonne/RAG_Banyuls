@@ -1,0 +1,16 @@
+| **Observation** | **9H Matin** | **3H Soir** |
+|------------------|--------------|-------------|
+| Hauteur Barométrique | 761.2 | 761.6 |
+| Direction du vent | S.S.E | S.S.E |
+| Force du vent | 2 | 2 |
+| Nébulosité (Reg. O. - Terre) | 10 | 10 |
+| Nébulosité (Reg. E. - mer) | 10 | 10 |
+| Direction des nuages | S.S.E | S.S.E |
+| Pluie tombée | — | — |
+| Température de l'air | 13.0 | 13.4 |
+| Hauteur de la mer | 40.4 | 42.8 |
+| Agitation de l'eau (bout de la jetée) | faible | fort |
+| Densité de l'eau | 1028.0 | 1028.1 |
+| Température de l'eau | 11.4 | 11.4 |
+
+**Date:** 3 Mars 1902

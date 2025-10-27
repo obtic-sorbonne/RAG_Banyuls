@@ -1,0 +1,43 @@
+### OBSERVATIONS DU 1960-06-30
+
+| **Nombre de bateaux sortis (pêche à l’ancre)** | **--** |
+| **Température de l'air** |  |
+|      maxima depuis la veille | 27.3 °C |
+|      minima id. | 16.8 °C |
+| **Température de l'eau** |  |
+|      maxima depuis la veille | -- |
+|      minima id. | -- |
+| **Pluie tombée depuis la veille, en millim** | **0** |
+| **Evaporation depuis le 190, en millim** | **--** |
+| **Direction du vent (à terre)** | **N.O.** | **N.N.O.** |
+| **Force** | **2 forts** | **4 forts** |
+| **Direction des nuages** | **S.O.** | **N.N.E.** |
+| **Nébulosité** |  |  |
+|      région Ouest (terre) | **10** | **10** |
+|      id. Est (mer) | **10** | **10** |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro** | **31,7** | **39,1** |
+| **Agitation de l'eau** | **1** | **1 fort** |
+| **Densité de l'eau au bout de la jetée** | **1027,0** | **1027,6** |
+| **Température id.** | **20,3** | **18,7** |
+
+### OBSERVATIONS DU 1960-07-01
+
+| **Nombre de bateaux sortis (pêche à l’ancre)** | **--** |
+| **Température de l'air** |  |
+|      maxima depuis la veille | 29.5 °C |
+|      minima id. | 16.4 °C |
+| **Température de l'eau** |  |
+|      maxima depuis la veille | -- |
+|      minima id. | -- |
+| **Pluie tombée depuis la veille, en millim** | **11** |
+| **Evaporation depuis le 190, en millim** | **--** |
+| **Direction du vent (à terre)** | **M.N.E.** | **S.O.** |
+| **Force** | **3 forts** | **1** |
+| **Direction des nuages** | **N.N.E.** | **N.N.E.** |
+| **Nébulosité** |  |  |
+|      région Ouest (terre) | **2** | **5** |
+|      id. Est (mer) | **1** | **2** |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro** | **29,6** | **38,8** |
+| **Agitation de l'eau** | **2 forts** | **1** |
+| **Densité de l'eau au bout de la jetée** | **1027,6** | **1027,4** |
+| **Température id.** | **18,5** | **20,2** |

@@ -1,0 +1,30 @@
+```plaintext
+| **Date**       | **Matin**                     | **Soir**                     |
+|----------------|-------------------------------|------------------------------|
+| **V. 21 Octobre 1903** |                             |                              |
+| Hauteur Barométrique | 762.7                 | 760.7                        |
+| Direction du vent | S.S.O                  | S.S.O                         |
+| Force            | 1 Poul                  | 1 Poul                        |
+| Reg. O. (Clèle)   | 10                      | 10                            |
+| Nébuloité / Reg. E. (mer) | 10              | 10                            |
+| Direction des vagues | S.O                  | S.O                           |
+| Pluie Tombée      | "                     | "                             |
+| Température de l'air | 19.3                  | 22.6                          |
+| Hauteur de la mer  | 34.6                  | 43.6                          |
+| Agitation de l'eau | 1                     | 1                             |
+| Densité au bout de la jetée | 1028.9        | 1028.9                        |
+| Température de l'eau | 17.8                  | 18.4                          |
+| **V. 22 Octobre 1903** |                            |                             |
+| Hauteur Barométrique | 764.4                 | 763.6                         |
+| Direction du vent | er.O                   | er.O                          |
+| Force            | 2 Poul                  | 0                             |
+| Reg. O. (Clèle)   | 10                      | 10                            |
+| Nébuloité / Reg. E. (mer) | 10              | 10                            |
+| Direction des vagues | er.O                  | "                             |
+| Pluie Tombée      | quelques.g             | quelques.g                    |
+| Température de l'air | 19.1                  | 17.4                          |
+| Hauteur de la mer  | 27.2                  | 43.2                          |
+| Agitation de l'eau | 1                     | 2 Joail                       |
+| Densité au bout de la jetée | 1028.6        | 1028.9                        |
+| Température de l'eau | 17.7                  | 17.9                          |
+```

@@ -1,0 +1,27 @@
+| V. 27 Aout. 1907 | Matin | Soir |
+|-----------------|-------|------|
+| Hauteur Barometrique | 768.3 | 766.8 |
+| Direction du Vent | cr.cr.8 | S.8 |
+| Force | 1 Fort | 1 Fort |
+| Nébulosité | 10 | 10 légère |
+| (Deg. 0. (km)) | 60 | 10 légère |
+| Direction des nuages | cr.o | cr.o |
+| Pluie tombée | " | " |
+| Température de l'air | 23.3 | 28.7 |
+| Hauteur de la mer | 47.6 | 58.9 |
+| Agitation de l'eau | 1 | 1 |
+| Densité au bout de la jetée | 1027.9 | 1026.7 |
+| Température de l'eau | 22.6 | 23.6 |
+| V. 28 Aout. 1907 | Vébatin Suic | |
+| Hauteur Barometrique | 767.7 | 766.4 |
+| Direction du Vent | S.cr.8 | cr.8 |
+| Force | 1 | 1 |
+| Nébulosité | 10 | 10 |
+| (Deg. 0. (km)) | 60 | 60 |
+| Direction des nuages | S.o | S.o |
+| Pluie tombée | " | " |
+| Température de l'air | 24.7 | 29.4 |
+| Hauteur de la mer | 50.4 | 53.7 |
+| Agitation de l'eau | 15 faible | 1 |
+| Densité au bout de la jetée | 1027.2 | 1026.9 |
+| Température de l'eau | 28.0 | 23.7 |

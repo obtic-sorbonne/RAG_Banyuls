@@ -1,0 +1,85 @@
+```plaintext
+### OBSERVATIONS DU 1902 3 Août
+
+| **Nombre de bateaux sortis (pêche à l.)** |  |
+| --- | --- |
+| **Température de l'air** |  |
+| - maxima depuis la veille | 31.5 | °C |
+| - minima id. | 16.3 | °C |
+| **Température de l'eau** |  |
+| - maxima depuis la veille |  | °C |
+| - minima id. |  | °C |
+| **Pluie tombée depuis la veille, en millim.** | 0.8 | mm |
+| **Évaporation depuis le 1902, en millim.** |  | mm |
+| **Direction du vent (à terre)** | **à 9 h. m.** | **à 3 h. s.** |
+| - Direction | N.N.O. | S.S.W. |
+| - Force | 3 | 2 |
+| **Direction des nuages** | N.N.O. | S.S.E. |
+| **Nébulosité** |  |
+| - région Ouest (terre) | 10 | 10 |
+| - id. Est (mer) | 10 | 10 |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B.Q.)** | 31.2 | 32.0 |
+| **Agitation de l'eau** | 2 | 1 |
+| **Densité de l'eau au bout de la jetée** | 1027.1 | 1026.9 |
+| **Température** |  |
+| - id. Persan (matin) | Maxima 33.2 | °C |
+| - id. Persan (matin) | Minima 15.0 | °C |
+| - id. Louis (matin) | Maxima 29.5 | °C |
+| - id. Louis (matin) | Minima 18.5 | °C |
+
+### OBSERVATIONS DU 1902 4 Août
+
+| **Nombre de bateaux sortis (pêche à l.)** |  |
+| --- | --- |
+| **Température de l'air** |  |
+| - maxima depuis la veille | 30.0 | °C |
+| - minima id. | 16.2 | °C |
+| **Température de l'eau** |  |
+| - maxima depuis la veille |  | °C |
+| - minima id. |  | °C |
+| **Pluie tombée depuis la veille, en millim.** | 0.0 | mm |
+| **Évaporation depuis le 1902, en millim.** |  | mm |
+| **Direction du vent (à terre)** | **à 9 h. m.** | **à 3 h. s.** |
+| - Direction | N.N.O. | N.N.E. |
+| - Force | 2 | 1 |
+| **Direction des nuages** | S.S.E. | S.S.W. |
+| **Nébulosité** |  |
+| - région Ouest (terre) | 10 | 10 |
+| - id. Est (mer) | 10 | 10 |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B.Q.)** | 29.8 | 30.5 |
+| **Agitation de l'eau** | 1 | 1 |
+| **Densité de l'eau au bout de la jetée** | 1027.0 | 1026.8 |
+| **Température** |  |
+| - id. Persan (matin) | Maxima 32.0 | °C |
+| - id. Persan (matin) | Minima 15.5 | °C |
+| - id. Louis (matin) | Maxima 28.0 | °C |
+| - id. Louis (matin) | Minima 17.0 | °C |
+
+### OBSERVATIONS DU 1902 5 Août
+
+| **Nombre de bateaux sortis (pêche à l.)** |  |
+| --- | --- |
+| **Température de l'air** |  |
+| - maxima depuis la veille | 28.5 | °C |
+| - minima id. | 15.8 | °C |
+| **Température de l'eau** |  |
+| - maxima depuis la veille |  | °C |
+| - minima id. |  | °C |
+| **Pluie tombée depuis la veille, en millim.** | 0.2 | mm |
+| **Évaporation depuis le 1902, en millim.** |  | mm |
+| **Direction du vent (à terre)** | **à 9 h. m.** | **à 3 h. s.** |
+| - Direction | N.N.O. | N.N.E. |
+| - Force | 2 | 1 |
+| **Direction des nuages** | S.S.E. | S.S.W. |
+| **Nébulosité** |  |
+| - région Ouest (terre) | 10 | 10 |
+| - id. Est (mer) | 10 | 10 |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B.Q.)** | 30.2 | 31.0 |
+| **Agitation de l'eau** | 1 | 1 |
+| **Densité de l'eau au bout de la jetée** | 1026.9 | 1026.7 |
+| **Température** |  |
+| - id. Persan (matin) | Maxima 31.0 | °C |
+| - id. Persan (matin) | Minima 16.0 | °C |
+| - id. Louis (matin) | Maxima 27.0 | °C |
+| - id. Louis (matin) | Minima 16.5 | °C |
+```

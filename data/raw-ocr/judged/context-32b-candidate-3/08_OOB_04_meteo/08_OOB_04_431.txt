@@ -1,0 +1,67 @@
+# V. 1er Octobre 1902
+
+|  Nom | Date  |
+| --- | --- |
+|  Hauteur Parométrique | 20.3.1  |
+|  Direction du vent | 8.7.8  |
+|  Force | 1/2001  |
+|  (Reg. O. (1902)) | 10  |
+|  (Reg. E. (1902)) | 10  |
+|  Direction des nuages | 8.7.8  |
+|  (Juin Tombé) |   |
+|  Température de l'air | 14.0  |
+|  Hauteur de la mer | 34.6  |
+|  (Agitation de l'eau) | 3  |
+|  Densité au bout de la jetée | 1038.3  |
+|  (Température de l'eau) | 18.3  |
+
+# V. 1er Octobre 1902
+
+|  Nom | Date  |
+| --- | --- |
+|  Hauteur Parométrique | 20.3.3  |
+|  Direction du vent | 1  |
+|  Force | 15  |
+|  (Reg. O. (1902)) | 10  |
+|  (Reg. E. (1902)) | 10  |
+|  Direction des nuages | 2001  |
+|  (Juin Tombé) |   |
+|  Température de l'air | 14.9  |
+|  Hauteur de la mer | 46.4  |
+|  (Agitation de l'eau) | 3/2001  |
+|  Densité au bout de la jetée | 1038.3  |
+|  (Température de l'eau) | 18.3  |
+
+# V. 1er Octobre 1903
+
+|  Nom | Date  |
+| --- | --- |
+|  Hauteur Parométrique | 303.5  |
+|  Direction du vent | 3  |
+|  Force | 5  |
+|  (Reg. O. (1903)) | 10  |
+|  (Reg. E. (1903)) | 10  |
+|  Direction des nuages | 8  |
+|  (Juin Tombé) |   |
+|  Température de l'air | 17.0  |
+|  Hauteur de la mer | 30.6  |
+|  (Agitation de l'eau) | 2  |
+|  Densité au bout de la jetée | 1028.3  |
+|  Température de l'eau | 18.0  |
+
+# V. 1er Octobre 1904
+
+|  Nom | Date  |
+| --- | --- |
+|  Hauteur Parométrique | 762  |
+|  Direction du vent | 18  |
+|  Force | 1  |
+|  (Reg. O. (1904)) | 10  |
+|  (Reg. E. (1904)) | 10  |
+|  Direction des nuages | 20  |
+|  (Juin Tombé) |   |
+|  Température de l'air | 40  |
+|  Hauteur de la mer | 17.3  |
+|  (Agitation de l'eau) | 46.4  |
+|  Densité au bout de la jetée | 1028.5  |
+|  Température de l'eau | 18.2  |

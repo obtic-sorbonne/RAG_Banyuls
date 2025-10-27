@@ -1,0 +1,18 @@
+# Date: 7 Novembre 1901
+
+|   | 9th Station | 3rd Soir  |
+| --- | --- | --- |
+|  Hauteur Parométrique | 266.2 | 264.7  |
+|  Direction du vent | N.N.O | N.N.O  |
+|  Force | 1 fort | 8  |
+|  Négro | 10 | 10 kg/m²e  |
+|  Nétulosite |  |   |
+|  Reg. E. (mer) | 10 | 10 kg/m²e  |
+|  Direction des nuages | 30h | 110m  |
+|  Flux tombé | gnefum. 2. | 11  |
+|  Température de l'air | 13.0 | 13.3  |
+|  Hauteur de la mer | 45.0 | 35.6  |
+|  Régitation de l'eau | 3 fort | 3 fort  |
+|  Sensité de l'eau | au bout de la jetée | 1026.6  |
+|  Sensité de l'eau | au 6arge | 1026.5  |
+|  Température de l'eau | 15.5 | 15.4  |

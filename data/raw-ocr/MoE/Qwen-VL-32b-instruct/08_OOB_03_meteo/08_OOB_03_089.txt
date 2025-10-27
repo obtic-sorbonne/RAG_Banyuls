@@ -1,0 +1,17 @@
+# Date: 24 Décembre 1901
+
+|  Name | 9th M6alin | 3rd Soir  |
+| --- | --- | --- |
+|  Manteur Maronnetrique | 7/8.7 |   |
+|  Direction du vent |  |   |
+|  Force | 15 |   |
+|  1/2 | 1 faible |   |
+|  96610000000 |  | 10  |
+|  9 Reg. E. (mer) |  |   |
+|  Direction des nuages |  |   |
+|  9 Heur tombée |  |   |
+|  9 Renférative de l'air |  | 3,7  |
+|  9 Manteur de la mer |  | 39,3  |
+|  9 Agitation de l'eau |  | 1  |
+|  9 Sensite de l'eau |  | 1028,7  |
+|  9 Renférative de l'eau |  | 11,6  |

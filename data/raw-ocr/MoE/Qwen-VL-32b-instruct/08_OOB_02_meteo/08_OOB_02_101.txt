@@ -1,0 +1,16 @@
+# Date: 19 Juin. 1901
+
+|   | 9th Matin | 3rd Soir  |
+| --- | --- | --- |
+|  Yauteur Peurométrique | 755.5 | 755.4  |
+|  Direction Su vent | N.N.O | N.N.O  |
+|  Force | 5 fort | 5 fort  |
+|  Sébularité | 1 | 360 m³/c  |
+|  Rég. O. (1ere) |  |   |
+|  Direction des nuages | 3 | 1  |
+|  Nive tombe | N.N.O | N.N.O  |
+|  Température de l'air | 17.4 | 30.4  |
+|  Yauteur de la mer | 52.3 | 67.2  |
+|  Agitation de l'eau | 3 fort | 4 faible  |
+|  Sensité de l'eau | 1027.7 | 1027.8  |
+|  Température de l'eau | 19.0 | 19.2  |

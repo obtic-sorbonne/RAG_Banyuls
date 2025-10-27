@@ -1,0 +1,59 @@
+### Observations du 1901 22 Novembre
+
+| Paramètres                          | Valeurs                            |
+|-------------------------------------|------------------------------------|
+| **Nombre de bateaux sortis (pêche à l.)** | 17.7                               |
+| **Température de l'air**            | maxima depuis la veille… 17.7     |
+|                                   | minima id.. 11.6                  |
+| **Température de l'eau**            | maxima depuis la veille…          |
+|                                   | minima id..                       |
+| **Pluie tombée depuis la veille, en millim.** |                                       |
+| **Evaporation depuis le 1901**, en millim. |                                   |
+
+| **Direction du vent (à terre)**         | à 9 h.m. | à 3 h.s. |
+|-----------------------------------------|----------|----------|
+| **Force**                              | 0        | 2        |
+| **Direction des nuages**                | S.S.E.   | S.S.O.   |
+| **Nébulosité**                          | 10       |          |
+| **région Ouest (terre)**                |          |          |
+| **id. Est (mer)**                       | 10       | 10       |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro** | 10     | 70     |
+
+| **Agitation de l'eau** | 1  | 1  |
+|------------------------|----|----|
+| **Densité de l'eau au bout de la jetée** | 1.028.3 | 1.028.0 |
+| **Température id.**    |    |    |
+| **Terrane**            |    |    |
+| **Matin**              | maxima 21.8 |          |
+|                       | minima 10.1 |          |
+| **Midi-Soir**          | maxima 26.1 |          |
+|                       | minima 16.4 |          |
+
+### Observations du 1901 23 Novembre
+
+| Paramètres                          | Valeurs                            |
+|-------------------------------------|------------------------------------|
+| **Nombre de bateaux sortis (pêche à l.)** | 19.7                               |
+| **Température de l'air**            | maxima depuis la veille… 19.7     |
+|                                   | minima id.. 13.7                  |
+| **Température de l'eau**            | maxima depuis la veille…          |
+|                                   | minima id..                       |
+| **Pluie tombée depuis la veille, en millim.** | 8.37                              |
+| **Evaporation depuis le 1901**, en millim. |                                   |
+
+| **Direction du vent (à terre)**         | à 9 h.m.    | à 3 h.s.     |
+|-----------------------------------------|-------------|--------------|
+| **Force**                              | 2 forts     |              |
+| **Direction des nuages**                | S.S.E.      | S.S.O.       |
+| **Nébulosité**                          | 10          |              |
+| **région Ouest (terre)**                |             |              |
+| **id. Est (mer)**                       | 10          | 10           |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro** | 2           |              |
+
+| **Agitation de l'eau** | 2  |              |
+|------------------------|----|--------------|
+| **Densité de l'eau au bout de la jetée** |     |          |
+| **Température id.**    |    |             |
+| **Terrane**            |    |             |
+| **Matin**              | maxima 26.0 |           |
+|                       | minima 11.8 |           |

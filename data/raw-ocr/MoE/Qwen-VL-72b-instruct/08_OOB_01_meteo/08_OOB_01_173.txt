@@ -1,0 +1,15 @@
+| **Paramètres**                        | **9h Matin** | **3h Soir** |
+|---------------------------------------|-------------|-------------|
+| **Hauteur Barométrique**              | 769,4       | 768,7       |
+| **Direction du vent**                 | Ouest       | Sud         |
+| **Force**                             | 2           | 3 Fort      |
+| **Nébulosité (Terr.)**                | 0           | 0           |
+| **Nébulosité (Mar.)**                 | 0           | 0           |
+| **Direction des nuages**              | Ouest Sud   |             |
+| **Pluie tombée**                      |             |             |
+| **Température de l'air**              | 9,7         | 11,0        |
+| **Hauteur de la mer**                 | 17,9        | 12,3        |
+| **Agitation de l'eau**                | 2           | 2           |
+| **Densité de l'eau (bout de la jetée)**| 1028,5      | 1028,5      |
+| **Densité de l'eau (au Large)**       |             | 1028,6      |
+| **Température de l'eau**              | 13,3        | 13,3        |

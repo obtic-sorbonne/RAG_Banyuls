@@ -1,0 +1,8 @@
+```plaintext
+| Date       | Heure | Hauteur barométrique | Direction du vent | Force du vent | Nébulosité (Terre) | Nébulosité (Mer) | Direction des nuages | Pluie tombée | Température de l'air | Hauteur de la mer | Agitation de l'eau | Densité au bout de la jetée | Température de l'eau |
+|------------|-------|----------------------|-------------------|---------------|-------------------|------------------|----------------------|--------------|----------------------|-------------------|-------------------|---------------------------|----------------------|
+| 9 janvier 1904 | Matin | 763.9               | cr. o             | 3 fort        | Reg. O. (Terre) 10 | Reg. E. (Mer) 10 | cr. o                | 6,7/0        | 10.8                 | 43.3              | 2                 | 1028.6                    | 11.6                 |
+| 9 janvier 1904 | Soir  | 763.9               | cr. o             | 1             | Reg. O. (Terre) 10 | Reg. E. (Mer) 10 | cr. o                | quelques g   | 9.7                  | 43.3              | 1 fort            | 1028.6                    | 11.6                 |
+| 12 janvier 1904 | Matin | 763.8               | cr. o             | 1             | Reg. O. (Terre) 10 | Reg. E. (Mer) 10 | cr. o                | quelques g   | 9.7                  | 43.3              | 1 fort            | 1028.6                    | 11.6                 |
+| 12 janvier 1904 | Soir  | 763.9               | cr. o             | 1             | Reg. O. (Terre) 10 | Reg. E. (Mer) 10 | cr. o                | quelques g   | 9.7                  | 43.3              | 1 fort            | 1028.6                    | 11.6                 |
+```

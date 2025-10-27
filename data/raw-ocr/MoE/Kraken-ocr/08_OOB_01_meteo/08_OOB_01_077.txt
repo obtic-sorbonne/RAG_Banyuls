@@ -1,0 +1,55 @@
+de --
+5
+Oetobre -1900
+It auteur baromet
+que
+Direction du vent
+oree"
+id "
+Nébulosit
+Reg- O. (terre
+2
+Friie
+ttembée
+Temperature de Paix
+Densite .
+ca bout de la pelée
+au Large
+8
+Han teux. de lamer
+Algitation de Ceau
+7
+75
+5
+mperature- de l'eau
+V
+1
+--S (mer)
+Direction des mages
+7
+M
+57
+1
+73,3
+9
+9
+15
+18
+81,0
+1024, 0
+2.1
+9
+81.2
+5r
+1
+O
+0
+51
+88
+17
+22,7
+1020,6
+24,1
+1.
+22.3
+E

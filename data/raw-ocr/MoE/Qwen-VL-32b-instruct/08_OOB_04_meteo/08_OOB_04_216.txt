@@ -1,0 +1,33 @@
+# 21 Avril 1903
+
+|  Name | Position | Soir  |
+| --- | --- | --- |
+|  Hauteur Maronthique | 7/2.4 | 749.8  |
+|  Direction du vent |  |   |
+|  Force | 15 | 3  |
+|  Nébularité | (Reg. O. (1ère)) | 10  |
+|  Nébularité | (Reg. E. (1er)) | 10  |
+|  Direction des images |  |   |
+|  Mue Tombé |  |   |
+|  Température de l'air |  | 18.7  |
+|  Hauteur de la mer |  | 43.2  |
+|  Crétation de l'eau |  | 1 for  |
+|  Densité au bout de la jeté |  | 1029.4  |
+|  Température de l'eau |  | 12.6  |
+
+# 22 Avril 1903
+
+|  Name | Position | Soir  |
+| --- | --- | --- |
+|  Hauteur Maronthique | 7/4.6 | 743.5  |
+|  Direction du vent |  | 7.0  |
+|  Force | 15 | 3  |
+|  Nébularité | (Reg. O. (1ère)) | 10  |
+|  Nébularité | (Reg. E. (1er)) | 10  |
+|  Direction des images |  | 7.0  |
+|  Mue Tombé |  | 10.0  |
+|  Température de l'air |  | 19.9  |
+|  Hauteur de la mer |  | 36.8  |
+|  Crétation de l'eau |  | 2  |
+|  Densité au bout de la jeté |  | 1029.3  |
+|  Température de l'eau |  | 12.2  |

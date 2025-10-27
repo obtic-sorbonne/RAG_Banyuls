@@ -1,0 +1,29 @@
+```plaintext
+|  V. 30 Novembre - 1904 | Matin | Soir  |
+| --- | --- | --- |
+|  Hauteur Barométrique | 760,6 | 761,1  |
+|  Direction du vent | 00.0 | 00,0  |
+|  Force | 3 | 1 fort  |
+|  (Rég. O. (terre)) | 0 | 0  |
+|  (Rég. O. (mer)) | 1 | 0  |
+|  Direction des nuages |  |   |
+|  Pluie tombée |  |   |
+|  Température de l'air | 6,3 | 10,3  |
+|  Hauteur de la mer | 41,3 | 28,8  |
+|  Régulation de l'eau | 3 fort | 3 fort  |
+|  Densité au bout de la jetée | 1029,3 | 1029,9  |
+|  (Densité de l'eau) | 16 | 16,0  |
+|  V. 1er Décembre - 1904 | Matin | Soir  |
+|  Hauteur Barométrique | 760,3 | 762,2  |
+|  Direction du vent | 0.0 | 71.3  |
+|  Force | 1 | 1  |
+|  (Rég. O. (terre)) | 0 | 0  |
+|  (Rég. O. (mer)) | 0 | 0  |
+|  Direction des nuages |  |   |
+|  Pluie tombée |  |   |
+|  Température de l'air | 6,4 | 11,6  |
+|  Hauteur de la mer | 44,1 | 38,0  |
+|  Régulation de l'eau | 3 faible | 1  |
+|  Densité au bout de la jetée | 1029,0 | 1029,9  |
+|  (Densité de l'eau) | 15 | 11,7  |
+```

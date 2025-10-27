@@ -1,0 +1,31 @@
+```plaintext
+| V. 25 mai -1905 | Matin | Soir |
+| --- | --- | --- |
+| Hauteur Barométrique | 761.8 | 761.5 |
+| Direction du vent | cr.cr.o | s.s |
+| Force is | 3 | 1 |
+| Nébulosité Reg. 0. (terre) | 0 | dégagé ent.c |
+| (Reg. XI. (mer) | 0 | dégagé ent.c |
+| Direction des nuages | " | cr.cr.o |
+| Pluie tombée | " | " |
+| Température de l'air | 16.2 | 22.4 |
+| Hauteur de la mer | 50.2 | 49.8 |
+| Agitation de l'eau | 2 fort | 1 |
+| Densité au bout de la jetée | 1028.7 | 1028.4 |
+| Température de l'eau | 15.7 | 17.0 |
+
+| V. 27 mai -1905 | Matin | Soir |
+| --- | --- | --- |
+| Hauteur Barométrique | 766.4 | 765.7 |
+| Direction du vent | N.O.S.W | S.S.E |
+| Force is | 1 fort | 1 fort |
+| Nébulosité Reg. 0. (terre) | dégagé ent.c | 2 dégagé ent.c |
+| (Reg. XI. (mer) | dégagé ent.c | 2 dégagé ent.c |
+| Direction des nuages | " | cr.cr.o |
+| Pluie tombée | " | " |
+| Température de l'air | 19.4 | 23.9 |
+| Hauteur de la mer | 48.7 | 44.9 |
+| Agitation de l'eau | faible | faible |
+| Densité au bout de la jetée | 1028.7 | 1025.8 |
+| Température de l'eau | 17.7 | 18.2 |
+```

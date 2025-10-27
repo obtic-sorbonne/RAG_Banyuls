@@ -1,0 +1,19 @@
+# Date - 20 Janvier - 1901
+
+|  | 9. Matin | 3.9. Soir |
+| --- | --- | --- |
+| **Hauteur Barométrique** | 707,7 | 707,7 |
+| **Direction du vent** | Sud | Sud |
+| **Force** | 10 | 10 |
+| **Nébulosité** | 10 | 10 |
+| **Rég. E. (terre)** | 10 | 10 |
+| **Rég. E. (mer)** | 10 | 10 |
+| **Direction des nuages** | Sud | Sud |
+| **Pluie tombée** | 10,7 | 10,7 |
+| **Température de l'air** | 10,7 | 10,7 |
+| **Hauteur de la mer** | 48,8 | 48,8 |
+| **Agitation de l'eau** | 1 faible | 1 faible |
+| **Densité de l'eau** | 1028,3 | 1028,3 |
+| **au bout de la jetée** | 1028,5 | 1028,5 |
+| **au large** | 1028,5 | 1028,5 |
+| **Température de l'eau** | 15,1 | 15,1 |

@@ -1,0 +1,33 @@
+|  V. 3 (Avril - 1902) | Nœation | Soir  |
+| --- | --- | --- |
+|  Yantéux Prorométrique | 280, 4 | 280, 2  |
+|  Direction du vent | 100, 4 | 1, 1, 8  |
+|  Force | 1 r.faible | 2 faible  |
+|  (Reg. O. (rime)) | 10 | 10  |
+|  (Reg. O. (rime)) | 10 | 10  |
+|  Débutosité | 10 | 10  |
+|  (Reg. de - (mer)) | 10 | 10  |
+|  Direction des images | 100, 4 | 1, 1, 8  |
+|  (Prise semble) | 1, 0, 1 | 1, 1  |
+|  Température de l'air | 14, 2 | 15, 6  |
+|  (Prise semble) | 40, 8 | 39, 2  |
+|  Régitation de l'eau | 1, 7, fort | 1, fort  |
+|  Densité au bout de la jeté | 10, 2, 8, 1 | 10, 2, 8, 5  |
+|  (Densité au bout de la jeté) | 15, 6 | 14, 3  |
+|  (Densité au bout de la jeté) | 14, 3 | 14, 3  |
+
+|  V. 3 (Avril - 1902) | Nœation | Soir  |
+| --- | --- | --- |
+|  Yantéux Prorométrique | 283, 1 | 283, 8  |
+|  Direction du vent | 10 or. 0 | 10 or. 0  |
+|  Force | 5 | 2, fort  |
+|  (Reg. O. (rime)) | 10 | 2, 1, 1  |
+|  Débutosité | 10 | 10  |
+|  (Reg. de - (mer)) | 10 | 10  |
+|  Direction des images | 100, 4 | 1, 0  |
+|  (Prise semble) | 1, 0 | 1, 2  |
+|  Température de l'air | 12, 6 | 13, 2  |
+|  (Prise semble) | 48, 4 | 46, 6  |
+|  Régulation de l'eau | 1 faible | 2  |
+|  Densité au bout de la jeté | 10, 2, 8 | 10, 2, 8  |
+|  (Densité au bout de la jeté) | 14, 1 | 14, 1  |

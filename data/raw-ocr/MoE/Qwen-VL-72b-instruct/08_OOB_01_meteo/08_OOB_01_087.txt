@@ -1,0 +1,4 @@
+| Date | Heure | Hauteur Barométrique (mm Hg) | Direction du vent | Force minimun | Nébulosité (%) | Direction des nuages | Pluie tombée | Température de l'air (°C) | Hauteur de la mer (cm) | Agitation de l'eau | Densité de l'eau (g/cm³) | Température de l'eau (°C) |
+|------|-------|-----------------------------|-------------------|---------------|-------------------|-------------------|-------------------|---------------------|---------------------|--------------------|---------------------|-----------------------|
+| 20 Octobre 1900 | 9H Matin | 761,7 | Nord | 4 | 10 lég. couvert | Nord | – | 15,5 | 45,3 | 3 fort | 1027,8 | 18,3 |
+|  | 3H Soir | 761,5 | N. N. Est | 5 | 0 | Nord | – | 17,8 | 36,5 | 5 | 1027,7 | 19,0 |

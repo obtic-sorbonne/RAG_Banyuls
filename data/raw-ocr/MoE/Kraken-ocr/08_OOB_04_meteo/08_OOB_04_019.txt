@@ -1,0 +1,70 @@
+C23 O tobre -1901
+fauteur Barometrigne
+direction du rent
+For e ----5- a--
+orf : J
+Nebntosisté
+d Reg-O. Cterre)
+RReg - Fi- Ciner)
+Oiection des mages
+Aise tombee
+Nemperature de l'air
+Nauteur de la mer
+Gaitation de leau
+densite au bout de la Jotee
+Tgemferatie de l'eau
+8
+1- 3
+-1905
+fauteur Barometrique
+borrection du vent
+For e -----1 --
+conf.J9
+Tetouloste
+3 Reg- O- Clèrre)
+8
+lReg- d. (mer)
+Drre tion des nages
+Gline Nmbee
+Temperature de l'air
+fauteur de la mer
+Agitation de l'eau
+Aeusité au bout de la otie
+Demperatire de l'eau
+8
+Matin
+rct.o
+2
+10
+100
+Cr. Et.0
+1
+11,6
+30.9
+&t
+10278
+16,3
+Matin
+er et:s
+Sr
+17
+et &
+42.750
+15.2
+19,9
+A
+1027.6
+16.3
+8
+Soir
+JO20
+D
+254.1
+D1t
+1 Jar
+42
+Lst
+17..
+32,8
+10277
+1504

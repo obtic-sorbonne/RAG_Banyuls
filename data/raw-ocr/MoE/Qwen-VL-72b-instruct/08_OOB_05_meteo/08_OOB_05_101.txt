@@ -1,0 +1,30 @@
+|Nombre de pairs de bateaux 9|Matin|Soir|
+|---|---|---|
+|R.10 Avril 1906.|767.0||
+|Hauteur Barométrique|||
+|Direction du vent|Erau||
+|Force is|1||
+|Reg.c.(terre)|4/0||
+|Nébulosité (Res.li.(mer))|1/0||
+|Direction des nuages|Sest||
+|Pluie tombée|A.P||
+|Température de l'air|11.8||
+|Hauteur de la mer|2.6||
+|Agitation de l'eau|1 faible||
+|Densité au bout de la jetée|3||
+|Température de l'eau|||
+|Nombre de pairs de bateaux 14|Matin|Soir|
+|---|---|---|
+|R.19 Avril 1906.|767.8||
+|Hauteur Barométrique|||
+|Direction du vent|.S.E||
+|Force is|1 fort||
+|Reg.c.(terre)|4/0||
+|Nébulosité (Res.li.(mer))|1/0||
+|Direction des nuages|.S.E||
+|Pluie tombée|3.0||
+|Température de l'air|5||
+|Hauteur de la mer|5||
+|Agitation de l'eau|2 faible||
+|Densité au bout de la jetée|5||
+|Température de l'eau|||

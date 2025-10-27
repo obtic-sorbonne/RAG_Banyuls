@@ -1,0 +1,67 @@
+# 10 Mars - 1902
+
+## Matin - Soir
+
+|  **Pauleur** | **Pharométrique** | **F58.1/2** | **F58.8**  |
+| --- | --- | --- | --- |
+|  Direction du vent |  |  |   |
+|  Force |  | 1/20th | 1/20th  |
+|   |  |  | 10  |
+|  **Métodosité** | **Reg. O. (1ere)** | **10** | **10**  |
+|  Direction des nuages |  |  |   |
+|  Flux tombé |  |  |   |
+|  Température de l'air |  | 13.2 | 12.7  |
+|  Hauteur de la mer |  | 37.1 | 33.3  |
+|  Égitation de l'eau |  | 1/20th | 1/20th  |
+|  Densité au bout de la jeté |  | 1027.9 | 1027.8  |
+|  Température de l'eau |  | 12.3 | 12.7  |
+
+## Matin
+
+|  **Pauleur** | **Pharométrique** | **F58.7** | **F58.5**  |
+| --- | --- | --- | --- |
+|  Direction du vent |  |  |   |
+|  Force |  | 1/20th | 2/20th  |
+|   |  |  | 10  |
+|  **Métodosité** | **Reg. O. (1ere)** | **10** | **10**  |
+|  Direction des nuages |  |  |   |
+|  Flux tombé |  |  |   |
+|  Température de l'air |  |  | 11.4  |
+|  Hauteur de la mer |  | 40.9 | 41.1  |
+|  Égitation de l'eau |  | 2/20th | 2/20th  |
+|  Densité au bout de la jeté |  | 1028.2 | 1028.0  |
+|  Température de l'eau |  | 12.2 | 12.2  |
+
+# 10 Mars - 1902
+
+## Matin
+
+|  **Fauteur Barométrique** | **768.5**  |
+| --- | --- |
+|  Direction du vent | Nord  |
+|  Force | 6  |
+|  **Nébulosité** | **Reg. O. (Verre)** | **10**  |
+|  | **Reg. E. (Mer)** | **7**  |
+|  Direction des nuages | Est  |
+|  Pluie tombée |  |
+|  Température de l'air | 15.2  |
+|  Fauteur de la mer | 37.3  |
+|  Égitation de l'eau | 1 faible  |
+|  Densité au bout de la jetée | 1027.9  |
+|  Température de l'eau | 12.5  |
+
+## Soir
+
+|  **Fauteur Barométrique** | **768.5**  |
+| --- | --- |
+|  Direction du vent | Nord  |
+|  Force | 6  |
+|  **Nébulosité** | **Reg. O. (Verre)** | **10**  |
+|  | **Reg. E. (Mer)** | **10**  |
+|  Direction des nuages | Est  |
+|  Pluie tombée |  |
+|  Température de l'air | 12.7  |
+|  Fauteur de la mer | 33.0  |
+|  Égitation de l'eau | 1 faible  |
+|  Densité au bout de la jetée | 1027.8  |
+|  Température de l'eau | 12.7  |

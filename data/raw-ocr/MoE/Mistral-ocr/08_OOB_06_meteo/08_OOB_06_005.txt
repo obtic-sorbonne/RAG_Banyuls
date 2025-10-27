@@ -1,0 +1,17 @@
+# OBSERVATIONS DU 1906 9 Assil 
+
+Nombre de bateaux sortis (pêche à $l$ $\qquad$ ).
+Température de l'air $\left\{\begin{array}{l}\text { maxima depuis la veille. } \\ \text { minima id. }\end{array}\right.$
+Température de l'eau $\left\{\begin{array}{l}\text { maxima depuis la veille. } \\ \text { minima id. }\end{array}\right.$
+Pluie tombée depuis la veille, en millim.
+Evaporation depuis le $\qquad$ 190 , en millim.
+![img-0.jpeg](img-0.jpeg)
+
+## OBSERVATIONS DU 1906 II Assil
+
+Nombre de bateaux sortis (pêche à la flaime $\qquad$ ).
+Température de l'air $\left\{\begin{array}{l}\text { maxima depuis la veille. } \\ \text { minima id. }\end{array}\right.$
+Température de l'eau $\left\{\begin{array}{l}\text { maxima depuis la veille. } \\ \text { minima id. }\end{array}\right.$
+Pluie tombée depuis la veille, en millim.
+Evaporation depuis le $\qquad$ 190 , en millim.
+![img-1.jpeg](img-1.jpeg)

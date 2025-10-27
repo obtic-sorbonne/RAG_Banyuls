@@ -1,0 +1,17 @@
+# Date: 23 février 1902
+
+|  Name | 9th Matin 3rd Sour |   |
+| --- | --- | --- |
+|  Hauteur Peurométrique | 762.2 |   |
+|  Direction du vent |  |   |
+|  Force | 10 | 11  |
+|  Métalosité | Reg. O. (livre) | 2  |
+|   | Reg. E. (mer) | 2  |
+|  Direction des rinages |  | Ouest  |
+|  Mure tombée |  | 11  |
+|  Température de l'air |  | 9.2  |
+|  Hauteur de la mer |  | 37.0  |
+|  Régulation de l'eau |  | 2 fois  |
+|  Densité de l'eau |  | 1.28.7  |
+|  |   |   |
+|  Température de l'eau |  | 11.3  |

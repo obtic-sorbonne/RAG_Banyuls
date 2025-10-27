@@ -1,0 +1,30 @@
+```plaintext
+N° Sortie du 9 Avril 1907
+
+Départ de Banjul à 6h40 heures du matin  
+pour Chalut  
+
+Arrivée à Port Bon à 9h55  
+
+Départ de Port Bon à 11h40 heures du matin  
+pour Banjul  
+
+Arrivée au mouillage à Banjul à 12h10 du soir  
+
+État du temps: Beau  
+
+Passagers à bord: M. M<sup>r</sup> le Consul de France à  
+Port Bon, M<sup>r</sup> Pruvot  
+
+Objet de la sortie:  
+
+Consommation  
+- Briquettes de bois | Poids en kilos  
+- Huile            | Total en litres  
+
+Dépenses:  
+
+Observations: Après avoir pêché au Chalut, nous  
+retournons à Port Bon pour prendre le  
+vapeur Amiral et accoster à Banjul à 19h10
+```

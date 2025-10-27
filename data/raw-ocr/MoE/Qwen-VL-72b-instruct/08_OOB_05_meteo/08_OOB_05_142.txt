@@ -1,0 +1,29 @@
+| V. 21 Avril. 1906 | Matin | Soir |
+|------------------|-------|------|
+| Hauteur Barométrique | 769.0 | 768.2 |
+| Direction du vent | S. S. E | S. S. E |
+| Force | 25 | 2 Faible |
+| Nebulosité | Reg. 0. (Clair) | 0 | 0 |
+| (Reg. X. (nu)) | 0 | 0 |
+| Direction des nuages | " | " |
+| Pluie tombée | " | " |
+| Température de l'air | 23.2 | 27.7 |
+| Hauteur de la mer | 92.3 | 60.0 |
+| Agitation de l'eau | 1 | 1 |
+| Densité au bord de la jetée | 1027.7 | 1027.7 |
+| Température de l'eau | 21.4 | 22.3 |
+
+| V. 22 Avril. 1906 | Matin | Soir |
+|------------------|-------|------|
+| Hauteur Barométrique | 766.2 |  |
+| Direction du vent | S. S. E |  |
+| Force | 25 | 2 |
+| Nebulosité | Reg. 0. (Clair) | 0 | 0 |
+| (Reg. X. (nu)) | 0 | 0 |
+| Direction des nuages | " | " |
+| Pluie tombée | " | " |
+| Température de l'air | 33.5 |  |
+| Hauteur de la mer | 18.3 |  |
+| Agitation de l'eau | 1 fort |  |
+| Densité au bord de la jetée | 1027.0 |  |
+| Température de l'eau | 23.6 |  |

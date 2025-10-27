@@ -1,0 +1,31 @@
+```
+|  4. 1er Juillet. 1902 | Nibatin | Soir  |
+| --- | --- | --- |
+|  Hauteur Barométrique | 28,0 | 281,6  |
+|  Direction du vent |  | 2,8  |
+|  Force | 0 | 3  |
+|  (Reg. O. (terre)) | 10 | 0  |
+|  (Reg. E. (mer)) | 10 | 0  |
+|  Direction des images | 2nd | 2nd  |
+|  Pluie tombée |  |   |
+|  Température de l'air | 21,7 | 28,2  |
+|  Hauteur de la mer | 11,2 | 32,6  |
+|  Agitation de l'eau | 1 foot | 1 foot  |
+|  Densité au bout de la jetée | 102,3 | 1026,2  |
+|  Température de l'eau | 19,2 | 20,2  |
+
+|  4. 9 Juillet. 1902 | Nibatin | Soir  |
+| --- | --- | --- |
+|  Hauteur Barométrique | 286,4 | 266,1  |
+|  Direction du vent | oron | or, 8  |
+|  Force | 3 | 1 faible  |
+|  (Reg. O. (terre)) | 0 | 0  |
+|  (Reg. E. (mer)) | 0 | 0  |
+|  Direction des images | oron | 0  |
+|  Pluie tombée |  |   |
+|  Température de l'air | 21,8 | 21,3  |
+|  Hauteur de la mer | 11,8 | 19,3  |
+|  Agitation de l'eau | 1 foot | 19 foot  |
+|  Densité au bout de la jetée | 102,6 | 1021,9  |
+|  Température de l'eau | 20,6 | 21,6  |
+```

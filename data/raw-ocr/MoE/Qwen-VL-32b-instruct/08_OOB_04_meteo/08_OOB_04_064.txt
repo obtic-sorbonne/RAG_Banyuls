@@ -1,0 +1,32 @@
+# 9. 24 février - 1902
+
+|  **Position** | **Nom** | **Prix**  |
+| --- | --- | --- |
+|  Hauteur **Praxometrique** | **P. 11,5** | 10  |
+|  Direction du vent |  |   |
+|  Force |  | 3  |
+|  **Obébutosité** | **Cheg. D. (mw)** | 10  |
+|  Direction des nuages |  | 10  |
+|  **Éluie Tombe** |  | 12,6  |
+|  Température de l'air |  | 12,6  |
+|  Hauteur de la mer |  | 37,3  |
+|  **Égitation de l'eau** |  | 3  |
+|  Densité au bout de la jetée |  | 1028,9  |
+|  Température de l'eau |  | 11,1  |
+
+# 10. 25 février - 1902
+
+|  **Position** | **Nom** | **Prix**  |
+| --- | --- | --- |
+|  Hauteur **Praxometrique** | **P. 11,8** | 42,2  |
+|  Direction du vent |  | 2,8  |
+|  Force |  | 3 fort  |
+|  **Obébutosité** | **Cheg. D. (mw)** | 6  |
+|  Direction des nuages |  | 1,1  |
+|  Direction des nuages |  | 1,1  |
+|  **Éluie Tombe** |  | 13,3  |
+|  Température de l'air |  | 13,3  |
+|  Hauteur de la mer |  | 24,1  |
+|  **Égitation de l'eau** |  | 3 fort  |
+|  Densité au bout de la jetée |  | 1028,9  |
+|  Température de l'eau |  | 11,4  |

@@ -1,0 +1,31 @@
+|  V. 9 (Juin - 1903) | Matin | Soir  |
+| --- | --- | --- |
+|  Hauteur Barométrique | 284.4 |   |
+|  Direction du vent | 448 |   |
+|  Force | 8 |   |
+|  (Reg. O. (1ère)) |  |   |
+|  (Rég. O. (1ère)) |  |   |
+|  (Rég. 2. (1er)) |  |   |
+|  Direction des nuages | 448 |   |
+|  Flux tombé |  |   |
+|  Température de l'air | 37.5 |   |
+|  Hauteur de la mer | 45.2 |   |
+|  Agitation de l'eau | 1 |   |
+|  Densité au bout de la jetée | 1026.2 |   |
+|  Température de l'eau | 34.4 |   |
+
+|  V. 10 (Juin - 1903) | Matin | Soir  |
+| --- | --- | --- |
+|  Hauteur Barométrique | 284.8 | 267.2  |
+|  Direction du vent | 0.0 | 0.0  |
+|  Force | 8 fort | 3  |
+|  (Reg. O. (1ère)) |  |   |
+|  (Rég. O. (1ère)) |  |   |
+|  (Rég. 2. (1er)) |  |   |
+|  Direction des nuages | 0.0 | 0.0  |
+|  Flux tombé |  |   |
+|  Température de l'air | 38.6 | 36.3  |
+|  Hauteur de la mer | 43.7 | 17.6  |
+|  Agitation de l'eau | 2 fort | 2  |
+|  Densité au bout de la jetée | 1026.8 | 1027.0  |
+|  Température de l'eau | 32.2 | 32.5  |

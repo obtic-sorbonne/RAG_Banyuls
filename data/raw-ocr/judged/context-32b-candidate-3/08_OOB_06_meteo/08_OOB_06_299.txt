@@ -1,0 +1,60 @@
+```plaintext
+### OBSERVATIONS DU 1902 7 Août
+
+| **Nombre de bateaux sortis (pêche à l.)** |  |
+| **Température de l'air** |  |
+| - maxima depuis la veille | 21.4 | °C |
+| - minima id. | 11.1 | °C |
+| **Température de l'eau** |  |
+| - maxima depuis la veille |  | °C |
+| - minima id. |  | °C |
+| **Pluie tombée depuis la veille, en millim.** |  | mm |
+| **Évaporation depuis le 1902, en millim.** |  | mm |
+| **Direction du vent (à terre)** | **à 9 h. m.** | **à 3 h. s.** |
+| - Direction | N.N.O. |  |
+| - Force | 2 |  |
+| **Direction des nuages** | S.S.O. |  |
+| **Nébulosité** |  |
+| - région Ouest (terre) | 70 |  |
+| - id. Est (mer) | 60 |  |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.)** | 36.0 |  |
+| **Agitation de l'eau** | Fort |  |
+| **Densité de l'eau au bout de la jetée** | 1627.0 |  |
+| **Température** |  |
+| - id. Perrau (matin) | Maxima 34.7 | °C |
+| - id. Perrau (matin) | Minima 13.7 | °C |
+| - id. Balans (matin) | 18.2 | °C |
+| - id. Perrau (soir) | 20.0 | °C |
+
+### OBSERVATIONS DU 1902 8 Août
+
+| **Nombre de bateaux sortis (pêche à l.)** |  |
+| **Température de l'air** |  |
+| - maxima depuis la veille | 22.0 | °C |
+| - minima id. | 16.2 | °C |
+| **Température de l'eau** |  |
+| - maxima depuis la veille |  | °C |
+| - minima id. |  | °C |
+| **Pluie tombée depuis la veille, en millim.** | 2.9 | mm |
+| **Évaporation depuis le 1902, en millim.** |  | mm |
+| **Direction du vent (à terre)** | **à 9 h. m.** | **à 3 h. s.** |
+| - Direction | N.N.E. |  |
+| - Force | 2 |  |
+| **Direction des nuages** | S.S.E. |  |
+| **Nébulosité** |  |
+| - région Ouest (terre) | 10 |  |
+| - id. Est (mer) | 10 |  |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.)** | 48.6 |  |
+| **Agitation de l'eau** | Fort |  |
+| **Densité de l'eau au bout de la jetée** | 1627.3 |  |
+| **Température** |  |
+| - id. Balans (matin) | 20.0 | °C |
+| - id. Perry (soir) | Maxima 24.9 | °C |
+| - id. Perry (soir) | Minima 14.4 | °C |
+
+**Remarques** :
+- "T°" désigne la température.
+- Les valeurs Maxima et Minima sont situées à droite des indicateurs {"maxima" || "minima"}.
+- Les données sur la densité de l'eau sont consultables pour le bout de la jetée, avec des variables notées dans le flux des données météorologiques indiquées par "id." correspondant à (à 9 h, à 3 h, et au soir).
+- La hauteur de la mer est exprimée en centimètres au-dessus du zéro "(B.R.)" et l'agitation de l'eau est qualifiée par le terme "fort".
+```

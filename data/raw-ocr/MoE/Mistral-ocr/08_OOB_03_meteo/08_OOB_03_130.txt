@@ -1,0 +1,21 @@
+# Date: 20 février 1902
+
+|  |   |
+| --- | --- |
+|  9th Matin, 3rd Soir |   |
+|  Fauteur Poarométrique | 7/8,5  |
+|  Direction du vent | 304  |
+|  Force | 2  |
+|  2 |   |
+|  Hébulosité [Reg. G. (rène)] | 10  |
+|  10 |   |
+|  Direction des nuages | 100  |
+|  Flure tombée | 7,5  |
+|  Température de l'air | 10,0  |
+|  2 |   |
+|  Fauteur de la mer | 28,4  |
+|  Régulation de l'eau | 3  |
+|  2 |   |
+|  Sensité de l'eau [au Rang] | 1028,2  |
+|  2 |   |
+|  Température de l'eau | 10,5  |

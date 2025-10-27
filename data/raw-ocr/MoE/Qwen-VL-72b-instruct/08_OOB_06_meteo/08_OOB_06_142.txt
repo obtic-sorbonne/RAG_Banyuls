@@ -1,0 +1,58 @@
+```
+| Observations du 1901 13 avril |
+|---|
+| Nombre de bateaux sortis (pêche à la traine) | 38 |
+| Température de l'air | maxima depuis la veille | 15.7 |
+|  | minima id. | 4.9 |
+| Température de l'eau | maxima depuis la veille | - |
+|  | minima id. | - |
+| Pluie tombée depuis la veille, en millim. | - |
+| Évaporation depuis le 1900, en millim. | - |
+| Direction du vent (à terre) | à 9 h. m. | Nord |
+|  | à 3 h. s. | Nord |
+| Force | à 9 h. m. | 2 fort |
+|  | à 3 h. s. | 3 fort |
+| Direction des nuages | à 9 h. m. | n.n.o. |
+|  | à 3 h. s. | n.n.o. |
+| Nebulosité | région Ouest (terre) | à 9 h. m. | 1 |
+|  | id. Est (mer) | à 9 h. m. | 0 |
+|  |  | à 3 h. s. | 2 |
+|  |  | à 3 h. s. | 1 |
+| Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.) | à 9 h. m. | 24.6 |
+|  | à 3 h. s. | 30.0 |
+| Agitation de l'eau | à 9 h. m. | 1 |
+|  | à 3 h. s. | 2 |
+| Densité de l'eau au bout de la jetée | à 9 h. m. | 1028.4 |
+|  | à 3 h. s. | 1027.4 |
+| Température id. | à 9 h. m. | 11.4 |
+|  | à 3 h. s. | 11.7 |
+
+
+| Observations du 1901 14 avril |
+|---|
+| Nombre de bateaux sortis (pêche à la traine) | 38 |
+| Température de l'air | maxima depuis la veille | 18.4 |
+|  | minima id. | 7.0 |
+| Température de l'eau | maxima depuis la veille | - |
+|  | minima id. | - |
+| Pluie tombée depuis la veille, en millim. | - |
+| Évaporation depuis le 1900, en millim. | - |
+| Direction du vent (à terre) | à 9 h. m. | N.E. |
+|  | à 3 h. s. | Est |
+| Force | à 9 h. m. | 2 fort |
+|  | à 3 h. s. | 3 fort |
+| Direction des nuages | à 9 h. m. | n.n.e. |
+|  | à 3 h. s. | n. |
+| Nebulosité | région Ouest (terre) | à 9 h. m. | 0 |
+|  | id. Est (mer) | à 9 h. m. | 2 |
+|  |  | à 3 h. s. | 0 |
+|  |  | à 3 h. s. | 0 |
+| Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.) | à 9 h. m. | 30.0 |
+|  | à 3 h. s. | 42.0 |
+| Agitation de l'eau | à 9 h. m. | 3 fortes |
+|  | à 3 h. s. | 2 |
+| Densité de l'eau au bout de la jetée | à 9 h. m. | 1028.0 |
+|  | à 3 h. s. | 1027.6 |
+| Température id. | à 9 h. m. | 11.4 |
+|  | à 3 h. s. | 11.7 |
+```

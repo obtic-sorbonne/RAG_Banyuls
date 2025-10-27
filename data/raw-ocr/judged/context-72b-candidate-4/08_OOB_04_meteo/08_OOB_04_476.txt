@@ -1,0 +1,19 @@
+```plaintext
+| Pêche à la traîne | nombre de paires de bateaux | Quantité de poisson pêché | Valeur du poisson |
+|---|---|---|---|
+| 23 mars 1905 | 5 | 169 kg | 210 f. |
+|                  | Matin | Soir |  |
+| Hauteur Barométrique | 760.6 | 760.0 |  |
+| Direction du vent | cr.cr.o | S.S.E |  |
+| Force | 15 | Fort |  |
+| Nébulosité Reg. O. (terre) | 40 | 40 |  |
+| Nébulosité Reg. E. (mer) | 40 | 40 |  |
+| Direction des nuages | N.O | cr.cr.o |  |
+| Pluie tombée | quelques g | " |  |
+| Température de l'air | 18.1 | 16.6 |  |
+| Hauteur de la mer | 40.0 | 61.4 |  |
+| Agitation de l'eau | Fort | Fort |  |
+| Densité au bout de la jetée | 1029.5 | 1029.3 |  |
+| Température de l'eau | 18.1 | 18.0 |  |
+| 24 mars 1905 |  |  |  |
+```

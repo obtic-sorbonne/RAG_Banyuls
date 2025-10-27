@@ -1,0 +1,29 @@
+|  V. 8 (Writ-190f) | Moatin | Jour  |
+| --- | --- | --- |
+|  Hauteur Marométrique | 707.4 | 707.8  |
+|  Correction du vent | 7.8 | 1.1.8  |
+|  Porce | 1 | 2 part.  |
+|  Nebulosiate | 0 | 0  |
+|  (Reg. 2 (min)) |  |   |
+|  Correction des nuages |  |   |
+|  Huie bombee |  |   |
+|  Température de l'air | 24.7 | 29.8  |
+|  Hauteur de la mer | 60.0 | 70.8  |
+|  Agitation de l'eau | 1.75/10th | 1.7. part.  |
+|  Sensité au bout de la jetée | 1086.4 | 1087.9  |
+|  Température de l'eau | 24.7 | 124.8  |
+
+|  V. 9 (Writ-190f) | Moatin | Jour  |
+| --- | --- | --- |
+|  Hauteur Marométrique | 707.2 | 706.4  |
+|  Correction du vent | 0.8 | 7.7.8  |
+|  Porce | 1 | 5  |
+|  Nebulosiate | 0 | 0  |
+|  (Reg. 2 (min)) |  |   |
+|  Correction des nuages |  |   |
+|  Huie bombee |  |   |
+|  Température de l'air | 24.8 |   |
+|  Hauteur de la mer | 7.4 | 46.1  |
+|  Agitation de l'eau | 1 | 5  |
+|  Sensité au bout de la jetée | 1086.1 | 1086.1  |
+|  Température de l'eau | 24.8 | 28.6  |

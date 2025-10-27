@@ -1,0 +1,27 @@
+| Nombre de paire de Bateaux | V. 29 Mars 1907 | Matin | Soir |
+|-----------------------------|-----------------|-------|------|
+|                             | Hauteur Barométrique | 766,6 |      |
+|                             | Direction du vent | S.S.E |      |
+|                             | Force | 1 fort |       |
+|                             | Reg. 0. (Clere) | 0 |      |
+|                             | Nébulosité | Reg. 0. (Clere) | 0 |
+|                             | Direction des nuages | " |      |
+|                             | Pluie tombée | " |      |
+|                             | Température de l'air | 13,2 |      |
+|                             | Hauteur de la mer | 64,0 |      |
+|                             | Agitation de l'eau | 1 fort |      |
+|                             | Visibilité au bout de la jetée | 629,4 |      |
+|                             | Température de l'eau | 12,6 |      |
+|                             | V. 30 Mars 1907 | Matin | Soir |
+|                             | Hauteur Barométrique | 763,2 | 760,4 |
+|                             | Direction du vent | cr. 8 | S.E |
+|                             | Force | 15 | 1 fort |
+|                             | Reg. 0. (Clere) | 0 | 0 |
+|                             | Nébulosité | Reg. 0. (Clere) | 0 |
+|                             | Direction des nuages | " | " |
+|                             | Pluie tombée | " | " |
+|                             | Température de l'air | 11,3 | 19,6 |
+|                             | Hauteur de la mer | 78,0 | 71,8 |
+|                             | Agitation de l'eau | 1 faible | 1 |
+|                             | Visibilité au bout de la jetée | 629,4 | 628,5 |
+|                             | Température de l'eau | 12,7 | 13,0 |

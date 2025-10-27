@@ -1,0 +1,1 @@
+Paramètre 9h Matin 23h Soir Hauteur Barométrique 762 4 763 5 Direction du vent N N O N N O Force 2 froid 4 faible Nébulosité Terre 10 7 légere Nébulosité mer 10 3 Direction des nuages N N O N N O Pluie tombée quelques g Température de l air 19 6 23 7 Hauteur de la mer 55 4 65 5 Agitation de l eau bout de jetée 1028 2 1027 7 Densité de l eau au large Température de l eau 18 6 19 9

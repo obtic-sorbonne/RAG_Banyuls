@@ -1,0 +1,33 @@
+# V. 21 Août 1902
+
+|  Nom | Date  |
+| --- | --- |
+|  Hauteur Barométrique | 764.2  |
+|  Direction du vent | or. or. 3  |
+|  Force | 2 fort  |
+|  Nébulosité (Reg. O. (terre)) | 8  |
+|  Nébulosité (Reg. E. (mer)) | 8  |
+|  Direction des nuages | or. or. o  |
+|  Pluie tombée |   |
+|  Température de l'air | 23.0  |
+|  Hauteur de la mer | 47.6  |
+|  Agitation de l'eau | 1 fort  |
+|  Densité au bout de la jetée | 1029.1  |
+|  Température de l'eau | 21.7  |
+
+# V. 22 Août 1902
+
+|  Nom | Date  |
+| --- | --- |
+|  Hauteur Barométrique | 762.7  |
+|  Direction du vent | or. or. 3  |
+|  Force | 2  |
+|  Nébulosité (Reg. O. (terre)) | 8  |
+|  Nébulosité (Reg. E. (mer)) | 8  |
+|  Direction des nuages | or. or. o  |
+|  Pluie tombée |   |
+|  Température de l'air | 23.0  |
+|  Hauteur de la mer | 47.6  |
+|  Agitation de l'eau | 1 fort  |
+|  Densité au bout de la jetée | 1029.1  |
+|  Température de l'eau | 21.7  |

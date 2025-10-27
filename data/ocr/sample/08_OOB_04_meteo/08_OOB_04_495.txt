@@ -1,0 +1,29 @@
+```plaintext
+|  V. 9 mai - 1905 | Mbaatin | Joir  |
+| --- | --- | --- |
+|  Hauteur Barométrique | 754,0 | 754,0  |
+|  Direction du vent | or.0.0 | or.0.0  |
+|  Force | 4 | 3 fort  |
+|  (Reg. a. (hine)) | 10 | 10  |
+|  Délicution des nuages | 10 | 10  |
+|  Flux tombé | 4,2' | or.0.0  |
+|  (Comprendre de l'air) | 15,8 | 19,1  |
+|  Hauteur de la mer | 50,0 | 54,7  |
+|  (Agitation de l'eau) | 8 fort | 3  |
+|  Densité au bout de la jetée | 1028,4 | 1028,4  |
+|  (Comprendre de l'eau) | 15,6 | 15,7  |
+
+|  V. 10 mai - 1905 | Mbaatin | Joir  |
+| --- | --- | --- |
+|  Hauteur Barométrique | 754,9 | 754,6  |
+|  Direction du vent | or.0.0 | or.0.0  |
+|  Force | 4,2' | 4  |
+|  (Reg. a. (hine)) | 0 | 0  |
+|  Délicution des nuages | 1,0 | 1,0  |
+|  Flux tombé | 15,6 | 13,0  |
+|  (Comprendre de l'air) | 50,3 | 58,0  |
+|  Hauteur de la mer | 3 fort | 3 fort  |
+|  (Agitation de l'eau) | 1028,7 | 1028,7  |
+|  Densité au bout de la jetée | 15,1 | 15,4  |
+|  (Comprendre de l'eau) |  |   |
+```

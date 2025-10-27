@@ -1,0 +1,31 @@
+|  9. 21 Juillet - 1907 | Obatin | Joir  |
+| --- | --- | --- |
+|  Hauteur Maremétrique | 254.8 |   |
+|  Direction du vent | 80% |   |
+|  Force | 1 |   |
+|  (Rég. O. (1ere)) | 0 |   |
+|  Débitosité | 0 |   |
+|  (Rég. E. (1er)) | 0 |   |
+|  Direction des nuages | 80% |   |
+|  Phie tombée | 2/2 |   |
+|  Température de l'air | 27.5 |   |
+|  Hauteur de la mer | 176.5 |   |
+|  (Agitation de l'eau) | 176.5 |   |
+|  Densité au bout de la jetée | 102.5 |   |
+|  Température de l'eau | 27.5 |   |
+
+|  9. 22 Juillet - 1907 | Obatin | Joir  |
+| --- | --- | --- |
+|  Hauteur Maremétrique | 256.3 | 254.1  |
+|  Direction du vent | 80% | 2.5%  |
+|  Force | 1 fort | 2 fort  |
+|  (Rég. O. (1ere)) | 0 | 2  |
+|  Débitosité | 0 |   |
+|  (Rég. E. (1er)) | 0 |   |
+|  Débitosité des nuages | " | 1.0  |
+|  Phie tombée | " | 1.0  |
+|  Température air | 28.3 | 30.6  |
+|  Hauteur de la mer | 10.3 | 32.3  |
+|  (Agitation de l'eau) | 176.5 | 1  |
+|  Densité au bout de la jetée | 102.5 | 102.5  |
+|  Température de l'eau | 27.5 | 25.1  |

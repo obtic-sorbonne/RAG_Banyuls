@@ -1,0 +1,31 @@
+| Date | Matin | Soir |
+|------|-------|------|
+| V. 24 février 1906 | **Hauteur Barométrique** | 777.0 |
+|      | Direction du vent | cr. o |
+|      | Force | is |
+|      | Reg. O. (Terre) | 3 |
+|      | Nébulosité | 10 |
+|      | (Reg. E. (mer)) | 10 |
+|      | Direction des nuages | cr. o |
+|      | Pluie tombée | 1,6 |
+|      | Température de l'air | 9.4 |
+|      | Hauteur de la mer | S |
+|      | Agitation de l'eau | fort |
+|      | Densité au bout de la jetée | 3 |
+|      | Température de l'eau | - |
+
+| Date | Matin | Soir |
+|------|-------|------|
+| V. 1er Mars 1906 | **Hauteur Barométrique** | 769.4 |
+|      | Direction du vent | cr. or. o |
+|      | Force | is |
+|      | Reg. O. (terre) | 2 fort |
+|      | Nébulosité | 10 |
+|      | (Reg. E. (mer)) | 10 |
+|      | Direction des nuages | clair |
+|      | Pluie tombée | " |
+|      | Température de l'air | 14.4 |
+|      | Hauteur de la mer | S |
+|      | Agitation de l'eau | 2 fort |
+|      | Densité au bout de la jetée | 3 |
+|      | Température de l'eau | - |

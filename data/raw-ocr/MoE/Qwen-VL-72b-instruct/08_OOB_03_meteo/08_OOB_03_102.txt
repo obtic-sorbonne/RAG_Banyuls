@@ -1,0 +1,16 @@
+### Registre d'observations météorologiques - 13 Janvier 1902
+
+| **Observation** | **9h Matin** | **3h Soir** |
+|-----------------|-------------|-------------|
+| **Hauteur Barométrique** | 767.7 | 767.6 |
+| **Direction du vent** | Ouest | N.N.O |
+| **Force** | 17 faible | fort |
+| **Nébulosité** | **Reg. O. (Clair)** | **0** | **0** |
+| | **Reg. E. (Mer)** | **1** | **1** |
+| **Direction des nuages** | " | Nord |
+| **Pluie tombée** | " | " |
+| **Temperaturre de l'air** | 6.6 | 10.3 |
+| **Hauteur de la mer** | 38.6 | 54.6 |
+| **Agitation de l'eau** | faible | faible |
+| **Densité de l'eau** | **Pr bout de la jetée** | 1028.9 | **au Largue** | 1028.4 |
+| **Temperature de l'eau** | 11.9 | 11.9 |

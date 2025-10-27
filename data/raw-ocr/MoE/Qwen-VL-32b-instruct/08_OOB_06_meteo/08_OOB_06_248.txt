@@ -1,0 +1,51 @@
+| **Observations du 3 février 1902** |
+| --- |
+| **Nombre de bateaux sortis (pêche à l.)** |  |
+| **Température de l'air** |
+| maxima depuis la veille | 16.3 |
+| minima id. | 4.7 |
+| **Température de l'eau** |
+| maxima depuis la veille |  |
+| minima id. |  |
+| **Pluie tombée depuis la veille, en millim.** |  |
+| **Evaporation depuis le 190, en millim.** |  |
+| **Direction du vent (à terre)** | N.N.O | N.N.O |
+| **Force** | 2 | 3 |
+| **Direction des nuages** | N.O | N.O |
+| **Nébulosité** |
+| région Ouest (terre) | 10 | 10 |
+| id. Est (mer) | 10 | 10 |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B.Q.)** | 0.0 | 11.7 |
+| **Agitation de l'eau** | 3 fort | 3 |
+| **Densité de l'eau au bout de la jetée** | 1028.0 | 1028.2 |
+| **Température** |
+| id. | 11.0 | 11.3 |
+| **M. Ferrand** | **Maxima** | 22.9 |
+| **Loir** | **Minima** | 4.0 |
+
+| **Observations du 4 février 1902** |
+| --- |
+| **Nombre de bateaux sortis (pêche à l.)** |  |
+| **Température de l'air** |
+| maxima depuis la veille | 13.4 |
+| minima id. | 6.7 |
+| **Température de l'eau** |
+| maxima depuis la veille |  |
+| minima id. |  |
+| **Pluie tombée depuis la veille, en millim.** | quelques |
+| **Evaporation depuis le 190, en millim.** |  |
+| **Direction du vent (à terre)** | N.N.O | N.N.O |
+| **Force** | 2 | 1 |
+| **Direction des nuages** | N.N.O | N.N.O |
+| **Nébulosité** |
+| région Ouest (terre) | 10 | 10 |
+| id. Est (mer) | 10 | 10 |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B.Q.)** | 0.0 | 11.6 |
+| **Agitation de l'eau** | 2 | 2 |
+| **Densité de l'eau au bout de la jetée** | 1028.0 | 1027.2 |
+| **Température** |
+| id. | 10.9 | 11.3 |
+| **M. Ferrand** | **Maxima** | 24.2 |
+| **Motin** | **Minima** | 2.3 |
+| **Loir** | **Maxima** | 22.7 |
+| | **Minima** | 6.3 |

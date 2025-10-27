@@ -1,0 +1,52 @@
+### OBSERVATIONS DU 1904 09 AOÛT
+
+| **Nombre de bateaux sortis (pêche à l.)** | 20.8 |
+| **Température de l'air** |  |
+| – maxima depuis la veille | 20.8 |
+| – minima id. | 20.6 |
+| **Température de l'eau** |  |
+| – maxima depuis la veille |  |
+| – minima id. |  |
+| **Pluie tombée depuis la veille, en millim.** |  |
+| **Évaporation depuis le 1904, en millim.** |  |
+| **Direction du vent (à terre)** | **à 9 h. m.** | **à 3 h. s.** |
+| – Force | 1 | 1 |
+| – Direction des nuages | E.N.O. | S.S.E. |
+| **Nébulosité** |  |
+| – région Ouest (terre) | 1 | 0 |
+| – id. Est (mer) | 0 | 1 |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.)** | 37.1 | 58.5 |
+| **Agitation de l'eau** | 1 | 1 fort |
+| **Densité de l'eau au bout de la jetée** | 1024.9 | 1023.8 |
+| **Température** |  |
+| – iS. Balances | 28.4 | 41.0 |
+| – iS. Terre-Neuve Matin | maxima | 42.3 | 18.9 |
+|  | minima |  |  |
+| – iS. Terre-Neuve Soir | maxima |  |  |
+|  | minima |  |  |
+
+### OBSERVATIONS DU 1904 10 AOÛT
+
+| **Nombre de bateaux sortis (pêche à l.)** | 33.4 |
+| **Température de l'air** |  |
+| – maxima depuis la veille | 36.9 |
+| – minima id. | 26.3 |
+| **Température de l'eau** |  |
+| – maxima depuis la veille |  |
+| – minima id. |  |
+| **Pluie tombée depuis la veille, en millim.** |  |
+| **Évaporation depuis le 1904, en millim.** |  |
+| **Direction du vent (à terre)** | **à 9 h. m.** | **à 3 h. s.** |
+| – Force | 2 fort | 1 fort |
+| – Direction des nuages | N.N.O. | S.S.E. |
+| **Nébulosité** |  |
+| – région Ouest (terre) | 2 | 2 |
+| – id. Est (mer) | 0 | 2 |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.)** | 31.9 | 36.4 |
+| **Agitation de l'eau** | 1 | 1 fort |
+| **Densité de l'eau au bout de la jetée** | 1024.6 | 1024.6 |
+| **Température** |  |
+| – iS. Terre-Neuve Matin | maxima | 34.9 | 21.0 |
+|  | minima |  |  |
+| – iS. Terre-Neuve Soir | maxima |  | 42.2 |
+|  | minima |  |  |

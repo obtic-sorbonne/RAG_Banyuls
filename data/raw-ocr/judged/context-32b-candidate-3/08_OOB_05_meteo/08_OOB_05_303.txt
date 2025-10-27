@@ -1,0 +1,15 @@
+```markdown
+# 3 OCTOBRE 1907
+
+| **Date** | **Heure** | **Hauteur Barométrique (mmHg)** | **Direction du Vent** | **Force du Vent** | **Nébulosité (Reg. C. claire)** | **Nébulosité (Reg. 2. (mer))** | **Direction des nuages** | **Pluie tombée (mm)** | **Température de l'air (°C)** | **Hauteur de la mer (m)** | **Agitation de l'eau** | **Densité au bout de la jetée** | **Température de l'eau (°C)** |
+|----------|-----------|----------------------------------|-----------------------|-------------------|---------------------------------|-----------------------------|------------------------|------------------------|-------------------------|------------------------|-----------------------|-----------------------------|-------------------------|
+| 3 octobre 1907 | Matin | 766.8 | Nord | 3 | 10 | 10 | NE | 0 | 18.2 | 38.1 | Fort | 1027.9 | 20.7 |
+| 3 octobre 1907 | Soir | 755.5 | — | — | 10 | 10 | — | Quelques gouttes | — | — | — | 1027.0 | 20.5 |
+
+# 4 OCTOBRE 1907
+
+| **Date** | **Heure** | **Hauteur Barométrique (mmHg)** | **Direction du Vent** | **Force du Vent** | **Nébulosité (Reg. C. claire)** | **Nébulosité (Reg. 2. (mer))** | **Direction des nuages** | **Pluie tombée (mm)** | **Température de l'air (°C)** | **Hauteur de la mer (m)** | **Agitation de l'eau** | **Densité au bout de la jetée** | **Température de l'eau (°C)** |
+|----------|-----------|----------------------------------|-----------------------|-------------------|---------------------------------|-----------------------------|------------------------|------------------------|-------------------------|------------------------|-----------------------|-----------------------------|-------------------------|
+| 4 octobre 1907 | Matin | 760.0 | S. S. Est | 0 | 10 | 10 | S. E. | 1.0 | 16.4 | 40.1 | Très faible | 1027.6 | 20.9 |
+| 4 octobre 1907 | Soir | 769.8 | — | Faible | 10 | 10 | S. O. | — | 18.8 | 30.0 | Fort | — | 21.0 |
+```

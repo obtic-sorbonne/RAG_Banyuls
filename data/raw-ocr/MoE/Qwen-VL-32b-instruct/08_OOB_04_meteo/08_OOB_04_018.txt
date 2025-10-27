@@ -1,0 +1,33 @@
+# V. 27 Octobre 1901
+
+|  Nom | Nom | Pension | Taux  |
+| --- | --- | --- | --- |
+|  Xantour Parométrique | Xantour Parométrique | 70,5 | 70,5  |
+|  Direction du vent | or.0 | 0 | 0  |
+|  Force | 15 | 0 | 15  |
+|  Ménilésite | Reg.0 (1ère) | 10 | 10  |
+|  Ménilésite | Reg.2 (1ère) | 10 | 10  |
+|  Direction des nuages | or.0 | 0 | 0  |
+|  Flux tombée |  |  |   |
+|  Température de l'air | 18,7 | 18,7 | 18,7  |
+|  Hauteur de la mer | 34,7 | 34,7 | 34,7  |
+|  Égitation de l'eau | 3 | 3 | 3  |
+|  Sensite au bout de la jetée | 1087,0 | 1087,0 | 1087,0  |
+|  Température de l'eau | 15,3 | 15,3 | 15,3  |
+
+# V. 28 Octobre 1901
+
+|  Nom | Nom | Pension | Taux  |
+| --- | --- | --- | --- |
+|  Xantour Parométrique | Xantour Parométrique | 70,5 | 70,5  |
+|  Direction du vent | or.0 | 0 | 0  |
+|  Force | 15 | 0 | 15  |
+|  Ménilésite | Reg.0 (1ère) | 0 | 0  |
+|  Ménilésite | Reg.2 (1ère) | 0 | 0  |
+|  Direction des nuages | or.0 | 0 | 0  |
+|  Flux tombée |  |  |   |
+|  Température de l'air | 13,0 | 13,0 | 13,0  |
+|  Hauteur de la mer | 33,8 | 33,8 | 33,8  |
+|  Égitation de l'eau | 3,5 | 3,5 | 3,5  |
+|  Sensite au bout de la jetée | 1087,4 | 1087,4 | 1087,4  |
+|  Température de l'eau | 15,1 | 15,1 | 15,1  |

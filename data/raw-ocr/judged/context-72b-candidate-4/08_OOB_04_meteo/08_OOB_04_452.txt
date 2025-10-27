@@ -1,0 +1,31 @@
+```plaintext
+| V. 13 Décembre - 1904 | Matin | Soir |
+|-----------------------|-------|------|
+| Hauteur Barométrique   | 724.5 | 729.4 |
+| Direction du vent      | N.O.  | N.O. |
+| Force                  | 8 faible | 2    |
+| Nébulosité (Reg. O. (terre)) | 3 | 4    |
+| (Reg. E. (mer))        | 3 | 4    |
+| Direction des nuages   | N.E.  | N.O. |
+| Pluie tombée           | quelques gouttes | quelques gouttes |
+| Température de l'air   | 9.7   | 10.0 |
+| Hauteur de la mer      | 42.2  | 47.8 |
+| Agitation de l'eau     | 2     | 2    |
+| Densité au bout de la jetée | 1029.6 | 1029.6 |
+| Température de l'eau   | 14.7  | 14.5 |
+
+| V. 14 Décembre - 1904 | Matin | Soir |
+|-----------------------|-------|------|
+| Hauteur Barométrique   | 728.6 | 726.4 |
+| Direction du vent      | N.O.  | S.S.E |
+| Force                  | 2 faible | 1 fort |
+| Nébulosité (Reg. O. (terre)) | 3 | 4    |
+| (Reg. E. (mer))        | 3 | 4    |
+| Direction des nuages   | N.E.  | N.O. |
+| Pluie tombée           | "     | quelques gouttes |
+| Température de l'air   | 8.6   | 9.9 |
+| Hauteur de la mer      | 43.1  | 47.7 |
+| Agitation de l'eau     | 2 faible | 2    |
+| Densité au bout de la jetée | 1030.0 | 1030.0 |
+| Température de l'eau   | 14.0  | 14.8 |
+```

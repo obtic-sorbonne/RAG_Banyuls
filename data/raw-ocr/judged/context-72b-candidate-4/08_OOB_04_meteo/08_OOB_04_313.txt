@@ -1,0 +1,30 @@
+```plaintext
+| Date             | Matin                | Soir                |
+|------------------|----------------------|---------------------|
+| 13 Décembre 1903 |                      |                     |
+| Hauteur Barométrique | 771.6 |mmHg       | -                   |
+| Direction du vent    | cr. 0               | -                   |
+| Force                | 8 fort             | -                   |
+| Nébulosité           | Reg. O. (terre)     | 10                 |
+|                     | Reg. E. (mer)       | 10                 |
+| Direction des nuages | cr. 0               | -                   |
+| Pluie tombée         | 11.68 |mm          | -                   |
+| Température de l'air | 6.7  |°C          | -                   |
+| Hauteur de la mer    | 1 |m             | -                   |
+| Agitation de l'eau   | 1                   | -                   |
+| Densité au bout de la jetée | 1 |kg/m³ | -                   |
+| Température de l'eau | 1 |°C             | -                   |
+| 14 Décembre 1903      |                      |                     |
+| Hauteur Barométrique | 772.9 |mmHg       | -                   |
+| Direction du vent    | s. o.               | -                   |
+| Force                | 1                   | -                   |
+| Nébulosité           | Reg. O. (terre)     | 10                 |
+|                     | Reg. E. (mer)       | 10                 |
+| Direction des nuages | cr. 0               | -                   |
+| Pluie tombée         | 2.1 |mm            | -                   |
+| Température de l'air | 10.8 |°C           | -                   |
+| Hauteur de la mer    | 8.9 |m             | -                   |
+| Agitation de l'eau   | 1                   | -                   |
+| Densité au bout de la jetée | 10.30 |kg/m³ | -                   |
+| Température de l'eau | 13.1 |°C            | -                   |
+```

@@ -1,0 +1,29 @@
+# V. 8 Décembre 1904
+
+|  Hauteur Barométrique | 760,6  |
+| --- | --- |
+|  Direction du vent | 0.0  |
+|  Force | 1  |
+|  Nébulosité | (Reg. O. (tane)) 10  |
+|  Direction des nuages | 10  |
+|  Pluie tombée | 10  |
+|  Température de l'air | 18,2  |
+|  Hauteur de la mer | 54,6  |
+|  Régulation de l'eau | 2  |
+|  Densité au bout de la jetée | 1029,1  |
+|  Température de l'eau | 14,6  |
+
+# V. 9 Décembre 1904
+
+|  Hauteur Barométrique | 1/6,7  |
+| --- | --- |
+|  Direction du vent | 0.0  |
+|  Force | 1  |
+|  Nébulosité | (Reg. O. (tane)) 3  |
+|  Direction des nuages | 3  |
+|  Pluie tombée | 3  |
+|  Température de l'air | 11,9  |
+|  Hauteur de la mer | 31,1  |
+|  Régulation de l'eau | 1,6  |
+|  Densité au bout de la jetée | 1029,1  |
+|  Température de l'eau | 11,6  |

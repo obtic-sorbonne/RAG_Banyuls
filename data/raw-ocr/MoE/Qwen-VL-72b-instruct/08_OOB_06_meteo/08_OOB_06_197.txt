@@ -1,0 +1,49 @@
+| Date | Paramètre | Valeur |
+| --- | --- | --- |
+| 19** | Nombre de bateaux sortis (pêche à l.) |  |
+|  | Température de l'air (maxima depuis la veille) | 29.4 |
+|  | (minima id.) | 17.3 |
+|  | Température de l'eau (maxima depuis la veille) |  |
+|  | (minima id.) |  |
+|  | Pluie tombée depuis la veille, en millim. | 13.79 |
+|  | Evaporation depuis le 190, en millim. |  |
+|  | Direction du vent (à terre), à 9 h.m. | E.S.E. |
+|  | Direction du vent (à terre), à 3 h.s. |  |
+|  | Force | 1 |
+|  | Direction des nuages | 60 |
+|  | (région Ouest (terre)) | 60 |
+|  | (id. Est (mer)) | 60 |
+|  | Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.) | 94.2 |
+|  | Agitation de l'eau | Modérée |
+|  | Densité de l'eau au bout de la jetée | 1026.0 |
+|  | Température, id. | 24.3 |
+|  | Température matin maxim. | 29.3 |
+|  | Température matin minim. | 19.4 |
+| 1981-09-16 | Nombre de bateaux sortis (pêche à l.) |  |
+|  | Température de l'air (maxima depuis la veille) | 27.1 |
+|  | (minima id.) | 19.3 |
+|  | Température de l'eau (maxima depuis la veille) |  |
+|  | (minima id.) |  |
+|  | Pluie tombée depuis la veille, en millim. |  |
+|  | Evaporation depuis le 190, en millim. |  |
+|  | Direction du vent (à terre), à 9 h.m. | Nord |
+|  | Direction du vent (à terre), à 3 h.s. | N.E. |
+|  | Force (à 9 h.m.) | 2 fort |
+|  | Force (à 3 h.s.) | 1 fort. à plaisir |
+|  | Direction des nuages | O.S. à O. |
+|  | (à 9 h.m.) | S.O. à O.N. |
+|  | (à 3 h.s.) |  |
+|  | Nébulosité, région Ouest (terre) | 60 |
+|  | Nébulosité, région Est (mer) | 60 |
+|  | Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.) | 22.0 |
+|  | Agitation de l'eau | Forte |
+|  | Densité de l'eau au bout de la jetée, à 9 h.m. | 1029.6 |
+|  | Densité de l'eau au bout de la jetée, à 3 h.s. | 1029.6 |
+|  | Température, id. | 27.0 |
+|  | Température matin maxim. | 26.0 |
+|  | Température matin minim. | 26.0 |
+|  | |  |
+|  | Température maxim. | 33.7 |
+|  | Température matin minim. | 17.7 |
+|  | Température matin maxim. | 32.3 |
+|  | Température matin minim. | 26.7 |

@@ -1,0 +1,16 @@
+# Date. 25 Avril. 1901
+
+|  **Kanteur Barométrique** | **9th Matin** | **3rd Soir**  |
+| --- | --- | --- |
+|  Direction du vent | N.E. | N.N.E  |
+|  Force | 1 fort | 1  |
+|  Ébulosité / Reg. O. (terre) | 10 | 10  |
+|  Ébulosité / Reg. E. (mer) | 10 | 10  |
+|  Direction des nuages | N.E. | N.N.E  |
+|  Pluie tombée | 0 | 0  |
+|  Température de l'air | 14.2 | 19.6  |
+|  Hauteur de la mer | 47.7 | 46.9  |
+|  Agitation de l'eau | 2 | 1 fort  |
+|  Densité de l'eau / au bout de la jetée | 1028.3 | 1027.8  |
+|  Densité de l'eau / au large |  |  |
+|  Température de l'eau | 13.9 | 14.4  |

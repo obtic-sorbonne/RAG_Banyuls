@@ -1,0 +1,17 @@
+# Date: 30 Mai 1901
+
+|  Name | 9th Matin | 3rd Soir  |
+| --- | --- | --- |
+|  Hauteur Barométrique | 750.8 | 750.8  |
+|  Direction du vent | N.N.E | N.N.E  |
+|  Force | 1 fort | 3 faille  |
+|  Nébulosité / Reg. O. (terre) | 10 brins | 10 brins  |
+|  Nébulosité / Reg. E. (mer) | 10 brins | 10 brins  |
+|  Direction des nuages | hier | hier  |
+|  Pluie tombée | 18.7 | 23.4  |
+|  Température de l'air | 48.8 | 42.8  |
+|  Hauteur de la mer | 48.8 | 42.8  |
+|  Agitation de l'eau | 1 faible | 1 faible  |
+|  Densité de l'eau / au bout de la jetée | 1027.8 | 1027.1  |
+|  Densité de l'eau / au large |  |  |
+|  Température de l'eau | 18.6 | 20.3  |

@@ -1,0 +1,18 @@
+```
+(5 1 octobre 1901
+
+|  Hauteur Barométrique | Matin | Soir  |
+| --- | --- | --- |
+|  Direction du vent | 769.5 | 769.0  |
+|  Force | 2.4 | 2.4  |
+|  Nébulosité | 2.0 | 1.0  |
+|  Reg. D. (terre) | 2.0 | 2.0  |
+|  Reg. D. (mer) | 3.0 | 3.0  |
+|  Direction des nuages | 0.0 | 0.0  |
+|  Pluie tombée | 0.0 | 0.0  |
+|  Température de l'air | 19.4 | 19.2  |
+|  Hauteur de la mer | 3 | 3  |
+|  Agitation de l'eau | 1088.0 | 1087.2  |
+|  Densité au bout de la jetée | 1026.7 | 1026.5  |
+|  Température de l'eau | 17.7 | 18.4  |
+```

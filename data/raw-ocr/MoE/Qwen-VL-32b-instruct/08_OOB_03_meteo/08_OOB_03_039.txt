@@ -1,0 +1,17 @@
+# Date: 31 Octobre 1901
+
+|  Item | 9th Station | 3rd Sour  |
+| --- | --- | --- |
+|  Kauteur Parométrique | 755.3 | 754.4  |
+|  Direction du vent | N.N.O | N.N.O  |
+|  Force | 3 | 4  |
+|  Perbuté | 10 | 10  |
+|  Débulosité | 10 | 10  |
+|  Débitation des nuages | NE | 10  |
+|  Flux tombé | 5% 7/4 | 4% 6/8  |
+|  Température de l'air | 13.9 | 11.8  |
+|  Hauteur de la mer | 21.4 | 32.6  |
+|  Écart | 3 fois | 4  |
+|  Écart à l'eau | 1026.1 | 1027.3  |
+|  Densité de l'eau | an Large |   |
+|  Température de l'eau | 15.6 | 15.8  |

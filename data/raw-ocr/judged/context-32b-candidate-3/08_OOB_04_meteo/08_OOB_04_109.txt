@@ -1,0 +1,29 @@
+|  4. 28 Juin. 1902 | N'Gatin | Soir  |
+| --- | --- | --- |
+|  Hauteur Barométrique | 467.3 | 464.6  |
+|  Direction du vent | 1.8 | 1.8  |
+|  Force | 1 fort | 3  |
+|  Nébulosité | 10 | 10  |
+|  (Reg. O. (terre)) |  |   |
+|  Direction des nuages | 10 | 10  |
+|  Pluie tombée | 1.8 | 1.8  |
+|  Température de l'air | 20.8 | 20.7  |
+|  Hauteur de la mer | 47.1 | 41.8  |
+|  Agitation de l'eau | 3 fort | 4 fort  |
+|  Densité au bout de la jetée | 1027.7 | 1027.7  |
+|  Température de l'eau | 18.5 | 17.5  |
+
+|  4. 30 Juin. 1902 | N'Gatin | Soir  |
+| --- | --- | --- |
+|  Hauteur Barométrique | 464.7 | 464.1  |
+|  Direction du vent | 1.8 | 1.8  |
+|  Force | 2 fort | 3  |
+|  Nébulosité | 10 | 0  |
+|  (Reg. O. (terre)) |  |   |
+|  Direction des nuages | 168 | 168  |
+|  Pluie tombée | 20.4 | 22.6  |
+|  Température de l'air | 20.4 | 22.6  |
+|  Hauteur de la mer | 13.8 | 42.1  |
+|  Agitation de l'eau | 2 | 2  |
+|  Densité au bout de la jetée | 1027.2 | 1027.2  |
+|  Température de l'eau | 18.6 | 19.1  |

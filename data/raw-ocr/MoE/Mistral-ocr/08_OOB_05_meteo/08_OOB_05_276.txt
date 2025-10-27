@@ -1,0 +1,27 @@
+|  7. 26 Juillet - 1907 | Nôbation | Soir  |
+| --- | --- | --- |
+|  Hauteur Maronnetrique | 704, 2 | 704, 5  |
+|  Direction du Vent |  | 804, 5  |
+|  Force | 5 | 8 fort  |
+|  Néburborte |  | 10  |
+|  (Reg. a. cour.) | 10 | 10  |
+|  Direction des nuages |  | 10  |
+|  Pluie tomble |  | 10  |
+|  Bénéction de l'air | 32, 8 | 32, 2  |
+|  Hauteur de la mer | 13, 8 | 13, 4  |
+|  Législation de l'eau | 5 | 5  |
+|  Densité au bout de la jetée | 1028, 8 | 1028, 1  |
+|  Bénéction de l'eau | 18, 9 | 18, 0  |
+|  7. 27 Juillet - 1907 | Nôbation | Soir  |
+|  Hauteur Maronnetrique | 707, 3 | 706, 7  |
+|  Direction du Vent |  | 806, 7  |
+|  Force | 5 | 8 fort  |
+|  Néburborte | (Reg. a. cour.) | 15, 2  |
+|  (Reg. a. cour.) |  | 15, 2  |
+|  Direction des nuages |  | 15, 2  |
+|  Pluie tomble |  | 15, 2  |
+|  Bénéction de l'air | 38, 6 | 38, 2  |
+|  Hauteur de la mer | 13, 8 | 13, 8  |
+|  Législation de l'eau | 5 fort | 1 fort  |
+|  Densité au bout de la jetée | 1027, 7 | 1027, 1  |
+|  Bénéction de l'eau | 20, 0 | 21, 3  |

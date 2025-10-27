@@ -1,0 +1,15 @@
+```plaintext
+# 18 février 1903
+
+|  Heure | Hauteur Barométrique | Direction du vent | Force | Nébulosité (Reg. O. (terre)) | Nébulosité (Reg. O. (mer)) | Direction des nuages | Pluie Tombée | Température de l'air | Hauteur de la mer | Agitation de l'eau | Densité au bout de la jetée | Température de l'eau |
+|--------|-----------------------|-------------------|-------|-----------------------------|-----------------------------|----------------------|--------------|----------------------|-------------------|---------------------|-----------------------------|----------------------|
+|  Matin | 778.1                | Sud               | 15    | 0                           | 0                           | -                    | -            | 9.9                 | 68.0             | 3                  | 1029.1                     | 11.0                |
+|  Soir  | 778.1                | Sud-Est           | 1     | 0                           | 0                           | -                    | -            | 12.2                | 71.8             | 2                  | 1029.0                     | 11.3                |
+
+# 19 février 1903
+
+|  Heure | Hauteur Barométrique | Direction du vent | Force | Nébulosité (Reg. O. (terre)) | Nébulosité (Reg. O. (mer)) | Direction des nuages | Pluie Tombée | Température de l'air | Hauteur de la mer | Agitation de l'eau | Densité au bout de la jetée | Température de l'eau |
+|--------|-----------------------|-------------------|-------|-----------------------------|-----------------------------|----------------------|--------------|----------------------|-------------------|---------------------|-----------------------------|----------------------|
+|  Matin | 778.9                | Nord              | 15    | 0                           | 0                           | -                    | -            | 8.2                 | 74.8             | 1 (faible)          | 1029.4                     | 10.4                |
+|  Soir  | 778.0                | Sud-Est           | 1     | 0                           | 1                           | -                    | -            | 11.3                | 74.0             | 1                  | 1028.8                     | 11.9                |
+```

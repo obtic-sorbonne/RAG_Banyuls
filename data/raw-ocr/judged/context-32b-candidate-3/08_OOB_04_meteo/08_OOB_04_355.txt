@@ -1,0 +1,29 @@
+```plaintext
+|  V. 28 Mars. 1904 | Matin | Soir  |
+| --- | --- | --- |
+|  Hauteur Barométrique | 764.6 |   |
+|  Direction du vent | 0.0 |   |
+|  Force | 8 faites |   |
+|  Nébulosité | 0 |   |
+|  (Reg. E. (mer)) | 0 |   |
+|  Direction des nuages |  |   |
+|  Pluie tombée |  |   |
+|  Température de l'air | 11.5 |   |
+|  Hauteur de la mer | 10.0 |   |
+|  Agitation de l'eau | 1 |   |
+|  Densité au bout de la jetée | 1089.2 |   |
+|  Température de l'eau | 12.6 |   |
+|  V. 30 Mars. 1904 | Matin | Soir  |
+|  Hauteur Barométrique | 711.4 | 716.0  |
+|  Direction du vent | 2.0 | 0.0  |
+|  Force | 1 fort | 9  |
+|  Nébulosité | 10 | 10  |
+|  (Reg. E. (mer)) | 10 | 10  |
+|  Direction des nuages | 2.0 | 0.0  |
+|  Pluie tombée |  | gimbuses-2  |
+|  Température de l'air | 14.4 |   |
+|  Hauteur de la mer | 10.0 |   |
+|  Agitation de l'eau | 1 |   |
+|  Densité au bout de la jetée | 1089.8 |   |
+|  Température de l'eau | 12.7 |   |
+```

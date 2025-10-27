@@ -1,0 +1,26 @@
+|  7. 11 Juillet - 1905 | Mbotin | Soir  |
+| --- | --- | --- |
+|  Hauteur Prorométrique |  |   |
+|  Direction Su vent |  | 366.8  |
+|  Force |  | 1 fort  |
+|  Niebulionde | (deg. x. (min) | 0  |
+|   |  | "  |
+|   |  | 28.0  |
+|   |  | 45.0  |
+|   |  | 1 fort  |
+|   |  | 1085.8  |
+|   |  | 86.0  |
+
+|  7. 25 Juillet - 1905 | Mbotin | Soir  |
+| --- | --- | --- |
+|  Hauteur Prorométrique | 364.6 | 368.0  |
+|  Direction du vent | or.0.0 | or.0.0  |
+|  Force | 5 fort | 4  |
+|  Niebulionde | (deg. x. (min) | 10  |
+|   |  | or.0.0  |
+|   |  | or.0.0  |
+|   |  | 26.3  |
+|   |  | 28.9  |
+|   |  | 49.0  |
+|   |  | 1085.8  |
+|   |  | 84.9  |

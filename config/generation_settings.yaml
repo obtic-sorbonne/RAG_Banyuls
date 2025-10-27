@@ -1,0 +1,4 @@
+#openrouter_key: "sk-kkkk"
+local_model: "mistralai/Mistral-7B-Instruct-v0.2"
+openrouter_model: "qwen/qwen-2.5-72b-instruct:free"
+feedback_db_path: "./data/feedback/feedback.db"

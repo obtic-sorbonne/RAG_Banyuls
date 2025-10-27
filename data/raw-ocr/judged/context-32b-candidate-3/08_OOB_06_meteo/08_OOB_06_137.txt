@@ -1,0 +1,57 @@
+### Registre d'observations météorologiques historiques
+
+#### OBSERVATIONS DU 31 MARS 1907
+
+| **Nombre de bateaux sortis (pêche à la Traine)** | **38** |
+|-------------------------------------------------|--------|
+| **Température de l'air**                        |        |
+| - maxima depuis la veille                       | **16.6** |
+| - minima id.                                    | **8.0** |
+| **Température de l'eau**                        |        |
+| - maxima depuis la veille                       | **[pas renseigné]** |
+| - minima id.                                    | **[pas renseigné]** |
+| **Pluie tombée depuis la veille, en millim.**   | **0** |
+| **Evaporation depuis le 1901, en millim.**      | **[pas renseigné]** |
+| **Direction du vent (à terre)**                 | **à 9 h. m.** | **à 3 h. s.** |
+| **Force**                                       | **Est** | **S. S. E.** |
+|  | **Doux** | **Fort** |
+| **Direction des nuages**                        | **N. O.** | **S. S. E.** |
+| **Nébulosité**                                  |        |        |
+| - région Ouest (terre)                          | **10** | **10** |
+| - id. Est (mer)                                 | **10** | **10** |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.)** | **17.1** | **9.2** |
+| **Agitation de l'eau**                          | **Forte** | **Douce** |
+| **Densité de l'eau au bout de la jetée**        | **1.028.8** | **1.023.1** |
+| **Température id.**                             | **11.6** | **12.0** |
+
+#### OBSERVATIONS DU 1er AVRIL 1907
+
+| **Nombre de bateaux sortis (pêche à la Traine)** | **38** |
+|-------------------------------------------------|--------|
+| **Température de l'air**                        |        |
+| - maxima depuis la veille                       | **17.8** |
+| - minima id.                                    | **7.2** |
+| **Température de l'eau**                        |        |
+| - maxima depuis la veille                       | **[pas renseigné]** |
+| - minima id.                                    | **[pas renseigné]** |
+| **Pluie tombée depuis la veille, en millim.**   | **0** |
+| **Evaporation depuis le 1901, en millim.**      | **[pas renseigné]** |
+| **Direction du vent (à terre)**                 | **à 9 h. m.** | **à 3 h. s.** |
+| **Force**                                       | **S. S. O.** | **[pas renseigné]** |
+|  | **Faible** | **[pas renseigné]** |
+| **Direction des nuages**                        | **N. O.** | **[pas renseigné]** |
+| **Nébulosité**                                  |        |        |
+| - région Ouest (terre)                          | **10** | **[pas renseigné]** |
+| - id. Est (mer)                                 | **10** | **[pas renseigné]** |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.)** | **11.9** | **[pas renseigné]** |
+| **Agitation de l'eau**                          | **Forte** | **[pas renseigné]** |
+| **Densité de l'eau au bout de la jetée**        | **1.028.7** | **[pas renseigné]** |
+| **Température id.**                             | **11.8** | **[pas renseigné]** |
+
+**Notes sur les abréviations et symboles :**
+- "Ed." : Est
+- "S.S.S." : Sud-Sud-Est
+- "S.S.O." : Sud-Sud-Ouest
+- "m. a.m." : matin
+- "h.s." : soirée
+- "(B.R.)" : cote à l'arrière (Bulletin de Route)

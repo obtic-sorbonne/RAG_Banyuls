@@ -1,0 +1,18 @@
+| Date       | 18 Septembre 1900 |
+|-----------|------------------|
+| Heures    |                 |
+|           | 9h.m.           | 2h.1/4      |
+| Hauteur barométrique | 765,9       | 764,8       |
+| Direction du vent   |   | ssu          |
+| Tonn. w.     | 1/7ulla        | "           |
+| Nebulosité        | Rég. 0. (feux) | 5           | 10          |
+|                    | Rég. E. (mm)  | 5           | 9           |
+| Direction des nuages | S.           | S.E.        |
+| Pluie tombée        | 5,75        | "           |
+| Température de l'air | 23°,2       | 22°,8       |
+|           |                 |             |
+| Hauteur de la mer  | 0²,3²       | 0²,46       |
+| Agitation de l'eau  | 2           | 2           |
+| Densité de l'eau   | 1026,4      |             |
+| Température de l'eau | 21°,1      |             |
+| Observat.        |             |             |

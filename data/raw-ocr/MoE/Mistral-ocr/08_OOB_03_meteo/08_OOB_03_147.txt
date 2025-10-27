@@ -1,0 +1,16 @@
+# Sale. 14 Mours. 1902
+
+|  Maiteur Barométrique | 9" Matin | 3" Soir  |
+| --- | --- | --- |
+|  Direction Su vent | 768.5 | 767.8  |
+|  Force | 1 fort | 5.2  |
+|  Reg. 6. (Vern) | 10 kgm. | 10  |
+|  (Rég. 6. (mer) |  |   |
+|  Direction des nuages | 10 kgm. | 10  |
+|  (Prix tombe) |  |   |
+|  Température de l'air | 13.2 | 12.7  |
+|  Maiteur de la mer | 37.5 | 33.3  |
+|  (Agitation de l'eau) | 1 faible | 1 faible  |
+|  (Densité de l'eau) | 1027.9 | 1027.8  |
+|  (au Large) |  |   |
+|  Température de l'eau | 12.3 | 12.7  |

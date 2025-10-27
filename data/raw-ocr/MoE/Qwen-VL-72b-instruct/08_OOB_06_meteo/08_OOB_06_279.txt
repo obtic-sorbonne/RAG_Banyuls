@@ -1,0 +1,68 @@
++---------------------------------------------------------+------------------------+----------------------+
+|                         OBSERVATIONS DU 1902 2 Mai         |                        |                      |
++---------------------------------------------------------+------------------------+----------------------+
+| Nombre de bateaux sortis (pêche à l…)                      |                        |                      |
+| Température de l'air                                     |                        |                      |
+|   maxima depuis la veille                                | 16.0                   |                      |
+|   minima id.                                             | 10.8                   |                      |
+| Température de l'eau                                     |                        |                      |
+|   maxima depuis la veille                                |                        |                      |
+|   minima id.                                             |                        |                      |
+| Pluie tombée depuis la veille, en millim                  |                        |                      |
+| Evaporation depuis le 190, en millim                      |                        |                      |
++---------------------------------------------------------+------------+-----------+----------------------+
+| Direction du vent (à terre)                              | à 9 h. m.  | à 3 h. s. |                      |
++---------------------------------------------------------+------------+-----------+----------------------+
+| Force                                                   | n.n.o      | n.n.o     |                      |
+|                                                         | 4          | 8         |                      |
+| Direction des nuages                                    |            |           |                      |
+|   région Ouest (terre)                                   | n.n.o      |           |                      |
+|   id. Est (mer)                                          | 0          | 0         |                      |
+| Nébulosité                                               |            |           |                      |
+|   région Ouest (terre)                                   | 0          | 0         |                      |
+|   id. Est (mer)                                          | 0          | 0         |                      |
+| Hauteur de la mer, en centimètres, au-dessus du zéro      | 31.4       | 47.1      |                      |
+|   (B.Q.)                                                 |            |           |                      |
+| Agitation de l'eau                                       | 2          | faible    |                      |
+| Densité de l'eau au bout de la jetée                     | 1026.3     | 1026.4    |                      |
+| Température                                              | 19.0       | 19.6      |                      |
++---------------------------------------------------------+------------+-----------+----------------------+
+| Signatures                                               |            |           |                      |
+| - is. Ferran Matin                                       |            |           |                      |
+|   [maxima]                                               | 20.9       |           |                      |
+|   [minima]                                               | 8.7        |           |                      |
++---------------------------------------------------------+------------+-----------+----------------------+
+|                         OBSERVATIONS DU 1902 3 Mai         |            |           |
++---------------------------------------------------------+------------+-----------+----------------------+
+| Nombre de bateaux sortis (pêche à l…)                      |            |           |
+| Température de l'air                                     |            |           |
+|   maxima depuis la veille                                | 18.2       |           |
+|   minima id.                                             | 9.3        |           |
+| Température de l'eau                                     |            |           |
+|   maxima depuis la veille                                |            |           |
+|   minima id.                                             |            |           |
+| Pluie tombée depuis la veille, en millim                  |            |           |
+| Evaporation depuis le 190, en millim                      |            |           |
++---------------------------------------------------------+------------+-----------+----------------------+
+| Direction du vent (à terre)                              | à 9 h. m.  | à 3 h. s. |                      |
++---------------------------------------------------------+------------+-----------+----------------------+
+| Force                                                   | n.n.e      |           |                      |
+|                                                         | 1          |           |                      |
+| Direction des nuages                                    |            |           |                      |
+|   région Ouest (terre)                                   | 0          |           |                      |
+|   id. Est (mer)                                          | 0          |           |                      |
+| Nébulosité                                               |            |           |                      |
+|   région Ouest (terre)                                   | 0          |           |                      |
+|   id. Est (mer)                                          | 0          |           |                      |
+| Hauteur de la mer, en centimètres, au-dessus du zéro      | 40.2       |           |                      |
+|   (B.Q.)                                                 |            |           |                      |
+| Agitation de l'eau                                       | 1          |           |                      |
+| Densité de l'eau au bout de la jetée                     | 1027.2     |           |                      |
+| Température                                              | 13.9       |           |                      |
++---------------------------------------------------------+------------+-----------+----------------------+
+| Signatures                                               |            |           |                      |
+| - is. Ballan (Uambilae) Matin                            | 14.0       |           |                      |
+| - is. Ferran Matin                                       | 21.8       |           |                      |
+|   [maxima]                                               |            |           |                      |
+|   [minima]                                               | 6.7        |           |                      |
++---------------------------------------------------------+------------+-----------+----------------------+

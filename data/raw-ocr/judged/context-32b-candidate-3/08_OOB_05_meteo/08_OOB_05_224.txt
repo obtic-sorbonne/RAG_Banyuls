@@ -1,0 +1,52 @@
+```markdown
+# 27 Mars 1907
+
+| **Date**       | **Matin** | **Soir** |
+|----------------|-----------|----------|
+| **Hauteur barométrique** | 767.1 mmHg | 766.6 mmHg |
+| **Direction du vent** | Sud-Ouest (SO) | Sud-Est (SE) |
+| **Force** | 1 | 1 |
+| **Nébulosité (Res. 0. (terre))** | 0 | 0 |
+| **Nébulosité (Res. 2. (mer))** | 0 | 0 |
+| **Direction des nuages** | - | - |
+| **Pluie tombée** | - | - |
+| **Température de l'air** | 10.6 °C | 10.0 °C |
+| **Hauteur de la mer** | 17.7 m | 8.8 m |
+| **Agitation de l'eau** | faible | faible |
+| **Densité au bout de la jetée** | 1028.9 g/cm³ | 1028.9 g/cm³ |
+| **Température de l'eau** | 12.7 °C | 12.7 °C |
+
+# 28 Mars 1907
+
+| **Date**       | **Matin** | **Soir** |
+|----------------|-----------|----------|
+| **Hauteur barométrique** | 767.9 mmHg | 766.9 mmHg |
+| **Direction du vent** | Sud (S) | Sud (S) |
+| **Force** | 1 | 1 |
+| **Nébulosité (Res. 0. (terre))** | 10 | 10 |
+| **Nébulosité (Res. 2. (mer))** | 10 | 10 |
+| **Direction des nuages** | - | 10 |
+| **Pluie tombée** | - | 1.8 mm |
+| **Température de l'air** | 13.6 °C | 14.7 °C |
+| **Hauteur de la mer** | 18.1 m | 20.0 m |
+| **Agitation de l'eau** | forte | forte |
+| **Densité au bout de la jetée** | 1028.4 g/cm³ | 1028.4 g/cm³ |
+| **Température de l'eau** | 12.6 °C | 12.6 °C |
+
+# 29 Mars 1907
+
+| **Date**       | **Matin** | **Soir** |
+|----------------|-----------|----------|
+| **Hauteur barométrique** | 766.6 mmHg | - |
+| **Direction du vent** | S.S. 8 | - |
+| **Force** | 5-7 forte | - |
+| **Nébulosité (Res. 0. (terre))** | Reg. 0 (clère) | - |
+| **Nébulosité (Res. 2. (mer))** | - | - |
+| **Direction des nuages** | - | - |
+| **Pluie tombée** | - | - |
+| **Température de l'air** | 13.2 °C | - |
+| **Hauteur de la mer** | 64.0 cm | - |
+| **Agitation de l'eau** | 1 forte | - |
+| **Densité au bout de la jetée** | 1029.4 g/cm³ | - |
+| **Température de l'eau** | 12.6 °C | - |
+```

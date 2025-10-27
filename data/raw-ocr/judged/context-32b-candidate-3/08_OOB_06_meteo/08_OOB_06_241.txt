@@ -1,0 +1,51 @@
+```plaintext
+### OBSERVATIONS DU 1902, 17 JANVIER
+
+| **Nombre de bateaux sortis (pêche à l.)** | 13,5 |
+| **Température de l'air** |  |
+| - **maxima depuis la veille** | 13,5 |
+| - **minima id.** | 6,7 |
+| **Température de l'eau** |  |
+| - **maxima depuis la veille** | *non mentionnée* |
+| - **minima id.** | *non mentionnée* |
+| **Pluie tombée depuis la veille, en millim.** | 4,9 |
+| **Évaporation depuis le 190, en millim.** | *non mentionnée* |
+| **Direction du vent (à terre)** |  |  |
+| - **à 9 h. m.** | Sud |
+| - **à 3 h. s.** | Sud |
+| - **Force** | 1 |  |
+| - **Direction des nuages** | S.S.E. | S.S.E. |
+| **Nébulosité** |  |  |
+| - **région Ouest (terre)** | 40 |  |
+| - **id. Est (mer)** | 40 |  |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.)** | 3 |  |
+| **Agitation de l'eau** | 3 |  |
+| **Densité de l'eau au bout de la jetée** | *non mentionnée* |  |
+| **Température id.** |  |  |
+| - **is. (Mer) Maxima** | 18,3 |  |
+| - **is. (Mer) Minima** | 4,6 |  |
+
+### OBSERVATIONS DU 1902, 19 JANVIER
+
+| **Nombre de bateaux sortis (pêche à l.)** | *non mentionnée* |
+| **Température de l'air** |  |
+| - **maxima depuis la veille** | *non mentionnée* |
+| - **minima id.** | *non mentionnée* |
+| **Température de l'eau** |  |
+| - **maxima depuis la veille** | *non mentionnée* |
+| - **minima id.** | *non mentionnée* |
+| **Pluie tombée depuis la veille, en millim.** | 128,70 |
+| **Évaporation depuis le 190, en millim.** | *non mentionnée* |
+| **Direction du vent (à terre)** |  |  |
+| - **à 9 h. m.** | E.S.E. |
+| - **à 3 h. s.** | E.S.E. |
+| - **Force** | 1 Fort | 1 Fort |
+| - **Direction des nuages** | E.S.E. | E.S.E. |
+| **Nébulosité** |  |  |
+| - **région Ouest (terre)** | 40 |  |
+| - **id. Est (mer)** | 40 |  |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.)** | 8 |  |
+| **Agitation de l'eau** | *non mentionnée* |  |
+| **Densité de l'eau au bout de la jetée** | *non mentionnée* |  |
+| **Température id.** | *non mentionnée* |  |
+```

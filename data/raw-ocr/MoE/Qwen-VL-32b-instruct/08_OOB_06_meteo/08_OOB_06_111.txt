@@ -1,0 +1,39 @@
+| **DATE** | **OBSERVATIONS** |  | **9 H M.** | **3 H S.** |
+|---|---|---|---|---|
+| 24 janvier 1901 | **Nombre de bateaux sortis (pêche à l.)** |  | Viandt |  |
+|  | **Température de l'air** | { maxima depuis la veille | 10,3 |  |
+|  |  | { minima id. | 1,2 |  |
+|  | **Température de l'eau** | { maxima depuis la veille |  |  |
+|  |  | { minima id. |  |  |
+|  | **Pluie tombée depuis la veille, en millim.** |  |  |  |
+|  | **Evaporation depuis le 190**, en millim. |  |  |  |
+|  | **Direction du vent (à terre)** |  | N.N.O | N.N.O |
+|  | **Force** |  | 1 fort | 2 fort |
+|  | **Direction des nuages** |  | n.n.o | n.n.o |
+|  | **Nébulosité** | région Ouest (terre) | 1 | 0 |
+|  |  | id. Est (mer) | 3 | 1 |
+|  | **Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.)** |  | 52,0 | 54,0 |
+|  | **Agitation de l'eau** |  | 2 fort | 2 fort |
+|  | **Densité de l'eau au bout de la jetée** |  | 1029,6 | 1028,6 |
+|  | **Température id.** |  | 11,4 | 11,4 |
+|  |  |  |  |  |
+
+| **DATE** | **OBSERVATIONS** |  | **9 H M.** | **3 H S.** |
+|---|---|---|---|---|
+| 29 janvier 1901 | **Nombre de bateaux sortis (pêche à l.)** |  | Viandt |  |
+|  | **Température de l'air** | { maxima depuis la veille | 7,8 |  |
+|  |  | { minima id. | 1,0 |  |
+|  | **Température de l'eau** | { maxima depuis la veille |  |  |
+|  |  | { minima id. |  |  |
+|  | **Pluie tombée depuis la veille, en millim.** |  |  |  |
+|  | **Evaporation depuis le 190**, en millim. |  |  |  |
+|  | **Direction du vent (à terre)** |  | N.N.O | N.N.O |
+|  | **Force** |  | 3 fort | 3 |
+|  | **Direction des nuages** |  | n.n.o | n.n.o |
+|  | **Nébulosité** | région Ouest (terre) | 1 | 0 |
+|  |  | id. Est (mer) | 1 | 1 |
+|  | **Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.)** |  | 56,0 | 54,0 |
+|  | **Agitation de l'eau** |  | 2 | 2 fort |
+|  | **Densité de l'eau au bout de la jetée** |  | 1029,2 | 1029,2 |
+|  | **Température id.** |  | 11,0 | 11,2 |
+|  |  |  |  |  |

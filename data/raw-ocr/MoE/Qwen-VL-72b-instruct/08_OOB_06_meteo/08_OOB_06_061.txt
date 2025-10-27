@@ -1,0 +1,41 @@
+OBSERVATIONS DU 1920 8 Jbre
+
+| | à 9 h. m. | à 3 h. s. |
+|---|---|---|
+| Nombre de bateaux sortis (pêche à l...) | | |
+| Température de l'air | maxima depuis la veille | 22.3 | |
+| | minima id. | 15.7 | |
+| Température de l'eau | maxima depuis la veille | | |
+| | minima id. | | |
+| Pluie tombée depuis la veille, en millim. | | 17 | |
+| Evaporation depuis le 190, en millim. | | | |
+| Direction du vent (à terre) | | Nord | S.E. |
+| Force | | 1 fort | 1 fort |
+| Direction des nuages | | N.E | N.E |
+| Nébulosité | région Ouest (terre) | 10 | 10 |
+| | id. Est (mer) | 10 | 10 |
+| Hauteur de la mer, en centimètres, au-dessus du zéro | | 1 | 1 |
+| Agitation de l'eau | | | |
+| Densité de l'eau au bout de la jetée | | 1027.0 | 1027.6 |
+| Température id. | | 19.0 | 19.7 |
+
+OBSERVATIONS DU 1920 9 Jbre
+
+| | à 9 h. m. | à 3 h. s. |
+|---|---|---|
+| Nombre de bateaux sortis (pêche à l...) | | |
+| Température de l'air | maxima depuis la veille | 23.7 | |
+| | minima id. | 15.7 | |
+| Température de l'eau | maxima depuis la veille | | |
+| | minima id. | | |
+| Pluie tombée depuis la veille, en millim. | | 17 | |
+| Evaporation depuis le 190, en millim. | | | |
+| Direction du vent (à terre) | | N.N.O | N.N.O |
+| Force | | 3 | 3 |
+| Direction des nuages | | N.E | N.O |
+| Nébulosité | région Ouest (terre) | 10 | 10 |
+| | id. Est (mer) | 10 | 10 |
+| Hauteur de la mer, en centimètres, au-dessus du zéro | | 1 | 1 |
+| Agitation de l'eau | | 1 fort | 2 faible |
+| Densité de l'eau au bout de la jetée | | 1027.3 | 1027.9 |
+| Température id. | | 18.7 | 18.8 |

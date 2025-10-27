@@ -1,0 +1,25 @@
+|  9.28 Août. 1906 | Mbatin | Son  |
+| --- | --- | --- |
+|  Hauteur Marométrique | 262.2 | 265.2  |
+|  Direction du rent | 0000 | 204  |
+|  Force | 3 | 2  |
+|  Hébulosité (Reg. C. (en)) | 0 | 0  |
+|  Direction des maays | 0 | 0  |
+|  Thie tombie |  | 0  |
+|  Température de l'air | 28.1 | 29.3  |
+|  Hauteur de la mer | 11.2 | 141.2  |
+|  Capitation de l'eau | 3 faible | 3 faible  |
+|  Sensité au bout de la jetée | 1022.1 | 1022.2  |
+|  Température de l'eau | 22.2 | 22.3  |
+|  1er Septembre. 1906 | Mbatin | Son  |
+|  Hauteur Marométrique | 269.3 |   |
+|  Direction du rent | 5.5.3 |   |
+|  Force | 1 fort |   |
+|  Hébulosité (Reg. C. (en)) | 1 |   |
+|  Direction des maays | 1.0 |   |
+|  Thie tombie |  |   |
+|  Température de l'air | 28.2 |   |
+|  Hauteur de la mer | 11.2 |   |
+|  Capitation de l'eau | 1 fort |   |
+|  Sensité au bout de la jetée | 1022.1 |   |
+|  Température de l'eau | 28.3 |   |

@@ -1,0 +1,27 @@
+|  1. 2 Mours. 1906: | Mbatin, Sav  |
+| --- | --- |
+|  Hauteur Marométrique | 268.3  |
+|  Direction du vent |   |
+|  Force | 10  |
+|  Nebulosiée | 10  |
+|  (Rig. X. (mer) | 10  |
+|  Direction des mages | or.0.0  |
+|  Unie tombeé |   |
+|  Température de l'air | 13.2  |
+|  Hauteur de la mer | 64.6  |
+|  Crétation de l'eau | 3 faible  |
+|  Densité au bout de la jetée | 1689.1  |
+|  Température de l'eau | 11.0  |
+|  1. 2 Mours. 1906: | Mbatin, Sav  |
+|  Hauteur Marométrique | 244.3  |
+|  Direction du vent | 1.0  |
+|  Force | 1 fort  |
+|  Nebulosiée | 0  |
+|  (Rig. X. (mer) | 1  |
+|  Direction des mages |   |
+|  Unie tombeé | 13.6  |
+|  Température de l'air | 65.0  |
+|  Hauteur de la mer | 5 faible  |
+|  Crétation de l'eau | 1689.1  |
+|  Densité au bout de la jetée | 11.0  |
+|  Température de l'eau |   |

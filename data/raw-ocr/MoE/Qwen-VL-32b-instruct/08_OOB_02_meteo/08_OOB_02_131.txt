@@ -1,0 +1,19 @@
+# Date: 22 Juillet 1901
+
+|  Item | Qté | Prix  |
+| --- | --- | --- |
+|  Grilleux Prazometrique | 9" Matin | 3" Soir  |
+|  Direction du vent | 764,1 | 763,6  |
+|  Force | N.N.O | N.N.O  |
+|  25 | 2 part. | 2 part.  |
+|  Reg. 6. (terre) | Seger C. | 10  |
+|  Pédbulosité |  |   |
+|  Reg. 5. (mur) | Seger 2 c. | 10  |
+|  Direction des nuages | Ouest | N.N.O  |
+|  Fluie tombée |  |   |
+|  Température de l'air | 34,3 | 35,5  |
+|  Écart | 43,6 | 51,8  |
+|  Écart | 3 faillite | 3 faillite  |
+|  Écart | 1026,7 | 1027,0  |
+|  Écart |  |   |
+|  Température de l'eau | 32,4 | 32,1  |

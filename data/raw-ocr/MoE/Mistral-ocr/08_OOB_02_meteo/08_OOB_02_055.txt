@@ -1,0 +1,18 @@
+# Date: 4 Mai 1901
+
+|  Item | Q.  |
+| --- | --- |
+|  Hommeur Praxometrique | 30'  |
+|  Direction du vent | 30'  |
+|  Force | 703.5  |
+|   | Nom  |
+|  Pédbulosité | 3  |
+|  Reg. E. (mer) | 4  |
+|  Direction des nuages | 0  |
+|  Mise tombée | 0  |
+|  Température de l'air | 31.3  |
+|  Hommeur de la mer | 07.4  |
+|  Égitation de l'eau | 13.7  |
+|  Densité de l'eau | 103.7  |
+|  Par large | 1  |
+|  Température de l'eau | 17.0  |

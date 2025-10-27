@@ -1,0 +1,30 @@
+| V. 4 Décembre -1904 | Matin | Soir |
+|---|---|---|
+| Hauteur Barométrique | 764,4 |  |
+| Direction du vent | cr.cr.o |  |
+| Force | is | 2 |
+| Reg. 6.(terre) | 0 |  |
+| Nébulosité |  |  |
+| (Reg. 2.- (mer)) | 0 |  |
+| Direction des nuages | Sud |  |
+| Pluie tombée | " |  |
+| Température de l'air | 10.0 |  |
+| Hauteur de la mer | 84.7 |  |
+| Agitation de l'eau | 3 |  |
+| Ventité au bout de la jetée | 1029.4 |  |
+| Température de l'eau | 14.9 |  |
+| V. 5 Décembre -1904 | Matin | Soir |
+|---|---|---|
+| Hauteur Barométrique | 769.4 |  |
+| Direction du vent | er.cr.o |  |
+| Force | is | 1 |
+| Reg. 6. (Terre) | 2 Légère |  |
+| Nébulosité |  |  |
+| (Reg. 2.- (mer)) | 2 Légère |  |
+| Direction des nuages | Nord |  |
+| Pluie tombée | " |  |
+| Température de l'air | 9.6 |  |
+| Hauteur de la mer | 89.8 |  |
+| Agitation de l'eau | 1 |  |
+| Ventité au bout de la jetée | 1029.1 |  |
+| Température de l'eau | 14.8 |  |

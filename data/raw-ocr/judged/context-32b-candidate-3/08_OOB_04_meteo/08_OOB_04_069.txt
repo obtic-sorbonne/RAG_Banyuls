@@ -1,0 +1,32 @@
+10 Mhars - 1902
+
+Fauteur Barometrique ---- 753.8
+Direction du vent ---- Est
+Force ---- 10
+Mebulosité
+- D. (terre) ---- 8
+- D. (mer) ---- 5
+Dortir des unages ---- Est
+Phine tombée ----
+Température de l'air ---- 12.3
+Fauteur de la mer ---- 70.7
+Cgitation de l'eau ---- Legere
+Densité au bout de la Jetée ---- 1027.12
+Température de l'eau ---- 4.6
+
+Matin
+Fauteur Barometrique ---- 760.0
+Direction du vent ---- Est
+Force ---- 10
+Mebulosité
+- D. (terre) ---- 8
+- D. (mer) ---- 5
+Dortir des images ---- Est
+Phine tombée ----
+Température de l'air ---- 13.4
+Fauteur de la mer ---- 83.7
+Cgitation de l'eau ---- Fort
+Densité au bout de la Jetée ---- 1027.0
+Température de l'eau ---- 11.7
+
+11 Mars. 1902

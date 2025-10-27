@@ -1,0 +1,76 @@
+# V. 24 Septembre - 1904
+
+|  Noms | Noms | Pour  |
+| --- | --- | --- |
+|  Nauteur Travométrique | 4/5.5 | 4/5.5  |
+|  Direction du vent | 4/5.5 | 4/5.5  |
+|  Force | 2 | 2  |
+|  Nociculosité | 10 | 10  |
+|  Rég. O. (mw) | 10 | 10  |
+|  Nociculosité | 10 | 10  |
+|  Élé. Noc. (mw) | 1.48 | 22.4  |
+|  Naut. des nuages | 28.4 | 31.6  |
+|  Élé. Noc. (mw) | 31.6 | 31.6  |
+|  Naut. des nuages | 31.6 | 31.6  |
+|  Naut. de l'air | 1028.0 | 1028.0  |
+|  Naut. de l'air | 18.3 | 18.3  |
+
+# V. 25 Septembre - 1904
+
+|  Noms | Noms | Pour  |
+| --- | --- | --- |
+|  Nauteur Travométrique | 4/5.5 | 4/5.5  |
+|  Direction du vent | 4/5.5 | 4/5.5  |
+|  Force | 1 | 1  |
+|  Nociculosité | 1 | 1  |
+|  Rég. O. (mw) | 1 | 1  |
+|  Nociculosité | 1 | 1  |
+|  Élé. Noc. (mw) | 3 | 3  |
+|  Naut. des nuages | 105 | 105  |
+|  Élé. Noc. (mw) | 105 | 105  |
+|  Élé. Noc. (mw) | 105 | 105  |
+|  Naut. de l'air | 18.8 | 18.8  |
+|  Naut. de l'air | 1028.0 | 1028.0  |
+|  Naut. de l'air | 1028.1 | 1028.1  |
+|  Naut. de l'air | 1028.2 | 1028.2  |
+|  Naut. de l'air | 1028.3 | 1028.3  |
+
+# V. 26 Septembre - 1904
+
+|  Noms | Noms | Pour  |
+| --- | --- | --- |
+|  Naut. des nuages | 4/5.5 | 4/5.5  |
+|  Élé. Noc. (mw) | 4/5.5 | 4/5.5  |
+|  Naut. des nuages | 10 | 10  |
+|  Élé. Noc. (mw) | 10 | 10  |
+|  Naut. de l'air | 10 | 10  |
+|  Naut. de l'air | 10 | 10  |
+|  Naut. de l'air | 10 | 10  |
+|  Naut. de l'air | 10 | 10  |
+|  Naut. de l'air | 10 | 10  |
+|  Naut. de l'air | 10 | 10  |
+|  Naut. de l'air | 10 | 10  |
+|  Naut. de l'air | 10 | 10  |
+|  Naut. de l'air | 10 | 10  |
+|  Naut. de l'air | 10 | 10  |
+|  Naut. de l'air | 10 | 10  |
+|  Naut. de l'air | 10 | 10  |
+|  Naut. de l'air | 10 | 10  |
+|  Naut. de l'air | 10 | 10  |
+|  Naut. de l'air | 10 | 10  |
+|  Naut. de l'air | 10 | 10  |
+|  Naut. de l'air | 10 | 10  |
+|  Naut. de l'air | 10 | 10  |
+|  Naut. de l'air | 10 | 10  |
+|  Naut. de l'air | 10 | 10  |
+|  Naut. de l'air | 10 | 10  |
+|  Naut. de l'air | 10 | 10  |
+|  Naut. de l'air | 10 | 10  |
+|  Naut. de l'air | 10 | 10  |
+|  Naut. de l'air | 10 | 10  |
+|  Naut. de l'air | 10 | 10  |
+|  Naut. de l'air | 10 | 10  |
+|  Naut. de l'air | 10 | 10  |
+|  Naut. de l'air | 10 | 10  |
+|  Naut. de l'air | 10 | 10  |
+|  Naut. de l'air | 10 | 10  |

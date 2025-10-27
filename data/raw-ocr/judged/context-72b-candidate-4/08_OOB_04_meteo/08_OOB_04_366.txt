@@ -1,0 +1,32 @@
+```plaintext
+| Date              | Matin         | Soir          |
+|-------------------|---------------|---------------|
+| **V. 27 Avril 1904** |               |               |
+| Hauteur Barométrique | 760.6        | 760.6        |
+| Direction du vent  | cr. cr. o    | cr. cr. o    |
+| Force             | 6            | 6 (fort)      |
+| Nebulosité        |               |               |
+| Reg. O. (c) (terre) | 3            | 10            |
+| Reg. E. (mer)     | 4            | 10            |
+| Direction des nuages | cr. cr. o    | cr. cr. o    |
+| Pluie tombée      |               |               |
+| Température de l'air | 13.6         | 19.6         |
+| Hauteur de la mer  | 13.7         | 13.0          |
+| Agitation de l'eau | 4            | 4 (faible)    |
+| Densité au bout de la jetée | 1029.0        |               |
+| Température de l'eau | 18.3         | 15.3         |
+| **V. 28 Avril 1904** |               |               |
+| Hauteur Barométrique | 762.3        | 762.3        |
+| Direction du vent  | cr. cr. o    | cr. cr. o    |
+| Force             | 4 (fort)      | 5 (fort)      |
+| Nebulosité        |               |               |
+| Reg. O. (c) (terre) | 0            | 0            |
+| Reg. E. (mer)     | 0            | 0            |
+| Direction des nuages | cr. cr. o    | cr. cr. o    |
+| Pluie tombée      |               |               |
+| Température de l'air |               | 18.3         |
+| Hauteur de la mer  |               | 460.0        |
+| Agitation de l'eau |               | 44 (difficile à interpréter) |
+| Densité au bout de la jetée |               | 1028.8        |
+| Température de l'eau |               | 13.7 (éventuellement copie erronée) |
+```

@@ -1,0 +1,38 @@
+| Date       | Heure | Paramètre                    | Valeur        |
+|------------|-------|-----------------------------|---------------|
+| 6 février 1902 | Matin | Hauteur Barométrique       | 794.8         |
+|              |       | Direction du vent          | Sud           |
+|              |       | Force                      | 3-4           |
+|              |       | Hibéulosité Reg. O. (cléa)  | 10            |
+|              |       | Reg. E. (mer)              | 10            |
+|              |       | Direction des nuages      | Ouest         |
+|              |       | Pluie tombée                | -             |
+|              |       | Température de l'air       | 13.0          |
+|              |       | Hauteur de la mer          | 26.7          |
+|              |       | Agitation de l'eau          | 2 fort       |
+|              |       | Densité au bout de la jetée | 1028.9        |
+|              |       | Température de l'eau       | 11.7          |
+| 6 février 1902 | Soir | Hauteur Barométrique       | 792.3         |
+|              |       | Direction du vent          | Nord-Est      |
+|              |       | Force                      | 1             |
+|              |       | Hibéulosité Reg. O. (cléa)  | 10            |
+|              |       | Reg. E. (mer)              | 10            |
+|              |       | Direction des nuages      | Nord-Est      |
+|              |       | Pluie tombée                | -             |
+|              |       | Température de l'air       | 11.6          |
+|              |       | Hauteur de la mer          | 32.2          |
+|              |       | Agitation de l'eau          | 2 fort       |
+|              |       | Densité au bout de la jetée | 1028.7        |
+|              |       | Température de l'eau       | 12.0          |
+| 7 février 1902 | Matin | Hauteur Barométrique       | 792.3         |
+|              |       | Direction du vent          | C.-O.         |
+|              |       | Force                      | 1             |
+|              |       | Hibéulosité Reg. O. (cléa)  | 10            |
+|              |       | Reg. E. (mer)              | 10            |
+|              |       | Direction des nuages      | C.-O.         |
+|              |       | Pluie tombée                | -             |
+|              |       | Température de l'air       | 11.6          |
+|              |       | Hauteur de la mer          | 32.2          |
+|              |       | Agitation de l'eau          | 2 fort       |
+|              |       | Densité au bout de la jetée | 1028.7        |
+|              |       | Température de l'eau       | 12.0          |

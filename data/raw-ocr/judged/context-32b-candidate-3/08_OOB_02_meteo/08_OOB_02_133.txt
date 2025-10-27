@@ -1,0 +1,16 @@
+# Date: 24 Juillet 1901
+
+|  Item | 9e Matin | 3e Soir  |
+| --- | --- | --- |
+|  Hauteur Barométrique | 751,3 |  |
+|  Direction du vent |  |  |
+|  Force | 70 |  |
+|  Nébulosité / Reg. O. (terre) | 0 | 0  |
+|  Nébulosité / Reg. E. (mer) |  |  |
+|  Direction des nuages |  |  |
+|  Pluie tombée |  |  |
+|  Température de l'air | 30,4 |  |
+|  Hauteur de la mer | 73,1 |  |
+|  Agitation de l'eau | 1,904 |  |
+|  Densité de l'eau / au bout de la jetée | 103,7 |  |
+|  Température de l'eau | 31,6 |  |

@@ -1,0 +1,8 @@
+```plaintext
+| Date       | Heure     | Hauteur Barométrique | Direction du Vent | Force du Vent | Nébulosité        | Direction des Nages | Pluie Tombée | Température de l'Air | Hauteur de la Mer (m) | Agitation de l'Eau | Densité au Bout de la Jetée | Température de l'Eau |
+|------------|-----------|---------------------|-------------------|---------------|--------------------|--------------------|-------------|---------------------|---------------------|-------------------|--------------------------|----------------------|
+| V. 1er Avril 1902 | 9h Matin | 797.3 | Sud | 2 | Légère     | Sud | --       | 11.8               | 34.8             | 1            | 1028.2               | 13.6                |
+| V. 1er Avril 1902 | 9h Soir  | 797.3 | Sud | 2 | Légère     | Sud | --       | 11.8               | 34.8             | 1            | 1028.2               | 13.6                |
+| V. 2 Avril 1902  | 9h Matin | 797.9 | Ouest | 1 (faible) | 10           | Nord | " "       | 14.6               | 39.0             | 2 (faible)         | 1027.9               | 13.4                |
+| V. 2 Avril 1902  | 9h Soir  | 797.2 | Ouest | 1 (faible) | 10           | Ouest | " "       | 15.6               | 32.7             | 2 (faible)         | 1028.0               | 14.5                |
+```

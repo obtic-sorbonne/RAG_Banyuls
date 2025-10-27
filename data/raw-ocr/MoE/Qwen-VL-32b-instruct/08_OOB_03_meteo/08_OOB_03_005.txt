@@ -1,0 +1,18 @@
+# Date. 21 Septembre. 1901
+
+|  |   |   |
+| --- | --- | --- |
+|  Kauteur Barometrique | 9. "Matin" 3. "Soir" |   |
+|  Direction du vent | 7/2.3 | 7/4.6  |
+|  Force | 15. | 150%  |
+|  (1) Reg. O. (1ere) | 17. | 17 fort  |
+|  (1) P. (1er) | 10 | 10  |
+|  (1) P. Reg. E. (mer) | 10 | 10  |
+|  Direction des nuages | ouest | ouest  |
+|  "Prix tombe" | 0.7119 | 0.7119  |
+|  "Gémis" | 19.4 | 18.2  |
+|  Kauteur de la mer | 28.9 | 23.4  |
+|  (1) Régulation de l'eau | 4 | 4 fort  |
+|  (1) Densité de l'eau | 1027.7 | 1027.6  |
+|  (1) au Large |  |   |
+|  (1) Gémis |  |   |

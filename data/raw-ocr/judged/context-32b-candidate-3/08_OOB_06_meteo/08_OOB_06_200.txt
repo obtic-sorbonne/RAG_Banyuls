@@ -1,0 +1,59 @@
+```plaintext
+### OBSERVATIONS DU 1901 22 SEPTEMBRE
+
+| **Nombre de bateaux sortis (pêche à la ligne)** | 1 |
+| **Température de l'air** |  |  |
+| – maxima depuis la veille | 21,7 |  |
+| – minima id. | 13,6 |  |
+| **Température de l'eau** |  |  |
+| – maxima depuis la veille |  |  |
+| – minima id. |  |  |
+| **Pluie tombée depuis la veille, en millim.** | 2,1 |  |
+| **Evaporation depuis le 1901, en millim.** |  |  |
+| **Direction du vent (à terre)** | **à 9 h. m.** | **à 3 h. s.** |
+| – Force | 6 |  |
+| – Direction | N.N.O |  |
+| – Direction des nuages | N.N.O |  |
+| **Nébulosité** |  |  |
+| – région Ouest (terre) | 2 |  |
+| – id. Est (mer) | 9 |  |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.)** | 29,6 |  |
+| **Agitation de l'eau** | 3°t |  |
+| **Densité de l'eau au bout de la jetée (Kg/cm³)** | 1,027,7 |  |
+| **Température** |  |  |
+| – id. Matin | 21,3 |  |
+| – id. maxima Matin | 28,4 |  |
+| – id. minima Matin | 12,8 |  |
+| – id. Soir | 26,1 |  |
+| – id. maxima Soir | 26,1 |  |
+| – id. minima Soir | 19,0 |  |
+
+### OBSERVATIONS DU 1901 23 SEPTEMBRE
+
+| **Nombre de bateaux sortis (pêche à la ligne)** | 2 |
+| **Température de l'air** |  |  |
+| – maxima depuis la veille | 20,3 |  |
+| – minima id. | 14,6 |  |
+| **Température de l'eau** |  |  |
+| – maxima depuis la veille |  |  |
+| – minima id. |  |  |
+| **Pluie tombée depuis la veille, en millim.** | quelques-uns |  |
+| **Evaporation depuis le 1901, en millim.** |  |  |
+| **Direction du vent (à terre)** | **à 9 h. m.** | **à 3 h. s.** |
+| – Force | 4 |  |
+| – Direction | N.N.O |  |
+| – Direction des nuages | N.N.O |  |
+| **Nébulosité** |  |  |
+| – région Ouest (terre) | 10 |  |
+| – id. Est (mer) | 10 |  |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.)** | 30,1 | 40,6 |
+| **Agitation de l'eau** | 2 | 1°t |
+| **Densité de l'eau au bout de la jetée (Kg/cm³)** | 1,027,1 | 1,027,2 |
+| **Température** |  |  |
+| – id. Matin | 21,3 | 21,2 |
+| – id. maxima Matin | 24,1 |  |
+| – id. minima Matin | 12,3 |  |
+| – id. Soir | 24,1 | 18,0 |
+| – id. maxima Soir | 24,1 |  |
+| – id. minima Soir | 18,0 |  |
+```

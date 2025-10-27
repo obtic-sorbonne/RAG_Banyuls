@@ -1,0 +1,33 @@
+# 12 Octobre 1901
+
+|  **Name** | **Prix** | **Valeur**  |
+| --- | --- | --- |
+|  Kauteur Parométrique | 7/7.1 | 7/7.3  |
+|  Direction du vent | 07.00.0 | 07.00.0  |
+|  Force | 1 foot | 11 foot  |
+|  Reg. O. (terre) | 10 | 10  |
+|  Ébulosité | 10 | 10  |
+|  Direction des nuages | 07.00.0 | 07.00.0  |
+|  Flux tombé | 0.009 | 0.008  |
+|  Température de l'air | 15.5 | 15.5  |
+|  Nautique de la mer | 19.9 | 30.3  |
+|  Égitation de l'eau | 17.70 | 17.70  |
+|  Sentele au bout de la jolie | 1087.8 | 1087.8  |
+|  Température de l'eau | 19.5 | 19.4  |
+
+# 20 Octobre 1901
+
+|  **Name** | **Prix** | **Valeur**  |
+| --- | --- | --- |
+|  Kauteur Parométrique | 7/6.7 | 7/6.7  |
+|  Direction du vent | 07.00.0 | 07.00.0  |
+|  Force | 5 foot | 5 foot  |
+|  Reg. O. (terre) | 10 | 10  |
+|  Ébulosité | 10 | 10  |
+|  Direction des nuages | 07.00.0 | 07.00.0  |
+|  Flux tombé | 0.006 | 0.006  |
+|  Température de l'air | 11.9 | 11.9  |
+|  Nautique de la mer | 87.7 | 87.7  |
+|  Égitation de l'eau | 1 foot | 1 foot  |
+|  Sentele au bout de la jolie | 1087.4 | 1087.4  |
+|  Température de l'eau | 16.6 | 16.6  |

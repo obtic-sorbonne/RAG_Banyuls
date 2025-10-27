@@ -1,0 +1,17 @@
+# Date: 8 Août 1901
+
+|   | 9th Mèatin 3rd Soir |  |   |
+| --- | --- | --- | --- |
+|  Hanteur Peurométrique | 705.0 | 705.0 |   |
+|  Direction du vent | N.E. |  |   |
+|  Force | 1 fort |  | 0  |
+|  Ébulosité | Reg. O. (Verné) |  | 0  |
+|  Ébulosité | Reg. E. (mer) |  | 0  |
+|  Direction des nuages |  |  |   |
+|  Pince tombée |  |  |   |
+|  Température de l'air | 21.0 | 20.4 |   |
+|  Hanteur de la mer | 53.0 | 45.4 |   |
+|  Égitation de l'eau | 2 fort |  | 2  |
+|  Densité de l'eau | 1027.1 | 1020.7 |   |
+|  |   |   |   |
+|  Température de l'eau | 21.4 | 21.8 |   |

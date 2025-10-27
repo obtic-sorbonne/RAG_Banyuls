@@ -1,0 +1,28 @@
+|  9. 19 frin - 1903 | Matin | Soir  |
+| --- | --- | --- |
+|  Hauteur Marométrique | 2/2.2 | 2/2.4  |
+|  Direction du vent | Est | P.0  |
+|  Force | 1 faible | 1 faible  |
+|  (Cheg. O. (time) | 2 | 10  |
+|  (Cheg. E. (mur) | 2 | 10  |
+|  Direction des images | P.8 | 1.62/  |
+|  (Cheg. E. (mur) |  | 19.4  |
+|  22.3 | 39.2 | 32.4  |
+|  39.3 | 3 fort | 2  |
+|  1028.4 | 1028.4 | 1028.8  |
+|  1/1.8 | 1/1.8 | 1/1.1  |
+
+|  9. 20 frin - 1903 | Matin | Soir  |
+| --- | --- | --- |
+|  Hauteur Marométrique | 2/2.2 | 251.5  |
+|  Direction du vent | Or.0 | P.0  |
+|  Force | 2 | 1  |
+|  (Cheg. O. (time) | 10 | 10  |
+|  (Cheg. E. (mur) | 10 | 10  |
+|  Direction des images | P.0 | P.0  |
+|  (Cheg. E. (mur) | gredyons.9 | 9.32/  |
+|  (Cheg. E. (mur) | 19.6 | 1/1.2  |
+|  19.6 | 4/1.9 | 1  |
+|  1/1.9 | 1 fort | 1 1/1.1  |
+|  1028.2 | 1028.2 | 1  |
+|  1/1.4 |  |   |

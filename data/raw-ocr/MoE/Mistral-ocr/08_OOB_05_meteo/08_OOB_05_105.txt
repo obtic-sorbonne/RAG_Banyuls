@@ -1,0 +1,14 @@
+|  V. 80 Cloril. 1906. | Mba | Poir  |
+| --- | --- | --- |
+|  Hauteur Marométrique | 2/1.0 | 2/4.2  |
+|  Direction du vent |  | 1/1.1  |
+|  Force |  |   |
+|  Nébulosité (Abs. 0.5 time) | 10 | 10  |
+|  Nébulosité (Abs. 2.5 min.) | 10 | 10  |
+|  Direction des mages |  | Accent  |
+|  Pluie tombée | 18.2 | 1  |
+|  Température de l'air |  |   |
+|  Hauteur de la mer |  | 1  |
+|  Régulation de l'eau |  |   |
+|  Densité au bout de la jetée |  | 1  |
+|  Température de l'eau |  |   |

@@ -1,0 +1,17 @@
+# Date de 23 Août 1900
+
+|  Dossier | 8h m. | 1h m. | 1h m.  |
+| --- | --- | --- | --- |
+|  Hauteur barométrique | 958.5 | 958.6 | 958.6  |
+|  Direction du vent | 0.5.0. | 5.5.2. | 0.5.0.  |
+|  Force | 1 | 4 | 4  |
+|  Nébulosité (Rég. O. (taux)) | 1 | 1 | 9  |
+|  Direction des nuages | 0 | 1 | 8  |
+|  Pluie tombée | 5.0. | 5.0. | 5.0.  |
+|  Température de l'air | 24.3 | 25.9 | 26.9  |
+|  Hauteur de la mer | 0.42 | 0.35 | 0.35  |
+|  Agitation de l'eau | 1 | 2 | 3  |
+|  Densité de l'eau (en bout de la jetée) | 1026.5 | 1026.5 | 1026.5  |
+|  Température de l'eau | 21.9 | 22.4 | 21.8  |
+
+**Observat.** - 4 3h0000 s. à 4h, place. et 10 h.5. orage violent, pluie malé de grêle.

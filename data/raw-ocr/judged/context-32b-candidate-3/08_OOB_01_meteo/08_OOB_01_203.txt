@@ -1,0 +1,18 @@
+# Date - 14 février - 1901
+
+|  | 9e matin | 3e Soir  |
+| --- | --- | --- |
+| **Hauteur Barométrique** | 700,7 | 704,0  |
+| **Direction du vent** | Nord | N.N.E  |
+| **Force** | 4 faible | 4 faible  |
+| **Nébulosité (Reg. 6. (terre))** | 12 | 12  |
+| **Reg. E. (mer)** |  |   |
+| **Direction des nuages** | 1000 | 11  |
+| **Pluie tombée** |  |   |
+| **Température de l'air** | 3,5 | 5,5  |
+| **Hauteur de la mer** | 4,2 | 52,7  |
+| **Agitation de l'eau** | 3 faible | 4  |
+| **Densité de l'eau** | 1028,8 | 1028,8  |
+| **au bout de la jetée** | 1028,8 | 1028,8  |
+| **au large** | 1028,8 | 1028,8  |
+| **Température de l'eau** | 10,2 | 10,3  |

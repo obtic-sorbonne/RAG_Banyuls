@@ -1,0 +1,47 @@
+| **Observations du 1960 6 août** |
+| --- |
+| Nombre de bateaux sortis (pêche à l…) |  |
+| **Température de l’air** |  |
+| maxima depuis la veille… |  |
+| minima id. |  |
+| **Température de l’eau** |  |
+| maxima depuis la veille… |  |
+| minima id. |  |
+| Pluie tombée depuis la veille, en millim… | 11 |
+| Évaporation depuis le 190, en millim… |  |
+| **Avec continuation de la pluie, en millim** |  |
+| **Direction du vent (à terre)** | **à 9 h. m.** | **à 3 h. s.** |
+| Force | 2 fort | 1 fort |
+| Direction des nuages | N.N.O. | N.N.O. |
+| **Nébulosité** |  |  |
+| région Ouest (terre)… | 60 | 60 |
+| id. Est (mer)… | 60 | 60 |
+| Hauteur de la mer, en centimètres, au-dessus du zéro… |  |  |
+| Agitation de l’eau… | 1 fort | 2 faible |
+| Densité de l’eau au bout de la jeter… | 1023.9 | 1026.9 |
+| Température id… | 19.3 | 19.3 |
+
+---
+
+| **Observations du 1960 8 août** |
+| --- |
+| Nombre de bateaux sortis (pêche à l…) |  |
+| **Température de l’air** |  |
+| maxima depuis la veille… | 29.3 |
+| minima id. | 19.7 |
+| **Température de l’eau** |  |
+| maxima depuis la veille… |  |
+| minima id. |  |
+| Pluie tombée depuis la veille, en millim… | quelques |
+| Évaporation depuis le 190, en millim… |  |
+| **Avec continuation de la pluie, en millim** |  |
+| **Direction du vent (à terre)** | **à 9 h. m.** | **à 3 h. s.** |
+| Force | 1 | 2 |
+| Direction des nuages | S.O. | S.0. |
+| **Nébulosité** |  |  |
+| région Ouest (terre)… | 60 | 60 |
+| id. Est (mer)… | 60 | 60 |
+| Hauteur de la mer, en centimètres, au-dessus du zéro… | 1 | 1 |
+| Agitation de l’eau… |  |  |
+| Densité de l’eau au bout de la jeteré… | 1026.6 | 1026.6 |
+| Température id… | 20.7 | 20.4 |

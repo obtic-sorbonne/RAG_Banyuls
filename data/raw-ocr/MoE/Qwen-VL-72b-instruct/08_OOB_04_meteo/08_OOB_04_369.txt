@@ -1,0 +1,26 @@
+| Date       | Matin   | Soir   |
+|------------|---------|--------|
+| Hauteur Barométrique | 766,0 | 764,4 |
+| Direction du vent | cr.c.r.o | cr.c.r.o |
+| Force | 2 forts | 3 forts |
+| Nébulosité (Reg. O. (terre)) | 10 | 10 |
+| Direction des nuages (Reg. E. (mer)) | cr.c.r.o | cr.c.r.o |
+| Pluie tombée | quelques g | ""
+| Température de l'air | 19,6 | 22,0 |
+| Hauteur de la mer | 5p.1 | 64,3 |
+| Agitation de l'eau | faible | 1 fort |
+| Densité au bout de la jetée | 1028,4 | 1028,3 |
+| Température de l'eau | 15,4 | 17 |
+| Date       | Matin   | Soir   |
+|------------|---------|--------|
+| Hauteur Barométrique | 766,4 | 764,3 |
+| Direction du vent | cr.8 | cr.c.r.6 |
+| Force | 2 forts | 1 fort |
+| Nébulosité (Reg. O. (terre)) | 6 | 0 |
+| Direction des nuages (Reg. E. (mer)) | cr.c.r.o | cr.c.r.o |
+| Pluie tombée | "" | ""
+| Température de l'air | 17,0 | 22,8 |
+| Hauteur de la mer | 16,8 | 62,7 |
+| Agitation de l'eau | 2 faibles | 2 faibles |
+| Densité au bout de la jetée | 1028,3 | 1028,3 |
+| Température de l'eau | 15,3 | 16,3 |

@@ -1,0 +1,20 @@
+# Date N° 12 Octobre - 1900
+
+|  Item | QR m. | 3h.0  |
+| --- | --- | --- |
+|  Hauteur Barométrique | 251,7 |   |
+|  Direction du vent | N | S.E  |
+|  Force | 3 | 1 faible  |
+|  (Rég. ... D. (ten.) | 1 | 4  |
+|  (Débulacité) |  |   |
+|  Q. |  |   |
+|  Q. |  |   |
+|  Direction des nuages | N | S  |
+|  Plus terrible |  | 19,7  |
+|  Température de l'air | 19,7 | 30,0  |
+|  Hauteur de la mer | 47,9 | 35,5  |
+|  (Agitation) x l'eau | 3 | 4  |
+|  (en bout de la jeté) | 1022,2 | 1021,5  |
+|  Densité |  |   |
+|  (en Range) |  |   |
+|  Température de l'eau | 81,1 | 81,2  |

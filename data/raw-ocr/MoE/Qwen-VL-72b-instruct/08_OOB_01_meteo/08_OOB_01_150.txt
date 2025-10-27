@@ -1,0 +1,16 @@
+| **Dâté - 23 Décembre 1900** |
+| **9H Matin** | **3H Soir** |
+| --- | --- |
+| **Hauteur Barométrique** | **760,8** |  |
+| **Direction du vent** | Ouest |  |
+| **Force** | Faible | 0 |
+| **Nébulosité** |
+| - Reg. O. (cléa) |  |  |
+| - Reg. E. (nué) | 1 |  |
+| **Direction des nuages** | Nord |  |
+| **Pluie tombée** | — |  |
+| **Température de l'air** | **12.7** |  |
+| **Hauteur de la mer** |  |  |
+| - au bout de la jetée | **35.2** | **10.29.2** |
+| - au large | **Densité de l'eau** | **3 faible** |
+| **Température de l'eau** | **15.5** |  |

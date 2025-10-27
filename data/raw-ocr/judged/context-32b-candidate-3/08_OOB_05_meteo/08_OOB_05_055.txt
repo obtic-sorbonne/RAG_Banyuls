@@ -1,0 +1,6 @@
+```
+| **Nombre de jours du bateau** | **Date**          | **Matin**                                                                                   | **Soir**                                                                                 |
+|------------------------------|-------------------|--------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|
+| 15                           | V. 6 Novembre 1905 | Hauteur Barométrique: 752.8<br>Direction du vent: cr.cr.o<br>Force: 1<br>Nébulosité (Registre O - claire): 10<br>Nébulosité (Registre E - mer): 10<br>Direction des nuages: Sud<br>Pluie tombée: 13.62 p<br>Température de l'air: 10.4°<br>Hauteur de la mer: 34.1<br>Agitation de l'eau: 2 T. fort.<br>Densité au bout de la jetée: 1028.0<br>Température de l'eau: 16.4° |                                                                                          |
+| 16                           | V. 7 Novembre 1905 |                                                                                             |                                                                                          |
+```

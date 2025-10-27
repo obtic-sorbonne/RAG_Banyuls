@@ -1,0 +1,17 @@
+# Date 9 février 1902
+
+|  Name | Date  |
+| --- | --- |
+|  Hauteur Panamétique | 3/2, 3  |
+|  Direction du vent | cr. 0  |
+|  Potee | 1 fort  |
+|  Reg. 6. (terre) | 10  |
+|  Nibuloste |   |
+|  Direction des nuages | cr. 0  |
+|  Phrie tombe | goul.  |
+|  Température de l'air | 11, 6  |
+|  Hauteur de la mer | 29, 1  |
+|  Régulation de l'eau | faible  |
+|  Densité de l'eau | 10-38, 8  |
+|  Pan. Range |   |
+|  Température de l'eau | 11, 1  |

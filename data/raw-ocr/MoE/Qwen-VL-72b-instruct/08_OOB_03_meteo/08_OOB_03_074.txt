@@ -1,0 +1,16 @@
+| **Date** | **7 Décembre 1901** |
+|---|---|
+| **9h Matin** | **3h Soir** |
+| **Hauteur Barométrique** | **768.7** |
+| **Direction du Vent** | **N.N.O** |
+| **Force** | **3 fort** |
+| **Nébulosité** | **Reg. O (Clerre)** | **0** |
+| **Reg. E (mar)** | **0** |
+| **Direction des Nuages** | **"** |
+| **Pluie tombée** | **"** |
+| **Température de l'air** | **6.4** |
+| **Hauteur de la mer** | **54.7** |
+| **Agitation de l'eau** | **3 fort** |
+| **Densité de l'eau** | **au bout de la jetée** | **1029.4** |
+| **au large** | |
+| **Température de l'eau** | **13.6** |

@@ -1,0 +1,27 @@
+# V. 2 Septembre 1903
+
+|  Nº | Nom | Date  |
+| --- | --- | --- |
+|  1 | Hauteur Barometrique | 20.0  |
+|  2 | Direction du vent | 20.4  |
+|  3 | Force | 3  |
+|  4 | Négro. O. (nom) | 0  |
+|  5 | Négro. E. (nom) | 0  |
+|  6 | Direction des mages | 2.2  |
+|  7 | Négro. X. (nom) | 0  |
+|  8 | Négro. L'ombre | 2.2  |
+|  9 | Température de l'air | 27.2  |
+|  10 | Hauteur de la mer | 14.2  |
+|  11 | Régulation de l'eau | 1  |
+|  12 | Densité au bout de la jolie | 10.27  |
+|  13 | Température de l'eau | 21.6  |
+|  14 | Négro. O. (nom) | 2.1  |
+|  15 | Négro. X. (nom) | 2.0  |
+|  16 | Direction des mages | 2.2  |
+|  17 | Négro. L'ombre | 2.2  |
+|  18 | Négro. L'ombre | 2.2  |
+|  19 | Température de l'air | 27.6  |
+|  20 | Hauteur de la mer | 10  |
+|  21 | Régulation de l'eau | 1  |
+|  22 | Densité au bout de la jolie | 10.27  |
+|  23 | Température de l'eau | 22.1  |

@@ -1,0 +1,29 @@
+| Date | Matin | Soir |
+|------|-------|------|
+| **V. 8 Août. 1905** |   |   |
+| Hauteur Barométrique | 767.4 | 769.8 |
+| Direction du vent | S.E | S.S.E |
+| Force | is | 2 fort |
+| Nébulosité (Reg. 0 (terre)) | 0 | 0 |
+| Nébulosité (Reg. X (mer)) | 0 | 0 |
+| Direction des nuages | " | " |
+| Pluie tombée | " | " |
+| Température de l'air | 24.° F | 29.8 |
+| Hauteur de la mer | 60.0 | 50.8 |
+| Agitation de l'eau | 1 T. faible | 1 T. fort |
+| Densité au bout de la jetée | 1026.4 | 1029.9 |
+| Température de l'eau | 24.° F | 26.8 |
+
+| **V. 9 Août. 1905** |   |   |
+| Hauteur Barométrique | 767.2 | 766.4 |
+| Direction du vent | cr. E | S.S.E |
+| Force | is | 3 |
+| Nébulosité (Reg. 0 (terre)) | légèrement c | 0 |
+| Nébulosité (Reg. X (mer)) | dégagée entièrement | 0 |
+| Direction des nuages | S.S.E | " |
+| Pluie tombée | " | " |
+| Température de l'air | 24.2 | 46.1 |
+| Hauteur de la mer | 57.4 | 46.1 |
+| Agitation de l'eau | 1 | 3 |
+| Densité au bout de la jetée | 1026./ | 1026./ |
+| Température de l'eau | 24.2 | 22.6 |

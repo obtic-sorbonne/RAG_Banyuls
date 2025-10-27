@@ -1,0 +1,31 @@
+# 9. 9 Juin - 1902
+
+## Matin
+|  **Hauteur Barométrique** | **760,4**  |
+| --- | --- |
+|  Direction du vent | or.0r.0  |
+|  Force | 2  |
+|  **Nébulosité** | **Reg. O. (terre)**  |
+|  | **(Reg. E. (mer))** | **10**  |
+|  Direction des nuages | or.0r.0  |
+|  **Pluie tombée** |  |
+|  **Température de l'air** | **16,2**  |
+|  **Hauteur de la mer** | **15,1**  |
+|  **Agitation de l'eau** | **1 faible**  |
+|  Densité au bout de la jetée | 1027,1  |
+|  **Température de l'eau** | **16,5**  |
+
+## Soir
+|  **Hauteur Barométrique** | **763,0**  |
+| --- | --- |
+|  Direction du vent | or.0r.0  |
+|  Force | 2  |
+|  **Nébulosité** | **Reg. O. (terre)** | **10**  |
+|  | **(Reg. E. (mer))** | **10**  |
+|  Direction des nuages | or.0r.0  |
+|  **Pluie tombée** |  |
+|  **Température de l'air** | **26,6**  |
+|  **Hauteur de la mer** | **45,4**  |
+|  **Agitation de l'eau** | **1 faible**  |
+|  Densité au bout de la jetée | 1027,2  |
+|  **Température de l'eau** | **16,7**  |

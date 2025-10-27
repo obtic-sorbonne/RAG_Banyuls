@@ -1,0 +1,27 @@
+|  V. 18 Octobie 1908 | Mbatin | Jav  |
+| --- | --- | --- |
+|  Hauteur Pcarométrique | 264.3 | 263.3  |
+|  Direction du vent | a. 0.0 | 0.001  |
+|  Force | 8.0 | 8.000  |
+|  Velocitrate | 1 | 1  |
+|  (Aus. 2 (mw) |  |   |
+|  Direction des mass | 1001 | 1  |
+|  Flux Tombe |  | 1  |
+|  Température de l'air |  | 1  |
+|  Hauteur de la mer | 40.9 | 44.8  |
+|  Oeitation de l'eau | 3.0 | 3.000  |
+|  Densité au bout de la pte | 1028.4 | 1028.4  |
+|  Température de l'eau | 18.0 | 18.0  |
+|  V. 19 Octobie 1908 | Mbatin | Jav  |
+|  Hauteur Pcarométrique |  | 263.0  |
+|  Direction du vent |  | 2.8  |
+|  Force |  | 0  |
+|  Velocitrate | (Aus. 2 (mw) |   |
+|  (Aus. 2 (mw) |  |   |
+|  Direction des mass |  |   |
+|  Flux Tombe |  |   |
+|  Température de l'air |  | 42.1  |
+|  Hauteur de la mer |  | 15.000  |
+|  Oeitation de l'eau |  | 15.000  |
+|  Densité au bout de la pte |  | 1028.4  |
+|  Température de l'eau |  | 18.0  |

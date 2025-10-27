@@ -1,0 +1,46 @@
+```
+OBSERVATIONS DU 1900 18 Juillet
+
+Nombre de bateaux sortis (pêche à l'anchovis).
+Température de l'air | maxima depuis la veille. | 14.3
+                     | minima id.              | 17.6
+Température de l'eau | maxima depuis la veille.
+                     | minima id.
+Pluie tombée depuis la veille, en millim. | 0
+Evaporation depuis le 1900, en millim. | 0
+
+| à 9 h. m. | à 3 h. s. |
+|------------|-----------|
+| Direction du vent (à terre) | N.N.O | S.S.E |
+| Force | 2 | faible |
+| Direction des nuages | S.O | S.O |
+| Nébulosité | région Ouest (terre) | 10 | 10 |
+|             | id. Est (mer) | 10 | 10 |
+| Hauteur de la mer, en centimètres, au-dessus du zéro | 43.3 | 56.6 |
+| Agitation de l'eau | 1 | 1 |
+| Densité de l'eau au bout de la jetée | 1.027.4 | 1.026.4 |
+| Température id. | 20.2 | 20.7 |
+
+
+OBSERVATIONS DU 1900 1er Aout
+
+Nombre de bateaux sortis (pêche à l'anchovis). | 80
+Température de l'air | maxima depuis la veille. | 28.7
+                     | minima id.              | 14.8
+Température de l'eau | maxima depuis la veille.
+                     | minima id.
+Pluie tombée depuis la veille, en millim. | 2.0
+Evaporation depuis le 6 Juillet 1900, en millim. | 17.7
+
+| à 9 h. m. | à 3 h. s. |
+|------------|-----------|
+| Direction du vent (à terre) | N | S.S.E |
+| Force | 0 | 2 |
+| Direction des nuages | " | " |
+| Nébulosité | région Ouest (terre) | 2 | 0 |
+|             | id. Est (mer) | 0 | 0 |
+| Hauteur de la mer, en centimètres, au-dessus du zéro | Marée haute | Marée basse |
+| Agitation de l'eau | faible | 1 |
+| Densité de l'eau au bout de la jetée | 1.026.1 | 1.027.2 |
+| Température id. | 20.5 | 22.8 |
+```

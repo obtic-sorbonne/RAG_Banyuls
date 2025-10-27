@@ -1,0 +1,27 @@
+|  9. 19 Janvier - 1907 | Mbatin | Soir  |
+| --- | --- | --- |
+|  Hauteur Maronietrique | 72,3 |   |
+|  Direction du vent | J.O |   |
+|  Force | 10 kgm-10 |   |
+|  Hébulosité | 10 kgm-10 |   |
+|  (Reg. E. (mer) | J.O |   |
+|  Direction des nuages | 6,8 |   |
+|  Flux tombée | 64,4 |   |
+|  Température de l'air | 6,8 |   |
+|  Hauteur de la mer | 6,8 |   |
+|  Oeptation de l'eau | 2 filte |   |
+|  Densité au bout de la jetée | 16,29,1 |   |
+|  Température de l'eau | 11,1 |   |
+|  9. 21 Janvier - 1907 | Mbatin | Soir  |
+|  Hauteur Maronietrique | 72,1 | 72,3  |
+|  Direction du vent | or.00 | or.0  |
+|  Force | 2 | 10  |
+|  Hébulosité | 3 | 10  |
+|  (Reg. E. (mer) | 6 | 10  |
+|  Direction des nuages |  | J.O  |
+|  Flux tombée | 1,8 | 8,0  |
+|  Température de l'air | 73,2 | 66,7  |
+|  Hauteur de la mer | 2 feet | 3  |
+|  Oeptation de l'eau | 2 feet | 3  |
+|  Densité au bout de la jetée | 16,29,7 | 16,29,6  |
+|  Température de l'eau | 11,8 | 11,3  |

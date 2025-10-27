@@ -1,0 +1,31 @@
+```plaintext
+| **Date (Jour/Mois/Année)** | **Matin** | **Soir** |
+|-----------------------------|-----------|----------|
+| 14 Octobre 1901            |           |          |
+| **Hauteur Barométrique**   | 752.2     | 751.4    |
+| **Direction du Vent**      | Ouest     | Sud      |
+| **Force**                  | 1 (faible) | 1 (faible) |
+| **Nébulosité (Reg. 6)**    | 0 (claire) | 0 (claire) |
+| **Direction des nuages**   | 8         | 8        |
+| **Pluie tombée**           | 0.0       | "        |
+| **Température de l'air**   | 6.4       | 9.0      |
+| **Hauteur de la mer**      | 27.0      | 44.7     |
+| **Agitation de l'eau**     | 1 (faible) | 1 (faible) |
+| **Densité au bout de la jetée** | 1029.3    | 1029.2   |
+| **Température de l'eau**   | 13.4      | 13.0     |
+
+| **Date (Jour/Mois/Année)** | **Matin** | **Soir** |
+|-----------------------------|-----------|----------|
+| 16 Octobre 1901            |           |          |
+| **Hauteur Barométrique**   | 754.6     | 752.5    |
+| **Direction du Vent**      | Ouest     | Est      |
+| **Force**                  | 1 (faible) | 1 (faible) |
+| **Nébulosité (Reg. 6)**    | 10 (légère) | 10 (légère) |
+| **Direction des nuages**   | 10        | 10       |
+| **Pluie tombée**           | "         | "        |
+| **Température de l'air**   | 9.6       | 8.2      |
+| **Hauteur de la mer**      | 32.9      | 43.4     |
+| **Agitation de l'eau**     | 1 (faible) | 1 (faible) |
+| **Densité au bout de la jetée** | 1029.3    | 1029.2   |
+| **Température de l'eau**   | 13.2      | 13.3     |
+```

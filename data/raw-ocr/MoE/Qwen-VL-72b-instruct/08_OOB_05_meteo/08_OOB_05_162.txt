@@ -1,0 +1,27 @@
+| V. 17 Octobre - 1906 | Matin | Soir |
+|----------------------|-------|------|
+| Hauteur Barométrique | 769.6 | 764.2 |
+| Direction du Vent    | S. S. E | S. S. E |
+| Force                | 15    | 2 faible |
+| Nébulosité           | Reg. O. (claire) | 0 | 10 légère |
+| Direction des nuages | S. E | S. E |
+| Pluie tombée         | " | " |
+| Température de l'air | 19.6 | 19.7 |
+| Hauteur de la mer    | 40.3 | 38.7 |
+| Agitation de l'eau   | 2 fort | 2 |
+| Densité au bord de la jetée | 1028.1 | 1028.4 |
+| Température de l'eau | 18.8 | 18.7 |
+
+| V. 18 Octobre - 1906 | Matin | Soir |
+|----------------------|-------|------|
+| Hauteur Barométrique | 764.4 | 763.2 |
+| Direction du Vent    | S. O | S. E |
+| Force                | 2 | 3 fort |
+| Nébulosité           | Reg. O. (claire) | 0 | 0 |
+| Direction des nuages | S. O | S. E |
+| Pluie tombée         | " | " |
+| Température de l'air | 17.5 | 19.8 |
+| Hauteur de la mer    | 30.0 | 40.7 |
+| Agitation de l'eau   | 2 faible | 2 |
+| Densité au bord de la jetée | 1028.6 | 1028.6 |
+| Température de l'eau | 18.5 | 18.6 |

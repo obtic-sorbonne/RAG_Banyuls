@@ -1,0 +1,28 @@
+| Date | Matin | Soir |
+|---|---|---|
+| N. 26 Juillet. 1907 | | |
+| Hauteur Barométrique | 764.2 | 764.6 |
+| Direction du Vent | cr.o | cr.c.o |
+| Force | 4 fort | 3 fort |
+| Nébulosité | 60 | 60 |
+| (Reg. 21 cour.) | | |
+| Direction des nuages | cr. 8 | cr.o |
+| Pluie tombée | " | " |
+| Température de l'air | 22.8 | 27.2 |
+| Hauteur de la mer | 73.8 | 67.4 |
+| Agitation de l'eau | 3 | 3 |
+| Densité au bord de la jetée | 1028.2 | 1028.1 |
+| Température de l'eau | 18.9 | 19.0 |
+| N. 27 Juillet. 1907 | | |
+| Hauteur Barométrique | 767.3 | 766.7 |
+| Direction du Vent | cr. N.o | cr.cr. 8 |
+| Force | 2 fort | 1 fort |
+| Nébulosité | 6 légère | 0 |
+| (Reg. a. aire) | | |
+| Direction des nuages | cr. N.o | " |
+| Pluie tombée | " | " |
+| Température de l'air | 23.6 | 28.8 |
+| Hauteur de la mer | 69.8 | 67.8 |
+| Agitation de l'eau | 2 fort | 1 fort |
+| Densité au bord de la jetée | 1027.7 | 1027.1 |
+| Température de l'eau | 20.0 | 21.3 |

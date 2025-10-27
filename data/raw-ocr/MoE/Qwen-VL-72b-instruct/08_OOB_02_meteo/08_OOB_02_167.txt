@@ -1,0 +1,16 @@
+| **Date** | **27 Août 1901** |
+|---|---|
+| **Heure** | **9h Matin** | **3h Soir** |
+| **Haut. Barométrique** | 766.7 | 765.7 |
+| **Direction du vent** | N.N.O | N.N.O |
+| **Force** | 2 T Fort | 2 T Fort |
+| **Nébulosité** | **Reg. Y (Terre)** | **Reg. E (Mer)** |
+|  | 1 | 1 | 0 |
+| **Direction des nuages** | Nord | Ouest |
+| **Pluie tombée** | quelques g. | 11 |
+| **Température de l'air** | 19.6 | 23.0 |
+| **Haut. de la mer** | 64.3 | 51.1 |
+| **Agitation de l'eau** | 1 T Fort | 3 Fort. |
+| **Densité de l'eau** | **au bout de la jetée** | **au Large** | 
+|  | 1027.2 | 1027.5 |
+| **Température de l'eau** | 20.0 | 19.7 |

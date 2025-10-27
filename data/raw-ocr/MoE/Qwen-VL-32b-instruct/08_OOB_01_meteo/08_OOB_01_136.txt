@@ -1,0 +1,17 @@
+# Date. 9 Décembre. 1900.
+
+|  9e Sillatin, 3e Soix |   |
+| --- | --- |
+|  Hauteur Barométrique | 703,5  |
+|  Direction du vent | Ouest  |
+|  Force | 1 faille  |
+|  Tributosité | 0  |
+|  Reg. K. (mw) | 0  |
+|  Direction des nuages | "  |
+|  Pince tombée | "  |
+|  Température de l'air | 10,3  |
+|  Hauteur de la mer | 38,0  |
+|  Agitation de l'eau | 8  |
+|  Densité de l'eau | 1029,8  |
+|  |   |
+|  Température de l'eau | 14,7  |

@@ -1,0 +1,26 @@
+| Date       | Matin | Soir |
+|------------|-------|------|
+| 16 Avril 1907 |       |      |
+| Hauteur Barométrique | 760.6 |      |
+| Direction du Vent | E.V.O |      |
+| Force | 2 |      |
+| Nébulosité | Reg. 0. (clère) |      |
+| Direction des nuages | E.V.O |      |
+| Pluie tombée | quelques g |      |
+| Température de l'air | 12.6 |      |
+| Hauteur de la mer | 32.7 |      |
+| Agitation de l'eau | 1 fort |      |
+| Densité au bout de la jetée | 1028.7 |      |
+| Température de l'eau | 18.1 |      |
+| 17 Avril 1907 |       |      |
+| Hauteur Barométrique | 760.0 | 760.3 |
+| Direction du Vent | E.V.O | E.V.O |
+| Force | 4 | 4 |
+| Nébulosité | Reg. 0. (clère) | 10 |
+| Direction des nuages | E.V.O | Nord |
+| Pluie tombée | quelques g | " |
+| Température de l'air | 13.0 | 14.3 |
+| Hauteur de la mer | 32.2 | 34.2 |
+| Agitation de l'eau | 3 | 3 |
+| Densité au bout de la jetée | 1028.9 | 1028.7 |
+| Température de l'eau | 12.7 | 12.6 |

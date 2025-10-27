@@ -1,0 +1,18 @@
+# Dati: 7. 24. 24. 26. 1900
+
+|  |   |   |
+| --- | --- | --- |
+|  **Hauteur barométrique** | 84,4 m. | 34,1  |
+|  **Direction du vent** | 0.14,0 |   |
+|  **Force** | 5. |   |
+|  **Nébulosité** | Reg. O. (Lima) | 8  |
+|  **Direction des nuages** | 0.5,0 |   |
+|  **Pluie tombée** | 8,7,24 |   |
+|  **Température de l'air** | 20,2 | 22,4  |
+|  **Hauteur de la mer** | 0,41 |   |
+|  **Agitation de l'eau** | 3. |   |
+|  **Densité de l'eau** | (autour de la jetée) | 1026,6  |
+|  **Température de l'eau** | 20,9 | 21,6  |
+|  **Observat.** |  | (au large)  |
+
+**Observat.** — Après Cage d'heure, vent du N.O. Aujourd'hui toute la journée. Le soir, à 84,4 m.

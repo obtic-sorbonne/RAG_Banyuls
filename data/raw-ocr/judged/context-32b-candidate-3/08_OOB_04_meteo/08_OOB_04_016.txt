@@ -1,0 +1,35 @@
+# V. 23 Octobre 1901
+
+|  **Nom** | **Matin** | **Soir**  |
+| --- | --- | --- |
+|  Hauteur Barométrique | 763.8 | 704.2  |
+|  Direction du vent | 0.0 | 0.0  |
+|  Force | 3 | 1 faible  |
+|  Nébulosité | 0 | 0  |
+|  Reg. G. (terre) | 0 | 0  |
+|  Reg. G. (mer) | 0 | 0  |
+|  Direction des nuages | 0.0 | 0.0  |
+|  Pluie tombée | 0.0 | 0.0  |
+|  Température de l'air | 14.3 | 11.9  |
+|  Hauteur de la mer | 44.3 | 31.2  |
+|  Agitation de l'eau | 2 | 1  |
+|  Densité au bout de la jetée | 1027.6 | 1027.6  |
+|  Température de l'eau | 10.9 | 10.9  |
+
+# V. 24 Octobre 1901
+
+|  **Nom** | **Matin** | **Soir**  |
+| --- | --- | --- |
+|  Hauteur Barométrique | 769.9 | 702.8  |
+|  Direction du vent | 0.0 | 0.0  |
+|  Force | 3 faible | 3 faible  |
+|  Nébulosité | 8 | 8  |
+|  Reg. G. (terre) | 8 | 8  |
+|  Reg. G. (mer) | 8 | 8  |
+|  Direction des nuages | 0.0 | 0.0  |
+|  Pluie tombée | 0.0 | 0.0  |
+|  Température de l'air | 14.6 | 11.8  |
+|  Hauteur de la mer | 13.8 | 32.2  |
+|  Agitation de l'eau | 2 | 3  |
+|  Densité au bout de la jetée | 1026.8 | 1026.8  |
+|  Température de l'eau | 16.6 | 16.6  |

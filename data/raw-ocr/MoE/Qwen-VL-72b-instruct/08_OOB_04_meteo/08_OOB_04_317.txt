@@ -1,0 +1,31 @@
+| Date         | Matin     | Soir     |
+|--------------|-----------|----------|
+| 21 Octobre 1903 |  |  |
+| Hauteur Barométrique | 769.7 | 769.8 |
+| Direction du vent | cr. or. o | Nord |
+| Force      | 1/5 | 1/5 |
+| Régime O. (ciel) | 10 | 10 |
+| Nébulosité (ciel) | 10 | 10 |
+| Régime E. (mer) |  | 10 |
+| Direction des nuages | ouest | cr. 8 |
+| Pluie Tombée | 1.87" |  |
+| Température de l'air | 12.0 | 13.0 |
+| Hauteur de la mer | 23.7 | 39.0 |
+| Agitation de l'eau | 1 fort | 1 |
+| Vitesse au bout de la jetée | 1027.5 | 1026.2 |
+| Température de l'eau | 12.1 | 12.3 |
+|  | |  |
+| 22 Octobre 1903 |  |  |
+| Hauteur Barométrique | 769.3 |  |
+| Direction du vent | cr. nord |  |
+| Force      | 1/5 | 1/5 |
+| Régime O. (ciel) | 3 |  |
+| Nébulosité (ciel) | 2 |  |
+| Régime E. (mer) |  | 2 |
+| Direction des nuages |  | cr. 8 |
+| Pluie Tombée |  |  |
+| Température de l'air | 10.0 |  |
+| Hauteur de la mer | 43.2 |  |
+| Agitation de l'eau | 1 fort | 1 fort |
+| Vitesse au bout de la jetée | 1027.5 | 11.8 |
+| Température de l'eau |  |  |

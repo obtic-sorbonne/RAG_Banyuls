@@ -1,0 +1,27 @@
+|  4. 30 Juin - 1904 | Moatin | Soir  |
+| --- | --- | --- |
+|  Hauteur Prarométrique | 763,7 | 763,0  |
+|  Direction du vent | or.ur.0 | or.ur.0  |
+|  Force | 2 | 3  |
+|  (Reg. o. (tare)) | 10 | 10  |
+|  (Reg. o. (mer)) | 10 | 10  |
+|  Direction des mages | or.ur.0 | or.ur.0  |
+|  Mure Tombe | 6,0 | 1,63/  |
+|  Température de l'air | 23,6 | 19,8  |
+|  Hauteur de la mer | 43,0 | 12,8  |
+|  (Agitation de l'eau) | 1 fort | 1 fort  |
+|  Densité au bout de la jetée | 1,026,4 | 1,026,8  |
+|  Température de l'eau | 22,8 | 22,0  |
+|  4. 1er Juillet - 1904 | Moatin | Soir  |
+|  Hauteur Prarométrique | 764,2 | 764,6  |
+|  Direction du vent | or.ur.0 | or.ur.0  |
+|  Force | 3 | 3 fort  |
+|  (Reg. o. (tare)) | 0 | 2  |
+|  (Reg. o. (mer)) | 0 | 0  |
+|  Direction des mages | 4,1 | or.ur.0  |
+|  (Plaie Tombe) | 31,1 | 36,9  |
+|  Température de l'air | 47,1 | 60,0  |
+|  Hauteur de la mer | 3 fort | 17,9  |
+|  (Agitation de l'eau) | 1,637,1 | 1,637,4  |
+|  Densité au bout de la jetée | 1,027,1 | 1,027,4  |
+|  Température de l'eau | 31,3 | 31,1  |

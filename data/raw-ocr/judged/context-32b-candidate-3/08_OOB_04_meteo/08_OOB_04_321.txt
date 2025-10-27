@@ -1,0 +1,31 @@
+```
+|  Y. 29 X 1903 | Matin | Soir  |
+| --- | --- | --- |
+|  Hauteur Barométrique | 760.0 | 760.0  |
+|  Direction du vent | Ouest | Ouest  |
+|  Force | 1 | 1  |
+|  Nébulosité (Reg. O. (terre)) | 10 | 10  |
+|  Nébulosité (Reg. F. (mer)) | 10 | 10  |
+|  Direction des nuages | Ouest | Ouest  |
+|  Pluie tombée | 0 | 0  |
+|  Température de l'air | 6.7 | 8.9  |
+|  Hauteur de la mer | 40.3 | 39.7  |
+|  Agitation de l'eau | 1 | 1  |
+|  Densité au bout de la jetée | 1027.1 | 1027.0  |
+|  Température de l'eau | 11.3 | 11.1  |
+
+|  Y. 30 X 1903 | Matin | Soir  |
+| --- | --- | --- |
+|  Hauteur Barométrique | 746.0 | 761.0  |
+|  Direction du vent | Ouest | Ouest  |
+|  Force | 3 | 3  |
+|  Nébulosité (Reg. O. (terre)) | 10 | 10  |
+|  Nébulosité (Reg. F. (mer)) | 10 | 10  |
+|  Direction des nuages | Ouest | Ouest  |
+|  Pluie tombée | 1.63 | 3.63  |
+|  Température de l'air | 10.9 | 11.0  |
+|  Hauteur de la mer | 31.0 | 3  |
+|  Agitation de l'eau | 4 | 1  |
+|  Densité au bout de la jetée | 1027.0 | 1027.0  |
+|  Température de l'eau | 11.7 | 11.3  |
+```

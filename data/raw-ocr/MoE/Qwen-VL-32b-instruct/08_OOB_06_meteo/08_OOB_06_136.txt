@@ -1,0 +1,7 @@
+| Date | Nombre de bateaux sortis | Température de l'air | Température de l'eau | Pluie tombée depuis la veille (mm) | Évaporation depuis 1900 (mm) | Direction du vent (à 9 h m) | Force vent | Direction des nuages | Nuérosité (Ouest) | Nuérosité (Est) | Hauteur de la mer (cm) | Agitation de l'eau | Densité de l'eau au bout de la jetée | Température |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| 1904-03-29 | 1 | — | — | 2.7 | — | Est | — | Est | 60 | 60 | 8 | — | — | — |
+| 1904-03-30 | 2 | 16.4 (max) | — | 16.9 | — | Nord | 1 (faible) | Nord | 60 | 10 | 12.8 (BR) | 2 (faible) | 1.98 | 11.5 |
+|  |  | 9.3 (min) | — |  | — | S-S-E | 1 (faible) | S-S-E | 10 | 10 | 35.4 (BR) | 1 (faible) | 1.980 | 13.2 |
+
+Note : Les valeurs manquantes sont indiquées par "—". Les températures de l'eau maximales et minimales ne sont pas renseignées dans le document. Les observations relatives à la "Densité de l'eau au bout de la jetée" et "Température" pour le 29 mars sont également vides.

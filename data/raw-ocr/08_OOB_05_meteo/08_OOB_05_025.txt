@@ -1,0 +1,30 @@
+| V. 26 Août -1905 | Matin | Soir |
+|---|---|---|
+| Hauteur Barométrique | 762.4 | 762.8 |
+| Direction du vent | cr.cr.o | Est |
+| Force | is | S |
+| Reg. o- (terre) | 3 | faible |
+| Nébulosité | 2 | p |
+| Reg. n°.(mer) | / | / |
+| Direction des nuages | s.o | s.o |
+| Pluie tombée | " | " |
+| Température de l'air | 23.0 | 29.0 |
+| Hauteur de la mer | 49.9 | 38.6 |
+| Agitation de l'eau | 17.fort | 3 |
+| Densité au bout de la jetée | 1027.7 | 1027.4 |
+| Température de l'eau | 23.8 | 23.8 |
+| V. 28 Août -1905 | Matin | Soir |
+|---|---|---|
+| Hauteur Barométrique | 764.8 | 760.8 |
+| Direction du vent | E.S.E | S.S.E |
+| Force | is | 2 |
+| Reg. ci (terre) | lo | lo |
+| Nébulosité | 4o | 4o |
+| Reg. n°.(mer) | 4o | 4o |
+| Direction des nuages | s.o | o.s.o |
+| Pluie tombée | " | " |
+| Température de l'air | 24.8 | 28.7 |
+| Hauteur de la mer | 16.2 | 16.6 |
+| Agitation de l'eau | 1 | 2 fort |
+| Densité au bout de la jetée | 1027.4 | 1027.7 |
+| Température de l'eau | 24.3 | 24.7 |

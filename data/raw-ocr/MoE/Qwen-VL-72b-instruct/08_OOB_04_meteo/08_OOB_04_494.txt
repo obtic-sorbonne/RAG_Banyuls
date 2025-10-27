@@ -1,0 +1,27 @@
+| V. 6 mai 1905 | Matin | Soir |
+| --- | --- | --- |
+| Hauteur Barométrique | 760,6 | 762,0 |
+| Direction du vent | S.O | N.O |
+| Force | I | I |
+| Nebulosité / Rez G. (terre) | 40 | 40 |
+| Rez L. (mer) | 40 | 40 |
+| Direction des nuages | S.O | N.N.O |
+| Pluie tombée | 8.12/ | quelques g |
+| Température de l'air | 10.6 | 12.9 |
+| Hauteur de la mer | 49.0 | 67.0 |
+| Agitation de l'eau | Faible | Faible |
+| Ventité au bout de la jetée | 1028.6 | 1029.4 |
+| Température de l'eau | 14.8 | 17.0 |
+| V. 8 mai 1905 | Matin | Soir |
+| Hauteur Barométrique | 764.0 | 762.7 |
+| Direction du vent | Nord | S.E |
+| Force | 2 | 1 |
+| Nebulosité / Rez G. (terre) | 40 | 40 |
+| Rez L. (mer) | 40 | 40 |
+| Direction des nuages | N.O.N.O | O.N.O |
+| Pluie tombée | 18.5 | quelques g |
+| Température de l'air | 14.4 | 17.6 |
+| Hauteur de la mer | 48.8 | 49.6 |
+| Agitation de l'eau | Fort | 1 |
+| Ventité au bout de la jetée | 1028.5 | 1028.3 |
+| Température de l'eau | 16.0 | 17.1 |

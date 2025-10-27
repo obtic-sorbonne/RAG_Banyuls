@@ -1,0 +1,37 @@
+# Data: 18 Septembre 1900
+
+|  Nati | Descrip.  |
+| --- | --- |
+|  1. | *Bauten barometrique*  |
+|  2. | *Direction du vent:*  |
+|  3. | *Force*  |
+|  4. | *Niebulande*  |
+|  5. | *Rej. O. (terre)*  |
+|  6. | *Direction des nuages*  |
+|  7. | *Mue tombé*  |
+|  8. | *Température de l'air:*  |
+|  9. | *Nauteur de la mer*  |
+|  10. | *Agitation de l'eau*  |
+|  11. | *Dernit. à l'eau*  |
+|  12. | *Le temps d'emprisonnement de l'eau*  |
+|  13. | *Observat.*  |
+
+*Neuves:* *gha*
+
+*767,1 N.*
+
+*1.*
+
+*0.*
+
+*0.*
+
+*0.*
+
+*85,1.*
+
+*0,55 2*
+
+*1066,5*
+
+*21,4*

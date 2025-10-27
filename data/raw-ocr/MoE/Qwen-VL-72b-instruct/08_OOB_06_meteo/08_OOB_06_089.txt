@@ -1,0 +1,44 @@
+```
+OBSERVATIONS DU 1906 23 9bre
+
+Nombre de bateaux sortis (pêche à l.....................
+Température de l'air { maxima depuis la veille...........10,8
+                     { minima id.........................8,0
+Température de l'eau { maxima depuis la veille...........
+                     { minima id.......................
+Pluie tombée depuis la veille, en millim...............16,0
+Evaporation depuis le 190 , en millim...................
+
+à 9 h. m.    à 3 h. s.
+Direction du vent (à terre)............................S.S.E    S.S.E
+Force...................................................1        1
+Direction des nuages..................................S.S.E    S.S.E
+Nébulosité { région Ouest (terre)......................10      10
+           { id. Est (mer)..............................10      10
+Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.)...39,7  29,6
+Agitation de l'eau....................................2        2
+Densité de l'eau au bout de la jetée...................628,6   628,7
+Température id........................................14,3    14,3
+
+
+OBSERVATIONS DU 1906 24 9bre
+
+Nombre de bateaux sortis (pêche à l.....................
+Température de l'air { maxima depuis la veille...........16,8
+                     { minima id.........................9,3
+Température de l'eau { maxima depuis la veille...........
+                     { minima id.......................
+Pluie tombée depuis la veille, en millim...............2,0
+Evaporation depuis le 190 , en millim...................
+
+à 9 h. m.    à 3 h. s.
+Direction du vent (à terre)............................N.O     N.N.O
+Force...................................................1 fort  1 fort
+Direction des nuages..................................N.N.O   N.N.O
+Nébulosité { région Ouest (terre)......................10      10
+           { id. Est (mer)..............................10      10
+Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.)...46,0  32,3
+Agitation de l'eau....................................1        1 fort
+Densité de l'eau au bout de la jetée...................628,9   628,7
+Température id........................................14,0    14,3
+```

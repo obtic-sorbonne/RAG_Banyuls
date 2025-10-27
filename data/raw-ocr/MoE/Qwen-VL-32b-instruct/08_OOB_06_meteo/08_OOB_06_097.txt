@@ -1,0 +1,45 @@
+| <!-- OBSERVATIONS DU 1960 17 XBR -->
+| **Nombre de bateaux sortis (pêche à l...)** | <!-- Non précisée -->
+| **Température de l'air** | Maxima depuis la veille | <!-- Non précisée -->
+|  | Minima | <!-- Non précisée -->
+| **Température de l'eau** | Maxima depuis la veille | <!-- Non précisée -->
+|  | Minima | <!-- Non précisée -->
+| **Pluie tombée depuis la veille, en millim** | <!-- Non précisée -->
+| **Evaporation depuis le 190, en millim** | <!-- Non précisée -->
+| **Direction du vent (à terre)** | <!-- Non précisée -->
+| **Force** | à 9 h. m. | 0
+|  | à 3 h. s. | <!-- Non précisée -->
+| **Direction des nuages** | Ouest | 10
+|  | Est (mer) | 10
+| **Nébulosité** | région Ouest (terre) | 10
+|  | id. Est (mer) | 10
+| **Hauteur de la mer, en centimètres, au-dessus du zéro** | 1
+| **Agitation de l'eau** | 22/2
+| **Densité de l'eau au bout de la jetée** | 41.9
+| **Température** | 11.9
+
+| <!-- OBSERVATIONS DU 1960 19 XBR -->
+| **Nombre de bateaux sortis (pêche à l...)** | <!-- Non précisée -->
+| **Température de l'air** | Maxima depuis la veille | 16.0
+|  | Minima | 6.4
+| **Température de l'eau** | Maxima depuis la veille | <!-- Non précisée -->
+|  | Minima | <!-- Non précisée -->
+| **Pluie tombée depuis la veille, en millim** | 1.5
+| **Evaporation depuis le 190, en millim** | <!-- Non précisée -->
+| **Direction du vent (à terre)** | <!-- Non précisée -->
+| **Force** | à 9 h. m. | N.N.O
+|  | à 3 h. s. | N.N.O
+| **Direction des nuages** | à 9 h. m. | N.N.O
+|  | à 3 h. s. | N.N.O
+| **Nébulosité** | région Ouest (terre) | à 9 h. m. | 2
+|  |  | à 3 h. s. | 2
+|  | id. Est (mer) | à 9 h. m. | 1
+|  |  | à 3 h. s. | 1
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B.Q.)** | à 9 h. m. | 21.9
+|  | à 3 h. s. | 43.0
+| **Agitation de l'eau** | à 9 h. m. | 3
+|  | à 3 h. s. | 3
+| **Densité de l'eau au bout de la jetée** | à 9 h. m. | 1027.0
+|  | à 3 h. s. | 1027.3
+| **Température** | à 9 h. m. | 11.5
+|  | à 3 h. s. | 11.4

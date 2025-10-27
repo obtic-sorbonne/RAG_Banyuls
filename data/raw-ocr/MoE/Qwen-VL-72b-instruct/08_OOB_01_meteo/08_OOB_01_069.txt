@@ -1,0 +1,17 @@
+| **Date** | 1er Octobre 1900 |
+|---|---|
+| **Heures (h m.)** |  |
+| **Hauteur barométrique** | 765,1 |
+| **Direction du vent** | S. |
+| **Force** | faible |
+| **Nébulosité** | Rég. O. (terre) | 0 |
+|  | Rég. E. (mer) | 0 |
+| **Direction des nuages** |  |
+| **Pluie tombée** |  |
+| **Température de l'air** | 21,8°C |
+| **Hauteur de la mer** | 0,41 |
+| **Agitation de l'eau** | 0 |
+| **Densité de l'eau** | au bord du jetty | 1026,0 |
+|  | au large |  |
+| **Température de l'eau** | 21,4°C |
+| **Observat.** |  |

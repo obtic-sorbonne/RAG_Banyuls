@@ -1,0 +1,45 @@
+| **Observations du 1904, 8 avril** |
+| --- |
+| **Nombre de bateaux sortis (pêche à l’hameçon)** | 9 |
+| **Température de l'air** |  |
+| ⋅ maxima depuis la veille | +10.0 °C |
+| ⋅ minima id. | +6 °C |
+| **Température de l'eau** |  |
+| ⋅ maxima depuis la veille | — |
+| ⋅ minima id. | — |
+| **Pluie tombée depuis la veille, en millim.** | 26.1 mm |
+| **Evaporation depuis le 190**, en millim. | — |
+| **à 9 h. m.** | **à 3 h. s.** |
+| **Direction du vent (à terre)** | NNO | NNO |
+| **Force** | — |  |
+| **Direction des nuages** | — | — |
+| **Nébulosité** |  |  |
+| ⋅ région Ouest (terre) | 10 | 6 |
+| ⋅ id. Est (mer) | 6 | 0 |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.)** | 29.0 cm | — |
+| **Agitation de l'eau** | Très faible | 3 |
+| **Densité de l'eau au bout de la jetée** | 1028.1 |  |
+| **Température id.** | 11.3 °C | — |
+
+| **Observations du 1904, 10 avril** |
+| --- |
+| **Nombre de bateaux sortis (pêche à la traine)** | 38 |
+| **Température de l'air** |  |
+| ⋅ maxima depuis la veille | +10.1 °C |
+| ⋅ minima id. | +7.0 °C |
+| **Température de l'eau** |  |
+| ⋅ maxima depuis la veille | — |
+| ⋅ minima id. | — |
+| **Pluie tombée depuis la veille, en millim.** | 7 mm |
+| **Evaporation depuis le 190**, en millim. | — |
+| **à 9 h. m.** | **à 3 h. s.** |
+| **Direction du vent (à terre)** | NNO | NNO |
+| **Force** | 3 |  |
+| **Direction des nuages** | — | — |
+| **Nébulosité** |  |  |
+| ⋅ région Ouest (terre) | 4 |  |
+| ⋅ id. Est (mer) | 0 | — |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.)** | 24.7 cm | — |
+| **Agitation de l'eau** | Très faible | 2 |
+| **Densité de l'eau au bout de la jetée** | 1027.6 | — |
+| **Température id.** | 10.7 °C | — |

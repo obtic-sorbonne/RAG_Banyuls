@@ -1,0 +1,29 @@
+|  9. 17 x 1903 | Nœation | Soir  |
+| --- | --- | --- |
+|  Hauteur Miarométrique | 7/7.1 | 7/6.4  |
+|  Direction du vent | or.0 | or.0  |
+|  Force | 2 foot | 2  |
+|  (Reg. O. (Vine)) | 10 | 10  |
+|  Nebulosite |  |   |
+|  (Reg. E. (mer)) | 10 | 10  |
+|  Direction des nuages | or.0 | or.0  |
+|  Flux tombé | 11.3/1 | 1.62/1  |
+|  Température de l'air | 10.3 | 10.1  |
+|  Hauteur de la mer | 13.0 | 21.6  |
+|  Régulation de l'eau | 3 foot | 3 foot  |
+|  Densité au bout de la jetée | 1029.1 | 1029.4  |
+|  Température de l'eau | 12.6 | 12.7  |
+|  9. 18 x 1903 | Nœation | Soir  |
+|  Hauteur Miarométrique | 7/7.1 | 7/4.7  |
+|  Direction du vent | Oient | P.8  |
+|  Force | 1/2.6 | 1/2.6  |
+|  (Reg. O. (Vine)) | 10 | 10  |
+|  Nebulosite |  |   |
+|  (Reg. E. (mer)) | 10 | 10  |
+|  Direction des nuages | or. 8 | P.8  |
+|  Flux tombé | 2.82/1 |   |
+|  Température de l'air | 10.2 | 11.7  |
+|  Hauteur de la mer | 17.3 | 29.8  |
+|  Régulation de l'eau | 3 | 3  |
+|  Densité au bout de la jetée | 1029.4 | 1029.1  |
+|  Température de l'eau | 12.6 | 12.3  |

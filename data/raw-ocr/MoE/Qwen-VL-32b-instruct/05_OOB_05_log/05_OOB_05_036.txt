@@ -1,0 +1,28 @@
+```
+№
+
+Sortie du **30** Mai **1901**
+
+Départ de **Banquio** à 5 heures du matin
+pour **le Cap Creux**. Arrivée **7h. 15** matin
+Départ de ________. Arrivée __________ ______d'arriver
+à ______ vers ______ heures du ______
+Arrivée au mouillage **Banjui** à **6h 30** du soir
+
+État du temps: **beau**
+
+Passagers à bord: **Mr. Pruvot**
+
+Objet de la sortie:
+
+Consummation {
+  briquettes de ______ Poids en Kilos
+  huile ______ Total en litres
+}
+
+Dépenses:
+
+Observations: Sortie pour pêcher des poulpes au
+larg du Cap Creux. Nous retenons 3 coquilles
+par **370 mèttre environ**.
+```

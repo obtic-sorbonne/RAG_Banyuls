@@ -1,0 +1,16 @@
+| **Observations météorologiques** | **9h Matin** | **3h Soir** |
+|---|---|---|
+| **Hauteur Barométrique (mm)** | **761.6** | **761.3** |
+| Direction du vent | Container radio | Container radio |
+| Force | 3 | 3 |
+| **Nébulosité** |
+| - Région O. (Clair) | 2 | Légère |
+| - Région E. (mer) | 2 | Légère |
+| **Pluie tombée** | quelques g. | // |
+| **Température de l'air (°C)** | **14.6** | **16.7** |
+| **Hauteur de la mer (cm)** | **41.4** | **33.9** |
+| **Agitation de l'eau** | 1 | 2 (faible) |
+| **Densité de l'eau** |
+| - au bout de la jetée | **1025.7** | **1025.9** |
+| - au large | | |
+| **Température de l'eau (°C)** | **14.1** | **14.3** |

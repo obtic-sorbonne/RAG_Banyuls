@@ -1,0 +1,31 @@
+```plaintext
+|  N. 7. Novembre. 1902 | Obscurité | Soir  |
+| --- | --- | --- |
+|  Hauteur Barométrique | 759.3 | 703.2  |
+|  Direction du vent | or. or. o | or. or. o  |
+|  Force | 2 | 1  |
+|  (F) Rég. O. (terre) | 10 | 10  |
+|  (F) Rég. E. (mer) | 10 | 10  |
+|  Direction des nuages | or. or. o | or. or. o  |
+|  Pluie tombée | 3.750 | quelques. 2  |
+|  Température de l'air | 18.2 | 15.2  |
+|  Hauteur de la mer | 28.8 | 18.2  |
+|  Agitation de l'eau | 2 | 3  |
+|  Densité au bout de la jetée | 1029.1 | 1028.4  |
+|  Température de l'eau | 16.8 | 15.2  |
+
+|  N. 8. Novembre. 1902 | Obscurité | Soir  |
+| --- | --- | --- |
+|  Hauteur Barométrique | 762.5 |   |
+|  Direction du vent | or. or. o |   |
+|  Force | 2 |   |
+|  (F) Rég. O. (terre) | 10 |   |
+|  (F) Rég. E. (mer) | 10 |   |
+|  Direction des nuages | or. or. o |   |
+|  Pluie tombée |  |   |
+|  Température de l'air |  |   |
+|  Hauteur de la mer |  |   |
+|  Agitation de l'eau |  |   |
+|  Densité au bout de la jetée | 1029.1 |   |
+|  Température de l'eau |  |   |
+```

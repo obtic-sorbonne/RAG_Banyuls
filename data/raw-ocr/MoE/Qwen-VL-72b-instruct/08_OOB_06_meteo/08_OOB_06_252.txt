@@ -1,0 +1,45 @@
+| **Observations du 1902 15 Février** |
+| --- |
+| **Nombre de bateaux sortis (pêche à l.)** | 11,4 |
+| **Température de l'air** |  |
+| &nbsp;&nbsp; maxima depuis la veille | 11,4 |
+| &nbsp;&nbsp; minima id. | 8,2 |
+| **Température de l'eau** |  |
+| &nbsp;&nbsp; maxima depuis la veille |  |
+| &nbsp;&nbsp; minima id. |  |
+| **Pluie tombée depuis la veille, en millim.** | 2,29 |
+| **Evaporation depuis le 190, en millim.** |  |
+| **Direction du vent (à terre)** | **à 9 h. m.** | **à 3 h. s.** |
+| &nbsp;&nbsp; Force | 4 | 3 |
+| **Direction des nuages** | **N.N.O.** | **Nord** |
+| **Nébulosité** |  |  |
+| &nbsp;&nbsp; région Ouest (terre) | 2 | 2 |
+| &nbsp;&nbsp; id. Est (mer) | 0 | 1 |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B.Q.)** | 29,3 | 32,0 |
+| **Agitation de l'eau** | 2°/faible | 2°/faible |
+| **Densité de l'eau au bout de la jetée** | 1027,0 | 1027,0 |
+| **Température** | **id.** |  |
+| &nbsp;&nbsp; -15° | Jour/Jour <br> Matin <br> Maxima | <br> Minima | 24,4 | 4,0 |
+| &nbsp;&nbsp; -id. | Loin <br> Maxima <br> Minima |  | 10,4 | 24,4 |
+| **Observations du 1902 16 Février** |
+| --- |
+| **Nombre de bateaux sortis (pêche à l.)** | 14,9 |
+| **Température de l'air** |  |
+| &nbsp;&nbsp; maxima depuis la veille | 14,9 |
+| &nbsp;&nbsp; minima id. | 6,6 |
+| **Température de l'eau** |  |
+| &nbsp;&nbsp; maxima depuis la veille |  |
+| &nbsp;&nbsp; minima id. |  |
+| **Pluie tombée depuis la veille, en millim.** |  |
+| **Evaporation depuis le 190, en millim.** |  |
+| **Direction du vent (à terre)** | **à 9 h. m.** | **à 3 h. s.** |
+| &nbsp;&nbsp; Force | 5 | 6 |
+| **Direction des nuages** |  | **Sud** |
+| **Nébulosité** |  |  |
+| &nbsp;&nbsp; région Ouest (terre) | 10 |  |
+| &nbsp;&nbsp; id. Est (mer) | 60 | 32,9 |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B.Q.)** |  | 9 |
+| **Agitation de l'eau** |  | 2 |
+| **Densité de l'eau au bout de la jetée** | 1027,1 | 11,7 |
+| **Température** | **id.** |  |
+| &nbsp;&nbsp; -15° | Jour/Jour <br> Matin <br> Maxima | <br> Minima | 24,9 | 4,6 |

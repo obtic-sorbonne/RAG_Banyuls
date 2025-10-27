@@ -1,0 +1,32 @@
+| **OBSERVATIONS DU 19** 15 Mai 38 |
+| --- |
+| Nombre de bateaux sortis (pêche à la **Traine**)... | 98 |
+| Température de l’air   { maxima depuis la veille...   { minima id... |  |  |
+| Température de l’eau   { maxima depuis la veille...   { minima id... |  |  |
+| Pluie tombée depuis la veille, en millim... | 1.21 |
+| Evaporation depuis le 11 Mai 1901, en millim... | 12.76 |
+| Direction du vent (à terre)... | à 9 h. m. | à 3 h. s. |
+| Force... | 1 | 3 |
+| Direction des nuages... | S.S.O. | S.S.E. |
+| Nébulosité   { région Ouest (terre)...   { id. Est (mer)... | 10 | 10 |
+| Hauteur de la mer, en centimètres, au-dessus du zéro (BR)... | 26.0 | 31.7 |
+| Agitation de l’eau... | 1T. faible | 1T. faible |
+| Densité de l’eau au bout de la jetée... | 1.028.2 | 1.028.2 |
+| Température id... | 18.0 | 18.0 |
+| id. Balano... |  |  |
+
+| **OBSERVATIONS DU 19** 16 Mai 38 |
+| --- |
+| Nombre de bateaux sortis (pêche à la **Traine**)... | 98 |
+| Température de l’air   { maxima depuis la veille...   { minima id... | 26.3 | 11.9 |
+| Température de l’eau   { maxima depuis la veille...   { minima id... |  |  |
+| Pluie tombée depuis la veille, en millim... | 1.29 |
+| Evaporation depuis le... 1901, en millim... |  |
+| Direction du vent (à terre)... | à 9 h. m. | à 3 h. s. |
+| Force... | 1T. faible | 1 |
+| Direction des nuages... | S.O. | S.S.O. |
+| Nébulosité   { région Ouest (terre)...   { id. Est (mer)... | 10 | 10 |
+| Hauteur de la mer, en centimètres, au-dessus du zéro (BR)... | 12.9 | 29.7 |
+| Agitation de l’eau... | 1 faible | 1 |
+| Densité de l’eau au bout de la jetée... | 1.028.0 | 1.027.2 |
+| Température id... | 19.4 | 19.1 |

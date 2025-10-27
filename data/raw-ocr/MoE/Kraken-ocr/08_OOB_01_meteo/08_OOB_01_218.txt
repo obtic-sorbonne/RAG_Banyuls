@@ -1,0 +1,54 @@
+3d
+7
+Piate -Ve Mars 1901
+fauteur Barometrique
+birection du vent
+Totée 
+2
+3 "
+Rebutosite
+paur vivins
+--
+(Req-X- (mer)
+3
+Demperature de l'air
+1
+D
+LReg-O- (Serre)
+direction des nages
+Thie tombe
+2
+fanteur de la mer
+Agitation de l'eau
+Vensite de l'eau
+6au bout de la Jotée
+2 au Harge
+Cemperature de l'eau
+6
+P. Matin 3f Sou
+715,2
+Mord
+1
+10
+10
+78
+18
+103
+46.1
+1
+Gaible
+3
+2
+
+D
+18
+10
+10
+por
+18
+20,1
+480
+ifort
+4
+11,8
+11,6

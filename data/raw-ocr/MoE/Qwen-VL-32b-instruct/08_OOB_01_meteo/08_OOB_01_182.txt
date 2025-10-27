@@ -1,0 +1,17 @@
+# Date: 24 janvier 1901
+
+|  |   |   |
+| --- | --- | --- |
+|  Hauteur Barométrique | 9" Thalin 3" Soix |   |
+|  Direction du vent | 475,1 | 473,3  |
+|  Bose | Nord | Nord  |
+|  Pieg. U. (livre) | 3 | 3 faille  |
+|  Pilempositif | 10 | 10  |
+|  Pieg. E. (mer) | 10 | 10  |
+|  Direction des nuages | nord | nord  |
+|  Unité tombée | 11 | 11  |
+|  Température de l'air | 10,6 | 10,7  |
+|  Hauteur de la mer | 48,3 | 58,3  |
+|  Tension de l'eau | 2 | 2 fort  |
+|  Sensité de l'eau | 1028,5 | 1028,4  |
+|  Température de l'eau | 11,9 | 12,0  |

@@ -1,0 +1,50 @@
+# 21 Septembre 1907
+
+|  **Nom** | **Nom** | **Prix**  |
+| --- | --- | --- |
+|  Hauteur Ivarometrique | 770,0 | 108,4  |
+|  Direction des Yers | 10,8 | 1,8  |
+|  Force | 1 | 1 fort  |
+|  Mébulonte | 0 | 0  |
+|  (Reg. G. (en)) |  |   |
+|  Direction des mages | 1 | 0  |
+|  (en) |  |   |
+|  20,4 | 24,1 |   |
+|  15,6 | 18,6 |   |
+|  1,8 |  |   |
+|  1037,8 | 1037,0 |   |
+|  31,2 | 32,1 |   |
+
+# 23 Septembre 1907
+
+|  **Nom** | **Nom** | **Prix**  |
+| --- | --- | --- |
+|  Hauteur Ivarometrique | 708,6 | 107,3  |
+|  Direction du Yers | 10,8 | 1,8  |
+|  Force | 1 | 1 faible  |
+|  Mébulonte | 0 | 10  |
+|  (Reg. G. (en)) |  |   |
+|  Direction des mages | 1 | 10  |
+|  (en) |  |   |
+|  21,1 | 24,4 |   |
+|  15,2 | 18,2 |   |
+|  1,8 |  |   |
+|  1037,0 | 1037,0 |   |
+|  30,8 | 31,3 |   |
+
+# 29 Septembre 1907
+
+|  **Nom** | **Nom** | **Prix**  |
+| --- | --- | --- |
+|  Hauteur Ivarometrique | 708,6 | 107,3  |
+|  Direction du Yers | 10,8 | 1,8  |
+|  Force | 1 | 1 faible  |
+|  Mébulonte | 0 | 10  |
+|  (Reg. G. (en)) |  |   |
+|  Direction des mages | 1 | 10  |
+|  (en) |  |   |
+|  21,1 | 24,4 |   |
+|  15,2 | 18,2 |   |
+|  1,8 |  |   |
+|  1037,0 | 1037,0 |   |
+|  30,8 | 31,3 |   |

@@ -1,0 +1,35 @@
+V. 9 Juillet. 1902
+
+|  | Matin | Soir  |
+| --- | --- | --- |
+|  Hauteur Barométrique | 467,6 | 467,6  |
+|  Direction du vent | 30,2 | 30,2  |
+|  Force | 48,3 | 48,3  |
+|  Nébulosité | 0 | 0  |
+|  Reg. O. (terre) |  |  |
+|  Reg. E. (mer) |  |  |
+|  Direction des images |  |  |
+|  Pluie tombée |  |  |
+|  Température de l'air | 20,2 | 27,6  |
+|  Hauteur de la mer | 48,3 | 48,3  |
+|  Agitation de l'eau |  |  |
+|  Densité au bout de la jetée | 1024,4 | 1024,4  |
+|  Température de l'eau | 21,3 | 21,7  |
+
+V. 11 Juillet. 1902
+
+|  | Matin | Soir  |
+| --- | --- | --- |
+|  Hauteur Barométrique | 467,5 | 467,5  |
+|  Direction du vent | or.0.0 | or.0.0  |
+|  Force | 4 | 4  |
+|  Nébulosité | 0 | 0  |
+|  Reg. O. (terre) |  |  |
+|  Reg. E. (mer) |  |  |
+|  Direction des images | or.0.0 | or.0.0  |
+|  Pluie tombée | 21,3 | 21,3  |
+|  Température de l'air | 21,3 | 21,7  |
+|  Hauteur de la mer | 72,7 | 72,7  |
+|  Agitation de l'eau | 3 | 3  |
+|  Densité au bout de la jetée | 1026,6 | 1026,6  |
+|  Température de l'eau | 21,7 | 21,7  |

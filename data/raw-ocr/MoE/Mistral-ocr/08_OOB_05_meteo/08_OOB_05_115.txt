@@ -1,0 +1,27 @@
+|  V. 24 M6ai-1905 | M6atin | Soir  |
+| --- | --- | --- |
+|  Hauteur Noxométrique | 762,8 |   |
+|  Direction du vent | or.or. 8 |   |
+|  Force | 1 |   |
+|  Mébulante | 8 |   |
+|  (Rey. C. (mer) | 8 |   |
+|  Direction des mages | or.01 |   |
+|  Flux tombé | quelques. 3 |   |
+|  Température de l'air | 18,8 |   |
+|  Hauteur de la mer | 37,2 |   |
+|  Agitation de l'eau | 1028,0 |   |
+|  Gemite au bout de la jetée | 1/17 |   |
+|  Température de l'eau | 1/17 |   |
+|  V. 25 M6ai-1905 | M6atin | Soir  |
+|  Hauteur Noxométrique | 758,0 | 767,8  |
+|  Direction du vent | or.01 | or.or.8  |
+|  Force | 2 fort | 2 fort  |
+|  Mébulante | 10 | 10  |
+|  (Rey. C. (mer) | 10 | 10  |
+|  Direction des mages | or.01 | or.0  |
+|  Flux tombé | quelques. 3 |   |
+|  Température de l'air | 18,9 | 32,7  |
+|  Hauteur de la mer | 47,8 | 18,6  |
+|  Agitation de l'eau | 2 faible | 2  |
+|  Gemite au bout de la jetée | 1028,0 | 1027,8  |
+|  Température de l'eau | 16,0 | 16,6  |

@@ -1,0 +1,45 @@
+```
+N°
+
+Sortie du 7 Novembre 1902
+
+Départ de la Nouvelle à 10 heures du matin
+pour Jack
+
+Arrivée à 10:40
+
+Départ de à 4 heures du soir
+pour
+
+Arrivée à heures du
+
+Départ de
+pour
+
+Arrivée au mouillage à Port-Venur à 7 h du
+
+Etat du temps: Vent du Nord
+
+Passagers à bord: Pacault
+
+Objet de la sortie:
+
+Consommation
+{
+    4 boîtes de 10 briquettes de
+    5 huile
+}
+Roids en Kilos: 490
+Total en litres: 5
+
+Dépenses
+
+Observations:
+En relâché depuis le 4 au soir à la
+Nouvelle, nous appareillons à 10 du matin, et nous faisons
+le chalut à 3 miles environ dans le N-E de la Nouvelle.
+Bonne pêche. Crabes, crevettes, coquillages, hydromères, algues, etc.
+en grande quantité.
+Rentrons à Port-Venur à
+7 h du soir pour quitter la nuit.
+```

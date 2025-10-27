@@ -1,0 +1,16 @@
+| **Date**       | **16 mars 1901** |
+|----------------|------------------|
+| **Temps (Matin)** | **Temps (Soir)** |
+| -------------- | ---------------- |
+| **Hauteur Barométrique** | **760,3 mm** | **759,0 mm** |
+| **Direction du vent** | **E.N.E.** | **N.N.E.** |
+| **Force** | **2 (gauche)** | **1** |
+| **Nébulosité** | Reg. O. (mar) | Reg. E. (mar) |
+| ------------ | **Dégr. c. / 2 léger. c.** | **Dégr. c. / 2 léger. c.** |
+| **Direction des nuages** | **Ouest** | **Ouest** |
+| **Pluie tombée** | **"** | **"** |
+| **Température de l'air** | **10.2 °C** | **11.7 °C** |
+| **Hauteur de la mer** | **54.8 m** | **51.4 m** |
+| **Agitation de l'eau (au bout de la jetée)** | **1 (fost)** | **1 (fost)** |
+| **Densité de l'eau (au Large)** | **11.1 g/cm³** | **12.2 g/cm³** |
+| **Température de l'eau** | **non précisée** | **non précisé** |

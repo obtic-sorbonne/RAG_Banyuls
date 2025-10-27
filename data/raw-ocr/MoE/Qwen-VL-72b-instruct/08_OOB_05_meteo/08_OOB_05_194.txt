@@ -1,0 +1,5 @@
+| Date | Matin | Soir |
+|------|-------|------|
+| V. 2 Janvier 1907 | Hauteur Barometrique<br>Direction du Vent<br>Force<br>Vibulonté (Reg. K. (cm))<br>Direction des nuages<br>Pluie tombée<br>Température de l'air<br>Hauteur de la mer<br>Agitation de l'eau<br>Densité au bord de la jetée<br>Température de l'eau | 760.9<br>V. V. O<br>1 fort<br>10<br>S. O<br>""<br>11.6<br>46.2<br>1<br>1028.0<br>11.7 |
+| V. 3 Janvier 1907 | Hauteur Barometrique<br>Direction du Vent<br>Force<br>Vibulonté (Reg. K. (cm))<br>Direction des nuages<br>Pluie tombée<br>Température de l'air<br>Hauteur de la mer<br>Agitation de l'eau<br>Densité au bord de la jetée<br>Température de l'eau | 761.0<br>O. R. O<br>1 T. fort<br>10<br>S. O<br>""<br>10.7<br>38.1<br>1<br>1029.0<br>12.2 |
+|  |  | 761.0<br>O. R. O<br>2 fort<br>10<br>N. O<br>quelques g<br>9.8<br>12.6<br>1 T. fort<br>1029.8<br>12.2 |

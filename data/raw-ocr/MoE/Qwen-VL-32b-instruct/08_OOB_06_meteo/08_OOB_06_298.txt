@@ -1,0 +1,51 @@
+| **OBSERVATIONS DU 1902 1° Aout** |
+| --- |
+| **Nombre de bateaux sortis (pêche à l.)** | 30.4 |
+| **Température de l'air** |  |
+| maxima depuis la veille | 30.8 |
+| minima id. | 16.8 |
+| **Température de l'eau** |  |
+| maxima depuis la veille |  |
+| minima id. |  |
+| **Pluie tombée depuis la veille, en millim.** | 1.2 |
+| **Evaporation depuis le 1902, en millim.** |  |
+| **Direction du vent (à terre)** | 9 h. m. | 3 h. s. |
+| **Force** | 2 fort | 1 fort |
+| **Direction des nuages** |  |
+| **Nébulosité** |  |
+| région Ouest (terre) | 10 | 10 |
+| id. Est (mer) | 10 | 10 |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B.Q.)** | 30.8 | 31.0 |
+| **Agitation de l'eau** | 2 faible | 1 |
+| **Densité de l'eau au bout de la jetée** | 1027.2 | 1027.0 |
+| **Température id.** | 20.6 | 20.7 |
+| - is. Persan **matin** {maxima | 34.5 |
+| minima | 14.4 |
+| - is. Louis **matin** {maxima | 30.0 |
+| minima | 21.0 |
+
+---
+
+| **OBSERVATIONS DU 1902 6 Aout** |
+| --- |
+| **Nombre de bateaux sortis (pêche à l.)** | 24.2 |
+| **Température de l'air** |  |
+| maxima depuis la veille | 24.1 |
+| minima id. | 16.3 |
+| **Température de l'eau** |  |
+| maxima depuis la veille |  |
+| minima id. |  |
+| **Pluie tombée depuis la veille, en millim.** |  |
+| **Evaporation depuis le 1902, en millim.** |  |
+| **Direction du vent (à terre)** | 9 h. m. | 3 h. s. |
+| **Force** | 2 | 17 faible |
+| **Direction des nuages** |  |
+| **Nébulosité** |  |
+| région Ouest (terre) | 10 | 10 |
+| id. Est (mer) | 10 | 10 |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B.Q.)** | 39.1 | 37.0 |
+| **Agitation de l'eau** | 1 forte | 2 |
+| **Densité de l'eau au bout de la jetée** | 1027.9 | 1027.0 |
+| **Température id.** | 20.6 | 20.6 |
+| - is. Persan **matin** {maxima | 27.3 |
+| minima | 14.1 |

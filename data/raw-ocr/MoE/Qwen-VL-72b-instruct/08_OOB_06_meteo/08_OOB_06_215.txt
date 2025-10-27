@@ -1,0 +1,38 @@
+| Date | Observation | 9 h | 3 h |
+|---|---|---|---|
+| **1901-11-02** | Nombre de bateaux sortis (pêche à l.) | 17.2 | - |
+| | Température de l'air | maxima depuis la veille | 17.2 | - |
+| | | minima id. | 11.8 | - |
+| | Température de l'eau | maxima depuis la veille | - | - |
+| | | minima id. | - | - |
+| | Pluie tombée depuis la veille, en millim. | - | - |
+| | Evaporation depuis le 1900, en millim. | - | - |
+| | Direction du vent (à terre) | N.N.O. | E.S.E. |
+| | Force | 1 | 1 |
+| | Direction des nuages | Sud | Sud |
+| | Nébulosité | région Ouest (terre) | 60 | 60 |
+| | | id. Est (mer) | 60 | 60 |
+| | Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.) | 41.5 | 39.2 |
+| | Agitation de l'eau | 1 fort | 1 fort |
+| | Densité de l'eau au bout de la jetée | 1023.9 | 1027.6 |
+| | Température id. | 16.7 | 16.8 |
+| | - is. Terrane Matin | maxima | 24.7 | 28.3 |
+| | | minima | 11.0 | 16.3 |
+| **1901-11-03** | Nombre de bateaux sortis (pêche à l.) | 17.6 | - |
+| | Température de l'air | maxima depuis la veille | 17.6 | - |
+| | | minima id. | 9.4 | - |
+| | Température de l'eau | maxima depuis la veille | - | - |
+| | | minima id. | - | - |
+| | Pluie tombée depuis la veille, en millim. | - | - |
+| | Evaporation depuis le 1900, en millim. | - | - |
+| | Direction du vent (à terre) | S.S.E. | - |
+| | Force | 1 faisant | - |
+| | Direction des nuages | - | - |
+| | Nébulosité | région Ouest (terre) | 0 | - |
+| | | id. Est (mer) | 2 | - |
+| | Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.) | 42.0 | - |
+| | Agitation de l'eau | 1 fort | - |
+| | Densité de l'eau au bout de la jetée | 1028.9 | - |
+| | Température id. | 16.8 | - |
+| | - is. Terrane Matin | maxima | 23.2 | - |
+| | | minima | 6.7 | - |

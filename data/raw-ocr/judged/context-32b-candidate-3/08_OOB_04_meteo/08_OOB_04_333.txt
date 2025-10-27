@@ -1,0 +1,50 @@
+# 19 Janvier - 1904
+
+|  **Matin** | **Soir**  |
+| --- | --- |
+|  Hauteur Barométrique | 784,7  |
+|  Direction du vent | or. or. 0  |
+|  Force | 5  |
+|  Reg. O. (terre) | 10  |
+|  Nébulosité | 10  |
+|  Direction des nuages | or. or. 0  |
+|  Pluie tombée | 9,7  |
+|  Température de l'air | 9,7  |
+|  Hauteur de la mer | 43,0  |
+|  Régulation de l'eau | 3  |
+|  Densité au bout de la jetée | 1089,9  |
+|  Température de l'eau | 11,3  |
+
+# 20 Janvier - 1904
+
+|  **Matin** | **Soir**  |
+| --- | --- |
+|  Hauteur Barométrique | 785,6  |
+|  Direction du vent | or. or. 0  |
+|  Force | 4 faible  |
+|  Reg. O. (terre) | 0  |
+|  Nébulosité | 1  |
+|  Direction des nuages | 0  |
+|  Pluie tombée | 1,1  |
+|  Température de l'air | 1,1  |
+|  Hauteur de la mer | 10,0  |
+|  Régulation de l'eau | 4  |
+|  Densité au bout de la jetée | 1089,8  |
+|  Température de l'eau | 11,8  |
+
+# 21 Janvier - 1904
+
+|  **Matin** | **Soir**  |
+| --- | --- |
+|  Hauteur Barométrique | 258.5 | 252.8  |
+|  Direction du vent | or. 0 | or. 0  |
+|  Force | 3 kgm³ | 10 kgm³  |
+|  (Reg. O. (terre)) |  |   |
+|  (Reg. E. (mer)) | 3 kgm³ | 10 kgm³  |
+|  Direction des nuages | or. 8 | or. 0  |
+|  Pluie tombée | 3.3 | 3.5  |
+|  Température de l'air | 3.3 | 51.5  |
+|  Hauteur de la mer | 12.1 | 4  |
+|  Régulation de l'eau | 1039.1 | 1030.2  |
+|  Densité au bout de la jetée | 10.4 | 10.4  |
+|  Température de l'eau |  |   |

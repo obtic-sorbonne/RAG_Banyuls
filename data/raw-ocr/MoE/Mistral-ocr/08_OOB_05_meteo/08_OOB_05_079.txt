@@ -1,0 +1,27 @@
+|  N. 13 février - 1906 | Mbatin | Soir  |
+| --- | --- | --- |
+|  Hauteur Maronetrique | 2/3,5 |   |
+|  Direction du vent | or.0.0 |   |
+|  Force | 3 fort |   |
+|  Hebutorite | 0 |   |
+|  (Reg. E. (mer) |  |   |
+|  Direction des nuages | or.0.0 |   |
+|  Mise tomboie | guilguing |   |
+|  Remplirative de l'air | 1,2 |   |
+|  Hauteur de la mer |  |   |
+|  Agitation de l'eau |  |   |
+|  Densité au bout de la jetée |  |   |
+|  Remplirative de l'eau |  |   |
+|  1. 14 février - 1906 | Mbatin | Soir  |
+|  Hauteur Maronetrique | 2/2,3 |   |
+|  Direction du vent | or.0.0 |   |
+|  Force | 4 |   |
+|  Hebutorite | 10 |   |
+|  (Reg. E. (mer) |  |   |
+|  Direction des nuages | or.0.0 |   |
+|  Mise tomboie | guilguing |   |
+|  Remplirative de l'air | 2,3 |   |
+|  Hauteur de la mer | 41,4 |   |
+|  Agitation de l'eau | 3 |   |
+|  Densité au bout de la jetée | 1039,1 |   |
+|  Remplirative de l'eau | 13,6 |   |

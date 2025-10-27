@@ -1,0 +1,16 @@
+```plaintext
+|  V. 13 mai - 1905 | Matin | Jour  |
+| --- | --- | --- |
+|  Hauteur Barométrique | 762.1 | 759.8  |
+|  Direction du vent | 8.0 | 8.0  |
+|  Force | 1 | 1  |
+|  Nébulosité | 10 | 10  |
+|  (Reg. a. (mer)) |  |   |
+|  Direction des nuages | 10 | 10  |
+|  Pluie tombée | 0.0 | 0.0  |
+|  Température de l'air | 17.7 | 15.7  |
+|  Hauteur de la mer | 61.0 | 62.7  |
+|  Agitation de l'eau | 1 fort | 1  |
+|  Densité au bout de la jetée | 1028.7 | 1028.0  |
+|  Température de l'eau | 16.0 | 15.8  |
+```

@@ -1,0 +1,18 @@
+# Data 216 Septembre 1900
+
+|  |   |
+| --- | --- |
+|  16 auteure barométrique | 463,0  |
+|  Direction du vent | m. sud.  |
+|  Force | D.  |
+|  Réduite (Rys. 0. (ton)) | 10  |
+|  Réduite (Rys. 2. (ton)) | 9  |
+|  Direction des nuages | N.E.  |
+|  Plein lombi | 37,25  |
+|  Température de l'air | 20,1  |
+|  Hauteur de la mer | 0,31  |
+|  Xylation de l'eau | 2  |
+|  Densité de l'eau (au bout d'1/2) | 1025,6  |
+|  Température de l'eau | 21,2  |
+
+*Observat.* — Plein bas atroisant toute la nuit jusque vers 8 h. à matin. À cause d'un lac à l'air non transparent trouble. La pluie a été très abondante toute la nuit et a continué toute la journée.

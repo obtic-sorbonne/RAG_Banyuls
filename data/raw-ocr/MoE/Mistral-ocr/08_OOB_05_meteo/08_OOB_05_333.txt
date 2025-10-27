@@ -1,0 +1,29 @@
+|  V. 21 x 1907 | Matin | Prix  |
+| --- | --- | --- |
+|  Hauteur Mésométrique | 287.0 | 287.7  |
+|  Direction du vent | 7.0 | 7.0  |
+|  Force | 1 faible | 3 fort  |
+|  (Reg. G. (tene) | 3 | 10  |
+|  Nébulonte | 2 | 10  |
+|  (Reg. K. mm) | 2.5 | 2.5  |
+|  Direction des mages | 12.4 | 12.4  |
+|  Flux tombe | 58.7 | 58.7  |
+|  Température de l'air | 128.8 | 128.8  |
+|  Hauteur de la mer | 128.8 | 128.8  |
+|  Sélection de l'eau | 128.8 | 128.8  |
+|  20 m de la mer de la jetée | 128.8 | 128.8  |
+|  Température de l'eau | 148.8 | 148.8  |
+|  V. 23 x 1907 | Matin | Prix  |
+|  Hauteur Mésométrique | 280.3 | 282.5  |
+|  Direction du vent | 7.0 | 7.8  |
+|  Force | 1 | 1 fort  |
+|  (Reg. G. (tene) | 10 | 10  |
+|  Nébulonte | 10 | 10  |
+|  (Reg. K. (mm) | 10.5 | 10.0  |
+|  Direction des mages | 15.4 | 15.0  |
+|  Flux tombe | 39.1 | 39.1  |
+|  Température de l'air | 15.4 | 15.0  |
+|  Hauteur de la mer | 39.1 | 39.1  |
+|  Sélection de l'eau | 1 | 1 fort  |
+|  20 m de la mer de la jetée | 148.8 | 148.8  |
+|  Température de l'eau | 148.8 | 148.8  |

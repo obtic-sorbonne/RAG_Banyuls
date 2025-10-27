@@ -1,0 +1,16 @@
+# N. 11 x 1903
+
+|  **N. 11 Décembre 1903** | Matin | Soir  |
+| --- | --- | --- |
+|  Hauteur Barométrique | 757.4 | 757.6  |
+|  Direction du vent | Nord | Nord-Ouest  |
+|  Force | 5 | 5  |
+|  Nébulosité (Reg. O. (terre)) | 10 | 10  |
+|  Nébulosité (Reg. F. (mer)) | 10 | 10  |
+|  Direction des nuages | Nord | Nord-Ouest  |
+|  Pluie tombée | 0 | 0  |
+|  Température de l'air | 8.6 | 12.7  |
+|  Hauteur de la mer | 30.8 | 32.4  |
+|  Agitation de l'eau | 1 faible | 1 faible  |
+|  Densité au bout de la jetée | 1029.2 | 1029.2  |
+|  Température de l'eau | 13.6 | 13.6  |

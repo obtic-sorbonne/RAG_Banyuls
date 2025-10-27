@@ -1,0 +1,29 @@
+| **Date**         | **Matin** | **Soir** |
+|------------------|-----------|----------|
+| **Variables**    |           |          |
+| **Hauteur Barométrique (mmHg)** | 770.4 | 768.3 |
+| **Direction du vent** | Ouest |        |
+| **Force** | faible | faible       |
+| **Nébulosité** | 0 (claire)      | légère        |
+| **Reg. 2. (mer)** | légère + légère           | légère             |
+| **Direction des nuages** |       |        |
+| **Pluie Tombée** |       |        |
+| **Température de l'air (°C)** | 12.6 | 14.4 |
+| **Hauteur de la mer (m)** | 42.1 |       |
+| **Agiitation de l'eau** | 3 fort | 3      |
+| **Densité au bout de la jetée (g/cm³)** | 1028.2 | 1028.2 |
+| **Température de l'eau (°C)** | 14.4 | 15.6 |
+| **Date**         | **Matin** | **Soir** |
+| **Variables**    |           |          |
+| **Hauteur Barométrique (mmHg)** | 766.7 | 769.3 |
+| **Direction du vent** | Ouest |        |
+| **Force** | 1/2 faible | faible     |
+| **Nébulosité** | 0 (claire)      | légère        |
+| **Reg. 2. (mer)** | 2 légère      | 1 légère             |
+| **Direction des nuages** |       |        |
+| **Pluie Tombée** |       |        |
+| **Température de l'air (°C)** | 12.4 | 14.3 |
+| **Hauteur de la mer (m)** | 32.0 | 38.0  |
+| **Agiitation de l'eau** | 1 faible | 1 faible |
+| **Densité au bout de la jetée (g/cm³)** | 1028.2 | 1028.2 |
+| **Température de l'eau (°C)** | 15.1 | 15.6 |

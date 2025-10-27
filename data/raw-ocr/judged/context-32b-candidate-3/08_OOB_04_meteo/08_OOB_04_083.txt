@@ -1,0 +1,50 @@
+# 16 Avril 1902
+
+## Matin
+
+|  **Kanteur Barométrique** | **2/9.4**  |
+| --- | --- |
+|  Direction du vent | or. or. o  |
+|  Force | 15  |
+|  **Nébulosité** | **(Reg. O. (verre))** | **10**  |
+|  Direction des nuages | or. or. o  |
+|  Pluie tombée | 4, 12/  |
+|  Température de l'air | 11, 9  |
+|  Hauteur de la mer | 40, 8  |
+|  Égitation de l'eau | 3  |
+|  Densité au bout de la jetée | 1026, 8  |
+|  Température de l'eau | 13, 6  |
+
+# 17 Avril 1902
+
+## Matin
+
+|  **Kanteur Barométrique** | **201, 0**  |
+| --- | --- |
+|  Direction du vent | or. or. o  |
+|  Force | 3  |
+|  **Nébulosité** | **(Reg. O. (verre))** | **2**  |
+|  **Nébulosité** | **(Reg. E. (mer))** | **2**  |
+|  Direction des nuages | or. or. o  |
+|  Pluie tombée | quelques  |
+|  Température de l'air | 14, 6  |
+|  Hauteur de la mer | 41, 4  |
+|  Égitation de l'eau | 1  |
+|  Densité au bout de la jetée | 1026, 7  |
+|  Température de l'eau | 14, 1  |
+
+## Soir
+
+|  **Kanteur Barométrique** | **201, 3**  |
+| --- | --- |
+|  Direction du vent | or. or. o  |
+|  Force | 3  |
+|  **Nébulosité** | **(Reg. O. (verre))** | **2**  |
+|  **Nébulosité** | **(Reg. E. (mer))** | **2**  |
+|  Direction des nuages | or. or. o  |
+|  Pluie tombée | 14, 6  |
+|  Température de l'air | 33, 3  |
+|  Hauteur de la mer | 33, 3  |
+|  Égitation de l'eau | 5 fois  |
+|  Densité au bout de la jetée | 1026, 9  |
+|  Température de l'eau | 14, 3  |

@@ -1,0 +1,33 @@
+## 9. 20 x 1901
+
+|  Name | Prac | Pension  |
+| --- | --- | --- |
+|  Kanteur Praxometrique | 747.2 | 748.0  |
+|  Direction du vent | or. or. 0 | or. or. 0  |
+|  Force | 15 foot | 2  |
+|  Nébulosité | 10 | 10  |
+|  Rég. O. (terre) | 10 | 10  |
+|  Direction des nuages | or. or. 0 | or. or. 0  |
+|  Pluie tombée | 28.02 | 28.02  |
+|  Température de l'air | 6.1 | 6.1  |
+|  Hauteur de la mer | 28.3 | 28.1  |
+|  Agitation de l'eau | 1 | 15 foot  |
+|  Densité au bout de la jetée | 1028.8 | 1028.4  |
+|  Température de l'eau | 12.7 | 12.4  |
+
+## 10. 21 x 1901
+
+|  Name | Prac | Pension  |
+| --- | --- | --- |
+|  Kanteur Praxometrique | 74.3 | 74.0  |
+|  Direction du vent | or. or. 0 | or. or. 0  |
+|  Force | 2 2/3" | 2 2/3"  |
+|  Nébulosité | 10 | 10  |
+|  Rég. O. (terre) | 10 | 10  |
+|  Direction des nuages | or. or. 0 | or. or. 0  |
+|  Pluie tombée | 4.7 | 4.7  |
+|  Température de l'air | 36.0 | 36.0  |
+|  Hauteur de la mer | 2 faible | 2 faible  |
+|  Agitation de l'eau | 1 | 1  |
+|  Densité au bout de la jetée | 1027.8 | 1027.8  |
+|  Température de l'eau | 12.2 | 12.2  |

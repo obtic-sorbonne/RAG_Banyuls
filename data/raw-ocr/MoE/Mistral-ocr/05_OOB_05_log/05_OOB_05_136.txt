@@ -1,0 +1,32 @@
+# Sortie du 
+
+$$
+\begin{aligned}
+& \text { Départ de } \\
+& \text { pour }
+\end{aligned}
+$$
+
+$$
+\begin{aligned}
+& \text { Départ de }
+\end{aligned}
+$$
+
+## 498
+
+## 490
+
+## Etat du temps:
+
+Passagers à bord:
+Objet. de la sortie:
+
+Consommation $\left\{\begin{array}{l}\text { briquettes de } \\ \text { fruits }\end{array}\right.$
+Boids en kilos
+Foilé
+Fotal en litres
+
+Dépenses
+
+Observations:

@@ -1,0 +1,19 @@
+# Data. 3. 15 Septembre 1900.
+
+|  |   |   |
+| --- | --- | --- |
+|  Bauteur barométrique |  | 467, 1  |
+|  Direction du vent: |  |   |
+|  Force |  | 2  |
+|  Réduits |  | 5  |
+|  Direction des nuages |  | 4  |
+|  Diminutés |  | 10  |
+|  Diminutés |  | 10  |
+|  Température de l'air |  | 3.5.2.  |
+|  Diminutés |  | 5.2  |
+|  Diminutés de la mer |  | 21.2  |
+|  Régulation de l'eau |  | 0,740  |
+|  Diminutés de la mer |  | 0,740  |
+|  Température de l'eau |  | 21,4  |
+
+Observat. — a 11 h/7 m. p.p. coup de lumineu. et pleine nébule jusque à 1 heure environ.

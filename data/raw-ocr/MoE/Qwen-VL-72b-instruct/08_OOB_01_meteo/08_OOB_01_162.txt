@@ -1,0 +1,17 @@
+| **Observations météorologiques** | **9H Matin** | **3H Soir** |
+|---|---|---|
+| **Hauteur Barométrique (mmHg)** | 764,2 | 761,9 |
+| **Direction du vent** | Nord | Nord |
+| **Force** | Fort | Faible |
+| **Nébulosité** |  |  |
+| Reg. O (ciel) | 0 | 0 |
+| Reg. E (mer) | 1 | 0 |
+| **Direction des nuages** | Nord | Nord |
+| **Pluie tombée (mm)** | "" | "" |
+| **Température de l'air (°C)** | 6,1 | 7,9 |
+| **Hauteur de la mer (m)** | 34,5 | 46,2 |
+| **Agitation de l'eau** | 6 Fort | 6 Faible |
+| **Densité de l'eau** |  |  |
+| au bout-dehors | 1029,6 |  |
+| au Large |  | 1029,5 |
+| **Température de l'eau (°C)** | 11,7 | 11,3 |

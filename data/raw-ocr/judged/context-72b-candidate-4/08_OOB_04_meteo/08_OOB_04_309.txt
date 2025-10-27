@@ -1,0 +1,28 @@
+```plaintext
+| Date       | Variable                      | Matin    | Soir    |
+|------------|------------------------------|----------|---------|
+| 7.4 Xbre 1903 | Hauteur Barométrique        | 760.4    | 758.3   |
+|            | Direction du vent            | or. 0    | cr. 0   |
+|            | Force                        | 4        | 4 fort  |
+|            | Nébulosité [Reg. O. (terre)] | 10       | 3       |
+|            | [Reg. E. (mer)]              | 10       | 2       |
+|            | Direction des nuages         | or. 8    | cr. 8   |
+|            | Pluie tombée                 |          |         |
+|            | Température de l'air         | 6.2      | 10.4    |
+|            | Hauteur de la mer            | 42.8     | 47.0    |
+|            | Agitation de l'eau           | 3        | 3 fort  |
+|            | Densité au bout de la jetée   | 1029.3   | 1029.3  |
+|            | Température de l'eau         | 13.6     | 13.8    |
+| 7.7 Xbre 1903 | Hauteur Barométrique       | 761.0    | 746.4   |
+|            | Direction du vent            | S.S.O    |         |
+|            | Force                        | 1        | 0       |
+|            | Nébulosité [Reg. O. (terre)] | 10       | 10      |
+|            | [Reg. E. (mer)]              | 10       | 10      |
+|            | Direction des nuages         | Nord     | Nord    |
+|            | Pluie tombée                 | quelques g |         |
+|            | Température de l'air         | 12.0     | 12.8    |
+|            | Hauteur de la mer            | 28.7     | 37.1    |
+|            | Agitation de l'eau           | 1 faible | 1 faible|
+|            | Densité au bout de la jetée   | 1029.3   | 1029.3  |
+|            | Température de l'eau         | 13.4     | 13.1    |
+```

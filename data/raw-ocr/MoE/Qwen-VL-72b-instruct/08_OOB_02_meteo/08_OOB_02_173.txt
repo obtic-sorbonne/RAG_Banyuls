@@ -1,0 +1,15 @@
+| **Date** | **8 Septembre 1901** |
+| --- | --- |
+| **Hauteur Barométrique** | 758.8 | 759.6 |
+| **Direction du vent** | N.N.O | |
+| **Force** | 1 (T. fort) | 0 |
+| **Nébulosité** | Reg. O. (Clére) | 10 | 10 |
+| | Reg. E. (mer) | 10 | 10 |
+| **Direction des nuages** | N.N.O | N.N.O |
+| **Pluie tombée** | | quelques g. |
+| **Température de l'air** | 22.8 | 21.5 |
+| **Hauteur de la mer** | 45.9 | 35.0 |
+| **Agitation de l'eau** | 1 (faible) | 1 |
+| **Densité de l'eau** | au bout de la jetée | 1027.1 | 1027.2 |
+| | au Large | |
+| **Température de l'eau** | 20.8 | 20.7 |

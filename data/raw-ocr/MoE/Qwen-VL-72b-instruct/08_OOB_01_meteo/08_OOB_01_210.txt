@@ -1,0 +1,16 @@
+| **Variable**                      | **9h Matin** | **3h Soir** |
+|----------------------------------|-------------|-------------|
+| Hauteur Barométrique            | 760.8       | 760.6       |
+| Direction du vent              | Nord        | Nord        |
+| Force                           | 2 faible    | 2 faible    |
+| Nébulosité (Reg: O - clair)      | 10          | 10          |
+| Nébulosité (Reg: E - nuageux)   | 10          | 10          |
+| Direction des nuages            | Sud-est     | Sud-est     |
+| Pluie tombée                    | 11          | 11          |
+| Température de l'air (°C)      | 2.2         | 3.3         |
+| Hauteur de la mer (mm)         | 39.3        | 39.4        |
+| Agitation de l'eau              | 3           | 4           |
+| Densité de l'eau (mg/L)        |             |             |
+|   - Au bout de la jetée        |             |             |
+|   - Au large                   |             |             |
+| Température de l'eau (°C)      | 10.8        | 10.7        |

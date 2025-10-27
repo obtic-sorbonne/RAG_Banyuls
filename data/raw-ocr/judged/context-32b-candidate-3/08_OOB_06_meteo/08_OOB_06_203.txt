@@ -1,0 +1,55 @@
+```plaintext
+### OBSERVATIONS DU 1901 20 SEPTEMBRE
+
+| **Nombre de bateaux sortis (pêche à l.)** | 29.4 |
+| **Température de l'air** |  |  |
+| – maxima depuis la veille | 21,4 |  |
+| – minima id. | 18,2 |  |
+| **Température de l'eau** |  |  |
+| – maxima depuis la veille |  |  |
+| – minima id. |  |  |
+| **Pluie tombée depuis la veille, en millim.** |  |  |
+| **Evaporation depuis le 1901, en millim.** |  |  |
+| **Direction du vent (à terre)** | **à 9 h. m.** | **à 3 h. s.** |
+| – Force | 4 | 4 et m. |
+| – Direction | N.N.O |  |
+| – Direction des nuages | N.N.O |  |
+| **Nébulosité** |  |  |
+| – région Ouest (terre) | 10 |  |
+| – id. Est (mer) | 10 | 1 |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.)** | 46,0 | 38,2 |
+| **Agitation de l'eau** | 23/8 | 2 |
+| **Densité de l'eau au bout de la jetée (Kg/cm³)** | 1,027,5 | 1,027,3 |
+| **Température** |  |  |
+| – id. Matin | maxima | 31,2 |
+| – id. minima Matin | 16,7 |
+| – id. Soir | maxima | 27,2 |
+| – id. minima Soir | 18,0 |
+
+### OBSERVATIONS DU 1901 9 OCTOBRE
+
+| **Nombre de bateaux sortis (pêche à l.)** | 22,2 |
+| **Température de l'air** |  |  |
+| – maxima depuis la veille | 29,2 |  |
+| – minima id. | 10,7 |  |
+| **Température de l'eau** |  |  |
+| – maxima depuis la veille |  |  |
+| – minima id. |  |  |
+| **Pluie tombée depuis la veille, en millim.** |  |  |
+| **Evaporation depuis le 1901, en millim.** |  |  |
+| **Direction du vent (à terre)** | **à 9 h. m.** | **à 3 h. s.** |
+| – Force | 6 | 4 et m. |
+| – Direction | N.N.O |  |
+| – Direction des nuages | N.N.O |  |
+| **Nébulosité** |  |  |
+| – région Ouest (terre) | 3 | 2 |
+| – id. Est (mer) | 3 | 3 |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.)** | 50,4 | 36,0 |
+| **Agitation de l'eau** | 3 | 3 petite |
+| **Densité de l'eau au bout de la jetée (Kg/cm³)** | 1,029,0 |  |
+| **Température** |  |  |
+| – id. Matin | maxima | 27,2 |
+| – id. minima Matin | 8,1 |
+| – id. Soir | maxima | 27,1 |
+| – id. minima Soir | 13,7 |
+```

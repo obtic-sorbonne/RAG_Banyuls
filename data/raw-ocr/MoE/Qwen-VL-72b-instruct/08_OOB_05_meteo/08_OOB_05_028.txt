@@ -1,0 +1,28 @@
+|Nombre de pairs de bateaux - 16| V.4 Septembre. 1905 | Matin | Soir |
+|---|---|---|---|
+|| Hauteur Barometrique | 768.8 | 767.0 |
+|| Direction du vent | cr. cr. o | crois |
+|| Force | is | 2 fort | 2 faible |
+|| Nebulosite Reg. a. (terre) | 0 | 0 |
+|| Reg. Ei. (mer) | 0 | 0 |
+|| Direction des nuage | cr. cr. o | crois |
+|| Pluie tombée | " | " |
+|| Temperature de l'air | 24.0 | 30.0 |
+|| Hauteur de la mer | 17.1 | 18.9 |
+|| Agitation de l'eau | 2 fort | 3 faible |
+|| Densité au bout de la jetée | 1027.6 | 1027.8 |
+|| Temperature de l'eau | 22.8 | 23.3 |
+|Nombre de pairs de bateaux - 16| V.5 Septembre. 1905 | Matin | Soir |
+|---|---|---|---|
+|| Hauteur Barometrique | 768.0 | 766.6 |
+|| Direction du vent | S.E | S.S.E |
+|| Force | is | 1 fort-2 |
+|| Nebulosite Reg. a. (terre) | 0 | 0 |
+|| Reg. Ei. (mer) | 0 | 0 |
+|| Direction des nuage | " | " |
+|| Pluie tombée | " | " |
+|| Temperature de l'air | 23.0 | 27.4 |
+|| Hauteur de la mer | 19.0 | 20.1 |
+|| Agitation de l'eau | 2 | 2 faible |
+|| Densité au bout de la jetée | 1027.6 | 1027.5 |
+|| Temperature de l'eau | 22.4 | 23.6 |

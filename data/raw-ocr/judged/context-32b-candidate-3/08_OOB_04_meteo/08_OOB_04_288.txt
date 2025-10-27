@@ -1,0 +1,55 @@
+```
+# 1. 17 Octobre 1903
+
+|  Hauteur Barométrique | Matin | Soir  |
+| --- | --- | --- |
+|  764.8 |  |  |
+|  Direction du vent | ouest-sud | ouest-sud  |
+|  Force | 3 | 3  |
+|  Nebulosite | 10 | 10  |
+|  (Reg. O. (terre)) | 10 | 10  |
+|  (Reg. F. (mer)) | 10 | 10  |
+|  Direction des nuages | nord-est | nord-est  |
+|  Pluie tombée | 0.0 | 0.0  |
+|  Température de l'air | 18.4 | 18.4  |
+|  Hauteur de la mer | 10.7 | 10.7  |
+|  Agitation de l'eau | 1 | 1  |
+|  Densité au bout de la jetée | 1028.6 | 1028.6  |
+|  Température de l'eau | 17.6 | 17.6  |
+
+# 2. 18 Octobre 1903
+
+|  Hauteur Barométrique | Matin | Soir  |
+| --- | --- | --- |
+|  764.8 |  |  |
+|  Direction du vent | nord-ouest | nord-ouest  |
+|  Force | 3 | 3  |
+|  Nebulosite | 10 | 10  |
+|  (Reg. O. (terre)) | 10 | 10  |
+|  (Reg. F. (mer)) | 10 | 10  |
+|  Direction des nuages | sud-est | sud-est  |
+|  Pluie tombée | 0.0 | 0.0  |
+|  Température de l'air | 16.6 | 16.6  |
+|  Hauteur de la mer | 42.6 | 42.6  |
+|  Agitation de l'eau | 1 | 1  |
+|  Densité au bout de la jetée | 1028.6 | 1028.6  |
+|  Température de l'eau | 18.8 | 18.8  |
+
+# 3. 26 Octobre 1903
+
+|  Hauteur Barométrique | Matin | Soir  |
+| --- | --- | --- |
+|  764.8 |  |  |
+|  Direction du vent | nord-est | nord-est  |
+|  Force | 3 | 3  |
+|  Nebulosite | 10 | 10  |
+|  (Reg. O. (terre)) | 10 | 10  |
+|  (Reg. F. (mer)) | 10 | 10  |
+|  Direction des nuages | sud-est | sud-est  |
+|  Pluie tombée | 0.0 | 0.0  |
+|  Température de l'air | 16.6 | 16.6  |
+|  Hauteur de la mer | 42.6 | 42.6  |
+|  Agitation de l'eau | 1 | 1  |
+|  Densité au bout de la jetée | 1028.6 | 1028.6  |
+|  Température de l'eau | 18.8 | 18.8  |
+```

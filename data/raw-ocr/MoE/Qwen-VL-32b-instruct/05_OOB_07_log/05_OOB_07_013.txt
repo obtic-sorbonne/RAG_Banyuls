@@ -1,0 +1,31 @@
+```plaintext
+Sortie du 21 Mai 1909
+Départ de Bampus à 6 heures du Matin.
+  pour Obaluter
+Arrivée à
+Départ de
+  pour
+Arrivée à
+  heures du
+Départ de
+  pour
+Arrivée au mouillage à Bampus à 2ʰ34 du Soir
+
+Etat du temps: Vent du Sud moyen.
+
+Passagers à bord:
+
+Objet de la sortie: pêche pour le travailleurs du 
+                      laboratoire.
+
+Consommation {
+             40 briquettes de 10 Roids en Kilos          400
+             huile                                      Total en litres
+
+Dépenses
+
+Observations: Donné deux coups de Grabut.
+              très bonne pêche.
+```
+```plaintext
+```

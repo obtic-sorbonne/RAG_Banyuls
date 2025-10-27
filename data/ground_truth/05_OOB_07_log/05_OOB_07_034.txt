@@ -1,0 +1,26 @@
+```plaintext
+Campagne de 1909.
+
+Sortie du 19 juillet 1909
+
+Départ de        à heures du
+pour        Arrivée à 
+Départ de        à heures du
+pour        Arrivée à 
+Départ de        à heures du
+pour        Arrivée à 
+Arrivée au mouillage   à h du
+
+État du temps : Matin houle du Nord. à 8ʰ soir calme.
+Passagers à bord : Les mêmes.
+Objet de la sortie : Pêche de nuit à la lumière électrique.
+Consommation
+{ 12 briquettes de 10 poids en kilos 120
+  1 huile Total en litres 1
+
+Dépenses
+
+Observations : Mouillage à la Cale à Mongo. Le matin à 7ʰ nous allons avec les embarcations prendre des trottoirs dans la grotte de la Cale à Mongo. Le soir nous puissons l'eau au puits qui est sur la plage. Nous trouvons une saturation de 3° à la chaudière, nous faisons une extraction  et ramenons la densité à 2°; il doit y avoir une fuite au condensateur.
+Hier au soir nous avons fait la pêche au feu près de la Cale et dans la Cala Mongo.
+Tout a très bien marché. Couchés à bord à minuit.
+```

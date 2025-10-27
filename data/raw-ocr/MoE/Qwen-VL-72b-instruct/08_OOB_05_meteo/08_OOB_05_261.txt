@@ -1,0 +1,29 @@
+| V. 22 Juin 1907 | Matin | Soir |
+|----------------|-------|------|
+| Hauteur Barométrique | 766,4 | 766,6 |
+| Direction du Vent | cr.v.o | S.S.S |
+| Force | 1 fort | 1 fort faible |
+| Reg. c. (Air) | 40 | 40 |
+| Nébulosité | Reg. Xi. (nuis) | 10 | 10 |
+| Direction des nuages | S.O | Ouest |
+| Pluie tombée | quelques | quelques |
+| Température de l'air | 22.6 | 26.0 |
+| Hauteur de la mer | 47.2 | 46.8 |
+| Agitation de l'eau | faible | 1 |
+| Densité au bord de la jetée | 1027,1 | 1027,1 |
+| Température de l'eau | 18.2 | 19.2 |
+
+| V. 24 Juin 1907 | Matin | Soir |
+|----------------|-------|------|
+| Hauteur Barométrique | 770,3 | 768,3 |
+| Direction du Vent | cr.v.o | cr.v.o |
+| Force | 2 | 2 fort |
+| Reg. c. (Clair) | 60 | 60 |
+| Nébulosité | Reg. Xi. (nuis) | 10 légère | 10 |
+| Direction des nuages | cr.v.o | cr.v.o |
+| Pluie tombée | " | " |
+| Température de l'air | 18.7 | 18.7 |
+| Hauteur de la mer | 66.0 | 65.0 |
+| Agitation de l'eau | 1 | 1 fort |
+| Densité au bord de la jetée | 1027,1 | 1027,1 |
+| Température de l'eau | 18.0 | 19.7 |

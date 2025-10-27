@@ -1,0 +1,29 @@
+| Date         | Matin        | Soir        |
+|--------------|--------------|-------------|
+| V. 16 Novembre 1906 | - | - |
+| Hauteur barométrique | 769.0 | 766.7 |
+| Direction du vent | S. O. | er. S. |
+| Force        | 15 | faible |
+| Nébulosité (claire) | 10 | 10 |
+| Nébulosité (nuageux) | 10 | 10 |
+| Répartition des nuages | c.r. 0 | c.r. c.0 |
+| Pluie tombée | 12.7 | 16.3 |
+| Température de l'air | 98.0 | 49.7 |
+| Hauteur de la mer | 1 faible | 1 faible |
+| Agitation de l'eau | 1029.3 | 1029.0 |
+| Densité au bout de la jatte | 16.3 | 16.9 |
+| Température de l'eau | - | - |
+| Date         | Matin        | Soir        |
+| V. 17 Novembre 1906 | - | - |
+| Hauteur barométrique | 767.3 | 764.3 |
+| Direction du vent | S. O. | S. O. |
+| Force        | 15 | 1 fort |
+| Nébulosité (claire) | 10 | 0 |
+| Nébulosité (nuageux) | 10 | 1 |
+| Répartition des nuages | cr. 0 | - |
+| Pluie tombée | 14.8 | 17.8 |
+| Température de l'air | 99.3 | 96.9 |
+| Hauteur de la mer | 1 faible | 1 faible |
+| Agitation de l'eau | 1029.8 | 1028.4 |
+| Densité au bout de la jatte | 16.2 | 17.4 |
+| Température de l'eau | - | - |

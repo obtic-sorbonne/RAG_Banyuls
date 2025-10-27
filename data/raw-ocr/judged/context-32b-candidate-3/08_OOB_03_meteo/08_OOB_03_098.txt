@@ -1,0 +1,17 @@
+# Date 8 Janvier 1902
+
+|  9e Station | 3e Soir  |
+| --- | --- |
+|  Hauteur Barométrique | 775.7  |
+|  Direction du vent | 1  |
+|  Force | 1  |
+|  Nébulosité { Reg. C. (terre) } | 0  |
+|  Nébulosité { Reg. E. (mer) } | 0  |
+|  Direction des nuages | 1  |
+|  Pluie tombée | 16.6  |
+|  Température de l'air | 7.4  |
+|  Hauteur de la mer | 46.6  |
+|  Agitation de l'eau | 1  |
+|  Densité de l'eau { au bout de la jetée } | 1028.8  |
+|  Densité de l'eau { au large } | -  |
+|  Température de l'eau | 11.3  |

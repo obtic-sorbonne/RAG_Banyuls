@@ -1,0 +1,59 @@
+### Observations du 1901 26 Juin
+
+| **Nombre de bateaux sortis (pêche à l**                       |  |
+|-------------------------------------------------------------|---|
+| **Température de l'air**                                      |   |
+| maxima depuis la veille                                      | **21.8** |
+| minima id.                                                   | **13.1** |
+| **Température de l'eau**                                      |   |
+| maxima depuis la veille                                      |        |
+| minima id.                                                   |        |
+| **Pluie tombée depuis la veille, en millim.**                 | **1.0** |
+| **Evaporation depuis le 19 Juin 1901, en millim.**            | **50 / 0** |
+
+| **Direction du vent (à terre)**                              | **à 9 h. m.** | **à 3 h. s.** |
+|-------------------------------------------------------------|---------------|---------------|
+| Force                                                      | **2**         | **fort**      |
+| **Direction des nuages**                                    | **n.n.0**     | **n.n.0**     |
+| **Nébulosité**                                              |               |               |
+| région Ouest (terre)                                        | **40**        | **40**        |
+| id. Est (mer)                                               | **40**        | **40**        |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.)** | **44.7**      | **47.6**      |
+| **Agitation de l'eau**                                      | **1 fort**    | **1 fort**    |
+| **Densité de l'eau au bout de la jetée**                    | **1026.6**    | **1026.6**    |
+| **Température id.**                                         | **18.0**      | **18.0**      |
+| **Matin**                                                   | **maxima 36.1** | **maxima 36.1** |
+|                                                             | **minima 11.8** | **minima 11.8** |
+| **Loin**                                                    | **maxima 18.0** | **maxima 19.3** |
+|                                                             | **minima 20.7** | **minima 20.3** |
+
+---
+
+### Observations du 1901 27 Juin
+
+| **Nombre de bateaux sortis (pêche à l**                       | **Néant** |
+|-------------------------------------------------------------|----------|
+| **Température de l'air**                                      |          |
+| maxima depuis la veille                                      | **20.0** |
+| minima id.                                                   | **13.3** |
+| **Température de l'eau**                                      |          |
+| maxima depuis la veille                                      |          |
+| minima id.                                                   |          |
+| **Pluie tombée depuis la veille, en millim.**                 | **3.37** |
+| **Evaporation depuis le 190 , en millim.**                    |          |
+
+| **Direction du vent (à terre)**                              | **à 9 h. m.** | **à 3 h. s.** |
+|-------------------------------------------------------------|---------------|---------------|
+| Force                                                      | **3**         | **3**         |
+| **Direction des nuages**                                    | **n.n.0**     | **n.n.0**     |
+| **Nébulosité**                                              |               |               |
+| région Ouest (terre)                                        | **30**        | **40**        |
+| id. Est (mer)                                               | **20**        | **40**        |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.)** | **50.0**      | **59.1**      |
+| **Agitation de l'eau**                                      | **2 faible**  | **3**         |
+| **Densité de l'eau au bout de la jetée**                    | **1027.9**    | **1026.9**    |
+| **Température id.**                                         | **17.7**      | **18.0**      |
+| **Matin**                                                   | **maxima 36.0** | **maxima 36.2** |
+|                                                             | **minima 11.9** | **minima**    |
+| **Loin**                                                    | **maxima 19.3** | **maxima**    |
+|                                                             | **minima**     | **minima**    |

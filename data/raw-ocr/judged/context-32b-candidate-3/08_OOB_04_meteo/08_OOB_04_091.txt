@@ -1,0 +1,33 @@
+# 9.16 Mai 1902
+
+## Matin
+|  **Pfandeur Barométrique** | **757.3**  |
+| --- | --- |
+|  Direction du vent | S.E  |
+|  Force | 2  |
+|  Nébulosité | 10  |
+|  **(Reg. O. (terre))** | **10**  |
+|  **(Reg. E. (mer))** | **10**  |
+|  Direction des nuages | S.E  |
+|  Pluie tombée | 10,4  |
+|  Température de l'air | 10,4  |
+|  Hauteur de la mer | 64,3  |
+|  Égitation de l'eau | 1,2  |
+|  Densité au bout de la jetée | 1028,7  |
+|  Température de l'eau | 1,2  |
+
+## Soir
+|  **Pfandeur Barométrique** | **754.5**  |
+| --- | --- |
+|  Direction du vent | S.W  |
+|  Force | 1,5  |
+|  Nébulosité | 10  |
+|  **(Reg. O. (terre))** | **10**  |
+|  **(Reg. E. (mer))** | **10**  |
+|  Direction des nuages | S.E  |
+|  Pluie tombée | 8,5  |
+|  Température de l'air | 8,5  |
+|  Hauteur de la mer | 1,2  |
+|  Égitation de l'eau | 1,2  |
+|  Densité au bout de la jetée | 1028,7  |
+|  Température de l'eau | 1,2  |

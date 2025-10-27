@@ -1,0 +1,51 @@
+| **Observations du 11 juillet 1911** |
+| --- |
+| **Nombre de bateaux sortis** | 38,7 |
+| **Température de l'air** |  |
+| maxima depuis la veille | 38,7 |
+| minima id. | 18,8 |
+| **Température de l'eau** |  |
+| maxima depuis la veille |  |
+| minima id. |  |
+| **Pluie tombée depuis la veille, en millim.** |  |
+| **Evaporation depuis le 9 juillet 1901, en millim.** | 6,27 |
+| **Direction du vent (à terre)** | 6.96 |
+| **Force** | 1 |
+| **Direction des nuages** |  |
+| **Nébulosité** |  |
+| région Ouest (terre) | 10 |
+| id. Est (mer) | 10 |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.)** | 2 |
+| **Agitation de l'eau** | 1026.7 |
+| **Densité de l'eau au bout de la jetée** | 22.2 |
+| **Température** | 48.7 |
+| minima | 16.2 |
+| **iS - Terrane** | 48.7 |
+| **(Maxima)** |  |
+| **(Minima)** | 16.2 |
+
+| **Observations du 12 juillet 1911** |
+| --- |
+| **Nombre de bateaux sortis** | 81 |
+| **Température de l'air** |  |
+| maxima depuis la veille | 39.1 |
+| minima id. | 18.7 |
+| **Température de l'eau** |  |
+| maxima depuis la veille |  |
+| minima id. |  |
+| **Pluie tombée depuis la veille, en millim.** |  |
+| **Evaporation depuis le 9 juillet 1901, en millim.** |  |
+| **Direction du vent (à terre)** | 11.6 |
+| **Force** | 1014 |
+| **Direction des nuages** | 1.8 |
+| **Nébulosité** |  |
+| région Ouest (terre) | 10 |
+| id. Est (mer) | 10 |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.)** |  |
+| **Agitation de l'eau** | 2 |
+| **Densité de l'eau au bout de la jetée** | 1026.0 |
+| **Température** | 21.9 |
+| minima | 18.2 |
+| **iS - Terrane** | 35.4 |
+| **(Maxima)** |  |
+| **(Minima)** | 18.2 |

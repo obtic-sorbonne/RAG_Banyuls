@@ -1,0 +1,28 @@
+| Date            | Matin                | Soir                |
+|-----------------|----------------------|---------------------|
+| 11 Octobre 1903 |                      |                     |
+| H. Barométrique | 742.2 |mm            | 744.3 |mm            |
+| Dir. du vent    | or. o. 0           | er. o. 0           |
+| Force           | 2                   | 2 foibles          |
+| Nuées           | Reg. O (terre)      | 10                 |
+|                 | Reg. E (mer)        | 10                 |
+| Dir. des nuées  |                     | er. o. 0           |
+| Pluie tombée    |                     |                     |
+| Temp. de l'air  | 11.2 |°C            | 12.3 |°C            |
+| Hauteur de la mer | 26.4              | 21.1               |
+| Agitation de l'eau | 1 forte          | 1 forte            |
+| Densité au bout de la jetée | 1030.2 |kg/m³           | 1029.8 |kg/m³           |
+| Temp. de l'eau  | 13.6 |°C            | 13.6 |°C            |
+| 12 Octobre 1903 |                      |                     |
+| H. Barométrique | 743.3 |mm            |                     |
+| Dir. du vent    | 0.8.0              |                     |
+| Force           | 2 faibles           |                     |
+| Nuées           | Reg. O (terre)      | 10                 |
+|                 | Reg. E (mer)        | 10                 |
+| Dir. des nuées  | er. o. 0           |                     |
+| Pluie tombée    | quelques g          |                     |
+| Temp. de l'air  | 8.1 |°C             |                     |
+| Hauteur de la mer | 33.2             |                     |
+| Agitation de l'eau | 1 faible         |                     |
+| Densité au bout de la jetée | 1030.1 |kg/m³           |                     |
+| Temp. de l'eau  | 13.2 |°C            |                     |

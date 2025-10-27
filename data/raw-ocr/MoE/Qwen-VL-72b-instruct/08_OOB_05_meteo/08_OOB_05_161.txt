@@ -1,0 +1,30 @@
+| V. 15 Octobre 1906 | Matin | Soir |
+|-------------------|-------|------|
+| Hauteur Barométrique | 761.2 | 767.2 |
+| Direction du Vent | E.N.E. | E.N.E. |
+| Force | 6 | 6 |
+| Nébulosité | 10 | 10 |
+| Reg. C. (terre) |  |  |
+| Reg. E. (mer) |  |  |
+| Direction des Vents | E.N.E. | E.N.E. |
+| Pluie tombée | 2.8 |  |
+| Température de l'air | 18.7 |  |
+| Hauteur de la mer | 5 |  |
+| Agitation de l'eau | 3 |  |
+| Visibilité au bout de la jetée |  |  |
+| Température de l'eau |  |  |
+| V. 16 Octobre 1906 | Matin | Soir |
+|-------------------|-------|------|
+| Hauteur Barométrique | 761.0 | 762.6 |
+| Direction du Vent | E.N.E. | E.N.E. |
+| Force | 4 | 3 |
+| Nébulosité | 0 | 10 |
+| Reg. C. (terre) |  |  |
+| Reg. E. (mer) | 1 légèrement | 60 |
+| Direction des Vents | E.N.E. | E.N.E. |
+| Pluie tombée | quelques g | 11 |
+| Température de l'air | 14.1 | 19.2 |
+| Hauteur de la mer | 4.3.7 | 4.2.8 |
+| Agitation de l'eau | 3 | 2 fort |
+| Visibilité au bout de la jetée | 1028.4 | 1028.3 |
+| Température de l'eau | 18.4 | 18.3 |

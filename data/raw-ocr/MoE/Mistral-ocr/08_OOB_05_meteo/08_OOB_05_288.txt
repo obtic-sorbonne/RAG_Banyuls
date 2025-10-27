@@ -1,0 +1,28 @@
+|  V. 24 Cours 1907 | Nôtrins | Prix  |
+| --- | --- | --- |
+|  Hauteur Mavornelvique | 787,1 | 788,4  |
+|  Direction du vent | 1005 | 1,8  |
+|  9020 | 1 fort | 1  |
+|  Nôtrins | 10 | 10  |
+|  Nôtrins | 10 | 10  |
+|  Direction des mages | 10 | 10  |
+|  100 | 1,0 | 1,0  |
+|  100 | 24,4 | 28,8  |
+|  100 | 14,0 | 63,0  |
+|  100 | 1 | 1  |
+|  100 | 1027,1 | 1027,8  |
+|  100 | 21,3 | 23,7  |
+
+|  V. 26 Cours 1907 | Nôtrins | Prix  |
+| --- | --- | --- |
+|  Hauteur Mavornelvique | 788,2 | 787,1  |
+|  Direction du vent | 10,8 | 1,8  |
+|  9020 | 1 fort | 2  |
+|  Nôtrins | 10 | 0  |
+|  9020 | 0 | 0  |
+|  Direction des mages | 1 | 1  |
+|  9020 | 23,7 | 23,6  |
+|  100 | 49,7 | 61,0  |
+|  100 | 1 fort | 1 fort  |
+|  100 | 1027,1 | 1027,0  |
+|  100 | 21,7 | 24,8  |

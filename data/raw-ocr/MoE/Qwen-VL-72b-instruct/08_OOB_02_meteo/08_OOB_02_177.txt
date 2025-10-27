@@ -1,0 +1,18 @@
+| 9h Malin | 3h Soir |
+|---|---|
+| **Hauteur Barométrique** | **762.4 mm** | **762.9 mm** |
+| **Direction du vent** | **S.S.E** | **N.N.O** |
+| **Force** | **2 (faible)** | **1 (fort)** |
+| **Nébulosité** | | |
+| Reg. O. (terre) | **10** | **10** |
+| Reg. E. (mer) | **10** | **10** |
+| **Direction des nuages** | **S.S.E** | **N.N.O** |
+| **Pluie tombée** | **2 quelques-unes** | **quelques-uns** |
+| **Température de l'air** | **24.5 °C** | **21.3 °C** |
+| **Hauteur de la mer** | **46.0 cm** | **39.2 cm** |
+| **Agitation de l'eau** | | |
+| au bout de la jetée | **1 (faible)** | **1 (faible)** |
+| au large | **1027.0** | **1026.9** |
+| **Densité de l'eau** | | |
+| au large | | |
+| **Température de l'eau** | **22.3 °C** | **21.7 °C** |

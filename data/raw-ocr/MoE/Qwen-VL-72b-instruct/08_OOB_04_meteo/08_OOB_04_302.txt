@@ -1,0 +1,32 @@
+| Date       | Matin | Soir  |
+|------------|-------|-------|
+| V. 17 Novembre 1903 | -     | -     |
+| Hauteur Barométrique | -     | 798.6 |
+| Direction du Vent    | -     | Sud   |
+| Force                | 19    | -     |
+| Régime O. (Cloue)    | -     | 3 foib |
+| Nébulosité:          | -     | 6     |
+| Régime 2i. (mar)     | -     | 3 higui |
+| Direction des Nuages | -     | N.N.O |
+| Pluie Tombée         | "     | "     |
+| Température de l'Air  | -     | 12.4  |
+| Hauteur de la mer    | -     | 44.3  |
+| Agitation de l'Eau   | -     | 2 foib |
+| Vitesse au bout de la jetée | - | 1028.3 |
+| Température de l'eau | -     | 14.6  |
+
+| V. 18 Novembre 1903 | -     | -     |
+|---------------------|-------|-------|
+| Hauteur Barométrique | 798.6 | 797.7 |
+| Direction du Vent    | Sud   | Sud   |
+| Force                | 3     | 3     |
+| Régime O. (Cloue)    | 10    | 10    |
+| Nébulosité:          | -     | -     |
+| Régime E. (mar)      | 10    | 10    |
+| Direction des Nuages | Sud   | N.O   |
+| Pluie Tombée         | 2 foib | quelques g |
+| Température de l'Air  | 9.4   | 7.3   |
+| Hauteur de la mer    | 42.3  | 46.3  |
+| Agitation de l'Eau   | 2 foib | 3     |
+| Vitesse au bout de la jetée | 1028.6 | 1028.6 |
+| Température de l'eau | 14.4  | 14.3  |

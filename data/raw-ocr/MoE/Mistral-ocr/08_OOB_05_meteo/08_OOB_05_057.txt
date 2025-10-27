@@ -1,0 +1,29 @@
+|  V. 10 Novembre - 1905 | Nºatin | Jón  |
+| --- | --- | --- |
+|  Hauteur Prazumistique | 266,4 | 264,6  |
+|  Direction du vent | or. or. 0 | 1  |
+|  Ploce - is | 1 fort | 0  |
+|  Neburónite (Nes. o. (min) | 1 | 0  |
+|  Ploce - 2 (min) | 1 | 0  |
+|  Direction des mays | or. or. 0 | or. or. 0  |
+|  Flue tombée | 11,1 | 13,0  |
+|  Sempéirature de l'air | 11,1 | 13,0  |
+|  Hauteur de la mer | 43,3 | 46,9  |
+|  Capitation de l'eau | 1 | 1  |
+|  Densité au bout de la jetée | 1028,9 | 1028,6  |
+|  Sempéirature de l'eau | 12,2 | 12,4  |
+
+|  V. 11 Novembre - 1905 | Nºatin | Jón  |
+| --- | --- | --- |
+|  Hauteur Prazumistique | 262,3 | 260,3  |
+|  Direction du vent | J. | or. or. 0  |
+|  Ploce - is | faible | 1 fort  |
+|  Neburónite (Nes. o. (min) | 10 | 10  |
+|  Ploce - 2 (min) | 10 | 10  |
+|  Direction des mays | 10,6 | 11,6  |
+|  Flue tombée | 10,6 | 10,8  |
+|  Sempéirature de l'air | 10,6 | 10,8  |
+|  Hauteur de la mer | 10,1 | 10,8  |
+|  Capitation de l'eau | 1 | 1  |
+|  Densité au bout de la jetée | 1028,6 | 1028,4  |
+|  Sempéirature de l'eau | 12,0 | 12,2  |

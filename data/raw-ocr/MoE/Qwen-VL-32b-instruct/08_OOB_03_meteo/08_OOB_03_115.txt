@@ -1,0 +1,16 @@
+# Date: 29 janvier 1962
+
+|  Name | 2nd M6atin | 3rd Soir  |
+| --- | --- | --- |
+|  Kanteur Barometrique | 7/9.3 | 7/9.4  |
+|  Direction du vent | N.N.O | Onent.  |
+|  Force | faible | 1  |
+|  15 | 10 | 10  |
+|  Mébulosite | Reg.-E. (mer) | 10  |
+|  Direction des nuages | Onent. | N.N.O  |
+|  Mure tombe |  | quelques.  |
+|  Température de l'air | 10.8 | 11.0  |
+|  Kanteur de la mer | 73.1 | 60.2  |
+|  Crétation de l'eau | 1 | 2  |
+|  Sensité de l'eau | 1029.2 | 1028.9  |
+|  Comprendre de l'eau | 12.1 | 15.1  |

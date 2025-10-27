@@ -1,0 +1,20 @@
+# Date: 17. 28 Septembre 1900
+
+|  Item |  | Heavens:  |
+| --- | --- | --- |
+|   |  | 940. 343.  |
+|  Manteur barométrique |  | 760,1 779,0  |
+|  Direction du vent |  | 5. 5.  |
+|  Force |  | 1 1  |
+|  Nebulosité | (Reg. D. (Force)) | 3 3  |
+|  (Reg. E. (Iner)) |  | 3 8  |
+|  Direction des nuages |  | 5. 5.0.  |
+|  Plein tombée |  | 23° 9. 23,5  |
+|  Température de l'air |  | 23° 9. 23,5  |
+|  Manteur de la mer |  | 0,2 0,45  |
+|  Agitation de l'eau |  | 2 1  |
+|  Densité de l'eau | (au large) | 1026,5  |
+|  Température de l'eau |  | 20,5  |
+|  Observat. |  |  |
+
+Frescat.

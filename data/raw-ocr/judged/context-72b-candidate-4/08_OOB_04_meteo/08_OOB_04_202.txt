@@ -1,0 +1,31 @@
+```plaintext
+| **Températures du 31 Mars 1903** |
+|-----------------|
+| **À l'entrée de la baie** |
+| **Profondeur (mètres)** | **Température (°C)** |
+| 50 | 11.6 |
+| 30 | 11.65 |
+| 20 | 11.85 |
+| 10 | 11.9 |
+| Surface | 11.9 |
+
+| **En cours de route à la surface tous les 3 milles** |
+| **Point** | **Température (°C)** |
+| 1<sup>er</sup> | 11.91 |
+| 2<sup>me</sup> | 11.92 |
+| 3<sup>me</sup> | 11.85 |
+| 4<sup>me</sup> | 11.92 |
+| 5<sup>me</sup> | 11 |
+
+| **Au-delà du plateau (Sondages)** |
+| **Profondeur (mètres)** | **Température (°C)** |
+| 200 | 12.3 |
+| 150 | 12.3 |
+| 100 | 12.2 |
+| 75 | 12.13 |
+| 50 | 12.0 |
+| 30 | 11.8 |
+| 20 | 11.8 |
+| 10 | 11.83 |
+| Surface | 11.91 |
+```

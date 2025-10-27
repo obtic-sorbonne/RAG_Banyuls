@@ -1,0 +1,6 @@
+| Date | Heure | Hauteur Barométrique | Direction du vent | Force | Reg. O. (lune) | Nébulosité | Pluie Tombée | Température de l'air | Hauteur de la mer | Agitation de l'eau | Densité au bout de la jetée | Température de l'eau |
+|------|-------|---------------------|------------------|-------|---------------|------------|------------|----------------------|-----------------|-------------------|--------------------------|----------------------|
+| 14/09/1903 | Matin | 761.7 | Ö | 15 | 10 | (Reg. E. (mur)) | 7.0 | 17.3 | 71.6 | léger | 1027.7 | 19.3 |
+| 14/09/1903 | Soir | 764.7 | Ö | Sfort | 10 | (Reg. E. (mur)) | quelque g | 16.7 | 49.7 | 3 léger | 1028.7 | 19.7 |
+| 15/09/1903 | Matin | 766.8 | Ö | 15 | 10 | (Reg. E. (mur)) | " | 17.4 | 71.3 | 2 fort | 1028.7 | 18.8 |
+| 15/09/1903 | Soir | 766.4 | Ö | 3 fort | 10 | (Reg. E. (mur)) | " | 16.9 | 79.2 | 2 fort | 1028.6 | 18.6 |

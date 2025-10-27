@@ -1,0 +1,51 @@
+2
+1
+Date -7 Novembre-1901
+17
+fauteur Barometrique
+Direction du vent
+Porée ~
+""
+Nétntooite
+id
+= Re
+7
+-O. (terre)
+(Reg-A- (mer)
+Dvcection des nages
+Fline tomb
+60
+Temperature de b'air
+fanteur de la mer
+Agitation de l'eau
+6
+Censite de l'eau
+Dst
+".
+13.0
+45.0
+1^t 30
+R
+7
+N.N0
+sobze.C
+1o Lege .l
+Mord
+11
+15.3
+35.6
+et. 3 fort
+" bout de la plée 1026,6
+au Harge
+Temperature de l'eau
+8
+St Aatin
+N.N.0
+fort
+10
+80
+6
+75
+108
+2
+5

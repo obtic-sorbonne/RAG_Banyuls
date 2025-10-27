@@ -1,0 +1,41 @@
+OBSERVATIONS DU 1900 21 Juin
+
+| Nombre de bateaux sortis (pêche à l...) |  |
+| --- | --- |
+| Température de l'air | maxima depuis la veille | 38,4 |
+|  | minima id. | 18,3 |
+| Température de l'eau | maxima depuis la veille |  |
+|  | minima id. |  |
+| Pluie tombée depuis la veille, en millim. | 0 |
+| Evaporation depuis le 1900, en millim. |  |
+|  | à 9 h. m. | à 3 h. s. |
+| Direction du vent (à terre) | E.S.E | E.S.E |
+| Force | 1 | 2 |
+| Direction des nuages | N.N.O |  |
+| Nébulosité | région Ouest (terre) | 3 |
+|  | id. Est (mer) | 3 |
+| Hauteur de la mer, en centimètres, au-dessus du zéro | 37,0 | 42,3 |
+| Agitation de l'eau | 1 Très faible | 1 |
+| Densité de l'eau au bout de la jetée | 1025,7 | 1025,6 |
+| Température id. | 20,8 | 20,7 |
+
+OBSERVATIONS DU 1900 22 Juin
+
+| Nombre de bateaux sortis (pêche à l...) |  |
+| --- | --- |
+| Température de l'air | maxima depuis la veille | 30,6 |
+|  | minima id. | 18,8 |
+| Température de l'eau | maxima depuis la veille |  |
+|  | minima id. |  |
+| Pluie tombée depuis la veille, en millim. | quelques g |
+| Evaporation depuis le 30 Mai 1900, en millim. | 477/100 |
+|  | à 9 h. m. | à 3 h. s. |
+| Direction du vent (à terre) | N.N.O | N.O.E |
+| Force | 2 | 1 Très faible |
+| Direction des nuages | Ouest | O.E |
+| Nébulosité | région Ouest (terre) | 10 |
+|  | id. Est (mer) | 10 |
+| Hauteur de la mer, en centimètres, au-dessus du zéro | 46,3 | 38,6 |
+| Agitation de l'eau | 1 | 1 fort |
+| Densité de l'eau au bout de la jetée | 1027,2 | 1027,0 |
+| Température id. | 18,7 | 18,4 |

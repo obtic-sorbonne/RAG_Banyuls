@@ -1,0 +1,8 @@
+```plaintext
+| **Date**        | **Heure** | **Hauteur Barométrique** | **Direction du vent** | **Force** | **Nébulosité** | **Direction des nuages** | **Pluie tombée** | **Température de l'air** | **Hauteur de la mer** | **Agitation de l'eau** | **Densité au bout de la jetée** | **Température de l'eau** |
+|-----------------|-----------|-------------------------|-----------------------|-----------|----------------|--------------------------|------------------|-------------------------|-----------------------|------------------------|---------------------------|--------------------------|
+| 7 janvier 1902  | Matin     | 773.4                   | cr. or.               | 1         | Reg. O. (terre) 10 légère | Reg. E. (mer) 0         | -                 | 9.8°C                  | 16.6                  | 4                      | 1029.0                   | 10.7                     |
+|                 | Soir      | 773.7                   | cr. or.               | 2         | 0               | 0                       | -                 | 13.2°C                  | 17.2                  | 3                      | 1028.8                   | 11.3                     |
+| 8 janvier 1902  | Matin     | 775.7                   | Ouest                 | 1         | Reg. O. (terre) 10 légère | Reg. E. (mer) 0         | -                 | 7.4°C                  | 46.6                  | 1                      | 1028.8                   | 11.3                     |
+|                 | Soir      | -                       | -                     | 1.7 faible | 0              | 0                       | -                 | -                       | -                     | -                      | -                       | -                        |
+```

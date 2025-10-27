@@ -1,0 +1,33 @@
+| Date           | Matin     | Soir       |
+|----------------|-----------|------------|
+| **V. 25 Septembre 1903** |            |            |
+| Hauteur Barométrique | 772.3 | 771.1     |
+| Direction du vent |          |            |
+| Force          | 0        | 0          |
+| Reg. 6. (Ciear) | 10       | 0          |
+| **Nébulosité** |
+| Reg. X. (mer) | 10       | 0          |
+| Direction des nuages | NW       |            |
+| Pluie tombée |            |            |
+| Température de l'air | 20.6    | 22.4       |
+| Hauteur de la mer | 39.0    | 48.2       |
+| Agitation de l'eau | 1       | Faible     |
+| Vitesse au bout de la jetée | 1027.2 | 1027.3     |
+| Température de l'eau | 18.6    | 20.0       |
+
+| Date           | Matin     | Soir       |
+|----------------|-----------|------------|
+| **V. 26 Septembre 1903** |            |            |
+| Hauteur Barométrique | 771.3 | 769.6     |
+| Direction du vent | S.E     | S.E        |
+| Force          | 0        | Fort       |
+| Reg. 6. (Ciel) | 3        | 4          |
+| **Nébulosité** |
+| Reg. X. (mer) | 2        | 0          |
+| Direction des nuages | S.E     | S.E        |
+| Pluie tombée |            |            |
+| Température de l'air | 19.8    | 5          |
+| Hauteur de la mer | 38.9    | 49.8       |
+| Agitation de l'eau | 2 (faible) | Fort       |
+| Vitesse au bout de la jetée | 1027.2 | 1027.4     |
+| Température de l'eau | 18.7    | 19.7       |

@@ -1,0 +1,40 @@
+# OBSERVATIONS DU 1902 29-Mars 
+
+Nombre de bateaux sortis (pêche à $l$ $\qquad$ ).
+Température de l'air $\left\{\begin{array}{l}\text { maxima depuis la veille. } \\ \text { minima id. }\end{array}\right.$
+Température de l'eau $\left\{\begin{array}{l}\text { maxima depuis la veille. } \\ \text { minima id. }\end{array}\right.$
+Pluie tombée depuis la veille, en millim.
+Evaporation depuis le $\qquad$ 190 , en millim.
+
+|  | à 9 h. m. | à 3 h. s. |
+| :--: | :--: | :--: |
+| Direction du vent (à terre). | 14.14 .0 | 14.14 .0 |
+| Force |  | 4 |
+| Direction des nuages. | 14.14 .0 | 14.0 |
+| Nébulosité $\left\{\begin{array}{l}\text { région Ouest (terre) } \\ \text { id. Est (mer) }\end{array}\right.$ | 3 | 3 |
+| Hauteur de la mer, en centimètres, au-dessus du zéro ( 18.8 . ) | 10.4 | 13.0 |
+| Agitation de l'eau. | 2 | 2 |
+| Densité de l'eau au bout de la jetée. | 10.27 .8 | 10.28 .0 |
+| Température | id. | 13.1 |
+| - it- |  | 14.0 |
+| - it- |  | 14.0 |
+
+## OBSERVATIONS DU 1902 29 Mars
+
+Nombre de bateaux sortis (pêche à $l$ $\qquad$ ).
+Température de l'air $\left\{\begin{array}{l}\text { maxima depuis la veille. } \\ \text { minima id. }\end{array}\right.$
+Température de l'eau $\left\{\begin{array}{l}\text { maxima depuis la veille. } \\ \text { minima id. }\end{array}\right.$
+Pluie tombée depuis la veille, en millim.
+Evaporation depuis le $\qquad$ 190 , en millim.
+
+|  | à 9 h. m. | à 3 h. s. |
+| :--: | :--: | :--: |
+| Direction du vent (à terre). | 14.14 .0 |  |
+| Force | 4 |  |
+| Direction des nuages. | 2.14 |  |
+| Nébulosité $\left\{\begin{array}{l}\text { région Ouest (terre) } \\ \text { id. Est (mer) }\end{array}\right.$ | 10 |  |
+| Hauteur de la mer, en centimètres, au-dessus du zéro. ( 18.8 . ) | 4.8 .8 |  |
+| Agitation de l'eau. | 11.14 |  |
+| Densité de l'eau au bout de la jetée. | 10.28 .0 |  |
+| Température | id. | 13.1 |
+| -it- |  | 11.4 |

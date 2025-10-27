@@ -1,0 +1,33 @@
+# 13 Septembre 1902
+
+|  Nom | Matin | Soir  |
+| --- | --- | --- |
+|  Hauteur Barométrique | 782.3 | 781.4  |
+|  Direction du vent | cr.or.o | cror  |
+|  Force | 2 faible | 3 faible  |
+|  Nébulosité | 0 | 3  |
+|  Rég. E. (mer) | 0 | 1  |
+|  Direction des nuages | cr.or.o | cror  |
+|  Pluie tombée | 2.2/0 | 0  |
+|  Température de l'air | 21.0 | 28.3  |
+|  Hauteur de la mer | 49.4 | 38.8  |
+|  Agitation de l'eau | 2 | 3  |
+|  Densité au bout de la jetée | 1026.4 | 1026.3  |
+|  Température de l'eau | 22.3 | 22.4  |
+
+# 14 Septembre 1902
+
+|  Nom | Matin | Soir  |
+| --- | --- | --- |
+|  Hauteur Barométrique | 784.3 | 1  |
+|  Direction du vent | cr.or.o | 1  |
+|  Force | 15 | 4  |
+|  Nébulosité | 0 | 0  |
+|  Rég. E. (mer) | 0 | 1  |
+|  Direction des nuages | cr.or.o | 1  |
+|  Pluie tombée | 18.4 | 18.4  |
+|  Température de l'air | 18.4 | 18.4  |
+|  Hauteur de la mer | 42.6 | 32.8  |
+|  Agitation de l'eau | 1 faible | 1 faible  |
+|  Densité au bout de la jetée | 1027.4 | 1027.4  |
+|  Température de l'eau | 21.4 | 21.4  |

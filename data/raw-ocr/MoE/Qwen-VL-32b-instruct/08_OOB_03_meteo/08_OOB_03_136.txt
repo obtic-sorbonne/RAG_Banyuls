@@ -1,0 +1,15 @@
+| **Date** | **28 Février 1902** |
+| **Heure** | **09H Matin** | **15H Après-midi** | **21H Soir** |
+| --- | --- | --- | --- |
+| **Hauter Barométrique** | 772.6 | 749.8 | --- |
+| **Direction du vent** | Ouest | Ouest | Ouest |
+| **Force** | 2 faible | 2 fort | --- |
+| **Nébulosité** | Reg. 0 (Clair) | 10 | 10 |
+|  | Reg. E (Mer) | 10 | 10 |
+| **Direction des nuages** | Ouest | Ouest | --- |
+| **Pluie Tombée** | quelques dj | " " | --- |
+| **Température de l'air** | 11,9 | 14,4 | --- |
+| **Hauter de la mer** | 22,4 | 35,3 | --- |
+| **Agitation de l'eau** | 1 | à bout de la jetée | 1 fort |
+| **Densité de l'eau** | 10,28,0 | 10,27,7 | --- |
+| **Température de l'eau** | 10,7 | 11,0 | --- |

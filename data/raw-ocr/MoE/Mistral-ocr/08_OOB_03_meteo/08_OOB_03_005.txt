@@ -1,0 +1,18 @@
+# Date. 21 Septembre. 1901
+
+|  |   |   |
+| --- | --- | --- |
+|  Kauteur Barometrique | 9. "Matin" 3. "Soir" |   |
+|  Direction du vent | 7/2.3 | 7/4.6  |
+|  Force | 15. "Ouest" | 15. "Nom"  |
+|   | 17. "Quille" | 17. "Port"  |
+|  Robulosite | 10 | 10  |
+|   | 10 | 10  |
+|  Direction des nuages | 0.7119 | 0.7119  |
+|  "Quelle Tombe" | 19.4 | 18.2  |
+|  "L'Emperature" de l'air |  |   |
+|  Kauteur de la mer | 28.9 | 23.4  |
+|  Agitation de l'eau | 4 | 4. "Port"  |
+|   | 1027.7 | 1027.6  |
+|  "L'Empreinte" de l'eau |  |   |
+|  "L'Empreinte" de l'eau | 17.9 | 18.4  |

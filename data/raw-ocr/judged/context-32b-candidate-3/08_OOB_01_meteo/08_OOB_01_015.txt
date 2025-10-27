@@ -1,0 +1,18 @@
+Dale: No. 88 Noir 1900
+
+|   |   | Recurr. |   |
+| --- | --- | --- | --- |
+|   |   | 4/5m. | 34.1.  |
+|  Hauteur barométrique |   | 466.8 |   |
+|  Direction du vent |   | N. O. |   |
+|  Force |   | 3 |   |
+|  Nébulosité | (Rég. O. (taux)) | 3 |   |
+|  Nébulosité | (Rég. F. (mm)) | 3 |   |
+|  Direction des nuages |   | 3 |   |
+|  Pluie tombée |   |   |   |
+|  Température de l'air |   | 80.3 |   |
+|  Hauteur de la mer |   | 0.42 |   |
+|  Agitation de l'eau |   | 2 |   |
+|  Densité de l'eau | (au bout de la jetée) | 102.5 |   |
+|  Température de l'eau |   | 27.0 |   |
+|  Absess. |   |   |   |

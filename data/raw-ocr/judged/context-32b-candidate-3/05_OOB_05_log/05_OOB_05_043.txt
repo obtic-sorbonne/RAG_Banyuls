@@ -1,0 +1,25 @@
+```
+N°
+Sortie du 22 juin 1901
+
+Départ de l'Escale à 5 heures du matin
+pour la grotte. Arrivée à
+Départ de à 11 h 12 du matin
+pour Arrivée à
+Départ de à 2 heures du matin
+pour Arrivée au mouillage à Pampus à 3 h 40 du soir
+
+État du temps: Beau
+
+Passagers à bord: M<sup>e</sup> Pruvot, M<sup>e</sup> Motz, Pacault
+
+Objet de la sortie: Recherches d'animaux dans la grotte de Clade
+
+Consommation
+- Briquettes de bois | Poids en Kilos
+- Huile            | Total en litres
+
+Dépenses
+
+Observations:
+```

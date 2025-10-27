@@ -1,0 +1,35 @@
+```markdown
+# 5 DÉCEMBRE 1907
+
+| **Date**         | **Matin** | **Soir** |
+|------------------|----------|----------|
+| **Hauteur barométrique (mmHg)** | 771.0 | 766.2 |
+| **Direction du Vent** | Sud-Est-Sud | cr. O. |
+| **Force** | faible | faible |
+| **Nébulosité (Rég. C. claire)** | 10 | 10 |
+| **Nébulosité (Rég. H. Cl.)** | 10 | 10 |
+| **Direction des nuages** | Sud-Ouest | cr. O. |
+| **Pluie tombée** | quelques g | - |
+| **Température de l'air (°C)** | 13.4 | 14.2 |
+| **Hauteur de la mer (cm)** | 18.4 | 31.1 |
+| **Agitation de l'eau** | 17. fort | 2 |
+| **Densité au bout de la jetée (g/cm³)** | 1027.2 | 1026.8 |
+| **Température de l'eau (°C)** | 14.8 | 14.7 |
+
+# 6 DÉCEMBRE 1907
+
+| **Date**         | **Matin** | **Soir** |
+|------------------|----------|----------|
+| **Hauteur barométrique (mmHg)** | 764.8 | 765.2 |
+| **Direction du Vent** | cr. O. | Ouest |
+| **Force** | faible | fort, un |
+| **Nébulosité (Rég. C. claire)** | 10 | 10 |
+| **Nébulosité (Rég. H. Cl.)** | 10 | 10 |
+| **Direction des nuages** | O. N. O. | cr. O. |
+| **Pluie tombée** | quelques g | quelques g |
+| **Température de l'air (°C)** | 10.2 | 12.6 |
+| **Hauteur de la mer (cm)** | 41.1 | 77.0 |
+| **Agitation de l'eau** | faible | 17. fort |
+| **Densité au bout de la jetée (g/cm³)** | 1027.0 | 1027.4 |
+| **Température de l'eau (°C)** | 14.6 | 14.8 |
+```

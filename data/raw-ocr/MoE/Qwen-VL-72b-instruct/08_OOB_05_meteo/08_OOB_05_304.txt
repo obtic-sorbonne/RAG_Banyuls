@@ -1,0 +1,26 @@
+| V. 8 Octobre - 1907 | Matin | Soir |
+|---|---|---|
+| Hauteur Barométrique | 796,2 | 799,7 |
+| Direction du Vent | S.S.O | S.S.O |
+| Force | 2 faible | 1 |
+| Nébulosité (Deg. C. Aire) | 10 | 10 |
+| Direction des nuages | S.O | S.S.O |
+| Pluie tombée | 10.0 |  |
+| Température de l'air | 28.0 | 21.3 |
+| Hauteur de la mer | 38.0 | 40.6 |
+| Agitation de l'eau | 1 | 1 fort |
+| Vent au haut de la jetée | 4037.6 | 4028.0 |
+| Température de l'eau | 20.4 | 20.4 |
+| V. 9 Octobre - 1907 | Matin | Soir |
+|---|---|---|
+| Hauteur Barométrique | 799.3 | 798.8 |
+| Direction du Vent | S.E.O | S.E.O |
+| Force | 3 | 1 faible |
+| Nébulosité (Deg. C. Aire) | 10 | 10 |
+| Direction des nuages | S.O | S.O |
+| Pluie tombée | 9.62 | 2.0 |
+| Température de l'air | 16.7 | 17.4 |
+| Hauteur de la mer | 16.0 | 39.0 |
+| Agitation de l'eau | 2 | 2 |
+| Vent au haut de la jetée | 4028.2 | 4028.0 |
+| Température de l'eau | 19.8 | 20.0 |

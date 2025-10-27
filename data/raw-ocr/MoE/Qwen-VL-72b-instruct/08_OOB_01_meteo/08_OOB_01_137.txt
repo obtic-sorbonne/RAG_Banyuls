@@ -1,0 +1,15 @@
+| **Paramètres** | **9 h Matin** | **3 h Soir** |
+|---|---|---|
+| Hauteur Barométrique | 769.3 | 768.9 |
+| Direction du vent | Ouest | Ouest |
+| Force | 1 Faible | 1 T Faible |
+| Nébulosité (Terre) | 0 | 10 Lég. Couvert |
+| Nébulosité (Mer) | 0 | 10 Lég. Couvert |
+| Direction des nuages | Nord | Nord |
+| Pluie tombée | Non | Non |
+| Température de l'air | 10.7 | 12.8 |
+| Hauteur de la mer | 33.1 | 43.8 |
+| Agitation de l'eau | 2 | 2 Faible |
+| Densité de l'eau (au bout de la jetée) | 1028.7 | 1028.9 |
+| Densité de l'eau (au large) | — | — |
+| Température de l'eau | 14.0 | 14.4 |

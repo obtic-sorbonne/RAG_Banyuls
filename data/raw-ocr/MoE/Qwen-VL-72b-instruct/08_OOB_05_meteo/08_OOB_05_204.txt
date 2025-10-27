@@ -1,0 +1,28 @@
+| Date       | Observations                           | Matin | Soir |
+|------------|----------------------------------------|-------|------|
+| V. 26 Janvier 1907 | Hauteur Barométrique                  | 764,2 |      |
+|              | Direction du vent                     | cr. o |      |
+|              | Force                                 | 3     |      |
+|              | Nébulosité                            | 10    |      |
+|              | Res. o. (clair)                       |       |      |
+|              | Res. 2. (nu)                          | 20    |      |
+|              | Direction des nuages                  | cr. 8 |      |
+|              | Pluie tombée                          | 2. f  |      |
+|              | Température de l'air                  | 11. 0 |      |
+|              | Hauteur de la mer                     | 99. 2 |      |
+|              | Agitation de l'eau                    | 2 fort|      |
+|              | Densité au bout de la jetée           | 1028. 1|      |
+|              | Température de l'eau                  | 9. 8  |      |
+| V. 28 Janvier 1907 | Hauteur Barométrique                  | 769. 7| 769. 8|
+|              | Direction du vent                     | cr. o | cr. o|
+|              | Force                                 | 4     | 4    |
+|              | Nébulosité                            | 2     | 2    |
+|              | Res. o. (clair)                       | 1     | 2    |
+|              | Res. 2. (nu)                          | 2     |      |
+|              | Direction des nuages                  | cr. 8 | cr. 8|
+|              | Pluie tombée                          | "     | "    |
+|              | Température de l'air                  | 6. 1  | 9. 3 |
+|              | Hauteur de la mer                     | 16. 1 | 08. 0|
+|              | Agitation de l'eau                    | 3     | 2 fort|
+|              | Densité au bout de la jetée           | 1028. 1| 1028. 1|
+|              | Température de l'eau                  | 9. 6  | 9. 7 |

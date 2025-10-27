@@ -1,0 +1,25 @@
+|  9. 30 Mai - 1907 | Moatin | Poir  |
+| --- | --- | --- |
+|  Hauteur Maronubrique | 767.4 | 765.8  |
+|  Direction du Vent | 0.0 | 0.6  |
+|  Force | 3 | 1  |
+|  Hébulusité (Reg. G. (en)) | 0 | 0  |
+|  Direction des nuages | 0 | 0  |
+|  Pline tombé | 0 | 0  |
+|  Température de l'air | 19.2 | 37.1  |
+|  Hauteur de la mer | 10.8 | 67.3  |
+|  Égitation de l'eau | 3 fort. | 3  |
+|  Densité au bout de la jetée | 1627.8 | 1627.4  |
+|  Température de l'eau | -16.3 | 17.3  |
+|  9. 31 Mai - 1907 | Moatin | Poir  |
+|  Hauteur Maronubrique | 760.8 | 778.1  |
+|  Direction du Vent | 1.1.2 | 0.8  |
+|  Force | 11 fin. | 1 fort.  |
+|  Hébulusité (Reg. G. (en)) | 10 | 10  |
+|  Direction des nuages | 0.0 | 10  |
+|  Pline tombé | 0 | 0  |
+|  Température de l'air | 38.0 | 37.3  |
+|  Hauteur de la mer | 47.2 | 17.3  |
+|  Égitation de l'eau | 1 | 1  |
+|  Densité au bout de la jetée | 1627.6 | 1627.6  |
+|  Température de l'eau | 17.0 | 18.0  |

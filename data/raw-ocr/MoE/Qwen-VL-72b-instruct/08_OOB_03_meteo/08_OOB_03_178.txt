@@ -1,0 +1,16 @@
+| Date        | 23 Avril 1902 |               |                            |
+|-------------|---------------|---------------|----------------------------|
+|             | 9h Matin      | 19h Soir      |                            |
+|-------------|---------------|---------------|----------------------------|
+| Hauteur Barométrique | 799.3 |              |                            |
+| Direction du vent    | cr. v. o. |          |                            |
+| Force                  | 2 Foibles |          |                            |
+| Nébulosité            | Reg. 6. (terre) | 10 |                            |
+|                       | Reg. L. (mer)   | 10 |                            |
+| Direction des nuages  | cr. v. o. |          |                            |
+| Pluie tombée          | 4,62 mm |            |                            |
+| Température de l'air  | 15.2°C |             |                            |
+| Hauteur de la mer     | 40.8 m |             |                            |
+| Agitation de l'eau    | 1 |                  |                            |
+| Densité de l'eau      | à l'entrée | 1026.4 kg/m³ |  au Largage               |
+| Température de l'eau  | |                 | 14.4°C                       |

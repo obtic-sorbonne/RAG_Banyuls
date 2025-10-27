@@ -1,0 +1,20 @@
+# Date. 21 Janvier. 1901.
+
+| **Item** | 9e Matin | 3e Soir |
+| --- | --- | --- |
+| **Hauteur Barométrique** | 767,2 | 767,0 |
+| **Direction du vent** | Nord | Nord |
+| **Force** | 3, 5, faible | 3, 5, faible |
+| **Nébulosité** | 10 | 10 |
+| **Rég. E. (terre)** | 10 | 10 |
+| **Rég. E. (mer)** | 10 | 10 |
+| **Direction des nuages** | Nord | Nord |
+| **Pluie tombée** | 1,27 | 1,27 |
+| **Température de l'air** | 11,3 | 11,0 |
+| **Hauteur de la mer** | 45,0 | 45,0 |
+| **Agitation de l'eau** | 1, 5, faible | 1, 5, faible |
+| **Densité de l'eau** | 1028,3 | 1028,0 |
+| **Densité de l'eau** |  |  |
+| **au bout de la jetée** | 1028,3 | 1028,0 |
+| **au large** | 1028,3 | 1028,0 |
+| **Température de l'eau** | 12,3 | 12,6 |

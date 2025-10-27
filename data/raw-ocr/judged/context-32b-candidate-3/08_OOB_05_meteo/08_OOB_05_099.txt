@@ -1,0 +1,17 @@
+```
+| **Nombre de jours de bateaux** | 4 |
+| --- | --- |
+| **Date** | **Matin** | **Soir** |
+| V. 7 Avril 1906 |  |  |
+| Hauteur Barométrique | 765.0 | 764.9 |
+| Direction du vent | Est | Est |
+| Force | 3 | 3 |
+| Nébulosité (claire) | 10 | 10 |
+| Réflectivité des nuages |  |  |
+| Pluie tombée | 14.5 | 12.0 |
+| Température de l'air | 11.0° |  |
+| Hauteur de la mer | 6 | 6 |
+| Agitation de l'eau | 5 | 7 |
+| Densité au bout de la jetée |  |  |
+| Température de l'eau |  |  |
+```

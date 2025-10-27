@@ -1,0 +1,25 @@
+| **Date**       | **Date** | **Heures**         | **Heures**       |
+|----------------|----------------|-------------------|------------------|
+| **M. 22 Août.1900**        |                  | 7 h 30 m        | 15 h 30 m       |
+
+| **Paramètres**                        | **Matin (7 h 30)** | **Après-midi (15 h 30)** |
+|---------------------------------------|----------------------|--------------------------|
+| **Hauteur barométrique (mmHg)**       | 759.8                | 759.6                   |
+| **Direction du vent**                 | "E"                  |                          |
+| **Force (Beaufort)**                  | 0                    | 1                        |
+| **Nébulosité:**                       |                      |                          |
+|    • Rég. O. (tene)                   | 0                    | 3                        |
+|    • Rég. E. (mer)                    | 0                    | 3                        |
+| **Direction des nuages**              |                      |                          |
+| **Pluie tombée**                      |                      |                          |
+| **Température de l'air (°C)**         | 28.1                 | 22.9                     |
+| **Hauteur de la mer (m)**             | 0°.38                 | 0°.495                   |
+| **Agitation de l'eau**                | 1                    | 1                        |
+| **Densité de l'eau (g/cm³):**         |                      |                          |
+|    • Au bout de la jetée              | 10.26,4              | 10.26,1                  |
+|    • Au large                        |                      |                          |
+| **Température de l'eau (°C)**         |                      | 21.5                     |
+
+| **Remarques**                                                                                       |
+|-----------------------------------------------------------------------------------------------------------------------|
+| **Observat.** - Montagnes très sombres; g.g. camp. à l'arr.d. 2h r/2 à 4h. r;                                      |

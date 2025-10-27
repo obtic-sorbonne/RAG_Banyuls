@@ -1,0 +1,15 @@
+```markdown
+# 9 NOVEMBRE 1907
+
+| **Date**        | **Heure** | **Hauteur barométrique (mmHg)** | **Direction du vent** | **Force** | **Nébulosité (Reg. C. claire)** | **Nébulosité (Reg. 2. (mer))** | **Direction des nuages** | **Pluie tombée (mm)** | **Température de l'air (°C)** | **Hauteur de la mer (cm)** | **Agitation de l'eau** | **Densité au bout de la jetée (g/cm³)** | **Température de l'eau (°C)** |
+|-----------------|-----------|--------------------------------|-----------------------|-----------|--------------------------------|-----------------------------|------------------------|-----------------------|-----------------------------|---------------------------|-----------------------|---------------------------------------|-----------------------------|
+| 9 Novembre 1907 | Matin     | 765.4                          | Sud-Ouest             | 5         | 10                            | 10                         | Sud-Ouest              | 3.9                  | 19.0                       | 32.6                     | 3 fort                | 1027.4                                | 18.0                        |
+| 9 Novembre 1907 | Soir      | 766.7                          | Sud-Ouest             | 5         | 10                            | 10                         | Sud-Ouest              | quelques gouttes      | 18.0                       | 32.6                     | 3 fort                | 1027.4                                | 18.0                        |
+
+# 10 NOVEMBRE 1907
+
+| **Date**        | **Heure** | **Hauteur barométrique (mmHg)** | **Direction du vent** | **Force** | **Nébulosité (Reg. C. claire)** | **Nébulosité (Reg. 2. (mer))** | **Direction des nuages** | **Pluie tombée (mm)** | **Température de l'air (°C)** | **Hauteur de la mer (cm)** | **Agitation de l'eau** | **Densité au bout de la jetée (g/cm³)** | **Température de l'eau (°C)** |
+|-----------------|-----------|--------------------------------|-----------------------|-----------|--------------------------------|-----------------------------|------------------------|-----------------------|-----------------------------|---------------------------|-----------------------|---------------------------------------|-----------------------------|
+| 10 Novembre 1907 | Matin     | 797.7                          | Nord-Ouest            | 2         | 0 (clair)                     | 0 (clair)                  | Sud-Ouest              | 12.9                 | 14.3                       | 32.6                     | 3                     | 1027.4                                | 18.0                        |
+| 10 Novembre 1907 | Soir      | 798.3                          | Nord-Ouest            | 2         | 0 (clair)                     | 0 (clair)                  | Sud-Ouest              | quelques gouttes      | 17.3                       | 29.1                     | 3                     | 1027.6                                | 18.0                        |
+```

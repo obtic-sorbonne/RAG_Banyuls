@@ -1,0 +1,17 @@
+| **Date**       | Dessembre.1901 |
+|-----------------|----------------|
+| **Heure**       | 9<sup>e</sup> Matin | 3<sup>e</sup> Soir |
+|-----------------|----------------|-------------------|
+| **Hauteur Barométrique** | 767.8 |
+| **Direction du vent**     | N.N.O.             |
+| **Force**                 | 1 Fort            |
+| **Nébulosité**            | Reg. 6. (Terre)   | 10 légers. c |
+|                           | Reg. E. (mer)     |             |
+| **Direction des nuages**  | N.N.O.             |
+| **Pluie Tombée**          | 11                |
+| **Température de l'air**  | 14.7               |
+| **Hauteur de la mer**     | 40.6               |
+| **Agitation de l’eau**    | 1                   |
+| **Densité de l’eau**      | au bout de la jetée | 1028.7    |
+|                           | au Large          |           |
+| **Température de l’eau**  | 12.4               |

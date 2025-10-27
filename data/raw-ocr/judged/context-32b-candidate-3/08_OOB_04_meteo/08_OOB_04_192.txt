@@ -1,0 +1,33 @@
+V. 16 février. 1903
+
+|  |   |   |
+| --- | --- | --- |
+|  Hauteur | Barométrique | 784.6  |
+|  Direction | du vent | 0.0  |
+|  Force | - - - - - - - - - - - | 3  |
+|  (Reg. O. (terre)) |  | 2  |
+|  (Reg. E. (mer)) |  | 1  |
+|  Direction | des nuages | 0.0  |
+|  Pluie | tombée | 0  |
+|  Température | de l'air | 8.5  |
+|  Hauteur | de la mer | 63.1  |
+|  Agitation | de l'eau | 3  |
+|  Densité | au bout de la jetée | 1029.2  |
+|  Température | de l'eau | 10.4  |
+
+V. 17 février. 1903
+
+|  |   |   |
+| --- | --- | --- |
+|  Hauteur | Barométrique | 784.2  |
+|  Direction | du vent | 1.0  |
+|  Force | - - - - - - - - - - | 3  |
+|  (Reg. O. (terre)) |  | 0  |
+|  (Reg. E. (mer)) |  | 1  |
+|  Direction | des nuages | 1  |
+|  Pluie | tombée | 0  |
+|  Température | de l'air | 8.2  |
+|  Hauteur | de la mer | 61.8  |
+|  Agitation | de l'eau | 3  |
+|  Densité | au bout de la jetée | 1029.1  |
+|  Température | de l'eau | 10.4  |

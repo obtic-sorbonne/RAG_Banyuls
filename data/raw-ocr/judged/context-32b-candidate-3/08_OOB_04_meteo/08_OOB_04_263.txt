@@ -1,0 +1,31 @@
+```plaintext
+|  V. 11 (Jouit. 1903) | Obatir | Soir  |
+| --- | --- | --- |
+|  Hauteur Barométrique | 769.1 |   |
+|  Direction du vent | cr. cr. 0 |   |
+|  Force | 8 fort |   |
+|  (Reg. O. (1ère)) | 10 |   |
+|  (Reg. R. (mer)) | 10 |   |
+|  Direction des nuages | cr. cr. 0 |   |
+|  (Cluie tombée) |  |   |
+|  Température de l'air | 24.1 |   |
+|  Hauteur de la mer | 39.3 |   |
+|  (Agitation de l'eau) | 1 |   |
+|  Densité au bout de la jetée | 1029.0 |   |
+|  Température de l'eau | 20.3 |   |
+
+|  V. 17 (Jouit. 1903) | Obatir | Soir  |
+| --- | --- | --- |
+|  Hauteur Barométrique | 767.1 | 705.1  |
+|  Direction du vent | Est | 7.1.2  |
+|  Force | 1 | 15 fort  |
+|  (Reg. O. (1ère)) | 0 | 0  |
+|  (Reg. R. (mer)) | Ségumée |   |
+|  Direction des nuages |  | cr. 0  |
+|  (Cluie tombée) |  |   |
+|  Température de l'air | 22.6 | 28.2  |
+|  Hauteur de la mer | 19.1 | 41.8  |
+|  (Agitation de l'eau) | 1 | 1  |
+|  Densité au bout de la jetée | 1029.3 | 1029.3  |
+|  Température de l'eau | 22.2 | 28.1  |
+```

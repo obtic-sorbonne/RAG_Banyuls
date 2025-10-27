@@ -1,0 +1,54 @@
+```plaintext
+### OBSERVATIONS DU 1902 6 JANVIER
+
+| **Nombre de bateaux sortis (pêche à l.)** | 19.4 |
+| **Température de l'air** |  |  |
+| - **maxima depuis la veille** | 19.4 °C |
+| - **minima id.** | 6.7 °C |
+| **Température de l'eau** |  |  |
+| - **maxima depuis la veille** | *non mentionnée* |
+| - **minima id.** | *non mentionnée* |
+| **Pluie tombée depuis la veille, en millim.** | *non mentionnée* |
+| **Évaporation depuis le 1901, en millim.** | *non mentionnée* |
+| **Direction du vent (à terre)** |  |  |
+| - **à 9 h. m.** | N.O. |
+| - **à 3 h. s.** | N.N.O. |
+| - **Force** | 1 | 1 |
+| - **Direction des nuages** | N.O. | N.N.O. |
+| **Nébulosité** |  |  |
+| - **région Ouest (terre)** | 60 | 60 |
+| - **id. Est (mer)** | 40 | 40 |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.)** | 22.2 | 46.4 |
+| **Agitation de l'eau** | 1 | 1 |
+| **Densité de l'eau au bout de la jetée** | 1028.9 | 1028.8 |
+| **Température id.** | 13.7 | 13.7 |
+| - **is. Balou Matin (maxima - minima)** | 23.2 / 9.2 |  |
+| - **is. Ferraud Matin (maxima - minima)** | 23.2 / 12.9 |  |
+| - **is. Terrane Matin (maxima - minima)** | 23.2 / 8.3 | 9.2 |
+
+### OBSERVATIONS DU 1902 8 JANVIER
+
+| **Nombre de bateaux sortis (pêche à l.)** | 20.8 |
+| **Température de l'air** |  |  |
+| - **maxima depuis la veille** | 20.6 °C |
+| - **minima id.** | 7.6 °C |
+| **Température de l'eau** |  |  |
+| - **maxima depuis la veille** | *non mentionnée* |
+| - **minima id.** | *non mentionnée* |
+| **Pluie tombée depuis la veille, en millim.** | quelques g. |
+| **Évaporation depuis le 1901, en millim.** | 29.7 mm |
+| **Direction du vent (à terre)** |  |  |
+| - **à 9 h. m.** | N.N.O. |
+| - **à 3 h. s.** | S.S.E. |
+| - **Force** | 1.9+4/10 | 1 |
+| - **Direction des nuages** | N.N.O. | S.S.E. |
+| **Nébulosité** |  |  |
+| - **région Ouest (terre)** | 60 | 60 |
+| - **id. Est (mer)** | 60 | 40 |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.)** | 40.5 | 49.0 |
+| **Agitation de l'eau** | 2 (faible) | 9 |
+| **Densité de l'eau au bout de la jetée** | 1028.9 | 1028.9 |
+| **Température id.** | 13.1 | 13.2 |
+| - **is. Balou Matin (maxima - minima)** | 23.4 / 10.1 | 23.0 / 19.9 |
+| - **is. Ferraud Matin (maxima - minima)** | 23.0 / 10.6 |  |
+```

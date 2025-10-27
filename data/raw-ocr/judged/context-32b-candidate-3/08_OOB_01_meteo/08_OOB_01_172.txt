@@ -1,0 +1,24 @@
+# Date. 14 janvier. 1901.
+
+|  | 9e Matin | 3e Soir |
+| --- | --- | --- |
+|  **Hauteur Barométrique** | 772,2 | 772,2 |
+|  **Direction du vent** | Ouest | Ouest |
+|  **Force** | 1 fort | 1 fort |
+|  **Nébulosité** | 0 | 0 |
+|  **Rég. E. (terre)** | 0 | 0 |
+|  **Rég. E. (mer)** | 0 | 0 |
+|  **Direction des nuages** | 0 | 0 |
+|  **Pluie tombée** | 11,1 | 11,1 |
+|  **Température de l'air** | 11,1 | 11,1 |
+|  **Hauteur de la mer** | 01,5 | 01,5 |
+|  **Agitation de l'eau** | 1 fort | 1 fort |
+|  **Densité de l'eau** | 1020,7 | 1020,7 |
+|  **Densité de l'eau** |  |  |
+|  **au bout de la jetée** |  |  |
+|  **au large** |  |  |
+|  **Température de l'eau** | 11,1 | 11,1 |
+
+Densité de l'eau:
+- au bout de la jetée: 1020,7
+- au large: 1020,7

@@ -1,0 +1,35 @@
+```plaintext
+# 8 février 1902
+
+|  **Matin** | **Soir**  |
+| --- | --- |
+|  Hauteur Barométrique | 766.9 | 762.7  |
+|  Direction du vent | Ouest | N.O  |
+|  Force | 2 | 1  |
+|  Nébulosité (Terre) | Reg. O (cl.) | 10 légère  |
+|  Nébulosité (Mer) | Reg. E (mer) | N.O  |
+|  Direction des nuages | cr. N.O |  -  |
+|  Pluie tombée | " | "  |
+|  Température de l'air | 9.8 | 11.3  |
+|  Hauteur de la mer | 38.7 | 32.3  |
+|  Agitation de l'eau | fort | 2  |
+|  Densité au bout de la jetée | 1028.6 | 1028.6  |
+|  Température de l'eau | 10.8 | 10.8  |
+
+# 9 février 1902
+
+|  **Matin** | **Soir**  |
+| --- | --- |
+|  Hauteur Barométrique | 766.1 | 761.7  |
+|  Direction du vent | S.E | cr. N.E  |
+|  Force | 2 | 1 faible  |
+|  Nébulosité (Terre) | Reg. O (cl.) | 10 légères  |
+|  Nébulosité (Mer) | Reg. E (mer) | croiss  |
+|  Direction des nuages | 7 légères |  -  |
+|  Pluie tombée | " | "  |
+|  Température de l'air | 11.3 | 13.0  |
+|  Hauteur de la mer | 40.2 | 31.6  |
+|  Agitation de l'eau | 1 | 1 faible  |
+|  Densité au bout de la jetée | 1029.2 | 1029.2  |
+|  Température de l'eau | 11.2 | 11.6  |
+```

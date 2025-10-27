@@ -1,0 +1,16 @@
+# Date - 17 Décembre - 1900
+
+|   | 3e Matin | 3e Soir  |
+| --- | --- | --- |
+|  Hauteur Pécrométrique | 773,1 | 771,8  |
+|  Direction du vent | Ouest | Sud  |
+|  Force | 17 faille | 1  |
+|  Pédbulosité | 10 | 1  |
+|  Pég. E. (mix) | 10 | 0  |
+|  Direction des nuages | Ouest | Sud  |
+|  Cuin tombé | 8,7 | 18,2  |
+|  Température de l'air | 53,3 | 57,4  |
+|  Hauteur de la mer | 2 faille | 3 faille  |
+|  Agitation de l'eau | 1039,2 | 1029,2  |
+|  Densité de l'eau | 14,8 | 14,0  |
+|  Température de l'eau |  |   |

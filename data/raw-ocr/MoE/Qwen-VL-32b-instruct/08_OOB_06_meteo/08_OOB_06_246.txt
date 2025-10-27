@@ -1,0 +1,51 @@
+| **Observations du 1902 30 Janvier** |
+| --- |
+| **Nombre de bateaux sortis (pêche à l…)** | 6.7 |
+| **Température de l'air** |
+| maxima depuis la veille | 6.7 |
+| minima id. | 1.6 |
+| **Température de l'eau** |
+| maxima depuis la veille |  |
+| minima id. |  |
+| **Pluie tombée depuis la veille, en millim.** | 0 |
+| **Evaporation depuis le 1900, en millim.** |  |
+| **Direction du vent (à terre)** | NNO |
+| **Force** | 5 |
+| **Direction des nuages** | N.E |
+| **Nébulosité** |  |
+| région Ouest (terre) | 0 |
+| id. Est (mer) | 0 |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.)** | 24.9 |
+| **Agitation de l’eau** | 3 |
+| **Densité de l'eau au bout de la jetée** | 1026.9 |
+| **Température id.** | 10.3 |
+
+---
+
+| **Observations du 1902 31 Janvier** |
+| --- |
+| **Nombre de bateaux sortis (pêche à l…)** | 6.2 |
+| **Température de l'air** |
+| maxima depuis la veille | 5.2 |
+| minima id. |  |
+| **Température de l'eau** |
+| maxima depuis la veille | 2.4 |
+| minima id. |  |
+| **Pluie tombée depuis la veille, en millim.** | 0 |
+| **Evaporation depuis le 1900, en millim.** |  |
+| **Direction du vent (à terre)** | NNO | N.N.E |
+| **Force** | 3 |  |
+| **Direction des nuages** | 1 | N.N.E |
+| **Nébulosité** |  |
+| région Ouest (terre) | 0 | 9 |
+| id. Est (mer) | 0 | 2 |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.)** | 26.1 | 31.9 |
+| **Agitation de l'eau** | 3 | 3 |
+| **Densité de l'eau au bout de la jetée** | 1027.4 | 1027.0 |
+| **Température id.** | 11.0 | 11.4 |
+| **Temp. matin** | 22.6 | 21.6 |
+| **Maxi.** | +7 |  |
+| **Mini.** | 1 |  |
+| **Temp. soir** | 22.6 |  |
+| **Maxi.** |  |  |
+| **Mini.** |  |  |

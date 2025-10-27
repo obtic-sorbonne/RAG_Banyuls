@@ -1,0 +1,56 @@
+V. 14 février - 1904
+
+|  Nauteur | Nautre  |
+| --- | --- |
+|  1/20/1 | 1.0  |
+|  Direction du vent | 10  |
+|  Force | 10  |
+|  1 Reg. O. (tome) | 10  |
+|  1 Reg. E. (mer) | 10  |
+|  Direction des nuages | 1.0  |
+|  1.0 |   |
+|  1/1.1 | 1.1  |
+|  32.2 |   |
+|  1 |   |
+|  1029.1 |   |
+|  1029.1 |   |
+|  11.4 |   |
+
+1. 11 février - 1904
+
+|  Nauteur | Nautre  |
+| --- | --- |
+|  1/17.0 | 1/6.3  |
+|  Direction du vent | 1.0  |
+|  Force | 1 post  |
+|  1 Post | 10  |
+|  1 Post | 10  |
+|  1 Post | 10  |
+|  10 | 10  |
+|  Direction des nuages | 1004  |
+|  1004 |   |
+|  1004 |   |
+|  1 2 |   |
+|  1 2.4 |   |
+|  14.1 |   |
+|  18.2 |   |
+|  1 1029.1 |   |
+|  1029.1 |   |
+|  11.3 |   |
+
+1. 17 février - 1904
+
+|  Nauteur | Nautre  |
+| --- | --- |
+|  1/17.0 | 1/6.3  |
+|  Direction du vent | 1.0  |
+|  Force | 1 post  |
+|  1 Post | 10  |
+|  1 Post | 10  |
+|  1 Post | 10  |
+|  1 Post | 10  |
+|  1 Post | 10  |
+|  1 Post | 10  |
+|  1 Post | 10  |
+|  1 Post | 10  |
+|  1 Post | 10  |

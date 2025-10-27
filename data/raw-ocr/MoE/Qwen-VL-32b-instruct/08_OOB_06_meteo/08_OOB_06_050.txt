@@ -1,0 +1,45 @@
+### **Observations du 9 août 1900**
+
+| **Paramètres**                                       | **Valeurs**         |
+|------------------------------------------------------|---------------------|
+| Nombre de bateaux sortis (pêche à la...)             | 27                   |
+| Température de l'air                                 | Maxima depuis la veille: 27.9 °C |
+|                                                     | Minima id.: 16.9 °C        |
+| Température de l'eau                                | Maxima depuis la veille: -     |
+|                                                     | Minima id.: -          |
+| Pluie tombée depuis la veille, en millim.            | 18.7 mm               |
+| Évaporation depuis le 190, en millim.                | -                     |
+
+**Direction du vent (à terre) à 9 h m**  **à 3 h s**
+- **Force**: 3          **1**
+- **Direction des nuages**: Nord           **South**
+- **Nébulosité - région Ouest (terre)**: 10           **60**
+- **id. Est (mer)**: 10           **10**
+
+**Hauteur de la mer, en centimètres, au-dessus du zéro**: **1 fort.** **1 fort.**
+- **Agitation de l'eau**: 4026 cm           **4027 cm**
+- **Densité de l'eau au bout de la jetée**: 19.14          **19.10**
+
+---
+
+### **Observations du 10 août 1900**
+
+| **Paramètres**                                       | **Valeurs**         |
+|------------------------------------------------------|---------------------|
+| Nombre de bateaux sortis (pêche à la...)             | 21                   |
+| Température de l'air                                 | Maxima depuis la veille: 21.2 °C |
+|                                                     | Minima id.: 16.8 °C        |
+| Température de l'eau                                | Maxima depuis la veille: -     |
+|                                                     | Minima id.: -          |
+| Pluie tombée depuis la veille, en millim.            | quelques g            |
+| Évaporation depuis le 190, en millim.                | -                     |
+
+**Direction du vent (à terre) à 9 h m**  **à 3 h s**
+- **Force**: 1 fort.  **1 faible**
+- **Direction des nuages**: Nord           **Nord**
+- **Nébulosité - région Ouest (terre)**: 4            **60**
+- **id. Est (mer)**: 3            **60**
+
+**Hauteur de la mer, en centimètres, au-dessus du zéro**: **1 fort.** **1 fort.**
+- **Agitation de l'eau**: 4025 cm          **4024 cm**
+- **Densité de l'eau au bout de la jetée**: 18.9          **19.14**

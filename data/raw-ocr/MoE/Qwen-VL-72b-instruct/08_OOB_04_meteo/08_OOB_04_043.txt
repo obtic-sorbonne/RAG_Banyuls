@@ -1,0 +1,28 @@
+| Date       | Matin                       | Soir                        |
+|------------|----------------------------|----------------------------|
+| 22 Octobre 1901 |
+| Hauteur Barométrique | 742.2                     |                            |
+| Direction du vent     | Ouest                     |                            |
+| Force                  | 1/5                       | faible                    |
+| Nébulosité             | Reg. O. (terre) | 3                        |
+|                        | Reg. E. (mer)      | 2                        |
+| Direction des ondes   | Sud                      |                          |
+| Pluie tombée           |                          |                          |
+| Température de l'air   | 4.5                      |                          |
+| Hauteur de la mer      | 23.6                     |                          |
+| Agitation de l'eau     | faible                   |                          |
+| Densité au bout de la jetée | 1028.7                  |                          |
+| Température de l'eau   | 12.1                     |                          |
+| 23 Octobre 1901 |
+| Hauteur Barométrique | 753.4                     | 756.8                     |
+| Direction du vent     | cr. cr. o                 | cr. cr. o                 |
+| Force                  | 2/5                       | 4                         |
+| Nébulosité             | Reg. O. (terre) | 10                       |
+|                        | Reg. E. (mer)      | 10                       |
+| Direction des ondes   | croissante               | croissante                |
+| Pluie tombée           |                          |                          |
+| Température de l'air   | 9.1                      | 10.7                     |
+| Hauteur de la mer      | 16.3                     | 22.9                     |
+| Agitation de l'eau     | 3//fort                   | 3 fort                   |
+| Densité au bout de la jetée | 1028.4                  | 1028.3                   |
+| Température de l'eau   | 11.0                     | 11.2                     |

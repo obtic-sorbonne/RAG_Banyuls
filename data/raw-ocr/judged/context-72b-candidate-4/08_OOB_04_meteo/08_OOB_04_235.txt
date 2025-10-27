@@ -1,0 +1,69 @@
+```plaintext
+# Noucleurs Barométriques
+
+|  Ailes | Barometre d'11e Ramille | Barometre d'12e Sebrution Barometre d'13e Sebrution  |
+| --- | --- | --- |
+|  Mercredi 13 mai 1903
+Le matin à midi
+Soir à 3e
+is à 6e | Pépignan 7e m. 769,5
+711,0
+716,0
+716,0 | 76,3
+762,2
+762,7
+761,7  |
+|  Jeudi 14 mai 1903
+Le matin à 9e
+is à midi
+Soir à 3e | Pépignan 7e m. 767,3
+763,1
+763,1
+763,1 | 76,3
+769,3
+770,1  |
+|  Vendredi 15 mai 1903
+Le matin à 7e
+is à 9e
+is à midi
+Soir à 3e | Pépignan 7e m. 769,7 | 769,7
+770,3
+770,3
+769,8  |
+|  Samedi 16 mai 1903
+Le matin à 7e
+is à 9e
+Soir à 3e | Pépignan 7e m. 768,0
+768,0
+768,0
+768,0 | 77,2
+772,7
+772,4
+770,2  |
+|  Dimanche 17 mai 1903
+Le matin à 9e | Pépignan 7e m. 762,2 | 767,3  |
+|  Lundi 18 mai 1903
+Le matin à 7e
+is à 9e
+Soir à 4e | Pépignan 7e m. 764,4
+759,1
+759,1
+757,2 | 76,4
+764,7
+765,2
+763,4  |
+|  Mardi 19 mai 1903
+Le matin à 7e
+is à 9e | Pépignan 7e m. 761,5 | 762,2
+762,3  |
+|  Mercredi 20 mai 1903
+Le matin à 9e
+is à midi
+Soir à 3e | Pépignan 7e m. 761,5
+757,0
+756,8
+759,4 | 76,2
+762,3
+764,0
+764,1  |
+```

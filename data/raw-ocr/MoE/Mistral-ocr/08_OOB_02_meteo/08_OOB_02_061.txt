@@ -1,0 +1,17 @@
+# Date: 10 Mai 1901
+
+|  Nom | Date | Type  |
+| --- | --- | --- |
+|  Kanteur Barometrique | 9 mai 1901 | 3e Soir  |
+|  Direction du vent | 7 mai 1901 | 7e  |
+|  Force | 3 fort | 7e  |
+|  Nœbulosité | 17 mai 1901 | 4e  |
+|  Nœbulosité | 17 mai 1901 | 4e  |
+|  Direction des nuages | 17 mai 1901 | 17e  |
+|  Mise tombée | 17 mai 1901 | 17e  |
+|  Température de l'air | 18,5 | 17,4  |
+|  Nombre de l'eau | 17,3 | 0,4  |
+|  Régulation de l'eau | 1 fort | 2 failles  |
+|  Sensibilité de l'eau | 10,28 | 10,28  |
+|  Sensibilité de l'eau | 1 an Range |   |
+|  Température de l'eau | 14,5 | 14,3  |

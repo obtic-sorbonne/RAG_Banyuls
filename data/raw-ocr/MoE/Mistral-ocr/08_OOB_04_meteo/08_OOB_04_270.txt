@@ -1,0 +1,63 @@
+# V. H. Septembre - 1903
+
+|  Hauteur | Maximum  |
+| --- | --- |
+|  Hauteur | Maximum  |
+|  Direction du vent |   |
+|  Force |   |
+|  (Reg. G. (1ere)) |   |
+|  Direction des nuages |   |
+|  (Plus tombe) |   |
+|  Température de l'air |   |
+|  Hauteur de la mer |   |
+|  (Agitation de l'eau) |   |
+|  Densité au bout de la jeté |   |
+|  (Bempeur) |   |
+|  (1er) |   |
+
+# V. Septembre - 1903
+
+|  Hauteur | Maximum  |
+| --- | --- |
+|  Hauteur | Maximum  |
+|  Direction du vent |   |
+|  Force |   |
+|  (Reg. G. (1ere)) |   |
+|  (Plus tombe) |   |
+|  (Très) |   |
+|  Direction des nuages |   |
+|  (Plus tombe) |   |
+|  Température de l'air |   |
+|  Hauteur de la mer |   |
+|  (Agitation de l'eau) |   |
+|  Densité au bout de la jeté |   |
+|  (Bempeur) |   |
+|  (1er) |   |
+
+# V. Soir
+
+|  Hauteur | Maximum  |
+| --- | --- |
+|  766,4 | 764,8  |
+|  8,00 | 7,78  |
+|  1/2 | 8/2  |
+|  1,50 | 1,50  |
+|  1,50 | 1,78  |
+|  23,5 | 21,6  |
+|  1,78 | 1,78  |
+|  102,0 | 102,6  |
+|  21,6 | 22,5  |
+
+# Soir
+
+|  Hauteur | Maximum  |
+| --- | --- |
+|  766,7 | 764,8  |
+|  8,00 | 7,78  |
+|  1/2 | 8/2  |
+|  1,50 | 1,50  |
+|  2,50 | 2,50  |
+|  23,5 | 21,6  |
+|  1,78 | 1,78  |
+|  102,0 | 102,6  |
+|  21,6 | 22,5  |

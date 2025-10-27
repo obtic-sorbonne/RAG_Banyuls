@@ -1,0 +1,46 @@
+| **Observations du 1902 22 Février** |
+|---|
+| Nombre de bateaux sortis (pêche à l.) | 18.8 |
+| Température de l'air | maxima depuis la veille | 18.8 |
+|  | minima id. | 7.7 |
+| Température de l'eau | maxima depuis la veille |  |
+|  | minima id. |  |
+| Pluie tombée depuis la veille, en millim. |  |
+| Évaporation depuis le 190 , en millim. |  |
+| Direction du vent (à terre) | à 9 h. m. | **S.S.O** |
+| Force |  | faible |
+| Direction des nuages |  |  |
+| Nébulosité | région Ouest (terre) | 3 légède |
+|  | id. Est (mer) | 1 |
+| Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.) | 31.0 |
+| Agitation de l'eau |  | faibb |
+| Densité de l'eau au bout de la jetée |  | 1027.9 |
+| Température | id. Balano matin | 12.4 |
+|  | id. Therm. matin | 24.9 |
+|  | id. Loir | 1.6 |
+
+| **Observations du 1902 23 Février** |
+|---|
+| Nombre de bateaux sortis (pêche à l.) | 19.8 |
+| Température de l'air | maxima depuis la veille | 19.8 |
+|  | minima id. | 7.7 |
+| Température de l'eau | maxima depuis la veille |  |
+|  | minima id. |  |
+| Pluie tombée depuis la veille, en millim. |  |
+| Évaporation depuis le 190 , en millim. |  |
+| Direction du vent (à terre) | à 9 h. m. | **S.S.O** |
+| Force |  | 1 |
+| Direction des nuages |  | S.S.O / S.O.S. |
+| Nébulosité | région Ouest (terre) | 10 / 10 |
+|  | id. Est (mer) | 10 / 10 |
+| Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.) | à 9 h. m. | 34.3 |
+|  | à 3 h. s. | 39.0 |
+| Agitation de l'eau | à 9 h. m. | faibb |
+|  | à 3 h. s. | 1 |
+| Densité de l'eau au bout de la jetée | à 9 h. m. | 1027.2 |
+|  | à 3 h. s. | 1027.4 |
+| Température | id. Balano matin | 13.7 |
+|  | id. Therm. matin | 24.9 |
+|  | id. Loir | 11.9 |
+|  |  | maxima | 21.3 |
+|  |  | minima | 11.0 |

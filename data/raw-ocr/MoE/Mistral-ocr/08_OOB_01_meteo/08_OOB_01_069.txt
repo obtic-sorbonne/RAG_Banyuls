@@ -1,0 +1,19 @@
+Dale: 8. 1° Octobre 1900
+
+|   |  |  | thuever |
+| --- | --- | --- | --- |
+|   |  |  | 9h.m.  |
+|  Bracten barométrique |  |  | 165,1  |
+|  Direction De nent: |  |  | S.  |
+|  Force |  |  | fr.mul.  |
+|  Nebulosité | ( Reg. 0. (mm) |  | 0  |
+|  Direction des nuages |  |  | 0  |
+|  Plein lorneté |  |  |   |
+|  Température De l'air |  |  | 21,8  |
+|  |   |   |   |
+|  Bracten De la mer |  |  | 0,41  |
+|  Agitation De l'eau |  |  | 0  |
+|  Densité De l'eau | (anlout) | (de)jetée | 1026,0  |
+|  Température De l'eau |  |  | 21,6  |
+|  |   |   |   |
+|  Observat. |  |  |   |

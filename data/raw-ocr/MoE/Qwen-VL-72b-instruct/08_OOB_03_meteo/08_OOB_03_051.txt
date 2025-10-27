@@ -1,0 +1,18 @@
+| Date | 14 Novembre 1901 |
+|---|---|
+| Horaire | 9h Matin | 3h Soir |
+| Hauteur Barométrique | **752.8** | **752.3** |
+| Direction du vent | N.N.O | Est |
+| Force | 1 faible | 1 faible |
+| Nébulosité | | |
+| (Terre) | **10** | **10** |
+| (Mer) | **10** | **10** |
+| Direction des nuages | N.N.O | Ouest |
+| Pluie tombée | **"** | **"** |
+| Température de l'air | **13.3** | **13.7** |
+| Hauteur de la mer | **16.6** | **28.7** |
+| Agitation de l'eau | faible | forte |
+| Densité de l'eau | | |
+| (au bout de la jetée) | **1027.0** | **1027.6** |
+| (au large) | | |
+| Température de l'eau | **15.7** | **15.9** |

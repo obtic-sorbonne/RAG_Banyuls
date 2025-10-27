@@ -1,0 +1,38 @@
+# OBSERVATIONS DU 1900 20 xbre 
+
+Nombre de bateaux sortis (pêche à $l$ $\qquad$ ).
+Température de l'air $\left\{\begin{array}{l}\text { maxima depuis la veille. } \\ \text { minima id. }\end{array}\right.$
+Température de l'eau $\left\{\begin{array}{l}\text { maxima depuis la veille. } \\ \text { minima id. }\end{array}\right.$
+Pluie tombée depuis la veille, en millim.
+Evaporation depuis le $\qquad$ 190 , en millim.
+
+|  | à 9 h. m. | à 3 h. s. |
+| :--: | :--: | :--: |
+| Direction du vent (à terre). | 22.9 .0 | 2.9 .0 |
+| Force | 3 fort | 3 |
+| Direction des nuages | 14.9 .0 | 2.9 .0 |
+| Nébulosité $\}$ région Ouest (terre) | 1 | 0 |
+|  | 1 | 0 |
+| Hauteur de la mer, en centimètres, au-dessus du zéro. ( 23.2 .) | 22.2 | 2.2 |
+| Agitation de l'eau. | 3 | 2 |
+| Densité de l'eau au bout de la jetée. | 102.3 | 1026.4 |
+| Température | id. | 11.4 |
+| OBSERVATIONS DU | 1900 | 21 xbre |
+
+Nombre de bateaux sortis (pêche à $l$ $\qquad$ ).
+Température de l'air $\left\{\begin{array}{l}\text { maxima depuis la veille. } \\ \text { minima id. }\end{array}\right.$
+Température de l'eau $\left\{\begin{array}{l}\text { maxima depuis la veille. } \\ \text { minima id. }\end{array}\right.$
+Pluie tombée depuis la veille, en millim.
+Evaporation depuis le $\qquad$ 190 , en millim.
+
+|  | à 9 h. m. | à 3 h. s. |
+| :--: | :--: | :--: |
+| Direction du vent (à terre). | 5.0 | 1.8 |
+| Force | 1 | 1 |
+| Direction des nuages | 1005 | 4 |
+| Nébulosité $\}$ région Ouest (terre) | 2 | 0 |
+|  | 2 | 1 |
+| Hauteur de la mer, en centimètres, au-dessus du zéro. ( 23.2 .) | 26.1 | 22.2 |
+| Agitation de l'eau. | 3 | 1 fort |
+| Densité de l'eau au bout de la jetée. | 102.2 | 1026.2 |
+| Température | id. | 11.4 |

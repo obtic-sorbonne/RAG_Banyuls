@@ -1,0 +1,49 @@
+### Observations du 1901 — 8 Mars
+
+| **Paramètres météorologiques**                        | **Valeurs**          |
+| ---------------------------------------------------- | -------------------- |
+| **Nombre de bateaux sortis (pêche à la Graine)**      | 14                   |
+| **Température de l'air**                              |                      |
+| - maxima depuis la veille                             | [pas renseigné]      |
+| - minima id.                                         | [pas renseigné]      |
+| **Température de l'eau**                              |                      |
+| - maxima depuis la veille                             | [pas renseigné]      |
+| - minima id.                                         | [pas renseigné]      |
+| **Pluie tombée depuis la veille, en millim.**         | quelques             |
+| **Evaporation depuis le 1901, en millim.**            | [pas renseigné]      |
+| **Direction du vent (à terre)**                       | N.W.E                |
+| **Force**                                            | 2 faibles            |
+| **Direction des nuages**                             | [pas renseigné]      |
+| **Nébulosité**                                       |                      |
+| - région Ouest (terre)                               | 0                    |
+| - id. Est (mer)                                      | 0                    |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.)** | 42.1  |
+| **Agitation de l'eau**                               | 2 faibles            |
+| **Densité de l'eau au bout de la jetée**             | 1028.9               |
+| **Température id.**                                  | 11.0                 |
+
+---
+
+### Observations du 1901 — 9 Mars
+
+| **Paramètres météorologiques**                        | **Valeurs**          |
+| ---------------------------------------------------- | -------------------- |
+| **Nombre de bateaux sortis (pêche à la Graine)**      | 14                   |
+| **Température de l'air**                              |                      |
+| - maxima depuis la veille                             | 11.4                 |
+| - minima id.                                         | 6.3                  |
+| **Température de l'eau**                              |                      |
+| - maxima depuis la veille                             | [pas renseigné]      |
+| - minima id.                                         | [pas renseigné]      |
+| **Pluie tombée depuis la veille, en millim.**         | [pas renseigné]      |
+| **Evaporation depuis le 1901, en millim.**            | [pas renseigné]      |
+| **Direction du vent (à terre)**                       | N.N.O | N.N.E |
+| **Force**                                            | 3 faibles | 3 faibles |
+| **Direction des nuages**                             | N.N.O | N.N.O |
+| **Nébulosité**                                       |                      |
+| - région Ouest (terre)                               | 2 | 4 |
+| - id. Est (mer)                                      | 0 | 6 |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.)** | 46.0 | 44.9 |
+| **Agitation de l'eau**                               | 2 faibles | 3 faibles |
+| **Densité de l'eau au bout de la jetée**             | 1029.6 | 1028.8 |
+| **Température id.**                                  | 10.3 | 10.7 |

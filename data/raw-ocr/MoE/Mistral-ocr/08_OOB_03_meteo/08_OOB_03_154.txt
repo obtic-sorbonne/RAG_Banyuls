@@ -1,0 +1,17 @@
+# Date. 23 Mours. 1902
+
+|   | 9th Moutin | 3rd Soir  |
+| --- | --- | --- |
+|  Hanteur thaxométrique | 762.3 | 762.2  |
+|  Direction du vent |  | W.W.O  |
+|  Force | 0 | 3 fort  |
+|  Mébulovité (Reg. Culline) | 10 | 10  |
+|  Mébulovité (Reg. E. (mer)) | 10 | 10  |
+|  Direction des nuages | W.W.O | W.W.O  |
+|  Flux tombé |  |   |
+|  Température de l'air | 14,6 | 17.4  |
+|  Hanteur de la mer | 64,9 | 76,8  |
+|  Régítation de l'eau | 1 faible | 1 fort  |
+|  Densité de l'eau | 1028.1 | 1028.2  |
+|  |   |   |
+|  Température de l'eau | 12.2 | 13.2  |

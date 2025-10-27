@@ -1,0 +1,40 @@
+| **Date**        | **Heure** | **Paramètre**           | **Valeur**         | **Unité** | **Observateur** |
+|-----------------|-----------|-------------------------|--------------------|-----------|-----------------|
+| 17 Octobre 1907 | Matin     | Hauteur barométrique    | 794.3              | hPa       |                 |
+|                 |           |                         | 794.3              | hPa       |                 |
+|                 |           | Direction du vent      | Est                |           |                 |
+|                 |           | Force                  | 0                  |           |                 |
+|                 |           | Réf. a Cléon            | 60                 |           |                 |
+|                 | Soir      |                         |                     |           |                 |
+|                 |           | Hauteur barométrique    | 794.3              | hPa       |                 |
+|                 |           | Direction du vent      |                     |           |                 |
+|                 |           | Force                  | 0                  |           |                 |
+|                 |           |                         | 70                 |           |                 |
+|                 |           | Réf. a Cléon            | 60                 |           |                 |
+|                 |           | Nébulosité             | 10                 | %         |                 |
+|                 |           | (Région ciel)           | 10                 | %         |                 |
+|                 |           | Direction des nuages   | Sud-Sud-Ouest      |           |                 |
+|                 |           | Pluie tombée            | 1.87               | mm        |                 |
+|                 |           | Température de l'air    | 13.7               | °C        |                 |
+|                 |           | Hauteur de la mer       | 38.8               | cm        |                 |
+|                 |           | Agitation de l'eau     | 2 fort             |           |                 |
+|                 |           | Denivité au bout de la jetée | 1027.4             | hPa       |                 |
+|                 |           | Température de l'eau    | 19.6               | °C        |                 |
+| 18 Octobre 1907 | Matin     | Hauteur barométrique    | 799.3              | hPa       |                 |
+|                 |           | Direction du vent      | Sud-Sud-Est        |           |                 |
+|                 |           | Force                  | 2 fort             |           |                 |
+|                 |           | Réf. a Cléon            | 0                  |           |                 |
+|                 | Soir      |                         |                     |           |                 |
+|                 |           | Hauteur barométrique    | 798.3              | hPa       |                 |
+|                 |           | Direction du vent      | Sud-Sud-Est        |           |                 |
+|                 |           | Force                  | 2 fort             |           |                 |
+|                 |           | Réf. a Cléon            | 60                 |           |                 |
+|                 |           | Nébulosité             | 1                  | %         |                 |
+|                 |           | (Région ciel)           | 10                 | %         |                 |
+|                 |           | Direction des nuages   | Sud                |           |                 |
+|                 |           | Pluie tombée            | quelques g         |           |                 |
+|                 |           | Température de l'air    | 14.0               | °C        |                 |
+|                 |           | Hauteur de la mer       | 41.0               | cm        |                 |
+|                 |           | Agitation de l'eau     | 1 fort             |           |                 |
+|                 |           | Denivité au bout de la jetée | 1027.7             | hPa       |                 |
+|                 |           | Température de l'eau    | 19.9               | °C        |                 |

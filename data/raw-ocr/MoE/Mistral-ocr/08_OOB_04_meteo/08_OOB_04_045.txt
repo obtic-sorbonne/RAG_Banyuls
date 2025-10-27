@@ -1,0 +1,43 @@
+# 9. 30 X 1901
+
+## Matin Soir
+
+|  Maturité | Négatif | Précision  |
+| --- | --- | --- |
+|  Maturité |  |   |
+|  Direction du vent | or. or. | Force  |
+|  |   |   |
+|  Mébulosité |  |   |
+|  (Reg. 5 - (mor) | 10.5 years | Direction des nuages  |
+|  |   |   |
+|  Mûre tombée |  |   |
+|  Température de l'air | 14,7 | Maturité de la mer  |
+|  (Législation de l'eau) | 40,6 |   |
+|  Densité au bout de la jetée | 1028,7 | Température de l'eau  |
+|  (Législation de l'eau) | 12,4 |   |
+
+## 1901
+
+|  Maturité | Négatif | Précision  |
+| --- | --- | --- |
+|  Maturité |  |   |
+|  Direction du vent | or. or. | Force  |
+|  |   |   |
+|  Mébulosité |  |   |
+|  (Reg. 5 - (mor) | 1 | Direction des nuages  |
+|  |   |   |
+|  Mûre tombée |  |   |
+|  Température de l'air | 9,6 | Maturité de la mer  |
+|  (Législation de l'eau) | 46,9 |   |
+|  Densité au bout de la jetée | 1028,7 | Température de l'eau  |
+|  (Législation de l'eau) | 11,8 |   |
+
+## 2001
+
+|  Maturité | Négatif | Précision  |
+| --- | --- | --- |
+|  Maturité |  |   |
+|  Direction du vent | or. or. | Force  |
+|  (Législation de l'eau) | 11,8 |   |
+|  Densité au bout de la jetée | 1028,7 | Température de l'eau  |
+|  (Législation de l'eau) | 11,8 |   |

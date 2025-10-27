@@ -1,0 +1,16 @@
+| **Date:** 4 Mars 1902 |
+| --- |
+| **Temps:** | 9h Matin | 23h Soir |
+| **Hauteur Barométrique** | 749.6 | 749.8 |
+| **Direction du vent** | -- | -- |
+| **Force** | 15 | faible |
+| **Nébulosité (reg. O. Gève)** | 0 | 0 |
+| **Nébulosité (reg. E. mer)** | 0 | -- |
+| **Direction des nuages** | -- | -- |
+| **Pluie Tombée** | -- | -- |
+| **Température de l'air** | 11.5 | -- |
+| **Hauteur de la mer** | 43.1 | -- |
+| **Agitation de l'eau** | 1 T. faible | -- |
+| **Transitivité de l'eau (bout de la jetée)** | 1027.4 | -- |
+| **Transitivité de l'eau (bateau)** | 0 | -- |
+| **Température de l'eau** | 11.5 | -- |

@@ -1,0 +1,28 @@
+```plaintext
+| Date               | Matin                        | Soir                         |
+|--------------------|------------------------------|------------------------------|
+| V. 27 juin 1904    | Hauteur Barométrique: 764.7  | Hauteur Barométrique: 764.2  |
+|                    | Direction du vent: cr. v. o. | Direction du vent: cr. v. o. |
+|                    | Force: 1 fort                | Force: 2                     |
+|                    | Nébulosité: 10 légère        | Nébulosité: 10 légère        |
+|                    | (Reg. 0 (terre)): 10         | (Reg. 0 (terre)): 10         |
+|                    | Direction des nuages: cr. v. o. | Direction des nuages: cr. v. o. |
+|                    | Pluie tombée: -              | Pluie tombée: -              |
+|                    | Température de l'air: 27.5   | Température de l'air: 27.4   |
+|                    | Hauteur de la mer: 12.2      | Hauteur de la mer: 11.8      |
+|                    | Agitation de l'eau: 1        | Agitation de l'eau: 1        |
+|                    | Densité au bout de la jetée: 1027.2 | Densité au bout de la jetée: 1026.3 |
+|                    | Température de l'eau: 21.9   | Température de l'eau: 23.3   |
+| V. 28 juin 1904    | Hauteur Barométrique: 769.0  | Hauteur Barométrique: 764.9  |
+|                    | Direction du vent: cr. 8     | Direction du vent: -         |
+|                    | Force: 1 fort                | Force: 0                     |
+|                    | Nébulosité: 10 légère        | Nébulosité: 10 légère        |
+|                    | (Reg. 0 (terre)): 1          | (Reg. 0 (terre)): 10         |
+|                    | Direction des nuages: -      | Direction des nuages: 10     |
+|                    | Pluie tombée: -              | Pluie tombée: -              |
+|                    | Température de l'air: 23.2   | Température de l'air: 27.4   |
+|                    | Hauteur de la mer: 10.8      | Hauteur de la mer: 16.9      |
+|                    | Agitation de l'eau: 1 fort   | Agitation de l'eau: 2        |
+|                    | Densité au bout de la jetée: 1026.9 | Densité au bout de la jetée: 1026.0 |
+|                    | Température de l'eau: 20.2   | Température de l'eau: 22.8   |
+```

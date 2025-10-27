@@ -1,0 +1,31 @@
+```plaintext
+| **Date**          | **Matin**                    | **Soir**                   |
+|-------------------|-----------------------------|---------------------------|
+| V. 26 février 1904 |                             |                           |
+| Hauteur Barométrique | —                          | 761.7                    |
+| Direction du vent   | —                          | cr. E                    |
+| Force              | 15                         | 3                        |
+| Nébulosité (Terre) | Reg. 0. (claire)           | 10 lég.                  |
+| Nébulosité (Mer)   | Reg. 0. (mer)              | 10 légers                |
+| Direction des nuages | —                          | —                        |
+| Pluie tombée       | —                          | —                        |
+| Température de l'air | —                          | 10.0                     |
+| Hauteur de la mer   | —                          | 39.7                     |
+| Agitation de l'eau  | —                          | 3                        |
+| Densité au bout de la jetée | —                       | 1030.0                  |
+| Température de l'eau | —                          | 10.6                     |
+|-------------------|-----------------------------|---------------------------|
+| V. 27 février 1904 |                             |                           |
+| Hauteur Barométrique | 762.3                     | 762.3                    |
+| Direction du vent   | N. 0                       | cr. 0                    |
+| Force              | 2                          | 2                        |
+| Nébulosité (Terre) | 10                         | 10                       |
+| Nébulosité (Mer)   | 10                         | 0                        |
+| Direction des nuages | —                          | S.                       |
+| Pluie tombée       | —                          | quelques g.              |
+| Température de l'air | 6.6                      | 8.6                      |
+| Hauteur de la mer   | 44.9                      | 87.6                     |
+| Agitation de l'eau  | 2 forte                   | 3                        |
+| Densité au bout de la jetée | 1030.2             | 1030.0                   |
+| Température de l'eau | 10.7                     | 10.6                     |
+```

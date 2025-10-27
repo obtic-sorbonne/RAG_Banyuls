@@ -1,0 +1,17 @@
+# Date: 26 Août 1901
+
+|  **Nom** | **9<sup>th</sup> Matin** | **3<sup>rd</sup> Soir** |
+| --- | --- | --- |
+| Hauteur Barométrique | 761,6 | 752,4 |
+| Direction du vent | N.N.F. | Ouest |
+| Force | 1 T. fort | 1 T. faible |
+| Nébulosité / Reg. O. (terre) | 0 | 0 |
+| Nébulosité / Reg. E. (mer) | 2 | 2 |
+| Direction des nuages | Ouest | Ouest |
+| Pluie tombée | 0 | 0 |
+| Température de l'air | 21,8 | 24,6 |
+| Hauteur de la mer | 45,1 | 44,4 |
+| Agitation de l'eau | 1 T. fort | 2 T. fort |
+| Densité de l'eau | 1027,2 | 1026,9 |
+|  |  |  |
+| Température de l'eau | 20,5 | 20,3 |

@@ -1,0 +1,18 @@
+| Date | 10 Mai 1901 |
+| --- | --- |
+| **Variable** | **9h Matin** | **3h Soir** |
+| Hauteur Barométrique | 764.7 | 764.3 |
+| Direction du vent | NORD | NORD |
+| Force | 3 fort | 2 |
+| Nébulosité | | |
+| - Reg. O. (Terre) | 1 | 4 |
+| - Reg. E. (mer) | 0 | 6dég c |
+| Direction des nuages | NORD | NORD |
+| Pluie tombée | 5.77 | 0 |
+| Température de l'air | 13.7 | 15.4 |
+| Hauteur de la mer | 7.9 | 64.1 |
+| Agitation de l'eau | 1 fort | 2 faibl. |
+| Densité de l'eau | | |
+| - au bout de la jettée | 1028.4 | 1028.6 |
+| - au Large | | |
+| Température de l'eau | 14.2 | 14.3 |

@@ -1,0 +1,24 @@
+| **Date**       | **Matin** | **Soir** |
+|----------------|-----------|-----------|
+| **V. 11 Octobre 1901** |       |       |
+| Hauteur Barométrique | 762.3 | 762.7 |
+| Rég. O. (Terre) | 0 | 1 légère |
+| Rég. E. (mer) | 0 | 0 |
+| Direction des nuages | sud-sud-ouest | sud |
+| Pluie tombée | // | // |
+| Température de l'air | 19.0 | 16.4 |
+| Hauteur de la mer | 12.0 | 13.8 |
+| Agitation de l'eau | 2 forte | 3 forte |
+| Densité au bout de la jetée | 1027.3 | 1027.2 |
+| Température de l'eau | 18.0 | 18.3 |
+| **V. 12 Octobre 1901** |       |       |
+| Hauteur Barométrique | 762.3 | 760.7 |
+| Rég. O. (lune) | 0 | 1 légère |
+| Rég. E. (mer) | 2 légère | 2 légère |
+| Direction des nuages | sud | // |
+| Pluie tombée | // | // |
+| Température de l'air | 19.0 | 17.7 |
+| Hauteur de la mer | 43.9 | 46.7 |
+| Agitation de l'eau | 3 faible | 2 faible |
+| Densité au bout de la jetée | 1027.3 | 1027.2 |
+| Température de l'eau | 17.7 | 18.2 |

@@ -1,0 +1,31 @@
+```plaintext
+| V. 24 Janvier 1905 | Matin | Soir |
+|---------------------|-------|------|
+| Hauteur Barométrique | 770.4 | 769.8 |
+| Direction du vent    | S.S.E | S.S.E |
+| Force                | 8     | Fort  |
+| Nébulosité           | Rég. O. (terre) | 10   | 10  |
+| (Rég. E. (mer))      |       | 10   | 10  |
+| Direction des nuages | S.S.E | S.S.E |
+| Pluie tombée         | 18.9 | 7.1  |
+| Température de l'air | 12.9 | 12.7 |
+| Hauteur de la mer    | 3     | 3    |
+| Agitation de l'eau   | 3 Fort | 3 Fort |
+| Densité au bout de la jetée |       | 1029.3 |
+| Température de l'eau |        |      |
+
+| V. 25 Janvier 1905 | Matin | Soir |
+|---------------------|-------|------|
+| Hauteur Barométrique | 770.8 | 770.1 |
+| Direction du vent    | "     | S.S.E |
+| Force                | 0     | 1 T. Faible |
+| Nébulosité           | Rég. O. (terre) | 10   | 10  |
+| (Rég. E. (mer))      |       | 10   | 10  |
+| Direction des nuages | S.S.E | O.N.O. |
+| Pluie tombée         | 1.76  | quelques g |
+| Température de l'air | 10.4  | 13.4 |
+| Hauteur de la mer    | 36.3  | 13.1 |
+| Agitation de l'eau   | 3 Fort | 3    |
+| Densité au bout de la jetée | 1028.8 | 1028.0 |
+| Température de l'eau | 11.8  | 11.8 |
+```

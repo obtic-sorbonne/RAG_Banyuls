@@ -1,0 +1,17 @@
+# Date: 8 Février 1902
+
+|  Name | 2nd Mardi 3rd Soir  |
+| --- | --- |
+|  Hauteur Peuronétique | 7/8.3  |
+|  Direction du vent | 3/4.0  |
+|  Force | 3 fort  |
+|  Mébulosite (Reg. O. (1ère)) | 10  |
+|  Mébulosite (Reg. E. (mer)) | 10  |
+|  Direction des nuages | 10  |
+|  Élite tombée | 11.3.2  |
+|  Température de l'air | 13.2  |
+|  Hauteur de la mer | 44.8  |
+|  Égitation de l'eau | 3 fort  |
+|  Densité de l'eau (au bout de la jeté) | 1028.9  |
+|  Sémérité de l'eau (au large) |   |
+|  Température de l'eau | 11.7  |

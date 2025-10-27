@@ -1,0 +1,19 @@
+# Date de octobre - 1900
+
+|  | 8 h | 3 h |
+| --- | --- | --- |
+|  Hauteur barométrique | 773,0 | 773,2  |
+|  Direction du vent | 0 | 0  |
+|  Force | 1 | 1  |
+|  Nébulosité | 8 | 4  |
+|  (reg. 8 mers) | 0 | 1  |
+|  Direction des nuages | 0 | N.O  |
+|  Pluie tombée |  |   |
+|  Température de l'air | 28,7 | 28,0  |
+|  Hauteur de la mer | 38,3 | 34,3  |
+|  Agitation de l'eau | 0 | 1  |
+|  Densité de l'eau (au bout de la jetée) | 1025,5 | 1025,5  |
+|  Densité de l'eau (au large) |  |   |
+|  Température de l'eau | 21,4 | 28,0  |
+
+Observat. —

@@ -1,0 +1,28 @@
+| V. 17 Janvier 1908 | Matin | Soir |
+|-------------------|-------|------|
+| Hauteur Barométrique | 772,7 |      |
+| Direction du Vent |       |      |
+| Force | 0 |        |
+| Nébulosité (Reg. O. Ciel) | 60 |      |
+| Nébulosité (Reg. Di. Cour) | 60 |      |
+| Direction des nuages | S.E.S |      |
+| Pluie Tombée | " |      |
+| Température de l'air | 10,8 |      |
+| Hauteur de la mer | 12,8 |      |
+| Agitation de l'eau | 1 |        |
+| Denvité au haut de la jetée | 1029,7 |      |
+| Température de l'eau | 11,8 |      |
+| is au poisson | 9,8 |      |
+| V. 18 Janvier 1908 | Matin | Soir |
+| Hauteur Barométrique | 789,7 |      |
+| Direction du Vent | Sud |      |
+| Force | 15 | 1 fort |
+| Nébulosité (Reg. O. Ciel) | 6 |        |
+| Nébulosité (Reg. Di. Cour) | 1 |        |
+| Direction des nuages | S.O |      |
+| Pluie Tombée | " |      |
+| Température de l'air | 13,0 |      |
+| Hauteur de la mer | 6th |      |
+| Agitation de l'eau | 1 fort |      |
+| Denvité au haut de la jetée | 1027,7 |      |
+| Température de l'eau | 13,0 |      |

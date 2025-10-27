@@ -1,0 +1,17 @@
+# Date: 7 Août 1901
+
+|   | 9<sup>th</sup> Mardi | 3<sup>rd</sup> Soir |
+| --- | --- | --- |
+| Hauteur Barométrique | 704.7 | 703.8 |
+| Direction du vent | N.N.O | N.N.O |
+| Force | faible | 4 faible |
+| Nébulosité / Reg. O. (terre) | 0 | 0 |
+| Nébulosité / Reg. E. (mer) | 0 | 0 |
+| Direction des nuages | N.N.O | N.N.O |
+| Pluie tombée |  |  |
+| Température de l'air | 28.0 | 25.8 |
+| Hauteur de la mer | 57.4 | 50.9 |
+| Agitation de l'eau | 3 T. fort | 4 faible |
+| Densité de l'eau | 1027.2 | 1027.0 |
+|  |  |  |
+| Température de l'eau | 20.7 | 21.3 |

@@ -1,0 +1,16 @@
+```plaintext
+|  1. 17 Juin - 1905 | Matin | Soir  |
+| --- | --- | --- |
+|  Hauteur Barométrique | 765.0 | 764.5  |
+|  Direction du vent | v.v.o. | v.v.o.  |
+|  Force | 1 | 2  |
+|  Nébulosité | 10 | 10  |
+|  (Reg. R. (mer)) | 10 | 10  |
+|  Direction des nuages | 10 | 10  |
+|  Pluie tombée | 20,9 | 20,9  |
+|  Température de l'air | 19,5 | 19,5  |
+|  Hauteur de la mer | 42,1 | 39,5  |
+|  Oxidation de l'eau | 1,9 | 1,9  |
+|  Densité au bout de la jetée | 1029,1 | 1029,2  |
+|  Température de l'eau | 19,2 | 19,4  |
+```

@@ -1,0 +1,31 @@
+| V. 9 Xbre 1907 | Matin | Soir |
+|---|---|---|
+| Hauteur Barométrique | 767.2 | 767.2 |
+| Direction du Vent | cr. o | cr. o |
+| Force | 3 | 2 |
+| Nébulosité | 10 | 10 |
+| (Res. G. (Terre)) | | |
+| (Res. E. (Ciel)) | 10 | 10 |
+| Direction des nuages | cr. o | cr. o |
+| Pluie tombée | 2.0 | " |
+| Température de l'air | 16.0 | 17.0 |
+| Hauteur de la mer | 36.8 | 46.9 |
+| Agitation de la mer | 2 | 3 faible |
+| Remise au bord de la jetée | 1027.1 | 1027.6 |
+| Température de l'eau | 17.2 | 17.3 |
+
+| V. 10 Xbre 1907 | Matin | Soir |
+|---|---|---|
+| Hauteur Barométrique | 763.7 | 764.0 |
+| Direction du Vent | cr. o | cr. o |
+| Force | 3 | 2 |
+| Nébulosité | 10 | 10 |
+| (Res. G. (Terre)) | | |
+| (Res. E. (Ciel)) | 10 | 10 |
+| Direction des nuages | cr. o | S. o |
+| Pluie tombée | " | " |
+| Température de l'air | 17.2 | 16.8 |
+| Hauteur de la mer | 37.3 | 40.2 |
+| Agitation de la mer | 1 | 1 |
+| Remise au bord de la jetée | 1027.6 | 1027.7 |
+| Température de l'eau | 19.0 | 19.4 |

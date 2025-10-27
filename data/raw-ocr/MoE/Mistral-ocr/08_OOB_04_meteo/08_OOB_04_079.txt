@@ -1,0 +1,29 @@
+## V. 8 (Avril. 1902) Moatin Soir
+
+|  J kantour | N Marométrique | 453.2 | 481.4  |
+| --- | --- | --- | --- |
+|  Direction du vent |  | 2nd | 2.28  |
+|  Force |  | 1 | 8  |
+|  Nocbulosité | (Reg. O. (tire) | 0 | 3 h/16 m²  |
+|  Direction des images |  | 0 | 2 h/16 m²  |
+|  Flux Lomba |  |  |   |
+|  Permperature de l'air |  | 13.0 | 11.1  |
+|  J kantour de la mer |  | 46.6 | 15.2  |
+|  Régulation de l'eau |  | 3 faible | 3 faible  |
+|  Sensité au bout de la jeté |  | 1028.1 | 1024.9  |
+|  Permperature de l'eau |  | 14.2 | 14.4  |
+
+## V. 9 (Avril. 1902) Moatin Soir
+
+|  J kantour | N Marométrique | 419.9 | 417.4  |
+| --- | --- | --- | --- |
+|  Direction du vent |  | 2nd | 2nd  |
+|  Force |  | 1 fort | 3 fort  |
+|  Nocbulosité | (Reg. O. (tire) | 10 | 10  |
+|  Direction des images |  | 10 | 10  |
+|  Flux Lomba |  |  |   |
+|  Permperature de l'air |  | 16.0 | 18.4  |
+|  J kantour de la mer |  | 37.8 | 49.3  |
+|  Régulation de l'eau |  | 1 | 17.7  |
+|  Sensité au bout de la jeté |  | 1028.3 | 1028.0  |
+|  Permperature de l'eau |  | 13.4 | 13.2  |

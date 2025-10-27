@@ -1,0 +1,27 @@
+|  9. 13 Juin - 1902 | Matin | Soir  |
+| --- | --- | --- |
+|  Hauteur Praxometrique | 760,6 | 761,3  |
+|  Direction du vent | cr.or.o | ouest  |
+|  Force | 2 fort | 1  |
+|  (Reg. O. (tre) | 10 | 10  |
+|  (Reg. E. (mer) |  |   |
+|  Direction des images | cr.or.o | 3,37  |
+|  (Précision des images) |  |   |
+|  17,7 | 17,7 | 17,7  |
+|  47,1 | 44,2 | 44,2  |
+|  1 fort | 1 fort | 1 fort  |
+|  Sensité au bout de la jetée | 1027,8 | 1027,6  |
+|  (Sémolarité de l'eau) | 16,1 | 16,3  |
+|  9. 14 Juin - 1902 | Matin | Soir  |
+|  Hauteur Praxometrique | 764,1 | 762,9  |
+|  Direction du vent | cr.or.o | ouest  |
+|  Force | 3 fort | 2  |
+|  (Reg. O. (tre) |  |   |
+|  (Reg. E. (mer) |  |   |
+|  Direction des images | cr.or.o | cr.or.o  |
+|  (Précision des images) |  |   |
+|  16,8 | 18,6 | 18,6  |
+|  18,7 | 11,4 | 11,4  |
+|  27 fort | 27 fort | 27 fort  |
+|  Sensité au bout de la jetée | 1027,8 | 1027,8  |
+|  (Sémolarité de l'eau) | 16,2 | 16,3  |

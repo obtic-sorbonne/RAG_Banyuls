@@ -1,0 +1,15 @@
+| **Date**              | **8 août 1901**                        |                                                              |
+|-----------------------|---------------------------------------|------------------------------------------------------------|
+| **Variables**         | **9 H Matin**                        | **3 H Soir**                                                |
+| **Hauteur Barométrique** | **765.6**                            | **765.0**                                                  |
+| **Direction du vent** | **N.E**                              | **"**                                                      |
+| **Force**             | **1 fort**                           | **" 0**                                                    |
+| **Nébulosité**        | **Reg. O (Clair)**                   | **0**                                                      |
+|                      | **Reg. E (mer)**                     | **0**                                                      |
+| **Direction des nuages** | **"**                              | **"**                                                      |
+| **Pluie tombée**      | **"**                              | **"**                                                      |
+| **Température de l'air** | **21.6°**                         | **26.4°**                                                 |
+| **Hauteur de la mer** | **59.6°**                         | **45.4°**                                                 |
+| **Agitation de l'eau** | **2 fort**                           | **2**                                                      |
+| **Densité de l'eau**  | **1027.1 (bout de la jetée)**         | **1026.7 (au large)**                                      |
+| **Température de l'eau** | **21.4°**                         | **21.8°**                                                 |

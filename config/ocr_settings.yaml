@@ -1,0 +1,61 @@
+
+ocr:
+  api_provider: "openrouter"
+#  api_provider: "mistral"
+#  api_provider: "qwen"
+#  api_provider: "kraken"
+
+
+  prompt_version: "v2"
+  output: "data/raw-ocr/MoE/Qwen-VL-72b-instruct"
+#  output: "data/raw-ocr/MoE/Mistral-ocr"
+#  output: "data/raw-ocr/MoE/Kraken-ocr"
+#  output: "data/raw-ocr/MoE/Qwen-VL-32b-instruct"
+
+  #  input: "/Volumes/T7-Shield/RAG-DATA/ARCHIVES_BANYULS_05/"
+  input: "data/images/original"
+
+
+
+
+#  kraken_models_dir: "data/kraken/models"
+  kraken_model_path: "data/kraken/models/recognition/McCATMuS_nfd_nofix_V1.mlmodel"
+  kraken_segment_path: "data/kraken/models/segmentation/seg_news_1.0.mlmodel"
+#  openrouter_model: "qwen/qwen2.5-vl-32b-instruct"
+  openrouter_model: "qwen/qwen2.5-vl-72b-instruct:free"
+moe:
+  ## For Post process
+  base_dir: "data/raw-ocr/MoE"
+  output_dir: "data/raw-ocr/cleaned"
+  models:
+#    - "Qwen-VL-72b-instruct"
+    - "Qwen-VL-32b-instruct"
+    - "Mistral-ocr"
+    - "Kraken-ocr"
+  trust_weights:
+#    "Qwen-VL-72b-instruct": 1.8
+    "Qwen-VL-32b-instruct": 1.0
+    "Kraken-ocr": 0.7
+    "Mistral-ocr": 0.5
+  min_agreement: 0.75
+  context_window: 3  # Nu
+
+llm_judge:
+  base_dir: "data/raw-ocr/MoE"
+  output_dir: "data/raw-ocr/judged/context-72b-candidate-4"
+
+  provider: "openrouter"
+  openrouter_model: "qwen/qwen-2.5-72b-instruct:free"
+  qwen_model: "qwen2.5-72b-instruct"  # Or "qwen2.5-32b-chat" for faster processing
+
+
+  context: "Qwen-VL-72b-instruct"
+  candidates:
+    - "Qwen-VL-72b-instruct"
+    - "Qwen-VL-32b-instruct"
+    - "Mistral-ocr"
+    - "Kraken-ocr"
+  #  qwen_api_key: "your_api_key_here"
+  context_window: 3  # Pages of context to provide
+  max_retries: 5
+  timeout: 120

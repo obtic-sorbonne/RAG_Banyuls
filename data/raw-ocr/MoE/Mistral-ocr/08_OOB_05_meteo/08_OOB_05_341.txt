@@ -1,0 +1,32 @@
+# 13 Janvier 1908
+
+|  **Position** | **Noat** | **Prix**  |
+| --- | --- | --- |
+|  1rauteur Mornambique | 289.0 | 8.7%  |
+|  Direction du Vent | 8.7% |   |
+|  1ère - 1/5 | 1/500 |   |
+|  1/5 Reg. C. (min) | 1/50 |   |
+|  1/5 Reg. N. (min) | 1/50 |   |
+|  1/5 Direction des mays | 8.7% |   |
+|  1/5 Flue Tombe | 6.1% |   |
+|  1/5 Température de l'air | 11.3 |   |
+|  1/5 Hauteur de la mer | 3 |   |
+|  1/5 Régitation de l'eau | 1 |   |
+|  1/5 Permit au bout de la jetée | 1 |   |
+|  1/5 Température de l'eau | 3 |   |
+
+# 14 Janvier 1908
+
+|  **Position** | **Noat** | **Prix**  |
+| --- | --- | --- |
+|  1rauteur Mornambique | 222.6 | 122.3  |
+|  Direction du Vent | 1/50 | 3.8%  |
+|  1ère - 1/5 | 1/50 | 1/500  |
+|  1/5 Reg. C. (min) | 1/50 | 1/50  |
+|  1/5 Hauteur de la mer | 10 | 10  |
+|  1/5 Direction des mays | 10.0 | 10.0  |
+|  1/5 Flue Tombe | 11.6 | 11.8  |
+|  1/5 Hauteur de la mer | 48.1 | 48.4  |
+|  1/5 Régation de l'eau | 5 | 5 faible  |
+|  1/5 Permit au bout de la jetée | 10.8% | 10.8%  |
+|  1/5 Température de l'eau | 18.8 | 18.8  |

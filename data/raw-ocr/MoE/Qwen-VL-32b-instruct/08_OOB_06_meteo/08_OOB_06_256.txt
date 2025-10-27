@@ -1,0 +1,11 @@
+| **Date** | **Nombre de bateaux sortis** | **Température de l'air (maxima)** | **Température de l'air (minima)** | **Température de l'eau (maxima)** | **Température de l'eau (minima)** | **Pluie tombée (en millim)** | **Evaporation (en millim)** | **Direction du vent (à 9 h m.)** | **Force (à 9 h m.)** | **Direction des nuages (à 9 h m.)** | **Nébulosité (Ouest à 9 h m.)** | **Nébulosité (Est à 9 h m.)** | **Hauteur de la mer (en centimètres)** | **Agitation de l'eau (à 9 h m.)** | **Densité de l'eau (à 9 h m.)** | **Température de l'eau (matin)** | **Température de l'eau (soir)** |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| 1902-02-27 | Non signalé | 20,9 | 18,1 | Non signalé | Non signalé | Non signalé | Non signalé | Nord | 1 fort | Nord | 0 | 2 | 43,1 | 1 fort | 1027,4 | 23,9 | 11,8 |
+| 1902-02-29 | Non signalé | 24,8 | 8,8 | Non signalé | Non signalé | 11 | Non signalé | Ouest | 1 | Ouest | 10 | 10 | 82,6 et 80,8 | 1 | 1027,2 et 1029,0 | 12,9 et 24,9 | 14,0 et 6,7 |
+
+---
+
+| **Direction du vent (à 3 h s.)** | **Force (à 3 h s.)** | **Direction des nuages (à 3 h s.)** | **Nébulosité (Ouest à 3 h s.)** | **Nébulosité (Est à 3 h s.)** | **Hauteur de la mer (en centimètres)** | **Agitation de l'eau (à 3 h s.)** | **Densité de l'eau (à 3 h s.)** | **Température de l'eau (matin)** | **Température de l'eau (soir)** |
+|---|---|---|---|---|---|---|---|---|---|
+| Nord | 1 fort | Nord | Non signalé | Non signalé | Non signalé | Non signalé | Non signalé | Non signalé | Non signalé |
+| Nord | 6 | Nord | 10 | 10 | 80,8 | 1 | 1029,0 | 12,9 | 14,0 |

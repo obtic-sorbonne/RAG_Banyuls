@@ -1,0 +1,31 @@
+```plaintext
+| V. 18 juillet 1902 | Matin | Soir  |
+|---------------------|-------|-------|
+| Hauteur Barométrique (mmHg) | 764.6 | 763.6 |
+| Direction du vent | Nord | S.-S.-E. |
+| Force | 15 | 1 fort 2 fort |
+| Nébulosité (Reg. O. (terre)) | 0 | 2 |
+| Nébulosité (Reg. E. (mer)) | 0 | 0 |
+| Direction des nuages | -- | croiss. |
+| Pluie tombée | -- | -- |
+| Température de l'air (°C) | 26.1 | 28.8 |
+| Hauteur de la mer (cm) | 12.3 | 14.2 |
+| Agitation de l'eau | faible | 1 |
+| Densité au bout de la jetée (g/cm³) | 1026.7 | 1026.4 |
+| Température de l'eau (°C) | 22.1 | 24.4 |
+
+| V. 19 juillet 1902 | Matin | Soir  |
+|---------------------|-------|-------|
+| Hauteur Barométrique (mmHg) | 763.3 | -- |
+| Direction du vent | Nord | -- |
+| Force | 15 | 2 faible |
+| Nébulosité (Reg. O. (terre)) | 10 léger. | -- |
+| Nébulosité (Reg. E. (mer)) | 10 léger. | -- |
+| Direction des nuages | -- | Nord |
+| Pluie tombée | -- | -- |
+| Température de l'air (°C) | 29.6 | -- |
+| Hauteur de la mer (cm) | 13.6 | -- |
+| Agitation de l'eau | 1 faible | -- |
+| Densité au bout de la jetée (g/cm³) | 1026.4 | -- |
+| Température de l'eau (°C) | 23.3 | -- |
+```

@@ -1,0 +1,18 @@
+```markdown
+# JEUDI 19 SEPTEMBRE 1907
+
+| **Date**               | **Matin** | **Soir** |
+|------------------------|-----------|----------|
+| Hauteur barométrique   | 763.6     | 768.0    |
+| Direction du vent      | Est       | Est      |
+| Force                  | 3 (fort)  | 1 (faible)|
+| Nébulosité (Reg. C. claire) | 10 | 10 |
+| Nébulosité (Reg. en mer) | 8 | 6 |
+| Direction des nuages   | Nord      | Nord     |
+| Pluie tombée           | —         | —        |
+| Température de l'air   | 20.7 °C   | 20.6 °C  |
+| Hauteur de la mer      | 169.0 cm  | 169.0 cm |
+| Agitation de l'eau     | 2 (fort)  | 2 (faible)|
+| Densité au bout de la jetée | 1027.8 g/cm³ | 1027.3 g/cm³ |
+| Température de l'eau   | 20.7 °C   | 20.6 °C  |
+```

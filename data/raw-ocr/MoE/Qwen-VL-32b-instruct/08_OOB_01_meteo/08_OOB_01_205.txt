@@ -1,0 +1,46 @@
+# Date - 16 février - 1901
+
+|  Hauteur | 9th Matin 3rd Soir  |
+| --- | --- |
+|  Direction du vent | 465,7 465,7  |
+|  Force | Nom  |
+|  8 faith | 7  |
+|  0 | 0  |
+|  0 | 1  |
+|  0 | 1  |
+|  0 | 2  |
+|  5,5 | 60,5  |
+|  6 fort | 6 fort  |
+|  2,7 | 8,7  |
+
+Sémolarisation de l'eau
+
+|  9th Matin 3rd Soir |  |   |
+| --- | --- | --- |
+|  465,7 465,7 |  |   |
+|  Nom |  | Nom  |
+|  8 faith |  | 7  |
+|  0 |  | 0  |
+|  0 |  | 1  |
+|  1 |  | 1  |
+|  0 |  | 1  |
+|  0 |  | 2  |
+|  2 |  | 2,5  |
+|  5,5 |  | 60,5  |
+|  6 fort |  | 6 fort  |
+
+Sémolarisation de l'eau
+
+|  9th Matin 3rd Soir |  |   |
+| --- | --- | --- |
+|  465,7 465,7 |  |   |
+|  Nom |  | Nom  |
+|  8 faith |  | 7  |
+|  0 |  | 0  |
+|  0 |  | 1  |
+|  1 |  | 1  |
+|  0 |  | 1  |
+|  0 |  | 2  |
+|  2 |  | 2,5  |
+|  5,5 |  | 60,5  |
+|  6 fort |  | 6 fort  |

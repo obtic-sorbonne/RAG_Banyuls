@@ -1,0 +1,33 @@
+```markdown
+# VENDREDI 6 SEPTEMBRE 1907
+
+| **Date** | **Matin** | **Soir** |
+|----------|-----------|----------|
+| Hauteur barométrique | 770.0 | 770.0 |
+| Direction du vent | E.C.0 | E.C.0 |
+| Force | 5 | 5 |
+| Nébulosité (Reg. C. claire) | 0 | 0 |
+| Direction des nuages | —— | —— |
+| Pluie tombée | —— | —— |
+| Température de l'air | 24.6 | 25.0 |
+| Hauteur de la mer | 19.1 | 61.6 |
+| Agitation de l'eau | 1 (faible) | 1 (faible) |
+| Densité au bout de la jetée | 1027.0 | 1026.5 |
+| Température de l'eau | 21.1 | 22.9 |
+
+# SAMEDI 7 SEPTEMBRE 1907
+
+| **Date** | **Matin** | **Soir** |
+|----------|-----------|----------|
+| Hauteur barométrique | 771.2 | 770.3 |
+| Direction du vent | E.8 | S.8 |
+| Force | 5 | 1 (faible) |
+| Nébulosité (Reg. 2. (mer)) | 0 | 0 |
+| Direction des nuages | —— | —— |
+| Pluie tombée | —— | —— |
+| Température de l'air | 22.8 | 25.0 |
+| Hauteur de la mer | 18.9 | 61.8 |
+| Agitation de l'eau | 1 (faible) | 1 (faible) |
+| Densité au bout de la jetée | 1026.5 | 1026.0 |
+| Température de l'eau | 22.9 | 24.7 |
+```

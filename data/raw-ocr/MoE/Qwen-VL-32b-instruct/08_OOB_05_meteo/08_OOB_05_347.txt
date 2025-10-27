@@ -1,0 +1,27 @@
+| **Date**       | **Observations**                         | **Matin**               | **Soir**                |
+|----------------|----------------------------------------|------------------------|------------------------|
+| 28 janvier 1908 | **Hauteur Barométrique**                | 766,9                  | 764,2                  |
+|                | **Direction du Vent**                    | cr. 0                  | Est                    |
+|                | **Force**                               | 3                      | 1.7. force             |
+|                | **Nébulosité**                          | 10                     | 10                     |
+|                | **(Reg. ci. (murs)**                    | 10                     | 10                     |
+|                | **Direction des mags**                  | cr. 0                  | cr. 0                  |
+|                | **Pluie Tombée**                        | -                      | -                      |
+|                | **Température de l'air**                | 14.7                   | 16.9                   |
+|                | **Hauteur de la mer**                   | 32. 9                  | 39.2                   |
+|                | **Agitation de l'eau**                  | 2                      | 2 très                 |
+|                | **Vitesse au bout de la jetée**         | 627.0                  | 428.0                  |
+|                | **Température de l'eau**                | 11,6                   | 12,0                   |
+|                |                                          | -                      | 12,6                   |
+| 29 janvier 1908 | **Hauteur Barométrique**                | 778.3                  | 796.0                  |
+|                | **Direction du Vent**                    | cr. 0                  | cr. 8                  |
+|                | **Force**                               | 3 fort                 | 2 fort                 |
+|                | **Nébulosité**                          | 10                     | 10                     |
+|                | **(Reg. ci. (murs)**                    | 10                     | 10                     |
+|                | **Direction des mags**                  | cr. 0                  | cr. 0                  |
+|                | **Pluie Tombée**                        | quelques g             | -                      |
+|                | **Température de l'air**                | 9.8                    | 11.8                   |
+|                | **Hauteur de la mer**                   | 16. 9                  | 46. 8                  |
+|                | **Agitation de l'eau**                  | 2                      | 2 fort                 |
+|                | **Vitesse au bout de la jetée**         | 627.4                  | 1027.1                 |
+|                | **Température de l'eau**                | 11,7                   | 12,0                   |

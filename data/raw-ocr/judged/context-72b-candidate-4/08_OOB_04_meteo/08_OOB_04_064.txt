@@ -1,0 +1,32 @@
+```plaintext
+| **Date**       | **Matin**                | **Soir**                |
+|----------------|--------------------------|-------------------------|
+| **24 février - 1902** |  |  |
+| Hauteur Barométrique | 796.6 | — |
+| Direction du vent | S.O. | — |
+| Force | 3 | — |
+| Nébulosité        |  |  |
+|   - Rég. O. (Terre) | 10 | — |
+|   - Rég. É. (Mer)  | 10 | — |
+| Direction des nuages | S.O. | — |
+| Pluie Tombée | — | — |
+| Température de l'air | 12.6 | — |
+| Hauteur de la mer | 37.3 | — |
+| Agitation de l'eau | 2 | — |
+| Densité au bout de la jetée | 1028.9 | — |
+| Température de l'eau | 11.1 | — |
+| **25 février - 1902** |  |  |
+| Hauteur Barométrique | 791.8 | 792.2 |
+| Direction du vent | E.E.S | S.S.8 |
+| Force | 3 fort | 17 faible |
+| Nébulosité        |  |  |
+|   - Rég. O. (Terre) | 6 | 1 |
+|   - Rég. É. (Mer)  | 6 | 1 |
+| Direction des nuages | E.E.S | Sud |
+| Pluie Tombée | quelques g | — |
+| Température de l'air | 13.3 | 13.7 |
+| Hauteur de la mer | 24.1 | 42.4 |
+| Agitation de l'eau | 3 fort | 3 fort |
+| Densité au bout de la jetée | 1028.7 | 1028.9 |
+| Température de l'eau | 11.9 | 11.3 |
+```

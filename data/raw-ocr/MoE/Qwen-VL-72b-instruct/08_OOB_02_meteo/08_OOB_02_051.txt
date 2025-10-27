@@ -1,0 +1,17 @@
+| **Date** | 30 Avril 1901 |
+| **Observations** | **9h Matin** | **3h Soir** |
+| **Hauteur Barométrique** | 765.3 | 763.7 |
+| **Direction du vent** | N.-N.E. | Sud |
+| **Force** | 2 faible | 2 faible |
+| **Nébulosité** | 7 | 7 |
+| Reg. O. (claire) |
+| Reg. E. (moiré) | 0 | 0 |
+| **Direction des nuages** | Sud | Sud |
+| **Pluie tombée** | **0** |
+| **Température de l'air** | 12.0 | 14.7 |
+| **Hauteur de la mer** | 60.2 | 58.2 |
+| **Agitation de l'eau** | 1 T. fort | 1 T. faible |
+| **Densité de l'eau** | |
+| au bout de la jetée | 1027.9 | 1028.1 |
+| au large |
+| **Température de l'eau** | 13.6 | 14.6 |

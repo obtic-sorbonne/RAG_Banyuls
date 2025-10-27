@@ -1,0 +1,28 @@
+| Date        | Matin     | Soir      |
+|-------------|-----------|-----------|
+| 2 Mai 1904  |           |           |
+| H. Barométr. | 768.0     | 768.0     |
+| Direction du vent | cr.c.r.o | s.s.ë     |
+| Force       | 2         | 1         |
+| Reg. (cloue) | 0         | 0         |
+| Reg. (mer)  | 0         | 0         |
+| Direction des images | cr.c.r.o | -         |
+| Pluie tombée     | -         | -         |
+| T. de l'air      | 19.0     | 23.2     |
+| H. de la mer     | 48.4     | 19.8     |
+| Agitation de l'eau | 1         | faible     |
+| Pression au bout de la jetée | 1028.2 | 1027.7 |
+| T. de l'eau      | 19.7     | 17.9     |
+| 3 Mai 1904  |           |           |
+| H. Barométr. | 768.1     | 766.6     |
+| Direction du vent | cr.c.r.o | s.s.ë     |
+| Force       | 2         | 1         |
+| Reg. (cloue) | 10        | 10        |
+| Reg. (mer)  | 10        | 10        |
+| Direction des images | cr.c.r.o | Ouest    |
+| Pluie tombée     | -         | -         |
+| T. de l'air      | 19.0     | 23.3     |
+| H. de la mer     | 12.6     | 64.4     |
+| Agitation de l'eau | 1         | faible     |
+| Pression au bout de la jetée | 1028.8 | 1028.0 |
+| T. de l'eau      | 19.4     | 16.6     |

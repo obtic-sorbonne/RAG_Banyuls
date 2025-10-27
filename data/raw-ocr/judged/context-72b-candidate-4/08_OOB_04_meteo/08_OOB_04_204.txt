@@ -1,0 +1,32 @@
+```
+| Date         | Matin           | Soir            |
+|--------------|-----------------|-----------------|
+| **V. 19 Mars 1903** |                   |          |
+| Hauteur Barométrique | 770.7 | 770.4 |
+| Direction du vent      | c.r. o | c.r. o |
+| Force                | 4    | 2    |
+| Nébulosité          |        |      |
+|   Reg. O (Clair)     | 10   | 0    |
+|   Reg. E. (Mer)     | 10   | 0    |
+| Direction des nuages | "   | "   |
+| Pluie tombée         |     |      |
+| Température de l'air | 11.6 | 14.8 |
+| Hauteur de la mer    | 63.7 | 69.7 |
+| Agitation de l'eau   | 2/4 | 3    |
+| Densité au bout de la jetée | 1027.1 | 1028.3 |
+| Température de l'eau | 11.4 | 11.8 |
+| **V. 20 Mars 1903** |                   |          |
+| Hauteur Barométrique | 774.3 | 773.2 |
+| Direction du vent      | c.r. o | crous |
+| Force                | 1/2/3 | 1    |
+| Nébulosité          |        |      |
+|   Reg. O (Clair)     | 3 dégr. mi. | 0    |
+|   Reg. E. (Mer)     | 2 lég. | 1    |
+| Direction des nuages | "   | "   |
+| Pluie tombée         |     |      |
+| Température de l'air | 14.0 | 14.4 |
+| Hauteur de la mer    | 64.2 | 64.7 |
+| Agitation de l'eau   | 1 jaille | 1    |
+| Densité au bout de la jetée | 1028.7 | 1027.7 |
+| Température de l'eau | 11.8 | 12.4 |
+```

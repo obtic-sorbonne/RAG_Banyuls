@@ -1,0 +1,26 @@
+| V. 8 Février. 1908 | Matin | Soir |
+|-------------------|-------|------|
+| Hauteur Barométrique | 779.2 | 771.4 |
+| Direction du Vent | er. S | S. 8 |
+| Force | 15 | 1 fort |
+| Nébulosité (Reg. C. Aire) | 0 | 0 |
+| Direction des nuages | " | " |
+| Pluie Tombée | " | " |
+| Température de l'air | 9.6 | 13.0 |
+| Hauteur de la mer | 79.4 | 77.6 |
+| Agitation de l'eau | 2 | 2 |
+| Densité au bout de la jetée | 628.1 | 628.6 |
+| Température de l'eau | 10.7 | 11.1 |
+| is au poirard | 11.2 | 11.2 |
+| V. 10 Février. 1908 | Matin | Soir |
+| Hauteur Barométrique | 769.3 | 768.6 |
+| Direction du Vent | er. 0 | er. 0 |
+| Force | 15 | 2 fort |
+| Nébulosité (Reg. C. Aire) | 0 | 0 |
+| Direction des nuages | " | " |
+| Pluie Tombée | " | " |
+| Température de l'air | 10.4 | 12.3 |
+| Hauteur de la mer | 79.1 | 77.4 |
+| Agitation de l'eau | 3 | 3 |
+| Densité au bout de la jetée | 628.6 | 629.4 |
+| Température de l'eau | 11.3 | 11.8 |

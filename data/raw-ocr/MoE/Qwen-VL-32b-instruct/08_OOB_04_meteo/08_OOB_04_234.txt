@@ -1,0 +1,29 @@
+# 2. 30 Mai 1903
+
+|  Hanteur | Nomenclature | 7/7.3 | 7/7.1  |
+| --- | --- | --- | --- |
+|  Direction | du vent | or.or.o |   |
+|  Pozee | is | 1 port | 0  |
+|  (Bioboutosité) | (Reg. O. (tenue) | 10 | 10  |
+|  Direction | des mages | 10 | 10  |
+|  (Clue Tombeï) |  | guedgerang |   |
+|  Gemplierature | de l'air | 21.7 | 28.7  |
+|  Hanteur | de la mer | 35.5 | 48.5  |
+|  (Agitation) | de l'eau | 1 | 17.7  |
+|  Densité | au bout de la jeté | 1027.2 | 1027.1  |
+|  Gemplierature | de l'eau | 17.9 | 19.0  |
+
+# 2. 3 Juin 1903
+
+|  Hanteur | Nomenclature | 7/7.1 | 7/8.4  |
+| --- | --- | --- | --- |
+|  Direction | du vent | or.or.o | or. 8  |
+|  Pozee | is | 3 port | 1 port  |
+|  (Bioboutosité) | (Reg. O. (tenue) | 10 | 10  |
+|  Direction | des mages | or.or.o | or. 0  |
+|  (Clue Tombeï) |  | 4.0 |   |
+|  Gemplierature | de l'air | 17.1 | 22.3  |
+|  Hanteur | de la mer | 44.9 | 39.5  |
+|  (Agitation) | de l'eau | 2 port | 1  |
+|  Densité | au bout de la jeté | 1026.7 | 1026.5  |
+|  Gemplierature | de l'eau | 19.1 | 19.5  |

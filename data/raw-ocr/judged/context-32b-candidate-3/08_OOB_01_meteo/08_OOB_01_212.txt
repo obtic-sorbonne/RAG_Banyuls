@@ -1,0 +1,17 @@
+# Date 23 Février 1901
+
+|  | 9e Matin | 3e Soir |
+| --- | --- | --- |
+| **Hauteur Barométrique** | 763,3 | 761,7 |
+| **Direction du vent** | Nord | Nord |
+| **Force** | 2 faible | 2 faible |
+| **Nébulosité (Reg. U. (terre))** | 10 | 10 |
+| **Nébulosité (Reg. E. (mer))** | 10 | 10 |
+| **Direction des nuages** | Nord | Nord |
+| **Pluie tombée** | 0 | 0 |
+| **Température de l'air** | 5,1 | 8,7 |
+| **Hauteur de la mer** | 37,5 | 55,5 |
+| **Agitation de l'eau** | 6 | 5,2 |
+| **Densité de l'eau** | au bout de la jetée |  |
+| **au large** | 1028,5 | 1028,5 |
+| **Température de l'eau** | 10,5 | 10,6 |

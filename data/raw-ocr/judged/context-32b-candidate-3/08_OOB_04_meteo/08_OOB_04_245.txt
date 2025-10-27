@@ -1,0 +1,33 @@
+# V. 23 Juin - 1903
+
+|  **Position** | **Prix**  |
+| --- | --- |
+|  Hauteur Barométrique | 764.0  |
+|  Direction du vent | 2.8  |
+|  Force | 1  |
+|  Nébulosité (Reg. O. (terre)) | 0  |
+|  Nébulosité (Reg. E. (mer)) | 0  |
+|  Direction des nuages | "  |
+|  Pluie tombée | "  |
+|  Température de l'air | 12.9  |
+|  Hauteur de la mer | 11.4  |
+|  Agitation de l'eau | 1  |
+|  Densité au bout de la jetée | 1029.2  |
+|  Température de l'eau | 12.4  |
+
+# V. 24 Juin - 1903
+
+|  **Position** | **Prix**  |
+| --- | --- |
+|  Hauteur Barométrique | 763.1  |
+|  Direction du vent | or. or.  |
+|  Force | 2  |
+|  Nébulosité (Reg. O. (terre)) | 10  |
+|  Nébulosité (Reg. E. (mer)) | 10  |
+|  Direction des nuages | 0.07.0  |
+|  Pluie tombée | 3  |
+|  Température de l'air | 20.2  |
+|  Hauteur de la mer | 46.1  |
+|  Agitation de l'eau | 1  |
+|  Densité au bout de la jetée | 1027.7  |
+|  Température de l'eau | 18.8  |

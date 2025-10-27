@@ -1,0 +1,33 @@
+```markdown
+| **Date**          | **Matin**    | **Soir**    |
+|-------------------|--------------|------------|
+| **V. 12 Novembre 1906** |              |            |
+| Hauteur Barométrique | 768.7 mmHg  | 760.0 mmHg |
+| Direction du vent    | Ouest       | Ouest      |
+| Force               | 2 à 3       | 1 faible   |
+| Nébulosité (Reg. 0. (claire))  | 10         | 10 légère  |
+| Nébulosité (Reg. R. (mer))    | 10         | 10 légère  |
+| Direction des nuages | Ouest       | Ouest      |
+| Pluie tombée        | 0          | 50 lég.    |
+| Température de l'air | 14.2 °C    | 14.2 °C    |
+| Hauteur de la mer    | 31.8 m     | 31.8 m     |
+| Agitation de l'eau   | 1.4 fort   | 1.4 fort   |
+| Densité au bout de la jetée | 1029.0 kg/m³ | 1029.0 kg/m³ |
+| Température de l'eau | 17.5 °C    | 17.5 °C    |
+
+| **Date**          | **Matin**    | **Soir**    |
+|-------------------|--------------|------------|
+| **V. 13 Novembre 1906** |              |            |
+| Hauteur Barométrique | 766.8 mmHg  | 766.8 mmHg |
+| Direction du vent    | S. S. W.    | S. S. W.   |
+| Force               | 2 à 3       | 0          |
+| Nébulosité (Reg. 0. (claire))  | 10         | 10 légère  |
+| Nébulosité (Reg. R. (mer))    | 10         | 10 légère  |
+| Direction des nuages | Ouest       | Ouest      |
+| Pluie tombée        | 0          | 0          |
+| Température de l'air | 13.9 °C    | 13.9 °C    |
+| Hauteur de la mer    | 33.7 m     | 33.7 m     |
+| Agitation de l'eau   | 2 faible   | 2 faible   |
+| Densité au bout de la jetée | 1028.1 kg/m³ | 1028.1 kg/m³ |
+| Température de l'eau | 17.4 °C    | 17.4 °C    |
+```

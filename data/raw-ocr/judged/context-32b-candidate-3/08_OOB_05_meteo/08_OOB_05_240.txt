@@ -1,0 +1,22 @@
+```markdown
+# 4 Mai 1907
+
+| **Date**       | **Heure** | **Hauteur Barométrique** | **Direction du Vent** | **Force** | **Nébulosité (0/10)** | **Réglage**  | **Direction des nuages** | **Pluie Tombée** | **Température de l'Air** | **Hauteur de la Mer (cm)** | **Agitation de l'Eau** | **Densité au bout de la jetée** | **Température de l'Eau** |
+|----------------|-----------|--------------------------|-----------------------|-----------|-----------------------|---------------|--------------------------|------------------|--------------------------|----------------------------|-----------------------|-------------------------------|--------------------------|
+| 4 Mai 1907     | **Matin** | 764.4 mmHg               | Nord                  | 1         | 10 (Couvert)           | Reg. C. (Terre) | Nord                     | 0                | 17.5 °C                  | 64.5 cm                    | 1 faible              | 1028.6 g/cm³                 | 14.1 °C                 |
+| 4 Mai 1907     | **Soir**  | 768.8 mmHg               | Nord                  | 2         | 10 (Couvert)           | Reg. C. (Mer)   | Nord                     | 0                | 24.0 °C                  | 68.5 cm                    | 15.0                  | 1028.8 g/cm³                 | 16.1 °C                 |
+
+# 5 Mai 1907
+
+| **Date**       | **Heure** | **Hauteur Barométrique** | **Direction du Vent** | **Force** | **Nébulosité (0/10)** | **Réglage**  | **Direction des nuages** | **Pluie Tombée** | **Température de l'Air** | **Hauteur de la Mer (cm)** | **Agitation de l'Eau** | **Densité au bout de la jetée** | **Température de l'Eau** |
+|----------------|-----------|--------------------------|-----------------------|-----------|-----------------------|---------------|--------------------------|------------------|--------------------------|----------------------------|-----------------------|-------------------------------|--------------------------|
+| 5 Mai 1907     | **Matin** | 764.7 mmHg               | Ouest                 | 2         | 10 (Couvert)           | Reg. C. (Terre) | Sud                      | 0                | 17.9 °C                  | 64.3 cm                    | 1 faible              | 1028.6 g/cm³                 | 14.7 °C                 |
+| 5 Mai 1907     | **Soir**  | 762.2 mmHg               | Sud-Est               | 3         | 10 (Couvert)           | Reg. C. (Mer)   | Sud-Ouest                | 0                | 24.0 °C                  | 52.3 cm                    | 17 forts              | 1028.9 g/cm³                 | 16.1 °C                 |
+
+# 6 Mai 1907
+
+| **Date**       | **Heure** | **Hauteur Barométrique** | **Direction du Vent** | **Force** | **Nébulosité (0/10)** | **Réglage**  | **Direction des nuages** | **Pluie Tombée** | **Température de l'Air** | **Hauteur de la Mer (cm)** | **Agitation de l'Eau** | **Densité au bout de la jetée** | **Température de l'Eau** |
+|----------------|-----------|--------------------------|-----------------------|-----------|-----------------------|---------------|--------------------------|------------------|--------------------------|----------------------------|-----------------------|-------------------------------|--------------------------|
+| 6 Mai 1907     | **Matin** | 766.7 mmHg               | Est                   | 5         | 10 (Couvert)           | Reg. C. (Terre) | Sud-Ouest                | 18.8 mm          | 12.7 °C                  | 5.7 cm                     | 3 forts               | 1029.3 g/cm³                 | 16.8 °C                 |
+| 6 Mai 1907     | **Soir**  | 779.7 mmHg               | Sud-Est               | 25 forts  | 10 (Couvert)           | Reg. C. (Mer)   | S. Sud-Est               | 23.0 mm          | 16.9 °C                  | 3.0 cm                     | 3 forts               | 1029.3 g/cm³                 | 16.8 °C                 |
+```

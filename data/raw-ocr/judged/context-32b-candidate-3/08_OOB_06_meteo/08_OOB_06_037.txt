@@ -1,0 +1,45 @@
+```plaintext
+| **Observations du 1960 29 juin** |
+| --- |
+| **Nombre de bateaux sortis (pêche à l'anchorê)** | 2 bateaux = 80 |
+| **Température de l'air** |  |
+| - maxima depuis la veille | 37,3 °C |
+| - minima id. | 16,8 °C |
+| **Température de l'eau** |  |
+| - maxima depuis la veille | - |
+| - minima id. | - |
+| **Pluie tombée depuis la veille, en millim.** | 0 mm |
+| **Evaporation depuis le 190, en millim.** | - |
+| **Direction du vent (à terre)** | à 9 h. m. | à 3 h. s. |
+| - Force | 1 | - |
+| - Direction des nuages | S | - |
+| **Nébulosité** |  |
+| - région Ouest (terre) | 0 | - |
+| - id. Est (mer) | 10 | - |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro** | 36,6 cm | - |
+| **Agitation de l'eau** | 1 faible | - |
+| **Densité de l'eau au bout de la jetée** | 1027,0 g/cm³ | - |
+| **Température id.** | 18,8 °C | - |
+
+| **Observations du 1960 29 juin** |
+| --- |
+| **Nombre de bateaux sortis (pêche à l'anchorê)** | 2 bateaux = 80 |
+| **Température de l'air** |  |
+| - maxima depuis la veille | 33,3 °C |
+| - minima id. | 14,6 °C |
+| **Température de l'eau** |  |
+| - maxima depuis la veille | - |
+| - minima id. | - |
+| **Pluie tombée depuis la veille, en millim.** | quelques g |
+| **Evaporation depuis le 190, en millim.** | - |
+| **Direction du vent (à terre)** | à 9 h. m. | à 3 h. s. |
+| - Force | 3 forts | 1 |
+| - Direction des nuages | N.N.O. | O.N.O. |
+| **Nébulosité** |  |
+| - région Ouest (terre) | 3 | 10 |
+| - id. Est (mer) | 0 | 10 |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro** | 38,1 cm | 29,1 cm |
+| **Agitation de l'eau** | 2 | 2 faible |
+| **Densité de l'eau au bout de la jetée** | 1027,0 g/cm³ | 1027,2 g/cm³ |
+| **Température id.** | 17,8 °C | 18,1 °C |
+```

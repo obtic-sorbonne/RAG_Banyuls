@@ -1,0 +1,31 @@
+```plaintext
+|  N. 8 Novembre 1904 | Matin | Soir  |
+| --- | --- | --- |
+|  Hauteur Barométrique |  | 766,6  |
+|  Direction du vent |  | or. or. 0  |
+|  Force |  | 4  |
+|  Nébulosité | (Reg. 0. (1000)) | 10  |
+|  (Reg. 2. (mer)) |  | 10  |
+|  Direction des nuages |  | 1/2  |
+|  Pluie tombée |  | 1/2  |
+|  Température de l'air |  | 14.0  |
+|  Hauteur de la mer |  | 68.0  |
+|  Régulation de l'eau |  | 3 part.  |
+|  Densité au bout de la jetée |  | 1029.8  |
+|  Température de l'eau |  | 17.0  |
+
+|  N. 9 Novembre 1904 | Matin | Soir  |
+| --- | --- | --- |
+|  Hauteur Barométrique |  | 768,6  |
+|  Direction du vent |  | 100,0  |
+|  Force |  | 2  |
+|  Nébulosité | (Reg. 0. (1000)) | 10  |
+|  (Reg. 2. (mer)) |  | 10  |
+|  Direction des nuages |  | or. or. 6  |
+|  Pluie tombée |  | 1/2  |
+|  Température de l'air |  | 17,5  |
+|  Hauteur de la mer |  | 71,5  |
+|  Régulation de l'eau |  | 3  |
+|  Densité au bout de la jetée |  | 1028.7  |
+|  Température de l'eau |  | 17,2  |
+```

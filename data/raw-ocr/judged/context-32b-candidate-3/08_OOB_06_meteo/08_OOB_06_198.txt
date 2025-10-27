@@ -1,0 +1,54 @@
+```plaintext
+### OBSERVATIONS DU 1901 18 SEPTEMBRE
+
+| **Nombre de bateaux sortis (pêche à l.)** | 26,8 |
+| **Température de l'air** |  |  |
+| – maxima depuis la veille | 26,8 |  |
+| – minima id. | 14,3 |  |
+| **Température de l'eau** |  |  |
+| – maxima depuis la veille |  |  |
+| – minima id. |  |  |
+| **Pluie tombée depuis la veille, en millim.** | 3,79 |  |
+| **Evaporation depuis le 11 juillet 1901, en millim.** | 4,44 |  |
+| **Direction du vent (à terre)** | **à 9 h. m.** | **à 3 h. s.** |
+| – Force | 4 |  |
+| – Direction | Nord |  |
+| **Direction des nuages** |  |  |
+| **Nébulosité** |  |  |
+| – région Ouest (terre) | 10 |  |
+| – id. Est (mer) | 10 |  |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.)** | 2 |  |
+| **Agitation de l'eau** | 2 |  |
+| **Densité de l'eau au bout de la jetée** | 1,026/7 | 24,0 |
+| **Température** |  |  |
+| – terrestre Matin (maxima) | 31,6 | 8,1 |
+| – (minima) |  |  |
+| – terrestre Lever (maxima) | 31,6 |  |
+| – (minima) |  | 24,0 |
+
+### OBSERVATIONS DU 1901 19 SEPTEMBRE
+
+| **Nombre de bateaux sortis (pêche à l.)** | 29,8 |
+| **Température de l'air** |  |  |
+| – maxima depuis la veille | 29,8 |  |
+| – minima id. | 16,0 |  |
+| **Température de l'eau** |  |  |
+| – maxima depuis la veille |  |  |
+| – minima id. |  |  |
+| **Pluie tombée depuis la veille, en millim.** |  |  |
+| **Evaporation depuis le 1901, en millim.** |  |  |
+| **Direction du vent (à terre)** | **à 9 h. m.** | **à 3 h. s.** |
+| – Force | 10° (faible) | 10° (fort) |
+| – Direction des nuages | 19° p.p.e | 19° p.p.e |
+| **Nébulosité** |  |  |
+| – région Ouest (terre) | 2 légères | 2 légères |
+| – id. Est (mer) | 3 légères | 2 |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.)** | 46,0 | 29,4 |
+| **Agitation de l'eau** | 2 faibles | 1 faible |
+| **Densité de l'eau au bout de la jetée** | 1,022/7 | 1,021/7 |
+| **Température id.** | 23,8 | 24,0 |
+| – terrestre Matin (maxima) | 34,1 | 24,8 |
+| – (minima) | 11,4 |  |
+| – terrestre Lever (maxima) | 34,3 | 24,0 |
+| – (minima) |  | 24,8 |
+```

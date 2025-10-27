@@ -1,0 +1,31 @@
+|  9. 25 Juillet - 1903 | Matin | Soir  |
+| --- | --- | --- |
+|  Hauteur Francométrique | 465.2 | 466.4  |
+|  Direction du vent | or. 8 | 1/8  |
+|  Force | 1 | 1/201  |
+|  Néel |  |   |
+|  Néel |  |   |
+|  (Reg. 2 - (mer) |  |   |
+|  Direction des images | or. or. 0 | or. 0  |
+|  Flux Tombus |  | or. 0  |
+|  Température de l'air | 81.9 | 85.4  |
+|  Hauteur de la mer | 12.3 | 13.3  |
+|  Capitation de l'eau | 1/20th | 1/20th  |
+|  Densité au bout de la jetée | 1086.2 | 1086.5  |
+|  Température de l'eau | 81.3 | 83.4  |
+
+|  9. 26 Juillet - 1903 | Matin | Soir  |
+| --- | --- | --- |
+|  Hauteur Francométrique | 462.5 |   |
+|  Direction du vent | or. or. 0 |   |
+|  Force | 8/20th |   |
+|  Néel |  |   |
+|  Néel |  |   |
+|  (Reg. 2 - (mer) | 10 |   |
+|  Direction des images | or. or. 0 |   |
+|  Flux Tombus |  | or. 0  |
+|  Température de l'air | 86.0 |   |
+|  Hauteur de la mer | 45.9 |   |
+|  Capitation de l'eau | 1/20th |   |
+|  Densité au bout de la jetée | 1084.5 |   |
+|  Température de l'eau | 81.6 |   |

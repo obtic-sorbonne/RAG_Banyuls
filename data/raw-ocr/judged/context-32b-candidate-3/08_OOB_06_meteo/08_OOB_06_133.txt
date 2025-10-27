@@ -1,0 +1,51 @@
+```plaintext
+### Registre d'observations météorologiques historiques
+
+#### OBSERVATIONS DU 1901 — 21 Mars
+
+| **Nombre de bateaux sortis (pêche à la Traine)** | 38 |
+|-------------------------------------------------|----|
+| **Température de l'air**                        |    |
+| - maxima depuis la veille                       | 17.6 |
+| - minima id.                                    | 7.1  |
+| **Température de l'eau**                        |    |
+| - maxima depuis la veille                       | [pas renseigné] |
+| - minima id.                                    | [pas renseigné] |
+| **Pluie tombée depuis la veille, en millim.**   | [pas renseigné] |
+| **Evaporation depuis le 1901, en millim.**      | [pas renseigné] |
+| **Direction du vent (à terre)**                 | **à 9 h. m.** | **à 3 h. s.** |
+| **Force**                                       | Sud | [pas renseigné] |
+|  | Fort | [pas renseigné] |
+| **Direction des nuages**                        | Sud | [pas renseigné] |
+| **Nébulosité**                                  |    |
+| - région Ouest (terre)                          | 10  | [pas renseigné] |
+| - id. Est (mer)                                 | 60  | [pas renseigné] |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.)** | 28.2 | [pas renseigné] |
+| **Agitation de l'eau**                          | 2 faibles | [pas renseigné] |
+| **Densité de l'eau au bout de la jetée**        | 1029.3 | [pas renseigné] |
+| **Température id.**                             | 11.1 | [pas renseigné] |
+
+#### OBSERVATIONS DU 1901 — 22 Mars
+
+| **Nombre de bateaux sortis (pêche à la Traine)** | 38 |
+|-------------------------------------------------|----|
+| **Température de l'air**                        |    |
+| - maxima depuis la veille                       | 17.0 |
+| - minima id.                                    | 7.2  |
+| **Température de l'eau**                        |    |
+| - maxima depuis la veille                       | [pas renseigné] |
+| - minima id.                                    | [pas renseigné] |
+| **Pluie tombée depuis la veille, en millim.**   | 14.13 |
+| **Evaporation depuis le 1901, en millim.**      | [pas renseigné] |
+| **Direction du vent (à terre)**                 | **à 9 h. m.** | **à 3 h. s.** |
+| **Force**                                       | S. S. O | S. S. E. |
+|  | Fort | Fort |
+| **Direction des nuages**                        | S. S. O | S. S. E. |
+| **Nébulosité**                                  |    |
+| - région Ouest (terre)                          | 10  | 10  |
+| - id. Est (mer)                                 | 10  | 10  |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.)** | 34.2 | 40.0 |
+| **Agitation de l'eau**                          | 2 faibles | 9 faibles |
+| **Densité de l'eau au bout de la jetée**        | 1029.0 | 1017.8 |
+| **Température id.**                             | 11.4 | 11.3 |
+```

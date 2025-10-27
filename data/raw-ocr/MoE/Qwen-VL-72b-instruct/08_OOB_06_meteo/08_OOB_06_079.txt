@@ -1,0 +1,46 @@
+```
+OBSERVATIONS DU 1900 25 fév.
+
+Nombre de bateaux sortis (pêche à l.....................
+Température de l'air | maxima depuis la veille.............. | 17.0
+                     | minima id........................... | 11.6
+Température de l'eau | maxima depuis la veille.............. |
+                     | minima id........................... |
+Pluie tombée depuis la veille, en millim.................. |
+Evaporation depuis le 1900, en millim..................... |
+
+| à 9 h. m. | à 3 h. s. |
+|------------|-----------|
+| Direction du vent (à terre)......................... | Sud | S.S.E |
+| Force............................................... | 1   | 2    |
+| Direction des nuages............................... | Sud | S.S.E |
+| Nébulosité | région Ouest (terre).................... | 10  | 10   |
+|            | id. Est (mer)........................... | 10  | 10   |
+| Hauteur de la mer, en centimètres, au-dessus du zéro (B.D.) | 34.9 | 32.6 |
+| Agitation de l'eau.................................. | 2   | 2    |
+| Densité de l'eau au bout de la jetée................ | 1.028.2 | 1.028.0 |
+| Température id...................................... | 17.6 | 17.4 |
+
+
+OBSERVATIONS DU 1900 26 fév.
+
+Nombre de bateaux sortis (pêche à l.....................
+Température de l'air | maxima depuis la veille.............. | 19.0
+                     | minima id........................... | 14.8
+Température de l'eau | maxima depuis la veille.............. |
+                     | minima id........................... |
+Pluie tombée depuis la veille, en millim.................. |
+Evaporation depuis le 1900, en millim..................... |
+
+| à 9 h. m. | à 3 h. s. |
+|------------|-----------|
+| Direction du vent (à terre)......................... | Sud | S.S.E |
+| Force............................................... | 1 fort | 2 fort |
+| Direction des nuages............................... | Sud | Sud |
+| Nébulosité | région Ouest (terre).................... | 10  | 10   |
+|            | id. Est (mer)........................... | 10  | 10   |
+| Hauteur de la mer, en centimètres, au-dessus du zéro (B.D.) | 38.2 | 32.6 |
+| Agitation de l'eau.................................. | 2   | 2 fort |
+| Densité de l'eau au bout de la jetée................ | 1.028.2 | 1.028.0 |
+| Température id...................................... | 17.6 | 17.6 |
+```

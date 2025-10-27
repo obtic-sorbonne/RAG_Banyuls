@@ -1,0 +1,27 @@
+|  9. 18 Novembre 1903 | Matin | Soir  |
+| --- | --- | --- |
+|  Hauteur Econométrique | 760,7 | 750,8  |
+|  Direction du vent | or.0 | or.0  |
+|  Force | 4 fuites | 4 foot  |
+|  Reg. O. (lire) | 0 | 3  |
+|  (Reg. 2.- (mer) | 2 | 2  |
+|  Direction des nuages | or.0 | or.0  |
+|  Flux tombe |  |   |
+|  Température de l'air | 7,7 | 7,8  |
+|  Hauteur de la mer | 40,0 | 11,8  |
+|  Régitaltion de l'eau | 3 | 3  |
+|  Densité au bout de la fete | 1089,4 | 1089,1  |
+|  Bempératoire de l'eau | 14,0 | 13,7  |
+|  9. 20 Novembre 1903 | Matin | Soir  |
+|  Hauteur 20 Novembre 1903 | 707,2 | 797,0  |
+|  Direction du vent | or.0 or.0 | or.0  |
+|  Force | 7 r. fort | 8 fuites  |
+|  Reg. O. (lire) | 10 | 10  |
+|  (Reg. 2.- (mer) | 10 | 10  |
+|  Direction des nuages | or.0 | or.0  |
+|  Flux tombe |  |   |
+|  Bempératoire de l'air | 7,8 | 8,7  |
+|  Hauteur de la mer | 46,1 | 63,0  |
+|  Régitaltion de l'eau | 3 | 3 foot  |
+|  Densité au bout de la fete | 1089,2 | 1089,1  |
+|  Bempératoire de l'eau | 13,1 | 13,8  |

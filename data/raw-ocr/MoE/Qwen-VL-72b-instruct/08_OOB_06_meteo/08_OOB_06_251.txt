@@ -1,0 +1,42 @@
+| OBSERVATIONS DU 1902 10 Février |
+| --- |
+| Nombre de bateaux sortis (pêche à l……) | 17,9 |
+| Température de l'air {maxima depuis la veille} | 17.9 |
+| {minima id.} | 10.0 |
+| Température de l'eau {maxima depuis la veille} | 6.0 |
+| {minima id.} |  |
+| Pluie tombée depuis la veillle, en millim. | 6.0 |
+| Évaporation depuis le 190 , en millim. |  |
+| Direction du vent (à terre) à 9 h. m. | S.S.E. |
+| à 3 h. s. | S.S.O. |
+| Force | 2 | 2 |
+| Direction des nuages | O.N.O. | S.O. |
+| Nébulosité {région Ouest (terre)} | 10 | 10 |
+| {id. Est (mer)} | 10 | 10 |
+| Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.) | 5,40 | 0.0 |
+| Agitation de l'eau | 1 fort | 1 fort |
+| Densité de l'eau au bout de la jetée | 628.8 | 628.0 |
+| Température id. | 12.1 | 11.3 |
+| Temp. maxima | 24.3 |
+| Temp. minima | 7.7 |
+| OBSERVATIONS DU 1902 11 Février |
+| --- |
+| Nombre de bateaux sortis (pêche à l……) | 17.8 |
+| Température de l'air {maxima depuis la veille} | 17.4 |
+| {minima id.} | 14.0 |
+| Température de l'eau {maxima depuis la veille} |  |
+| {minima id.} |  |
+| Pluie tombée depuis la veillle, en millim. |  |
+| Évaporation depuis le 190 , en millim. |  |
+| Direction du vent (à terre) à 9 h. m. | N.N.O. |
+| à 3 h. s. | N.N.O. |
+| Force | 2 | 2 |
+| Direction des nuages | O.N.O. | O.N.O. |
+| Nébulosité {région Ouest (terre)} | 10 | 10 |
+| {id. Est (mer)} | 10 | 10 |
+| Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.) | 37.6 |  |
+| Agitation de l'eau | 1 fort | 1 fort |
+| Densité de l'eau au bout de la jetée | 627.4 | 627.4 |
+| Température id. | 11.3 |  |
+| Temp. maxima | 24.4 |
+| Temp. minima | 3.2 |

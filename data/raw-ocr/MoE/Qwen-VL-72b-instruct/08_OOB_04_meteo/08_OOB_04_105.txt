@@ -1,0 +1,30 @@
+| **Date**           | **Matin**        | **Soir**          |
+|--------------------|------------------|-------------------|
+| **V. 17 Juin. 1902** |                  |                   |
+| Haleur Barométrique | 762,7            | 763,3             |
+| Direction du vent   | er o            | cr. n o          |
+| Force               | 15               | 2                 |
+|                     |                  | 3 fort            |
+| Nebulosité         | Reg. O. (t.ve.)  | 10                |
+|                     | Reg. E. (c.in.) | 10                |
+| Direction des eaux  | er. c. o         | er. c. o         |
+| Pluie tombée       | "                | "                 |
+| Température de l'air | 16,1            | 19,6             |
+| Haleur de la mer   | j8,0             | j1,3             |
+| Hagitation de l'eau | 1 faible         | 1                 |
+| Densité au bout de la jété   | 1027,1      | 1027,8           |
+| Température de l'eau | 16,6            | 16,6             |
+| **V. 18 Juin. 1902** |                  |                   |
+| Haleur Barométrique | 764,9            | 763,1            |
+| Direction du vent   | er. cr. o        | cr. n            |
+| Force               | 15               | 3 faible          |
+|                     |                  | 1 foie            |
+| Nebulosité         | Reg. O. (t.re.)  | 0                 |
+|                     | Reg. E. (c.ir)   | 3 lig. 2          |
+| Direction des eaux  | er. c. o         | er. o            |
+| Pluie tombée       | "                | "                 |
+| Température de l'air | 16,2            | 19,7             |
+| Haleur de la mer   | 60,3             | j3,7             |
+| Hagitation de l'eau | 1                 | 1                 |
+| Densité au bout de la jété   | 1027,8      | 1027,8           |
+| Température de l'eau | 16,1            | 18,6             |

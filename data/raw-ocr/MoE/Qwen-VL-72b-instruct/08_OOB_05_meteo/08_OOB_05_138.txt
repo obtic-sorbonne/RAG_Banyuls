@@ -1,0 +1,27 @@
+| V. 10 Août - 1906 | Matin | Soir |
+|---|---|---|
+| Hauteur Barométrique | 769,8 | 764,6 |
+| Direction du vent | cr.cr.o | cr. o |
+| Force | 2 | 2 faible |
+| Nébulosité | Reg. o. (clère) | 0 | 0 |
+| (Reg. xi. cour) | 0 | 0 |
+| Direction des nuages | " | Ouest |
+| Pluie tombée | " | " |
+| Température de l'air | 20,4 | 20,1 |
+| Hauteur de la mer | 48,7 | 11,7 |
+| Agitation de l'eau | 2 faible | 2 |
+| Densité au bord de la jetée | 1027,4 | 1027,2 |
+| Température de l'eau | 28,5 | 23,2 |
+| V. 11 Août - 1906 | Matin | Soir |
+| Hauteur Barométrique |  | 764,3 |
+| Direction du vent |  | crois |
+| Force | is | 2 |
+| Nébulosité | Reg. o. (clère) | 0 | 0 |
+| (Reg. xi. mer) | 0 | 0 |
+| Direction des nuages |  | cr.or.o |
+| Pluie tombée |  | " |
+| Température de l'air |  | 20,1 |
+| Hauteur de la mer |  | 10,2 |
+| Agitation de l'eau |  | 2 |
+| Densité au bord de la jetée |  | 1027,0 |
+| Température de l'eau |  | 22,8 |

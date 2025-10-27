@@ -1,0 +1,24 @@
+| **DATE** | **1904-01-17** | **1904-01-18** |
+|---|---|---|
+| **Données météorologiques** |  |  |
+| **Nombre de bateaux sortis (pêche à l)** | Nant | Nant |
+| **Température de l'air** |  |  |
+|    maxima depuis la veille |  |  |
+|    minima id. |  |  |
+| **Température de l'eau** |  |  |
+|    maxima depuis la veille |  |  |
+|    minima id. |  |  |
+| **Pluie tombée depuis la veille, en millim.** |  |  |
+| **Evaporation depuis le 190, en millim.** |  |  |
+| **Direction du vent (à terre)** | SSE | S.S.O. |
+| **Force** | 0 / 1 | 2 / 1 |
+| **Direction des nuages** |  |  |
+|    région Ouest (terre) | N.E. | N. |
+|    id. Est (mer) | "       | "    |
+| **Nébulosité** |  |  |
+|    région Ouest (terre) | 10 (début dim.) / 10 | 0 / 0 |
+|    id. Est (mer) | 10 (jury) / 10 | 0 / 0 |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.)** | 54.2 / 58.8 | 60.2 / 69.2 |
+| **Agitation de l'eau** | faible | faible |
+| **Densité de l'eau au bout de la jetée** | 1'029.4 / 1'028.3 | 1'029.7 / 1'028.3 |
+| **Température id.** | 9.8 / 12.9 | 9.6 / 12.0 |

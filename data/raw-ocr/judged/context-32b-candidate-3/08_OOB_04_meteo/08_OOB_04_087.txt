@@ -1,0 +1,67 @@
+V. 24 (Avril - 1902)
+
+## Matin
+|  **Pfandeur Barométrique** | **751,1**  |
+| --- | --- |
+|  Direction du vent | or. or. o  |
+|  Force | 8  |
+|  **Nébulosité** | **10**  |
+|  | **(Reg. O. (terre))** | **10**  |
+|  | **(Reg. E. (mer))** | **10**  |
+|  Direction des nuages | or. or. o  |
+|  **Pluie tombée** | **13,0**  |
+|  **Température de l'air** | **14,8**  |
+|  **Hauteur de la mer** | **40,2**  |
+|  **Égitation de l'eau** | **3**  |
+|  Densité au bout de la jetée | 1025,2  |
+|  **Température de l'eau** | **14,0**  |
+
+## Soir
+|  **Pfandeur Barométrique** | **751,1**  |
+| --- | --- |
+|  Direction du vent | or. or. o  |
+|  Force | 1/2000  |
+|  **Nébulosité** | **10**  |
+|  | **(Reg. O. (terre))** | **10**  |
+|  | **(Reg. E. (mer))** | **10**  |
+|  Direction des nuages | or. or. o  |
+|  **Pluie tombée** | **quelques**  |
+|  **Température de l'air** | **13,9**  |
+|  **Hauteur de la mer** | **10,0**  |
+|  **Égitation de l'eau** | **3 fois**  |
+|  Densité au bout de la jetée | 1025,6  |
+|  **Température de l'eau** | **14,3**  |
+
+V. 25 (Avril - 1902)
+
+## Matin
+|  **Pfandeur Barométrique** | **751,1**  |
+| --- | --- |
+|  Direction du vent | or. or. o  |
+|  Force | 8  |
+|  **Nébulosité** | **10**  |
+|  | **(Reg. O. (terre))** | **10**  |
+|  | **(Reg. E. (mer))** | **10**  |
+|  Direction des nuages | or. or. o  |
+|  **Pluie tombée** | **13,0**  |
+|  **Température de l'air** | **15,0**  |
+|  **Hauteur de la mer** | **43,2**  |
+|  **Égitation de l'eau** | **1/2000**  |
+|  Densité au bout de la jetée | 103,2  |
+|  **Température de l'eau** | **14,1**  |
+
+## Soir
+|  **Pfandeur Barométrique** | **751,1**  |
+| --- | --- |
+|  Direction du vent | or. or. o  |
+|  Force | 1/2000  |
+|  **Nébulosité** | **10**  |
+|  | **(Reg. O. (terre))** | **10**  |
+|  | **(Reg. E. (mer))** | **10**  |
+|  Direction des nuages | or. or. o  |
+|  **Pluie tombée** | **quelques**  |
+|  **Température de l'air** | **43,2**  |
+|  **Hauteur de la mer** | **1 fois**  |
+|  **Égitation de l'eau** | **103,2**  |
+|  Densité au bout de la jetée | 14,1  |
+|  **Température de l'eau** | **14,1**  |

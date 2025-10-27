@@ -1,0 +1,17 @@
+# Date. 17 Octobre. 1900.
+
+|  9th Matin | 3rd Soir  |
+| --- | --- |
+|  Jantes Travométriques | 751,2  |
+|  Direction du vent | "  |
+|  Force | 0  |
+|  9 Ébulosité | 2  |
+|  Req. E. (mix) | 2  |
+|  Direction des nuages | 3,0  |
+|  Pins tombés | "  |
+|  Température de l'air | 17,0  |
+|  Jantes de la mer | 43,7  |
+|  Traitement de l'eau | 0  |
+|  Densité de l'eau | 1027,0  |
+|  |   |
+|  Température de l'eau | 20,0  |

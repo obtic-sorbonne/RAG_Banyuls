@@ -1,0 +1,16 @@
+```plaintext
+|  4. 16 X 8e 1902 | Matin | Soir  |
+| --- | --- | --- |
+|  Hauteur Barométrique | 273.9 | 271.5  |
+|  Direction du vent | Est | Est  |
+|  Force | 3 | 3 fort  |
+|  Nébulosité (Rég. O. (terre)) | 8 | 8  |
+|  Nébulosité (Rég. E. (mer)) | 10 | 10  |
+|  Direction des nuages | Est | Est  |
+|  Pluie tombée |  |  |
+|  Température de l'air | 13.0 | 13.0  |
+|  Hauteur de la mer | 46.0 | 47.0  |
+|  Agitation de l'eau | 8 | 8  |
+|  Densité au bout de la jetée | 1027.7 | 1027.6  |
+|  Température de l'eau | 13.3 | 13.4  |
+```

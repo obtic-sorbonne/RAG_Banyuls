@@ -1,0 +1,21 @@
+### Curated Transcription ###
+
+# Dela. Nació el 2 d'octubre
+
+|  Nom | Dels | Prov. | Dels  |
+| --- | --- | --- | --- |
+|  **Hauru** | 248 | 248 | 248  |
+|  **Hauteur Barométrique** | 719,2 | 718,0 | 719,2  |
+|  **Direction du vent** |  |  |   |
+|  Force | 0 | 1 | 1  |
+|  Nebulosita | 3 | 8 | 8  |
+|  **Rég. O. (Pern.)** | 3 | 9 | 8  |
+|  **Direction des nuages** | 0.50 | 0.50 | 0.50  |
+|  **Pluie tombée** |  |  |   |
+|  **Température de l'air** | 25,2 | 25,6 | 26,0  |
+|  **Hauteur de l'air** | 0 | 0 | 0  |
+|  **Agitation de l'eau** | 0 | 0 | 0  |
+|  **Densité de l'eau (au bout de la jetée)** | 1026,6 |  |   |
+|  **Température de l'eau** | 21,9 |  |   |
+
+**Observations:** - **Orage** = 114 m. ; **puis**, **temps couvert** et **nageux** toute la journée; **g.g. gouttes de pluie** à plusieurs reprises.

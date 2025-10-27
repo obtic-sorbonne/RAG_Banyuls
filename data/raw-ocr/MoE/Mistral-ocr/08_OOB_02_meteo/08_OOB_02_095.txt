@@ -1,0 +1,17 @@
+# Date: 13 Juin 1901
+
+|   | 9e N'Gatin | 3e Soir  |
+| --- | --- | --- |
+|  Hauteur Marométrique | 758,0 | 757,2  |
+|  Direction du vent | mou | 6,5  |
+|  Force | 2 fort | 1  |
+|  Ø Ébulosité | 9 | 6  |
+|  Reg. E. (mou) | 0 | 0  |
+|  Direction des nuages | hus | mou  |
+|  Flux tombée | 21,5 | 23,2  |
+|  Température de l'air | 21,5 | 24,3  |
+|  Hauteur de la mou | 20,3 | 24,3  |
+|  Oligotation de l'eau | 2 | 2 faible  |
+|  Densité de l'eau | au bout de la jetée | 1027,0  |
+|  Envarage | 1027,0 | 1026,4  |
+|  Température de l'eau | 21,6 | 22,4  |

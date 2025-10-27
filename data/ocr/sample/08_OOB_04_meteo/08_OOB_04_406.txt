@@ -1,0 +1,31 @@
+```plaintext
+|  9. 2 Août - 1907 | Matin | Soir  |
+| --- | --- | --- |
+|  Hauteur Barométrique | 767,7 |   |
+|  Direction du vent | 22,8 |   |
+|  Force | 2 |   |
+|  Mébulosite | (Reg. G. (1me)) | 0  |
+|  (Reg. G. (1me)) | 0 |   |
+|  Direction des nuages |  | 0  |
+|  Mois tombée |  |   |
+|  Remplacement de l'air | 57,7 |   |
+|  Hauteur de la mer | 58,8 |   |
+|  Régulation de l'eau | 2 fort |   |
+|  Remise au bout de la jetée | 1026,9 |   |
+|  Remplacement de l'eau | 23,4 |   |
+
+|  9. 3 Août - 1907 | Matin | Soir  |
+| --- | --- | --- |
+|  Hauteur Barométrique | 768,7 | 767,7  |
+|  Direction du vent |  | 2,8  |
+|  Force | 1 |   |
+|  Mébulosite | (Reg. G. (1me)) | 0  |
+|  (Reg. G. (1me)) | 0 |   |
+|  Direction des nuages |  | 0  |
+|  Mois tombée | 4,98,2 |   |
+|  Remplacement de l'air | 4,88,2 | 33,4  |
+|  Hauteur de la mer | 47,2 | 46,8  |
+|  Régulation de l'eau | 1,66,6 | 1,76,6  |
+|  Remise au bout de la jetée | 1026,0 | 1026,1  |
+|  Remplacement de l'eau | 34,2 | 84,8  |
+```

@@ -1,0 +1,35 @@
+```markdown
+# 7 Août 1907
+
+| **Date** | **Matin** | **Vers 9h30** | **Après-midi** | **Vers 18h** | **Résumé diurne** |
+|----------|----------|--------------|---------------|-------------|-----------------|
+| Hauteur Barométrique | 767.2 mmHg | 767.2 mmHg | —— | —— | —— |
+| Direction du vent | S-E | S-E | —— | —— | —— |
+| Force | 1 (fort) | 2 (fort) | —— | —— | —— |
+| Nébulosité (Reg. clair) | 10 | 6 | —— | —— | —— |
+| (Reg. 2. (nu)) | 10 | 6 | —— | —— | —— |
+| Direction des nuages | S-O | S-O | —— | —— | —— |
+| Pluie tombée | —— | —— | —— | —— | —— |
+| Température de l'air | 27.3 °C | 29.0 °C | —— | —— | —— |
+| Hauteur de la mer | 49.7 cm | 92.0 cm | —— | —— | —— |
+| Agitation de l'eau | 1 (faible) | 1 (faible) | —— | —— | —— |
+| Densité au bout de la jetée | 1027.0 g/cm³ | 1027.0 g/cm³ | —— | —— | —— |
+| Température de l'eau | 22.9 °C | 25.9 °C | —— | —— | —— |
+
+# 8 Août 1907
+
+| **Date** | **Matin** | **Vers 9h30** | **Après-midi** | **Vers 18h** | **Résumé diurne** |
+|----------|----------|--------------|---------------|-------------|-----------------|
+| Hauteur Barométrique | 769.3 mmHg | 768.6 mmHg | —— | —— | —— |
+| Direction du vent | S-E | S-E | —— | —— | —— |
+| Force | 1 (fort) | 1-2 (fort) | —— | —— | —— |
+| Nébulosité (Reg. clair) | 0 | 0 | 1 (léger) | 0 | —— |
+| (Reg. 2. (nu)) | 0 | 0 | 1 (léger) | 0 | —— |
+| Direction des nuages | —— | —— | —— | —— | —— |
+| Pluie tombée | —— | —— | —— | —— | —— |
+| Température de l'air | 26.4 °C | 31.3 °C | —— | —— | —— |
+| Hauteur de la mer | 13.2 cm | 17.8 cm | —— | —— | —— |
+| Agitation de l'eau | 1 (faible) | 1 (faible) | —— | —— | —— |
+| Densité au bout de la jetée | 1027.3 g/cm³ | 1026.3 g/cm³ | —— | —— | —— |
+| Température de l'eau | 22.1 °C | 23.3 °C | —— | —— | —— |
+```

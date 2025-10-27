@@ -1,0 +1,29 @@
+|  9.29 Mai - 1907 | Maiton | Soir  |
+| --- | --- | --- |
+|  Hauteur
+Maisonnérique | 782.7 | 782.7  |
+|  Direction du vent | P.8 | P.8  |
+|  Force | 1 | 1  |
+|  Hébulosité | 16 | 16  |
+|  (Reg. 2i. cmw) |  |   |
+|  Direction des mages | 16 | 16  |
+|  Phie tomble |  |   |
+|  Température de l'air | 26,0 | 27,0  |
+|  Hauteur de la mer | 39,4 | 72,3  |
+|  Agitation de l'eau | 1 faible | 1e faible  |
+|  Sécurité au bout de la jetée | 1627,4 | 1627,3  |
+|  Température de l'eau | 17,3 | 18,3  |
+|  9.29 Mai - 1907 | Maiton | Soir  |
+|  Hauteur
+Maisonnérique | 784.4 | 784.8  |
+|  Direction du vent | or.0.0 | or.0.0  |
+|  Force | 3 fois | 3 fois  |
+|  Hébulosité | 16 | 16  |
+|  (Reg. 2i. cmw) |  |   |
+|  Direction des nuages | 16 | 16  |
+|  Phie tomble |  |   |
+|  Température de l'air | 19,0 | 23,6  |
+|  Hauteur de la mer | 47,1 | 62,7  |
+|  Agitation de l'eau | 8 | 8  |
+|  Sécurité au bout de la jetée | 1627,7 | 1627,8  |
+|  Température de l'eau | 16,4 | 16,7  |

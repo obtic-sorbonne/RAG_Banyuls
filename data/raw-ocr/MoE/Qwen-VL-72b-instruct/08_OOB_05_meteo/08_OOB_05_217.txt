@@ -1,0 +1,33 @@
+V. 9 Mars. 1907
+| Matin | Soir |
+|-------|------|
+| Hauteur Barométrique | 770.4 | 769.3 |
+| Direction du Vent | E.N.O | E.N.O |
+| Force | 7 | 7 |
+| Nébulosité | 2 | 10 |
+| Régl. O. (Clair) |  |  |
+| Régl. X. (Couvr.) | 9 | 10 |
+| Direction des nuages | E.N.O | E.N.O |
+| Pluie Tombée | " | " |
+| Température de l'air | 12.6 | 14.8 |
+| Hauteur de la mer | 76.9 | 72.8 |
+| Agitation de l'eau | 3 | 3 |
+| Vendite au tour de la jetée | 1029.4 | 1029.4 |
+| Température de l'eau | 10.9 | 11.0 |
+
+V. 11 Mars. 1907
+| Matin | Soir |
+|-------|------|
+| Hauteur Barométrique | 760.7 | 762.3 |
+| Direction du Vent | E.N.O | E.N.O |
+| Force | 6 | 9 |
+| Nébulosité | 10 | 10 |
+| Régl. O. (Clair) |  |  |
+| Régl. X. (Couvr.) | 10 | 10 |
+| Direction des nuages | E.N.E | E.N.O |
+| Pluie Tombée | " | " |
+| Température de l'air | 10.8 | 11.9 |
+| Hauteur de la mer | 73.2 | 71.6 |
+| Agitation de l'eau | 2 | 2 fort |
+| Vendite au tour de la jetée | 1028.6 | 1029.6 |
+| Température de l'eau | 11.4 | 10.9 |

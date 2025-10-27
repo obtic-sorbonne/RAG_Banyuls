@@ -1,0 +1,31 @@
+```plaintext
+|  9. 18 Janvier - 1905 | Matin | Jour  |
+| --- | --- | --- |
+|  Hauteur Barométrique |  | 3/9.1  |
+|  Direction du vent |  | 4.0  |
+|  Force |  | 6  |
+|  Nébulosité | (Abs. a. Clens) | 10  |
+|   | (Abs. x. (min)) | 10  |
+|  Direction des nuages |  | 10  |
+|  Pluie tombée |  | 8.3  |
+|  Température de l'air |  | 8.3  |
+|  Hauteur de la mer |  | 2 port  |
+|  Agitation de l'eau |  |   |
+|  Densité au bout de la jetée |  |   |
+|  Température de l'eau |  | 2 port  |
+
+|  9. 19 Janvier - 1905 | Matin | Jour  |
+| --- | --- | --- |
+|  Hauteur Barométrique | 201.0 | 202.4  |
+|  Direction du vent |  | 4.0  |
+|  Force |  | 2  |
+|  Nébulosité | (Abs. a. (min)) | 10  |
+|   | (Abs. x. (min)) | 10  |
+|  Direction des nuages |  | 4.0  |
+|  Pluie tombée |  | 8.0  |
+|  Température de l'air | 2.1 | 8.0  |
+|  Hauteur de la mer |  | 5  |
+|  Agitation de l'eau |  |   |
+|  Densité au bout de la jetée |  |   |
+|  Température de l'eau |  | 5  |
+```

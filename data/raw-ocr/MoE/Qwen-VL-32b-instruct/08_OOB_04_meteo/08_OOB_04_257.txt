@@ -1,0 +1,27 @@
+|  V. 3 (Jouit- 1903 | Mbatin | Soir  |
+| --- | --- | --- |
+|  Hauteur Wawometicique | 205,1 | 201,1  |
+|  Direction du vent | or.or. 8 | 2.2.8  |
+|  Force | 1 fort | 1 fort  |
+|  Mébatiosité | 0 | 8  |
+|  (Reg. G. (mw) |  |   |
+|  Direction des mages | or.or. 0 | or.or. 0  |
+|  Flux tombé |  |   |
+|  Température de l'air | 84,1 | 89,3  |
+|  Hauteur de la mer | 19,6 | 41,6  |
+|  Agitation de l'eau | 17. fort | 1 faible  |
+|  Densité au bout de la jetée | 108,1 | 108,2  |
+|  Température de l'eau | 81,4 | 88,3  |
+|  V. 4 (Jouit- 1903 | Mbatin | Soir  |
+|  Hauteur Wawometicique | 205,2 | 201,1  |
+|  Direction du vent | or.or. 0 | or. 0  |
+|  Force | 27. fort | 8 fort  |
+|  Mébatiosité | 0 | 0  |
+|  (Reg. G. (mw) |  |   |
+|  Direction des mages | 0 | 0  |
+|  Flux tombé |  |   |
+|  Température de l'air | 81,0 | 80,8  |
+|  Hauteur de la mer | 63,6 | 10,8  |
+|  Agitation de l'eau | 27. fort | 8 fort  |
+|  Densité au bout de la jetée | 108,3 | 108,6  |
+|  Température de l'eau | 81,0 | 81,0  |

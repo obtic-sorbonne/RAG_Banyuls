@@ -1,0 +1,31 @@
+```
+|  7. 24 Novembre 1903 | Matin | Soir  |
+| --- | --- | --- |
+|  Hauteur Barométrique | 724.3 | 728.5  |
+|  Direction du vent | Ouest | 0  |
+|  Force | 1 faible | 0  |
+|  Reg. O. (terre) | 1 | 0  |
+|  Reg. F. (mer) | 1 | 2  |
+|  Direction des nuages | Ouest | "  |
+|  Pluie tombée |  |   |
+|  Température de l'air | 11,1 | 13,1  |
+|  Hauteur de la mer | 4,5 | 13,2  |
+|  Agitation de l'eau | 0 | 0  |
+|  Densité au bout de la jetée | 1029.2 | 1029.0  |
+|  Température de l'eau | 14,4 | 14,8  |
+
+|  7. 25 Novembre 1903 | Matin | Soir  |
+| --- | --- | --- |
+|  Hauteur Barométrique | 763.2 | 767.3  |
+|  Direction du vent | 0.0 | 0.0  |
+|  Force | 1 | 1 fort  |
+|  Reg. O. (terre) | 10 | 10  |
+|  Reg. F. (mer) | 10 | 10  |
+|  Direction des nuages | 0.0 | 0.0  |
+|  Pluie tombée |  |   |
+|  Température de l'air | 11,0 | 15,2  |
+|  Hauteur de la mer | 13,4 | 19,2  |
+|  Agitation de l'eau | 1 | 1 fort  |
+|  Densité au bout de la jetée | 1029.0 | 1029.9  |
+|  Température de l'eau | 14,1 | 14,5  |
+```

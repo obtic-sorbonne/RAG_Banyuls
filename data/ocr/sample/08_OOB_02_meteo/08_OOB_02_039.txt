@@ -1,0 +1,17 @@
+# Date: 18 Août 1901
+
+|   | 9th Matin | 3rd Soir  |
+| --- | --- | --- |
+|  Hauteur Barométrique | 700,8 | 704,7  |
+|  Direction du vent | N.N.B | N.N.B  |
+|  Force | 3 | 1 faible  |
+|  Rég. O. (terre) | 0 | 0  |
+|  Ébulosité / Rég. O. (terre) | 0 | 0  |
+|  Rég. E. (mer) | 0 | 0  |
+|  Direction des nuages | 11 | 11  |
+|  Pluie tombée | 11,0 | 14,7  |
+|  Température de l'air | 70,9 | 60,0  |
+|  Hauteur de la mer | 3 | 3 faible  |
+|  Agitation de l'eau | 1028,4 | 1028,7  |
+|  Densité de l'eau | 1028,4 | 1028,7  |
+|  Température de l'eau | 12,9 | 13,4  |

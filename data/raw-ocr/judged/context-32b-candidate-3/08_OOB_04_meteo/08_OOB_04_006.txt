@@ -1,0 +1,29 @@
+# 7. 1er Octobre. 1901
+
+|  Hauteur Barométrique | Matin | Soir  |
+| --- | --- | --- |
+|  Direction du vent | 763.7 | 762.3  |
+|  Force | 8.5.8 | 1.0  |
+|  (Reg. O. (terre)) | 1 | 1 faible  |
+|  (Reg. E. (mer)) | 10 | 10  |
+|  Direction des nuages | 84 | 0.000  |
+|  Flux tombé | 0.020 | 0.003  |
+|  Température de l'air | 18.5 | 18.5  |
+|  Hauteur de la mer | 81.1 | 80.2  |
+|  Égitation de l'eau | 4 fois | 1 fois  |
+|  Densité au bout de la jetée | 1027.5 | 1025.7  |
+|  Température de l'eau | 17.5 | 17.5  |
+
+|  Hauteur Barométrique | Matin | Soir  |
+| --- | --- | --- |
+|  Direction du vent | 763.4 | 763.3  |
+|  Force | 7.5.8 | 7.5.8  |
+|  (Reg. O. (terre)) | 10 | 10  |
+|  (Reg. E. (mer)) | 10 | 10  |
+|  Direction des nuages | 0.002 | 0.003  |
+|  Flux tombé | 0.002 | 0.003  |
+|  Température de l'air | 18.4 | 17.8  |
+|  Hauteur de la mer | 84.5 | 89.3  |
+|  Égitation de l'eau | 4 | 3  |
+|  Densité au bout de la jetée | 1027.1 | 1026.6  |
+|  Température de l'eau | 17.8 | 17.3  |

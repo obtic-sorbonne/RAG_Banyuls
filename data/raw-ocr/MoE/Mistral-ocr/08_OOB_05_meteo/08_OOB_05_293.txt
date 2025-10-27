@@ -1,0 +1,16 @@
+|  1. 10 Septembre 1907 | Moutin | Pour  |
+| --- | --- | --- |
+|  Hauteur 10000000000000000000 | 708.7 | 700,8  |
+|  Direction du vent | 8.1.8 | 8.1.8  |
+|  Force | 1 | 8  |
+|  (Reg. C. (tien) | 10 | 10  |
+|  (Reg. C. (tien) | 10 | 10  |
+|  Direction des mages | 8.01.8 | 8.4  |
+|  Place tomble |  |   |
+|  Température de l'air | 23,8 | 38,2  |
+|  Hauteur de la mer | 47,0 | 19,1  |
+|  Capitation de l'eau | faible | 1  |
+|  Densité au bout de la jetée | 1627,5 | 1626,4  |
+|  Température de l'eau | 38,6 | 34,8  |
+|  1. 11 Septembre 1907 | Moutin | Pour  |
+|  Hauteur 100000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000

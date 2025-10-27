@@ -1,0 +1,46 @@
+```plaintext
+### OBSERVATIONS DU 1941 12 Mai
+
+| **Nombre de bateaux sortis (pêche à la Traine)** | **44** |
+| **Température de l'air** |  |
+| - **maxima depuis la veille** | **23.9** |
+| - **minima id.** | **13.8** |
+| **Température de l'eau** |  |
+| - **maxima depuis la veille** |  |
+| - **minima id.** |  |
+| **Pluie tombée depuis la veille, en millim.** |  |
+| **Évaporation depuis le 190, en millim.** |  |
+| **Direction du vent (à terre)** | **S.S.O.** | **S.S.E.** |
+| - **Force** | **2** | **2 fort** |
+| - **Direction des nuages** | **Sud** | **Sud-Sud-Est** |
+| **Nébulosité** |  |
+| - **région Ouest (terre)** | **10** | **10** |
+| - **id. Est (mer)** | **10** | **10** |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.)** | **26.8** | **29.8** |
+| **Agitation de l'eau** | **1 faible** | **1 faible** |
+| **Densité de l'eau au bout de la jetée** | **1.028.1** | **1.028.1** |
+| **Température id.** | **13.7** | **13.7** |
+| **Température Balancier** | **16.0** | **16.8** |
+
+### OBSERVATIONS DU 1941 13 Mai
+
+| **Nombre de bateaux sortis (pêche à la Traine)** | **Néant** |
+| **Température de l'air** |  |
+| - **maxima depuis la veille** | **28.7** |
+| - **minima id.** | **14.0** |
+| **Température de l'eau** |  |
+| - **maxima depuis la veille** |  |
+| - **minima id.** |  |
+| **Pluie tombée depuis la veille, en millim.** |  |
+| **Évaporation depuis le 190, en millim.** |  |
+| **Direction du vent (à terre)** | **Sud-Sud-Est** |  |
+| - **Force** | **1** |  |
+| - **Direction des nuages** | **S.S.O.** |  |
+| **Nébulosité** |  |
+| - **région Ouest (terre)** | **10** |  |
+| - **id. Est (mer)** | **10** |  |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.)** | **21.4** |  |
+| **Agitation de l'eau** | **1 faible** |  |
+| **Densité de l'eau au bout de la jetée** | **1.028.1** |  |
+| **Température id.** | **13.6** |  |
+```

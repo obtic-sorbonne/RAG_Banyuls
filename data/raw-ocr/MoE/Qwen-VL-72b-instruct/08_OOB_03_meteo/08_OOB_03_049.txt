@@ -1,0 +1,17 @@
+```markdown
+| Date | 12 Novembre 1901 |
+| --- | --- |
+| Hauteur Barométrique | Valve  | 
+| Direction du vent | N.N.O. | 
+| Force | 15 | 
+| Nébulosité | Reg. O. (terre) | 
+| Reg. E. (mer) | 
+| Direction des nuages | N.N.O. | 
+| Pluie tombée |  | 
+| Température de l'air | 9.1 | 
+| Hauteur de la mer | 3'  |  2.7 | 
+| Agitation de l'eau | 1 | 102'7.6 | 
+| Densité de l'eau | Valve | 
+| au large | Valve | 
+| Température de l'eau | 15.2 | 
+```

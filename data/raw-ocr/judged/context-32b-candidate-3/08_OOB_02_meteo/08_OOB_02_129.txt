@@ -1,0 +1,18 @@
+```
+Date. 19 Juillet. 1901
+
+|   | 9H. 30' Gatin | 3rd Suir  |
+| --- | --- | --- |
+|  Hauteur Barométrique | 765,2 | 763,6  |
+|  Direction du vent | 2.3.5 | 8.5  |
+|  Force | 3 | 3  |
+|  Nébulosité / Reg. O. (terre) | 2 | 2  |
+|  Nébulosité / Reg. E. (mer) | 7 | 7  |
+|  Direction des nuages | 10 | 10  |
+|  Pluie tombée | 0 | 0  |
+|  Température de l'air | 32,8 | 30,5  |
+|  Hauteur de la mer | 47,5 | 57,4  |
+|  Agitation de l'eau | faible | faible  |
+|  Densité de l'eau / au bout de la jetée | 1026,8 | 1026,8  |
+|  Température de l'eau | 33,7 | 32,4  |
+```

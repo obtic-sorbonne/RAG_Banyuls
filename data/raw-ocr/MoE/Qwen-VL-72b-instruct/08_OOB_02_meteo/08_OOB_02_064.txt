@@ -1,0 +1,16 @@
+| **Date**   | 13 Mai 1901                         |
+|------------|------------------------------------|
+| **Heures** | **9H Malin** | **3H Soir**         |
+| **Altitude Barométrique** | 763,6 | 762,9 |
+| **Direction du Vent** | Nords | Suds |
+| **Force des Vents** | 2 | 2 |
+| **Nébulosité (Type)** | Reg. O. (Légers) | / |
+| **Nébulosité (Type)** | Reg. E. (Plans) | 1 |
+| **Précipitations** | / | / |
+| **Direction des Nuages** | Nord | Nord |
+| **Pluie tombée** | // | // |
+| **Température de l'Air (°C)** | 18,7 | 22,6 |
+| **Hauteur de la Mer (m)** | 62,1 | 61,2 |
+| **Agitation de l'Eau** | 1 (Faible) | 1 (Faible) |
+| **Densité de l'Eau** | 1028,7 | 1028,0 |
+| **Température de l'Eau (°C)** | 14,6 | 15,4 |

@@ -1,0 +1,51 @@
+| **Observations du 1902** | **14 Mars** |
+| --- | --- |
+| Nombre de bateaux sortis (pêche à l’) | 17.2 |
+| **Température de l’air** |  |
+| maxima depuis la veille | 17.2 |
+| minima id. | 7.2 |
+| **Température de l’eau** |  |
+| maxima depuis la veille |  |
+| minima id. |  |
+| Pluie tombée depuis la veille, en millim. |  |
+| Evaporation depuis le 1900, en millim. |  |
+| **Direction du vent (à terre)** |  |
+| **à 9 h. m.** | **à 3 h. s.** |
+|方向| | S. E | S.S. E |
+| Force | | 1 faible | 1 fort |
+| Direction des nuages | |  |  |
+| **Nébulosité** |  |
+| région Ouest (terre) | 2 | 0 |
+| id. Est (mer) | 0 | 1 |
+| Hauteur de la mer, en centimètres, au-dessus du zéro (B. R.) | 12.8 | 14.7 |
+| Agitation de l’eau | 1 faible | 1 |
+| Densité de l’eau au bout de la jetée | 1027.7 | 1027.7 |
+| Température id. | 12.8 | 11.0 |
+| - *vb.* Balano/Leir | Maxima | 24.4 |  |
+| -  | Minima | 4.7 | 19.9 |
+| - *vi.* Perrane matin | Maxima |  | 16.4 |
+| -  | Minima | 4.7 | 14.6 |
+| **Observations du 1902** | **17 Mars** |
+| Nombre de bateaux sortis (pêche à l’) | 16.8 |
+| **Température de l’air** |  |
+| maxima depuis la veille | 16.8 |
+| minima id. | 9.7 |
+| **Température de l’eau** |  |
+| maxima depuis la veille |  |
+| minima id. |  |
+| Pluie tombée depuis la veille, en millim. |  |
+| Evaporation depuis le 1900, en millim. |  |
+| **Direction du vent (à terre)** |  |
+| **à 9 h. m.** | **à 3 h. s.** |
+|方向| | S.S. E | S. S.O. |
+| Force | | 1 fort | 1 faible |
+| Direction des nuages | |  |  |
+| **Nébulosité** |  |
+| région Ouest (terre) | 40 |  |
+| id. Est (mer) | 40 |  |
+| Hauteur de la mer, en centimètres, au-dessus du zéro (B. R.) | 42.9 |  |
+| Agitation de l’eau | 1 |  |
+| Densité de l’eau au bout de la jetée | 1027.9 | 12.7 |
+| Température id. | 13.6 |  |
+| - *vs.* Balano matin | Maxima | 16.4 |  |
+| -  | Minima | 7.0 |  |

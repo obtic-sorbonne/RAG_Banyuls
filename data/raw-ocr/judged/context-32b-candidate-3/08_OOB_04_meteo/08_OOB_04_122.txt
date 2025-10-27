@@ -1,0 +1,35 @@
+```
+# V. 17 (Joir - 1902)
+
+|  Nom | Date  |
+| --- | --- |
+|  Hauteur Barométrique | 764.2  |
+|  Direction du vent | or. or. 3  |
+|  Force | 1 fort  |
+|  Nébulosité (Reg. O. (terre)) | 0  |
+|  Nébulosité (Reg. E. (mer)) | 0  |
+|  Direction des nuages | 2  |
+|  Pluie tombée | 0  |
+|  Température de l'air | 22.7  |
+|  Hauteur de la mer | 49.0  |
+|  Agitation de l'eau | 1 fort  |
+|  Densité au bout de la jetée | 1027.2  |
+|  Température de l'eau | 21.0  |
+
+# V. 18 (Joir - 1902)
+
+|  Nom | Date  |
+| --- | --- |
+|  Hauteur Barométrique | 760.5  |
+|  Direction du vent | 2.8  |
+|  Force | 1  |
+|  Nébulosité (Reg. O. (terre)) | 0  |
+|  Nébulosité (Reg. E. (mer)) | 0  |
+|  Direction des nuages | 1  |
+|  Pluie tombée | 0  |
+|  Température de l'air | 25.5  |
+|  Hauteur de la mer | 48.1  |
+|  Agitation de l'eau | 17.6  |
+|  Densité au bout de la jetée | 1027.4  |
+|  Température de l'eau | 22.4  |
+```

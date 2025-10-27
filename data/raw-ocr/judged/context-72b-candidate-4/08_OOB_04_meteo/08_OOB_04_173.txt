@@ -1,0 +1,30 @@
+```plaintext
+| Date       | Matin                  | Soir                |
+|------------|------------------------|---------------------|
+| **3 Janv. 1903** |                          |                    |
+| Hauteur Barométrique | 766.3                 | 766.1              |
+| Direction du vent | Ouest                 | Ouest              |
+| Force | 15                    | 1 Faible             |
+| Rég. 6. (claire) | 10                   | légère          |
+| Nébulosité | Reg. E. (mer) | légère (Reg. E. - mer) |
+| Direction des nuages | Ouest               | -                  |
+| Pluie tombée | -                     | -                  |
+| Température de l'air | 8.4                 | 9.2                |
+| Hauteur de la mer | 37.6                | 49.4               |
+| Agitation de l'eau | 1 faible            | 2 forts            |
+| Densité au bout de la jetée | 1029.7            | 1029.4             |
+| Température de l'eau | 12.7                | 12.9               |
+| **4 Janv. 1903** |                          |                    |
+| Hauteur Barométrique | 769.3                 | -                  |
+| Direction du vent | Ouest                 | -                  |
+| Force | 15                    | -                  |
+| Rég. 6. (claire) | 3 dégr.             | -                  |
+| Nébulosité | Reg. E. (mer) 3 dégr. | -                  |
+| Direction des nuages | -                   | -                  |
+| Pluie tombée | -                     | -                  |
+| Température de l'air | 12.0                | -                  |
+| Hauteur de la mer | 41.3                | -                  |
+| Agitation de l'eau | 1 paille            | -                  |
+| Densité au bout de la jetée | 1030.0            | -                  |
+| Température de l'eau | 13.3                | -                  |
+```

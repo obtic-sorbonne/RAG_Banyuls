@@ -1,0 +1,40 @@
+```markdown
+| OBSERVATIONS DU | 1960 | 18 Mai |
+| --- | --- | --- |
+| Nombre de bateaux sortis (pêche à la main) | | 30 |
+| **Température de l'air** | **maxima depuis la veille** | **23.7** |
+|  | **minima id.** | **11.2** |
+| **Température de l'eau** | **maxima depuis la veille** |  |
+|  | **minima id.** |  |
+| **Pluie tombée depuis la veille, en millim.** | | **quelques gouttes** |
+| **Évaporation depuis le 190, en millim.** | |  |
+| **Direction du vent (à terre)** | **à 9 h. m.** | **à 3 h. s.** |
+|  | **S.S.E.** | **S.S.E.** |
+| **Force** | **1** | **1** |
+| **Direction des nuages** | **S.S.E.** | **S.S.E.** |
+| **Nébulosité** | **région Ouest (terre)** | **60** |
+|  | **id. Est (mer)** | **60** |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro** | **47.6** | **94.7** |
+| **Agitation de l'eau** | **1** | **1** |
+| **Densité de l'eau au bout de la jetée** | **1028.1** | **1028.1** |
+| **Température id.** | **13.4** | **14.0** |
+
+| OBSERVATIONS DU | 1960 | 19 Mai |
+| --- | --- | --- |
+| Nombre de bateaux sortis (pêche à la trame) | | **Néant** |
+| **Température de l'air** | **maxima depuis la veille** | **17.8** |
+|  | **minima id.** | **11.4** |
+| **Température de l'eau** | **maxima depuis la veille** |  |
+|  | **minima id.** |  |
+| **Pluie tombée depuis la veille, en millim.** | | **quelques gouttes** |
+| **Évaporation depuis le 190, en millim.** | |  |
+| **Direction du vent (à terre)** | **à 9 h. mat.** | **à 3 h. son.** |
+|  | **1** | **1** |
+| **Direction des nuages** | **S.S.E.** | **S.S.E.** |
+| **Nébulosité** | **région Ouest (terre)** | **10** |
+|  | **id. Est (mer)** | **10** |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro** | | **49.2** |
+| **Agitation de l'eau** | | **2** |
+| **Densité de l'eau au bout de la jetée** | | **1027.7** |
+| **Température id.** | | **13.7** |
+```

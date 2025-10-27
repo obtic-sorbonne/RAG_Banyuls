@@ -1,0 +1,57 @@
+```plaintext
+### OBSERVATIONS DU 1902 1<sup>er</sup> Août
+
+| **Nombre de bateaux sortis (pêche à l.)** | 30.4 |
+| --- | --- |
+| **Température de l'air** |  |
+| - maxima depuis la veille | 30.8 | °C |
+| - minima id. | 16.8 | °C |
+| **Température de l'eau** |  |
+| - maxima depuis la veille |  | °C |
+| - minima id. |  | °C |
+| **Pluie tombée depuis la veille, en millim.** | 1.2 | mm |
+| **Évaporation depuis le 1902, en millim.** |  | mm |
+| **Direction du vent (à terre)** | **à 9 h. m.** | **à 3 h. s.** |
+| - Direction | N.N.O. | S.S.E. |
+| - Force | 4 | 3 |
+| **Direction des nuages** | N.N.O. | S.S.E. |
+| **Nébulosité** |  |
+| - région Ouest (terre) | 10 | 10 |
+| - id. Est (mer) | 10 | 10 |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B.Q.)** | 30.8 | 31.0 |
+| **Agitation de l'eau** | 2 faible | 1 |
+| **Densité de l'eau au bout de la jetée** | 1027.2 | 1027.0 |
+| **Température** |  |
+| - id. Persan (matin) | Maxima 34.5 | °C |
+| - id. Persan (matin) | Minima 14.4 | °C |
+| - id. Louis (matin) | Maxima 30.0 | °C |
+| - id. Louis (matin) | Minima 21.0 | °C |
+
+### OBSERVATIONS DU 1902 2 Août
+
+| **Nombre de bateaux sortis (pêche à l.)** |  |
+| --- | --- |
+| **Température de l'air** |  |
+| - maxima depuis la veille | 32.4 | °C |
+| - minima id. | 16.8 | °C |
+| **Température de l'eau** |  |
+| - maxima depuis la veille |  | °C |
+| - minima id. |  | °C |
+| **Pluie tombée depuis la veille, en millim.** | 6.6 | mm |
+| **Évaporation depuis le 1902, en millim.** |  | mm |
+| **Direction du vent (à terre)** | **à 9 h. m.** | **à 3 h. s.** |
+| - Direction | N.N.O. | N.N.O. |
+| - Force | 4 | 3 |
+| **Direction des nuages** | S.S.E. | S.S.O. |
+| **Nébulosité** |  |
+| - région Ouest (terre) | 1/6 | 6/10 |
+| - id. Est (mer) | 1/6 | 6/10 |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.)** | 26.1 | 36.8 |
+| **Agitation de l'eau** | 2 | 2 |
+| **Densité de l'eau au bout de la jetée** | 1027.1 | 1026.9 |
+| **Température** |  |
+| - id. Ferrame (matin) | Maxima 39.7 | °C |
+| - id. Ferrame (matin) | Minima 17.0 | °C |
+| - id. Ferrame (soir) | Maxima 29.3 | °C |
+| - id. Ferrame (soir) | Minima 17.4 | °C |
+```

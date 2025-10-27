@@ -1,0 +1,50 @@
+| Observations du 19 août 1901 |
+| --- |
+| **Nombre de bateaux sortis (pêche à l. ...)** | 36.3 |
+| **Température de l'air** |  |
+| - Maxima depuis la veille | 36.3 |
+| - Minima id. | 27.7 |
+| **Température de l'eau** |  |
+| - Maxima depuis la veille |  |
+| - Minima id. |  |
+| **Pluie tombée depuis la veille, en millim.** | 0 |
+| **Évaporation depuis le 190, en millim.** | 0 |
+| **Direction du vent (à terre)** | Nord | Nord |
+| **Force** | 1/4 | 0 |
+| **Direction des nuages** | Nord | Nord |
+| **Nébulosité** |  |  |
+| - Région Ouest (terre) | 0 |  |
+| - id. Est (mer) | 0 |  |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B.Q.)** | 29.4 | |
+| **Agitation de l'eau** | 1 | 1 |
+| **Densité de l'eau au bout de la jetée** | 1024.8 | 1029.4 |
+| **Température** |  | |
+| - Terrasse Matin | Maxima | 38.3 |
+| - id. | Minima | 26.4 |
+|
+| Observations du 19 août 1901 |
+| --- |
+| **Nombre de bateaux sortis (pêche à l. ...)** | 33.0 |
+| **Température de l'air** |  |
+| - Maxima depuis la veille | 33.0 |
+| - Minima id. | 24.3 |
+| **Température de l'eau** |  |
+| - Maxima depuis la veille |  |
+| - Minima id. |  |
+| **Pluie tombée depuis la veille, en millim.** | 0 |
+| **Évaporation depuis le 190, en millim.** | 0 |
+| **Direction du vent (à terre)** | Nord | Nord-Est |
+| **Force** | 0 | 2 |
+| **Direction des nuages** | Nord | Sud-Est |
+| **Nébulosité** |  |  |
+| - Région Ouest (terre) | 10 | 10 |
+| - id. Est (mer) | 60 | 10 |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B.Q.)** | 22.3 | 34.2 |
+| **Agitation de l'eau** | 1 | 1 |
+| **Densité de l'eau au bout de la jetée** | 1024.2 | 1029.4 |
+| **Température** |  | |
+| - Terrasse Matin | Maxima | 28.7 |
+| - id. | Minima | 22.8 |
+| - Terrasse Soir | Maxima | 42.1 |
+| - id. | Minima | 27.9 |
+|

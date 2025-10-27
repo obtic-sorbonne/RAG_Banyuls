@@ -1,0 +1,27 @@
+|  2. 21 mars. 1905 | Moatin | Soir  |
+| --- | --- | --- |
+|  Hauteur Maronctrique | 2/2. 2 |   |
+|  Direction du vent | Ouvr. |   |
+|  Force | 1 |   |
+|  Nébulosité | Reg. O. (terre) | 10  |
+|   | 10 |   |
+|  Direction des nuages | Ouvr. |   |
+|  Thie tombée |  |   |
+|  Température de l'air | 1/. 3 |   |
+|  Hauteur de la mer | 32. 8 |   |
+|  Oligotation de l'eau | 1 faible |   |
+|  Densité au bout de la jetée | 10.29.5 |   |
+|  Température de l'eau | 13.0 |   |
+|  2. 23 mars. 1905 | Moatin | Soir  |
+|  Hauteur Maronctrique | 250.0 | 2/9.  |
+|  Direction du vent | or. or. 0 |   |
+|  Force | 15. fort. | 0  |
+|  Nébulosité | Reg. O. (terre) | 10  |
+|   | 10 |   |
+|  Détection des nuages | or. or. 0 | or. or. 0  |
+|  Thie tombée |  |   |
+|  Température de l'air | 18. 5 | 1/. 3  |
+|  Hauteur de la mer | 32.0 | 15.8  |
+|  Oligotation de l'eau | 3 faible | 2  |
+|  Densité au bout de la jetée | 10.29.5 | 10.29.1  |
+|  Température de l'eau | 13.0 | 13.1  |

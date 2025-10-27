@@ -1,0 +1,3 @@
+| Date       | Nombre de paires de bateaux |
+|------------|-----------------------------|
+| 7 avril 1906 | 4                           |

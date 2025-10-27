@@ -1,0 +1,29 @@
+| V. 23 Avril 1907 | Matin | Soir |
+|---|---|---|
+| Hauteur Barométrique | 770.0 | 769.6 |
+| Direction du Vent | Oros | Oros |
+| Force | 3 fort | 3 fort |
+| Nébulosité | 0 | 2 |
+| Reg. C. (clère) | | |
+| Direction des nuages | Nord | Nord |
+| Pluie Tombée | | |
+| Température de l'air | 18.7 | 20.8 |
+| Hauteur de la mer | 69.7 | 69.8 |
+| Agitation de l'eau | 2 | 2 T. fort |
+| Densité au bord de la jetée | 1028.8 | 1028.5 |
+| Température de l'eau | 18.9 | 18.7 |
+
+| V. 24 Avril 1907 | Matin | Soir |
+|---|---|---|
+| Hauteur Barométrique | 769.7 | 767.3 |
+| Direction du Vent | Er. 0 | Er. 0 |
+| Force | 3 | 2 fort |
+| Nébulosité | 0 | 6 Lég. cut. |
+| Reg. C. (clère) | | |
+| Direction des nuages | " | " |
+| Pluie Tombée | " | " |
+| Température de l'air | 20.4 | 26.3 |
+| Hauteur de la mer | 67.4 | 67.4 |
+| Agitation de l'eau | 2 | 2 faible |
+| Densité au bord de la jetée | 1028.8 | 1028.6 |
+| Température de l'eau | 18.6 | 18.8 |

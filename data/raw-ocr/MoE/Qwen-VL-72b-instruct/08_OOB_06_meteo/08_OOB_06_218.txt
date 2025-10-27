@@ -1,0 +1,48 @@
+| **Observations du 9 novembre 1991** |
+| --- |
+| **Nombre de bateaux sortis (pêche à l)** | 17.8 |
+| **Température de l'air** |
+| maxima depuis la veille | 13.8 |
+| minima id. | 12.1 |
+| **Température de l'eau** |
+| maxima depuis la veille |  |
+| minima id. |  |
+| **Pluie tombée depuis la veille, en millim** | quelques g |
+| **Evaporation depuis le 1991, en millim** |  |
+| **Direction du vent (à terre)** |  |
+| **à 9 h. m.** | **à 3 h. s.** |
+| Force | 1 fort | 2 fort |
+| Direction des nuages |  |  |
+| Nébulosité |  |  |
+| région Ouest (terre) | 60 | 60 |
+| id. Est (mer) | 60 | 60 |
+| Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.) | 11.4 | 92.4 |
+| Agitation de l'eau | 1 fort | 1 fort |
+| Densité de l'eau au bout de la jetée | 6028.2 | 6028.0 |
+| Température id. | 16.7 | 16.6 |
+| - is. *Terraine* Matin < maxima / minima > | 23.8 | 10.7 |
+| - is. - is. *loir* < maxima / minima > | 17.9 | 9.8 |
+|  |
+| **Observations du 10 novembre 1991** |
+| **Nombre de bateaux sortis (pêche à l)** | 18.3 |
+| **Température de l'air** |
+| maxima depuis la veille | 13.3 |
+| minima id. | 10.7 |
+| **Température de l'eau** |
+| maxima depuis la veille |  |
+| minima id. |  |
+| **Pluie tombée depuis la veille, en millim** | 1.4 |
+| **Evaporation depuis le 1991, en millim** |  |
+| **Direction du vent (à terre)** |  |
+| **à 9 h. m.** | **à 3 h. s.** |
+| Force | 3 | 3 fort |
+| Direction des nuages | S.S.E. | N.N.E. |
+| Nébulosité |  |  |
+| région Ouest (terre) | 60 | 60 |
+| id. Est (mer) | 60 | 60 |
+| Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.) | 13.2 | 26.5 |
+| Agitation de l'eau | 1 fort | 1 fort |
+| Densité de l'eau au bout de la jetée | 6028.2 | 6028.1 |
+| Température id. | 16.7 | 16.8 |
+| - is *Terraine* Matin < maxima / minima > | 17.8 | 7.7 |
+| - is. - is. *loir* < maxima / minima > | 17.8 | 11.8 |

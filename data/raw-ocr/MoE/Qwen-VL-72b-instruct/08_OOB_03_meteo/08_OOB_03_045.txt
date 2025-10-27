@@ -1,0 +1,16 @@
+| **Date**       | 8 Novembre 1901 |
+|----------------|----------------|
+| **Date et Heure** | **9 H Matin** | **3 H Soir** |
+| Hauteur Barométrique | 763,5 | 761,5 |
+| Direction du vent | N.N.O | N.N.O |
+| Force | 2 | Faible |
+| Nébulosité | Reg. 0. (Clair) | Legèrement c. | 10 |
+| Nébulosité | Reg. E. (Mer) | 10 lég. | 10 |
+| Direction des nuages | Nord | Nord |
+| Pluie tombée |      |       |
+| Température de l'air | 14,1 | 15,7 |
+| Hauteur de la mer | 47,2 | 40,0 |
+| Agitation de l'eau | 3 | 3 | |
+| Densité de l'eau | 1026,5 | 1026,9 |
+| au Large |          |          |
+| Température de l'eau | 14,8 | 15,5 |

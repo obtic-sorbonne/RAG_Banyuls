@@ -1,0 +1,30 @@
+```plaintext
+| **Date**         | **Matin**                     | **Soir**                     |
+|------------------|------------------------------|------------------------------|
+| **V. 15 Octobre 1901** |                              |                              |
+| Hauteur Barométrique | 777.9 mm                    | 777.2 mm                     |
+| Direction du vent   | cr. or. o                    | S.S. 2                       |
+| Force               | 2                            | 2                            |
+| Nebulosité (Terre)  | 10                           | 10                           |
+| Nebulosité (Mer)    | 10                           | 10                           |
+| Direction des nuages | cr. or. o                    | S.S. 2                       |
+| Pluie tombée        | quelque g                    | "                            |
+| Température de l'air | 17.4 °C                     | 17.3 °C                     |
+| Hauteur de la mer   | 25.6 m                       | 36.8 m                       |
+| Agitation de l'eau  | 2                            | 2 fort                       |
+| Densité au bout de la jetée | 1027.2 kg/m³          | 1027.1 kg/m³                 |
+| Température de l'eau | 17.7 °C                     | 17.6 °C                     |
+| **V. 16 Octobre 1901** |                              |                              |
+| Hauteur Barométrique | 777.2 mm                    | 777.2 mm                     |
+| Direction du vent   | cr. or. E                    | S.S. 8                       |
+| Force               | 2                            | 1 T. faibl                   |
+| Nebulosité (Terre)  | (claire)                     | 10                           |
+| Nebulosité (Mer)    | 10                           | 10                           |
+| Direction des nuages | S.S. 8                       | S.S. 8                       |
+| Pluie tombée        | "                            | "                            |
+| Température de l'air | 17.9 °C                     | 17.7 °C                     |
+| Hauteur de la mer   | 22.7 m                       | 28.7 m                       |
+| Agitation de l'eau  | 2 faible                     | 2                            |
+| Densité au bout de la jetée | 1027.4 kg/m³          | 1027.4 kg/m³                 |
+| Température de l'eau | 17.9 °C                     | 17.7 °C                     |
+```

@@ -1,0 +1,59 @@
+### Transcription des observations météorologiques historiques
+
+#### **Observations du 1900 29 février**
+
+| **Paramètre**                     | **Valeur**                 |
+|-----------------------------------|----------------------------|
+| Nombre de bateaux sortis (pêche à l.) | 20.0                      |
+| Température de l'air              | maxima depuis la veille : 20.0 |
+|                                  | minima id. : 14.3         |
+| Température de l'eau              | maxima depuis la veille : -  |
+|                                  | minima id. : -            |
+| Pluie tombée depuis la veille, en millim. | -                        |
+| Evaporation depuis le 1900, en millim. | -                        |
+| Direction du vent (à terre)       | à 9 h. m. : S.S.E.        |
+|                                  | à 3 h. s. : S.S.E.        |
+| Force                             | à 9 h. m. : 2            |
+|                                  | à 3 h. s. : 2            |
+| Direction des nuages              | à 9 h. m. : S.S.S.       |
+|                                  | à 3 h. s. : S.S.E.       |
+| Nébulosité                        | région Ouest (terre) : 40 |
+|                                  | région Est (mer) : 40    |
+| Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.) | à 9 h. m. : 18.8 |
+|                                  | à 3 h. s. : 0            |
+| Agitation de l'eau                | à 9 h. m. : 3            |
+|                                  | à 3 h. s. : 4            |
+| Densité de l'eau au bout de la jetée | à 9 h. m. : 1028.0      |
+|                                  | à 3 h. s. : -            |
+| Température                       | à 9 h. m. : 17.8         |
+|                                  | à 3 h. s. : -            |
+
+---
+
+#### **Observations du 1900 31 mars**
+
+| **Paramètre**                     | **Valeur**                 |
+|-----------------------------------|----------------------------|
+| Nombre de bateaux sortis (pêche à l.) | 19.0                      |
+| Température de l'air              | maxima depuis la veille : 19.0 |
+|                                  | minima id. : 11.1         |
+| Température de l'eau              | maxima depuis la veille : -  |
+|                                  | minima id. : -            |
+| Pluie tombée depuis la veille, en millim. | 30.29                   |
+| Evaporation depuis le 1900, en millim. | -                        |
+| Direction du vent (à terre)       | à 9 h. m. : N.N.O.        |
+|                                  | à 3 h. s. : N.N.O.        |
+| Force                             | à 9 h. m. : 1            |
+|                                  | à 3 h. s. : 1 faible     |
+| Direction des nuages              | à 9 h. m. : N.N.O.       |
+|                                  | à 3 h. s. : N.N.O.       |
+| Nébulosité                        | région Ouest (terre) : 10 |
+|                                  | région Est (mer) : 10    |
+| Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.) | à 9 h. m. : 17.8 |
+|                                  | à 3 h. s. : 22.0         |
+| Agitation de l'eau                | à 9 h. m. : 1            |
+|                                  | à 3 h. s. : 1            |
+| Densité de l'eau au bout de la jetée | à 9 h. m. : 1027.8      |
+|                                  | à 3 h. s. : 1027.9      |
+| Température                       | à 9 h. m. : 16.9         |
+|                                  | à 3 h. s. : 17.0         |

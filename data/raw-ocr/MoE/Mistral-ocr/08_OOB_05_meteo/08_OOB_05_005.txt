@@ -1,0 +1,26 @@
+|  1. 19 Juin - 1905 | Moatin | Joir  |
+| --- | --- | --- |
+|  Hauteur Praxometrique | 203.2 | 204.2  |
+|  Direction du vent | or.0 | 1.0  |
+|  Force | 1 fort | 1 faible  |
+|  Nebulosile | 10 | 10  |
+|  (Reg. 2. (me)) |  |   |
+|  Direction des nuages | 10 | 10  |
+|  Huie tombée | 23.0 | 26.1  |
+|  Température de l'air | 39.8 | 16.0  |
+|  Hauteur de la mer | 1082.2 | 1082.0  |
+|  (agitation de l'eau) |  |   |
+|  1. 20 Juin - 1905 | Moatin | Joir  |
+|  Hauteur Praxometrique | 208.1 |   |
+|  Direction du vent | or.0 |   |
+|  Force | 8 fort |   |
+|  (Reg. 0 (titre)) |  |   |
+|  Nebulosile | 16.0 |   |
+|  (Reg. 2. (me)) |  |   |
+|  Direction des nuages | 16.0 |   |
+|  Huie tombée | 23.1 |   |
+|  Température de l'air | 41.2 |   |
+|  Hauteur de la mer | 1084.4 |   |
+|  (agitation de l'eau) |  |   |
+|  Densité au bout de la jetée | 19.8 |   |
+|  (température de l'eau) |  |   |

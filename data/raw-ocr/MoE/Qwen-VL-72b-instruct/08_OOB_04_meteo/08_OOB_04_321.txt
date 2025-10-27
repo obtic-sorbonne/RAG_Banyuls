@@ -1,0 +1,29 @@
+| Date          | Matin      | Soir       |
+|---------------|------------|------------|
+| 29 Octobre 1903 |            |            |
+| Hauteur Barométrique | 766.0 | 756.0     |
+| Direction du vent    | cr. Nord | cr. Nord  |
+| Force          | 1         | 1          |
+| Nuageux       | 10        | 10         |
+| (Terre)       | 10        | 10         |
+| Direction des nuages  | S. O.      | Sud Ouest |
+| Pluie tombée     | –        | –          |
+| Température de l'air  | 6.7       | 8.9       |
+| Hauteur de la mer    | 40.8      | 29.7      |
+| Agitation de l'eau   | Fort      | Fort      |
+| Vitesse au bout de la jetée | 1027.1   | 1027.0   |
+| Température de l'eau  | 11.8      | 11.5      |
+|---------------|------------|------------|
+| 30 Octobre 1903 |            |            |
+| Hauteur Barométrique | 764.6 | 752.1     |
+| Direction du vent    | S. Este  | S. Este   |
+| Force          | 3         | 3          |
+| Nuageux       | 10        | 10         |
+| (Terre)       | 10        | 10         |
+| Direction des nuages  | S. Este  | S. Este   |
+| Pluie tombée     | 1.6 mm   | 3.6 mm     |
+| Température de l'air  | 10.9     | 11.0      |
+| Hauteur de la mer    | 31.0      | –          |
+| Agitation de l'eau   | 4         | 5          |
+| Vitesse au bout de la jetée | 1027.0   | –          |
+| Température de l'eau  | 11.7      | –          |

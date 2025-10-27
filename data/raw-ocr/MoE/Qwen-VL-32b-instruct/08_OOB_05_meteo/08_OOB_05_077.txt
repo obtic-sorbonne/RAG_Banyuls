@@ -1,0 +1,6 @@
+| **Date** | **Heure** | **Hauteur Barométrique (mmHg)** | **Direction du vent** | **Force** | **Nébulosité (%)** | **Régime O. (claire/terre)** | **Direction des nuages** | **Pluie tombée (mm)** | **Température de l'air (°C)** | **Hauteur de la mer (m)** | **Agitation de l'eau (fort/moyen/faible)** | **Densité au bout de la jetée** | **Température de l'eau (°C)** |
+|----------|-----------|---------------------------------|-----------------------|-----------|----------------------|-------------------------------|-------------------------|------------------------|------------------------------|-----------------------------|----------------------------------|-------------------------------|-------------------------------|
+| V. 7 Février 1906 | Matin | 777.6 | cr. o | is | Reg. o - (claire) | des. ii - (mer) | Pluie tombée | " | Température de l'air | Hauteur de la mer | Agitation de l'eau | Densité au bout de la jetée | Température de l'eau |
+| Soir | 8 | 3 fort | S |  |
+| V. 9 Février 1905 | Matin | 760./ | cr. cr. o | is | Reg. o - (terre) | Reg. xii - (mer) | Direction des nuages | quelques g | 6.0 | s | 2 fort | S |  |
+| Soir | 3 | 40 | or. o |  |  |  |  |  |  |  |  |  |  |

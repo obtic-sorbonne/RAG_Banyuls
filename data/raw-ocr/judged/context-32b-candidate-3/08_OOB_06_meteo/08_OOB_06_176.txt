@@ -1,0 +1,49 @@
+```plaintext
+### OBSERVATIONS DU 1901 11 Juillet
+
+| **Nombre de bateaux sortis (pêche à l'anchois)** | 88,7 |
+| **Température de l'air** |  |
+| - **maxima depuis la veille** | 38,7 |
+| - **minima id.** | 16,8 |
+| **Température de l'eau** |  |
+| - **maxima depuis la veille** |  |
+| - **minima id.** |  |
+| **Pluie tombée depuis la veille, en millim.** |  |
+| **Évaporation depuis le 9 juillet 1901, en millim.** | 6,27 |
+| **Direction du vent (à terre)** | **à 9 h. m.** | **à 3 h. s.** |
+| - **Force** | ESE | ESE |
+| - **Direction des nuages** | 1 | 1 |
+| **Nébulosité** |  |
+| - **région Ouest (terre)** | 10 | 10 |
+| - **id. Est (mer)** | 10 | 10 |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.)** | 2 |  |
+| **Agitation de l'eau** | 1 |  |
+| **Densité de l'eau au bout de la jetée** | 1029,7 |  |
+| **Température** |  |
+| - **Maxima** | 48,7 |  |
+| - **Minima** | 16,2 |  |
+
+### OBSERVATIONS DU 1901 12 Juillet
+
+| **Nombre de bateaux sortis (pêche à l'anchois)** | 81 |
+| **Température de l'air** |  |
+| - **maxima depuis la veille** | 39,1 |
+| - **minima id.** | 18,9 |
+| **Température de l'eau** |  |
+| - **maxima depuis la veille** |  |
+| - **minima id.** |  |
+| **Pluie tombée depuis la veille, en millim.** |  |
+| **Évaporation depuis le 1901, en millim.** |  |
+| **Direction du vent (à terre)** | **à 9 h. m.** | **à 3 h. s.** |
+| - **Force** | NE | NE |
+| - **Direction des nuages** | 1 | 1 |
+| **Nébulosité** |  |
+| - **région Ouest (terre)** | 10 | 10 |
+| - **id. Est (mer)** | 10 | 10 |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.)** | 2 |  |
+| **Agitation de l'eau** | 1 |  |
+| **Densité de l'eau au bout de la jetée** | 1026,0 |  |
+| **Température** |  |
+| - **Maxima** | 35,4 |  |
+| - **Minima** | 18,2 |  |
+```

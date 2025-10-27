@@ -1,0 +1,47 @@
+| **Observations du 1981 18 décembre** |
+| --- |
+| **Nombre de bateaux sortis (pêche à l.)** |  |
+| **Température de l'air** | maxima depuis la veille | 16.2 |
+|  | minima id. | 6.8 |
+| **Température de l'eau** | maxima depuis la veille |  |
+|  | minima id. |  |
+| **Pluie tombée depuis la veille, en millim.** |  |
+| **Évaporation depuis le 190, en millim.** |  |
+| **Direction du vent (à terre)** | à 9 h. m. | à 3 h. s. |
+| **Force** | **S.O.** | **S.O.** |
+|  | 1 fort | 1 |
+| **Direction des nuages** | S.O. |  |
+| **Nébulosité** | région Ouest (terre) | 1 | 2 |
+|  | id. Est (mer) | 1 | 2 |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B.Q.)** | 29.2 | 29.0 |
+| **Agitation de l'eau** | 1 | 1 |
+| **Densité de l'eau au bout de la jetée** | 1027.9 | 1022.2 |
+| **Température** | id. | 13.4 |
+| **Environs Matin** | maxima | 24.1 |
+|  | minima | 4.2 |
+| **Environs Soir** | maxima | 22.6 |
+|  | minima | 10.2 |
+
+| **Observations du 1981 19 décembre** |
+| --- |
+| **Nombre de bateaux sortis (pêche à l.)** |  |
+| **Température de l'air** | maxima depuis la veille | 16.4 |
+|  | minima id. | 7.0 |
+| **Température de l'eau** | maxima depuis la veille |  |
+|  | minima id. |  |
+| **Pluie tombée depuis la veille, en millim.** |  |
+| **Évaporation depuis le 190, en millim.** |  |
+| **Direction du vent (à terre)** | à 9 h. m. | à 3 h. s. |
+| **Force** | **S.O.** | **S.S.** |
+|  | 1 | 1/T jáil |
+| **Direction des nuages** |  |  |
+| **Nébulosité** | région Ouest (terre) | 10 | 10 |
+|  | id. Est (mer) | 10 | 10 |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B.Q.)** | 26.4 | 34.0 |
+| **Agitation de l'eau** | 1 | 1 |
+| **Densité de l'eau au bout de la jetée** | 1027.8 | 1027.9 |
+| **Température** | id. | 12.6 |
+| **Environs Matin** | maxima | 22.6 |
+|  | minima | 4.4 |
+| **Environs Soir** | maxima | 22.7 |
+|  | minima | 7.7 |

@@ -1,0 +1,53 @@
+### Observations du 11 Décembre 1901
+
+| **Nombre de bateaux sortis (pêche à l.)** | 14.3 |
+| **Température de l'air** |  |  |
+| - **maxima depuis la veille** | 14.3 °C |
+| - **minima id.** | 11.7 °C |
+| **Température de l'eau** |  |  |
+| - **maxima depuis la veille** | *non mentionnée* |
+| - **minima id.** | *non mentionnée* |
+| **Pluie tombée depuis la veille, en millim.** | quelques |
+| **Evaporation depuis le 1901, en millim.** | *non mentionnée* |
+| **Direction du vent (à terre)** |  |  |
+| - **à 9 h. m.** | N.N.O. |
+| - **à 3 h. s.** | N.N.O. |
+| - **Force** | 3 faible | 4 forte |
+| - **Direction des nuages** | N.N.O. | N.N.O. |
+| **Nébulosité** |  |  |
+| - **région Ouest (terre)** | 10 | 10 |
+| - **id. Est (mer)** | 10 | 10 |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.)** | 19.8 |  |
+| **Agitation de l'eau** | faible | forte |
+| **Densité de l'eau au bout de la jetée** | 1027.1 | 1027.8 |
+| **Température id.** |  |  |
+| - **Matin** | 12.7 °C | 12.8 °C |
+| - **Maxima** | 23.4 °C |  |
+| - **Minima** | 3.7 °C |  |
+
+### Observations du 12 Décembre 1901
+
+| **Nombre de bateaux sortis (pêche à l.)** | 11.1 |
+| **Température de l'air** |  |  |
+| - **maxima depuis la veille** | 12.1 °C |
+| - **minima id.** | 9.6 °C |
+| **Température de l'eau** |  |  |
+| - **maxima depuis la veille** | *non mentionnée* |
+| - **minima id.** | *non mentionnée* |
+| **Pluie tombée depuis la veille, en millim.** | " |
+| **Evaporation depuis le 1901, en millim.** | *non mentionnée* |
+| **Direction du vent (à terre)** |  |  |
+| - **à 9 h. m.** | S.O. |
+| - **à 3 h. s.** | S.S.O. |
+| - **Force** | faible | forte |
+| - **Direction des nuages** | N. | N. |
+| **Nébulosité** |  |  |
+| - **région Ouest (terre)** | 0 | 0 |
+| - **id. Est (mer)** | 1 | 6 |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.)** | 46.0 | 33.9 |
+| **Agitation de l'eau** | forte | 1 |
+| **Densité de l'eau au bout de la jetée** | 1028.0 | 1027.4 |
+| **Température id.** |  |  |
+| - **Matin** | 12.7 °C | 13.2 °C |
+| - **Maxima** | 23.4 °C |  |
+| - **Minima** | 3.7 °C |  |

@@ -1,0 +1,43 @@
+### OBSERVATIONS DU 6 DÉCEMBRE 1911
+
+| **Nombre de bateaux sortis (pêche à l.)** |                                          | **13.9** |
+| **Température de l'air** | **maxima depuis la veille** | **13.9** |
+|           | **minima id.** | **8.0** |
+| **Température de l'eau** | **maxima depuis la veille** |  |
+|           | **minima id.** |  |
+| **Pluie tombée depuis la veille, en millim.** |                                           | **quelques** |
+| **Évaporation depuis le 190, en millim.** |           |  |
+| **Direction du vent (à terre)** | **à 9 h. m.** | **N.n.0** | **N.m.0** |
+| **Force** |                                      | **2** | **2** |
+| **Direction des nuages** |                                      | **S.S.E.** | **S.S.E.** |
+| **Nébulosité** | **région Ouest (terre)** | **10** | **10** |
+|          | **id. Est (mer)** | **10** | **10** |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.)** |  | **14.5** | **32.0** |
+| **Agitation de l'eau** |                                       | **2 fort** | **2** |
+| **Densité de l'eau au bout de la jetée** |                      | **1027.0** | **1027.0** |
+| **Température id.** | **Matin** | **Maxima** | **26.2** | **27.3** |
+|          |               | **Minima** | **5.9** | **8.3** |
+| **id.** | **Soir** | **Maxima** |  |  |
+|          |               | **Minima** |  |  |
+
+### OBSERVATIONS DU 7 DÉCEMBRE 1911
+
+| **Nombre de bateaux sortis (pêche à l.)** |                                          | **11.3** |
+| **Température de l'air** | **maxima depuis la veille** | **11.3** |
+|           | **minima id.** | **7.0** |
+| **Température de l'eau** | **maxima depuis la veille** |  |
+|           | **minima id.** |  |
+| **Pluie tombée depuis la veille, en millim.** |                                           | **"** |
+| **Évaporation depuis le 190, en millim.** |           |  |
+| **Direction du vent (à terre)** | **à 9 h. m.** | **S.S.E.** | **S.O.** |
+| **Force** |                                      | **3 fort** | **3 fort** |
+| **Direction des nuages** |                                      | **S.S.E.** | **S.S.E.** |
+| **Nébulosité** | **région Ouest (terre)** | **10** | **10** |
+|          | **id. Est (mer)** | **10** | **10** |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.)** |  | **13.4** |  |
+| **Agitation de l'eau** |                                       | **2** | **2 fort** |
+| **Densité de l'eau au bout de la jetée** |                      | **1027.7** | **1028.0** |
+| **Température id.** | **Matin** | **Maxima** | **21.7** | **29.7** |
+|          |               | **Minima** | **5.9** | **11.2** |
+| **id.** | **Soir** | **Maxima** |  |  |
+|          |               | **Minima** |  |  |

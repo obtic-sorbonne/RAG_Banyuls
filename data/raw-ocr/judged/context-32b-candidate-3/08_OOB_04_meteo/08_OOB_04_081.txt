@@ -1,0 +1,33 @@
+# V. 12 Avril. 1902
+
+|  Nom | Date | Type | P.  |
+| --- | --- | --- | --- |
+|  Hauteur |  | Paramefrique | 2/1.1  |
+|  Direction |  | du vent | 1/1.0  |
+|  Force |  |  | 1/1.8  |
+|  Nébulosité |  | Reg. O. (terre) | 10  |
+|  Nébulosité |  | Reg. E. (mer) | 10  |
+|  Direction |  | des nuages | 1.18  |
+|  Pluie |  | tombée | 9.0  |
+|  Température |  | de l'air | 14.6  |
+|  Hauteur |  | de la mer | 24.9  |
+|  Égitation |  | de l'eau | 3  |
+|  Densité |  | au bout de la jetée | 1028.6  |
+|  Température |  | de l'eau | 13.2  |
+
+# V. 13 Avril. 1902
+
+|  Nom | Date | Type | P.  |
+| --- | --- | --- | --- |
+|  Hauteur |  | Paramefrique | 2/8.4  |
+|  Direction |  | du vent | or. or. 0  |
+|  Force |  |  | 2/2.0  |
+|  Nébulosité |  | Reg. O. (terre) | 0  |
+|  Nébulosité |  | Reg. E. (mer) | 3  |
+|  Direction |  | des nuages | or. or. 0  |
+|  Pluie |  | tombée | quelques gouttes  |
+|  Température |  | de l'air | 1.4  |
+|  Hauteur |  | de la mer | 33.2  |
+|  Égitation |  | de l'eau | 2/2.0  |
+|  Densité |  | au bout de la jetée | 1028.6  |
+|  Température |  | de l'eau | 14.0  |

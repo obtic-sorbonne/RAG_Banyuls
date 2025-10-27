@@ -1,0 +1,29 @@
+|  V. 17 (Jout. 1907) | Maitre | Prix  |
+| --- | --- | --- |
+|  Hauteur Marométrique | 708.8 | 707.4  |
+|  Direction du vent | 200.0 | 200.0  |
+|  Force | 8/200 | 8  |
+|  (Reg. G. (Tire) | 10 | 10  |
+|  Nebulipité |  |   |
+|  (Reg. 5 min) | 10 | 10  |
+|  Direction des mages | count | 0.000  |
+|  Plein tombé |  |   |
+|  Température de l'air | 31.6 | 38.3  |
+|  Hauteur de la mer | 27.0 | 29.0  |
+|  (Agitation de l'eau) | 3/200 | 3/200  |
+|  Gompté au bout de la jetée | 1027.7 | 1027.6  |
+|  Température de l'eau | 31.3 | 38.0  |
+|  V. 18 (Jout. 1907) | Maitre | Prix  |
+|  Hauteur Marométrique | 707.4 | 707.2  |
+|  Direction du vent | cv. 8 | 7.78  |
+|  Force | 1 | 2/200  |
+|  (Reg. G. (Tire) | 0 | 0  |
+|  Nebulipité |  |   |
+|  (Reg. 200 mm) | 2 | 0  |
+|  Direction des mages | cv. 8 | 5.0  |
+|  Plein tombé |  |   |
+|  Température de l'air | 34.6 | 30.0  |
+|  Hauteur de la mer | 60.0 | 47.0  |
+|  (Agitation de l'eau) | 1/200 | 15/200  |
+|  Gompté au bout de la jetée | 1086.9 | 1086.6  |
+|  Température de l'eau | 23.2 | 24.3  |

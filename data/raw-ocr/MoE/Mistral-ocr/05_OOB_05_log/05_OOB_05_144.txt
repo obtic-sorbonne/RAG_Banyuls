@@ -1,0 +1,17 @@
+# Sortie du 23 190
+
+|  Départ de | à | heures du  |
+| --- | --- | --- |
+|  pour | Arrivée à |   |
+|  Départ de | à | heures du  |
+|  pour | Arrivée à |   |
+|  Départ de | à | heures du  |
+|  pour |  |   |
+|  Arrivée au mouillage |  | à  |
+|  État du temps: |  |   |
+|  Passagers à bord: |  |   |
+|  Objet de la sortie: |  |   |
+|  Consommation | Briquettes de | Soids en Kitos  |
+|   | Huile | Total en litres  |
+|  Dépenses |  |   |
+|  Observations: |  |   |

@@ -1,0 +1,27 @@
+| V. 20 Aout. 1907 | Matin | Soir |
+|-----------------|-------|------|
+| Hauteur Barométrique | 767.2 | 765.6 |
+| Direction du Vent | E.N.E. | E.N.E. |
+| Force | 2 T. fort | 2 fort |
+| Nébulosité (Reg. X. (cm)) | 10 | 10 |
+| Direction des nuages | Ouest | Ouest |
+| Pluie tombée | " | " |
+| Température de l'air | 24.1 | 27.0 |
+| Hauteur de la mer | 13.9 | 14.7 |
+| Agitation de l'eau | 17. fort | 2 faible |
+| Vitesse au tour de la jetée | 1027.1 | 1027.1 |
+| Température de l'eau | 21.1/8 | 22.0 |
+
+| V. 21 Aout. 1907 | Matin | Soir |
+|-----------------|-------|------|
+| Hauteur Barométrique | 770.2 | 769.7 |
+| Direction du Vent | E.N.E. | Nord |
+| Force | 4 fort | 3 |
+| Nébulosité (Reg. X. (cm)) | 3 | 0 |
+| Direction des nuages | E.N.E. | " |
+| Pluie tombée | " | " |
+| Température de l'air | 22.0 | 26.3 |
+| Hauteur de la mer | 61.1 | 17.6 |
+| Agitation de l'eau | 3 fort | 3 |
+| Vitesse au tour de la jetée | 698.0 | 628.0 |
+| Température de l'eau | 20.7 | 20.9 |

@@ -1,0 +1,31 @@
+# 26 Novembre 1901
+
+|  **Hauteur Barométrique** | **Matin** | **Soir**  |
+| --- | --- | --- |
+|  Direction du vent | 21,8 | 21,8  |
+|  Force | 15/fort | 1/fort  |
+|  Nébulosité | 10 kg/m² c | 3 kg/m² c  |
+|  Reg. G. (1000) | 10 kg/m² c | 3  |
+|  Direction des nuages | 21,8 | 21,8  |
+|  Pluie tombée |  |   |
+|  Température de l'air | 14,6 | 14,1  |
+|  Hauteur de la mer | 12,8 | 11,3  |
+|  Agitation de l'eau | 2/faible | 2/fort  |
+|  Densité au bout de la jetée | 1027,7 | 1027,1  |
+|  Température de l'eau | 16,3 | 16,7  |
+
+# 27 Novembre 1901
+
+|  **Hauteur Barométrique** | **Matin** | **Soir**  |
+| --- | --- | --- |
+|  Direction du vent | cr. or. c | cr. or. c  |
+|  Force | 1/fort | 2  |
+|  Nébulosité | 10 kg/m² c | 10 kg/m² c  |
+|  Reg. G. (1000) | 10 | 10 kg/m² c  |
+|  Direction des nuages | 8/rot | 10/rot  |
+|  Pluie tombée |  |   |
+|  Température de l'air | 13,0 | 13,3  |
+|  Hauteur de la mer | 11,0 | 11,0  |
+|  Agitation de l'eau | 3/fort | 3/fort  |
+|  Densité au bout de la jetée | 1026,6 | 1026,1  |
+|  Température de l'eau | 11,1 | 11,4  |

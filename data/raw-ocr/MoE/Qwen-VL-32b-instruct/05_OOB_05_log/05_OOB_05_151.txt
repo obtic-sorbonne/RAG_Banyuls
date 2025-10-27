@@ -1,0 +1,32 @@
+N° Sortie du  ________  rapporté par ________
+
+Départ de ________ ________ à heures du ________
+
+Arrivé à ________ ________ à heures du ________
+
+Départ de ________ ________ à heures du ________
+
+Arrivé à ________ ________ ________
+
+Arrivée au mouillage ________ ________ ________ h.du ________
+
+État du temps : ________
+
+Passagers à bord :
+
+Objet de la sortie :
+
+Consommation : ________
+\[
+\begin{array}{ll}
+\text{Briquettes de } & \text{Poids en Kilos} \\
+\text{huile } & \text{Total en litres}
+\end{array}
+\]
+
+Dépenses :
+______
+
+Observations :
+
+______

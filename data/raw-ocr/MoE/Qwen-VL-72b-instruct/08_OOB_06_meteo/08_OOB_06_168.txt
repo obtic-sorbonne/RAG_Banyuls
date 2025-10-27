@@ -1,0 +1,49 @@
+| **Observations du 19 juin 1901**                                                                                     |
+| ---                                                                                                             |
+| **Nombre de bateaux sortis (pêche à l’*****)**                                                             | ——          |
+| **Température de l’air**                                                                                     |                                                                 |
+|   - maxima depuis la veille                                                                              | ——          |
+|   - minima                                                                                                 | ——          |
+| **Température de l’eau**                                                                                  |                                                                 |
+|   - maxima depuis la veille                                                                              | ——          |
+|   - minima                                                                                                 | ——          |
+| **Pluie tombée depuis la veille, en millim.**                                                             | ——          |
+| **Evaporation depuis le 7 juin 1901, en millim.**                                                        | 18          |
+| **Direction du vent (à terre)**                                                                            | **à 9 h. m.** | **à 3 h. s.** |
+|   - N.O.                                                                                                 | 2           | 1           |
+|   - N.                                                                                                    | 0           | 0           |
+| **Direction des nuages**                                                                                   | N.O.        | O.S.0        |
+| **Nébulosité**                                                                                             |                                                                 |
+|   - région Ouest (terre)                                                                                 | 40          | 10          |
+|   - Est (mer)                                                                                             | 10          | 10          |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.)**                                          | 31.7        | 31.0        |
+| **Agitation de l’eau**                                                                                    | 1           | 1           |
+| **Densité de l’eau au bout de la jetée**                                                                 | 1026.0      | 1026.4      |
+| **Température id.**                                                                                       | 18.1        | 18.6        |
+|   - Bolané                                                                                               | —38.6       |          |
+|   - Ferratte                                                                                              | —16.4       | 40.0        |
+|   - id.                                                                                                   |          |          |
+|   - id.                                                                                                   |          | —20.3       |
+
+| **Observations du 20 juin 1901**                                                                                     |
+| ---                                                                                                             |
+| **Nombre de bateaux sortis (pêche à l’*****)**                                                             | ——          |
+| **Température de l’air**                                                                                     |                                                                 |
+|   - maxima depuis la veille                                                                              | 39.2        |
+|   - minima                                                                                                 | 19.8        |
+| **Température de l’eau**                                                                                  |                                                                 |
+|   - maxima depuis la veille                                                                              | ——          |
+|   - minima                                                                                                 | ——          |
+| **Pluie tombée depuis la veille, en millim.**                                                             | 1.87        |
+| **Evaporation depuis le 1901 , en millim.**                                                          | ——          |
+| **Direction du vent (à terre)**                                                                            | **à 9 h. m.** | **à 3 h. s.** |
+|   - N.O.                                                                                                 | 3           | 3           |
+|   - N.                                                                                                    | 2           | 0           |
+| **Direction des nuages**                                                                                   | N.O.        | N.O.        |
+| **Nébulosité**                                                                                             |                                                                 |
+|   - région Ouest (terre)                                                                                 | 10          | 1          |
+|   - Est (mer)                                                                                             | 60          | 1          |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.)**                                          | 42.8        | 39.7        |
+| **Agitation de l’eau**                                                                                    | 2           | 2 / faibl.  |
+| **Densité de l’eau au bout de la jetée**                                                                 | 1026.9      | 1026.4      |
+| **Température id.**                                                                                       | 17.7        | 18.2        |

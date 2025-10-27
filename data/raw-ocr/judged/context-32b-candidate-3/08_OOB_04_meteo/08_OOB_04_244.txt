@@ -1,0 +1,31 @@
+```plaintext
+|  V. 21 Juin. 1903 | Matin | Soir  |
+| --- | --- | --- |
+|  Hauteur Barométrique | 763.6 |   |
+|  Direction du vent | or. 0 |   |
+|  Force | 4 |   |
+|  Nébulosité (Reg. O. (terre)) | 0 |   |
+|  Nébulosité (Reg. E. (mer)) |  |   |
+|  Direction des nuages | or. 0 |   |
+|  Pluie tombée | gongruen. 2 |   |
+|  Température de l'air | 18.6 |   |
+|  Hauteur de la mer | 17.8 |   |
+|  Agitation de l'eau | 1/3 fort |   |
+|  Densité au bout de la jetée | 1028.1 |   |
+|  Température de l'eau | 17.0 |   |
+
+|  V. 22 Juin. 1903 | Matin | Soir  |
+| --- | --- | --- |
+|  Hauteur Barométrique |  | 754.0  |
+|  Direction du vent |  | or. 0  |
+|  Force | 1 | 2.0  |
+|  Nébulosité (Reg. O. (terre)) | 10 | 10  |
+|  Nébulosité (Reg. E. (mer)) |  | 10  |
+|  Direction des nuages |  | or. 0  |
+|  Pluie tombée |  | 23.7  |
+|  Température de l'air |  | 47.2  |
+|  Hauteur de la mer |  | 2.0  |
+|  Agitation de l'eau |  | 2.0  |
+|  Densité au bout de la jetée |  | 1028.1  |
+|  Température de l'eau |  | 17.6  |
+```

@@ -1,0 +1,15 @@
+```plaintext
+# V. 26 Janvier 1903
+
+|  Heure | Hauteur Barométrique | Direction du Vent | Force | Nébulosité (Reg. O. (terre)) | Nébulosité (Reg. E. (mer)) | Direction des nuages | Pluie Tombée | Température de l'air | Hauteur de la mer | Agitation de l'eau | Densité au bout de la jetée | Température de l'eau |
+|--------|-----------------------|-------------------|-------|-----------------------------|-----------------------------|----------------------|--------------|----------------------|-------------------|---------------------|-----------------------------|----------------------|
+|  Matin | 779.4                | 0.9.0             | 1/2 faible | 0                           | 0                           | -                    | -            | 6.7                 | 19.1             | 1                  | 1028.1                     | 11.2                |
+|  Soir  | 774.8                | 1.8               | 1/2 faible | 0                           | 0                           | -                    | -            | 10.6                | 62.8             | 1                  | 1027.7                     | 11.4                |
+
+# V. 27 Janvier 1903
+
+|  Heure | Hauteur Barométrique | Direction du Vent | Force | Nébulosité (Reg. O. (terre)) | Nébulosité (Reg. E. (mer)) | Direction des nuages | Pluie Tombée | Température de l'air | Hauteur de la mer | Agitation de l'eau | Densité au bout de la jetée | Température de l'eau |
+|--------|-----------------------|-------------------|-------|-----------------------------|-----------------------------|----------------------|--------------|----------------------|-------------------|---------------------|-----------------------------|----------------------|
+|  Matin | 779.4                | 0.7.0             | 1/2 faible | 0                           | 0                           | -                    | -            | 9.6                 | 19.7             | 1                  | 1028.2                     | 10.7                |
+|  Soir  | 773.5                | 1.8               | 1/2 faible | 0                           | 1                           | -                    | -            | 10.7                | 70.0             | 1                  | 1026.8                     | 11.4                |
+```

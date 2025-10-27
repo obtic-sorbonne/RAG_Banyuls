@@ -1,0 +1,25 @@
+|  V. 7 Janvier - 1905 | Matin | Jour  |
+| --- | --- | --- |
+|  Hauteur Maronetrique | 266.3 | 262.1  |
+|  Direction du vent | or.0 | or.0  |
+|  Force - - is | 1 fort | 1  |
+|  Nébulosité (Reg. o. (time) | 0 | 0  |
+|  Direction des images | or.0 | 1  |
+|  Flue tombée | 1/0.3 | 1/1  |
+|  Température de l'air | 18.1 | 21.1  |
+|  Hauteur de la mer | 3 | 3  |
+|  Cigitation de l'eau | 1029.2 | 5  |
+|  Densité au bout de la jetée | 11.8 | 5  |
+|  Température de l'eau |  |   |
+|  V. 9 Janvier - 1905 | Matin | Jour  |
+|  Hauteur Maronetrique | 224.0 | 223.6  |
+|  Direction du vent | or.0 or.0 | dont  |
+|  Force - - is | 1 fort | 1 fort  |
+|  Nébulosité (Reg. o. (time) | 0 | 0  |
+|  Direction des images |  | or.0  |
+|  Flue tombée | 10.9 | 13.6  |
+|  Température de l'air | 41.2 | 11.4  |
+|  Hauteur de la mer | 1 fort | 1 fort  |
+|  Cigitation de l'eau | 1539.4 | 1539.3  |
+|  Densité au bout de la jetée | 13.6 | 13.6  |
+|  Température de l'eau |  |   |

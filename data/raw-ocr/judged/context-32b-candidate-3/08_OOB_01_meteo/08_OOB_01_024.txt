@@ -1,0 +1,22 @@
+# Date: 6 Septembre 1900
+
+|   |  |  | Beurs |   |
+| --- | --- | --- | --- | --- |
+|   |  |  | gh.m. | 3h.  |
+|  Hauteur barométrique |  |  | 767,1 | 766,4  |
+|  Direction du vent |  |  | N.M.E. |   |
+|  Force |  |  | 1 | 0  |
+|  Nébulosité |  |  | 4 | 0  |
+|  Rép. O. (terre) |  |  | 5 | 0  |
+|  Rép. E. (mer) |  |  | 0 |   |
+|  Direction des nuages : |  |  | 0 |   |
+|  Pluie tombée |  |  | " |   |
+|  Température de l'air |  |  | 22,0 | 24,8  |
+|  Hauteur de la mer |  |  | 0,19 | 0,34  |
+|  Agitation de l'eau |  |  | 0 | 0  |
+|  Densité de l'eau (au bout de la jetée) |  |  | 1026,3 | 1026,4  |
+|  Densité de l'eau (au large) |  |  | 22,0 | 22,7  |
+|  Température de l'eau (surface) |  |  | 22,0 | 22,7  |
+|  Observ. |  |  |  |   |
+|  Min. |  |  |  |   |
+|  Lumières. |  |  |  |   |

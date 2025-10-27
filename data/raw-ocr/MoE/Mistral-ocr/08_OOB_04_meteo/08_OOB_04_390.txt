@@ -1,0 +1,29 @@
+# 23 Juin - 1904
+
+|  **Pfanteur** | **Neuron**  |
+| --- | --- |
+|  Sélection du vent | 769.0  |
+|  Force | 1  |
+|  (Reg. O. (lins)) | 10  |
+|  Délicution des mages | 10  |
+|  Mise tombe | 22.2  |
+|  Température de l'air | 22.2  |
+|  Hauteur de la mer | 16.7  |
+|  Égitation de l'eau | 102.8  |
+|  Densité au bout de la jetée | 102.8  |
+|  Température de l'eau | 20.1  |
+
+# 24 Juin - 1904
+
+|  **Pfanteur** | **Neuron**  |
+| --- | --- |
+|  Sélection du vent | 767.4  |
+|  Force | 1  |
+|  (Reg. O. (lins)) | 1  |
+|  Délicution des mages | 10  |
+|  Mise tombe | 25.8  |
+|  Température de l'air | 25.8  |
+|  Hauteur de la mer | 11.8  |
+|  Égitation de l'eau | 102.6  |
+|  Densité au bout de la jetée | 102.6  |
+|  Température de l'eau | 25.1  |

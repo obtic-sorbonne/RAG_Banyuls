@@ -1,0 +1,29 @@
+|  N. 19 Juin. 1902 | Obatin | Soir  |
+| --- | --- | --- |
+|  Hauteur Ivarométrique | 3/8.4 | 3/7.6  |
+|  Direction du vent | 1.2.8 | 2.2.8  |
+|  Force | 2.00 | 3.00  |
+|  Nég. O. (tire) | 0 | 10 kgm⁻³  |
+|  Nébuloisite |  |   |
+|  (Reg. E. (mer) | 2 | 10 kgm⁻³  |
+|  Direction des nuages | 2.2.6 | 0.00.0  |
+|  Flux tombe |  |   |
+|  Comportant le l'air | 19.0 | 34.6  |
+|  Hauteur de la mer | 47.1 | 38.6  |
+|  Régination de l'eau | 1.00 | 3  |
+|  Densité au bout de la jetée | 10.27.7 | 10.27.7  |
+|  Comportant le l'eau | 17.7 | 18.2  |
+|  N. 20 Juin. 1902 | Obatin | Soir  |
+|  Hauteur Ivarométrique | 3/7.2 | 3/8.2  |
+|  Direction du vent | 0.00 | 3/7.2  |
+|  Force | 1.00 | 1.00  |
+|  Nég. O. (tire) | 10 | 1  |
+|  Nébuloisite |  |   |
+|  (Reg. E. (mer) | 10 | 0  |
+|  Direction des nuages | 0.00.0 | 0.00.0  |
+|  Flux tombe | 4.6/0 | 0  |
+|  Comportant le l'air | 17.3 | 31.6  |
+|  Hauteur de la mer | 40.1 | 43.1  |
+|  Régination de l'eau | 1 | 1  |
+|  Densité au bout de la jetée | 10.29.3 | 10.27.9  |
+|  Comportant le l'eau | 16.3 | 17.3  |

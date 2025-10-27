@@ -1,0 +1,25 @@
+| V. 22 Janvier 1907 | Matin | Soir |
+|-------------------|-------|------|
+| Hauteur Barométrique | 767,2 | 769,2 |
+| Direction du vent | er.o | er.o |
+| Force | 4 | 7 |
+| Nebulosité | Reg. o. (claire) | 10 | 10 |
+| Direction des nuages | S.O | er.o |
+| Pluie tombée | " | " |
+| Température de l'air | 6,3 | 6,7 |
+| Hauteur de la mer | 64,9 | 69,9 |
+| Agitation de l'eau | 3 fort | 3 |
+| Visibilité au bout de la jetée | 1029,8 | 1023,8 |
+| Température de l'eau | 11,2 | 10,7 |
+| V. 23 Janvier 1907 | Matin | Soir |
+| Hauteur Barométrique | 766,3 |  |
+| Direction du vent | er.o |  |
+| Force | 3 | faible |
+| Nebulosité | Reg. a. (terre) | 10 |  |
+| Direction des nuages | S. 8 |  |
+| Pluie tombée | " |  |
+| Température de l'air | 5,6 |  |
+| Hauteur de la mer | 15,0 |  |
+| Agitation de l'eau | 4 |  |
+| Visibilité au bout de la jetée | 5 |  |
+| Température de l'eau |  |  |

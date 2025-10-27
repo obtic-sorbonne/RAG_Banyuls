@@ -1,0 +1,20 @@
+# Dâté. 23 Avril. 1901
+
+|  **Nom** | **Prix**  |
+| --- | --- |
+|  Yorutewo Praxometrique | 9.99,8  |
+|  Direction Su vent | 5.5.8  |
+|  Force | 2 faible  |
+|  Tributosite | 10  |
+|  Reg. E. (mer) | 10  |
+|  Direction Ses nuages | 5.5.8  |
+|  Chue tombe | 0,02  |
+|  Température de l'air | 13,7  |
+|  Yorutewo Se la mer | 39,9  |
+|  Opitation de l'eau | 3  |
+|  Densité de l'eau | 1029,1  |
+|  **Total** | 1029,1  |
+
+Démolarité de l'eau: 13,7
+
+Démolarité de l'eau: 13,2

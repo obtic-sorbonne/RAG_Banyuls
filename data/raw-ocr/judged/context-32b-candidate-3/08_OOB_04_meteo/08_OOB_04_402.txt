@@ -1,0 +1,32 @@
+```plaintext
+|  9. 23 juillet 1904 | Obatin | Jour  |
+| --- | --- | --- |
+|  Hauteur marometrique | 766.5 |   |
+|  Direction du vent | 7.8 |   |
+|  Force | 1 |   |
+|  (Rég. O. (min)) | 0 |   |
+|  (Nébulosité) |  |   |
+|  (Rég. K. (min)) | 8 |   |
+|  Direction des nuages | 7.8.8 |   |
+|  Pluie tombée |  |   |
+|  Température de l'air | 27.6 |   |
+|  Hauteur de la mer | 49.7 |   |
+|  Régulation de l'eau | 1/20/1 |   |
+|  Densité au bout de la jetée | 102.1 |   |
+|  Température de l'eau | 36.6 |   |
+
+|  9. 27 juillet 1904 | Obatin | Jour  |
+| --- | --- | --- |
+|  Hauteur marometrique | 769.0 | 768.5  |
+|  Direction du vent | 7.7.8 | or.0.0  |
+|  Force | 2 | 3  |
+|  (Nébulosité) |  |   |
+|  (Rég. K. (min)) | 0 | 3  |
+|  Direction des nuages |  | 7.0  |
+|  Pluie tombée |  |   |
+|  Température de l'air | 27.6 | 29.8  |
+|  Hauteur de la mer | 43.3 | 38.1  |
+|  Régulation de l'eau | 1 | 1  |
+|  Densité au bout de la jetée | 1026.1 | 1026.3  |
+|  Température de l'eau | 22.8 | 23.4  |
+```

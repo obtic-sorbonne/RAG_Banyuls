@@ -1,0 +1,33 @@
+# V. 4 X 1901
+
+## Matin
+
+### 1901
+
+|  **Nom** | **Nom de l'exercice** | **Prix**  |
+| --- | --- | --- |
+|  **Matin** | **Pavon** | 7,54  |
+|  **Pavon** | **Pavon** | 7,54  |
+|  **Force** | **1/2** | 8  |
+|  **Médiathlète** | **Reg. O. (Terre)** | 0  |
+|  **Médiathlète** | **Reg. E. (mer)** | 0  |
+|  **Direction des images** | **Fluie Tomble** | 0  |
+|  **Démperative de l'air** | **Fauleur de la mer** | 6,9  |
+|  **Dégétation de l'eau** | **Légétation de l'eau** | 18,1  |
+|  **Dégétation au bout de la jeté** | **Dégétation de l'étoile** | 1029,2  |
+|  **Démperative de l'eau** | **Dégétation de l'étoile** | 13,6  |
+
+### 1901
+
+|  **Nom** | **Nom de l'exercice** | **Prix**  |
+| --- | --- | --- |
+|  **Matin** | **Pavon** | 7,54  |
+|  **Pavon** | **Pavon** | 7,54  |
+|  **Force** | **1/2** | 8  |
+|  **Médiathlète** | **Reg. O. (Terre)** | 0  |
+|  **Médiathlète** | **Reg. E. (mer)** | 0  |
+|  **Direction des images** | **Fluie Tomble** | 7,4  |
+|  **Démperative de l'air** | **Fauleur de la mer** | 18,3  |
+|  **Dégétation de l'eau** | **Légétation de l'eau** | 1029,2  |
+|  **Dégétation au bout de la jeté** | **Dégétation de l'étoile** | 1029,2  |
+|  **Démperative de l'eau** | **Dégétation de l'étoile** | 13,6  |

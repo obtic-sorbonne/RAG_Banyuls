@@ -1,0 +1,27 @@
+|  V. 26 Novembre 1906 | Mbaatin | Soir  |
+| --- | --- | --- |
+|  Hauteur Moasométrique | 40.2 |   |
+|  Direction des Tents | or. 0 |   |
+|  Force | 8 |   |
+|  Nébulivité | 0 |   |
+|  (Reg. C. (nur) |  |   |
+|  Direction des images |  |   |
+|  Plein Tombé |  |   |
+|  Température de l'air | 20.2 |   |
+|  Hauteur de la mer | 61.0 |   |
+|  Agitation de l'eau | 2 faible |   |
+|  Densité au bout de la jetée | 128.8 |   |
+|  Température de l'eau | 11.4 |   |
+|  V. 27 Novembre 1906 | Mbaatin | Soir  |
+|  Hauteur Moasométrique | 268.6 | 267.3  |
+|  Direction du Tent | or. or. 0 | or. 0  |
+|  Force | 4 | 3  |
+|  Nébulivité | 0 |   |
+|  (Reg. C. (nur) |  |   |
+|  Direction des images |  |   |
+|  Plein Tombé |  |   |
+|  Température de l'air | 10.8 |   |
+|  Hauteur de la mer | 14.8 | 15.8  |
+|  Agitation de l'eau | 4.4 | 4.4  |
+|  Densité au bout de la jetée | 108.9 | 108.9  |
+|  Température de l'eau | 16.0 | 16.0  |

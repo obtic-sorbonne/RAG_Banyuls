@@ -1,0 +1,35 @@
+```markdown
+# 9 Juin 1907
+
+| **Date et heure**    | **Matin** | **Soir** |
+|---------------------|----------|----------|
+| Hauteur Barométrique | 768.3 mmHg | 762.9 mmHg |
+| Direction du vent    | Nord-Est | Nord-Ouest |
+| Force               | 3 fort   | 1         |
+| Nébulosité (Reg. 0. (Ciel clair)) | 10       | 10       |
+| (Reg. G. (Terre))    | 10       | 10       |
+| Direction des nuages | Nord-Ouest | 0        |
+| Pluie tombée         | 0         | 0         |
+| Température de l'air | 19.8 °C  | 21.2 °C   |
+| Hauteur de la mer    | 18.8 cm  | 18.8 cm   |
+| Agitation de l'eau  | 2 fort   | 1         |
+| Densité au bout de la jetée | 1028.0 g/cm³ | 1028.0 g/cm³ |
+| Température de l'eau | 18.1 °C  | 18.1 °C   |
+
+# 10 Juin 1907
+
+| **Date et heure**    | **Matin** | **Soir** |
+|---------------------|----------|----------|
+| Hauteur Barométrique | 764.7 mmHg | 768.8 mmHg |
+| Direction du vent    | Nord-Est | Nord-Est  |
+| Force               | 6        | 1 fort   |
+| Nébulosité (Reg. 0. (Ciel clair)) | 10       | 10       |
+| (Reg. G. (Terre))    | 10       | 0        |
+| Direction des nuages | Nord-Ouest | 0        |
+| Pluie tombée         | 0         | 0         |
+| Température de l'air | 30.4 °C  | 37.3 °C   |
+| Hauteur de la mer    | 18.2 cm  | 18.2 cm   |
+| Agitation de l'eau  | 1 fort   | 1         |
+| Densité au bout de la jetée | 1028.3 g/cm³ | 1028.3 g/cm³ |
+| Température de l'eau | 17.3 °C  | 17.3 °C   |
+```

@@ -1,0 +1,30 @@
+|  | Matin | Soir |
+| --- | --- | --- |
+| Hauteur Barometrique | 760.3 | 760.3 |
+| Direction du Vent | cr. & | ouest |
+| Force | is | fort |
+| Nébulosité | Reg.2.(terre) | légèrement W |
+| Direction des nuages | S.O | S.O |
+| Pluie tombée | " | " |
+| Température de l'air | 19.0 | 19.4 |
+| Hauteur de la mer | 47.6 | 39.5 |
+| Agitation de l'eau | 1 | Faible |
+| Densité au bout de la jetée | 1027.8 | 1027.8 |
+| Température de l'eau | 20.8 | 20.7 |
+|  |  |  |
+|  | Matin | Soir |
+| --- | --- | --- |
+| Hauteur Barometrique | 779.9 | 779.9 |
+| Direction du Vent | cr.cr.o | croisé |
+| Force | is | fort |
+| Nébulosité | Reg.2.(terre) | lo |
+| Direction des nuages | cr.cr.o | S.O |
+| Pluie tombée | 12.37 | " |
+| Température de l'air | 19.8 | 19.6 |
+| Hauteur de la mer | 49.7 | 39.2 |
+| Agitation de l'eau | 1 faible | 2 |
+| Densité au bout de la jetée | 1028.8 | 1028.3 |
+| Température de l'eau | 20.3 | 20.2 |
+|  |  |  |
+| V.25 Septembre -1905 |  |  |
+| V.26 Septembre -1905 |  |  |

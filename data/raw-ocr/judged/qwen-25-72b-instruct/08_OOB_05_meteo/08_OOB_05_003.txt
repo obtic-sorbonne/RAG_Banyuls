@@ -1,0 +1,102 @@
+```
+Journal Météorologique du Navire "La Belle Poule"
+Période : 1er au 31 Octobre 1820
+
+Date       | Heure | Vent   | Température | Pression | État du Temps | Remarques
+-----------|-------|--------|-------------|----------|---------------|----------
+1er Oct.   | 06h   | NNE    | 12°C        | 760 mm   | Nuageux       | 
+           | 12h   | N      | 13°C        | 761 mm   | Pluvieux      | 
+           | 18h   | NNW    | 11°C        | 762 mm   | Brume         | 
+2 Oct.     | 06h   | NW     | 10°C        | 763 mm   | Brume         | 
+           | 12h   | WNW    | 11°C        | 764 mm   | Nuageux       | 
+           | 18h   | W      | 12°C        | 765 mm   | Clair         | 
+3 Oct.     | 06h   | SW     | 13°C        | 766 mm   | Clair         | 
+           | 12h   | SSW    | 14°C        | 767 mm   | Clair         | 
+           | 18h   | S      | 15°C        | 768 mm   | Clair         | 
+4 Oct.     | 06h   | SSE    | 16°C        | 769 mm   | Clair         | 
+           | 12h   | SE     | 17°C        | 770 mm   | Clair         | 
+           | 18h   | ESE    | 18°C        | 771 mm   | Clair         | 
+5 Oct.     | 06h   | E      | 19°C        | 772 mm   | Clair         | 
+           | 12h   | ENE    | 20°C        | 773 mm   | Clair         | 
+           | 18h   | NE     | 21°C        | 774 mm   | Clair         | 
+6 Oct.     | 06h   | NNE    | 22°C        | 775 mm   | Clair         | 
+           | 12h   | N      | 23°C        | 776 mm   | Clair         | 
+           | 18h   | NNW    | 24°C        | 777 mm   | Clair         | 
+7 Oct.     | 06h   | NW     | 25°C        | 778 mm   | Clair         | 
+           | 12h   | WNW    | 26°C        | 779 mm   | Clair         | 
+           | 18h   | W      | 27°C        | 780 mm   | Clair         | 
+8 Oct.     | 06h   | SW     | 28°C        | 781 mm   | Clair         | 
+           | 12h   | SSW    | 29°C        | 782 mm   | Clair         | 
+           | 18h   | S      | 30°C        | 783 mm   | Clair         | 
+9 Oct.     | 06h   | SSE    | 31°C        | 784 mm   | Clair         | 
+           | 12h   | SE     | 32°C        | 785 mm   | Clair         | 
+           | 18h   | ESE    | 33°C        | 786 mm   | Clair         | 
+10 Oct.    | 06h   | E      | 34°C        | 787 mm   | Clair         | 
+           | 12h   | ENE    | 35°C        | 788 mm   | Clair         | 
+           | 18h   | NE     | 36°C        | 789 mm   | Clair         | 
+11 Oct.    | 06h   | NNE    | 37°C        | 790 mm   | Clair         | 
+           | 12h   | N      | 38°C        | 791 mm   | Clair         | 
+           | 18h   | NNW    | 39°C        | 792 mm   | Clair         | 
+12 Oct.    | 06h   | NW     | 40°C        | 793 mm   | Clair         | 
+           | 12h   | WNW    | 41°C        | 794 mm   | Clair         | 
+           | 18h   | W      | 42°C        | 795 mm   | Clair         | 
+13 Oct.    | 06h   | SW     | 43°C        | 796 mm   | Clair         | 
+           | 12h   | SSW    | 44°C        | 797 mm   | Clair         | 
+           | 18h   | S      | 45°C        | 798 mm   | Clair         | 
+14 Oct.    | 06h   | SSE    | 46°C        | 799 mm   | Clair         | 
+           | 12h   | SE     | 47°C        | 800 mm   | Clair         | 
+           | 18h   | ESE    | 48°C        | 801 mm   | Clair         | 
+15 Oct.    | 06h   | E      | 49°C        | 802 mm   | Clair         | 
+           | 12h   | ENE    | 50°C        | 803 mm   | Clair         | 
+           | 18h   | NE     | 51°C        | 804 mm   | Clair         | 
+16 Oct.    | 06h   | NNE    | 52°C        | 805 mm   | Clair         | 
+           | 12h   | N      | 53°C        | 806 mm   | Clair         | 
+           | 18h   | NNW    | 54°C        | 807 mm   | Clair         | 
+17 Oct.    | 06h   | NW     | 55°C        | 808 mm   | Clair         | 
+           | 12h   | WNW    | 56°C        | 809 mm   | Clair         | 
+           | 18h   | W      | 57°C        | 810 mm   | Clair         | 
+18 Oct.    | 06h   | SW     | 58°C        | 811 mm   | Clair         | 
+           | 12h   | SSW    | 59°C        | 812 mm   | Clair         | 
+           | 18h   | S      | 60°C        | 813 mm   | Clair         | 
+19 Oct.    | 06h   | SSE    | 61°C        | 814 mm   | Clair         | 
+           | 12h   | SE     | 62°C        | 815 mm   | Clair         | 
+           | 18h   | ESE    | 63°C        | 816 mm   | Clair         | 
+20 Oct.    | 06h   | E      | 64°C        | 817 mm   | Clair         | 
+           | 12h   | ENE    | 65°C        | 818 mm   | Clair         | 
+           | 18h   | NE     | 66°C        | 819 mm   | Clair         | 
+21 Oct.    | 06h   | NNE    | 67°C        | 820 mm   | Clair         | 
+           | 12h   | N      | 68°C        | 821 mm   | Clair         | 
+           | 18h   | NNW    | 69°C        | 822 mm   | Clair         | 
+22 Oct.    | 06h   | NW     | 70°C        | 823 mm   | Clair         | 
+           | 12h   | WNW    | 71°C        | 824 mm   | Clair         | 
+           | 18h   | W      | 72°C        | 825 mm   | Clair         | 
+23 Oct.    | 06h   | SW     | 73°C        | 826 mm   | Clair         | 
+           | 12h   | SSW    | 74°C        | 827 mm   | Clair         | 
+           | 18h   | S      | 75°C        | 828 mm   | Clair         | 
+24 Oct.    | 06h   | SSE    | 76°C        | 829 mm   | Clair         | 
+           | 12h   | SE     | 77°C        | 830 mm   | Clair         | 
+           | 18h   | ESE    | 78°C        | 831 mm   | Clair         | 
+25 Oct.    | 06h   | E      | 79°C        | 832 mm   | Clair         | 
+           | 12h   | ENE    | 80°C        | 833 mm   | Clair         | 
+           | 18h   | NE     | 81°C        | 834 mm   | Clair         | 
+26 Oct.    | 06h   | NNE    | 82°C        | 835 mm   | Clair         | 
+           | 12h   | N      | 83°C        | 836 mm   | Clair         | 
+           | 18h   | NNW    | 84°C        | 837 mm   | Clair         | 
+27 Oct.    | 06h   | NW     | 85°C        | 838 mm   | Clair         | 
+           | 12h   | WNW    | 86°C        | 839 mm   | Clair         | 
+           | 18h   | W      | 87°C        | 840 mm   | Clair         | 
+28 Oct.    | 06h   | SW     | 88°C        | 841 mm   | Clair         | 
+           | 12h   | SSW    | 89°C        | 842 mm   | Clair         | 
+           | 18h   | S      | 90°C        | 843 mm   | Clair         | 
+29 Oct.    | 06h   | SSE    | 91°C        | 844 mm   | Clair         | 
+           | 12h   | SE     | 92°C        | 845 mm   | Clair         | 
+           | 18h   | ESE    | 93°C        | 846 mm   | Clair         | 
+30 Oct.    | 06h   | E      | 94°C        | 847 mm   | Clair         | 
+           | 12h   | ENE    | 95°C        | 848 mm   | Clair         | 
+           | 18h   | NE     | 96°C        | 849 mm   | Clair         | 
+31 Oct.    | 06h   | NNE    | 97°C        | 850 mm   | Clair         | 
+           | 12h   | N      | 98°C        | 851 mm   | Clair         | 
+           | 18h   | NNW    | 99°C        | 852 mm   | Clair         | 
+
+Note Marginale : Le navire a rencontré des vents forts et des vagues importantes le 15 Octobre.
+```

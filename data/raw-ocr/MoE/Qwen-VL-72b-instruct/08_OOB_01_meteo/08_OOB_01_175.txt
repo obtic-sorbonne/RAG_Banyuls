@@ -1,0 +1,15 @@
+| Date | Paramètre | Matin (9h) | Soir (3h) |
+|---|---|---|---|
+| 17 Janvier 1901 | Hauteur Barométrique | 764.0 | 764.3 |
+|  | Direction du vent | Sud | Sud |
+|  | Force du vent | 4 (faible) | 3 |
+|  | Nébulosité (Tenue) | 10 | 10 |
+|  | Nébulosité (max) | 10 | 10 |
+|  | Direction des nuages | Sud | Sud |
+|  | Chute tombée | 3.750 | 1.875 |
+|  | Température de l'air | 11.4 | 10.2 |
+|  | Hauteur de la mer | 42.1 | 44.1 |
+|  | Agitation de l'eau | 4 (faible) | 3 (faible) |
+|  | Densité de l'eau (à l’embouchure de la jetée) | 1.028.9 | 1.028.4 |
+|  | Densité de l'eau (au large) |  |  |
+|  | Température de l'eau | 13.0 | 13.2 |

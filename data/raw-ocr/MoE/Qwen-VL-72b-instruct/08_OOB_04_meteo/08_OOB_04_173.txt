@@ -1,0 +1,51 @@
+| Date       | Heure   | Décr.         | Valeur       | Unité    | Remarque |
+|------------|---------|---------------|--------------|----------|----------|
+| V. 3 Janvier 1903 | Matin | Hauteur Barométrique | 766.3     | mmHg    |          |
+|            | Matin | Direction du vent | Ouest      |           |          |
+|            | Matin | Force            | 15         |           |          |
+|            | Matin | Rég. 6. (claire) | -          |           |          |
+|            | Matin | Nébulosité       | Reg. É. (mer) |           |          |
+|            | Matin | Direction des nuages | -      |           |          |
+|            | Matin | Pluie tombée    | -          |           |          |
+|            | Matin | Température de l'air | 8.4    | °C       |          |
+|            | Matin | Hauteur de la mer | 37.6     | m        |          |
+|            | Matin | Agitation de l'eau | 1       |           |          |
+|            | Matin | Vitesse au bout de la jetée | 1029.7  | m/s     |          |
+|            | Matin | Température de l'eau | 12.7  | °C       |          |
+|            | Soir  | Hauteur Barométrique | 766.1     | mmHg    |          |
+|            | Soir  | Direction du vent | Est      |           |          |
+|            | Soir  | Force            | 1 Faible  |           |          |
+|            | Soir  | Rég. 6. (claire) | Légèrement |           |          |
+|            | Soir  | Nébulosité       | Reg. É. (mer) | Légère  |          |
+|            | Soir  | Direction des nuages | -      |           |          |
+|            | Soir  | Pluie tombée    | -          |           |          |
+|            | Soir  | Température de l'air | 9.2    | °C       |          |
+|            | Soir  | Hauteur de la mer | 47.4     | m        |          |
+|            | Soir  | Agitation de l'eau | 2 Fort  |           |          |
+|            | Soir  | Vitesse au bout de la jetée | 1029.4  | m/s     |          |
+|            | Soir  | Température de l'eau | 12.9  | °C       |          |
+|------------|---------|---------------|--------------|----------|----------|
+| V. 4 Janvier 1903 | Matin | Hauteur Barométrique | 769.3     | mmHg    |          |
+|            | Matin | Direction du vent | Ouest      |           |          |
+|            | Matin | Force            | 15         |           |          |
+|            | Matin | Rég. 6. (claire) | 3 Dégr.    |           |          |
+|            | Matin | Nébulosité       | Reg. É. (mer) | 3 Dégr. |          |
+|            | Matin | Direction des nuages | -      |           |          |
+|            | Matin | Pluie tombée    | -          |           |          |
+|            | Matin | Température de l'air | 12.0   | °C       |          |
+|            | Matin | Hauteur de la mer | 41.3     | m        |          |
+|            | Matin | Agitation de l'eau | 1 Paill. |           |          |
+|            | Matin | Vitesse au bout de la jetée | 1030.0  | m/s     |          |
+|            | Matin | Température de l'eau | 13.3  | °C       |          |
+|            | Soir  | Hauteur Barométrique | -      | mmHg    |          |
+|            | Soir  | Direction du vent | -        |           |          |
+|            | Soir  | Force            | -        |           |          |
+|            | Soir  | Rég.             | -        |           |          |
+|            | Soir  | Nébulosité       | -        |           |          |
+|            | Soir  | Direction des nuages | -      |           |          |
+|            | Soir  | Pluie tombée    | -        |           |          |
+|            | Soir  | Température de l'air | -      | °C       |          |
+|            | Soir  | Hauteur de la mer | -        | m        |          |
+|            | Soir  | Agitation de l'eau | -      |           |          |
+|            | Soir  | Vitesse au bout de la jetée | -        | m/s     |          |
+|            | Soir  | Température de l'eau | -      | °C       |          |

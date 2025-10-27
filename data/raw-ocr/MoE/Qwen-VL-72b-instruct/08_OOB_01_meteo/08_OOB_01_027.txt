@@ -1,0 +1,16 @@
+| Date | 8 Septembre 1900 |
+|------|-------------------|
+| Heures | 9 h. | 15 h. |
+| Haut. barométrique | 764,7 | 763,6 |
+| Direction du vent | N.N.E. | E. |
+| Force | 1 | 1/ain |
+| Nebulosité | Reg. O. (terre) | 3 | 7 |
+| Nim. | Reg. E. (mer) | 3 | 7 |
+| Direction des nuages | 0. | N.O. |
+| Pluie tombée : | 0,3 mm | " |
+| Température de l'air | 22,4 °C | 25,1 °C |
+| Hauteur de la mer | 0,27 m | 0,26 m |
+| Agitation de l'eau | 0 | 0 |
+| Densité de l'eau {au bout de la jetée} {au large} | 1026,4 | 1026,4 |
+| Température de l'eau | 22,5 °C | 22,7 °C |
+| Observ. | A 5 h. ; orge aussi brume parle. |

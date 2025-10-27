@@ -1,0 +1,19 @@
+# Date. 10 Décembre 1901
+
+|   | 9e Matin | 3e Soir  |
+| --- | --- | --- |
+|  Hauteur Barometrique | 751,5 | 763,2  |
+|  Direction du vent | Overt | N.N.O  |
+|  Force | 1 faible | 27 fort  |
+|  Reg. o. (lème) | 10 | 10  |
+|  Tébuloisite |  |   |
+|  1 Reg. E. (mer) | 10 | 10  |
+|  Direction des nuages | Nond | N.N.O  |
+|  Unie tombée |  |   |
+|  Température de l'air | 17,0 | 12,4  |
+|  Hauteur de la mer | 55,7 | 58,8  |
+|  Agitation de l'eau | 1 | 2 fort  |
+|  Sensité de l'eau | 1028,9 | 1028,9  |
+|  1 an Éarge |  |   |
+|  1 semé |  |   |
+|  Température de l'eau | 13,6 | 13,5  |

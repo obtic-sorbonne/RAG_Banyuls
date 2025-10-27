@@ -1,0 +1,18 @@
+# Date: 24. 11. 1900
+
+|  Description | Amount  |
+| --- | --- |
+|  84 m. 34/1. |   |
+|  Hauteur barométrique | 4.27.6 |
+|  Direction du vent | 0.5.0. |
+|  Force | 2 |
+|  Nébulosité | 0 |
+|  Direction des nuages | 0 |
+|  Pluie tombée | 4 |
+|  Température de l'air | 4.75 |
+|  Hauteur de la mer | 81.2 |
+|  Agitation de l'eau | 0.60 |
+|  Densité de l'eau (au bout de la jetée) | 10% |
+|  Température de l'eau | 10% |
+
+**Observat.** - le soleil, vers Pr le temps de couvre ; un peu plus, pruns vent. vu ..lt.

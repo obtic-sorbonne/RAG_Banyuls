@@ -1,0 +1,29 @@
+|  V. 11 Décembre 1906 | Nibatin | Soir  |
+| --- | --- | --- |
+|  Mauteur Nravonutrique | 41/4 |   |
+|  Direction du vent | 20.0 |   |
+|  Force | 4 |   |
+|  Nibulosite | 10 |   |
+|  (Reg. 2. (mer) | 10 |   |
+|  Direction des nuages | 10 |   |
+|  Pluie tombée | 4 |   |
+|  Denspérature de l'air | 61.8 |   |
+|  Mauteur de la mer | 6 |   |
+|  (Agitation de l'eau) |  |   |
+|  Densité au bout de la jetée | 1029.4 |   |
+|  Denspérature de l'eau | 13.4 |   |
+
+|  V. 14 Décembre 1906 | Nibatin | Soir  |
+| --- | --- | --- |
+|  Mauteur Nravonutrique | 767.6 | 766.4  |
+|  Direction du vent | 20.0 | 20.0  |
+|  Force | 3 font | 3 font  |
+|  Nibulosite | 3 sign. | 2  |
+|  (Reg. 2. (mer) |  |   |
+|  Direction des nuages | 1 sign. | 1  |
+|  Pluie Tombée | 10 | 10.0  |
+|  Denspérature de l'air | #9.7 | 11.4  |
+|  Mauteur de la mer | 41.3 | 18.8  |
+|  (Agitation de l'eau) |  |   |
+|  Densité au bout de la jetée | 1029.1 | 1029.1  |
+|  Denspérature de l'eau | 13.0 | 16.9  |

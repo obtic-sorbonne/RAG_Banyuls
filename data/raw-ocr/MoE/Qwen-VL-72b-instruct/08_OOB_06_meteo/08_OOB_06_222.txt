@@ -1,0 +1,56 @@
+```plaintext
+| **Observations du 19<i>X</i> 24 Novembre**                |                                                                 |
+|-------------------------------------------------------|----------------------------------------------------------------|
+| Nombre de bateaux sortis (pêche à l'______)             | 16,9                                                          |
+| Température de l'air                                   |                                                                 |
+| - maxima depuis la veille                               | 16,9                                                          |
+| - minima                                                | 9,3                                                           |
+| Température de l'eau                                   |                                                                 |
+| - maxima depuis la veille                               |                                                                |
+| - minima                                                |                                                                |
+| Pluie tombée depuis la veille, en millim.               | 18,874                                                        |
+| Evaporation depuis le 190, en millim.                   |                                                                |
+| Direction du vent (à terre)                             | S D O  | S S O                                                    |
+| Force                                                   | 1 forte | 2 faibles                                                |
+| Direction des nuages                                   | S S O  | S N S                                                    |
+| Nébulosité (0-10)                                       |                                                                 |
+| - région Ouest (terre)                                  |        | 0                                                          |
+| - région Est (mer)                                      |        | 20                                                         |
+| Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.)    | 0,0  | 14,5                                                     |
+| Agitation de l'eau                                      |       | 1 forte                                                    |
+| Densité de l'eau au bout de la jetée                    | 1028,0 | 1028,5                                                     |
+| Température de l'eau                                    |                                                                 |
+| - Matin                                                                               |                                |                                |
+|   - maxima                                               |        | 21,8                                                     |
+|   - minima                                               |        | 6,7                                                       |
+| - Ss                                                                               |                               |
+|   - maxima                                               |        | 21,9                                                     |
+|   - minima                                               |        | 13,1                                                     |
+|                                                                                   |                                                                 |
+| **Observations du 19<i>X</i> 27 Novembre**                  |                                                                 |
+| Nombre de bateaux sortis (pêche à l'______)             | 17,1                                                          |
+| Température de l'air                                   |                                                                 |
+| - maxima depuis la veille                               | 17,1                                                          |
+| - minima                                                | 12,3                                                          |
+| Température de l'eau                                   |                                                                 |
+| - maxima depuis la veille                               |                                                                |
+| - minima                                                |                                                                |
+| Pluie tombée depuis la veille, en millim.               | quelques                                                     |
+| Evaporation depuis le 190, en millim.                   |                                                                |
+| Direction du vent (à terre)                             | N N O  | N N O                                                    |
+| Force                                                   | 1 forte | 1 faible                                                 |
+| Direction des nuages                                   | N N E  | N N E                                                    |
+| Nébulosité (0-10)                                       |                                                                 |
+| - région Ouest (terre)                                  | 60    | 60                                                        |
+| - région Est (mer)                                      | 60    | 60                                                        |
+| Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.)    | 6,0  | 4,1                                                      |
+| Agitation de l'eau                                      | 1 forte | 1 forte                                                   |
+| Densité de l'eau au bout de la jetée                    | 1028,3 | 1028,5                                                    |
+| Température de l'eau                                    |                                                                 |
+| - Matin                                                                               |     |                                |
+|   - maxima                                               |   14,7 | 21,8                                                     |
+|   - minima                                               |     | 4,7                                                       |
+| - Ss                                                                               |     |                                          |
+|   - maxima                                               |     | 24,8                                                     |
+|   - minima                                               |     | 11,0                                                     |
+```

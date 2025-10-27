@@ -1,0 +1,15 @@
+```plaintext
+# V. 6 Mars 1903
+
+|  Heure | Hauteur Barométrique | Direction du vent | Force | Nébulosité (Reg. O. (terre)) | Nébulosité (Reg. E. (mer)) | Direction des nuages | Pluie Tombée | Température de l'air | Hauteur de la mer | Agitation de l'eau | Densité au bout de la jetée | Température de l'eau |
+|--------|-----------------------|-------------------|-------|-----------------------------|-----------------------------|----------------------|--------------|----------------------|-------------------|---------------------|-----------------------------|----------------------|
+|  Matin | 768.0                | cr.0              | 15    | 10                          | 0                           | -                    | -            | 11.7                 | 64.7             | 3 (forte)           | 1028.9                     | 11.4                |
+|  Soir  | -                    | faible            | -     | -                           | 10                          | -                    | -            | -                    | -                 | -                  | -                          | -                   |
+
+# V. 7 Mars 1903
+
+|  Heure | Hauteur Barométrique | Direction du vent | Force | Nébulosité (Reg. O. (terre)) | Nébulosité (Reg. E. (mer)) | Direction des nuages | Pluie Tombée | Température de l'air | Hauteur de la mer | Agitation de l'eau | Densité au bout de la jetée | Température de l'eau |
+|--------|-----------------------|-------------------|-------|-----------------------------|-----------------------------|----------------------|--------------|----------------------|-------------------|---------------------|-----------------------------|----------------------|
+|  Matin | 771.0                | cr.0              | 4     | 0                           | 0                           | cr.0                 | -            | 8.8                  | 69.2             | 2 (forte)           | 1029.9                     | 10.7                |
+|  Soir  | 768.4                | cr. cr.0          | 2 (fort) | 0                           | 0                           | -                    | -            | 12.4                 | 65.7             | 2 (forte)           | 1029.1                     | 11.3                |
+```

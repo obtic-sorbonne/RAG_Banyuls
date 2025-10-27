@@ -1,0 +1,16 @@
+| Date | 17 Avril 1901 |
+|---|---|
+| 9ʰ Matin | 3ʰ Soir |
+| Hauteur Barométrique | 764.3 | 763.6 |
+| Direction du vent | Nord | Nord |
+| Force | 4 | 4 |
+| Nuéblosité (lèvre) | 6 | 0 |
+| Nuéblosité (mer) | 1 | 0 |
+| Direction des nuages | Nord | Nord |
+| Pluie tombée |  |  |
+| Température de l'air | 12.4 | 15.2 |
+| Hauteur de la mer | 55.8 | 57.9 |
+| Agitation de l'eau | 3 | 4 Faible |
+| Densité de l’eau (bout de la jetée) | 1028.7 | 1028.3 |
+| Densité de l’eau (au large) |  |  |
+| Température de l’eau | 13.1 | 13.2 |

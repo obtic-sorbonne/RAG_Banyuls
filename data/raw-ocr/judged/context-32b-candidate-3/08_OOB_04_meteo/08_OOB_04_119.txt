@@ -1,0 +1,35 @@
+```
+# 9.9 Août - 1902
+
+|  Nom | Date | Dépôt  |
+| --- | --- | --- |
+|  Hauteur Barométrique | 765.2 | 763.3  |
+|  Direction du vent | or. or. 3 | or.0.0  |
+|  Force | 3 | 3  |
+|  Nébulosité (Reg. O. (terre)) | 0 | 3  |
+|  Nébulosité (Reg. E. (mer)) | 0 | 0  |
+|  Direction des nuages | or.0.0 | or.0.0  |
+|  Pluie tombée | 0 | 0  |
+|  Température de l'air | 21.0 | 24.8  |
+|  Hauteur de la mer | 45.1 | 19.1  |
+|  Agitation de l'eau | 3 | 3  |
+|  Densité au bout de la jetée | 1021.6 | 1021.0  |
+|  Température de l'eau | 21.8 | 22.2  |
+
+# 10.10 Août - 1902
+
+|  Nom | Date | Dépôt  |
+| --- | --- | --- |
+|  Hauteur Barométrique | 763.2 | 763.2  |
+|  Direction du vent | or.0.0 | or.0.0  |
+|  Force | 3 | 3  |
+|  Nébulosité (Reg. O. (terre)) | 0 | 3  |
+|  Nébulosité (Reg. E. (mer)) | 0 | 0  |
+|  Direction des nuages | or.0.0 | or.0.0  |
+|  Pluie tombée | 0 | 0  |
+|  Température de l'air | 21.3 | 21.3  |
+|  Hauteur de la mer | 4.9 | 4.9  |
+|  Agitation de l'eau | 2 | 2  |
+|  Densité au bout de la jetée | 1021.3 | 1021.0  |
+|  Température de l'eau | 21.4 | 21.4  |
+```

@@ -1,0 +1,15 @@
+| **Observation** | **9H Matin** | **3H Soir** |
+|---|---|---|
+| Hauteur Barométrique | 750,5 | 750,6 |
+| Direction du vent | Ouest | Nord |
+| Force | 1T. faible | 3 fort |
+| Nébulosité | 0 | 0 |
+| Reg. O. (claire) |  |  |
+| Reg. E. (nuage) | 1 | 9 |
+| Direction des nuages | Ouest | Nord |
+| Pluie tombée | " | " |
+| Température de l'air | 9,4 | 10,1 |
+| Hauteur de la mer | 27,8 | 47,2 |
+| Agitation de l'eau | 1 | 1T. faible |
+| Densité de l'eau | au bout de la jetée | au large |
+| Température de l'eau | 12,5 | 12,5 |

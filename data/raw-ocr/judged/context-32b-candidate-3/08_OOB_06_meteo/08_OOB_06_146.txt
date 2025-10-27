@@ -1,0 +1,77 @@
+### OBSERVATIONS DU 1901 24 AVRIL
+
+| **Observations** | **Valeurs** | **Unités** |
+|------------------|-------------|------------|
+| **Nombre de bateaux sortis (pêche à la traîne)** | **21,6** |  |
+| **Température de l'air** |  | **°C** |
+| - **Maxima depuis la veille** | **21,6** |  |
+| - **Minima id.** | **11,9** |  |
+| **Température de l'eau** |  | **°C** |
+| - **Maxima depuis la veille** |  |  |
+| - **Minima id.** |  |  |
+| **Pluie tombée depuis la veille** | **0** | **mm** |
+| **Evaporation depuis le 13 Mars 1901** | **62** | **mm** |
+| **Direction du vent (à terre)** |  |  |
+| - **à 9 h.m.** | **N.N.O.** |  |
+| - **à 3 h.s.** | **N.O.** |  |
+| **Force** |  |  |
+| - **à 9 h.m.** | **3** |  |
+| - **à 3 h.s.** | **3** |  |
+| **Direction des nuages** |  |  |
+| - **à 9 h.m.** | **N.N.O.** |  |
+| - **à 3 h.s.** | **N.O.** |  |
+| **Nébulosité** |  |  |
+| - **région Ouest (terre)** | **10** |  |
+| - **id. Est (mer)** | **10** |  |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.)** |  | **cm** |
+| - **à 9 h.m.** | **52** |  |
+| - **à 3 h.s.** | **49** |  |
+| **Agitation de l'eau** |  |  |
+| - **à 9 h.m.** | **fort** |  |
+| - **à 3 h.s.** | **2** |  |
+| **Densité de l'eau au bout de la jetée** |  | **kg/m³** |
+| - **à 9 h.m.** | **1027,2** |  |
+| - **à 3 h.s.** | **1027,2** |  |
+| **Température** |  | **°C** |
+| - **à 9 h.m.** | **12,8** |  |
+| - **à 3 h.s.** | **12,8** |  |
+
+---
+
+### OBSERVATIONS DU 1901 25 AVRIL
+
+| **Observations** | **Valeurs** | **Unités** |
+|------------------|-------------|------------|
+| **Nombre de bateaux sortis (pêche à la traîne)** | **19** |  |
+| **Température de l'air** |  | **°C** |
+| - **Maxima depuis la veille** | **19,2** |  |
+| - **Minima id.** | **13,1** |  |
+| **Température de l'eau** |  | **°C** |
+| - **Maxima depuis la veille** |  |  |
+| - **Minima id.** |  |  |
+| **Pluie tombée depuis la veille** | **0** | **mm** |
+| **Evaporation depuis le 1901** |  | **mm** |
+| **Direction du vent (à terre)** |  |  |
+| - **à 9 h.m.** | **N.N.O.** |  |
+| - **à 3 h.s.** | **N.E.** |  |
+| **Force** |  |  |
+| - **à 9 h.m.** | **2** |  |
+| - **à 3 h.s.** | **3** |  |
+| **Direction des nuages** |  |  |
+| - **à 9 h.m.** | **N.N.O.** |  |
+| - **à 3 h.s.** | **N.** |  |
+| **Nébulosité** |  |  |
+| - **région Ouest (terre)** | **0** |  |
+| - **id. Est (mer)** | **0** |  |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.)** |  | **cm** |
+| - **à 9 h.m.** | **45,3** |  |
+| - **à 3 h.s.** | **48,2** |  |
+| **Agitation de l'eau** |  |  |
+| - **à 9 h.m.** | **1** |  |
+| - **à 3 h.s.** | **1** |  |
+| **Densité de l'eau au bout de la jetée** |  | **kg/m³** |
+| - **à 9 h.m.** | **1027,8** |  |
+| - **à 3 h.s.** | **1027,4** |  |
+| **Température** |  | **°C** |
+| - **à 9 h.m.** | **13,3** |  |
+| - **à 3 h.s.** | **14,9** |  |

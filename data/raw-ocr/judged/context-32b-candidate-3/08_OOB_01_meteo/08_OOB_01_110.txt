@@ -1,0 +1,20 @@
+# Date. 13 Novembre. 1900
+
+|  9e Matin | 3e Soir  |
+| --- | --- |
+|  Hauteur Barométrique | 758,9 | 758,1  |
+|  Direction du vent | N.E | N.E.  |
+|  Force | 1 | 1 faille  |
+|  Nébulosité | 8 | 1 faille  |
+|  Rég. E. (terre) | 0 | 0  |
+|  Rég. E. (mer) | 0 | 0  |
+|  Direction des nuages | N.E. | N.E.  |
+|  Pluie tombée | 13,1 | 13,8  |
+|  Température de l'air | 44,8 | 41,5  |
+|  Hauteur de la mer | 1029,1 | 1029,2  |
+|  Agitation de l'eau | 3 faille | 2 faille  |
+|  Densité de l'eau (au bout de la jetée) | 1029,1 | 1029,2  |
+|  Densité de l'eau (au large) | 1029,1 | 1029,2  |
+|  Température de l'eau | 10,0 | 10,7  |
+
+Observat. —

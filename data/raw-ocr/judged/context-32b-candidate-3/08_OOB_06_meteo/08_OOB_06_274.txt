@@ -1,0 +1,52 @@
+```plaintext
+| **Observations du 1902 20 avril** |
+| --- |
+| **Nombre de bateaux sortis (pêche à l)** | 20.7 |
+| **Température de l'air** |
+| | maxima depuis la veille | 20.7 | °C |
+| | minima id. | 12.9 | °C |
+| **Température de l'eau** |
+| | maxima depuis la veille |  | °C |
+| | minima id. |  | °C |
+| **Pluie tombée depuis la veille, en millim** | 1.1 | mm |
+| **Évaporation depuis le 190, en millim** |  | mm |
+| **Direction du vent (à terre)** | N.N.O. | N.N.O. |
+| **Force** | 1 | 0 |
+| **Direction des nuages** | N.N.O. | N.N.O. |
+| **Nébulosité** |
+| | région Ouest (terre) | 2 | 3 |
+| | id. Est (mer) | 1 | 1 |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.)** | 56.2 | 52.0 | cm |
+| **Agitation de l'eau** | 1 (faible) | 1 (faible) |
+| **Densité de l'eau au bout de la jetée** | 1.028.3 | 1.027.6 | 
+| **Température** |
+| | id. Balance, matin | 15.9 | 1.8 | °C |
+| | id. Ferrare, matin Maxima | 27.7 | 29.1 | °C |
+| | id. Ferrare, matin Minima | 10.7 | 18.8 | °C |
+| | id. Ferrare, soir Maxima | 33.2 |  | °C |
+| | id. Ferrare, soir Minima | 18.8 |  | °C |
+
+| **Observations du 1902 21 avril** |
+| --- |
+| **Nombre de bateaux sortis (pêche à l)** | 22.9 |
+| **Température de l'air** |
+| | maxima depuis la veille | 22.9 | °C |
+| | minima id. | 14.4 | °C |
+| **Température de l'eau** |
+| | maxima depuis la veille |  | °C |
+| | minima id. |  | °C |
+| **Pluie tombée depuis la veille, en millim** | quelque.9 | mm |
+| **Évaporation depuis le 190, en millim** |  | mm |
+| **Direction du vent (à terre)** | Nord | 
+| **Force** | 2 Fort. | 
+| **Direction des nuages** | N.N.O. | 
+| **Nébulosité** |
+| | région Ouest (terre) | 10 | 
+| | id. Est (mer) | 60 | 
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.)** | 46.2 | 
+| **Agitation de l'eau** | 1 fort. | 
+| **Densité de l'eau au bout de la jetée** | 1.028.3 | 
+| **Température** |
+| | id. Ferrare, matin Maxima | 28.6 | 
+| | id. Ferrare, matin Minima | 13.1 | 
+```

@@ -1,0 +1,16 @@
+# Sale. 23 Avril 1902
+
+|  Item | Price  |
+| --- | --- |
+|  Kauteur Barométrique | 7/3.5  |
+|  Direction du vent | v. v.  |
+|  Force | 2 fuits  |
+|  Pépinière | 10  |
+|  Pépinière | Reg. 2 (mer)  |
+|  Direction des nuages | v. v.  |
+|  Pincé tombée | 4.02g  |
+|  Température de l'air | 15.2  |
+|  Kauteur de la mer | 40.8  |
+|  Régulation de l'eau | 1  |
+|  Densité de l'eau | 1026.4  |
+|  Température de l'eau | 14.4  |

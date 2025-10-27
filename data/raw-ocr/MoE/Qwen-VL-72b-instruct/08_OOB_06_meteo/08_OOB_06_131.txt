@@ -1,0 +1,39 @@
+| **Observations du 16 Mars 1901** |
+| --- |
+| **Nombre de bateaux sortis (pêche à la traine)** | 28 |
+| **Température de l’air** |  | **maxima depuis la veille** | 8.7 |
+|  | **minima** | 2.1 |
+| **Température de l’eau** |  | **maxima depuis la veille** |  |
+|  | **minima** |  |
+| **Pluie tombée depuis la veille, en millim** | quelques |
+| **Evaporation depuis le** 190 **, en millim** |  |
+| **Direction du vent (à terre)** | NN.Ô | S.Ô |
+| **Force** | 1 | 1 |
+| **Direction des nuages** | NN.Ô | Ouest |
+| **Nébulosité** |  | **région Ouest (terre)** | 10 | 10 |
+|  | **id. Est (mer)** | 10 | 10 |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.)** | +2.2 | +0.2 |
+| **Agitation de l’eau** |  | 1 | 1/2 |
+| **Densité de l’eau au bout de la jetée** | **1028.7** | **1029.2** |
+| **Température id.** | **10.1** | **10.6** |
+
+---
+
+| **Observations du 17 Mars 1901** |
+| --- |
+| **Nombre de bateaux sortis (pêche à la traine)** | 28 |
+| **Température de l’air** |  | **maxima depuis la veille** | 10.4 |
+|  | **minima** | 3.8 |
+| **Température de l’eau** |  | **maxima depuis la veille** |  |
+|  | **minima** |  |
+| **Pluie tombée depuis la veille, en millim** | quelques |
+| **Evaporation depuis le** 190 **, en millim** |  |
+| **Direction du vent (à terre)** | S.S.E |
+| **Force** | 1 |
+| **Direction des nuages** | Sud |
+| **Nébulosité** |  | **région Ouest (terre)** | 1 |
+|  | **id. Est (mer)** | 3 |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.)** | +0.0 |
+| **Agitation de l’eau** |  | 1 |  |
+| **Densité de l’eau au bout de la jetée** | **1029.1** |  |
+| **Température id.** | **12.1** |  |

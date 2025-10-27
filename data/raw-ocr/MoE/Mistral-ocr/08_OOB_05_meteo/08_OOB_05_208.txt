@@ -1,0 +1,35 @@
+# 2e février 1907
+
+|  **Nom** | **Prix**  |
+| --- | --- |
+|  **Hauteur Maronubrique** | 702.0  |
+|  **Direction du vent** | 702.0  |
+|  **Force** | 3  |
+|  **Mébulorite** | 10  |
+|  **Rég. 2. (mur)** | 10  |
+|  **Direction des mages** | 10  |
+|  **Plus tombei** | 1  |
+|  **Demporature de l'air** | 1  |
+|  **Hauteur de la mur** | 1  |
+|  **Agitation de l'eau** | 1  |
+|  **Densité au bout de la jetée** | 5  |
+|  **Demporature de l'eau** | 1  |
+
+# 3e février 1907
+
+|  **Nom** | **Prix**  |
+| --- | --- |
+|  **Hauteur Maronubrique** | 701.7  |
+|  **Direction du vent** | 702.7  |
+|  **Force** | 3 fois  |
+|  **Mébulorite** | 10 fois  |
+|  **Rég. 2. (mur)** | 1 fois  |
+|  **Direction des mages** | 10 fois  |
+|  **Plus tombei** | 1 fois  |
+|  **Demporature de l'air** | 1 fois  |
+|  **Hauteur de la mur** | 1 fois  |
+|  **Agitation de l'eau** | 1 fois  |
+|  **Densité au bout de la jetée** | 10,4  |
+|  **Demporature de l'eau** | 10,4  |
+
+# 4e février 1907

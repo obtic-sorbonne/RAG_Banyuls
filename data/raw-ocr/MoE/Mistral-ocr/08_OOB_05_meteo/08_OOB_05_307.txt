@@ -1,0 +1,27 @@
+|  V. 17 Octobie - 1907 | Mhatin | Sair  |
+| --- | --- | --- |
+|  Hauteur M'anométrique | 7/4.3 | 7/4.3  |
+|  Direction du vent |  | Est  |
+|  Force | 0 | 1/20th  |
+|  N. Reg. C. (tune) | 10 | 10  |
+|  N. Reg. C. (run) | 10 | 10  |
+|  Direction des images | 10 | 10  |
+|  Plané tomble | 1.37/ | 15.0  |
+|  Composition de l'air | 13.7 | 15.1  |
+|  Hauteur de la mer | 38.8 | 24.8  |
+|  Cigitation de l'eau | 3/20th | 3/20th  |
+|  Comité au bout de la jetée | 1087.7 | 1087.8  |
+|  Composition de l'eau | 13.5 | 13.5  |
+|  V. 18 Octobie - 1907 | Mhatin | Sair  |
+|  Hauteur M'anométrique | 7/9.3 | 7/9.3  |
+|  Direction du vent | 15.8 | 15.8  |
+|  Force | 3/20th | 3/20th  |
+|  N. Reg. C. (tune) | 0 | 10  |
+|  N. Reg. C. (run) | 1 | 10  |
+|  Direction des images | 10 | 10  |
+|  Plané tomble | quelques | 18.1  |
+|  Composition de l'air | 14.0 | 18.1  |
+|  Hauteur de la mer | 41.0 | 37.4  |
+|  Cigitation de l'eau | 1/20th | 1/20th  |
+|  Comité au bout de la jetée | 1087.7 | 1088.3  |
+|  Composition de l'eau | 18.1 | 19.5  |

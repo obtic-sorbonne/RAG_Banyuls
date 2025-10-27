@@ -1,0 +1,59 @@
+# V. 8 Mai - 1903
+
+|  Hauteur | Pourrencirique  |
+| --- | --- |
+|  Direction du vent | or. 0  |
+|  Force | 1  |
+|  Nébulosité (Reg. O. (terre)) | 10  |
+|  Nébulosité (Reg. E. (mer)) | 10  |
+|  Direction des nuages | or. 0  |
+|  Pluie tombée |  | 
+|  Température de l'air | 20.1  |
+|  Hauteur de la mer | 46.3  |
+|  Agitation de l'eau | 1  |
+|  Densité au bout de la jetée | 1029.6  |
+|  Température de l'eau | 13.2  |
+
+|  Soir  |
+| --- |
+|  2/6.2  |
+|  1/8  |
+|  2  |
+|  2  |
+|  or. 0  |
+|  quelque. 2  |
+|  20.2  |
+|  46.0  |
+|  1  |
+|  1029.1  |
+|  11.4  |
+
+# V. 9 Mai - 1903
+
+|  Hauteur | Pourrencirique  |
+| --- | --- |
+|  Direction du vent | or. 0  |
+|  Force | 1  |
+|  Nébulosité (Reg. O. (terre)) | 10  |
+|  Nébulosité (Reg. E. (mer)) | 10  |
+|  Direction des nuages | or. 0  |
+|  Pluie tombée |  | 
+|  Température de l'air | 20.0  |
+|  Hauteur de la mer | 38.9  |
+|  Agitation de l'eau | 1  |
+|  Densité au bout de la jetée | 1029.6  |
+|  Température de l'eau | 11.0  |
+
+|  Soir  |
+| --- |
+|  2/6.3  |
+|  1/6  |
+|  2  |
+|  2  |
+|  or. 0  |
+|  quelque. 2  |
+|  25.0  |
+|  40.2  |
+|  1  |
+|  1029.3  |
+|  11.2  |

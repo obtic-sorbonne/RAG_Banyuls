@@ -1,0 +1,28 @@
+| Date | Matin | Soir |
+| --- | --- | --- |
+| 26 juillet 1907 | Héght. Barométrique | 764.2 | 764.6 |
+| Direction du Vent | cr. o | cr. o. o |
+| Force | 15 | | |
+| Deg. 0 (Clair) | 4 fort | 8 fort |
+| Héghturite | | lo | lo |
+| (Régl. cour.) | | | |
+| Direction des nuags | ev.8 | ev.0 |
+| Pluie tombée | | " | " |
+| Temp. de l'air | 22.8 | 27.2 |
+| Héghtur de la mer | 93.8 | 67.4 |
+| Agitation de l'air | 3 | 3 |
+| Remous au bord de la jetée | 1028.9 | 1028.1 |
+| Temp. de l'eau | 18.9 | 19.0 |
+| 27 juillet 1907 | Héght. Barométrique | 767.3 | 766.7 |
+| Direction du Vent | cr. o. o | cr. o. 8 |
+| Force | 15 | 2 fort. | 1 fort. |
+| Régl. (Clair) | du mat. | 0 |
+| Héghturite | | lég. | 0 |
+| (Régl. cour.) | 6 légerte | | |
+| Direction des nuags | cr. o.8 | " | " |
+| Pluie tombée | | " | " |
+| Temp. de l'air | 23.6 | 28.8 |
+| Héghtur de la mer | 93.8 | 67.8 |
+| Agitation de l'air | 2 fort | 1 fort. |
+| Remous au bord de la jetée | 1027.7 | 1027.1 |
+| Temp. de l'eau | 20.0 | 21.3 |

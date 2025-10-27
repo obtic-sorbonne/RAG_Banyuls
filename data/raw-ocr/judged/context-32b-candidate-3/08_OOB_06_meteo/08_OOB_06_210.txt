@@ -1,0 +1,47 @@
+```plaintext
+| **Observations du 1901, 20 octobre** |
+| --- |
+| **Nombre de bateaux sortis (pêche à l.)** | 20.3 |
+| **Température de l'air** | **maxima depuis la veille** | 20.3 |
+|  | **minima id.** | 13.7 |
+| **Température de l'eau** | **maxima depuis la veille** |  |
+|  | **minima id.** |  |
+| **Pluie tombée depuis la veille, en millim.** |  |
+| **Evaporation depuis le 1900, en millim.** |  |
+| **Direction du vent (à terre)** | **à 9 h. m.** | **à 3 h. s.** |
+| **Force** | 1 | 1 |
+| **Direction des nuages** | S.S.E. | S.S.E. |
+| **Nébulosité** | **région Ouest (terre)** | 10 | 10 |
+|  | **id. Est (mer)** | 10 | 10 |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.)** | 24.2 | 29.1 |
+| **Agitation de l'eau** | 2/7 (très faible) | 1/7 (faible) |
+| **Densité de l'eau au bout de la jetée** | 1026.4 | 1026.3 |
+| **Température id.** |  |
+| - **Benneja (Mer)** | **Matin (maxima)** | 34.0 |
+|  | **(minima)** | 11.0 |
+|  | **Soir (maxima)** | 36.0 |
+|  | **(minima)** | 20.4 |
+
+| **Observations du 1901, 21 octobre** |
+| --- |
+| **Nombre de bateaux sortis (pêche à l.)** | 20.4 |
+| **Température de l'air** | **maxima depuis la veille** | 20.4 |
+|  | **minima id.** | 15.7 |
+| **Température de l'eau** | **maxima depuis la veille** |  |
+|  | **minima id.** |  |
+| **Pluie tombée depuis la veille, en millim.** |  |
+| **Evaporation depuis le 1900, en millim.** |  |
+| **Direction du vent (à terre)** | **à 9 h. m.** | **à 3 h. s.** |
+| **Force** | 2 (2/7 fort) | 3 (3/7 fort) |
+| **Direction des nuages** | S.O. | S.O. |
+| **Nébulosité** | **région Ouest (terre)** | 10 | 10 |
+|  | **id. Est (mer)** | 10 | 10 |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.)** | 22.3 | 23.3 |
+| **Agitation de l'eau** | 1/7 (faible) | 1/7 (faible) |
+| **Densité de l'eau au bout de la jetée** | 1027.7 | 1027.2 |
+| **Température id.** |  |
+| - **Benneja (Mer)** | **Matin (maxima)** | 36.0 |
+|  | **(minima)** | 13.7 |
+|  | **Soir (maxima)** |  |
+|  | **(minima)** |  |
+```

@@ -1,0 +1,15 @@
+| **Date** | 28 Octobre 1900 |  |
+|---|---|---|
+| **Heure** | 9H Matin | 3H Soir |
+| **Hauteur Barométrique** | 765.7 |  |
+| **Direction du vent** | Nord | Nord |
+| **Force** | I° faible | 3° fort. |
+| **Nébulosité** | Reg. O. (clère) | 1 légé.綜uet |
+|  | Reg. E. (mêlé) | 1 léger.综uet |
+| **Direction des nuages** | Nord |  |
+| **Pluie tombée** | '' |  |
+| **Température de l'air** | 17.0 |  |
+| **Hauteur de la mer** | 41.8 |  |
+| **Agitation de l'eau au bout de la jetée** | 2 fort. | 1028.5 |
+| **Densité de l'eau au large** |  |  |
+| **Température de l'eau** | 17.2 |  |

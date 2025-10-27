@@ -1,0 +1,16 @@
+| Date | Heures | 9h | m. | 34s. |
+|------|--------|-----|-----|-------|
+| Manteur barométrique |  | 764,1 | 761,2 |
+| Direction du vent |  | N.O. | N.O. |
+| Force d. |  | 1h.jait. | 1h.jan. |
+| Nebulosité (terr.) | Reg. d. | 10 | 8 |
+|        | Reg. t. | 10 | 8 |
+| Direction des images |  | N.O. | S.O. |
+| Pluie tombée |  | 6³,8 | 7,0 |
+| Température de l'air |  | 18°.3 | 25°,1 |
+| Hauteur de la mer |  | 07,48 | 07,27 |
+| Agitation de l'eau |  | 1 | 1 |
+| Densité de l'eau | **Bombond de la jete** | 1021,0 |  |
+|        | **au lange** |  |  |
+| Température de l'eau |  | 20°,8 |  |
+| Observatur |  |  |  |   |

@@ -1,0 +1,50 @@
+| **Observations du 1901, 4 Novembre** |
+| --- |
+| **Nombre de bateaux sortis (pêche à l………………)** | 19.3 |
+| **Température de l'air** |
+| *maxima depuis la veille* | 19.3 |
+| *minima id.* | 9.8 |
+| **Température de l'eau** |
+| *maxima depuis la veille* |  |
+| *minima id.* |  |
+| **Pluie tombée depuis la veille, en millim** |  |
+| **Evaporation depuis le 1901, en millim** |  |
+| **Direction du vent (à terre)** |
+| **Force** | **à 9 h. m.** | **à 3 h. s.** |
+|  | SS.6 | SSE.9 |
+| **Direction des nuages** |  |  |
+| **Nébulosité** | **région Ouest (terre)** | **id. Est (mer)** |
+|  | 0 | 60 légère |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.)** | 43.5 | 39.0 |
+| **Agitation de l'eau** | faible | forte |
+| **Densité de l'eau au bout de la jetée** | 1027.7 | 1027.8 |
+| **Température id.** | 16.7 | 14.8 |
+| *is. Bouteille Matin* | 13.0 | 24.3 |
+| *is. Soir* | 21.6 | 29.0 |
+| *is. Barrage Matin (maxima)* | 6.8 | 18.3 |
+| *is. Soir (minima)* |  |  |
+|
+| **Observations du 1901, 6 Novembre** |
+| --- |
+| **Nombre de bateaux sortis (pêche à l………………)** | 20.7 |
+| **Température de l'air** |
+| *maxima depuis la veille* | 20.7 |
+| *minima id.* | 10.4 |
+| **Température de l'eau** |
+| *maxima depuis la veille* |  |
+| *minima id.* |  |
+| **Pluie tombée depuis la veille, en millim** |  |
+| **Evaporation depuis le 1901, en millim** |  |
+| **Direction du vent (à terre)** |
+| **Force** | **à 9 h. m.** | **à 3 h. s.** |
+|  | 2 | 3 fort |
+| **Direction des nuages** |  |  |
+| **Nébulosité** | **région Ouest (terre)** | **id. Est (mer)** |
+|  | 60 | 60 |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.)** | 36.8 | 46.7 |
+| **Agitation de l'eau** | faible | forte |
+| **Densité de l'eau au bout de la jetée** | 1027.7 | 1027.7 |
+| **Température id.** | 16.7 | 16.8 |
+| *is. Carrame Matin (maxima)* | 29.8 | 21.3 |
+| *is. Soir (minima)* | 7.6 | 16.1 |
+|  |  |  |

@@ -1,0 +1,57 @@
+| **Observations du 1901 17 juillet** |
+| --- |
+| **Nombre de bateaux sortis (pêche à l’ancre)** | 84 |
+| **Température de l’air** |
+| Maxima depuis la veille |  |
+| Minima id. |  |
+| **Température de l’eau** |
+| Maxima depuis la veille |  |
+| Minima id. |  |
+| **Pluie tombée depuis la veille, en millim.** |  |
+| **Evaporation depuis le 1901, en millim.** |  |
+| **Direction du vent (à terre)** |  |
+| à 9 h. m. | à 3 h. s. |
+| | N & E | S. S. E. |
+| **Force** | 1 fort | 1 fort |
+| **Direction des nuages** |  |
+| | N.N.O. | O.N.O. |
+| **Nébulosité** |  |
+| région Ouest (terre) | 1 | 10 |
+| id. Est (mer) | 1 | 60 |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro** |  |
+| **Agitation de l’eau** | faible | faible |
+| **Densité de l’eau au bout de la jetée** | 1029.7 | 1024.7 |
+| **Température id.** | 22.8 | 29.4 |
+| **id. Balane** | 29.1 | 33.9 |
+| **id. Terre** | Maxima | 48.7 |
+| | Minima | 19.8 |
+
+| **Observations du 1901 18 juillet** |
+| --- |
+| **Nombre de bateaux sortis (pêche à l’ancre)** | 98.9 |
+| **Température de l’air** |
+| Maxima depuis la veille | 39.3 |
+| Minima id. | 18.3 |
+| **Température de l’eau** |
+| Maxima depuis la veille |  |
+| Minima id. |  |
+| **Pluie tombée depuis la veille, en millim.** |  |
+| **Evaporation depuis le 11 juillet 1901, en millim.** | 65.7 |
+| **Direction du vent (à terre)** |  |
+| à 9 h. m. | à 3 h. s. |
+| | N.N.E. | S. E. |
+| **Force** | 1 | 1 |
+| **Direction des nuages** |  |
+| | N. E. | S. S. |
+| **Nébulosité** |  |
+| région Ouest (terre) | 0 | 2 |
+| id. Est (mer) | 0 | 2 |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.)** | 31.5 | 31.1 |
+| **Agitation de l’eau** | faible | faible |
+| **Densité de l’eau au bout de la jetée** | 1029.9 | 1033.9 |
+| **Température id.** | 23.4 | 29.6 |
+| **id. Balane** | 29.6 | 37.7 |
+| **id. Terre** | Maxima | 36.3 |
+| | Minima | 19.6 |
+| **id. Mer** | Maxima | 42.4 |
+| | Minima | 30.6 |

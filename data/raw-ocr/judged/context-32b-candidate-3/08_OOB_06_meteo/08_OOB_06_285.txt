@@ -1,0 +1,53 @@
+### Observations du 29 Mai 1902
+
+| **Nombre de bateaux sortis (pêche à l.)** |  |
+| --- | --- |
+| **Température de l'air** |  |
+| - maxima depuis la veille | 19.8°C |
+| - minima id. | 13.6°C |
+| **Température de l'eau** |  |
+| - maxima depuis la veille |  |
+| - minima id. |  |
+| **Pluie tombée depuis la veille, en millim.** | 61 mm |
+| **Évaporation depuis le 1900, en millim.** |  |
+| **Direction du vent (à terre)** | **à 9 h. m.** | **à 3 h. s.** |
+| - Direction | N.N.O. |  |
+| - Force |  |  |
+| **Direction des nuages** | N.N.O. |  |
+| **Nébulosité** |  |
+| - région Ouest (terre) | 10 |
+| - id. Est (mer) | 10 |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.)** | 14.2 | cm |
+| **Agitation de l'eau** | 2 |  |
+| **Densité de l'eau au bout de la jetée** | 1027.9 |
+| **Température de l'eau au bout de la jetée** |  |
+| - matin (maxima) | 21.1 | °C |
+| - matin (minima) | 10.7 | °C |
+
+### Observations du 30 Mai 1902
+
+| **Nombre de bateaux sortis (pêche à l.)** |  |
+| --- | --- |
+| **Température de l'air** |  |
+| - maxima depuis la veille | 23.7°C |
+| - minima id. | 12.6°C |
+| **Température de l'eau** |  |
+| - maxima depuis la veille |  |
+| - minima id. |  |
+| **Pluie tombée depuis la veille, en millim.** | 16.7 mm |
+| **Évaporation depuis le 1900, en millim.** |  |
+| **Direction du vent (à terre)** | **à 9 h. m.** | **à 3 h. s.** |
+| - Direction | Nord | N.N.O. |
+| - Force | Fort | 1 |
+| **Direction des nuages** | N.N.O. | N.N.O. |
+| **Nébulosité** |  |
+| - région Ouest (terre) | 10 |
+| - id. Est (mer) | 10 |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.)** | 31.3 | 34.8 | cm |
+| **Agitation de l'eau** | Fort | Fort |
+| **Densité de l'eau au bout de la jetée** | 1028.2 | 1027.4 |
+| **Température de l'eau au bout de la jetée** |  |
+| - matin (maxima) | 27.9 | °C |
+| - matin (minima) | 10.8 | °C |
+| - soir (maxima) | 27.7 | °C |
+| - soir (minima) | 13.7 | °C |

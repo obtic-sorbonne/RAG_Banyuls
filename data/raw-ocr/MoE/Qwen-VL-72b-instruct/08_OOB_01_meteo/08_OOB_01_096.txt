@@ -1,0 +1,15 @@
+| **Date** | 29 Octobre 1900 |
+|----------|----------------|
+| **Heure** | **9<sup>e</sup> Matin** | **17<sup>e</sup> Soir** |
+| **Hauteur Barométrique** | 767.3 | 766.7 |
+| **Direction du vent** | S. E | Sud |
+| **Force maximale** | 1 faible | 1 faible |
+| **Nébulosité** | Reg. 0. (clère) | 0 |
+| **Reg. E. (mar)** | 0 | lég. couvert |
+| **Direction des nuages** | " | " |
+| **Pluie tombée** | " | " |
+| **Température de l'air** | 17.1 | 17.6 |
+| **Hauteur de la mer** | 1.6.8 | 11.5 |
+| **Agitation de l'eau** | 0 | 1 faible |
+| **Densité de l'eau** | 1.28.7 | 1.28.6 |
+| **Température de l'eau** | 18.0 | 18.3 |

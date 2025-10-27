@@ -1,0 +1,53 @@
+```plaintext
+### OBSERVATIONS DU 1901 18 Décembre
+
+| **Nombre de bateaux sortis (pêche à l.)** | 16.2 |
+| **Température de l'air** |  |  |
+| - **maxima depuis la veille** | 16.2 °C |
+| - **minima id.** | 6.8 °C |
+| **Température de l'eau** |  |  |
+| - **maxima depuis la veille** | *non mentionnée* |
+| - **minima id.** | *non mentionnée* |
+| **Pluie tombée depuis la veille, en millim.** |  |
+| **Évaporation depuis le 1901, en millim.** | *non mentionnée* |
+| **Direction du vent (à terre)** |  |  |
+| - **à 9 h. m.** | S.O. |
+| - **à 3 h. s.** | S.O. |
+| - **Force** | 1 fort | 1 |
+| - **Direction des nuages** | S.O. |  |
+| **Nébulosité** |  |  |
+| - **région Ouest (terre)** | 1 | 2 |
+| - **id. Est (mer)** | 1 | 2 |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.)** | 29.2 | 29.0 |
+| **Agitation de l'eau** | 1 | 1 |
+| **Densité de l'eau au bout de la jetée** | 1027.9 | 1027.8 |
+| **Température id.** | 13.4 | 13.8 |
+| - **Matin (maxima - minima)** | 24.1 / 4.2 |  |
+| - **Soir (maxima - minima)** | 22.6 / 10.2 |  |
+
+### OBSERVATIONS DU 1901 19 Décembre
+
+| **Nombre de bateaux sortis (pêche à l.)** | 16.4 |
+| **Température de l'air** |  |  |
+| - **maxima depuis la veille** | 16.4 °C |
+| - **minima id.** | 7.0 °C |
+| **Température de l'eau** |  |  |
+| - **maxima depuis la veille** | *non mentionnée* |
+| - **minima id.** | *non mentionnée* |
+| **Pluie tombée depuis la veille, en millim.** |  |
+| **Évaporation depuis le 1901, en millim.** | *non mentionnée* |
+| **Direction du vent (à terre)** |  |  |
+| - **à 9 h. m.** | S.O. |
+| - **à 3 h. s.** | S.S.E. |
+| - **Force** | 1 | 1 fort |
+| - **Direction des nuages** | S.O. |  |
+| **Nébulosité** |  |  |
+| - **région Ouest (terre)** | 60 | 60 |
+| - **id. Est (mer)** | 60 | 60 |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.)** | 26.4 | 34.0 |
+| **Agitation de l'eau** | 1 | 1 |
+| **Densité de l'eau au bout de la jetée** | 1023.9 | 1027.4 |
+| **Température id.** | 13.6 | 13.6 |
+| - **Matin (maxima - minima)** | 22.7 / 1.1 |  |
+| - **Soir (maxima - minima)** |  |  |
+```

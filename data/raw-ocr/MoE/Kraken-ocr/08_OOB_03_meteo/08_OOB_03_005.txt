@@ -1,0 +1,47 @@
+1
+2 -
+8
+Date. 21 Teptembre-1901
+8
+fauteur Barometrique
+Dorrection du vent
+Loree  20–"""
+N
+Rébulosité.
+5
+Reg-O- (terre)
+Reg-d-(mer)
+Dire tion des nuages
+Flie tombée
+Demperature de l'air
+fauteur de la mer
+saaitation de l'eau
+9
+Densite de l'eau
+e au bont de la fetre
+2 au Large
+Cemperature de l'eau
+1
+1
+
+d
+3
+
+Orust Nors
+17. Jaible 17fort
+10
+10
+Orest
+0, 112
+19,2
+28,9
+&
+1
+2
+10
+10
+Ciest
+3
+18,2
+23, +
+4 forit

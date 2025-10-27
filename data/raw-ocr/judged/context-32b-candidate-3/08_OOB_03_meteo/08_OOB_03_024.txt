@@ -1,0 +1,18 @@
+# Date. 14 Octobre. 1901
+
+|  | 9" Matin | 3" Soir |
+| --- | --- | --- |
+| Hauteur Barométrique | 750,7 | 753,3 |
+| Direction du vent | Nord | N.E.S.E |
+| Force | 1 faible | 1 fort |
+| Nébulosité | 10 | 10 |
+| Reg. O. (terre) | 0 | 0 |
+| Reg. E. (mer) | 5 kgm-2 c | 5 kgm-2 c |
+| Direction des nuages | Sud | 10 |
+| Pluie tombée | 0 | 0 |
+| Température de l'air | 18,7 | 18,0 |
+| Hauteur de la mer | 36,7 | 47,0 |
+| Agitation de l'eau | 1 | 1 |
+| Densité de l'eau | 1027,5 | 1027,5 |
+| | |
+| Température de l'eau | 18,0 | 18,0 |

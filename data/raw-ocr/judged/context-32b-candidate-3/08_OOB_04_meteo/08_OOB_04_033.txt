@@ -1,0 +1,31 @@
+# 9. 30 Novembre 1901
+
+|  **Hauteur Barométrique** | **Matin** | **Soir**  |
+| --- | --- | --- |
+|  Direction du vent | or.0.0 | or.0.0  |
+|  Force | 3 | 1/2  |
+|  (Reg. O. (terre)) | 0 | 0  |
+|  (Reg. E. (mer)) | 0 | 0  |
+|  Direction des nuages | 11 | 11  |
+|  **Pluie tombée** | 11 | 11  |
+|  **Température de l'air** | 9.6 | 11.6  |
+|  **Hauteur de la mer** | 39.4 | 15.6  |
+|  **Régulation de l'eau** | 3 | 3  |
+|  **Densité au bout de la jetée** | 1029.2 | 1029.2  |
+|  **Température de l'eau** | 13.9 | 13.4  |
+
+# 10. 1er Décembre 1901
+
+|  **Hauteur Barométrique** | **Matin** | **Soir**  |
+| --- | --- | --- |
+|  Direction du vent | or.0.0 |  |
+|  Force | 1/2 |  |
+|  (Reg. O. (terre)) | 0 |  |
+|  (Reg. E. (mer)) | 0 |  |
+|  Direction des nuages | 11 |  |
+|  **Pluie tombée** | 11 |  |
+|  **Température de l'air** | 6.7 |  |
+|  **Hauteur de la mer** | 47.3 |  |
+|  **Régulation de l'eau** | 2 |  |
+|  **Densité au bout de la jetée** | 1029.1 |  |
+|  **Température de l'eau** | 13.7 |  |

@@ -1,0 +1,1 @@
+c c c hline hline 766 2 763 0 hline hline hline 0 0 0 0 hline hline 14 4 15 7 hline 49 9 38 0 hline 1 hline 1027 4 1027 4 hline 16 8 17 1 hline

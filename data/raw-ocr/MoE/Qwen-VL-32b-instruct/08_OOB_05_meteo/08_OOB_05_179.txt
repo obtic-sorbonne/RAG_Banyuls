@@ -1,0 +1,29 @@
+| Date        | Matin      | Soir       |
+|-------------|------------|------------|
+| 26 Novembre 1906 |            |            |
+| H. Barom.   | 70.7 | 67.8 |
+| Dir. Vent   | cr. 0 | cr. 0 |
+| Force       | 3      |       |
+| Nuages (Reg. c. clair) | 0    |      |
+| Nuages (Reg. li. nuageux) | 0    |      |
+| Dir. nuages | —      | —      |
+| Pluie tombée | —      | —      |
+| Temp. air   | 20.2  | 16.8 |
+| H. mer      | 61.0  | 49.1 |
+| Agitation eau | 2 faible  | 2 forte  |
+| Densité eau jetée | 1028.7 | 1028.9 |
+| Temp. eau   | 11.9  | 16.0 |
+|-------------|------------|------------|
+| 27 Novembre 1906 |            |            |
+| H. Barom.   | 768.6 | 767.3 |
+| Dir. Vent   | cr. cr. 0 | cr. 0 |
+| Force       | 4      | 3      |
+| Nuages (Reg. c. clair) | 0    | 0    |
+| Nuages (Reg. li. nuageux) | 1    | 1    |
+| Dir. nuages | —      | —      |
+| Pluie tombée | —      | —      |
+| Temp. air   | 17.0  | 16.8 |
+| H. mer      | 63.0  | 49.1 |
+| Agitation eau | 3      | 2 forte  |
+| Densité eau jetée | 1028.9 | 1028.9 |
+| Temp. eau   | 16.0  | 16.0 |

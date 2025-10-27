@@ -1,0 +1,35 @@
+```markdown
+# 4 OCTOBRE 1907
+
+| **Date**         | **Matin** | **Soir** |
+|------------------|----------|----------|
+| **Hauteur barométrique (mmHg)** | 761.1 | 799.3 |
+| **Direction du Vent** | S. O. | S. O. |
+| **Force** | 1 | 0 |
+| **Nébulosité (Rég. O. Clère)** | 2 | 2 |
+| **Nébulosité (Rég. H. Cl.)** | 9 | 1 |
+| **Direction des nuages** | O. R. O. | O. R. O. |
+| **Pluie tombée (mm)** | - | - |
+| **Température de l'air (°C)** | 10.2 | 13.0 |
+| **Hauteur de la mer (cm)** | 41.8 | 41.8 |
+| **Agitation de l'eau** | 1 | 2 faible |
+| **Densité au bout de la jetée (g/cm³)** | 1027.6 | 1027.6 |
+| **Température de l'eau (°C)** | 19.1 | 19.7 |
+
+# 5 OCTOBRE 1907
+
+| **Date**         | **Matin** | **Soir** |
+|------------------|----------|----------|
+| **Hauteur barométrique (mmHg)** | 777.1 | 766.8 |
+| **Direction du Vent** | S. O. | S. O. |
+| **Force** | 1 | 1 faible |
+| **Nébulosité (Rég. O. Clère)** | 10 | 10 |
+| **Nébulosité (Rég. H. Cl.)** | 10 | 10 |
+| **Direction des nuages** | O. R. O. | O. R. O. |
+| **Pluie tombée (mm)** | - | quelques g |
+| **Température de l'air (°C)** | 12.6 | 13.7 |
+| **Hauteur de la mer (cm)** | 29.2 | 36.3 |
+| **Agitation de l'eau** | 1 | 1 |
+| **Densité au bout de la jetée (g/cm³)** | 1026.3 | 1029.2 |
+| **Température de l'eau (°C)** | 14.7 | 14.8 |
+```

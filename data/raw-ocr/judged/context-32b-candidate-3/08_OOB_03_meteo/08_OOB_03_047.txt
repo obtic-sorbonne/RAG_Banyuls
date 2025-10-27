@@ -1,0 +1,16 @@
+# Date - 10 Novembre 1901
+
+|  | 9" Matin | 3" Soir  |
+| --- | --- | --- |
+|  Hauteur Barométrique | 764,8 | 764,8  |
+|  Direction du vent | N.N.O | N.N.O  |
+|  Force | 2 | 2  |
+|  Nébulosité { Reg. C. (terre) } | 0 | 0  |
+|  Nébulosité { Reg. E. (mer) } | 0 | 0  |
+|  Direction des nuages | 100% | 100%  |
+|  Pluie tombée | " | "  |
+|  Température de l'air | 10,5 | 10,5  |
+|  Hauteur de la mer | 45,8 | 45,8  |
+|  Agitation de l'eau | 2 | 2  |
+|  Densité de l'eau { au bout de la jetée } | 1027,3 | 1027,3  |
+|  Température de l'eau | 15,4 | 15,4  |

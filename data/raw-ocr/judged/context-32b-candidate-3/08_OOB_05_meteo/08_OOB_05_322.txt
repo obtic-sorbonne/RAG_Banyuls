@@ -1,0 +1,33 @@
+```markdown
+# 25 NOVEMBRE 1907
+
+| **Date**         | **Matin** | **Soir** |
+|------------------|----------|----------|
+| **Hauteur barométrique (mmHg)** | 769.7 | 763.4 |
+| **Direction du Vent** | Crous | S.O. |
+| **Force** | Fort | Fort |
+| **Nébulosité (Reg. C. Clère)** | 10 | 10 |
+| **Direction des nuages** | Ouest | Ouest |
+| **Pluie tombée (mm)** | - | - |
+| **Température de l'air (°C)** | 11.6 | 13.4 |
+| **Hauteur de la mer (cm)** | 39.1 | 40.0 |
+| **Agitation de l'eau** | Fort | 1 |
+| **Densité au bout de la jetée (g/cm³)** | 1027.1 | 1027.1 |
+| **Température de l'eau (°C)** | 16.6 | 16.3 |
+
+# 26 NOVEMBRE 1907
+
+| **Date**         | **Matin** | **Soir** |
+|------------------|----------|----------|
+| **Hauteur barométrique (mmHg)** | 762.0 | 761.0 |
+| **Direction du Vent** | S.O. | S.O. |
+| **Force** | 1 | 1 |
+| **Nébulosité (Reg. C. Clère)** | 10 | 10 |
+| **Direction des nuages** | S.O. | S.O. |
+| **Pluie tombée (mm)** | - | - |
+| **Température de l'air (°C)** | 11.7 | 14.4 |
+| **Hauteur de la mer (cm)** | 34.6 | 39.6 |
+| **Agitation de l'eau** | 1 | 1 |
+| **Densité au bout de la jetée (g/cm³)** | 1027.1 | 1027.1 |
+| **Température de l'eau (°C)** | 16.0 | 16.3 |
+```

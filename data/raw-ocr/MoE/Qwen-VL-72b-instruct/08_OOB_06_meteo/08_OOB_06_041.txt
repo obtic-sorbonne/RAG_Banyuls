@@ -1,0 +1,45 @@
+OBSERVATIONS DU 1906 5 Juillet
+
+| Nombre de bateaux sortis (pêche à la Frairie) | 4 |
+| --- | --- |
+| Température de l'air | maxima depuis la veille | 19.7 |
+|  | minima id. | 14.7 |
+| Température de l'eau | maxima depuis la veille |  |
+|  | minima id. |  |
+| Pluie tombée depuis la veille, en millim. | 11 |
+| Evaporation depuis le 190, en millim. | 11 |
+
+|  | à 9 h. m. | à 3 h. s. |
+| --- | --- | --- |
+| Direction du vent (à terre) | N.N.O | N.N.O |
+| Force | 9 | 7 faib. |
+| Direction des nuages | N.N.O | N.N.O |
+| Nébulosité | région Ouest (terre) | 10 | 10 |
+|  | id. Est (mer) | 10 | 10 |
+| Hauteur de la mer, en centimètres, au-dessus du zéro | 33.5 | 24.6 |
+| Agitation de l'eau | 3 | 2 fort. |
+| Densité de l'eau au bout de la jetée | 1027.1 | 1027.8 |
+| Température id. | 16.8 | 17.3 |
+
+OBSERVATIONS DU 1906 6 Juillet
+
+| Nombre de bateaux sortis (pêche à l'anguille) | 82 |
+| --- | --- |
+| Température de l'air | maxima depuis la veille | 21.4 |
+|  | minima id. | 13.9 |
+| Température de l'eau | maxima depuis la veille |  |
+|  | minima id. |  |
+| Pluie tombée depuis la veille, en millim. |  |
+| Evaporation depuis le 22 Juin 1906, en millim. | 8.7 |
+
+|  | à 9 h. m. | à 3 h. s. |
+| --- | --- | --- |
+| Direction du vent (à terre) | N.N.O | S.S.E |
+| Force | 1 fort. | 1 |
+| Direction des nuages | N.N.O | N.N.O |
+| Nébulosité | région Ouest (terre) | 10 | 10 |
+|  | id. Est (mer) | 10 | 10 |
+| Hauteur de la mer, en centimètres, au-dessus du zéro | 38.8 | 29.6 |
+| Agitation de l'eau | 1 fort. | 1 |
+| Densité de l'eau au bout de la jetée | 1027.3 | 1026.7 |
+| Température id. | 17.6 | 19.2 |

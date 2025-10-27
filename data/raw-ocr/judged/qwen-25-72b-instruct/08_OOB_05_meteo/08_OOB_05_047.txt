@@ -1,0 +1,13 @@
+```
+Journal Météorologique du Navire "La Belle Poule"
+Période : 18 au 19 Octobre 1905
+
+Date       | Heure | Hauteur Barométrique (mm) | Direction du vent | Force | Nébulosité (Reg. o. Terre) | Nébulosité (Reg. E. Mer) | Direction des nuages | Pluie tombée (mm) | Température de l'air (°C) | Hauteur de la mer (m) | Agitation de l'eau (code) | Densité au bout de la jetée (g/cm³) | Température de l'eau (°C)
+-----------|-------|---------------------------|-------------------|-------|---------------------------|---------------------------|---------------------|-------------------|--------------------------|-----------------------|--------------------------|------------------------------------|-------------------------
+18 Octobre 1905 | Matin | 764.3                    | cr.cr.o           | is    | 1                         | 1                         | cr.os               | -                 | 40.9                     | 3 faible              | 1028.4                   | 18.0
+18 Octobre 1905 | Soir  | 763.3                    | clair             | & fort | 1                         | 1                         | cr.8                | -                 | 44.8                     | 3 faible              | 1028.9                   | 18.0
+19 Octobre 1905 | Matin | 763.0                    | S.S.E.            | is    | 0                         | 0                         | "S"                 | -                 | 42.9                     | 17.4 fort             | 1028.9                   | 19.2
+19 Octobre 1905 | Soir  | 1.8.8                    | 2                 | 0     | 0                         | 0                         | "S"                 | -                 | -                        | -                     | -                        | -
+
+Note Marginale : Aucune remarque particulière pour ces dates.
+```

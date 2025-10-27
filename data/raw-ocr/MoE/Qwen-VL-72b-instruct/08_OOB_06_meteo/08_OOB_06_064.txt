@@ -1,0 +1,45 @@
+OBSERVATIONS DU 1900 15 Févr.
+
+| Nombre de bateaux sortis (pêche à l |  |
+| --- | --- |
+| Température de l'air | maxima depuis la veille | 18.4 |
+|  | minima id. | 14.3 |
+| Température de l'eau | maxima depuis la veille |  |
+|  | minima id. |  |
+| Pluie tombée depuis la veille, en millim. |  |  |
+| Evaporation depuis le 190 , en millim. |  |  |
+
+|  | à 9 h. m. | à 3 h. s. |
+| --- | --- | --- |
+| Direction du vent (à terre) | N.N.O | N.O.S.P |
+| Force | 3 fort | 4 fort |
+| Direction des nuages | N.N.O | N.N.O |
+| Nébulosité | région Ouest (terre) | 0 | 10 |
+|  | id. Est (mer) | 2 | 60 |
+| Hauteur de la mer, en centimètres, au-dessus du zéro (Bassin de Radoub) | 87.2 |  |
+| Agitation de l'eau | 1 fort | 1 fort |
+| Densité de l'eau au bout de la jetée | 1028.2 | 1027.8 |
+| Température id. | 17.4 | 17.8 |
+
+OBSERVATIONS DU 1900 16 Févr.
+
+| Nombre de bateaux sortis (pêche à l |  |
+| --- | --- |
+| Température de l'air | maxima depuis la veille | 19.3 |
+|  | minima id. | 12.2 |
+| Température de l'eau | maxima depuis la veille |  |
+|  | minima id. |  |
+| Pluie tombée depuis la veille, en millim. |  |  |
+| Evaporation depuis le 190 , en millim. |  |  |
+
+|  | à 9 h. m. | à 3 h. s. |
+| --- | --- | --- |
+| Direction du vent (à terre) | N.N.E | S.S.E |
+| Force | 1 fort | 1 |
+| Direction des nuages | " | N.E |
+| Nébulosité | région Ouest (terre) | 0 | 1 |
+|  | id. Est (mer) | 0 | 1 |
+| Hauteur de la mer, en centimètres, au-dessus du zéro (Bassin de Radoub) | 30.1 |  |
+| Agitation de l'eau | 1 | 1 fort |
+| Densité de l'eau au bout de la jetée | 1028.9 | 1028.0 |
+| Température id. | 18.0 | 18.4 |

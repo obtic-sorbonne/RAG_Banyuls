@@ -1,0 +1,27 @@
+|  4. 16 Novembre 1906 | Maturin | Poir  |
+| --- | --- | --- |
+|  Hauteur Monométrique | 769.0 | 766.7  |
+|  Direction du vent | 2.0 | 0.001  |
+|  Force | 1 | 1.0  |
+|  Mébulonite | 10 | 10  |
+|  (Reg. E. (min) |  |   |
+|  Direction des nuages | 10 | 10  |
+|  Peur tombée | 0.0 | 0.000  |
+|  Gemperature de l'air | 12.7 | 16.3  |
+|  Hauteur de la mer | 38.0 | 49.7  |
+|  Cessation de l'eau | 1 faible | 1 faible  |
+|  Densité au bout de la jetée | 1029.3 | 1029.0  |
+|  Gemperature de l'eau | 16.3 | 16.1  |
+|  4. 17 Novembre 1906 | Maturin | Poir  |
+|  Hauteur Monométrique | 767.3 | 764.3  |
+|  Direction du vent | 2.0 | 2.0  |
+|  Force | 1 | 1.0  |
+|  Mébulonite | 10 | 10  |
+|  (Reg. E. (min) |  |   |
+|  Direction des nuages | 10 | 1  |
+|  Peur tombée | 0.0 | 0.0  |
+|  Gemperature de l'air | 14.1 | 14.3  |
+|  Hauteur de la mer | 39.3 | 15.1  |
+|  Cessation de l'eau | 15 faible | 15 faible  |
+|  Densité au bout de la jetée | 1029.3 | 1029.4  |
+|  Gemperature de l'eau | 16.2 | 17.4  |

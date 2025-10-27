@@ -1,0 +1,36 @@
+```
+Journal Météorologique du Navire "La Belle Poule"
+Période : 16 au 17 Février 1906
+
+| Date       | Matin | Soir  |
+|------------|-------|-------|
+| 16 Février 1906 |      |      |
+| Hauteur Barométrique (mm) | 761.7 | - |
+| Direction du vent | cr.cr.o | - |
+| Force | 2 | - |
+| Nébulosité (Reg. O. Terre) | 3 Légèrement couvert | - |
+| Nébulosité (Reg. E. Mer) | 1 | - |
+| Direction des nuages | Nord | - |
+| Pluie tombée (mm) | quelques g | - |
+| Température de l'air (°C) | 8.0 | - |
+| Hauteur de la mer (m) | 18.2 | - |
+| Agitation de l'eau (code) | 2 | - |
+| Densité au bout de la jetée (g/cm³) | 1029.8 | - |
+| Température de l'eau (°C) | 13.5 | - |
+
+| 17 Février 1906 | Matin | Soir  |
+| Hauteur Barométrique (mm) | 762.2 | 761.2 |
+| Direction du vent | Ouest | S.E |
+| Force | 17 faible | 14 fort |
+| Nébulosité (Reg. O. Terre) | 10 | 10 |
+| Nébulosité (Reg. E. Mer) | 10 | 10 |
+| Direction des nuages | Sud | S.E |
+| Pluie tombée (mm) | 10.62 | quelques g |
+| Température de l'air (°C) | 7.8 | 11.6 |
+| Hauteur de la mer (m) | 5 | 3 |
+| Agitation de l'eau (code) | 0 | 1 |
+| Densité au bout de la jetée (g/cm³) | - | - |
+| Température de l'eau (°C) | - | - |
+
+Note Marginale : Aucune remarque particulière pour ces dates.
+```

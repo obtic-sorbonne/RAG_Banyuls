@@ -1,0 +1,13 @@
+| Paramètre | 9ʰ Matin | 3ʰ Soir |
+|-----------|----------|--------|
+| Hauteur Barométrique | 759.4 | 759.8 |
+| Direction du vent | N.N.O | N.N.O |
+| Force | iii | 1 |
+| Nebulosité | <ul><li>Reg.-O. (lune)</li><li>Reg.-E. (mer)</li></ul> | <ul><li>égale</li><li>10</li><li>léger. c.</li><li>10</li></ul> |
+| Direction des nuages | N.N.O | N.N.O |
+| Pluie tombée | nn | quelque g. |
+| Température de l'air | 20.6 | 20.2{,8} |
+| Hauteur de la mer | 51.8 | 55.7 |
+| Agitation de l'eau | 1 | 1 T. faible |
+| Densité de l'eau | <ul><li>au bout de la jetée 1028.1</li><li>au large 1027.8</li></ul> |  |
+| Température de l'eau | 19.6 | 19.8 |

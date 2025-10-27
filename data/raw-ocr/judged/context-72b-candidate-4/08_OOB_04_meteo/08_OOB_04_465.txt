@@ -1,0 +1,31 @@
+```plaintext
+| V. 20 Janvier 1905 | Matin | Soir |
+|---------------------|-------|------|
+| Hauteur Barométrique | 767.4 | - |
+| Direction du vent | cr.o | - |
+| Force | 3 | 2 |
+| Nébulosité | Reg. O. (clère) | 0 |
+| (Reg. E. (mer)) | 2 | - |
+| Direction des nuages | " | " |
+| Pluie tombée | " | " |
+| Température de l'air | 6.2 | - |
+| Hauteur de la mer | 40.1 | - |
+| Agitation de l'eau | 3 fort | - |
+| Densité au bout de la jetée | 1029.8 | - |
+| Température de l'eau | 10.8 | - |
+
+| V. 21 Janvier 1905 | Matin | Soir |
+|---------------------|-------|------|
+| Hauteur Barométrique | 764.1 | - |
+| Direction du vent | S.O | - |
+| Force | 1 faible | - |
+| Nébulosité | Reg. O. (clère) | 0 |
+| (Reg. E. (mer)) | - | - |
+| Direction des nuages | " | " |
+| Pluie tombée | " | " |
+| Température de l'air | 7.9 | - |
+| Hauteur de la mer | 37.9 | - |
+| Agitation de l'eau | 2 fort | - |
+| Densité au bout de la jetée | 1029.4 | - |
+| Température de l'eau | 11.1 | - |
+```

@@ -1,0 +1,46 @@
+```plaintext
+| **OBSERVATIONS DU 1901 23 Octobre** |
+| --- |
+| **Nombre de bateaux sortis (pêche à l....)** | 24.7 |
+| **Température de l'air** | **maxima depuis la veille** | 24.7 |
+|  | **minima id.** | 16.0 |
+| **Température de l'eau** | **maxima depuis la veille** |  |
+|  | **minima id.** |  |
+| **Pluie tombée depuis la veille, en millim.** |  |
+| **Evaporation depuis le 190, en millim.** |  |
+| **Direction du vent (à terre)** | **à 9 h. m.** | **à 3 h. s.** |
+|  | **N.N.O.** | **S.S.E.** |
+| **Force** | 1 (faible) | 2 |
+| **Direction des nuages** | **S.O.** | **N.N.O.** |
+| **Nébulosité** | **région Ouest (terre)** | 6 | 6 |
+|  | **id. Est (mer)** | 6 | 6 |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.)** | 14.6 | 30.6 |
+| **Agitation de l'eau** | 1 (faible) | 1 (faible) |
+| **Densité de l'eau au bout de la jetée (Kg/cm³)** | 1027.3 | 1026.9 |
+| **Température id.** | **minima** | **maxima** |
+|  | **Terre Matin** | 14.3 | 36.9 |
+|  | **Matin** | 18.9 | 34.6 |
+|  | **Terre Soir** | 18.9 | 34.6 |
+| **OBSERVATIONS DU 1901 24 Octobre** |
+| --- |
+| **Nombre de bateaux sortis (pêche à l....)** | 20.7 |
+| **Température de l'air** | **maxima depuis la veille** | 20.7 |
+|  | **minima id.** | 17.2 |
+| **Température de l'eau** | **maxima depuis la veille** |  |
+|  | **minima id.** |  |
+| **Pluie tombée depuis la veille, en millim.** |  |
+| **Evaporation depuis le 190, en millim.** |  |
+| **Direction du vent (à terre)** | **à 9 h. m.** | **à 3 h. s.** |
+|  | **N.N.O.** | **S.S.E.** |
+| **Force** | 4 (fort) | 1 (faible) |
+| **Direction des nuages** | **N.N.O.** | **N.N.O.** |
+| **Nébulosité** | **région Ouest (terre)** | 6 | 6 |
+|  | **id. Est (mer)** | 1 | 1 |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.)** | 17.0 | 23.0 |
+| **Agitation de l'eau** | 2 (modérée) | 1 (faible) |
+| **Densité de l'eau au bout de la jetée (Kg/cm³)** | 1027.3 | 1027.3 |
+| **Température id.** | **maxima** | **minima** |
+|  | **Terre Matin** | 34.0 | 17.9 |
+|  | **Matin** | 17.9 | 34.0 |
+|  | **Terre Soir** | 17.3 | 17.3 |
+```

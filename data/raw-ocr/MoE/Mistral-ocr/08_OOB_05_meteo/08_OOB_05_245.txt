@@ -1,0 +1,27 @@
+|  N. 16 J'ai - 1907 | Mbeatin, Soir  |
+| --- | --- |
+|  Hauteur Maronubrique | 763.3  |
+|  Direction du vent | 20  |
+|  Force | 17.7  |
+|  Nebulante | 10  |
+|  Nég. E. (mer) | 10  |
+|  Direction des nuages | 20  |
+|  Flux tombe | 19.7  |
+|  Température de l'air | 19.7  |
+|  Hauteur de la mer | 44.3  |
+|  Législation de l'eau | 17.7  |
+|  Sensit au bout de la jetée | 17.7  |
+|  Température de l'eau | 128  |
+|  N. 17 J'ai - 1907 | Mbeatin, Soir  |
+|  Hauteur Maronubrique | 763.3  |
+|  Direction du vent | 20  |
+|  Force | 3  |
+|  Nég. O. (terre) | 10  |
+|  Nég. E. (mer) | 10  |
+|  Direction des nuages | 6.3  |
+|  Flux tombe | 6.3  |
+|  Température de l'air | 128  |
+|  Hauteur de la mer | 48.8  |
+|  Législation de l'eau | 17.7  |
+|  Sensit au bout de la jetée | 17.7  |
+|  Température de l'eau | 128.6  |

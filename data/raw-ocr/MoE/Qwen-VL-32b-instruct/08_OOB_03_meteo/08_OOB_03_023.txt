@@ -1,0 +1,17 @@
+# Date. 13 Octobre. 1901
+
+|  Name | 2nd Matin. 3rd Soir | 3rd Matin. 3rd Soir  |
+| --- | --- | --- |
+|  Kauteur Parométrique |  | 361,2  |
+|  Direction Su vent |  | 225  |
+|  Force |  | faible  |
+|  Nebulosite | Reg. C. (terre) | 361,2  |
+|  Nebulosite | Reg. E. (mer) | 16,9  |
+|  Direction des nuages |  | 16,9  |
+|  Mure tombee |  | 16,9  |
+|  Température de l'air |  | 16,9  |
+|  Kauteur de la mer |  | 16,9  |
+|  Législation de l'eau |  | 16,9  |
+|  Densité de l'eau | au bout de la jolie | 16,9  |
+|  |   |   |
+|  Température de l'eau |  | 16,9  |

@@ -1,0 +1,27 @@
+|  7. 21 x 6. 1903 | Nibatin | Soir  |
+| --- | --- | --- |
+|  Kanteur Warometrique | 769.7 | 769.8  |
+|  Direction Su vent | cr. 0 | 0001  |
+|  Force | 1 r. faible | 1  |
+|  Reg. O. (tire) | 10 | 10 Signale  |
+|  Nibbutovite { Reg. E. (mer) | 10 | 10 Signale  |
+|  Direction Ses nuages | 0001 | cr. 8  |
+|  Mucie Tombe | 1,87/ | "  |
+|  Température Se l'air | 16.0 | 13.0  |
+|  Kanteur Se la mer | 63.7 | 39.0  |
+|  Régitation Se l'eau | 1 fort | 1  |
+|  Bensité au bout Se la fete | 1027.1 | 1025.2  |
+|  Température Se l'eau | 12.1 | 12.3  |
+|  7. 22 x 6. 1903 | Nibatin | Soir  |
+|  Kanteur Warometrique |  | 769.3  |
+|  Direction Su vent |  | 0001  |
+|  Force |  | 1  |
+|  Reg. O. (tire) |  | 3  |
+|  Nibbutovite { Reg. E. (mer) |  | 2  |
+|  Direction Ses nuages |  | 00.8  |
+|  Mucie Tombe |  | "  |
+|  Température Se l'air |  | 14.0  |
+|  Kanteur Se la mer |  | 43.2  |
+|  Régitation Se l'eau |  | 1 r. fort  |
+|  Bensité au bout Se la fete |  | 1021.1  |
+|  Température Se l'eau |  | 11.8  |

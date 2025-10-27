@@ -1,0 +1,18 @@
+```plaintext
+# V. 7 Janvier 1903
+
+|  Nom | Matin | Soir  |
+| --- | --- | --- |
+|  Hauteur Barométrique | 766.3 | 705.5  |
+|  Direction du vent | Ouest | Ouest  |
+|  Force | 3 | 3  |
+|  Nébulosité (Reg. O. (terre)) | 7 | 7  |
+|  Nébulosité (Reg. E. (mer)) | 7 | 7  |
+|  Direction des nuages | Ouest | Ouest  |
+|  Pluie tombée |  |   |
+|  Température de l'air | 8.2 | 10.7  |
+|  Hauteur de la mer | 46.8 | 42.2  |
+|  Agitation de l'eau | 3 fort | 3 fort  |
+|  Densité au bout de la jetée | 1029.5 | 1029.3  |
+|  Température de l'eau | 18.7 | 13.3  |
+```

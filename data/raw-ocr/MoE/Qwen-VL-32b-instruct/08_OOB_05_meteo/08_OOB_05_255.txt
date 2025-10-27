@@ -1,0 +1,6 @@
+| Date | Heure | Hauteur barométrique | Direction du vent | Force | Nébulosité | Direction des images | Pluie Tombée | Température de l'air | Hauteur de la mer | Agitation de l'eau | Densité au bord de la jetée | Température de l'eau |
+|------|-------|---------------------|-------------------|-------|-------------|-------------------|----------------|------------------|----------------|------------------|------------------------|-----------------------|
+| V. 8 juin 1907 | Matin | 764.3 | Est | 1 | (Reg. 0. clére) | " | " | 20.2 | 12.3 | 17. faible | 1027.6 | 18.8 |
+| | Soir | 762.9 | S.E. | 2 | (Reg. 2. (nur)) | S.O. | " | 26.3 | 20.2 | 1 fort | 1027.6 | 19.0 |
+| V. 10 juin 1907 | Matin | 764.0 | or. 8 | 1 | (Reg. 0. clére) | " | " | 20.7 | 47.2 | 1 fort | 1027.6 | 18.1 |
+| | **Soir** | | | | (Reg. 2. (nur)) | Ouest | | | | | | |

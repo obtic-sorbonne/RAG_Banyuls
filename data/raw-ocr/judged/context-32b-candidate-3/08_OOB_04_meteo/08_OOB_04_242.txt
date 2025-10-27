@@ -1,0 +1,33 @@
+# 9. 17 Juin - 1903
+
+|  **Plauteur** | **Neur** | **Prix**  |
+| --- | --- | --- |
+|  Hauteur macrométrique | 763.4 | 760.2  |
+|  Direction du vent | 80° | 28°  |
+|  Force | 1 | 2  |
+|  Nébulosité (Reg. O. (terre)) | 10 | 10  |
+|  Nébulosité (Reg. E. (mer)) | 10 | 10  |
+|  Direction des nuages | 80° | 0.0  |
+|  Fluide tombé | 18.0 | 24.3  |
+|  Température de l'air | 18.0 | 49.3  |
+|  Hauteur de la mer | 13.0 | 1  |
+|  Agitation de l'eau | 1 | 1  |
+|  Densité au bout de la jeté | 1025.8 | 1025.8  |
+|  Température de l'eau | 18.3 | 12.2  |
+
+# 18 Juin - 1903
+
+|  **Plauteur** | **Neur** | **Prix**  |
+| --- | --- | --- |
+|  Hauteur macrométrique | 765.3 | 764.4  |
+|  Direction du vent | 2.0 | 4.0  |
+|  Force | 2 | 3  |
+|  Nébulosité (Reg. O. (terre)) | 10 | 10  |
+|  Nébulosité (Reg. E. (mer)) | 10 | 10  |
+|  Direction des nuages | 2.0 | 4.0  |
+|  Fluide tombé | 21.5 | 28.3  |
+|  Température de l'air | 42.0 | 42.0  |
+|  Hauteur de la mer | 16.0 | 16.0  |
+|  Agitation de l'eau | 1 | 2  |
+|  Densité au bout de la jeté | 1022.2 | 1022.3  |
+|  Température de l'eau | 12.2 | 12.3  |

@@ -1,0 +1,33 @@
+V. 12 Janvier 1903
+
+|  Nom | Matin | Soir  |
+| --- | --- | --- |
+|  Hauteur Barométrique | 765.0 | 766.0  |
+|  Direction du vent | Ouest | Ouest  |
+|  Force | 3 | 3  |
+|  Nébulosité (Reg. O. (terre)) | 8 | 8  |
+|  Nébulosité (Reg. E. (mer)) | 8 | 8  |
+|  Direction des nuages | Ouest | Ouest  |
+|  Pluie tombée |  |   |
+|  Température de l'air | 15.0 | 14.2  |
+|  Hauteur de la mer | 32.2 | 33.2  |
+|  Agitation de l'eau | 2 fois | 2 fois  |
+|  Densité au bout de la jetée | 1028.5 | 1028.5  |
+|  Température de l'eau | 10.5 | 10.5  |
+
+V. 13 Janvier 1903
+
+|  Nom | Matin | Soir  |
+| --- | --- | --- |
+|  Hauteur Barométrique | 766.0 | 763.0  |
+|  Direction du vent | Ouest | Ouest  |
+|  Force | 3 | 3  |
+|  Nébulosité (Reg. O. (terre)) | 10 | 10  |
+|  Nébulosité (Reg. E. (mer)) | 10 | 10  |
+|  Direction des nuages | Ouest | Ouest  |
+|  Pluie tombée |  |   |
+|  Température de l'air | 14.2 | 13.3  |
+|  Hauteur de la mer | 33.2 | 31.5  |
+|  Agitation de l'eau | 2 | 2  |
+|  Densité au bout de la jetée | 1028.5 | 1028.5  |
+|  Température de l'eau | 10.5 | 10.5  |

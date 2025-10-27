@@ -1,0 +1,33 @@
+V. 30 Janvier. 1903
+
+|  |   |   |   |
+| --- | --- | --- | --- |
+|  Hauteur |  |  |   |
+|  Hauteur |  |  |   |
+|  Direction | du vent |  |   |
+|  Force |  |  |   |
+|   |  |  | 1  |
+|   |  |  | 0  |
+|  Subtraitante | (Reg. E. (mer) |  |   |
+|  Direction | des mages |  |   |
+|  Blue | tombé |  |   |
+|  Température | de l'air |  | 8.7  |
+|  Hauteur | de la mer |  | 24.8  |
+|  Régulation | de l'eau |  | 1/2  |
+|  Densité | au bout de la jetée |  | 1029.1  |
+|  Température | de l'eau |  | 11.5  |
+|  V. 31 Janvier. 1903 |  |  |   |
+|  Hauteur |  |  |   |
+|  Hauteur |  |  |   |
+|  Direction | du vent |  | 755.5  |
+|  Force |  |  | 278  |
+|   |  |  | 1  |
+|   |  |  | 0  |
+|  Subtraitante | (Reg. E. (mer) |  |   |
+|  Direction | des mages |  | 10  |
+|  Blue | tombé |  | 22.0  |
+|  Température | de l'air |  | 12.3  |
+|  Hauteur | de la mer |  | 9.3  |
+|  Régulation | de l'eau |  | 17  |
+|  Densité | au bout de la jetée |  | 1029.5  |
+|  Température | de l'eau |  | 11.3  |

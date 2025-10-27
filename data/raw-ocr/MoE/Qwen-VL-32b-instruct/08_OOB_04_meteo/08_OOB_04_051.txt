@@ -1,0 +1,35 @@
+# V. 14 Janvier - 1902
+
+## Moutan
+
+|  Nom | Date | Type | Prix  |
+| --- | --- | --- | --- |
+|  Vauteur Maronctrique | 209,6 | Gr. 2 | 209,3  |
+|  Direction du vent |  | Gr. 2 | 209,3  |
+|  Force | 15 | 1 faible | 17 faible  |
+|  Nébulosité | (Reg. O. (1ère)) | 3 rég. 1/2 | 0  |
+|  Nébulosité | (Reg. E. (1er)) | 0 | 0  |
+|  Direction des images |  | 1/2 | 0  |
+|  Thie tombée |  | 1/2 | 14,1  |
+|  Température de l'air | 10,9 | 43,1 | 16,1  |
+|  Écarteur de la mer |  | 1 faible | 17 faible  |
+|  Écarteur de l'eau |  | 1 faible | 1029,0  |
+|  Densité au bout de la jetée |  | 1029,0 | 1029,0  |
+|  Écarteur de l'eau | 11,9 | 12,6 | 12,6  |
+
+## V. 17 Janvier - 1902
+
+|  Nom | Date | Type | Prix  |
+| --- | --- | --- | --- |
+|  Vauteur Maronctrique | 226,2 | Gr. 2 | 229,6  |
+|  Direction du vent |  | Gr. 2 | 229,6  |
+|  Force | 15 | 3 fort | 3 fort  |
+|  Nébulosité | (Reg. O. (1ère)) | 0 | 0  |
+|  Nébulosité | (Reg. E. (1er)) | 1 | 0  |
+|  Direction des images |  | 1/2 | 0  |
+|  Thie tombée |  | 1/2 | 0  |
+|  Température de l'air | 7,3 | 8,1 | 8,1  |
+|  Écarteur de la mer | 18,0 | 67,6 | 67,6  |
+|  Écarteur de l'eau | 3 | 3 fort | 3 fort  |
+|  Densité au bout de la jetée |  | 1028,6 | 1028,9  |
+|  Écarteur de l'eau | 11,9 | 11,9 | 11,9  |

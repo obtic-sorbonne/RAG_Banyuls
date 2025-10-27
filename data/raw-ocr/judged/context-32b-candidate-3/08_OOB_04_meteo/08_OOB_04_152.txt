@@ -1,0 +1,31 @@
+```plaintext
+|  9. 13 Novembre 1902 | Obatin | Soir  |
+| --- | --- | --- |
+|  Hauteur Barométrique | 785.0 | 787.5  |
+|  Direction du vent | or. or. o | or. or. o  |
+|  Force | 1/2 | 1  |
+|  Rég. O. (terre) | 10 | 10  |
+|  Nébulosité |  |  |
+|  Rég. E. (mer) | 10 | 10  |
+|  Direction des nuages | or. or. o | or. or. o  |
+|  Pluie tombée |  |  |
+|  Température de l'air | 48.9 | 10.4  |
+|  Hauteur de la mer | 2 | 2  |
+|  Agitation de l'eau | 1029.0 | 1029.8  |
+|  Densité au bout de la jetée | 15.1 |  |
+
+|  9. 14 Novembre 1902 | Obatin | Soir  |
+| --- | --- | --- |
+|  Hauteur Barométrique | 747.3 |  |
+|  Direction du vent | or. or. o |  |
+|  Force | 2 |  |
+|  Rég. O. (terre) | 10 |  |
+|  Nébulosité |  |  |
+|  Rég. E. (mer) | 10 |  |
+|  Direction des nuages | or. or. o |  |
+|  Pluie tombée |  |  |
+|  Température de l'air | 13.6 | 15.5  |
+|  Hauteur de la mer | 15.5 |  |
+|  Agitation de l'eau | 3 |  |
+|  Densité au bout de la jetée | 1029.9 | 15.4  |
+```

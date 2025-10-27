@@ -1,0 +1,46 @@
+| **OBSERVATIONS DU 1902 26 Mars**           |
+| --- |
+| **Nombre de bateaux sortis (pêche à l)** | 21.4 |
+| **Température de l'air**                | maxima depuis la veille | 21.4 |
+|                                        | minima id. | 11.7 |
+| **Température de l'eau**                | maxima depuis la veille | – |
+|                                        | minima id. | – |
+| **Pluie tombée depuis la veille, en millim.** | – |
+| **Evaporation depuis le 190, en millim.** | – |
+| **Direction du vent (à terre)**         | à 9 h m. | Nord |
+|                                        | à 3 h s. | E.S.E. |
+| **Force**                              | 1 | 1 fort. |
+| **Direction des nuages**                | N.S.0 | N.0 |
+| **Nébulosité**                         | région Ouest (terre) | 0 | 9 |
+|                                        | id. Est (mer) | 0 | 6 |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.)** | 13.0 | 11.7 |
+| **Agitation de l'eau**                  | 1 | 1 |
+| **Densité de l'eau au bout de la jetée** | 1027.7 | 1027.6 |
+| **Température**                        | – | 18.7 |
+|                                        | id. Balance matin | 14.9 |
+|                                        | id. Balance matin | 2.7 | 9.3 |
+|                                        | id. Balance soir | 29.3 | 1.7 |
+
+| **OBSERVATIONS DU 1902 27 Mars**           |
+| --- |
+| **Nombre de bateaux sortis (pêche à l)** | 18.9 |
+| **Température de l'air**                | maxima depuis la veille | 18.9 |
+|                                        | minima id. | 11.3 |
+| **Température de l'eau**                | maxima depuis la veille | – |
+|                                        | minima id. | – |
+| **Pluie tombée depuis la veille, en millim.** | – |
+| **Evaporation depuis le 190, en millim.** | – |
+| **Direction du vent (à terre)**         | à 9 h m. | N.N.O. |
+|                                        | à 3 h s. | Est. |
+| **Force**                              | 1 | 1 |
+| **Direction des nuages**                | S.0 | Nord |
+| **Nébulosité**                         | région Ouest (terre) | 10 | 10 légèrement |
+|                                        | id. Est (mer) | 10 | 10 légèrement |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.)** | 12.4 | 10.6 |
+| **Agitation de l'eau**                  | 1 | 1 |
+| **Densité de l'eau au bout de la jetée** | 1027.7 | 1027.6 |
+| **Température**                        | – | 18.7 |
+|                                        | id. Balance matin | 13.7 |
+|                                        | id. Balance soir | 22.6 |
+|                                        | id. S. Balance matin (Maxima) | 26.3 |
+|                                        | id. S. Balance matin (Minima) | 1.7 |

@@ -1,0 +1,15 @@
+| **Date** | 23 Septembre 1901 |
+|----------|----------------------------------------------------|
+| **Heures** | **9 H Matin** | **18 H Soir** |
+| **Hauteur Barométrique** | 777.7 | 777.2 |
+| **Direction du vent** | Ouest | Sud |
+| **Force** | 1 frol | 3 frol |
+| **Nébulosité** | Reg. 6 (Terre) | 10 | 10 |
+| | Reg. E (Mer) | 10 | 10 |
+| **Direction des nuages** | Ouest | Sud |
+| **Pluie tombée** | quelques g. | |
+| **Température de l'air** | 19.7 | 21.4 |
+| **Hauteur de la mer** | 32.1 | 16.7 |
+| **Agitation de l'eau** | 2 | 2 T.frol |
+| **Densité de l'eau** | 1027.9 | 1027.9 |
+| **Température de l'eau** | 16.9 | 17.5 |

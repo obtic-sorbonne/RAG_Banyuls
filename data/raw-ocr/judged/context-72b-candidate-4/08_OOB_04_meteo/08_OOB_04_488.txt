@@ -1,0 +1,33 @@
+```plaintext
+| V. 20 Avril - 1905 | Matin | Soir |
+| --- | --- | --- |
+| Hauteur Barométrique | 7/2.1 | — |
+| Direction du vent | cr.cr.o | — |
+| Force | 3 | — |
+| Régl. G. (terre) | 10 | — |
+| Nébulosité | — | — |
+| (Régl. E. (mer)) | 10 | — |
+| Direction des nuages | cr.o | — |
+| Pluie tombée | 18.62p | — |
+| Température de l'air | 12.2 | — |
+| Hauteur de la mer | 5 | — |
+| Agitation de l'eau | 2 | — |
+| Densité au bout de la jetée | — | — |
+| Température de l'eau | — | — |
+
+| V. 22 Avril - 1905 | Matin | Soir |
+| --- | --- | --- |
+| Hauteur Barométrique | 7/9.3 | 760.9 |
+| Direction du vent | cr.cr.o | cr.cr.o |
+| Force | 6 | 6 |
+| Régl. G. (terre) | 10 | 3 |
+| Nébulosité | — | — |
+| (Régl. E. (mer)) | 10 | 2 |
+| Direction des nuages | cr.o | cr.o |
+| Pluie tombée | quelques g | — |
+| Température de l'air | 11.3 | 13.1 |
+| Hauteur de la mer | 5 | 5 |
+| Agitation de l'eau | 3 | 3 fort |
+| Densité au bout de la jetée | — | — |
+| Température de l'eau | — | — |
+```

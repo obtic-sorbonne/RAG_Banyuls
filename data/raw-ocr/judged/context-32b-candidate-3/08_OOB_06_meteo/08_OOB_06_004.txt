@@ -1,0 +1,49 @@
+```plaintext
+### Observations du 1960, 7 Avril
+
+| **Éléments**                                      | **Valeurs**         |
+|---------------------------------------------------|---------------------|
+| Nombre de bateaux sortis (pêche à la Mer)          | 34                  |
+| Température de l'air                               |                      |
+|    - maxima depuis la veille                       | 11.8                |
+|    - minima id.                                   | 6.8                 |
+| Température de l'eau                              |                      |
+|    - maxima depuis la veille                       | -                   |
+|    - minima id.                                   | -                   |
+| Pluie tombée depuis la veille, en millim.         | 0                   |
+| Evaporation depuis le 190, en millim.             | 0                   |
+| Direction du vent (à terre)                       | N.N.O               |
+| Force                                             | 1                   |
+| Direction des nuages                              | N.N.O               |
+| Nébulosité                                        |                      |
+|    - région Ouest (terre)                          | 10                  |
+|    - id. Est (mer)                                | 10                  |
+| Hauteur de la mer, en centimètres, au-dessus du zéro | 99.0                |
+| Agitation de l'eau                               | 1                   |
+| Densité de l'eau au bout de la jetée               | 1027.6              |
+| Température                                      | 11.3                |
+
+### Observations du 1960, 8 Avril
+
+| **Éléments**                                      | **Valeurs**         |
+|---------------------------------------------------|---------------------|
+| Nombre de bateaux sortis (pêche à la Mer)          | 34                  |
+| Température de l'air                               |                      |
+|    - maxima depuis la veille                       | 17.2                |
+|    - minima id.                                   | 4.1                 |
+| Température de l'eau                              |                      |
+|    - maxima depuis la veille                       | -                   |
+|    - minima id.                                   | -                   |
+| Pluie tombée depuis la veille, en millim.         | 0                   |
+| Evaporation depuis le 190, en millim.             | 0                   |
+| Direction du vent (à terre)                       | N.N.E               |
+| Force                                             | 2                   |
+| Direction des nuages                              | S.O                 |
+| Nébulosité                                        |                      |
+|    - région Ouest (terre)                          | 10                  |
+|    - id. Est (mer)                                | 10                  |
+| Hauteur de la mer, en centimètres, au-dessus du zéro | 39.4                |
+| Agitation de l'eau                               | 1 T. faible        |
+| Densité de l'eau au bout de la jetée               | 1027.4              |
+| Température                                      | 12.8                |
+```

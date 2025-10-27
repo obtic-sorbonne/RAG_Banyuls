@@ -1,0 +1,6 @@
+```markdown
+| Date           | Heure | Hauteur Barométrique (mmHg) | Direction du Vent | Force du Vent | Nébulosité | Reg. c. Clarté (%) | Direction des Nuages | Pluie Tombée | Température de l'Air (°C) | Hauteur de la Mer (m) | Agitation de l'Eau | Densité au bord de la Jetée (kg/m³) | Température de l'Eau (°C) |
+|----------------|-------|---------------------------|-------------------|--------------|-----------|-------------------|---------------------|-------------|------------------------|----------------------|-------------------|-----------------------------------|------------------------|
+| 01/10/1906     | Matin | 767.7                     | Ouest             | 1 faible     | 10        | 10                | Est                 | quelques gouttes | 20.6                  | 14.0                | 2 faible           | 1028.8                             | 19.9                  |
+| 01/10/1906     | Soir  | 766.3                     | Est               | 1 fort       | 10        | 10                | O.N.O               | —            | 22.0                  | 47.1                | 1 faible           | 1028.8                             | 20.6                  |
+```

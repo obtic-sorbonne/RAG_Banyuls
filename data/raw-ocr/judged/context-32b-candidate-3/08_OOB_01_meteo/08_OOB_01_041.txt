@@ -1,0 +1,19 @@
+# Data. 3. 15 Septembre 1900.
+
+|  |   |   |
+| --- | --- | --- |
+|  Hauteur barométrique |  | 467,1  |
+|  Direction du vent: |  |   |
+|  Force |  | 2  |
+|  Réduits |  | 5  |
+|  Direction des nuages |  | 4  |
+|  Diminués |  | 10  |
+|  Diminués |  | 10  |
+|  Température de l'air |  | 3,5  |
+|  Diminués |  | 5,2  |
+|  Diminués de la mer |  | 21,2  |
+|  Régulation de l'eau |  | 0,740  |
+|  Diminués de la mer |  | 0,740  |
+|  Température de l'eau |  | 21,4  |
+
+Observat. — a 11 h/7 m. p.p. coup de lumineux. et pleine nébule jusque à 1 heure environ.

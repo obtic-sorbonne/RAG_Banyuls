@@ -1,0 +1,27 @@
+| V. 1er Juin 1907 | Matin | Soir |
+|------------------|-------|------|
+| Hauteur Barométrique | 759,8 | 759,3 |
+| Direction du Vent | cr.v.o | cr.o |
+| Force | 4 | 2 forts |
+| Nebulosite (Reg. 6. (étoile)) | 10 | 10 |
+| Nebulosite (Reg. 4. (nuage)) | 10 | 10 |
+| Direction des nuages | cr.o | cr.o |
+| Pluie Tombée | " | " |
+| Température de l'air | 20,0 | 21,8 |
+| Hauteur de la mer | 47,9 | 57,2 |
+| Agitation de l'eau | 2 forts | 2 T.forts |
+| Densité au bord de la jetée | 1027,6 | 1027,8 |
+| Température de l'eau | 17,3 | 16,7 |
+| V. 3 Juin 1907 | Matin | Soir |
+| Hauteur Barométrique | 760,3 | 760,3 |
+| Direction du Vent | cr.v.o | cr.v.o |
+| Force | 4 | 3 T.forts |
+| Nebulosite (Reg. 6. (étoile)) | 10 | 10 |
+| Nebulosite (Reg. 4. (nuage)) | 10 | 10 |
+| Direction des nuages | cr.v.o | cr.v.o |
+| Pluie Tombée | " | " |
+| Température de l'air | 16,7 | 21,7 |
+| Hauteur de la mer | 72,7 | 64,8 |
+| Agitation de l'eau | 3 faible | 3 |
+| Densité au bord de la jetée | 1028,3 | 1027,1 |
+| Température de l'eau | 16,2 | 16,7 |

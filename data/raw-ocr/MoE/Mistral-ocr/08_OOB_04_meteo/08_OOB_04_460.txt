@@ -1,0 +1,27 @@
+|  V. A. Janvier - 1901 | Matin | Prix  |
+| --- | --- | --- |
+|  Hauteur Paromatique | 269.8 |   |
+|  Direction du vent | 20 |   |
+|  Force | 4 |   |
+|  Nebbutosité | 10 |   |
+|  (Abs. 2. (min)) |  |   |
+|  Direction des mages | 10 |   |
+|  Flue tombé | 2.4 |   |
+|  Température de l'air | 7.4 |   |
+|  Hauteur de la mer | 11.8 |   |
+|  Aqitation de l'eau | 3 |   |
+|  Densité au bout de la jetée | 1029.1 |   |
+|  Température de l'eau | 9.6 |   |
+|  V. Janvier - 1901 | Matin | Prix  |
+|  Hauteur Paromatique | 269.1 | 266.3  |
+|  Direction du vent | Ouest | Nord  |
+|  Force | 1 fort | 1 fort  |
+|  Nebbutosité | 100 m² | 10  |
+|  (Abs. 2. (min)) |  |   |
+|  Direction des mages | 10 | 10  |
+|  Flue tombé | 2.3 | 10.2  |
+|  Température de l'air | 8.3 | 68.1  |
+|  Hauteur de la mer | 13.4 | 1  |
+|  Aqitation de l'eau | 3 faible | 1  |
+|  Densité au bout de la jetée | 1029.1 | 1029.3  |
+|  Température de l'eau | 10.0 | 10.4  |

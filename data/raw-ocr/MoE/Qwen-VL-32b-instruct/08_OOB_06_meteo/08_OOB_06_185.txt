@@ -1,0 +1,53 @@
+### OBSERVATIONS DU 1904 09 Août
+
+| Nombre de bateaux sortis (pêche à...) | 20,8 |
+| --- | --- |
+| Température de l'air } |  | 
+| maxima depuis la veille... | 20,8 | 
+| minima id. | 20,6 | 
+| Température de l'eau } |  | 
+| maxima depuis la veille... |  | 
+| minima id. |  | 
+| Pluie tombée depuis la veille, en millim.... |  | 
+| Évaporation depuis le 1904 , en millim.... |  | 
+| Direction du vent (à terre) | E.N.O | E.S.6 | 
+| Force | 1 | 1 | 
+| Direction des nuages | „„ | „„ | 
+| Nebulosité } |  | 
+| région Ouest (terre) | 1 | 0 | 
+| id. Est (mer) | 0 | 1 | 
+| Hauteur de la mer, en centimètres, au-dessus du zéro (R R) | 37,1 | 58,5 | 
+| Agitation de l'eau | 1 | 1-for. | 
+| Densité de l'eau au bout de la jetée | 6024,9 | 6023,8 | 
+| Température - i5 - Bolarm - id. | 28,4 | 41,0 | 
+| - i5 - Ferrane Matin } maxima minima - (R R) | 42,3 | 18,9 | 
+| -   -   - Soir } maxima minima | ( | 
+
+---
+
+### OBSERVATIONS DU 1904 10 Août
+
+| Nombre de bateaux sortis (pêche à...) | 33,4 |
+| --- | --- |
+| Température de l'air } |  | 
+| maxima depuis la veille... | 36,9 | 
+| minima id. | 26,3 | 
+| Température de l'eau } |  | 
+| maxima depuis la veille... |  | 
+| minima id. |  | 
+| Pluie tombée depuis la veille, en millim.... |  | 
+| Évaporation depuis le 1904 , en millim.... |  | 
+| Direction du vent (à terre) | N.N.O | S.S.2 | 
+| Force | 2 for. | 1 for. | 
+| Direction des nuages | „„ | „„ | 
+| Nebulosité } |  | 
+| région Ouest (terre) | 2 | 2 | 
+| id. Est (mer) | 0 | 2 | 
+| Hauteur de la mer, en centimètres, au-dessus du zéro (R R) | 31,9 | 36,4 | 
+| Agitation de l'eau | 1 | 1-for. | 
+| Densité de l'eau au bout de la jetée | 6024,6 | 6024,6 | 
+| Température - i5 - Ferrane Matin {} maxima minima - (R R) | 34,9 | 21,0 | 
+| - i5 -    - Soir } maxima minima |  | 42,2 | 
+|  |  | 43,7 | 
+|  |  |  | 
+|  |  | 81,8 |

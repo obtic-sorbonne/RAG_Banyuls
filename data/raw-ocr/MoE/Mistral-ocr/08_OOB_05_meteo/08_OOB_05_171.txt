@@ -1,0 +1,33 @@
+# N° 7 Novembre 1905
+
+|  **Nom** | **Prix**  |
+| --- | --- |
+|  Maintien Nouvométrique | 749.3  |
+|  Direction du vent | 31.7  |
+|  Force | 1 fort  |
+|  Nébulonite | 10  |
+|  (Reg. O. (en)) | 10  |
+|  Direction des mages | 10  |
+|  Pluie tombée | 10  |
+|  Température de l'air | 15.9  |
+|  Maintien de la nuit | 18.2  |
+|  Agitation de l'eau | 2 faibles  |
+|  Densité au bout de la jetée | 1629.0  |
+|  Température de l'eau | 17.4  |
+
+# N° 8 Novembre 1905
+
+|  **Nom** | **Prix**  |
+| --- | --- |
+|  Maintien Nouvométrique | 75.0  |
+|  Direction du vent | 22.8  |
+|  Force | 10  |
+|  Nébulonite | 10  |
+|  (Reg. O. (en)) | 10  |
+|  Direction des mages | ouvert  |
+|  Pluie tombée | 32.1  |
+|  Température de l'air | 18.3  |
+|  Maintien de la nuit | 27.8  |
+|  Agitation de l'eau | 1 fort  |
+|  Densité au bout de la jetée | 1628.4  |
+|  Température de l'eau | 17.8  |

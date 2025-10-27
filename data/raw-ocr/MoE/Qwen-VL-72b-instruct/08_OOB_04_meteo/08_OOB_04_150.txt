@@ -1,0 +1,30 @@
+| Date | Matin | Soir |
+|------|-------|------|
+| **V. 7 Novembre - 1902** |
+| Hauteur Barométrique | 769.3 | 761.2 |
+| **Direction du vent** | cr. cr. 0 | Sud |
+| **Force** | 2 | 1 |
+| **Nébulosité** | |
+| Reg. O. (ciel) | 10 | 10 |
+| Reg. E. (mer) | 10 | 10 |
+| Direction des nuages | cr. cr. 0 | |
+| Pluie tombée | 9.75° | quelques g |
+| Température de l'air | 11.5° | 11.6° |
+| Hauteur de la mer | 28.8 | 28.3 |
+| Agitation de l'eau | 2 | 2 jaïlle |
+| Vitesse au bout de la jété | 1029.1 | 1028.4 |
+| Température de l'eau | 16.8 | 16.7 |
+| **V. 8 Novembre - 1902** |
+| Hauteur Barométrique | 762.3 | - |
+| **Direction du vent** | - | |
+| **Force** | - | |
+| **Nébulosité** | |
+| Reg. O. (ciel) | - | |
+| Reg. E. (mer) | - | |
+| Direction des nuages | - | |
+| Pluie tombée | - | 12.9° |
+| Température de l'air | - | |
+| Hauteur de la mer | - | |
+| Agitation de l'eau | - | |
+| Vitesse au bout de la jété | - | |
+| Température de l'eau | - | |

@@ -1,0 +1,17 @@
+# Date. 8 Novembre. 1900.
+
+|  Nom | Date | Type  |
+| --- | --- | --- |
+|  Hauteur Prazometrique | 9 mai 1900 | 3" Soir  |
+|  Direction du vent | 7 Oct. 1900 | 7 Oct. 2  |
+|  Force | 2 Juillet 1900 | 2 Juillet 1900  |
+|  Nébulosité | 2 Oct. 1900 | 2 Oct. 2  |
+|  Rég. E. (mez) | 6 Nov. 1900 | 6 Nov. 1900  |
+|  Direction des nuages | 1 Nov. 1900 | 1 Nov. 1900  |
+|  Chuis tombée | 13 Jan. 1902 | 13 Jan. 1902  |
+|  Température de l'air | 13 Jan. 1902 | 13 Jan. 1902  |
+|  Hauteur de la mer | 39,1 m | 44,5 m  |
+|  Égitation de l'eau | 1 Jan. 1902 | 1 Jan. 1902  |
+|  Densité de l'eau | 1 Jan. 1902 | 1 Jan. 1902  |
+|  Au large |  |   |
+|  Température de l'eau | 17 Jan. 1902 | 17 Jan. 1902  |

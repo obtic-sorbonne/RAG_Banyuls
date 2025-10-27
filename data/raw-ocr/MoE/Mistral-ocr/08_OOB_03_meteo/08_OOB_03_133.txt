@@ -1,0 +1,15 @@
+# Date: 24 février 1902
+
+|   | 3e Station | 3e Soir  |
+| --- | --- | --- |
+|  Hauteur Parométrique | 2/7,6 |   |
+|  Direction du vent | 2,0 |   |
+|  Force | 3 |   |
+|  Robulosité (Reg. O. (terre)) | 10 |   |
+|  Dircetion des nuages | 10 |   |
+|  Mise tombée |  |   |
+|  Température de l'air | 12,6 |   |
+|  Hauteur de la mer | 37,3 |   |
+|  Régitation de l'eau | 2 |   |
+|  Densité de l'eau (par bout de la jeté) | 1028,9 |   |
+|  Comprendre de l'eau | 11,1 |   |

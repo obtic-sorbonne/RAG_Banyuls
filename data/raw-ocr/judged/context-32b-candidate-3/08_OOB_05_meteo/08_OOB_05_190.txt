@@ -1,0 +1,35 @@
+```markdown
+# V. 22 Décembre 1906
+
+|  **Date** | **Matin**  | **Soir**  |
+| --- | --- | --- |
+|  **Hauteur barométrique** | 770.1 mmHg | 768.0 mmHg  |
+|  **Direction du vent** | v.v.o | v.v.o  |
+|  **Force** | 3 | 2  |
+|  **Nébulosité (Reg. C. (terre))** | 10 | 8  |
+|  **Nébulosité (Reg. 2. (mer))** | 10 | 10  |
+|  **Direction des nuages** | v.v. | v.v.  |
+|  **Pluie tombée** | 1.1 g | —  |
+|  **Température de l'air** | 8.2 °C | 8.7 °C  |
+|  **Hauteur de la mer** | 4.8 m | 18.0 m  |
+|  **Agitation de l'eau** | 3 | 3  |
+|  **Densité au bout de la jetée** | 1029.6 kg/m³ | 1029.6 kg/m³  |
+|  **Température de l'eau** | 12.6 °C | 12.7 °C  |
+
+# V. 23 Décembre 1906
+
+|  **Date** | **Matin**  | **Soir**  |
+| --- | --- | --- |
+|  **Hauteur barométrique** | 769.2 mmHg | 766.0 mmHg  |
+|  **Direction du vent** | v.v.o | v.v.o  |
+|  **Force** | 2 | 1  |
+|  **Nébulosité (Reg. C. (terre))** | 10 | 10  |
+|  **Nébulosité (Reg. 2. (mer))** | 10 | 10  |
+|  **Direction des nuages** | v.v. | v.v.  |
+|  **Pluie tombée** | 1.1 g | 1.1 g  |
+|  **Température de l'air** | 10.0 °C | 10.0 °C  |
+|  **Hauteur de la mer** | 10.0 m | 10.0 m  |
+|  **Agitation de l'eau** | 3 | 3  |
+|  **Densité au bout de la jetée** | 1029.6 kg/m³ | 1029.6 kg/m³  |
+|  **Température de l'eau** | 12.6 °C | 12.6 °C  |
+```

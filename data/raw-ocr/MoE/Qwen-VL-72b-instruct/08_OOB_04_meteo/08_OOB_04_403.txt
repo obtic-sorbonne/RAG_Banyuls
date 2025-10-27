@@ -1,0 +1,26 @@
+| **Date**       | **Heure** | **Observations**                   | **Matin**         | **Soir**         |
+|-----------------|-----------|-----------------------------------|--------------------|------------------|
+| V. 26 juillet 1904 |            | Hauteur Barometrique               | 769.4             |                  |
+|                  |           | Direction Su vent                   | SW                |                  |
+|                  |           | Force                                | 2                 |                  |
+|                  |           | Nébulosité (Reg. O. (terre))          | 4 (Dég.)          |                  |
+|                  |           | Nébulosité (Reg. E. (mer))           | 0                 |                  |
+|                  |           | Direction des mires                 | Sud               |                  |
+|                  |           | Pluie Tombe                           | –                |                  |
+|                  |           | Température de l'air                | 23.6             |                  |
+|                  |           | Hauteur de la meur                   | 46.0             |                  |
+|                  |           | Agitation de l'eau                  | Fort              |                  |
+|                  |           | Densité au bout de la jetée          | 1026.1           |                  |
+|                  |           | Température de l'eau                | 23.6             |                  |
+| V. 27 juillet 1904 |            | Hauteur Barometrique               | 769.3             | 769.2           |
+|                  |           | Direction Su vent                   | SW                | S.E.             |
+|                  |           | Force                                | 2                 | 1                |
+|                  |           | Nébulosité (Reg. O. (terre))          | 0                 | 40               |
+|                  |           | Nébulosité (Reg. E. (mer))           | 1                 | 40               |
+|                  |           | Direction des mires                 | S.S.O.           | S.O.            |
+|                  |           | Pluie Tombe                           | –                | –                |
+|                  |           | Température de l'air                | 24.1             | 29.7            |
+|                  |           | Hauteur de la meur                   | 49.1             | 12.8             |
+|                  |           | Agitation de l'eau                  | Faible           | 1                |
+|                  |           | Densité au bout de la jetée          | 1026.9           | 1026.1           |
+|                  |           | Température de l'eau                | 23.8             | 26.4             |

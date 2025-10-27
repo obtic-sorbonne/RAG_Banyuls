@@ -1,0 +1,29 @@
+# Suilé des Observations Météorologiques
+
+|  N. 16 Juin - 1905 | Mbeatin | Poir  |
+| --- | --- | --- |
+|  Hauteur Parométrique | 761.1 | 77.3  |
+|  Direction du vent | 1.8 | 2.8  |
+|  Force | 1/201 | 3/201  |
+|  Nœbutoné | 10 | 10  |
+|  Nœbutoné | 10 | 10  |
+|  Direction des nuages | 10 | 10  |
+|  Nuit tombé | 11 | 11  |
+|  Température de l'air | 31.6 | 30.3  |
+|  Hauteur de la mer | 43.6 | 42.1  |
+|  Oxyitation de l'eau | 2/201 | 2/201  |
+|  Densité au bout de la jetée | 1028.2 | 1027.8  |
+|  Température de l'eau | 19.1 | 19.1  |
+|  N. 17 Juin - 1905 | Mbeatin | Poir  |
+|  Hauteur Parométrique | 77.3 | 78.2  |
+|  Direction du vent | 1.18 | 1.88  |
+|  Force | 1/201 | 1/201  |
+|  Nœbutoné | 2/201 | 2/201  |
+|  Nœbutoné | 1/201 | 1/201  |
+|  Direction des nuages | 1.0 | 1.0  |
+|  Nuit tombée | 22.1 | 26.4  |
+|  Température de l'air | 36.3 | 42.0  |
+|  Hauteur de la mer | 1028.0 | 1027.9  |
+|  Oxyation de l'eau | 19.1 | 18.8  |
+|  Densité au bout de la jetée |  |   |
+|  Température de l'eau |  |   |

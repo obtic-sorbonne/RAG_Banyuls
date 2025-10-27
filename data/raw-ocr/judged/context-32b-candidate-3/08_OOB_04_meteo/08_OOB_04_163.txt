@@ -1,0 +1,31 @@
+```plaintext
+|  4. 7 X 8. 1902 | Matin | Soir  |
+| --- | --- | --- |
+|  Hauteur Barométrique | 759.8 | 759.8  |
+|  Direction du vent | or.or.0 | or.or.0  |
+|  Force | 1 | 1  |
+|  Nébulosité (Rég. O. (terre)) | 1 | 1  |
+|  Nébulosité (Rég. E. (mer)) | 4 | 4  |
+|  Direction des nuages | or.or.0 | or.or.0  |
+|  Pluie tombée | 4 | 4  |
+|  Température de l'air | 8.7 | 8.7  |
+|  Hauteur de la mer | 34.9 | 34.9  |
+|  Agitation de l'eau | 2 | 2  |
+|  Densité au bout de la jetée | 1022.6 | 1022.6  |
+|  Température de l'eau | 13.0 | 13.0  |
+
+|  4. 8 X 1902 | Matin | Soir  |
+| --- | --- | --- |
+|  Hauteur Barométrique | 757.4 | 757.2  |
+|  Direction du vent | or.or.0 | or.or.0  |
+|  Force | 1 fort | 1 fort  |
+|  Nébulosité (Rég. O. (terre)) | 10 | 10  |
+|  Nébulosité (Rég. E. (mer)) | 10 | 10  |
+|  Direction des nuages | or.or.0 | or.or.0  |
+|  Pluie tombée | 11.4 | 7.6  |
+|  Température de l'air | 7.4 | 24.9  |
+|  Hauteur de la mer | 37.7 | 37.7  |
+|  Agitation de l'eau | 2 fort | 1 fort  |
+|  Densité au bout de la jetée | 1029.2 | 1029.6  |
+|  Température de l'eau | 13.4 | 13.2  |
+```

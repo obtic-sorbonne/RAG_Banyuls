@@ -1,0 +1,35 @@
+V. 9 Janvier. 1903
+
+|  Name | Pension | Prix  |
+| --- | --- | --- |
+|  Hauteur Barometrique | 2/5.0 | 2/7.2  |
+|  Direction du vent | 2.2.0 | 2.8  |
+|  Force | 1/200 | 1/200  |
+|  Reg. O. (force) | 10 | 10  |
+|  Nébulosité |  |   |
+|  Reg. E. (mur) | 10 | 10  |
+|  Direction des mages | 2.2.0 | 2.8  |
+|  Élue tombé |  |   |
+|  Température de l'air | 14.3 | 13.6  |
+|  Hauteur de la mur | 36.6 | 30.0  |
+|  Législation de l'eau | 4 | 1  |
+|  Densité au bout de la jeté | 1039.1 | 1  |
+|  Température de l'eau | 13.6 | 1  |
+
+V. 10 Janvier. 1903
+
+|  Name | Pension | Prix  |
+| --- | --- | --- |
+|  Hauteur Barometrique | 2/7.4 | 2/3.2  |
+|  Direction du vent | 2.0 | 2.8  |
+|  Force | 1/200 | 1/200  |
+|  Reg. O. (force) | 10 | 10  |
+|  Nébulosité |  |   |
+|  Reg. E. (mur) | 10 | 10  |
+|  Direction des mages | 2.0 | 2.8  |
+|  Élue tombé |  |   |
+|  Température de l'air | 13.8 | 14.9  |
+|  Hauteur de la mur | 37.3 | 18.8  |
+|  Législation de l'eau | 4 | 4  |
+|  Densité au bout de la jeté | 1039.3 | 1039.1  |
+|  Température de l'eau | 13.4 | 13.4  |

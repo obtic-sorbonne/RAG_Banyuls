@@ -1,0 +1,84 @@
+### Observations météorologiques du 15 août 1901
+
+| **Observation**                       | **Valeur**                                                                 |
+|---------------------------------------|----------------------------------------------------------------------------|
+| **Nombre de bateaux sortis**          |                           32,8                           |
+| **Température de l'air**              |                                                                             
+|   - Maxima depuis la veille           |                           30,8                           |
+|   - Minima id.                        |                           22,2                           |
+| **Température de l'eau**              |                                                                             
+|   - Maxima depuis la veille           |                                      -                                      |
+|   - Minima id.                        |                                      -                                      |
+| **Pluie tombée depuis la veille, en millim** |                           11                      |
+| **Evaporation depuis le 8 août 1901, en millim** |                           22,4                      |
+| **Direction du vent (à terre)**       |                                                                             
+|   - **à 9 h. m.**                     |                                N.E.                                 |
+|   - **à 3 h. s.**                     |                                S.S.E.                                |
+| **Force**                             |                                                                             
+|   - **à 9 h. m.**                     |                                 fort                                 |
+|   - **à 3 h. s.**                     |                                 faible                                 |
+| **Direction des nuages**              |                                                                             
+|   - **à 9 h. m.**                     |                                N.O.S.                                |
+|   - **à 3 h. s.**                     |                                 N.O.                                 |
+| **Nébulosité**                        |                                                                             
+|   - région Ouest (terre)              |                                2                            |
+|   - id. Est (mer)                     |                                6                            |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.)** |                                                                 |
+|   - **à 9 h. m.**                     |                           27,2                           |
+|   - **à 3 h. s.**                     |                           32,0                           |
+| **Agitation de l'eau**                |                                                                             
+|   - **à 9 h. m.**                     |                                     1                                     |
+|   - **à 3 h. s.**                     |                                 fort                                 |
+| **Densité de l'eau au bout de la jetée** |                                                                             
+|   - **à 9 h. m.**                     |                           1027,7                         |
+|   - **à 3 h. s.**                     |                           1027,6                         |
+| **Température**                       |                                                                             
+|   - **terraine**                      |                                                                             
+|     - **Matin**                       |                                                                             
+|       - Maxima                        |                           36,8                           |
+|       - Minima                        |                           29,8                           |
+|     - **Soir**                        |                                                                             
+|       - Maxima                        |                           42,4                           |
+|       - Minima                        |                           27,1                           |
+
+---
+
+### Observations météorologiques du 16 août 1901
+
+| **Observation**                       | **Valeur**                                                                 |
+|---------------------------------------|----------------------------------------------------------------------------|
+| **Nombre de bateaux sortis**          |                           21,7                           |
+| **Température de l'air**              |                                                                             
+|   - Maxima depuis la veille           |                           31,7                           |
+|   - Minima id.                        |                           24,1                           |
+| **Température de l'eau**              |                                                                             
+|   - Maxima depuis la veille           |                                      -                                      |
+|   - Minima id.                        |                                      -                                      |
+| **Pluie tombée depuis la veille, en millim** |                           11                      |
+| **Evaporation depuis le 1901, en millim** |                           0                      |
+| **Direction du vent (à terre)**       |                                                                             
+|   - **à 9 h. m.**                     |                                N.N.O.                                |
+|   - **à 3 h. s.**                     |                                N.O.                                 |
+| **Force**                             |                                                                             
+|   - **à 9 h. m.**                     |                                 fort                                 |
+|   - **à 3 h. s.**                     |                                      -                                      |
+| **Direction des nuages**              |                                                                             
+|   - **à 9 h. m.**                     |                                 N.N.O.                                |
+|   - **à 3 h. s.**                     |                                      -                                      |
+| **Nébulosité**                        |                                                                             
+|   - région Ouest (terre)              |                                3                            |
+|   - id. Est (mer)                     |                                0                            |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.)** |                                                                 |
+|   - **à 9 h. m.**                     |                           84,2                           |
+|   - **à 3 h. s.**                     |                                      -                                      |
+| **Agitation de l'eau**                |                                                                             
+|   - **à 9 h. m.**                     |                                 fort                                 |
+|   - **à 3 h. s.**                     |                                      -                                      |
+| **Densité de l'eau au bout de la jetée** |                                                                             
+|   - **à 9 h. m.**                     |                           1026,6                         |
+|   - **à 3 h. s.**                     |                                      -                                      |
+| **Température**                       |                                                                             
+|   - **terraine**                      |                                                                             
+|     - **Matin**                       |                                                                             
+|       - Maxima                        |                           33,3                           |
+|       - Minima                        |                           20,4                           |

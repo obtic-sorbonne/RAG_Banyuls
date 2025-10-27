@@ -1,0 +1,16 @@
+# Bate. 3 Décembre. 1900.
+
+|   | 3e Matin | 3e Soir  |
+| --- | --- | --- |
+|  Hanteur Praxometrique | 701,7 | 702,3  |
+|  Direction du vent | *nous* | *nous*  |
+|  Force | 3 | 3 fort  |
+|  Hébulosité | 0 | 0  |
+|  Rég. E. (mer) | 0 | 0  |
+|  Direction des nuages | *nous* | *nous*  |
+|  Mise tombée | 11,7 | 11,4  |
+|  Température de l'air | 33,8 | 31,0  |
+|  Hanteur de la mer | 4 | 3 fort  |
+|  Agitation de l'eau | 1028,5 | 1028,9  |
+|  Pensité de l'eau |  |   |
+|  Température de l'eau | 18,4 | 18,5  |

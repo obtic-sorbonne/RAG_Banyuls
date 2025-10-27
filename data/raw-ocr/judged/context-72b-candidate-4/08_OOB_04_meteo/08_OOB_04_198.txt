@@ -1,0 +1,15 @@
+```plaintext
+V. 9 Mars 1903
+
+|  Heure | Hauteur Barométrique | Direction du vent | Force | Nébulosité (Reg. O. (terre)) | Nébulosité (Reg. E. (mer)) | Direction des nuages | Pluie Tombée | Température de l'air | Hauteur de la mer | Agitation de l'eau | Densité au bout de la jetée | Température de l'eau |
+|--------|-----------------------|-------------------|-------|-----------------------------|-----------------------------|----------------------|--------------|----------------------|-------------------|---------------------|-----------------------------|----------------------|
+|  Matin | 760.2                | cr. o             | 15    | 0                           | 0                           | cr. o                | -            | 8.3                  | 71.0             | 3 (fort)            | 1029.1                     | 10.8                |
+|  Soir  | 760.7                | cr. o             | 4     | 0                           | 1                           | cr. o                | -            | 10.5                 | 79.5             | 3                  | 1029.8                     | 10.8                |
+
+V. 10 Mars 1903
+
+|  Heure | Hauteur Barométrique | Direction du vent | Force | Nébulosité (Reg. O. (terre)) | Nébulosité (Reg. E. (mer)) | Direction des nuages | Pluie Tombée | Température de l'air | Hauteur de la mer | Agitation de l'eau | Densité au bout de la jetée | Température de l'eau |
+|--------|-----------------------|-------------------|-------|-----------------------------|-----------------------------|----------------------|--------------|----------------------|-------------------|---------------------|-----------------------------|----------------------|
+|  Matin | 769.3                | or. cr. o         | 15    | 1 (léger)                   | 2 (léger)                   | -                    | -            | 6.9                  | 72.0             | 1                  | 1029.4                     | 11.0                |
+|  Soir  | 762.3                | cr. cr. o         | 1 (faible) | 0                           | 1                           | -                    | -            | 12.0                 | 74.5             | 1                  | 1029.3                     | 11.2                |
+```

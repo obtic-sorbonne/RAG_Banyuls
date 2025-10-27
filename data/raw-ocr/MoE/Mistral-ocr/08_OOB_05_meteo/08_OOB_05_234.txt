@@ -1,0 +1,28 @@
+|  8. 20 Avril. 1907 | Nibatin | Soir  |
+| --- | --- | --- |
+|  Hauteur Marométrique | 781.8 | 753.7  |
+|  Direction du vent | or. 0 | or. 0  |
+|  Force | 6 | 47.7at  |
+|  ( Reg. C. (tome) | 8 | 3  |
+|  ( Reg. C. (tome) | 3 | 0  |
+|  Direction des massas | or. 0 | or. 0.  |
+|  Pline tombés | 10.1 | 14.4  |
+|  Température de l'air | 10.1 | 14.4  |
+|  Hauteur de la mer | 37.7at | 3  |
+|  Définition de l'eau | 1029.4 | 1029.3  |
+|  Sensible au bout de la jetée | 12.0 | 12.3  |
+|  Température de l'eau | 12.0 | 12.3  |
+|  9. 22 Avril. 1907 | Nibatin | Soir  |
+|  Hauteur Marométrique | 76.6 | 789.3  |
+|  Direction du vent | or. 6 | 3.8  |
+|  Force | 1 | 1.6at  |
+|  ( Reg. C. (tome) | 1 | 10  |
+|  ( Reg. C. (tome) | 0 | 10  |
+|  ( Reg. 22 (mer) | 0 | 10  |
+|  Direction des massas | 12.7 | 20.0  |
+|  Pline tombés | 12.7 | 63.4  |
+|  Température de l'air | 61.1 | 63.4  |
+|  Hauteur de la mer | 2.66 | 1.6at  |
+|  Définition de l'eau | 1029.3 | 1029.3  |
+|  Sensible au bout de la jetée | 12.7 | 13.3  |
+|  Température de l'eau | 12.7 | 13.3  |

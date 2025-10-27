@@ -1,0 +1,29 @@
+| Nombre de paix de bateaux | V. 13 Avril 1907 | Matin | Soir |
+|---------------------------|------------------|-------|------|
+| Hauteur Barométrique       |                  | 752.3 | 750.7|
+| Direction du Vent          |                  | cr.o.o| S.8  |
+| Force                      |                  | 1 fort| 1 fort|
+| Des. O. (Clère)            |                  | 10    | 10   |
+| Nébulosité                 |                  |       |      |
+| Reg. ti. (mur)             |                  | 10    | 10   |
+| Direction des mages        |                  | S.O   | S.O  |
+| Pluie tombée               |                  | 11.29 | "    |
+| Température de l'air       |                  | 10.8  | 13.3 |
+| Hauteur de la mer          |                  | 38.4  | 47.7 |
+| Agitation de l'eau         |                  | 3     | 2    |
+| Densité au bout de la jetée|                  | 1029.0| 1028.9|
+| Température de l'eau       |                  | 12.7  | 12.7 |
+|                            | V. 15 Avril 1907 | Matin | Soir |
+| Hauteur Barométrique       |                  | 749.3 |      |
+| Direction du Vent          |                  | S.8   |      |
+| Force                      |                  | 1     |      |
+| Des. O. (Clère)            |                  | 10    |      |
+| Nébulosité                 |                  |       |      |
+| Reg. ti. (mur)             |                  | 10    |      |
+| Direction des mages        |                  | S.O   |      |
+| Pluie tombée               |                  | "     |      |
+| Température de l'air       |                  | 16.7  |      |
+| Hauteur de la mer          |                  | 32.9  |      |
+| Agitation de l'eau         |                  | 1 faible |      |
+| Densité au bout de la jetée|                  | 1028.9|      |
+| Température de l'eau       |                  | 13.8  |      |

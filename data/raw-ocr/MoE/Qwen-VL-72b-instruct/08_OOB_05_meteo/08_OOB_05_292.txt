@@ -1,0 +1,28 @@
+| Date       | Matin | Soir |
+|------------|-------|------|
+| 6 Septembre 1907 | 770.0 |      |
+| Hauteur Barométrique | cr.8 |      |
+| Direction du Vent | IS | 1 Fort |
+| Force | 15 |      |
+| Nébulosité (Reg. 0. Aire) | 0 |      |
+| (Reg. xi. cmr) | 0 |      |
+| Direction des nuages | " |      |
+| Pluie Tombée | " |      |
+| Température de l'air | 24.6 |      |
+| Hauteur de la mer | 79.1 |      |
+| Agitation de l'eau | 1 |      |
+| Densité au baur de la jetée | 1027.1 |      |
+| Température de l'eau | 21.1 |      |
+| 7 Septembre 1907 | 771.2 | 770.3 |
+| Hauteur Barométrique | cr.8 | S.2 |
+| Direction du Vent | IS | 2 Faible |
+| Force | 1 |      |
+| Nébulosité (Reg. 0. Aire) | 0 | 0 |
+| (Reg. xi. cmr) | 0 |      |
+| Direction des nuages | 81 | " |
+| Pluie Tombée | " |      |
+| Température de l'air | 22.8 | 27.0 |
+| Hauteur de la mer | 78.7 | 61.8 |
+| Agitation de l'eau | 1 Faible | 1 |
+| Densité au baur de la jetée | 1026.6 | 1026.6 |
+| Température de l'eau | 22.9 | 24.7 |

@@ -1,0 +1,20 @@
+# Date - 16 Décembre - 1900
+
+|  **9e Matin** | **3e Soir**  |
+| --- | --- |
+|  Hauteur Barométrique | 774,2 |  |
+|  Direction du vent | Nord |  |
+|  Force | 1 fort |  |
+|  Nébulosité | 10 |  |
+|  Rég. E. (mer) | 0 |  |
+|  Direction des nuages | Nord |  |
+|  Pluie tombée | 0 |  |
+|  Température de l'air | 4,4 |  |
+|  Hauteur de la mer | 53,9 |  |
+|  Agitation de l'eau | 1 |  |
+|  Densité de l'eau | 1029,0 |  |
+|  Température de l'eau | 14,4 |  |
+
+Densité de l'eau
+- au bout de la jetée: 1029,0
+- au large: 1029,0

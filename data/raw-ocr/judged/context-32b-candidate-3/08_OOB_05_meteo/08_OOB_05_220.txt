@@ -1,0 +1,35 @@
+```markdown
+# V. 16 Mars 1907
+
+| **Date**       | **Matin** | **Soir** |
+|----------------|-----------|----------|
+| **Hauteur barométrique** | 769.0 mmHg | - |
+| **Direction du vent** | Ouest (O) | Est-Nord-Est (ENE) |
+| **Force** | 1 | 1 |
+| **Nébulosité (Res. O. (terre))** | 0 | 0 |
+| **Nébulosité (Res. 2. (mer))** | 0 | 0 |
+| **Direction des nuages** | - | - |
+| **Pluie tombée** | - | - |
+| **Température de l'air** | 10.2 °C | - |
+| **Hauteur de la mer** | 9.2 m | - |
+| **Agitation de l'eau** | faible | - |
+| **Densité au bord de la jetée** | 1029.7 g/cm³ | - |
+| **Température de l'eau** | 10.7 °C | - |
+
+# V. 18 Mars 1907
+
+| **Date**       | **Matin** | **Soir** |
+|----------------|-----------|----------|
+| **Hauteur barométrique** | 767.1 mmHg | 766.4 mmHg |
+| **Direction du vent** | Sudoest (SO) | Sud-Est (SE) |
+| **Force** | 1 | 1 |
+| **Nébulosité (Res. O. (terre))** | 10 | 10 |
+| **Nébulosité (Res. 2. (mer))** | 10 | 10 |
+| **Direction des nuages** | Erodi | - |
+| **Pluie tombée** | - | - |
+| **Température de l'air** | 17.2 °C | 18.5 °C |
+| **Hauteur de la mer** | 9.7 m | 66.0 cm |
+| **Agitation de l'eau** | fort | fort |
+| **Densité au bord de la jetée** | 1029.7 g/cm³ | 1029.4 g/cm³ |
+| **Température de l'eau** | 11.7 °C | 12.2 °C |
+```

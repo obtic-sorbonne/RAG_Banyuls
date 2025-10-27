@@ -1,0 +1,6 @@
+| Date       | Heure  | Hauteur Barométrique | Direction du Vent | Force | Nebulose | Rég. C. (Ciel) | Rég. x (Mers) | Direction des nuages | Pluie tombée | Température de l'air | Hauteur des mers | Agitation de l'eau | Vitesse au bout de la jetée | Température de l'eau |
+|------------|--------|---------------------|-------------------|-------|----------|---------------|--------------|----------------------|-------------|----------------------|------------------|------------------|---------------------------|----------------------|
+| V. 17 juillet 1906 | Matin | 768.7 | Sud-Est | faib. | 0 | (Clair) | 0        | --             | --           | 29.0                | 46.1        | 1 (faible)          | 1027.9           | 21.9             |
+| V. 17 juillet 1906 | Soir | 767.3 | Sud-Sud-Est | fort. | 0 | -- | -- | -- | -- | 30.1 | 47.2 | / (faible) | 1027.0 | 22.0 |
+| V. 18 juillet 1906 | Matin | 767.8 | Sud-Ouest | 2 (faible) | 0 | (Clair) | 10 (léger +) | -- | -- | 27.0 | 45.2 | 1 (fort) | 1027.3 | 21.5 |
+| V. 18 juillet 1906 | Soir | 767.8 | Sud-Est | 2 (faible) | 0 | W (Paru) | -- | Sud | -- | 27.0 | 45.2 | 1 (fort) | 1027.3 | 21.5 |

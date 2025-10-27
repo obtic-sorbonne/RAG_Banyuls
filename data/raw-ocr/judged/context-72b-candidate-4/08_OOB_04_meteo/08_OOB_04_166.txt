@@ -1,0 +1,32 @@
+```plaintext
+| Date       | Matin        | Soir         |
+|------------|--------------|--------------|
+| V. 16 Xbre 1902 | | |
+| Hauteur Barométrique | 773.9 | 771.6 |
+| Direction du vent | er. or. o | er. or. o |
+| Force | 5 | 3 Petits |
+| Nebulosité | | |
+| Reg. O. (terre) | légère | légère |
+| Reg. E. (mer) | légère | légère |
+| Direction des nuages | cr. or. o | cr. or. o |
+| Pluie tombée | — | — |
+| Température de l'air | 9.9 | 12.1 |
+| Hauteur de la mer | 46.0 | 69.7 |
+| Agitation de l'eau | 3 | 3 |
+| Densité au bout de la jetée | 1029.2 | 1026.3 |
+| Température de l'eau | 13.0 | 12.7 |
+| V. 17 Xbre 1902 | | |
+| Hauteur Barométrique | 773.7 | 772.6 |
+| Direction du vent | er. or. o | er. or. o |
+| Force | 5 | 3 Petits |
+| Nebulosité | | |
+| Reg. O. (terre) | 10 | 10 |
+| Reg. E. (mer) | 10 | 10 |
+| Direction des nuages | cr. or. o | cr. or. o |
+| Pluie tombée | — | — |
+| Température de l'air | 19.4 | 19.4 |
+| Hauteur de la mer | 47.3 | 63.1 |
+| Agitation de l'eau | 2 Petits | 2 Petits |
+| Densité au bout de la jetée | 1027.0 | 1026.5 |
+| Température de l'eau | 13.4 | 13.3 |
+```

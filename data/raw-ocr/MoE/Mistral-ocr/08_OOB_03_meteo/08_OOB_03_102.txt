@@ -1,0 +1,22 @@
+# Date: 13 Janvier 1902
+
+|  |   |   |
+| --- | --- | --- |
+|  Kauteur Barometrique | 9th Moutin, 3rd Soir |   |
+|  Direction du vent | 767,7 | 767,8  |
+|  Force | 0meh | N.N.O  |
+|  17. faible | 17. faible | 17. faible  |
+|  9th Glossite | Reg. O. (tene) | 0  |
+|  Direction des nuages |  | 1  |
+|  17.7.1.1. |  | 17.7.1.1.  |
+|  9th Glossite | " Reg. E. (mer) | 1  |
+|  Direction des nuages |  | 17.7.1.1.  |
+|  17.7.1.1. 17.7.1.2. |  | 17.7.1.1.  |
+|  9th Glossite | " 6,6 | 10,3  |
+|  17.7.1.1. 17.7.1.2. |  | 17.7.1.1.  |
+|  9th Glossite | " 6,6 | 10,3  |
+|  17.7.1.1. 17.7.1.2. |  | 17.7.1.1.  |
+|  9th Glossite | " 38,6 | 14,6  |
+|  17.7.1.1. 17.7.1.2. |  | 27.7.1.1.  |
+|  9th Glossite | " faible | 27.7.1.1.  |
+|  17.7.1.1. 17.7.1.2. |  | 1028,4  |

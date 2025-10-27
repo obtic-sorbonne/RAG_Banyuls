@@ -1,0 +1,15 @@
+```plaintext
+# V. 20 février 1903
+
+|  Heure | Hauteur Barométrique | Direction du vent | Force | Nébulosité (Reg. O. (terre)) | Nébulosité (Reg. E. (mer)) | Direction des nuages | Pluie Tombée | Température de l'air | Hauteur de la mer | Agitation de l'eau | Densité au bout de la jetée | Température de l'eau |
+|--------|-----------------------|-------------------|-------|-----------------------------|-----------------------------|----------------------|--------------|----------------------|-------------------|---------------------|-----------------------------|----------------------|
+|  Matin | 778.7                | S.O.              | 15    | 0                           | 0                           | -                    | -            | 8.9                  | 80.3             | 1 (faible)          | 1028.8                     | 10.2                |
+|  Soir  | 776.3                | S.O.              | 0     | 0                           | 0                           | -                    | -            | 13.4                 | 81.8             | 1 (faible)          | 1028.4                     | 12.9                |
+
+# V. 24 février 1903
+
+|  Heure | Hauteur Barométrique | Direction du vent | Force | Nébulosité (Reg. O. (terre)) | Nébulosité (Reg. E. (mer)) | Direction des nuages | Pluie Tombée | Température de l'air | Hauteur de la mer | Agitation de l'eau | Densité au bout de la jetée | Température de l'eau |
+|--------|-----------------------|-------------------|-------|-----------------------------|-----------------------------|----------------------|--------------|----------------------|-------------------|---------------------|-----------------------------|----------------------|
+|  Matin | 771.4                | E.O.S.            | 15    | 0                           | 0                           | E.O.N.               | -            | 10.6                 | 60.7             | 1 (faible)          | 1028.6                     | 11.6                |
+|  Soir  | -                    | -                 | 2 (fort) | 0                           | -                           | -                    | -            | -                    | -                 | -                  | -                          | -                   |
+```

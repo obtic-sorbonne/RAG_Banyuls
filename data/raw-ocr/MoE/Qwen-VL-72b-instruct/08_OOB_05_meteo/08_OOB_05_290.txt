@@ -1,0 +1,31 @@
+| V. 2 Septembre 1907 | Matin | Soir |
+|---------------------|-------|------|
+| Hauteur Barométrique | 767.8 | 763.7 |
+| Direction du Vent | croix | S.E |
+| Force | 1 fort | 1 |
+| Nébulosité | 10 | 10 |
+| (Reg. c. (terre)) |  |  |
+| Nébulosité | 0 | 0 |
+| (Reg. di. (mer)) |  |  |
+| Direction des nuages | croix | S.E |
+| Pluie tombée | quelques g | quelques g |
+| Température de l'air | 24.0 | 21.3 |
+| Hauteur de la mer | 13.7 | 14.3 |
+| Agitation de la mer | 1 fort | 1 |
+| Densité au bord de la jetée | 1027.9 | 1027.9 |
+| Température de l'eau | 21.7 | 22.3 |
+| V. 3 Septembre 1907 | Matin | Soir |
+| Hauteur Barométrique |  | 762.6 |
+| Direction du Vent | croix | croix |
+| Force | 1 | 1 |
+| Nébulosité | 10 | 10 |
+| (Reg. c. (terre)) |  |  |
+| Nébulosité | 0 | 0 |
+| (Reg. di. (mer)) |  |  |
+| Direction des nuages | croix | croix |
+| Pluie tombée |  |  |
+| Température de l'air | 29.6 | 29.6 |
+| Hauteur de la mer | 43.2 | 43.2 |
+| Agitation de la mer | 1 fort | 1 fort |
+| Densité au bord de la jetée | 1027.6 | 1027.6 |
+| Température de l'eau | 21.9 | 21.9 |

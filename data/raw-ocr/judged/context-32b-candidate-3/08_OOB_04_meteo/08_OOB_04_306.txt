@@ -1,0 +1,31 @@
+V. 26 Novembre 1903
+
+|  Hauteur Barométrique | Matin | Soir  |
+| --- | --- | --- |
+|  Direction du vent | 769,6 | 769,0  |
+|  Force | 68,6 | 68,6  |
+|  Reg. O. (terre) | 10 | 10  |
+|  Reg. F. (mer) | 10 | 10  |
+|  Direction des nuages | 63,8 | 61,7  |
+|  Pluie tombée |  |  |
+|  Température de l'air | 13,8 | 13,7  |
+|  Hauteur de la mer | 1029,0 | 1029,2  |
+|  Agitation de l'eau |  |  |
+|  Densité au bout de la jetée |  |  |
+|  Température de l'eau |  |  |
+
+V. 27 Novembre 1903
+
+|  Hauteur Barométrique | Matin | Soir  |
+| --- | --- | --- |
+|  Direction du vent | 768,0 | 767,7  |
+|  Force | 68,4 | 60,0  |
+|  Reg. O. (terre) | 3 | 1  |
+|  Reg. F. (mer) | 10 | 10  |
+|  Direction des nuages | 68,4 | 60,0  |
+|  Pluie tombée | 11,6 | 13,4  |
+|  Température de l'air | 64,4 | 60,0  |
+|  Hauteur de la mer | 3 font | 3 fonts  |
+|  Agitation de l'eau |  |  |
+|  Densité au bout de la jetée | 1029,2 | 1029,3  |
+|  Température de l'eau | 14,8 | 14,1  |

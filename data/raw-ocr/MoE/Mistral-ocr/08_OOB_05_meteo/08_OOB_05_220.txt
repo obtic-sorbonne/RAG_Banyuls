@@ -1,0 +1,27 @@
+|  17.16 Mbars. 1907 | Mbatin | 5000  |
+| --- | --- | --- |
+|  Hantum Warométrique | 269.0 |   |
+|  Direction du vent | 8.00.8 |   |
+|  Force | 1 |   |
+|  Mesurite | 0 |   |
+|  (Reg. 20 (nur) | 0 |   |
+|  Direction des nuages |  |   |
+|  Flux tombé |  |   |
+|  Température de l'air | 10.2 |   |
+|  Hantum de la mer | 12.2 |   |
+|  Agitation de l'eau | 2.50.0 |   |
+|  Densité au bout de la jeté | 1089.2 |   |
+|  Température de l'eau | 10.2 |   |
+|  17.18 Mbars. 1907 | Mbatin | 5000  |
+|  Hantum Warométrique | 269.1 | 266.4  |
+|  Direction du vent | 1.80.0 | 5.8  |
+|  Force | 1.80.0 | 1.80.0  |
+|  Mesurite | 1.80.0 (nur) | 10  |
+|  (Reg. 20 (nur) | 10.20.0 | 10  |
+|  Direction des nuages | 10.20.0 | 10.20.0  |
+|  Flux tombé |  |   |
+|  Température de l'air | 11.2 | 18.2  |
+|  Hantum de la mer | 12.2 | 16.0  |
+|  Agitation de l'eau | 1.80.0 | 1.80.0  |
+|  Densité au bout de la jeté | 1089.2 | 1089.2  |
+|  Température de l'eau | 11.2 | 18.2  |

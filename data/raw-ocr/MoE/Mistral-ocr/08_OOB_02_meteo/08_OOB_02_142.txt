@@ -1,0 +1,17 @@
+# Date: 2 Juillet 1901
+
+|   | 9th Britain | 3rd Soir  |
+| --- | --- | --- |
+|  Kanteur Praxometrique | £5.5 | £64.5  |
+|  Direction du vent | N.N.O | N.N.O  |
+|  Force | 4 fort | 5 faille  |
+|  Pédulorite | Reg. 6 (terre) |   |
+|  Pédulorite | Reg. 2 (mer) |   |
+|  Direction des nuages | N.N.O | N.N.O  |
+|  Brise tombée |  |   |
+|  Température de l'air | 34.1 | 36.3  |
+|  Kanteur de la mer | 18.6 | 67.1  |
+|  Opitation de l'eau | 3 | 3 fort  |
+|  Densité de l'eau | 102.7 | 102.7  |
+|  |   |   |
+|  Température de l'eau | 31.0 | 31.4  |

@@ -1,0 +1,53 @@
+```plaintext
+### OBSERVATIONS DU 1902, 9 JANVIER
+
+| **Nombre de bateaux sortis (pêche à l.)** | 13,3 |
+| **Température de l'air** |  |
+| - **maxima depuis la veille** | 13,3 |
+| - **minima id.** | 9,1 |
+| **Température de l'eau** |  |
+| - **maxima depuis la veille** | *non mentionnée* |
+| - **minima id.** | *non mentionnée* |
+| **Pluie tombée depuis la veille, en millim.** | 11 |
+| **Évaporation depuis le 1901, en millim.** | *non mentionnée* |
+| **Direction du vent (à terre)** |  |  |
+| - **à 9 h. m.** | N.O. |
+| - **à 3 h. s.** | N.O. |
+| - **Force** | 2 | 1 fort |
+| - **Direction des nuages** | N.O. | N.O. |
+| **Nébulosité** |  |  |
+| - **région Ouest (terre)** | 60 | 60 |
+| - **id. Est (mer)** | 60 | 60 |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.)** | 30,5 | 38,4 |
+| **Agitation de l'eau** | 1 fort | 2 fort |
+| **Densité de l'eau au bout de la jetée** | 1028,1 | 1028,1 |
+| **Température id.** | 13,13 | 13,13 |
+| - **is. Terrasse Matin (maxima - minima)** | 23,0 / 8,2 | 23,0 / 8,1 |
+| - **is. - is. - Soir (maxima - minima)** | 21,4 / 12,7 |  |
+
+### OBSERVATIONS DU 1902, 10 JANVIER
+
+| **Nombre de bateaux sortis (pêche à l.)** | 13,3 |
+| **Température de l'air** |  |
+| - **maxima depuis la veille** | 13,3 |
+| - **minima id.** | 9,0 |
+| **Température de l'eau** |  |
+| - **maxima depuis la veille** | *non mentionnée* |
+| - **minima id.** | *non mentionnée* |
+| **Pluie tombée depuis la veille, en millim.** |  |
+| **Évaporation depuis le 1901, en millim.** | *non mentionnée* |
+| **Direction du vent (à terre)** |  |  |
+| - **à 9 h. m.** | Nord |
+| - **à 3 h. s.** | Nord |
+| - **Force** | 1 fort | 1 |
+| - **Direction des nuages** | N.O. | N.O. |
+| **Nébulosité** |  |  |
+| - **région Ouest (terre)** | 1 | 60 |
+| - **id. Est (mer)** | 2 | 60 |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.)** | 31,8 | 39,2 |
+| **Agitation de l'eau** | 2 fort | 1 fort |
+| **Densité de l'eau au bout de la jetée** | 1028,5 | 1028,0 |
+| **Température id.** | 13,13 | 13,12 |
+| - **is. Terrasse Matin (maxima - minima)** | 16,7 / 9,0 | 21,4 / 12,7 |
+| - **is. - is. - Soir (maxima - minima)** |  |  |
+```

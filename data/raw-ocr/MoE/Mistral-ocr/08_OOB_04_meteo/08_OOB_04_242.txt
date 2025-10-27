@@ -1,0 +1,35 @@
+# 9. 17 Juin - 1903
+
+|  **Plauteur** | **Neur** | **Prix**  |
+| --- | --- | --- |
+|  Hauteur macrométrique | 253.4 | 250.2  |
+|  Direction du vent | 80° | 28°  |
+|  Force | 160 | 260  |
+|  (Rég. O - (titre)) | (260 m²) | 10  |
+|  (Plauréat) |  |   |
+|  (Rég. X - (mur)) | (260 m²) | 10  |
+|  Direction des nuages | " | 0.0  |
+|  (Titre tombé) |  |   |
+|  (Composé) | 18.0 | 24.3  |
+|  (Tête) | 18.0 | 49.3  |
+|  (Agitation de l'eau) | 18.0 | 1  |
+|  Densité au bout de la jeté | 1025.8 | 1025.8  |
+|  (Composé) | 18.3 | 12.2  |
+
+# 18 Juin - 1903
+
+|  **Plauteur** | **Neur** | **Prix**  |
+| --- | --- | --- |
+|  Hauteur macrométrique | 265.3 | 264.4  |
+|  Direction du vent | 2.0 | 4.0  |
+|  Force | 2 | 3  |
+|  (Rég. O - (titre)) | (10) | 10  |
+|  (Titre tombé) |  |   |
+|  (Rég. X - (mur)) | 10 | 10  |
+|  Direction des nuages | 2.0 | 4.0  |
+|  (Titre tombé) |  |   |
+|  (Composé) | 21.5 | 28.3  |
+|  (Tête) | 42.0 | 42.0  |
+|  (Agitation de l'eau) | 16.0 | 2  |
+|  Densité au bout de la jeté | 1022.2 | 1022.3  |
+|  (Composé) | 12.2 | 12.3  |

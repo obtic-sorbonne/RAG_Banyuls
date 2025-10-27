@@ -1,0 +1,17 @@
+| **Paramètre**                               | **9H Matin** | **19H Soir** |
+|-------------------------------------------|-------------|--------------|
+| Hauteur Barométrique                        | 761.5       | 761.7        |
+| Direction du vent                          | N.E         | S.E          |
+| Force                                      | 1           | 2            |
+| Nébulosité (en dixièmes)                    |             |              |
+|   - Reg. O. (tero)                         | 10          | 10           |
+|   - Reg. E. (mer)                          | 10          | 10           |
+| Direction des nuages                       | Ouest       | Sud          |
+| Pluie tombée                               |             |              |
+| Température de l'air (°C)                  | 6.4         | 8.7          |
+| Teneur de la mer                          |             |              |
+|   - agglomération de l'eau                 | 1           | 1            |
+| Densité de l'eau                           |             |              |
+|   - au bord de la jetée                    | 55.3        | 50.4         |
+|   - au large                              |             |              |
+| Température de l'eau (°C)                  | 10.5        | 10.5         |

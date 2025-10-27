@@ -1,0 +1,32 @@
+```
+| **Date**       | **Matin** | **Soir** |
+|----------------|-----------|----------|
+| **12 juin 1903** |           |          |
+| Hauteur Barométrique | 761.3 | 761.1   |
+| Direction du vent   | E. O.  | S. O.   |
+| Force                | 3     | 1       |
+| Nébulosité           |       |         |
+|   Reg. O. (terre)    | 10    | 10      |
+|   Reg. E. (mer)      | 10    | 10      |
+| Direction des nuages  | E. O. | —       |
+| Pluie tombée         | quelques g | quelques g |
+| Température de l'air  | 18.3  | 16.6    |
+| Hauteur de la mer     | 37.1  | 48.1    |
+| Agitation de l'eau    | 2 Faible | 1       |
+| Densité au bout de la jetée | 1027.0 | 1027.3 |
+| Température de l'eau  | 17.3  | 17.2    |
+| **13 juin 1903** |           |          |
+| Hauteur Barométrique | 760.7 | —       |
+| Direction du vent   | E. O.  | —       |
+| Force                | 3     | —       |
+| Nébulosité           |       |         |
+|   Reg. O. (terre)    | 10    | —       |
+|   Reg. E. (mer)      | 10    | —       |
+| Direction des nuages  | N. O. | —       |
+| Pluie tombée         | quelques g | —     |
+| Température de l'air  | 18.4  | —       |
+| Hauteur de la mer     | 40.1  | —       |
+| Agitation de l'eau    | 2 Faible | —      |
+| Densité au bout de la jetée | 1027.1 | — |
+| Température de l'eau  | 17.0  | —       |
+```

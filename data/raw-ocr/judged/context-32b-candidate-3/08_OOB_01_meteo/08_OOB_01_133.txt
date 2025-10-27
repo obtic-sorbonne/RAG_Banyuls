@@ -1,0 +1,22 @@
+# Date. 6 Décembre. 1900.
+
+|  9e Matin | 3e Soir  |
+| --- | --- |
+|  Hauteur Barométrique | 755,2 | 752,8  |
+|  Direction du vent | 1000 | 1000  |
+|  Force | 1 fort | 1 faille  |
+|  Nébulosité | 1 feyn. couronet | 1 feyn. couronet  |
+|  Rég. E. (mer) | 1 feyn. couronet | 1 feyn. couronet  |
+|  Direction des nuages | 1000 | 1000  |
+|  Pluie tombée | 11,4 | 11,8  |
+|  Température de l'air | 49,9 | 50,0  |
+|  Hauteur de la mer | 1 faille | 1 faille  |
+|  Agitation de l'eau | 1028,7 | 1028,7  |
+|  Densité de l'eau | 13,7 | 14,8  |
+
+Sauteur de la mer
+
+Densité de l'eau
+- au bout de la jetée: 1028,5
+
+Température de l'eau

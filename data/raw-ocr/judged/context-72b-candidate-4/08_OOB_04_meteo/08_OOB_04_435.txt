@@ -1,0 +1,31 @@
+```plaintext
+| 25 Octobre 1904 | Matin | Soir |
+|---|---|---|
+| Hauteur Barométrique | 768,2 | 766,8 |
+| Direction du vent | "" | E.V.O. |
+| Force | 1 | 1 |
+| Nébulosité | Rég. O. (terre): 10 dég. est. | Rég. O. (terre): 10 dég. est. |
+| | Rég. E. (mer): 10 dég. est. | Rég. E. (mer): 10 dég. est. |
+| Direction des nuages | "" | "" |
+| Pluie tombée | 17,6 | 20,6 |
+| Température de l'air | 27,6 | 20,6 |
+| Hauteur de la mer | 49,0 | 49,1 |
+| Agitation de l'eau | faible | T. faible |
+| Densité au bout de la jetée | 1028,3 | 1028,0 |
+| Température de l'eau | 18,4 | 19,7 |
+
+| 26 Octobre 1904 | Matin | Soir |
+|---|---|---|
+| Hauteur Barométrique | 767,8 | 766,0 |
+| Direction du vent | cr.cr.o | E.V.O. |
+| Force | 1 | 3 faible |
+| Nébulosité | Rég. O. (terre): W | Rég. O. (terre): O |
+| | Rég. E. (mer): W | Rég. E. (mer): 2 |
+| Direction des nuages | Est | "" |
+| Pluie tombée | quelques g | "" |
+| Température de l'air | 21,8 | 24,4 |
+| Hauteur de la mer | 44,1 | 61,5 |
+| Agitation de l'eau | fort | 2 |
+| Densité au bout de la jetée | 1028,9 | 1028,2 |
+| Température de l'eau | 18,2 | 18,9 |
+```

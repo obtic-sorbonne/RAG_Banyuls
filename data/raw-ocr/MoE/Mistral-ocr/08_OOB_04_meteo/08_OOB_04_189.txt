@@ -1,0 +1,33 @@
+# 9. 6 février. 1903
+
+|  Nom | Date  |
+| --- | --- |
+|  Hauteur Branonvetrique | 769.2  |
+|  Direction du vent | 0.70  |
+|  Force | 1,50m  |
+|  Rég. G. (1ème) | 1  |
+|  Débitosité (Rég. X. (mur)) | 1  |
+|  Direction des nuages | 0.70  |
+|  Huie tombe | 0  |
+|  Température de l'air | 9.2  |
+|  Hauteur de la mer | 67.1  |
+|  Égitation de l'eau | 17.9  |
+|  Densité au bout de la jeté | 1029.6  |
+|  Température de l'eau | 10.1  |
+
+# 10 février. 1903
+
+|  Nom | Date  |
+| --- | --- |
+|  Hauteur Branonvetrique | 77.6  |
+|  Direction du vent | or. or.  |
+|  Force | 2  |
+|  Rég. G. (1ème) | 0  |
+|  Débitosité (Rég. X. (mur)) | 0  |
+|  Direction des nuages | 1  |
+|  Huie tombe | 14.7  |
+|  Température de l'air | 14.7  |
+|  Hauteur de la mer | 69.2  |
+|  Égitation de l'eau | 1  |
+|  Densité au bout de la jeté | 1029.2  |
+|  Température de l'eau | 14.2  |

@@ -1,0 +1,28 @@
+|  | Matin | Soir |
+| --- | --- | --- |
+| V.27 Juillet -1905 |  |  |
+| Hauteur Barometrique | 76/.3 | 764./ |
+| Direction du vent | S.S.E | S.S.E |
+| Force | is | 2 fort |
+| Des .O.(km) | o | o |
+| Nébulosite | Reg.ti.(mr) | o | o |
+| Direction des nuages | " | " |
+| Pluie tombée | " | " |
+| Température de l'air | 29.2 | 32.o |
+| Hauteur de la mer | /2./ | +1.7 |
+| Agitation de l'eau | 1fort | 2 |
+| Ventité au bout de la jetée | 1026./ | 102/.9 |
+| Température de l'eau | 2/.7 | 2/.6 |
+| V.28 Juillet-1905 | Matin | Soir |
+| Hauteur Barometrique | 766.o | 76/./ |
+| direction du vent | E.S.E | " |
+| Force | is | 1 | o |
+| Des .o. (km) | légère | lo |
+| Nébulosite | Reg.ti.(mr) | dispersee | 10 |
+| Direction des nuages | y | ouest- |
+| Pluie tombée | " | quelques g |
+| Température de l'air | 26.3 | 27.2 |
+| Hauteur de la mer | /1.3 | 42.8 |
+| Agitation de l'eau | faible | faible |
+| Ventité au bout de la jetée | 1026.o | 102/.6 |
+| Température de l'eau | 23.o | 27.1 |

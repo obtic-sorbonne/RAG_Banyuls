@@ -1,0 +1,33 @@
+# V. 23 Oct 1902
+
+|  Name | Position | V.  |
+| --- | --- | --- |
+|  Yantier Mranométrique | 785.4 | 77.3  |
+|  Direction du vent | 804 | 77.8  |
+|  Force | 15 | 2  |
+|  Néelbutoïde | 0 | 0  |
+|  (Reg. O. (m) | 0 | 0  |
+|  Direction des nuages | 7.8 | 0  |
+|  Flux tombe | 0 | 0  |
+|  Température de l'air | 22.2 | 27.6  |
+|  Yantier de la mer | 41.8 | 12.2  |
+|  Éligitation de l'eau | 1 faible | 1  |
+|  Densité au bout de la jetée | 1027.4 | 1027.1  |
+|  Température de l'eau | 22.2 | 22.3  |
+
+# V. 24 Oct 1902
+
+|  Name | Position | V.  |
+| --- | --- | --- |
+|  Yantier Mranométrique | 784.0 | 77.0  |
+|  Direction du vent | 0.0 | 0.0  |
+|  Force | 15 | 2  |
+|  Néelbutoïde | 0 | 0  |
+|  (Reg. O. (m) | 10 | 10  |
+|  Direction des nuages | 0.0 | 0.0  |
+|  Flux tombe | 0.0 | 0.0  |
+|  Température de l'air | 20.0 | 20.0  |
+|  Yantier de la mer | 38.7 | 38.7  |
+|  Éligitation de l'eau | 2 faible | 2  |
+|  Densité au bout de la jetée | 1027.7 | 1027.7  |
+|  Température de l'eau | 21.7 | 21.7  |

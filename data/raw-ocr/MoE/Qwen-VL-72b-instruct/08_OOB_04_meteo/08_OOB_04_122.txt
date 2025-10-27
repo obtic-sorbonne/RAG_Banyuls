@@ -1,0 +1,26 @@
+| **Date** | **Heure** | **Paramètre** | **Valeur** |
+|----------|-----------|---------------|-----------|
+| V. 17 Août. 1902 | Matin | Hauteur Barométrique | 764.2 |
+| V. 17 Août. 1902 | Matin | Direction du vent | est. or.E |
+| V. 17 Août. 1902 | Matin | Force | 1/5 |
+| V. 17 Août. 1902 | Matin | Nébulosité | 0 |
+| V. 17 Août. 1902 | Matin | Direction des mers | sud |
+| V. 17 Août. 1902 | Matin | Pluie tombée | 0 |
+| V. 17 Août. 1902 | Matin | Température de l'air | 22.0 |
+| V. 17 Août. 1902 | Matin | Hauteur de la mer | 49.0 |
+| V. 17 Août. 1902 | Matin | Agitation de l'eau | 1 fort |
+| V. 17 Août. 1902 | Matin | Densité au bout de la jetée | 1027.7 |
+| V. 17 Août. 1902 | Matin | Température de l'eau | 21.0 |
+| **Date** | **Heure** | **Paramètre** | **Valeur** |
+|----------|-----------|---------------|-----------|
+| V. 18 Août. 1902 | Matin | Hauteur Barométrique | 766.5 | 764.3 |
+| V. 18 Août. 1902 | Matin | Direction du vent | S.E | S.S.E |
+| V. 18 Août. 1902 | Matin | Force | 1/5 | 2 |
+| V. 18 Août. 1902 | Matin | Nébulosité | 0 | 0 |
+| V. 18 Août. 1902 | Matin | Direction des mers | sud |
+| V. 18 Août. 1902 | Matin | Pluie tombée | 0 | 0 |
+| V. 18 Août. 1902 | Matin | Température de l'air | 28.3 | 26.6 |
+| V. 18 Août. 1902 | Matin | Hauteur de la mer | 48.1 | 47.8 |
+| V. 18 Août. 1902 | Matin | Agitation de l'eau | 1 T. Fort | 1 fort |
+| V. 18 Août. 1902 | Matin | Densité au bout de la jetée | 1027.1 | 1027.0 |
+| V. 18 Août. 1902 | Matin | Température de l'eau | 22.4 | 21.8 |

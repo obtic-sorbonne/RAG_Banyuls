@@ -1,0 +1,31 @@
+```plaintext
+| V. 12 Octobre - 1904 | Matin | Soir |
+|---|---|---|
+| Hauteur Barométrique | 766,3 | 766,4 |
+| Direction du vent | cr.o.s | cr.o. |
+| Force | 1 fort | 1 |
+| Nébulosité Reg. O. (terre) | 0 | 0 |
+| Nébulosité Reg. E. (mer) | 0 | 0 |
+| Direction des nuages | " | " |
+| Pluie tombée | " | " |
+| Température de l'air | 14,2 | 17,6 |
+| Hauteur de la mer | 32,8 | 50,0 |
+| Agitation de l'eau | 2 fort | 3 |
+| Densité au bout de la jetée | 1028,1 | 1028,4 |
+| Température de l'eau | 18,2 | 18,0 |
+
+| V. 13 Octobre - 1904 | Matin | Soir |
+|---|---|---|
+| Hauteur Barométrique | 769,3 | 767,0 |
+| Direction du vent | cr.cr.o | S.E. |
+| Force | 1 | 1 |
+| Nébulosité Reg. O. (terre) | 0 | 0 |
+| Nébulosité Reg. E. (mer) | 10 | 1 |
+| Direction des nuages | 8 | " |
+| Pluie tombée | " | " |
+| Température de l'air | 19,2 | 17,0 |
+| Hauteur de la mer | 36,1 | 48,2 |
+| Agitation de l'eau | 3 | 2 fort |
+| Densité au bout de la jetée | 1028,4 | 1028,1 |
+| Température de l'eau | 19,0 | 18,1 |
+```

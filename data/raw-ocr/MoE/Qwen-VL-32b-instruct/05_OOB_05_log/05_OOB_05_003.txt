@@ -1,0 +1,3 @@
+Le document est vide. 
+
+Renvoie : ""

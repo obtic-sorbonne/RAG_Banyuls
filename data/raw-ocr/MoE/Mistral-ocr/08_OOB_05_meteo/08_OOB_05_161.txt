@@ -1,0 +1,27 @@
+|  V. 15 Octobre. 1906 | Mbatue | Poir  |
+| --- | --- | --- |
+|  Hautaw Maromehique |  | 2/2.8  |
+|  Direction du vent |  | or. 0  |
+|  Force | 15 | 5  |
+|  Nibutovite | Reg. o. (mer) | 10  |
+|   |  | 10  |
+|  Direction des massas |  | or. 8  |
+|  Phie tombe |  | 2.3  |
+|  Température de l'air |  | 13.2  |
+|  Hauteur de la mer |  | 5  |
+|  Agitation de l'eau |  | 3  |
+|  Densité au bout de la jetée |  | 5  |
+|  Température de l'eau |  | 5  |
+|  V. 16 Octobre - 1906 | Mbatue | Poir  |
+|  Hautaw Maromehique | 261.0 | 262.6  |
+|  Direction du vent | or.0.0 | or.0.0  |
+|  Force | 4 | 3  |
+|  Nibutovite | Reg. o. (mer) | 10  |
+|   |  | 10  |
+|  Direction des massas |  | 8.0x8  |
+|  Phie tombe |  | 11  |
+|  Température de l'air |  | 19.2  |
+|  Hauteur de la mer |  | 42.8  |
+|  Agitation de l'eau |  | 4.8  |
+|  Densité au bout de la jetée |  | 1028.4  |
+|  Température de l'eau |  | 18.4  |

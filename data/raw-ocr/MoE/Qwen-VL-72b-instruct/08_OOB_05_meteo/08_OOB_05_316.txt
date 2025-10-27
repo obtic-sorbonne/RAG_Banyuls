@@ -1,0 +1,31 @@
+| V. 11 Novembre - 1907 | Matin | Soir |
+|-----------------------|-------|------|
+| Hauteur Barométrique  | 760,0 | 778,0 |
+| Direction du Vent     | S.E   | S.S.O |
+| Force                 | 2 fort | 2 fort |
+| Reg. C. (clère)       | 10    | 10    |
+| Nébulosité            |       |       |
+| Res. T. (mur)         | 0     | 0     |
+| Direction des nuages  | S.E   | S.O   |
+| Pluie tombée          | 9,4   | 4,7   |
+| Température de l'air  | 18,0  | 19,8  |
+| Hauteur de la mer     | 1,0   | 1,0   |
+| Agitation de l'eau    | 4     | 4     |
+| Densité au bord de la jetée | 3 | 3 |
+| Température de l'eau  |       |       |
+
+| V. 12 Novembre - 1907 | Matin | Soir |
+|-----------------------|-------|------|
+| Hauteur Barométrique  | 759,3 | 760,4 |
+| Direction du Vent     | E.N.E | E.N.E |
+| Force                 | 2     | 3 fort |
+| Reg. C. (clère)       | 2     | 2     |
+| Nébulosité            |       |       |
+| Res. d. (cum.)        | 3     | 2     |
+| Direction des nuages  | S.O   | E.N.E |
+| Pluie tombée          | "     | "     |
+| Température de l'air  | 16,8  | 16,2  |
+| Hauteur de la mer     | 1,0   | 1,0   |
+| Agitation de l'eau    | 2     | 2     |
+| Densité au bord de la jetée | 1024,8 | 1024,8 |
+| Température de l'eau  | 17,6  | 17,4  |

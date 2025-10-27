@@ -1,0 +1,29 @@
+| V. 16 Juin 1907 | Matin | Soir |
+|-----------------|-------|------|
+| Hauteur Barométrique | 766,7 | 766,4 |
+| Direction du Vent | E.V.N.O | E.V.N.S |
+| Force | 4 | 2 fort |
+| Nébulosité | 1 | 2 |
+| (Reg. o. (terre)) | 2 | 0 |
+| Direction des nuages | E.V.N.O | E.V.N.S |
+| Pluie tombée | " | " |
+| Température de l'air | 21,2 | 26,3 |
+| D'anteur de la mer | 12,4 | 12,0 |
+| Agitation de l'eau | 3 | 2 |
+| Vensité au tour de la jetée | 1028,0 | 1027,4 |
+| Température de l'eau | 16,8 | 17,8 |
+
+| V. 17 Juin 1907 | Matin | Soir |
+|-----------------|-------|------|
+| Hauteur Barométrique | 766,0 | 764,8 |
+| Direction du Vent | E.V.N.E | S.V.S |
+| Force | 5 | 1 fort |
+| Nébulosité | 0 | 1 |
+| (Reg. o. (terre)) | 0 | 0 |
+| Direction des nuages | " | " |
+| Pluie tombée | " | " |
+| Température de l'air | 21,9 | 28,7 |
+| D'anteur de la mer | 16,2 | 17,4 |
+| Agitation de l'eau | 1 fort | 2 |
+| Vensité au tour de la jetée | 1027,9 | 1027,4 |
+| Température de l'eau | 18,1 | 20,0 |

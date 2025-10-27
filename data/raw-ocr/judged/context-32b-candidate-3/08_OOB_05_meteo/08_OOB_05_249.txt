@@ -1,0 +1,15 @@
+```markdown
+# 25 Mai 1907
+
+| **Date**       | **Heure** | **Hauteur Barométrique** | **Direction du Vent** | **Force** | **Nébulosité (0/10)** | **Réglage**  | **Direction des nuages** | **Pluie tombée** | **Température de l'air** | **Hauteur de la mer (cm)** | **Agitation de l'eau** | **Densité au bout de la jetée** | **Température de l'eau** |
+|----------------|-----------|--------------------------|-----------------------|-----------|-----------------------|---------------|--------------------------|------------------|--------------------------|----------------------------|-----------------------|-------------------------------|--------------------------|
+| 25 Mai 1907    | **Matin** | 762.2 mmHg               | Centro-Ouest           | 15         | 10 (Couvert)           | 4 fort        | Centro-Ouest              | quelques g       | 18.2 °C                  | 42.0 cm                    | 2                     | 1028.0 g/cm³                 | 17.0 °C                 |
+| 25 Mai 1907    | **Soir**  | 768.0 mmHg               | Ouest                  | 2         | 10 (Couvert)           | 4 fort        | Sud-Ouest                | 11 mm            | 21.6 °C                  | 41.8 cm                    | 2 faible              | 1028.8 g/cm³                 | 17.9 °C                 |
+
+# 27 Mai 1907
+
+| **Date**       | **Heure** | **Hauteur Barométrique** | **Direction du Vent** | **Force** | **Nébulosité (0/10)** | **Réglage**  | **Direction des nuages** | **Pluie tombée** | **Température de l'air** | **Hauteur de la mer (cm)** | **Agitation de l'eau** | **Densité au bout de la jetée** | **Température de l'eau** |
+|----------------|-----------|--------------------------|-----------------------|-----------|-----------------------|---------------|--------------------------|------------------|--------------------------|----------------------------|-----------------------|-------------------------------|--------------------------|
+| 27 Mai 1907    | **Matin** | 762.2 mmHg               | Centro-Ouest           | 15         | 10 (Couvert)           | 4 fort        | Sud-Ouest                | 11 mm            | 24.0 °C                  | 39.1 cm                    | 1 fort                | 1027.3 g/cm³                 | 16.9 °C                 |
+| 27 Mai 1907    | **Soir**  | 761.0 mmHg               | Sud-Ouest              | 1         | 10 (Couvert)           | 4 fort        | Sud-Ouest                | 11 mm            | 26.6 °C                  | 47.9 cm                    | 1 faible              | 1026.6 g/cm³                 | 19.2 °C                 |
+```

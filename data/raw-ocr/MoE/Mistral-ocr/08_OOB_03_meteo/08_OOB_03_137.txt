@@ -1,0 +1,17 @@
+# Date: 1er Mars: 1902
+
+|  Name | Date  |
+| --- | --- |
+|  Yauteur Barometrique | 3rd Jan  |
+|  Direction du vent | 1/2.2  |
+|  Force | 3  |
+|  N'Gulosite | 3 Jan  |
+|  N'Gulosite | 1 Jan  |
+|  Direction des nuages | 1 Jan  |
+|  Mise tombée | 14.0  |
+|  Température de l'air | 22.6  |
+|  Yauteur de la mer | 1  |
+|  Égitation de l'eau | 1  |
+|  Densité de l'eau | 1029.0  |
+|  |   |
+|  Température de l'eau | 10.8  |

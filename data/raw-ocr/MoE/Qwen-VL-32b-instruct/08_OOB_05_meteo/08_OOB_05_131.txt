@@ -1,0 +1,23 @@
+| Date et heure | 9h (Matin) | 17h (Soir) |
+|----------------|------------|------------|
+| Hauteur barométrique (mmHg) | 768,6 | 766,2 |
+| Direction du vent | orv. 8 | s. s. 8 |
+| Force du vent | 14 | 14 |
+| Clarté céleste (dégradé cour, cm) | 10 | 2 |
+| Pluie tombée (mm) | 0 | 0 |
+| Température de l'air (°C) | 24,0 | 28,0 |
+| Hauteur de la mer (cm) | 54,0 | 48,3 |
+| GrMathr-gré | à Millège | 20,0 | 24,2 |
+
+| Date et heure | 9h (Matin) | 17h (Soir) |
+|----------------|------------|------------|
+| Hauteur barométrique (mmHg) | 766,7 | 769,1 |
+| Direction du vent | s.s. 8 | s.s. 8 |
+| Force du vent | 15 | 15 |
+| Clarté céleste (dégradé cour) | 0 | 0 |
+| Pluie tombée (mm) | 0 | 0 |
+| Température de l'air (°C) | 24,6 | 32,2 |
+| Hauteur de la mer (m) | 1,0 | 0,0 |
+| Agitation de l'eau | faille | falle |
+| Densité au bout de la jetée (kg/m³) | 1027,9 | 1026,8 |
+| Température de l'eau (°C) | 21,7 | 23,9 |

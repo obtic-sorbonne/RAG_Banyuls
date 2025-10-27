@@ -1,0 +1,8 @@
+```
+| Date       | Heure | Hauteur Barométrique | Direction du vent | Force | Nébulosité | Direction des nuages | Pluie tombée | Température de l'air | Hauteur de la mer | Agitation de l'eau | Densité au bout de la jetée | Température de l'eau |
+|------------|-------|---------------------|--------------------|-------|------------|----------------------|--------------|---------------------|-------------------|--------------------|---------------------------|-----------------------|
+| 10 mai 1903 | Matin | 760.3               | Sud                | 1/5   | Reg. 6 (loint.) |                      | "           | 20.6                | 45.8              | 1                  | 1026.9                   | 17.0                  |
+| 10 mai 1903 | Soir  |                     | Sud-Est            | 1/5   | Reg. 2 (mur) |                      |              |                     | 39.8              | 1                  | 1026.9                   |                       |
+| 11 mai 1903 | Matin | 760.9               | Sud-Est            | 1/5   | Reg. 6 (loint.) | Sud                 | "           | 23.0                | 39.8              | 1                  | 1027.2                   | 19.0                  |
+| 11 mai 1903 | Soir  |                     | Sud-Est            |       | Reg. 2 (mur) |                      |              |                     | 39.8              | 1                  | 1027.2                   |                       |
+```

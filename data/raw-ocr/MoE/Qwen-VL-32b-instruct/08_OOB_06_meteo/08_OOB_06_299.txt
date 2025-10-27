@@ -1,0 +1,14 @@
+| **Date** | **Nombre de bateaux sortis** | **T° de l'air (maxima)** | **T° de l'air (minima)** | **T° de l'eau (maxima)** | **T° de l'eau (minima)** | **Pluie tombée (mm)** | **Evaporation (mm)** | **Direction du vent (9 h)** | **Force (9 h)** | **Direction des nuages (9 h)** | **Nébulosité (Ouest)** | **Nébulosité (Est)** | **Hauteur de la mer (cm)** | **Agitation de l'eau (9 h)** | **Densité de l'eau (9 h)** | **T° densité d'eau (9 h)** | **T° densité d'eau (3 h)** | **T° densité d'eau (soir)** |
+|---------|---------------------------|--------------------------|--------------------------|--------------------------|--------------------------|-----------------------|----------------------|----------------------------|------------------|---------------------------|-----------------------|-----------------------|-----------------------|---------------------------|------------------------|------------------------|------------------------|------------------------|
+| 07/08/1902 | - | 21.4 | 11.1 | - | - | - | - | N.N.O. | 2          | S.S.O.                  | 70                      | 60                      | 36.0                  | Fort                  | 1627.0                | 20.6                  | -                      | -                      |
+| *Perrau matin* | *Maxima* 34.7 | *Minima* 13.7 | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - |
+| 08/08/1902 | - | 22.0 | 16.2 | - | - | 2.9 | - | N.N.E. | 2          | S.S.E.                  | 10                      | 10                      | 48.6                  | Fort                  | 1627.3                | 20.0                  | 1627.0                | -                      |
+| *Balans matin* | *Amidon* 18.2 | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - |
+| *Perrau matin* | *Maxima* 24.9 | *Minima* 14.4 | - | - | - | - | - | - | - | - | - | - | - | - | - | - | 32.0                   | 20.0                   |
+| *Soir* | *Maxima* | *Minima* | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | |
+
+**Remarques** :
+- "T°" désigne la température.
+- Les valeurs Maxima et Minima sont situées à droite des indicateurs {"maxima" || "minima"}.
+- Les données sur la densité de l'eau sont consultables pour le bout de la jetée, avec des variables зарегистриe dans le flux des données météorologiques indiquées par "id." correspondant à (à 9 h, à 3 h, et au soir).
+- La hauteur de la mer est exprimée en centimètres au-dessus du zéro "(B.R.2)" et l'agitation de l'eau est qualifiée par le terme "fort".

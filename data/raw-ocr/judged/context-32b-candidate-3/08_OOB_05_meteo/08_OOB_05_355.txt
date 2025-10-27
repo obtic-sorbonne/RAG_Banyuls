@@ -1,0 +1,31 @@
+```markdown
+# 13 Février 1908
+
+| **Hauteur barométrique (mmHg)** | **Matin** | **Soir** |
+|---------------------------------|-----------|----------|
+| **Direction du vent** | S. 80 | S. 80 |
+| **Force** | 15 | 2 forts |
+| **Nébulosité (Reg. C. Cénesse)** | 10 | 10 |
+| **Direction des nuages** | SO | SO |
+| **Pluie tombée (mm)** | - | - |
+| **Température de l'air (°C)** | - | 14.6 |
+| **Hauteur de la mer (cm)** | 53.9 | 25.7 |
+| **Agitation de l'eau** | - | 1 fort |
+| **Densité au bout de la jetée (g/cm³)** | 1029.2 | - |
+| **Température de l'eau (°C)** | - | 12.7 |
+
+# 14 Février 1908
+
+| **Hauteur barométrique (mmHg)** | **Matin** | **Soir** |
+|---------------------------------|-----------|----------|
+| **Direction du vent** | couch | SO |
+| **Force** | 15 | 2 forts |
+| **Nébulosité (Reg. C. Cénesse)** | 10 | 10 |
+| **Direction des nuages** | cr.0 | ce.0 |
+| **Pluie tombée (mm)** | - | quelques g |
+| **Température de l'air (°C)** | 10.3 | 11.9 |
+| **Hauteur de la mer (cm)** | 48.7 | 32.7 |
+| **Agitation de l'eau** | 2 | 1 fort |
+| **Densité au bout de la jetée (g/cm³)** | 1028.6 | 1028.6 |
+| **Température de l'eau (°C)** | 12.2 | 12.3 |
+```

@@ -1,0 +1,31 @@
+```
+|  9. 8 Décembre 1903 | Matin | Soir  |
+| --- | --- | --- |
+|  Hauteur Barométrique | 753.4 | 753.6  |
+|  Direction du vent | Est | Ouest  |
+|  Force | 5 | 5  |
+|  Nébulosité (Reg. O. (terre)) | 10 | 10  |
+|  Nébulosité (Reg. F. (mer)) | 10 | 10  |
+|  Direction des nuages | Est | Est  |
+|  Pluie tombée | 2.68 | 0  |
+|  Température de l'air | 1.5 | 12.3  |
+|  Hauteur de la mer | 34.1 | 36.7  |
+|  Agitation de l'eau | 2 fort | 22 fort  |
+|  Densité au bout de la jetée | 1023.6 | 1023.1  |
+|  Température de l'eau | 13.5 | 13.4  |
+
+|  9. 9 Décembre 1903 | Matin | Soir  |
+| --- | --- | --- |
+|  Hauteur Barométrique | 760.4 | 768.4  |
+|  Direction du vent | Nord | Est  |
+|  Force | 2 | 8  |
+|  Nébulosité (Reg. O. (terre)) | 10 | 10  |
+|  Nébulosité (Reg. F. (mer)) | 10 | 10  |
+|  Direction des nuages | Nord | Est  |
+|  Pluie tombée | 0 | 5.9  |
+|  Température de l'air | 6.5 | 15.0  |
+|  Hauteur de la mer | 35.0 | 40.4  |
+|  Agitation de l'eau | 2 faible | 20  |
+|  Densité au bout de la jetée | 1023.1 | 1023.1  |
+|  Température de l'eau | 13.6 | 14.0  |
+```

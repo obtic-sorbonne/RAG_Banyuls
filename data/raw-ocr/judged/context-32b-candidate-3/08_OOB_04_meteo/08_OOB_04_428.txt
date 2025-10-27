@@ -1,0 +1,35 @@
+```plaintext
+# V. 5 Octobre - 1902
+
+|  Nostion | Soir  |
+| --- | --- |
+|  Jantesu Praxometrique | 763.0  |
+|  Direction Su vent | 7.7.6  |
+|  Force | 1.7.6  |
+|  Nostion de | 10  |
+|  Nostion de | 10  |
+|  Direction des images | Est  |
+|  Nouv. Tombé | 34.3  |
+|  Sempirature de l'air | 43.3  |
+|  Jantesu de la mer | 17.7.1  |
+|  Régitation de l'eau | 1037.2  |
+|  Sennite au bout de la jeté | 30.3  |
+|  Sempirature de l'eau |  |
+
+# V. 6 Octobre - 1904
+
+|  Nostion | Soir  |
+| --- | --- |
+|  Jantesu Praxometrique | 760.1 | 760.1  |
+|  Direction Su vent |  | 4.1.0  |
+|  Force |  | 4.1.0  |
+|  Nostion de |  | 10  |
+|  Nostion de |  | 10  |
+|  Direction des images |  | 10  |
+|  Nouv. Tombé |  | 19.7.0  |
+|  Sempirature de l'air | 30.7 | 36.1  |
+|  Jantesu de la mer | 12.9 | 1.7.7.3  |
+|  Régitation de l'eau | 1.7.7.0 | 30.3  |
+|  Sennite au bout de la jeté | 1037.0 |  |
+|  Sempirature de l'eau | 30.1 |  |
+```

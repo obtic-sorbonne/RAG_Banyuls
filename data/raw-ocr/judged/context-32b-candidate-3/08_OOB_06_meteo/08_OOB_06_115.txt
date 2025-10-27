@@ -1,0 +1,23 @@
+```plaintext
+| **Observations du 1901, 2 février** | **Observations du 1901, 3 février** |
+| --- | --- |
+| **Nombre de bateaux sortis (pêche à la mer)** | **0** | **0** |
+| **Température de l'air** |  |  |
+| - maxima depuis la veille | **9.2** | **9.3** |
+| - minima id. | **1.3** | **1.9** |
+| **Température de l'eau** |  |  |
+| - maxima depuis la veille | [pas renseigné] | [pas renseigné] |
+| - minima id. | [pas renseigné] | [pas renseigné] |
+| **Pluie tombée depuis la veille, en millim.** | **0** | **0** |
+| **Évaporation depuis le 1900, en millim.** | [pas renseigné] | [pas renseigné] |
+| **Direction du vent (à terre)** | **Ouest** | **Nord-Nord-Ouest** |
+| **Force du vent** | **1 faible** | **1 faible** |
+| **Direction des nuages** | **Nord** | **Nord-Nord-Ouest** |
+| **Nébulosité** |  |  |
+| - région Ouest (terre) | **0** | **2** |
+| - région Est (mer) | **2** | **1** |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (Bas-Rhin)** | **51.0** | **52.8** |
+| **Agitation de l'eau** | **1 faible** | **1 faible** |
+| **Densité de l'eau au bout de la jetée** | **1029.2** | **1029.3** |
+| **Température de l'eau au bout de la jetée** | **9.0** | **9.5** |
+```

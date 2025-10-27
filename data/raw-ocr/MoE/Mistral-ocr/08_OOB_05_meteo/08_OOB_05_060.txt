@@ -1,0 +1,27 @@
+|  V. 18 Novembre 1906 | M6atin | Soir  |
+| --- | --- | --- |
+|  Hauteur 90 avonctrique | 250. |   |
+|  Direction du rent | 1. |   |
+|  force | 3 |   |
+|  Méburionte | 10 |   |
+|  (Res. 2. (mer) | 10 |   |
+|  Direction des mages | 2.8 |   |
+|  Rue tombee | 10,62 |   |
+|  Dempierature de l'air |  |   |
+|  Hauteur de la mer |  |   |
+|  Cratation de l'eau | 3 fort |   |
+|  Densité au bout de la jetée |  |   |
+|  Dempierature de l'eau |  |   |
+|  V. 19 Novembre 1906 | M6atin | Soir  |
+|  Hauteur 90 avonctrique | 21,0 |   |
+|  Direction du rent | 1.0 |   |
+|  force | 1 fort |   |
+|  Méburionte | 10 |   |
+|  (Res. 2. (mer) | 10 |   |
+|  Direction des mages | 1.0 |   |
+|  Rue tombee | 85,87 |   |
+|  Dempierature de l'air |  |   |
+|  Hauteur de la mer |  |   |
+|  Cratation de l'eau | 10 |   |
+|  Densité au bout de la jetée |  |   |
+|  Dempierature de l'eau |  |   |

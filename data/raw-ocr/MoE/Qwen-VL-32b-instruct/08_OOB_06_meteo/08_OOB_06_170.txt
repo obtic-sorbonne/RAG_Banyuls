@@ -1,0 +1,41 @@
+| **Observations du 1901-06-23** |
+| --- |
+| Nombre de bateaux sortis (pêche à l'ancre) | 2 |
+| Température de l'air | maxima depuis la veille | 29.0 |
+|  | minima id. | 17.1 |
+| Température de l'eau | maxima depuis la veille |  |
+|  | minima id. |  |
+| Pluie tombée depuis la veille, en millim. |  |
+| Évaporation depuis le 1901-01-01, en millim. |  |
+| Direction du vent (à terre) à 9 h. m. | SSE |
+| Force | faible |
+| Direction des nuages à 3 h. s. | S.O. |
+| Nébulosité | région Ouest (terre) | 60 |
+|  | id. Est (mer) | 60 |
+| Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.) | 24.4 |
+| Agitation de l'eau | faible |
+| Densité de l'eau au bout de la jetée | 1026.4 |
+| Température id. Balan | 19.0 |
+|  | id. Terre | Matin | Maxima | 34.2 |
+|  |  |  | Minima | 16.7 |
+
+| **Observations du 1901-06-24** |
+| --- |
+| Nombre de bateaux sortis (pêche à l'ancre) | 2 |
+| Température de l'air | maxima depuis la veille | 22.6 |
+|  | minima id. | 17.9 |
+| Température de l'eau | maxima depuis la veille |  |
+|  | minima id. |  |
+| Pluie tombée depuis la veille, en millim. |  |
+| Évaporation depuis le 1901-01-01, en millim. |  |
+| Direction du vent (à terre) à 9 h. m. | N.N.O. |
+| Force | 3 |
+| Direction des nuages à 3 h. s. | N.N.O. |
+| Nébulosité | région Ouest (terre) | 10 |
+|  | id. Est (mer) | 10 |
+| Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.) | 33.5 |
+| Agitation de l'eau | faible |
+| Densité de l'eau au bout de la jetée | 1027.1 |
+| Température id. Terre | 18.7 |
+|  | Matin | Maxima | 34.2 |
+|  |  |  | Minima | 16.7 |

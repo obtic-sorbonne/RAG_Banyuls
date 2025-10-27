@@ -1,0 +1,33 @@
+```markdown
+# 1er Février 1908
+
+| **Date**         | **Matin** | **Soir** |
+|------------------|-----------|----------|
+| **Hauteur barométrique (mmHg)** | 763.9 | 761.2 |
+| **Direction du vent** | est-nord-est | est-nord-est |
+| **Force du vent** | 4 (s) | 4 (fort) |
+| **Nébulosité (Reg. C. clair)** | 10/10 | 10/10 |
+| **Direction des nuages** | est-nord-est | est-nord-est |
+| **Pluie tombée (mm)** | - | - |
+| **Température de l'air (°C)** | 10.2 | 13.2 |
+| **Hauteur de la mer (cm)** | 12.2 | 64.7 |
+| **Agitation de l'eau** | 3 | 3 |
+| **Densité au bout de la jetée (g/cm³)** | 1028.0 | 1028.0 |
+| **Température de l'eau (°C)** | 11.7 | 11.8 |
+
+# 3 Février 1908
+
+| **Date**         | **Matin** | **Soir** |
+|------------------|-----------|----------|
+| **Hauteur barométrique (mmHg)** | 762.0 | 762.9 |
+| **Direction du vent** | sud-ouest | est-nord-est |
+| **Force du vent** | 6 (faible) | 4 (fort) |
+| **Nébulosité (Reg. Cl. (clair))** | 2/10 | 4/10 |
+| **Direction des nuages** | est-nord-est | est-nord-est |
+| **Pluie tombée (mm)** | - | - |
+| **Température de l'air (°C)** | 4.1 | 5.9 |
+| **Hauteur de la mer (cm)** | 3 | 3 |
+| **Agitation de l'eau** | 4 | 4 |
+| **Densité au bout de la jetée (g/cm³)** | 3 | 3 |
+| **Température de l'eau (°C)** | - | - |
+```

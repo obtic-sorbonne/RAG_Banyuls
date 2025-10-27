@@ -1,0 +1,16 @@
+# Sale - 28 Février - 1901
+
+|  Item | 9<sup>e</sup> Matin | 3<sup>e</sup> Brix  |
+| --- | --- | --- |
+|  Hauteur barométrique | 757,4 | 756,5  |
+|  Direction du vent | Nord | Nord  |
+|  Force | 0 | 1  |
+|  Nébulosité (Reg. U. (terre)) | 10 | 0  |
+|  Nébulosité (Reg. E. (mer)) | 10 | 0  |
+|  Direction des nuages | 11 | 11  |
+|  Pluie tombée | 10,3 | 12,3  |
+|  Température de l'air | 54,7 | 50,8  |
+|  Hauteur de la mer | 54,7 | 50,8  |
+|  Agitation de l'eau | 1 faible | 1,75 faible  |
+|  Densité de l'eau | au bout de la jetée | 1028,5  |
+|  Température de l'eau | 11,2 | 11,6  |

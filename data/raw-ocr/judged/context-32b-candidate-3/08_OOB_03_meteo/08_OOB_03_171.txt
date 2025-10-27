@@ -1,0 +1,16 @@
+# Date: 15 Avril 1902
+
+| **Mesure**                           | **9 H Matin** | **3 H Soir** |
+|--------------------------------------|---------------|--------------|
+| **Hauteur Barométrique**             | 758.3         | 757.6        |
+| **Direction du vent**                | Ouest         | Ouest        |
+| **Force**                            | 4<sup>e</sup> forte | 4<sup>e</sup> forte |
+| **Nébulosité (Reg. O. - Terre)**     | 10            | 10           |
+| **Nébulosité (Reg. E. - Ciel)**      | 10            | 10           |
+| **Direction des nuages**             | Ouest         | Ouest        |
+| **Pluie tombée**                     | 4 mm          | 12 mm        |
+| **Température de l'air**             | 11.3 °C       | 11.6 °C      |
+| **Hauteur de la mer**                | 40.2 m        | 40.2 m       |
+| **Agitation de l'eau (à bout de la jetée)** | 3<sup>e</sup> forte | 3<sup>e</sup> forte |
+| **Agitation de l'eau (au large)**    | 1026.8        | 1026.8       |
+| **Température de l'eau**             | 13.6 °C       | 13.6 °C      |

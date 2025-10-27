@@ -1,0 +1,20 @@
+# Date - 25 Octobre - 1900
+
+|  **Nom** | **Nom de l'examen** | **Nom de l'examen** | **Nom de l'examen**  |
+| --- | --- | --- | --- |
+|  Hantum Praxometrique | 9th Moutin | 3rd Soir |   |
+|  Direction du vent | 702,7 | 759,8 |   |
+|  Force | " | " | "  |
+|   | " | " | "  |
+|   | " | " | "  |
+|  N'bulosité | 9e Gys. |  |   |
+|  Nég. - E. (mer) |  |  |   |
+|  Direction des nuages |  |  |   |
+|  Chuis tombe |  |  |   |
+|  Température de l'air |  |  |   |
+|   | 10,2 | 17,0 |   |
+|  Hantum de la mer | 37,0 | 47,2 |   |
+|  Agitation de l'eau | 1.7. J. | 1.8. J. |   |
+|  Densité de l'eau | 1028,2 | 1028,8 |   |
+|  |   |   |   |
+|  Température de l'eau | 17,2 | 18,1 |   |

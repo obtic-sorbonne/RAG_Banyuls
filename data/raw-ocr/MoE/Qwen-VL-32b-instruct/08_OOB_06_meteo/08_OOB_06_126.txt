@@ -1,0 +1,29 @@
+### Registre d'observations météorologiques historiques
+
+#### OBSERVATIONS DU 3 Mars
+| **Nombre de bateaux sortis (pêche à l)** | **Température de l'air** | **Température de l'eau** | **Pluie tombée depuis la veille, en millim** | **Evaporation depuis le 190, en millim** |
+|---------------------------------------|-------------------------|-------------------------|--------------------------------------------|-------------------------------------------|
+| Non rempli                           | maxima depuis la veille: | maxima depuis la veille: | "                                      | "                                        |
+|                                     | minima id.:             | minima id.:             |                                          |                                           |
+|                                     |                         |                         |                                          |                                           |
+
+| **Direction du vent (à terre)** | **Force** | **Direction des nuages** | **Nébulosité** | **Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.)** | **Agitation de l'eau** | **Densité de l'eau au bout de la jetée** | **Température id.** |
+|--------------------------------|-----------|--------------------------|----------------|----------------------------------------------------------|----------------------|------------------------------------------|-----------------------|
+| à 9 h. m.                      |           |                          | Région Ouest (terre): |                                            |                      |                                          |                       |
+|                                |           |                          |                | 70,0                                           |                      | 1028,9                                  |                       |
+| à 3 h. s.                      |           |                          | Région Est (mer): |                                            |                      |                                          |                       |
+|                              | 6          |                          | 10               | 3                                               | 10,2                 | 10,2                                   |                       |
+
+#### OBSERVATIONS DU 4 Mars
+| **Nombre de bateaux sortis (pêche à l)** | **Température de l'air** | **Température de l'eau** | **Pluie tombée depuis la veille, en millim** | **Evaporation depuis le 190, en millim** |
+|---------------------------------------|-------------------------|-------------------------|--------------------------------------------|-------------------------------------------|
+| Non rempli                           | maxima depuis la veille: 13,8 | maxima depuis la veille: | "                                      | "                                        |
+|                                     | minima id.: 10,3         | minima id.:             |                                          |                                           |
+|                                     |                         |                         |                                          |                                           |
+
+| **Direction du vent (à terre)** | **Force** | **Direction des nuages** | **Nébulosité** | **Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.)** | **Agitation de l'eau** | **Densité de l'eau au bout de la jetée** | **Température id.** |
+|--------------------------------|-----------|--------------------------|----------------|----------------------------------------------------------|----------------------|------------------------------------------|-----------------------|
+| à 9 h. m.                      |           |                          | Région Ouest (terre): |                                            |                      |                                          |                       |
+|                                |           |                          |                | 54,9                                           |                      | 1029,0                                  | 10,7                 |
+| à 3 h. s.                      |           |                          | Région Est (mer): |                                            |                      |                                          |                       |
+|                              | 3          |                          | 2                    | 63,0                                           | 1/Portt              | 1028,3                                  | 11,5                 |

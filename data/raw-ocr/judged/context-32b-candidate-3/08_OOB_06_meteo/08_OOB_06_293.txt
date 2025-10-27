@@ -1,0 +1,48 @@
+### OBSERVATIONS DU 1902 29 JUIN
+
+| **Nombre de bateaux sortis (pêche à l.)** |  |
+| --- | --- |
+| **Température de l'air** |  |
+| - maxima depuis la veille | (non fournie) |
+| - minima id. | (non fournie) |
+| **Température de l'eau** |  |
+| - maxima depuis la veille | (non fournie) |
+| - minima id. | (non fournie) |
+| **Pluie tombée depuis la veille, en millim.** | quelques g |
+| **Évaporation depuis le 190, en millim.** |  |
+| **Direction du vent (à terre)** | **à 9 h. m.** | **à 3 h. s.** |
+| - Direction | N-E | N-E |
+| - Force | Fort |  |
+| **Direction des nuages** | N-E |  |
+| **Nébulosité** |  |  |
+| - région Ouest (terre) | 10 |  |
+| - id. Est (mer) | 10 |  |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.)** | 1 |  |
+| **Agitation de l'eau** | 1 |  |
+| **Densité de l'eau au bout de la jetée** | 18.9 |  |
+| **Température** |  |  |
+| - id. jetée (matin) | 18.6 |  |
+
+### OBSERVATIONS DU 1902 2 Juillet
+
+| **Nombre de bateaux sortis (pêche à l.)** |  |
+| --- | --- |
+| **Température de l'air** |  |
+| - maxima depuis la veille | 28.2 | °C |
+| - minima id. | 16.6 | °C |
+| **Température de l'eau** |  |
+| - maxima depuis la veille | (non fournie) | °C |
+| - minima id. | (non fournie) | °C |
+| **Pluie tombée depuis la veille, en millim.** | 11 | mm |
+| **Évaporation depuis le 190, en millim.** | 90 | mm |
+| **Direction du vent (à terre)** | **à 9 h. m.** | **à 3 h. s.** |
+| - Direction | S | Ouest |
+| - Force | 0 |  |
+| **Direction des nuages** |  |  |
+| - région Ouest (terre) | 10 |  |
+| - id. Est (mer) | 10 |  |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.)** |  |  |
+| **Agitation de l'eau** | Fort |  |
+| **Densité de l'eau au bout de la jetée** | 1027.8 |  |
+| **Température** |  |  |
+| - id. jetée (matin) | 18.1 |  |

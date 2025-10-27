@@ -1,0 +1,7 @@
+```plaintext
+| Date | Heure | Hauteur Barométrique | Direction du vent | Force | Nébulosité (Rég. O. (terre)) | Nébulosité (Rég. E. (mer)) | Direction des nuages | Pluie Tombée | Température de l'air | Hauteur de la mer | Agitation de l'eau | Densité au bout de la jetée | Température de l'eau |
+|------|-------|---------------------|-------------------|-------|-----------------------------|-----------------------------|---------------------|--------------|---------------------|-------------------|-------------------|-----------------------------|----------------------|
+| V. 1<sup>er</sup> Mars. 1902 | Soir | 762.2 | Ouest | 3 | Légère | Légère | Ouest | — | 14.0 | 22.6 | 1 | 1029.0 | 10.8 |
+| V. 4 Mars. 1902 | Matin | 769.6 | S.S.E. | Très faible | 0 | 0 | — | — | 11.9 | 43.1 | T. faible | 1027.4 | 11.9 |
+| V. 4 Mars. 1902 | Soir | — | — | — | — | — | — | — | — | — | — | — | — |
+```

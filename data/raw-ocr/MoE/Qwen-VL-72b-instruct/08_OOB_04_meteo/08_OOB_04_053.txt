@@ -1,0 +1,32 @@
+| Date       | Matin | Soir |                                                                 |
+|------------|-------|------|-----------------------------------------------------------------|
+| **V. 18 janvier 1902** |       |      |                                                                 |
+| Hauteur Barométrique | 768.4 | 767.6 |                                                                 |
+| Direction du vent     | er. cr. o | erow |                                                                 |
+| Force                   |  |  |                                                                 |
+|                         | 1 T. faible |  |                                                                 |
+| Reg. O. (Clair)        | 10 lég. c | 10 |                                                                 |
+| Nebulosité             |  |  |                                                                 |
+| (Reg. E. (cav.))       | 10 lég. c | 10 |                                                                 |
+| Direction des nuages   | er. cr. o | erow |                                                                 |
+| Pluie tombée            |  |  |                                                                 |
+| Température de l'air    | 7.9 | 9.3 |                                                                 |
+| Hauteur de la mer      | +7.2 | +0.3 |                                                                 |
+| Agitation de l'eau      | 1 T. fort | 2 faibl. |                                                                 |
+| Sensibilité au bout de la jetée | 1028.7 | 1028.6 |                                                                 |
+| Température de l'eau    | 11.7 | 11.7 |                                                                 |
+| **V. 21 janvier 1902** |       |      |                                                                 |
+| Hauteur Barométrique | 774.3 | 772.9 |                                                                 |
+| Direction du vent     | Ouest | S.9.8 |                                                                 |
+| Force                   |  |  |                                                                 |
+|                         | 1 T. faible | 1 |                                                                 |
+| Reg. O. (Lourd)        | 2 l. | 3 lég. |                                                                 |
+| Nebulosité             |  |  |                                                                 |
+| (Reg. E. (cav.))       | 2 lég. | 3 lég. |                                                                 |
+| Direction des nuages   |  |  |                                                                 |
+| Pluie tombée            |  |  |                                                                 |
+| Température de l'air    | 6.7 | 10.6 |                                                                 |
+| Hauteur de la mer      | +9.1 | +0.6 |                                                                 |
+| Agitation de l'eau      |  | 1 forte |                                                                 |
+| Sensibilité au bout de la jetée | 1028.6 | 1028.3 |                                                                 |
+| Température de l'eau    | 11.6 | 12.0 |                                                                 |

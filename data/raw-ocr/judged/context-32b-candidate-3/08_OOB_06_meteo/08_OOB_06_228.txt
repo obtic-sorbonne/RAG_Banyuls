@@ -1,0 +1,57 @@
+```plaintext
+### OBSERVATIONS DU 1904 8 DÉCEMBRE
+
+| **Nombre de bateaux sortis (pêche à l.)** | 14.7 |
+| **Température de l'air** |  |  |
+| - **maxima depuis la veille** | 14.7 °C |
+| - **minima id.** | 8.7 °C |
+| **Température de l'eau** |  |  |
+| - **maxima depuis la veille** | *non mentionnée* |
+| - **minima id.** | *non mentionnée* |
+| **Pluie tombée depuis la veille, en millim.** | quelques |
+| **Évaporation depuis le 1904, en millim.** | *non mentionnée* |
+| **Direction du vent (à terre)** |  |  |
+| - **à 9 h. m.** | N.N.O. |
+| - **à 3 h. s.** | S.S.E. |
+| - **Force** | 2 | 1 fort |
+| - **Direction des nuages** | N.N.O. | S.O. |
+| **Nébulosité** |  |  |
+| - **région Ouest (terre)** | 6 | 2 |
+| - **id. Est (mer)** | 6 | 1 |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.)** | 7.0 |  |
+| **Agitation de l'eau** | 2 faible | 1 fort |
+| **Densité de l'eau au bout de la jetée** | 1027.7 | 1027.8 |
+| **Température id.** |  |  |
+| - **id. Terre** | **Maxima** | 21.7 °C |  |
+| - **id. Terre** | **Minima** | 6.7 °C |  |
+| - **id. Mer** | **Maxima** |  | 24.2 °C |
+| - **id. Mer** | **Minima** |  | 9.8 °C |
+
+### OBSERVATIONS DU 1904 9 DÉCEMBRE
+
+| **Nombre de bateaux sortis (pêche à l.)** | 12.7 |
+| **Température de l'air** |  |  |
+| - **maxima depuis la veille** | 12.7 °C |
+| - **minima id.** | 7.2 °C |
+| **Température de l'eau** |  |  |
+| - **maxima depuis la veille** | *non mentionnée* |
+| - **minima id.** | *non mentionnée* |
+| **Pluie tombée depuis la veille, en millim.** |  |
+| **Évaporation depuis le 1904, en millim.** | *non mentionnée* |
+| **Direction du vent (à terre)** |  |  |
+| - **à 9 h. m.** | N.N.O. |
+| - **à 3 h. s.** | N.N.O. |
+| - **Force** | 4 | 3 fort |
+| - **Direction des nuages** | N.O. | N.O. |
+| **Nébulosité** |  |  |
+| - **région Ouest (terre)** | 10 | 2 |
+| - **id. Est (mer)** | 6 | 2 |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.)** | 16.0 | 35.0 |
+| **Agitation de l'eau** | 2 | 2 fort |
+| **Densité de l'eau au bout de la jetée** | 1027.5 | 1027.6 |
+| **Température id.** |  |  |
+| - **id. Terre** | **Maxima** | 24.0 °C |  |
+| - **id. Terre** | **Minima** | 4.1 °C |  |
+| - **id. Mer** | **Maxima** |  | 23.6 °C |
+| - **id. Mer** | **Minima** |  | 10.8 °C |
+```

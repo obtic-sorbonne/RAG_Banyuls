@@ -1,0 +1,25 @@
+| **Observations du 1960-04-28** |  |  | **Observations du 1960-04-29** |  |  |
+| --- | --- | --- | --- | --- | --- |
+| **Nombre de bateaux sortis (pêche à la trame bac)** |  | 34 | **Nombre de bateaux sortis (pêche à la trame bac)** |  | 34 |
+| **Température de l'air** |  |  | **Température de l'air** |  |  |
+| maxima depuis la veille |  | 27.4 | maxima depuis la veille |  | 20.9 |
+| minima id. |  | 7.9 | minima id. |  | 8.9 |
+| **Température de l'eau** |  |  | **Température de l'eau** |  |  |
+| maxima depuis la veille |  |  | maxima depuis la veille |  |  |
+| minima id. |  |  | minima id. |  |  |
+| **Pluie tombée depuis la veille, en millim** |  | " | **Pluie tombée depuis la veille, en millim** |  | " |
+| **Evaporation depuis le 190, en millim** |  |  | **Evaporation depuis le 190, en millim** |  |  |
+|  | **à 9 h. m.** | **à 3 h. s.** |  | **à 9 h. m.** | **à 3 h. s.** |
+| **Direction du vent (à terre)** |  | SSE |  | N.N.O |  |
+| **Force** |  | 1 / très doux |  | 3 / fort |  |
+| **Direction des nuages** |  | S.O. |  | S.0 |  |
+| **Nébulosité** |  |  | **Nébulosité** |  |  |
+| région Ouest (terre) |  | 2 | région Ouest (terre) |  | 10 |
+| id. Est (mer) |  | 1 | id. Est (mer) |  | 10 |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro** |  | 44.2 | **Hauteur de la mer, en centimètres, au-dessus du zéro** |  | 44.2 |
+|  |  | 36.2 |  |  | 39.8 |
+| **Agitation de l'eau** |  | 1 / faible |  | 1 |  |
+|  |  |  |  |  | 2 / forte |
+| **Densité de l'eau au bout de la jetée** |  | 1027.6 | **Densité de l'eau au bout de la jetée** |  | 1027.9 |
+| **Température id.** |  | 13.8 | **Température id.** |  | 13.0 |
+|  |  | 14.0 |  |  | 13.3 |

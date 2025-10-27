@@ -1,0 +1,26 @@
+| **Date**         | **Matin** | **Soir** |
+|------------------|-----------|----------|
+| **V. 15 Janvier 1908** |
+|SSION Béronétrique | 773,7 | 772,1 |
+|Direction du vent | Nord | Nord |
+|T gris | Nord | Nord |
+|Nébulosité | Nubil (mêlée) | Nubil (mêlée) |
+|Dir. des nuages | Nord | Nord |
+|Pluie tombee | | |
+|Temp. de l'air | 10,6 | 11,9 |
+|Hauter. de la mer | 11,3 | 12,8 |
+|Agitation de l'eau | 1 fort | 1 faible |
+|Densité au fond de la jetée | 1027,5 | 1027,5 |
+|Temp. de l'eau | 12,9 | 12,6 |
+| **V. 16 Janvier 1908** |
+|SION Béronétrique | 773,2 | 772,0 |
+|Direction du vent | Nord | Nord |
+|T gris | Nord | Nord |
+|Nébulosité | Nubil (mêlée) | Nubil (mêlée) |
+|Dir. des nuages | Nord | Nord |
+|Pluie tombée | | |
+|Temp. de l'air | 10,8 | 11,4 |
+|Hauter. de la mer | 12,1 | 60,9 |
+|Agitation de l'eau | Fort | Fort |
+|Densité au fond de la jetée | 1027,4 | 1026,8 |
+|Temp. de l'eau | 12,0 | 12,2 |

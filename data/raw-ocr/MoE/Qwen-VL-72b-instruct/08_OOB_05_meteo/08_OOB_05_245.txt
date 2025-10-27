@@ -1,0 +1,27 @@
+| Nombre de pairs de bateaux | V. 16 Mai - 1907 | Matin | Soir |
+|---|---|---|---|
+| Hauteur Barométrique |  | 763.8 | 762.7 |
+| Direction du vent |  | S.O | S.O |
+| Forces |  | 5 | 5 |
+| Nébulosité | Reg. o. (terre) | 10 | 10 |
+| Reg. 2. (mer) |  | 10 | 10 |
+| Direction des nuages |  | S.O | S.O |
+| Pluie tombée |  | quelques | quelques |
+| Température de l'air |  | 19.7 | 21.3 |
+| Hauteur de la mer |  | 14.8 | 18.8 |
+| Agitation de l'eau |  | 17. faible | 1. faible |
+| Densité au bout de la jetée |  | 1028.0 | 1026.0 |
+| Température de l'eau |  | 19.2 | 16.9 |
+|  | V. 17 Mai - 1907 | Matin | Soir |
+| Hauteur Barométrique |  | 763.8 |  |
+| Direction du vent |  | O.R.O |  |
+| Forces |  | 5 |  |
+| Nébulosité | Reg. o. (terre) | 10 |  |
+| Reg. 2. (mer) |  | 10 |  |
+| Direction des nuages |  | O.R.O |  |
+| Pluie tombée |  | 6.2 | quelques |
+| Température de l'air |  | 17.2 |  |
+| Hauteur de la mer |  | 14.8 |  |
+| Agitation de l'eau |  | 20.26.8 |  |
+| Densité au bout de la jetée |  | 1026.8 |  |
+| Température de l'eau |  | 18.7 |  |

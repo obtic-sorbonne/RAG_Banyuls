@@ -1,0 +1,31 @@
+```plaintext
+|  | V. 30 Septembre 1904 | Matin | Soir |
+| --- | --- | --- | --- |
+| Hauteur Barométrique | 765,3 | 764,7 |  |
+| Direction du vent | cr.o | cr.cr.o |  |
+| Force | 3 | 3 |  |
+| Nébulosité Reg. O. (terre) | 10 | 10 |  |
+| Nébulosité Reg. E. (mer) | 10 | 10 |  |
+| Direction des nuages | cr.cr.o | cr.o |  |
+| Pluie tombée | 1,12 | " |  |
+| Température de l'air | 17,4 | 19,5 |  |
+| Hauteur de la mer | 42,8 | 48,8 |  |
+| Agitation de l'eau | 3 | 3 |  |
+| Densité au bout de la jetée | 1027,8 | 1027,6 |  |
+| Température de l'eau | 19,1 | 19,4 |  |
+
+|  | V. 1er Octobre 1904 | Matin | Soir |
+| --- | --- | --- | --- |
+| Hauteur Barométrique | 765,1 | 764,0 |  |
+| Direction du vent | cr.o | erord |  |
+| Force | 3 faible | 3 faible |  |
+| Nébulosité Reg. O. (terre) | 1 | 10 |  |
+| Nébulosité Reg. E. (mer) | 0 | 10 |  |
+| Direction des nuages | " | cr.8 |  |
+| Pluie tombée | " | " |  |
+| Température de l'air | 17,9 | 21,7 |  |
+| Hauteur de la mer | 45,0 | 42,8 |  |
+| Agitation de l'eau | 2 fort | 2 fort |  |
+| Densité au bout de la jetée | 1027,7 | 1027,7 |  |
+| Température de l'eau | 19,4 | 19,4 |  |
+```

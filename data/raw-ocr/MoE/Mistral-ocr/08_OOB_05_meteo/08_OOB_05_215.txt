@@ -1,0 +1,31 @@
+# V. 5 Mbars. 1907
+
+|  **Nom** | **Nom** | **Prix**  |
+| --- | --- | --- |
+|  **Hauteur Moxométrique** | **H. 5** |   |
+|  **Direction du vent** | **Or. 0** |   |
+|  **Force** | **1/200** |   |
+|  **Mébulonite** | **Res. 0. (1me)** | **10**  |
+|  **Direction des mages** | **Or. 0** |   |
+|  **Pleie tombée** | **2/50** |   |
+|  **Démperature de l'air** | **Or. 0** |   |
+|  **Hauteur de la mer** | **2/50** |   |
+|  **Lagitation de l'eau** | **Or. 2** |   |
+|  **Dendite au bout de la jetée** | **Or. 2** |   |
+|  **Démperature de l'eau** | **Or. 2** |   |
+
+# V. 5 Mbars. 1907
+
+|  **Nom** | **Nom** | **Prix**  |
+| --- | --- | --- |
+|  **Hauteur Moxométrique** | **H. 5** |   |
+|  **Direction du vent** | **Or. 0** |   |
+|  **Force** | **1/200** |   |
+|  **Mébulonite** | **Res. 0. (1me)** | **10**  |
+|  **Direction des mages** | **Or. 0** |   |
+|  **Pleie tombée** | **Or. 0** |   |
+|  **Démperature de l'air** | **Or. 1** |   |
+|  **Hauteur de la mer** | **2/50** |   |
+|  **Lagitation de l'eau** | **Or. 1** |   |
+|  **Dendite au bout de la jetée** | **Or. 2** |   |
+|  **Démperature de l'eau** | **Or. 2** |   |

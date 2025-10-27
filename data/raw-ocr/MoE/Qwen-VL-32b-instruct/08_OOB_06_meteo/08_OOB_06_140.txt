@@ -1,0 +1,47 @@
+| **OBSERVATIONS DU 8 AVRIL** |
+| --- |
+| **Nombre de bateaux sortis (pêche à la lente)** | Haânt |
+| **Température de l'air** |
+|  - maxima depuis la veille | 10.0 |
+|  - minima id. | +5/8 |
+| **Température de l'eau** |
+|  - maxima depuis la veille |  |
+|  - minima id. |  |
+| **Pluie tombée depuis la veille, en millim.** | 26.1 |
+| **Evaporation depuis le 190, en millim.** |  |
+| **Direction du vent (à terre)** |  |  |
+| **Force** | 9 h. m. | 3 h. s. |
+|  - à 9 h. m. | nn.o. |  |
+|  - à 3 h. s. | nn.o. |  |
+| **Direction des nuages** | nn.o. | nn.o. |
+| **Nébulosité** |
+|  - région Ouest (terre) | 60 | 60 |
+|  - id. Est (mer) | 60 | 0 |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.)** | 29.0 | 29.0 |
+| **Agitation de l'eau** | Faible | 2 |
+| **Densité de l'eau au bout de la jetée** | 1028.1 | 1027.2 |
+| **Température id.** | 11.3 |  |
+
+| **OBSERVATIONS DU 10 AVRIL** |
+| --- |
+| **Nombre de bateaux sortis (pêche à la grand'peine)** | Trente-huit |
+| **Température de l'air** |
+|  - maxima depuis la veille | 10.1 |
+|  - minima id. | +3/8 |
+| **Température de l'eau** |
+|  - maxima depuis la veille |  |
+|  - minima id. |  |
+| **Pluie tombée depuis la veille, en millim.** | 7 |
+| **Evaporation depuis le 190, en millim.** |  |
+| **Direction du vent (à terre)** |  |  |
+| **Force** | 9 h. m. | 3 h. s. |
+|  - à 9 h. m. | nn.o. |  |
+|  - à 3 h. s. | nn.o. | 3 |
+| **Direction des nuages** | nn.o. | nn.o. |
+| **Nébulosité** |
+|  - région Ouest (terre) | 0 | 4 |
+|  - id. Est (mer) | 0 | 0 |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.)** | 24.7 | 24.7 |
+| **Agitation de l'eau** | 2 | 2 |
+| **Densité de l'eau au bout de la jetée** | 1027.6 | 1027.9 |
+| **Température id.** | 10.8 | 10.7 |

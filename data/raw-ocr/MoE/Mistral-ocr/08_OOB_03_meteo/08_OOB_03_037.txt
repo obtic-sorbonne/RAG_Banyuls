@@ -1,0 +1,15 @@
+# Date. 29 Octobre. 1901
+
+|  Name | 9th Date | 3rd Date  |
+| --- | --- | --- |
+|  Kauteur Marométrique | 751,5 |   |
+|  Direction Su vent | N.N.O |   |
+|  Force | 2 |   |
+|  Ébulosité | Reg. L. (1901) | 10  |
+|  Détection des nuages | N.N.O |   |
+|  Flux tombée | 6% 3/5 |   |
+|  Température de l'air | 11,6 |   |
+|  Kauteur de la mer | 30.9 |   |
+|  Opération de l'eau | 4 |   |
+|  Densité de l'eau | 102,7 |   |
+|  Comprendre | 15,5 |   |

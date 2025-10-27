@@ -1,0 +1,36 @@
+```
+Journal Météorologique du Navire "La Belle Poule"
+Période : 22 au 23 Novembre 1905
+
+| Date       | Matin | Soir  |
+|------------|-------|-------|
+| 22 Novembre 1905 |      |      |
+| Hauteur Barométrique (mm) | 767.2 | - |
+| Direction du vent | cr.cr.o | - |
+| Force | 15 | 1 fort |
+| Nébulosité (Reg. o. Terre) | 10 | - |
+| Nébulosité (Reg. E. Mer) | 10 | - |
+| Direction des nuages | S.O. | - |
+| Pluie tombée (mm) | - | - |
+| Température de l'air (°C) | 11.1 | - |
+| Hauteur de la mer (m) | 43.0 | - |
+| Agitation de l'eau (code) | 3 | - |
+| Densité au bout de la jetée (g/cm³) | 1028.8 | - |
+| Température de l'eau (°C) | 16.1 | - |
+
+| 23 Novembre 1905 | Matin | Soir  |
+| Hauteur Barométrique (mm) | 768.3 | - |
+| Direction du vent | or.or.o | - |
+| Force | 15 | 2 |
+| Nébulosité (Reg. o. Terre) | 10 | - |
+| Nébulosité (Reg. E. Mer) | 10 | - |
+| Direction des nuages | - | - |
+| Pluie tombée (mm) | - | - |
+| Température de l'air (°C) | 11.2 | - |
+| Hauteur de la mer (m) | 48.8 | - |
+| Agitation de l'eau (code) | 2 fort | - |
+| Densité au bout de la jetée (g/cm³) | 1028.1 | - |
+| Température de l'eau (°C) | 15.2 | - |
+
+Note Marginale : Aucune remarque particulière pour ces dates.
+```

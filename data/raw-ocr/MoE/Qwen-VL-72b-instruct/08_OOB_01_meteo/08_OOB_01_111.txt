@@ -1,0 +1,14 @@
+| Date | 14 Novembre 1900 |
+| --- | --- |
+| **Observation** | **9h Matin** | **15h Soir** |
+| **Hauter. Barométrique** | 757.2 | 757.7 |
+| **Direction du vent** | Ouest | Nord |
+| **Force** | 1 Fort | 2 Fort |
+| **Nébulosit(é)** | 10 | 10 |
+| **Direction des nuages** | Nord | Nord |
+| **Pluie tombée** | 2,0 | 32,375 |
+| **Température de l'air** | 15,1 | 12,8 |
+| **Hauteur de la mer** | 42,1 | 37,2 |
+| **Agitation de l'eau** | 1 Fort | 1 Fort |
+| **Densité de l'eau** | 1028,9 | 1029,2 |
+| **Température de l'eau** | 16,7 | 16,3 |

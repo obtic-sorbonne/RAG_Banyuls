@@ -1,0 +1,22 @@
+| Date | Matin | Soir |
+|---|---|---|
+| 13 février 1906 | Hauteur Barometrique<br>7/2,8 |  |
+|  | Direction du vent<br>er.cr.o |  |
+|  | Force<br>is |  |
+|  | Nebulosite<br>Reg.c. (terre)<br>0 |  |
+|  | Reg.E.(mer)<br>1 |  |
+|  | Direction des nuages<br>er.cr.o |  |
+|  | Pluie tombée<br>quelque.g |  |
+|  | Temperature de l'air<br>f.2 |  |
+|  | Hauteur de la mer<br>Agitation de l'eau<br>Densité au bout de la jetée<br>Temperature de l'eau |  |
+| 14 février 1906 | Hauteur Barometrique<br>7/7,3 |  |
+|  | Direction du vent<br>er.cr.o |  |
+|  | Force<br>is |  |
+|  | Nebulosite<br>Reg.c. (terre)<br>10 |  |
+|  | Reg.E.(mer)<br>10 |  |
+|  | Direction des nuages<br>cr.cr.o |  |
+|  | Pluie tombée<br>quelque.g |  |
+|  | Temperature de l'air<br>7.2 |  |
+|  | Hauteur de la mer<br>41.4 |  |
+|  | Agitation de l'eau<br>3 |  |
+|  | Densité au bout de la jetée<br>1029./<br>Temperature de l'eau<br>13.° |  |

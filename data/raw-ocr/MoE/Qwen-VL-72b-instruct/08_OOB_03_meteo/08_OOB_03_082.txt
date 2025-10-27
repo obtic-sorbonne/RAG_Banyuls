@@ -1,0 +1,17 @@
+| **Date**          | **Heure**     | **Paramètre**                      | **Valeur**                                                                 |
+|-------------------|---------------|------------------------------------|---------------------------------------------------------------------------|
+| 16 Décembre 1901  | 9h Matin      | **Hauteur Barométrique**           | 704,6                                                                      |
+|                   |               | **Direction du vent**              | Ouest                                                                      |
+|                   |               | **Force**                         | 1 (faible)                                                                 |
+|                   |               | **Nébulosité**                    | 10 (claire)                                                                |
+|                   |               | **Direction des images**          | Est                                                                        |
+|                   |               | **Pluie tombée**                  | 11                                                                         |
+|                   |               | **Température de l'air**          | 7,6                                                                        |
+|                   | **3h Soir**   | **Hauter de la mer**               | 32,9                                                                      |
+|                   |               | **Agitation de l'eau**            | 1                                                                          |
+|                   |               | **Tmp. de la mer (pont)**          | 10.29.3                                                                    |
+|                   |               | **Tmp. de la mer (large)**         | 13.2                                                                       |
+|                   |               | **Densité de l'eau (pont)**        |                                                                           |
+|                   |               | **Densité de l'eau (large)**       |                                                                           |
+
+**Note:** Les abréviations et symboles sont transcrits exactement comme dans l'original. Les valeurs non numériques sont conservées comme textes.

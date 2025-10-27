@@ -1,0 +1,31 @@
+# V. J. Cyril - 1902
+
+|  **Pfanteur** | **Poarométrique** | **203.2** | **260.2**  |
+| --- | --- | --- | --- |
+|  Direction du vent |  | 2.8 | 30.2  |
+|  Force |  | 1 | 1.0  |
+|  **Toujours** | **Reg. O. (lire)** | **10 kg/m²** | **10**  |
+|  **Toujours** | **Reg. F. (mer)** | **10 kg/m²** | **10**  |
+|  Direction des nuages |  | 30.6 | 30.6  |
+|  **Taux** | **Tombé** |  |   |
+|  Température de l'air |  | 16.8 | 17.9  |
+|  Hauteur de la mer |  | 10.0 | 10.6  |
+|  **Législation** | **de l'eau** | **0** | **1.0**  |
+|  Densité au bout de la jeté |  | 102.2.8 | 102.2.9  |
+|  **Toujours** | **Densité** | 14.8 | 16.8  |
+
+# V. Y. Cyril - 1902
+
+|  **Pfanteur** | **Poarométrique** | **279.2** | **279.2**  |
+| --- | --- | --- | --- |
+|  Direction du vent |  | 2.0 | 2.0  |
+|  Force |  | 1.0 | 1.0  |
+|  **Toujours** | **Reg. O. (lire)** | **10 kg/m²** | **10**  |
+|  **Toujours** | **Reg. F. (mer)** | **10 kg/m²** | **10**  |
+|  Direction des nuages |  | 2.0 | 2.0  |
+|  **Taux** | **Tombé** |  |   |
+|  Température de l'air |  | 17.4 | 17.6  |
+|  Hauteur de la mer |  | 11.2 | 11.6  |
+|  **Législation** | **de l'eau** | **4** | **4**  |
+|  Densité au bout de la jeté |  | 102.8.3 | 102.8.0  |
+|  **Toujours** | **Densité** | 14.2 | 14.4  |

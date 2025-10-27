@@ -1,0 +1,48 @@
+| **OBSERVATIONS DU 1901 17 Novembre** |
+| --- |
+| Nombre de bateaux sortis (pêche à l…) | 18.0 |
+| **Température de l'air** |  |
+| maxima depuis la veille | 18.0 |
+| minima id. | 4.3 |
+| **Température de l'eau** |  |
+| maxima depuis la veille |  |
+| minima id. |  |
+| Pluie tombée depuis la veille, en millim | " |
+| Evaporation depuis le 190, en millim |  |
+| Direction du vent (à terre) | **à 9 h. m.** | **à 3 h. s.** |
+| Force | 1 fort | 1 fort |
+| Direction des nuages | S.0 | S.0 |
+| Nébulosité | | |
+| région Ouest (terre) | 60 | 60 |
+| id. Est (mer) | 60 | 60 |
+| Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.) | 96.9 | 21.7 |
+| Agitation de l'eau | 1 | 1 |
+| Densité de l'eau au bout de la jetée | 1028.7 | 1028.3 |
+| **Température** | | |
+| Balan.s id. | 13.2 | 13.2 |
+| Terrane | **maxima** | 24.6 | 23.0 |
+| | **minima** | 3.7 | 11.7 |
+|
+| **OBSERVATIONS DU 1901 18 Novembre** |
+| --- |
+| Nombre de bateaux sortis (pêche à l…) | 16.7 |
+| **Température de l'air** |  |
+| maxima depuis la veille | 16.7 |
+| minima id. | 11.0 |
+| **Température de l'eau** |  |
+| maxima depuis la veille |  |
+| minima id. |  |
+| Pluie tombée depuis la veille, en millim | " |
+| Evaporation depuis le 190, en millim |  |
+| Direction du vent (à terre) | **à 9 h. m.** | **à 3 h. s.** |
+| Force | 2 | 2 |
+| Direction des nuages | S.0 | S.0 |
+| Nébulosité | | |
+| région Ouest (terre) | 60 | 60 |
+| id. Est (mer) | 60 | 60 |
+| Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.) | 22.4 | 19.2 |
+| Agitation de l'eau | 1 | 1 fort |
+| Densité de l'eau au bout de la jetée | 1028.4 | 1028.2 |
+| **Température** | | |
+| Terrane | **maxima** | 23.1 | 23.4 |
+| | **minima** | 9.2 | 14.0 |

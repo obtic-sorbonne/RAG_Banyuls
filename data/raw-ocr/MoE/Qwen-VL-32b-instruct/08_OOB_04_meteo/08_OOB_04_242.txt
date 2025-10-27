@@ -1,0 +1,34 @@
+# 9. 17 Juin - 1903
+
+|  **Plauteur** | **Neur** | **Prix**  |
+| --- | --- | --- |
+|  Hauteur macrométrique | 253.4 | 250.2  |
+|  Direction du vent | 80° | 28  |
+|  Force | 160 | 260  |
+|  Débitosité | 100.0 (time) | 10  |
+|  Débitosité | 100.0 (time) | 10  |
+|  Débitosité des nuages | 10 | 0.0  |
+|  Débit bombé | 18.0 | 24.3  |
+|  Composition de l'air | 18.0 | 49.3  |
+|  Débit de la mer | 18.0 | 1  |
+|  Débit de l'eau | 18.0 | 1  |
+|  Densité au bout de la jeté | 1025.8 | 1025.8  |
+|  Composition de l'eau | 18.3 | 12.2  |
+
+# 18 Juin - 1903
+
+|  **Plauteur** | **Neur** | **Prix**  |
+| --- | --- | --- |
+|  Hauteur macrométrique | 265.3 | 264.4  |
+|  Direction du vent | 2.0 | 4.0  |
+|  Force | 2 | 3  |
+|  Débitosité | 10 | 10  |
+|  Débitosité | 10 | 10  |
+|  Débit de l'eau | 1.0 | 4.0  |
+|  Direction des nuages | 2.0 | 4.0  |
+|  Débit bombé | 21.5 | 28.3  |
+|  Composition de l'air | 42.0 | 42.0  |
+|  Débit de la mer | 16.0 | 16.0  |
+|  Débit de l'eau | 16.0 | 16.0  |
+|  Densité au bout de la jeté | 1022.2 | 1022.3  |
+|  Composition de l'eau | 12.2 | 12.3  |

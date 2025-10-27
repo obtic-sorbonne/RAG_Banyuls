@@ -1,0 +1,33 @@
+# V. 22 Décembre 1906
+
+|  **Nation** | **Prix**  |
+| --- | --- |
+|  **Hauteur Marométrique** | 266.6  |
+|  **Direction du vent** | 1.8  |
+|  **Force** | 3  |
+|  **Mébulosité** | 10  |
+|  **Rég. 2 (mur)** | 10  |
+|  **Direction des nuages** | 5.8  |
+|  **Prix tombé** | 1.1  |
+|  **Démperature de l'air** | 8.2  |
+|  **Hauteur de la mer** | 8.2  |
+|  **Agitation de l'eau** | 8  |
+|  **Densité au bout de la jetée** | 5  |
+|  **Démperature de l'eau** | 5  |
+
+# V. 23 Décembre 1906
+
+|  **Nation** | **Prix**  |
+| --- | --- |
+|  **Hauteur Marométrique** | 263.2  |
+|  **Direction du vent** | 8.18  |
+|  **Force** | 1  |
+|  **Mébulosité** | 10  |
+|  **Rég. 2 (mur)** | 10  |
+|  **Direction des nuages** | 69.0  |
+|  **Prix tombé** | 1.1  |
+|  **Démperature de l'air** | 10  |
+|  **Hauteur de la mer** | 10  |
+|  **Agitation de l'eau** | 10  |
+|  **Densité au bout de la jetée** | 5  |
+|  **Démperature de l'eau** | 5  |

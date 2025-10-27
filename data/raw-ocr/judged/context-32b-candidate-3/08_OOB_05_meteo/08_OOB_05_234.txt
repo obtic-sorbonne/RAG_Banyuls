@@ -1,0 +1,15 @@
+```markdown
+# 20 Avril 1907
+
+| **Date** | **Heure** | **Hauteur Barométrique** | **Direction du Vent** | **Force** | **Nébulosité (0/10)** | **Direction des nuages** | **Pluie tombée** | **Température de l'air** | **Hauteur de la mer (cm)** | **Agitation de l'eau** | **Densité au bord de la jetée** | **Température de l'eau** |
+|----------|-----------|--------------------------|-----------------------|-----------|-----------------------|--------------------------|------------------|--------------------------|---------------------------|-----------------------|-------------------------------|--------------------------|
+| 20 Avril 1907 | **Matin** | 781.8 mmHg | Nord | 6 | 8 (Couvert) | Nord | 10.1 mm | 10.1 °C | 37.7 cm | 3 | 1029.4 g/cm³ | 12.0 °C |
+| 20 Avril 1907 | **Soir** | 753.7 mmHg | Nord | 4 | 3 (Couvert) | Nord | 14.4 mm | 14.4 °C | 3 cm | 1 | 1029.3 g/cm³ | 12.3 °C |
+
+# 22 Avril 1907
+
+| **Date** | **Heure** | **Hauteur Barométrique** | **Direction du Vent** | **Force** | **Nébulosité (0/10)** | **Direction des nuages** | **Pluie tombée** | **Température de l'air** | **Hauteur de la mer (cm)** | **Agitation de l'eau** | **Densité au bord de la jetée** | **Température de l'eau** |
+|----------|-----------|--------------------------|-----------------------|-----------|-----------------------|--------------------------|------------------|--------------------------|---------------------------|-----------------------|-------------------------------|--------------------------|
+| 22 Avril 1907 | **Matin** | 76.6 mmHg | Nord | 1 | 1 (Très Clair) | Nord | 12.7 mm | 61.1 °C | 2.66 cm | 1 fort | 1029.3 g/cm³ | 12.7 °C |
+| 22 Avril 1907 | **Soir** | 789.3 mmHg | Nord | 1 | 10 (Couvert) | Nord | 63.4 mm | 63.4 °C | 1.6 cm | 1 | 1029.3 g/cm³ | 13.3 °C |
+```

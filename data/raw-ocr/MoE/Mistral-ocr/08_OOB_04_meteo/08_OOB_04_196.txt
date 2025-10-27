@@ -1,0 +1,75 @@
+V. 3 9thars. 1903
+
+|  |   |   |
+| --- | --- | --- |
+|  Hantem | Parométrique |   |
+|  Direction | du vent |   |
+|  Force | -iv |   |
+|  |   |   |
+|  (Ne) |  |   |
+|  (Re) |  |   |
+|  0. |  |   |
+|  Direction |  |   |
+|  (Re) |  |   |
+|  2. |  |   |
+|  Direction |  |   |
+|  des |  |   |
+|  mages |  |   |
+|  Pluie |  | 1.321  |
+|  tombé |  | 12.4  |
+|  Sempéirature | de l'air | 63.3  |
+|  Hantem | de la mer | 1.321  |
+|  Agitation | de l'eau | 1.321  |
+|  Sensité | au bout de la jeté | 1028.7  |
+|  Sempéirature | de l'eau | 11.4  |
+
+V. 4 9thars. 1903
+
+|  |   |   |
+| --- | --- | --- |
+|  Hantem | Parométrique |   |
+|  Direction | du vent |   |
+|  Force | -iv |   |
+|  |   |   |
+|  (Ne) |  |   |
+|  (Re) |  |   |
+|  0. |  |   |
+|  Direction |  |   |
+|  des |  |   |
+|  mages |  |   |
+|  Pluie |  | 1.321  |
+|  tombé |  | 12.4  |
+|  Sempéirature | de l'air | 63.3  |
+|  Hantem | de la mer | 1.321  |
+|  Agitation | de l'eau | 1.321  |
+|  Sensité | au bout de la jeté | 1028.7  |
+|  Sempéirature | de l'eau | 11.4  |
+
+|  |   |   |
+| --- | --- | --- |
+|  201.0 |  |   |
+|  17.0 |  |   |
+|  4.70 |  |   |
+|  10 |  |   |
+|  10 |  |   |
+|  10 |  |   |
+|  1.321 |  |   |
+|  12.4 |  |   |
+|  63.3 |  |   |
+|  1.70 |  |   |
+|  1028.7 |  |   |
+
+|  |   |   |
+| --- | --- | --- |
+|  9thatin | -Sour |   |
+|  7/4.8 |  |   |
+|  or. 0 |  |   |
+|  10 |  |   |
+|  10 |  |   |
+|  10 |  |   |
+|  or. 0 |  |   |
+|  1.321 |  |   |
+|  12.4 |  |   |
+|  63.3 |  |   |
+|  1.70 |  |   |
+|  1028.7 |  |   |

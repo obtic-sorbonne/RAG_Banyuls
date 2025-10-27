@@ -1,0 +1,31 @@
+```plaintext
+|  11 mai - 1905 | Matin | Jour  |
+| --- | --- | --- |
+|  Hauteur Barométrique | 767.5 | 764.4  |
+|  Direction du vent | 7.0 | 7.8  |
+|  Force | 3 fort | 1 r. faible  |
+|  Nébulosité | 10 | 10  |
+|  (Reg. a. (mer)) |  |   |
+|  Direction des nuages | 10 | 10  |
+|  Pluie tombée | 0.0 | 0.0  |
+|  Température de l'air | 15.6 | 16.7  |
+|  Hauteur de la mer | 46.6 | 62.6  |
+|  Agitation de l'eau | 1 fort | 1  |
+|  Densité au bout de la jetée | 1028.7 | 1028.7  |
+|  Température de l'eau | 15.5 | 15.5  |
+
+|  12 mai - 1905 | Matin | Jour  |
+| --- | --- | --- |
+|  Hauteur Barométrique | 768.0 | 761.8  |
+|  Direction du vent | 8.0 | 8.0  |
+|  Force | 3 fort | 3 fort  |
+|  Nébulosité | 10 | 10  |
+|  (Reg. a. (mer)) |  |   |
+|  Direction des nuages | 10 | 10  |
+|  Pluie tombée | 0.0 | 0.0  |
+|  Température de l'air | 15.8 | 15.7  |
+|  Hauteur de la mer | 61.8 | 84.3  |
+|  Agitation de l'eau | 1 fort | 1  |
+|  Densité au bout de la jetée | 1028.4 | 1028.4  |
+|  Température de l'eau | 16.7 | 15.8  |
+```

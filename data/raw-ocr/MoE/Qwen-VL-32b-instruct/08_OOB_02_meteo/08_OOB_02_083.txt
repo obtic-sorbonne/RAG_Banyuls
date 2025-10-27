@@ -1,0 +1,17 @@
+# Date: 1er Juin 1901
+
+|   | 9" Moatin 3" Soir |   |
+| --- | --- | --- |
+|  Houteur Parométrique | 754.8 | 758.2  |
+|  Direction du vent |  |   |
+|  Force | 10 | 3  |
+|  Tébulosité | Reg. C. (terre) | 10  |
+|  Tébulosité | Reg. E. (mer) | 10  |
+|  Direction des nuages |  |   |
+|  Muc tombe |  |   |
+|  Température de l'air | 80.4 | 83.0  |
+|  Houteur de la mer | 45.8 | 47.4  |
+|  Régulation de l'eau | 1 faille | 1 faille  |
+|  Densité de l'eau | 1027.4 | 1025.7  |
+|  |   |   |
+|  Température de l'eau | 19.8 | 20.7  |

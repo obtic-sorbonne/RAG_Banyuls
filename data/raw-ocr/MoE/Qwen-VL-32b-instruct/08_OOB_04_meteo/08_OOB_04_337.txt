@@ -1,0 +1,27 @@
+|  1. 1 février - 1902 | Obatin | Soir  |
+| --- | --- | --- |
+|  Hauteur Prazometrique | 1/0,6 |   |
+|  Direction du vent | 0.0 |   |
+|  Force | 5 fort |   |
+|  966 butosite | Reg. G. (10.0) | 10  |
+|  Direction des mages | 10 |   |
+|  Flux Tombe | gus/guen. 3 |   |
+|  60 | 10,4 |   |
+|  10,4 | 26,1 |   |
+|  26,1 | 5 fort |   |
+|  2 fort | 1029.0 |   |
+|  10,8 | 10,8 |   |
+
+|  1. 6 février - 1902 | Obatin | Soir  |
+| --- | --- | --- |
+|  Hauteur Prazometrique | 1/2,8 | 1/3,1  |
+|  Direction du vent | 0.0 | 0.0  |
+|  Force | 4 fort | 3  |
+|  966 butosite | Reg. G. (10.0) | 0  |
+|  Direction des mages | 0 |   |
+|  Flux Tombe | 0.0 | 10  |
+|  10,6 | 10,6 | 12,6  |
+|  31,3 | 31,3 | 41,6  |
+|  3 fort | 3 fort | 3  |
+|  1029,9 | 1029,9 | 1028.9  |
+|  10,6 | 10,6 | 10,8  |

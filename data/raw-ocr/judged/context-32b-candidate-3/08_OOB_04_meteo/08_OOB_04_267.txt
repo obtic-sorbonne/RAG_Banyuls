@@ -1,0 +1,31 @@
+```plaintext
+# V. 26 Août. 1903 | Matin | Soir  |
+| --- | --- | --- |
+|  Hauteur Barométrique | 287.0 | 287.4  |
+|  Direction du vent | cr.cr. | cr.cr.  |
+|  Force | 1 fort | 1 fort  |
+|  (Reg. O. (terre)) | 10 | 10  |
+|  (Reg. E. (mer)) | 10 | 10  |
+|  Direction des nuages | cr.cr. | cr.cr.  |
+|  (Cluie tombée) | goulain. |  |
+|  Température de l'air | 31.3 | 38.1  |
+|  Hauteur de la mer | 11.3 | 18.2  |
+|  (Agitation de l'eau) | 1 fort | 1  |
+|  Densité au bout de la jetée | 1038.3 | 1039.4  |
+|  Température de l'eau | 19.3 | 30.3  |
+
+# V. 26 Août. 1903 | Matin | Soir  |
+| --- | --- | --- |
+|  Hauteur Barométrique | 287.9 | 287.3  |
+|  Direction du vent | cr.0 | cr.0  |
+|  Force | 3 | 3 fort  |
+|  (Reg. O. (terre)) | 10 | 10  |
+|  (Reg. E. (mer)) | 10 | 10  |
+|  Direction des nuages | cr.0 | cr.0  |
+|  (Cluie tombée) |  |  |
+|  Température de l'air | 31.0 | 31.3  |
+|  Hauteur de la mer | 45.1 | 19.0  |
+|  (Agitation de l'eau) | 3 fort | 3 fort  |
+|  Densité au bout de la jetée | 1038.3 | 1038.4  |
+|  Température de l'eau | 30.1 | 30.3  |
+```

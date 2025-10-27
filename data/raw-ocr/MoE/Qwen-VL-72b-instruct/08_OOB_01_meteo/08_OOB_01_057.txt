@@ -1,0 +1,18 @@
+| **Date**         | **9** **Septembre** **1900**      |
+|-------------------|-----------------------------------|
+| **Heure**        | **9 h.** | **3 s.**                   |
+| **Basse pression barométrique** | **770,4**                   |
+| **Direction du vent** | **Nul** | **S.E.**                  |
+| **Force**        | **1 juill.**                     |
+| **Nébulosité**   | **Rég. O (прош**) | **0** | **1** |
+|                  | **Rég. E (пн)** | **1** | **1** |
+| **Direction des nuages** |                                   |
+| **Pluie tombée** | **"**   | **"**                     |
+| **Température de l'air** | **21°,0** | **25°,1**               |
+| **Hauteur de l'eau** | **0,34** | **0,25**                 |
+| **Agitation de l'eau** | **0**   | **0**                   |
+| **Densité de l'eau** | **1025,7**                      |
+| **au bouillie jeté** |                                   |
+| **au large**     |                                   |
+| **Température de l'eau** | **21°,5**                     |
+| **Observateur**  |                                      |

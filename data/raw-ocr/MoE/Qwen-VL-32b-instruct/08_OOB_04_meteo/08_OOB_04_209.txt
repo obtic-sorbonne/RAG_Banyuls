@@ -1,0 +1,31 @@
+|  4. 31 M6ars. 1903 | M6atin | Soir  |
+| --- | --- | --- |
+|  Hauteur Pracométrique | 708.2 | 707.9  |
+|  Direction du vent | or.0 | or.0  |
+|  Force | 4 | 3 fort  |
+|  Reg.0. (1ère) | 3 figur | 10 figur  |
+|  Nébulosité |  |   |
+|  Reg. 2. (1me) | 1 | 10 figur  |
+|  Direction des nuages | or.0 | or.0  |
+|  Flux tombeau |  |   |
+|  Température de l'air | 17.3 | 18.0  |
+|  Hauteur de la mer | 17.9 | 71.9  |
+|  Capitation de l'eau | 3 fuite | 3 fort  |
+|  Densité au bout de la fuite | 1029.7 | 1028.4  |
+|  Température de l'eau | 12.7 | 13.0  |
+
+|  4. 1er (Avril - 1903) | M6atin | Soir  |
+| --- | --- | --- |
+|  Hauteur Pracométrique | 707.6 |   |
+|  Direction du vent | or.0 |   |
+|  Force | 1 fort |   |
+|  Reg.0. (1ère) | 3 figur |   |
+|  Nébulosité |  |   |
+|  Reg. 2. (1me) | 3 figur |   |
+|  Direction des nuages |  |   |
+|  Flux tombeau |  |   |
+|  Température de l'air | 14.0 |   |
+|  Hauteur de la mer | 18.0 |   |
+|  Capitation de l'eau | 1 fort |   |
+|  Densité au bout de la fuite | 1028.2 |   |
+|  Température de l'eau | 13.7 |   |

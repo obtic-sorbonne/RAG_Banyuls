@@ -1,0 +1,18 @@
+# Dalle - 12 Août - 1901
+
+|  **Nom** | **Nom de l'exploitant** | **Prix**  |
+| --- | --- | --- |
+|  Hounteur Prazometrique | J. F. S. | 705.1  |
+|  Direction du vent | N.N.O | N.N.O  |
+|  Force | 4 foot | 3  |
+|  Reg. O. (Verve) | 11 | 106.9  |
+|  Ébulosité |  |   |
+|  Reg. E. (mer) | 3 | 106.9  |
+|  Direction des nuages | Ouest | Ouest  |
+|  Huie tombée |  |   |
+|  Température de l'air | 30.3 | 38.3  |
+|  Hounteur de la mer | 50.4 | 48.9  |
+|  Égitation de l'eau | 3 | 3 foot  |
+|  Densité de l'eau | 1027.9 | 1027.5  |
+|  Lancer |  |   |
+|  Température de l'eau | 30.3 | 30.3  |

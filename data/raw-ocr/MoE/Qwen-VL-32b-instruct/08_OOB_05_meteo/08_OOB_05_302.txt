@@ -1,0 +1,6 @@
+| Date       | Heure | Baromètre (mm Hg) | Dir. Vent | Force Vent | Nébulosité (%) | Dir. Nuages | Pluie Tombé | Temp. Air (°C) | Taux Humid. (%) | Agitation Eau | Densité Jetée (m³/s) | Temp. Eau (°C) |
+|------------|-------|-------------------|-----------|------------|---------------|-------------|-------------|----------------|----------------|--------------|----------------------|----------------|
+| 1er Octobre 1907 | Matin | 762.7 | S.O. | 1/5 Fort | 10 (Clair) | S.O. | Non | 19.0 | 39.8 | Fort | 1027.9 | 21.1 |
+| 1er Octobre 1907 | Soir | 799.6 | S.O. | 1/5 | 10 (Clair) | S.O. | Non | 24.3 | 22.3 | Fort | 1027.9 | 21.7 |
+| 2 Octobre 1907 | Matin | 764.6 | S.S. | 2/8 Faible | 10 (Clair) | S.0 | Non | 21.3 | 27.3 | Fort | 1027.7 | 21.6 |
+| 2 Octobre 1907 | Soir | - | S.0 | - | 10 (Clair) | Non | Non | - | - | - | - | - |

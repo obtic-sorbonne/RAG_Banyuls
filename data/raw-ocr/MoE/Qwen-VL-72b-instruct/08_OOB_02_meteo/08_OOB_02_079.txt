@@ -1,0 +1,15 @@
+| **Date** | 28 Mai 1901 |
+|---|---|
+| **Heure** | **9h Matin** | **3h Soir** |
+| **Hauteur Barométrique** | 761.9 | 760.7 |
+| **Direction du vent** | Sud | Sud |
+| **Force** | Fort | 2 |
+| **Nébulosité** | Reg. O. (Terre) | 10 | 10 |
+| | Reg. E. (Mer) | 10 | 10 |
+| **Direction des nuages** | Sud | Sud |
+| **Pluie tombée** | " | " |
+| **Température de l'air** | 18.3 | 19.7 |
+| **Hauteur de la mer (pambeut de la jetée)** | 13.2 | 44.3 |
+| **Agnlration de l'eau** | 0 | 1 jalle |
+| **Densité de l'eau** | au Lorge |
+| **Température de l'eau** | 15.4 | 17.2 |

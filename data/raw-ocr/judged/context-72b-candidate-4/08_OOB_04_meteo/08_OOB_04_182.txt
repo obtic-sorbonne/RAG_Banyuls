@@ -1,0 +1,15 @@
+```plaintext
+# V. 22 Janvier 1903
+
+|  Heure | Hauteur Barométrique | Direction du Vent | Force | Nébulosité (système international) | Nébulosité (régl. É. - mer) | Pluie Tombée | Température de l'air | Hauteur de la mer | Agitation de l'eau | Densité au bout de la jetée | Température de l'eau |
+|--------|-----------------------|-------------------|-------|-----------------------------------|-----------------------------|--------------|----------------------|-------------------|---------------------|-----------------------------|----------------------|
+|  Matin | 767,3                | er. cr. 0         | 1/2 faible | 3 légère                    | 10                          | -            | 8,8                 | 47,3             | 3                  | 1027,0                     | 10,9                |
+|  Soir  | 767,5                | er. 8             | 1/2 faible | 1                             | 10                          | -            | 10,0                | 44,4             | 2                  | 1029,3                     | 10,7                |
+
+# V. 23 Janvier 1903
+
+|  Heure | Hauteur Barométrique | Direction du Vent | Force | Nébulosité (système international) | Nébulosité (régl. É. - mer) | Pluie Tombée | Température de l'air | Hauteur de la mer | Agitation de l'eau | Densité au bout de la jetée | Température de l'eau |
+|--------|-----------------------|-------------------|-------|-----------------------------------|-----------------------------|--------------|----------------------|-------------------|---------------------|-----------------------------|----------------------|
+|  Matin | 767,6                | Ouest             | 1/2 faible | 10                             | 10                          | -            | 6,9                 | 48,6             | 1                  | 1027,1                     | 9,6                 |
+|  Soir  | 767,2                | cr. cr. 0         | 1/2 faible | 10                             | 10                          | quelques g  | 10,6                | 46,9             | 2                  | 1024,9                     | 9,9                 |
+```

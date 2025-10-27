@@ -1,0 +1,31 @@
+# 9-2 Novembre 1901
+
+|  Nauteur Paromatique | 767.2 | 767.7  |
+| --- | --- | --- |
+|  Direction du vent | or.or.o | 8th  |
+|  Force | 1/201 | 17/20th  |
+|  Nocbulosité | 1 | 10  |
+|  Nocbulosité | 0 | 10  |
+|  Nocedition des nuages | or.or.o | 8th  |
+|  Nuit tombée | 11.2 | 14.3  |
+|  Température de l'air | 43.6 | 37.0  |
+|  Nauteur de la mer | 43.6 | 37.0  |
+|  Régulation de l'eau | 2 | 27/20th  |
+|  Sécurité au bout de la jetée | 1026.3 | 1027.3  |
+|  Température de l'eau | 17.1 | 17.6  |
+
+## 9-3 Novembre 1901
+
+|  Nauteur Paromatique | 769.4 | 769.6  |
+| --- | --- | --- |
+|  Direction du vent | or.or | 7.8  |
+|  Force | 1 | 1/20th  |
+|  Nocbulosité | 0 | 0  |
+|  Nocbulosité | 2 | 2  |
+|  Direction des nuages | 2nd | 2nd  |
+|  Nuit tombée | 16.0 | 17.1  |
+|  Température de l'air | 16.3 | 39.3  |
+|  Nauteur de la mer | 2/20th | 1/20th  |
+|  Régulation de l'eau | 1026.2 | 1027.8  |
+|  Sécurité au bout de la jetée | 17.4 | 17.7  |
+|  Température de l'eau |  |   |

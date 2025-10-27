@@ -1,0 +1,59 @@
+### OBSERVATIONS DU 1901 22 Mai
+
+| **Observation**                                 | **Valeur** |
+|-------------------------------------------------|------------|
+| Nombre de bateaux sortis (pêche à la Michael)    | 12         |
+| Température de l'air                             |            |
+| &ensp; maxima depuis la veille                   | 19,6       |
+| &ensp; minima                                  | 11,4       |
+| Température de l'eau                             |            |
+| &ensp; maxima depuis la veille                   | —          |
+| &ensp; minima                                  | —          |
+| Pluie tombée depuis la veille, en millimètres    | quelques   |
+| Évaporation depuis le 1900, en millimètres       | —          |
+
+| **Observation (Heure)**                         | **9 h**       | **3 h**       |
+|-------------------------------------------------|---------------|---------------|
+| Direction du vent (à terre)                      | N.N.O.        | N.            |
+| Force                                           | 2 forts       | 0             |
+| Direction des nuages                             | N.N.O.        | S.            |
+| Nébulosité                                       |               |               |
+| &ensp; région Ouest (terre)                      | 2             | 10            |
+| &ensp; région Est (mer)                          | 0             | 10            |
+| Hauteur de la mer, en centimètres, au-dessus du zéro | 36,4         | 33,3         |
+| Agitation de l'eau                               | 1 fort        | 1             |
+| Densité de l'eau au bout de la jetée              | 1027,9       | 1027,6       |
+| Température de l'eau au bout de la jetée          | 14,9         | 19,2         |
+| Température terrestre                            | 20,9 (21,6)   | —             |
+
+---
+
+### OBSERVATIONS DU 1901 23 Mai
+
+| **Observation**                                 | **Valeur** |
+|-------------------------------------------------|------------|
+| Nombre de bateaux sortis (pêche à la Michael)    | 12         |
+| Température de l'air                             |            |
+| &ensp; maxima depuis la veille                   | 20,1       |
+| &ensp; minima                                  | 14,3       |
+| Température de l'eau                             |            |
+| &ensp; maxima depuis la veille                   | —          |
+| &ensp; minima                                  | —          |
+| Pluie tombée depuis la veille, en millimètres    | quelques   |
+| Évaporation depuis le 1900, en millimètres       | —          |
+
+| **Observation (Heure)**                         | **9 h**       | **3 h**       |
+|-------------------------------------------------|---------------|---------------|
+| Direction du vent (à terre)                      | N.N.O.        | N.            |
+| Force                                           | 3 forts       | 3 forts       |
+| Direction des nuages                             | N.N.O.        | N.N.O.        |
+| Nébulosité                                       |               |               |
+| &ensp; région Ouest (terre)                      | 1             | 10            |
+| &ensp; région Est (mer)                          | 0             | 10            |
+| Hauteur de la mer, en centimètres, au-dessus du zéro | 42,2         | 38,9         |
+| Agitation de l'eau                               | 1 fort        | 1 fort        |
+| Densité de l'eau au bout de la jetée              | 1027,6       | 1027,4       |
+| Température de l'eau au bout de la jetée          | 14,6         | 15,2         |
+| Température terrestre                            | 21,7         | 19,2         |
+| Maximale                                         | 22,1         | 22,1         |
+| Minimale                                         | —            | —            |

@@ -1,0 +1,17 @@
+# Date: 23 Janvier 1902
+
+|  | 9th Matin | 3e Soir |
+| --- | --- | --- |
+| Hauteur Barométrique | 768,5 | 763,6 |
+| Direction du vent | Ouest | Ouest |
+| Force | 1 faible | 3 faible |
+| Nébulosité { Reg. C. (terre) } | 0 | 0 |
+| Nébulosité { Reg. E. (mer) } | 0 | 0 |
+| Direction des nuages | Ouest | Ouest |
+| Pluie tombée | - | - |
+| Température de l'air | 8,4 | 10,7 |
+| Hauteur de la mer | 49,1 | 19,0 |
+| Agitation de l'eau | 3 | 2 |
+| Densité de l'eau { au bout de la jetée } | 1029,4 | 1029,4 |
+| Densité de l'eau { au large } | - | - |
+| Température de l'eau | 12,1 | 12,4 |

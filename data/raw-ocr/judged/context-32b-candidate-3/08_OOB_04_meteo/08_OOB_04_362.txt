@@ -1,0 +1,33 @@
+```plaintext
+# 18 Avril 1902
+
+|  Name | Position  |
+| --- | --- |
+|  Hauteur Praxometrique | 2/7.8  |
+|  Direction du vent | or.0  |
+|  Force | 4  |
+|  Nébulosité | Reg. 0. (terre)  |
+|  Direction des nuages | Reg. 0. (terre)  |
+|  Pluie tombée | Reg. 2. (mer)  |
+|  Température de l'air | 16.7  |
+|  Hauteur de la mer | 37.1  |
+|  Agitation de l'eau | 1 fort  |
+|  Densité au bout de la jetée | 1029.0  |
+|  Température de l'eau | 14.2  |
+
+# 19 Avril 1902
+
+|  Name | Position  |
+| --- | --- |
+|  Hauteur Praxometrique | 2/7.7  |
+|  Direction du vent | or.0  |
+|  Force | 3 fort  |
+|  Nébulosité | Reg. 0. (terre)  |
+|  Direction des nuages | 10  |
+|  Pluie tombée | 2.87  |
+|  Température de l'air | 16.8  |
+|  Hauteur de la mer | 3  |
+|  Agitation de l'eau | 1 fort  |
+|  Densité au bout de la jetée | 1028.0  |
+|  Température de l'eau | 14.4  |
+```

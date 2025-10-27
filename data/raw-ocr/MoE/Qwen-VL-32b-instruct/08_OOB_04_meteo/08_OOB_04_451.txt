@@ -1,0 +1,29 @@
+# V. 8 Décembre 1904
+
+|  Hauteur | Parométrique  |
+| --- | --- |
+|  Direction du vent | 760,6  |
+|  Force | 15  |
+|  Nébulosité | (Reg. o. (tane))  |
+|  Direction des mages | 10  |
+|  Pluie tombe | 10  |
+|  Température de l'air | 18,2  |
+|  Hauteur de la mer | 54,6  |
+|  Crétation de l'eau | 2  |
+|  Densité au bout de la jetée | 1029,1  |
+|  Température de l'eau | 14,6  |
+
+# V. 9 Décembre 1904
+
+|  Hauteur | Parométrique  |
+| --- | --- |
+|  Direction du vent | 1/6,7  |
+|  Force | 15  |
+|  Nébulosité | (Reg. o. (tane))  |
+|  Direction des mages | 3  |
+|  Pluie tombe | 3  |
+|  Température de l'air | 11,9  |
+|  Hauteur de la mer | 31,1  |
+|  Crétation de l'eau | 1,6  |
+|  Densité au bout de la jetée | 1,029,1  |
+|  Température de l'eau | 11,6  |

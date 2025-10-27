@@ -1,0 +1,16 @@
+V. 19 Mars. 1903
+
+|  Hauteur Barométrique | Matin | Soir |
+| --- | --- | --- |
+|  | 762.7 | 760.4 |
+|  Direction du vent | 3.6 | 3.6 |
+|  Force | 3 fort | 3 fort |
+|  Nébulosité (Reg. O. (terre)) | 0 | 0 |
+|  Nébulosité (Reg. E. (mer)) | 0 | 0 |
+|  Direction des nuages |  |  |
+|  Pluie tombée |  |  |
+|  Température de l'air | 15.0 | 15.0 |
+|  Hauteur de la mer | 68.7 | 68.7 |
+|  Agitation de l'eau | 1 | 1 |
+|  Densité au bout de la jetée | 102.8 | 102.8 |
+|  Température de l'eau | 12.5 | 12.5 |

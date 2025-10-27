@@ -1,0 +1,27 @@
+|  V. 1er Juin - 1904 | Obatin | - Soir  |
+| --- | --- | --- |
+|  Hanteur Marométrique | 263.0 | 263.6  |
+|  Correction sur vent | vent | vent  |
+|  Force | 4 | 2 fort  |
+|  Obébutoïde | Reg. G. (rime) | 2  |
+|  Correction | 1 Reg. E. (mor) | 0  |
+|  Correction | 1 000 | 0  |
+|  2 Prise tombié | 31.1 | 31.2  |
+|  Comprendre le l'air | 48.6 | 19.6  |
+|  Hanteur de la mer | 2 fort | 2 fort  |
+|  Cogitation de l'eau | 1022.2 | 1022.1  |
+|  Bientôt au bout de la jetée | 18.8 | 18.3  |
+|  Comprendre le l'eau |  |   |
+|  V. 2 Juin - 1904 | Obatin | - Soir  |
+|  Hanteur Marométrique | 268.3 | 267.2  |
+|  Correction sur vent | 000.0 | 000.0  |
+|  Force | 3 | 3  |
+|  Obébutoïde | Reg. G. (rime) | 10  |
+|  Correction | 100 | 100  |
+|  Correction | 100 | 100  |
+|  2 Prise tombié | 18.1 | 23.6  |
+|  Comprendre le l'air | 18.1 | 65.2  |
+|  Hanteur de la mer | 19.2 | 65.2  |
+|  Cogitation de l'eau | 2 fort | 2  |
+|  Bensité au bout de la jetée | 1028.0 | 1028.2  |
+|  Comprendre le l'eau | 18.1 | 18.2  |

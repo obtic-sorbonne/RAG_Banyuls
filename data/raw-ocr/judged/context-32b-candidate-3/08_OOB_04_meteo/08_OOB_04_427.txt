@@ -1,0 +1,43 @@
+# 7.3 Octobre 1904
+
+|  Hauteur | Praxometrique | Direction du vent | Force | (Rég. O. (terre))  |
+| --- | --- | --- | --- | --- |
+|  Matin | 766.0 | --- | 2.5 | 0  |
+|  Soir | 766.0 | --- | 1 | 0  |
+|  Matin |  |  |  |  |
+|  Soir |  |  |  |  |
+|  Matin |  |  |  |  |
+|  Soir |  |  |  |  |
+|  Matin |  |  |  |  |
+|  Soir |  |  |  |  |
+|  Matin |  |  |  |  |
+|  Soir |  |  |  |  |
+|  Matin |  |  |  |  |
+|  Soir |  |  |  |  |
+|  Matin |  |  |  |  |
+|  Soir |  |  |  |  |
+|  Matin |  |  |  |  |
+|  Soir |  |  |  |  |
+|  Matin |  |  |  |  |
+|  Soir |  |  |  |  |
+|  Matin |  |  |  |  |
+|  Soir |  |  |  |  |
+|  Matin |  |  |  |  |
+|  Soir |  |  |  |  |
+|  Matin |  |  |  |  |
+|  Soir |  |  |  |  |
+|  Matin |  |  |  |  |
+|  Soir |  |  |  |  |
+|  Matin |  |  |  |  |
+|  Soir |  |  |  |  |
+|  Matin |  |  |  |  |
+|  Soir |  |  |  |  |
+
+---
+
+|  Température de l'air | 18.0 | 18.0  |
+| --- | --- | --- |
+|  Hauteur de la mer | 43.7 | 86.7  |
+|  Agitation de l'eau | 1 fort | 8 legère  |
+|  Densité au bout de la jetée | 1027.5 | 1027.5  |
+|  Température de l'eau | 19.7 | 80.0  |

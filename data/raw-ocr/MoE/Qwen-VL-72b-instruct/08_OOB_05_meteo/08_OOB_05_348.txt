@@ -1,0 +1,26 @@
+| Date | Matin | Soir |
+|---|---|---|
+| 30 Janvier 1908 | | |
+| Hauteur Barométrique | 760,3 | 761,8 |
+| Direction du Vent | cr. o | cr. o |
+| Force | 3 fort | 6 fort |
+| Nebulosite (Reg. 6. claire) | 60 | 3 |
+| Direction des nuages | cr. 8 | croix |
+| Pluie tombée | " | " |
+| Température de l'air | 1,8 | 7,0 |
+| Hauteur de la mer | 3 | 12,6 |
+| Agitation de l'eau | 3 fort | 3 |
+| Devinité au bout de la jetée | | |
+| Température de l'eau | 3 | 3 |
+| 31 Janvier 1908 | | |
+| Hauteur Barométrique | 764,8 | 766,3 |
+| Direction du Vent | cr. o | cr. o |
+| Force | 3 fort | 3 fort |
+| Nebulosite (Reg. 6. claire) | 2 | 3 |
+| Direction des nuages | croix | cr. 8 |
+| Pluie tombée | " | " |
+| Température de l'air | 1,8 | 9,4 |
+| Hauteur de la mer | 18,1 | 60,2 |
+| Agitation de l'eau | 3 | 3 fort |
+| Devinité au bout de la jetée | 1029,0 | 1028,2 |
+| Température de l'eau | 11,3 | 11,3 |

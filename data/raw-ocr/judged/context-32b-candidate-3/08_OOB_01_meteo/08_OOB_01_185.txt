@@ -1,0 +1,19 @@
+# Date - 27 Janvier 1901
+
+|  | 9. Matin | 3. Soir |
+| --- | --- | --- |
+| **Hauteur Barométrique** | 704,3 | 703,0 |
+| **Direction du vent** | Nord | Nord |
+| **Force** | 3, faible | 3, faible |
+| **Nébulosité** | 2 | 2 |
+| **Rég. E. (terre)** | 10 | 10 |
+| **Rég. E. (mer)** | 10 | 10 |
+| **Direction des nuages** | Nord | Nord |
+| **Pluie tombée** | 11,7 | 11,7 |
+| **Température de l'air** | 7,5 | 7,5 |
+| **Hauteur de la mer** | 57,1 | 57,1 |
+| **Agitation de l'eau** | 3, faible | 3, fort |
+| **Densité de l'eau** | 1028,3 | 1028,3 |
+| **au bout de la jetée** | 1028,3 | 1028,3 |
+| **au large** | 1028,3 | 1028,3 |
+| **Température de l'eau** | 11,9 | 11,9 |

@@ -1,0 +1,27 @@
+| V. 12 Mars. 1907 | Matin | Soir |
+|------------------|-------|------|
+| Hauteur Barométrique | 767,0 | 767,0 |
+| Direction du vent | cr.o | cr.o |
+| Force | 6 fort | 6 fort |
+| Nébulosité | 0 | 0 |
+| Nébulosité | (Res. 0. Aire) | 1 | 1 |
+| Direction des nuages | cr.o | cr.o |
+| Pluie tombée | quelques g | " |
+| Température de l'air | 5,9 | 8,2 |
+| Hauteur de la mer | 69,2 | 73,3 |
+| Agitation de l'eau | 3 | 3 fort |
+| Densité au bout de la jetée | 1029,3 | 1029,4 |
+| Température de l'eau | 10,9 | 10,4 |
+| V. 13 Mars. 1907 | Matin | Soir |
+| Hauteur Barométrique | 769,5 | 767,8 |
+| Direction des nuages | N.O.S | cr.cr.o |
+| Pluie tombée | " | 4,4 |
+| Température de l'air | 7,3 | 12,0 |
+| Hauteur de la mer | 69,0 | 70,8 |
+| Agitation de l'eau | 3 | 3 |
+| Densité au bout de la jetée | 1029,7 | 1029,6 |
+| Nébulosité | (Res. c. (tonne)) | 10 | 10 |
+| Nébulosité | (Res. 2. cour) | 10 | 10 |
+| Direction du vent | cr.cr.o | cr.cr.o |
+| Force | 8 fort | 6 faible |
+| Température de l'eau | 10,3 | 10,4 |

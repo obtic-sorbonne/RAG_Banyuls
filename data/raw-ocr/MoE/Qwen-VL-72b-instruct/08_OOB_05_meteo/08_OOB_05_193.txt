@@ -1,0 +1,29 @@
+| V. 29 Décembre - 1906 | Matin | Soir |
+|-----------------------|-------|------|
+| Hauteur Barométrique  | 777.6 | 777.0 |
+| Direction du Vent     | N.O   | N.O  |
+| Force                 | 3 faible | 2 faible |
+| Nébulosité            | 1     | 10   |
+| Reg. O. (claire)      |       |      |
+| Reg. X. (nu)          | 2     | 10   |
+| Direction des nuages  | N.O   | N.O  |
+| Pluie tombée          | "     | "    |
+| Température de l'air  | 3.4   | 0.4  |
+| Hauteur de la mer     | 33.6  | 47.4 |
+| Agitation de l'eau    | 3     | 2 fort |
+| Densité au bout de la jetée | 1028.7 | 1028.7 |
+| Température de l'eau  | 11.2  | 11.2 |
+| V. 31 Décembre - 1906 | Matin | Soir |
+| Hauteur Barométrique  | 763.4 | 764.3 |
+| Direction du Vent     | S.O   | S.O  |
+| Force                 | 1 faible | 1    |
+| Nébulosité            | 10    | 10   |
+| Reg. O. (claire)      |       |      |
+| Reg. X. (nu)          | 10    | 10   |
+| Direction des nuages  | N.O   | N.O  |
+| Pluie tombée          | quelques | 11   |
+| Température de l'air  | 3.7   | 2.6  |
+| Hauteur de la mer     | 33.8  | 48.7 |
+| Agitation de l'eau    | 2 fort | 1 fort |
+| Densité au bout de la jetée | 1029.7 | 1029.7 |
+| Température de l'eau  | 11.4  | 11.7 |

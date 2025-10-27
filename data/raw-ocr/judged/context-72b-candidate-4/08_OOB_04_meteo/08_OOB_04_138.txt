@@ -1,0 +1,32 @@
+```plaintext
+| **Date et Heure**              | **Matin**      | **Soir**       |
+|--------------------------------|----------------|----------------|
+| **24 Septembre 1902**          |                |                |
+| Hauteur Barométrique (mmHg)    | 767.4          | 767.2          |
+| Direction du Vent              | er. cr. o      | er. cr. o      |
+| Force du Vent                  | 3              | 3              |
+| Nébulosité (%)                 | 10             | 10             |
+| Reg. O. (terre)                | 10             | 10             |
+| Reg. E. (mer)                  | 10             | 10             |
+| Direction des nuages           | er. cr. o      | er. cr. o      |
+| Pluie Tombée                   | quelques g     | quelques g     |
+| Température de l'Air (°C)      | 18.2           | 20.4           |
+| Hauteur de la Mer (m)          | 42.7           | 38.7           |
+| Agitation de l'Eau             | 3              | 3              |
+| Densité au Bout de la Jetée (Kg/m³) | 1028.2 | 1027.8         |
+| Température de l'Eau (°C)      | 20.1           | 20.5           |
+| **25 Septembre 1902**          |                |                |
+| Hauteur Barométrique (mmHg)    | 768.7          | 767.4          |
+| Direction du Vent              | er. cr. o      | er. cr. o      |
+| Force du Vent                  | 2 fort         | 2              |
+| Nébulosité (%)                 | 10             | 10             |
+| Reg. O. (terre)                | 10             | 10             |
+| Reg. E. (mer)                  | 10             | 10             |
+| Direction des nuages           | er. cr. o      | er. cr. o      |
+| Pluie Tombée                   | quelques g     | quelques g     |
+| Température de l'Air (°C)      | 15.7           | 16.3           |
+| Hauteur de la Mer (m)          | 48.0           | 43.6           |
+| Agitation de l'Eau             | 2 fort         | 2 fort         |
+| Densité au Bout de la Jetée (Kg/m³) | 1027.9 | 1027.8         |
+| Température de l'Eau (°C)      | 20.1           | 19.8           |
+```

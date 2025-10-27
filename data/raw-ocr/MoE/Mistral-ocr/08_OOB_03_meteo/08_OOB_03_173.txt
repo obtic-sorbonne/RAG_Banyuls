@@ -1,0 +1,16 @@
+# Date. 18 Avril. 1902
+
+|  Name | 9th Matin. 3rd Jour.  |
+| --- | --- |
+|  Hauteur Marométrique | 762.3  |
+|  Direction du vent | or. or.  |
+|  Force | 2 fois  |
+|  Métbulosité (deg. O. (1000)) | 0  |
+|  Direction des nuages | 2  |
+|  Épic. tombée | "  |
+|  Température de l'air | 11.8  |
+|  Hauteur de la mer | 42.9  |
+|  Égitation de l'eau | 1 fois  |
+|  Densité de l'eau | 1026.4  |
+|  Partage |   |
+|  Température de l'eau | 14.3  |

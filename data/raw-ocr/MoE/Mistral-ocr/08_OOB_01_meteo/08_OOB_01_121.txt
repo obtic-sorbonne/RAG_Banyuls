@@ -1,0 +1,18 @@
+# Date. 24 Novembre. 1900.
+
+|  |   |   |
+| --- | --- | --- |
+|  Hantour Hécrométrique | 9". Maturin | 3". Soir  |
+|  Direction du vent | 255,1 | 255,2  |
+|  Pour |  | 4/10  |
+|  Reg. 0. (livre) |  | 4/10  |
+|  Tributosité | 4 faible | 4/10  |
+|  Reg. E. (mur) | 10.154,700,000 | 0  |
+|  Direction des nuages |  | 10.154,700,000  |
+|  Phin tombé |  | 10.154,700,000  |
+|  Température de l'air | 9.5 | 12.5  |
+|  Hantour de la mer | 27.6 | 42.7  |
+|  Réputation de l'eau | 3 faible | 3 fort  |
+|  Densité de l'eau | 1029,6 | 1029,2  |
+|  |   |   |
+|  Température de l'eau | 14,3 | 13,3  |

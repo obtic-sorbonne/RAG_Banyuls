@@ -1,0 +1,28 @@
+```plaintext
+| **Date**       | **Matin** | **Soir**  | **Paramètre**                   | **Valeur Matin** | **Valeur Soir** |
+|----------------|-----------|-----------|--------------------------------|------------------|------------------|
+| V. 20 Mars. 1902 |           |           | Hauteur Barométrique            | 760,2            |                  |
+|                |           |           | Direction du vent              | S-8              |                  |
+|                |           |           | Force                         | 1.5              |                  |
+|                |           |           | Nébulosité                    | 3                |                  |
+|                |           |           |                               | 2                |                  |
+|                |           |           | Direction des nuages          | S-8              |                  |
+|                |           |           | Pluie tombée                    | "                |                  |
+|                |           |           | Température de l'air           | 12,8             |                  |
+|                |           |           | Hauteur de la mer              | 10,5             |                  |
+|                |           |           | Agitation de l'eau             | 1                |                  |
+|                |           |           | Densité au bout de la jetée    | 1027,9           |                  |
+|                |           |           | Température de l'eau          | 13,3             |                  |
+| V. 21 Mars. 1902 |           |           | Hauteur Barométrique            | 741,2            | 741,1            |
+|                |           |           | Direction du vent              | Ouest             | Sud              |
+|                |           |           | Force                         | 1.5              | 2 fort            |
+|                |           |           | Nébulosité                    | 10 légère         | 10 légère         |
+|                |           |           |                               |                  |                  |
+|                |           |           | Direction des nuages          | Sud              | Sud              |
+|                |           |           | Pluie tombée                    | "                | "                |
+|                |           |           | Température de l'air           | 13,7             | 17,9             |
+|                |           |           | Hauteur de la mer              | 42,2             | 40,5             |
+|                |           |           | Agitation de l'eau             | 1 faible          | 1 fort            |
+|                |           |           | Densité au bout de la jetée    | 1028,3           | 1028,4           |
+|                |           |           | Température de l'eau          | 12,6             | 13,1             |
+```

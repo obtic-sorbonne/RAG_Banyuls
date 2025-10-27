@@ -1,0 +1,19 @@
+# Date: 23 Octobre 1900
+
+|   | 9e Matin | 3e Soir  |
+| --- | --- | --- |
+|  Hauteur barométrique | 300,5 | 300,3  |
+|  Direction du vent | Est | Est  |
+|  Force | 4 | 3  |
+|  Nébulosité | 10 | 10  |
+|  Rég. E. (terre) | 10 | 10  |
+|  Direction des nuages | Est | Ouest  |
+|  Pluie tombée | 11 | 11  |
+|  Température de l'air | 10 | 10,9  |
+|  Hauteur de la mer | 48,2 | 52,2  |
+|  Agitation de l'eau | 3 | 3  |
+|  Densité de l'eau (au bout de la jetée) | 1029,0 | 1029,0  |
+|  Densité de l'eau (au large) | 1,3 | 10,1  |
+|  Température de l'eau | 16,8 | 18,2  |
+
+Observat. —

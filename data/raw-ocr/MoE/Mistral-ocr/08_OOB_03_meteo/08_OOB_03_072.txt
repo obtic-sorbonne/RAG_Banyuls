@@ -1,0 +1,18 @@
+# Bate, 9 Novembre 1901
+
+|   | 9th Station | 3rd Soir  |
+| --- | --- | --- |
+|  Hauteur Parométrique | 754.5 | 753.9  |
+|  Direction du vent | nnoffable | N.N.O  |
+|  Force | 3 faible | 1 faible  |
+|  Reg. O. (lire) | 0 | 0  |
+|  Pénélosité |  |   |
+|  Reg. E. (m/s) | 0 | 0  |
+|  Direction des nuages | 8.8 E | 11  |
+|  Mise tombée |  |   |
+|  Température de l'air | 7.4 | 3.7  |
+|  Hauteur de la mer | 13.5 | 42.1  |
+|  Agitation de l'eau | 2 | 3 font  |
+|  Densité de l'eau | pan bont de la jolie | 1029.9  |
+|  |   |   |
+|  Température de l'eau | 13.0 | 14.0  |

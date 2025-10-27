@@ -1,0 +1,6 @@
+| Date       | Horaire | Hauteur Barométrique | Direction du vent | Force | Rég. O. (ciel clair) | Rég. E. (murs) | Nuance des nuages | Pluie tombée | Température de l'air (°C) | Hauteur de la mer (m) | Agitation de l'eau | Densité au bout de la jetée | Température de l'eau (°C) |
+|------------|--------|-----------------------|--------------------|-------|----------------------|----------------|------------------|--------------|-----------------------------|----------------------|------------------------|-----------------------------|-----------------------------|
+| V. 21 Novembre 1902 | Matin | 764.4 | cr. cr. o | 3 | 10 | 10 | cr. cr. o | - | 7.2 | 91.2 | 3 | 1029.2 | 14.9 |
+| Soir | 763.3 | cr. o | 2 foil | 0 | 0 | - | w. o. o | - | 10.2 | 44.6 | 3 foible | 1029.2 | 14.6 |
+| V. 22 Novembre 1902 | Matin | 769.0 | S. o | faible | 10 | 10 | S. o | - | 8.4 | 93.4 | 2 foil | 1028.9 | 19.0 |
+| Soir | 764.9 | cr. o | 1 | 10 | 10 | - | cr. cr. o | quelque g | 13.3 | 46.9 | 1 foil | 1028.8 | 19.0 |

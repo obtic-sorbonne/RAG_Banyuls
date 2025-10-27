@@ -1,0 +1,25 @@
+```plaintext
+                 54
+Sortie du 15 8 1901
+
+Départ de Banyuls à 7.31 heures du matin
+pour Port-Vendres. Arrivée à 8 h. 16
+
+Départ de P. V. à 11 h. 15 heures du matin
+pour Banyuls. Arrivée au mouillage à 11 h. 10 du matin
+
+État du temps: Beau
+
+Passagers à bord: M. Pruvot, M. Darboux, M. Matz
+
+Objet de la sortie: Pour pièces d'anthropophages et hydrauliques
+dans le port
+
+Consommation
+- Briquettes de bois | Poids en Kilos
+- Huile             | Total en litres
+
+Dépenses
+
+Observations:
+```

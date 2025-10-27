@@ -1,0 +1,27 @@
+|  V. 12 Septembre - 1906 | Nibautie | Soir  |
+| --- | --- | --- |
+|  Hanteur Nassométrique | 255,2 | 256,2  |
+|  Direction du vent |  | 256,2  |
+|  Force | 5 | 5  |
+|  Nébautisite | Reg. o. (lire) | 10  |
+|  Direction des mages |  | 10  |
+|  Nuit tombée |  | 25,7  |
+|  Composition de l'air | 22,0 | 22,7  |
+|  Nauteur de la mer | 21,7 | 21,7  |
+|  Ventilation de l'eau | 21,7 | 21,7  |
+|  Sensité au bout de la jetée | 1028,2 | 1028,0  |
+|  Composition de l'eau | 21,4 | 22,0  |
+
+|  V. 13 Septembre - 1906 | Nibautie | Soir  |
+| --- | --- | --- |
+|  Hanteur Nassométrique | 255,2 | 254,5  |
+|  Direction du vent |  | 255,8  |
+|  Force | 10 | 10  |
+|  Nébautisite | Reg. o. (lire) | 10  |
+|  Direction des mages |  | 10  |
+|  Nuit tombée |  | 10  |
+|  Composition de l'air | 21,7 | 25,7  |
+|  Nauteur de la mer | 21,7 | 25,7  |
+|  Ventilation de l'eau | 21,7 | 21,7  |
+|  Sensité au bout de la jetée | 1028,8 | 1028,4  |
+|  Composition de l'eau | 21,8 | 22,0  |

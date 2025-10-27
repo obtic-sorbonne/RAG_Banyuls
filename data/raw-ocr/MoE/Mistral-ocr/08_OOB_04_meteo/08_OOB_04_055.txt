@@ -1,0 +1,40 @@
+# V. 21 Janvier - 1902
+
+|  **Plaatier** | **Praxismétrique** | **F.S.F.** | **Gent** | **Or.** | **F**  |
+| --- | --- | --- | --- | --- | --- |
+|  **Direction du vent** |  |  |  |  |   |
+|  **Force** |  |  |  |  |   |
+|  **Flieg. O.** | **1/2 (1/2)** |  |  |  |   |
+|  **5666** | **1** |  |  |  |   |
+|  **Direction des nuages** |  |  |  |  |   |
+|  **Plaque tombé** |  |  |  |  |   |
+|  **Démarche** | **8,8** |  |  |  |   |
+|  **Flieg. O.** | **10,5** |  |  |  |   |
+|  **Flieg. F.** | **10** |  |  |  |   |
+|  **Direction des nuages** |  |  |  |  |   |
+|  **Plaque tombé** |  |  |  |  |   |
+|  **Démarche** | **8,8** |  |  |  |   |
+|  **Flieg. O.** | **10,5** |  |  |  |   |
+|  **Flieg. F.** | **10** |  |  |  |   |
+|  **Débitation** | **1029,9** |  |  |  |   |
+|  **Démarche** | **1029,1** |  |  |  |   |
+|  **Démarche** | **1029,1** |  |  |  |   |
+|  **Démarche** | **1029,1** |  |  |  |   |
+|  **V. 21 Janvier - 1902** | **5666** |  |  |  |   |
+|  **Plaatier** | **Praxismétrique** |  |  |  |   |
+|  **Direction du vent** |  |  |  |  |   |
+|  **Force** |  |  |  |  |   |
+|  **Flieg. O.** | **1/2 (1/2)** |  |  |  |   |
+|  **5666** | **1** |  |  |  |   |
+|  **Débitation** | **8** |  |  |  |   |
+|  **Direction des nuages** |  |  |  |  |   |
+|  **Plaque tombé** |  |  |  |  |   |
+|  **Démarche** | **10** |  |  |  |   |
+|  **Flieg. O.** | **9,4** |  |  |  |   |
+|  **Flieg. F.** | **10,2** |  |  |  |   |
+|  **Débitation** | **10,1** |  |  |  |   |
+|  **Débitation** | **1029,3** |  |  |  |   |
+|  **Démarche** | **1029,2** |  |  |  |   |
+|  **Démarche** | **1029,2** |  |  |  |   |
+|  **Démarche** | **1029,2** |  |  |  |   |
+|  **V. 21 Janvier - 1902** | **11,4** |  |  |  |   |

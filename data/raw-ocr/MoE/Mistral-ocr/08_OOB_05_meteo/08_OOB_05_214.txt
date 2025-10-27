@@ -1,0 +1,35 @@
+# V. 2 Moars. 1907
+
+|  **Nation** | **Prix**  |
+| --- | --- |
+|  Hauteur Marométrique | 220.2  |
+|  Direction du tout | 0.0  |
+|  Force | 8  |
+|  (Rég. O. (lème)) | 10  |
+|  Hébulosité | 10  |
+|  (Rég. H. (mm)) | 10  |
+|  Direction des mages | 0.50  |
+|  Plein Tombee | 1  |
+|  Température de l'air | 10.9  |
+|  Hauteur de la mer | 14.6  |
+|  (Agitation de l'eau) | 1  |
+|  Densité au bout de la jetée | 1029.6  |
+|  (Dtempérature de l'eau) | 11.6  |
+
+# V. 3 Moars. 1907
+
+|  **Nation** | **Prix**  |
+| --- | --- |
+|  Hauteur Marométrique | 264.2  |
+|  Direction du tout | "  |
+|  Force | 0  |
+|  (Rég. O. (lème)) | 10  |
+|  Hébulosité | 10  |
+|  (Rég. H. (mm)) | 10  |
+|  Direction des mages | 0.0  |
+|  Plein Tombee | 1  |
+|  Température de l'air | 13.0  |
+|  Hauteur de la mer | 46.1  |
+|  (Agitation de l'eau) | 8  |
+|  Densité au bout de la jetée | 1029.4  |
+|  (Dtempérature de l'eau) | 4.3  |

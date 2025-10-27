@@ -1,0 +1,17 @@
+| Variables météorologiques          | 9h Matin                     | 3h Soir                     |
+|-----------------------------------|-----------------------------|-----------------------------|
+| **Hauter. Barometrique**          | 755,1                       | 755,2                       |
+| **Direction du vent**             | Nord                        | Nord                        |
+| **Force des vents**               | 4 Faible                    | 4 Fort                      |
+|  **Nebulosité**                   |                             |                             |
+|  Reg. O. (Terre)                  | 10 lég. couvert quelques mas |                             |
+|  Reg. E. (Mer)                    | 0gaches détachés           |                             |
+|  **Direction des nuages**         | Nord                        | Nord                        |
+| **Pluie tombée**                  | quelques gouttes           |                             |
+| **Temperature de l'air**          | 9,5                         | 12,5                        |
+| **Hautéur de la mer**             | 27,6                        | 42,7                        |
+| **Agitation de l'eau**            | 3 Faible                    | 3 Fort                      |
+| **Densité de l'eau**              |                             |                             |
+|  au bout de la jetée              | 1028,6                      | 1028,2                      |
+|  au large                        |                             |                             |
+| **Température de l'eau**          | 14,3                        | 13,3                        |

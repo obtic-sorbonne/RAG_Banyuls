@@ -1,0 +1,42 @@
+```
+OBSERVATIONS DU 1960 26 avril
+
+Nombre de bateaux sortis (pêche à la Traire)............... 34
+Température de l'air { maxima depuis la veille............... 16,6
+                     minima id.                            10,7
+Température de l'eau { maxima depuis la veille..............
+                     minima id.                            10
+Pluie tombée depuis la veille, en millim.................... 11
+Evaporation depuis le 3 mars 1960, en millim............... 0,110
+
+Direction du vent (à terre).............................................. à 9 h. m. à 3 h. s.
+Force................................................................. N.N.O. 1 fort
+Direction des nuages.................................................... N.N.O. N.N.O.
+Nébulosité { région Ouest (terre)................................. 10 10
+           id. Est (mer)................................................ 10 10
+Hauteur de la mer, en centimètres, au-dessus du zéro................. 84,6 84,6
+Agitation de l'eau...................................................... 2 2
+Densité de l'eau au bout de la jetée................................... 1028,0 1028,0
+Température id........................................................ 12,7 12,7
+
+
+OBSERVATIONS DU 1960 27 avril
+
+Nombre de bateaux sortis (pêche à la Traire)............... 34
+Température de l'air { maxima depuis la veille............... 16,0
+                     minima id.                            10,4
+Température de l'eau { maxima depuis la veille..............
+                     minima id.                            10
+Pluie tombée depuis la veille, en millim.................... quelques
+Evaporation depuis le 1960, en millim..................................
+
+Direction du vent (à terre).............................................. à 9 h. m. à 3 h. s.
+Force................................................................. Nord N.E
+Direction des nuages.................................................... 1 fort 1 fort
+Nébulosité { région Ouest (terre)................................. N.N.O. N.N.O.
+           id. Est (mer)................................................ 10 3
+Hauteur de la mer, en centimètres, au-dessus du zéro................. 44,6 84,2
+Agitation de l'eau...................................................... 1 fort 1
+Densité de l'eau au bout de la jetée................................... 1028,3 1027,8
+Température id........................................................ 12,9 14,1
+```

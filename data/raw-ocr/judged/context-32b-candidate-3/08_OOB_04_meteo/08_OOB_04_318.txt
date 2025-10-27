@@ -1,0 +1,16 @@
+```
+|  8. 23 X lire 1903 | Matin | Soir  |
+| --- | --- | --- |
+|  Hauteur Barométrique | 762.4 | 753.3  |
+|  Direction du vent | Ouest | Ouest  |
+|  Force | 2 fort | 1  |
+|  Nébulosité (Reg. O. (terre)) | 10 | 10  |
+|  Nébulosité (Reg. F. (mer)) | 10 | 10  |
+|  Direction des nuages | Ouest | Ouest  |
+|  Pluie tombée | 2.3 | 0  |
+|  Température de l'air | 10.6 | 9.7  |
+|  Hauteur de la mer | 30.6 | 18.3  |
+|  Agitation de l'eau | 3 | 1  |
+|  Densité au bout de la jetée | 1026.8 | 1027.3  |
+|  Température de l'eau | 12.2 | 11.3  |
+```

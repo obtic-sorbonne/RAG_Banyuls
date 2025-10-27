@@ -1,0 +1,29 @@
+|  8. 16 Juin - 1902 | Obatin | Soir  |
+| --- | --- | --- |
+|  Yanteur Ponométrique | 202,2 |   |
+|  Direction Su vent | or. |   |
+|  Force | 1 part. |   |
+|  Niebutosite | 10 |   |
+|  (Reg. O. (m. |  |   |
+|  Direction des nuages |  |   |
+|  Flux tombe |  |   |
+|  Température de l'air | 11,2 |   |
+|  Yanteur de la mer | 18,5 |   |
+|  Égitation de l'eau | 18 part. |   |
+|  Densité au bout de la jetée | 102,9 |   |
+|  Température de l'eau | 18,5 |   |
+
+|  9. 16 Juin - 1902 | Obatin | Soir  |
+| --- | --- | --- |
+|  Yanteur Ponométrique | 202,2 | 201,8  |
+|  Direction Su vent | or. |   |
+|  Force | Afr. |   |
+|  Niebutosite | (Reg. O. (m. |   |
+|  (Reg. E. (m. |  |   |
+|  Direction des nuages | or. |   |
+|  Flux tombe | 0 | 10  |
+|  Température de l'air | 11,0 | 18,1  |
+|  Yanteur de la mer | 19,5 | 48,5  |
+|  Égitation de l'eau | 2 | 2  |
+|  Densité au bout de la jetée | 102,9 | 102,9  |
+|  Température de l'eau | 11,8 | 16,2  |

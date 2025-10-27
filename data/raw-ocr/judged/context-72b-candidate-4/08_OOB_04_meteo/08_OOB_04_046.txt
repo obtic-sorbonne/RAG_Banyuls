@@ -1,0 +1,32 @@
+```plaintext
+| **Date**           | **Matin** |              | **Soir**    |              |
+|--------------------|-----------|--------------|-------------|--------------|
+| **2 janvier 1902** |           |              |             |              |
+| **Hauteur Barométrique** | 766,2 |              | 764,1       |              |
+| **Direction du vent**    | ---    |              | Ouest       |              |
+| **Force**               | 1/2    |              | 0           |              |
+| **Nébulosité**          |        | ---          | ---         |              |
+| **Reg. O. (Terre)**     | 10     |              | 10          |              |
+| **Reg. E. (Mer)**       | 10     |              | 10          |              |
+| **Direction des nuages** | ---   | --/ord       | ----/crois  |              |
+| **Pluie tombée**        | ---    | quelques g   | "---"       |              |
+| **Température de l'air** | 9,6   |              | 13,6        |              |
+| **Hauteur de la mer**   |       | 90,2         | 47,1        |              |
+| **Agitation de l'eau**  | 0      |              | 0           |              |
+| **Densité au bout de la jetée** | 1028,9 |            | 1028,9        |              |
+| **Température de l'eau** | ---   | 11,5         | ---         | 11,7        |
+| **3 janvier 1902** |           |              |             |              |
+| **Hauteur Barométrique** | 765,4 |              |             |              |
+| **Direction du vent**    | er.cr.0 |              | ---         |              |
+| **Force**               | 1/2    |              | 3 fort      |              |
+| **Nébulosité**          |        | ---          | ---         |              |
+| **Reg. O. (Terre)**     | 0      |              | ---         |              |
+| **Reg. E. (Mer)**       | 0      |              | ---         |              |
+| **Direction des nuages** | ---   | er.cr.0      | --/--       | ---         |
+| **Pluie tombée**        | ---    | ---         | ---         | ---         |
+| **Température de l'air** | 17,1  |              | ---         |              |
+| **Hauteur de la mer**   |       | 61,9         | ---         |              |
+| **Agitation de l'eau**  | 3     | ---          | 3 faible    |              |
+| **Densité au bout de la jetée** | 1028,8 |              | ---         | ---         |
+| **Température de l'eau** |      | 12,1         | ---         | ---         |
+```

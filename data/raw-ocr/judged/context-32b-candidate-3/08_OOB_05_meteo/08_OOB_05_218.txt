@@ -1,0 +1,35 @@
+```markdown
+# V. 12 Mars 1907
+
+| **Date**       | **Matin** | **Soir** |
+|----------------|-----------|----------|
+| **Hauteur barométrique** | 767.0 mmHg | 767.0 mmHg |
+| **Direction du vent** | cr. 0 | cr. 0 |
+| **Force** | 6 fort | 6 fort |
+| **Nébulosité (Res. O. (terre))** | 0 | 0 |
+| **Nébulosité (Res. 2. (mer))** | 0 | 0 |
+| **Direction des nuages** | cr. 0 | cr. 0 |
+| **Pluie tombée** | quelques g | " |
+| **Température de l'air** | 1.9 °C | 8.2 °C |
+| **Hauteur de la mer** | 0' 2 | 0' 8 |
+| **Agitation de l'eau** | 3 | 3 fort |
+| **Densité au bout de la jetée** | 1029.8 g/cm³ | 1029.4 g/cm³ |
+| **Température de l'eau** | 10.9 °C | 10.4 °C |
+
+# V. 13 Mars 1907
+
+| **Date**       | **Matin** | **Soir** |
+|----------------|-----------|----------|
+| **Hauteur barométrique** | 769.5 mmHg | 767.8 mmHg |
+| **Direction du vent** | cr. cr. 0 | cr. cr. 0 |
+| **Force** | 6 fort | 4 fort |
+| **Nébulosité (Res. O. (terre))** | 10 | 10 |
+| **Nébulosité (Res. 2. (mer))** | 10 | 10 |
+| **Direction des nuages** | cr. cr. 0 | cr. cr. 0 |
+| **Pluie tombée** | " | 4 fois |
+| **Température de l'air** | 7.3 °C | 12.0 °C |
+| **Hauteur de la mer** | 0' 0 | 0' 8 |
+| **Agitation de l'eau** | 3 | 3 |
+| **Densité au bout de la jetée** | 1029.7 g/cm³ | 1029.6 g/cm³ |
+| **Température de l'eau** | 10.3 °C | 10.4 °C |
+```

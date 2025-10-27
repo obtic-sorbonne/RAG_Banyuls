@@ -1,0 +1,1849 @@
+{
+  "book_name": "08_OOB_03_meteo",
+  "pages": [
+    {
+      "page_number": "001",
+      "raw_content": "plaintext",
+      "cleaned_content": "plaintext",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "002",
+      "raw_content": "plaintext",
+      "cleaned_content": "plaintext",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "003",
+      "raw_content": "plaintext Date Heure Temp C Pression mmHg Vent m s Humidit\u00e9 Remarques",
+      "cleaned_content": "plaintext Date Heure Temp C PressionmmHg Ventm s Humidit\u00e9 Remarques",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "004",
+      "raw_content": "Date 20 Septembre 1901 Heure 9H Matin 15H Soir Hauteur Barom\u00e9trique 760 4 758 3 Direction du vent Ouest S S E Force 1 3 N\u00e9bulosit\u00e9 Reg O terre 10 l\u00e9g\u00e8re C 10 l\u00e9g\u00e8re C Reg E mer 10 l\u00e9g\u00e8re C 10 l\u00e9g\u00e8re C Direction des nuages Ouest Sud Est Pluie tomb\u00e9e Temp\u00e9rature de l air 23 7 C 25 1 C Hauteur de la mer 38 7 m 36 1 m Agitation de l eau 1 faible 17 fort Densit\u00e9 de l eau Au bout de la jet\u00e9e 1027 6 kg m\u00b3 Au large 1027 5 kg m\u00b3 Temp\u00e9rature de l eau 20 1 C 19 8 C",
+      "cleaned_content": "Date 20 Septembre 1901 Heure 9H Matin 15H Soir Hauteur Barom\u00e9trique 760 4 758 3 Directionduvent Ouest S S E Force 1 3 N\u00e9bulosit\u00e9 Reg O terre 10 l\u00e9g\u00e8re C 10 l\u00e9g\u00e8re C Reg E mer 10 l\u00e9g\u00e8re C 10 l\u00e9g\u00e8re C Directiondesnuages Ouest Sud Est Pluietomb\u00e9e Temp\u00e9raturedel air 23 7 C 25 1 C Hauteurdelamer 38 7 m 36 1 m Agitationdel eau 1 faible 17 fort Densit\u00e9 del eau Auboutdelajet\u00e9e 1027 6 kgm\u00b3 Aularge 1027 5 kgm\u00b3 Temp\u00e9raturedel eau 20 1 C 19 8 C",
+      "entities": {
+        "dates": [
+          "20 Septembre 1901"
+        ]
+      }
+    },
+    {
+      "page_number": "005",
+      "raw_content": "Date 21 septembre 1901 Param\u00e8tres 9 sup e sup Matin 3 sup e sup Soir Haut Barom\u00e9trique 752 3 754 6 Direction du vent Ouest Nord Force du vent Bft 1 T faible 1 T fort N\u00e9bulosit\u00e9 Reg O Terre 10 10 Reg E Mer 10 10 Direction des nuages Ouest Ouest Pluie tomb\u00e9e 0 119 119 Temp\u00e9rature de l air 19 2 C 18 2 C Haut de la mer 28 9 23 4 Agitation de l eau 4 fort 4 fort Densit\u00e9 de l eau au bout de la jet\u00e9e 1027 7 1027 6 au large Temp\u00e9rature de l eau 17 9 C 18 4 C",
+      "cleaned_content": "Date 21 septembre 1901 Param\u00e8tres 9 supe sup Matin 3 supe sup Soir Haut Barom\u00e9trique 752 3 754 6 Directionduvent Ouest Nord Forceduvent Bft 1 T faible 1 T fort N\u00e9bulosit\u00e9 Reg O Terre 10 10 Reg E Mer 10 10 Directiondesnuages Ouest Ouest Pluietomb\u00e9e 0 119 119 Temp\u00e9raturedel air 19 2 C 18 2 C Hautdelamer 28 9 23 4 Agitationdel eau 4 fort 4 fort Densit\u00e9 del eauauboutdelajet\u00e9e 1027 7 1027 6 aularge Temp\u00e9raturedel eau 17 9 C 18 4 C",
+      "entities": {
+        "dates": [
+          "21 septembre 1901"
+        ]
+      }
+    },
+    {
+      "page_number": "006",
+      "raw_content": "Date 23 Septembre 1901 Heures 9 H Matin 18 H Soir Hauteur Barom\u00e9trique 777 7 777 2 Direction du vent Ouest Sud Force 1 frol 3 frol N\u00e9bulosit\u00e9 Reg 6 Terre 10 10 Reg E Mer 10 10 Direction des nuages Ouest Sud Pluie tomb\u00e9e quelques g Temp\u00e9rature de l air 19 7 21 4 Hauteur de la mer 32 1 16 7 Agitation de l eau 2 2 T frol Densit\u00e9 de l eau 1027 9 1027 9 Temp\u00e9rature de l eau 16 9 17 5",
+      "cleaned_content": "Date 23 Septembre 1901 Heures 9 H Matin 18 H Soir Hauteur Barom\u00e9trique 777 7 777 2 Directionduvent Ouest Sud Force 1 frol 3 frol N\u00e9bulosit\u00e9 Reg 6 Terre 10 10 Reg E Mer 10 10 Directiondesnuages Ouest Sud Pluietomb\u00e9equelquesg Temp\u00e9raturedel air 19 7 21 4 Hauteurdelamer 32 1 16 7 Agitationdel eau 2 2 T frol Densit\u00e9 del eau 1027 9 1027 9 Temp\u00e9raturedel eau 16 9 17 5",
+      "entities": {
+        "dates": [
+          "23 Septembre 1901"
+        ]
+      }
+    },
+    {
+      "page_number": "007",
+      "raw_content": "Observation Valeur Date 24 Septembre 1901 Heure 9h Matin 3h Soir Hauteur Barom\u00e9trique 760 7 Direction du vent N N O Force 15 N\u00e9bulosit\u00e9 Reg 0 Clair 10 l\u00e9g\u00e8remente Reg E mer 10 l\u00e9g\u00e8re c Direction des nuages N N O Pluie tomb\u00e9e ___ Temp\u00e9rature de l air 19 2 C Hauteur de la mer 41 9 m Agitation de l eau au bout de la jet\u00e9e 2 T fort au Large 10 7 9 Densit\u00e9 de l eau Temp\u00e9rature de l eau 17 5 C",
+      "cleaned_content": "Observation Valeur Date 24 Septembre 1901 Heure 9h Matin 3h Soir Hauteur Barom\u00e9trique 760 7 Directionduvent N N O Force 15 N\u00e9bulosit\u00e9 Reg 0 Clair 10 l\u00e9g\u00e8remente Reg E mer 10 l\u00e9g\u00e8rec Directiondesnuages N N O Pluietomb\u00e9e ___ Temp\u00e9raturedel air 19 2 C Hauteurdelamer 41 9 m Agitationdel eauauboutdelajet\u00e9e 2 T fortau Large 10 7 9 Densit\u00e9 del eau Temp\u00e9raturedel eau 17 5 C",
+      "entities": {
+        "dates": [
+          "24 Septembre 1901"
+        ]
+      }
+    },
+    {
+      "page_number": "008",
+      "raw_content": "Date 26 Septembre 1901 Heure 9h Matin 3h Soir Hauteur Barom\u00e9trique 764 3 764 6 Direction du vent N N O N N O Force 3 Fort 3 Fort Nu\u00e9bulosit\u00e9 Reg O Terre 10 l\u00e9g\u00e8re 10 l\u00e9g\u00e8re Reg E mer 10 10 Direction des nuages N N O N N O Pluie tomb\u00e9e Temp\u00e9rature de l air 19 6 20 4 Hauteur de la mer 48 4 43 2 Agitation de l eau 2 3 Densit\u00e9 de l eau au bout de la jet\u00e9e 1026 9 1026 6 au large Temp\u00e9rature de l eau 17 7 18 1",
+      "cleaned_content": "Date 26 Septembre 1901 Heure 9h Matin 3h Soir Hauteur Barom\u00e9trique 764 3 764 6 Directionduvent N N O N N O Force 3 Fort 3 Fort Nu\u00e9bulosit\u00e9 Reg O Terre 10 l\u00e9g\u00e8re 10 l\u00e9g\u00e8re Reg E mer 10 10 Directiondesnuages N N O N N O Pluietomb\u00e9e Temp\u00e9raturedel air 19 6 20 4 Hauteurdelamer 48 4 43 2 Agitationdel eau 2 3 Densit\u00e9 del eauauboutdelajet\u00e9e 1026 9 1026 6 aularge Temp\u00e9raturedel eau 17 7 18 1",
+      "entities": {
+        "dates": [
+          "26 Septembre 1901"
+        ]
+      }
+    },
+    {
+      "page_number": "009",
+      "raw_content": "Date 27 Septembre 1901 Donn\u00e9es m\u00e9t\u00e9orologiques 9h Matin 3h Soir Hauteur Barom\u00e9trique 767 7 767 2 Direction du vent N N O N N O Force du vent 3 Fort 2 T Fort N\u00e9bulosit\u00e9 Terre R\u00e9gul C l\u00e9g s e N\u00e9bulosit\u00e9 Mer 2 l\u00e9gere 2 Direction des images N N O N N O Pluie tomb\u00e9e Temp\u00e9rature de l air 20 0 21 6 Hauteur de la mer 47 6 49 4 Agitation de l eau au bout de la jet\u00e9e 3 3 Agitation de l eau au large Densit\u00e9 de l eau au bout de la jet\u00e9e 1027 2 1026 9 Densit\u00e9 de l eau au large Temp\u00e9rature de l eau 17 5 17 7",
+      "cleaned_content": "Date 27 Septembre 1901 Donn\u00e9esm\u00e9t\u00e9orologiques 9h Matin 3h Soir Hauteur Barom\u00e9trique 767 7 767 2 Directionduvent N N O N N O Forceduvent 3 Fort 2 T Fort N\u00e9bulosit\u00e9 Terre R\u00e9gul C l\u00e9gs e N\u00e9bulosit\u00e9 Mer 2 l\u00e9gere 2 Directiondesimages N N O N N O Pluietomb\u00e9e Temp\u00e9raturedel air 20 0 21 6 Hauteurdelamer 47 6 49 4 Agitationdel eauauboutdelajet\u00e9e 3 3 Agitationdel eauaularge Densit\u00e9 del eauauboutdelajet\u00e9e 1027 2 1026 9 Densit\u00e9 del eauaularge Temp\u00e9raturedel eau 17 5 17 7",
+      "entities": {
+        "dates": [
+          "27 Septembre 1901"
+        ]
+      }
+    },
+    {
+      "page_number": "010",
+      "raw_content": "Date 30 Septembre 1901 Observations 9 h Matin 3 h Soir Hauteur Barom\u00e9trique 769 4 Direction du vent Nord S S E Force 1 1 T faible 1 T fort R\u00e9gion R\u00e9g 0 Clere 10 10 R\u00e9gion R\u00e9g E mer 10 10 N\u00e9bulosit\u00e9 Direction des nuages Sud Sud Pluie tomb\u00e9e 0 072 0 011 Temp\u00e9rature de l air 18 6 19 4 Hauteur de la mer 34 7 48 8 Agitation de l eau 3 fort 3 fort Densit\u00e9 de l eau au bout de la jet\u00e9e 1027 5 1027 0 au Large Temp\u00e9rature de l eau 17 7 18 0",
+      "cleaned_content": "Date 30 Septembre 1901 Observations 9 h Matin 3 h Soir Hauteur Barom\u00e9trique 769 4 Directionduvent Nord S S E Force 1 1 T faible 1 T fort R\u00e9gion R\u00e9g 0 Clere 10 10 R\u00e9gion R\u00e9g E mer 10 10 N\u00e9bulosit\u00e9 Directiondesnuages Sud Sud Pluietomb\u00e9e 0 072 0 011 Temp\u00e9raturedel air 18 6 19 4 Hauteurdelamer 34 7 48 8 Agitationdel eau 3 fort 3 fort Densit\u00e9 del eauauboutdelajet\u00e9e 1027 5 1027 0 au Large Temp\u00e9raturedel eau 17 7 18 0",
+      "entities": {
+        "dates": [
+          "30 Septembre 1901"
+        ]
+      }
+    },
+    {
+      "page_number": "011",
+      "raw_content": "Observations 9H Matin 15H Soir HAUTEUR BAROM\u00c9TRIQUE 763 7 762 3 DIRECTION DU vent E S E Est FORCE 1 faible 1 faible N\u00c9BULOSIT\u00c9 terre 10 10 N\u00c9BULOSIT\u00c9 mer 10 10 DIRECTION DES NUAGES Est N N O PLUIE TOMB\u00c9E 0 mm 090 0 mm 003 TEMP\u00c9RATURE DE L AIR 18 5 18 6 HAUTEUR DE LA MER 21 1 36 7 AGITATION DE L EAU faible forte DENSIT\u00c9 DE L EAU au bout de la jet\u00e9e 1027 3 1026 7 DENSIT\u00c9 DE L EAU au Large trait trait TEMP\u00c9RATURE DE L EAU 17 5 17 6",
+      "cleaned_content": "Observations 9H Matin 15H Soir HAUTEUR BAROM\u00c9TRIQUE 763 7 762 3 DIRECTION DU vent E S E Est FORCE 1 faible 1 faible N\u00c9BULOSIT\u00c9 terre 10 10 N\u00c9BULOSIT\u00c9 mer 10 10 DIRECTION DES NUAGES Est N N O PLUIE TOMB\u00c9E 0 mm 090 0 mm 003 TEMP\u00c9RATURE DE L AIR 18 5 18 6 HAUTEUR DE LA MER 21 1 36 7 AGITATION DE L EAU faibleforte DENSIT\u00c9 DE L EAU auboutdelajet\u00e9e 1027 3 1026 7 DENSIT\u00c9 DE L EAU au Largetraittrait TEMP\u00c9RATURE DE L EAU 17 5 17 6",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "012",
+      "raw_content": "Date 2 Octobre 1901 M\u00e9trique 9 sup e sup Matin 15 sup e sup Soir Hauteur Barom\u00e9trique 766 1 764 7 Direction du vent Nord N N O Force 15 Fort 3 Nebulosit\u00e9 Reg O terre 1 4 Reg E mer 2 2 Direction des nuages Nord N N O Pluie tomb\u00e9e 0 sup m sup 006 0 Temp\u00e9rature de l air 15 7 19 1 Hauteur de la mer 40 8 38 1 Agitation de l eau 1 2 Densit\u00e9 de l eau au bout de la jet\u00e9e 1026 6 1022 9 au large Temp\u00e9rature de l eau 18 8 19 3",
+      "cleaned_content": "Date 2 Octobre 1901 M\u00e9trique 9 supe sup Matin 15 supe sup Soir Hauteur Barom\u00e9trique 766 1 764 7 Directionduvent Nord N N O Force 15 Fort 3 Nebulosit\u00e9 Reg O terre 1 4 Reg E mer 2 2 Directiondesnuages Nord N N O Pluietomb\u00e9e 0 supm sup 006 0 Temp\u00e9raturedel air 15 7 19 1 Hauteurdelamer 40 8 38 1 Agitationdel eau 1 2 Densit\u00e9 del eauauboutdelajet\u00e9e 1026 6 1022 9 aularge Temp\u00e9raturedel eau 18 8 19 3",
+      "entities": {
+        "dates": [
+          "2 Octobre 1901"
+        ]
+      }
+    },
+    {
+      "page_number": "013",
+      "raw_content": "Observations m\u00e9t\u00e9orologiques 9h Matin 3h Soir Hauteur Barom\u00e9trique 766 1 764 7 Direction du vent Nord N N O Force 1 3 M\u00e9bulosit\u00e9 Reg O cl\u00e8re 1 4 Reg E ma 2 2 Direction de nuages Nord N N O Pluie tomb\u00e9e 0 000 Temp\u00e9rature de l air 15 7 19 1 Hauteur de la mer 10 8 38 1 Agitation de l eau 1 2 Densit\u00e9 de l eau au bout de la jet\u00e9e 1026 6 au large 1022 9 Temp\u00e9rature de l eau 18 8 19 3 Date 3 Octobre 1901",
+      "cleaned_content": "Observationsm\u00e9t\u00e9orologiques 9h Matin 3h Soir Hauteur Barom\u00e9trique 766 1 764 7 Directionduvent Nord N N O Force 1 3 M\u00e9bulosit\u00e9 Reg O cl\u00e8re 1 4 Reg E ma 2 2 Directiondenuages Nord N N O Pluietomb\u00e9e 0 000 Temp\u00e9raturedel air 15 7 19 1 Hauteurdelamer 10 8 38 1 Agitationdel eau 1 2 Densit\u00e9 del eauauboutdelajet\u00e9e 1026 6 aularge 1022 9 Temp\u00e9raturedel eau 18 8 19 3 Date 3 Octobre 1901",
+      "entities": {
+        "dates": [
+          "3 Octobre 1901"
+        ]
+      }
+    },
+    {
+      "page_number": "014",
+      "raw_content": "Date 4 Octobre 1901 Observations 9h Matin 15h Soir Hauteur Barom\u00e9trique 766 1 764 4 Direction du vent N N 0 Occit Force 2 1 faible N\u00e9bulosit\u00e9 Reg O l\u00e8vre 0 10 N\u00e9bulosit\u00e9 Reg E mer Pl\u00e9ger c 10 Direction des nuages N N 0 N N 0 Pluie tomb\u00e9e quelques gg Temp\u00e9rature de l air 17 4 18 7 Hauteur de la mer 43 6 41 9 Agitation de l eau 1 T fort 1 T fort Densit\u00e9 de l eau au bout de la jet\u00e9e 1026 3 1026 6 Densit\u00e9 de l eau au Large Temp\u00e9rature de l eau 18 3 18 8",
+      "cleaned_content": "Date 4 Octobre 1901 Observations 9h Matin 15h Soir Hauteur Barom\u00e9trique 766 1 764 4 Directionduvent N N 0 Occit Force 2 1 faible N\u00e9bulosit\u00e9 Reg O l\u00e8vre 0 10 N\u00e9bulosit\u00e9 Reg E mer Pl\u00e9gerc 10 Directiondesnuages N N 0 N N 0 Pluietomb\u00e9equelquesgg Temp\u00e9raturedel air 17 4 18 7 Hauteurdelamer 43 6 41 9 Agitationdel eau 1 T fort 1 T fort Densit\u00e9 del eauauboutdelajet\u00e9e 1026 3 1026 6 Densit\u00e9 del eauau Large Temp\u00e9raturedel eau 18 3 18 8",
+      "entities": {
+        "dates": [
+          "4 Octobre 1901"
+        ]
+      }
+    },
+    {
+      "page_number": "015",
+      "raw_content": "Date 1 Octobre 1901 Param\u00e8tre 9 H Matin 15 H Soir Hauter Barom\u00e9trique 764 7 763 5 Direction du vent N N O N N O Force 2 1 e Fort N\u00e9bulosit\u00e9 Reg O cl\u00e8re 10 10 Reg E mer 10 10 Direction des nuages Ouest Ouest Pluie tomb\u00e9e Temp\u00e9rature de l air 16 3 17 4 Hauteur de la mer 0 9 37 3 Agitation de l eau 1 fort 1 T fort au bout de la jet\u00e9e 1026 7 1026 3 au Large Densit\u00e9 de l eau Temp\u00e9rature de l eau 17 8 18 4",
+      "cleaned_content": "Date 1 Octobre 1901 Param\u00e8tre 9 H Matin 15 H Soir Hauter Barom\u00e9trique 764 7 763 5 Directionduvent N N O N N O Force 2 1 e Fort N\u00e9bulosit\u00e9 Reg O cl\u00e8re 10 10 Reg E mer 10 10 Directiondesnuages Ouest Ouest Pluietomb\u00e9e Temp\u00e9raturedel air 16 3 17 4 Hauteurdelamer 0 9 37 3 Agitationdel eau 1 fort 1 T fortauboutdelajet\u00e9e 1026 7 1026 3 au Large Densit\u00e9 del eau Temp\u00e9raturedel eau 17 8 18 4",
+      "entities": {
+        "dates": [
+          "1 Octobre 1901"
+        ]
+      }
+    },
+    {
+      "page_number": "016",
+      "raw_content": "Date de l observation 06 10 1901 Param\u00e8tres m\u00e9t\u00e9orologiques 9 H Matin 15 H Soir ____ ____ ____ Hauteur barom\u00e9trique hPa 762 7 Direction du vent N N O Force Bft 2 3 \u00c9tendue de nuages R\u00e9gion 6 littoral 0 R\u00e9gion E mer 0 Pr\u00e9cipitations Pluie tomb\u00e9e Temp\u00e9rature de l air C 16 2 Agitation de la mer Tr\u00e8s forte Densit\u00e9 de l eau en kg m\u00b3 1026 7 Au bout de la jet\u00e9e En pleine mer Temp\u00e9rature de l eau C 18 5",
+      "cleaned_content": "Datedel observation 06 10 1901 Param\u00e8tresm\u00e9t\u00e9orologiques 9 H Matin 15 H Soir ____ ____ ____ Hauteurbarom\u00e9triquehPa 762 7 Directionduvent N N O Force Bft 2 3 \u00c9tenduedenuages R\u00e9gion 6 littoral 0 R\u00e9gion E mer 0 Pr\u00e9cipitations Pluietomb\u00e9e Temp\u00e9raturedel air C 16 2 Agitationdelamer Tr\u00e8sforte Densit\u00e9 del eauenkgm\u00b3 1026 7 Auboutdelajet\u00e9e Enpleinemer Temp\u00e9raturedel eau C 18 5",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "017",
+      "raw_content": "Date 07 Octobre 1901 Heure Matin 9h Soir 3h Hauteur Barom\u00e9trique mm 758 4 758 3 Direction du Vent N N O N N O Force du Vent faible faible M\u00e9trologie Reg O terre 1 0 Reg E mer 0 3 Direction des Nuages N N O N N O Pluie Tomb\u00e9e mm Temp\u00e9rature de l Air C 15 9 15 6 Hauteur de la Mer m Agitation de l Eau 3 forte 4 faible Densit\u00e9 de l Eau Au bout de la jet\u00e9e 1026 7 1026 9 Au large Temp\u00e9rature de l Eau C 18 5 18 6",
+      "cleaned_content": "Date 07 Octobre 1901 Heure Matin 9h Soir 3h Hauteur Barom\u00e9triquemm 758 4 758 3 Directiondu Vent N N O N N O Forcedu Ventfaiblefaible M\u00e9trologie Reg O terre 1 0 Reg E mer 0 3 Directiondes Nuages N N O N N O Pluie Tomb\u00e9emm Temp\u00e9raturedel Air C 15 9 15 6 Hauteurdela Merm Agitationdel Eau 3 forte 4 faible Densit\u00e9 del Eau Auboutdelajet\u00e9e 1026 7 1026 9 Aularge Temp\u00e9raturedel Eau C 18 5 18 6",
+      "entities": {
+        "dates": [
+          "07 Octobre 1901"
+        ]
+      }
+    },
+    {
+      "page_number": "018",
+      "raw_content": "Date 8 Octobre 1901 Hauteur Barom\u00e9trique 9h Matin 3h Soir 763 2 763 7 Direction du vent Nord Nord Force 3 fort 3 fort N\u00e9bulosit\u00e9 Reg O l\u00e8re 0 4 Reg E mer 0 1 Direction des nuages Nord Nord Pluie tomb\u00e9e Temp\u00e9rature de l air 15 4 17 2 Hauteur de la mer Agitation de l eau 2 T fort 2 T fort au bout de la jet\u00e9e 1026 9 1026 8 Densit\u00e9 de l eau au large Temp\u00e9rature de l eau 18 0 18 4",
+      "cleaned_content": "Date 8 Octobre 1901 Hauteur Barom\u00e9trique 9h Matin 3h Soir 763 2 763 7 Directionduvent Nord Nord Force 3 fort 3 fort N\u00e9bulosit\u00e9 Reg O l\u00e8re 0 4 Reg E mer 0 1 Directiondesnuages Nord Nord Pluietomb\u00e9e Temp\u00e9raturedel air 15 4 17 2 Hauteurdelamer Agitationdel eau 2 T fort 2 T fortauboutdelajet\u00e9e 1026 9 1026 8 Densit\u00e9 del eauaularge Temp\u00e9raturedel eau 18 0 18 4",
+      "entities": {
+        "dates": [
+          "8 Octobre 1901"
+        ]
+      }
+    },
+    {
+      "page_number": "019",
+      "raw_content": "Date 9 Octobre 1901 Temps 9H Matin 3H Soir Hauteur Barom\u00e9trique 765 2 763 6 Direction du vent Nord N N E Force 0 1 T faible R\u00e9g O terre N\u00e9bulosit\u00e9 0 l\u00e9g R\u00e9g E mer 2 l\u00e9g c 2 l\u00e9g c Direction des images N N O Nord Pluie tomb\u00e9e Temp\u00e9rature de l air 16 3 19 5 Hauteur de la mer 63 7 5 6 Agitation de l eau 1 faible 1 fort par bout de la jet\u00e9e 1027 3 1027 0 Densit\u00e9 de l eau au large Temp\u00e9rature de l eau 18 3 19 0",
+      "cleaned_content": "Date 9 Octobre 1901 Temps 9H Matin 3H Soir Hauteur Barom\u00e9trique 765 2 763 6 Directionduvent Nord N N E Force 0 1 T faible R\u00e9g O terre N\u00e9bulosit\u00e9 0 l\u00e9g R\u00e9g E mer 2 l\u00e9gc 2 l\u00e9gc Directiondesimages N N O Nord Pluietomb\u00e9e Temp\u00e9raturedel air 16 3 19 5 Hauteurdelamer 63 7 5 6 Agitationdel eau 1 faible 1 fortparboutdelajet\u00e9e 1027 3 1027 0 Densit\u00e9 del eauaularge Temp\u00e9raturedel eau 18 3 19 0",
+      "entities": {
+        "dates": [
+          "9 Octobre 1901"
+        ]
+      }
+    },
+    {
+      "page_number": "020",
+      "raw_content": "Date 10 Octobre 1901 Observations 9H Matin 3H Soir Hauteur Barom\u00e9trique 765 2 763 2 Direction du vent N N O N N O Force 3 2 forc N\u00e9bulosit\u00e9 Reg O claire 0 0 Reg E mer 3 l\u00e9g\u00e8re 0 Direction des nuages N N O Pluie tomb\u00e9e Temp\u00e9rature de l air 18 6 20 6 Hauteur de la mer 64 7 69 2 Agitation de l eau 2 2 Densit\u00e9 de l eau au bout de la jet\u00e9e 1026 3 1026 9 au large Temp\u00e9rature de l eau 18 1 18 3",
+      "cleaned_content": "Date 10 Octobre 1901 Observations 9H Matin 3H Soir Hauteur Barom\u00e9trique 765 2 763 2 Directionduvent N N O N N O Force 3 2 forc N\u00e9bulosit\u00e9 Reg O claire 0 0 Reg E mer 3 l\u00e9g\u00e8re 0 Directiondesnuages N N O Pluietomb\u00e9e Temp\u00e9raturedel air 18 6 20 6 Hauteurdelamer 64 7 69 2 Agitationdel eau 2 2 Densit\u00e9 del eauauboutdelajet\u00e9e 1026 3 1026 9 aularge Temp\u00e9raturedel eau 18 1 18 3",
+      "entities": {
+        "dates": [
+          "10 Octobre 1901"
+        ]
+      }
+    },
+    {
+      "page_number": "021",
+      "raw_content": "Date 11 Octobre 1901 9h Malin 3h Soir Hauteur Barom\u00e9trique 765 3 762 7 Direction du vent N N O Force 4 N\u00e9bulosit\u00e9 Reg 0 Ciel clair 0 Tr\u00e8s l\u00e9g\u00e8re Reg E Mer 0 0 Direction des nuages N N O Sud Pluie tomb\u00e9e Temp\u00e9rature de l air 15 0 16 4 Hauteur de la mer 12 0 13 0 Agitation de l eau Affort 3 Fort Densit\u00e9 de l eau au bout de la jet\u00e9e 1027 3 1027 2 au Large Temp\u00e9rature de l eau 18 0 18 3",
+      "cleaned_content": "Date 11 Octobre 1901 9h Malin 3h Soir Hauteur Barom\u00e9trique 765 3 762 7 Directionduvent N N O Force 4 N\u00e9bulosit\u00e9 Reg 0 Cielclair 0 Tr\u00e8sl\u00e9g\u00e8re Reg E Mer 0 0 Directiondesnuages N N O Sud Pluietomb\u00e9e Temp\u00e9raturedel air 15 0 16 4 Hauteurdelamer 12 0 13 0 Agitationdel eau Affort 3 Fort Densit\u00e9 del eauauboutdelajet\u00e9e 1027 3 1027 2 au Large Temp\u00e9raturedel eau 18 0 18 3",
+      "entities": {
+        "dates": [
+          "11 Octobre 1901"
+        ]
+      }
+    },
+    {
+      "page_number": "022",
+      "raw_content": "Date 12 Octobre 1901 Param\u00e8tres 9h Matin 3h Soir Hauteur Barom\u00e9trique 762 3 760 5 Direction du vent Nord Force 1 0 Nebulosit\u00e9 Reg O claire 0 l\u00e9ger Reg E mer l\u00e9ger l\u00e9ger Direction des nuages Sud Pluie tomb\u00e9e Temp\u00e9rature de l air 15 0 15 7 Hauteur de la mer 43 9 46 7 Agitation de l eau 3 faible 2 faible au bout de la jet\u00e9e 1027 3 1027 2 Densit\u00e9 de l eau au Large Temp\u00e9rature de l eau 17 7 18 2",
+      "cleaned_content": "Date 12 Octobre 1901 Param\u00e8tres 9h Matin 3h Soir Hauteur Barom\u00e9trique 762 3 760 5 Directionduvent Nord Force 1 0 Nebulosit\u00e9 Reg O claire 0 l\u00e9ger Reg E merl\u00e9gerl\u00e9ger Directiondesnuages Sud Pluietomb\u00e9e Temp\u00e9raturedel air 15 0 15 7 Hauteurdelamer 43 9 46 7 Agitationdel eau 3 faible 2 faibleauboutdelajet\u00e9e 1027 3 1027 2 Densit\u00e9 del eauau Large Temp\u00e9raturedel eau 17 7 18 2",
+      "entities": {
+        "dates": [
+          "12 Octobre 1901"
+        ]
+      }
+    },
+    {
+      "page_number": "023",
+      "raw_content": "Date 13 Octobre 1901 Indicateurs 9h Matin 3h Soir Hauteur Barom\u00e9trique 761 2 Direction du vent S S E Force 1 2 N\u00e9bulosit\u00e9 Reg O clear 1 l\u00e9g\u00e8re Reg E mer 1 l\u00e9g\u00e8re Direction des nuages Sud Pluie tomb\u00e9e Temp\u00e9rature de l air 16 9 Hauteur de la mer 46 1 Agitation de l eau au bout de la jet\u00e9e 1 faible au large 1 27 1 Densit\u00e9 de l eau Temp\u00e9rature de l eau 18 8",
+      "cleaned_content": "Date 13 Octobre 1901 Indicateurs 9h Matin 3h Soir Hauteur Barom\u00e9trique 761 2 Directionduvent S S E Force 1 2 N\u00e9bulosit\u00e9 Reg O clear 1 l\u00e9g\u00e8re Reg E mer 1 l\u00e9g\u00e8re Directiondesnuages Sud Pluietomb\u00e9e Temp\u00e9raturedel air 16 9 Hauteurdelamer 46 1 Agitationdel eauauboutdelajet\u00e9e 1 faibleaularge 1 27 1 Densit\u00e9 del eau Temp\u00e9raturedel eau 18 8",
+      "entities": {
+        "dates": [
+          "13 Octobre 1901"
+        ]
+      }
+    },
+    {
+      "page_number": "024",
+      "raw_content": "Date 14 Octobre 1901 Observations 9h Matin 15h Soir Hauteur Barom\u00e9trique 760 7 759 3 Direction du vent Nord S S E Force 4 6 R\u00e9gions Terre Mer N\u00e9bulosit\u00e9 3 l\u00e9g\u00e8res 10 Direction des nuages Sud S S E pluie tomb\u00e9e Temp\u00e9rature de l air 16 7 18 0 Hauteur de la mer 36 7 47 0 Agitation de l eau 1 1 T fort Densit\u00e9 de l eau 1 027 0 1 027 5 Temp\u00e9rature de l eau 18 0 18 0",
+      "cleaned_content": "Date 14 Octobre 1901 Observations 9h Matin 15h Soir Hauteur Barom\u00e9trique 760 7 759 3 Directionduvent Nord S S E Force 4 6 R\u00e9gions Terre Mer N\u00e9bulosit\u00e9 3 l\u00e9g\u00e8res 10 Directiondesnuages Sud S S E pluietomb\u00e9e Temp\u00e9raturedel air 16 7 18 0 Hauteurdelamer 36 7 47 0 Agitationdel eau 1 1 T fort Densit\u00e9 del eau 1 027 0 1 027 5 Temp\u00e9raturedel eau 18 0 18 0",
+      "entities": {
+        "dates": [
+          "14 Octobre 1901"
+        ]
+      }
+    },
+    {
+      "page_number": "025",
+      "raw_content": "Date 15 Octobre 1901 Hauter Barometrique 9h Matin 3h Soir 717 6 715 2 Direction du vent N N O S S E Force 1 aibl 2 N\u00e9bulosit\u00e9 Reg 6 cl\u00e9re 10 10 Reg E mer 10 10 Direction des nuages N N O S S E Pluie tomb\u00e9e quelques g Temperature de l air 15 4 17 3 Hauteur de la mer 25 6 36 8 Aglitation de l eau 2 2 fort Densit\u00e9 de l eau Pont boto dejoli 1027 2 1 au large 1027 1 Temperature de l eau 17 7 17 6",
+      "cleaned_content": "Date 15 Octobre 1901 Hauter Barometrique 9h Matin 3h Soir 717 6 715 2 Directionduvent N N O S S E Force 1 aibl 2 N\u00e9bulosit\u00e9 Reg 6 cl\u00e9re 10 10 Reg E mer 10 10 Directiondesnuages N N O S S E Pluietomb\u00e9equelquesg Temperaturedel air 15 4 17 3 Hauteurdelamer 25 6 36 8 Aglitationdel eau 2 2 fort Densit\u00e9 del eau Pontbotodejoli 1027 2 1 aularge 1027 1 Temperaturedel eau 17 7 17 6",
+      "entities": {
+        "dates": [
+          "15 Octobre 1901"
+        ]
+      }
+    },
+    {
+      "page_number": "026",
+      "raw_content": "Date et Heure 16 Octobre 1901 10h Matin 3h Soir Hauteur Barom\u00e9trique 755 2 mmHg Direction du Vent N N E Force du Vent 1 T faible N\u00e9bulosit\u00e9 Terre 10 10 N\u00e9bulosit\u00e9 Mer 10 10 Direction des Nuages S S E Pluie tomb\u00e9e Temp\u00e9rature de l Air 17 5 C Hauteur de la Mer 22 3 m Agitation de l Eau 2 faible Densit\u00e9 de l Eau bout de la jet\u00e9e 1027 4 kg m\u00b3 Densit\u00e9 de l Eau au large Temp\u00e9rature de l Eau 17 7 C",
+      "cleaned_content": "Dateet Heure 16 Octobre 1901 10h Matin 3h Soir Hauteur Barom\u00e9trique 755 2 mmHg Directiondu Vent N N E Forcedu Vent 1 T faible N\u00e9bulosit\u00e9 Terre 10 10 N\u00e9bulosit\u00e9 Mer 10 10 Directiondes Nuages S S E Pluietomb\u00e9e Temp\u00e9raturedel Air 17 5 C Hauteurdela Mer 22 3 m Agitationdel Eau 2 faible Densit\u00e9 del Eauboutdelajet\u00e9e 1027 4 kgm\u00b3 Densit\u00e9 del Eauaularge Temp\u00e9raturedel Eau 17 7 C",
+      "entities": {
+        "dates": [
+          "16 Octobre 1901"
+        ]
+      }
+    },
+    {
+      "page_number": "027",
+      "raw_content": "Date 17 octobre 1901 Heure 9h Matin 3h Soir Hauteur Barom\u00e9trique 757 1 757 2 Direction du vent N N O N N O Force 1 5 Fort 1 5 Fort N\u00e9bulosit\u00e9 Reg 6 Clair 10 10 Reg 4 Mer 10 10 Direction des nuages N N O N N O Pluie tomb\u00e9e 0 009 0 002 Temp\u00e9rature de l air 15 5 16 3 Hauteur de la mer 19 9 30 3 Agitation de l eau 1T Fort 1T Fort Densit\u00e9 de l eau au bout de la jet\u00e9e 1027 8 1027 5 au large Temp\u00e9rature de l eau 17 3 17 4",
+      "cleaned_content": "Date 17 octobre 1901 Heure 9h Matin 3h Soir Hauteur Barom\u00e9trique 757 1 757 2 Directionduvent N N O N N O Force 1 5 Fort 1 5 Fort N\u00e9bulosit\u00e9 Reg 6 Clair 10 10 Reg 4 Mer 10 10 Directiondesnuages N N O N N O Pluietomb\u00e9e 0 009 0 002 Temp\u00e9raturedel air 15 5 16 3 Hauteurdelamer 19 9 30 3 Agitationdel eau 1T Fort 1T Fort Densit\u00e9 del eauauboutdelajet\u00e9e 1027 8 1027 5 aularge Temp\u00e9raturedel eau 17 3 17 4",
+      "entities": {
+        "dates": [
+          "17 octobre 1901"
+        ]
+      }
+    },
+    {
+      "page_number": "028",
+      "raw_content": "Date 20 Octobre 1901 Param\u00e8tre 9h Matin 3h Soir Hauteur Barom\u00e9trique 76 7 Direction du vent N N O Force 3 for N\u00e9bulosit\u00e9 Reg 6 l\u00e9g\u00e8re 10 Reg E mer Direction des nuages N N O Pluie tomb\u00e9e 0 006 Temp\u00e9rature de l air 11 9 Hauteur de la mer 27 7 Agitation de l eau 1 for Densit\u00e9 de l eau Reg 6 Reg E au bout de la jet\u00e9e 1027 4 au Large Temp\u00e9rature de l eau 16 6",
+      "cleaned_content": "Date 20 Octobre 1901 Param\u00e8tre 9h Matin 3h Soir Hauteur Barom\u00e9trique 76 7 Directionduvent N N O Force 3 for N\u00e9bulosit\u00e9 Reg 6 l\u00e9g\u00e8re 10 Reg E mer Directiondesnuages N N O Pluietomb\u00e9e 0 006 Temp\u00e9raturedel air 11 9 Hauteurdelamer 27 7 Agitationdel eau 1 for Densit\u00e9 del eau Reg 6 Reg E auboutdelajet\u00e9e 1027 4 au Large Temp\u00e9raturedel eau 16 6",
+      "entities": {
+        "dates": [
+          "20 Octobre 1901"
+        ]
+      }
+    },
+    {
+      "page_number": "029",
+      "raw_content": "Date 21 Octobre 1901 9 sup e sup Matin 3 sup E sup Soir Hauteur Barom\u00e9trique 758 6 755 7 Direction du vent S S E Sud Force 15 2 N\u00e9bulosit\u00e9 Reg 0 Terre 0 2 Reg 0 Mer 0 1 Direction des nuages S S E Sud Pluie tomb\u00e9e 97 3 11 5 Temperature de l air 13 2 10 8 Hauteur de la mer 37 1 29 2 Agiilation de l eau 1 1 Densite de l eau au bout de la jalle 1027 4 1027 5 au large Temperature de l eau 17 4 17 2",
+      "cleaned_content": "Date 21 Octobre 1901 9 supe sup Matin 3 sup E sup Soir Hauteur Barom\u00e9trique 758 6 755 7 Directionduvent S S E Sud Force 15 2 N\u00e9bulosit\u00e9 Reg 0 Terre 0 2 Reg 0 Mer 0 1 Directiondesnuages S S E Sud Pluietomb\u00e9e 97 3 11 5 Temperaturedel air 13 2 10 8 Hauteurdelamer 37 1 29 2 Agiilationdel eau 1 1 Densitedel eauauboutdelajalle 1027 4 1027 5 aularge Temperaturedel eau 17 4 17 2",
+      "entities": {
+        "dates": [
+          "21 Octobre 1901"
+        ]
+      }
+    },
+    {
+      "page_number": "030",
+      "raw_content": "Date 22 Octobre 1901 9h Matin 15h Soir Hauteur Barom\u00e9trique 755 4 755 6 Direction du vent N N O N N E Force 2 1 fort N\u00e9bulosit\u00e9 R\u00e9g 6 Terre 2 Mer 0 Direction des Nuages N N O N N E Pluie tomb\u00e9e Temp\u00e9rature de l air 13 2 15 9 Hauteur de la mer 38 2 22 1 Agitation de l eau 1 faible bout de la jet\u00e9e 1 fort bout de la jet\u00e9e Densit\u00e9 de l eau 1027 9 bout de la jet\u00e9e 1027 4 bout de la jet\u00e9e Temp\u00e9rature de l eau 17 2 17 3",
+      "cleaned_content": "Date 22 Octobre 1901 9h Matin 15h Soir Hauteur Barom\u00e9trique 755 4 755 6 Directionduvent N N O N N E Force 2 1 fort N\u00e9bulosit\u00e9 R\u00e9g 6 Terre 2 Mer 0 Directiondes Nuages N N O N N E Pluietomb\u00e9e Temp\u00e9raturedel air 13 2 15 9 Hauteurdelamer 38 2 22 1 Agitationdel eau 1 faibleboutdelajet\u00e9e 1 fortboutdelajet\u00e9e Densit\u00e9 del eau 1027 9 boutdelajet\u00e9e 1027 4 boutdelajet\u00e9e Temp\u00e9raturedel eau 17 2 17 3",
+      "entities": {
+        "dates": [
+          "22 Octobre 1901"
+        ]
+      }
+    },
+    {
+      "page_number": "031",
+      "raw_content": "Date 23 Octobre 1901 Heure 9 H Matin 3 H Soir Hauteur Barom\u00e9trique 763 8 764 7 Direction du vent N N O N N O Force 3 3 N\u00e9bulosit\u00e9 Reg B Cl\u00e9ve 0 0 Reg E mar 0 0 Direction des nuages N N O N N O Pluie tomb\u00e9e Temp\u00e9rature de l air 14 3 15 9 Hauteur de la mer 44 3 31 7 Agitation de l eau 2 2 foul Densit\u00e9 de l eau au bout de la jet\u00e9e 1027 6 1027 0 au Large Temp\u00e9rature de l eau 16 9 16 9",
+      "cleaned_content": "Date 23 Octobre 1901 Heure 9 H Matin 3 H Soir Hauteur Barom\u00e9trique 763 8 764 7 Directionduvent N N O N N O Force 3 3 N\u00e9bulosit\u00e9 Reg B Cl\u00e9ve 0 0 Reg E mar 0 0 Directiondesnuages N N O N N O Pluietomb\u00e9e Temp\u00e9raturedel air 14 3 15 9 Hauteurdelamer 44 3 31 7 Agitationdel eau 2 2 foul Densit\u00e9 del eauauboutdelajet\u00e9e 1027 6 1027 0 au Large Temp\u00e9raturedel eau 16 9 16 9",
+      "entities": {
+        "dates": [
+          "23 Octobre 1901"
+        ]
+      }
+    },
+    {
+      "page_number": "032",
+      "raw_content": "Date 24 Octobre 1901 Obs 9 h Matin 3 h Soir Hauteur Barom\u00e9trique 768 9 767 8 Direction du vent N N O N N O Force 3 foisl 3 foisl Nebulosit\u00e9 Reg 6 terre 10 l\u00e9gere 0 Reg E mer 10 l\u00e9gere 0 Direction des nuages N N O N N O Pluie tomb\u00e9e Temp\u00e9rature de l air 14 6 15 8 Hauteur de la mer 13 8 37 7 Agitation de l eau 2 T fois 3 Densit\u00e9 de l eau 1026 8 1026 8 Temper\u00e1ture de l eau 16 6 16 6",
+      "cleaned_content": "Date 24 Octobre 1901 Obs 9 h Matin 3 h Soir Hauteur Barom\u00e9trique 768 9 767 8 Directionduvent N N O N N O Force 3 foisl 3 foisl Nebulosit\u00e9 Reg 6 terre 10 l\u00e9gere 0 Reg E mer 10 l\u00e9gere 0 Directiondesnuages N N O N N O Pluietomb\u00e9e Temp\u00e9raturedel air 14 6 15 8 Hauteurdelamer 13 8 37 7 Agitationdel eau 2 T fois 3 Densit\u00e9 del eau 1026 8 1026 8 Temper\u00e1turedel eau 16 6 16 6",
+      "entities": {
+        "dates": [
+          "24 Octobre 1901"
+        ]
+      }
+    },
+    {
+      "page_number": "033",
+      "raw_content": "begin array c c c hline text 9h Matin text 3h Soir hline text Hauteur Barom\u00e9trique 766 2 763 0 hline text Direction du vent text N N O text S S E hline text Force text 1 fort text 1 fort hline text N\u00e9bulosit\u00e9 text Reg O claire 0 0 text Reg E mer 0 0 hline text Direction des nuages text Pluie tomb\u00e9e hline text Temp\u00e9rature de l air 14 4 15 7 hline text Hauteur de la mer 49 9 38 0 hline text Agitation de l eau text 1 fort 1 hline text Densit\u00e9 de l eau text au bout de la jet\u00e9e 1027 4 1027 4 text au large hline text Temp\u00e9rature de l eau 16 8 17 1 hline end array",
+      "cleaned_content": "beginarrayc cc hlinetext 9h Matintext 3h Soirhlinetext Hauteur Barom\u00e9trique 766 2 763 0 hlinetext Directionduventtext N N O text S S E hlinetext Forcetext 1 forttext 1 forthlinetext N\u00e9bulosit\u00e9 text Reg O claire 0 0 text Reg E mer 0 0 hlinetext Directiondesnuagestext Pluietomb\u00e9ehlinetext Temp\u00e9raturedel air 14 4 15 7 hlinetext Hauteurdelamer 49 9 38 0 hlinetext Agitationdel eautext 1 fort 1 hlinetext Densit\u00e9 del eautextauboutdelajet\u00e9e 1027 4 1027 4 textaulargehlinetext Temp\u00e9raturedel eau 16 8 17 1 hlineendarray",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "034",
+      "raw_content": "Date 26 Octobre 1901 Heure 9h Matin 19h Soir Hauteur Barom\u00e9trique 762 4 761 3 Direction du vent N N O N N O Force 3 T fort 4 N\u00e9bulosit\u00e9 Reg O Clair 10 10 Reg E Nub 10 10 Direction de nuages N N O N N O Pluie tomb\u00e9e quelques g Temp\u00e9rature de l air 14 3 14 8 Hauteur de la mer 47 4 43 6 Agitation de l eau 3 3 fort Densit\u00e9 de l eau au bout de la jet\u00e9e 1027 3 1027 3 au Large Temp\u00e9rature de l eau 16 6 16 5",
+      "cleaned_content": "Date 26 Octobre 1901 Heure 9h Matin 19h Soir Hauteur Barom\u00e9trique 762 4 761 3 Directionduvent N N O N N O Force 3 T fort 4 N\u00e9bulosit\u00e9 Reg O Clair 10 10 Reg E Nub 10 10 Directiondenuages N N O N N O Pluietomb\u00e9equelquesg Temp\u00e9raturedel air 14 3 14 8 Hauteurdelamer 47 4 43 6 Agitationdel eau 3 3 fort Densit\u00e9 del eauauboutdelajet\u00e9e 1027 3 1027 3 au Large Temp\u00e9raturedel eau 16 6 16 5",
+      "entities": {
+        "dates": [
+          "26 Octobre 1901"
+        ]
+      }
+    },
+    {
+      "page_number": "035",
+      "raw_content": "Date 27 Octobre 1901 9h Matin 3h Soir Hauteur Barom\u00e9trique 765 3 Direction du vent N N O Force 4 fort N\u00e9bulosit\u00e9 R\u00e9g O Lerrre 10 R\u00e9g E mer 10 Direction des nuages N N O Pluie tomb\u00e9e Temp\u00e9rature de l air 12 7 Hauteur de la mer 34 7 Agitation de l eau 3 Densit\u00e9 de l eau au bout de la jet\u00e9e 10 27 6 au Large Temp\u00e9rature de l eau 11 9",
+      "cleaned_content": "Date 27 Octobre 1901 9h Matin 3h Soir Hauteur Barom\u00e9trique 765 3 Directionduvent N N O Force 4 fort N\u00e9bulosit\u00e9 R\u00e9g O Lerrre 10 R\u00e9g E mer 10 Directiondesnuages N N O Pluietomb\u00e9e Temp\u00e9raturedel air 12 7 Hauteurdelamer 34 7 Agitationdel eau 3 Densit\u00e9 del eauauboutdelajet\u00e9e 10 27 6 au Large Temp\u00e9raturedel eau 11 9",
+      "entities": {
+        "dates": [
+          "27 Octobre 1901"
+        ]
+      }
+    },
+    {
+      "page_number": "036",
+      "raw_content": "Date 28 Octobre 1901 Horaire 9H Matin 19H Soir Hauteur Barom\u00e9trique 767 6 765 7 Direction du vent N N O N E Force 3 faibl 3 fort N\u00e9bulosit\u00e9 Reg O Cl\u00e9re 0 10 N\u00e9bulosit\u00e9 Reg E mer 3 10 Direction des nuages N N O S E Pluie tomb\u00e9e Temp\u00e9rature de l air 13 0 15 3 Hauteur de la mer 33 8 47 5 Agitation de l eau 3 fort 3 fort Densit\u00e9 de l eau 1027 4 1027 3 Temp\u00e9rature de l eau 16 1 16 1",
+      "cleaned_content": "Date 28 Octobre 1901 Horaire 9H Matin 19H Soir Hauteur Barom\u00e9trique 767 6 765 7 Directionduvent N N O N E Force 3 faibl 3 fort N\u00e9bulosit\u00e9 Reg O Cl\u00e9re 0 10 N\u00e9bulosit\u00e9 Reg E mer 3 10 Directiondesnuages N N O S E Pluietomb\u00e9e Temp\u00e9raturedel air 13 0 15 3 Hauteurdelamer 33 8 47 5 Agitationdel eau 3 fort 3 fort Densit\u00e9 del eau 1027 4 1027 3 Temp\u00e9raturedel eau 16 1 16 1",
+      "entities": {
+        "dates": [
+          "28 Octobre 1901"
+        ]
+      }
+    },
+    {
+      "page_number": "037",
+      "raw_content": "Date 29 Octobre 1901 Param\u00e8tres 9h Matin 15h Soin Hauteur Barom\u00e9trique 761 5 Direction du vent N N O Force indicatif 2 Nebulosit\u00e9 Ciel R\u00e9g O Terre 10 R\u00e9g E mer 10 Direction des nuages N N O Pluie tomb\u00e9e 6 mm 37 Temp\u00e9rature de l air 11 6 Hauteur de la mer 30 9 Agitation de l eau 4 Densit\u00e9 de l eau Niveau d agitation Au bout de la jach\u00e9e 1027 5 Au large Temp\u00e9rature de l eau 16 3",
+      "cleaned_content": "Date 29 Octobre 1901 Param\u00e8tres 9h Matin 15h Soin Hauteur Barom\u00e9trique 761 5 Directionduvent N N O Forceindicatif 2 Nebulosit\u00e9 Ciel R\u00e9g O Terre 10 R\u00e9g E mer 10 Directiondesnuages N N O Pluietomb\u00e9e 6 mm 37 Temp\u00e9raturedel air 11 6 Hauteurdelamer 30 9 Agitationdel eau 4 Densit\u00e9 del eau Niveaud agitation Auboutdelajach\u00e9e 1027 5 Aularge Temp\u00e9raturedel eau 16 3",
+      "entities": {
+        "dates": [
+          "29 Octobre 1901"
+        ]
+      }
+    },
+    {
+      "page_number": "038",
+      "raw_content": "Date 30 Octobre 1901 Becalme Observations 9H Matin 3H Soir Hauteur Barom\u00e9trique 755 8 754 1 Direction du vent N N O Est Force 1 1 faible N\u00e9bulosit\u00e9 Reg O Cl\u00e9r 10 10 Reg E mer 10 10 Direction des nuages N E Est Pluie tomb\u00e9e 48 75 Temp\u00e9rature de l air 15 2 17 3 Hauteur de la mer 19 9 39 1 Agitation de l eau 4 3 au bout de la jet\u00e9e 1027 6 1027 5 Densit\u00e9 de l eau au large Temp\u00e9rature de l eau 16 3 16 4",
+      "cleaned_content": "Date 30 Octobre 1901 Becalme Observations 9H Matin 3H Soir Hauteur Barom\u00e9trique 755 8 754 1 Directionduvent N N O Est Force 1 1 faible N\u00e9bulosit\u00e9 Reg O Cl\u00e9r 10 10 Reg E mer 10 10 Directiondesnuages N E Est Pluietomb\u00e9e 48 75 Temp\u00e9raturedel air 15 2 17 3 Hauteurdelamer 19 9 39 1 Agitationdel eau 4 3 auboutdelajet\u00e9e 1027 6 1027 5 Densit\u00e9 del eauaularge Temp\u00e9raturedel eau 16 3 16 4",
+      "entities": {
+        "dates": [
+          "30 Octobre 1901"
+        ]
+      }
+    },
+    {
+      "page_number": "039",
+      "raw_content": "Date 31 Octobre 1901 Heure 9 sup e sup Matin 3 sup e sup Soir Grandeur observ\u00e9e Valeur Valeur Hauteur Barom\u00e9trique 755 3 mbn 754 4 mbn Direction du vent N N O N N O Force 3 4 N\u00e9bulosit\u00e9 Reg 6 clieee 10 10 Reg E mer 10 10 Direction des nuages N E N N O Pluie tomb\u00e9e 5 mm 750 4 mm 625 Temp\u00e9rature de l air 13 9 C 11 8 C Hauteur de la mer 21 4 m 32 6 m Agitation de l eau 3 fort 4 Densit\u00e9 de l eau au bant de la jolie 1026 1 1027 3 au Large Temp\u00e9rature de l eau 15 6 C 15 8 C",
+      "cleaned_content": "Date 31 Octobre 1901 Heure 9 supe sup Matin 3 supe sup Soir Grandeurobserv\u00e9e Valeur Valeur Hauteur Barom\u00e9trique 755 3 mbn 754 4 mbn Directionduvent N N O N N O Force 3 4 N\u00e9bulosit\u00e9 Reg 6 clieee 10 10 Reg E mer 10 10 Directiondesnuages N E N N O Pluietomb\u00e9e 5 mm 750 4 mm 625 Temp\u00e9raturedel air 13 9 C 11 8 C Hauteurdelamer 21 4 m 32 6 m Agitationdel eau 3 fort 4 Densit\u00e9 del eauaubantdelajolie 1026 1 1027 3 au Large Temp\u00e9raturedel eau 15 6 C 15 8 C",
+      "entities": {
+        "dates": [
+          "31 Octobre 1901"
+        ]
+      }
+    },
+    {
+      "page_number": "040",
+      "raw_content": "Date 2 Novembre 1901 Param\u00e8tre 9h Matin 3h Soir Hauteur Barom\u00e9trique 768 8 Direction du vent N N O Force faible N\u00e9bulosit\u00e9 Reg 6 Clair 0 Reg 4 nu 4 Direction des nuages N N O Pluie tomb\u00e9e 77 75 0 Temp\u00e9rature de l air 13 6 Hauteur de la mer 39 5 Agitation de l eau 4 5 Densit\u00e9 de l eau au bout de la jet\u00e9e au large Temp\u00e9rature de l eau",
+      "cleaned_content": "Date 2 Novembre 1901 Param\u00e8tre 9h Matin 3h Soir Hauteur Barom\u00e9trique 768 8 Directionduvent N N O Forcefaible N\u00e9bulosit\u00e9 Reg 6 Clair 0 Reg 4 nu 4 Directiondesnuages N N O Pluietomb\u00e9e 77 75 0 Temp\u00e9raturedel air 13 6 Hauteurdelamer 39 5 Agitationdel eau 4 5 Densit\u00e9 del eauauboutdelajet\u00e9eaularge Temp\u00e9raturedel eau",
+      "entities": {
+        "dates": [
+          "2 Novembre 1901"
+        ]
+      }
+    },
+    {
+      "page_number": "041",
+      "raw_content": "Date 4 Novembre 1901 Heure 9h Matin 3h Soir Hauteur Barom\u00e9trique 767 2 765 7 Direction du vent N N O Est Force 1 fort 1 T faible N\u00e9bulosit\u00e9 Reg V terre 1 10 Reg E mer 0 Direction des nuages N N O Est Pluie tomb\u00e9e Temp\u00e9rature de l air 11 2 14 3 Hauteur de la mer 43 6 35 0 Agitation de l eau 2 2 T fort Densit\u00e9 de l eau au Bout du bateau 1026 3 1025 3 Temp\u00e9rature de l eau 15 1 15 6",
+      "cleaned_content": "Date 4 Novembre 1901 Heure 9h Matin 3h Soir Hauteur Barom\u00e9trique 767 2 765 7 Directionduvent N N O Est Force 1 fort 1 T faible N\u00e9bulosit\u00e9 Reg V terre 1 10 Reg E mer 0 Directiondesnuages N N O Est Pluietomb\u00e9e Temp\u00e9raturedel air 11 2 14 3 Hauteurdelamer 43 6 35 0 Agitationdel eau 2 2 T fort Densit\u00e9 del eauau Boutdubateau 1026 3 1025 3 Temp\u00e9raturedel eau 15 1 15 6",
+      "entities": {
+        "dates": [
+          "4 Novembre 1901"
+        ]
+      }
+    },
+    {
+      "page_number": "042",
+      "raw_content": "Param\u00e8tre 9\u2070 Matin 3\u00b9 Soir Hauteur Barom\u00e9trique 769 4 768 6 Direction du vent Nord S S E Force 1 1 forte N\u00e9bulosit\u00e9 Reg 6 cl\u00e9air 0 0 Reg E mer 2 2 Direction des nuages Sud Sud Pluie tomb\u00e9e Temp\u00e9rature de l air 12 0 15 1 Hauteur de la mer 50 3 38 9 Agitation de l eau 2 faible 1 forte au bout de la jet\u00e9e 1026 2 1025 8 Densit\u00e9 de l eau au Large Temp\u00e9rature de l eau 15 4 15 7",
+      "cleaned_content": "Param\u00e8tre 9\u2070 Matin 3\u00b9 Soir Hauteur Barom\u00e9trique 769 4 768 6 Directionduvent Nord S S E Force 1 1 forte N\u00e9bulosit\u00e9 Reg 6 cl\u00e9air 0 0 Reg E mer 2 2 Directiondesnuages Sud Sud Pluietomb\u00e9e Temp\u00e9raturedel air 12 0 15 1 Hauteurdelamer 50 3 38 9 Agitationdel eau 2 faible 1 forteauboutdelajet\u00e9e 1026 2 1025 8 Densit\u00e9 del eauau Large Temp\u00e9raturedel eau 15 4 15 7",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "043",
+      "raw_content": "Date 6 Novembre 1901 Horaire 9\u00e8me Matin 3\u00e8me Soir Haut Barom\u00e9trique 763 5 767 4 Dir du vent S S E S S E Force 1 Fort 1 Fort N\u00e9bulosit\u00e9 Reg O Clair 10 L\u00e9g 3 L\u00e9g Reg E Nuv 10 L\u00e9g 3 L\u00e9g Dir des nuages S S E S S E Pluie tomb\u00e9e Temp\u00e9rature de l air 14 6 14 5 Haut de la mer 52 8 41 3 Agit de l eau 2 Faible 2 Fort Densit\u00e9 de l eau Pond de la J\u00eate 1027 7 1027 5 Au large Temp\u00e9rature de l eau 16 3 16 7",
+      "cleaned_content": "Date 6 Novembre 1901 Horaire 9\u00e8me Matin 3\u00e8me Soir Haut Barom\u00e9trique 763 5 767 4 Dirduvent S S E S S E Force 1 Fort 1 Fort N\u00e9bulosit\u00e9 Reg O Clair 10 L\u00e9g 3 L\u00e9g Reg E Nuv 10 L\u00e9g 3 L\u00e9g Dirdesnuages S S E S S E Pluietomb\u00e9e Temp\u00e9raturedel air 14 6 14 5 Hautdelamer 52 8 41 3 Agitdel eau 2 Faible 2 Fort Densit\u00e9 del eau Ponddela J\u00eate 1027 7 1027 5 Aularge Temp\u00e9raturedel eau 16 3 16 7",
+      "entities": {
+        "dates": [
+          "6 Novembre 1901"
+        ]
+      }
+    },
+    {
+      "page_number": "044",
+      "raw_content": "Param\u00e8tre 9h Matin 15h Apr\u00e8s midi Hauteur Barom\u00e9trique 766 2 764 7 Direction du Vent N N O N N O Force 1 fort 2 N\u00e9bulosit\u00e9 Reg O tere 10 10 l\u00e9g\u00e8re Reg E mer 10 10 l\u00e9g\u00e8re Direction des Nuages Est Nord Pluie Tomb\u00e9e quelques g 11 Temp\u00e9rature de l Air 13 0 13 3 Hauteur de la Mer 4 0 3 6 Agitation de l Eau 3 fort 3 fort Densit\u00e9 de l Eau au bout de la jet\u00e9e 1026 6 1026 5 au Large Temp\u00e9rature de l Eau 15 5 15 4",
+      "cleaned_content": "Param\u00e8tre 9h Matin 15h Apr\u00e8smidi Hauteur Barom\u00e9trique 766 2 764 7 Directiondu Vent N N O N N O Force 1 fort 2 N\u00e9bulosit\u00e9 Reg O tere 10 10 l\u00e9g\u00e8re Reg E mer 10 10 l\u00e9g\u00e8re Directiondes Nuages Est Nord Pluie Tomb\u00e9equelquesg 11 Temp\u00e9raturedel Air 13 0 13 3 Hauteurdela Mer 4 0 3 6 Agitationdel Eau 3 fort 3 fort Densit\u00e9 del Eauauboutdelajet\u00e9e 1026 6 1026 5 au Large Temp\u00e9raturedel Eau 15 5 15 4",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "045",
+      "raw_content": "Date 8 Novembre 1901 Date et Heure 9 H Matin 3 H Soir Hauteur Barom\u00e9trique 763 5 761 5 Direction du vent N N O N N O Force 2 Faible N\u00e9bulosit\u00e9 Reg 0 Clair Leg\u00e8rement c 10 N\u00e9bulosit\u00e9 Reg E Mer 10 l\u00e9g 10 Direction des nuages Nord Nord Pluie tomb\u00e9e Temp\u00e9rature de l air 14 1 15 7 Hauteur de la mer 47 2 40 0 Agitation de l eau 3 3 Densit\u00e9 de l eau 1026 5 1026 9 au Large Temp\u00e9rature de l eau 14 8 15 5",
+      "cleaned_content": "Date 8 Novembre 1901 Dateet Heure 9 H Matin 3 H Soir Hauteur Barom\u00e9trique 763 5 761 5 Directionduvent N N O N N O Force 2 Faible N\u00e9bulosit\u00e9 Reg 0 Clair Leg\u00e8rementc 10 N\u00e9bulosit\u00e9 Reg E Mer 10 l\u00e9g 10 Directiondesnuages Nord Nord Pluietomb\u00e9e Temp\u00e9raturedel air 14 1 15 7 Hauteurdelamer 47 2 40 0 Agitationdel eau 3 3 Densit\u00e9 del eau 1026 5 1026 9 au Large Temp\u00e9raturedel eau 14 8 15 5",
+      "entities": {
+        "dates": [
+          "8 Novembre 1901"
+        ]
+      }
+    },
+    {
+      "page_number": "046",
+      "raw_content": "Date 9 Novembre 1901 Observations 9h Matin 3h Soir Hauteur Barom\u00e9trique 762 4 761 6 Direction du vent N N O N N O Force 3 3 N\u00e9bulosit\u00e9 Reg O Terre 0 0 Reg E mer F\u00e8gume C L\u00e9gume C Direction des nuages Pluie tomb\u00e9e Temp\u00e9rature de l air 13 2 15 3 Hauteur de la mer 43 1 40 9 Agitation de l eau 2 T fort 2 T fort 1027 2 1027 2 Densit\u00e9 de l eau au bout de la jet\u00e9e au large Temp\u00e9rature de l eau 15 6 15 6",
+      "cleaned_content": "Date 9 Novembre 1901 Observations 9h Matin 3h Soir Hauteur Barom\u00e9trique 762 4 761 6 Directionduvent N N O N N O Force 3 3 N\u00e9bulosit\u00e9 Reg O Terre 0 0 Reg E mer F\u00e8gume C L\u00e9gume C Directiondesnuages Pluietomb\u00e9e Temp\u00e9raturedel air 13 2 15 3 Hauteurdelamer 43 1 40 9 Agitationdel eau 2 T fort 2 T fort 1027 2 1027 2 Densit\u00e9 del eauauboutdelajet\u00e9eaularge Temp\u00e9raturedel eau 15 6 15 6",
+      "entities": {
+        "dates": [
+          "9 Novembre 1901"
+        ]
+      }
+    },
+    {
+      "page_number": "047",
+      "raw_content": "Observation Valeur Date 10 Novembre 1901 Heure 9H Malin 3H Soir Hauteur Barom\u00e9trique 764 8 Direction du vent N N O Force T fort N\u00e9bulosit\u00e9 Reg O claire 0 Reg E mar 0 Direction des nuages Pluie tomb\u00e9e Temp\u00e9rature de l air 10 5 C Hauteur de la mer 1027 3 Agitation de l eau 2 Densit\u00e9 de l eau au bout de la jet\u00e9e au Large Temp\u00e9rature de l eau 15 4 C",
+      "cleaned_content": "Observation Valeur Date 10 Novembre 1901 Heure 9H Malin 3H Soir Hauteur Barom\u00e9trique 764 8 Directionduvent N N O Force T fort N\u00e9bulosit\u00e9 Reg O claire 0 Reg E mar 0 Directiondesnuages Pluietomb\u00e9e Temp\u00e9raturedel air 10 5 C Hauteurdelamer 1027 3 Agitationdel eau 2 Densit\u00e9 del eauauboutdelajet\u00e9eau Large Temp\u00e9raturedel eau 15 4 C",
+      "entities": {
+        "dates": [
+          "10 Novembre 1901"
+        ]
+      }
+    },
+    {
+      "page_number": "048",
+      "raw_content": "Hauteur Barom\u00e9trique 9h Matin 3h Soir Hauteur Barom\u00e9trique 764 2 Direction du vent Ouest Force 1 T faible N\u00e9bulosit\u00e9 0 Direction des nuages Ouest Pluie tomb\u00e9e Temp\u00e9rature de l air 9 1 C Hauteur de la mer 41 9 Agitation de l eau 2 faible Densit\u00e9 de l eau 1027 6 Temp\u00e9rature de l eau 7 5 C",
+      "cleaned_content": "Hauteur Barom\u00e9trique 9h Matin 3h Soir Hauteur Barom\u00e9trique 764 2 Directionduvent Ouest Force 1 T faible N\u00e9bulosit\u00e9 0 Directiondesnuages Ouest Pluietomb\u00e9e Temp\u00e9raturedel air 9 1 C Hauteurdelamer 41 9 Agitationdel eau 2 faible Densit\u00e9 del eau 1027 6 Temp\u00e9raturedel eau 7 5 C",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "049",
+      "raw_content": "markdown Date 12 Novembre 1901 Hauteur Barom\u00e9trique Valve Direction du vent N N O Force 15 N\u00e9bulosit\u00e9 Reg O terre Reg E mer Direction des nuages N N O Pluie tomb\u00e9e Temp\u00e9rature de l air 9 1 Hauteur de la mer 3 2 7 Agitation de l eau 1 102 7 6 Densit\u00e9 de l eau Valve au large Valve Temp\u00e9rature de l eau 15 2",
+      "cleaned_content": "markdown Date 12 Novembre 1901 Hauteur Barom\u00e9trique Valve Directionduvent N N O Force 15 N\u00e9bulosit\u00e9 Reg O terre Reg E mer Directiondesnuages N N O Pluietomb\u00e9e Temp\u00e9raturedel air 9 1 Hauteurdelamer 3 2 7 Agitationdel eau 1 102 7 6 Densit\u00e9 del eau Valveaularge Valve Temp\u00e9raturedel eau 15 2",
+      "entities": {
+        "dates": [
+          "12 Novembre 1901"
+        ]
+      }
+    },
+    {
+      "page_number": "050",
+      "raw_content": "Date 13 Novembre 1901 Parameter 9h Matin 3h Soir Hauteur Barom\u00e9trique 722 2 748 3 Direction du vent Ouest Sud Force 2 3 faible N\u00e9bulosit\u00e9 Reg O terre l\u00e9g\u00e8re 10 l\u00e9g\u00e8res N\u00e9bulosit\u00e9 Reg E mer 10 l\u00e9g\u00e8res Ouest Direction des nuages Ouest Ouest Pluie tomb\u00e9e temp\u00e9rature de l air 13 9 13 0 Hauteur de la mer 19 9 28 5 Agitation de l eau 1 1 Densit\u00e9 de l eau 1027 9 au bout de la jet\u00e9e 1028 2 au large Temp\u00e9rature de l eau 15 4 16 3",
+      "cleaned_content": "Date 13 Novembre 1901 Parameter 9h Matin 3h Soir Hauteur Barom\u00e9trique 722 2 748 3 Directionduvent Ouest Sud Force 2 3 faible N\u00e9bulosit\u00e9 Reg O terrel\u00e9g\u00e8re 10 l\u00e9g\u00e8res N\u00e9bulosit\u00e9 Reg E mer 10 l\u00e9g\u00e8res Ouest Directiondesnuages Ouest Ouest Pluietomb\u00e9etemp\u00e9raturedel air 13 9 13 0 Hauteurdelamer 19 9 28 5 Agitationdel eau 1 1 Densit\u00e9 del eau 1027 9 auboutdelajet\u00e9e 1028 2 aularge Temp\u00e9raturedel eau 15 4 16 3",
+      "entities": {
+        "dates": [
+          "13 Novembre 1901"
+        ]
+      }
+    },
+    {
+      "page_number": "051",
+      "raw_content": "Date 14 Novembre 1901 Horaire 9h Matin 3h Soir Hauteur Barom\u00e9trique 752 8 752 3 Direction du vent N N O Est Force 1 faible 1 faible N\u00e9bulosit\u00e9 Terre 10 10 Mer 10 10 Direction des nuages N N O Ouest Pluie tomb\u00e9e Temp\u00e9rature de l air 13 3 13 7 Hauteur de la mer 16 6 28 7 Agitation de l eau faible forte Densit\u00e9 de l eau au bout de la jet\u00e9e 1027 0 1027 6 au large Temp\u00e9rature de l eau 15 7 15 9",
+      "cleaned_content": "Date 14 Novembre 1901 Horaire 9h Matin 3h Soir Hauteur Barom\u00e9trique 752 8 752 3 Directionduvent N N O Est Force 1 faible 1 faible N\u00e9bulosit\u00e9 Terre 10 10 Mer 10 10 Directiondesnuages N N O Ouest Pluietomb\u00e9e Temp\u00e9raturedel air 13 3 13 7 Hauteurdelamer 16 6 28 7 Agitationdel eaufaibleforte Densit\u00e9 del eauauboutdelajet\u00e9e 1027 0 1027 6 aularge Temp\u00e9raturedel eau 15 7 15 9",
+      "entities": {
+        "dates": [
+          "14 Novembre 1901"
+        ]
+      }
+    },
+    {
+      "page_number": "052",
+      "raw_content": "Hauteur Barom\u00e9trique 752 6 Direction du vent Ouest Force du vent faible Nuages 10 Direction des nuages 10 Pluie tomb\u00e9e 17h 750 temp\u00e9rature de l air 10 4 Hauteur de la mer 11 7 Agitation de l eau 2 Densit\u00e9 de l eau au bout de la jet\u00e9e 1 027 9 au Large Temp\u00e9rature de l eau 15 4",
+      "cleaned_content": "Hauteur Barom\u00e9trique 752 6 Directionduvent Ouest Forceduventfaible Nuages 10 Directiondesnuages 10 Pluietomb\u00e9e 17h 750 temp\u00e9raturedel air 10 4 Hauteurdelamer 11 7 Agitationdel eau 2 Densit\u00e9 del eauauboutdelajet\u00e9e 1 027 9 au Large Temp\u00e9raturedel eau 15 4",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "053",
+      "raw_content": "Date 16 Novembre 1901",
+      "cleaned_content": "Date 16 Novembre 1901",
+      "entities": {
+        "dates": [
+          "16 Novembre 1901"
+        ]
+      }
+    },
+    {
+      "page_number": "054",
+      "raw_content": "Observations m\u00e9t\u00e9orologiques Valeurs Temps Date 17 Novembre 1901 9h Matin 3h Soir Hauteur Barom\u00e9trique 767 7 Direction du vent N N O Force 1 faible Nebulosit\u00e9 Reg O Cl\u00e8re 10 Reg E mer 10 Direction des nuages Ouest Pluie tomb\u00e9e 1 9 Temp\u00e9rature de l air 9 6 Hauteur de la mer 31 1 Agitation de l eau 2 Densit\u00e9 de l eau au bout de la jet\u00e9e 1027 6 au Large Temp\u00e9rature de l eau 13 3",
+      "cleaned_content": "Observationsm\u00e9t\u00e9orologiques Valeurs Temps Date 17 Novembre 1901 9h Matin 3h Soir Hauteur Barom\u00e9trique 767 7 Directionduvent N N O Force 1 faible Nebulosit\u00e9 Reg O Cl\u00e8re 10 Reg E mer 10 Directiondesnuages Ouest Pluietomb\u00e9e 1 9 Temp\u00e9raturedel air 9 6 Hauteurdelamer 31 1 Agitationdel eau 2 Densit\u00e9 del eauauboutdelajet\u00e9e 1027 6 au Large Temp\u00e9raturedel eau 13 3",
+      "entities": {
+        "dates": [
+          "17 Novembre 1901"
+        ]
+      }
+    },
+    {
+      "page_number": "055",
+      "raw_content": "Date 18 Novembre 1901 9h Matin 3h Soir Hauteur Barom\u00e9trique 771 0 771 0 Direction du vent N N O N N O Force 4 fort 2 N\u00e9bulosit\u00e9 Reg O terre 0 0 Reg E mer 0 0 Direction des nuages N N O N N O Pluie tomb\u00e9e Temp\u00e9rature de l air C 11 8 13 9 Hauteur de la mer m 40 0 44 9 Agitation de l eau 2 2 Densit\u00e9 de l eau Au bout de la jet\u00e9e 1027 5 1027 4 Au large Temp\u00e9rature de l eau C 15 1 15 4",
+      "cleaned_content": "Date 18 Novembre 1901 9h Matin 3h Soir Hauteur Barom\u00e9trique 771 0 771 0 Directionduvent N N O N N O Force 4 fort 2 N\u00e9bulosit\u00e9 Reg O terre 0 0 Reg E mer 0 0 Directiondesnuages N N O N N O Pluietomb\u00e9e Temp\u00e9raturedel air C 11 8 13 9 Hauteurdelamerm 40 0 44 9 Agitationdel eau 2 2 Densit\u00e9 del eau Auboutdelajet\u00e9e 1027 5 1027 4 Aularge Temp\u00e9raturedel eau C 15 1 15 4",
+      "entities": {
+        "dates": [
+          "18 Novembre 1901"
+        ]
+      }
+    },
+    {
+      "page_number": "056",
+      "raw_content": "Date 19 Novembre 1901 Heure 9h Matin 3h Sous Hauter Barometrique 772 3 770 4 Direction du vent N N O N N O Force 3 3 Faible N\u00e9bulosit\u00e9 Reg O Clere 0 0 Reg E mer l\u00e9gere 0 Direction ses nuages Pluie tomb\u00e9e Temperature de l air 13 0 11 7 Hauter de la mer 39 9 32 6 Agitation de l eau 1T Foul 2 faible Deut\u00e9 de l eau au bout de la jett\u00e9 1027 9 1028 2 Desrit\u00e9 de l eau au large Temperature de l eau 14 4 14 8",
+      "cleaned_content": "Date 19 Novembre 1901 Heure 9h Matin 3h Sous Hauter Barometrique 772 3 770 4 Directionduvent N N O N N O Force 3 3 Faible N\u00e9bulosit\u00e9 Reg O Clere 0 0 Reg E merl\u00e9gere 0 Directionsesnuages Pluietomb\u00e9e Temperaturedel air 13 0 11 7 Hauterdelamer 39 9 32 6 Agitationdel eau 1T Foul 2 faible Deut\u00e9 del eauauboutdelajett\u00e9 1027 9 1028 2 Desrit\u00e9 del eauaularge Temperaturedel eau 14 4 14 8",
+      "entities": {
+        "dates": [
+          "19 Novembre 1901"
+        ]
+      }
+    },
+    {
+      "page_number": "057",
+      "raw_content": "Date 20 Novembre 1901 Param\u00e8tres 9 sup e sup Matin 3 sup e sup Soir Hauteur Barom\u00e9trique 768 6 766 3 Direction du vent N N O N N O Force 3 fort 3 fort N\u00e9bulosit\u00e9 Reg O cl\u00e8re 0 0 Reg E mer l\u00e9g\u00e8re c l\u00e9g\u00e8re c Direction des nuages Pluie tomb\u00e9e Temp\u00e9rature de l air 8 7 10 5 Hauteur de la mer 53 3 42 3 Agitation de l eau 2 faible 2 fort Densit\u00e9 de l eau pambout de la jet\u00e9e 1028 3 1028 5 1 au large Temp\u00e9rature de l eau 14 4 14 9",
+      "cleaned_content": "Date 20 Novembre 1901 Param\u00e8tres 9 supe sup Matin 3 supe sup Soir Hauteur Barom\u00e9trique 768 6 766 3 Directionduvent N N O N N O Force 3 fort 3 fort N\u00e9bulosit\u00e9 Reg O cl\u00e8re 0 0 Reg E merl\u00e9g\u00e8rec l\u00e9g\u00e8rec Directiondesnuages Pluietomb\u00e9e Temp\u00e9raturedel air 8 7 10 5 Hauteurdelamer 53 3 42 3 Agitationdel eau 2 faible 2 fort Densit\u00e9 del eaupamboutdelajet\u00e9e 1028 3 1028 5 1 aularge Temp\u00e9raturedel eau 14 4 14 9",
+      "entities": {
+        "dates": [
+          "20 Novembre 1901"
+        ]
+      }
+    },
+    {
+      "page_number": "058",
+      "raw_content": "Date 21 Novembre 1901 Hauter Barometrique 9h Matin 13h Boir 764 7 763 1 Direction du vent N N O N N O Force 3 faible 2 N\u00e9bulosite Reg O Tombe 0 10 Reg E mer 0 10 Direction des nuages N N O N N O Pluie tomb\u00e9e Temp\u00e9rature de l air 11 7 12 0 Hauter de la mer 45 9 32 7 Agitation de l eau 2 petit coup 2 petit coup Densit\u00e9 de l eau 1028 2 1028 2 au bas de la jet\u00e9e au large Temp\u00e9rature de l eau 14 7 15 1",
+      "cleaned_content": "Date 21 Novembre 1901 Hauter Barometrique 9h Matin 13h Boir 764 7 763 1 Directionduvent N N O N N O Force 3 faible 2 N\u00e9bulosite Reg O Tombe 0 10 Reg E mer 0 10 Directiondesnuages N N O N N O Pluietomb\u00e9e Temp\u00e9raturedel air 11 7 12 0 Hauterdelamer 45 9 32 7 Agitationdel eau 2 petitcoup 2 petitcoup Densit\u00e9 del eau 1028 2 1028 2 aubasdelajet\u00e9eaularge Temp\u00e9raturedel eau 14 7 15 1",
+      "entities": {
+        "dates": [
+          "21 Novembre 1901"
+        ]
+      }
+    },
+    {
+      "page_number": "059",
+      "raw_content": "Date 22 Novembre 1901 9h Matin 3h Soir Hauteur Barom\u00e9trique 762 7 762 2 Direction du vent N N O N N O Force 3 3 faible N\u00e9bulosit\u00e9 Reg O Cl\u00e9re l\u00e9g\u00e8re l\u00e9g\u00e8re Reg E mer l\u00e9g\u00e8re l\u00e9g\u00e8re Direction des nuages N N O N N O Pluie tomb\u00e9e Temp\u00e9rature de l air 12 4 13 4 Haut\u00e9ur de la mer 40 3 30 2 Agitation de l eau 2 fort 3 Densit\u00e9 de l eau \u00e0 bout de la jet\u00e9e 1028 4 1028 4 au Large Temp\u00e9rature de l eau 15 0 15 0",
+      "cleaned_content": "Date 22 Novembre 1901 9h Matin 3h Soir Hauteur Barom\u00e9trique 762 7 762 2 Directionduvent N N O N N O Force 3 3 faible N\u00e9bulosit\u00e9 Reg O Cl\u00e9rel\u00e9g\u00e8rel\u00e9g\u00e8re Reg E merl\u00e9g\u00e8rel\u00e9g\u00e8re Directiondesnuages N N O N N O Pluietomb\u00e9e Temp\u00e9raturedel air 12 4 13 4 Haut\u00e9urdelamer 40 3 30 2 Agitationdel eau 2 fort 3 Densit\u00e9 del eau \u00e0 boutdelajet\u00e9e 1028 4 1028 4 au Large Temp\u00e9raturedel eau 15 0 15 0",
+      "entities": {
+        "dates": [
+          "22 Novembre 1901"
+        ]
+      }
+    },
+    {
+      "page_number": "060",
+      "raw_content": "Date 23 Novembre 1901 Horaires 9h Matin 15h Soir Hauteur Barom\u00e9trique 762 8 762 3 Direction du vent N N O N N O Force du vent 1 T fort 2 N\u00e9bulosit\u00e9 Reg O Cl\u00e9re 10 8 Reg E mer 10 0 Direction des nuages N N O N N O Pluie tomb\u00e9e Temp\u00e9rature de l air 13 4 13 3 Hauteur de la mer 47 1 39 9 Agitation de l eau 1 T fort 1 T fort au bout de la jet\u00e9e 10 28 6 10 28 6 Densit\u00e9 de l eau au Large Temp\u00e9rature de l eau 14 9 15 2",
+      "cleaned_content": "Date 23 Novembre 1901 Horaires 9h Matin 15h Soir Hauteur Barom\u00e9trique 762 8 762 3 Directionduvent N N O N N O Forceduvent 1 T fort 2 N\u00e9bulosit\u00e9 Reg O Cl\u00e9re 10 8 Reg E mer 10 0 Directiondesnuages N N O N N O Pluietomb\u00e9e Temp\u00e9raturedel air 13 4 13 3 Hauteurdelamer 47 1 39 9 Agitationdel eau 1 T fort 1 T fortauboutdelajet\u00e9e 10 28 6 10 28 6 Densit\u00e9 del eauau Large Temp\u00e9raturedel eau 14 9 15 2",
+      "entities": {
+        "dates": [
+          "23 Novembre 1901"
+        ]
+      }
+    },
+    {
+      "page_number": "061",
+      "raw_content": "Date 24 Novembre 1901 Hauteur Barom\u00e9trique 765 3 Direction du vent N N O Force du vent 4 foil N\u00e9bulosit\u00e9 Reg O clair Reg E nuage Direction des nuages N N O Pluie tomb\u00e9e Temp\u00e9rature de l air 6 8 Hauteur de la mer 41 8 Agitation de l eau 1028 8 Densit\u00e9 de l eau \u043f\u0440\u043e\u0432\u0435\u0434 au large Temp\u00e9rature de l eau 14 3",
+      "cleaned_content": "Date 24 Novembre 1901 Hauteur Barom\u00e9trique 765 3 Directionduvent N N O Forceduvent 4 foil N\u00e9bulosit\u00e9 Reg O clair Reg E nuage Directiondesnuages N N O Pluietomb\u00e9e Temp\u00e9raturedel air 6 8 Hauteurdelamer 41 8 Agitationdel eau 1028 8 Densit\u00e9 del eau \u043f\u0440\u043e\u0432\u0435\u0434 aularge Temp\u00e9raturedel eau 14 3",
+      "entities": {
+        "dates": [
+          "24 Novembre 1901"
+        ]
+      }
+    },
+    {
+      "page_number": "062",
+      "raw_content": "Date 29 Novembre 1901 P\u00e9riode 9h Matin 18h Soir Hauteur Barom\u00e9trique 766 4 769 6 Direction du vent N N O N N O Force 3 4 3 Fort Nu bulo sit\u00e9 Reg O claire 10 10 Reg E mer 10 10 \u65b9\u5411 des nuages E S E Est Pluie tomb\u00e9e Temp\u00e9rature de l air 3 9 5 4 Hauteur de la mer 3 9 4 0 Agitation de l eau 3 4 Densit\u00e9 de l eau au bout de la jet\u00e9e 1 028 9 1 028 7 au Large Temp\u00e9rature de l eau 13 3 13 6",
+      "cleaned_content": "Date 29 Novembre 1901 P\u00e9riode 9h Matin 18h Soir Hauteur Barom\u00e9trique 766 4 769 6 Directionduvent N N O N N O Force 3 4 3 Fort Nubulosit\u00e9 Reg O claire 10 10 Reg E mer 10 10 \u65b9\u5411 desnuages E S E Est Pluietomb\u00e9e Temp\u00e9raturedel air 3 9 5 4 Hauteurdelamer 3 9 4 0 Agitationdel eau 3 4 Densit\u00e9 del eauauboutdelajet\u00e9e 1 028 9 1 028 7 au Large Temp\u00e9raturedel eau 13 3 13 6",
+      "entities": {
+        "dates": [
+          "29 Novembre 1901"
+        ]
+      }
+    },
+    {
+      "page_number": "063",
+      "raw_content": "Date 26 Novembre 1901 Heures Matin 9h Soir 3h Hauteur Barom\u00e9trique mm 765 5 762 0 Direction du Vent N N O N N O Force 1 fort 1 N\u00e9bulosit\u00e9 classement Reg O cl\u00e9re 0 0 Reg E mer 2 0 Direction des nuages N N O N N O Pluie tomb\u00e9e mm 1 37 Temp\u00e9rature de l air C 7 2 11 0 Hauteur de la mer m 26 0 39 3 Agitation de l eau 4 3 fort Densit\u00e9 de l eau Au bout de la jet\u00e9e 1028 8 1028 7 Au large Temp\u00e9rature de l eau C 13 5 13 7",
+      "cleaned_content": "Date 26 Novembre 1901 Heures Matin 9h Soir 3h Hauteur Barom\u00e9triquemm 765 5 762 0 Directiondu Vent N N O N N O Force 1 fort 1 N\u00e9bulosit\u00e9 classement Reg O cl\u00e9re 0 0 Reg E mer 2 0 Directiondesnuages N N O N N O Pluietomb\u00e9emm 1 37 Temp\u00e9raturedel air C 7 2 11 0 Hauteurdelamerm 26 0 39 3 Agitationdel eau 4 3 fort Densit\u00e9 del eau Auboutdelajet\u00e9e 1028 8 1028 7 Aularge Temp\u00e9raturedel eau C 13 5 13 7",
+      "entities": {
+        "dates": [
+          "26 Novembre 1901"
+        ]
+      }
+    },
+    {
+      "page_number": "064",
+      "raw_content": "Date 27 Novembre 1901 Hauteur Barom\u00e9trique 760 4 761 3 Direction du vent N E N N O Force 3 2 fort N\u00e9bulosit\u00e9 Reg O ciel 10 10 Reg E mer 10 10 Direction des nuages N N E N O Pluie tomb\u00e9e Temp\u00e9rature de l air 7 7 7 0 Hauteur de la mer 21 5 42 5 Agitation de l eau 3 3 Densit\u00e9 de l eau 1029 0 1029 1 Temp\u00e9rature de l eau 13 4 13 3",
+      "cleaned_content": "Date 27 Novembre 1901 Hauteur Barom\u00e9trique 760 4 761 3 Directionduvent N E N N O Force 3 2 fort N\u00e9bulosit\u00e9 Reg O ciel 10 10 Reg E mer 10 10 Directiondesnuages N N E N O Pluietomb\u00e9e Temp\u00e9raturedel air 7 7 7 0 Hauteurdelamer 21 5 42 5 Agitationdel eau 3 3 Densit\u00e9 del eau 1029 0 1029 1 Temp\u00e9raturedel eau 13 4 13 3",
+      "entities": {
+        "dates": [
+          "27 Novembre 1901"
+        ]
+      }
+    },
+    {
+      "page_number": "065",
+      "raw_content": "Date 28 Novembre 1901 Param\u00e8tre 9 sup e sup Matin 3 sup e sup Soir Hauteur Barom\u00e9trique 764 4 762 5 Direction du vent N N O N N O Force 4 T fort 1 N\u00e9bulosit\u00e9 Reg O terre 0 0 Reg E mer 0 0 Direction ses nuages Pluie tomb\u00e9e Temp\u00e9rature de l air 7 3 8 0 Hauteur de la mer 22 3 44 1 Agitation de l eau au bout de la jet\u00e9e 3 fort 4 T fort au large 10 29 1 10 29 2 Densit\u00e9 de l eau au large Temp\u00e9rature de l eau 12 6 12 8",
+      "cleaned_content": "Date 28 Novembre 1901 Param\u00e8tre 9 supe sup Matin 3 supe sup Soir Hauteur Barom\u00e9trique 764 4 762 5 Directionduvent N N O N N O Force 4 T fort 1 N\u00e9bulosit\u00e9 Reg O terre 0 0 Reg E mer 0 0 Directionsesnuages Pluietomb\u00e9e Temp\u00e9raturedel air 7 3 8 0 Hauteurdelamer 22 3 44 1 Agitationdel eauauboutdelajet\u00e9e 3 fort 4 T fortaularge 10 29 1 10 29 2 Densit\u00e9 del eauaularge Temp\u00e9raturedel eau 12 6 12 8",
+      "entities": {
+        "dates": [
+          "28 Novembre 1901"
+        ]
+      }
+    },
+    {
+      "page_number": "066",
+      "raw_content": "Date 29 Novembre 1901 Horaire 9h Matin 3h Soir Haut Barom 763 6 Dir Vent N N O Force Vent 4 N\u00e9bulosit\u00e9 Reg O claire 0 Reg E mer 3 l\u00e9g\u00e8re Dir Nuages N N O Pluie tomb\u00e9e Temp de l air 8 5 Haut de la mer Agit de l eau 4 au bout de la jet\u00e9e Dens de l eau au large Temp de l eau",
+      "cleaned_content": "Date 29 Novembre 1901 Horaire 9h Matin 3h Soir Haut Barom 763 6 Dir Vent N N O Force Vent 4 N\u00e9bulosit\u00e9 Reg O claire 0 Reg E mer 3 l\u00e9g\u00e8re Dir Nuages N N O Pluietomb\u00e9e Tempdel air 8 5 Hautdelamer Agitdel eau 4 auboutdelajet\u00e9e Densdel eauaularge Tempdel eau",
+      "entities": {
+        "dates": [
+          "29 Novembre 1901"
+        ]
+      }
+    },
+    {
+      "page_number": "067",
+      "raw_content": "Observation 9h Matin 3h Soir Hauteur Barom\u00e9trique 770 8 Direction du vent N N O Force 3 N\u00e9bulosit\u00e9 Reg O Clair 0 Reg E Mer 0 Direction des nuages Pluie tomb\u00e9e Temp\u00e9rature de l air 9 6 Hauteur de la mer 39 4 Agitation de l eau 3 Densit\u00e9 de l eau Par bout de la jet\u00e9e Au large Temp\u00e9rature de l eau 13 9",
+      "cleaned_content": "Observation 9h Matin 3h Soir Hauteur Barom\u00e9trique 770 8 Directionduvent N N O Force 3 N\u00e9bulosit\u00e9 Reg O Clair 0 Reg E Mer 0 Directiondesnuages Pluietomb\u00e9e Temp\u00e9raturedel air 9 6 Hauteurdelamer 39 4 Agitationdel eau 3 Densit\u00e9 del eau Parboutdelajet\u00e9e Aularge Temp\u00e9raturedel eau 13 9",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "068",
+      "raw_content": "Observations m\u00e9t\u00e9orologiques 9h Matin 3h Soir Hauteur Barom\u00e9trique 770 6 Direction du vent Ouest Force faible Nelbulosit\u00e9 Reg O cl\u00e9m 0 Reg E mer 0 Direction des nuages Pluie tomb\u00e9e Temp\u00e9ralure de l air 6 7 Hauteur de la mer 17 3 Agitation de l eau 2 Densit\u00e9 de l eau au bout de la jet\u00e9e 1029 1 \u00e0 l large Temp\u00e9ralure de l eau 15 7",
+      "cleaned_content": "Observationsm\u00e9t\u00e9orologiques 9h Matin 3h Soir Hauteur Barom\u00e9trique 770 6 Directionduvent Ouest Forcefaible Nelbulosit\u00e9 Reg O cl\u00e9m 0 Reg E mer 0 Directiondesnuages Pluietomb\u00e9e Temp\u00e9raluredel air 6 7 Hauteurdelamer 17 3 Agitationdel eau 2 Densit\u00e9 del eauauboutdelajet\u00e9e 1029 1 \u00e0 llarge Temp\u00e9raluredel eau 15 7",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "069",
+      "raw_content": "Date 2 D\u00e9cembre 1901 9 sup e sup Matin 3 sup e sup Soir Hauteur Barom\u00e9trique 767 7 767 3 Direction du vent Ouest N N O Force faible faible N\u00e9bulosit\u00e9 Reg G Terre 0 0 Reg E Mer 0 0 Direction des nuages Pluie tomb\u00e9e Temp\u00e9rature de l air 6 9 11 7 Hauteur de la mer 59 8 56 5 Agitation de l eau 2 fort 3 Densit\u00e9 de l eau au bout de la jet\u00e9e 1029 3 1029 0 Temperaure de l eau 13 4 13 6",
+      "cleaned_content": "Date 2 D\u00e9cembre 1901 9 supe sup Matin 3 supe sup Soir Hauteur Barom\u00e9trique 767 7 767 3 Directionduvent Ouest N N O Forcefaiblefaible N\u00e9bulosit\u00e9 Reg G Terre 0 0 Reg E Mer 0 0 Directiondesnuages Pluietomb\u00e9e Temp\u00e9raturedel air 6 9 11 7 Hauteurdelamer 59 8 56 5 Agitationdel eau 2 fort 3 Densit\u00e9 del eauauboutdelajet\u00e9e 1029 3 1029 0 Temperauredel eau 13 4 13 6",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "070",
+      "raw_content": "Date 3 D\u00e9cembre 1901 Heure 9h Matin 15h Soir Hauteur Barom\u00e9trique 767 8 Direction du vent N N O N N O Force I T Fort Plaib N\u00e9bulosit\u00e9 Reg O Cleve 0 1 l\u00e9ger Reg E mer 2 10 pr\u00e9sente Direction des nuages Pluie tomb\u00e9e Temp\u00e9rature de l air 8 0 9 2 Haut de la mer 57 8 47 1 Agitation de l eau 2 aiibl 2 faibb Densit\u00e9 de l eau 10 29 0 10 29 0 Temp\u00e9rature de l eau 13 8 14 0",
+      "cleaned_content": "Date 3 D\u00e9cembre 1901 Heure 9h Matin 15h Soir Hauteur Barom\u00e9trique 767 8 Directionduvent N N O N N O Force I T Fort Plaib N\u00e9bulosit\u00e9 Reg O Cleve 0 1 l\u00e9ger Reg E mer 2 10 pr\u00e9sente Directiondesnuages Pluietomb\u00e9e Temp\u00e9raturedel air 8 0 9 2 Hautdelamer 57 8 47 1 Agitationdel eau 2 aiibl 2 faibb Densit\u00e9 del eau 10 29 0 10 29 0 Temp\u00e9raturedel eau 13 8 14 0",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "071",
+      "raw_content": "Fait 4 Novembre 1901 Hauteur Barom\u00e9trique 764 0 Direction du vent N N O Force 2 Nuclusit\u00e9 Reg O Terre 0 Reg E Mer 0 Direction des nuages Pluie tomb\u00e9e Temp\u00e9rature de l air 6 9 Hauteur de la mer 16 1 Agitation de l eau fort au bout de la jet\u00e9e 10 29 2 Densit\u00e9 de l eau 1 au large Temp\u00e9rature de l eau 13 6",
+      "cleaned_content": "Fait 4 Novembre 1901 Hauteur Barom\u00e9trique 764 0 Directionduvent N N O Force 2 Nuclusit\u00e9 Reg O Terre 0 Reg E Mer 0 Directiondesnuages Pluietomb\u00e9e Temp\u00e9raturedel air 6 9 Hauteurdelamer 16 1 Agitationdel eaufortauboutdelajet\u00e9e 10 29 2 Densit\u00e9 del eau 1 aularge Temp\u00e9raturedel eau 13 6",
+      "entities": {
+        "dates": [
+          "4 Novembre 1901"
+        ]
+      }
+    },
+    {
+      "page_number": "072",
+      "raw_content": "Date 5 Novembre 1901 Heure 9H Matte 3H Soir Hauteur Barom\u00e9trique 764 6 763 9 Direction du vent N N O faible N N O Force du vent 2 3 faible 1 3 faible H Bar 0 0 N\u00e9bulosit\u00e9 0 0 Direction des nuages S S E Pluie tomb\u00e9e Temp\u00e9rature de l air 7 4 9 7 Hauteur de la mer 53 3 42 5 Agitation de l eau 2 3 fort Densit\u00e9 de l eau au bout de la jet\u00e9e 1028 9 1029 2 Densit\u00e9 de l eau en large Temp\u00e9rature de l eau 13 0 14 0",
+      "cleaned_content": "Date 5 Novembre 1901 Heure 9H Matte 3H Soir Hauteur Barom\u00e9trique 764 6 763 9 Directionduvent N N O faible N N O Forceduvent 2 3 faible 1 3 faible H Bar 0 0 N\u00e9bulosit\u00e9 0 0 Directiondesnuages S S E Pluietomb\u00e9e Temp\u00e9raturedel air 7 4 9 7 Hauteurdelamer 53 3 42 5 Agitationdel eau 2 3 fort Densit\u00e9 del eauauboutdelajet\u00e9e 1028 9 1029 2 Densit\u00e9 del eauenlarge Temp\u00e9raturedel eau 13 0 14 0",
+      "entities": {
+        "dates": [
+          "5 Novembre 1901"
+        ]
+      }
+    },
+    {
+      "page_number": "073",
+      "raw_content": "Date 6 D\u00e9cembre 1901 9H Matin 3H Soir Hauteur Barom\u00e9trique 765 8 764 7 Direction du vent N N O N N O Force 15 3 2 T fort N\u00e9bulosit\u00e9 Reg O terre 0 0 Reg E mer 0 0 Direction des nuages Pluie tomb\u00e9e Temp\u00e9rature de l air 8 2 10 7 Hauteur de la mer sj 9 48 3 Agitation de l eau 2 T fort 3 Densit\u00e9 de l eau au bout de la jet\u00e9e 1 029 2 1 029 1 au large Temp\u00e9rature de l eau 13 2 13 4",
+      "cleaned_content": "Date 6 D\u00e9cembre 1901 9H Matin 3H Soir Hauteur Barom\u00e9trique 765 8 764 7 Directionduvent N N O N N O Force 15 3 2 T fort N\u00e9bulosit\u00e9 Reg O terre 0 0 Reg E mer 0 0 Directiondesnuages Pluietomb\u00e9e Temp\u00e9raturedel air 8 2 10 7 Hauteurdelamersj 9 48 3 Agitationdel eau 2 T fort 3 Densit\u00e9 del eauauboutdelajet\u00e9e 1 029 2 1 029 1 aularge Temp\u00e9raturedel eau 13 2 13 4",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "074",
+      "raw_content": "Date 7 D\u00e9cembre 1901 9h Matin 3h Soir Hauteur Barom\u00e9trique 768 7 Direction du Vent N N O Force 3 fort N\u00e9bulosit\u00e9 Reg O Clerre 0 Reg E mar 0 Direction des Nuages Pluie tomb\u00e9e Temp\u00e9rature de l air 6 4 Hauteur de la mer 54 7 Agitation de l eau 3 fort Densit\u00e9 de l eau au bout de la jet\u00e9e 1029 4 au large Temp\u00e9rature de l eau 13 6",
+      "cleaned_content": "Date 7 D\u00e9cembre 1901 9h Matin 3h Soir Hauteur Barom\u00e9trique 768 7 Directiondu Vent N N O Force 3 fort N\u00e9bulosit\u00e9 Reg O Clerre 0 Reg E mar 0 Directiondes Nuages Pluietomb\u00e9e Temp\u00e9raturedel air 6 4 Hauteurdelamer 54 7 Agitationdel eau 3 fort Densit\u00e9 del eauauboutdelajet\u00e9e 1029 4 aularge Temp\u00e9raturedel eau 13 6",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "075",
+      "raw_content": "Date 8 D\u00e9cembre 1901 Param\u00e8tres 9\u1d49 Heure Matin 3\u1d49 Heure Soir Hauteur Barom\u00e9trique 768 4 Direction du vent Gent Force 1 5 Faible N\u00e9bulosit\u00e9 Reg 6 terre S\u00e9mic Reg E mer 4 l\u00e9g\u00e8re Direction des nuages Pluie tomb\u00e9e Temp\u00e9rature de l air 11 2 Hauteur de la mer 66 6 Agitation de l eau Fort Densit\u00e9 de l eau \u00e0 bout de la jet\u00e9e 1029 1 au Large Temp\u00e9rature de l eau 13 0",
+      "cleaned_content": "Date 8 D\u00e9cembre 1901 Param\u00e8tres 9\u1d49 Heure Matin 3\u1d49 Heure Soir Hauteur Barom\u00e9trique 768 4 Directionduvent Gent Force 1 5 Faible N\u00e9bulosit\u00e9 Reg 6 terre S\u00e9mic Reg E mer 4 l\u00e9g\u00e8re Directiondesnuages Pluietomb\u00e9e Temp\u00e9raturedel air 11 2 Hauteurdelamer 66 6 Agitationdel eau Fort Densit\u00e9 del eau \u00e0 boutdelajet\u00e9e 1029 1 au Large Temp\u00e9raturedel eau 13 0",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "076",
+      "raw_content": "Date 9 D\u00e9cembre 1901 Hauteur Barom\u00e9trique 767 6 765 2 Direction du vent ONED ONED Force faible 1 N\u00e9bulosit\u00e9 l\u00e9g\u00e8re l\u00e9g\u00e8re Direction des nuages ONED 10 l\u00e9g ONED 10 l\u00e9g Pluie tomb\u00e9e non non Temp\u00e9rature de l air 9 9 13 7 Hauteur de la mer 12 6 57 17 Agitation de l eau 1 T fort 1 Densit\u00e9 de l eau au bout de la jet\u00e9e \u00e0 l Large 1029 1 1029 1 Temp\u00e9rature de l eau 13 5 13 7",
+      "cleaned_content": "Date 9 D\u00e9cembre 1901 Hauteur Barom\u00e9trique 767 6 765 2 Directionduvent ONED ONED Forcefaible 1 N\u00e9bulosit\u00e9 l\u00e9g\u00e8rel\u00e9g\u00e8re Directiondesnuages ONED 10 l\u00e9g ONED 10 l\u00e9g Pluietomb\u00e9enonnon Temp\u00e9raturedel air 9 9 13 7 Hauteurdelamer 12 6 57 17 Agitationdel eau 1 T fort 1 Densit\u00e9 del eauauboutdelajet\u00e9e \u00e0 l Large 1029 1 1029 1 Temp\u00e9raturedel eau 13 5 13 7",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "077",
+      "raw_content": "Observations m\u00e9t\u00e9orologiques 9h Matin 3h Soir Hauteur Barom\u00e9trique 761 5 763 2 Direction du vent Ouest N N O Force 1 faible 2 fort Nuageux degr\u00e9 Reg O claire 10 Reg E mer 10 Direction des nuages Nord N N O Pluie tomb\u00e9e pas de donn\u00e9es pas de donn\u00e9es Temp\u00e9rature de l air 13 0 12 7 Hauteur de la mer 55 7 68 8 Agitation de l eau 1 2 fort Densit\u00e9 de l eau 1028 9 1028 9 Temp\u00e9rature de l eau 13 6 13 5",
+      "cleaned_content": "Observationsm\u00e9t\u00e9orologiques 9h Matin 3h Soir Hauteur Barom\u00e9trique 761 5 763 2 Directionduvent Ouest N N O Force 1 faible 2 fort Nuageuxdegr\u00e9 Reg O claire 10 Reg E mer 10 Directiondesnuages Nord N N O Pluietomb\u00e9epasdedonn\u00e9espasdedonn\u00e9es Temp\u00e9raturedel air 13 0 12 7 Hauteurdelamer 55 7 68 8 Agitationdel eau 1 2 fort Densit\u00e9 del eau 1028 9 1028 9 Temp\u00e9raturedel eau 13 6 13 5",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "078",
+      "raw_content": "Date 11 D\u00e9cembre 1901 9h Matin 3h Soir Hauteur Barom\u00e9trique 758 7 760 3 Direction du vent S E N N O Force 1 T faible 3 Fort N\u00e9bulosit\u00e9 Reg 6 Terre 10 l\u00e9g\u00e8re 10 Reg E Mer 10 l\u00e9g\u00e8re 10 Direction des nuages N 0 N 0 Pluie tomb\u00e9e Temp\u00e9rature de l air 13 9 11 2 Hauteur de la mer 46 9 64 9 Agitation de l eau 1 T faible 3 au bout de la jet\u00e9e 10 29 0 10 29 1 au large Densit\u00e9 de l eau Temp\u00e9rature de l eau 13 6 13 5",
+      "cleaned_content": "Date 11 D\u00e9cembre 1901 9h Matin 3h Soir Hauteur Barom\u00e9trique 758 7 760 3 Directionduvent S E N N O Force 1 T faible 3 Fort N\u00e9bulosit\u00e9 Reg 6 Terre 10 l\u00e9g\u00e8re 10 Reg E Mer 10 l\u00e9g\u00e8re 10 Directiondesnuages N 0 N 0 Pluietomb\u00e9e Temp\u00e9raturedel air 13 9 11 2 Hauteurdelamer 46 9 64 9 Agitationdel eau 1 T faible 3 auboutdelajet\u00e9e 10 29 0 10 29 1 aularge Densit\u00e9 del eau Temp\u00e9raturedel eau 13 6 13 5",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "079",
+      "raw_content": "Date 12 D\u00e9cembre 1901 Heure 9h Matin 3h Soir Hauteur Barom\u00e9trique 759 7 753 5 Direction du vent Sud Sud Force 2 2 fort N\u00e9bulosit\u00e9 Reg O Ci\u00e9 10 10 Reg E Mar 10 10 Direction des nuages Sud Sud Pluie tomb\u00e9e quelques g 11 Temp\u00e9rature de l air 8 7 12 7 Hauteur de la mer 41 4 43 2 Agitation de l eau faible forte Densit\u00e9 de l eau \u00e0 l entr\u00e9e de la jatte 1029 3 1029 3 au large Temp\u00e9rature de l eau 13 6 13 6",
+      "cleaned_content": "Date 12 D\u00e9cembre 1901 Heure 9h Matin 3h Soir Hauteur Barom\u00e9trique 759 7 753 5 Directionduvent Sud Sud Force 2 2 fort N\u00e9bulosit\u00e9 Reg O Ci\u00e9 10 10 Reg E Mar 10 10 Directiondesnuages Sud Sud Pluietomb\u00e9equelquesg 11 Temp\u00e9raturedel air 8 7 12 7 Hauteurdelamer 41 4 43 2 Agitationdel eaufaibleforte Densit\u00e9 del eau \u00e0 lentr\u00e9edelajatte 1029 3 1029 3 aularge Temp\u00e9raturedel eau 13 6 13 6",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "080",
+      "raw_content": "Date 13 D\u00e9cembre 1901 Observations 9h Matin 15h Soir Hauteur Barom\u00e9trique 752 4 750 7 Direction du vent N N O Force 2 Fort 0 N\u00e9bulosit\u00e9 Reg O Terre 10 10 Reg E Mer 10 10 Direction des nuages N N O Sud Pluie tomb\u00e9e Temp\u00e9rature de l air 10 0 10 5 Hauteur de la mer 26 3 44 2 Agitation de l eau au bout de la jet\u00e9e 1 Fort 1 Fort 1028 5 1029 1 Densit\u00e9 de l eau au Large Temp\u00e9rature de l eau 13 2 13 1",
+      "cleaned_content": "Date 13 D\u00e9cembre 1901 Observations 9h Matin 15h Soir Hauteur Barom\u00e9trique 752 4 750 7 Directionduvent N N O Force 2 Fort 0 N\u00e9bulosit\u00e9 Reg O Terre 10 10 Reg E Mer 10 10 Directiondesnuages N N O Sud Pluietomb\u00e9e Temp\u00e9raturedel air 10 0 10 5 Hauteurdelamer 26 3 44 2 Agitationdel eauauboutdelajet\u00e9e 1 Fort 1 Fort 1028 5 1029 1 Densit\u00e9 del eauau Large Temp\u00e9raturedel eau 13 2 13 1",
+      "entities": {
+        "dates": [
+          "1 Fort 1028"
+        ]
+      }
+    },
+    {
+      "page_number": "081",
+      "raw_content": "Observations m\u00e9t\u00e9orologiques 9h Matin 3h Soir Hauteur Barom\u00e9trique 752 2 751 4 Direction du vent Ouest Sud Force 1 1 faible N\u00e9bulosit\u00e9 Reg N claire 0 0 Reg E nu 2 2 Direction des nuages Nord Sud Pluie tomb\u00e9e 3 Temp\u00e9rature de l air 6 4 9 5 Hauteur de la mer 27 0 44 7 Agitation de l eau 1 faible 1 faible au bout de la jet\u00e9e 1029 3 1029 2 Densit\u00e9 de l eau au Large Temp\u00e9rature de l eau 13 4 13 5",
+      "cleaned_content": "Observationsm\u00e9t\u00e9orologiques 9h Matin 3h Soir Hauteur Barom\u00e9trique 752 2 751 4 Directionduvent Ouest Sud Force 1 1 faible N\u00e9bulosit\u00e9 Reg N claire 0 0 Reg E nu 2 2 Directiondesnuages Nord Sud Pluietomb\u00e9e 3 Temp\u00e9raturedel air 6 4 9 5 Hauteurdelamer 27 0 44 7 Agitationdel eau 1 faible 1 faibleauboutdelajet\u00e9e 1029 3 1029 2 Densit\u00e9 del eauau Large Temp\u00e9raturedel eau 13 4 13 5",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "082",
+      "raw_content": "Date Heure Param\u00e8tre Valeur 16 D\u00e9cembre 1901 9h Matin Hauteur Barom\u00e9trique 704 6 Direction du vent Ouest Force 1 faible N\u00e9bulosit\u00e9 10 claire Direction des images Est Pluie tomb\u00e9e 11 Temp\u00e9rature de l air 7 6 3h Soir Hauter de la mer 32 9 Agitation de l eau 1 Tmp de la mer pont 10 29 3 Tmp de la mer large 13 2 Densit\u00e9 de l eau pont Densit\u00e9 de l eau large Note Les abr\u00e9viations et symboles sont transcrits exactement comme dans l original Les valeurs non num\u00e9riques sont conserv\u00e9es comme textes",
+      "cleaned_content": "Date Heure Param\u00e8tre Valeur 16 D\u00e9cembre 1901 9h Matin Hauteur Barom\u00e9trique 704 6 Directionduvent Ouest Force 1 faible N\u00e9bulosit\u00e9 10 claire Directiondesimages Est Pluietomb\u00e9e 11 Temp\u00e9raturedel air 7 6 3h Soir Hauterdelamer 32 9 Agitationdel eau 1 Tmpdelamerpont 10 29 3 Tmpdelamerlarge 13 2 Densit\u00e9 del eaupont Densit\u00e9 del eaularge Note Lesabr\u00e9viationsetsymbolessonttranscritsexactementcommedansl original Lesvaleursnonnum\u00e9riquessontconserv\u00e9escommetextes",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "083",
+      "raw_content": "9H Malin 3H Soir Hauteur Barom\u00e9trique 747 7 Direction du vent S E Force acc\u00e9l\u00e9r\u00e9 de 15 2 N\u00e9bulosit\u00e9 mal inond\u00e9e Reg G claire 10 Reg E mer 10 Direction des nuages S E Pluie tomb\u00e9e 69 37 24 875 Temp\u00e9rature de l air 11 3 Hauteur de la mer Agitation de l eau 9 au bout de la jet\u00e9e en large Densit\u00e9 de l eau Temp\u00e9rature de l eau Date 17 D\u00e9cembre 1901 Lieu Nale",
+      "cleaned_content": "9H Malin 3H Soir Hauteur Barom\u00e9trique 747 7 Directionduvent S E Forceacc\u00e9l\u00e9r\u00e9 de 15 2 N\u00e9bulosit\u00e9 malinond\u00e9e Reg G claire 10 Reg E mer 10 Directiondesnuages S E Pluietomb\u00e9e 69 37 24 875 Temp\u00e9raturedel air 11 3 Hauteurdelamer Agitationdel eau 9 auboutdelajet\u00e9eenlarge Densit\u00e9 del eau Temp\u00e9raturedel eau Date 17 D\u00e9cembre 1901 Lieu Nale",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "084",
+      "raw_content": "Date 18 D\u00e9cembre 1901 Heure 9h Matin 3h Soir Hauteur Barom\u00e9trique 751 8 750 6 Direction du vent Ouest Sud Force du vent 15 faible 10 l\u00e9g\u00e8res N\u00e9bulosit\u00e9 Reg O Terre 0 10 l\u00e9g\u00e8res Reg E Mer 1 10 l\u00e9g\u00e8res Direction des nuages Ouest Ouest Pluie tomb\u00e9e quelques g Temp\u00e9rature de l air 8 4 10 5 Hauteur de la mer 28 7 29 1 Agitation de l eau au bout de la jet\u00e9e 1 T fort 1 T fort au large 10 27 0 10 27 7 Densit\u00e9 de l eau Temp\u00e9rature de l eau 13 5 12 7",
+      "cleaned_content": "Date 18 D\u00e9cembre 1901 Heure 9h Matin 3h Soir Hauteur Barom\u00e9trique 751 8 750 6 Directionduvent Ouest Sud Forceduvent 15 faible 10 l\u00e9g\u00e8res N\u00e9bulosit\u00e9 Reg O Terre 0 10 l\u00e9g\u00e8res Reg E Mer 1 10 l\u00e9g\u00e8res Directiondesnuages Ouest Ouest Pluietomb\u00e9equelquesg Temp\u00e9raturedel air 8 4 10 5 Hauteurdelamer 28 7 29 1 Agitationdel eauauboutdelajet\u00e9e 1 T fort 1 T fortaularge 10 27 0 10 27 7 Densit\u00e9 del eau Temp\u00e9raturedel eau 13 5 12 7",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "085",
+      "raw_content": "Date 20 D\u00e9cembre 1901 Param\u00e8tres 9H Matin 16H Soin Hauteur Barom\u00e9trique 747 2 748 0 Direction du vent N N O N N O Force 1 T forl 2 N\u00e9bulosit\u00e9 Reg O ciel 10 10 Reg E mer 10 10 Direction de nuages N N O N N O Pluie tomb\u00e9e 23 02 Temp\u00e9rature de l air 6 7 5 7 Hauteur de la mer 28 3 18 1 Agitation de l eau 1 1 fort au bout de la jet\u00e9e 10 28 8 10 28 4 Densit\u00e9 de l eau au Largue Temp\u00e9rature de l eau 12 7 12 4",
+      "cleaned_content": "Date 20 D\u00e9cembre 1901 Param\u00e8tres 9H Matin 16H Soin Hauteur Barom\u00e9trique 747 2 748 0 Directionduvent N N O N N O Force 1 T forl 2 N\u00e9bulosit\u00e9 Reg O ciel 10 10 Reg E mer 10 10 Directiondenuages N N O N N O Pluietomb\u00e9e 23 02 Temp\u00e9raturedel air 6 7 5 7 Hauteurdelamer 28 3 18 1 Agitationdel eau 1 1 fortauboutdelajet\u00e9e 10 28 8 10 28 4 Densit\u00e9 del eauau Largue Temp\u00e9raturedel eau 12 7 12 4",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "086",
+      "raw_content": "Date Temperature Pressure mmHg Wind Direction Wind Speed Force Nebulosity degrees Clouds Direction Rainfall mm Air Temperature C Sea Height m Sea Agitation Water Density Water Temperature C Remarks 21 D\u00e9cembre 1901 9 C 754 3 N N O 2 Reg \u00d8 l\u00e8re 2 Reg E mer 3 N N O 0 4 7 36 0 1 2 At the pier 1027 8 Offshore 12 2 Normal",
+      "cleaned_content": "Date Temperature PressuremmHg Wind Direction Wind Speed Force Nebulositydegrees Clouds Direction Rainfallmm Air Temperature C Sea Heightm Sea Agitation Water Density Water Temperature C Remarks 21 D\u00e9cembre 1901 9 C 754 3 N N O 2 Reg \u00d8 l\u00e8re 2 Reg E mer 3 N N O 0 4 7 36 0 1 2 Atthepier 1027 8 Offshore 12 2 Normal",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "087",
+      "raw_content": "Date 22 D\u00e9cembre 1901 Heure 9h Matin 3h Soir Altitude Barom\u00e9trique 742 2 Direction du vent Ouest Force du vent 3 Faible N\u00e9bulosit\u00e9 Reg O Clair Reg \u00c9 Nubil\u00e9 Direction des nuages Sud Pluie tomb\u00e9e Non Temp\u00e9rature de l air 4 5 C Hauteur de la mer 23 6 m Agitation de l eau 5 \u00c9chelle locale Densit\u00e9 de l eau emsp emsp au bout de la jet\u00e9e 1028 7 kg m\u00b3 emsp emsp au large Temp\u00e9rature de l eau 12 1 C",
+      "cleaned_content": "Date 22 D\u00e9cembre 1901 Heure 9h Matin 3h Soir Altitude Barom\u00e9trique 742 2 Directionduvent Ouest Forceduvent 3 Faible N\u00e9bulosit\u00e9 Reg O Clair Reg \u00c9 Nubil\u00e9 Directiondesnuages Sud Pluietomb\u00e9e Non Temp\u00e9raturedel air 4 5 C Hauteurdelamer 23 6 m Agitationdel eau 5 \u00c9chellelocale Densit\u00e9 del eauemspemspauboutdelajet\u00e9e 1028 7 kgm\u00b3 emspemspaularge Temp\u00e9raturedel eau 12 1 C",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "088",
+      "raw_content": "Date 23 D\u00e9cembre 1901 Temp 9h Matin 3h Soir Haut\u00e9ur Barom\u00e9trique 753 4 755 8 Direction du vent N N O N N O Force du Vent 4 Foit 4 N\u00e9bulosit\u00e9 Reg O Cl\u00e8re 10 10 D\u00e9gr Reg E Cl\u00e8re 10 10 D\u00e9gr Direction des nuages N O S N O S Pluie Tomb\u00e9e Temp\u00e9rature de l air 9 1 10 7 Haut\u00e9ur de la mer 16 3 22 9 Agitation de l eau 3 Foit 3 Foit Densit\u00e9 de l eau 10 28 4 10 28 8 au bout de la jet\u00e9e en l air Temp\u00e9rature de l eau 11 0 11 2",
+      "cleaned_content": "Date 23 D\u00e9cembre 1901 Temp 9h Matin 3h Soir Haut\u00e9ur Barom\u00e9trique 753 4 755 8 Directionduvent N N O N N O Forcedu Vent 4 Foit 4 N\u00e9bulosit\u00e9 Reg O Cl\u00e8re 10 10 D\u00e9gr Reg E Cl\u00e8re 10 10 D\u00e9gr Directiondesnuages N O S N O S Pluie Tomb\u00e9e Temp\u00e9raturedel air 9 1 10 7 Haut\u00e9urdelamer 16 3 22 9 Agitationdel eau 3 Foit 3 Foit Densit\u00e9 del eau 10 28 4 10 28 8 auboutdelajet\u00e9eenl air Temp\u00e9raturedel eau 11 0 11 2",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "089",
+      "raw_content": "Date 24 D\u00e9cembre 1901 9H Matin 3H Soir Hauteur Barom\u00e9trique 758 7 Direction du vent Gust Force faible N\u00e9bulosit\u00e9 Reg O Claire 10 Reg E mer 10 Direction des nuages Nord Ouie tomb\u00e9e quelques gouttes Temperat\u00fbre de l air 9 1 Hauteur de la mer 29 3 Agitation de l eau 1 Densit\u00e9 de l eau au bout sell aj\u00fbt\u00e9e 1028 7 au large Temperat\u00fbre de l eau 11 6",
+      "cleaned_content": "Date 24 D\u00e9cembre 1901 9H Matin 3H Soir Hauteur Barom\u00e9trique 758 7 Directionduvent Gust Forcefaible N\u00e9bulosit\u00e9 Reg O Claire 10 Reg E mer 10 Directiondesnuages Nord Ouietomb\u00e9equelquesgouttes Temperat\u00fbredel air 9 1 Hauteurdelamer 29 3 Agitationdel eau 1 Densit\u00e9 del eauauboutsellaj\u00fbt\u00e9e 1028 7 aularge Temperat\u00fbredel eau 11 6",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "090",
+      "raw_content": "Date Heure Haud Barom\u00e9trique Dir du vent Force N\u00e9bulosit\u00e9 Dir des nuages Pluie tomb\u00e9e T de l air Hd la mer Agit de l eau Densit\u00e9 de l eau T de l eau 27 D\u00e9cembre 1901 9h 97balin 755 7 N O 1 10 claire N O 7 3 23 1 1 fort 1028 7 12 4 Date Heure Haud Barom\u00e9trique Dir du vent Force N\u00e9bulosit\u00e9 Dir des nuages Pluie tomb\u00e9e T de l air Hd la mer Agit de l eau Densit\u00e9 de l eau T de l eau 3h Soir 757 2 N N O 2 fort 1 claire N N O 10 2 44 5 2 1028 7 12 5",
+      "cleaned_content": "Date Heure Haud Barom\u00e9trique Dirduvent Force N\u00e9bulosit\u00e9 Dirdesnuages Pluietomb\u00e9e T del air Hdlamer Agitdel eau Densit\u00e9 del eau T del eau 27 D\u00e9cembre 1901 9h 97balin 755 7 N O 1 10 claire N O 7 3 23 1 1 fort 1028 7 12 4 Date Heure Haud Barom\u00e9trique Dirduvent Force N\u00e9bulosit\u00e9 Dirdesnuages Pluietomb\u00e9e T del air Hdlamer Agitdel eau Densit\u00e9 del eau T del eau 3h Soir 757 2 N N O 2 fort 1 claire N N O 10 2 44 5 2 1028 7 12 5",
+      "entities": {
+        "dates": [
+          "1 fort 1028"
+        ]
+      }
+    },
+    {
+      "page_number": "091",
+      "raw_content": "Date Dessembre 1901 Heure 9 sup e sup Matin 3 sup e sup Soir Hauteur Barom\u00e9trique 767 8 Direction du vent N N O Force 1 Fort N\u00e9bulosit\u00e9 Reg 6 Terre 10 l\u00e9gers c Reg E mer Direction des nuages N N O Pluie Tomb\u00e9e 11 Temp\u00e9rature de l air 14 7 Hauteur de la mer 40 6 Agitation de l eau 1 Densit\u00e9 de l eau au bout de la jet\u00e9e 1028 7 au Large Temp\u00e9rature de l eau 12 4",
+      "cleaned_content": "Date Dessembre 1901 Heure 9 supe sup Matin 3 supe sup Soir Hauteur Barom\u00e9trique 767 8 Directionduvent N N O Force 1 Fort N\u00e9bulosit\u00e9 Reg 6 Terre 10 l\u00e9gersc Reg E mer Directiondesnuages N N O Pluie Tomb\u00e9e 11 Temp\u00e9raturedel air 14 7 Hauteurdelamer 40 6 Agitationdel eau 1 Densit\u00e9 del eauauboutdelajet\u00e9e 1028 7 au Large Temp\u00e9raturedel eau 12 4",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "092",
+      "raw_content": "M\u00e9t\u00e9o 9h Matin 3h Soir Hauteur Barom\u00e9trique 771 8 771 0 Direction du vent Ouest Sud Sud Est Force Tr\u00e8s l\u00e9g\u00e8re Tr\u00e8s forte N\u00e9bulosit\u00e9 R\u00e9gion Nord ciel clair 0 0 R\u00e9gion Est mers 1 0 Direction des nuages Sud Sud Est Pluie tomb\u00e9e Temp\u00e9rature de l air 9 6 12 6 Mers Hauteur de la mer 46 9 48 2 Agitation de l eau Au bout de la jet\u00e9e Tr\u00e8s l\u00e9g\u00e8re 1 Au large 1028 7 1028 6 Densit\u00e9 de l eau Temp\u00e9rature de l eau 11 8 11 7 Date 31 D\u00e9cembre 1901",
+      "cleaned_content": "M\u00e9t\u00e9o 9h Matin 3h Soir Hauteur Barom\u00e9trique 771 8 771 0 Directionduvent Ouest Sud Sud Est Force Tr\u00e8sl\u00e9g\u00e8re Tr\u00e8sforte N\u00e9bulosit\u00e9 R\u00e9gion Nordcielclair 0 0 R\u00e9gion Estmers 1 0 Directiondesnuages Sud Sud Est Pluietomb\u00e9e Temp\u00e9raturedel air 9 6 12 6 Mers Hauteurdelamer 46 9 48 2 Agitationdel eau Auboutdelajet\u00e9e Tr\u00e8sl\u00e9g\u00e8re 1 Aularge 1028 7 1028 6 Densit\u00e9 del eau Temp\u00e9raturedel eau 11 8 11 7 Date 31 D\u00e9cembre 1901",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "093",
+      "raw_content": "Date 2 Janvier 1902 9h Matin 3h Soir Hauteur Barom\u00e9trique 766 2 764 5 Direction du vent 11 Ouest Force 0 2 N\u00e9bulosit\u00e9 Reg 6 Clair 10 10 Reg E nuageux 10 10 Direction des nuages Nord Nord Pluie tomb\u00e9e quelques g Temp\u00e9rature de l air 9 6 13 6 Hauteur de la mer 0 2 0 1 Agitation de l eau 0 0 Densit\u00e9 de l eau 1028 9 1028 9 Temp\u00e9rature de l eau 11 5 11 7",
+      "cleaned_content": "Date 2 Janvier 1902 9h Matin 3h Soir Hauteur Barom\u00e9trique 766 2 764 5 Directionduvent 11 Ouest Force 0 2 N\u00e9bulosit\u00e9 Reg 6 Clair 10 10 Reg E nuageux 10 10 Directiondesnuages Nord Nord Pluietomb\u00e9equelquesg Temp\u00e9raturedel air 9 6 13 6 Hauteurdelamer 0 2 0 1 Agitationdel eau 0 0 Densit\u00e9 del eau 1028 9 1028 9 Temp\u00e9raturedel eau 11 5 11 7",
+      "entities": {
+        "dates": [
+          "2 Janvier 1902"
+        ]
+      }
+    },
+    {
+      "page_number": "094",
+      "raw_content": "Date 3 Janvier 1901 Heure Matin Soir Hauteur Barom\u00e9trique 769 4 Direction du vent N N O N N O Force 3 fort N\u00e9bulosit\u00e9 Reg O Terre Reg E mer Direction de images Pluie tomb\u00e9e Temp\u00e9rature de l air 7 5 Hauteur de la mer 61 9 Agitation de l eau 3 faibl arbout de la jets 1027 8 Densit\u00e9 de l eau au Large Temp\u00e9rature de l eau 12 1",
+      "cleaned_content": "Date 3 Janvier 1901 Heure Matin Soir Hauteur Barom\u00e9trique 769 4 Directionduvent N N O N N O Force 3 fort N\u00e9bulosit\u00e9 Reg O Terre Reg E mer Directiondeimages Pluietomb\u00e9e Temp\u00e9raturedel air 7 5 Hauteurdelamer 61 9 Agitationdel eau 3 faiblarboutdelajets 1027 8 Densit\u00e9 del eauau Large Temp\u00e9raturedel eau 12 1",
+      "entities": {
+        "dates": [
+          "3 Janvier 1901"
+        ]
+      }
+    },
+    {
+      "page_number": "095",
+      "raw_content": "Date 4 janvier 1902 M\u00e9trique 9h Matin 3h Soir Hauteur Barom\u00e9trique mm 769 3 768 2 Direction du vent N N O S E Force du vent force Beaufort 1 1 Nebulosit\u00e9 nuageux Reg O Terre 0 0 Nebulosit\u00e9 nuageux Reg E Mer 1 0 Direction des nuages Pluie tomb\u00e9e Temp\u00e9rature de l air C 17 3 17 6 Hauteur de la mer m 18 9 14 7 Agitation de l eau 2 faible 2 Densit\u00e9 de l eau au bout de la jet\u00e9e 1028 6 1028 5 Densit\u00e9 de l eau au Large Temp\u00e9rature de l eau C 12 1 12 3",
+      "cleaned_content": "Date 4 janvier 1902 M\u00e9trique 9h Matin 3h Soir Hauteur Barom\u00e9triquemm 769 3 768 2 Directionduvent N N O S E Forceduventforce Beaufort 1 1 Nebulosit\u00e9 nuageux Reg O Terre 0 0 Nebulosit\u00e9 nuageux Reg E Mer 1 0 Directiondesnuages Pluietomb\u00e9e Temp\u00e9raturedel air C 17 3 17 6 Hauteurdelamerm 18 9 14 7 Agitationdel eau 2 faible 2 Densit\u00e9 del eauauboutdelajet\u00e9e 1028 6 1028 5 Densit\u00e9 del eauau Large Temp\u00e9raturedel eau C 12 1 12 3",
+      "entities": {
+        "dates": [
+          "4 janvier 1902"
+        ]
+      }
+    },
+    {
+      "page_number": "096",
+      "raw_content": "Date 06 Janvier 1902 9H Malin 3H Soir Hauteur Barom\u00e9trique 771 1 Direction du vent N N O Force i5 N\u00e9bulosit\u00e9 Reg O Claire 0 Reg E mer 0 Direction de nuages N N O Pluie tomb\u00e9e temp\u00e9rature de l air 9 2 Hauteur de la mer 6f 4 Agitation de l eau 3 Vitesse de l eau au bout de la jet\u00e9e 10 28 9 au Large Temp\u00e9rature de l eau 11 4",
+      "cleaned_content": "Date 06 Janvier 1902 9H Malin 3H Soir Hauteur Barom\u00e9trique 771 1 Directionduvent N N O Forcei5 N\u00e9bulosit\u00e9 Reg O Claire 0 Reg E mer 0 Directiondenuages N N O Pluietomb\u00e9etemp\u00e9raturedel air 9 2 Hauteurdelamer 6f 4 Agitationdel eau 3 Vitessedel eauauboutdelajet\u00e9e 10 28 9 au Large Temp\u00e9raturedel eau 11 4",
+      "entities": {
+        "dates": [
+          "06 Janvier 1902"
+        ]
+      }
+    },
+    {
+      "page_number": "097",
+      "raw_content": "Registre d observations m\u00e9t\u00e9orologiques historiques Donn\u00e9es m\u00e9t\u00e9orologiques 9h Matin 3h Soir Hauteur Barom\u00e9trique mmHg 773 4 773 7 Direction du vent N N O N N O Force 1 2 N\u00e9bulosit\u00e9 Reg 6 Terre 0 0 N\u00e9bulosit\u00e9 Reg E Mer 1 0 Direction des nuages Pluie tomb\u00e9e Temp\u00e9rature de l air C 9 8 18 4 Hauteur de la mer m 16 6 17 2 Agitation de l eau 4 3 au bout de la jet\u00e9e Densit\u00e9 de l eau 1029 0 1028 6 au Large Temp\u00e9rature de l eau C 10 7 11 3",
+      "cleaned_content": "Registred observationsm\u00e9t\u00e9orologiqueshistoriques Donn\u00e9esm\u00e9t\u00e9orologiques 9h Matin 3h Soir Hauteur Barom\u00e9triquemmHg 773 4 773 7 Directionduvent N N O N N O Force 1 2 N\u00e9bulosit\u00e9 Reg 6 Terre 0 0 N\u00e9bulosit\u00e9 Reg E Mer 1 0 Directiondesnuages Pluietomb\u00e9e Temp\u00e9raturedel air C 9 8 18 4 Hauteurdelamerm 16 6 17 2 Agitationdel eau 4 3 auboutdelajet\u00e9e Densit\u00e9 del eau 1029 0 1028 6 au Large Temp\u00e9raturedel eau C 10 7 11 3",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "098",
+      "raw_content": "Date 8 janvier 1902 9h 16h 3h 21h Hauteur Barom\u00e9trique 775 7 Direction du vent Nord Est Force 15 N\u00e9bulosit\u00e9 O Cl\u00e9re 0 E mer 0 Pluie tomb\u00e9e Temp\u00e9rature de l air 7 4 Hauteur de la mer 46 6 Agitation de l eau 1 p au bout de la jet\u00e9e 1028 8 Densit\u00e9 de l eau 1 au Large Temp\u00e9rature de l eau 11 3",
+      "cleaned_content": "Date 8 janvier 1902 9h 16h 3h 21h Hauteur Barom\u00e9trique 775 7 Directionduvent Nord Est Force 15 N\u00e9bulosit\u00e9 O Cl\u00e9re 0 E mer 0 Pluietomb\u00e9e Temp\u00e9raturedel air 7 4 Hauteurdelamer 46 6 Agitationdel eau 1 pauboutdelajet\u00e9e 1028 8 Densit\u00e9 del eau 1 au Large Temp\u00e9raturedel eau 11 3",
+      "entities": {
+        "dates": [
+          "8 janvier 1902"
+        ]
+      }
+    },
+    {
+      "page_number": "099",
+      "raw_content": "Date 9 janvier 1902 Observations 9\u2074 Matin 3\u2074 Soir Hauteur Barom\u00e9trique 776 4 773 7 Direction du vent Ouest S S E Force du vent 1 Fort N\u00e9bulosit\u00e9 Fondamentalement clair Nuages l\u00e9gers au loin Direction des nuages Ouest Pluie tomb\u00e9e Aucune Temp\u00e9rature de l air 7 4 10 6 Hauteur de la mer 48 0 48 5 Agitation de l eau 1 T Jalbie 1 Jalbie Densit\u00e9 de l eau au bout de la jet\u00e9e 1029 3 1028 3 Temp\u00e9rature de l eau au Large 11 4 12 1",
+      "cleaned_content": "Date 9 janvier 1902 Observations 9\u2074 Matin 3\u2074 Soir Hauteur Barom\u00e9trique 776 4 773 7 Directionduvent Ouest S S E Forceduvent 1 Fort N\u00e9bulosit\u00e9 Fondamentalementclair Nuagesl\u00e9gersauloin Directiondesnuages Ouest Pluietomb\u00e9e Aucune Temp\u00e9raturedel air 7 4 10 6 Hauteurdelamer 48 0 48 5 Agitationdel eau 1 T Jalbie 1 Jalbie Densit\u00e9 del eauauboutdelajet\u00e9e 1029 3 1028 3 Temp\u00e9raturedel eauau Large 11 4 12 1",
+      "entities": {
+        "dates": [
+          "9 janvier 1902"
+        ]
+      }
+    },
+    {
+      "page_number": "100",
+      "raw_content": "Date 10 Janvier 1902 Heures 9h Matin 3h Soir Hauteur Barom\u00e9trique 772 8 770 7 Direction du vent Ouest N N E Force Faible 1 N\u00e9bulosit\u00e9 Reg O Clair 10 l\u00e9g c 3 Reg E mar 10 l\u00e9g c 2 Direction ses nuages Ouest Sud Pluie tomb\u00e9e Temp\u00e9rature de l air 7 0 9 0 Hauteur de la mer 48 4 61 4 Agitation de l eau 0 Tr\u00e9s faible Densit\u00e9 de l eau au bout de la jet\u00e9e 1028 6 1028 6 au large Temp\u00e9rature de l eau 10 7 11 7",
+      "cleaned_content": "Date 10 Janvier 1902 Heures 9h Matin 3h Soir Hauteur Barom\u00e9trique 772 8 770 7 Directionduvent Ouest N N E Force Faible 1 N\u00e9bulosit\u00e9 Reg O Clair 10 l\u00e9gc 3 Reg E mar 10 l\u00e9gc 2 Directionsesnuages Ouest Sud Pluietomb\u00e9e Temp\u00e9raturedel air 7 0 9 0 Hauteurdelamer 48 4 61 4 Agitationdel eau 0 Tr\u00e9sfaible Densit\u00e9 del eauauboutdelajet\u00e9e 1028 6 1028 6 aularge Temp\u00e9raturedel eau 10 7 11 7",
+      "entities": {
+        "dates": [
+          "10 Janvier 1902"
+        ]
+      }
+    },
+    {
+      "page_number": "101",
+      "raw_content": "Date 11 Janvier 1902 Param\u00e8tre 9h Matin 3h Soir Hauteur Barom\u00e9trique 768 6 767 8 Direction du vent Ouest Nord Force 15 3 Nuageux N\u00e9bulosit\u00e9 R\u00e9gion O Clair 10 3 R\u00e9gion E mer 10 2 Direction des nuages NNO Sud Pluie Tomb\u00e9e Temp\u00e9rature de l air 8 1 9 6 Hauteur de la mer 42 4 39 0 Agitation de l eau 3 1 \u2158 Densit\u00e9 de l eau Au bout de la jet\u00e9e 1038 7 Au Large 1038 8 Temp\u00e9rature de l eau 12 6 11 8",
+      "cleaned_content": "Date 11 Janvier 1902 Param\u00e8tre 9h Matin 3h Soir Hauteur Barom\u00e9trique 768 6 767 8 Directionduvent Ouest Nord Force 15 3 Nuageux N\u00e9bulosit\u00e9 R\u00e9gion O Clair 10 3 R\u00e9gion E mer 10 2 Directiondesnuages NNO Sud Pluie Tomb\u00e9e Temp\u00e9raturedel air 8 1 9 6 Hauteurdelamer 42 4 39 0 Agitationdel eau 3 1 \u2158 Densit\u00e9 del eau Auboutdelajet\u00e9e 1038 7 Au Large 1038 8 Temp\u00e9raturedel eau 12 6 11 8",
+      "entities": {
+        "dates": [
+          "11 Janvier 1902"
+        ]
+      }
+    },
+    {
+      "page_number": "102",
+      "raw_content": "Registre d observations m\u00e9t\u00e9orologiques 13 Janvier 1902 Observation 9h Matin 3h Soir Hauteur Barom\u00e9trique 767 7 767 6 Direction du vent Ouest N N O Force 17 faible fort N\u00e9bulosit\u00e9 Reg O Clair 0 0 Reg E Mer 1 1 Direction des nuages Nord Pluie tomb\u00e9e Temperaturre de l air 6 6 10 3 Hauteur de la mer 38 6 54 6 Agitation de l eau faible faible Densit\u00e9 de l eau Pr bout de la jet\u00e9e 1028 9 au Largue 1028 4 Temperature de l eau 11 9 11 9",
+      "cleaned_content": "Registred observationsm\u00e9t\u00e9orologiques 13 Janvier 1902 Observation 9h Matin 3h Soir Hauteur Barom\u00e9trique 767 7 767 6 Directionduvent Ouest N N O Force 17 faiblefort N\u00e9bulosit\u00e9 Reg O Clair 0 0 Reg E Mer 1 1 Directiondesnuages Nord Pluietomb\u00e9e Temperaturredel air 6 6 10 3 Hauteurdelamer 38 6 54 6 Agitationdel eaufaiblefaible Densit\u00e9 del eau Prboutdelajet\u00e9e 1028 9 au Largue 1028 4 Temperaturedel eau 11 9 11 9",
+      "entities": {
+        "dates": [
+          "13 Janvier 1902"
+        ]
+      }
+    },
+    {
+      "page_number": "103",
+      "raw_content": "Date 14 Janvier 1902 Horaire 9h Matin 3h Soir Hauteur Barom\u00e9trique 769 6 769 3 Direction du vent Ouest N N E Force Faible 1 T faible N\u00e9bulosit\u00e9 clarte 3 l\u00e9g\u00e8re 0 N\u00e9bulosit\u00e9 nuages 0 0 Direction des nuages Sud Ouest Pluie tomb\u00e9e Temp\u00e9rature de l air 10 9 14 1 Hauteur de la mer 43 f 36 f Agitation de l eau Faible 1 T faible Densit\u00e9 de l eau Point de la jet\u00e9e 1029 0 1029 0 Densit\u00e9 de l eau Au large Temp\u00e9rature de l eau 11 7 12 6",
+      "cleaned_content": "Date 14 Janvier 1902 Horaire 9h Matin 3h Soir Hauteur Barom\u00e9trique 769 6 769 3 Directionduvent Ouest N N E Force Faible 1 T faible N\u00e9bulosit\u00e9 clarte 3 l\u00e9g\u00e8re 0 N\u00e9bulosit\u00e9 nuages 0 0 Directiondesnuages Sud Ouest Pluietomb\u00e9e Temp\u00e9raturedel air 10 9 14 1 Hauteurdelamer 43 f 36 f Agitationdel eau Faible 1 T faible Densit\u00e9 del eau Pointdelajet\u00e9e 1029 0 1029 0 Densit\u00e9 del eau Aularge Temp\u00e9raturedel eau 11 7 12 6",
+      "entities": {
+        "dates": [
+          "14 Janvier 1902"
+        ]
+      }
+    },
+    {
+      "page_number": "104",
+      "raw_content": "Date 15 Janvier 1902 Heure 9h Malin 3h Soir H Barom\u00e9trique mm Hg 776 2 778 6 Direction du vent N N O N N O Force 3 fort 3 fort N\u00e9bulosit\u00e9 Reg O Clair 0 0 Reg E Mers 1 0 Direction des nuages Nord Nord Pluie tomb\u00e9e Temp\u00e9rature de l air C 7 3 8 1 H de la mer m 56 0 65 6 Agitation de l eau 3 fort 3 fort Densit\u00e9 de l eau g cm\u00b3 aubout de la jet\u00e9e 1028 6 1028 9 au Large Temp\u00e9rature de l eau C 11 9 11 7",
+      "cleaned_content": "Date 15 Janvier 1902 Heure 9h Malin 3h Soir H Barom\u00e9triquemm Hg 776 2 778 6 Directionduvent N N O N N O Force 3 fort 3 fort N\u00e9bulosit\u00e9 Reg O Clair 0 0 Reg E Mers 1 0 Directiondesnuages Nord Nord Pluietomb\u00e9e Temp\u00e9raturedel air C 7 3 8 1 H delamerm 56 0 65 6 Agitationdel eau 3 fort 3 fort Densit\u00e9 del eaug cm\u00b3 auboutdelajet\u00e9e 1028 6 1028 9 au Large Temp\u00e9raturedel eau C 11 9 11 7",
+      "entities": {
+        "dates": [
+          "15 Janvier 1902"
+        ]
+      }
+    },
+    {
+      "page_number": "105",
+      "raw_content": "Date 16 Janvier 1902 Param\u00e8tre 9h Matin 3h00 Soir Hauteur Barom\u00e9trique 780 0 775 7 Direction des nuages du vent N N O N N O Pluie tomb\u00e9e Force 2 2 T fort N\u00e9bulosit\u00e9 Reg O Clair 0 0 Reg E nu 1 l\u00e9g\u00e8re Direction des nuages Pluie tomb\u00e9e Temp\u00e9rature de l air 8 6 14 1 Hauteur de la mer 61 8 70 5 Agitation de l eau 3 T fort 3 Densit\u00e9 de l eau amont de la jet\u00e9e 1028 9 1028 4 au large Temp\u00e9rature de l eau 11 3 11 4",
+      "cleaned_content": "Date 16 Janvier 1902 Param\u00e8tre 9h Matin 3h00 Soir Hauteur Barom\u00e9trique 780 0 775 7 Directiondesnuagesduvent N N O N N O Pluietomb\u00e9e Force 2 2 T fort N\u00e9bulosit\u00e9 Reg O Clair 0 0 Reg E nu 1 l\u00e9g\u00e8re Directiondesnuages Pluietomb\u00e9e Temp\u00e9raturedel air 8 6 14 1 Hauteurdelamer 61 8 70 5 Agitationdel eau 3 T fort 3 Densit\u00e9 del eauamontdelajet\u00e9e 1028 9 1028 4 aularge Temp\u00e9raturedel eau 11 3 11 4",
+      "entities": {
+        "dates": [
+          "16 Janvier 1902"
+        ]
+      }
+    },
+    {
+      "page_number": "106",
+      "raw_content": "Date 17 Janvier 1902 Variable 9 H Matin 3 H Soir Hauteur Barom\u00e9trique 770 2 768 7 Direction du vent Ouest O E N E Force faible 1 0 N\u00e9bulosit\u00e9 Reg O Terre 0 0 Remark Reg E mer 3 l\u00e9g\u00e8re 2 l\u00e9g\u00e8re Direction des nuages N N E Nord Pluie tomb\u00e9e Temp\u00e9rature de l air 10 8 11 6 Hauteur de la mer Agitation de l eau aubout de la jet\u00e9e 4 faible 3 faible Th 1039 1 1029 0 Densit\u00e9 de l eau au Large Temp\u00e9rature de l eau 11 7 11 8",
+      "cleaned_content": "Date 17 Janvier 1902 Variable 9 H Matin 3 H Soir Hauteur Barom\u00e9trique 770 2 768 7 Directionduvent Ouest O E N E Forcefaible 1 0 N\u00e9bulosit\u00e9 Reg O Terre 0 0 Remark Reg E mer 3 l\u00e9g\u00e8re 2 l\u00e9g\u00e8re Directiondesnuages N N E Nord Pluietomb\u00e9e Temp\u00e9raturedel air 10 8 11 6 Hauteurdelamer Agitationdel eauauboutdelajet\u00e9e 4 faible 3 faible Th 1039 1 1029 0 Densit\u00e9 del eauau Large Temp\u00e9raturedel eau 11 7 11 8",
+      "entities": {
+        "dates": [
+          "17 Janvier 1902"
+        ]
+      }
+    },
+    {
+      "page_number": "107",
+      "raw_content": "Date 18 Janvier 1902 Observations 9H Matin 5H Soir Hauteur Barom\u00e9trique 768 4 767 6 Direction du vent N N O Euest Force 1 faible 1 N\u00e9bulosit\u00e9 Reg O Cl\u00e9re 10 l\u00e9g\u00e8res c 10 Reg E nu 10 l\u00e9g\u00e8res c 10 Direction des nuages N N O Euest Pluie tomb\u00e9e Temp\u00e9rature de l air 7 9 9 3 Hauteur de la mer 57 2 50 3 Agitation de l eau \u00e0 bout de la jet\u00e9e Fort Fort au large Fort Faible Observations sp\u00e9cifiques poubout de la jet\u00e9e 1028 5 1028 6 Densit\u00e9 de l eau au large Temp\u00e9rature de l eau 11 7 11 7",
+      "cleaned_content": "Date 18 Janvier 1902 Observations 9H Matin 5H Soir Hauteur Barom\u00e9trique 768 4 767 6 Directionduvent N N O Euest Force 1 faible 1 N\u00e9bulosit\u00e9 Reg O Cl\u00e9re 10 l\u00e9g\u00e8resc 10 Reg E nu 10 l\u00e9g\u00e8resc 10 Directiondesnuages N N O Euest Pluietomb\u00e9e Temp\u00e9raturedel air 7 9 9 3 Hauteurdelamer 57 2 50 3 Agitationdel eau \u00e0 boutdelajet\u00e9e Fort Fortaularge Fort Faible Observationssp\u00e9cifiquespouboutdelajet\u00e9e 1028 5 1028 6 Densit\u00e9 del eauaularge Temp\u00e9raturedel eau 11 7 11 7",
+      "entities": {
+        "dates": [
+          "18 Janvier 1902"
+        ]
+      }
+    },
+    {
+      "page_number": "108",
+      "raw_content": "Date 21 Janvier 1902 Heure 9H 30 Malin 3H Soir Hauteur Barom\u00e9trique 774 3 772 9 Direction du vent Ouest S S E Force 1 faible 1 N\u00e9bulosit\u00e9 Reg O terre 2 l\u00e9g\u00e8res 3 l\u00e9g\u00e8res Reg E mer 4 l\u00e9g\u00e8res 3 l\u00e9g\u00e8res Direction des nuages Pluie tomb\u00e9e Temp\u00e9rature de l air 6 7 10 6 Hauteur de la mer 19 1 60 6 Agitation de l eau 1 faible 1 fort Densit\u00e9 de l eau \u00e0 bout de la jet\u00e9e 1028 6 1028 3 au Largue Temp\u00e9rature de l eau 11 6 12 0",
+      "cleaned_content": "Date 21 Janvier 1902 Heure 9H 30 Malin 3H Soir Hauteur Barom\u00e9trique 774 3 772 9 Directionduvent Ouest S S E Force 1 faible 1 N\u00e9bulosit\u00e9 Reg O terre 2 l\u00e9g\u00e8res 3 l\u00e9g\u00e8res Reg E mer 4 l\u00e9g\u00e8res 3 l\u00e9g\u00e8res Directiondesnuages Pluietomb\u00e9e Temp\u00e9raturedel air 6 7 10 6 Hauteurdelamer 19 1 60 6 Agitationdel eau 1 faible 1 fort Densit\u00e9 del eau \u00e0 boutdelajet\u00e9e 1028 6 1028 3 au Largue Temp\u00e9raturedel eau 11 6 12 0",
+      "entities": {
+        "dates": [
+          "21 Janvier 1902"
+        ]
+      }
+    },
+    {
+      "page_number": "109",
+      "raw_content": "Param\u00e8tres 9h Matin 3h Soir Hauteur Barom\u00e9trique mm 771 4 770 2 Direction du vent Ouest O S S Est S S E Force du vent niveau 1 1 N\u00e9bulosit\u00e9 Reg O Ciel 0 0 Reg E mer 0 0 Direction des nuages N E N E Pluie tomb\u00e9e N N Temp\u00e9rature de l air C 3 6 12 2 Hauteur de la mer m\u00e8tres 0 6 0 4 Agitation de l eau 1 T fort 1 fort Densit\u00e9 de l eau au bout de la jach\u00e9e 1 028 8 1 028 8 au large Temp\u00e9rature de l eau C 11 6 12 3",
+      "cleaned_content": "Param\u00e8tres 9h Matin 3h Soir Hauteur Barom\u00e9triquemm 771 4 770 2 Directionduvent Ouest O S S Est S S E Forceduventniveau 1 1 N\u00e9bulosit\u00e9 Reg O Ciel 0 0 Reg E mer 0 0 Directiondesnuages N E N E Pluietomb\u00e9e N N Temp\u00e9raturedel air C 3 6 12 2 Hauteurdelamerm\u00e8tres 0 6 0 4 Agitationdel eau 1 T fort 1 fort Densit\u00e9 del eauauboutdelajach\u00e9e 1 028 8 1 028 8 aularge Temp\u00e9raturedel eau C 11 6 12 3",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "110",
+      "raw_content": "Date 23 Janvier 1902 Heures 9h Matin 19h Soir Haut Barom\u00e9trique 769 6 767 7 Direction du vent Ouest S S E Force 1 faible 2 faible N\u00e9bulosit\u00e9 10 10 R\u00e9g O Clair R\u00e9g E Mer 10 10 Direction des nuages Ouest Ouest Pluie tomb\u00e9e Temp\u00e9rature de l air 8 4 10 7 Hauteur de la mer 49 1 19 0 Agitation de l eau au bout de la jet\u00e9e 3 2 Densit\u00e9 de l eau au large Temp\u00e9rature de l eau 12 5 12 4",
+      "cleaned_content": "Date 23 Janvier 1902 Heures 9h Matin 19h Soir Haut Barom\u00e9trique 769 6 767 7 Directionduvent Ouest S S E Force 1 faible 2 faible N\u00e9bulosit\u00e9 10 10 R\u00e9g O Clair R\u00e9g E Mer 10 10 Directiondesnuages Ouest Ouest Pluietomb\u00e9e Temp\u00e9raturedel air 8 4 10 7 Hauteurdelamer 49 1 19 0 Agitationdel eauauboutdelajet\u00e9e 3 2 Densit\u00e9 del eauaularge Temp\u00e9raturedel eau 12 5 12 4",
+      "entities": {
+        "dates": [
+          "23 Janvier 1902"
+        ]
+      }
+    },
+    {
+      "page_number": "111",
+      "raw_content": "Date 24 Janvier 1902 Haut Barom 9h Matin 3h Soir Hauteur Barom\u00e9trique 767 4 767 4 Direction Su vent Ouest Sud Force 15 faible N\u00e9bulosit\u00e9 Reg 0 Terre 2 0 Reg E mer 2 Direction des nuages Sud Sud Pluie tomb\u00e9e Temperature de l air 8 8 8 8 Haut de la mer 42 6 42 6 Agitation de l eau faible faible Densit\u00e9 de l eau au bout de la jet\u00e9e 10 8 9 au large Temperature de l eau 12 0 12 0",
+      "cleaned_content": "Date 24 Janvier 1902 Haut Barom 9h Matin 3h Soir Hauteur Barom\u00e9trique 767 4 767 4 Direction Suvent Ouest Sud Force 15 faible N\u00e9bulosit\u00e9 Reg 0 Terre 2 0 Reg E mer 2 Directiondesnuages Sud Sud Pluietomb\u00e9e Temperaturedel air 8 8 8 8 Hautdelamer 42 6 42 6 Agitationdel eaufaiblefaible Densit\u00e9 del eauauboutdelajet\u00e9e 10 8 9 aularge Temperaturedel eau 12 0 12 0",
+      "entities": {
+        "dates": [
+          "24 Janvier 1902"
+        ]
+      }
+    },
+    {
+      "page_number": "112",
+      "raw_content": "Date 25 Janvier 1902 D\u00e9but Fin 9H Matin 3H Soir Hauteur Barom\u00e9trique 755 7 755 8 Direction du vent Ouest N N O Force 1 4 N\u00e9bulosit\u00e9 Reg O Eleve 0 10 Reg E moy 2 10 Direction des nuages Sud N N O Pluie tomb\u00e9e quelques g Temp\u00e9rature de l air 9 4 10 2 Hauteur de la mer 30 1 77 1 Agitation de l eau faible 3 Densit\u00e9 de l eau au bout de la jet\u00e9e 1029 0 1028 7 Temp\u00e9rature de l eau 10 6 10 6",
+      "cleaned_content": "Date 25 Janvier 1902 D\u00e9but Fin 9H Matin 3H Soir Hauteur Barom\u00e9trique 755 7 755 8 Directionduvent Ouest N N O Force 1 4 N\u00e9bulosit\u00e9 Reg O Eleve 0 10 Reg E moy 2 10 Directiondesnuages Sud N N O Pluietomb\u00e9equelquesg Temp\u00e9raturedel air 9 4 10 2 Hauteurdelamer 30 1 77 1 Agitationdel eaufaible 3 Densit\u00e9 del eauauboutdelajet\u00e9e 1029 0 1028 7 Temp\u00e9raturedel eau 10 6 10 6",
+      "entities": {
+        "dates": [
+          "25 Janvier 1902"
+        ]
+      }
+    },
+    {
+      "page_number": "113",
+      "raw_content": "Date 26 Janvier 1902 Hauteur Barom\u00e9trique 761 4 Direction du vent N N O Force 2 3 N\u00e9bulosit\u00e9 Reg 6 Terre 0 Reg E mer 0 Orientation des images N N O Pluie tomb\u00e9e quelques g Temp\u00e9rature de l air 8 6 Hauteur de la mer 11 6 Agitation de l eau 2 Densit\u00e9 de l eau au bout de la jet\u00e9e 10 28 6 en Large Temp\u00e9rature de l eau 10 7",
+      "cleaned_content": "Date 26 Janvier 1902 Hauteur Barom\u00e9trique 761 4 Directionduvent N N O Force 2 3 N\u00e9bulosit\u00e9 Reg 6 Terre 0 Reg E mer 0 Orientationdesimages N N O Pluietomb\u00e9equelquesg Temp\u00e9raturedel air 8 6 Hauteurdelamer 11 6 Agitationdel eau 2 Densit\u00e9 del eauauboutdelajet\u00e9e 10 28 6 en Large Temp\u00e9raturedel eau 10 7",
+      "entities": {
+        "dates": [
+          "26 Janvier 1902"
+        ]
+      }
+    },
+    {
+      "page_number": "114",
+      "raw_content": "Date 27 Janvier 1902 Hauteur Barom\u00e9trique 765 9 mm 763 6 mm Direction du vent N N O N N O Force 1 faible 1 faible N\u00e9bulosit\u00e9 Reg O terre 10 Reg E mer 10 Reg O terre 10 Reg E mer 10 Direction des nuages Nord N N O Pluie Tomb\u00e9e Temp\u00e9rature de l air 7 3 C 10 2 C Hauteur de la mer 1 6 m 3 0 m Agitation de l eau 1 faible 1 faible Densit\u00e9 de l eau Au bout de la jet\u00e9e 1029 0 En large 1029 2 Temp\u00e9rature de l eau 12 2 C 11 2 C",
+      "cleaned_content": "Date 27 Janvier 1902 Hauteur Barom\u00e9trique 765 9 mm 763 6 mm Directionduvent N N O N N O Force 1 faible 1 faible N\u00e9bulosit\u00e9 Reg O terre 10 Reg E mer 10 Reg O terre 10 Reg E mer 10 Directiondesnuages Nord N N O Pluie Tomb\u00e9e Temp\u00e9raturedel air 7 3 C 10 2 C Hauteurdelamer 1 6 m 3 0 m Agitationdel eau 1 faible 1 faible Densit\u00e9 del eau Auboutdelajet\u00e9e 1029 0 Enlarge 1029 2 Temp\u00e9raturedel eau 12 2 C 11 2 C",
+      "entities": {
+        "dates": [
+          "27 Janvier 1902"
+        ]
+      }
+    },
+    {
+      "page_number": "115",
+      "raw_content": "Date 29 janvier 1902 Param\u00e8tres 9h Matin 15h After midi 21h Soir Hauteur Barom\u00e9trique 769 3 769 4 Direction du vent n N O ouest Force faible 1 N\u00e9bulosit\u00e9 Reg 0 claire 10 10 Reg E mar 10 10 Direction des nuages Onest N N O Pluie tomb\u00e9e quelques g quelques g Temp\u00e9rature de l air 10 8 11 0 Hauteur de la mer 60 2 Agitation de l eau 2 Densit\u00e9 de l eau p bout de la jet\u00e9e 1029 2 1028 9 au larg Temp\u00e9rature de l eau 12 1 12 0",
+      "cleaned_content": "Date 29 janvier 1902 Param\u00e8tres 9h Matin 15h Aftermidi 21h Soir Hauteur Barom\u00e9trique 769 3 769 4 Directionduventn N O ouest Forcefaible 1 N\u00e9bulosit\u00e9 Reg 0 claire 10 10 Reg E mar 10 10 Directiondesnuages Onest N N O Pluietomb\u00e9equelquesg quelquesg Temp\u00e9raturedel air 10 8 11 0 Hauteurdelamer 60 2 Agitationdel eau 2 Densit\u00e9 del eaup boutdelajet\u00e9e 1029 2 1028 9 aularg Temp\u00e9raturedel eau 12 1 12 0",
+      "entities": {
+        "dates": [
+          "29 janvier 1902"
+        ]
+      }
+    },
+    {
+      "page_number": "116",
+      "raw_content": "Date 30 janvier 1902 Heure Observations 9 H Matin 3 H Soir Hauteur Barom\u00e9trique 763 3 Direction du vent NW Nord Ouest NW Nord Ouest Force 7 N\u00e9bulosit\u00e9 estimation R\u00e9gions pr\u00e9sentes Terre 0 R\u00e9gions pr\u00e9sentes Mer 0 Direction des nuages NW Nord Ouest Pluie tomb\u00e9e Inconnue Temp\u00e9rature de l air 4 1 C Hauteur de la mer 56 5 Agitation de l eau 3 Fort Densit\u00e9 de l eau Par bout de la jet\u00e9e Au large Temp\u00e9rature de l eau",
+      "cleaned_content": "Date 30 janvier 1902 Heure Observations 9 H Matin 3 H Soir Hauteur Barom\u00e9trique 763 3 Directionduvent NW Nord Ouest NW Nord Ouest Force 7 N\u00e9bulosit\u00e9 estimation R\u00e9gionspr\u00e9sentes Terre 0 R\u00e9gionspr\u00e9sentes Mer 0 Directiondesnuages NW Nord Ouest Pluietomb\u00e9e Inconnue Temp\u00e9raturedel air 4 1 C Hauteurdelamer 56 5 Agitationdel eau 3 Fort Densit\u00e9 del eau Parboutdelajet\u00e9e Aularge Temp\u00e9raturedel eau",
+      "entities": {
+        "dates": [
+          "30 janvier 1902"
+        ]
+      }
+    },
+    {
+      "page_number": "117",
+      "raw_content": "Date 31 Janvier 1902 Param\u00e8tre 9h Matin 3h Soir Hauteur Barom\u00e9trique 778 7 779 4 Direction du vent Nord ouest C Nord ouest Force 4 faible 3 N\u00e9bulosit\u00e9 Reg 0 claire 10 l\u00e9g\u00e8rement c 0 Reg E mer 0 l\u00e9g 3 Direction des nuages c Nord ouest c Nord ouest Pluie tomb\u00e9e Temp\u00e9rature de l air 3 2 6 5 Hauteur de la mer 52 9 53 5 Agitation de l eau 3 3 Densit\u00e9 de l eau 1 029 5 1 029 5 au bout de la jet\u00e9e au large Temp\u00e9rature de l eau 11 6 12 3",
+      "cleaned_content": "Date 31 Janvier 1902 Param\u00e8tre 9h Matin 3h Soir Hauteur Barom\u00e9trique 778 7 779 4 Directionduvent Nordouest C Nordouest Force 4 faible 3 N\u00e9bulosit\u00e9 Reg 0 claire 10 l\u00e9g\u00e8rementc 0 Reg E mer 0 l\u00e9g 3 Directiondesnuagesc Nordouestc Nordouest Pluietomb\u00e9e Temp\u00e9raturedel air 3 2 6 5 Hauteurdelamer 52 9 53 5 Agitationdel eau 3 3 Densit\u00e9 del eau 1 029 5 1 029 5 auboutdelajet\u00e9eaularge Temp\u00e9raturedel eau 11 6 12 3",
+      "entities": {
+        "dates": [
+          "31 Janvier 1902"
+        ]
+      }
+    },
+    {
+      "page_number": "118",
+      "raw_content": "Date 01 F\u00e9vrier 1902 Heure 9h Matin 3h Soir Hauteur Barom\u00e9trique 775 3 Direction du vent Force 15 N\u00e9bulosit\u00e9 Reg O Clair 10 Reg E nu 10 Direction des nuages cr n 0 cr n 0 Pluie tomb\u00e9e quelques g Temp\u00e9rature de l air 4 7 Hauteur de la mer 216 9 Agitation de l eau au bout de la jet\u00e9e 3 fort au large 1029 2 Densit\u00e9 de l eau Temp\u00e9rature de l eau 11 4",
+      "cleaned_content": "Date 01 F\u00e9vrier 1902 Heure 9h Matin 3h Soir Hauteur Barom\u00e9trique 775 3 Directionduvent Force 15 N\u00e9bulosit\u00e9 Reg O Clair 10 Reg E nu 10 Directiondesnuagescrn 0 crn 0 Pluietomb\u00e9equelquesg Temp\u00e9raturedel air 4 7 Hauteurdelamer 216 9 Agitationdel eauauboutdelajet\u00e9e 3 fortaularge 1029 2 Densit\u00e9 del eau Temp\u00e9raturedel eau 11 4",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "119",
+      "raw_content": "Date 4 F\u00e9vrier 1902 9h Matin 3h Soir Hauteur Barom\u00e9trique 761 6 759 6 Direction du vent cr n o nord Force du vent 1 fort 1 N\u00e9bulosit\u00e9 R\u00e9gl 6 terre 10 10 l\u00e9g\u00e8re N\u00e9bulosit\u00e9 R\u00e9gl E mer o cr o n n o Direction des nuages quelques g Pluie tomb\u00e9e Temp\u00e9rature de l air 9 7 Hauteur de la mer 46 2 48 3 Agitation de l eau parmi bout de la jet\u00e9e 1 T fort 1 T fort Vitesse de l eau au grand large 1029 3 1029 4 Temp\u00e9rature de l eau 11 7 12 0",
+      "cleaned_content": "Date 4 F\u00e9vrier 1902 9h Matin 3h Soir Hauteur Barom\u00e9trique 761 6 759 6 Directionduventcrn onord Forceduvent 1 fort 1 N\u00e9bulosit\u00e9 R\u00e9gl 6 terre 10 10 l\u00e9g\u00e8re N\u00e9bulosit\u00e9 R\u00e9gl E mero cro nn o Directiondesnuagesquelquesg Pluietomb\u00e9e Temp\u00e9raturedel air 9 7 Hauteurdelamer 46 2 48 3 Agitationdel eauparmiboutdelajet\u00e9e 1 T fort 1 T fort Vitessedel eauaugrandlarge 1029 3 1029 4 Temp\u00e9raturedel eau 11 7 12 0",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "120",
+      "raw_content": "Observations m\u00e9t\u00e9orologiques Valeurs Date 5 F\u00e9vrier 1902 Heure 9h Matin 3h Soir Hauteur Barom\u00e9trique 760 5 Direction du vent S S E Force 5 N\u00e9bulosit\u00e9 Reg O C\u00e9leste 10 Reg E mer 10 Direction des nuages S S E Pluie tomb\u00e9e Temp\u00e9rature de l air 7 2 C Hauteur de la mer 41 7 m Agitation de l eau 3 au bout de la jet\u00e9e 10h29 4 Densit\u00e9 de l eau 1 025 g cm\u00b3 au Parage Temp\u00e9rature de l eau 11 8 C",
+      "cleaned_content": "Observationsm\u00e9t\u00e9orologiques Valeurs Date 5 F\u00e9vrier 1902 Heure 9h Matin 3h Soir Hauteur Barom\u00e9trique 760 5 Directionduvent S S E Force 5 N\u00e9bulosit\u00e9 Reg O C\u00e9leste 10 Reg E mer 10 Directiondesnuages S S E Pluietomb\u00e9e Temp\u00e9raturedel air 7 2 C Hauteurdelamer 41 7 m Agitationdel eau 3 auboutdelajet\u00e9e 10h29 4 Densit\u00e9 del eau 1 025 gcm\u00b3 au Parage Temp\u00e9raturedel eau 11 8 C",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "121",
+      "raw_content": "Date 6 F\u00e9vrier 1902 9 sup e sup Matin 3 sup e sup Soir Hauteur Barom\u00e9trique 754 8 Direction du vent Sud Force 2 fort N\u00e9bulosit\u00e9 Reg O ciel 1 0 Reg E mer 1 0 Direction des nuages Ouest Pluie tomb\u00e9e 4 25 cm Temp\u00e9rature de l air 13 0 C Hauteur de la mer 26 7 m Agitation de l eau 2 fort Densit\u00e9 de l eau au bout de la jet\u00e9e 10 289 g cm\u00b3 au large Temp\u00e9rature de l eau 11 7 C",
+      "cleaned_content": "Date 6 F\u00e9vrier 1902 9 supe sup Matin 3 supe sup Soir Hauteur Barom\u00e9trique 754 8 Directionduvent Sud Force 2 fort N\u00e9bulosit\u00e9 Reg O ciel 1 0 Reg E mer 1 0 Directiondesnuages Ouest Pluietomb\u00e9e 4 25 cm Temp\u00e9raturedel air 13 0 C Hauteurdelamer 26 7 m Agitationdel eau 2 fort Densit\u00e9 del eauauboutdelajet\u00e9e 10 289 gcm\u00b3 aularge Temp\u00e9raturedel eau 11 7 C",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "122",
+      "raw_content": "Date 7 F\u00e9vrier 1902 Observations 9\u02b0 Matin 3\u02b0 Soir Hauteur Barom\u00e9trique 7 2 3 Direction du vent N Force 1 Nu\u00e9losit\u00e9 Reg \u00cele terre 10 Reg \u00cele mer 10 Direction des nuages Nord Nord Pluie tomb\u00e9e Temp\u00e9rature de l air 11 6 Hauteur de la mer 32 2 Agitation de l eau 2 fort 10 28 7 au bout de la jet\u00e9e Densit\u00e9 de l eau au Large Temp\u00e9rature de l eau 12 0",
+      "cleaned_content": "Date 7 F\u00e9vrier 1902 Observations 9\u02b0 Matin 3\u02b0 Soir Hauteur Barom\u00e9trique 7 2 3 Directionduvent N Force 1 Nu\u00e9losit\u00e9 Reg \u00celeterre 10 Reg \u00celemer 10 Directiondesnuages Nord Nord Pluietomb\u00e9e Temp\u00e9raturedel air 11 6 Hauteurdelamer 32 2 Agitationdel eau 2 fort 10 28 7 auboutdelajet\u00e9e Densit\u00e9 del eauau Large Temp\u00e9raturedel eau 12 0",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "123",
+      "raw_content": "Date 8 F\u00e9vrier 1902 Observations m\u00e9t\u00e9orologiques 9H Matin 3H Soir Haut Barom\u00e9trique 7 8 2 Direction du vent Force ec cr 0 N\u00e9bulosit\u00e9 3 fol Reg O Clair 10 Reg E Mer 10 Direction ses images cr cr 0 Pluie tomb\u00e9e 11 Temp\u00e9rature de l air 13 7 Hauteur de la mer 44 8 Agitation de l eau au bout de la jette 3 fol Densit\u00e9 de l eau 1028 9 au Large Temp\u00e9rature de l eau 11 7",
+      "cleaned_content": "Date 8 F\u00e9vrier 1902 Observationsm\u00e9t\u00e9orologiques 9H Matin 3H Soir Haut Barom\u00e9trique 7 8 2 Directionduvent Forceeccr 0 N\u00e9bulosit\u00e9 3 fol Reg O Clair 10 Reg E Mer 10 Directionsesimagescrcr 0 Pluietomb\u00e9e 11 Temp\u00e9raturedel air 13 7 Hauteurdelamer 44 8 Agitationdel eauauboutdelajette 3 fol Densit\u00e9 del eau 1028 9 au Large Temp\u00e9raturedel eau 11 7",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "124",
+      "raw_content": "Date 9 f\u00e9vrier 1902 Heure 16h 3h Hauteur Barom\u00e9trique 7 2 2 Direction du vent cr o Force 1 ciel Nuages 10 10 Direction des nuages cr o Pluie tomb\u00e9e quelques g Temp\u00e9rature de l air 11 6 11 5 Hauteur de la mer 29 1 Agitation de l eau faible Densit\u00e9 de l eau Temperature de l eau 10 28 8",
+      "cleaned_content": "Date 9 f\u00e9vrier 1902 Heure 16h 3h Hauteur Barom\u00e9trique 7 2 2 Directionduventcro Force 1 ciel Nuages 10 10 Directiondesnuagescro Pluietomb\u00e9equelquesg Temp\u00e9raturedel air 11 6 11 5 Hauteurdelamer 29 1 Agitationdel eaufaible Densit\u00e9 del eau Temperaturedel eau 10 28 8",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "125",
+      "raw_content": "Date 11 F\u00e9vrier 1902 Heure 9 sup e sup Matin 3 sup h sup Soir Param\u00e8tres 9 sup e sup Matin 3 sup h sup Soir Hauteur Barom\u00e9trique 774 0 Direction du vent Ouest Force 5 1 R\u00e9g O Clair 10 l\u00e9gions cl R\u00e9g E mer 10 l\u00e9gions c Direction des nuages Ouest Pluie tomb\u00e9e Temp\u00e9rature de l air 10 6 Hauteur de la mer 22 2 Agitation de l eau 1 faible Densit\u00e9 de l eau au large Temp\u00e9rature de l eau 11 2",
+      "cleaned_content": "Date 11 F\u00e9vrier 1902 Heure 9 supe sup Matin 3 suph sup Soir Param\u00e8tres 9 supe sup Matin 3 suph sup Soir Hauteur Barom\u00e9trique 774 0 Directionduvent Ouest Force 5 1 R\u00e9g O Clair 10 l\u00e9gionscl R\u00e9g E mer 10 l\u00e9gionsc Directiondesnuages Ouest Pluietomb\u00e9e Temp\u00e9raturedel air 10 6 Hauteurdelamer 22 2 Agitationdel eau 1 faible Densit\u00e9 del eauaularge Temp\u00e9raturedel eau 11 2",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "126",
+      "raw_content": "Date 13 F\u00e9vrier 1902 Heures 9h Matin 3h Soir Hauteur Barom\u00e9trique 750 1 Direction du vent Nord Force 1 5 Nebulosit\u00e9 Reg 6 claire Reg E mer 10 Pluie tomb\u00e9e quelques g Temp\u00e9rature de l air 11 5 Hauteur de la mer 31 2 Agitation de l eau 2 Densit\u00e9 de l eau panbout de la jet\u00e9e 10 28 3 au large Temp\u00e9rature de l eau 11 5 Observations suppl\u00e9mentaires On note une certaine faiblesse du vent en fin de journ\u00e9e La mer reste relativement calme sans signe de temp\u00eate prochaine La temp\u00e9rature de l air et de l eau reste constante tout au long de la journ\u00e9e",
+      "cleaned_content": "Date 13 F\u00e9vrier 1902 Heures 9h Matin 3h Soir Hauteur Barom\u00e9trique 750 1 Directionduvent Nord Force 1 5 Nebulosit\u00e9 Reg 6 claire Reg E mer 10 Pluietomb\u00e9equelquesg Temp\u00e9raturedel air 11 5 Hauteurdelamer 31 2 Agitationdel eau 2 Densit\u00e9 del eaupanboutdelajet\u00e9e 10 28 3 aularge Temp\u00e9raturedel eau 11 5 Observationssuppl\u00e9mentaires Onnoteunecertainefaiblesseduventenfindejourn\u00e9e Lamerresterelativementcalmesanssignedetemp\u00eateprochaine Latemp\u00e9raturedel airetdel eauresteconstantetoutaulongdelajourn\u00e9e",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "127",
+      "raw_content": "Date 17 F\u00e9vrier 1902 Heure 9\u02b0 Matin 3\u02b0 Soir Hauteur Barom\u00e9trique 2 7 0 Direction du vent Nord Ouest Force 15 Nuages Reg O cl\u00e9air 0 Reg E nu 0 Direction des nuages Pluie tomb\u00e9e Temp\u00e9rature de l air 4 3 Hauteur de la mer 40 7 Agitation de l eau E T fort par bout de la jet\u00e9e 10 8 3 Densit\u00e9 de l eau 1 au Large Temp\u00e9rature de l eau 10 4",
+      "cleaned_content": "Date 17 F\u00e9vrier 1902 Heure 9\u02b0 Matin 3\u02b0 Soir Hauteur Barom\u00e9trique 2 7 0 Directionduvent Nord Ouest Force 15 Nuages Reg O cl\u00e9air 0 Reg E nu 0 Directiondesnuages Pluietomb\u00e9e Temp\u00e9raturedel air 4 3 Hauteurdelamer 40 7 Agitationdel eau E T fortparboutdelajet\u00e9e 10 8 3 Densit\u00e9 del eau 1 au Large Temp\u00e9raturedel eau 10 4",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "128",
+      "raw_content": "Param\u00e8tre Description 9H Matin 3H Soir Hauteur Barom\u00e9trique 761 7 Direction du vent cr d 0 Force 3 N\u00e9bulosit\u00e9 Reg O Terre 10 Reg E mer 10 Direction des nuages or d 0 Pluie tomb\u00e9e Temp\u00e9ralure de l air 5 1 Hauteur de la mer 43 9 Agitation de l eau 4 Densit\u00e9 de l eau au bout de la jatte 1 228 3 au large Temp\u00e9ralure de l eau 10 2",
+      "cleaned_content": "Param\u00e8tre Description 9H Matin 3H Soir Hauteur Barom\u00e9trique 761 7 Directionduventcrd 0 Force 3 N\u00e9bulosit\u00e9 Reg O Terre 10 Reg E mer 10 Directiondesnuagesord 0 Pluietomb\u00e9e Temp\u00e9raluredel air 5 1 Hauteurdelamer 43 9 Agitationdel eau 4 Densit\u00e9 del eauauboutdelajatte 1 228 3 aularge Temp\u00e9raluredel eau 10 2",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "129",
+      "raw_content": "Date 19 F\u00e9vrier 1902 Heure 9h Matin 3h Soir Hauteur Barom\u00e9trique 760 7 757 7 Direction du vent S S E S S E Force 2 2 Fort N\u00e9bulosit\u00e9 Reg O terre 01 10 Reg E mer 0 10 Direction des nuages Sud Ouest Pluie tomb\u00e9e quelques g 11 Temp\u00e9rature de l air 8 4 10 2 Hauteur de la mer 36 9 37 2 Agitation de l eau 1 1 fort Densit\u00e9 de l eau 1028 3 1028 5 au large Temp\u00e9rature de l eau 10 7 10 6",
+      "cleaned_content": "Date 19 F\u00e9vrier 1902 Heure 9h Matin 3h Soir Hauteur Barom\u00e9trique 760 7 757 7 Directionduvent S S E S S E Force 2 2 Fort N\u00e9bulosit\u00e9 Reg O terre 01 10 Reg E mer 0 10 Directiondesnuages Sud Ouest Pluietomb\u00e9equelquesg 11 Temp\u00e9raturedel air 8 4 10 2 Hauteurdelamer 36 9 37 2 Agitationdel eau 1 1 fort Densit\u00e9 del eau 1028 3 1028 5 aularge Temp\u00e9raturedel eau 10 7 10 6",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "130",
+      "raw_content": "Date 20 F\u00e9vrier 1902 Heure 9h Matin 3h Soir Hauteur Barom\u00e9trique 758 6 Direction du vent Est Force 2 N\u00e9bulosit\u00e9 Reg 6 l\u00e8vre 10 Reg E mer 10 Direction des nuages Sud Pluie Tomb\u00e9e 7 5 Temp\u00e9rature de l air 10 0 Hauteur de la mer 28 4 Agitation de l eau 3 Densit\u00e9 de l eau au bout de la jet\u00e9e 1028 2 au Large Temp\u00e9rature de l eau 10 6",
+      "cleaned_content": "Date 20 F\u00e9vrier 1902 Heure 9h Matin 3h Soir Hauteur Barom\u00e9trique 758 6 Directionduvent Est Force 2 N\u00e9bulosit\u00e9 Reg 6 l\u00e8vre 10 Reg E mer 10 Directiondesnuages Sud Pluie Tomb\u00e9e 7 5 Temp\u00e9raturedel air 10 0 Hauteurdelamer 28 4 Agitationdel eau 3 Densit\u00e9 del eauauboutdelajet\u00e9e 1028 2 au Large Temp\u00e9raturedel eau 10 6",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "131",
+      "raw_content": "Date 21 F\u00e9vrier 1902 Horaire 9h Matin 3h Soir Hauteur Barom\u00e9trique 763 8 Direction du vent cr E Force 2 N\u00e9bulosit\u00e9 Reg 0 Terre 10 Reg E mar 10 Direction des nuages cr E Pluie tomb\u00e9e 8 5 Temp\u00e9rature de l air 10 4 Hauteur de la mer Agitation de l eau 3 Densit\u00e9 de l eau Temp\u00e9rature de l eau",
+      "cleaned_content": "Date 21 F\u00e9vrier 1902 Horaire 9h Matin 3h Soir Hauteur Barom\u00e9trique 763 8 Directionduventcr E Force 2 N\u00e9bulosit\u00e9 Reg 0 Terre 10 Reg E mar 10 Directiondesnuagescr E Pluietomb\u00e9e 8 5 Temp\u00e9raturedel air 10 4 Hauteurdelamer Agitationdel eau 3 Densit\u00e9 del eau Temp\u00e9raturedel eau",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "132",
+      "raw_content": "Date Heure Observations Valeurs 23 F\u00e9vrier 1902 9h Matin Hauteur Barom\u00e9trique 762 2 Direction du vent Force N\u00e9bulosit\u00e9 Reg O Clair l\u00e9g\u00e8re Direction des nuages Ouest Pluie tomb\u00e9e Temp\u00e9rature de l air 9 2 3h 9h Soir Hauteur de la mer 37 0 Agitation de l eau 2 3 au bout de la jet\u00e9e 1028 7 Densit\u00e9 de l eau \u00e0 la c\u00f4te Temp\u00e9rature de l eau 11 3",
+      "cleaned_content": "Date Heure Observations Valeurs 23 F\u00e9vrier 1902 9h Matin Hauteur Barom\u00e9trique 762 2 Directionduvent Force N\u00e9bulosit\u00e9 Reg O Clairl\u00e9g\u00e8re Directiondesnuages Ouest Pluietomb\u00e9e Temp\u00e9raturedel air 9 2 3h 9h Soir Hauteurdelamer 37 0 Agitationdel eau 2 3 auboutdelajet\u00e9e 1028 7 Densit\u00e9 del eau \u00e0 lac\u00f4te Temp\u00e9raturedel eau 11 3",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "133",
+      "raw_content": "Date 24 F\u00e9vrier 1902 Heure 9H Matin 3H Soir Hauteur Barom\u00e9trique 777 6 Direction du vent S O Force du vent 3 N\u00e9bulosit\u00e9 R\u00e9g Est Terre 10 R\u00e9g Est Mer 10 Direction des nuages S O Pluie tomb\u00e9e Temp\u00e9rature de l air 12 6 Hauteur de la mer 35 3 Agitation de l eau 2 Densit\u00e9 de l eau poubout delaje\u00fbl 1028 9 au large Temp\u00e9rature de l eau 11 1",
+      "cleaned_content": "Date 24 F\u00e9vrier 1902 Heure 9H Matin 3H Soir Hauteur Barom\u00e9trique 777 6 Directionduvent S O Forceduvent 3 N\u00e9bulosit\u00e9 R\u00e9g Est Terre 10 R\u00e9g Est Mer 10 Directiondesnuages S O Pluietomb\u00e9e Temp\u00e9raturedel air 12 6 Hauteurdelamer 35 3 Agitationdel eau 2 Densit\u00e9 del eaupouboutdelaje\u00fbl 1028 9 aularge Temp\u00e9raturedel eau 11 1",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "134",
+      "raw_content": "Date 25 F\u00e9vrier 1902 Heure 9h Matin 19h Soir Direct Su vent n s s o s E Haut Barom\u00e9trique 751 8 752 2 Force 3 Fort 1 Tr\u00e8s faible N\u00e9bulosite 0 8 Reg O terre 6 1 Reg E mer n e n 0 S S Dir nuages quelques g Pluie tomb\u00e9e Temp\u00e9rature de l air 13 3 13 7 Haut de la mer 24 1 42 4 Agitation de l eau 3 Fort 3 Fort Densit\u00e9 de l eau au D\u00e9gant 1028 7 1028 9 Temp\u00e9rature de l eau 11 4 11 3",
+      "cleaned_content": "Date 25 F\u00e9vrier 1902 Heure 9h Matin 19h Soir Direct Suventn ss os E Haut Barom\u00e9trique 751 8 752 2 Force 3 Fort 1 Tr\u00e8sfaible N\u00e9bulosite 0 8 Reg O terre 6 1 Reg E mern en 0 S S Dirnuagesquelquesg Pluietomb\u00e9e Temp\u00e9raturedel air 13 3 13 7 Hautdelamer 24 1 42 4 Agitationdel eau 3 Fort 3 Fort Densit\u00e9 del eauau D\u00e9gant 1028 7 1028 9 Temp\u00e9raturedel eau 11 4 11 3",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "135",
+      "raw_content": "Date 26 F\u00e9vrier 1902 Param\u00e8tres 9H Matin 3H Soir Haut Barom\u00e9trique 754 4 752 3 Direction du vent S S E S S E Force faible forte N\u00e9bulosit\u00e9 Reg 0 Terre l\u00e9g\u00e8re Reg 0 mer 0 Direction des nuages cour Pluie tomb\u00e9e Temp\u00e9rature de l air 13 4 15 1 Haut de la mer 31 4 42 0 Agitation de l eau 1 fort 1 faible Densit\u00e9 de l eau Long am 1028 7 1028 9 Temp\u00e9rature de l eau 11 4 11 3",
+      "cleaned_content": "Date 26 F\u00e9vrier 1902 Param\u00e8tres 9H Matin 3H Soir Haut Barom\u00e9trique 754 4 752 3 Directionduvent S S E S S E Forcefaibleforte N\u00e9bulosit\u00e9 Reg 0 Terrel\u00e9g\u00e8re Reg 0 mer 0 Directiondesnuagescour Pluietomb\u00e9e Temp\u00e9raturedel air 13 4 15 1 Hautdelamer 31 4 42 0 Agitationdel eau 1 fort 1 faible Densit\u00e9 del eau Longam 1028 7 1028 9 Temp\u00e9raturedel eau 11 4 11 3",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "136",
+      "raw_content": "Date 28 F\u00e9vrier 1902 Heure 9H Matin 3H Soir Hauteur Barom\u00e9trique 772 6 749 2 Direction du vent Ouest Ouest Force 2 faible 2 fort N\u00e9bulosit\u00e9 O Clair 10 10 N\u00e9bulosit\u00e9 E Mar 10 10 Direction des nuages Ouest Ouest Pluie Tomb\u00e9e quelques g Temp\u00e9rature de l air 11 9 14 4 Hauteur de la mer 22 4 25 3 Agitation de l eau 1 1 fort Transparence de l eau bout de la jet\u00e9e 10 28 0 10 27 9 Transparence de l eau au large 10 7 11 0 Temp\u00e9rature de l eau 10 7 11 0",
+      "cleaned_content": "Date 28 F\u00e9vrier 1902 Heure 9H Matin 3H Soir Hauteur Barom\u00e9trique 772 6 749 2 Directionduvent Ouest Ouest Force 2 faible 2 fort N\u00e9bulosit\u00e9 O Clair 10 10 N\u00e9bulosit\u00e9 E Mar 10 10 Directiondesnuages Ouest Ouest Pluie Tomb\u00e9equelquesg Temp\u00e9raturedel air 11 9 14 4 Hauteurdelamer 22 4 25 3 Agitationdel eau 1 1 fort Transparencedel eauboutdelajet\u00e9e 10 28 0 10 27 9 Transparencedel eauaularge 10 7 11 0 Temp\u00e9raturedel eau 10 7 11 0",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "137",
+      "raw_content": "Observations m\u00e9t\u00e9orologiques 1er Mars 1902 9h Matin 15h 18h Soir Hauteur Barom\u00e9trique 752 2 Direction du vent Ouest L\u00e9g\u00e8re c Force 3 N\u00e9bulosit\u00e9 L\u00e9g\u00e8re c Dir des nuages terre Reg O Ouest Dir des nuages mer Reg E Pluie tomb\u00e9e Temp\u00e9rature de l air 14 0 Hauteur de la mer 22 6 Agitation de l eau 1 Densit\u00e9 de l eau au bout de la jet\u00e9e 10 29 Temp\u00e9rature de l eau 10 8",
+      "cleaned_content": "Observationsm\u00e9t\u00e9orologiques 1er Mars 1902 9h Matin 15h 18h Soir Hauteur Barom\u00e9trique 752 2 Directionduvent Ouest L\u00e9g\u00e8rec Force 3 N\u00e9bulosit\u00e9 L\u00e9g\u00e8rec Dirdesnuagesterre Reg O Ouest Dirdesnuagesmer Reg E Pluietomb\u00e9e Temp\u00e9raturedel air 14 0 Hauteurdelamer 22 6 Agitationdel eau 1 Densit\u00e9 del eauauboutdelajet\u00e9e 10 29 Temp\u00e9raturedel eau 10 8",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "138",
+      "raw_content": "Date 4 Mars 1902 Param\u00e8tre 9H Matin 3H Soir Hauteur Barom\u00e9trique 769 6 Direction du vent Sud Nord Force 1 Somalia 1 faible N\u00e9bulosit\u00e9 Niv Reg O Grave 0 Reg E mar 0 Direction des nuages Pluie tomb\u00e9e Temp\u00e9rature de l air 11 Hauteur de la mer Agitation de l eau 1 faible \u00e0 bout de la jet\u00e9e 10 37 4 Visibilit\u00e9 de l eau 8 au large Temp\u00e9rature de l eau 11",
+      "cleaned_content": "Date 4 Mars 1902 Param\u00e8tre 9H Matin 3H Soir Hauteur Barom\u00e9trique 769 6 Directionduvent Sud Nord Force 1 Somalia 1 faible N\u00e9bulosit\u00e9 Niv Reg O Grave 0 Reg E mar 0 Directiondesnuages Pluietomb\u00e9e Temp\u00e9raturedel air 11 Hauteurdelamer Agitationdel eau 1 faible \u00e0 boutdelajet\u00e9e 10 37 4 Visibilit\u00e9 del eau 8 aularge Temp\u00e9raturedel eau 11",
+      "entities": {
+        "dates": [
+          "4 Mars 1902"
+        ]
+      }
+    },
+    {
+      "page_number": "139",
+      "raw_content": "Observation 9H Matin 3H Soir Hauteur Barom\u00e9trique 761 2 761 6 Direction du vent S S E S S E Force du vent 2 2 N\u00e9bulosit\u00e9 Reg O Terre 10 10 N\u00e9bulosit\u00e9 Reg E mer 10 10 Direction des nuages S S E S S E Pluie tomb\u00e9e Temp\u00e9rature de l air 13 0 13 4 Hauteur de la mer 40 4 42 8 Agitation de l eau bout de la jet\u00e9e faible fort Densit\u00e9 de l eau 1028 0 1028 1 Temp\u00e9rature de l eau 11 4 11 4 Date 3 Mars 1902",
+      "cleaned_content": "Observation 9H Matin 3H Soir Hauteur Barom\u00e9trique 761 2 761 6 Directionduvent S S E S S E Forceduvent 2 2 N\u00e9bulosit\u00e9 Reg O Terre 10 10 N\u00e9bulosit\u00e9 Reg E mer 10 10 Directiondesnuages S S E S S E Pluietomb\u00e9e Temp\u00e9raturedel air 13 0 13 4 Hauteurdelamer 40 4 42 8 Agitationdel eauboutdelajet\u00e9efaiblefort Densit\u00e9 del eau 1028 0 1028 1 Temp\u00e9raturedel eau 11 4 11 4 Date 3 Mars 1902",
+      "entities": {
+        "dates": [
+          "3 Mars 1902"
+        ]
+      }
+    },
+    {
+      "page_number": "140",
+      "raw_content": "Date 6 Mars 1902 Variable 9h Matin 15h Soir Hauteur Barom\u00e9trique 763 4 761 5 Direction du vent S E S E Force 0 1 N\u00e9bulosit\u00e9 Reg O Terre 10 10 l\u00e9g N\u00e9bulosit\u00e9 Reg E mer 10 10 l\u00e9g Direction des nuages S S E S S E Pluie tomb\u00e9e Temp\u00e9rature de l air 12 4 13 5 Hauteur de la mer 41 7 40 4 Agitation de l eau 3 fort 3 T fort Densit\u00e9 de l eau 1028 2 1028 1 Temperatures de l eau 11 6 11 7",
+      "cleaned_content": "Date 6 Mars 1902 Variable 9h Matin 15h Soir Hauteur Barom\u00e9trique 763 4 761 5 Directionduvent S E S E Force 0 1 N\u00e9bulosit\u00e9 Reg O Terre 10 10 l\u00e9g N\u00e9bulosit\u00e9 Reg E mer 10 10 l\u00e9g Directiondesnuages S S E S S E Pluietomb\u00e9e Temp\u00e9raturedel air 12 4 13 5 Hauteurdelamer 41 7 40 4 Agitationdel eau 3 fort 3 T fort Densit\u00e9 del eau 1028 2 1028 1 Temperaturesdel eau 11 6 11 7",
+      "entities": {
+        "dates": [
+          "6 Mars 1902"
+        ]
+      }
+    },
+    {
+      "page_number": "141",
+      "raw_content": "Date 7 Mars 1902 Hauteur Barom\u00e9trique 9h Matin 3h8 Soir 774 773 Direction du vent Est cr n O Force 2 for 1 N\u00e9bulosit\u00e9 Reg 6 terre 10 10 Reg E mer 10 10 Direction des nuages Est Est Pluie tomb\u00e9e quelques g quelques g Temp\u00e9rature de l air Hauteur de la mer Agitation de l eau 6 for 6 Densit\u00e9 de l eau 1 au large Temp\u00e9rature de l eau",
+      "cleaned_content": "Date 7 Mars 1902 Hauteur Barom\u00e9trique 9h Matin 3h8 Soir 774 773 Directionduvent Estcrn O Force 2 for 1 N\u00e9bulosit\u00e9 Reg 6 terre 10 10 Reg E mer 10 10 Directiondesnuages Est Est Pluietomb\u00e9equelquesg quelquesg Temp\u00e9raturedel air Hauteurdelamer Agitationdel eau 6 for 6 Densit\u00e9 del eau 1 aularge Temp\u00e9raturedel eau",
+      "entities": {
+        "dates": [
+          "7 Mars 1902"
+        ]
+      }
+    },
+    {
+      "page_number": "142",
+      "raw_content": "Date 8 Mars 1902 Hauteur Barom\u00e9trique 9h Matin 3h Soir 754 8 756 6 Direction du vent cie ourd nord ouest Force nombre 2 2 N\u00e9bulosit\u00e9 Reg 6 claire 0 0 Reg E mers 0 0 Direction des nuages cie nio cie nio Pluie tomb\u00e9e Temp\u00e9rature de l air 13 0 16 0 Hauteur de la mer 48 4 Agitation de l eau au bout de la jet\u00e9e 3 forts 4 forts au Large 10 28 4 Densit\u00e9 de l eau Temp\u00e9rature de l eau 11 3",
+      "cleaned_content": "Date 8 Mars 1902 Hauteur Barom\u00e9trique 9h Matin 3h Soir 754 8 756 6 Directionduventcieourdnordouest Forcenombre 2 2 N\u00e9bulosit\u00e9 Reg 6 claire 0 0 Reg E mers 0 0 Directiondesnuagescieniocienio Pluietomb\u00e9e Temp\u00e9raturedel air 13 0 16 0 Hauteurdelamer 48 4 Agitationdel eauauboutdelajet\u00e9e 3 forts 4 fortsau Large 10 28 4 Densit\u00e9 del eau Temp\u00e9raturedel eau 11 3",
+      "entities": {
+        "dates": [
+          "8 Mars 1902"
+        ]
+      }
+    },
+    {
+      "page_number": "143",
+      "raw_content": "Date 10 Mars 1902 Param\u00e8tre 9 \u1d49 Malin 3 \u1d49 Soir Hauteur Barom\u00e9trique 759 8 757 7 Direction du vent E N O N Sept Force 3 T Fort 3 R\u00e9g \u00d8 Cerce l\u00e9gier e 0 N\u00e9bulosit\u00e9 l Direction des nuages 10 l\u00e9gier t O Pluie tomb\u00e9e Temp\u00e9rature de l air 12 9 16 7 Hauteur de la mer 60 9 64 7 Agitation de l eau 3 3 Densit\u00e9 de l eau au bout de la jet\u00e9e 1028 2 1027 7 au Largue Temp\u00e9rature de l eau 11 6 12 0",
+      "cleaned_content": "Date 10 Mars 1902 Param\u00e8tre 9 \u1d49 Malin 3 \u1d49 Soir Hauteur Barom\u00e9trique 759 8 757 7 Directionduvent E N O N Sept Force 3 T Fort 3 R\u00e9g \u00d8 Cercel\u00e9giere 0 N\u00e9bulosit\u00e9 l Directiondesnuages 10 l\u00e9giert O Pluietomb\u00e9e Temp\u00e9raturedel air 12 9 16 7 Hauteurdelamer 60 9 64 7 Agitationdel eau 3 3 Densit\u00e9 del eauauboutdelajet\u00e9e 1028 2 1027 7 au Largue Temp\u00e9raturedel eau 11 6 12 0",
+      "entities": {
+        "dates": [
+          "10 Mars 1902"
+        ]
+      }
+    },
+    {
+      "page_number": "144",
+      "raw_content": "D\u00e9tails m\u00e9t\u00e9orologiques Valeur Date 11 Mars 1902 Heure 9h Matin 3h4 Soir Hauteur Barom\u00e9trique 760 3 Direction du vent Nord Force du vent 2 N\u00e9bulosit\u00e9 l\u00e9gende Ober Unter Ober 1 Unter 0 Direction des ombres Nord Pluie tomb\u00e9e Temp\u00e9rature de l air 13 2 C Hauteur de la mer 39 7 cm Agitation de l eau 1T fort Densit\u00e9 de l eau l\u00e9gende au bout de la jet\u00e9e au large au bout de la jet\u00e9e 1027 3 au large Temp\u00e9rature de l eau 11 7 C",
+      "cleaned_content": "D\u00e9tailsm\u00e9t\u00e9orologiques Valeur Date 11 Mars 1902 Heure 9h Matin 3h4 Soir Hauteur Barom\u00e9trique 760 3 Directionduvent Nord Forceduvent 2 N\u00e9bulosit\u00e9 l\u00e9gende Ober Unter Ober 1 Unter 0 Directiondesombres Nord Pluietomb\u00e9e Temp\u00e9raturedel air 13 2 C Hauteurdelamer 39 7 cm Agitationdel eau 1T fort Densit\u00e9 del eaul\u00e9gendeauboutdelajet\u00e9eaulargeauboutdelajet\u00e9e 1027 3 aularge Temp\u00e9raturedel eau 11 7 C",
+      "entities": {
+        "dates": [
+          "11 Mars 1902"
+        ]
+      }
+    },
+    {
+      "page_number": "145",
+      "raw_content": "Date 12 Mars 1902 Heure 9h Matin 3h Soir Hauteur Barom\u00e9trique 760 6 Direction du vent Force 5 0 N\u00e9bulosit\u00e9 Reg S 10 Reg E mar 10 Direction des images Pluie tomb\u00e9e Temp\u00e9rature de l air 11 2 Hauteur de la mer 34 9 Agitation de l eau Fort 10 28 2 au bout de la jet\u00e9e Densit\u00e9 de l eau au large Temp\u00e9rature de l eau 11 9",
+      "cleaned_content": "Date 12 Mars 1902 Heure 9h Matin 3h Soir Hauteur Barom\u00e9trique 760 6 Directionduvent Force 5 0 N\u00e9bulosit\u00e9 Reg S 10 Reg E mar 10 Directiondesimages Pluietomb\u00e9e Temp\u00e9raturedel air 11 2 Hauteurdelamer 34 9 Agitationdel eau Fort 10 28 2 auboutdelajet\u00e9e Densit\u00e9 del eauaularge Temp\u00e9raturedel eau 11 9",
+      "entities": {
+        "dates": [
+          "12 Mars 1902"
+        ]
+      }
+    },
+    {
+      "page_number": "146",
+      "raw_content": "Date 13 Mars 1902 Observations 9 h Matin 3 h Soir Hauteur Barom\u00e9trique 763 8 764 6 Direction du vent Nord Est Force 1 1 T faible N\u00e9bulosit\u00e9 Reg G cl\u00e9re 10 10 Reg E ma 10 10 Direction des nuages Cros Nors Pluie tomb\u00e9e Temp\u00e9rature de l air 13 3 13 6 Haut\u00e9u de la mer 33 1 51 6 Agitation de l eau 1 T faible 1 Densit\u00e9 de l eau au bout de la jet\u00e9e 1028 0 1027 9 au large Temp\u00e9rature de l eau 11 9 12 2",
+      "cleaned_content": "Date 13 Mars 1902 Observations 9 h Matin 3 h Soir Hauteur Barom\u00e9trique 763 8 764 6 Directionduvent Nord Est Force 1 1 T faible N\u00e9bulosit\u00e9 Reg G cl\u00e9re 10 10 Reg E ma 10 10 Directiondesnuages Cros Nors Pluietomb\u00e9e Temp\u00e9raturedel air 13 3 13 6 Haut\u00e9udelamer 33 1 51 6 Agitationdel eau 1 T faible 1 Densit\u00e9 del eauauboutdelajet\u00e9e 1028 0 1027 9 aularge Temp\u00e9raturedel eau 11 9 12 2",
+      "entities": {
+        "dates": [
+          "13 Mars 1902"
+        ]
+      }
+    },
+    {
+      "page_number": "147",
+      "raw_content": "Observations m\u00e9t\u00e9orologiques 9h Matin 3h Soir Hauteur Barom\u00e9trique 768 5 767 8 Direction du vent Ouest S E Force 1 Fort 1 Faible N\u00e9bulosit\u00e9 br couverture nuageuse Reg 6 Terre 10 L\u00e9g\u00e8re 10 Reg E Mer 10 L\u00e9g\u00e8re 10 Direction des nuages Ouest Ouest Pluie tomb\u00e9e Temp\u00e9rature de l air C 13 2 12 7 Hauteur de la mer br par rapport \u00e0 la cote 37 1 33 3 Agitation de l eau 1 faible 1 faible Densit\u00e9 de l eau br 1 au bout de la jetc 1 027 9 1 027 8 2 au large Temp\u00e9rature de l eau C 12 3 12 7",
+      "cleaned_content": "Observationsm\u00e9t\u00e9orologiques 9h Matin 3h Soir Hauteur Barom\u00e9trique 768 5 767 8 Directionduvent Ouest S E Force 1 Fort 1 Faible N\u00e9bulosit\u00e9 brcouverturenuageuse Reg 6 Terre 10 L\u00e9g\u00e8re 10 Reg E Mer 10 L\u00e9g\u00e8re 10 Directiondesnuages Ouest Ouest Pluietomb\u00e9e Temp\u00e9raturedel air C 13 2 12 7 Hauteurdelamerbrparrapport \u00e0 lacote 37 1 33 3 Agitationdel eau 1 faible 1 faible Densit\u00e9 del eaubr 1 auboutdelajetc 1 027 9 1 027 8 2 aularge Temp\u00e9raturedel eau C 12 3 12 7",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "148",
+      "raw_content": "Date 15 Mars 1902 Observations 9h Matin 3h Soir Hauteur Barom\u00e9trique 768 7 766 6 Direction du vent N O 0 S S E Force 1 Faible 2 Faible N\u00e9bulosit\u00e9 10 clair 10 clair N\u00e9bulosit\u00e9 10 mer 10 mer Direction des nuages N O 0 N O 0 Pluie tomb\u00e9e Temp\u00e9rature de l air 16 1 C 15 4 C Hauteur de la mer 40 9 cm 51 1 cm Agitation de l eau 2 Faible 2 Faible Densit\u00e9 de l eau 1028 2 kg m\u00b3 1028 0 kg m\u00b3 Temp\u00e9rature de l eau 12 2 C 12 2 C",
+      "cleaned_content": "Date 15 Mars 1902 Observations 9h Matin 3h Soir Hauteur Barom\u00e9trique 768 7 766 6 Directionduvent N O 0 S S E Force 1 Faible 2 Faible N\u00e9bulosit\u00e9 10 clair 10 clair N\u00e9bulosit\u00e9 10 mer 10 mer Directiondesnuages N O 0 N O 0 Pluietomb\u00e9e Temp\u00e9raturedel air 16 1 C 15 4 C Hauteurdelamer 40 9 cm 51 1 cm Agitationdel eau 2 Faible 2 Faible Densit\u00e9 del eau 1028 2 kgm\u00b3 1028 0 kgm\u00b3 Temp\u00e9raturedel eau 12 2 C 12 2 C",
+      "entities": {
+        "dates": [
+          "15 Mars 1902"
+        ]
+      }
+    },
+    {
+      "page_number": "149",
+      "raw_content": "Date 17 Mars 1902 9h Matin 3h Soir Hauteur Barom\u00e9trique 767 2 Direction du vent nord Force 4 N\u00e9bulosit\u00e9 Reg 0 Claire 3 Direction des nuages Reg E mer Pluie tomb\u00e9e Temp\u00e9rature de l air 13 4 Haut de la mer 67 2 Agitation de l eau 2 jeu 10 28 4 Densit\u00e9 de l eau au large 12 2 Temp\u00e9rature de l eau 12 2",
+      "cleaned_content": "Date 17 Mars 1902 9h Matin 3h Soir Hauteur Barom\u00e9trique 767 2 Directionduventnord Force 4 N\u00e9bulosit\u00e9 Reg 0 Claire 3 Directiondesnuages Reg E mer Pluietomb\u00e9e Temp\u00e9raturedel air 13 4 Hautdelamer 67 2 Agitationdel eau 2 jeu 10 28 4 Densit\u00e9 del eauaularge 12 2 Temp\u00e9raturedel eau 12 2",
+      "entities": {
+        "dates": [
+          "17 Mars 1902"
+        ]
+      }
+    },
+    {
+      "page_number": "150",
+      "raw_content": "Date 19 Mars 1902 Heure 9h Matin 3h Soir Hauteur Barom\u00e9trique 762 6 Direction du vent Ouest Force 2 N\u00e9bulosit\u00e9",
+      "cleaned_content": "Date 19 Mars 1902 Heure 9h Matin 3h Soir Hauteur Barom\u00e9trique 762 6 Directionduvent Ouest Force 2 N\u00e9bulosit\u00e9",
+      "entities": {
+        "dates": [
+          "19 Mars 1902"
+        ]
+      }
+    },
+    {
+      "page_number": "151",
+      "raw_content": "Date 20 Mars 1902 Donn\u00e9es 9\u1d49 Matin 3\u1d49 Soir Hauteur Barom\u00e9trique 760 2 Direction du vent S E Force 1 N\u00e9bulosit\u00e9 Reg O Terre 3 Reg E Mer 2 Direction des nuages S E Pluie tomb\u00e9e Temp\u00e9rature de l air 12 8 Hauteur de la mer 50 5 Agitation de l eau 1 Densit\u00e9 de l eau au bout de la jet\u00e9e 1027 9 au large Temp\u00e9rature de l eau 13 3",
+      "cleaned_content": "Date 20 Mars 1902 Donn\u00e9es 9\u1d49 Matin 3\u1d49 Soir Hauteur Barom\u00e9trique 760 2 Directionduvent S E Force 1 N\u00e9bulosit\u00e9 Reg O Terre 3 Reg E Mer 2 Directiondesnuages S E Pluietomb\u00e9e Temp\u00e9raturedel air 12 8 Hauteurdelamer 50 5 Agitationdel eau 1 Densit\u00e9 del eauauboutdelajet\u00e9e 1027 9 aularge Temp\u00e9raturedel eau 13 3",
+      "entities": {
+        "dates": [
+          "20 Mars 1902"
+        ]
+      }
+    },
+    {
+      "page_number": "152",
+      "raw_content": "Date 21 Mars 1902 Heure 9h Matin 19h Soir Hauteur Barom\u00e9trique 755 2 752 1 Direction du vent Ouest Sud Force 5 3 N\u00e9bulosit\u00e9 Reg 3 terre tr\u00e8s l\u00e9g\u00e8rement c 0 Reg E mer l\u00e9g\u00e8re 8 Direction des nuages Sud Sud Pluie tomb\u00e9e Temp\u00e9rature de l air 13 7 17 9 Hauteur de la mer 22 0 20 5 Agitation de l eau faible forte au bout de la jet\u00e9e 10 28 3 10 28 4 Densit\u00e9 de l eau au Large Temp\u00e9rature de l eau 12 6 13 1",
+      "cleaned_content": "Date 21 Mars 1902 Heure 9h Matin 19h Soir Hauteur Barom\u00e9trique 755 2 752 1 Directionduvent Ouest Sud Force 5 3 N\u00e9bulosit\u00e9 Reg 3 terretr\u00e8sl\u00e9g\u00e8rementc 0 Reg E merl\u00e9g\u00e8re 8 Directiondesnuages Sud Sud Pluietomb\u00e9e Temp\u00e9raturedel air 13 7 17 9 Hauteurdelamer 22 0 20 5 Agitationdel eaufaibleforteauboutdelajet\u00e9e 10 28 3 10 28 4 Densit\u00e9 del eauau Large Temp\u00e9raturedel eau 12 6 13 1",
+      "entities": {
+        "dates": [
+          "21 Mars 1902"
+        ]
+      }
+    },
+    {
+      "page_number": "153",
+      "raw_content": "9h Matin 3h Soir Hauteur Barom\u00e9trique 759 2 759 3 Direction du vent cr cr o cr n o Force hirof 4 fort 3 fort Nu\u00e9rosit\u00e9 Reg O on 0 l\u00e9g\u00e8re Reg E s 1 l\u00e9g\u00e8re Direction des nuages cr cr o cr n o Pluie Tomb\u00e9e quelques g temp\u00e9rature de l air 9 9 13 6 Hauteur de la mer 42 7 35 4 Agitation de l eau 3 3 Densit\u00e9 de l eau 1028 6 1028 4 au bout du jet\u00e9e au large Temp\u00e9rature de l eau 12 0 12 2",
+      "cleaned_content": "9h Matin 3h Soir Hauteur Barom\u00e9trique 759 2 759 3 Directionduventcrcro crn o Forcehirof 4 fort 3 fort Nu\u00e9rosit\u00e9 Reg O on 0 l\u00e9g\u00e8re Reg E s 1 l\u00e9g\u00e8re Directiondesnuagescrcro crn o Pluie Tomb\u00e9equelquesg temp\u00e9raturedel air 9 9 13 6 Hauteurdelamer 42 7 35 4 Agitationdel eau 3 3 Densit\u00e9 del eau 1028 6 1028 4 auboutdujet\u00e9eaularge Temp\u00e9raturedel eau 12 0 12 2",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "154",
+      "raw_content": "DATE 23 MARS 1902 9h Matin 3h Soir Hauteur Barom\u00e9trique 762 3 762 2 Direction du vent NW Force 0 3 forts Nebulosit\u00e9 Reg Golfe 10 10 Reg E mer Direction des nuages NW NW Pluie tomb\u00e9e Temp\u00e9rature de l air 14 6 17 4 Hauteur de la mer 64 9 76 8 Agitation de l eau faible forte Vitesse de l eau 10 28 1 10 28 2 au bout de la jet\u00e9e au Large Temp\u00e9rature de l eau 12 2 13 1",
+      "cleaned_content": "DATE 23 MARS 1902 9h Matin 3h Soir Hauteur Barom\u00e9trique 762 3 762 2 Directionduvent NW Force 0 3 forts Nebulosit\u00e9 Reg Golfe 10 10 Reg E mer Directiondesnuages NW NW Pluietomb\u00e9e Temp\u00e9raturedel air 14 6 17 4 Hauteurdelamer 64 9 76 8 Agitationdel eaufaibleforte Vitessedel eau 10 28 1 10 28 2 auboutdelajet\u00e9eau Large Temp\u00e9raturedel eau 12 2 13 1",
+      "entities": {
+        "dates": [
+          "23 MARS 1902"
+        ]
+      }
+    },
+    {
+      "page_number": "155",
+      "raw_content": "Date 26 Mars 1902 9h Matin 3h Soir Hauteur Barom\u00e9trique 764 4 Direction du vent er c r o Force 4 fort l\u00e9ger osc N\u00e9bulosit\u00e9 Reg O terre l\u00e9g\u00e8re Reg E mer l\u00e9g\u00e8re er c r o Direction des images Pluie tomb\u00e9e Temp\u00e9rature de l air 7 0 N\u00e9bulosit\u00e9 Hauteur de la mer 69 2 Agitation de l eau au bout de la jet\u00e9e 2 fort au large 1028 1 Densit\u00e9 de l eau Temp\u00e9rature de l eau 13 0",
+      "cleaned_content": "Date 26 Mars 1902 9h Matin 3h Soir Hauteur Barom\u00e9trique 764 4 Directionduventerc ro Force 4 fortl\u00e9gerosc N\u00e9bulosit\u00e9 Reg O terrel\u00e9g\u00e8re Reg E merl\u00e9g\u00e8reerc ro Directiondesimages Pluietomb\u00e9e Temp\u00e9raturedel air 7 0 N\u00e9bulosit\u00e9 Hauteurdelamer 69 2 Agitationdel eauauboutdelajet\u00e9e 2 fortaularge 1028 1 Densit\u00e9 del eau Temp\u00e9raturedel eau 13 0",
+      "entities": {
+        "dates": [
+          "26 Mars 1902"
+        ]
+      }
+    },
+    {
+      "page_number": "156",
+      "raw_content": "Date 29 Mars 1902 Param\u00e8tre 9\u2074 Matin 3\u2074 Soir Hauteur Barom\u00e9trique 766 0 764 8 Direction du vent er n o nord Force 3 fort 3 faible N\u00e9bulosit\u00e9 Reg 6 terre 10 l\u00e9g\u00e8rement c 10 Reg E mer 10 l\u00e9g\u00e8rement c 10 Direction des images er n o nord Pluie tomb\u00e9e quelques g Temperaturre de l air 16 5 17 9 Hauteur de la mer 60 3 67 6 Agitation de l eau 2 fort 2 Vitesse de l eau au bout de la jet\u00e9e 1028 3 1028 2 au Large Temperaturre de l eau 13 3 13 6",
+      "cleaned_content": "Date 29 Mars 1902 Param\u00e8tre 9\u2074 Matin 3\u2074 Soir Hauteur Barom\u00e9trique 766 0 764 8 Directionduventern onord Force 3 fort 3 faible N\u00e9bulosit\u00e9 Reg 6 terre 10 l\u00e9g\u00e8rementc 10 Reg E mer 10 l\u00e9g\u00e8rementc 10 Directiondesimagesern onord Pluietomb\u00e9equelquesg Temperaturredel air 16 5 17 9 Hauteurdelamer 60 3 67 6 Agitationdel eau 2 fort 2 Vitessedel eauauboutdelajet\u00e9e 1028 3 1028 2 au Large Temperaturredel eau 13 3 13 6",
+      "entities": {
+        "dates": [
+          "29 Mars 1902"
+        ]
+      }
+    },
+    {
+      "page_number": "157",
+      "raw_content": "Observation 9h Matin 3h Soir Hauteur Barom\u00e9trique 757 3 Direction du vent Sud Force 2 N\u00e9bulosit\u00e9 L\u00e9g\u00e8re Reg 6 Terre Reg E mer L\u00e9g\u00e8re Direction des nuages Sud Pluie Tomb\u00e9e Temp\u00e9rature de l air 15 8 Hauteur de la mer 14 8 Agitation de l eau 1 aux bout de la jet\u00e9e 1028 2 Vitesse de l eau au Large Temp\u00e9rature de l eau 13 6",
+      "cleaned_content": "Observation 9h Matin 3h Soir Hauteur Barom\u00e9trique 757 3 Directionduvent Sud Force 2 N\u00e9bulosit\u00e9 L\u00e9g\u00e8re Reg 6 Terre Reg E mer L\u00e9g\u00e8re Directiondesnuages Sud Pluie Tomb\u00e9e Temp\u00e9raturedel air 15 8 Hauteurdelamer 14 8 Agitationdel eau 1 auxboutdelajet\u00e9e 1028 2 Vitessedel eauau Large Temp\u00e9raturedel eau 13 6",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "158",
+      "raw_content": "Date 2 Avril 1902 9h Matin 15h Apr\u00e8s Midi Hauteur Barom\u00e9trique 755 9 755 2 Direction du vent cr E cr cr O Force 12 faible 2 force Av 6 0 Terre 10 10 N\u00e9bulosit\u00e9 10 10 I Reg E mer Direction des nuages croix cr a O Pluie tomb\u00e9e Temp\u00e9rature de l air 14 6 15 6 Hauteur de la mer 39 0 32 7 Agitation de l eau 2 faible 2 T fort ou is\u00e9 pour d\u00e9gourement la j\u00e9t\u00e9 10 \u00e0 7 9 10 \u00e0 28 0 Densit\u00e9 de l eau au Large Temp\u00e9rature de l eau 13 7 14 1",
+      "cleaned_content": "Date 2 Avril 1902 9h Matin 15h Apr\u00e8s Midi Hauteur Barom\u00e9trique 755 9 755 2 Directionduventcr E crcr O Force 12 faible 2 force Av 6 0 Terre 10 10 N\u00e9bulosit\u00e9 10 10 I Reg E mer Directiondesnuagescroixcra O Pluietomb\u00e9e Temp\u00e9raturedel air 14 6 15 6 Hauteurdelamer 39 0 32 7 Agitationdel eau 2 faible 2 T fortouis\u00e9 pourd\u00e9gourementlaj\u00e9t\u00e9 10 \u00e0 7 9 10 \u00e0 28 0 Densit\u00e9 del eauau Large Temp\u00e9raturedel eau 13 7 14 1",
+      "entities": {
+        "dates": [
+          "2 Avril 1902"
+        ]
+      }
+    },
+    {
+      "page_number": "159",
+      "raw_content": "Date 3 Avril 1902 Heure 9 H Matin 3 H Soir H Barom\u00e9trique 760 4 760 2 Direction du vent Est S S E Force du vent Tr\u00e8s faible Faible N\u00e9bulosit\u00e9 Reg 6 Terre 10 10 N\u00e9bulosit\u00e9 Reg E Ciel 10 10 Direction des nuages Est S S E Pluie tomb\u00e9e 1 0 0 Temp\u00e9rature de l air 14 7 13 6 Hauteur de la mer 40 8 39 9 Agitation de l eau Pont du Jetty Fort Fort Agitation de l eau au Large 1028 5 1028 3 Densit\u00e9 de l eau Temp\u00e9rature de l eau 13 6 14 3",
+      "cleaned_content": "Date 3 Avril 1902 Heure 9 H Matin 3 H Soir H Barom\u00e9trique 760 4 760 2 Directionduvent Est S S E Forceduvent Tr\u00e8sfaible Faible N\u00e9bulosit\u00e9 Reg 6 Terre 10 10 N\u00e9bulosit\u00e9 Reg E Ciel 10 10 Directiondesnuages Est S S E Pluietomb\u00e9e 1 0 0 Temp\u00e9raturedel air 14 7 13 6 Hauteurdelamer 40 8 39 9 Agitationdel eau Pontdu Jetty Fort Fort Agitationdel eauau Large 1028 5 1028 3 Densit\u00e9 del eau Temp\u00e9raturedel eau 13 6 14 3",
+      "entities": {
+        "dates": [
+          "3 Avril 1902"
+        ]
+      }
+    },
+    {
+      "page_number": "160",
+      "raw_content": "Date 4 Avril 1902 Haut Barom\u00e9trique 9h Matin 3h Soir Pression de l air 764 1 763 6 Direction du vent cer cr cer cr 0 Force 3 2 fort N\u00e9bulosit\u00e9 Reg 6 claire 10 N\u00e9bulosit\u00e9 Reg E nu\u00e9e 10 0 Pluie tomb\u00e9e nn nn Temp\u00e9rature de l air 17 6 19 2 Hauteur de la mer 48 4 46 6 Agitation de l eau faible 2 Densit\u00e9 de l eau au bout de la jet\u00e9e 1027 9 1027 8 Densit\u00e9 de l eau au large Temp\u00e9rature de l eau 14 5 14 5",
+      "cleaned_content": "Date 4 Avril 1902 Haut Barom\u00e9trique 9h Matin 3h Soir Pressiondel air 764 1 763 6 Directionduventcercrcercr 0 Force 3 2 fort N\u00e9bulosit\u00e9 Reg 6 claire 10 N\u00e9bulosit\u00e9 Reg E nu\u00e9e 10 0 Pluietomb\u00e9ennnn Temp\u00e9raturedel air 17 6 19 2 Hauteurdelamer 48 4 46 6 Agitationdel eaufaible 2 Densit\u00e9 del eauauboutdelajet\u00e9e 1027 9 1027 8 Densit\u00e9 del eauaularge Temp\u00e9raturedel eau 14 5 14 5",
+      "entities": {
+        "dates": [
+          "4 Avril 1902"
+        ]
+      }
+    },
+    {
+      "page_number": "161",
+      "raw_content": "Date 5 Avril 1902 Param\u00e8tre 9h Matin 3h Soir Hauteur Barom\u00e9trique 763 2 760 7 Direction du vent S E Est Force _faible_ _faible_ N\u00e9bulosit\u00e9 terre 10 l\u00e9g\u00e8re 10 N\u00e9bulosit\u00e9 mer 10 l\u00e9g\u00e8re 10 Direction des nuages Sud Est Sud Est Pluie tomb\u00e9e Temp\u00e9rature de l air 16 8 15 9 Hauteur de la mer 0 0 m 46 6 m Agitation de l eau 0 1 faible Densit\u00e9 de l eau bout de la jet\u00e9e 1 027 8 1 027 9 Densit\u00e9 de l eau au large Temp\u00e9rature de l eau bout de la jet\u00e9e 14 8 16 8 Temp\u00e9rature de l eau au large",
+      "cleaned_content": "Date 5 Avril 1902 Param\u00e8tre 9h Matin 3h Soir Hauteur Barom\u00e9trique 763 2 760 7 Directionduvent S E Est Force _faible_ _faible_ N\u00e9bulosit\u00e9 terre 10 l\u00e9g\u00e8re 10 N\u00e9bulosit\u00e9 mer 10 l\u00e9g\u00e8re 10 Directiondesnuages Sud Est Sud Est Pluietomb\u00e9e Temp\u00e9raturedel air 16 8 15 9 Hauteurdelamer 0 0 m 46 6 m Agitationdel eau 0 1 faible Densit\u00e9 del eauboutdelajet\u00e9e 1 027 8 1 027 9 Densit\u00e9 del eauaularge Temp\u00e9raturedel eauboutdelajet\u00e9e 14 8 16 8 Temp\u00e9raturedel eauaularge",
+      "entities": {
+        "dates": [
+          "5 Avril 1902"
+        ]
+      }
+    },
+    {
+      "page_number": "162",
+      "raw_content": "Date 7 Avril 1902 Param\u00e8tre Matin Soir Hauteur Barom\u00e9trique 779 7 779 7 Direction du vent c r O c r O Force Fort 4 NiBulosit L\u00e9g\u00e8re \u00e9g\u00e8re Reg terre 10 ligne 10 ligne Reg \u00c9 mer L\u00e9g\u00e8re c r O Direction des nuages c r O c r O Pluie tomb\u00e9e Temp\u00e9rature de l air 17 4 17 6 Hauteur de la mer 2 6 7 Agitation de l eau 4 4 Densit\u00e9 de l eau 1028 3 1028 0 au bout de la j\u00e9ti au Large Temp\u00e9rature de l eau 14 2 14 4",
+      "cleaned_content": "Date 7 Avril 1902 Param\u00e8tre Matin Soir Hauteur Barom\u00e9trique 779 7 779 7 Directionduventc r O cr O Force Fort 4 NiBulosit L\u00e9g\u00e8re \u00e9g\u00e8re Regterre 10 ligne 10 ligne Reg \u00c9 mer L\u00e9g\u00e8rec r O Directiondesnuagesc r O cr O Pluietomb\u00e9e Temp\u00e9raturedel air 17 4 17 6 Hauteurdelamer 2 6 7 Agitationdel eau 4 4 Densit\u00e9 del eau 1028 3 1028 0 auboutdelaj\u00e9tiau Large Temp\u00e9raturedel eau 14 2 14 4",
+      "entities": {
+        "dates": [
+          "7 Avril 1902"
+        ]
+      }
+    },
+    {
+      "page_number": "163",
+      "raw_content": "Date 8 Avril 1902 Auteur Barom\u00e9trique 9H Matin 3H Soir 763 2 761 4 Direction du vent Est S S E Force 1 2 N\u00e9bulosit\u00e9 Reg O terre Reg E mer 9H Matin 3H Soir 0 3 l\u00e9g\u00e8res Direction des nuages 2 l\u00e9g\u00e8res Quart Pluie tomb\u00e9e Temp\u00e9rature de l air 13 0 15 0 Hauteur de la mer 4 6 6 5 6 2 Agitation de l eau 2 faible 2 faibles Tensit\u00e9 de l eau Au bout de la jet\u00e9e 1028 1 1027 9 Au Large Temp\u00e9rature de l eau 14 2 14 4",
+      "cleaned_content": "Date 8 Avril 1902 Auteur Barom\u00e9trique 9H Matin 3H Soir 763 2 761 4 Directionduvent Est S S E Force 1 2 N\u00e9bulosit\u00e9 Reg O terre Reg E mer 9H Matin 3H Soir 0 3 l\u00e9g\u00e8res Directiondesnuages 2 l\u00e9g\u00e8res Quart Pluietomb\u00e9e Temp\u00e9raturedel air 13 0 15 0 Hauteurdelamer 4 6 6 5 6 2 Agitationdel eau 2 faible 2 faibles Tensit\u00e9 del eau Auboutdelajet\u00e9e 1028 1 1027 9 Au Large Temp\u00e9raturedel eau 14 2 14 4",
+      "entities": {
+        "dates": [
+          "8 Avril 1902"
+        ]
+      }
+    },
+    {
+      "page_number": "164",
+      "raw_content": "Date 9 Avril 1902 Temps 9h Matin 3h Soir Hauteur Barom\u00e9trique 759 9 757 7 Direction du vent Sud Sud Force 1 fort 2 fort N\u00e9bulosit\u00e9 Reg 6 Ciel clair 10 10 N\u00e9bulosit\u00e9 Reg E Mer 10 10 Direction des nuages Sud Sud Pluie tomb\u00e9e quelques g Temp\u00e9rature de l air 16 0 18 7 Hauteur de la mer 37 8 49 3 Agitation de l eau au bout de la jet\u00e9e 1 1T fort Densit\u00e9 de l eau au Large Temp\u00e9rature de l eau 13 7 13 7",
+      "cleaned_content": "Date 9 Avril 1902 Temps 9h Matin 3h Soir Hauteur Barom\u00e9trique 759 9 757 7 Directionduvent Sud Sud Force 1 fort 2 fort N\u00e9bulosit\u00e9 Reg 6 Cielclair 10 10 N\u00e9bulosit\u00e9 Reg E Mer 10 10 Directiondesnuages Sud Sud Pluietomb\u00e9equelquesg Temp\u00e9raturedel air 16 0 18 7 Hauteurdelamer 37 8 49 3 Agitationdel eauauboutdelajet\u00e9e 1 1T fort Densit\u00e9 del eauau Large Temp\u00e9raturedel eau 13 7 13 7",
+      "entities": {
+        "dates": [
+          "9 Avril 1902"
+        ]
+      }
+    },
+    {
+      "page_number": "165",
+      "raw_content": "Date 10 Avril 1902 Heure 9\u02b0 Malin 3\u02b0 S oir Hauteur Barom\u00e9trique 76 2 711 3 Direction du vent Est Est Force 2 3 jost 1 jost N\u00e9bulosit\u00e9 Reg 6 ferme 10 10 Reg E mar 10 10 Direction ses nuages Est Est Pluie tomb\u00e9e 14 2p 4f 0 Temp\u00e9rature de l air 11 3 13 4 Hauteur de la mer 22 0 Agitation de l eau faible 9 Densit\u00e9 de l eau au bout de la jet\u00e9e 1028 4 au Large 13 4 Temp\u00e9rature de l eau 13 4",
+      "cleaned_content": "Date 10 Avril 1902 Heure 9\u02b0 Malin 3\u02b0 S oir Hauteur Barom\u00e9trique 76 2 711 3 Directionduvent Est Est Force 2 3 jost 1 jost N\u00e9bulosit\u00e9 Reg 6 ferme 10 10 Reg E mar 10 10 Directionsesnuages Est Est Pluietomb\u00e9e 14 2p 4f 0 Temp\u00e9raturedel air 11 3 13 4 Hauteurdelamer 22 0 Agitationdel eaufaible 9 Densit\u00e9 del eauauboutdelajet\u00e9e 1028 4 au Large 13 4 Temp\u00e9raturedel eau 13 4",
+      "entities": {
+        "dates": [
+          "10 Avril 1902"
+        ]
+      }
+    },
+    {
+      "page_number": "166",
+      "raw_content": "Date Heure Observations 11 April 1902 9h Matin Hauteur Barom\u00e9trique 776 6 cm 3h Soir Direction du vent Nord est N E Force du vent 1 N\u00e9bulosit\u00e9 Terre 7 N\u00e9bulosit\u00e9 Mer 1 Direction des nuages Ouest Pluie tomb\u00e9e 37 12 mm Temp\u00e9rature de l air 14 8 C Hauteur de la mer 14 5 m Agitation de l eau 4 Densit\u00e9 de l eau au bout de la jet\u00e9e 1027 7 g cm\u00b3 Densit\u00e9 de l eau au Large Temp\u00e9rature de l eau 13 6 C",
+      "cleaned_content": "Date Heure Observations 11 April 1902 9h Matin Hauteur Barom\u00e9trique 776 6 cm 3h Soir Directionduvent Nordest N E Forceduvent 1 N\u00e9bulosit\u00e9 Terre 7 N\u00e9bulosit\u00e9 Mer 1 Directiondesnuages Ouest Pluietomb\u00e9e 37 12 mm Temp\u00e9raturedel air 14 8 C Hauteurdelamer 14 5 m Agitationdel eau 4 Densit\u00e9 del eauauboutdelajet\u00e9e 1027 7 gcm\u00b3 Densit\u00e9 del eauau Large Temp\u00e9raturedel eau 13 6 C",
+      "entities": {
+        "dates": [
+          "11 April 1902"
+        ]
+      }
+    },
+    {
+      "page_number": "167",
+      "raw_content": "Date 12 Avril 1902 9H M\u00e2tin 3H Soir Hauteur Barom\u00e9trique 775 1 775 0 Direction du vent S E S E Force 1 Fort 1 Fort N\u00e9bulosit\u00e9 Reg 0 Terre 10 Reg E mer 10 Direction des nuages S S E Sud Pluie tomb\u00e9e 9 0 2 0 Temp\u00e9rature de l air 14 6 14 0 Hauteur de la mer 24 9 39 0 Agitation de l eau 3 3 faible Densit\u00e9 de l eau au bout de la jet\u00e9e 1027 6 1027 6 au Large Temp\u00e9rature de l eau 13 7 13 9",
+      "cleaned_content": "Date 12 Avril 1902 9H M\u00e2tin 3H Soir Hauteur Barom\u00e9trique 775 1 775 0 Directionduvent S E S E Force 1 Fort 1 Fort N\u00e9bulosit\u00e9 Reg 0 Terre 10 Reg E mer 10 Directiondesnuages S S E Sud Pluietomb\u00e9e 9 0 2 0 Temp\u00e9raturedel air 14 6 14 0 Hauteurdelamer 24 9 39 0 Agitationdel eau 3 3 faible Densit\u00e9 del eauauboutdelajet\u00e9e 1027 6 1027 6 au Large Temp\u00e9raturedel eau 13 7 13 9",
+      "entities": {
+        "dates": [
+          "12 Avril 1902"
+        ]
+      }
+    },
+    {
+      "page_number": "168",
+      "raw_content": "\u00c9l\u00e9ments observ\u00e9s Observations Horaires Hauteur Barom\u00e9trique 758 4 9\u02b0 Matin Direction du vent S E Force 2 fort 3\u02b0 Soir N\u00e9bulosit\u00e9 R\u00e9g O Ton 0 R\u00e9g E Mar 3 Direction des nuages S E S N Pluie tomb\u00e9e quelques g Temp\u00e9rature de l air 15 4 Hauteur de la mer 33 2 Agitation de l eau 2 fort au bout de la jet\u00e9e 10 6 7 Densit\u00e9 de l eau au Large Temp\u00e9rature de l eau 14 0",
+      "cleaned_content": "\u00c9l\u00e9mentsobserv\u00e9s Observations Horaires Hauteur Barom\u00e9trique 758 4 9\u02b0 Matin Directionduvent S E Force 2 fort 3\u02b0 Soir N\u00e9bulosit\u00e9 R\u00e9g O Ton 0 R\u00e9g E Mar 3 Directiondesnuages S E S N Pluietomb\u00e9equelquesg Temp\u00e9raturedel air 15 4 Hauteurdelamer 33 2 Agitationdel eau 2 fortauboutdelajet\u00e9e 10 6 7 Densit\u00e9 del eauau Large Temp\u00e9raturedel eau 14 0",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "169",
+      "raw_content": "\u00c9l\u00e9ment m\u00e9t\u00e9orologique 9h Matin 3h Soir Hauteur Barom\u00e9trique 756 3 755 3 Direction du Vent N S S E Force du Vent 0 2 Nebulosit\u00e9 R\u00e9g C terre 10 10 Nebulosit\u00e9 R\u00e9g E mer 10 10 Direction des nuages Sud Sud Pluie tomb\u00e9e Temp\u00e9rature de l air 16 4 17 5 Hauteur de la mer 34 5 36 3 Agitation de l eau Tr faible 1 au bout de la jet\u00e9e 1027 1 1026 9 Densit\u00e9 de l eau au Large Temp\u00e9rature de l eau 14 3 14 7",
+      "cleaned_content": "\u00c9l\u00e9mentm\u00e9t\u00e9orologique 9h Matin 3h Soir Hauteur Barom\u00e9trique 756 3 755 3 Directiondu Vent N S S E Forcedu Vent 0 2 Nebulosit\u00e9 R\u00e9g C terre 10 10 Nebulosit\u00e9 R\u00e9g E mer 10 10 Directiondesnuages Sud Sud Pluietomb\u00e9e Temp\u00e9raturedel air 16 4 17 5 Hauteurdelamer 34 5 36 3 Agitationdel eau Trfaible 1 auboutdelajet\u00e9e 1027 1 1026 9 Densit\u00e9 del eauau Large Temp\u00e9raturedel eau 14 3 14 7",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "170",
+      "raw_content": "Date 1 sup er sup Avril 1902 Observations Donn\u00e9es Barom\u00e8tre Hauteur barom\u00e9trique 733 7 733 7 Direction du vent dr 0 dr 0 Force 1 1 N\u00e9bulosit\u00e9 R\u00e9g O terre 10 10 R\u00e9g E mer 10 10 Direction des nuages dr 0 dr 0 Pluie tomb\u00e9e quelque g quelque g Temp\u00e9rature de l air 14 4 14 4 Hauteur de la mer 35 8 35 8 Agitation de l eau 1 1 Densit\u00e9 de l eau Au bord de la jet\u00e9e 1027 2 Au Large 1 Temp\u00e9rature de l eau 13 8 13 8",
+      "cleaned_content": "Date 1 supersup Avril 1902 Observations Donn\u00e9es Barom\u00e8tre Hauteurbarom\u00e9trique 733 7 733 7 Directionduventdr 0 dr 0 Force 1 1 N\u00e9bulosit\u00e9 R\u00e9g O terre 10 10 R\u00e9g E mer 10 10 Directiondesnuagesdr 0 dr 0 Pluietomb\u00e9equelqueg quelqueg Temp\u00e9raturedel air 14 4 14 4 Hauteurdelamer 35 8 35 8 Agitationdel eau 1 1 Densit\u00e9 del eau Auborddelajet\u00e9e 1027 2 Au Large 1 Temp\u00e9raturedel eau 13 8 13 8",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "171",
+      "raw_content": "Date Heure Description Valeur 16 Avril 1902 9 sup e Matin 3 sup e Soir Hauteur Barom\u00e9trique 779 4 Direction du vent sud est sud Force 4 fort N\u00e9bulosit\u00e9 deg O Clair 10 1 Reg E mer 10 Direction des nuages sud est sud Pluie tomb\u00e9e 4 12 en mm Temp\u00e9rature de l air 11 9 Hauteur de la mer 40 2 Agitation de l eau 3 Densit\u00e9 de l eau au bout de la jet\u00e9e 1026 8 au Large Temp\u00e9rature de l eau 13 6 Remarques compl\u00e9mentaires La hauteur barom\u00e9trique est donn\u00e9e en mmHg La pluie tomb\u00e9e est exprim\u00e9e en millim\u00e8tres mm Les directions des vents et des nuages sont indiqu\u00e9es dans un format relatif Les densit\u00e9s de l eau sont rapport\u00e9es en kg m\u00b3",
+      "cleaned_content": "Date Heure Description Valeur 16 Avril 1902 9 supe Matin 3 supe Soir Hauteur Barom\u00e9trique 779 4 Directionduventsudestsud Force 4 fort N\u00e9bulosit\u00e9 deg O Clair 10 1 Reg E mer 10 Directiondesnuagessudestsud Pluietomb\u00e9e 4 12 enmm Temp\u00e9raturedel air 11 9 Hauteurdelamer 40 2 Agitationdel eau 3 Densit\u00e9 del eauauboutdelajet\u00e9e 1026 8 au Large Temp\u00e9raturedel eau 13 6 Remarquescompl\u00e9mentaires Lahauteurbarom\u00e9triqueestdonn\u00e9eenmmHg Lapluietomb\u00e9eestexprim\u00e9eenmillim\u00e8tresmm Lesdirectionsdesventsetdesnuagessontindiqu\u00e9esdansunformatrelatif Lesdensit\u00e9sdel eausontrapport\u00e9esenkgm\u00b3",
+      "entities": {
+        "dates": [
+          "16 Avril 1902"
+        ]
+      }
+    },
+    {
+      "page_number": "172",
+      "raw_content": "Observations m\u00e9t\u00e9orologiques 9h Matin 3h Soir Hauteur Barom\u00e9trique mm 761 6 761 3 Direction du vent Container radio Container radio Force 3 3 N\u00e9bulosit\u00e9 R\u00e9gion O Clair 2 L\u00e9g\u00e8re R\u00e9gion E mer 2 L\u00e9g\u00e8re Pluie tomb\u00e9e quelques g Temp\u00e9rature de l air C 14 6 16 7 Hauteur de la mer cm 41 4 33 9 Agitation de l eau 1 2 faible Densit\u00e9 de l eau au bout de la jet\u00e9e 1025 7 1025 9 au large Temp\u00e9rature de l eau C 14 1 14 3",
+      "cleaned_content": "Observationsm\u00e9t\u00e9orologiques 9h Matin 3h Soir Hauteur Barom\u00e9triquemm 761 6 761 3 Directionduvent Containerradio Containerradio Force 3 3 N\u00e9bulosit\u00e9 R\u00e9gion O Clair 2 L\u00e9g\u00e8re R\u00e9gion E mer 2 L\u00e9g\u00e8re Pluietomb\u00e9equelquesg Temp\u00e9raturedel air C 14 6 16 7 Hauteurdelamercm 41 4 33 9 Agitationdel eau 1 2 faible Densit\u00e9 del eauauboutdelajet\u00e9e 1025 7 1025 9 aularge Temp\u00e9raturedel eau C 14 1 14 3",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "173",
+      "raw_content": "Date 18 Avril 1902 Observations 9\u02b0 Matin 3\u02b0 Soir Hauteur Barom\u00e9trique 762 3 Direction du vent c r o Force deg O cl\u00e8re 15 0 N\u00e9bulosit\u00e9 deg E mer 2 Direction des nuages Pluie tomb\u00e9e Temp\u00e9rature de l air 15 8 Hauteur de la mer Agitation de l eau 42 9 Paixible Densit\u00e9 de l eau au bout de la j\u00e9tee 1026 4 au large Temp\u00e9rature de l eau 14 3",
+      "cleaned_content": "Date 18 Avril 1902 Observations 9\u02b0 Matin 3\u02b0 Soir Hauteur Barom\u00e9trique 762 3 Directionduventc ro Forcedeg O cl\u00e8re 15 0 N\u00e9bulosit\u00e9 deg E mer 2 Directiondesnuages Pluietomb\u00e9e Temp\u00e9raturedel air 15 8 Hauteurdelamer Agitationdel eau 42 9 Paixible Densit\u00e9 del eauauboutdelaj\u00e9tee 1026 4 aularge Temp\u00e9raturedel eau 14 3",
+      "entities": {
+        "dates": [
+          "18 Avril 1902"
+        ]
+      }
+    },
+    {
+      "page_number": "174",
+      "raw_content": "Date 9h Matin 3h Soir Hauter Barom\u00e9trique 763 3 762 2 Direction du vent cr E S S E Force 1 5 1 7 N\u00e9bulosit\u00e9 Reg L Bar terrestre opa\u00e7 1 10 10 l\u00e9g\u00e8re Direction des nuages Reg L Bar marin 0 10 l\u00e9g\u00e8re Pluie tomb\u00e9e Temp\u00e9rature de l air 14 0 C 20 3 C Hauteur de la mer 41 5 37 7 Agitation de l eau 0 1 Densit\u00e9 de l eau 1026 3 bout de la jet\u00e9e 1026 6 au large Temp\u00e9rature de l eau 14 8 15 7",
+      "cleaned_content": "Date 9h Matin 3h Soir Hauter Barom\u00e9trique 763 3 762 2 Directionduventcr E S S E Force 1 5 1 7 N\u00e9bulosit\u00e9 Reg L Barterrestreopa\u00e7 1 10 10 l\u00e9g\u00e8re Directiondesnuages Reg L Barmarin 0 10 l\u00e9g\u00e8re Pluietomb\u00e9e Temp\u00e9raturedel air 14 0 C 20 3 C Hauteurdelamer 41 5 37 7 Agitationdel eau 0 1 Densit\u00e9 del eau 1026 3 boutdelajet\u00e9e 1026 6 aularge Temp\u00e9raturedel eau 14 8 15 7",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "175",
+      "raw_content": "Date 2 avril 1902 Param\u00e8tres Observations Hauteur Barom\u00e9trique 766 8 Direction du vent S S E Force 1 N\u00e9bulosit\u00e9 Reg 0 claire Reg 1 mar Direction des nuages Estsud Pluie tomb\u00e9e O Temp\u00e9rature de l air 16 8 Hauteur de la mer 4 1 Agitation de l eau O Densit\u00e9 de l eau 1027 3 Temp\u00e9rature de l eau 14 3",
+      "cleaned_content": "Date 2 avril 1902 Param\u00e8tres Observations Hauteur Barom\u00e9trique 766 8 Directionduvent S S E Force 1 N\u00e9bulosit\u00e9 Reg 0 claire Reg 1 mar Directiondesnuages Estsud Pluietomb\u00e9e O Temp\u00e9raturedel air 16 8 Hauteurdelamer 4 1 Agitationdel eau O Densit\u00e9 del eau 1027 3 Temp\u00e9raturedel eau 14 3",
+      "entities": {
+        "dates": [
+          "2 avril 1902"
+        ]
+      }
+    },
+    {
+      "page_number": "176",
+      "raw_content": "Date 21 Avril 1902 Heure 9h Matin 3h Soir Hauteur Barom\u00e9trique 768 7 Direction du vent cr w E Force 1 N\u00e9bulosit\u00e9 Reg O terre 0 Reg E mer 0 Direction des nuages Pluie tomb\u00e9e quelque g Temp\u00e9rature de l air 16 6 Hauteur de la mer 47 7 Agitation de l eau 1T faible Ventiste de l eau au bout de la jet\u00e9e 10 2 4 Par Large Temp\u00e9rature de l eau 17 3",
+      "cleaned_content": "Date 21 Avril 1902 Heure 9h Matin 3h Soir Hauteur Barom\u00e9trique 768 7 Directionduventcrw E Force 1 N\u00e9bulosit\u00e9 Reg O terre 0 Reg E mer 0 Directiondesnuages Pluietomb\u00e9equelqueg Temp\u00e9raturedel air 16 6 Hauteurdelamer 47 7 Agitationdel eau 1T faible Ventistedel eauauboutdelajet\u00e9e 10 2 4 Par Large Temp\u00e9raturedel eau 17 3",
+      "entities": {
+        "dates": [
+          "21 Avril 1902"
+        ]
+      }
+    },
+    {
+      "page_number": "177",
+      "raw_content": "Date Ann\u00e9e Mois Jour 22 1902 Avril Heure 9h Matin 3h Soir Hauteur Barom\u00e9trique 760 7 759 3 Direction du vent N Est N Est Force 1 1 Humidit\u00e9 Reg O Cl ue L\u00e9g\u00e8re N\u00e9bulosit\u00e9 10 10 Direction des nuages Sud Ouest Pluie tomb\u00e9e Temp\u00e9rature de l air 15 3 16 6 Hauteur de la mer 40 1 46 5 Temp\u00e9rature de l air Agitation de l eau 0 0 Densit\u00e9 de l eau au bout du jet\u00e9 au Large au jet\u00e9 1026 7 1026 8 Temp\u00e9rature de l eau 15 4 16 3",
+      "cleaned_content": "Date Ann\u00e9e Mois Jour 22 1902 Avril Heure 9h Matin 3h Soir Hauteur Barom\u00e9trique 760 7 759 3 Directionduvent N Est N Est Force 1 1 Humidit\u00e9 Reg O Clue L\u00e9g\u00e8re N\u00e9bulosit\u00e9 10 10 Directiondesnuages Sud Ouest Pluietomb\u00e9e Temp\u00e9raturedel air 15 3 16 6 Hauteurdelamer 40 1 46 5 Temp\u00e9raturedel air Agitationdel eau 0 0 Densit\u00e9 del eauauboutdujet\u00e9 au Largeaujet\u00e9 1026 7 1026 8 Temp\u00e9raturedel eau 15 4 16 3",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "178",
+      "raw_content": "Date 23 Avril 1902 9h Matin 19h Soir Hauteur Barom\u00e9trique 799 3 Direction du vent cr v o Force 2 Foibles N\u00e9bulosit\u00e9 Reg 6 terre 10 Reg L mer 10 Direction des nuages cr v o Pluie tomb\u00e9e 4 62 mm Temp\u00e9rature de l air 15 2 C Hauteur de la mer 40 8 m Agitation de l eau 1 Densit\u00e9 de l eau \u00e0 l entr\u00e9e 1026 4 kg m\u00b3 au Largage Temp\u00e9rature de l eau 14 4 C",
+      "cleaned_content": "Date 23 Avril 1902 9h Matin 19h Soir Hauteur Barom\u00e9trique 799 3 Directionduventcrv o Force 2 Foibles N\u00e9bulosit\u00e9 Reg 6 terre 10 Reg L mer 10 Directiondesnuagescrv o Pluietomb\u00e9e 4 62 mm Temp\u00e9raturedel air 15 2 C Hauteurdelamer 40 8 m Agitationdel eau 1 Densit\u00e9 del eau \u00e0 lentr\u00e9e 1026 4 kgm\u00b3 au Largage Temp\u00e9raturedel eau 14 4 C",
+      "entities": {
+        "dates": [
+          "23 Avril 1902"
+        ]
+      }
+    },
+    {
+      "page_number": "179",
+      "raw_content": "Date 24 Avril 1902 Heures 9h Matin 3h Soir Hauteur Barom\u00e9trique 759 3 761 7 Direction du vent cr cr N N O Force 6 1 faib N\u00e9bulosit\u00e9 10 10 Reg 6 Terre Reg E mer 10 10 Direction des nuages cr N O cr N O Pluie tomb\u00e9e 13 0 quelques g Temp\u00e9rature de l air 14 8 13 9 Hauteur de la mer 40 2 50 0 Agitation de l eau 3 3 fort au bout de la jet\u00e9e 1026 7 1027 6 Densit\u00e9 de l eau au Large Temp\u00e9rature de l eau 14 0 14 3",
+      "cleaned_content": "Date 24 Avril 1902 Heures 9h Matin 3h Soir Hauteur Barom\u00e9trique 759 3 761 7 Directionduventcrcr N N O Force 6 1 faib N\u00e9bulosit\u00e9 10 10 Reg 6 Terre Reg E mer 10 10 Directiondesnuagescr N O cr N O Pluietomb\u00e9e 13 0 quelquesg Temp\u00e9raturedel air 14 8 13 9 Hauteurdelamer 40 2 50 0 Agitationdel eau 3 3 fortauboutdelajet\u00e9e 1026 7 1027 6 Densit\u00e9 del eauau Large Temp\u00e9raturedel eau 14 0 14 3",
+      "entities": {
+        "dates": [
+          "24 Avril 1902"
+        ]
+      }
+    },
+    {
+      "page_number": "180",
+      "raw_content": "Date 2 Avril 1902 Heure 9 sup e sup Matin 3 sup e sup Soir Hauteur Barom\u00e9trique 762 4 Direction du vent S S E Force 2 N\u00e9bulosit\u00e9 Ciel clair 10 degr\u00e9s Direction des nuages Sud Pluie tomb\u00e9e quelques g Temp\u00e9rature de l air 16 0 Hauteur de la mer 43 2 Agitation de l eau Fort Densit\u00e9 de l eau 1 027 2 au bout de la jet\u00e9e au large Temp\u00e9ature de l eau 14 f",
+      "cleaned_content": "Date 2 Avril 1902 Heure 9 supe sup Matin 3 supe sup Soir Hauteur Barom\u00e9trique 762 4 Directionduvent S S E Force 2 N\u00e9bulosit\u00e9 Cielclair 10 degr\u00e9s Directiondesnuages Sud Pluietomb\u00e9equelquesg Temp\u00e9raturedel air 16 0 Hauteurdelamer 43 2 Agitationdel eau Fort Densit\u00e9 del eau 1 027 2 auboutdelajet\u00e9eaularge Temp\u00e9aturedel eau 14 f",
+      "entities": {
+        "dates": [
+          "2 Avril 1902"
+        ]
+      }
+    },
+    {
+      "page_number": "181",
+      "raw_content": "Date 26 Avril 1902 Heures 9h Matin 15h Soir Hauteur Barom\u00e9trique 772 7 Direction du vent S S E Force 2 Nebulosit\u00e9 Reg O pleine 2 Reg E m\u00eale 2 Direction des nuages Ouest Pluie tomb\u00e9e Temp\u00e9rature de l air 18 6 Haut de la mer 341 1 Agitation de l eau 1 Densit\u00e9 de l eau 1 0 Temp\u00e9rature de l eau 14 3 au bout de la jet\u00e9e 10 28 6 au large",
+      "cleaned_content": "Date 26 Avril 1902 Heures 9h Matin 15h Soir Hauteur Barom\u00e9trique 772 7 Directionduvent S S E Force 2 Nebulosit\u00e9 Reg O pleine 2 Reg E m\u00eale 2 Directiondesnuages Ouest Pluietomb\u00e9e Temp\u00e9raturedel air 18 6 Hautdelamer 341 1 Agitationdel eau 1 Densit\u00e9 del eau 1 0 Temp\u00e9raturedel eau 14 3 auboutdelajet\u00e9e 10 28 6 aularge",
+      "entities": {
+        "dates": [
+          "26 Avril 1902"
+        ]
+      }
+    },
+    {
+      "page_number": "182",
+      "raw_content": "Date 28 Avril 1902 Heure 9h Matin 3h Soir Hauteur Barom\u00e9trique 772 2 Direction du vent cr 8 Force 1 1 N\u00e9bulosit\u00e9 Reg O clair 10 Reg E mar 10 Direction des nuages Ouest Pluie tomb\u00e9e quelques g Temp\u00e9rature de l air 17 1 Hauteur de la mer 29 3 Agitation de l eau 1 Densit\u00e9 de l eau au bout de la jet\u00e9e 1029 7 10 3 au Large Temp\u00e9rature de l eau 17 4",
+      "cleaned_content": "Date 28 Avril 1902 Heure 9h Matin 3h Soir Hauteur Barom\u00e9trique 772 2 Directionduventcr 8 Force 1 1 N\u00e9bulosit\u00e9 Reg O clair 10 Reg E mar 10 Directiondesnuages Ouest Pluietomb\u00e9equelquesg Temp\u00e9raturedel air 17 1 Hauteurdelamer 29 3 Agitationdel eau 1 Densit\u00e9 del eauauboutdelajet\u00e9e 1029 7 10 3 au Large Temp\u00e9raturedel eau 17 4",
+      "entities": {
+        "dates": [
+          "28 Avril 1902"
+        ]
+      }
+    },
+    {
+      "page_number": "183",
+      "raw_content": "Date 30 Avril 1902 Hauteur Barom\u00e9trique 761 4 Direction du vent E cr o Force 6 N\u00e9bulosit\u00e9 Reg O loin 0 Reg E mar 0 Direction des nuages Pluie tomb\u00e9e quelques g temp\u00e9rature de l air 14 6 Hauteur de la mer 49 0 Agitation de l eau aum du jet\u00e9e 102\u00b2 \u2088 au Large Temp\u00e9rature de l eau 14 6",
+      "cleaned_content": "Date 30 Avril 1902 Hauteur Barom\u00e9trique 761 4 Directionduvent E cro Force 6 N\u00e9bulosit\u00e9 Reg O loin 0 Reg E mar 0 Directiondesnuages Pluietomb\u00e9equelquesg temp\u00e9raturedel air 14 6 Hauteurdelamer 49 0 Agitationdel eauaumdujet\u00e9e 102\u00b2 \u2088 au Large Temp\u00e9raturedel eau 14 6",
+      "entities": {
+        "dates": [
+          "30 Avril 1902"
+        ]
+      }
+    },
+    {
+      "page_number": "184",
+      "raw_content": "Date 1er Mai 1902 Heure 9h Matin 3h Soir Haut Barom\u00e9trique 762 6 Dir du vent cr cr cr cr Force 5 Je N\u00e9bulo Reg O terre milf Reg E mer L\u00e9g\u00e8re Dir des ourag cr cr cr cr Pluie tomb\u00e9e Temp\u00e9rature de l air 14 4 Haut de la mer 1026 1 Densit\u00e9 de l eau au bout de la jet\u00e9e au Large 70 6 Agitation de l eau 3 Temp\u00e9rature de l eau 14 1",
+      "cleaned_content": "Date 1er Mai 1902 Heure 9h Matin 3h Soir Haut Barom\u00e9trique 762 6 Dirduventcrcrcrcr Force 5 Je N\u00e9bulo Reg O terremilf Reg E mer L\u00e9g\u00e8re Dirdesouragcrcrcrcr Pluietomb\u00e9e Temp\u00e9raturedel air 14 4 Hautdelamer 1026 1 Densit\u00e9 del eauauboutdelajet\u00e9eau Large 70 6 Agitationdel eau 3 Temp\u00e9raturedel eau 14 1",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "185",
+      "raw_content": "9h Matin 3h Soir Hauteur Barom\u00e9trique 759 7 m 759 0 m Direction du vent cr cr o cr cr o Force 2 3 R\u00e9bulosit\u00e9 Reg O Clair 10 10 Reg E Mer 10 10 Direction des images cr cr o cr cr o Pluie tomb\u00e9e quelques g Temp\u00e9rature de l air 13 4 C 16 5 C Hauteur de la mer 16 6 m 16 9 m Agitation de l eau 1 T Foil bout sel 1 T Foil bout sel au Large 1027 7 m 1027 5 m Visit\u00e9 de l eau au Large Temp\u00e9rature de l eau 14 1 C 14 3 C",
+      "cleaned_content": "9h Matin 3h Soir Hauteur Barom\u00e9trique 759 7 m 759 0 m Directionduventcrcro crcro Force 2 3 R\u00e9bulosit\u00e9 Reg O Clair 10 10 Reg E Mer 10 10 Directiondesimagescrcro crcro Pluietomb\u00e9equelquesg Temp\u00e9raturedel air 13 4 C 16 5 C Hauteurdelamer 16 6 m 16 9 m Agitationdel eau 1 T Foilboutsel 1 T Foilboutselau Large 1027 7 m 1027 5 m Visit\u00e9 del eauau Large Temp\u00e9raturedel eau 14 1 C 14 3 C",
+      "entities": {
+        "dates": [
+          "7 m 1027"
+        ]
+      }
+    },
+    {
+      "page_number": "186",
+      "raw_content": "Date 11 Mai 1902 Mesure 9h Matin 15h Soir Hauteur Barom\u00e9trique 762 8 762 5 Direction du vent N S S E Force 2 1 fort N\u00e9bulosit\u00e9 O terre 0 10 N\u00e9bulosit\u00e9 1 mer 1 10 Direction des nuages cr cr 0 cr cr 0 Pluie Tomb\u00e9e quelques g Temp\u00e9rature de l air 14 4 16 7 Hauteur de la mer 62 2 58 7 Agitation de l eau 1 fort 1 T fort Densit\u00e9 de l eau au bout de la jet\u00e9e au Large Densit\u00e9 de l eau 1027 7 1027 6 Temp\u00e9rature de l eau 14 5 14 5",
+      "cleaned_content": "Date 11 Mai 1902 Mesure 9h Matin 15h Soir Hauteur Barom\u00e9trique 762 8 762 5 Directionduvent N S S E Force 2 1 fort N\u00e9bulosit\u00e9 O terre 0 10 N\u00e9bulosit\u00e9 1 mer 1 10 Directiondesnuagescrcr 0 crcr 0 Pluie Tomb\u00e9equelquesg Temp\u00e9raturedel air 14 4 16 7 Hauteurdelamer 62 2 58 7 Agitationdel eau 1 fort 1 T fort Densit\u00e9 del eauauboutdelajet\u00e9eau Large Densit\u00e9 del eau 1027 7 1027 6 Temp\u00e9raturedel eau 14 5 14 5",
+      "entities": {
+        "dates": [
+          "11 Mai 1902"
+        ]
+      }
+    },
+    {
+      "page_number": "187",
+      "raw_content": "Param\u00e8tre 9h Matin 15h 3h Soir Hauteur Barom\u00e9trique 769 3 764 6 Direction du vent Croissant Sud Sud Est Force 1 fort 1 fort N\u00e9bulosit\u00e9 clart\u00e9 10 10 Nuages message Cruor 0 Cruor 0 Pluie tomb\u00e9e Temp\u00e9rature de l air 16 4 17 7 Hauteur de la mer m \u00e0 bout du jet\u00e9 64 9 br 1027 8 78 1 br 1027 6 Agitation de l eau 1 1 faible Densit\u00e9 de l eau au Large Temp\u00e9rature de l eau 11 2 11 8",
+      "cleaned_content": "Param\u00e8tre 9h Matin 15h 3h Soir Hauteur Barom\u00e9trique 769 3 764 6 Directionduvent Croissant Sud Sud Est Force 1 fort 1 fort N\u00e9bulosit\u00e9 clart\u00e9 10 10 Nuagesmessage Cruor 0 Cruor 0 Pluietomb\u00e9e Temp\u00e9raturedel air 16 4 17 7 Hauteurdelamerm \u00e0 boutdujet\u00e9 64 9 br 1027 8 78 1 br 1027 6 Agitationdel eau 1 1 faible Densit\u00e9 del eauau Large Temp\u00e9raturedel eau 11 2 11 8",
+      "entities": {
+        "dates": [
+          "9 br 1027",
+          "1 br 1027"
+        ]
+      }
+    },
+    {
+      "page_number": "188",
+      "raw_content": "Date 17 Mai 1902 9h Matin 3h Soir Hauteur Barom\u00e9trique Direction du vent Ouest Force 1 N\u00e9bulosit\u00e9 terre Reg O 2 N\u00e9bulosit\u00e9 mer Reg E 3 Direction des nuages er er o Pluie tomb\u00e9e Temp\u00e9rature de l air 2f 3 Hauteur de la mer Agitation de l eau Au bout de la jet\u00e9e faible Au Largue 10 27 8 Densit\u00e9 de l eau Temp\u00e9rature de l eau 17 9 Voici la transcription du registre d observations m\u00e9t\u00e9orologiques respectant la structure tabulaire originale et normalisant les formats",
+      "cleaned_content": "Date 17 Mai 1902 9h Matin 3h Soir Hauteur Barom\u00e9trique Directionduvent Ouest Force 1 N\u00e9bulosit\u00e9 terre Reg O 2 N\u00e9bulosit\u00e9 mer Reg E 3 Directiondesnuageserero Pluietomb\u00e9e Temp\u00e9raturedel air 2f 3 Hauteurdelamer Agitationdel eau Auboutdelajet\u00e9efaible Au Largue 10 27 8 Densit\u00e9 del eau Temp\u00e9raturedel eau 17 9 Voicilatranscriptionduregistred observationsm\u00e9t\u00e9orologiquesrespectantlastructuretabulaireoriginaleetnormalisantlesformats",
+      "entities": {
+        "dates": [
+          "17 Mai 1902"
+        ]
+      }
+    },
+    {
+      "page_number": "189",
+      "raw_content": "Date 20 Mai 1902 Param\u00e8tres 9h Matin 3h Soir Hauteur Barom\u00e9trique 762 6 763 2 Direction du vent cr cr cr cr Force faible 3 N\u00e9bulosit\u00e9 Reg O claire 1 3 1 0 Reg E mer 2 1 0 Direction des nuages er cr er cr Pluie tomb\u00e9e quelques g quelques g Temp\u00e9rature de l air 11 3 13 5 Hauteur de la mer 67 9 63 5 Agitation de l eau faible faible par bout de la jet\u00e9e 10 27 9 10 27 9 Densit\u00e9 de l eau au Large Temp\u00e9rature de l eau 14 0 14 3",
+      "cleaned_content": "Date 20 Mai 1902 Param\u00e8tres 9h Matin 3h Soir Hauteur Barom\u00e9trique 762 6 763 2 Directionduventcrcrcrcr Forcefaible 3 N\u00e9bulosit\u00e9 Reg O claire 1 3 1 0 Reg E mer 2 1 0 Directiondesnuagesercrercr Pluietomb\u00e9equelquesg quelquesg Temp\u00e9raturedel air 11 3 13 5 Hauteurdelamer 67 9 63 5 Agitationdel eaufaiblefaibleparboutdelajet\u00e9e 10 27 9 10 27 9 Densit\u00e9 del eauau Large Temp\u00e9raturedel eau 14 0 14 3",
+      "entities": {
+        "dates": [
+          "20 Mai 1902"
+        ]
+      }
+    },
+    {
+      "page_number": "190",
+      "raw_content": "Date 21 Mai 1902 Horaires 9H Matin 21H Soir Hauteur Barom\u00e9trique 764 6 765 6 Direction du vent cr cr o cr cr o Force 3 fort 1 l\u00e9ger T\u00e9bulosit\u00e9 cl Reg 6 0 l\u00e9ger c Direction des nuages mer Reg Eg cr cr o cr cr o Pluie tomb\u00e9e Temp\u00e9rature de l air 13 4 12 9 Hauteur de la mer 63 4 61 9 Agitation de l eau 2 3 faible Densit\u00e9 de l eau pour boutde la jet\u00e9e au large 1028 6 1028 0 Temp\u00e9rature de l eau 14 2 14 3",
+      "cleaned_content": "Date 21 Mai 1902 Horaires 9H Matin 21H Soir Hauteur Barom\u00e9trique 764 6 765 6 Directionduventcrcro crcro Force 3 fort 1 l\u00e9ger T\u00e9bulosit\u00e9 cl Reg 6 0 l\u00e9gerc Directiondesnuagesmer Reg Egcrcro crcro Pluietomb\u00e9e Temp\u00e9raturedel air 13 4 12 9 Hauteurdelamer 63 4 61 9 Agitationdel eau 2 3 faible Densit\u00e9 del eaupourboutdelajet\u00e9eaularge 1028 6 1028 0 Temp\u00e9raturedel eau 14 2 14 3",
+      "entities": {
+        "dates": [
+          "21 Mai 1902"
+        ]
+      }
+    },
+    {
+      "page_number": "191",
+      "raw_content": "Date 22 Mai 1902 Mesures 9H Matin 3H Soir Hauteur Barom\u00e9trique mmHg 769 6 769 3 Direction du vent cr or 0 cr or 0 Force du vent 5 4 N\u00e9bulosit\u00e9 Reg 0 Terre 1 2 N\u00e9bulosit\u00e9 Reg E Mer 0 2 Direction des nuages cr or 0 cr or 0 Pluie tomb\u00e9e Temp\u00e9rature de l air C 13 4 16 4 Hauteur de la mer m 7 0 7 4 Agitation de l eau 3 3 par bout de la jet\u00e9e 1028 2 1028 0 Densit\u00e9 de l eau Temp\u00e9rature de l eau C 13 7 14 9 au large",
+      "cleaned_content": "Date 22 Mai 1902 Mesures 9H Matin 3H Soir Hauteur Barom\u00e9triquemmHg 769 6 769 3 Directionduventcror 0 cror 0 Forceduvent 5 4 N\u00e9bulosit\u00e9 Reg 0 Terre 1 2 N\u00e9bulosit\u00e9 Reg E Mer 0 2 Directiondesnuagescror 0 cror 0 Pluietomb\u00e9e Temp\u00e9raturedel air C 13 4 16 4 Hauteurdelamerm 7 0 7 4 Agitationdel eau 3 3 parboutdelajet\u00e9e 1028 2 1028 0 Densit\u00e9 del eau Temp\u00e9raturedel eau C 13 7 14 9 aularge",
+      "entities": {
+        "dates": [
+          "22 Mai 1902"
+        ]
+      }
+    },
+    {
+      "page_number": "192",
+      "raw_content": "Date 23 Mai 1902 9\u1d49 Matin 3\u1d49 Soir Hauteur Barom\u00e9trique 765 3 7 9 Direction du vent cr cr o cr cr o Force 3 2 fort N\u00e9bulosit\u00e9 Reg O terre 10 1028 4 Reg E mer 10 Direction des nuages Pluie tomb\u00e9e quelque g Temp\u00e9rature de l air 11 2 Hauteur de la mer Agitation de l eau au bout de la jet ai Densit\u00e9 de l eau au Large Temp\u00e9rature de l eau 13 9 REMARQUE Les symboles cr cr o peuvent \u00eatre interpr\u00e9t\u00e9s comme clairs clairs orages ou d autres acronymes m\u00e9t\u00e9orologiques Les valeurs num\u00e9riques sont normalis\u00e9es avec un point d\u00e9cimal en format x x",
+      "cleaned_content": "Date 23 Mai 1902 9\u1d49 Matin 3\u1d49 Soir Hauteur Barom\u00e9trique 765 3 7 9 Directionduventcrcro crcro Force 3 2 fort N\u00e9bulosit\u00e9 Reg O terre 10 1028 4 Reg E mer 10 Directiondesnuages Pluietomb\u00e9equelqueg Temp\u00e9raturedel air 11 2 Hauteurdelamer Agitationdel eauauboutdelajetai Densit\u00e9 del eauau Large Temp\u00e9raturedel eau 13 9 REMARQUE Lessymbolescrcro peuvent \u00eatreinterpr\u00e9t\u00e9scommeclairsclairsoragesoud autresacronymesm\u00e9t\u00e9orologiques Lesvaleursnum\u00e9riquessontnormalis\u00e9esavecunpointd\u00e9cimalenformatx x",
+      "entities": {
+        "dates": [
+          "23 Mai 1902"
+        ]
+      }
+    },
+    {
+      "page_number": "193",
+      "raw_content": "Date 1902 05 24 Heure 9 h Matin 3 h Soir Haut Barom 770 2 Dir du vent O N O Force 15 4 Faible N\u00e9bulosit\u00e9 R\u00e9g O Clair R\u00e9g E Mers 0 Dir des nuages cr cr Pluie tomb\u00e9e 0 Temp\u00e9rature de l air 20 7 C Haut de la mer 7 6 Agitation de l eau Jusqu au bout de la jet\u00e9e 3 1028 4 Densit\u00e9 de l eau Au large Temp\u00e9rature de l eau 14 7 C",
+      "cleaned_content": "Date 1902 05 24 Heure 9 h Matin 3 h Soir Haut Barom 770 2 Dirduvent O N O Force 15 4 Faible N\u00e9bulosit\u00e9 R\u00e9g O Clair R\u00e9g E Mers 0 Dirdesnuagescrcr Pluietomb\u00e9e 0 Temp\u00e9raturedel air 20 7 C Hautdelamer 7 6 Agitationdel eau Jusquauboutdelajet\u00e9e 3 1028 4 Densit\u00e9 del eau Aularge Temp\u00e9raturedel eau 14 7 C",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "194",
+      "raw_content": "Date 26 Mai 1902 Heure 9H Matin 3 sup e sup Soir Hauteur Barom\u00e9trique 768 2 766 8 Direction du vent environ O environ Force 3 fort 2 fort N\u00e9bulosit\u00e9 Ouest l\u00e9g\u00e8re l\u00e9g\u00e8re N\u00e9bulosit\u00e9 Est mer l\u00e9g\u00e8re l\u00e9g\u00e8re Direction des nuages environ nord Pluie tomb\u00e9e Temp\u00e9rature de l air 21 7 23 9 Hauteur de la mer 68 9 Agitation de l eau bout de la jet\u00e9e 1 fort 2 Densit\u00e9 de l eau au Large 1027 9 1027 9 Temp\u00e9rature de l eau 19 8 16 4",
+      "cleaned_content": "Date 26 Mai 1902 Heure 9H Matin 3 supe sup Soir Hauteur Barom\u00e9trique 768 2 766 8 Directionduventenviron O environ Force 3 fort 2 fort N\u00e9bulosit\u00e9 Ouestl\u00e9g\u00e8rel\u00e9g\u00e8re N\u00e9bulosit\u00e9 Estmerl\u00e9g\u00e8rel\u00e9g\u00e8re Directiondesnuagesenvironnord Pluietomb\u00e9e Temp\u00e9raturedel air 21 7 23 9 Hauteurdelamer 68 9 Agitationdel eauboutdelajet\u00e9e 1 fort 2 Densit\u00e9 del eauau Large 1027 9 1027 9 Temp\u00e9raturedel eau 19 8 16 4",
+      "entities": {
+        "dates": [
+          "26 Mai 1902"
+        ]
+      }
+    },
+    {
+      "page_number": "195",
+      "raw_content": "Date 27 Mai 1902 Param\u00e8tres 9 H Matin 3 H Soir Hauteur Barom\u00e9trique 769 4 764 4 Direction du vent E S O S S E Force 2 faible 1 fort N\u00e9bulosit\u00e9 Reg O l\u00e8vre 0 0 N\u00e9bulosit\u00e9 Reg E mer 0 0 Direction des nuages cr cr 0 Pluie tomb\u00e9e Temp\u00e9rature de l air 21 4 24 0 Hauteur de la mer 76 1 62 9 Agitation de l eau 1 T faible 1 T faible Densit\u00e9 de l eau ancre bout de la jet\u00e9e 10 10 Densit\u00e9 de l eau au Large Temp\u00e9rature de l eau 16 7 18 6",
+      "cleaned_content": "Date 27 Mai 1902 Param\u00e8tres 9 H Matin 3 H Soir Hauteur Barom\u00e9trique 769 4 764 4 Directionduvent E S O S S E Force 2 faible 1 fort N\u00e9bulosit\u00e9 Reg O l\u00e8vre 0 0 N\u00e9bulosit\u00e9 Reg E mer 0 0 Directiondesnuagescrcr 0 Pluietomb\u00e9e Temp\u00e9raturedel air 21 4 24 0 Hauteurdelamer 76 1 62 9 Agitationdel eau 1 T faible 1 T faible Densit\u00e9 del eauancreboutdelajet\u00e9e 10 10 Densit\u00e9 del eauau Large Temp\u00e9raturedel eau 16 7 18 6",
+      "entities": {
+        "dates": [
+          "27 Mai 1902"
+        ]
+      }
+    },
+    {
+      "page_number": "196",
+      "raw_content": "plaintext",
+      "cleaned_content": "plaintext",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "197",
+      "raw_content": "Date Heure Temp\u00e9rature C Pression atmosph\u00e9rique mm Hg Direction du vent Force du vent Pr\u00e9cipitations mm Remarques",
+      "cleaned_content": "Date Heure Temp\u00e9rature C Pressionatmosph\u00e9riquemm Hg Directionduvent Forceduvent Pr\u00e9cipitationsmm Remarques",
+      "entities": {
+        "dates": []
+      }
+    }
+  ],
+  "metadata": {
+    "years": [
+      "1901",
+      "1902"
+    ],
+    "book_name": "08_OOB_03_meteo"
+  }
+}

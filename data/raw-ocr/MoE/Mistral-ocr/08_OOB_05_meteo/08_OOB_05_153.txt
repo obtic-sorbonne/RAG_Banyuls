@@ -1,0 +1,25 @@
+|  9. 28 Septembre - 1905 | Mbatin | Soir  |
+| --- | --- | --- |
+|  Hauteur Monométrique | 767.4 |   |
+|  Direction du vent | 2st |   |
+|  Force | 1,5 faible |   |
+|  Mébulosite (Rig. O. (en) | 10 |   |
+|  Direction des nuages | 10 |   |
+|  Plein Tombé |  |   |
+|  Température de l'air | 21.7 |   |
+|  Hauteur de la mer | 43.5 |   |
+|  Égitation de l'eau | 2 |   |
+|  Densité au bout de la jetée | 1027.8 |   |
+|  Température de l'eau | 19.7 |   |
+|  9. 24 Septembre - 1906 | Mbatin | Soir  |
+|  Hauteur Monométrique | 767.4 |   |
+|  Direction du vent | 2000 | 764.7  |
+|  Force | 1 | 15.8  |
+|  Mébulosite (Rig. O. (en)) | 10 légum | 10 légum  |
+|  Direction des nuages | 10 légum | 10 légum  |
+|  Plein Tombé |  |   |
+|  Température de l'air | 19.3 | 28.1  |
+|  Hauteur de la mer | 45.3 | 44.2  |
+|  Égitation de l'eau | 2 | 2 fort  |
+|  Densité au bout de la jetée | 1028.0 | 1027.8  |
+|  Température de l'eau | 20.0 | 20.2  |

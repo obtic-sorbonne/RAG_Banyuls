@@ -1,0 +1,30 @@
+| Date | Matin | Soir |
+|------|-------|------|
+| V. 25 juillet 1905 |   |    |
+| Hauteur Barométrique | 769.8 | 764.6 |
+| Direction du vent | N.O. | SUD |
+| Force | 5 | 4 |
+| Rég. o (Taux) | 0 | 0 |
+| Nuébulosité | / |    |
+| Rég. n° (mm) | 0 | 0 |
+| Direction des nuages | N.O. | N.O. |
+| Pluie Tombée | " | " |
+| Température de l'air | 25.9 | 30.2 |
+| Hauteur de la mer | 14.2 | 47./ |
+| Agitation de l'eau | 3 fort | 3 |
+| Densité au bout de la jetée | 1026.8 | 1026.6 |
+| Température de l'eau | 24.2 | 24./ |
+| V. 26 juillet 1905 |   |    |
+| Hauteur Barométrique | 769.1 | 769.8 |
+| Direction du vent | N.E. | S.S.E. |
+| Force | 5 | 2 fort. |
+| Rég. a (Taux) | 0 | 0 |
+| Nuébulosité | / |    |
+| Rég. n° (mm) | 0 | 0 |
+| Direction des nuages | " | " |
+| Pluie Tombée | " | " |
+| Température de l'air | 26.4 | 31.+ |
+| Hauteur de la mer | 13.9 | 44.0 |
+| Agitation de l'eau | 1 faible | 2 |
+| Densité au bout de la jetée | 1026.1 | 1026.1 |
+| Température de l'eau | 25.2 | 24.2 |

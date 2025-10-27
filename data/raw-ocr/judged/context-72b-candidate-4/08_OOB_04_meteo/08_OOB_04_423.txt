@@ -1,0 +1,30 @@
+```plaintext
+| V. 11 Septembre - 1904 | Matin | Soir |
+|------------------------|-------|------|
+| Hauteur Barométrique   | 767.7 | —    |
+| Direction du vent      | S.O.  | —    |
+| Force                  | 1     | —    |
+| Nébulosité Reg. O. (terre) | légèrement | — |
+| Reg. E. (mer)          | légèrement | — |
+| Direction des nuages   | S.O.  | —    |
+| Pluie tombée           | "     | —    |
+| Température de l'air   | 23.4° | —    |
+| Hauteur de la mer      | 44.4  | —    |
+| Agitation de l'eau     | 1 faible | —  |
+| Densité au bout de la jetée | 1027.2 | —  |
+| Température de l'eau   | 22.3  | —    |
+| V. 12 Septembre - 1904 | Matin | Soir |
+|------------------------|-------|------|
+| Hauteur Barométrique   | 766.6 | —    |
+| Direction du vent      | S.S.E.| —    |
+| Force                  | 1     | Forte |
+| Nébulosité Reg. O. (terre) | — | —  |
+| Reg. E. (mer)          | — | —  |
+| Direction des nuages   | S.S.  | —    |
+| Pluie tombée           | "     | —    |
+| Température de l'air   | 24.2  | —    |
+| Hauteur de la mer      | 40.7  | —    |
+| Agitation de l'eau     | —     | —    |
+| Densité au bout de la jetée | 1027.6 | —  |
+| Température de l'eau   | 21.3  | —    |
+```

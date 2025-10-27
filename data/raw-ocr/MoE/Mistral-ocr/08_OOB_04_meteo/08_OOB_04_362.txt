@@ -1,0 +1,31 @@
+# 18 Avril 1902
+
+|  Name | Position  |
+| --- | --- |
+|  Kanteur Praxometrique | 2/7.8  |
+|  Direction Su vent | or.0  |
+|  Force | 4  |
+|  Pécbulosité | Reg. 0. (Tare)  |
+|  Direction Ses nuage | reg. 0. (Tare)  |
+|  Pluie tombée | Reg. 2. (mer)  |
+|  Température de l'air | 16.7  |
+|  Kanteur de la mer | 37.1  |
+|  Aciditation de l'eau | 1 fort  |
+|  Densité au bout de la jetée | 1029.0  |
+|  Température de l'eau | 14.2  |
+
+# 19 Avril 1902
+
+|  Name | Position  |
+| --- | --- |
+|  Kanteur Praxometrique | 2/7.7  |
+|  Direction Su vent | or.0  |
+|  Force | 3 fort  |
+|  Pécbulosité | Reg. 0. (Tare)  |
+|  Direction Ses nuage | 10  |
+|  Pluie tombée | 2.87  |
+|  Température de l'air | 16.8  |
+|  Kanteur de la mer | 3  |
+|  Aciditation de l'eau | 1 fort  |
+|  Densité au bout de la jetée | 5  |
+|  Température de l'eau | 14.4  |

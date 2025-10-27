@@ -1,0 +1,27 @@
+|  7. 29 Juillet - 1905 | Mboatin | Joir  |
+| --- | --- | --- |
+|  Hauteur Marométrique | 766,0 | 767,0  |
+|  Direction du vent | v.v. | v.v.  |
+|  Force | 3 | 3  |
+|  Niebulovite |  |   |
+|  (Reg. x. (mm)) |  |   |
+|  Direction des nuages |  |   |
+|  Flux tombé |  |   |
+|  Température de l'air | 26,1 | 31,4  |
+|  Hauteur de la mer | 70,7 | 47,8  |
+|  Crystallien de l'eau | 2 fort | 3  |
+|  Densité au bout de la jeté | 1,26,0 | 1,27,8  |
+|  Température de l'eau | 24,7 | 27,0  |
+|  7. 31 Juillet - 1905 | Mboatin | Joir  |
+|  Hauteur Marométrique | 767,4 | 767,0  |
+|  Direction du vent |  | 7,8,8  |
+|  Force |  | 1  |
+|  Niebulovite |  |   |
+|  (Reg. x. (mm)) |  |   |
+|  Direction des nuages |  |   |
+|  Flux tombé |  |   |
+|  Température de l'air | 29,7 | 30,3  |
+|  Hauteur de la mer | 43,7 | 47,8  |
+|  Crystallien de l'eau | 1,27,8 | 1,27,8  |
+|  Densité au bout de la jeté | 1,27,8 | 1,27,8  |
+|  Température de l'eau | 26,3 | 27,1  |

@@ -1,0 +1,21 @@
+# Date - 13 Janvier - 1901
+
+| **Heure** | **9e Matin** | **3e Soir** |
+| --- | --- | --- |
+| **Hauteur Barométrique** | 709,0 | 709,0 |
+| **Direction du vent** | Ouest | Ouest |
+| **Force du vent** | 1,8, facile | 1,8, facile |
+| **Nébulosité** | 0 | 0 |
+| **Rég. E. (terre)** | 1 | 1 |
+| **Rég. E. (mer)** | N.E. | N.E. |
+| **Direction des nuages** | 6, 8 | 6, 8 |
+| **Pluie tombée** | 18,1 | 18,1 |
+| **Température de l'air** | 13,5 | 13,5 |
+| **Hauteur de la mer** | 18,1 | 18,1 |
+| **Agitation de l'eau** | 3, facile | 3, facile |
+| **Densité de l'eau** | 1023,4 | 1023,4 |
+| **Température de l'eau** | 9,9 | 9,9 |
+
+Densité de l'eau:
+- au bout de la jetée: 1023,4
+- au large: 1023,4

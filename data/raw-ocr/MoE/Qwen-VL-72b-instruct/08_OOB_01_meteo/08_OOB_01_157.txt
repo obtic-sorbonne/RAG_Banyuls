@@ -1,0 +1,13 @@
+| **Indicateur**                          | **Valeur**             |
+|----------------------------------------|------------------------|
+| Hauteur Barométrique                   | 760.7                 |
+| Direction du vent                      | Nord                  |
+| Force du vent                          | 2 Fort                |
+| Nébulosité                            | 10                     |
+| Direction des nuages                   | Nord                  |
+| Pluie tombée                           | -                      |
+| Température de l'air                   | 15.2                  |
+| Hauteur de la mer                      | 03.1                  |
+| Agitation de l'eau                     | 1 Fort                 |
+| Densité de l'eau                       | 1029.0                |
+| Température de l'eau                   | 12.8                  |

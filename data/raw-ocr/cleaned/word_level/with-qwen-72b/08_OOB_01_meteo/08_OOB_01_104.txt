@@ -1,0 +1,1 @@
+9h Matin 3h Soir Hauteur Barométrique 760 6 760 9 Direction du vent Nord Nord Force Beaufort 2 1 Nébulosité Est 9 10 Nébulosité Sud Est 0 10 Direction des nuages Ouest Ouest Pluie tombée mm 1 925 Température de l air C 14 2 14 2 Hauteur de la mer m 34 3 46 9 Agitation de l eau 1 fort 1 Densité de l eau 1 029 0 1 029 0 Température de l eau C 17 1 17 4

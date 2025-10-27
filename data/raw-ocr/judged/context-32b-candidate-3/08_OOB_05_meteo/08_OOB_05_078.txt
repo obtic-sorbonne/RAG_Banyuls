@@ -1,0 +1,28 @@
+```
+| Date                  | Matin                              | Soir                             |
+|-----------------------|------------------------------------|----------------------------------|
+| **10 Février 1906**   | Hauteur Barométrique: 760.3       |                                  |
+|                       | Direction du vent: cr.cr.o         |                                  |
+|                       | Force: is                          |                                  |
+|                       | Nébulosité (Reg. o. (claire)): 3   |                                  |
+|                       | Nébulosité (Reg. E. (mer)): 1      |                                  |
+|                       | Direction des nuages: Nord         |                                  |
+|                       | Pluie tombée: quelques g           |                                  |
+|                       | Température de l'air: 6.8          |                                  |
+|                       | Hauteur de la mer: ?               |                                  |
+|                       | Agitation de l'eau: 3              |                                  |
+|                       | Densité au bout de la jetée: ?     |                                  |
+|                       | Température de l'eau: ?            |                                  |
+| **12 Février 1906**   | Hauteur Barométrique: 748.7       | 71.8                             |
+|                       | Direction du vent: cr.cr.o         | cr.cr.o                          |
+|                       | Force: is                          | 3                                |
+|                       | Nébulosité (Reg. o. (claire)): 1   | 1                                |
+|                       | Nébulosité (Reg. E. (mer)):        | légère                           |
+|                       | Direction des nuages: Ouest        | légère                           |
+|                       | Pluie tombée: quelques g           | "                                |
+|                       | Température de l'air: 9.0          | 9.0                              |
+|                       | Hauteur de la mer: S               | 46.6                             |
+|                       | Agitation de l'eau: 3              | 3 fort.                          |
+|                       | Densité au bout de la jetée: ?     | 1029./                           |
+|                       | Température de l'eau: ?            | 12.8                             |
+```

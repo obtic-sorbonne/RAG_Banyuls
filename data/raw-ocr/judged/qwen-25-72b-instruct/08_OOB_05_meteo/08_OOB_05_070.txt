@@ -1,0 +1,36 @@
+```
+Journal Météorologique du Navire "La Belle Poule"
+Période : 3 au 6 Janvier 1906
+
+| Date       | Matin | Soir  |
+|------------|-------|-------|
+| 3 Janvier 1906 |      |      |
+| Hauteur Barométrique (mm) | 798.6 | 762.3 |
+| Direction du vent | cr.cr.o | crois |
+| Force | 1 | 2 fort. |
+| Nébulosité (Reg. O. Terre) | 10 (couvert) | 10 (couvert) |
+| Nébulosité (Reg. E. Mer) | 10 (couvert) | 10 (couvert) |
+| Direction des nuages | cr.cr.o | cr. g |
+| Pluie tombée (mm) | 83.2 | quelques gouttes |
+| Température de l'air (°C) | 3 | 5 |
+| Hauteur de la mer (m) | 6 | 4 |
+| Agitation de l'eau (code) | 2 | 2 |
+| Densité au bout de la jetée (g/cm³) | 3 | 3 |
+| Température de l'eau (°C) | 3 | 3 |
+
+| 6 Janvier 1906 | Matin | Soir  |
+| Hauteur Barométrique (mm) | 769.1 | 764.3 |
+| Direction du vent | cr.cr.o | cr.cr.o |
+| Force | 1 | 0 |
+| Nébulosité (Reg. O. Terre) | 10 (couvert) | 10 (couvert) |
+| Nébulosité (Reg. E. Mer) | 10 (couvert) | 10 (couvert) |
+| Direction des nuages | cr.o | G.cr.o |
+| Pluie tombée (mm) | - | - |
+| Température de l'air (°C) | 10.7 | 12.2 |
+| Hauteur de la mer (m) | 44.0 | 40.0 |
+| Agitation de l'eau (code) | 1 T. faible | 2 |
+| Densité au bout de la jetée (g/cm³) | 1028.8 | 1028.0 |
+| Température de l'eau (°C) | 13.0 | 13.0 |
+
+Note Marginale : Aucune remarque particulière pour ces dates.
+```

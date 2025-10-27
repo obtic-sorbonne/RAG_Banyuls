@@ -1,0 +1,6 @@
+```plaintext
+| Date | Matin | Soir |
+| --- | --- | --- |
+| 31 mai 1905 | Hauteur Barométrique: 767.8<br>Direction du vent: cr.cr.o<br>Force: 2<br>Nébulosité (Reg. 0. (terre)): légèrement<br>(Reg. 6 (mer)): légèrement<br>Direction des nuages: cr.cr.o<br>Pluie tombée: ||<br>Température de l'air: 22.0<br>Hauteur de la mer: 14.1<br>Agitation de l'eau: 1<br>Densité au bout de la jetée: 1027.8<br>Température de l'eau: 18.8 | |
+| 2 juin 1905 | Hauteur Barométrique: 768.3<br>Direction du vent: cr.cr.o<br>Force: 2<br>Nébulosité (Reg. 0. (terre)): légèrement<br>(Reg. 6 (mer)): légèrement<br>Direction des nuages: cr.cr.o<br>Pluie tombée: ||<br>Température de l'air: 23.2<br>Hauteur de la mer: 12.6<br>Agitation de l'eau: fort<br>Densité au bout de la jetée: 1028.0<br>Température de l'eau: 18.5 | Hauteur Barométrique: 766.1<br>Direction du vent: cr.cr.o<br>Force: 1 fort<br>Nébulosité (Reg. 0. (terre)): légèrement<br>(Reg. 6 (mer)): légèrement<br>Direction des nuages: cr.cr.o<br>Pluie tombée: ||<br>Température de l'air: 28.8<br>Hauteur de la mer: 14.0<br>Agitation de l'eau: fort<br>Densité au bout de la jetée: 1027.7<br>Température de l'eau: 20.0 |
+```

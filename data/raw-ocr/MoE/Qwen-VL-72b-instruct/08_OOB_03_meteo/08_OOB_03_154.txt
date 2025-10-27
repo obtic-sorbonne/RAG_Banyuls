@@ -1,0 +1,17 @@
+|  DATE: 23 MARS 1902 |
+|---|
+|  | **9h Matin** | **3h Soir** |
+| Hauteur Barométrique | 762.3 | 762.2 |
+| Direction du vent |  | NW |
+| Force | 0 | 3 forts |
+| Nebulosité (Reg. Golfe) | 10 | 10 |
+| (Reg. E., mer) |  |  |
+| Direction des nuages | NW | NW |
+| Pluie tombée |  |  |
+| Température de l'air | 14.6 | 17.4 |
+| Hauteur de la mer | 64.9 | 76.8 |
+| Agitation de l'eau | faible | forte |
+| Vitesse de l'eau | 10.28.1 | 10.28.2 |
+| (au bout de la jetée) |  |  |
+| (au Large) |  |  |
+| Température de l'eau | 12.2 | 13.1 |

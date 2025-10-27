@@ -1,0 +1,43 @@
+| **OBSERVATIONS DU 19**   | **J. Ferris** | **9 Juin** |
+| --- | --- | --- |
+| Nombre de bateaux sortis (pêche à l.| | |  | 
+| Température de l'air | }maxima depuis la veille | | |  
+|  | }minima | | |  
+| Température de l'eau | }maxima depuis la veille | | |  
+|  | }minima | | |  
+| Pluie tombée depuis la veille, en millim. | | |  
+| Évaporation depuis le 190......., en millim. | | |  
+| **à 9 h. m.** | **à 3 h. s.** |
+| --- | --- | --- |
+| Direction du vent (à terre) | N.N.O | |  |
+| Force | H | |  |
+| Direction des nuages | | |  |
+| Nébulosité | }région Ouest (terre) | 0 |  |
+|  | }id. Est (mer) | |  |
+| Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.) | 11.6 | 11.2 |  
+| Agitation de l'eau | 2 | 2 |  
+| Densité de l'eau au bout de la jetée | 10.29.00 | 8.7 |  
+| Température | | |  |
+
+---
+
+| **OBSERVATIONS DU 19**   | **J. Ferris** | **9 Juin** |
+| --- | --- | --- |
+| Nombre de bateaux sortis (pêche à l.) | | |  
+| Température de l'air | }maxima depuis la veille | | |  
+| | }minima | | |  
+| Température de l'eau | }maxima depuis la veille | | |  
+| | }minima | | |  
+| Pluie tombée depuis la veille, en millim. | | |  
+| Évaporation depuis le 190......., en millim. | | |  
+| **à 9 h. m.** | **à 3 h. s.** |
+| --- | --- | --- |
+| Direction du vent (à terre) | | N.C.E | S.S.E |  
+| Force | 1jaible | 1just |   
+| Direction des nuages | | }0 | }0 |  
+| Nébulosité | | }région Ouest (terre) | |  
+| | | }id. Est (mer) | |  
+| Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.) | 49.7 | 49.2 |  
+| Agitation de l'eau | 2 | 2 |  
+| Densité de l'eau au bout de la jetée | 10.29.0 | 10.28.9 |  
+| Température | 9.1 | 9.0 |  

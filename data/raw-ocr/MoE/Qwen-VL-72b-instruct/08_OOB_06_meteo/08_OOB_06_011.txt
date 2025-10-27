@@ -1,0 +1,45 @@
+OBSERVATIONS DU 1900 23 Avril
+
+| Nombre de bateaux sortis (pêche à L) |  |
+| --- | --- |
+| Température de l'air | maxima depuis la veille | 19.7 |
+|  | minima id. | 14.0 |
+| Température de l'eau | maxima depuis la veille |  |
+|  | minima id. |  |
+| Pluie tombée depuis la veille, en millim. |  |  |
+| Evaporation depuis le 190 , en millim. |  |  |
+
+|  | à 9 h. m. | à 3 h. s. |
+| --- | --- | --- |
+| Direction du vent (à terre) | N.N.O | N.N.O |
+| Force |  | 4 |
+| Direction des nuages | N.N.O | N.N.O |
+| Nébulosité | région Ouest (terre) | 3 | 4 légère |
+|  | id. Est (mer) | 2 | 2 |
+| Hauteur de la mer, en centimètres, au-dessus du zéro | 32.2 | 20.0 |
+| Agitation de l'eau | 2 fort | 2 |
+| Densité de l'eau au bout de la jetée | 1.028.6 | 1.028.8 |
+| Température id. | 12.7 | 15.5 |
+
+OBSERVATIONS DU 1900 25 Avril
+
+| Nombre de bateaux sortis (pêche à la Traine) | 34 |
+| --- | --- |
+| Température de l'air | maxima depuis la veille | 24.7 |
+|  | minima id. | 9.7 |
+| Température de l'eau | maxima depuis la veille |  |
+|  | minima id. |  |
+| Pluie tombée depuis la veille, en millim. |  |  |
+| Evaporation depuis le 190 , en millim. |  |  |
+
+|  | à 9 h. m. | à 3 h. s. |
+| --- | --- | --- |
+| Direction du vent (à terre) | N.N.O | S.O |
+| Force | 1 | 1 faible |
+| Direction des nuages | N.N.O | N.N.O |
+| Nébulosité | région Ouest (terre) | 10 | 10 |
+|  | id. Est (mer) | 10 | 10 |
+| Hauteur de la mer, en centimètres, au-dessus du zéro | 48.3 | 37.2 |
+| Agitation de l'eau | 1 fort | 1 faible |
+| Densité de l'eau au bout de la jetée | 1.028.2 | 1.028.0 |
+| Température id. | 12.6 | 12.7 |

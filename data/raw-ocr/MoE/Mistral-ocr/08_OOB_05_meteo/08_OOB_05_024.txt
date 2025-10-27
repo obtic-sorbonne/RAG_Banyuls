@@ -1,0 +1,27 @@
+|  V. 24 Avril-1905 | Matin | Jour  |
+| --- | --- | --- |
+|  Hauteur Marométrique | 754.5 | 252.5  |
+|  Direction du vent | court | 2.3  |
+|  Force | 1 fort | 1 fort  |
+|  (Ebulosité) | 10 | 10  |
+|  (Abs. x. (min)) | 10 | 10  |
+|  Direction des nuages | 1.0 | 1.0  |
+|  Flux tombé |  |   |
+|  Température de l'air | 28.8 | 28.8  |
+|  Hauteur de la mer | 48.8 | 58.9  |
+|  Capitation de l'eau | 1 | 1 n.fort  |
+|  Densité au bout de la jetée | 102.1 | 102.2  |
+|  Température de l'eau | 27.1 | 27.1  |
+|  V. 25 Avril-1905 | Matin | Jour  |
+|  Hauteur Marométrique | 750.5 | 274.7  |
+|  Direction du vent | court | 2.0  |
+|  Force | 1 faible | 2  |
+|  (Ebulosité) | 10 | 10  |
+|  (Abs. x. (min)) | 10 | 10  |
+|  Direction des nuages | 1.0 | 1.0  |
+|  Flux tombé | quelques | "  |
+|  Température de l'air | 24.5 | 31.3  |
+|  Hauteur de la mer | 48.1 | 51.4  |
+|  Capitation de l'eau | 1 n.faible | 1 faible  |
+|  Densité au bout de la jetée | 102.4 | 102.5  |
+|  Température de l'eau | 27.4 | 24.1  |

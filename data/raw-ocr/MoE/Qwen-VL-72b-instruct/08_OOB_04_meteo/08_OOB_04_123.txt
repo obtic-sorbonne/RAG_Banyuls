@@ -1,0 +1,31 @@
+| Date       | Matin | Soir |
+|------------|-------|------|
+| V. 19 Août 1902 |
+| Hauteur Barométrique | 764,4 | 762,7 |
+| Direction du vent | crsw | s.s.e |
+| Force | 1 | 3 faible |
+| Nebulosité |
+| Reg. O. (terre) | 10 | 10 |
+| Reg. É. (mer) | 10 | 10 |
+| Direction des images | Sud | Ouest |
+| Pluie tombée | — | — |
+| Température de l'air | 22,8 | 26,0 |
+| Hauteur de la mer | 12,4 | 48,8 |
+| Agitation de l'eau | 1 T faible | 2 T faible |
+| Densité au bout de la jetée | 1026,7 | 1027,0 |
+| Température de l'eau | 21,8 | 21,7 |
+
+| V. 20 Août 1902 |
+| Hauteur Barométrique | 764,2 | 765,2 |
+| Direction du vent | e.r.or. | e.r.or. |
+| Force | 3 | 3 |
+| Nebulosité |
+| Reg. O. (claire) | 0 | 10 |
+| Reg. É. (mer) | 0 | 10 |
+| Direction des images | e.r.or. | e.r.or. |
+| Pluie tombée | — | — |
+| Température de l'air | 22,8 | 26,8 |
+| Hauteur de la mer | 42,9 | 17,1 |
+| Agitation de l'eau | 2 | 2 faible |
+| Densité au bout de la jetée | 1027,2 | 1027,4 |
+| Température de l'eau | 22,3 | 22,3 |

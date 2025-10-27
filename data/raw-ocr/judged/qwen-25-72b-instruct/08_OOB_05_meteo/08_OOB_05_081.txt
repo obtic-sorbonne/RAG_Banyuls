@@ -1,0 +1,36 @@
+```
+Journal Météorologique du Navire "La Belle Poule"
+Période : 20 au 21 Février 1906
+
+| Date       | Matin | Soir  |
+|------------|-------|-------|
+| 20 Février 1906 |      |      |
+| Hauteur Barométrique (mm) | 768.3 | 769.2 |
+| Direction du vent | cr.vrs | cr.vrs |
+| Force | 4 faible | 4 faible |
+| Nébulosité (Reg. O. Terre) | 10 | 10 |
+| Nébulosité (Reg. E. Mer) | W | cr.vrs |
+| Direction des nuages | cr.vrs | " |
+| Pluie tombée (mm) | " | " |
+| Température de l'air (°C) | 7.4 | 12.0 |
+| Hauteur de la mer (m) | 63.1 | 63.0 |
+| Agitation de l'eau (code) | 2 fort. | 2 fort. |
+| Densité au bout de la jetée (g/cm³) | 1029.4 | 1029.4 |
+| Température de l'eau (°C) | 14.0 | 14.0 |
+
+| 21 Février 1906 | Matin | Soir  |
+| Hauteur Barométrique (mm) | 768.3 | 766.0 |
+| Direction du vent | cr.vrs | cr.vrs |
+| Force | 3 | 3 |
+| Nébulosité (Reg. O. Terre) | 10 légèrement c. | 2 légèrement c. |
+| Nébulosité (Reg. E. Mer) | 10 légère | 3 légère |
+| Direction des nuages | cr.vrs | " |
+| Pluie tombée (mm) | " | " |
+| Température de l'air (°C) | 7.4 | 11.6 |
+| Hauteur de la mer (m) | 63.1 | 72.0 |
+| Agitation de l'eau (code) | 2 fort. | 2 fort. |
+| Densité au bout de la jetée (g/cm³) | 1029.4 | 1029.4 |
+| Température de l'eau (°C) | 14.0 | 13.2 |
+
+Note Marginale : Aucune remarque particulière pour ces dates.
+```

@@ -1,0 +1,20 @@
+# Date - 8 Janvier - 1901
+
+|  **9e Matin** | **3e Soir** |
+| --- | --- |
+|  Hauteur Barométrique | 753,7 | 753,2 |
+|  Direction du vent | Nord | Nord |
+|  Force du vent | 1 | 1 |
+|  Nébulosité | 10 | 10 |
+|  Rég. E. (mer) | 10 | 10 |
+|  Direction des nuages | Nord | Nord |
+|  Pluie tombée | 3,150 | 11,0 |
+|  Température de l'air | 4,6 | 5,8 |
+|  Hauteur de la mer | 20 | 20 |
+|  Agitation de l'eau | 2 | 2 |
+|  Densité de l'eau | 1029,3 | 1029,3 |
+|  Température de l'eau | 8,7 | 11,8 |
+
+Densité de l'eau
+- au bout de la jetée: 1029,3
+- au large: 1029,3

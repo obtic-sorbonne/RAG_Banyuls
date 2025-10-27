@@ -1,0 +1,19 @@
+| Date : 27 Octobre 1900 |
+| --- |
+| **Données** | **9\° Matin** | **3\° Soir** |
+| --- | --- | --- |
+| Hauteur Barométrique | 758.7 | 760.2 |
+| Direction du vent | Nord | Nord |
+| Force | 1.T. faible (3) | 3 |
+| Nebulosité | — | |
+| **Reg. 0. (terre)** | légère, couvert | légère, couvert |
+| **Reg. E. (mer)** | — | — |
+| Direction des nuages | Sud | Nord |
+| Pluie tombée | " | " |
+| Température de l'air | 17.2 | 16.5 |
+| Hauteur de la mer | 34.7 | 48.1 |
+| Agitation de l'eau | 1. faible | 3 faible |
+| **au bout de la jetée** | 1028.4 | 1028.4 |
+| Densité de l'eau | — | |
+| **au large** | — | |
+| Température de l'eau | 17.4 | 17.4 |

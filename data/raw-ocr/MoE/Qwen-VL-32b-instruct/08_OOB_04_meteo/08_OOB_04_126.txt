@@ -1,0 +1,28 @@
+|  V. 27 Clorit. 1902 | Moatin | Soir  |
+| --- | --- | --- |
+|  Yantem Praerométrique | 202.4 | 202.2  |
+|  Direction Su vent | 304 | 118  |
+|  Force | 1 fambl. | 1  |
+|  (1) Reg. G. (line) | 10 | 10  |
+|  (1) Reg. E. (mer) | 10 | 10  |
+|  Direction des images | 415 | 415  |
+|  (1) Inci tombée | 34,32 | 34,32  |
+|  (1) Semplirature de l'air | 20.4 | 21.6  |
+|  (1) Yantem de la mer | 44.2 | 33.2  |
+|  (1) Irgitation de l'eau | 1 fort | 2  |
+|  (1) Sensite au bout de la jetée | 1022.2 | 1022.2  |
+|  (1) Semplirature de l'eau | 21.0 | 21.0  |
+|  V. 28 Clorit. 1902 | Moatin | Soir  |
+|  Yantem Praerométrique | 202.3 | 201.0  |
+|  Direction Su vent | 1.1.8 | 1.1.8  |
+|  Force | 2 fort | 3  |
+|  (1) Reg. G. (line) | 10 | 10  |
+|  (1) Semplirature |  |   |
+|  (1) Reg. E. (mer) | 10 | 10  |
+|  (1) Direction des images | 415 | 118  |
+|  (1) Inci tombée |  |   |
+|  (1) Semplirature de l'air | 23.3 | 24.6  |
+|  (1) Yantem de la mer | 46.4 | 34.6  |
+|  (1) Irgitation de l'eau | 1 fort | 2  |
+|  (1) Sensite au bout de la jetée | 1022.6 | 1026.9  |
+|  (1) Semplirature de l'eau | 21.3 | 21.2  |

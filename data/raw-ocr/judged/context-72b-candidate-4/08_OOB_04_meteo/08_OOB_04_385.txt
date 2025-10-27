@@ -1,0 +1,30 @@
+```plaintext
+| **Date**       | **Matin**        | **Soir**         |
+|----------------|------------------|------------------|
+| **V. 11 juin 1904** |
+| Hauteur Barométrique | 758.9          | 759.0           |
+| Direction du vent   | O. 0. (ouest)  | O. 0. (ouest)   |
+| Force              | 1 fort         | 3               |
+| Nébulosité         | Reg. 0 (Clair) | 10              |
+| (Reg. 2. (mer))    | 10             | 10              |
+| Direction des nuages| O. 0. (ouest)  | O. 0. (ouest)   |
+| Pluie tombée       | quelques g     | 7/1.2           |
+| Température de l'air| 16.5           | 15.9            |
+| Hauteur de la mer  | 1 faible        | 1               |
+| Agitation de l'eau | 1 faible        | 1               |
+| Densité au bout de la jetée | 1027.8 | -               |
+| Température de l'eau| 19.8           | 19.8            |
+| **V. 13 juin 1904** |
+| Hauteur Barométrique | 761.0          | -               |
+| Direction du vent   | O. 0. (ouest)  | -               |
+| Force              | 12             | -               |
+| Nébulosité         | Reg. 0 (Clair) | -               |
+| (Reg. 2. (mer))    | 0              | -               |
+| Direction des nuages| O. 0. (ouest)  | -               |
+| Pluie tombée       | 1.25           | -               |
+| Température de l'air| 15.6           | -               |
+| Hauteur de la mer  | 1 faible        | -               |
+| Agitation de l'eau | 1 faible        | -               |
+| Densité au bout de la jetée | 1027.8 | -               |
+| Température de l'eau| 19.8           | -               |
+```

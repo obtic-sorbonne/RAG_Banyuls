@@ -1,0 +1,13 @@
+```
+Le 6ème jour de pluviôse, l'an 1793.
+
+À 6 heures du matin, vent du nord-est, force 3. Mer calme. Latitude observée 45° 00' Nord, longitude estimée 1° 45' Ouest. Cap au sud-ouest. Température de l'air 10° Réaumur. 
+
+À midi, vent toujours du nord-est, force 2. Mer calme. Latitude observée 44° 55' Nord, longitude estimée 1° 50' Ouest. Cap maintenu au sud-ouest. Température de l'air 11° Réaumur. 
+
+À 6 heures du soir, vent du nord-est, force 2. Mer calme. Latitude observée 44° 50' Nord, longitude estimée 1° 55' Ouest. Cap maintenu au sud-ouest. Température de l'air 11° Réaumur. 
+
+Observations : Le ciel est clair, sans nuages. Les marins ont procédé à l'inspection des voiles et des cordages. Tout est en bon état. 
+
+[Note marginale : Le capitaine a ordonné de préparer les canons pour une éventuelle rencontre avec des navires ennemis.]
+```

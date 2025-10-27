@@ -1,0 +1,14 @@
+| Métrique                             | 9H Matin     | 3H Soir      |
+|--------------------------------------|-------------|-------------|
+| Hauteur Barométrique (mmHg)          | 764.4       | 764.7       |
+| Direction du vent                   | N.N.O       | N.N.O       |
+| Force du vent                       | 3           | 2           |
+| Nébulosité                          |             |             |
+|   - Rég. O. (Clair)                 | 10          | 10          |
+|   - Rég. E. (Mer)                   | 10          | N.N.O       |
+| Pluie tombée                        | ---         | quelques gouttes |
+| Température de l'air (°C)           | 22.9        | 24.7        |
+| Hauteur de la mer (m)               | 51.1        | 62.7        |
+| Agitation de l'eau                  | 2 - Fort    | 3           |
+| Densité de l'eau (par boutejkti)     | 1027.4      | 1027.4      |
+| Température de l'eau (°C)           | 20.6        | 20.7        |

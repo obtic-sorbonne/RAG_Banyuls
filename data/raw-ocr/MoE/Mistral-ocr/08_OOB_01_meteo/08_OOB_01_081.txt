@@ -1,0 +1,21 @@
+# Date 18 Octobre - 1900
+
+|  |   |   |
+| --- | --- | --- |
+|  Hauteur barométrique |  | 3h 3.  |
+|  Direction du vent |  | 760,4  |
+|  Force |  | 5  |
+|   |  | 5  |
+|  Nébulosité | (Reg. D) (tome) | 10  |
+|   | (Reg. E) (tome) | 3  |
+|  Direction des nuages |  | 10  |
+|  Pluie-tonsée |  | 10  |
+|  Température de l'air |  | 13,85  |
+|   |  | 17.2  |
+|  Hauteur de la mer |  | 45,5  |
+|  Agitation de l'eau |  | 45,7  |
+|   |  | 5  |
+|   | (un bout à la jeté) | 1025,2  |
+|  Densité de l'eau |  | 1024,2  |
+|  (un large) |  |   |
+|  Température de l'eau |  | 21,5  |

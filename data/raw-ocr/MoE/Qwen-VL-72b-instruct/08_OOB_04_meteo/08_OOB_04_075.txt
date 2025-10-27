@@ -1,0 +1,31 @@
+| Date | Matin | Soir |
+|---|---|---|
+| **V. 26 Mars 1902** |  |  |
+| Hauteur Barométrique | 764.4 |  |
+| Direction du vent | er.or.o |  |
+| Force | 2 |  |
+| Nebulosité |  | légère |
+| - Reg. G. (terre) |  |  |
+| - Reg. E. (mer) |  | légère |
+| Direction des nuages | er.or.o |  |
+| Pluie tombée | — |  |
+| Température de l'air | 17.0 |  |
+| Hauteur de la mer | 69.2 |  |
+| Agitation de l'eau | 2 |  |
+| Densité au bout de la jetée | 1028.1 |  |
+| Température de l'eau | 13.0 |  |
+|  |  |  |
+| **V. 29 Mars 1902** |  |  |
+| Hauteur Barométrique | 766.0 | 764.8 |
+| Direction du vent | er.or.o | er.on |
+| Force | 3 foil | 3 foil |
+| Nebulosité |  |  |
+| - Reg. G. (terre) | 10 légère | 10 |
+| - Reg. E. (mer) | 10 légère | 10 |
+| Direction des nuages | cr.or.o | cr.os |
+| Pluie tombée | quelques g" | — |
+| Température de l'air | 16.9 | 19.9 |
+| Hauteur de la mer | 60.3 | 67.6 |
+| Agitation de l'eau | 2 foil | 2 |
+| Densité au bout de la jetée | 1028.3 | 1028.2 |
+| Température de l'eau | 13.3 | 13.6 |

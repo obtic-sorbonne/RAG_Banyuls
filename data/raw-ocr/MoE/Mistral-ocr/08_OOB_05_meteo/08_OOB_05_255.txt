@@ -1,0 +1,29 @@
+|  V. 8 juin 1907 | Moutin | Soir  |
+| --- | --- | --- |
+|  Hauteur Prazometrique | 764.3 | 762.8  |
+|  Direction du vent | 8.4 | 5.8  |
+|  Force | 1 | 2  |
+|  Nibulonte | 0 | 7  |
+|  Nibulonte | 0 | 0  |
+|  ( Reg. E. (nur) |  |   |
+|  Direction des images |  | 5.0  |
+|  Pline Tombé | 20.7 | 21.3  |
+|  Température de l'air | 12.3 | 10.2  |
+|  Hauteur de la mer | 176.8 | 176.8  |
+|  Cessation de l'eau | 15.8 | 12.0  |
+|  Densité au bout de la jetée |  |   |
+|  Température de l'eau | 18.8 | 19.0  |
+|  V. 10 juin 1907 | Moutin | Soir  |
+|  Hauteur Prazometrique | 764.0 |   |
+|  Direction du vent |  |   |
+|  Force | 1 |   |
+|  Nibulonte | 1 |   |
+|  ( Reg. E. (nur) |  |   |
+|  Direction des images |  |   |
+|  Pline Tombé | 20.7 |   |
+|  Température de l'air | 12.3 |   |
+|  Hauteur de la mer | 176.8 |   |
+|  Cessation de l'eau | 15.8 |   |
+|  Densité au bout de la jetée |  |   |
+|  Température de l'eau | 18.8 |   |
+|  Pessier |  |   |

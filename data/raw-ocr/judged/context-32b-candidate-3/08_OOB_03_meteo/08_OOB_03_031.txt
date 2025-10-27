@@ -1,0 +1,17 @@
+# Date 23 Octobre 1901
+
+|  Item | 9" Matin | 3" Soir  |
+| --- | --- | --- |
+| Hauteur Barométrique | 763,8 | 764,7  |
+| Direction du vent | N.N.O | N.N.O  |
+| Force | 3 | 8  |
+| Nébulosité | 0 | 0  |
+| Reg. O. (terre) | 0 | 0  |
+| Reg. E. (mer) | 0 | 0  |
+| Direction des nuages | N.N.O | N.N.O  |
+| Pluie tombée | 14,3 | 11,3  |
+| Température de l'air | 14,3 | 11,7  |
+| Hauteur de la mer | 23,8 | 23,0  |
+| Densité de l'eau | 1027,6 | 1027,0  |
+|  |  |  |
+| Température de l'eau | 16,9 | 16,9  |

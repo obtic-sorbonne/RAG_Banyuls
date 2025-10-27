@@ -1,0 +1,18 @@
+# Date: 24 Septembre 1900
+
+|  Item | 10e Année | 3e Année  |
+| --- | --- | --- |
+|  Hauteur barométrique | 759,8 | 760,5  |
+|  Direction du vent | S. | N.  |
+|  Force | 5.0 | 1.0  |
+|  Nebulosité | 1.0 | 3.0  |
+|  Rég. E. (m²) | 5 | 0.0  |
+|  Direction des nuages | S. | S.  |
+|  Plein tombée | 0.4 | 0.4  |
+|  Température de l'air | 24.9 | 24.4  |
+|  Hauteur de la mer | 0.55 | 0.46  |
+|  Agitation de l'eau | 1.0 | 3.3  |
+|  Densité de l'eau (au bout de la jetée) | 1026.9 | 1026.9  |
+|  Température de l'eau | 24.2 | 24.5  |
+
+*Désertés.*

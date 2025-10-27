@@ -1,0 +1,16 @@
+# Date: 12 Avril 1901
+
+| Nom | 9" matin | 3" Soir |
+| --- | --- | --- |
+| Hauteur Barométrique | 755,6 | 756,4 |
+| Direction du vent | Nord | Nord |
+| Force | 2 faible | 4 faible |
+| Nébulosité / Rég. O. (terre) | 10 | 10 |
+| Rég. E. (mer) | 10 | 10 |
+| Direction des nuages | 1000 | 1000 |
+| Pluie tombée |  | 1,875 |
+| Température de l'air | 14,0 | 13,7 |
+| Hauteur de la mer | 44,6 | 47,8 |
+| Agitation de l'eau | 1 | 2 faible |
+| Densité de l'eau | 1028,0 | 1027,9 |
+| Température de l'eau | 13,3 | 12,4 |

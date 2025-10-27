@@ -1,0 +1,18 @@
+| **Date** | 26 Avril 1901 |
+|----------|----------------|
+| **Heure** | **9H Matin** | **3H Soir** |
+| **Hauteur Barométrique** | 753.4 | 751.4 |
+| **Direction du vent** | N.N.E. | **"** |
+| **Force du vent** | 1 T. Fort | 0 |
+| **Nébulosité** |
+|   | Reg. G. (Terre) | **"** | 10 |
+|   | Reg. E. (mer) | 0 | 10 |
+| **Direction des nuages** | Sud | Sud |
+| **Pluie tombée** | **"** | 0.725 |
+| **Température de l'air** | 16.3 | 17.7 |
+| **Hauteur de la mer** | 48.7 | 40.2 |
+| **Agitation de l'eau** | 1 faible | 1 faible |
+| **Densité de l'eau** |
+|   | au bout de la jetée | 1026.6 | 1025.8 |
+|   | au large | **"** | **"** |
+| **Température de l'eau** | 14.9 | 15.1 |

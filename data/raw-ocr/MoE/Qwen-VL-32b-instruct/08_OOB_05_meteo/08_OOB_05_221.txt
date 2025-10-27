@@ -1,0 +1,30 @@
+| Numéro de pavés de Gothaux | Date | Matin | Soir |
+|---|---|---|---|
+| V.19 | 9 Mars. 1907 |  |  |
+| Hauteur Barométrique | 768.6 | 769.9 |
+| Direction du vent | er.o | er.or.o |
+| Force | c | 2 |
+| Nebulorité | |  |
+| (Reg. o. Clêre) | 2 | 16 |
+| (Reg. 2. ciêure) | 0 | 18 |
+| Direction des images | er.o | er.o |
+| Pluie tombée | " | " |
+| Température de l'air | 17.0 | 18.4 |
+| Hauteur de la mer | 60.0 | 67.0 |
+| agititation de l'eau | 1 faible | 2 |
+| Densité au bord de la jette | 1029.4 | 1028.9 |
+| Température de l'eau | 12.0 | 12.6 |
+| V.20 | 9 Mars. 1907 |  |  |
+| Hauteur Barométrique | 773.9 | 771.7 |
+| direction du vent | er.o | or.o |
+| Force | 2 | 10 |
+| Nebulorité | |  |
+| (Reg. o. Clêre) | 1 légève 1 légñe | 1 légévere. 1 légère |
+| (Reg. 2. ciêure) | 1 légêtre. 1 légéve | 1.0 |
+| Direction des images | er.o | cr.o |
+| Pluie tombée | " | " |
+| Température de l'air | 17.4 | 18.6 |
+| Hauteur de la mer | 69.4 | 70.6 |
+| agititation de l'eau | 1 fort | 2 faible |
+| Densité au bord de la jette | 1028.8 | 1028.7 |
+| Température de l'eau | 12.3 | 12.6 |

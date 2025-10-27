@@ -1,0 +1,29 @@
+| V. 14 Mars. 1907 | Matin | Soir |
+|-----------------|-------|------|
+| Hauteur Barométrique | 766,3 | 769,0 |
+| Direction du Vent | er.n.o | er.o |
+| Force | 4 fort | 6 fort |
+| Des. 0. (Terre) | 10 | 10 |
+| Nébulosité | Reg. Ti. (nu) | 10 | 10 |
+| Direction des nuages | er.n.o | er.n.o |
+| Pluie tombée | " | " |
+| Température de l'air | 10,0 | 14,3 |
+| Hauteur de la mer | 62,4 | 87,18 |
+| Agitation de l'eau | 3 | 3 |
+| Vitesse au bout de la jetée | 1029,3 | 1029,4 |
+| Température de l'eau | 10,6 | 11,2 |
+
+| V. 15 Mars. 1907 | Matin | Soir |
+|-----------------|-------|------|
+| Hauteur Barométrique | 770,1 | 768,5 |
+| Direction du Vent | er.n.o | er.o |
+| Force | 4 | 2 |
+| Des. 0. (Terre) | 2 | 10 |
+| Nébulosité | Reg. Ti. (nu) | 1 | 10 |
+| Direction des nuages | er.n.o | er.n.o |
+| Pluie tombée | " | " |
+| Température de l'air | 9,8 | 14,0 |
+| Hauteur de la mer | 71,4 | 76,18 |
+| Agitation de l'eau | 3 | 3 |
+| Vitesse au bout de la jetée | 1029,7 | 1029,9 |
+| Température de l'eau | 10,6 | 10,8 |

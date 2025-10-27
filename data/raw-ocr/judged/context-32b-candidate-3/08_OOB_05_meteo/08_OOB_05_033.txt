@@ -1,0 +1,8 @@
+```
+| **Date** | **Heure** | **Haut. Barométrique (mm)** | **Dir. Vent** | **Force du Vent** | **Nébulosité (%)** | **Dir. Nuages** | **Pluie Tombée (mm)** | **Température de l'Air (°C)** | **Hauteur de la Mer (m)** | **Agitation de l'Eau** | **Densité au Bout de la Jetée (kg/m³)** | **Température de l'Eau (°C)** |
+|----------|-----------|-----------------------------|---------------|--------------------|---------------------|-----------------------|-------------------------|------------------------|----------------------|-----------------------|-------------------------------|---------------------------|
+| 15 Septembre 1909 | Matin | 763.9 | S.O. | faible | 10 | S.O. | quelques g | 19.9 | 2.0 | 1/7 faible | 1028.2 | 21.2 |
+| 15 Septembre 1909 | Soir | 763.4 | S.O. | faible | 10 | S.O. | quelques g | 18.4 | 1.8 | 1 faible | 1028.0 | 21.0 |
+| 16 Septembre 1909 | Matin | 766.3 | cr.cr.o. | fort | 10 | S.S.O. | quelques g | 18.4 | 4.0 | 1 fort | 1028.1 | 21.4 |
+| 16 Septembre 1909 | Soir | 769.8 | croix | fort | 10 | S.O. | quelques g | 20.3 | 14.6 | faible | 1028.2 | 21.0 |
+```

@@ -1,0 +1,29 @@
+| **Date**        | **Matin** | **Soir** |
+|------------------|-----------|----------|
+| **V. 2 Xbre 1902**           |            |           |
+| Hauteur Barométrique | 769.0 | 769.0 |
+| Direction du Vent       | Ery.stn. | ery.sant |
+| Force                 | i5 | i5 |
+| Reg. chron.             | /10 | /10 |
+| Nuébulté               | /10 | /10 |
+| Direction des images    | cr.8 | s.0 |
+| Pluie Tombé             | 7.72/p | "/," |
+| Température de l'air       | 14.0 | 14.0 |
+| Hauteur de la mer        | 36.7 | 38.0 |
+| Agitation de l'eau        | 2faible | 2faible |
+| Vitesse au bout de la jété | 1027.6 | 1027.7 |
+| Température de l'eau       | 16.</p> | 16.6 |
+|
+| **V. 3 Xbre 1902**           |            |           |
+| Hauteur barometrique | 792.8 | 797.8 |
+| Direction du vent      | s.o | cr.0 |
+| Force                 | i5 | 6 |
+| Reg. a clero          | /10 | /10 |
+| Nuéblounté            | /10 | /10 |
+| Véctioncesss des images | ouest | cr.0 |
+| Pluie tombé           | "/," | quelques |
+| Température de l'air     | 11.2 | 10.9 |
+| Hauteur de la mer      | 29./p | 30.2 |
+| Agitatiens de l'eau     | i'faible | i'fort |
+| Vitesse au bout de la jétée | 1027.1 | 1027.1 |
+| Température de l'eau     | 17.6 | 17.0 |

@@ -1,0 +1,51 @@
+### Observations du 23 Mars 1964
+
+| **Nombre de bateaux sortis (pêche à la Traine)** | **38** |
+|---|---|
+| **Température de l'air** |  |
+| - maxima depuis la veille | **12.0** |
+| - minima id. | **7.1** |
+| **Température de l'eau** |  |
+| - maxima depuis la veille | [pas renseigné] |
+| - minima id. | [pas renseigné] |
+| **Pluie tombée depuis la veille, en millim.** | **"** |
+| **Evaporation depuis le 190, en millim.** | [pas renseigné] |
+
+| **à 9 h. m.** | **à 3 h. s.** |
+|---|---|
+| **Direction du vent (à terre)** | **Nord** | **S. S. E.** |
+| **Force** | **1 Fort** | **1 T. Faible** |
+| **Direction des nuages** | **N. N. O.** | **N. N. O.** |
+| **Nébulosité** |  |
+| - région Ouest (terre) | **10** | **10** |
+| - id. Est (mer) | **10** | **10** |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.)** | **41.6** | **46.9** |
+| **Agitation de l'eau** | **1 Fort** | **1** |
+| **Densité de l'eau au bout de la jetée** | **1029.2** | **1029.1** |
+| **Température id.** | **11.2** | **11.3** |
+
+### Observations du 24 Mars 1964
+
+| **Nombre de bateaux sortis (pêche à la Traine)** | **38** |
+|---|---|
+| **Température de l'air** |  |
+| - maxima depuis la veille | **14.3** |
+| - minima id. | **9.7** |
+| **Température de l'eau** |  |
+| - maxima depuis la veille | [pas renseigné] |
+| - minima id. | [pas renseigné] |
+| **Pluie tombée depuis la veille, en millim.** | **"** |
+| **Evaporation depuis le 190, en millim.** | [pas renseigné] |
+
+| **à 9 h. m.** | **à 3 h. s.** |
+|---|---|
+| **Direction du vent (à terre)** | **N. N. O.** | **Sud** |
+| **Force** | **1** | **1. Faible** |
+| **Direction des nuages** | **N. N. O.** | **N. N. O.** |
+| **Nébulosité** |  |
+| - région Ouest (terre) | **6 Lig. ct.** | **10** |
+| - id. Est (mer) | **3 Lig. ct.** | **10** |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.)** | **48.0** | **43.0** |
+| **Agitation de l'eau** | **1. Faible** | **1. Faible** |
+| **Densité de l'eau au bout de la jetée** | **1028.6** | **1027.7** |
+| **Température id.** | **11.7** | **12.7** |

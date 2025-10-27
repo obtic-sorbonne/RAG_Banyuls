@@ -1,0 +1,26 @@
+| V. 28 février 1907 | Matin | Soir |
+|-------------------|-------|------|
+| Hauteur Barométrique | 769,8 | 768,0 |
+| Direction du vent | S.S | S.S |
+| Force | 0 | 1 |
+| Nébulosité | 0 (Clère) | 0 |
+| Direction des nuages | " | " |
+| Pluie Tombée | " | " |
+| Température de l'air | 8,0 | 14,7 |
+| Hauteur de la mer | 13,2 | 66,0 |
+| Agitation de l'eau | 2 | 1 fort |
+| Densité au bout de la jetée | 1029,6 | 1029,3 |
+| Température de l'eau | 10,8 | 11,3 |
+| V. 1er Mars 1907 | Matin | Soir |
+|-------------------|-------|------|
+| Hauteur Barométrique | 769,6 | 769,2 |
+| Direction du vent | N.O.S | N.O.S |
+| Force | 2 fort | 1 fort |
+| Nébulosité | 0 (Clère) | 0 |
+| Direction des nuages | N.O.S | N.O.S |
+| Pluie Tombée | " | " |
+| Température de l'air | 10,4 | 13,0 |
+| Hauteur de la mer | 12,7 | 69,0 |
+| Agitation de l'eau | 3 | 3 faible |
+| Densité au bout de la jetée | 1029,6 | 1029,1 |
+| Température de l'eau | 10,9 | 11,3 |

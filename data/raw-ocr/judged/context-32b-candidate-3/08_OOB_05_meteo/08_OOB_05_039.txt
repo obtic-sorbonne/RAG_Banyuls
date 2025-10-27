@@ -1,0 +1,29 @@
+```
+| **Numéro du paire du bateau** | **9.29 Septembre 1905** | **Matin** | **Soir** |
+|---|---|---|---|
+| Hauteur Barométrique | 769.4 | 767.6 |
+| Direction du vent | S.E. | S.E.8 |
+| Force | is | 1 | 1 fort |
+| Nébulosité (Reg. 2° (mer)) | légèrement légère | légère |
+| Direction des nuages | S.O. | S.O. |
+| Pluie tombée | " | " |
+| Température de l'air | 18.8 | 23.4 |
+| Hauteur de la mer | 36.3 | 47.3 |
+| Agitation de l'eau | 2 fort | 2 faible |
+| Densité au bout de la jetée | 1027.9 | 1027.8 |
+| Température de l'eau | 19.6 | 19.8 |
+
+| **Numéro du paire du bateau** | **9.30 Septembre 1905** | **Matin** | **Soir** |
+|---|---|---|---|
+| Hauteur Barométrique | 762.7 | 762.7 |
+| Direction du vent | cr.8 | S.E. |
+| Force | is | 1 | 1 fort |
+| Nébulosité (Reg. 0 (claire)) | légère | légère |
+| Direction des nuages | S.O. | S.O. |
+| Pluie tombée | " | " |
+| Température de l'air | 14.4 | 21.0 |
+| Hauteur de la mer | 36.9 | 31.6 |
+| Agitation de l'eau | 1 fort | 1 |
+| Densité au bout de la jetée | 1028.2 | 1027.9 |
+| Température de l'eau | 19.8 | 20.0 |
+```

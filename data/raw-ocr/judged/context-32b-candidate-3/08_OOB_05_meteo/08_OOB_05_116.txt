@@ -1,0 +1,33 @@
+V. 26 Mai 1906
+
+| V. 26 Mai 1906 | Matin | Soir  |
+|----------------|-------|------|
+| Hauteur Barométrique | 768.8 | 769.2 |
+| Direction du vent | or. 0 | or. 0  |
+| Force | 7 fort | 2 fort  |
+| Nébulosité (Reg. G. Terre) | 10 | 10  |
+| Nébulosité (Reg. E. mer) | 10 | 10  |
+| Direction des nuages | or. 0 | or. 0  |
+| Pluie tombée | quelques gouttes | quelques gouttes  |
+| Température de l'air | 20.4 | 26.7  |
+| Hauteur de la mer | 12.2 | 13.2  |
+| Agitation de l'eau | 16.2 | 1088.5  |
+| Densité au bout de la jetée | 1627.7 | 1627.7  |
+| Température de l'eau | 16.2 | 16.6  |
+
+V. 28 Mai 1906
+
+| V. 28 Mai 1906 | Matin | Soir  |
+|----------------|-------|------|
+| Hauteur Barométrique | 769.2 | 769.2 |
+| Direction du vent | or. 0 | or. 0  |
+| Force | 10.60 | 10.60  |
+| Nébulosité (Reg. G. Terre) | 10 | 10  |
+| Nébulosité (Reg. E. mer) | 10 | 10  |
+| Direction des nuages | or. 0 | or. 0  |
+| Pluie tombée | quelques gouttes | quelques gouttes  |
+| Température de l'air | 20.4 | 26.7  |
+| Hauteur de la mer | 12.2 | 13.2  |
+| Agitation de l'eau | 16.2 | 1088.5  |
+| Densité au bout de la jetée | 1627.7 | 1627.7  |
+| Température de l'eau | 16.2 | 16.6  |

@@ -1,0 +1,26 @@
+| Date         | Heure     | Élément                        | Matin | Soir |
+|--------------|-----------|---------------------------------|-------|------|
+| 2 Septembre 1907 |         | **Hauteur Barométrique**       | 767.8 | 763.7 |
+|              |           | **Direction du Vent**          | Nord   | Sud  |
+|              |           | **Force**                      | Fort    | 1     |
+|              |           | **Nébulosité**                 | 10     | 10    |
+|              |           | (Reg. c. clair)                |         |      |
+|              |           | **Direction des nuages**       | O.-S. | S.-O. |
+|              |           | **Pluie tombée**               | quelques g | quelques g |
+|              |           | **Température de l'air**       | 24.0  | 23.3  |
+|              |           | **Tantôt de la mer**           | 33.7  | 42.3  |
+|              |           | **Agitation de l'eau**         | 1 fort    | 1     |
+|              |           | **Densité au bout de la jetée** | 1027.9 | 1027.9 |
+|              |           | **Température de l'eau**       | 21.7  | 22.3  |
+| 3 Septembre 1907 |         | **Hauteur Barométrique**       | 762.6 | 762.6 |
+|              |           | **Direction du Vent**          | Nord   | Nord  |
+|              |           | **Force**                      | Fort    | 1     |
+|              |           | **Nébulosité**                 | 10     | 10    |
+|              |           | (Reg. clair)                   |         |      |
+|              |           | **Direction des nuages**       | O.-S. | O.-S. |
+|              |           | **Pluie tombée**               | —      | —     |
+|              |           | **Température de l'air**       | 23.6  | 23.6  |
+|              |           | **Tantôt de la mer**           | 43.2  | 43.2  |
+|              |           | **Agitation de l'eau**         | 1 fort    | 1     |
+|              |           | **Densité au bout de la jetée** | 1027.6 | 1027.6 |
+|              |           | **Température de l'eau**       | 21.9  | 21.9  |

@@ -1,0 +1,17 @@
+```
+V- 29 Septembre-1901
+
+|  Nauteur Barométrique | Matin | Soir  |
+| --- | --- | --- |
+|  Direction du vent | 769.3 | 769.0  |
+|  Force | 2.1 | 2.1  |
+|  Nœbutosité | 2.0 | 1.0  |
+|  Reg. D. (mer) | 3.0 | 3.0  |
+|  Direction des nuages | 0.0 | 0.0  |
+|  Unic tombé | 0.0 | 0.0  |
+|  Température de l'air | 19.4 | 19.2  |
+|  Nauteur de la mer | 3 | 3  |
+|  Égitation de l'eau | 1088.0 | 1087.2  |
+|  Sensité au bout de la jolie | 17.7 | 17.7  |
+|  Température de l'eau | 17.7 | 17.7  |
+```

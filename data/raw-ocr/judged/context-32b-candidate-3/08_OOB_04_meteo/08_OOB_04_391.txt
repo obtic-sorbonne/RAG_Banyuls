@@ -1,0 +1,31 @@
+```plaintext
+|  V. 27 Juin - 1904 | Obatin | Soir  |
+| --- | --- | --- |
+|  Hauteur barométrique | 764,7 | 764,2  |
+|  Direction du vent | 200.0 | 200.0  |
+|  Force | 1 fort | 2  |
+|  Obébutosité | 16 | 16  |
+|  (Reg. G. (mer)) |  |   |
+|  Direction des images | 10 | 10  |
+|  Pluie tombée | 20 | 20.0  |
+|  Température de l'air | 2 | 2  |
+|  Hauteur de la mer | 12.2 | 12.8  |
+|  Régulation de l'eau | 1 | 1  |
+|  Densité au bout de la jetée | 1027.2 | 1026.3  |
+|  Température de l'eau | 21.1 | 23.3  |
+
+|  V. 28 Juin - 1904 | Obatin | Soir  |
+| --- | --- | --- |
+|  Hauteur barométrique | 761.0 | 764.9  |
+|  Direction du vent | 20.8 | 20.9  |
+|  Force | 1 fort | 2  |
+|  Obébutosité | 16 | 16  |
+|  (Reg. G. (mer)) |  |   |
+|  Direction des images |  | 10  |
+|  Pluie tombée |  | 20  |
+|  Température de l'air | 23.2 | 27.4  |
+|  Hauteur de la mer | 10.8 | 16.3  |
+|  Régulation de l'eau | 1 fort | 2  |
+|  Densité au bout de la jetée | 1026.1 | 1026.0  |
+|  Température de l'eau | 23.8 | 22.8  |
+```

@@ -1,0 +1,17 @@
+# Data: 8. to Septembre 1900
+
+|  |   |   |
+| --- | --- | --- |
+|  **Fleures:** | 9h. | 3h.  |
+|  **Brutus Baronietique** | 766,3 | 766,0  |
+|  **Direction du vent:** | 0 | M.O.  |
+|  **Force:** | 1 | 2  |
+|  **Nebulosiota** (Reg. B. (fem.)) | 1 | 0  |
+|  **Direction des nuages:** | 0 | 0  |
+|  **Pleie tombée:** | " | "  |
+|  **Température de l'air:** | 23°, 3. | 27°, 2.  |
+|  **Hauteur de la mer:** | 0° 0, 0 | 0° 17  |
+|  **Agitation de l'eau:** | 1 | 2  |
+|  **Densité de l'eau** (au bout de la jetée) | 1006,5 | 1006,5  |
+|  **Température de l'eau:** | 21,7 | 21,7  |
+|  **Fleurus:** |  |   |

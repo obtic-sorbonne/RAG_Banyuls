@@ -1,0 +1,16 @@
+```markdown
+| 9 Octobre - 1906 | Matin | Soir  |
+|------------------|-------|-------|
+| Hauteur Barométrique (mmHg) | 765.1 | 765.5  |
+| Direction du Vent | Ouest | Ouest  |
+| Force du Vent | 1 faible | 1 faible  |
+| Nébulosité (Reg. X Clarté) | 10 | 10  |
+| Rég. c. Clarté (%) | 10 | 10  |
+| Direction des Nuages | Est | Est  |
+| Pluie Tombée | — | —  |
+| Température de l'Air (°C) | 23.1 | 23.7  |
+| Hauteur de la Mer (m) | 44.0 | 46.4  |
+| Agitation de l'Eau | 1 faible | 1 faible  |
+| Densité au bord de la Jetée (kg/m³) | 1028.0 | 1028.3  |
+| Température de l'Eau (°C) | 19.8 | 20.5  |
+```

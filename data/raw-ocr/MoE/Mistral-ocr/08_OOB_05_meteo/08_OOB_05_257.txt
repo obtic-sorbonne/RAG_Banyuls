@@ -1,0 +1,25 @@
+|  V. 13 Juin. 1907 | Mbatin | Poir  |
+| --- | --- | --- |
+|  Hauteur Moxométrique | 764,1 | 761,0  |
+|  Direction du vent | cr.0.0 | cr.0.0  |
+|  Force | 4,10m | 4,10m  |
+|  Mibuliste (Reg. X. cmr) | 10 | 10  |
+|  Direction des nuages | cr.0 | cr.0  |
+|  Plein tombé | 16,1 | 11,1  |
+|  Température de l'air | 11,4 | 19,1  |
+|  Hauteur de la mer | 13,2 | 68,1  |
+|  Ajustation de l'eau | 3 | 3  |
+|  Bensité au bout de la jetée | 1028,1 | 1028,3  |
+|  Température de l'eau | 16,3 | 16,6  |
+|  V. 14 Juin. 1907 | Mbatin | Poir  |
+|  Hauteur Moxométrique | 761,3 | 761,1  |
+|  Direction du vent | cr.0 | cr.0  |
+|  Force | 4 | 6  |
+|  Mibuliste (Reg. X. cmr) | 10 | 10  |
+|  Direction des nuages | cr. 8 | cr.0  |
+|  Plein tombé | 16,8 | 21,4  |
+|  Température de l'air | 11,8 | 68,0  |
+|  Hauteur de la mer | 11,1 | 68,0  |
+|  Ajustation de l'eau | 1028,6 | 1028,0  |
+|  Bensité au bout de la jetée | 16,4 | 16,8  |
+|  Température de l'eau |  |   |

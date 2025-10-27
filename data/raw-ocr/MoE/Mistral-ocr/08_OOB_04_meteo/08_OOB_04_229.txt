@@ -1,0 +1,31 @@
+# 1. 18 9thai. 1903
+
+|  Hantaw | Naramelique | 757.3 | 763.4  |
+| --- | --- | --- | --- |
+|  Direction | su vent | or. or. | 78  |
+|  Force | is | 2 | 1  |
+|  Nebuliste | (Reg. O. (tome) | 10 | 10  |
+|   | (Reg. E. (mer) | 10 | 10  |
+|  Direction | des nuages | or. or. | or. or.  |
+|  Flux | tombé |  |   |
+|  Température | de l'air | 17.6 | 19.0  |
+|  Hauteur | de la mer | 19.8 | 60.4  |
+|  Égritation | de l'eau | 1 | 0  |
+|  Densité | au bout de la jetée | 1086.8 | 1086.7  |
+|  Température | de l'eau | 1/1 | 1/1.8  |
+
+# 2. 19 9thai. 1903
+
+|  Hantaw | Naramelique | 758.3 | 763.4  |
+| --- | --- | --- | --- |
+|  Direction | su vent | 8.78 |   |
+|  Force | is | 1/1 | 1/1.8  |
+|  Nebuliste | (Reg. O. (tome) | 10 | 10  |
+|   | (Reg. E. (mer) |  |   |
+|  Direction | des nuages |  |   |
+|  Flux | tombé |  |   |
+|  Température | de l'air | 17.7 | 19.0  |
+|  Hauteur | de la mer | 1/1.8 |   |
+|  Égritation | de l'eau | 1 | 1  |
+|  Densité | au bout de la jetée | 1087.1 | 1087.1  |
+|  Température | de l'eau | 16.6 | 16.6  |

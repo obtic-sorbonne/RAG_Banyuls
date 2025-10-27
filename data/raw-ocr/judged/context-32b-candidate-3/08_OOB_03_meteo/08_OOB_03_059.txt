@@ -1,0 +1,16 @@
+# Sale. 22 Novembre. 1901
+
+|  | 9th Station | 5th Soir  |
+| --- | --- | --- |
+|  Hauteur Barométrique | 762,7 | 762,2  |
+|  Direction du vent | N.N.O | N.N.O  |
+|  Force | 3, faible | 3, faible  |
+|  Nébulosité { Reg. C. (terre) } | 10 | 10  |
+|  Nébulosité { Reg. E. (mer) } | 10 | 10  |
+|  Direction des nuages | N.N.O | N.N.O  |
+|  Pluie tombée | - | -  |
+|  Température de l'air | 12,4 | 13,4  |
+|  Hauteur de la mer | 40,3 | 30,2  |
+|  Agitation de l'eau | 2, faible | 3, faible  |
+|  Densité de l'eau { au bout de la jetée } | 1028,4 | 1028,4  |
+|  Température de l'eau | 17,0 | 17,0  |

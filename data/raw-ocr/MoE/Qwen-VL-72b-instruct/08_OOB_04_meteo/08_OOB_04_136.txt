@@ -1,0 +1,6 @@
+| Date       | Temps     | Hauteur Barométrique | Direction du vent | Force | Reg. O. (Terre) | Reg. O. (Mer) | Direction des ondes | Pluie tombée | Température de l'air | Hauteur de la mer | Agitation de l'eau | Vitesse au bout de la jetée | Température de l'eau |
+|------------|-----------|---------------------|-------------------|-------|-----------------|---------------|---------------------|-------------|---------------------|------------------|-------------------|--------------------------|---------------------|
+| 19 Septembre 1902 | Matin | 768,4 | er. E. | 1 | 0 | 0 | " | " | 18,7 | 12,2 | 3 fort | 1027,6 | 20,8 |
+| 19 Septembre 1902 | Soir | 767,7 | E. or. E. | Faible | 0 | 0 | " | " | 20,1 | 01,9 | 3 | 1027,3 | 21,4 |
+| 20 Septembre 1902 | Matin | 770,4 | er. E. | Faible | 7 | 0 | " | " | 19,4 | 47,4 | 1 faible | 1027,4 | 21,3 |
+| 20 Septembre 1902 | Soir | 768,8 | S.E. E. | 2 | 0 | 0 | Sud | " | 22,8 | 60,9 | 2 faib | 1027,2 | 21,6 |

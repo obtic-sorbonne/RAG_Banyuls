@@ -1,0 +1,32 @@
+```plaintext
+| Date           | Matin                     | Soir                      |
+|----------------|---------------------------|---------------------------|
+| 10 septembre 1908 |                           |                           |
+| Hauteur Barométrique | 767.2                  | 764.6                     |
+| Direction du vent    | S. S. O.               | S. S. O.                  |
+| Force                | 15                     | 2                         |
+| Clarté               | légère                 | légère                    |
+| Nébulosité           | légère                 | légère                    |
+| (Reg. E. (mer))      | légère                 | légère                    |
+| Direction des nuages | S. S. O.               | S. S. O.                  |
+| Pluie Tombée         |                        |                           |
+| Température de l'air | 23.2                   | 26.1                      |
+| Hauteur de la mer    | 49.8                   | 63.0                      |
+| Agitation de l'eau   | 2 T. fort              | 2 faible                  |
+| Densité au bout de la jetée | 1027.1           | 1027.4                    |
+| Température de l'eau | 21.6                   | 21.7                      |
+| 11 septembre 1908 |                          |                           |
+| Hauteur Barométrique | 799.8                  | 788.4                     |
+| Direction du vent    | S. S. O.               | S. S. O.                  |
+| Force                | 15                     | 2                         |
+| Clarté               | légère                 | légère                    |
+| Nébulosité           | légère                 | 10                        |
+| (Reg. E. (mer))      | légère                 | 10                        |
+| Direction des nuages | S.                     | S. S. O.                  |
+| Pluie Tombée         |                        |                           |
+| Température de l'air | 21.6                   | 23.6                      |
+| Hauteur de la mer    | 43.3                   | 56.3                      |
+| Agitation de l'eau   | 1 T. fort              | 1 T. fort                 |
+| Densité au bout de la jetée | 1027.4           | 1027.4                    |
+| Température de l'eau | 21.6                   | 21.6                      |
+```

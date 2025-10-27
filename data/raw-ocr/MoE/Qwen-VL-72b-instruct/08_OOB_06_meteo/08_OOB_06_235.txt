@@ -1,0 +1,54 @@
+| **OBSERVATIONS DU 1901 28 DÉCEMBRE** |  |
+| --- | --- |
+| Nombre de bateaux sortis (pêche à l.) |  |
+| Température de l'air |  |  |
+| - maxima depuis la veille |  |
+| - minima id. |  |
+| Température de l'eau |  |  |
+| - maxima depuis la veille |  |
+| - minima id. |  |
+| Pluie tombée depuis la veille, en millim. |  |
+| Évaporation depuis le 190, en millim |  |
+| **à 9 h. m.** | **à 3 h. s.** |
+| Direction du vent (à terre) |  |  |
+| Force |  |  |
+| Direction des nuages |  |  |
+| Nébulosité |  |  |
+| - région Ouest (terre) |  |  |
+| - id. Est (mer) |  |  |
+| Hauteur de la mer, en centimètres, au-dessus du zéro |  |  |
+| Agitation de l'eau |  |  |
+| Densité de l'eau au bout de la jetée |  |  |
+| Température id. |  |  |
+| - i.s. Terrasse Matin (Maxima) | 17.0 |  |
+| - id. Minima | 13.0 |  |
+| - id. - Soir - maxima | 19.9 |  |
+| - Minima | 16.0 |  |
+
+| **OBSERVATIONS DU 1901 29 DÉCEMBRE** |  |
+| --- | --- |
+| Nombre de bateaux sortis (pêche à l.) |  |
+| Température de l'air |  |  |
+| - maxima depuis la veille | 17.2 |  |
+| - minima id. | 11.3 |  |
+| Température de l'eau |  |  |
+| - maxima depuis la veille |  |  |
+| - minima id. |  |  |
+| Pluie tombée depuis la veille, en millim. | 11 |  |
+| Évaporation depuis le 190, en millim |  |
+| **à 9 h. m.** | **à 3 h. s.** |
+| Direction du vent (à terre) | N | S.S.E. |
+| Force | 0 | 1 |
+| Direction des nuages | N.O. | Nord |
+| Nébulosité |  |  |
+| - région Ouest (terre) | 10 (légère) | 10 (légère) |
+| - id. Est (mer) | 10 (légère) | 10 (légère) |
+| Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.) | 42.2 | 38.2 |
+| Agitation de l'eau | 1 fort | 1 fort |
+| Densité de l'eau au bout de la jetée | 6027.7 | 6027.6 |
+| Température id. | 13.0 | 13.3 |
+| - i.s. Baliera Soir |  |  |
+| - i.s. Terrasse Matin (Maxima) | 19.8 | 17.2 |
+| - Minima | 10.1 | 28.6 |
+| - i.s. - Soir - Maxima |  | 11.8 |
+| - Minima |  |  | 

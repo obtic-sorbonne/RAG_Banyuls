@@ -1,0 +1,44 @@
+```plaintext
+| OBSERVATIONS DU 1901 1er Mai |
+|----------|----------|----------|
+| Nombre de bateaux sortis (pêche à l...) | Huit |
+| Température de l'air |  |  |
+| - maxima depuis la veille | 19.4 |  |
+| - minima id. | 6.3 |  |
+| Température de l'eau |  |  |
+| - maxima depuis la veille |  |  |
+| - minima id. |  |  |
+| Pluie tombée depuis la veille, en millim. | 1.0 |  |
+| Évaporation depuis le 190 , en millim. |  |  |
+| **Direction du vent (à terre)** | **à 9 h. m.** | **à 3 h. s.** |
+| - Force | n.n.o | n.n.o |
+| Direction des nuages | n.n.o | n.n.o |
+| Nébulosité |  |  |
+| - région Ouest (terre) | 2 | 2 |
+| - id. Est (mer) | 3 | 1 |
+| Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.) | 42.7 | 54.5 |
+| Agitation de l'eau | 3 | 3 |
+| Densité de l'eau au bout de la jetée | 1028.0 | 1028.0 |
+| Température id. | 13.0 | 13.1 |
+
+| OBSERVATIONS DU 1901 2 Mai |
+|----------|----------|----------|
+| Nombre de bateaux sortis (pêche à la gréle) | Sept |
+| Température de l'air |  |  |
+| - maxima depuis la veille | 16.6 |  |
+| - minima id. | 9.4 |  |
+| Température de l'eau |  |  |
+| - maxima depuis la veille |  |  |
+| - minima id. |  |  |
+| Pluie tombée depuis la veille, en millim. | 11.7 |  |
+| Évaporation depuis le 24 avril 1901, en millim. | 42.7 |  |
+| **Direction du vent (à terre)** | **à 9 h. m.** | **à 3 h. s.** |
+| - Force | n.n.o | s.s.o |
+| Direction des nuages |  |  |
+| - région Ouest (terre) | 1 ligne 6 | 10 lignes 2 |
+| - id. Est (mer) | 10 lignes 2 | 10 lignes 4 |
+| Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.) | 40.6 | 52.7 |
+| Agitation de l'eau | 1 | 1 |
+| Densité de l'eau au bout de la jetée | 1027.1 | 1027.9 |
+| Température id. | 13.3 | 13.7 |
+```

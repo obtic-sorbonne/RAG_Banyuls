@@ -1,0 +1,15 @@
+```markdown
+# 14 Mai 1907
+
+| **Date**       | **Heure** | **Hauteur Barométrique** | **Direction du Vent** | **Force** | **Rég. C. (Ciel)** | **Nébulosité (Rég. à. (Mer))** | **Direction des nuages** | **Pluie tombée** | **Température de l'air** | **Température de la mer** | **Agitation de l'eau** | **Densité au bord de la jetée** | **Température de l'eau** |
+|----------------|-----------|--------------------------|-----------------------|-----------|---------------------|--------------------------------|--------------------------|------------------|--------------------------|---------------------------|-----------------------|------------------------------|--------------------------|
+| 14 Mai 1907    | **Matin** | 763.0 mmHg               | Sud-Est               | 3         | 10                  | 10                             | Sud-Ouest                | -                | 18.7 °C                  | +2.8 °C                   | III. fort            | 1097.4 g/cm³                 | 19.0 °C                 |
+| 14 Mai 1907    | **Soir**  | -                        | -                     | -         | -                   | -                              | -                        | -                | -                        | -                         | -                     | -                            | -                       |
+
+# 15 Mai 1907
+
+| **Date**       | **Heure** | **Hauteur Barométrique** | **Direction du Vent** | **Force** | **Rég. C. (Ciel)** | **Nébulosité (Rég. à. (Mer))** | **Direction des nuages** | **Pluie tombée** | **Température de l'air** | **Température de la mer** | **Agitation de l'eau** | **Densité au bord de la jetée** | **Température de l'eau** |
+|----------------|-----------|--------------------------|-----------------------|-----------|---------------------|--------------------------------|--------------------------|------------------|--------------------------|---------------------------|-----------------------|------------------------------|--------------------------|
+| 15 Mai 1907    | **Matin** | 761.3 mmHg               | Sud-Est               | 17 faible | 10 légère           | 10 léger                       | Sud-Ouest                | -                | 18.7 °C                  | +2.8 °C                   | 1 fort               | 1098.7 g/cm³                 | 14.0 °C                 |
+| 15 Mai 1907    | **Soir**  | 760.6 mmHg               | Sud-Est               | 17 faible | 10                  | 10                             | Sud-Ouest                | -                | 20.3 °C                  | +2.8 °C                   | 1 fort               | 1098.4 g/cm³                 | 14.4 °C                 |
+```

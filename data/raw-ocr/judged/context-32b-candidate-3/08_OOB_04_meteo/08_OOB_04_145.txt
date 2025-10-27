@@ -1,0 +1,34 @@
+```plaintext
+# V. 18 Octobre 1902
+
+|  Hauteur Barométrique | Matin | Soir  |
+| --- | --- | --- |
+|  Direction du vent | or.0 | 1.1.8  |
+|  Force | 2 | 1  |
+|  Rég. O. (terre) | 10 | 10  |
+|  Nébulosité |  |  |
+|  Rég. E. (mer) | 10 | 10  |
+|  Direction des nuages | or.0 | or.0.0  |
+|  Pluie tombée |  |  |
+|  Température de l'air | 16.5 | 18.6  |
+|  Hauteur de la mer | 46.1 | 11.1  |
+|  Agitation de l'eau | 2 | 1  |
+|  Densité au bout de la jetée | 1028.9 | 1028.3  |
+|  Température de l'eau | 17.4 | 19.0  |
+
+# V. 20 Octobre 1902
+
+|  Hauteur Barométrique | Matin | Soir  |
+| --- | --- | --- |
+|  Direction du vent | or.8 | 1.1.8  |
+|  Force | 1 | 1  |
+|  Rég. O. (terre) | 8 h/20 m | 10 h/20 m  |
+|  Nébulosité |  |  |
+|  Rég. E. (mer) | 2 | 10 h/20 m  |
+|  Pluie tombée |  | or.0  |
+|  Température de l'air | 16.2 | 19.2  |
+|  Hauteur de la mer | 39.0 | 13.2  |
+|  Agitation de l'eau | 1 | 1  |
+|  Densité au bout de la jetée | 1028.1 | 1028.2  |
+|  Température de l'eau | 17.7 | 19.2  |
+```

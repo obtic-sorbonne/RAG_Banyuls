@@ -1,0 +1,20 @@
+| **Date**        | 6 Mai 1901 |
+|-----------------|-----------|
+| **Heure**       | 9 h Matin | 3 h Soir |
+| **Hauteur Barométrique (mmHg)** | 754.4 | 753.8 |
+| **Direction du vent** | Nord | Nord |
+| **Force du vent (Beaufort)** | 1 | 3 (faible) |
+| **Nébulosité (frac.)** |
+| - Reg. 6 (Tout) | 10 | 10 |
+| - Reg. E. (Mer) | 10 | 10 |
+| **Direction des nuages** | Sud | Nord |
+| **Pluie tombée** | quelques g. | quelques gouttes |
+| **Température de l'air (°C)** | 16.8 | 13.0 |
+| **Hauteur de la mer (m)** | 41.9 | 52.9 |
+| **Agitation de l'eau** |
+| - au bout de la jetée | 2 (fort) | 1 (faible) |
+| - au Large | | |
+| **Densité de l'eau (g/cm³)** |
+| - au bout de la jetée | 1.027.8 | |
+| - au Large | | 1.027.7 |
+| **Température de l'eau (°C)** | 14.3 | 14.4 |

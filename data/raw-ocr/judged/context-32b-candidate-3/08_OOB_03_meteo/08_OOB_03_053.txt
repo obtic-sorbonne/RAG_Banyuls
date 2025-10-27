@@ -1,0 +1,16 @@
+# Date: 16 Novembre 1901
+
+|  | 9th Matin | 3rd Soir  |
+| --- | --- | --- |
+|  Hauteur Barométrique | 750,7 | 749,8  |
+|  Direction du vent | Ouest | Ouest  |
+|  Force | 1, faible | 2, faible  |
+|  Nébulosité { Reg. C. (terre) } | 10 | 10  |
+|  Nébulosité { Reg. E. (mer) } | 10 | 10  |
+|  Direction des nuages | Ouest | Ouest  |
+|  Pluie tombée | 1% | 1%  |
+|  Température de l'air | 11,6 | 11,6  |
+|  Hauteur de la mer | 11,7 | 11,7  |
+|  Agitation de l'eau | 2 | 2  |
+|  Densité de l'eau { au bout de la jetée } | 1027,3 | 1027,5  |
+|  Température de l'eau | 15,3 | 15,3  |

@@ -1,0 +1,53 @@
+### OBSERVATIONS DU 1902 10 Mai
+
+| **Nombre de bateaux sortis (pêche à l.)** | 29.9 |
+| --- | --- |
+| **Température de l'air** |  |
+| - maxima depuis la veille | 29.9 | °C |
+| - minima id. | 16.9 | °C |
+| **Température de l'eau** |  |
+| - maxima depuis la veille |  | °C |
+| - minima id. |  | °C |
+| **Pluie tombée depuis la veille, en millim.** |  | mm |
+| **Evaporation depuis le 1900, en millim.** |  | mm |
+| **Direction du vent (à terre)** | **à 9 h. m.** | **à 3 h. s.** |
+| - Direction | N.N.E. | S.S.E. |
+| - Force | 1 (faible) | 1 |
+| **Direction des nuages** | N.N.O. | N.N.O. |
+| **Nébulosité** |  |
+| - région Ouest (terre) | 10 | 10 |
+| - id. Est (mer) | 10 | 10 |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.)** | 48.0 | 46.1 | cm |
+| **Agitation de l'eau** | 1 (faible) | 1 (faible) |
+| **Densité de l'eau au bout de la jetée** | 1026.1 | 1026.5 |
+| **Température de l'eau au bout de la jetée** |  |
+| - matin (humide) | 20.9 | 29.4 | °C |
+| - matin (Maxima) | 31.0 | 39.8 | °C |
+| - soir (Minima) | 13.7 | 23.0 | °C |
+
+### OBSERVATIONS DU 1902 11 Mai
+
+| **Nombre de bateaux sortis (pêche à l.)** | 32.7 |
+| --- | --- |
+| **Température de l'air** |  |
+| - maxima depuis la veille | 32.7 | °C |
+| - minima id. | 17.9 | °C |
+| **Température de l'eau** |  |
+| - maxima depuis la veille |  | °C |
+| - minima id. |  | °C |
+| **Pluie tombée depuis la veille, en millim.** |  | mm |
+| **Evaporation depuis le 1900, en millim.** |  | mm |
+| **Direction du vent (à terre)** | **à 9 h. m.** | **à 3 h. s.** |
+| - Direction | O.S.E. | S.S.E. |
+| - Force | 1 | 2 |
+| **Direction des nuages** | 11 | 11 |
+| **Nébulosité** |  |
+| - région Ouest (terre) | 0 | 8 légèrement (Mosa) |
+| - id. Est (mer) | 0 | 8 légèrement (Mosa) |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.)** | 44.7 | 41.9 | cm |
+| **Agitation de l'eau** | 2 (faible) | 2 (faible) |
+| **Densité de l'eau au bout de la jetée** | 1024.1 | 1021.4 |
+| **Température de l'eau au bout de la jetée** |  |
+| - matin et soir | 29.4 | 29.9 | °C |
+| - matin (Maxima) | 38.9 | 34.9 | °C |
+| - soir (Minima) | 15.6 | 25.7 | °C |

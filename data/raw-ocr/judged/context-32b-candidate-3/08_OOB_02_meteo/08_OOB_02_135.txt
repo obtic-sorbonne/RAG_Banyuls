@@ -1,0 +1,16 @@
+# Date: 26 Juillet 1901
+
+|  **Position** | **9e Matin** | **3e Soir**  |
+| --- | --- | --- |
+|  Hauteur Barométrique | 763,4 | 762,5  |
+|  Direction du vent | N.N.O | N.N.O  |
+|  Force | 2 | 6  |
+|  Nébulosité / Reg. O. (terre) | 10 | 10  |
+|  Nébulosité / Reg. E. (mer) | 10 | 10  |
+|  Direction des nuages | Ouest | Ouest  |
+|  Pluie tombée | 0 | 0  |
+|  Température de l'air | 30,5 | 30,5  |
+|  Hauteur de la mer | 13,4 | 13,4  |
+|  Agitation de l'eau | 1,4 | 1,4  |
+|  Densité de l'eau | 1027,4 | 1027,4  |
+|  Température de l'eau | 20,5 | 20,5  |

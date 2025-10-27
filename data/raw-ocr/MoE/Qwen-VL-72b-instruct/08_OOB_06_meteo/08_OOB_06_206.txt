@@ -1,0 +1,28 @@
+| **Catégorie**                               | **Observations du 09 octobre** | **Observations du 10 octobre** |
+|--------------------------------------------|-------------------------------|------------------------------|
+| **Nombre de bateaux sortis (pêche à l.)**   | 24.0                          | 39.2                          |
+| **Température de l'air**                   |                               |                              |
+| → maxima depuis la veille                 | 24.0                          | 39.2                          |
+| → minima id.                              | 14.3                          | 11.2                          |
+| **Température de l'eau**                   |                               |                              |
+| → maxima depuis la veille                 |                               |                              |
+| → minima id.                              |                               |                              |
+| **Pluie tombée depuis la veille, en millim.** | 27.0                          |                              |
+| **Evaporation depuis le 190, en millim.**   |                               |                              |
+| **Direction du vent (à terre)**            | S.ʃ.0                         | S.ʃ.0                         |
+| **Force**                                  | 1わずか                      | 1わずか                      |
+| **Direction des nuages**                   | S.ʃ.0                         | S.ʃ.S                         |
+| **Nébulosité**                             |                               |                              |
+| → région Ouest (terre)                     | 60                            | 60                           |
+| → id. Est (mer)                           | 40                            | 60                           |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.)** | 12.1                        | 38.0                         |
+| **Agitation de l'eau**                     | 2                             | 1                             |
+| **Densité de l'eau au bout de la jetée**   | 1021.8                        | 1022.3                       |
+| **Température**                            |                               |                              |
+| → id. matin                               |                               | 18.6                         |
+| → is. Balancs matin                        |                               | 23.9                         |
+| → is. Perramis matin (maxima)              | 29.4                          | 37.2                         |
+| → is. Perramis matin (minima)              | 16.6                          | 19.0                         |
+| → is. BalafTe soir                         |                               |                              |
+| → is. Perramis soir (maxima)               | 33.2                          | 37.2                         |
+| → is. Perramis soir (minima)               | 24.1                          | 27.0                         |

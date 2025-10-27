@@ -1,0 +1,27 @@
+| N. 26 Septembre 1906 | Matin | Soir |
+|----------------------|-------|------|
+| Hauteur Barométrique | 770,7 |      |
+| Direction du vent    | E     |      |
+| Force                | 1 fort|      |
+| Reg. C. (claire)     | 60    |      |
+| Nebulosité           | Reg. N. (nuée) | 40 |
+| Direction des nuages | S.E.  |      |
+| Pluie tombée         | quelques g |    |
+| Température de l'air | 21,6  |      |
+| Hauteur de la mer    | 11,2  |      |
+| Agitation de l'eau   | 2 T. fort |    |
+| Vensité au bout de la jetée | 6028,2 |    |
+| Température de l'eau | 19,8  |      |
+| N. 29 Septembre 1906 | Matin | Soir |
+| Hauteur Barométrique | 769,8 |      |
+| Direction du vent    | S.S. E |      |
+| Force                | 1 fort|      |
+| Reg. C. (claire)     | 14    |      |
+| Nebulosité           | Reg. N. (nuée) | 1 |
+| Direction des nuages | S.E.  |      |
+| Pluie tombée         | "     |      |
+| Température de l'air | 20,3  |      |
+| Hauteur de la mer    | 13,0  |      |
+| Agitation de l'eau   | 2     |      |
+| Vensité au bout de la jetée | 6028,1 |    |
+| Température de l'eau | 19,7  |      |

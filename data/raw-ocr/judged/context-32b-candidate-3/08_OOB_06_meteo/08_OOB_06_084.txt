@@ -1,0 +1,43 @@
+### OBSERVATIONS DU 1960, 9 GREBRE
+
+| **Nombre de bateaux sortis (pêche à l.)** |                                      |                                      |
+| ------------------------------------- | ------------------------------------ | ------------------------------------ |
+| **Température de l'air**              | **maxima depuis la veille**          | **minima id.**                      |
+|                                       | **16.99**                           | **8.77**                            |
+| **Température de l'eau**              | **maxima depuis la veille**          | **minima id.**                      |
+|                                       |                                      |                                      |
+| **Pluie tombée depuis la veille, en millim.** |                                      |                                      |
+| **Evaporation depuis le 1900, en millim.** |                                      |                                      |
+| **Direction du vent (à terre)**       | **à 9 h. m.**                       | **à 3 h. s.**                       |
+| **Force**                             | **N.N.O**                           | **Nord**                            |
+|                                       | **4/5e**                             | **1**                               |
+| **Direction des nuages**              | **N.O**                              | **N.O**                             |
+| **Nébulosité**                        |                                      |                                      |
+| **région Ouest (terre)**              | **10**                              | **10**                              |
+| **id. Est (mer)**                     | **10**                              | **10**                              |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.)** | **84.5**                       | **23.7**                           |
+| **Agitation de l'eau**                 | **1 petite**                        | **1 fort**                          |
+| **Densité de l'eau au bout de la jetée** | **1028.5**                        | **1027.6**                          |
+| **Température id.**                   | **16.7**                            | **16.0**                            |
+
+### OBSERVATIONS DU 1960, 10 GREBRE
+
+| **Nombre de bateaux sortis (pêche à l.)** |                                      |                                      |
+| ------------------------------------- | ------------------------------------ | ------------------------------------ |
+| **Température de l'air**              | **maxima depuis la veille**          | **minima id.**                      |
+|                                       | **16.19**                           | **6.77**                            |
+| **Température de l'eau**              | **maxima depuis la veille**          | **minima id.**                      |
+|                                       |                                      |                                      |
+| **Pluie tombée depuis la veille, en millim.** |                                      |                                      |
+| **Evaporation depuis le 1900, en millim.** |                                      |                                      |
+| **Direction du vent (à terre)**       | **à 9 h. m.**                       | **à 3 h. s.**                       |
+| **Force**                             | **N.N.O**                           | **1/3e**                            |
+|                                       | **6 m/s**                            | **1/2e**                            |
+| **Direction des nuages**              | **S.S.O**                            | **N.O**                             |
+| **Nébulosité**                        |                                      |                                      |
+| **région Ouest (terre)**              | **2**                               | **2**                               |
+| **id. Est (mer)**                     | **2**                               | **2**                               |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.)** | **963.0**                       |                                      |
+| **Agitation de l'eau**                 | **1 petite**                        | **2 forte**                         |
+| **Densité de l'eau au bout de la jetée** | **1029.6**                        |                                      |
+| **Température id.**                   | **14.7**                            |                                      |

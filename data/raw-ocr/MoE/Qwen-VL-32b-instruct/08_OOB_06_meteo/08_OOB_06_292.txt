@@ -1,0 +1,44 @@
+| **Observations du 1902-06-17** |  |
+| --- | --- |
+| **Nombre de bateaux sortis (pêche à l.)** | 29.8 |
+| **Température de l'air** |  |  |
+| maxima depuis la veille | 29.8 |
+| minima id. | 13.9 |
+| **Température de l'eau** |  |  |
+| maxima depuis la veille |  |
+| minima id. |  |
+| **Pluie tombée depuis la veille, en millim.** | 0 |
+| **Evaporation depuis le 190 , en millim.** |  |
+| **Direction du vent (à terre)** | à 9 h. m. | à 3 h. s. |  |
+| Force | 2 | 2 |
+| Direction des nuages | N.O. | S.O. |
+| **Nébulosité** |  |  |
+| région Ouest (terre) | 10 | 10 |
+| id. Est (mer) | 10 | 48.2 |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro** | 2 | 2 |
+| **Agitation de l'eau** | 4036.9 | 17.8 |
+| **Densité de l'eau au bout de la jetée** | 12.8 | |
+| **Température** | **id.** | **Maxima** | **Minima** |
+| - id. Penaré Louis | 33.9 |  |
+| **Observations du 1902-06-22** |  |
+| **Nombre de bateaux sortis (pêche à l.)** | 29.4 |
+| **Température de l'air** |  |  |
+| maxima depuis la veille | 29.4 |
+| minima id. | 13.9 |
+| **Température de l'eau** |  |  |
+| maxima depuis la veille |  |
+| minima id. |  |
+| **Pluie tombée depuis la veille, en millim.** | 0 |
+| **Evaporation depuis le 190 , en millim.** |  |
+| **Direction du vent (à terre)** | à 9 h. m. | à 3 h. s. |  |
+| Force | 3 | 2 |
+| Direction des nuages | S.S.O | S.S.O |
+| **Nébulosité** |  |  |
+| région Ouest (terre) | 4 | 4 |
+| id. Est (mer) | 0 | 0 |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro** | 32.1 | 31.8 |
+| **Agitation de l'eau** | 1 maxi | 1 mini |
+| **Densité de l'eau au bout de la jetée** | 4026.7 | 16.7 |
+| **Température** | **id.** | **Maxima** | **Minima** |
+| - id. Boland Louis | 27.7 | 37.2 |
+| - id. Penaré Louis |  | 6.2 |

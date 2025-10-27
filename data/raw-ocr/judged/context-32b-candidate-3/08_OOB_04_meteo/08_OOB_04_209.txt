@@ -1,0 +1,33 @@
+# 4. 31 Mars. 1903
+
+|  | Matin | Soir |
+| --- | --- | --- |
+| Hauteur Barométrique | 708.2 | 707.9 |
+| Direction du vent | or.0 | or.0 |
+| Force | 4 | 3 fort |
+| Nébulosité (Reg. O. (terre)) | 3 figur | 10 figur |
+| Nébulosité (Reg. E. (mer)) | 1 | 10 figur |
+| Direction des nuages | or.0 | or.0 |
+| Pluie tombée |  |  |
+| Température de l'air | 17.3 | 18.0 |
+| Hauteur de la mer | 17.9 | 71.9 |
+| Agitation de l'eau | 3 fort | 3 fort |
+| Densité au bout de la jetée | 1029.7 | 1028.4 |
+| Température de l'eau | 12.7 | 13.0 |
+
+# 4. 1er Avril. 1903
+
+|  | Matin | Soir |
+| --- | --- | --- |
+| Hauteur Barométrique | 707.6 |  |
+| Direction du vent | or.0 |  |
+| Force | 1 fort |  |
+| Nébulosité (Reg. O. (terre)) | 3 figur |  |
+| Nébulosité (Reg. E. (mer)) | 3 figur |  |
+| Direction des nuages |  |  |
+| Pluie tombée |  |  |
+| Température de l'air | 14.0 |  |
+| Hauteur de la mer | 18.0 |  |
+| Agitation de l'eau | 1 fort |  |
+| Densité au bout de la jetée | 1028.2 |  |
+| Température de l'eau | 13.7 |  |

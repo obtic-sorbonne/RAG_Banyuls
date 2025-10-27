@@ -1,0 +1,32 @@
+# V. 17 (Joir - 1902)
+
+|  Nom | Date  |
+| --- | --- |
+|  Hauteur Marométrique | 204.2  |
+|  Direction du vent | or. or. 3  |
+|  Force | 1 fort  |
+|  Modulusité | (Reg. O. (ture))  |
+|  Direction des nuage | 2nd  |
+|  Mise tombe |   |
+|  Température de l'air | 22.7  |
+|  Hauteur de la mer | 49.0  |
+|  Égitation de l'eau | 1 fort  |
+|  Densité au bout de la jetée | 102.2  |
+|  Température de l'eau | 21.0  |
+
+# V. 18 (Joir - 1902)
+
+|  Nom | Date  |
+| --- | --- |
+|  Hauteur Marométrique | 200.5  |
+|  Direction du vent | 2.8  |
+|  Force | 1  |
+|  Modulusité | (Reg. O. (ture))  |
+|  Débitus |   |
+|  Direction des nuage | 1  |
+|  Mise tombe |   |
+|  Température de l'air | 25.5  |
+|  Hauteur de la mer | 48.1  |
+|  Égitation de l'eau | 17.6  |
+|  Densité au bout de la jetée | 102.4  |
+|  Température de l'eau | 22.4  |

@@ -1,0 +1,17 @@
+# Date. 29 Novembre. 1900.
+
+|   | 3e Britain | 3e Soir  |
+| --- | --- | --- |
+|  Hanteur Pharmacologue | 743,9 | 743,2  |
+|  Direction du vent | Nord | Nord  |
+|  Force | 1 | 4 faille  |
+|  9e Ebulosité | Reg. E. (mer) | 10  |
+|  9e Ebulosité | Reg. E. (mer) | 10  |
+|  Direction des nuages | Nord | Nord  |
+|  9e Heure tombée | 8,7 | 9,2  |
+|  Température de l'air | 88,5 | 11,8  |
+|  Hanteur de la mer | 29,5 | 11,8  |
+|  Agitation de l'eau | 2 faille | 3  |
+|  Sensité de l'eau | au bout de la jetée | 1027,3  |
+|  Sensité de l'eau | au large |   |
+|  Température de l'eau | 12,4 | 10,5  |

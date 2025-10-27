@@ -1,0 +1,33 @@
+```plaintext
+| Date                   | Matin                                   | Soir                                    |
+|------------------------|-----------------------------------------|-----------------------------------------|
+| **9 août 1903**        | **Matin**                               | **Soir**                                |
+| Hauteur Barométrique   | 766.7                                   | 767.5                                   |
+| Direction du Vent      | e.cr. 8                                 | s.s. 8                                  |
+| Force                  | 1 jon                                  | 1 jon                                  |
+| Rég. E. (terre)        | 0                                      | 2                                      |
+| Nébulosité             | 1                                      | 1                                      |
+| Rég. E. (mer)          | 1                                      | 1                                      |
+| Direction des nuages   | e.cr. o                                 | e.cr. o                                 |
+| Pluie tombée           | "                                      | "                                      |
+| Température de l'air   | 24.7                                   | 29.3                                   |
+| Hauteur de la mer      | 98.6                                   | 45.6                                   |
+| Agitation de l'eau     | 1 q.jon                                | 1 q.jon                                |
+| Densité au bout de la jetée | 1027.3                                 | 1027.2                                 |
+| Température de l'eau   | 21.4                                   | 22.3                                   |
+
+| **10 août 1903**       | **Matin**                               | **Soir**                                |
+| Hauteur Barométrique   | 766.7                                   | 767.5                                   |
+| Direction du Vent      | e.cr. o                                 | e.c.0                                   |
+| Force                  | 2 r.jon                                 | 2 jon                                  |
+| Rég. E. (terre)        | 0                                      | 0                                      |
+| Nébulosité             | 0                                      | 0                                      |
+| Rég. E. (mer)          | 0                                      | 0                                      |
+| Direction des nuages   | "                                      | "                                      |
+| Pluie tombée           | "                                      | "                                      |
+| Température de l'air   | 27.0                                   | 30.2                                   |
+| Hauteur de la mer      | 63.6                                   | 80.2                                   |
+| Agitation de l'eau     | 2 rjon                                 | 2 q.ou                                |
+| Densité au bout de la jetée | 1027.3                                 | 1027.6                                 |
+| Température de l'eau   | 21.0                                   | 21.6                                   |
+```

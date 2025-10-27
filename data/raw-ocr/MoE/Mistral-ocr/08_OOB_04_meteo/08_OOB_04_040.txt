@@ -1,0 +1,34 @@
+# 9. 1st Xtre 1901
+
+## Mbeatin
+
+|  Name | Age | Type  |
+| --- | --- | --- |
+|  Yantour Praxometrique | 7/2.2 | 7/1.4  |
+|  Direction du vent | Onent. | 7/1.5  |
+|  Force | 1 | 1 faible  |
+|  Mbebulosité | Reg. 6. (1ère) | 0  |
+|  Direction des nuages | 2 | 0  |
+|  Minc tombée | 8.0 | 8/1  |
+|  Température de l'air | 6.4 | 9.1  |
+|  Yantour de la mer | 27.0 | 44.7  |
+|  Régulation de l'eau | 1 faible | 1 faible  |
+|  Densité au bout de la jetée | 1029.3 | 1029.2  |
+|  Température de l'eau | 13.4 | 13.1  |
+
+## Mbeatin
+
+|  Name | Age | Type  |
+| --- | --- | --- |
+|  Yantour Praxometrique | 7/4.6 | 7/2.1  |
+|  Direction du vent | Onent. | 7/1.0  |
+|  Force | 1 faible | 1 faible  |
+|  Mbebulosité | Reg. 6. (1ère) | 10  |
+|  Direction des nuages | 10 | 10  |
+|  Direction des nuages | 8.6 | 8.2  |
+|  Minc tombée | 82.9 | 43.4  |
+|  Température de l'air | 1 | 1 faible  |
+|  Yantour de la mer | 1029.3 | 1029.2  |
+|  Régulation de l'eau | 13.2 | 13.3  |
+|  Densité au bout de la jetée |  |   |
+|  Température de l'eau |  |   |

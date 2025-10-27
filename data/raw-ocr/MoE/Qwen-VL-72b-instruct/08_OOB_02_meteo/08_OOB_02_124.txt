@@ -1,0 +1,14 @@
+| Date       | 13 Juillet 1901     |
+|------------|--------------------|
+| **Paramètres**                        | **9h Matin**     | **3h Soir**      |
+| Hauteur Barométrique | 764,3         | 763,3           |
+| Direction du vent      | E.S.E.       | Sud             |
+| Force du vent          | 1 (fort)     | 2 (léger)       |
+| Nébulosité             | 10           | 10              |
+| Direction des nuages   | -            | Sud             |
+| Pluie tombée            | -            | -               |
+| Température de l'air   | 23,2         | 27,6            |
+| Hauteur de la mer      | 54,9         | 47,1            |
+| Agitation de l'eau     | 0            | 0               |
+| Densité de l'eau       | 1026,8 (bout de la jetée) | 1026,9 (au large) |
+| Température de l'eau   | 21,6         | 23,4            |

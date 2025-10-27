@@ -1,0 +1,31 @@
+| Date       | Matin           | Soir          |
+|------------|-----------------|---------------|
+| V. 6 Avril 1904 |                |               |
+| Hauteur Barométrique | 768.2 | 766.3 |
+| Direction du vent | S.S. O. | S.S. O. |
+| Force | 1 | 1 |
+| **Nébulosité** |                |               |
+| Reg. O. (Terre) | 10 | 0 |
+| Reg. E. (mer) | 10 | 3 lég. cum. |
+| Direction des nuages | S.O. | " |
+| Pluie tombée | " | " |
+| Température de l'air | 16.4 | 22.0 |
+| Hauteur de la mer | 66.8 | 71.9 |
+| Agitation de l'eau | 1 | 1 faible |
+| Tensité au bout de la jetée | 1029.0 | 1028.7 |
+| Température de l'eau | 13.0 | 13.4 |
+|------------|-----------------|---------------|
+| V. 7 Avril 1904 |                |               |
+| Hauteur Barométrique | 769.8 | " |
+| Direction du vent | O. 8 | " |
+| Force | 1 | 1 |
+| **Nébulosité** |                |               |
+| Reg. O. (Terre) | 10 | " |
+| Reg. E. (mer) | 10 | " |
+| Direction des nuages | E.V. 0 | " |
+| Pluie tombée | " | " |
+| Température de l'air | 16.7 | " |
+| Hauteur de la mer | 68.6 | " |
+| Agitation de l'eau | 1 | " |
+| Tensité au bout de la jetée | 1029.4 | " |
+| Température de l'eau | 12.6 | " |

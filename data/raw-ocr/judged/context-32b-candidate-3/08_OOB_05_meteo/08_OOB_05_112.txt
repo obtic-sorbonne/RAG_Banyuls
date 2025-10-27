@@ -1,0 +1,33 @@
+```
+| V. 17 Mai 1906 | Matin | Soir  |
+|----------------|-------|------|
+| Hauteur Barométrique | 761.2 | 761.8 |
+| Direction du vent | or. 0 | 7.0  |
+| Force | 8 fort | 1 fort  |
+| Nébulosité | 10 | 10  |
+| (Reg. G. Terre) | 10 | 10  |
+| (Reg. E. mer) | 10 | 10  |
+| Direction des nuages | — | —  |
+| Pluie tombée | quelques gouttes | quelques gouttes  |
+| Température de l'air | 13.2 | 13.0  |
+| Hauteur de la mer | 37.1 | 37.0  |
+| Agitation de l'eau | 17 fort | 17 fort  |
+| Densité au bout de la jetée | 1627.1 | 1627.1  |
+| Température de l'eau | 19.0 | 19.9  |
+
+| V. 18 Mai 1906 | Matin | Soir  |
+|----------------|-------|------|
+| Hauteur Barométrique | 762.6 | 763.1 |
+| Direction du vent | or. 0 | or. 0  |
+| Force | 2 | 3  |
+| Nébulosité | 10 | 10  |
+| (Reg. G. Terre) | 10 | 10  |
+| (Reg. E. mer) | 10 | 10  |
+| Direction des nuages | — | —  |
+| Pluie tombée | quelques gouttes | quelques gouttes  |
+| Température de l'air | 13.2 | 10.0  |
+| Hauteur de la mer | 36.2 | 33.1  |
+| Agitation de l'eau | 2 | 1 fort  |
+| Densité au bout de la jetée | 1627.3 | 1627.1  |
+| Température de l'eau | 11.1 | 11.3 |
+```

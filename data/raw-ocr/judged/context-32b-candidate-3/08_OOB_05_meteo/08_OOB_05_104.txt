@@ -1,0 +1,8 @@
+```
+| **Date** | **Heure** | **Observations** |
+|----------|-----------|------------------|
+| V. 19 Avril 1906 | Matin | Hauteur Barométrique : 793.3<br>Direction du Vent : cr. cr. o<br>Force : 1<br>Nébulosité : Res. o (claire)<br>Direction des nuages : Reg. 2e (mer)<br>Pluie tombée : quelques gouttes<br>Température de l'air : 12.6°C<br>Hauteur de la mer : 13.7 m<br>Agitation de l'eau : 1<br>Densité au bout de la jetée : 1027.9 kg/m³<br>Température de l'eau : 16.3°C |
+|          | Soir     |                  |
+| V. 28 Avril 1906 | Matin |                |
+|          | Soir     |                  |
+```

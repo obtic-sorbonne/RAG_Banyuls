@@ -1,0 +1,28 @@
+| V. 19 juin - 1905 | Matin | Soir |
+|---|---|---|
+| Hauteur Barometrique | 763.2 | 764.7 |
+| Direction du vent | cr.cr.o | s.o |
+| Force | is | 1 fort |
+| Nebulosite Reg.o.(terre) | lo | lo |
+| Reg.E.(mer) | lo | lo |
+| Direction des nuages | cvorel | n.cr.o |
+| Pluie Tombée | quelques.g | quelques.g |
+| Température de l'air | 23.0 | 26.1 |
+| Hauteur de la mer | 89.8 | 92.0 |
+| Agitation de l'eau | 1 | faible |
+| Densité au bout de la jetée | 1027.2 | 1027.0 |
+| Température de l'eau | 19.7 | 20.9 |
+| V. 20 juin - 1905 | Matin | Soir |
+|---|---|---|
+| Hauteur Barometrique | 768.1 |  |
+| Direction du vent | cr.cr.o |  |
+| Force | is | 2 fort |
+| Nebulosite Reg.o.(terre) | légèrement c |  |
+| Reg.E.(mer) | légèrement c |  |
+| Direction Ses nuages | cr.cr.o |  |
+| Pluie Tombée | " |  |
+| Température de l'air | 23.1 |  |
+| Hauteur de la mer | 45.7 |  |
+| Agitation de l'eau | 1 |  |
+| Densité au bout de la jetée | 1027.4 |  |
+| Température de l'eau | 19.8 |  |

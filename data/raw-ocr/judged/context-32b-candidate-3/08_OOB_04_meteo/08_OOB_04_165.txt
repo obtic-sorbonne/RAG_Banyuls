@@ -1,0 +1,35 @@
+```plaintext
+# V. 11 X 1902
+
+|  Nom | Matin | Soir  |
+| --- | --- | --- |
+|  Hauteur Barométrique | 759.8 | 762.0  |
+|  Direction du vent | Est | Est  |
+|  Force | 3 | 3  |
+|  Nébulosité (Reg. O. (terre)) | 10 | 10  |
+|  Nébulosité (Reg. E. (mer)) | 10 | 10  |
+|  Direction des nuages | Est | Est  |
+|  Pluie tombée | 0.2 | 0.2  |
+|  Température de l'air | 10.8 | 10.8  |
+|  Hauteur de la mer | 10 | 10  |
+|  Agitation de l'eau | 10 | 10  |
+|  Densité au bout de la jetée | 1029.3 | 1029.6  |
+|  Température de l'eau | 13.7 | 13.7  |
+
+# V. 12 X 1902
+
+|  Nom | Matin | Soir  |
+| --- | --- | --- |
+|  Hauteur Barométrique | 752.6 | 752.6  |
+|  Direction du vent | Est | Est  |
+|  Force | 3 | 3  |
+|  Nébulosité (Reg. O. (terre)) | 10 | 10  |
+|  Nébulosité (Reg. E. (mer)) | 10 | 10  |
+|  Direction des nuages | Est | Est  |
+|  Pluie tombée | 11.2 | 11.2  |
+|  Température de l'air | 11.2 | 11.2  |
+|  Hauteur de la mer | 11.2 | 11.2  |
+|  Agitation de l'eau | 11.2 | 11.2  |
+|  Densité au bout de la jetée | 1027.4 | 1027.4  |
+|  Température de l'eau | 13.0 | 13.0  |
+```

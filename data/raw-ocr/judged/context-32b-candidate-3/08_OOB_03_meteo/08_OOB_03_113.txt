@@ -1,0 +1,17 @@
+# Date 25 Janvier 1902
+
+|  | 9e Matin | 3e Soir  |
+| --- | --- | --- |
+| Hauteur Barométrique | 767,4 | 765,4  |
+| Direction du vent | Ouest | Ouest  |
+| Force | 1 faible | 4 faible  |
+| Nébulosité { Reg. C. (terre) } | 0 | 10  |
+| Nébulosité { Reg. E. (mer) } | 0 | 10  |
+| Direction des nuages | Ouest | Ouest  |
+| Pluie tombée | - | -  |
+| Température de l'air | 9,4 | 10,2  |
+| Hauteur de la mer | 30,1 | 60,2  |
+| Agitation de l'eau | 1 | 3  |
+| Densité de l'eau { au bout de la jetée } | 1028,0 | 1028,7  |
+| Densité de l'eau { au large } | 1028,7 | 1028,7  |
+| Température de l'eau | 11,7 | 11,6  |

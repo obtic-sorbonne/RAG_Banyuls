@@ -1,0 +1,18 @@
+# Date. 19 Novembre-1900.
+
+|  |   |   |
+| --- | --- | --- |
+|  Hanteur Praxometrique | 9" Matin | 3" Soir  |
+|  Direction du vent | 759.9 | 758.6  |
+|  Force | 7010 | 7010  |
+|  |   |   |
+|  9" (Ebulosité) | 3 | 2 part  |
+|  Reg. E. (mur) | 3 | 2 regs. courri  |
+|  Direction des nuages | 3 | 2 regs. courri  |
+|  Ame tombée | 7010 | 7010  |
+|  Température de l'air | 10,2 | 11,1  |
+|  Hanteur de la mer | 42,1 | 43,6  |
+|  Égitation de l'eau | 2 part | 2 part  |
+|  Densité de l'eau | 1029,2 | 1029,8  |
+|  |   |   |
+|  Température de l'eau | 15,9 | 15,2  |

@@ -1,0 +1,20 @@
+# Date - 7 Décembre - 1900
+
+|  **9e Matin** | **3e Soir** | **Prix**  |
+| --- | --- | --- |
+|  Hauteur Barométrique | 750,2 | 750,4  |
+|  Direction du vent | Nord | Nord  |
+|  Force | 1. faible | 1. faible  |
+|  Nébulosité | 6. feyn. couronet | 6. feyn. couronet  |
+|  Rég. E. (mer) | 6. feyn. couronet | 6. feyn. couronet  |
+|  Direction des nuages | Nord | Nord  |
+|  Pluie tombée | 13,4 | 13,8  |
+|  Température de l'air | 8,0 | 13,8  |
+|  Hauteur de la mer | 31,0 | 34,1  |
+|  Agitation de l'eau | 4. faible | 4. faible  |
+|  Densité de l'eau | 1028,5 | 1028,6  |
+|  Température de l'eau | 14,2 | 14,2  |
+
+Densité de l'eau
+- au bout de la jetée: 1028,5
+- au large: 1028,6

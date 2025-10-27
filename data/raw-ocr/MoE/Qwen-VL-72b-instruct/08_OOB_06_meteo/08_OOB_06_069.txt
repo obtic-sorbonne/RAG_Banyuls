@@ -1,0 +1,66 @@
+```
+OBSERVATIONS DU 1900 27 jbre
+
+Nombre de bateaux sortis (pêche à l'.....................
+Température de l'air | maxima depuis la veille.............. 19.0
+                     | minima id........................... 14.3
+Température de l'eau | maxima depuis la veille..............
+                     | minima id...........................
+Pluie tombée depuis la veille, en millim.................... 0
+Evaporation depuis le 1900, en millim.......................
+
+| à 9 h. m. | à 3 h. s. |
+|------------|-----------|
+| S.S.E.     | S.S.E.    |
+| 4 fort     | 4 fort    |
+| S.S.E.     | S.S.E.    |
+| 2          | 0         |
+| 0          | 1         |
+| 49.8       | 51.5      |
+| 1 fort     | 1 fort    |
+| 628.2      | 628.1     |
+| 16.7       | 16.7      |
+
+Direction du vent (à terre).................................
+Force.......................................................
+Direction des nuages.......................................
+Nébulosité | région Ouest (terre)....................... 2
+           | id. Est (mer)............................... 0
+Hauteur de la mer, en centimètres, au-dessus du zéro (O.R.) 49.8 51.5
+Agitation de l'eau........................................ 1 fort 1 fort
+Densité de l'eau au bout de la jetée...................... 628.2 628.1
+Température id............................................ 16.7 16.7
+
+
+OBSERVATIONS DU 1900 28 jbre
+
+Nombre de bateaux sortis (pêche à l'.....................
+Température de l'air | maxima depuis la veille.............. 21.3
+                     | minima id........................... 13.0
+Température de l'eau | maxima depuis la veille..............
+                     | minima id...........................
+Pluie tombée depuis la veille, en millim.................... 0
+Evaporation depuis le 1900, en millim.......................
+
+| à 9 h. m. | à 3 h. s. |
+|------------|-----------|
+| S.O        | S.O       |
+| 1          | 3         |
+| S.O        | S.O       |
+| 10         | 10        |
+| 10         | 10        |
+| 44.6       | 51.5      |
+| 1          | 1 fort    |
+| 627.8      | 628.3     |
+| 16.7       | 16.7      |
+
+Direction du vent (à terre).................................
+Force.......................................................
+Direction des nuages.......................................
+Nébulosité | région Ouest (terre)....................... 10
+           | id. Est (mer)............................... 10
+Hauteur de la mer, en centimètres, au-dessus du zéro (O.R.) 44.6 51.5
+Agitation de l'eau........................................ 1 1 fort
+Densité de l'eau au bout de la jetée...................... 627.8 628.3
+Température id............................................ 16.7 16.7
+```

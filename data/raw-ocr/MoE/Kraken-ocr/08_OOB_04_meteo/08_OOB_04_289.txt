@@ -1,0 +1,74 @@
+1
+8 O tobre 1303
+Matin
+fauteur Barometrique -- 704, 6
+Nm
+direction su vent ---N-exo
+For e ----id----- Ifort
+27
+Reg-O. Ctenre) Léguete
+D
+45
+Nebutenae
+D
+Rleg. E-. Cmer) legisente
+Puection dis mages
+Fluce tombee
+Temperatine de l'ais -
+0
+1
+If.4
+fauteur de la mer- -- 64
+reptation de l'eau
+D
+2
+densité au bont de la fetée - - 1028./
+2
+Temperature de l'eau . 1J.6
+Poix
+22
+eon
+2
+&
+gere
+2
+1
+12,0
+7
+Q
+10286
+18
+fauteur Barometrique - 764, 6
+dircetii du tent - crere
+Forea _---id -
+Mebutonté
+3
+-C. Cterre)
+(e 8
+Reg de-Cier) :
+2
+10
+10
+Dircction dés nagzes -.-. Ccie
+Olnce Tombee
+L-
+1
+Temperatire de l'ai-- 16,f
+Auteunr de la mer
+Agitation de l'eau ~
+448
+densité au bout de la ftié  --102 8.3
+Demperatine de l'aar ~--. 18,0
+PO8
+P -5
+(. 5. 2
+ard
+10
+1e
+Ff.5
+19, 0
+9
+18,6
+Matin
+220
+N D

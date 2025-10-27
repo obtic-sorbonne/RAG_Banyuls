@@ -1,0 +1,21 @@
+# Date 24 Octobre 1901
+
+|  |   |   |
+| --- | --- | --- |
+|  9th Matin, 3rd Jour |  |   |
+|  Hauteur Paromatique | 758,9 | 757,8  |
+|  Direction du vent | N.N.O | N.N.O  |
+|  Force | 3 fort | 3 fort  |
+|  15% | 10% | 0%  |
+|  Rég. G. (terre) | 10% | 0%  |
+|  Débutosité |  |   |
+|  1 Reg. E. (mer) | 10% | 0%  |
+|  Direction des nuages | N.N.O | N.N.O  |
+|  Flux tombé | 14,6 | 14,6  |
+|  Température de l'air | 14,6 | 17,8  |
+|  Hauteur de la mer | 13,8 | 37,7  |
+|  Cylindé | 27 fort | 3  |
+|  10% | 10% | 10%  |
+|  Densité de l'eau | au frang | 10%  |
+|  10% | 15,6 | 15,6  |
+|  Température de l'eau | 15,6 | 15,6  |

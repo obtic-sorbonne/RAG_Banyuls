@@ -1,0 +1,39 @@
+```plaintext
+| OBSERVATIONS DU 19## 1 Avril |
+| --- |
+| **Nombre de bateaux sortis (pêche à l.)** |  |
+| **Température de l'air** | maxima depuis la veille... | 6.2 |
+|  | minima id. | 1.2 |
+| **Température de l'eau** | maxima depuis la veille... |  |
+|  | minima id. |  |
+| **Pluie tombée depuis la veille, en millim.** |  |
+| **Evaporation depuis le 190 , en millim.** |  |
+| **Direction du vent (à terre)** |  | **à 9 h. m.** | **à 3 h. s.** |
+| **Force** |  | 6 |  |
+| **Direction des nuages** |  | N.N.O | N.O |
+| **Nébulosité** | région Ouest (terre) | 10 | 10 |
+|  | id. Est (mer) | 9.8 |  |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.)** | 25.6 | 29.8 |
+| **Agitation de l'eau** | 14 ant. | 19 aat. |
+| **Densité de l'eau au bout de la jetée** | 10 27.8 | 10 28.8 |
+| **Température id.** | 10.6 | 10.4 |
+
+| OBSERVATIONS DU 19## 6 Avril |
+| --- |
+| **Nombre de bateaux sortis (pêche à l.)** |  |
+| **Température de l'air** | maxima depuis la veille... | 7.7 |
+|  | minima id. | 1.0 |
+| **Température de l'eau** | maxima depuis la veille... |  |
+|  | minima id. |  |
+| **Pluie tombée depuis la veille, en millim.** |  |
+| **Evaporation depuis le 190 , en millim.** |  |
+| **Direction du vent (à terre)** |  | **à 9 h. m.** | **à 3 h. s.** |
+| **Force** |  | 3 |  |
+| **Direction des nuages** |  | S.O | S.S.E. |
+| **Nébulosité** | région Ouest (terre) | 10 | 10 |
+|  | id. Est (mer) | 10 | 10 |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.)** | 30.6 | 29.2 |
+| **Agitation de l'eau** | 1 test | 1 test. |
+| **Densité de l'eau au bout de la jetée** | 10 27.8 | 10 28.2 |
+| **Température id.** | 10.7 | 10.2 |
+```

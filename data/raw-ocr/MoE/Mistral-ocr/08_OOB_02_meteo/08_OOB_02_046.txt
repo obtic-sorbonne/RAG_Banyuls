@@ -1,0 +1,18 @@
+# Date. 25 Avril. 1901
+
+|  Nourriture | 9e Matin | 3e Soir  |
+| --- | --- | --- |
+|  Nourriture Prazométrique |  |   |
+|  Direction du vent | 157.3 | 155.3  |
+|  Force | N.E | 150.0  |
+|  Force | 17. fort | 1  |
+|  Nélulosite | Reg. G. (terre) | Reg. G.  |
+|  Nélulosite | Reg. E. (mer) | Reg. E.  |
+|  Direction des nuages |  |   |
+|  Prise tombe |  |   |
+|  Température de l'air | 14.2 | 19.6  |
+|  Nombreur de la mer | 47.7 | 46.9  |
+|  Égitation de l'eau | 2 | 1 fort  |
+|  Densité de l'eau | 1028.3 | 1027.8  |
+|  Densité de l'eau | au frang |   |
+|  Température de l'eau | 13.9 | 14.4  |

@@ -1,0 +1,17 @@
+| Données                      | 9h Matin | 3h Soir |
+|------------------------------|---------|--------|
+| Hauteur Barométrique          | 767,6   | 766,4  |
+| Direction du vent            | Sud     | Sud    |
+| Force                        | Faible  | 2 Fort.|
+| Nebulosité                   |         |        |
+|   - Reg. O. (terre)          | Dégagé et Commune |        |
+|   - Reg. E. (mer)            | Fortement Dégagé E. |        |
+| Direction des nuages         | Sud     | Sud    |
+| Pluie tombée                 | "      | "      |
+| Température de l'air         | 23,7    | 26,9   |
+| Hauteur de la mer            | 62,6    | 63,6   |
+| Agitation de l'eau           | 1/faible | 1 fort.|
+|   - Jambe de la jetée        | 1027,7  | 1027,4 |
+| Densité de l'eau             |         |        |
+|   - Au Largue                |         |        |
+| Température de l'eau         | 20,7    | 19,9   |

@@ -1,0 +1,28 @@
+| V. 24 Septembre -1904 | Matin | Soir |
+|---|---|---|
+| Hauteur Barometrique | 756,6 | 756,6 |
+| Direction du vent | S.S.E | S.S.E |
+| Force is | 2 | 2 |
+| Nébulosité Reg.O.(terre) | 10 | 10 |
+| Reg.E.(mer) | 8 | 8 |
+| Direction des nuages | S.O | S.O |
+| Pluie Tombée | 1,43 | " |
+| Température de l'air | 22,4 | 22,4 |
+| Hauteur de la mer | 31,2 | 31,2 |
+| Agitation de l'eau | 2 | 2 |
+| Versité au bout de la jetée | 1028,0 | 1028,0 |
+| Température de l'eau | 18,3 | 18,3 |
+| V. 25 Septembre -1904 | Matin | Soir |
+|---|---|---|
+| Hauteur Barometrique | 757,3 |  |
+| Direction du vent | E.V.E |  |
+| Force is | T.Faible |  |
+| Nébulosité Reg.O.(terre) | 1 |  |
+| Reg.E.(mer) | 3 |  |
+| Direction des nuages | S.N.S |  |
+| Pluie Tombée | " |  |
+| Température de l'air | 19,8 |  |
+| Hauteur de la mer | 25,2 |  |
+| Agitation de l'eau | 1 |  |
+| Versité au bout de la jetée | 1027,5 |  |
+| Température de l'eau | 20,7 |  |

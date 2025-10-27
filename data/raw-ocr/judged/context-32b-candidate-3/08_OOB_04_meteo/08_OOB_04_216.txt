@@ -1,0 +1,35 @@
+```plaintext
+# 21 Avril 1903
+
+|  Nom | Position | Soir  |
+| --- | --- | --- |
+|  Hauteur Barométrique | 752.4 | 749.8  |
+|  Direction du vent | sord |   |
+|  Force | 3 | 3  |
+|  Nébulosité (Reg. O. (terre)) | 10  |
+|  Nébulosité (Reg. E. (mer)) | 10  |
+|  Direction des nuages | creast |   |
+|  Pluie tombée |  |   |
+|  Température de l'air | 18.5 | 18.7  |
+|  Hauteur de la mer | 45.2 | 43.2  |
+|  Agitation de l'eau | 1 fois | 1 fois  |
+|  Densité au bout de la jetée | 1029.4 | 1029.4  |
+|  Température de l'eau | 12.6 | 12.6  |
+
+# 22 Avril 1903
+
+|  Nom | Position | Soir  |
+| --- | --- | --- |
+|  Hauteur Barométrique | 744.6 | 743.5  |
+|  Direction du vent | sord | 1.0  |
+|  Force | 3 | 3  |
+|  Nébulosité (Reg. O. (terre)) | 10  |
+|  Nébulosité (Reg. E. (mer)) | 10  |
+|  Direction des nuages | creast | 1.0  |
+|  Pluie tombée |  | 10.0  |
+|  Température de l'air | 19.9 | 19.9  |
+|  Hauteur de la mer | 36.8 | 36.8  |
+|  Agitation de l'eau | 2 | 2  |
+|  Densité au bout de la jetée | 1029.3 | 1029.3  |
+|  Température de l'eau | 12.2 | 12.2  |
+```

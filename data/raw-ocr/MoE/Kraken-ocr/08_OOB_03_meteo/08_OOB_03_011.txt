@@ -1,0 +1,51 @@
+Date 1er D tobre-1901
+1
+fauteur Barometrique
+direction du vent
+Force –ed
+6
+Nébulosite
+5
+Reg-O.
+Direction des nuages
+Température de l'air
+fauteur de la mer
+Agitation de l'eau
+densite de l'eau
+E.5.2
+1
+10
+10
+Est.
+Doir
+62, 3
+Est
+N..8
+6, 030 0,00I
+5
+21,1
+4 Gort
+6
+7
+----
+1
+ffaible
+10
+12
+56
+17
+lort
+sau bout de la fetre 1025, 3 102
+au Harge
+Temperature de l'eau
+O
+terre)
+AReg-F - (mer)
+Pline tombée
+6
+7
+2
+^r
+2
+
+5

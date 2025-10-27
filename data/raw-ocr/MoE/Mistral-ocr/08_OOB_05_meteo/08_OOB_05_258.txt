@@ -1,0 +1,25 @@
+|  1. 15 Juin - 1907 | Mbatin | Eoin  |
+| --- | --- | --- |
+|  Hauteur Moxométrique | 766,7 | 766,4  |
+|  Direction du vent | N.O.O | N.O.S  |
+|  Force | 4 | 2 font  |
+|  Nebulosite (Res. a. (min) | 1 | 3  |
+|  Nebulosite (Res. a. cm) | 3 | 0  |
+|  Direction des nuages | N.O.O | N.O.S  |
+|  Plein tombé | 21,2 | 26,3  |
+|  Dempperature de l'air | 12,4 | 62,0  |
+|  Hauteur de la mer | 3 | 2  |
+|  Opération de l'eau | 1029,0 | 1027,4  |
+|  Gant撕 | 16,9 | 17,9  |
+|  1. 17 Juin - 1907 | Mbatin | Eoin  |
+|  Hauteur Moxométrique | 766,0 | 764,3  |
+|  Direction du vent | E.N.S | P.S  |
+|  Force | 1 | 1 font  |
+|  Nebulosite (Res. a. (min) | 0 | 0  |
+|  Direction des nuages | 1 | 1  |
+|  Plein tombé | 21,1 | 28,2  |
+|  Dempperature de l'air | 16,2 | 17,4  |
+|  Hauteur de la mer | 16,2 | 17,4  |
+|  Opération de l'eau | 1627,3 | 1027,4  |
+|  Gant撕 | 18,1 | 20,0  |
+|  Gant撕 |  |   |

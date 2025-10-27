@@ -1,0 +1,18 @@
+# Date. 24 Décembre. 1901
+
+|  Name | 9th M6alin | 3rd Soir  |
+| --- | --- | --- |
+|  Manteur Maronnetrique | 7/8.7 |   |
+|  Direction du vent |  |   |
+|  Force | 15 |   |
+|  Reg. D. (1ere) | 10 |   |
+|  Nbutosité |  |   |
+|  Reg. E. (mer) | 10 |   |
+|  Direction des nuages | Nord |   |
+|  Flux tombé |  |   |
+|  Température de l'air | 3,7 |   |
+|  Manteur de la mer | 39,3 |   |
+|  Agitation de l'eau | 1 |   |
+|  Sensité de l'eau |  |   |
+|  1er Large | 10,6 |   |
+|  Température de l'eau | 11,6 |   |

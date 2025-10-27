@@ -1,0 +1,32 @@
+| **Date**     | **Matin** | **Soir** |
+|--------------|-----------|----------|
+| 18 Mai 1903  |           |          |
+| Hauteur Barométrique | 761.2    | 763.4   |
+| Direction du vent | E.cr.0  | E.S.E.   |
+| Force        | 5         | 1        |
+| Nebulosité   |           |          |
+| Reg. 6. (Terre) | 10      | 10       |
+| Reg. E. (mer) | 10      | 10       |
+| Direction des nuages | E.cr.0 | N.cr.0  |
+| Pluie tombée |           |          |
+| Température de l'air | 17.6   | 19.0    |
+| Hauteur de la mer | 19.2   | 60.4    |
+| Agitation de l'eau | 1      | 0        |
+| Densité au bout de la jetée | 1026.8 | 1026.7 |
+| Température de l'eau | 11.1  | 19.8    |
+| **Date**     | **Matin** | **Soir** |
+|--------------|-----------|----------|
+| 19 Mai 1903  |           |          |
+| Hauteur Barométrique | 762.3    |          |
+| Direction du vent | E.S.E.  |          |
+| Force        | 5         | Faible    |
+| Nebulosité   |           |          |
+| Reg. 6. (Terre) | légère  |          |
+| Reg. E. (mer) | légère  |          |
+| Direction des nuages |       |          |
+| Pluie tombée |           |          |
+| Température de l'air | 17.7   |          |
+| Hauteur de la mer | 17.2   |          |
+| Agitation de l'eau | 1      |          |
+| Densité au bout de la jetée | 1027.1 |          |
+| Température de l'eau | 16.6  |          |

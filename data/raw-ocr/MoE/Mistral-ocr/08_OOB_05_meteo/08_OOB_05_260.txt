@@ -1,0 +1,27 @@
+|  9-20 Juin - 1907 | Mbatin | Poir  |
+| --- | --- | --- |
+|  Jauten Mawmhique | 705.0 | 705.5  |
+|  Direction du Vent | 1.8 | 1.8  |
+|  Poire | 1.8 | 1.8  |
+|  Nébulonte | 0 | 350.0  |
+|  Nébulonte | 0 | 0  |
+|  Direction des mages |  |   |
+|  Plein tombic |  |   |
+|  Sempérature de l'air | 21.5 | 20.7  |
+|  Jauten de la mer | 14.1 | 14.1  |
+|  Oeytation de l'eau | 1.8 | 1.8  |
+|  Densité au bout de la jeté | 108.1 | 108.3  |
+|  Sempérature de l'eau | 20.0 | 20.4  |
+|  9-21 Juin - 1907 | Mbatin | Poir  |
+|  Jauten Mawmhique | 705.5 | 705.8  |
+|  Direction du Vent | 0.8 | 1.8  |
+|  Poire | 1.8 | 1.8  |
+|  Nébulonte | 0 | 100.0  |
+|  Nébulonte | 0 | 100.0  |
+|  Direction des mages | 1.0 | 1.0  |
+|  Plein tombic |  |   |
+|  Sempérature de l'air | 28.5 | 29.0  |
+|  Jauten de la mer | 12.0 | 12.1  |
+|  Oeytation de l'eau | 1.8 | 1.8  |
+|  Densité au bout de la jeté | 108.1 | 108.3  |
+|  Sempérature de l'eau | 18.7 | 19.3  |

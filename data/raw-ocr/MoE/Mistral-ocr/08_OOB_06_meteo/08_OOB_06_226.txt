@@ -1,0 +1,51 @@
+# OBSERVATIONS DU 1901 A Decembre 
+
+Nombre de bateaux sortis (pêche à $l$ $\qquad$ ).
+Température de l'air $\left\{\begin{array}{l}\text { maxima depuis la veille. } \\ \text { minima id. }\end{array}\right.$
+$18,2$ 1,2
+Température de l'eau $\left\{\begin{array}{l}\text { maxima depuis la veille. } \\ \text { minima id. }\end{array}\right.$
+Pluie tombée depuis la veille, en millim.
+$y \quad y \quad$ ufquan. 9
+Evaporation depuis le 190 , en millim.
+à 9 h. m. à 3 h. s.
+Direction du vent (à terre).
+0.000
+Force $\quad$ -
+Efort Afaible
+Direction des nuages.
+$4.8 \quad 4.2 \mathrm{~m}$.
+Nébulosité $\left\{\begin{array}{l}\text { région Ouest (terre) } \\ \text { id. Est (mer) }\end{array}\right.$
+$10 \quad 1$
+Hauteur de la mer, en centimètres, au-dessus du zéro. (C.B.R.)
+Agitation de l'eau.
+125,5 125,6
+Densité de l'eau au bout de la jetée.
+$13,4 \quad 13,4$
+Température id.
+$6,2 \quad 13,4$
+
+## OBSERVATIONS DU 1901 P. 24 cembre
+
+Nombre de bateaux sortis (pêche à $l$ $\qquad$ ).
+Température de l'air $\left\{\begin{array}{l}\text { maxima depuis la veille. } \\ \text { minima id. }\end{array}\right.$
+$14,8$ 8,3
+Température de l'eau $\left\{\begin{array}{l}\text { maxima depuis la veille. } \\ \text { minima id. }\end{array}\right.$
+Pluie tombée depuis la veille, en millim.
+Evaporation depuis le 190 , en millim.
+à 9 h. m. à 3 h. s.
+Direction du vent (à terre).
+$f_{10}$
+Force $\quad$ -
+1faible 0
+Direction des nuages.
+$7,0 \quad 7,0$
+Nébulosité $\left\{\begin{array}{l}\text { région Ouest (terre) } \\ \text { id. Est (mer) }\end{array}\right.$
+$10 \quad 10$
+Hauteur de la mer, en centimètres, au-dessus du zéro. (C.B.R.)
+Agitation de l'eau.
+125,8 125,8
+Densité de l'eau au bout de la jetée.
+$14,0 \quad 14,6$
+Température id.
+$26,2 \quad 26,2$
+$6,3$

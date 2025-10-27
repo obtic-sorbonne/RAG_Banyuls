@@ -1,0 +1,30 @@
+```
+Sortie du 21 Mai 1904
+
+Départ de Bampes à 6 heures du matin  
+pour la Sèche. Arrivée sur la place d'Argelès à 4 h 15 du matin.  
+Départ de Port-Vendres à 10 h 40 du matin.  
+Arrivée à 11 h 00.  
+
+Départ de Port-Vendres à 2 h 10 du soir  
+pour la Sèche. Chaluts.  
+Arrivée au mouillage à Bampes à 4 h 40 du soir.  
+
+État du temps: Matin très beau. Vers 10 h 30 à 11 h, la brume et très épaisse.  
+
+Passagers à bord: Mr Pruvot  
+
+Objet de la sortie:  
+
+Consommation {  
+  Briquettes de | Poids en Kilos  
+  Huile         | Total en litres  
+}  
+
+Dépenses  
+
+Observations: Partis pour tenir sur la place d'Argelès.  
+             À 10 h 30, la brume nous force à relâcher à  
+             Port-Vendres. Nous repartons à 2 h 10 pour Chaluts  
+             sur la côte du cap d'Abeille.
+```

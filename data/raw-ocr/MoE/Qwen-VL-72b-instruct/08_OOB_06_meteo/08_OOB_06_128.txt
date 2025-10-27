@@ -1,0 +1,47 @@
+### **OBSERVATIONS DU 1901 - 8 Mars**
+
+| **Nombre de bateaux sortis (pêche à l'ancre)** | 14 |
+| --- | --- |
+| **Température de l'air** |  |  |
+| maxima depuis la veille |  |  |
+| minima id. |  |  |
+| **Température de l'eau** |  |  |
+| maxima depuis la veille |  |  |
+| minima id. |  |  |
+| **Pluie tombée depuis la veille, en millim.** | quelque |  |
+| **Evaporation depuis le 1901, en millim.** |  |  |
+| **Direction du vent (à terre)** | à 9 h. m. | à 3 h. s. |
+| **Force** | 2 |  |
+| **Direction des nuages** |  |  |
+| **Nébulosité** |  |  |
+| région Ouest (terre) | 0 |  |
+| id. Est (mer) | 0 |  |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.)** | 43 | 42,9 |
+| **Agitation de l'eau** | 2 |  |
+| **Densité de l'eau au bout de la jetée** | 1028,9 | 1028,9 |
+| **Température id.** | 11,0 | 11,0 |
+
+---
+
+### **OBSERVATIONS DU 1901 - 9 Mars**
+
+| **Nombre de bateaux sortis (pêche à l'ancre)** | 14 |
+| --- | --- |
+| **Température de l'air** |  |  |
+| maxima depuis la veille | 11,4 |  |
+| minima id. | 6,3 |  |
+| **Température de l'eau** |  |  |
+| maxima depuis la veille |  |  |
+| minima id. |  |  |
+| **Pluie tombée depuis la veille, en millim.** | — |  |
+| **Evaporation depuis le 1901, en millim.** |  |  |
+| **Direction du vent (à terre)** | à 9 h. m. | à 3 h. s. |
+| **Force** | 3 | 3 |
+| **Direction des nuages** | N.N.O | N.N.E |
+| **Nébulosité** |  |  |
+| région Ouest (terre) | 2 | 4 |
+| id. Est (mer) | 0 | 6 |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.)** | 46,0 | 44,9 |
+| **Agitation de l'eau** | 2 | 3 |
+| **Densité de l'eau au bout de la jetée** | 1029,6 | 1028,8 |
+| **Température id.** | 10,3 | 10,7 |

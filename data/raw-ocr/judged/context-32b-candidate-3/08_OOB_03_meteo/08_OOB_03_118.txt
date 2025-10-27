@@ -1,0 +1,18 @@
+# Porte. 1er
+## Février. 1902
+
+|  | 9e Matin | 3e Soir  |
+| --- | --- | --- |
+| Hauteur barométrique | 763,3 | 763,3  |
+| Direction du vent | M. M. O | M. M. O  |
+| Force | 1 | 1  |
+| Nébulosité { Reg. C. (terre) } | 10 | 10  |
+| Nébulosité { Reg. E. (mer) } | 10 | 10  |
+| Direction des nuages | 3/5.3 | 3/5.3  |
+| Pluie tombée | 4.7 | 4.7  |
+| Température de l'air | 10,0 | 10,0  |
+| Hauteur de la mer | 46,9 | 46,9  |
+| Agitation de l'eau | 3 fois | 3 fois  |
+| Densité de l'eau { au bout de la jetée } | 1029,2 | 1029,2  |
+| Densité de l'eau { au large } | 1029,2 | 1029,2  |
+| Température de l'eau | 11,4 | 11,4  |

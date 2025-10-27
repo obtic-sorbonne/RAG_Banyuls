@@ -1,0 +1,17 @@
+# Oate - 1st Quit - 1901
+
+|  **Panteur Peurométrique** | **3H 9Moatin** | **3H Soir**  |
+| --- | --- | --- |
+|  Direction du vent | 757,2 | 753,5  |
+|  Force | 15.0 | 5.5.5  |
+|  2 | 2 | 2 faible  |
+|  Pédulosite / Reg. O. (terre) | 0 | 100 kg/m² C  |
+|  Direction des nuages | 0 | 100 kg/m² C  |
+|  Flux tombé | 11 | 11  |
+|  Température de l'air | 23,0 | 85,4  |
+|  Panteur de la mer | 54,9 | 50,7  |
+|  Agitation de l'eau | 1 fort | 1 fort  |
+|  Densité de l'eau | 1027,5 | 1027,4  |
+|  **Pénaturité de l'eau** | **20,4** | **20,5**  |
+
+*L'Emperature de l'eau*

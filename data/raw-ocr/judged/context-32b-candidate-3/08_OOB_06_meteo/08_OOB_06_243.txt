@@ -1,0 +1,55 @@
+```plaintext
+### OBSERVATIONS DU 1902 23 JANVIER
+
+| **Nombre de bateaux sortis (pêche à l.)** | 19,2 |
+| **Température de l'air** | **maxima depuis la veille** | 11,2 |
+|  | **minima id.** | 11,8 |
+| **Température de l'eau** | **maxima depuis la veille** | *non mentionnée* |
+|  | **minima id.** | *non mentionnée* |
+| **Pluie tombée depuis la veille, en millim.** | *non mentionnée* |
+| **Evaporation depuis le 1902, en millim.** | *non mentionnée* |
+| **Direction du vent (à terre)** | **à 9 h. m.** | **S.S.E.** |
+| **Force** | **à 3 h. s.** | 1 Fort |
+| **Direction des nuages** | **à 9 h. m.** | **S.S.E.** |
+| **Nébulosité** | **région Ouest (terre)** | 10 |
+|  | **id. Est (mer)** | 10 |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.)** | **à 9 h. m.** | 0,0 |
+|  | **à 3 h. s.** | 13,0 |
+| **Agitation de l'eau** | **à 9 h. m.** | 3 |
+|  | **à 3 h. s.** | *non mentionnée* |
+| **Densité de l'eau au bout de la jetée** | **à 9 h. m.** | 1028,0 |
+|  | **à 3 h. s.** | *non mentionnée* |
+| **Température id.** | **à 9 h. m.** | 12,8 |
+|  | **à 3 h. s.** | *non mentionnée* |
+| **Température id. Suh Abonne** | **Matin** | 17,7 |
+|  | **Midi** | 12,3 |
+|  | **Soir** | **maxima** | 20,4 |
+|  | **minima** | 14,9 |
+
+### OBSERVATIONS DU 1902 24 JANVIER
+
+| **Nombre de bateaux sortis (pêche à l.)** | 17,1 |
+| **Température de l'air** | **maxima depuis la veille** | 17,1 |
+|  | **minima id.** | 8,6 |
+| **Température de l'eau** | **maxima depuis la veille** | *non mentionnée* |
+|  | **minima id.** | *non mentionnée* |
+| **Pluie tombée depuis la veille, en millim.** | *non mentionnée* |
+| **Evaporation depuis le 1902, en millim.** | *non mentionnée* |
+| **Direction du vent (à terre)** | **à 9 h. m.** | **S.S.E.** |
+| **Force** | **à 3 h. s.** | 0 |
+| **Direction des nuages** | **à 9 h. m.** | **S.S.E.** |
+| **Nébulosité** | **région Ouest (terre)** | 10 |
+|  | **id. Est (mer)** | 10 |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.)** | **à 9 h. m.** | 9,9 |
+|  | **à 3 h. s.** | 16,6 |
+| **Agitation de l'eau** | **à 9 h. m.** | 1 Fort |
+|  | **à 3 h. s.** | 1 Fort |
+| **Densité de l'eau au bout de la jetée** | **à 9 h. m.** | 1027,9 |
+|  | **à 3 h. s.** | 1027,0 |
+| **Température id.** | **à 9 h. m.** | 12,6 |
+|  | **à 3 h. s.** | 12,7 |
+| **Température id. Suh Abonne** | **Matin** | 20,4 |
+|  | **Midi** | 6,7 |
+|  | **Soir** | **maxima** | 20,4 |
+|  | **minima** | 10,1 |
+```

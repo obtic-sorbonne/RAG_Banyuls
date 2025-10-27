@@ -1,0 +1,41 @@
+```markdown
+| **OBSERVATIONS DU 1960 11 Mai** |
+| --- |
+| **Nombre de bateaux sortis (pêche à l’ancre)** | **0** |
+| **Température de l’air** | **maxima depuis la veille** | **11.7** |
+| | **minima id.** | **6.7** |
+| **Température de l’eau** | **maxima depuis la veille** |  |
+| | **minima id.** |  |
+| **Pluie tombée depuis la veille, en millim.** |  |
+| **Evaporation depuis le 0 h s 1960, en millim.** |  |
+| | **à 9 h. m.** | **à 3 h. s.** |
+| **Direction du vent (à terre)** | N.N.O. | N.N.O. |
+| **Force** | 3 | 2 |
+| **Direction des nuages** | N.N.O. | N.N.O. |
+| **Nébulosité** | **région Ouest (terre)** | **10** |
+| | **id. Est (mer)** | **10** |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro** | **38.3** | **28.1** |
+| **Agitation de l’eau** | **2** | **2** |
+| **Densité de l’eau au bout de la jetée** | **1029.4** | **1029.4** |
+| **Température id.** | **12.7** | **12.8** |
+
+| **OBSERVATIONS DU 1960 12 Mai** |
+| --- |
+| **Nombre de bateaux sortis (pêche à l’ancre)** | **26** |
+| **Température de l’air** | **maxima depuis la veille** | **12.8** |
+| | **minima id.** | **4.7** |
+| **Température de l’eau** | **maxima depuis la veille** |  |
+| | **minima id.** |  |
+| **Pluie tombée depuis la veille, en millim.** |  |
+| **Evaporation depuis le 0 h s 1960, en millim.** |  |
+| | **à 9 h. m.** | **à 3 h. s.** |
+| **Direction du vent (à terre)** | S.O. | S.O. |
+| **Force** | 2 (faible) | 1 (fort) |
+| **Direction des nuages** | S.O. | S.O. |
+| **Nébulosité** | **région Ouest (terre)** | **10** |
+| | **id. Est (mer)** | **10** |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro** | **46.8** |  |
+| **Agitation de l’eau** | **1** | **1** |
+| **Densité de l’eau au bout de la jetée** | **1029.3** | **1028.4** |
+| **Température id.** | **12.3** | **12.6** |
+```

@@ -1,0 +1,29 @@
+|  V. 30 Novembre - 1906 | Mibatin | Poir  |
+| --- | --- | --- |
+|  Hauteur Maroniteique | 368.9 | 265.0  |
+|  Direction du vent | cr.0 | cr.0.0  |
+|  Force | 1 fort | 1  |
+|  (Rey. O. (tare) | 10 | 10  |
+|  Mibulörite |  |   |
+|  (Rey. X.-(nur) | 10 | 10  |
+|  Direction des nuages | 25.8 | 25.3  |
+|  Pline tombée |  |   |
+|  Température de l'air | 16.6 | 19.5  |
+|  Hauteur de la mer | 46.8 | 14.5  |
+|  Capitation de l'eau | 17 fois | 1 fois  |
+|  Densité au bout de la jetée | 1028.9 | 1028.2  |
+|  Température de l'eau | 1.9 | 1.4  |
+|  1er Décembre - 1906 | Mibatin | Poir  |
+|  Hauteur Maronitrique |  | 478.0  |
+|  Direction du vent |  | cr.0.0  |
+|  Force |  | 1 fort  |
+|  (Rey. O. (tare) |  | 10  |
+|  Mibulörite |  |   |
+|  (Rey. X.-(nur) |  | 10  |
+|  Direction des nuages |  | 200.0  |
+|  Pline tombée |  |   |
+|  Température de l'air |  | 9.5  |
+|  Hauteur de la mer |  | 2 fois  |
+|  Capitation de l'eau |  | 2 fois  |
+|  Densité au bout de la jetée |  | 2 fois  |
+|  Température de l'eau |  | 9  |

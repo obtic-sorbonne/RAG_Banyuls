@@ -1,0 +1,31 @@
+| Date | Matin | Matin | Soir |
+| --- | --- | --- | --- |
+| Hauteur Barométrique | 766.2 |  |  |
+| Direction du vent | Sud-Sud-Est |  |  |
+| Force | 2 |  |  |
+| Nébulosité (Terre) | 10 |  |  |
+| Nébulosité (Mer) | 10 |  |  |
+| Direction des nuages | Sud-Sud-Est |  |  |
+| Pluie tombée | - |  |  |
+| Température de l'air | 23.0 |  |  |
+| Hauteur de la mer | 47.8 |  |  |
+| Agitation de l'eau | 1 |  |  |
+| Intensité au bout de la jetée | 1027.4 |  |  |
+| Température de l'eau | 21.9 |  |  |
+
+---
+
+| Date | Matin | Matin | Soir |
+| --- | --- | --- | --- |
+| Hauteur Barométrique | 766.6 | 767.3 |  |
+| Direction du vent | Est, Est-Nord-Est | Est-Nord-Est |  |
+| Force | 2 | 3 |  |
+| Nébulosité (Terre) | Légeremente | Légèrement |  |
+| Nébulosité (Mer) | Légeremente | Légermente |  |
+| Direction des nuages | Sud | Est, Est-Nord-Est |  |
+| Pluie tombée | - | - |  |
+| Température de l'air | 24.6 | 26.3 |  |
+| Hauteur de la mer | 47.7 | 18.9 |  |
+| Agitation de l'eau | 1 | 1.7 folle |  |
+| Intensité au bout de la jetée | 1027.3 | 1027.2 |  |
+| Température de l'eau | 22.0 | 22.2 |  |

@@ -1,0 +1,41 @@
+OBSERVATIONS DU 1900 23 Juin
+
+| Nombre de bateaux sortis (pêche à l...) |  |
+| --- | --- |
+| Température de l'air | maxima depuis la veille | 29.7 |
+|  | minima id. | 16.8 |
+| Température de l'eau | maxima depuis la veille |  |
+|  | minima id. |  |
+| Pluie tombée depuis la veille, en millim. | quelque peu |
+| Evaporation depuis le 190 , en millim. |  |
+|  | à 9 h. m. | à 3 h. s. |
+| Direction du vent (à terre). | Nord | N.N.E |
+| Force | 2 fort | 2 fort |
+| Direction des nuages | Nord | N.N.O |
+| Nébulosité | région Ouest (terre) | 3 | 40 |
+|  | id. Est (mer) | 3 | 40 |
+| Hauteur de la mer, en centimètres, au-dessus du zéro | 48.0 | 32.0 |
+| Agitation de l'eau | 1 fort | 1 fort |
+| Densité de l'eau au bout de la jetée | 1.027.6 | 1.027.6 |
+| Température id. | 18.2 | 20.0 |
+
+OBSERVATIONS DU 1900 24 Juin
+
+| Nombre de bateaux sortis (pêche à l...) |  |
+| --- | --- |
+| Température de l'air | maxima depuis la veille | 29.8 |
+|  | minima id. | 16.4 |
+| Température de l'eau | maxima depuis la veille |  |
+|  | minima id. |  |
+| Pluie tombée depuis la veille, en millim. |  |
+| Evaporation depuis le 190 , en millim. |  |
+|  | à 9 h. m. | à 3 h. s. |
+| Direction du vent (à terre). | N.N.O | S.S.E |
+| Force | 2 fort | 1 fort |
+| Direction des nuages | N.N.O | O.N.O |
+| Nébulosité | région Ouest (terre) | 1 | 40 |
+|  | id. Est (mer) | 2 | 40 |
+| Hauteur de la mer, en centimètres, au-dessus du zéro | 39.8 | 27.8 |
+| Agitation de l'eau | 3 | 1 fort |
+| Densité de l'eau au bout de la jetée | 1.026.7 | 1.027.4 |
+| Température id. | 18.1 | 19.3 |

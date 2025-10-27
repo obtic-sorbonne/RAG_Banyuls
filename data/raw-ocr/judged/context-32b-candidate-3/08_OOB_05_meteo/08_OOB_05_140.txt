@@ -1,0 +1,7 @@
+```markdown
+| Date       | Heure    | Hauteur Barométrique (mm Hg) | Direction du Vent | Force | Nébulosité (Air) | Nébulosité (Mer) | Direction des nuages | Pluie Tombée | Température de l'Air (°C) | Hauteur de la Mer (cm) | Agitation de l'eau | Densité au bout de la jetée (kg/m³) | Température de l'eau (°C) |
+|------------|----------|-------------------------------|-------------------|-------|------------------|------------------|----------------------|--------------|---------------------------|------------------------|--------------------|------------------------------------|---------------------------|
+| V. 16 août 1906 | Matin   | 767.3                        | cr. cr.             | 1-2   | Reg. 0 (Clère)   | Reg. 0 (mer)     | cr. O                | ―            | 23.0                      | 33.6                   | 2 (faible)         | 1027.4                             | 21.2                      |
+| V. 17 août 1906 | Matin   | 767.1                        | cr. cr.             | 1-2   | Reg. 0 (Clère)   | Reg. 0 (mer)     | le O                 | ―            | 23.3                      | 38.3                   | 2 (faible)         | 1027.3                             | 21.7                      |
+| V. 17 août 1906 | Soir    | 766.0                        | cr. cr.             | 2     | Reg. 0 (Clère)   | Reg. 0 (mer)     | Ouest                | ―            | 24.3                      | 48.0                   | 2 (faible)         | 1027.3                             | 21.7                      |
+```

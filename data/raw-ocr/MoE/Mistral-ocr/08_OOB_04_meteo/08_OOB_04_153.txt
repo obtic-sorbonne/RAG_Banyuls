@@ -1,0 +1,31 @@
+|  V. 1f Novembre. 1902 | Matin | Soir  |
+| --- | --- | --- |
+|  Hauteur Maronnetrique | 266,6 | 266,0  |
+|  Direction du vent | cr.or.o | cr.or.o  |
+|  Force | 1 | 1  |
+|  (Reg. O. (titre) | 10 | 10  |
+|  Nébulosité |  |   |
+|  (Reg. E. (mur) | 10 | 10  |
+|  Direction des mages | 800 | 800  |
+|  Huie tombé | quelques. 2 | quelques. 2  |
+|  Semplirative de l'air | 18,2 | 18,2  |
+|  Hauteur de la mer | 29,2 | 41,8  |
+|  (Agitation de l'eau) | 3 | 3 fort  |
+|  Densité au bout de la jeté | 1028,8 | 1028,6  |
+|  Semplirative de l'eau | 11,8 | 11,8  |
+
+|  V. 17 Novembre. 1902 | Matin | Soir  |
+| --- | --- | --- |
+|  Hauteur Maronnetrique |  | 260,2  |
+|  Direction du vent |  | cr.or.o  |
+|  Force |  | 2 fort  |
+|  (Reg. O. (titre) |  | 10  |
+|  Nébulosité |  | 10  |
+|  (Reg. E. (mur) |  | 10  |
+|  Direction des mages |  | cr.or.o  |
+|  Huie tombé |  | 11,0  |
+|  Semplirative de l'air |  | 11,0  |
+|  Hauteur de la mer |  | 10,2  |
+|  (Agitation de l'eau) |  | 3  |
+|  Densité au bout de la jeté |  | 1028,2  |
+|  Semplirative de l'eau |  | 11,1  |

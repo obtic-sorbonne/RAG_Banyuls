@@ -1,0 +1,19 @@
+# Date N° 12 Octobre - 1900
+
+|  Item | 8 h | 3 h |
+| --- | --- | --- |
+|  Hauteur barométrique | 251,7 |   |
+|  Direction du vent | N | S.E  |
+|  Force | 3 | 1 faible  |
+|  Rég. O. (terre) | 1 | 4  |
+|  Nébulosité |  |   |
+|  Direction des nuages | N | S  |
+|  Pluie tombée | 19,7 | 80,0  |
+|  Température de l'air | 19,7 | 30,0  |
+|  Hauteur de la mer | 47,9 | 35,5  |
+|  Agitation de l'eau | 3 | 4  |
+|  Densité de l'eau (au bout de la jetée) | 1022,2 | 1021,5  |
+|  Densité de l'eau (au large) |  |   |
+|  Température de l'eau | 21,1 | 21,2  |
+
+Observat. —

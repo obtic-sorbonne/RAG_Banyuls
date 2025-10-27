@@ -1,0 +1,17 @@
+```plaintext
+# N. 18 (Août 1903)
+
+|  Hauteur Barométrique | Matin | Soir  |
+| --- | --- | --- |
+|  Direction du vent | or. 8 | 7.7.8  |
+|  Force | 2 fort | 1 fort  |
+|  (Reg. O. (terre)) | 2 | 2  |
+|  (Reg. R. (mer)) | 22.5 | 1  |
+|  Direction des nuages | 7.0 | c.0  |
+|  (Cluie tombée) | 24.8 | 0  |
+|  Température de l'air | 24.8 | 22.5  |
+|  Hauteur de la mer | 41.0 | 25.0  |
+|  (Agitation de l'eau) | 2 fort | 1  |
+|  Densité au bout de la jetée | 1027.8 | 1028.0  |
+|  Température de l'eau | 21.6 | 21.6  |
+```

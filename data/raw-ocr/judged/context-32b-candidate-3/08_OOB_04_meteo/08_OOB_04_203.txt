@@ -1,0 +1,60 @@
+# 15 Mours. 1903
+
+|  Nom | Date  |
+| --- | --- |
+|  Hauteur Barométrique | 762.1  |
+|  Direction du vent | or. 0  |
+|  Force | 2  |
+|  Nébulosité (Reg. O. (terre)) | 10  |
+|  Nébulosité (Reg. E. (mur)) | 10  |
+|  Direction des nuages | ouest  |
+|  Pluie tombée | 0  |
+|  Température de l'air | 9.0  |
+|  Hauteur de la mer | 50.2  |
+|  Agitation de l'eau | 3 fort  |
+|  Densité au bout de la jetée | 1029.2  |
+|  Température de l'eau | 12.0  |
+
+# 19 Mours. 1903
+
+|  Nom | Date  |
+| --- | --- |
+|  Hauteur Barométrique | 762.7  |
+|  Direction du vent | 3.6  |
+|  Force | 3 fort  |
+|  Nébulosité (Reg. O. (terre)) | 0  |
+|  Nébulosité (Reg. E. (mer)) | 0  |
+|  Direction des nuages |  |
+|  Pluie tombée |  |
+|  Température de l'air | 15.0  |
+|  Hauteur de la mer | 68.7  |
+|  Agitation de l'eau | 1  |
+|  Densité au bout de la jetée | 102.8  |
+|  Température de l'eau | 12.5  |
+
+# 20 Mours. 1903
+
+|  Nom | Date  |
+| --- | --- |
+|  Hauteur Barométrique (Matin) | 760.0  |
+|  Hauteur Barométrique (Soir) | 760.0  |
+|  Direction du vent (Matin) | or. 0  |
+|  Direction du vent (Soir) | or. 0  |
+|  Force (Matin) | 2  |
+|  Force (Soir) | 2  |
+|  Nébulosité (Reg. O. (terre)) | 10  |
+|  Nébulosité (Reg. E. (mur)) | 10  |
+|  Direction des nuages (Matin) | ouest  |
+|  Direction des nuages (Soir) | ouest  |
+|  Pluie tombée (Matin) | 0  |
+|  Pluie tombée (Soir) | 0  |
+|  Température de l'air (Matin) | 10.0  |
+|  Température de l'air (Soir) | 12.0  |
+|  Hauteur de la mer (Matin) | 50.2  |
+|  Hauteur de la mer (Soir) | 55.2  |
+|  Agitation de l'eau (Matin) | 3 fort  |
+|  Agitation de l'eau (Soir) | 1  |
+|  Densité au bout de la jetée (Matin) | 1029.2  |
+|  Densité au bout de la jetée (Soir) | 1028.1  |
+|  Température de l'eau (Matin) | 12.0  |
+|  Température de l'eau (Soir) | 12.5  |

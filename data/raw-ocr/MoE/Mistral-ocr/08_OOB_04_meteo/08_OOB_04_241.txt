@@ -1,0 +1,31 @@
+# V. 15 Juin. 1903
+
+|  **Pauteur** | **Parométrique** | **Pond**  |
+| --- | --- | --- |
+|  Direction du vent |  |   |
+|  Force |  | 0  |
+|  % Ébulosité | (Reg. O. (tome)) | 10  |
+|   | (Reg. E. (mur)) | 10  |
+|  Direction des nuages |  |   |
+|  Muc tombé |  | 15.5  |
+|  Rempliration de l'air |  | 15.4  |
+|  Hauteur de la mer |  | 15.4  |
+|  Régulation de l'eau |  | 15.5  |
+|  Densité au bout de la jeté |  | 15.5  |
+|  Rempliration de l'eau |  | 15.5  |
+
+# V. 16 Juin. 1903
+
+|  **Pauteur** | **Parométrique** | **Pond**  |
+| --- | --- | --- |
+|  Direction du vent |  |   |
+|  Force |  | 1  |
+|  % Ébulosité | (Reg. O. (tome)) | 10  |
+|   | (Reg. E. (mur)) | 10  |
+|  Direction des nuages |  |   |
+|  Muc tombé |  | 15.5  |
+|  Rempliration de l'air |  | 15.4  |
+|  Hauteur de la mer |  | 15.4  |
+|  Régulation de l'eau |  | 15.5  |
+|  Densité au bout de la jeté |  | 15.5  |
+|  Rempliration de l'eau |  | 15.5  |

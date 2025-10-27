@@ -1,0 +1,17 @@
+# Date. 1h Octobre. 1900.
+
+|  |   |
+| --- | --- |
+|  Hantier Marométrique | 9" Neatin, 3". Soir  |
+|  Direction du vent | 765,0  |
+|  Force | 9"Bord  |
+|  1/2 | 6  |
+|  1/4 | 4  |
+|  2" Ébulosité / Reg. E. (m²) | 2  |
+|  Direction des nuages | 3"50"  |
+|  Chie bombée | 4,750  |
+|  Température de l'air | 16,3  |
+|  Hantine de la mer | 47,3  |
+|  Égitation de l'eau | 6  |
+|  Ouvrée de l'eau ? au bord de la pièce | 1027,5  |
+|  Température de l'eau | 18,4  |

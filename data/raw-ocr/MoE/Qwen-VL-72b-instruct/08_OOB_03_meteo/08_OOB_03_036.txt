@@ -1,0 +1,14 @@
+| **Date** | **28 Octobre 1901** |
+| **Horaire** | **9H Matin** | **19H Soir** |
+| **Hauteur Barométrique** | 767.6 | 765.7 |
+| **Direction du vent** | N.N.O | N.E |
+| **Force** | 3 faibl. | 3 fort. |
+| **Nébulosité** (Reg. O. Clére) | 0 | 10 |
+| **Nébulosité** (Reg. E. mer) | 3 | 10 |
+| **Direction des nuages** | N.N.O | S.E |
+| **Pluie tombée** | — | — |
+| **Température de l'air** | 13.0 | 15.3 |
+| **Hauteur de la mer** | 33.8 | 47.5 |
+| **Agitation de l'eau** | 3 fort. | 3 fort. |
+| **Densité de l'eau** | 1027.4 | 1027.3 |
+| **Température de l'eau** | 16.1 | 16.1 |

@@ -1,0 +1,30 @@
+```plaintext
+| **Date**            | **Matin**  | **Soir**  |
+|---------------------|------------|-----------|
+| **V. 13 Octobre 1903** |            |           |
+| Hauteur Barométrique | 763.2      | 764.2     |
+| Direction du vent    | cr. cr. o  | cr. cr. o |
+| Force                | 2 Fort     | 1 T. Faible|
+| Nébulosité Reg. 0. (claire) | 10 | 10        |
+| Nébulosité Reg. 2. (mur) | 10 | 0         |
+| Direction des nuages | cr. o      | "         |
+| Pluie tombée         | "          | "         |
+| Température de l'air | 19.7       | 21.7      |
+| Hauteur de la mer    | 44.6       | 42.3      |
+| Agitation de l'eau   | 1 Fort     | 2 Faible  |
+| Densité au bout de la jetée | 1028.3 | 1027.9  |
+| Température de l'eau | 18.3       | 18.6      |
+| **V. 14 Octobre 1903** |            |           |
+| Hauteur Barométrique | 766.3      | 764.4     |
+| Direction du vent    | S. S. 8    | S. S. 8   |
+| Force                | 2 Fort     | 2         |
+| Nébulosité Reg. 0. (claire) | 10 | 10        |
+| Nébulosité Reg. 2. (mur) | 0  | 10 lég.   |
+| Direction des nuages | Sud        | S. S. 8   |
+| Pluie tombée         | "          | "         |
+| Température de l'air | 18.6       | 20.5      |
+| Hauteur de la mer    | 10.7       | 39.4      |
+| Agitation de l'eau   | Faible     | 1         |
+| Densité au bout de la jetée | 1028.1 | 1028.0  |
+| Température de l'eau | 18.7       | 18.8      |
+```

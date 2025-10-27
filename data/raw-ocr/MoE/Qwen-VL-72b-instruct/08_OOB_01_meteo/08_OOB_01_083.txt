@@ -1,0 +1,17 @@
+| **Paramètre**               | **9h Matin** | **3h Soir** |
+|-----------------------------|-------------|-------------|
+| Hauteur Barométrique        | 761.2       | 760.8       |
+| Direction du vent           | Nord        | Nord        |
+| Force minimale              | 5           | 2           |
+| Nébulosité                  |             |             |
+|   - Reg. O. (lèvre)         | 1           | 0           |
+|   - Reg. E. (mur)           | 0           | 0           |
+| Direction des nuages        | Nord        | Nord        |
+| Pluie tombée                | "          | "           |
+| Température de l'air        | 15.8        | 18.4        |
+| Hauteur de la mer           | 49.0        | 44.0        |
+| Agitation de l'eau          | 3           | 5           |
+| Densité de l'eau            |             |             |
+|   - panboub de la jetée     | 1028.0      | 1027.5      |
+|   - au large               |             |             |
+| Température de l'eau        | 19.4        | 21.0        |

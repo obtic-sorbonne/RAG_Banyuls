@@ -1,0 +1,33 @@
+# 9. 22 Xbre 1901
+
+## Matin
+
+|  **Hauteur Barométrique** | **Matin** | **Soir**  |
+| --- | --- | --- |
+|  Direction du vent | Ouest | Ouest  |
+|  Force | 1 | 3 fort  |
+|  Nébulosité | Reg. O. (terre) | 9  |
+|  Nébulosité | Reg. E. (mer) | 10  |
+|  Direction des nuages | Sud-Est | Sud-Ouest  |
+|  Pluie tombée | 8.1 | 3.6  |
+|  Température de l'air | 13.2 | 13.8  |
+|  Hauteur de la mer | 23.6 | 16.3  |
+|  Agitation de l'eau | 1 faible | 3 fort  |
+|  Densité au bout de la jetée | 1028.7 | 1029.4  |
+|  Température de l'eau | 12.8 | 11.0  |
+
+## Soir
+
+|  **Hauteur Barométrique** | **Matin** | **Soir**  |
+| --- | --- | --- |
+|  Direction du vent | Ouest | Ouest  |
+|  Force | 1 faible | 3 fort  |
+|  Nébulosité | Reg. O. (terre) | 10  |
+|  Nébulosité | Reg. E. (mer) | 10  |
+|  Direction des nuages | Sud-Est | Sud-Ouest  |
+|  Pluie tombée | 8.1 | 3.6  |
+|  Température de l'air | 13.2 | 13.8  |
+|  Hauteur de la mer | 23.6 | 16.3  |
+|  Agitation de l'eau | 1 faible | 3 fort  |
+|  Densité au bout de la jetée | 1028.7 | 1029.4  |
+|  Température de l'eau | 12.8 | 11.0  |

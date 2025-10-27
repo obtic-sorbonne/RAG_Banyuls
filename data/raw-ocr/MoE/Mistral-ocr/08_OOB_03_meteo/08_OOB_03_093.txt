@@ -1,0 +1,22 @@
+# Date 2 Janvier 1902
+
+|  Item | Q# | St. Gatin | 3rd Sour  |
+| --- | --- | --- | --- |
+|  Hauteur Marométrique | 766,2 | 764,5 |   |
+|  Direction du vent |  |  |   |
+|  Force | 10 |  |   |
+|  Reg. O. (lins) | 10 |  |   |
+|  Rébulosité |  |  |   |
+|  Reg. E. (min) | 10 |  |   |
+|  Direction des nuages | Nord |  |   |
+|  Shine tombée | p. 2 |  |   |
+|  Température de l'air | 9,6 |  |   |
+|  Hauteur de la mer | 10,2 | 47,1 |   |
+|  Agitation de l'eau | 0 | 0 |   |
+|  Densité de l'eau | 1028,9 | 1028,9 |   |
+|  **Densité de l'eau** |  |  |   |
+|  **Densité de l'eau** | 11,5 | 11,7 |   |
+
+*Déménage*
+
+*Déménagérialisation de l'eau*

@@ -1,0 +1,15 @@
+| **Date**        | 01 Février 1902 | **Heure**   | 9h Matin | 3h Soir |
+|-----------------|-----------------|-------------|----------|---------|
+| **Hauteur Barométrique** |            |            | 775,3 |         |
+| ** Direction du vent** |      |            |         |         |
+| **Force**               | 15   |            |         |         |
+| **Nébulosité**          |      | **Reg. O. (Clair)** | 10     |         |
+|                         |      | **Reg. E. (nu)**   | 10     |         |
+| **Direction des nuages** |      |            | cr.n.0  | cr.n.0 |
+| **Pluie tombée**        |      |            | quelques g. |         |
+| **Température de l'air** |      |            | 4,7     |         |
+| **Hauteur de la mer**   |      |            | 216,9   |         |
+| **Agitation de l'eau**  |      | **au bout de la jetée** | 3 fort |         |
+|                         |      | **au large**       | 1029,2 |         |
+| **Densité de l'eau**    |      |            |         |         |
+| **Température de l'eau** |      |            | 11,4   |         |

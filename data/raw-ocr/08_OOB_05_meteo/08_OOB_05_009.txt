@@ -1,0 +1,4 @@
+| Date | Matin | Soir |
+|---|---|---|
+| 7 Juillet 1905 | Hauteur Barometrique<br>Direction du vent<br>Force<br>Nébulosité<br>(Reg. C. (toue))<br>Direction des images<br>Pluie tombée<br>Température de l'air<br>Hauteur de la mer<br>Agitation de l'eau<br>Densité au bout de la jetée<br>Température de l'eau | 764.3<br>O.E.O.<br>3<br>0<br>"<br>24.6<br>42.6<br>2<br>1026.3<br>22.6 | 768.6<br>S.S.<br>1<br>10<br>occult.<br>"<br>29.6<br>13.9<br>fort<br>1029.7<br>23.6 |
+| 10 Juillet 1905 | Hauteur Barometrique<br>Direction du vent<br>Force<br>Nébulosité<br>(Reg. C. (toue))<br>Direction des images<br>Pluie tombée<br>Température de l'air<br>Hauteur de la mer<br>Agitation de l'eau<br>Densité au bout de la jetée<br>Température de l'eau | 768.6<br>E.N.E.<br>1 fort<br>1 légèrement<br>2 légèrement<br>1.0<br>"<br>30.6<br>10.7<br>2 fort<br>1021.9<br>23.5 |  |

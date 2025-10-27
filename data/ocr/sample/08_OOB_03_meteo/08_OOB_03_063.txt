@@ -1,0 +1,16 @@
+# Date: 26 Novembre 1901
+
+|   | 9th Station | 3rd Sour  |
+| --- | --- | --- |
+|  Hauteur Barométrique | 765.5 | 762.0  |
+|  Direction du vent | N.N.O | N.N.O  |
+|  Force | 1, fort | 1  |
+|  Nébulosité { Reg. C. (terre) } | 0 | 0  |
+|  Nébulosité { Reg. E. (mer) } | 2 | 0  |
+|  Direction des nuages | N.N.O | "  |
+|  Pluie tombée | 5, 275 | "  |
+|  Température de l'air | 7.2 | 11.0  |
+|  Hauteur de la mer | 26.0 | 33.3  |
+|  Agitation de l'eau | 4 | 3, fort  |
+|  Densité de l'eau { au bout de la jetée } | 1028.8 | 1028.7  |
+|  Température de l'eau | 13.5 | 13.5  |

@@ -1,0 +1,27 @@
+| V. 29 Janvier 1907 | Matin | Soir |
+|-------------------|-------|------|
+| Hauteur Barométrique | 768.3 |      |
+| Direction du vent | cr.o  |      |
+| Force | 2 | 2 |
+| Nébulosité | (Res. o. Clère) | 10 | 6 |
+| Direction des nuages | N.O.S |      |
+| Pluie Tombée | " |      |
+| Température de l'air | 11.2 |      |
+| Hauteur de la mer | 178.0 |      |
+| Agitation de l'eau | 2 |      |
+| Densité au bord de la jetée | 1029.0 |      |
+| Température de l'eau | 10.0 |      |
+
+| V. 30 Janvier 1907 | Matin | Soir |
+|-------------------|-------|------|
+| Hauteur Barométrique | 798.3 | 799.3 |
+| Direction du vent | cr.o  | cr.o |
+| Force | 2 | 2 |
+| Nébulosité | (Res. o. Clère) | 10 | 2 |
+| Direction des nuages | cr.o | cr.o |
+| Pluie Tombée | quelques | quelques |
+| Température de l'air | 8.3 | 7.2 |
+| Hauteur de la mer | 177.3 | 174.2 |
+| Agitation de l'eau | 2 | 2 |
+| Densité au bord de la jetée | 1029.4 | 1029.4 |
+| Température de l'eau | 9.9 | 9.9 |

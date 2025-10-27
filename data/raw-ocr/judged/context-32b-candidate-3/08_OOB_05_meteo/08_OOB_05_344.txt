@@ -1,0 +1,33 @@
+```markdown
+# 17 Janvier 1908
+
+| **Date**         | **Matin** | **Soir** |
+|------------------|-----------|----------|
+| **Hauteur barométrique (mmHg)** | 774.0 | - |
+| **Direction du vent** | Nord | - |
+| **Force** | 1 fort | - |
+| **Nébulosité (Rég. 0. claire)** | Nubil (mêlée) | - |
+| **Direction des nuages** | Nord | - |
+| **Pluie tombée (mm)** | 0 | - |
+| **Température de l'air (°C)** | 10.7 | - |
+| **Hauteur de la mer (cm)** | 41.1 | - |
+| **Agitation de l'eau** | 1 fort | - |
+| **Densité au bout de la jetée (g/cm³)** | 1026.1 | - |
+| **Température de l'eau (°C)** | 11.0 | - |
+
+# 18 Janvier 1908
+
+| **Date**         | **Matin** | **Soir** |
+|------------------|-----------|----------|
+| **Hauteur barométrique (mmHg)** | 774.2 | 773.6 |
+| **Direction du vent** | Nord | Nord |
+| **Force** | 1 | 1 fort |
+| **Nébulosité (Rég. 0. claire)** | 10 | 10 |
+| **Direction des nuages** | Nord | Nord |
+| **Pluie tombée (mm)** | - | - |
+| **Température de l'air (°C)** | 16.3 | 13.9 |
+| **Hauteur de la mer (cm)** | 48.4 | 51.1 |
+| **Agitation de l'eau** | 1 fort | - |
+| **Densité au bout de la jetée (g/cm³)** | 1026.8 | 1026.2 |
+| **Température de l'eau (°C)** | 13.8 | 13.8 |
+```

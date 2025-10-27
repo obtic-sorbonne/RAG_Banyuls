@@ -1,0 +1,43 @@
+| **OBSERVATIONS DU** | **17 Janvier** |
+|---|---|
+| Nombre de bateaux sortis (pêche à l.) | N.c.n. |  |  |  |
+| **Température de l'air** |  |  |  |  |
+| maxima depuis la veille | **7,0** |  |  |  |
+| minima id. | **3** |  |  | **10** |
+| **Température de l'eau** |  |  |  |  |
+| maxima depuis la veille |  |  |  |  |
+| minima id. |  |  |  |  |
+| Pluie tombée depuis la veille, en millim. | " |  |  |  |
+| Evaporation depuis le 190, en millim. |  |  |  |  |
+| **Direction du vent (à terre)** | **à 9 h. m.** | **à 3 h. s.** |
+| Force | 1 fort | 1 fort |  |  |
+| Direction des nuages | " | " |  |  |
+| **Nébulosité** |  |  |  |  |
+| région Ouest (terre) | 0 | 0 |  |  |
+| id. Est (mer) | 0 | 2 |  |  |
+| Hauteur de la mer, en centimètres, au-dessus du zéro | **31,8** | **46,2** |  |  |
+| **Agitation de l'eau** | | | | |
+| |2 fort | 2 fort |  |  |
+| Densité de l'eau au bout de la jetée | **10,29,2** | **10,28,7** |  |  |
+| Température | **10,2** | **10,6** |  |  |
+| **OBSERVATIONS DU** | **18 Janvier** |
+| Nombre de bateaux sortis (pêche à l.) | N.c.n. |  |  |  |
+| **Température de l'air** |  |  |  |  |
+| maxima depuis la veille | **8,0** |  |  |  |
+| minima id. | **3** |  |  | **10** |
+| **Température de l'eau** |  |  |  |  |
+| maxima depuis la veille |  |  |  |  |
+| minima id. |  |  |  |  |
+| Pluie tombée depuis la veille, en millim. | " |  |  |  |
+| Evaporation depuis le 190, en millim. |  |  |  |  |
+| **Direction du vent (à terre)** | **à 9 h. m.** | **à 3 h. s.** |
+| Force | 1 fort | 2 |  |  |
+| Direction des nuages | Nors. | **N.E.** |  |  |
+| **Nébulosité** |  |  |  |  |
+| région Ouest (terre) | 10 dégrés | 60 |  |  |
+| id. Est (mer) | 10 dégrés | 40 |  |  |
+| Hauteur de la mer, en centimètres, au-dessus du zéro | **33,3** | **22,2** |  |  |
+| **Agitation de l'eau** | | | | |
+| |2 fort | 2 fort |  |  |
+| Densité de l'eau au bout de la jetée | **10,28,6** | **10,28,9** |  |  |
+| Température | **40,7** | **40,7** |  |  |

@@ -1,0 +1,1 @@
+Date Heure Hauteur Barométrique mmHg Direction du vent Force Nébulosité au dessus Pluie tombée Température de l air C Hauteur de la mer m Agitation de l eau Densité au bout de la jetée g cm³ Température de l eau C 9 juillet 1902 Matin 768 7 Est ouest e w 1 Reg O terre 0 23 2 13 7 1 Faible 1029 9 21 9 9 juillet 1902 Soir 769 2 Est 1 Reg O terre 2 dég 22 2 12 8 0 1029 7 23 0

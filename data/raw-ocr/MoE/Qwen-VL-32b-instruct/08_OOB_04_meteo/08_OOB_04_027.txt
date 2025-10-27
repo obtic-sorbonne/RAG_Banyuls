@@ -1,0 +1,91 @@
+# 14-17 Novembre 1901
+
+## Matin
+
+- **Fauteur Prazometrique**
+  - Direction des nuages du vent
+  - 207,1
+  - 01.0
+  - 17.75
+  - 17.75
+
+- **Punification de l'Aeg. O. (Loire)**
+  - 10 kg/m²
+  - 10 kg/m²
+
+- **Médiathèque**
+  - 10 kg. E. (mix)
+  - 10 kg/m²
+
+- **Direction des nuages**
+  - 01.0
+  - 1.9
+  - 9.6
+  - 31.1
+  - 31.1
+  - 1037.4
+  - 17.3
+
+- **Punification de l'Air**
+  - 1037.4
+  - 17.3
+
+## Novembre 1901
+
+- **Fauteur Prazometrique**
+  - Direction du vent
+  - 271,0
+  - 01.0
+  - 01.0
+  - 01.0
+  - 01.0
+
+- **Médiathèque**
+  - 271,0
+  - 01.0
+  - 01.0
+  - 01.0
+  - 01.0
+
+- **Médiathèque**
+  - 271,0
+  - 01.0
+  - 01.0
+  - 01.0
+  - 01.0
+
+- **Punification de l'Air**
+  - 11,8
+  - 18.9
+  - 40.0
+  - 44.9
+  - 1037.4
+  - 17.1
+  - 17.1
+
+- **Punification de l'Air**
+  - 11,8
+  - 18.9
+  - 40.0
+  - 44.9
+  - 1037.4
+  - 17.1
+  - 17.1
+
+- **Punification de l'Air**
+  - 11,8
+  - 18.9
+  - 40.0
+  - 44.9
+  - 1037.4
+  - 17.1
+  - 17.1
+
+- **Punification de l'Air**
+  - 11,8
+  - 18.9
+  - 40.0
+  - 44.9
+  - 1037.4
+  - 17.1
+  - 17.1

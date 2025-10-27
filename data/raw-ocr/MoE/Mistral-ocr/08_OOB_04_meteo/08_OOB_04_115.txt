@@ -1,0 +1,31 @@
+# V. 16 Juillet. 1902
+
+|  Hauteur | Praventique | 482.8  |
+| --- | --- | --- |
+|  Direction du vent |  | or.0.0  |
+|  Force |  | 4  |
+|  Nébulosité | Reg. O. (rené) | 10  |
+|   | Reg. E. (mer) | 10  |
+|  Direction des mages |  | or.0.0  |
+|  Pluie tombée |  | grelgure.3  |
+|  Température de l'air |  | 3  |
+|  Hauteur de la mer |  | 12.8  |
+|  Égralation de l'eau |  | 3  |
+|  Densité au bout de la jetée |  | 1026.8  |
+|  Température de l'eau |  | 21.4  |
+
+# V. 17 Juillet. 1902
+
+|  Hauteur | Praventique | 464.1  |
+| --- | --- | --- |
+|  Direction du vent |  | or.0.0  |
+|  Force |  | 3 fort  |
+|  Nébulosité | Reg. O. (rené) | 6  |
+|   | Reg. E. (mer) | 0  |
+|  Direction des mages |  | or.0.0  |
+|  Pluie tombée |  | grelgure.3  |
+|  Température de l'air |  | 24.6  |
+|  Hauteur de la mer |  | 13.7  |
+|  Égralation de l'eau |  | 3 fort  |
+|  Densité au bout de la jetée |  | 1026.8  |
+|  Température de l'eau |  | 21.0  |

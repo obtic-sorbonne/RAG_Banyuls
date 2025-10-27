@@ -1,0 +1,31 @@
+## Y. 4 Janvier - 1908
+
+|  **Pfandeur** | **Pharométrique** | **289,3** | **268,2**  |
+| --- | --- | --- | --- |
+|  Direction du vent | or. or. o | 2.9 |   |
+|  Force | 1/2 | 1/2 | 1  |
+|  Modulusité | Reg. O. (terre) | 0 | 0  |
+|  Modulusité | Reg. E. (mer) | 1 | 0  |
+|  Direction des nuages | " | " | "  |
+|  Flux tombe |  | 11,3 | 11,6  |
+|  Température de l'air | 11,3 | 11,6 |   |
+|  Hauteur de la mer | 2 faibles | 2 faibles |   |
+|  Écartation de l'eau | 1028,6 | 1028,1 |   |
+|  Densité au bout de la jetée | 12,2 | 12,3 |   |
+|  Température de l'eau | 12,2 | 12,3 |   |
+
+## Y. 6 Janvier - 1908
+
+|  **Pfandeur** | **Pharométrique** | **271,1** | **or. or. o**  |
+| --- | --- | --- | --- |
+|  Direction du vent | or. or. o | 1 |   |
+|  Force | 1/2 | 1 |   |
+|  Modulusité | Reg. O. (terre) | 0 |   |
+|  Modulusité | Reg. E. (mer) | 0 |   |
+|  Direction des nuages | or. or. o |  |   |
+|  Flux tombe |  |  |   |
+|  Température de l'air | 3,2 |  |   |
+|  Hauteur de la mer | 61,4 |  |   |
+|  Écartation de l'eau | 3 faibles |  |   |
+|  Densité au bout de la jetée | 1028,9 |  |   |
+|  Température de l'eau | 11,4 |  |   |

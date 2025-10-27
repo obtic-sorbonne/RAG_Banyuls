@@ -1,0 +1,33 @@
+```plaintext
+Sortie du 13 Avril 1903
+
+Départ de Banyuls                      à 5² 23 heures du matin
+pour Barcelone                         Arrivée à Palamos 11¹ 48
+Départ de Palamos                     à 1ʰ 18 heures du soir
+pour St Felu                           Arrivée à 2ʰ 18
+Départ de                               à heures du
+pour
+Arrivée au mouillage à St Felu de Guata 2ʰ 18 h. du soir
+
+Etat du temps : beau, trouvons grande houle sur le cap Bagur
+
+Passagers à bord : Excursion de Paques sous la conduite de Mr Director Primot – (60 personnes).
+
+Objet de la sortie :
+
+Consommation
+{ 43 briquettes de 10 Poids en Kilos 430
+  4 = huile                     Total en litres 4 =
+
+Dégagements
+
+Dépenses
+
+Observations : doublet du cap Creux à 7ʰ 13 
+               entre biefs 9ʰ 38 
+               cap Bagur 10ʰ 25 
+               St Feltre 11ʰ Palamos 11ʰ 48 
+               Déjenu au mouillage de Palamos 
+               ( tstormé un Sauptin dans le golfe de Rosas )
+```
+```

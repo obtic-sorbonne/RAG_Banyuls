@@ -1,0 +1,29 @@
+|  7.22 Octobre - 1906 | Nibaton | Bois  |
+| --- | --- | --- |
+|  Hauteur Nibaronubrique | 282.3 | 282.8  |
+|  Direction du vent | 2.5 | 1.1.3  |
+|  Force | 1 fort | 2 fort  |
+|  Reg. O. (tenue) | 0 | 13  |
+|  Nebulosiste |  |   |
+|  2 | 2 | 2  |
+|  Direction des nuages | 2.10 | 1.0  |
+|  Plein tombée |  |   |
+|  Dempperature de l'air | 20.8 | 23.2  |
+|  Hauteur de la mer | 28.6 | 30.8  |
+|  Sagitation de l'eau | 2 faible | 17.9  |
+|  Densité au bout de la jetée | 129.0 | 1088.4  |
+|  Dempperature de l'eau | 19.6 | 19.4  |
+|  7.23 Octobre - 1906 | Nibaton | Bois  |
+|  Hauteur Nibaronubrique |  | 208.2  |
+|  Direction du vent |  | 1.8  |
+|  Force |  | 1 fort  |
+|  Reg. O. (tenue) |  | 10  |
+|  Nebulosiste |  | 10  |
+|  2 |  | 2.0  |
+|  Direction des nuages |  | 21.4  |
+|  Plein tombée |  | 38.8  |
+|  Dempperature de l'air |  | 1  |
+|  Hauteur de la mer |  | 108.8  |
+|  Sagitation de l'eau |  | 13.1  |
+|  Densité au bout de la jetée |  |   |
+|  Dempperature de l'eau |  |   |

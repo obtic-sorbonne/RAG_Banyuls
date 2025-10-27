@@ -1,0 +1,30 @@
+| V. 28 Septembre 1907 | Matin | Soir |
+|-----------------------|-------|------|
+| Hauteur Barométrique  | 758.4 | 758.0 |
+| Direction du Vent     | S     | S.O  |
+| Force                 | 0     | 1    |
+| Reg. C. (Terre)       | 10    | 10   |
+| Nébulosité            |       |      |
+| Reg. X. (mer)         | 10    | 10   |
+| Direction des nuages  | S.E   | S.O  |
+| Pluie tombée          | "     | quelques gouttes |
+| Température de l'air  | 22°C  | 23.4°C |
+| Hauteur de la mer     | 21.6  | 20.6  |
+| Agitation de l'eau    | 3 faible | 3 faible |
+| Remontée au cours de la jetée | 4025.6 | 4027.4 |
+| Température de l'eau  | 20.7  | 20.7  |
+| V. 30 Septembre 1907 | Matin | Soir |
+|-----------------------|-------|------|
+| Hauteur Barométrique  | 757.4 | 758.3 |
+| Direction du Vent     | S.S.E | croix |
+| Force                 | 1 fort | 2    |
+| Reg. C. (Terre)       | 2     | 10   |
+| Nébulosité            |       |      |
+| Reg. X. (mer)         | 2     | 10   |
+| Direction des nuages  | S.S.E | croix |
+| Pluie tombée          | 47.71 | "    |
+| Température de l'air  | 19.0°C |      |
+| Hauteur de la mer     | 29.3  |      |
+| Agitation de l'eau    | 2 fort | 3 faible |
+| Remontée au cours de la jetée | 4028.6 | 5 |
+| Température de l'eau  | 21.2  |      |

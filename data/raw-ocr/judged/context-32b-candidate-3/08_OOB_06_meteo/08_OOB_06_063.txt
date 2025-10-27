@@ -1,0 +1,45 @@
+```plaintext
+| **Observations du 1960 13 février** |
+| --- |
+| **Nombre de bateaux sortis (pêche à l.)** | 23.0 |
+| **Température de l'air** |  |
+| - maxima depuis la veille | 23.0 °C |
+| - minima id. | 14.4 °C |
+| **Température de l'eau** |  |
+| - maxima depuis la veille | --- |
+| - minima id. | --- |
+| **Pluie tombée depuis la veille, en millim.** | --- |
+| **Évaporation depuis le 190, en millim.** | --- |
+| **Direction du vent (à terre)** | **à 9 h. m.** | **à 3 h. s.** |
+| - Force | foible | foible |
+| - Direction des nuages | N.N.O. | N.O. |
+| **Nébulosité** |  |
+| - région Ouest (terre) | 10 | 10 |
+| - id. Est (mer) | 10 | 10 |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (Bassin de Rabat)** | 29.4 | 29.4 |
+| **Agitation de l'eau** | 2 | 2 |
+| **Densité de l'eau au bout de la jetée** | 1027.6 g/cm³ | 1027.6 g/cm³ |
+| **Température id.** | 18.0 °C | 18.0 °C |
+
+| **Observations du 1960 14 février** |
+| --- |
+| **Nombre de bateaux sortis (pêche à l.)** | 21.6 |
+| **Température de l'air** |  |
+| - maxima depuis la veille | 21.6 °C |
+| - minima id. | 14.2 °C |
+| **Température de l'eau** |  |
+| - maxima depuis la veille | --- |
+| - minima id. | --- |
+| **Pluie tombée depuis la veille, en millim.** | quelques g |
+| **Évaporation depuis le 190, en millim.** | --- |
+| **Direction du vent (à terre)** | **à 9 h. m.** | **à 3 h. s.** |
+| - Force | 4 | 1 |
+| - Direction des nuages | N.O. | Nord |
+| **Nébulosité** |  |
+| - région Ouest (terre) | 2 | 10 |
+| - id. Est (mer) | 10 | 10 |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (Bassin de Rabat)** | 42.0 | 29.4 |
+| **Agitation de l'eau** | 2 | 2 |
+| **Densité de l'eau au bout de la jetée** | 1028.7 g/cm³ | 1028.7 g/cm³ |
+| **Température id.** | 17.9 °C | 17.9 °C |
+```

@@ -1,0 +1,51 @@
+| **Observations du 3 Octobre 1904** |
+| --- |
+| **Nombre de bateaux sortis (pêche à l)** | **16,7** |
+| **Température de l'air** |  |
+| maxima depuis la veille | **16,7** |
+| minima id. | **10,9** |
+| **Température de l'eau** |  |
+| maxima depuis la veille |  |
+| minima id. |  |
+| **Pluie tombée depuis la veille, en millim.** |  |
+| **Evaporation depuis le 26 Septembre 1904, en millim.** | **18,7** |
+| **Direction du vent (à terre)** | **M. E** | **S. S. O** |
+| **Force** | **1** | **1** |
+| **Direction des nuages** | **S. S. O** | **S. S. O** |
+| **Nébulosité** |  |  |
+| région Ouest (terre) | **10** | **10** |
+| id. Est (mer) | **10** | **10** |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.)** | **42,8** | **24,2** |
+| **Agitation de l'eau** | **1 faible** | **1 faible** |
+| **Densité de l'eau au bout de la jetée** | **1.028.0** | **1.024.8** |
+| **Température id.** | **18,7** | **18,7** |
+| **Is. Bernois Matin** | maxima **27,3** |  |
+| | minima **9,0** |  |
+
+---
+
+| **Observations du 4 Octobre 1904** |
+| --- |
+| **Nombre de bateaux sortis (pêche à l)** | **18,9** |
+| **Température de l'air** |  |
+| maxima depuis la veille | **18,9** |
+| minima id. | **14,3** |
+| **Température de l'eau** |  |
+| maxima depuis la veille |  |
+| minima id. |  |
+| **Pluie tombée depuis la veille, en millim.** |  |
+| **Evaporation depuis le 26 Septembre 1904, en millim.** |  |
+| **Direction du vent (à terre)** | **N. N. O** | **N. O.** |
+| **Force** | **1 faible** | **3 faible** |
+| **Direction des nuages** | **N. S. O** | **N. O.** |
+| **Nébulosité** |  |  |
+| région Ouest (terre) | **10** | **3** |
+| id. Est (mer) | **6** | **3** |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.)** | **31,1** | **19,0** |
+| **Agitation de l'eau** | **2 faible** | **2 faible** |
+| **Densité de l'eau au bout de la jetée** | **1.028.0** | **1.028.0** |
+| **Température id.** | **18.0** | **18.1** |
+| **Is. Bernois Matin** | maxima **27,0** |  |
+| | minima **14,4** |  |
+| **Is. Bernois Loir** | maxima **26,7** |  |
+| | minima **15,7** |  |

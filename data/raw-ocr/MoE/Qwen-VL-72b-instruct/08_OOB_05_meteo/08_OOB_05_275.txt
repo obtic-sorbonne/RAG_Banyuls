@@ -1,0 +1,28 @@
+|  |  | Matin | Soir |
+|---|---|---|---|
+| 24 Juillet 1907 | Hauteur Barométrique | 761,2 | 760,3 |
+|  | Direction du vent | S.O | S.S.E |
+|  | Force | 1 | 2 |
+|  | (Reg. C. Terre) | 10 | 10 |
+|  | Nébulosité | 10 | 10 |
+|  | (Reg. E. Ciel) | 10 | 10 |
+|  | Direction des nuages | S.O | S.O |
+|  | Pluie tombée | " | " |
+|  | Température de l'air | 23,4 | 29,7 |
+|  | Hauteur de la mer | 49,0 | 47,3 |
+|  | Agitation de l'eau | 1 faible | 1 faible |
+|  | Densité au bout de la jetée | 1027,2 | 1027,1 |
+|  | Température de l'eau | 21,8 | 22,3 |
+| 25 Juillet 1907 | Hauteur Barométrique | 760,8 | 760,7 |
+|  | Direction du vent | E.N.E | E.N.E |
+|  | Force | 3 | 3 forte |
+|  | (Reg. C. Terre) | 10 | 10 |
+|  | Nébulosité | 10 | 10 |
+|  | (Reg. E. Ciel) | 10 | 10 |
+|  | Direction des nuages | S.O | N.O |
+|  | Pluie tombée | " | quelques |
+|  | Température de l'air | 23,3 | 23,7 |
+|  | Hauteur de la mer | 49,0 | 47,8 |
+|  | Agitation de l'eau | 3 faible | 3 faible |
+|  | Densité au bout de la jetée | 1027,3 | 1027,1 |
+|  | Température de l'eau | 20,8 | 21,0 |

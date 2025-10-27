@@ -1,0 +1,31 @@
+# V. 13 Croit-1903
+
+|  Hauteur | Niveau  |
+| --- | --- |
+|  Hauteur Barométrique | 288.9  |
+|  Direction du vent | or.ov.  |
+|  Force | 17.6  |
+|  Nébulosité | (Rég. O. (1ère))  |
+|  Direction des nuages | or.ov.  |
+|  Élui lombi | 84.5  |
+|  Température de l'air | 46.4  |
+|  Hauteur de la mer | 16.4  |
+|  Agitation de l'eau | 16.4  |
+|  Densité au bout de la jetée | 108.8  |
+|  Température de l'eau | 88.3  |
+
+# V. 14 Croit-1903
+
+|  Hauteur | Niveau  |
+| --- | --- |
+|  Hauteur Barométrique | 280.4  |
+|  Direction du vent | f.0  |
+|  Force | 1  |
+|  Nébulosité | (Rég. O. (1ère))  |
+|  Direction des nuages | or.ov.  |
+|  Élui lombi | 81.4  |
+|  Température de l'air | 40.9  |
+|  Hauteur de la mer | 0  |
+|  Agitation de l'eau | 1  |
+|  Densité au bout de la jetée | 108.8  |
+|  Température de l'eau | 88.1  |

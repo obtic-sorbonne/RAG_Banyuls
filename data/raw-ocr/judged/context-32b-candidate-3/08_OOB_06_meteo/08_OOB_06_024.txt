@@ -1,0 +1,53 @@
+```markdown
+| **OBSERVATIONS DU 1960 26 Mai** |
+| --- |
+| **Nombre de bateaux sortis (pêche à la brêche)** | 18 |
+| **Température de l'air** |  |
+| - maxima depuis la veille | 21.9 |
+| - minima id. | 14.3 |
+| **Température de l'eau** |  |
+| - maxima depuis la veille | — |
+| - minima id. | — |
+| **Pluie tombée depuis la veille, en millim.** | — |
+| **Evaporation depuis le 1900, en millim.** | — |
+| **Direction du vent (à terre)** |  |  |
+| - à 9 h. m. | N.N.O. |
+| - à 3 h. s. | E.S.E. |
+| **Force** | 1 | — |
+| **Direction des nuages** |  |  |
+| - à 9 h. m. | N.S.E. |
+| - à 3 h. s. | S.S.E. |
+| **Nébulosité** |  |  |
+| - région Ouest (terre) | 10 |  |
+| - id. Est (mer) | 10 |  |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro** | 12.3 | 1.9 |
+| **Agitation de l'eau** | Forte | Faible |
+| **Densité de l'eau au bout de la jetée** | 1026.1 | 1026.2 |
+| **Température de l'eau au bout de la jetée** | 17.6 | 16.6 |
+
+| **OBSERVATIONS DU 1960 27 Mai** |
+| --- |
+| **Nombre de bateaux sortis (pêche à la brêche)** | 21 |
+| **Température de l'air** |  |
+| - maxima depuis la veille | 21.8 |
+| - minima id. | 12.8 |
+| **Température de l'eau** |  |
+| - maxima depuis la veille | — |
+| - minima id. | — |
+| **Pluie tombée depuis la veille, en millim.** | 23.12 |
+| **Evaporation depuis le 1900, en millim.** | — |
+| **Direction du vent (à terre)** |  |  |
+| - à 9 h. m. | N.N.O. |
+| - à 3 h. s. | E.S.E. |
+| **Force** | 1 | 1 |
+| **Direction des nuages** |  |  |
+| - à 9 h. m. | N.N.O. |
+| - à 3 h. s. | Ouest |
+| **Nébulosité** |  |  |
+| - région Ouest (terre) | 10 | 10 |
+| - id. Est (mer) | 10 | 10 |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro** | 49.8 | 40.1 |
+| **Agitation de l'eau** | Très Forte | Faible |
+| **Densité de l'eau au bout de la jetée** | 1029.4 | 1024.0 |
+| **Température de l'eau au bout de la jetée** | 19.6 | 17.6 |
+```

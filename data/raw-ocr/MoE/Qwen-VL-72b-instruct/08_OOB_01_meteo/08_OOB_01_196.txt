@@ -1,0 +1,19 @@
+Below is the transcribed content from the provided image, presented in a tabular format while maintaining the structure and original notations:
+
+| **Observation**               | **9h Matin**           | **18h Soir**          |
+|-------------------------------|-----------------------|-----------------------|
+| **Hauteur Barométrique**      | 762,2                 | 763,2                |
+| **Direction du vent**         | Nord                  | Nord                 |
+| **Force**                     | 3 (fort)              | 5 (faible)           |
+| **Nébulosités** | Rég. O (faire) | 3                     |
+|                              | Rég. E (coul)        | 10                    |
+| **Direction des nuages**      | Nord                  | Nord                 |
+| **Pluie tombée**              | " " (aucune)          | " " (aucune)         |
+| **Température de l'air**      | 4,9                   | 4,4                  |
+| **Hauteur de la mer**         | 34,9                  | 32,6                 |
+| **Agitation de l'eau**        | 3 (faible)            | 4                    |
+| **Densité de l'eau**          | (spinner spinning sus)|
+| **au bout**                   | au large             |                       |
+| **Température de l'eau**      | 11,3                  | 11,3                 |
+
+The date of the observation is: **Tâle - 7 Février 1901**.

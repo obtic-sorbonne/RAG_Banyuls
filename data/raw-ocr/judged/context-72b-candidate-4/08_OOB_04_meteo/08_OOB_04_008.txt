@@ -1,0 +1,32 @@
+```plaintext
+| **Date**         | **Matin**                     | **Soir**                     |
+|------------------|------------------------------|------------------------------|
+| **5 Octobre 1901** |                              |                              |
+| Hauteur Barométrique | 768.7 mm                    | 763.7 mm                     |
+| Direction du vent   | cr.cr.0                      | cr.cr.0                      |
+| Force               | 2                            | 2                            |
+| Nebulosité          | 0                            | 0                            |
+| Reg. O. (terre)     | 0                            | 0                            |
+| Reg. E. (mer)       | 0                            | 0                            |
+| Direction des nuages |                             | Quet                         |
+| Pluie tombée        | "                            | "                            |
+| Température de l'air | 16.3 °C                     | 17.4 °C                     |
+| Hauteur de la mer   | 10.9 m                       | 37.3 m                       |
+| Agitation de l'eau  | 1 fort                       | 1 T fort                     |
+| Densité au bout de la jetée | 1026.7 kg/m³          | 1026.3 kg/m³                 |
+| Température de l'eau | 17.8 °C                     | 18.4 °C                     |
+| **6 Octobre 1901** |                              |                              |
+| Hauteur Barométrique | 762.7 mm                    |                              |
+| Direction du vent   | cr.cr.0                      |                              |
+| Force               | 2                            |                              |
+| Nebulosité          | 0                            |                              |
+| Reg. O. (terre)     | 0                            |                              |
+| Reg. E. (mer)       | 0                            |                              |
+| Direction des nuages |                             |                              |
+| Pluie tombée        | "                            |                              |
+| Température de l'air | 16.4 °C                     |                              |
+| Hauteur de la mer   | 10.7 m                       |                              |
+| Agitation de l'eau  | 1 T. fort                    |                              |
+| Densité au bout de la jetée | 1026.7 kg/m³          |                              |
+| Température de l'eau | 18.9 °C                     |                              |
+```

@@ -1,0 +1,17 @@
+# Date: 17 Juillet 1901
+
+|  Item | Q# | Price  |
+| --- | --- | --- |
+|  Kanteur Parométrique | 763,4 | 767,8  |
+|  Direction Su sent | N.E. | N.E.  |
+|  Force | 1.7 faille | 1/faible  |
+|  Reg. O. (Tome) | 0 | 0  |
+|  Tebulosité |  |   |
+|  Direction des Anages | 0 | 0  |
+|  Unie tombe |  |   |
+|  Température de l'air | 27,4 | 26,6  |
+|  Nombre de la mer | 54,6 | 66,8  |
+|  Agitation de l'eau | 0 | 0  |
+|  Densité de l'eau | 1026,9 | 1026,5  |
+|  |   |   |
+|  Température de l'eau | 22,9 | 25,5  |

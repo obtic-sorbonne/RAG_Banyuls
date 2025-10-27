@@ -1,0 +1,16 @@
+# Date : 1er Décembre 1901
+
+|   | 9° Matin | 3° Soir  |
+| --- | --- | --- |
+|  Hauteur Barométrique | 770,6 | 770,6  |
+|  Direction du vent | Ouest | Ouest  |
+|  Force | 1 faible | 1 faible  |
+|  Nébulosité { Reg. C. (terre) } | 0 | 0  |
+|  Nébulosité { Reg. E. (mer) } | 0 | 0  |
+|  Direction des nuages | " | "  |
+|  Pluie tombée | " | "  |
+|  Température de l'air | 6,7 | 6,7  |
+|  Hauteur de la mer | 47,3 | 47,3  |
+|  Agitation de l'eau | 2 | 2  |
+|  Densité de l'eau { au bout de la jetée } | 1028,1 | 1028,1  |
+|  Température de l'eau | 18,7 | 18,7  |

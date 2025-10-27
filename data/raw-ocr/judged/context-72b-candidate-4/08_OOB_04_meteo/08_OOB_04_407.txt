@@ -1,0 +1,30 @@
+```plaintext
+| Date         | Matin                             | Soir                              |
+|--------------|-----------------------------------|-----------------------------------|
+| **4 Août 1904** |                                  |                                   |
+| Hauteur Barométrique | 770.0                          | 768.7                            |
+| Direction du vent   | S.S.E                          | S.S.E                            |
+| Force                | 2                             | 2                                |
+| Nébulosité (Reg. 0 - Terre) | 0                       | 0                                |
+| Nébulosité (Reg. 2 - Mer)   | 1                       | 0                                |
+| Direction des nuages      | S.S.E                      | S.S.E                            |
+| Pluie tombée             | "                         | "                                |
+| Température de l'air      | 27.3                       | 30.7                            |
+| Hauteur de la mer         | 49.7                       | 47.0                            |
+| Agitation de l'eau        | faible                    | forte                            |
+| Densité au bout de la jetée | 1026.7                    | 1026.7                            |
+| Température de l'eau      | 21.3                       | 21.4                            |
+| **5 Août 1904** |                                  |                                   |
+| Hauteur Barométrique | 769.1                          | 768.1                            |
+| Direction du vent   | S.S.E                          | S.S.E                            |
+| Force                | 0                             | 1                                |
+| Nébulosité (Reg. 0 - Terre) | 3                       | 3                                |
+| Nébulosité (Reg. 2 - Mer)   | 1                       | 0                                |
+| Direction des nuages      | S.S.E                      | Sud                              |
+| Pluie tombée             | "                         | "                                |
+| Température de l'air      | 27.2                       | 31.8                            |
+| Hauteur de la mer         | 41.5                       | 44.2                            |
+| Agitation de l'eau        | forte                     | faible                            |
+| Densité au bout de la jetée | 1026.1                    | 1026.1                            |
+| Température de l'eau      | 24.6                       | 26.3                            |
+```

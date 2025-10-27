@@ -1,0 +1,27 @@
+# OBSERVATIONS DU 1901 18 Sciannbre 
+
+Nombre de bateaux sortis (pêche à $l$ $\qquad$ ).
+![img-0.jpeg](img-0.jpeg)
+
+Nombre de bateaux sortis (pêche à $l$ $\qquad$ ).
+![img-1.jpeg](img-1.jpeg)
+
+Température de l'air $\left\{\begin{array}{l}\text { maxima depuis la veille } \\ \text { minima id. }\end{array}\right.$
+![img-2.jpeg](img-2.jpeg)
+
+Pluie tombée depuis la veille, en millim.
+Evaporation depuis le $\qquad$ 190 , en millim.
+
+$$
+\text { à } 9 \mathrm{~h} . \mathrm{m} . \quad \text { à } 3 \mathrm{~h} . \mathrm{s} .
+$$
+
+Direction du vent (à terre).
+Force $\qquad$ 8 $\qquad$ 1/20
+Direction des nuages $\qquad$ 1.0 $\qquad$ 1/0
+Nébulosité $\left\{\begin{array}{l}\text { région Ouest (terre) } \\ \text { id. Est (mer) }\end{array}\right.$ $\qquad$ 1/0 $\qquad$ 1/1
+Hauteur de la mer, en centimètres, au-dessus du zéro (A. 2.3 . 3) 39.1 14.3
+Agitation de l'eau $\qquad$ 1 $\qquad$ 1/20
+Densité de l'eau au bout de la jetée. $\qquad$ 1029.5 1029.0
+Température $\qquad$ id. $\qquad$ $14.1 \quad 14.1$ 14.1
+![img-3.jpeg](img-3.jpeg)

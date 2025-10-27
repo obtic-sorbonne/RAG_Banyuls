@@ -1,0 +1,17 @@
+```
+Journal Météorologique du Navire "La Belle Poule"
+Période : 27 au 30 Octobre 1905
+
+Date       | Heure | Hauteur Barométrique (mm) | Direction du vent | Force | Nébulosité (Reg. o. Terre) | Nébulosité (Reg. E. Mer) | Direction des nuages | Pluie tombée (mm) | Température de l'air (°C) | Hauteur de la mer (m) | Agitation de l'eau (code) | Densité au bout de la jetée (g/cm³) | Température de l'eau (°C)
+-----------|-------|---------------------------|-------------------|-------|---------------------------|---------------------------|---------------------|-------------------|--------------------------|-----------------------|--------------------------|------------------------------------|-------------------------
+27 Octobre 1905 | Matin | 758.2                    | S.S.O.            | is    | 6 claire                  | 10 nuageuse              | Ouest               | -                 | 14.2                     | 48.5                  | 2                        | 1028.4                             | 19.5
+27 Octobre 1905 | Soir  | 756.5                    | S.S.O.            | 1 fort | 2 nuageuse                | 10 nuageuse              | S.S.O.              | -                 | 19.8                     | 46.8                  | 2                        | 1028.4                             | 20.2
+28 Octobre 1905 | Matin | 752.9                    | S.S.O.            | 2     | 20 nuageuse               | 20 nuageuse              | S.O.                | 7.87              | 18.8                     | 59.1                  | 2                        | 1028.3                             | 19.9
+28 Octobre 1905 | Soir  | 750.9                    | S.O.              | 1 fort | 0 claire                  | 0 claire                  | S.O.                | -                 | 21.3                     | 49.3                  | 3                        | 1028.2                             | 20.0
+29 Octobre 1905 | Matin | 748.7                    | S.E.              | is    | 10 légèrement dégagée     | 10 légèrement dégagée     | S.O.                | -                 | 18.8                     | 36.1                  | 2 fort                   | 1027.9                             | 19.6
+29 Octobre 1905 | Soir  | 746.9                    | S.E.8             | 1 fort | légèrement dégagée        | légèrement dégagée        | S.O.                | -                 | 23.4                     | 47.3                  | 2 faible                 | 1027.8                             | 19.8
+30 Octobre 1905 | Matin | 742.8                    | cr. 8             | is    | 2 légèrement dégagée      | 10 légèrement dégagée     | S.O.                | -                 | 17.4                     | 36.9                  | 1 fort                   | 1028.2                             | 19.1
+30 Octobre 1905 | Soir  | 742.8                    | S.E.              | 1 fort | 10 légèrement dégagée     | 10 légèrement dégagée     | S.O.                | -                 | 21.0                     | 51.6                  | 1                        | 1027.9                             | 20.0
+
+Note Marginale : Aucune remarque particulière pour ces dates.
+```

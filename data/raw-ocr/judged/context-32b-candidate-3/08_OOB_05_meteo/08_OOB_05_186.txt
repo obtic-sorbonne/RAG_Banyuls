@@ -1,0 +1,29 @@
+```markdown
+| Date            | Matin            | Soir            |
+|-----------------|------------------|-----------------|
+| **V. 12 Décembre 1906** |                  |                 |
+| Hauteur barométrique | 769.3 mmHg | 769.3 mmHg |
+| Direction du vent | Ouest | Ouest |
+| Force            | 1° | 0° |
+| Nébulosité (Reg. 0. (Cléne)) | 10 | 10 |
+| Direction des nuages (Reg. 0. (Cléne)) | Ouest | cr. O |
+| Pluie tombée       | — | — |
+| Température de l'air | 9.0 °C | 12.4 °C |
+| Hauteur de la mer  | 11.6 m | 43.1 m |
+| Agitation de l'eau | 2 | 1 fois |
+| Densité au bout de la jetée | 1029.4 kg/m³ | 1029.0 kg/m³ |
+| Température de l'eau | 14.0 °C | 14.7 °C |
+
+| **V. 14 Décembre 1906** |                  |                 |
+| Hauteur barométrique | 768.3 mmHg | 762.3 mmHg |
+| Direction du vent | cr. O | cr. O |
+| Force            | 1° | 1° |
+| Nébulosité (Reg. 0. (Cléne)) | 10 | 10 |
+| Direction des nuages (Reg. 0. (Cléne)) | cr. O | cr. O |
+| Pluie tombée       | 1.0 g | quelques g |
+| Température de l'air | 12.6 °C | 10.6 °C |
+| Hauteur de la mer  | 62.7 m | 13.8 m |
+| Agitation de l'eau | 2 | 2 |
+| Densité au bout de la jetée | 1029.3 kg/m³ | 1029.4 kg/m³ |
+| Température de l'eau | 13.7 °C | 13.6 °C |
+```

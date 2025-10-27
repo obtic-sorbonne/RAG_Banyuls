@@ -1,0 +1,17 @@
+| Date de l'observation | 06/10/1901 |
+| --- | --- |
+| **Paramètres météorologiques** | **9 H Matin** | **15 H Soir** |
+| ____ | ____ | ____ |
+| Hauteur barométrique (hPa) | 762,7 |  |
+| Direction du vent | N.N.O |  |
+| Force (Bft) | 2 | 3 |
+| Étendue des nuages | | |
+| - Région 6 (littoral) | 0 |  |
+| - Région E (mer) | 0 |  |
+| Précipitations (Pluie tombée) |  |  |
+| Température de l'air (°C) | 16,2 |  |
+| Agitation de la mer | Très forte |  |
+| Densité de l'eau (en kg/m³) | | 1026,7 |
+| - Au bout de la jetée |  |  |
+| - En pleine mer |  |  |
+| Température de l'eau (°C) | 18,5 |  |

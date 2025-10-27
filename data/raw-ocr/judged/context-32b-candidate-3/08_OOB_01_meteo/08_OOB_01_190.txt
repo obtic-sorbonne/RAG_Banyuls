@@ -1,0 +1,21 @@
+# Date. 1er février. 1901
+
+|  | 9. 10 matin | 3. 8 soir |
+| --- | --- | --- |
+| **Hauteur Barométrique** | 251,5 | 250,8 |
+| **Direction du vent** | Ouest | Sud |
+| **Force** | 2, faible | 3, faible |
+| **Nébulosité** | 10 | 10 |
+| **Rég. E. (terre)** | 10 | 10 |
+| **Rég. E. (mer)** | 10 | 10 |
+| **Direction des nuages** | 10 | 10 |
+| **Pluie tombée** | 6,425 | 6,425 |
+| **Température de l'air** | 4,4 | 6,2 |
+| **Hauteur de la mer** | 25,6 | 35,8 |
+| **Agitation de l'eau** | 1, faible | 1, faible |
+| **Densité de l'eau** | 1028,9 | 1028,9 |
+| **au bout de la jetée** | 1028,9 | 1028,9 |
+| **au large** | 1028,9 | 1028,9 |
+| **Température de l'eau** | 11,9 | 12,0 |
+
+L'aimant 3. 8 soir

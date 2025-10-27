@@ -1,0 +1,19 @@
+# 40
+
+## Sortie du 11.12 190
+
+|  Dipart. de | à | heures du  |
+| --- | --- | --- |
+|  pour | Arrivée à |   |
+|  Dipart. de | à | heures du  |
+|  pour | Arrivée à |   |
+|  Dipart. de | à | heures du  |
+|  pour |  |   |
+|  Arrivée au mouillage |  | à  |
+|  Etat du temps: |  |   |
+|  Passagers à bord: |  |   |
+|  Objet de la sortie: |  |   |
+|  Consommation | Briquettes de | Soins en kilos  |
+|   | Eau de | Étoils en litres  |
+|  Dépenses |  |   |
+|  Observations: |  |   |

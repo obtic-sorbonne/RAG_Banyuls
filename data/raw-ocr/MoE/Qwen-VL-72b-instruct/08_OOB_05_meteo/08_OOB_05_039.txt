@@ -1,0 +1,27 @@
+| Nombres de pairs | du bateaux - 7 | R. 29 Septembre -1905 Matin | Soir |
+|---|---|---|---|
+| Hauléur Barométrique | | 799.4 | 797.6 |
+| Direction du vent | | S.E | S.S.E |
+| Force | is | 1: | 1 fort |
+| Nebulosite | Reg. O. (terre) | 10 légèrement cégée entiè | légèrement cégeant |
+| L Reg. E. (mer) | 10 légèrement cégeant | légèrement cégeant |
+| Direction des nuages | S.O | S.O |
+| Pluie Tombée | " | " |
+| Température de l'air | 18.8 | 23.4 |
+| Hauteur de la mer | 86.1 | 47.3 |
+| Agitation de l'eau | 2 fort | 2 faible |
+| Densité au bout de la jetée | 1027.9 | 1027.8 |
+| Température de l'eau | 19.6 | 19.8 |
+| Nombres de pairs | du bateaux - 7 | R. 30 Septembre -1905 Matin | Soir |
+| Hauléur Barométrique | | 762.7 | 762.7 |
+| Direction du vent | cr. 8 | S.E |
+| Force | iS | 1 | 1 fort |
+| Nebulosite | Reg. O. (Cleue) | 2 légèrement cégeant | 10 légèrement cégeant |
+| L Reg. E. (mer) | 1 légèrement cégeant | 10 légèrement cégeant |
+| Direction des nuages | S.O | S.O |
+| Pluie Tombée | " | " |
+| Température de l'air | 17.4 | 21.0 |
+| Hauteur de la mer | 86.9 | 51.6 |
+| Agitation de l'eau | 1 fort | 1 |
+| Densité au bout de la jetée | 1028.2 | 1027.9 |
+| Température de l'eau | 19.1 | 20.0 |

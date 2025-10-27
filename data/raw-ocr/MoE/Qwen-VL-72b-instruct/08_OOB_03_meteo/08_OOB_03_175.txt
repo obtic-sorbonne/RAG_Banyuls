@@ -1,0 +1,16 @@
+| Date | 2 avril 1902 |
+| --- | --- |
+| **Paramètres** | **Observations** |
+| --- | --- |
+| Hauteur Barométrique | 766,8 |
+| Direction du vent | S.S.E |
+| Force | 1 |
+| Nébulosité | Reg. 0 (claire) |
+| | Reg. 1 (mar) |
+| Direction des nuages | Estsud |
+| Pluie tombée | O |
+| Température de l'air | 16,8 |
+| Hauteur de la mer | 4′,1 |
+| Agitation de l'eau | O |
+| Densité de l'eau | 1027,3 |
+| Température de l'eau | 14,3 |

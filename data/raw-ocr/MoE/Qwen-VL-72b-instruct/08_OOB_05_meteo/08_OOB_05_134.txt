@@ -1,0 +1,26 @@
+| Date       | Observations                           | Matin | Soir |
+|------------|----------------------------------------|-------|------|
+| 1er Août 1906 | Hauteur Barométrique                   | 769.2 | 767.4 |
+|             | Direction du vent                      | cr. 8 | S. 8 |
+|             | Force                                  | 15    | 3    |
+|             | Nébulosité                             | Reg. 0 (claire) | 0    |
+|             | (Reg. X. (nuée))                       | 60    | 1    |
+|             | Direction des nuages                   | cr. 8 | S. S. E |
+|             | Pluie tombée                           | "     | "    |
+|             | Température de l'air                   | 26.6  | 32.0 |
+|             | Hauteur de la mer                      | 33.2  | 39.4 |
+|             | Agitation de l'eau                     | 1 Tr. faible | 1    |
+|             | Densité au bout de la jetée            | 1027.2 | 1026.6 |
+|             | Température de l'eau                   | 23.0  | 29.4 |
+| 2 Août 1906 | Hauteur Barométrique                   | 767.3 |      |
+|             | Direction du vent                      | S. E  |      |
+|             | Force                                  | 15    |      |
+|             | Nébulosité                             | Reg. 0 (claire) | 0    |
+|             | (Reg. X. (nuée))                       |       |      |
+|             | Direction des nuages                   | S. E  |      |
+|             | Pluie tombée                           | "     |      |
+|             | Température de l'air                   | 26.0  |      |
+|             | Hauteur de la mer                      | 34.5  |      |
+|             | Agitation de l'eau                     | 0     |      |
+|             | Densité au bout de la jetée            | 1026.1 |      |
+|             | Température de l'eau                   | 27.0  |      |

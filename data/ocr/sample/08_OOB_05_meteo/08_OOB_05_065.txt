@@ -1,0 +1,16 @@
+```
+| Date | Matin | Soir |
+|------|-------|------|
+| **9 Décembre 1905** |   |    |
+| Hauteur barométrique | 769.3 | 768.8 |
+| Direction du vent | cr.cr.o | cr.o |
+| Force | is | 2 |
+| Nébulosité (Reg. o. (clère)) | 0 | 0 |
+| Réfraction des images | croix | croix |
+| Pluie tombée | " | " |
+| Température de l'air | 8.6 | 8.0 |
+| Hauteur de la mer | 10.0 | 10.2 |
+| Agitation de l'eau | 2 fort | 2 fort |
+| Densité au bout de la jetée | 1029.9 | 1029.2 |
+| Température de l'eau | 14.5 | 15.0 |
+```

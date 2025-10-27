@@ -1,0 +1,17 @@
+| **Paramètres**                      | **9ʰ Matin** | **3ʰ Soir** |
+|------------------------------------|-------------|-------------|
+| Hauteur Barométrique              | 753,6       | 754,3       |
+| Direction du vent                 | Ouest       | E.S.E       |
+| Force du vent (échelle 1 à 10)    | 3           | 1 faible    |
+| Nébulosité (Couverture nuageuse)  | 10          | 10          |
+| Reg. O. (terre)                   |             |             |
+| Reg. E. (mer)                     |             |             |
+| Direction des nuages              | Nord        | Ouest       |
+| Pluie tombée                      |             |             |
+| Température de l'air              | 12,8 °C     | 11,8 °C     |
+| Hauteur de la mer                 | 43,8        | 44,3        |
+| Agitation de l'eau                | 1 T. faible | 1 faibl     |
+| Densité de l'eau                  |             |             |
+| - au bout de la jetée             |             |             |
+| - au large                        |             |             |
+| Température de l'eau              | 10,6 °C     | 11,0 °C     |

@@ -1,0 +1,29 @@
+| V. 27 Septembre -1905 | Matin | Soir |
+|---|---|---|
+| Hauteur Barométrique | 760.8 | 758.3 |
+| Direction du vent | E.E.O | S.S.O |
+| Force | iS | 1 fort. |
+| Nébulosité | Reg.a (terre) | W | Phégénée |
+| Reg.F.(mer) | W | O |
+| Direction des nuages | Ouest. | S.S.O |
+| Pluie tombée | " | " |
+| Température de l'air | 17.7 | 19.4 |
+| Hauteur de la mer | 48.2 | 46.2 |
+| Agitation de l'eau | I | Faible |
+| Densité au bout de la jetée | 1028.3 | 1028.3 |
+| Température de l'eau | 19.4 | 20.1 |
+
+| V. 28 Septembre -1905 | Matin | Soir |
+|---|---|---|
+| Hauteur Barométrique | 754.6 | 752.6 |
+| Direction du Vent | S.S.O | S.O |
+| Force | iS | 2 | 1 fort- |
+| Nébulosité | Reg.G. (terre) | W | O |
+| Reg.H. (mer) | W | I |
+| Direction des nuages | S.O | S.O |
+| Pluie tombée | 7.87/ | " |
+| Température de l'air | 18.8 | 21.3 |
+| Hauteur de la mer | 59.1 | 49.3 |
+| Agitation de l'eau | 2 | Forte |
+| Densité au bout de la jetée | 1028.3 | 1028.2 |
+| Température de l'eau | 19.9 | 20.0 |

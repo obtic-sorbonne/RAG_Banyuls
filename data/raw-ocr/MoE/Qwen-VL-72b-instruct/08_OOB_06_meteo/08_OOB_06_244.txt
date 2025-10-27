@@ -1,0 +1,49 @@
+| **OBSERVATIONS DU 1902 29 Janvier** |
+| --- |
+| **Nombre de bateaux sortis (pêche à l.)** |  |
+| **Température de l'air** |
+| Maxima depuis la veille | 14.4 |
+| Minima id. | 10.3 |
+| **Température de l'eau** |
+| Maxima depuis la veille |  |
+| Minima id. |  |
+| **Pluie tombée depuis la veille, en millim.** | 7 |
+| **Évaporation depuis le 1900, en millim.** |  |
+| **Direction du vent (à terre)** | **à 9 h. m.** | **à 3 h. s.** |
+| Force | faible |  |
+| Direction des nuages | N.O. |  |
+| **Nébulosité** |
+| région Ouest (terre) | 10 | 10 |
+| id. Est (mer) | 10 | 10 |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.)** | 9.7 |  |
+| **Agitation de l'eau** | 3 |  |
+| **Densité de l'eau au bout de la jetée** | 1026.0 |  |
+| **Température id.** |  |
+| **15. Matin** | **Maxima** | 12.0 |
+| **(Minima)** | 8.3 |  |
+
+| **OBSERVATIONS DU 1902 28 Janvier** |
+| --- |
+| **Nombre de bateaux sortis (pêche à l.)** |  |
+| **Température de l'air** |
+| Maxima depuis la veille | 16.6 |
+| Minima id. | 7.9 |
+| **Température de l'eau** |
+| Maxima depuis la veille |  |
+| Minima id. |  |
+| **Pluie tombée depuis la veille, en millim.** | quelques |
+| **Évaporation depuis le 1900, en millim.** |  |
+| **Direction du vent (à terre)** | **à 9 h. m.** | **à 3 h. s.** |
+| Force | fort | fort |
+| Direction des nuages | N.N.O | N.N.O |
+| **Nébulosité** |
+| région Ouest (terre) | 10 | 10 |
+| id. Est (mer) | 10 | 10 |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.)** | 14.8 | 14.6 |
+| **Agitation de l'eau** | 1 fort | 1 fort |
+| **Densité de l'eau au bout de la jetée** | 1024.7 | 1024.3 |
+| **Température id.** |  |
+| **15. Matin** | **Maxima** | 12.0 |
+| **(Minima)** | 11.5 | 11.7 |
+| **Loin** | **Maxima** | 23.4 |
+| **(Minima)** | 5.9 | 9.4 |

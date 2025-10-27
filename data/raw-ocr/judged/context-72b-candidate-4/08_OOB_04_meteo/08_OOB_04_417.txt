@@ -1,0 +1,28 @@
+```plaintext
+| **Date**       | **Matin** | **Soir** |
+|----------------|-----------|----------|
+| **V. 3 Septembre 1904** | **Hauteur Barométrique** | 769.4 | 764.6 |
+|                | **Direction du vent** | Sud-Est | Sud-Est |
+|                | **Force** | 2 | 2 (fort) |
+|                | **Nébulosité (Reg. 0. Claire)** | 0 | 0 |
+|                | **Nébulosité (Reg. 2. Mer)** | 0 | 0 |
+|                | **Direction des nuages** | Ouest | Ouest |
+|                | **Pluie tombée** | " | " |
+|                | **Température de l'air** | 21.7 | 21.6 |
+|                | **Hauteur de la mer** | 60.5 cm | 62.2 cm |
+|                | **Agitation de l'eau** | 2 (faible) | 2 (fort) |
+|                | **Densité au bout de la jetée** | 1027.5 | 1027.4 |
+|                | **Température de l'eau** | 20.7 | 21.3 |
+| **V. 4 Septembre 1904** | **Hauteur Barométrique** | 761.7 |  |
+|                | **Direction du vent** | Sud-Est |  |
+|                | **Force** | 2 |  |
+|                | **Nébulosité (Reg. 0. Claire)** | 0 |  |
+|                | **Nébulosité (Reg. 2. Mer)** | 0 |  |
+|                | **Direction des nuages** | Ouest |  |
+|                | **Pluie tombée** | " |  |
+|                | **Température de l'air** | 22.1 |  |
+|                | **Hauteur de la mer** | 29.8 cm |  |
+|                | **Agitation de l'eau** | 1 (fort) |  |
+|                | **Densité au bout de la jetée** | 1027.4 |  |
+|                | **Température de l'eau** | 21.0 |  |
+```

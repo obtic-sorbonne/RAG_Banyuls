@@ -1,0 +1,22 @@
+# Date - 13 Février 1901
+
+|  |   |   |
+| --- | --- | --- |
+|  Houteur Barometrique | 9" Matin 3" Soir |   |
+|  Direction du vent | 70f,1 | 704,5  |
+|  Force | 7000 | 7000  |
+|  Pédbulosité | 0 | 0  |
+|  Rég. E. (mer) |  |   |
+|  Direction des nuages |  |   |
+|  Shine tombée |  |   |
+|  Température de l'air |  | 1  |
+|   |  | 2,0  |
+|  Hauteur de la mer |  | 52,0  |
+|  Égrégation de l'eau |  | 47,5  |
+|  Densité de l'eau | par bout de la jetée |   |
+|  au large |  |   |
+|  Température de l'eau |  | 9,5  |
+
+9" Matin 3" Soir
+
+70f,1 704,5 0 0

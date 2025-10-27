@@ -1,0 +1,47 @@
+```plaintext
+| **OBSERVATIONS DU 1961 17 Janvier** |
+| --- |
+| **Nombre de bateaux sortis (pêche à la ligne)** | **0** |
+| **Température de l'air** |
+| - **maxima depuis la veille** | **7.6** |
+| - **minima id.** | **3.10** |
+| **Température de l'eau** |
+| - **maxima depuis la veille** |  |
+| - **minima id.** |  |
+| **Pluie tombée depuis la veille, en millim.** | **11** |
+| **Evaporation depuis le 190, en millim.** |  |
+| **à 9 h. m.** | **à 3 h. s.** |
+| **Direction du vent (à terre)** | **S.S.O.** | **S.S.O.** |
+| **Force** | **1 fort** | **1 fort** |
+| **Direction des nuages** | **N.O.** | **N.O.** |
+| **Nébulosité** | 0 | 0 |
+| - **région Ouest (terre)** | **0** | **2** |
+| - **id. Est (mer)** |  |  |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B.Q.)** | **31.8** | **46.2** |
+| **Agitation de l'eau** | **2 fort** | **2 fort** |
+| **Densité de l'eau au bout de la jetée** | **1029.2** | **1028.9** |
+| **Température id.** | **10.2** | **10.6** |
+
+| **OBSERVATIONS DU 1961 18 Janvier** |
+| --- |
+| **Nombre de bateaux sortis (pêche à la ligne)** | **8.0** |
+| **Température de l'air** |
+| - **maxima depuis la veille** | **7.6** |
+| - **minima id.** | **3.10** |
+| **Température de l'eau** |
+| - **maxima depuis la veille** |  |
+| - **minima id.** |  |
+| **Pluie tombée depuis la veille, en millim.** | **"** |
+| **Evaporation depuis le 190, en millim.** |  |
+| **à 9 h. m.** | **à 3 h. s.** |
+| **Direction du vent (à terre)** | **Nord** | **N.E.** |
+| **Force** | **1 fort** | **2** |
+| **Direction des nuages** | **M.M.O.** | **M.M.O.** |
+| **Nébulosité** | **10** | **10** |
+| - **région Ouest (terre)** | **10** | **10** |
+| - **id. Est (mer)** |  |  |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.)** | **33.3** | **46.2** |
+| **Agitation de l'eau** | **2 fort** | **2 fort** |
+| **Densité de l'eau au bout de la jetée** | **1028.6** | **1028.7** |
+| **Température id.** | **10.7** | **10.7** |
+```

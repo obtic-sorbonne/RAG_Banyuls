@@ -1,0 +1,15 @@
+| Date et Heure | 16 Octobre 1901 | 10h Matin, 3h Soir |
+|---|---|---|
+| Hauteur Barométrique | 755.2 mmHg |
+| Direction du Vent | N.N.E. |
+| Force du Vent | 1 T. (faible) |
+| Nébulosité (Terre) | 10/10 |
+| Nébulosité (Mer) | 10/10 |
+| Direction des Nuages | S.S.E. |
+| Pluie tombée | - |
+| Température de l'Air | 17.5 °C |
+| Hauteur de la Mer | 22.3 m |
+| Agitation de l'Eau | 2 (faible) |
+| Densité de l'Eau (bout de la jetée) | 1027.4 kg/m³ |
+| Densité de l'Eau (au large) | - |
+| Température de l'Eau | 17.7 °C |

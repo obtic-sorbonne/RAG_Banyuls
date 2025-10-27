@@ -1,0 +1,55 @@
+| Observations du **1901 7 Septembre** |
+| --- |
+| **Nombre de bateaux sortis (pêche à l)** | 37.3 |
+| **Température de l'air** |
+| maxima depuis la veille | 20.7 |
+| minima id. |  |
+| **Température de l'eau** |
+| maxima depuis la veille |  |
+| minima id. |  |
+| **Pluie tombée depuis la veille, en millim** |  |
+| **Evaporation depuis le 190 , en millim** |  |
+| **à 9 h m.** | **à 3 h s.** |
+| **Direction du vent (à terre)** |  |  |
+| **Force** | 0 |  |
+| **Direction des nuages** |  |  |
+| **Nébulosité** |  |  |
+| région Ouest (terre) | 0 |  |
+| id. Est (mer) | 0 |  |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.)** | 38.2 |  |
+| **Agitation de l'eau** | 1 (faible) |  |
+| **Densité de l'eau au bout de la jetée** | 102.1/1 |  |
+| **Température id.** | 24.7 |  |
+| - is. Bolans, Matin | 29.7 |  |
+| - is. Terrasse Matin | 47.8 |
+|  | Minima |  |
+|  | 17.7 |  |
+| --- |
+| Observations du **1901 8 Septembre** |
+| --- |
+| **Nombre de bateaux sortis (pêche à l)** | 34.2 |
+| **Température de l'air** |
+| maxima depuis la veille | 20.6 |
+| minima id. |  |
+| **Température de l'eau** |
+| maxima depuis la veille |  |
+| minima id. |  |
+| **Pluie tombée depuis la veille, en millim** |  |
+| **Evaporation depuis le 190 , en millim** |  |
+| **à 9 h m.** | **à 3 h s.** |
+| **Direction du vent (à terre)** |  |  |
+| **Force** | 1 | 2 (faib) |
+| **Direction des nuages** |  |  |
+| **Nébulosité** |  |  |
+| région Ouest (terre) | 0 | 0 |
+| id. Est (mer) | 0 | 0 |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.)** | 34.8 | 37.1 |
+| **Agitation de l'eau** | 1 (faible) | 1 (faible) |
+| **Densité de l'eau au bout de la jetée** | 102.1/1 | 102.1/4 |
+| **Température id.** | 24.7 | 26.3 |
+| - is. Bolans | 36.7 | 36.2 |
+| - is. Terrasse Matin | 19.0 | 38.2 |
+| - is.-is. Lois | 19.8 | 38.2 |
+|  | Minima |  |
+|  | 17.8 |  |
+|  | Minima |  |

@@ -1,0 +1,27 @@
+| Date | Heure | Matin | Soir |
+|------|-------|-------|------|
+| V. 15 Décembre 1905 | Hauteur Barométrique | 770.2 | 770.3 |
+| Direction du vent | E.O | E.Cr.O |
+| Force | 1/5 | 1/Fort |
+| Nébulosité (Reg. O.) | 0 | 0 |
+| Nébulosité (Reg. Z.) | 7 | 0 |
+| Direction des nuages | E.Cr.E | " |
+| Pluie tombée | " | " |
+| Température de l'air | 7.9 | 8.9 |
+| Hauteur de la mer | 48.3 | 49.8 |
+| Agitation de l'eau | 2 Fort | 2 |
+| Densité au bout de la jetée | 1029.3 | 1029.3 |
+| Température de l'eau | 17.0 | 14.0 |
+
+| V. 19 Décembre 1905 | Hauteur Barométrique | 769.2 | 768.3 |
+| Direction du vent | S.O | " |
+| Force | 1/5 | Faible |
+| Nébulosité (des. O.) | 10 | 10 |
+| Nébulosité (Reg. Z.) | 10 | 10 |
+| Direction des nuages | S.O | S.O |
+| Pluie tombée | " | " |
+| Température de l'air | 6.9 | 9.6 |
+| Hauteur de la mer | 94.0 | 96.1 |
+| Agitation de l'eau | 2 Fort | 2 |
+| Densité au bout de la jetée | 1029.9 | 1029.3 |
+| Température de l'eau | 14.9 | 14.8 |

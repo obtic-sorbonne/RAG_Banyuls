@@ -1,0 +1,52 @@
+| **OBSERVATIONS DU 1902 6 Janvier** |
+| --- |
+| Nombre de bateaux sortis (pêche à l…) | 19.4 |
+| **Température de l'air** |  |  |
+| maxima depuis la veille… | 19.7 |
+| minima id… | 6.7 |
+| **Température de l'eau** |  |  |
+| maxima depuis la veille… |  |
+| minima id… |  |
+| Pluie tombée depuis la veille, en millim…… |  |
+| Evaporation depuis le 190…… en millim… |  |
+| **Direction du vent (à terre)** | à 9 h. m. | à 3 h. s. |
+| Force | 1 | 1 |
+| Direction des nuages… | N.O. | N.-N.O. |
+| **Nébulosité** |  |  |
+| région Ouest (terre)… | 60 | 60 |
+| id. Est (mer)… | 40 | 40 |
+| Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.)… | 22.2 | 46.4 |
+| Agitation de l'eau… | 1 | 1 |
+| Densité de l'eau au bout de la jetée… | 1028.9 | 1028.8 |
+| Température |  |  |
+| id. | 13.7 | 13.7 |
+| Terre (balancé) | Matin { maxima 9.2 | minima | 23.2 | 12.9 |
+| id. | { maxima | minima |  |  |
+| Terrane | Matin { maxima 8.3 | minima | 23.2 | 23.2 |
+| id. | { maxima | minima |  | 9.2 |
+| **OBSERVATIONS DU 1902 8 Janvier** |
+| --- |
+| Nombre de bateaux sortis (pêche à l…) | 20.8 |
+| **Température de l'air** |  |  |
+| maxima depuis la veille… | 20.6 |
+| minima id… | 7.6 |
+| **Température de l'eau** |  |  |
+| maxima depuis la veille… |  |
+| minima id… |  |
+| Pluie tombée depuis la veille, en millim…… | quelques g. |
+| Evaporation depuis le 3 Octobre 1901, en millim… | 29.7mm |
+| **Direction du vent (à terre)** | à 9 h. m. | à 3 h. s. |
+| Force | 1,9+4/10 | 1 |
+| Direction des nuages… | N.-N.O. | S.-S.-E. |
+| **Nébulosité** |  |  |
+| région Ouest (terre)… | 60 | 60 |
+| id. Est (mer)… | 60 | 40 |
+| Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.)… | 40.5 | 49.0 |
+| Agitation de l'eau… | 2 (faible) | 9 |
+| Densité de l'eau au bout de la jetée… | 1028.9 | 1028.9 |
+| Température |  |  |
+| id. | 13.1 | 13.2 |
+| Terre | Matin { maxima 23.4 | minima | 10.1 | 23.0 |
+| id. | { maxima | minima |  | 19.9 |
+| Terrane | Matin { maxima | minima |  |  |
+| id. | { maxima | minima |  | 10.6 |

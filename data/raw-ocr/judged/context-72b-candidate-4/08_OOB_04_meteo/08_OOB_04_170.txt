@@ -1,0 +1,30 @@
+```plaintext
+| Date       | Matin                       | Soir                       |
+|------------|----------------------------|----------------------------|
+| V. 26 X 1902 |                             |                             |
+| Hauteur Barométrique | 778.7                    | 771.5                    |
+| Direction du vent    | cr. cr.o                 | cr. cr.o                 |
+| Force                 | 2 faible                 | 1 faible                  |
+| Nebulosité (Reg. O. Clère) | 10                    | légère           |
+| Nebulosité (Reg. 2. Mer)  | 10                    | légère           |
+| Direction des nuages |                          |                          |
+| Pluie tombée          | "                        | "                        |
+| Température de l'air  | 9.8                      | 13.5                     |
+| Hauteur de la mer     | 61.3                     | 67.2                     |
+| Agitation de l'eau    | 2                        | 1 faible                  |
+| Densité au bout de la jetée | 1028.6                    | 1029.2                    |
+| Température de l'eau  | 12.9                     | 13.0                     |
+| V. 27 X 1902 |                             |                             |
+| Hauteur Barométrique | 771.5                    |                          |
+| Direction du vent    | cr. cr.o                 |                          |
+| Force                 | 2 faible                 |                          |
+| Nebulosité (Reg. O. Clère) | 10                    |                          |
+| Nebulosité (Reg. 2. Mer)  | 10                    |                          |
+| Direction des nuages |                          |                          |
+| Pluie tombée          | "                        |                          |
+| Température de l'air  | 13.5                     |                          |
+| Hauteur de la mer     | 67.2                     |                          |
+| Agitation de l'eau    | 1 faible                  |                          |
+| Densité au bout de la jetée | 1029.2                    |                          |
+| Température de l'eau  | 13.0                     |                          |
+```

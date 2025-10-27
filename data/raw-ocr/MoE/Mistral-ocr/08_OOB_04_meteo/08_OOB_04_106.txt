@@ -1,0 +1,33 @@
+|  N. 19 Juin. 1902 | Obatin | Soir  |
+| --- | --- | --- |
+|  Hauteur Ivarométrique | 3/8.4 | 3/7.6  |
+|  Direction du vent | 1.2.8 | 2.2.8  |
+|  Force | 2.5 | 3.5  |
+|  2666m3/2000 | 2.5 | 3.5  |
+|  (Reg. O. (tire) |  |   |
+|  2666m3/2000 | 2 | 10.5  |
+|  (Reg. E. (mer) |  |   |
+|  Direction des nuages | 2.2.2 | 2.2.2  |
+|  (Prix tombée) |  |   |
+|  2666m3/2000 | 19.0 | 34.6  |
+|  (Prix tombée) | 47.1 | 38.6  |
+|  Régitation de l'eau | 1.5 | 3  |
+|  Densité au bout de la jetée | 10.57.7 | 10.57.7  |
+|  (2666m3/2000) | 17.7 | 18.2  |
+|  (2666m3/2000) |  |   |
+|  N. 20 Juin. 1902 | Obatin | Soir  |
+|  Hauteur Ivarométrique | 3/7.2 | 3/8.2  |
+|  Direction du vent | 2.5 | 2.5  |
+|  Force | 1.5 | 1.5  |
+|  2666m3/2000 | 10 | 9  |
+|  (Reg. O. (tire) |  |   |
+|  2666m3/2000 | 10 | 0  |
+|  (2666m3/2000) |  |   |
+|  Direction des nuages | 2.2.2 | 2.2.2  |
+|  (Prix tombée) | 4.5 | 0  |
+|  (2666m3/2000) |  |   |
+|  Densité au bout de la jetée | 17.3 | 31.6  |
+|  (2666m3/2000) |  |   |
+|  Densité au bout de la jetée | 10.59.3 | 10.57.9  |
+|  (2666m3/2000) |  |   |
+|  Densité au bout de la jetée | 16.3 | 17.3  |

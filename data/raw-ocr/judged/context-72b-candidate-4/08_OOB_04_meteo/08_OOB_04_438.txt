@@ -1,0 +1,18 @@
+```plaintext
+| V. 29 Octobre 1904 | Matin | Soir |
+| --- | --- | --- |
+| Hauteur Barométrique | 760,3 | 760,0 |
+| Direction du vent | er.cr.o | er.crois |
+| Force | 2 | 1 fort. |
+| Nébulosité Reg. O. (terre) | 10 | 10 |
+| Reg. E. (mer) | 10 | 10 |
+| Direction des nuages | er.cr.o | er.cr.o |
+| Pluie tombée | " | " |
+| Température de l'air | 14,7 | 14,6 |
+| Hauteur de la mer | 28,3 | 34,2 |
+| Agitation de l'eau | 2 fort. | 3 fort. |
+| Densité au bout de la jetée | 1028,4 | 1028,1 |
+| Température de l'eau | 17,8 | 17,7 |
+| V. 30 Octobre 1904 | matin | soir |
+| Pluie tombée | - | 1,62ρ |
+```

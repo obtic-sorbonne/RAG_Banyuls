@@ -1,0 +1,28 @@
+| Date         |         | Matin     | Soir      |
+|--------------|---------|-----------|-----------|
+| **V. 16 Juillet 1902** |         |           |           |
+| Hauteur Barométrique |        | 762.8    |           |
+| Direction du vent    |        | cr. c. o |           |
+| Force                  | 15     | 2        |           |
+| Nébulosité (cv. c. o)   |        | 10       |           |
+| Lég. E. (mer)       |        | 10       |           |
+| Direction des images  |        | cr. cr. o |           |
+| Pluie tombée       |        | quelques g |           |
+| Température de l'air |        |           |           |
+| Hauteur de la mer     |        | 12.8     |           |
+| Agitation de l'eau   |        | 3        |           |
+| Vitesse au bout de la jetée |  | 1026.8    |           |
+| Température de l'eau |        | 21.4     |           |
+| **V. 17 Juillet 1902** |         |           |           |
+| Hauteur Barométrique |        | 764.1    | 763.4     |
+| Direction du vent    |        | cr. c. o | cr. c. o  |
+| Force                  | 15     | 3 fort   | 2         |
+| Nébulosité (cv. c. o)   |        | 6        | 2         |
+| Lég. E. (mer)       |        | 0        | 0         |
+| Direction des images  |        | cr. c. o | cr. c. o  |
+| Pluie tombée       |        | quelques g | 11        |
+| Température de l'air |        | 24.6     | 28.3      |
+| Hauteur de la mer     |        | 13.7     | 44.2      |
+| Agitation de l'eau   |        | 3 fort   | 3         |
+| Vitesse au bout de la jetée |  | 1026.8    | 1026.8    |
+| Température de l'eau |        | 21.0     | 21.9      |

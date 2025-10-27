@@ -1,0 +1,15 @@
+# Kate - 20 Février - 1901
+
+|  |   |
+| --- | --- |
+|  Hauteur Marométrique | 8" matin 3" Soir  |
+|  Direction du vent | 762,3  |
+|  Force | nous  |
+|  % Ébulosité [Reg. C. (1ère) | 2 part.  |
+|  Direction des nuages | 11  |
+|  Phuie tombée | 11  |
+|  Température de l'air | 1,3  |
+|  Hauteur de la mer | 45,2  |
+|  Égrégation de l'eau | 2  |
+|  Densité de l'eau [au large] |   |
+|  Température de l'eau | 9,8  |

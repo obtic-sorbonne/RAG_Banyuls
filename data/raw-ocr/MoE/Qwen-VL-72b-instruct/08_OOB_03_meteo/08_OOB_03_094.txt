@@ -1,0 +1,19 @@
+| Date | 3 Janvier 1901 |
+|---|---|
+| Heure | Matin | Soir |
+|---|---|---|
+| Hauteur Barométrique | 769,4 | |
+| Direction du vent | N.N.O | N.N.O |
+| Force | 3 fort |  |
+| Nébulosité | Reg. O. (Terre) |  |
+|  | Reg. E. (mer) |  |
+| Direction des images |  |  |
+| Pluie tombée |  |  |
+| Température de l’air | 7.5 |  |
+|  |  |  |
+| Hauteur de la mer | 61.9 |  |
+| Agitation de l’eau | 3 faibl |  |
+|  | arbout de la jets | 1027.8 |
+| Densité de l’eau |  |  |
+|  | au Large |  |
+| Température de l’eau | 12.1 |  |

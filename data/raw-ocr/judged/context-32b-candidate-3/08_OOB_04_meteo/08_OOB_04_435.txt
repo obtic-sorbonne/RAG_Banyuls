@@ -1,0 +1,15 @@
+```plaintext
+|  4. 35 Octobre - 1904 | Matin | Soir  |
+| --- | --- | --- |
+|  Hauteur Praxometrique | 766,2 | 702,0  |
+|  Direction du vent | or. | or.  |
+|  Force | 1 | 1  |
+|  Nébulosité | Reg. O. (min) | 1  |
+|  Direction des nuages |  | 1  |
+|  Pluie tombée |  | 1,0  |
+|  Température de l'air | 17,6 | 13,7  |
+|  Hauteur de la mer | 27,6 | 20,6  |
+|  Agitation de l'eau | 3 faible | 1 faible  |
+|  Densité au bout de la jetée | 1028,1 | 1028,5  |
+|  Température de l'eau | 18,2 | 13,7  |
+```

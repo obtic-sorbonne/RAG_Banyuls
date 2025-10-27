@@ -1,0 +1,33 @@
+| **29 Juin 1902** |
+| --- |
+| **Nombre de bateaux sortis (pêche à la ligne)** | ... |
+| **Température de l'air** | <ul><li>Maxima depuis la veille: ... </li><li>Minima: ...</li></ul> |
+| **Température de l'eau** | <ul><li>Maxima depuis la veille: ... </li><li>Minima: ...</li></ul> |
+| **Pluie tombée depuis la veille, en millim.** | quelques |
+| **Evaporation depuis le 190, en millim.** | ... |
+| **Direction du vent (à terre)** | <ul><li>à 9 h. m.: N. O.</li><li>à 3 h. s.: N. O.</li></ul> |
+| **Force** | <ul><li>à 9 h. m.: Fort</li><li>à 3 h. s.: ...</li></ul> |
+| **Direction des nuages** | <ul><li>à 9 h. m.: ...</li><li>à 3 h. s.: ...</li></ul> |
+| **Nébulosité** | <ul><li>région Ouest (terre): 10</li><li>région Est (mer): 10</li></ul> |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro** | ... |
+| **Agitation de l'eau** | <ul><li>à 9 h. m.: 1</li><li>à 3 h. s.: ...</li></ul> |
+| **Densité de l'eau au bout de la jetée** | <ul><li>à 9 h. m.: 18.9</li><li>à 3 h. s.: 18.6</li></ul> |
+| **Température** | <ul><li>à 9 h. m.: ...</li><li>à 3 h. s.: ...</li></ul> |
+| **Signature:** | iS. R... M... |
+|
+| **2 Juillet 1902** |
+| --- |
+| **Nombre de bateaux sortis (pêche à la ligne)** | ... |
+| **Température de l'air** | <ul><li>Maxima depuis la veille: 28.2</li><li>Minima: 16.6</li></ul> |
+| **Température de l'eau** | <ul><li>Maxima depuis la veille: ... </li><li>Minima: ...</li></ul> |
+| **Pluie tombée depuis la veille, en millim.** | ... |
+| **Evaporation depuis le 20 Mai 1902, en millim.** | 90/100 |
+| **Direction du vent (à terre)** | <ul><li>à 9 h. m.: N</li><li>à 3 h. s.: Ouest</li></ul> |
+| **Force** | <ul><li>à 9 h. m.: 0</li><li>à 3 h. s.: ...</li></ul> |
+| **Direction des nuages** | <ul><li>à 9 h. m.: ...</li><li>à 3 h. s.: ...</li></ul> |
+| **Nébulosité** | <ul><li>région Ouest (terre): 10</li><li>région Est (mer): 10</li></ul> |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro** | ... |
+| **Agitation de l'eau** | <ul><li>à 9 h. m.: ...</li><li>à 3 h. s.: Fort</li></ul> |
+| **Densité de l'eau au bout de la jetée** | <ul><li>à 9 h. m.: 102.8</li><li>à 3 h. s.: 18.1</li></ul> |
+| **Température** | <ul><li>à 9 h. m.: ...</li><li>à 3 h. s.: ...</li></ul> |
+| **Signature:** | iS. R... P... |

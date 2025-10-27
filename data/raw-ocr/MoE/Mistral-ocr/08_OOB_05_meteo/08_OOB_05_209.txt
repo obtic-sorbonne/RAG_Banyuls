@@ -1,0 +1,27 @@
+|  V. 6 Février - 1907 | Moatin | Prix  |
+| --- | --- | --- |
+|  Hauteur Moasométrique | 768,3 |   |
+|  Direction du Vent | 1.0 |   |
+|  Force | 1 |   |
+|  Nébulonite (Reg. C. (rare)) | 10 |   |
+|  Nébulonite (Reg. C. (rare)) | 10 |   |
+|  Direction des nuages | 10 |   |
+|  Flux bombé | 11 |   |
+|  Température de l'air | -20 |   |
+|  Hauteur de la mer | 63,2 |   |
+|  Agitation de l'eau | 2 |   |
+|  Densité au bout de la jetée | 1050,1 |   |
+|  Température de l'eau | 11,6 |   |
+|  V. 7 Février - 1907 | Moatin | Prix  |
+|  Hauteur Moasométrique | 716,4 | 711,4  |
+|  Direction du Vent | 0.0 | 0.0  |
+|  Force | 2 | 1  |
+|  Nébulonite (Reg. C. (rare)) | 10 | 10  |
+|  Nébulonite (Reg. C. (rare)) | 10 | 10  |
+|  Direction des nuages | 0.0 | 0.0  |
+|  Flux bombé | 4,6 | 4,6  |
+|  Température de l'air | 17,3 | 3,6  |
+|  Hauteur de la mer | 1,63,3 | 3,6  |
+|  Agitation de l'eau | 1,4 | 1  |
+|  Densité au bout de la jetée |  |   |
+|  Température de l'eau |  |   |

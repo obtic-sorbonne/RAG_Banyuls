@@ -1,0 +1,36 @@
+```
+Journal Météorologique du Navire "La Belle Poule"
+Période : 3 au 4 Novembre 1905
+
+| Date       | Matin | Soir  |
+|------------|-------|-------|
+| 3 Novembre 1905 |      |      |
+| Hauteur Barométrique (mm) | 769.6 | 768.3 |
+| Direction du vent | "     | S.S.E |
+| Force | 15    | 0     |
+| Nébulosité (Reg. o. Terre) | 2 légèrement c. | 40 légèrement c. |
+| Nébulosité (Reg. E. Mer) | 3 légèrement c. | 10 légèrement c. |
+| Direction des nuages | "     | S.O   |
+| Pluie tombée (mm) | quelques gouttes | "     |
+| Température de l'air (°C) | 10.8 | 17.1  |
+| Hauteur de la mer (m) | 33.0 | 32.0  |
+| Agitation de l'eau (code) | 2    | 2 fort |
+| Densité au bout de la jetée (g/cm³) | 1029.1 | 1028.1 |
+| Température de l'eau (°C) | 16.4 | 16.1  |
+
+| 4 Novembre 1905 | Matin | Soir  |
+| Hauteur Barométrique (mm) | 768.4 |      |
+| Direction du vent | S.O   |      |
+| Force | 15    | 1 Forte |
+| Nébulosité (Reg. o. Terre) |      | 10   |
+| Nébulosité (Reg. E. Mer) | W     |      |
+| Direction des nuages | S.S.O |      |
+| Pluie tombée (mm) | 20.62p |      |
+| Température de l'air (°C) | 11.9 |      |
+| Hauteur de la mer (m) | 5     |      |
+| Agitation de l'eau (code) | 10   |      |
+| Densité au bout de la jetée (g/cm³) |      | 5     |
+| Température de l'eau (°C) |      | 5     |
+
+Note Marginale : Aucune remarque particulière pour ces dates.
+```

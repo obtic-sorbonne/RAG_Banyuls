@@ -1,0 +1,30 @@
+| V. 28 Xbre 1907 | Matin | Soir |
+|----------------|-------|------|
+| Hauteur Barométrique | 770,3 |      |
+| Direction du Vent | er. o |      |
+| Force | 2 |       |
+| (Reg. O. Clore) | 10 |      |
+| Nébulosité | (Reg. di. cour.) | 40 |      |
+| Direction des nuages | er. o |      |
+| Pluie tombée | 2.77 |      |
+| Température de l'air | 12.4 |      |
+| Hauteur de la mer | 23.2 |      |
+| Agitation de l'eau | 2 fort |      |
+| Densité au bord de la jetée | 1028.3 |      |
+| Température de l'eau | 14.7 |      |
+| au puits | 13.9 |      |
+| V. 30 Xbre 1907 | Matin | Soir |
+|----------------|-------|------|
+| Hauteur Barométrique | 779.2 | 797.8 |
+| Direction du Vent | " | er. o |
+| Force | 0 | faible |
+| (Reg. O. Clore) | 10 | 10 |
+| Nébulosité | (Reg. di. cour.) | 10 | 10 |
+| Direction des nuages | S. o | ouest |
+| Pluie tombée | " | " |
+| Température de l'air | 9.4 | 10.7 |
+| Hauteur de la mer | 46.6 | 34.7 |
+| Agitation de l'eau | 1 fort | 1 fort |
+| Densité au bord de la jetée | 1027.3 | 1027.4 |
+| Température de l'eau | 13.7 | 13.7 |
+| au puits | 13.0 |      |

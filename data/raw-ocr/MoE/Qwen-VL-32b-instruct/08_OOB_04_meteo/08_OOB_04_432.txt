@@ -1,0 +1,29 @@
+|  V. 17 Octobre - 1907 | Matin | Joir  |
+| --- | --- | --- |
+|  Hauteur Praxometrique | 758,3 | 767,7  |
+|  Direction du vent | cr.cr.0 | cr.cr.0  |
+|  Force | 3 | 3 faible  |
+|  (Aug. G. (tire) | 10 bis note | 10 bis note  |
+|  Nébulosité |  |   |
+|  (Aug. E. (mur) | 10 bis note | 10 bis note  |
+|  Direction des images | cr.cr.0 |   |
+|  Shine tombe |  |   |
+|  Température de l'air | 18,4 | 21,1  |
+|  Hauteur de la mer | 18,1 | 49,2  |
+|  (agitation de l'eau) | 2 | 3  |
+|  Densité au bout de la jetée | 1028,3 | 1029,2  |
+|  (température de l'eau) | 18,2 | 18,3  |
+|  17. 18 Octobre - 1907 | Matin | Joir  |
+|  Hauteur Praxometrique | 769,3 |   |
+|  Direction du vent | cr.cr.0 |   |
+|  Force | 2 fort |   |
+|  (Aug. G. (tire) | 10 bis note |   |
+|  Nébulosité |  |   |
+|  (Aug. E. (mur) | 10 bis note |   |
+|  Direction des images |  |   |
+|  Shine tombe |  |   |
+|  Température de l'air | 18,7 |   |
+|  Hauteur de la mer | 18,6 |   |
+|  (agitation de l'eau) | 2 fort |   |
+|  Densité au bout de la jetée | 1029,4 |   |
+|  (température de l'eau) | 18,1 |   |

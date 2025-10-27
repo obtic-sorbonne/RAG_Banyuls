@@ -1,0 +1,17 @@
+# Bate. 17 mars 1901
+
+|  |   |
+| --- | --- |
+|  Hauteur Barometrique | 9.1.1.11  |
+|  Direction de vent | 7/4.6  |
+|  Force | 3.1.11  |
+|  Reg. o. (lame) | 3.1.11  |
+|  (lebutosité) | 10  |
+|  Direction des nuages | 10  |
+|  Clue tombée | 11  |
+|  Température de l'air | 13.6  |
+|  Hauteur de la mer | 47.4  |
+|  (agitation de l'eau) | 2  |
+|  Densité de l'eau | 1  |
+|  (au large) |   |
+|  Température de l'eau | 11.1  |

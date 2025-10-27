@@ -1,0 +1,65 @@
+# Annie - 1902
+
+## 4. 3 Janvier - 1902
+
+|  **Hauteur Praxométrique** | **Matin** | **Soir**  |
+| --- | --- | --- |
+|  Direction du vent | Ouest | Ouest  |
+|  Force | 1 | 1  |
+|  Nébulosité | Reg. O. (terre) | 10  |
+|  Nébulosité | Reg. E. (mer) | 10  |
+|  Direction des nuages | Ouest | Ouest  |
+|  Pluie tombée | 15.6 | 15.6  |
+|  Température de l'air | 3.6 | 3.6  |
+|  Hauteur de la mer | 47.1 | 47.1  |
+|  Agitation de l'eau | 1 faible | 1 faible  |
+|  Densité au bout de la jetée | 1028.9 | 1028.9  |
+|  Température de l'eau | 11.4 | 11.4  |
+
+## 6. 3 Janvier - 1902
+
+|  **Hauteur Praxométrique** | **Matin** | **Soir**  |
+| --- | --- | --- |
+|  Direction du vent | Ouest | Ouest  |
+|  Force | 0 | 1  |
+|  Nébulosité | Reg. O. (terre) | 0  |
+|  Nébulosité | Reg. E. (mer) | 1  |
+|  Direction des nuages | Ouest | Ouest  |
+|  Pluie tombée | 15.6 | 15.6  |
+|  Température de l'air | 3.6 | 3.6  |
+|  Hauteur de la mer | 47.1 | 47.1  |
+|  Agitation de l'eau | 1 faible | 1 faible  |
+|  Densité au bout de la jetée | 1028.9 | 1028.9  |
+|  Température de l'eau | 11.4 | 11.4  |
+
+## 7. 3 Janvier - 1902
+
+|  **Hauteur Praxométrique** | **Matin** | **Soir**  |
+| --- | --- | --- |
+|  Direction du vent | Ouest | Ouest  |
+|  Force | 0 | 1  |
+|  Nébulosité | Reg. O. (terre) | 0  |
+|  Nébulosité | Reg. E. (mer) | 1  |
+|  Direction des nuages | Ouest | Ouest  |
+|  Pluie tombée | 15.6 | 15.6  |
+|  Température de l'air | 3.6 | 3.6  |
+|  Hauteur de la mer | 47.1 | 47.1  |
+|  Agitation de l'eau | 1 faible | 1 faible  |
+|  Densité au bout de la jetée | 1028.9 | 1028.9  |
+|  Température de l'eau | 11.4 | 11.4  |
+
+## 8. 3 Janvier - 1902
+
+|  **Hauteur Praxométrique** | **Matin** | **Soir**  |
+| --- | --- | --- |
+|  Direction du vent | Ouest | Ouest  |
+|  Force | 0 | 1  |
+|  Nébulosité | Reg. O. (terre) | 0  |
+|  Nébulosité | Reg. E. (mer) | 1  |
+|  Direction des nuages | Ouest | Ouest  |
+|  Pluie tombée | 15.6 | 15.6  |
+|  Température de l'air | 3.6 | 3.6  |
+|  Hauteur de la mer | 47.1 | 47.1  |
+|  Agitation de l'eau | 1 faible | 1 faible  |
+|  Densité au bout de la jetée | 1028.9 | 1028.9  |
+|  Température de l'eau | 11.4 | 11.4  |

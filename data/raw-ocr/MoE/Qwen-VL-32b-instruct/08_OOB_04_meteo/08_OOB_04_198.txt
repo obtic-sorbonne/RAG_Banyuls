@@ -1,0 +1,35 @@
+# 9. 9 Mours. 1903
+
+|  Nom | Date | Type | Prix  |
+| --- | --- | --- | --- |
+|  Hauteur Mârométrique | 28/13 | 20.5. | 20.5.  |
+|  Direction du vent |  |  |   |
+|  Force | 5 |  | 2  |
+|  Reg. O. (lire) |  |  |   |
+|  Pédbulosité |  |  |   |
+|  (Reg. E. (mus)) |  |  |   |
+|  Direction des nuages |  |  |   |
+|  Flux tombé |  |  |   |
+|  Température de l'air | 8.5 |  | 10.5  |
+|  Hauteur de la mer | 21.0 |  | 13.5  |
+|  Égrégation de l'eau | 3 fort |  | 3  |
+|  Densité au bout de la jolie | 10.23. |  | 10.29.3  |
+|  Température de l'eau | 10.8 |  | 10.8  |
+
+# 10 Mours. 1903
+
+|  Nom | Date | Type | Prix  |
+| --- | --- | --- | --- |
+|  Hauteur Mârométrique | 2/9.5 |  | 2/2.5  |
+|  Direction du vent |  |  |   |
+|  Force | 5 |  | 1  |
+|  Reg. O. (lire) |  |  |   |
+|  Pédbulosité |  |  |   |
+|  (Reg. E. (mus)) |  |  |   |
+|  Direction des nuages |  |  |   |
+|  Flux tombé |  |  |   |
+|  Température de l'air | 6.9 |  | 16.0  |
+|  Hauteur de la mer | 11.0 |  | 14.5  |
+|  Égrégation de l'eau |  |  |   |
+|  Densité au bout de la jolie | 10.29. |  | 10.29.3  |
+|  Température de l'eau | 11.0 |  | 11.2  |

@@ -1,0 +1,29 @@
+```plaintext
+|  9. 13 juillet. 1904 | Obatim | Soir  |
+| --- | --- | --- |
+|  Hauteur Barométrique | 208.5 |   |
+|  Direction du vent | cr. 0 |   |
+|  Force | 8 |   |
+|  Nébulosité | Reg. O. (Terre) | Reg. ent.  |
+|  Direction des nuages | Reg. ent. |   |
+|  Pluie tombée | cr. 0 |   |
+|  Température de l'air | 37.3 |   |
+|  Hauteur de la mer | 49.0 |   |
+|  Agitation de l'eau | 1 faible |   |
+|  Densité au bout de la jetée | 1037.4 |   |
+|  Température de l'eau | 34.5 |   |
+
+|  9. 11 juillet. 1904 | Obatim | Soir  |
+| --- | --- | --- |
+|  Hauteur Barométrique | 208.0 | 205.5  |
+|  Direction du vent | cr. 8 | 228  |
+|  Force | 1 | 3 faible  |
+|  Nébulosité | Reg. O. (Terre) |   |
+|  Direction des nuages | 0 | 0  |
+|  Pluie tombée |  |   |
+|  Température de l'air | 31.4 | 30.3  |
+|  Hauteur de la mer | 45.7 | 18.2  |
+|  Agitation de l'eau | 15 faible | 1 forte  |
+|  Densité au bout de la jetée | 1037.0 | 1036.0  |
+|  Température de l'eau | 31.7 | 37.6  |
+```

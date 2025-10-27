@@ -1,0 +1,35 @@
+```
+# 7. 10 février - 1904
+
+|  Matin |  |  |  |
+| --- | --- | --- | --- |
+|  Hauteur Barométrique | 756.0 |  |  |
+|  Direction du vent | 0 |  |  |
+|  Force | 1 faible |  |  |
+|  Nebulosité | 15.0 |  |  |
+|  (Reg. O. (terre)) | 10 léger |  |  |
+|  Reg. E. (mer) | 15.0 |  |  |
+|  Direction des nuages | 5.50 |  |  |
+|  Pluie tombée | 0 |  |  |
+|  Température de l'air | 14.6 |  |  |
+|  Hauteur de la mer | 37.0 |  |  |
+|  Agitation de l'eau | 1028.3 |  |  |
+|  Densité au bout de la jetée | 11.6 |  |  |
+|  Température de l'eau |  |  |  |
+
+|  Soir |  |  |  |
+| --- | --- | --- | --- |
+|  Hauteur Barométrique | 756.0 |  |  |
+|  Direction du vent | 0 |  |  |
+|  Force | 1 faible |  |  |
+|  Nebulosité | 15.0 |  |  |
+|  (Reg. O. (terre)) | 10 léger |  |  |
+|  Reg. E. (mer) | 15.0 |  |  |
+|  Direction des nuages | 5.50 |  |  |
+|  Pluie tombée | 0 |  |  |
+|  Température de l'air | 14.6 |  |  |
+|  Hauteur de la mer | 37.0 |  |  |
+|  Agitation de l'eau | 1028.3 |  |  |
+|  Densité au bout de la jetée | 11.6 |  |  |
+|  Température de l'eau |  |  |  |
+```

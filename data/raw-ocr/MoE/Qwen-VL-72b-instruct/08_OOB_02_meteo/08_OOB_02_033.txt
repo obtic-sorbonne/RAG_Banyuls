@@ -1,0 +1,19 @@
+```
+| Paramètre                          | 9h Matin    | 3h Soir     |
+|------------------------------------|-------------|-------------|
+| Hauteur Barométrique (mm)          | 755.6       | 756.4       |
+| Direction du vent                 | Nord        | Nord        |
+| Force du vent                     | 2 (fort)    | 4 (faible)  |
+| Nebulosité (cherschebir)          |            |             |
+|   - Reg. O. (lisse)               | légère c.   | 10          |
+|   - Reg. E. (mer)                 | lég. c.     | 10          |
+| Direction des nuages              | Nord        | Nord        |
+| Pluie tombée (mm)                 | —           | 1.875       |
+| Température de l'air (°C)         | 14.0        | 13.7        |
+| Hauteur Se la mer (dm)            | 4h.6        | 47.8        |
+| Agitation de l'eau                | 1           | 2 (faible)  |
+| Densité de l'eau (g/cm³)           |             |             |
+|   - au bout du jetée              | —           |             |
+|   - au vage                       | —           |             |
+| Température de l'eau (°C)         | 13.3        | 12.4        |
+```

@@ -1,0 +1,26 @@
+|  V. 18 Mai - 1907 | Mwatin | Poir  |
+| --- | --- | --- |
+|  Hauteur Mawmubique | 180,1 | 160,1  |
+|  Direction du vent | 150,0 | 140,0  |
+|  Force | 15 | 10  |
+|  Hébulonite (Reg. o. (en)) | 10 | 10  |
+|  Nébulonite (Reg. x. (m)) | 10 | 10  |
+|  Direction des nuages | 140,0 | 140,0  |
+|  Mure tomble | 14,2 | 11,1  |
+|  Dempperature de l'air | 14,2 | 12,0  |
+|  Hauteur de la mer | 12,0 | 12,0  |
+|  Législation de l'eau | 3 | 3  |
+|  Densité au bout de la jetée | 1028,2 | 1024,8  |
+|  Dempperature de l'eau | 14,4 | 14,4  |
+|  V. 20 Mai - 1907 | Mwatin | Poir  |
+|  Hauteur Mawmubique |  |   |
+|  Direction du vent |  |   |
+|  Force |  |   |
+|  Hébulonite (Reg. o. (en)) |  |   |
+|  Direction des nuages |  |   |
+|  Mure tomble |  |   |
+|  Dempperature de l'air |  |   |
+|  Hauteur de la mer |  |   |
+|  Législation de l'eau |  |   |
+|  Densité au bout de la jetée |  |   |
+|  Dempperature de l'eau |  |   |

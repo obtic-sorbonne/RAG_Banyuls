@@ -1,0 +1,33 @@
+# 1. 13 Décembre 1903
+
+|  Nom | Date  |
+| --- | --- |
+|  Hauteur Praxometrique | 2/1.6  |
+|  Direction du vent | cr.0  |
+|  Force | 8 fort  |
+|  (Reg. O. (lire)) | 10  |
+|  (Rég. E. (mer)) | 10  |
+|  Direction des nuages | cr.0  |
+|  (Mue tombée) | 11.68  |
+|  Température de l'air | 6.2  |
+|  Hauteur de la mer | 1  |
+|  Régination de l'eau | 1  |
+|  Densité au bout de la fête | 1  |
+|  Température de l'eau | 1  |
+
+# 1. 14 Décembre 1903
+
+|  Nom | Date  |
+| --- | --- |
+|  Hauteur Praxometrique | 2/2.1  |
+|  Direction du vent | 2.0  |
+|  Force | 1  |
+|  (Rég. O. (lire)) | 10  |
+|  (Rég. E. (mer)) | 10  |
+|  Direction des nuages | 10  |
+|  (Mue tombée) | 2.1  |
+|  Température de l'air | 10.8  |
+|  Hauteur de la mer | 8.9  |
+|  Régination de l'eau | 1  |
+|  Densité au bout de la fête | 10.30  |
+|  Température de l'eau | 13.1  |

@@ -1,0 +1,28 @@
+| **Date** | **Heure** | **Paramètres** | **Matin** | **Soir** |
+|----------|-----------|----------------|-----------|----------|
+| V. 4 juillet 1903 |  | Hauteur Barométrique | 767,9 | 766,7 |
+|  |  | Direction du vent | est.-sud-est | sud-ouest |
+|  |  | Force | 8 | 8 |
+|  |  | Reg. O. (terre) | 4 | 6 |
+|  |  | Nébulosité |  |  |
+|  |  | Reg. E. (mer) | 0 | 0 |
+|  |  | Direction des nuages | est.-sud-est | est.-sud-est |
+|  |  | Pluie tombée | - | - |
+|  |  | Température de l'air | 24.3 | 27.6 |
+|  |  | Hauteur de la mer | 0.4 | 4.4 |
+|  |  | Agitation de l'eau | 1/5 | 1/7-1/5 |
+|  |  | Densité au bout de la jetée | 1027.2 | 1026.9 |
+|  |  | Température de l'eau | 21.3 | 24.9 |
+| V. 6 juillet 1903 |  | Hauteur Barométrique | 769.2 | 764.7 |
+|  |  | Direction du vent | est.-sud-est | est.-sud-est |
+|  |  | Force | 8 | 8 |
+|  |  | Reg. O. (terre) | 1 | 10 |
+|  |  | Nébulosité |  |  |
+|  |  | Reg. E. (mer) | 4 | 10 |
+|  |  | Direction des nuages | nuit | est.-sud-est |
+|  |  | Pluie tombée | 21.2 | 0 |
+|  |  | Température de l'air | 21.8 | 24.5 |
+|  |  | Hauteur de la mer | 0.8 | 4.6 |
+|  |  | Agitation de l'eau | 1/4 | 2 |
+|  |  | Densité au bout de la jetée | 1027.1 | 1027.2 |
+|  |  | Température de l'eau | 21.3 | 21.3 |

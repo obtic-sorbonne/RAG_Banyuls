@@ -1,0 +1,51 @@
+| **OBSERVATIONS DU 1902 6 Février** |
+| --- |
+| **Nombre de bateaux sortis (pêche à la reine)** | 16,6 |
+| **Température de l'air** |  |
+| maxima depuis la veille | 16,6 |
+| minima id. | 8,0 |
+| **Température de l'eau** |  |
+| maxima depuis la veille |  |
+| minima id. |  |
+| **Pluie tombée depuis la veille, en millim** |  |
+| **Evaporation depuis le 190 , en millim** |  |
+| **Direction du vent (à terre)** | SSE | Sud |
+| **Force** | 2 | 2 |
+| **Direction des nuages** | SSE | Sud |
+| **Nébulosité** |  |  |
+| région Ouest (terre) | 10 | 10 |
+| id. Est (mer) | 10 | 10 |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.)** | 0,0 | 0,0 |
+| **Agitation de l'eau** | 1 fort | 1 fort |
+| **Densité de l'eau au bout de la jetée** | 1027,7 | 1027,9 |
+| **Température** |  |  |
+| - is. Pèremaine Matin | maxima | 22,7 |
+|  | minima | 6,6 |
+| - is. ié. Loir | maxima | 20,7 |
+|  | minima | 13,7 |
+
+| **OBSERVATIONS DU 1902 7 Février** |
+| --- |
+| **Nombre de bateaux sortis (pêche à la reine)** | 18,9 |
+| **Température de l'air** |  |
+| maxima depuis la veille | 18,9 |
+| minima id. | 12,0 |
+| **Température de l'eau** |  |
+| maxima depuis la veille |  |
+| minima id. |  |
+| **Pluie tombée depuis la veille, en millim** |  |
+| **Evaporation depuis le 190 , en millim** |  |
+| **Direction du vent (à terre)** | N.N-O | S.S-O |
+| **Force** | 1 | 2 |
+| **Direction des nuages** | S.O. |  |
+| **Nébulosité** |  |  |
+| région Ouest (terre) | 10 | 10 |
+| id. Est (mer) | 10 | 10 |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.)** | 0,0 | 0,0 |
+| **Agitation de l'eau** | 2 | 1 fort |
+| **Densité de l'eau au bout de la jetée** | 1028,2 | 102±7,7 |
+| **Température** |  |  |
+| - is. Pèremaine Matin | maxima | 20,6 |
+|  | minima | 10,1 |
+| - is. ié. Loir | maxima | 21,7 |
+|  | minima | 13,9 |

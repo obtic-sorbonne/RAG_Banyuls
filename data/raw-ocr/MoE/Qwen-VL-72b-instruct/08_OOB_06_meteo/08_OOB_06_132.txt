@@ -1,0 +1,67 @@
+### Observations du 1901 18 Mars 28
+
+| **Observations** | **Valeurs** | **Unités** |
+|------------------|-------------|------------|
+| **Nombre de bateaux sortis** (pêche à la Banane) | 28 | - |
+| **Température de l'air** |  | °C |
+| maxima depuis la veille | 12,6 | °C |
+| minima id. | 1,0 | °C |
+| **Température de l'eau** |  | °C |
+| maxima depuis la veille |  | °C |
+| minima id. |  | °C |
+| **Pluie tombée depuis la veille** |  | mm |
+| **Evaporation depuis le 1901** |  | mm |
+| **Direction du vent (à terre)** | à 9 h. m. | S.S.E. |
+|  | à 3 h. s. | S.S.E. |
+| **Force du vent** | à 9 h. m. | 0 |
+|  | à 3 h. s. | 2- fort |
+| **Direction des nuages** | à 9 h. m. | S.S.O. |
+|  | à 3 h. s. | S.S.O. |
+| **Nébulosité** |  | % |
+| région Ouest (terre) | à 9 h. m. | 10 |
+|  | à 3 h. s. | 10 |
+| région Est (mer) | à 9 h. m. | 10 |
+|  | à 3 h. s. | 10 |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.)** | à 9 h. m. | 34,8 |
+|  | à 3 h. s. | 47,2 |
+| **Agitation de l'eau** | à 9 h. m. | 1 - fort |
+|  | à 3 h. s. | 2 |
+| **Densité de l'eau au bout de la jetée** | à 9 h. m. | 1,029,9 |
+|  | à 3 h. s. | 1,028,8 |
+| **Température au bout de la jetée** | à 9 h. m. | 12,7/3 |
+|  | à 3 h. s. | 12,4 |
+
+---
+
+### Observations du 1901 20 Mars 28
+
+| **Observations** | **Valeurs** | **Unités** |
+|------------------|-------------|------------|
+| **Nombre de bateaux sortis** (pêche à la Banane) | 28 | - |
+| **Température de l'air** |  | °C |
+| maxima depuis la veille | 19,4 | °C |
+| minima id. | 18,6 | °C |
+| **Température de l'eau** |  | °C |
+| maxima depuis la veille |  | °C |
+| minima id. |  | °C |
+| **Pluie tombée depuis la veille** | quelques | mm |
+| **Evaporation depuis le 1901** |  | mm |
+| **Direction du vent (à terre)** | à 9 h. m. | S.S.E. |
+|  | à 3 h. s. | S.S.E. |
+| **Force du vent** | à 9 h. m. | 1- faint |
+|  | à 3 h. s. | 2 |
+| **Direction des nuages** | à 9 h. m. | S.S.O. |
+|  | à 3 h. s. | S.S.O. |
+| **Nébulosité** |  | % |
+| région Ouest (terre) | à 9 h. m. | 10 |
+|  | à 3 h. s. | 2 |
+| région Est (mer) | à 9 h. m. | 10 |
+|  | à 3 h. s. | 1 |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.)** | à 9 h. m. | 20,8 |
+|  | à 3 h. s. | 29,8 |
+| **Agitation de l'eau** | à 9 h. m. | 2 - fort |
+|  | à 3 h. s. | 2 |
+| **Densité de l'eau au bout de la jetée** | à 9 h. m. | 1,029,2 |
+|  | à 3 h. s. | 1,028,9 |
+| **Température au bout de la jetée** | à 9 h. m. | 11/6 |
+|  | à 3 h. s. | 11,6 |

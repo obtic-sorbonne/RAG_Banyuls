@@ -1,0 +1,31 @@
+| V. 11 Janvier 1907 | Matin | Soir |
+|-------------------|-------|------|
+| Hauteur Barométrique | 770,6 | 770,3 |
+| Direction du vent | cr.o | cr.o |
+| Force | faible | 6 |
+| Reg. C. (Terre) | 2 | 3 |
+| Nébulosité | 2 | 2 |
+| Reg. X. (mer) | 2 | 2 |
+| Direction des nuages | cr.o | cr.o |
+| Pluie tombée | " | " |
+| Température de l'air | 7,4 | 11,3 |
+| Hauteur de la mer | 70,2 | 70,3 |
+| Agitation de l'eau | 3 | 3 |
+| Densité au bout de la jetée | 1029,8 |  |
+| Température de l'eau | 10,6 |  |
+
+| V. 12 Janvier 1907 | Matin | Soir |
+|-------------------|-------|------|
+| Hauteur Barométrique | 773,6 | 773,1 |
+| Direction du vent | cr.o | cr.o |
+| Force | 4 faible | 4 faible |
+| Reg. C. (Terre) | 1 | 2 |
+| Nébulosité | 1 | 1 |
+| Reg. X. (mer) | 1 | 1 |
+| Direction des nuages | cr.o | cr.o |
+| Pluie tombée | " | " |
+| Température de l'air | 8,8 | 11,6 |
+| Hauteur de la mer | 72,2 | 71,0 |
+| Agitation de l'eau | 3 | 3 |
+| Densité au bout de la jetée | 1029,8 | 1029,8 |
+| Température de l'eau | 10,4 | 10,6 |

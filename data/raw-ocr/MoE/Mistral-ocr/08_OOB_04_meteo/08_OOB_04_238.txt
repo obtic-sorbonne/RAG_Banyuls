@@ -1,0 +1,24 @@
+|  4. 8 Juin - 1903 |  |  |  |   |
+| --- | --- | --- | --- | --- |
+|  Hauteur |  |  |  |   |
+|  1 |  |  |  |   |
+|  Direction du vent |  |  |  |   |
+|  2 |  |  |  |   |
+|  Force |  |  |  |   |
+|  3 |  |  |  |   |
+|  (Reg. G. (tane) |  |  |  |   |
+|  4 |  |  |  |   |
+|  (Reg. 2 (mer) |  |  |  |   |
+|  Direction des nuages |  |  |  |   |
+|  5 |  |  |  |   |
+|  (Flue Tombé) |  |  |  |   |
+|  6 |  |  |  |   |
+|  (Dempotative de l'air) |  |  |  |   |
+|  7 |  |  |  |   |
+|  Hauteur de la mer |  |  |  |   |
+|  8 |  |  |  |   |
+|  (Agitation de l'eau) |  |  |  |   |
+|  9 |  |  |  |   |
+|  Densité au bout de la jetée |  |  |  |   |
+|  10 |  |  |  |   |
+|  (Dempotative de l'eau) |  |  |  |   |

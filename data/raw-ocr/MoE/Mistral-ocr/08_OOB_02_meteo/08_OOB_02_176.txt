@@ -1,0 +1,18 @@
+# Date. 9 Septembre. 1901
+
+|   | 9th Station | 3rd Soir  |
+| --- | --- | --- |
+|  Fauteur Parométrique | 764,8 | 765,4  |
+|  Direction du vent | 5.8.E | 5.8.E  |
+|  Force | 3 faith | 2  |
+|  Rég. O. (terre) | 10 | 7  |
+|  Débutosite |  |   |
+|  Rég. E. (mer) | 10 | 567,2  |
+|  Direction des nuages | 5.8.E | 5.8.E  |
+|  Stuje tombee |  |   |
+|  Température de l'air | 23,5 | 24,7  |
+|  Fauteur de la mer | 50,2 | 37,2  |
+|  Légitation de l'eau | 1 | 1 fort  |
+|  Sensité de l'eau | 1026,9 | 1026,9  |
+|  Éensité de l'eau | au Narge |   |
+|  Température de l'eau | 31,8 | 21,9  |

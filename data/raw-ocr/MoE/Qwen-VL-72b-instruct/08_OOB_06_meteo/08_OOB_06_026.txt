@@ -1,0 +1,44 @@
+```
+OBSERVATIONS DU 1960 31 Mai
+
+Nombre de bateaux sortis (pêche à l.).
+Température de l'air maxima depuis la veille. 20.7
+minima id. 14.7
+Température de l'eau maxima depuis la veille.
+minima id.
+Pluie tombée depuis la veille, en millim.
+Evaporation depuis le 190, en millim.
+
+Direction du vent (à terre). à 9 h. m. à 3 h. s.
+Force M.E S.S.E
+Direction des nuages 2 1
+Nébulosité région Ouest (terre) Ouest Ouest
+id. Est (mer) 10 7
+Hauteur de la mer, en centimètres, au-dessus du zéro. 10 1
+Agitation de l'eau 32.5 29.2
+Densité de l'eau au bout de la jetée 1.004 1
+1025.7 1026.1
+Température id. 17.9 18.2
+
+
+OBSERVATIONS DU 1960 1er Juin
+
+Nombre de bateaux sortis (pêche à l.).
+Température de l'air maxima depuis la veille. 34.7
+minima id. 19.7
+Température de l'eau maxima depuis la veille.
+minima id.
+Pluie tombée depuis la veille, en millim.
+Evaporation depuis le 190, en millim.
+
+Direction du vent (à terre). à 9 h. m. à 3 h. s.
+Force S.S.E S.S.E
+Direction des nuages 1 1
+Nébulosité région Ouest (terre) S.E S.O
+id. Est (mer) 10 10
+Hauteur de la mer, en centimètres, au-dessus du zéro. 10 10
+Agitation de l'eau 39.5 41.7
+Densité de l'eau au bout de la jetée 1 1
+1027.3 1026.1
+Température id. 16.7 17.1
+```

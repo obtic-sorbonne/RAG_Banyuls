@@ -1,0 +1,27 @@
+| V. 24 Décembre - 1906 | Matin | Soir |
+|-----------------------|-------|------|
+| Hauteur Barométrique  | 707.3 | 709.8 |
+| Direction du Vent     | N.E.  | N.E.  |
+| Force                 | 1 (faible) | 1 (fort) |
+| Nébulosité            | Reg. 0. (claire) |  |
+|                       | Reg. 0. (claire) | 10 |
+| Direction des nuages  | E. et S. |  |
+| Pluie tombée          | 8.077 | " |
+| Température de l'air  | 8.7 | 10.5 |
+| Hauteur de la mer     | 3 | 4 |
+| Agitation de l'eau    | 1 | 4 |
+| Densité au bord de la jetée | 3 | 3 |
+| Température de l'eau  |  |  |
+| V. 26 Décembre - 1906 | Matin | Soir |
+| Hauteur Barométrique  | 714.2 |  |
+| Direction du Vent     | S.O. |  |
+| Force                 | 1 (fort) | 10 |
+| Nébulosité            | Reg. 0. (claire) |  |
+|                       | Reg. 0. (claire) | 10 |
+| Direction des nuages  | S.O. |  |
+| Pluie tombée          | 1.0 |  |
+| Température de l'air  | 10.8 |  |
+| Hauteur de la mer     | 5 |  |
+| Agitation de l'eau    | 1 |  |
+| Densité au bord de la jetée | 5 |  |
+| Température de l'eau  |  |  |

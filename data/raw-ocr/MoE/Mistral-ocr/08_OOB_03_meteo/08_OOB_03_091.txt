@@ -1,0 +1,18 @@
+# Date. 30 Décembre. 1901
+
+|  Name | 9th St.  |
+| --- | --- |
+|  Hauteur Barometrique | 3½  |
+|  Direction Su vent | 767,8  |
+|  Force | N.N.O  |
+|  Reg. O. (Terre) | 1/2  |
+|  9e bulosite | 10 kg/m²  |
+|  1 Reg. E. (mer) | 10 kg/m²  |
+|  Direction des nuages | N.N.O  |
+|  Flue Tombe | 14,7  |
+|  Température Se l'air | 14,7  |
+|  2 Hauteur Se la mer | 40,6  |
+|  2 Agitation Se l'eau | 1  |
+|  2 Sensité Se l'eau | 1028,7  |
+|  2 Au large |   |
+|  Température Se l'eau | 12,4  |

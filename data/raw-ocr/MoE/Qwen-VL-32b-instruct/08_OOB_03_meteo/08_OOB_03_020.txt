@@ -1,0 +1,19 @@
+# Date. 10 Octobre. 1901
+
+|  |   |   |
+| --- | --- | --- |
+|  9" Matin. 3" Soir |  |   |
+|  Kanteur Marométrique | 755,2 | 753,2  |
+|  Direction du vent | N.N.O | N.N.O  |
+|  Force | 3 | 3 part.  |
+|  Nefulosite | 0 | 0  |
+|  Nefulosite | 35gr-1c | 0  |
+|  35gr-1c |  |   |
+|  Direction des nuages | N.N.O | "  |
+|  Muc tombee | 18,5 | 11  |
+|  Température de l'air | 18,5 | 20,5  |
+|  Kanteur de la mer | 54,5 | 53,2  |
+|  Grgitation de l'eau | 2 | 2  |
+|  Densité de l'eau | 1025,3 | 1025,9  |
+|  |   |   |
+|  Température de l'eau | 18,1 | 18,3  |

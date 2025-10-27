@@ -1,0 +1,33 @@
+# 9. 18 Septembre 1903
+
+|  Nom | Date | Type  |
+| --- | --- | --- |
+|  Hauteur Marométrique | 1861/1 | 164.4  |
+|  Direction du vent | 18.3 | 11.3  |
+|  Force | 1/20th | 2  |
+|  Rég. O. (lire) | 0 | 0  |
+|  N. Reg. X. (mer) | 1/20th | 1/20th  |
+|  Direction des nuages | " | "  |
+|  N. N. 10 mbar | 18.3 | 20.3  |
+|  Température de l'air | 18.3 | 20.3  |
+|  Hauteur de la mer | 60.1 | 43.1  |
+|  Égitation de l'eau | 1/20th | 1  |
+|  Densité au bout de la jetée | 1028.3 | 1028.3  |
+|  Température de l'eau | 18.0 | 18.3  |
+
+# 19. 20 Septembre 1903
+
+|  Nom | Date | Type  |
+| --- | --- | --- |
+|  Hauteur Marométrique | 1863.6 | 163.6  |
+|  Direction du vent | 1/20th | 1  |
+|  Force | 1/20th | 1  |
+|  Rég. O. (lire) | 1/20th | 1/20th  |
+|  N. Reg. X. (mer) | 1/20th | 1/20th  |
+|  Direction des nuages | 1/20th | 1/20th  |
+|  N. N. 10 mbar | 1/20th | 2.9/2  |
+|  Température de l'air | 2.9/2 | 20.4  |
+|  Hauteur de la mer | 2.9/2 | 20.4  |
+|  Égitation de l'eau | 2.9/2 | 20.4  |
+|  Densité au bout de la jetée | 2.9/2 | 20.4  |
+|  Température de l'eau | 2.9/2 | 20.4  |

@@ -1,0 +1,50 @@
+| **OBSERVATIONS DU 1902 3 Juillet** |
+| --- |
+| **Nombre de bateaux sortis (pêche à l…)** |  |
+| **Température de l'air** |  |  |
+| maxima depuis la veille | 20.6 |  |
+| minima id. | 14.0 |  |
+| **Température de l'eau** |  |  |
+| maxima depuis la veille |  |  |
+| minima id. |  |  |
+| **Pluie tombée depuis la veille, en millim** |  | "nn" |
+| **Evaporation depuis le… 190…, en millim** |  |  |
+| **Direction du vent (à terre)** | **à 9 h. m.** | **à 3 h. s.** |
+| Force | 3 |  |
+| Direction des nuages | NN.O. |  |
+| **Nébulosité** |  |  |
+| région Ouest (terre) | 10 |  |
+| id. Est (mer) | 10 |  |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro** |  |  |
+| **Agitation de l'eau** | fort. |  |
+| **Densité de l'eau au bout de la jetée** | 1027.3 |  |
+| **Température** |  |  |
+| id. | 17.1 |  |
+| - is. Perrane Marin | **maxima - 22.0** |  |
+| | **minima - 11.9** |  |
+
+| **OBSERVATIONS DU 1902 4 Juillet** |
+| --- |
+| **Nombre de bateaux sortis (pêche à l…)** | 22.4 |
+| **Température de l'air** |  |  |
+| maxima depuis la veille | 22.4 |  |
+| minima id. | 15.9 |  |
+| **Température de l'eau** |  |  |
+| maxima depuis la veille |  |  |
+| minima id. |  |  |
+| **Pluie tombée depuis la veille, en millim** |  | "nn" |
+| **Evaporation depuis le… 190…, en millim** |  |  |
+| **Direction du vent (à terre)** | **à 9 h. m.** | **à 3 h. s.** |
+| Force | 2 | 1 |
+| Direction des nuages | E.S.O. | S.S.O. |
+| **Nébulosité** |  |  |
+| région Ouest (terre) | 10 | 10 |
+| id. Est (mer) | 10 | 10 |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro** | 59.7 |  |
+| **Agitation de l'eau** | fort. | 1 |
+| **Densité de l'eau au bout de la jetée** | 1026.5 | 1026.9 |
+| **Température** |  |  |
+| id. | 20.8 | 18.7 |
+| - is. Balan. Mâtis (Seculus) | 20.7 | 24.3 | 18.2 |
+| - is. Perrane Mâtis | **maxima - 27.0** | 38.0 | 20.2 |
+| | **minima - 11.4** | 14.0 | 15.6 |

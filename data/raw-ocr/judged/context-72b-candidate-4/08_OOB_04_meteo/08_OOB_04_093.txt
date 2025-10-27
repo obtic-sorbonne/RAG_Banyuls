@@ -1,0 +1,29 @@
+```plaintext
+| Date       | Matin                | Soir                    |
+|------------|----------------------|-------------------------|
+| 22 Mai 1902 | Hauteur Barométrique | 769.6                   | 769.3                 |
+|            | Direction du vent    | cr. cr. o               | cr. cr. o             |
+|            | Force                | 1/5                     | 4/10                  |
+|            | Nébulosité           | Reg. O. (terre) 0       | Reg. O. (terre) 2     |
+|            |                      | Reg. E. (mer) 0         | Reg. E. (mer) 2       |
+|            | Direction des nuages | cr. cr. o               | cr. cr. o             |
+|            | Pluie Tombée         | "                       | "                     |
+|            | Température de l'air | 13.4                    | 16.4                  |
+|            | Hauteur de la mer    | 70.8                    | 74.9                  |
+|            | Agitation de l'eau   | 3                       | 3                     |
+|            | Densité au bout de la jetée | 1028.2            | 1028.0               |
+|            | Température de l'eau | 13.7                    | 14.9                  |
+
+| 23 Mai 1902 | Hauteur Barométrique | 761.3                   | ---                  |
+|             | Direction du vent    | cr. cr. o               | ---                  |
+|             | Force                | 3                       | ---                  |
+|             | Nébulosité           | Reg. O. (terre) 10      | ---                  |
+|             |                      | Reg. E. (mer) 10        | ---                  |
+|             | Direction des nuages | cr. cr. o               | ---                  |
+|             | Pluie Tombée         | quelques. g             | ---                  |
+|             | Température de l'air | 19.2                    | ---                  |
+|             | Hauteur de la mer    | 74.9                    | ---                  |
+|             | Agitation de l'eau   | 2/ord                   | ---                  |
+|             | Densité au bout de la jetée | 1028.4            | ---                  |
+|             | Température de l'eau | 13.9                    | ---                  |
+```

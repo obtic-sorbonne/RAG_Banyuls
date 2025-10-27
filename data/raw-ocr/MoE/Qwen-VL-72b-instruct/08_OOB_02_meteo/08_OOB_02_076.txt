@@ -1,0 +1,18 @@
+| **Date**       | **25 Mai 1901** |
+|----------------|-----------------|
+| **Heures**     | **9h Matin**    | **3h Soir** |
+| **Hauteur Barométrique** | 761,3 | 759,8 |
+| **Direction du vent** | N.E | Sud |
+| **Force** | 1 | 2 fort |
+| **Nébulosité** | | |
+| **Reg. O. (Terre)** | légèrement couverte | 0 |
+| **Reg. E. (Mer)** | légèrement couverte | 0 |
+| **Direction des nuages** | Sud | Sud |
+| **Pluie tombée** | " | " |
+| **Température de l'air** | 17,6 | 20,0 |
+| **Hauteur de la mer** | 52,7 | 47,9 |
+| **Agitation de l'eau** | 1 fort | 2 |
+| **Densité de l'eau** | | |
+| **-pour bout de la jetée** | 1,27,8 | 1087,1 |
+| **-au Large** | | |
+| **Température de l'eau** | 17,6 | 18,5 |

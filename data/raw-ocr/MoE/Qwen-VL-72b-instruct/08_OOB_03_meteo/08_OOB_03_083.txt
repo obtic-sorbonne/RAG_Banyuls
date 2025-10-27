@@ -1,0 +1,17 @@
+| **9H** | **Malin** | **3H** | **Soir** |
+|--------|-----------|--------|----------|
+| **Hauteur Barométrique** | 747.7 |  |  |
+| **Direction du vent** | S. E |  |  |
+| **Force (accéléré de 15)** | 2 |  |  |
+| **Nébulosité (mal inondée)** | **Reg. G. (claire)** | 10 |  |
+|  | **Reg. E. (mer)** | 10 |  |
+| **Direction des nuages** | S. E |  |  |
+| **Pluie tombée** | 69, 37/ | 24, 875 |  |
+| **Température de l’air** | 11,3 |  |  |
+| **Hauteur de la mer** |  |  |  |
+| **Agitation de l’eau** | 9 | **au bout de la jetée** | **en large** |
+| **Densité de l’eau** |  |  |  |
+| **Température de l’eau** |  |  |  |
+
+**Date**: 17 Décembre 1901
+**Lieu**: Nale

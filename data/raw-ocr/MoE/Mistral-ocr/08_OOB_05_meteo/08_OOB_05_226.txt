@@ -1,0 +1,20 @@
+|  V. 2 (Avril. 1907 | Mbiatin |  |  |  |  |  |  |  |  |  |  |  |  |   |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  Hauteur |  |  |  |  |  |  |  |  |  |  |  |  |  |   |
+|  Direction du vent |  |  |  |  |  |  |  |  |  |  |  |  |  |   |
+|  Force |  |  |  |  |  |  |  |  |  |  |  |  |  |   |
+|  Mébularité |  |  |  |  |  |  |  |  |  |  |  |  |  |   |
+|  Règle x. (min) |  |  |  |  |  |  |  |  |  |  |  |  |  |   |
+|  Direction des mages |  |  |  |  |  |  |  |  |  |  |  |  |  |   |
+|  Mise tombe |  |  |  |  |  |  |  |  |  |  |  |  |  |   |
+|  Température de l'air |  |  |  |  |  |  |  |  |  |  |  |  |  |   |
+|  Hauteur de la mer |  |  |  |  |  |  |  |  |  |  |  |  |  |   |
+|  Agitation de l'eau |  |  |  |  |  |  |  |  |  |  |  |  |  |   |
+|  Densité au bout de la jetée |  |  |  |  |  |  |  |  |  |  |  |  |  |   |
+|  Température de l'eau |  |  |  |  |  |  |  |  |  |  |  |  |  |   |
+|  Nombre de paniers de l'eau |  |  |  |  |  |  |  |  |  |  |  |  |  |   |
+|  V. 3 (Avril. 1907 |  |  |  |  |  |  |  |  |  |  |  |  |  |   |
+|  Hauteur |  |  |  |  |  |  |  |  |  |  |  |  |  |   |
+|  Direction du vent |  |  |  |  |  |  |  |  |  |  |  |  |  |   |
+|  Force |  |  |  |  |  |  |  |  |  |  |  |  |  |   |
+|  Mébularité |  |  |  |  |  |  |  |  |  |  |  |  |  |   |

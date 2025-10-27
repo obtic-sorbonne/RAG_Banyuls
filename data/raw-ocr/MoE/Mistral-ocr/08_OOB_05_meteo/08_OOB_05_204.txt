@@ -1,0 +1,28 @@
+|  N. 26 Janvier - 1907 | Nôbation | Poir  |
+| --- | --- | --- |
+|  Hauteur | Nôbation | Poir  |
+|  Direction du vent |  | 164.2  |
+|  Force |  | 3  |
+|  Nébation | (Reg. C. (livre) | 10  |
+|  Nébation | (Reg. C. (livre) | 10  |
+|  Direction des nuages |  | 2.1  |
+|  Pluie tombée |  | 2.1  |
+|  Température de l'air |  | 11.0  |
+|  Hauteur de la mer |  | 11.0  |
+|  Capitation de l'eau |  | 2 feet  |
+|  Densité au bout de la jetée |  | 1028.1  |
+|  Température de l'eau |  | 9.8  |
+|  N. 28 Janvier - 1907 | Nôbation | Poir  |
+|  Hauteur | Nôbation | Poir  |
+|  Direction du vent |  | 169.8  |
+|  Force |  | 4.0  |
+|  Nébation | (Reg. C. (livre) | 1  |
+|  Nébation | (Reg. C. (livre) | 2  |
+|  Direction des nuages |  | 2  |
+|  Pluie tombée |  | 2  |
+|  Température de l'air |  | 9.3  |
+|  Hauteur de la mer |  | 9.3  |
+|  Capitation de l'eau |  | 69.0  |
+|  Densité au bout de la jetée |  | 2 feet  |
+|  Température de l'eau |  | 1028.1  |
+|   |  | 9.3  |

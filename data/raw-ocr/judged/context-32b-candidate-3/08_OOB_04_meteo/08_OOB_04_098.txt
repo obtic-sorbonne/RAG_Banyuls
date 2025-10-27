@@ -1,0 +1,63 @@
+# V. 2 Juin - 1902
+
+## Matin
+|  **Kanteur Barométrique** | **763,2**  |
+| --- | --- |
+|  Direction du vent | or.0r. 8  |
+|  Force | 1  |
+|  **Nébulosité** | **Reg. O. (terre)**  |
+|  | **(Reg. E. (mer))** | **2**  |
+|  Direction des nuages | 2,8  |
+|  **Pluie tombée** |  |
+|  **Température de l'air** | **16,4**  |
+|  **Hauteur de la mer** | **11,6**  |
+|  **Agitation de l'eau** | **2**  |
+|  Densité au bout de la jetée | 1028,2  |
+|  **Température de l'eau** | **11,6**  |
+
+## Soir
+|  **Kanteur Barométrique** | **762,0**  |
+| --- | --- |
+|  Direction du vent | 7,88  |
+|  Force | 8 faible  |
+|  **Nébulosité** | **Reg. O. (terre)**  |
+|  | **(Reg. E. (mer))** | **2**  |
+|  Direction des nuages | 2,28  |
+|  **Pluie tombée** |  |
+|  **Température de l'air** | **22,6**  |
+|  **Hauteur de la mer** | **38,6**  |
+|  **Agitation de l'eau** | **3 faible**  |
+|  Densité au bout de la jetée | 1028,1  |
+|  **Température de l'eau** | **11,6**  |
+
+# V. 3 Juin - 1902
+
+## Matin
+|  **Kanteur Barométrique** | **764,6**  |
+| --- | --- |
+|  Direction du vent | or.0r.0  |
+|  Force | 2 faible  |
+|  **Nébulosité** | **Reg. O. (terre)**  |
+|  | **(Reg. E. (mer))** | **10**  |
+|  Direction des nuages | 4,5  |
+|  **Pluie tombée** |  |
+|  **Température de l'air** | **21,7**  |
+|  **Hauteur de la mer** | **13,4**  |
+|  **Agitation de l'eau** | **1 faible**  |
+|  Densité au bout de la jetée | 1027,0  |
+|  **Température de l'eau** | **16,6**  |
+
+## Soir
+|  **Kanteur Barométrique** | **763,4**  |
+| --- | --- |
+|  Direction du vent | or.0r.0  |
+|  Force | 2  |
+|  **Nébulosité** | **Reg. O. (terre)**  |
+|  | **(Reg. E. (mer))** | **10**  |
+|  Direction des nuages | or.0r.0  |
+|  **Pluie tombée** |  |
+|  **Température de l'air** | **24,6**  |
+|  **Hauteur de la mer** | **42,0**  |
+|  **Agitation de l'eau** | **1 faible**  |
+|  Densité au bout de la jetée | 1026,8  |
+|  **Température de l'eau** | **18,7**  |

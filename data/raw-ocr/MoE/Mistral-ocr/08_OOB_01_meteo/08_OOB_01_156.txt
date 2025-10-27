@@ -1,0 +1,16 @@
+# Date - 29 Décembre - 1900
+
+|  **Nom** | **Nom de l'exométrique** | **Fonction du vent** | **Force**  |
+| --- | --- | --- | --- |
+|  9th Matin | 5" 5vir |  |   |
+|  782.2 | 780.4 | Ouest | N.E.  |
+|  17. Jaille | 1 fort | 10 | 10  |
+|  10 | 10 |  |   |
+|  10 | 10 | Ouest | Nord  |
+|  17. Jaille | 1 fort | 10 | 10  |
+|  10 | 10 |  |   |
+|  10 | 10 |  |   |
+|  10 | 10 |  |   |
+|  17. Jaille | 1 fort | 17. Jaille | 1028.9  |
+|  1029.1 | 1028.9 |  |   |
+|  18.2 | 18.2 |  |   |

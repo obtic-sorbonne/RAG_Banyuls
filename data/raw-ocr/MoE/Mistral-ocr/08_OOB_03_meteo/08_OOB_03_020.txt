@@ -1,0 +1,18 @@
+# Date. 10 Octobre. 1901
+
+|  Item | Qty | Price  |
+| --- | --- | --- |
+|  Kanteur Marométrique | 9" Moatin | 3" Soir  |
+|  Direction du vent | 75f, 2 | 753,2  |
+|  Force | N.N.O | N.N.O  |
+|  Reg. U. (terre) | 3 | 3 part.  |
+|  Ébulosité | 0 | 0  |
+|  Q. (mer) | 35gr-1c | 0  |
+|  Direction des nuages | N.N.O | "  |
+|  Chute tombée | " | "  |
+|  Température de l'air | 18,5 | 20,5  |
+|  Kanteur de la mer | 54,1 | 13,2  |
+|  Q. (min) | 2 | 2  |
+|  Densité de l'eau | 1025,3 | 1025,9  |
+|  Q. (min) |  |   |
+|  Température de l'eau | 18,1 | 18,3  |

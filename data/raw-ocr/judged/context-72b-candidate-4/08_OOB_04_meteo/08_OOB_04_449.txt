@@ -1,0 +1,31 @@
+```plaintext
+| V. 2 Décembre 1904 | Matin | Soir |
+|---------------------|-------|------|
+| Hauteur Barométrique | 768.8 | 768.3 |
+| Direction du vent    | N.O   | N.O  |
+| Force                | 0     | 1 fort|
+| Nébulosité (Reg. O. (terre)) | 10 | 10  |
+| (Reg. E. (mer))      | 4     | 4    |
+| Direction des nuages |       | S.E  |
+| Pluie tombée         |       | f.f  |
+| Température de l'air | 9.4   | 8.9  |
+| Hauteur de la mer    | 36.0  | 21.7 |
+| Agitation de l'eau   | 2     | 2    |
+| Densité au bout de la jetée | 1028.9 | 1028.7 |
+| Température de l'eau | 15.5  | 15.3 |
+
+| V. 3 Décembre 1904 | Matin | Soir |
+|---------------------|-------|------|
+| Hauteur Barométrique | 766.4 | 768.9 |
+| Direction du vent    | N.O   | N.O  |
+| Force                | 3 forts | 3 forts |
+| Nébulosité (Reg. O. (terre)) | 10 | 10  |
+| (Reg. E. (mer))      | 10 | 10  |
+| Direction des nuages | N.O.U.S | N.O.U.S |
+| Pluie tombée         | 28.7 | quelques g |
+| Température de l'air | 8.3  | 10.4 |
+| Hauteur de la mer    | 3.0  | 15.3 |
+| Agitation de l'eau   | 4    | 4 faible |
+| Densité au bout de la jetée | 1029.0 | 1029.2 |
+| Température de l'eau | 14.6 | 14.6 |
+```

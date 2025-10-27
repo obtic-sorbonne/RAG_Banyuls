@@ -1,0 +1,47 @@
+```
+| OBSERVATIONS DU 1960 31 Mai                                                                                               |
+| ---                                                                                                                     |
+| Nombre de bateaux sortis (pêche à l...)                                                                                  | 27                                                                 |
+| Température de l'air |  |
+| - maxima depuis la veille                                                                                                  | 20.7                                                                |
+| - minima id.                                                                                                            | 14.7                                                                |
+| Température de l'eau |  |
+| - maxima depuis la veille                                                                                                  |                                                                      |
+| - minima id.                                                                                                            |                                                                      |
+| Pluie tombée depuis la veille, en millim.                                                                                 |                                                                      |
+| Évaporation depuis le 1900, en millim.                                                                                   |                                                                      |
+| **à 9 h. m.** | **à 3 h. s.** |
+| Direction du vent (à terre)                                                                                              | N.E. | S.S.E. |
+| Force                                                                                                                   | 2 | 1 |
+| Direction des nuages                                                                                                     | N.N.O. | S.S.E. |
+| Nébulosité |  |
+| - région Ouest (terre)                                                                                                  | 10 | 7 |
+| - id. Est (mer)                                                                                                        | 10 | 1 |
+| Hauteur de la mer, en centimètres, au-dessus du zéro                                                                      | 32.7 | 31.2 |
+| Agitation de l'eau                                                                                                        | 1 | 1 |
+| Densité de l'eau au bout de la jetée                                                                                     | 1026.7 | 1026.6 |
+| Température au bout de la jetée                                                                                          | 14.9 | 17.2 |
+
+| OBSERVATIONS DU 1960 1er Juin                                                                                             |
+| ---                                                                                                                     |
+| Nombre de bateaux sortis (pêche à l...)                                                                                  | 33 |
+| Température de l'air |  |
+| - maxima depuis la veille                                                                                                  | 34.0 |
+| - minima id.                                                                                                            | 12.7 |
+| Température de l'eau |  |
+| - maxima depuis la veille                                                                                                  |                                                                      |
+| - minima id.                                                                                                            |                                                                      |
+| Pluie tombée depuis la veille, en millim.                                                                                 |                                                                      |
+| Évaporation depuis le 1900, en millim.                                                                                   |                                                                      |
+| **à 9 h. m.** | **à 3 h. s.** |
+| Direction du vent (à terre)                                                                                              | S.S.E. | S.S.E. |
+| Force                                                                                                                   | 4 | 1 |
+| Direction des nuages                                                                                                     | S.S.E. | S.S.E. |
+| Nébulosité |  |
+| - région Ouest (terre)                                                                                                  | 10 | 0 |
+| - id. Est (mer)                                                                                                        | 10 | 0 |
+| Hauteur de la mer, en centimètres, au-dessus du zéro                                                                      | 39.7 | 4.17 |
+| Agitation de l'eau                                                                                                        | 1 | 1 |
+| Densité de l'eau au bout de la jetée                                                                                     | 1027.3 | 1026.1 |
+| Température au bout de la jetée                                                                                          | 16.7 | 14.0 |
+```

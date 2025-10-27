@@ -1,0 +1,6 @@
+# V. 8 Juillet 1902
+
+|  **Position** | **Hauteur Barométrique** | **Direction du vent** | **Force** | **Nébulosité** | **Reg. O. (terre)** | **Reg. E. (mer)** | **Direction des nuages** | **Pluie tombée** | **Température de l'air** | **Hauteur de la mer** | **Agitation de l'eau** | **Densité au bout de la jetée** | **Température de l'eau**  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  Nibatin | 707.2 | or. 3 | 17.6 |  | 0 | 2 |  |  | 23.1 | 44.0 | 17.6 | 1024.6 | 25.1  |
+|  Nibatin | 707.2 | 7.8 | 3.6 |  | 0 |  |  |  | 25.1 | 17.5 | 17.6 | 1024.6 | 25.2  |

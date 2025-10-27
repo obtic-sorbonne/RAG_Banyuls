@@ -1,0 +1,76 @@
+```plaintext
+**Mars 1903.**
+
+**Vendredi 6 mars 1903**
+
+Sorti du Roland.
+
+Appareillé à 7 heures du Matin pour aller à Port Vendres.
+
+Arrivés à Port Vendres à 8 heures du Matin. Resté au Port de Port Vendres pour emmener des voyageurs à Banyuls.
+
+Parti de Port Vendres avec des voyageurs à 10 heures du Matin.
+
+Arrivés à Banyuls à 11 heures du Matin.
+
+**Buquettes dépensées :**  
+{ 10 de 10 kilos = 100 livres  
+{ 5 de 3 kilos = 15 livres  
+{ **Total : 115 livres**
+
+**Remarques :**  
+{ Rien de particulier à signaler.  
+{ Température : 12°  
+{ Vent : Sud-Est, faible.  
+{ Mer : Calme.
+
+**Samedi 7 mars 1903**
+
+Sorti du Roland.
+
+Appareillé à 9 heures du Matin pour aller à Port Vendres.
+
+Arrivés à Port Vendres à 10 heures du Matin.
+
+Resté au Port de Port Vendres pour emmener des voyageurs à Banyuls.
+
+Parti de Port Vendres avec des voyageurs à 12 heures du Midi.
+
+Arrivés à Banyuls à 13 heures de l'heure.
+
+**Buquettes dépensées :**  
+{ 15 de 10 kilos = 150 livres  
+{ 10 de 3 kilos = 30 livres  
+{ **Total : 180 livres**
+
+**Remarques :**  
+{ Rien de particulier à signaler.  
+{ Température : 14°  
+{ Vent : Sud-Est, modéré.  
+{ Mer : Agitée.
+
+**Dimanche 8 mars 1903**
+
+Sorti du Roland.
+
+Appareillé à 8 heures du Matin pour aller à Port Vendres.
+
+Arrivés à Port Vendres à 9 heures du Matin.
+
+Resté au Port de Port Vendres pour emmener des voyageurs à Banyuls.
+
+Parti de Port Vendres avec des voyageurs à 11 heures du Matin.
+
+Arrivés à Banyuls à 12 heures de l'heure.
+
+**Buquettes dépensées :**  
+{ 20 de 10 kilos = 200 livres  
+{ 10 de 3 kilos = 30 livres  
+{ **Total : 230 livres**
+
+**Remarques :**  
+{ Rien de particulier à signaler.  
+{ Température : 13°  
+{ Vent : Sud-Est, faible.  
+{ Mer : Calme.
+```

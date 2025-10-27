@@ -1,0 +1,28 @@
+| V. 23 Août 1906 | Matin | Soir |
+|-----------------|-------|------|
+| Hauteur Barométrique | 768,2 | 766,3 |
+| Direction du vent | er. E | Est |
+| Force | 1 | 1 |
+| Nebulosite | Reg. 0. (clere) | 0 | 0 |
+| Reg. E. (mer) | 1 | 1 |
+| Direction des vagues | er. E | " |
+| Pluie tombée | " | " |
+| Température de l'air | 22,4 | " |
+| Hauteur de la mer | 44,3 | 47,0 |
+| Agitation de l'eau | 1 | 1 |
+| Densité au bout de la jetée | 1027,2 | 1026,8 |
+| Température de l'eau | 22,7 | 23,2 |
+| V. 24 Août 1906 | Matin | Soir |
+|-----------------|-------|------|
+| Hauteur Barométrique | 767,7 | 767,0 |
+| Direction du vent | er. er. E | Est |
+| Force | 1 | 1 fort |
+| Nebulosite | Reg. 0. (clere) | 0 | 0 degres de légèreté |
+| Reg. E. (mer) | 0 | 0 |
+| Direction des vagues | er. E | Est |
+| Pluie tombée | " | " |
+| Température de l'air | 26,6 | 31,3 |
+| Hauteur de la mer | 47,0 | 47,7 |
+| Agitation de l'eau | 1 | 2 |
+| Densité au bout de la jetée | 1027,8 | 1027,8 |
+| Température de l'eau | 22,6 | 22,9 |

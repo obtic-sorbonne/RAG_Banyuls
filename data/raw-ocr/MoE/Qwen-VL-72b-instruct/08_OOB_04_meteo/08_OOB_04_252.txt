@@ -1,0 +1,28 @@
+| Date           | Matin                     | Soir                     |
+|----------------|---------------------------|--------------------------|
+| V. 21 Juillet 1903 |                           |                          |
+| Hauteur Barométriq | -                         | 768.7                    |
+| Vincloim su vant | -                         | cr. o. 0                 |
+| Force          | i 5                        | 3                        |
+|                 | Req. 6. (Crèce)           | 2                        |
+| Nébulousité    | (Req. 2. (mrr))           | 1                        |
+| Direction des nuages | -                       | cr. o. 0                 |
+| Flucie tombci  | -                         | quelques g.              |
+| Tempiraturre de l'air | -                      | 26.4                     |
+| Hauuczur dl la mer | -                        | 60.6                     |
+| Âgestalidn dé l'peun | -                      | 2                        |
+| Vensitè au bout de la jeté | -               | 1026.9                   |
+| Température de l'eau | -                     | 21.2                     |
+| V. 22 Juillet 1903 |                           |                          |
+| Hauteur Barométrniq| 766.2                    | 763.7                    |
+| Direction du vent | E .S . E                 | S . S . E               |
+| Force          | i 5                        | 2 Faib                   |
+|                 | Req. 6- (Crèce)           | 0                        |
+| Nébulosité     | Req. 2. (mm)              | 1 Legnriee               | | cr. o. 0 | 1 Leglée | cr. o. 0 |
+| Direction des nuages | -                       |                          |
+| Flucie tombci  | -                         |                          |
+| Tempiraturre de l'air | -                      | 23.4 | 27.7 |
+| Hauuczur dl la mer | -                        | 61. 3 | 48.7 |
+| Âgestalidn dé l'peun | -                      | 1 jaibie | 1 faibl |
+| Vensitè au bout de la jeté | -               | 1026.8 | 1026.2 |
+| Température de l'eau | -                     | 21. 9 | 22.6 |

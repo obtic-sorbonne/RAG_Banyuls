@@ -1,0 +1,17 @@
+# Date: 28 Mai 1901
+
+|  Item | 9th Matin | 3rd Soir  |
+| --- | --- | --- |
+|  Hauteur Barométrique | 751.3 | 750.7  |
+|  Direction du vent |  |   |
+|  Force | 1 fort | 3  |
+|  Nébulosité / Reg. O. (terre) |  |   |
+|  Nébulosité / Reg. E. (mer) | 10 | 10  |
+|  Direction des nuages |  |   |
+|  Pluie tombée |  |  |
+|  Température de l'air | 18.3 | 18.7  |
+|  Hauteur de la mer | 53.2 | 44.3  |
+|  Agitation de l'eau | 0 | 1 faille  |
+|  Densité de l'eau / au bout de la jetée | 1028.5 |  |
+|  Densité de l'eau / au large |  |  |
+|  Température de l'eau | 15.4 | 17.2  |

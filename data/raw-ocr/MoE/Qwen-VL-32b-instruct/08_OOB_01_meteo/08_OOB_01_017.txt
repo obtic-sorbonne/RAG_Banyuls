@@ -1,0 +1,18 @@
+# Date of 30 April 1900
+
+|  Name | 84 m. | 34.1  |
+| --- | --- | --- |
+|  Bauteur barométrique | 768,6 | 767,8  |
+|  Direction du vent | N.O. | E.  |
+|  Force | 4 | 1  |
+|  Pédicte | 0 | 1  |
+|  Noy. E. (min) | 0 | 0  |
+|  Direction des nuages |  |   |
+|  Pluie tombe |  |   |
+|  Température à l'air | 88,3 | 83,4  |
+|  Bauteur à l'eau | 0,0 | 1  |
+|  Âgitation à l'eau | 2 | 1  |
+|  Densité de l'eau (au fond du jet) | 10,0 |   |
+|  Température de l'eau | 10,0 |   |
+|  |   |   |
+|  Objet |  |   |

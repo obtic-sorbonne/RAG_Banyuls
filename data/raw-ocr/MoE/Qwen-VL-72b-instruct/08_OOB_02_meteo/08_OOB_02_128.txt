@@ -1,0 +1,16 @@
+| **Date** | 17 Juillet 1901 |
+|----------|---------------|
+| **Heure** | **9h 10' Matin** | **3h Soir** |
+| **Hauteur Barométrique** | 768,4 | 767,8 |
+| **Direction du vent** | N.E | S.E |
+| **Force** | 1/7 faible | 1/7 faible |
+| **Nébulosité (Terre)** | Reg. O. 0 | 0 |
+| **Nébulosité (mer)** | Reg. E. 0 | 0 |
+| **Direction des nuages** | " | " |
+| **Pluie tombée** | " | " |
+| **Température de l'air** | 27,4 | 26,6 |
+| **Haulerur de la mer** | 54,6 | 66,8 |
+| **agitation de l'eau** | 0 | 0 |
+| **Densité de l'eau (au bout de la jatte)** | 1026,9 | 1026,5 |
+| **au Large** | | |
+| **Température de l'eau** | 22,9 | 25,5 |

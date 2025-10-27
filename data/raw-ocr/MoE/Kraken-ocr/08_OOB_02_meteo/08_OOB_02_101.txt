@@ -1,0 +1,56 @@
+8
+Date 19
+Juin - 1901
+Hauteur Harometrique
+Direction du vent
+Foree-
+3
+25
+Cbntosite :
+2
+Reg- O. (Serre)
+Reg-7. (mer)
+Dire tion des nuages
+Pline tombée
+2
+Température de l'air
+5
+1
+1--5
+fauteur de la mer
+Sagitation de l'eau
+6
+Densite de leau
+O
+1
+1
+2
+Cemperature de l'eau
+9
+S^t' Matin 3e Soir
+sau bont de la jetre
+1 au Farge
+D L
+1
+M.X.O
+Vort
+1
+3
+M48
+ps
+174
+T.3
+19, 0
+7
+A.N.8
+[Gort
+bléger.C
+SCXI
+4
+AN.6
+20,4
+67.
+4 Gaible
+1
+27.?
+18, 2

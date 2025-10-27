@@ -1,0 +1,8 @@
+```
+| Date | Heure | Hauteur Barométrique (mm) | Direction du vent | Force (Bft) | Nébulosité (Reg. o. Clère) | Nébulosité (Reg. z. Couvert) | Direction des nuages | Pluie tombée (mm) | Température de l'air (°C) | Hauteur de la mer (m) | Agitation de l'eau | Densité au bout de la jetée (kg/m³) | Température de l'eau (°C) |
+|------|-------|--------------------------|--------------------|-------------|-----------------------------|-----------------------------|---------------------|-------------------|-------------------------|-----------------------|---------------------|----------------------------------|-------------------------|
+| V. 11 Décembre 1905 | Matin | 772.8 | E.O. | 1/5 | 0 | 0 | S. cr. E | quelques g | 10.8 | 3 | 3 fort | 1029.3 | 10.8 |
+| V. 11 Décembre 1905 | Soir | 772.7 | E.O. | 1 | 0 | 0 | Est | " | 11.5 | 4 | 3 | 1029.3 | 10.8 |
+| V. 12 Décembre 1905 | Matin | 779.7 | E.O. | 2 | 0 | 0 | " | " | 7.9 | 3 | 4 | 1029.3 | 10.8 |
+| V. 12 Décembre 1905 | Soir | 779.0 | O.N.O. | 1 | 0 | 0 | " | " | 9.3 | 3 | 4 | 1029.3 | 10.8 |
+```

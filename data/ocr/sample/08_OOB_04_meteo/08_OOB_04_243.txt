@@ -1,0 +1,31 @@
+```plaintext
+|  9. 19 Juin - 1903 | Matin | Soir  |
+| --- | --- | --- |
+|  Hauteur Barométrique | 762.2 | 762.4  |
+|  Direction du vent | Est | O.0  |
+|  Force | 1 faible | 1 faible  |
+|  Nébulosité (Reg. O. (terre)) | 2 | 10  |
+|  Nébulosité (Reg. E. (mer)) | 2 | 10  |
+|  Direction des nuages | N.8 | 1.62  |
+|  Pluie tombée | 22.3 | 39.2  |
+|  Température de l'air | 39.3 | 3 fort  |
+|  Hauteur de la mer | 1028.4 | 1028.4  |
+|  Agitation de l'eau | 1/1.8 | 1/1.1  |
+|  Densité au bout de la jetée | 1028.8 | 1028.4  |
+|  Température de l'eau | 1/1.1 | 1/1.8  |
+
+|  9. 20 Juin - 1903 | Matin | Soir  |
+| --- | --- | --- |
+|  Hauteur Barométrique | 751.2 | 751.5  |
+|  Direction du vent | Or.0 | O.0  |
+|  Force | 2 | 1  |
+|  Nébulosité (Reg. O. (terre)) | 10 | 10  |
+|  Nébulosité (Reg. E. (mer)) | 10 | 10  |
+|  Direction des nuages | O.0 | O.0  |
+|  Pluie tombée | gredyons.9 | 9.32  |
+|  Température de l'air | 19.6 | 1/1.2  |
+|  Hauteur de la mer | 19.6 | 4/1.9  |
+|  Agitation de l'eau | 1/1.9 | 1 fort  |
+|  Densité au bout de la jetée | 1028.2 | 1028.2  |
+|  Température de l'eau | 1/1.4 |  |
+```

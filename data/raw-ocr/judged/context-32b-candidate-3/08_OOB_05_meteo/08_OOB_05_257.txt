@@ -1,0 +1,33 @@
+```markdown
+# V. 13 Juin 1907
+
+| **Date et heure**    | **Matin** | **Soir** |
+|---------------------|----------|----------|
+| Hauteur Barométrique | 764.1 mmHg | 761.0 mmHg |
+| Direction du vent    | cr.0.0   | cr.0.0   |
+| Force               | 4,10 m   | 4,10 m   |
+| Nébulosité (Reg. 0. (Ciel clair)) | 10       | 10       |
+| Direction des nuages | cr.0     | cr.0     |
+| Pluie tombée         | 16.1     | 11.1     |
+| Température de l'air | 11.4 °C  | 19.1 °C  |
+| Hauteur de la mer    | 13.2 cm  | 68.1 cm  |
+| Agitation de l'eau  | 3        | 3        |
+| Densité au bout de la jetée | 1028.1 g/cm³ | 1028.3 g/cm³ |
+| Température de l'eau | 16.3 °C  | 16.6 °C  |
+
+# V. 14 Juin 1907
+
+| **Date et heure**    | **Matin** | **Soir** |
+|---------------------|----------|----------|
+| Hauteur Barométrique | 761.3 mmHg | 761.1 mmHg |
+| Direction du vent    | cr.0     | cr.0     |
+| Force               | 4        | 6        |
+| Nébulosité (Reg. 0. (Ciel clair)) | 10       | 10       |
+| Direction des nuages | cr.8     | cr.0     |
+| Pluie tombée         | 16.8     | 21.4     |
+| Température de l'air | 11.8 °C  | 68.0 °C  |
+| Hauteur de la mer    | 11.1 cm  | 68.0 cm  |
+| Agitation de l'eau  | 1028.6 g/cm³ | 1028.0 g/cm³ |
+| Densité au bout de la jetée | 16.4 g/cm³ | 16.8 g/cm³ |
+| Température de l'eau | 16.4 °C  | 16.8 °C  |
+```

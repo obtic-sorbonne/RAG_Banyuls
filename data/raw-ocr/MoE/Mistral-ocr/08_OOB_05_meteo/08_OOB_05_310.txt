@@ -1,0 +1,27 @@
+|  V. 24 Octobie 1907 | Nkatin | Paix  |
+| --- | --- | --- |
+|  Hauteur Maronubrique | 78.2,8 | 78.2,8  |
+|  Direction du Vent | or.0 | or.0  |
+|  Force | 4 | 4  |
+|  Nkbutionte | 3 | 3  |
+|  (Reg. G. (min) |  |   |
+|  Direction des mages | 3 | 3  |
+|  (Prise Tomble) |  |   |
+|  Dempirature de l'air | 3.7/ | 16,8  |
+|  Hauteur de la mer | 34,9 | 33,2  |
+|  (Reputation de l'eau) |  |   |
+|  Demite au bout de la jeté | 10.84,7 | 10.84,7  |
+|  (Dempirature de l'eau) | 17,8 | 17,8  |
+|  V. 25 Octobie 1907 | Nkatine | Paix  |
+|  Hauteur Maronubrique | 781,7 | 781,7  |
+|  Direction du Vent | or.0 | or.0  |
+|  Force | 1 | 1  |
+|  Nkbutionte | 3 | 3  |
+|  (Reg. G. (min) |  |   |
+|  Direction des mages | or.0 | or.0  |
+|  (Prise Tomble) |  |   |
+|  Dempirature de l'air | 14,8 | 14,8  |
+|  Hauteur de la mer | 29,7 | 29,7  |
+|  (Reputation de l'eau) |  |   |
+|  Demite au bout de la jeté | 10.84,7 | 10.84,7  |
+|  (Dempirature de l'eau) | 17,8 | 17,8  |

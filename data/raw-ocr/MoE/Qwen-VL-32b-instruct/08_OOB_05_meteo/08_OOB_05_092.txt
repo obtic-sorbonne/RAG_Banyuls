@@ -1,0 +1,28 @@
+| Date | Matin | Soir |
+|---|---|---|
+| **22 Mars 1906** |  |  |
+| Hauteur Barométrique | 740.2 |  |
+| Direction du vent | cr.n.o |  |
+| Force | i5 | t fort |
+| Nébulosité | Reg. o (Clère) | 10 |
+| (Reg. E.(mer)) | 10 |  |
+| Direction des nuages | cr.n.o |  |
+| Pluie tombée | 3.0 |  |
+| Température de l'air | 8.7 |  |
+| Hauteur de la mer | S |  |
+| Agitation de l'eau | 4 |  |
+| Vitesse au bout de la jetée | 3 |  |
+| Température de l'eau |  |  |
+| **23 Mars 1906** |  |  |
+| Hauteur Barométrique | 747.3 |  |
+| Direction du vent | cr.n.o |  |
+| Force | i5 | p |
+| Nébulosité | Reg. o (Clère) | 10 |
+| (Reg. E.(mer)) | 10 |  |
+| Direction des nuages | cr.n.o | quelques g |
+| Pluie tombée |  |  |
+| Température de l'air | 8.7 |  |
+| Hauteur de la mer | S |  |
+| Agitation de l'eau | t fort |  |
+| Vitesse au bout de la jetée | 3 |  |
+| Température de l'eau |  |  |

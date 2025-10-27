@@ -1,0 +1,33 @@
+# N. 1er février - 1903
+
+|  Nom | Date  |
+| --- | --- |
+|  Hauteur Mearonctrique | 481.4  |
+|  Direction du vent | 7.0  |
+|  Force | 1  |
+|  Mécbulosité (Reg. O. (rime)) | 10  |
+|  Mécbulosité (Reg. E. (mor)) | 10  |
+|  Direction des nuages | 40.1  |
+|  Huie tombée | 8.4  |
+|  Rempliration de l'air | 46.1  |
+|  Hauteur de la mer | 1  |
+|  Égitation de l'eau | 1  |
+|  Densité au bout de la jeté | 1089.8  |
+|  Rempliration de l'eau | 11.7  |
+
+# N. 2 février - 1903
+
+|  Nom | Date  |
+| --- | --- |
+|  Hauteur Mearonctrique | 4/8.7  |
+|  Direction du vent | 47.0  |
+|  Force | 4  |
+|  Mécbulosité (Reg. O. (rime)) | 4  |
+|  Mécbulosité (Reg. E. (mor)) | 4  |
+|  Direction des nuages | 1.8  |
+|  Huie tombée | 8.0  |
+|  Rempliration de l'air | 40.0  |
+|  Hauteur de la mer | 40.0  |
+|  Égitation de l'eau | 4  |
+|  Densité au bout de la jeté | 1089.0  |
+|  Rempliration de l'eau | 90.2  |

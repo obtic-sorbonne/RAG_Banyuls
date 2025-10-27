@@ -1,0 +1,26 @@
+| V. 21 Novembre 1906 | Matin | Soir |
+|---------------------|-------|------|
+| Hauteur barométrique | 769.5 | 770.8 |
+| Direction du vent    | S.O   | E.S.O |
+| Force                | 1 T. faible | 1 faible |
+| Nébulosité           | Reg. C. (claire) | 10 | 10 |
+| Direction des nuages | S.O   | E.S.O |
+| Pluie tombée         | "     | "     |
+| Température de l'air | 10.7  | 12.7  |
+| Hauteur de la mer    | 12.3  | 12.2  |
+| Agitation de l'eau   | 1     | 1 faible |
+| Densité au cours de la jité | 1029.3 | 1029.0 |
+| Température de l'eau | 15.7  | 16.3  |
+| V. 22 Novembre 1906 | Matin | Soir |
+|---------------------|-------|------|
+| Hauteur barométrique | 773.2 | 773.6 |
+| Direction du vent    | S.O   | S.E   |
+| Force                | 1 T. faible | 1     |
+| Nébulosité           | Reg. C. (claire) | 10 | 10 |
+| Direction des nuages | E.S.E | E.S.E |
+| Pluie tombée         | "     | "     |
+| Température de l'air | 13.0  | 13.2  |
+| Hauteur de la mer    | 18.9  | 18.7  |
+| Agitation de l'eau   | 1     | 1 faible |
+| Densité au cours de la jité | 1028.6 | 1028.7 |
+| Température de l'eau | 16.0  | 16.6  |

@@ -1,0 +1,27 @@
+| Nombre de pairs de bateaux | V. 4 Avril 1907 | Matin | Soir |
+|---|---|---|---|
+| | Hauteur Barométrique | 746.0 | 744.9 |
+| | Direction du Vent | S. E | E. O |
+| | Force | 1 fort. | 4 |
+| | Nébulosité | Reg. C. (clère) | 40 | 10 |
+| | | Reg. X. (nu) | 60 | 60 |
+| | Direction des nuages | S. E | E. O |
+| | Pluie tombée | " | quelques gouttes |
+| | Température de l'air | 11.4 | 10.9 |
+| | Hauteur de la mer | 43.8 | 40.4 |
+| | Agitation de l'eau | 1 fort. | 1 fort. |
+| | Densité au bout de la jetée | 1029.4 | 1029.9 |
+| | Température de l'eau | 12.8 | 12.4 |
+| | V. 5 Avril 1907 | Vésitain | Soir |
+| | Hauteur Barométrique | 750.9 | 752.4 |
+| | Direction du Vent | E. O | E. O |
+| | Force | 5 | 6 |
+| | Nébulosité | Reg. C. (clère) | 10 | 10 légère |
+| | | Reg. X. (nu) | 10 | 10 légère |
+| | Direction des nuages | E. N. O | E. E. O |
+| | Pluie tombée | " | " |
+| | Température de l'air | 10.9 | 14.2 |
+| | Hauteur de la mer | 48.1 | 44.2 |
+| | Agitation de l'eau | 3 | 3 fort. |
+| | Densité au bout de la jetée | 1029.1 | 1029.1 |
+| | Température de l'eau | 11.7 | 12.0 |

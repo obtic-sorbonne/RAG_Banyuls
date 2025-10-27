@@ -1,0 +1,15 @@
+|                     | 9ʰ Matin | 3ʰ Soir |
+|---------------------|----------|----------|
+| Hauteur Barométrique | 760,1 m | 758,7 m |
+| Direction du vent   | Nord     | Nord     |
+| Force               | 4        | 3        |
+| Nébulosite (clarté)  | 2        | 8        |
+| Nébulosite (nuages)  | 1        | 0        |
+| Pluie tombée        | "       | "       |
+| Température de l'air | 14.3 °C | 17.2 °C |
+| Hauteur de la mer   | 55.8 m  | 49.9 m  |
+| Agitation de l'eau  | 2        | 2        |
+| Densité de l'eau    |          |          |
+| - au bout de la jetée | 1028.5 g/cm³ | 1028.6 g/cm³ |
+| - au large         |          |          |
+| Température de l'eau | 13.2 °C | 13.4 °C |

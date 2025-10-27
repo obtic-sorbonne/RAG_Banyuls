@@ -1,0 +1,41 @@
+| OBSERVATIONS DU | **1900-10-08** |
+|---|---|
+| Nombre de bateaux sortis (pêche à l.) |  |
+| Température de l'air | maxima depuis la veille | **13.7** |
+|  | minima id. | **10.0** |
+| Température de l'eau | maxima depuis la veille |  |
+|  | minima id. |  |
+| Pluie tombée depuis la veille, en millim. |  |
+| Evaporation depuis le **190**, en millim. |  |
+| Direction du vent (à terre) | à **9 h. m.** | **Sud** |
+|  | à **3 h. s.** |  |
+| Force | **3** | |
+| Direction des nuages | **S.P.O.** | |
+| Nebulosité | région Ouest (terre) | **10** |
+|  | id. Est (mer) | **10** |
+| Hauteur de la mer, en centimètres, au-dessus du zéro (**B.R.**) | **0.0** |
+| Agitation de l'eau | **1** |
+| Densité de l'eau au bout de la jetée | **1027.0** |
+| Température id. | **12.7** |
+
+---
+
+| OBSERVATIONS DU | **1900-10-09** |
+|---|---|
+| Nombre de bateaux sortis (pêche à l.) |  |
+| Température de l'air | maxima depuis la veille | **13.8** |
+|  | minima id. | **7.8** |
+| Température de l'eau | maxima depuis la veille |  |
+|  | minima id. |  |
+| Pluie tombée depuis la veille, en millim. |  |
+| Evaporation depuis le **190**, en millim. |  |
+| Direction du vent (à terre) | à **9 h. m.** | **1/3 Faible** |
+|  | à **3 h. s.** | **S.P.O.** |
+| Force | **0** | **1/3 Faible** |
+| Direction des nuages | **S.O.** |  |
+| Nebulosité | région Ouest (terre) | **10** | **0** |
+|  | id. Est (mer) | **10** | **0** |
+| Hauteur de la mer, en centimètres, au-dessus du zéro (**B.R.**) | **8.0** |
+| Agitation de l'eau | **1 Fort** | **1 Fort** |
+| Densité de l'eau au bout de la jetée | **1027.4** | **1027.8** |
+| Température id. | **13.0** | **13.2** |

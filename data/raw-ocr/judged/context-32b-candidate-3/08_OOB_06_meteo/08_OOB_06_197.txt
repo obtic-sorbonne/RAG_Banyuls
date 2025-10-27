@@ -1,0 +1,55 @@
+```plaintext
+### OBSERVATIONS DU 1901 15 SEPTEMBRE
+
+| **Nombre de bateaux sortis (pêche à l.)** | 29,4 |
+| **Température de l'air** |  |  |
+| – maxima depuis la veille | 29,4 |  |
+| – minima id. | 17,3 |  |
+| **Température de l'eau** |  |  |
+| – maxima depuis la veille |  |  |
+| – minima id. |  |  |
+| **Pluie tombée depuis la veille, en millim.** | 13,79 |  |
+| **Evaporation depuis le 1901, en millim.** |  |  |
+| **Direction du vent (à terre)** | **à 9 h. m.** | **à 3 h. s.** |
+| – Force | 1 |  |
+| – Direction | E. N. E. |  |
+| **Direction des nuages** |  |  |
+| **Nébulosité** |  |  |
+| – région Ouest (terre) | 10 |  |
+| – id. Est (mer) | 10 |  |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.)** | 94,2 |  |
+| **Agitation de l'eau** | 1 fort |  |
+| **Densité de l'eau au bout de la jetée** | 1026,0 |  |
+| **Température** |  |  |
+| – id. Matin | 24,3 |  |
+| – id. maxima Matin | 29,3 |  |
+| – id. minima Matin | 17,4 |  |
+
+### OBSERVATIONS DU 1901 16 SEPTEMBRE
+
+| **Nombre de bateaux sortis (pêche à l.)** | 27,1 |
+| **Température de l'air** |  |  |
+| – maxima depuis la veille | 27,1 |  |
+| – minima id. | 19,3 |  |
+| **Température de l'eau** |  |  |
+| – maxima depuis la veille |  |  |
+| – minima id. |  |  |
+| **Pluie tombée depuis la veille, en millim.** |  |  |
+| **Evaporation depuis le 1901, en millim.** |  |  |
+| **Direction du vent (à terre)** | **à 9 h. m.** | **à 3 h. s.** |
+| – Force | 1 fort | 1 7/8 fort |
+| – Direction | Nord | N. E. |
+| **Direction des nuages** |  |  |
+| **Nébulosité** |  |  |
+| – région Ouest (terre) | 10 | 10 |
+| – id. Est (mer) | 10 | 10 |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.)** | 22,0 | 19,0 |
+| **Agitation de l'eau** | 1 fort | 1 fort |
+| **Densité de l'eau au bout de la jetée** | 1025,6 | 1025,6 |
+| **Température** |  |  |
+| – id. Balanc Matin | 26,0 |  |
+| – id. maxima Matin | 33,7 |  |
+| – id. minima Matin | 17,7 |  |
+| – id. maxima Louis | 32,3 |  |
+| – id. minima Louis | 26,7 |  |
+```

@@ -1,0 +1,31 @@
+```
+|  X. 31 X line. 1903 | Station | Soir  |
+| --- | --- | --- |
+|  1/auteur Barométrique | 7/0.5 | 7/8.6  |
+|  Direction du vent | 0.0 | 0.0  |
+|  Force | 3 | 2  |
+|  (Reg. O. (terre) | 10 | 2  |
+|  2/humidité |  |   |
+|  (Reg. E. (mer) | 10 | 2  |
+|  Direction des nuages | 2.8 | 2.8  |
+|  3/pluie tombée | 12.12/ |   |
+|  4/température de l'air | 3.4 | 3.5  |
+|  5/hauteur de la mer |  |   |
+|  6/agitation de l'eau |  |   |
+|  7/densité au bout de la jetée |  |   |
+|  8/température de l'eau |  |   |
+|  9. 2 Janvier 1904 | Station | Soir  |
+|  1/auteur Barométrique | 704.2 |   |
+|  Direction du vent | 0.0 |   |
+|  Force | 1/fort |   |
+|  (Reg. O. (terre) | 10 |   |
+|  2/humidité |  |   |
+|  (Reg. E. (mer) | 10 |   |
+|  Direction des nuages | 0.0 |   |
+|  3/pluie tombée |  |   |
+|  4/température de l'air | 3.8 |   |
+|  5/hauteur de la mer | 39.0 |   |
+|  6/agitation de l'eau | 17.12/ |   |
+|  7/densité au bout de la jetée | 10.27/ |   |
+|  8/température de l'eau | 11.8 |   |
+```

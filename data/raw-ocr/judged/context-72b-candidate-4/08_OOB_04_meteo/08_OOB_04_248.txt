@@ -1,0 +1,30 @@
+```plaintext
+| **Date**       | **Matin** | **Soir** |
+|----------------|-----------|----------|
+| **2 Juillet 1903** |         |         |
+| Hauteur Barométrique | 766.3 | 766.0   |
+| Direction du vent | S.O.   | S.S.E.  |
+| Force            | 1       | 2       |
+| Reg. 0. (lum)    | 0       | 0       |
+| Reg. 2°. (mer)   | 0       | 0       |
+| Direction des nuages | * *   | S.S.E.  |
+| Pluie tombée     | * *     | * *     |
+| Température de l'air | 26.3 | 31.9   |
+| Hauteur de la mer | 11.4  | 49.0    |
+| Agitation de l'eau | 1 T. faible   | 2 T. jaillissement |
+| Densité au bout de la jetée | 1027.4 | 1027.0   |
+| Température de l'eau | 20.9 | 21.6   |
+| **3 Juillet 1903** |         |         |
+| Hauteur Barométrique | 769.0 | 768.0   |
+| Direction du vent | O.N.   | S.E.    |
+| Force            | 2       | 1       |
+| Reg. 0. (lum)    | 10      | 10      |
+| Reg. 2°. (mer)   | 10      | 10      |
+| Direction des nuages | O.N. | O.S.    |
+| Pluie tombée     | * *     | * *     |
+| Température de l'air | 26.6 | 28.7   |
+| Hauteur de la mer | 11.1  | 46.2    |
+| Agitation de l'eau | 1 T. faible | 1 T. faible |
+| Densité au bout de la jetée | 1027.1 | 1027.0   |
+| Température de l'eau | 20.8 | 22.0   |
+```

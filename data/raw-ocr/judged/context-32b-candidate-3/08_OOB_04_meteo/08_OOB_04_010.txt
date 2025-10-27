@@ -1,0 +1,35 @@
+# 9 Octobre 1901
+
+|  **Nom** | **Matin** | **Soir**  |
+| --- | --- | --- |
+|  Hauteur Barométrique | 763.6 | 763.2  |
+|  Direction du vent | 0.0 | 0.0  |
+|  Force | 1.0 | 3.0  |
+|  Nébulosité | 1.0 | 1.0  |
+|  Reg. G. (terre) | 0.0 | 0.0  |
+|  Reg. G. (mer) | 1.0 | 1.0  |
+|  Direction des nuages | 0.0 | 0.0  |
+|  Pluie tombée | 0.0 | 0.0  |
+|  Température de l'air | 17.6 | 19.2  |
+|  Hauteur de la mer | 1.0 | 1.0  |
+|  Agitation de l'eau | 102.0 | 102.0  |
+|  Densité au bout de la jetée | 1027.3 | 1026.5  |
+|  Température de l'eau | 18.3 | 18.1  |
+
+# 10 Octobre 1901
+
+|  **Nom** | **Matin** | **Soir**  |
+| --- | --- | --- |
+|  Hauteur Barométrique | 763.2 | 763.2  |
+|  Direction du vent | 0.0 | 0.0  |
+|  Force | 3.0 | 3.0  |
+|  Nébulosité | 1.0 | 1.0  |
+|  Reg. G. (terre) | 0.0 | 0.0  |
+|  Reg. G. (mer) | 0.0 | 0.0  |
+|  Direction des nuages | 0.0 | 0.0  |
+|  Pluie tombée | 0.0 | 0.0  |
+|  Température de l'air | 19.2 | 19.2  |
+|  Hauteur de la mer | 1.0 | 1.0  |
+|  Agitation de l'eau | 102.0 | 102.0  |
+|  Densité au bout de la jetée | 1026.5 | 1026.5  |
+|  Température de l'eau | 18.1 | 19.3  |

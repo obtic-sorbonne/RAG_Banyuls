@@ -1,0 +1,37 @@
+| **DATE**   | **1960  J. Juillet** |
+|------------|------------|
+| Nombre de bateaux sortis (pêche à la trahine) | 4 |
+| Température de l'air (maxima depuis la veille) | 19.7 |
+| Température de l'air (minima) id. | 14.1 |
+| Température de l'eau (maxima depuis la veille) |  |
+| Température de l'eau (minima) id. |  |
+| Pluie tombée depuis la veille, en millim. |  |
+| Évaporation depuis le 05, en millim. |  |
+| Direction du vent (à terre) | à 9 h. m. | à 3 h. s. |
+| Force | N.N.O | N.N.O |
+| Direction des nuages | N.O. | N.E. |
+| Nébulosité (région Ouest (terre)) | 60 | 60 |
+| Nébulosité (id. Est (mer)) | 10 | 10 |
+| Hauteur de la mer, en centimètres, au-dessus du zéro | 23.5 | 24.6 |
+| Agitation de l'eau | 3 | 2.5 |
+| Densité de l'eau au bout de la jetée | 1027.1 | 1027.5 |
+| Température | 16.7 | 17.5 |
+
+| **DATE**   | **1960 6 Juillet** |
+|------------|------------|
+| Nombre de bateaux sortis (pêche à l'ancorée) | 82 |
+| Température de l'air (maxima depuis la veille) | 21.4 |
+| Température de l'air (minima) id. | 13.9 |
+| Température de l'eau (maxima depuis la veille) |  |
+| Température de l'eau (minima) id. |  |
+| Pluie tombée depuis la veille, en millim. |  |
+| Évaporation depuis le 22 Juin 1960, en millim. | 8.0 |
+| Direction du vent (à terre) | à 9 h. m. | à 3 h. s. |
+| Force | S.S.E | S.S.E |
+| Direction des nuages | N.N.O | N.O. |
+| Nébulosité (région Ouest (terre)) | 10 | 10 |
+| Nébulosité (id. Est (mer)) | 10 | 10 |
+| Hauteur de la mer, en centimètres, au-dessus du zéro | 28.8 | 29.0 |
+| Agitation de l'eau | 1 fort | 1.0 |
+| Densité de l'eau au bout de la jetée | 1027.2 | 1026.7 |
+| Température | 17.6 | 19.2 |

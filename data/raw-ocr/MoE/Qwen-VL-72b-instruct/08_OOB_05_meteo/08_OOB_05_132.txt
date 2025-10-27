@@ -1,0 +1,28 @@
+| V. 21 Juillet 1906 | Matin | Soir |
+|-------------------|-------|------|
+| Hauteur Barométrique | 767,4 |      |
+| Direction du vent | Eroux |      |
+| Force | 2 fort |       |
+| Nébulosité | Reg. 6. (clère) | 0     |
+| Reg. 6. (mer) | 0     |       |
+| Direction des vagues | / |        |
+| Pluie tombée | / |          |
+| Température de l'air | 23,0 |       |
+| Hauteur de la mer | 03,3 |        |
+| Agitation de l'eau | 1 fort |       |
+| Densité au bout de la jetée | 1027,1 | |
+| Température de l'eau | 21,1 |       |
+| V. 25 Juillet 1906 | Matin | Soir |
+|-------------------|-------|------|
+| Hauteur Barométrique | 764,8 |      |
+| Direction du vent | E.N.O |      |
+| Force | 3 |          |
+| Nébulosité | Reg. 6. (clère) | 0     |
+| Reg. 6. (mer) | 0 |        |
+| Direction des vagues | E.N.O |      |
+| Pluie tombée | quelques g |      |
+| Température de l'air | 26,7 |       |
+| Hauteur de la mer | 04,6 |        |
+| Agitation de l'eau | 1 fort |       |
+| Densité au bout de la jetée | 1027,7 | |
+| Température de l'eau | 21,7 |       |

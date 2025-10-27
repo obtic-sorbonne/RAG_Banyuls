@@ -1,0 +1,32 @@
+```plaintext
+Sortie du 6 Août 1903
+
+Départ de Barcelona à 4 heures du soir pour les Baléares
+Arrivée
+
+Départ de 
+à heures du 
+
+Arrivée à 
+
+Départ de 
+à heures du 
+
+Arrivée au mouillage à Palmas à 3<sup>e</sup> h. du soir
+
+État du temps : Très beau
+
+Passagers à bord : M<sup>°</sup> Lucien L. Pruvot, M<sup>剩下的内容未填写完整</sup>等
+`\n`
+Objet de la sortie : En route pour les Baléares
+
+```
+{Consummation
+  Briquettes de Poids en Kilos
+  Huile              Total en litres
+}
+
+Dépenses
+
+Observations : Partis de Barcelona à 4<sup>e</sup> du soir, par une mer assez calme, nous profitâmes d'un clair de Lune superbe toute la nuit. À 2<sup>e</sup> du matin, nous ressentîmes une secousse assez brusque, la machine ralentit, et de légères vibrations se firent sentir sur l'arrière du bateau; nous avançâmes sans aucun doute d'abordé une épave, nous continuâmes notre route sans voir rien qui puisse distinguer la moindre trace sur le fond. Ainsi que le jour a fini par lever, de sorte qu'aujourd'hui, quelques-uns parmi nous, qu'ils accomplissent encore une heure de nuit.
+```

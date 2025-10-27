@@ -1,0 +1,29 @@
+|  8. 8 Janvier - 1908 | Mibatin | Poir  |
+| --- | --- | --- |
+|  Manteur Maremétrique | 4/8,1 | 4/1,3  |
+|  Direction du vent | 1.0 | 1.0  |
+|  Force | faible | faible  |
+|  (Rég. C. (titre) | 3 | 3  |
+|  Mébulonite | 8.0 | 8.0  |
+|  (Rég. 2. (mus) |  |   |
+|  Direction des images | 1.0 | 1.0  |
+|  Flux tombeé |  |   |
+|  Température de l'air | 8.8 | 12.3  |
+|  Maintien de la nuit | 3/1.7 | 37.6  |
+|  Législation de l'eau | 2/2/1 | 2  |
+|  Densité au bout de la fête | 102.4.7 | 102.4.3  |
+|  Température de l'eau | 12.2 | 19.4  |
+|  9. 9 Janvier - 1908 | Mibatin | Poir  |
+|  Manteur Maremétrique | 4/1.7 | 4/1.6  |
+|  Direction du vent |  | 1.0  |
+|  Force | 10 | 1  |
+|  (Rég. C. (titre) | 10 | 10  |
+|  Mébulonite |  |   |
+|  (Rég. 2. (mus) | 10 | 10  |
+|  Direction des images | 4.0 | 4.0  |
+|  Flux tombeé |  |   |
+|  Température de l'air | 10.1 | 11.8  |
+|  Maintien de la nuit | 48.3 | 47.9  |
+|  Législation de l'eau | 3 | 1  |
+|  Densité au bout de la fête | 102.4.1 | 102.4.7  |
+|  Température de l'eau | 13.7 | 13.8  |

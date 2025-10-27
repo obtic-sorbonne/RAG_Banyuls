@@ -1,0 +1,29 @@
+| V. 28 Juin - 1906 | Matin | Soir |
+|---|---|---|
+| Hauteur Barométrique |  | 707.6 |
+| Direction du Vent |  | S.S.E. |
+| Force |  | 3 Tr. fat |
+| Nébulosité | Reg. 6. (terre) | 0 |
+|  | Reg. 8. (mer) | 1 |
+| Direction des nuages |  | S.E. |
+| Pluie tombée |  | 0 |
+| Température de l'air |  | 20.6 |
+| Hauteur de la mer |  | 0.6 |
+| Agitation de l'eau |  | 2 |
+| Densité au bord de la jetée |  | 1027.0 |
+| Température de l'eau |  | 21.1 |
+
+| V. 30 Juin - 1906 | Matin | Soir |
+|---|---|---|
+| Hauteur Barométrique | 767.0 |  |
+| Direction du Vent | E.S.E. | E.S.E. |
+| Force | 15 | 2 Fort |
+| Nébulosité | Reg. 6. (terre) | 60 |
+|  | Reg. 8. (mer) | 60 |
+| Direction des nuages |  | Ouest |
+| Pluie tombée |  | quelques g |
+| Température de l'air |  | 20.0 |
+| Hauteur de la mer |  | 0.5 |
+| Agitation de l'eau |  | 1 |
+| Densité au bord de la jetée |  | 1027.3 |
+| Température de l'eau |  | 18.4 |

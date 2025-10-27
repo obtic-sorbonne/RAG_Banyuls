@@ -1,0 +1,16 @@
+| Pêche à la traine nombre de pairs de bateaux - 5 | Cèche à la traine Quantité de poisson pêché - 169 | Valeur du poisson - 210 f. |
+|---|---|---|
+| 9. 23 Mars. 1905 | Matin | Soir |
+| Hauteur Barométrique | 760,6 | 760.0 |
+| Direction du vent | cr.cr.o | S.S.E |
+| Force | i5 | Fort |
+| Nébulosité Reg. o (terre) | 40 | 40 |
+| Reg. 2° (mer) | 40 | 40 |
+| Direction des nuages | N.O | cr.cr.o |
+| Fluide tombé | quelques g | " |
+| Température de l'air | 18,1 | 16,6 |
+| Hauteur de la mer | 40./ | 61,4 |
+| Agitation de l'eau | Fort | Fort |
+| Densité au bout Je la jetée | 10 29,/ | 10 29,3 |
+| Température de l'eau | 18.1 | 18./ |
+| 9. 24 mars. 1905 |  |  |

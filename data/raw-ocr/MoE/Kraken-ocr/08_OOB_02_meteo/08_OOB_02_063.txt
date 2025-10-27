@@ -1,0 +1,36 @@
+2
+QJJ
+Date-12 Mat 1901
+fauteur Barometrique
+Direction du vent
+1
+corce 
+Cn
+9
+Nnlosite
+= Reg. O. (terre)
+1
+(Reg-Z- (mer)
+Dire tion des nuages
+Olie tombée
+Température de l'air
+71
+fauteur de la mer
+Agitation de l'eau
+Densite de l'eau
+1
+Cemperature de l'eau
+3
+S^t Malin 3 Soir
+7
+Bore
+10 légerm courert
+10 légn  corvert
+Nord
+14,2
+68 4
+d fort
+ au bont de la etre 1023.4
+au Ear
+9e
+7

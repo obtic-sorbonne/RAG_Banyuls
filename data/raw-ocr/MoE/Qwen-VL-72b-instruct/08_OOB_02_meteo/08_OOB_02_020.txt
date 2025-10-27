@@ -1,0 +1,16 @@
+| Date                | 22 Mars 1901 |
+|---------------------|-------------|
+| Heure               | 9 H. Matin  | 3 H. Soir |
+| Hauteur Barométrique | 754 f       |           |
+| Direction du vent   | NORD        |           |
+| Force               | 5           |           |
+| Nébulosité          | Reg. 0. (livre) | Reg. E. (mer) |
+|                     | Lign. c     | 3         |
+| Direction des nuages| NORD        |           |
+| Pluie tombée        | —           |           |
+| Température de l'air| 9.7         |           |
+| Niveau de la mer    | 31.5        |           |
+| Agitation de l'eau  | pambard de la jetée | 3 |
+|                     | au large    |           |
+| Densité de l'eau    | ——          |           |
+| Température de l'eau| 10.6        |           |

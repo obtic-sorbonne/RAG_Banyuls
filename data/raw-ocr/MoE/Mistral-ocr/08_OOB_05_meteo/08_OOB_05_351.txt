@@ -1,0 +1,33 @@
+# V. 6 Février - 1908
+
+|  **Position** | **Nom**  |
+| --- | --- |
+|  Hauteur Maromérique | 116,3  |
+|  Direction du tout | or.00  |
+|  Force | 8 falls  |
+|  Nébulante | 1  |
+|  Reg. F. (mus) | 8  |
+|  Direction des mages | or.00  |
+|  Flux tombé | 8,9  |
+|  Température de l'air | 8,9  |
+|  Hauteur de la mus | 18,3  |
+|  Régulation de l'eau | 3 feet  |
+|  Densité au bout de la jetée | 428,6  |
+|  Température de l'eau | 10,0  |
+
+# V. 7 Février - 1908
+
+|  **Position** | **Nom**  |
+| --- | --- |
+|  Hauteur Maromérique | 118,4  |
+|  Direction du tout | or.00  |
+|  Force | 1 foot  |
+|  Nébulante | 0  |
+|  Reg. F. (mus) | 0  |
+|  Direction des mages | 1  |
+|  Flux tombé | 1  |
+|  Température de l'air | 1,1  |
+|  Hauteur de la mus | 10,8  |
+|  Régulation de l'eau | 3 feet  |
+|  Densité au bout de la jetée | 1628,1  |
+|  Température de l'eau | 9,9  |

@@ -1,0 +1,49 @@
+```plaintext
+### OBSERVATIONS DU 1902 24 FÉVRIER
+
+| **Nombre de bateaux sortis (pêche à l.)** | 19,7 |
+| **Température de l'air** |  |  |
+| - maxima depuis la veille | 19,7 |  |
+| - minima id. | 11,0 |  |
+| **Température de l'eau** | *non mentionnée* | *non mentionnée* |
+| **Pluie tombée depuis la veille, en millim.** | 7,0 |  |
+| **Évaporation depuis le 1900, en millim.** | *non mentionnée* |  |
+| **Direction du vent (à terre)** | **N.N.O.** | **S.S.O.** |
+| - Force | 1/fort | 1/T.fort |
+| - Direction des nuages | **S.O.** |  |
+| **Nébulosité** |  |  |
+| - région Ouest (terre) | 60 | 40 |
+| - id. Est (mer) | 60 | 40 |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.)** | 29,8 | 38,7 |
+| **Agitation de l'eau** | 1/fort | 1/fort |
+| **Densité de l'eau au bout de la jetée** | 1027,4 | 1027,4 |
+| **Température** |  |  |
+| - matin (maxima) | 29,2 |  |
+| - matin (minima) | 9,3 |  |
+| - soir (maxima) | 29,2 |  |
+| - soir (minima) | 13,0 |  |
+
+### OBSERVATIONS DU 1902 26 FÉVRIER
+
+| **Nombre de bateaux sortis (pêche à l.)** | 17,0 |
+| **Température de l'air** |  |  |
+| - maxima depuis la veille | 17,0 |  |
+| - minima id. | 9,4 |  |
+| **Température de l'eau** | *non mentionnée* | *non mentionnée* |
+| **Pluie tombée depuis la veille, en millim.** | 0,0 |  |
+| **Évaporation depuis le 1900, en millim.** | *non mentionnée* |  |
+| **Direction du vent (à terre)** | **N.N.O.** |  |
+| - Force | 3/fort |  |
+| - Direction des nuages |  |  |
+| **Nébulosité** |  |  |
+| - région Ouest (terre) | 10 |  |
+| - id. Est (mer) | 10 |  |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.)** | 39,7 |  |
+| **Agitation de l'eau** | 2 |  |
+| **Densité de l'eau au bout de la jetée** | 1027,2 |  |
+| **Température** |  |  |
+| - matin (maxima) | 29,3 |  |
+| - matin (minima) | 6,3 |  |
+| - soir (maxima) | 13,0 |  |
+| - soir (minima) | *non mentionnée* |  |
+```

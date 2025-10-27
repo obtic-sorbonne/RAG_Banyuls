@@ -1,0 +1,30 @@
+```
+| Date        | Matin | Soir  |
+|-------------|-------|-------|
+| 8.21 Juin 1906 |       | 20.0  |
+| Hauteur Barométrique | 770.5 |       |
+| Direction du vent | er. er. |       |
+| Force | 2 fort |       |
+| Nébulosité (Reg. o. (terre)) | 10.0 |       |
+| (Reg. x. (mer)) | 10.0 |       |
+| Direction des nuages |       | er. 2  |
+| Pluie tombée |       |       |
+| Température de l'air | 24.5 |       |
+| Hauteur de la mer |       | 20.0  |
+| Agitation de l'eau | 2 fort |       |
+| Densité au bout de la jetée | 1027.5 |       |
+| Température de l'eau | 20.2 |       |
+| 8.27 Juin 1906 |       |       |
+| Hauteur Barométrique |       | 770.4  |
+| Direction du vent |       | 2  |
+| Force |       | 25.0  |
+| Nébulosité (Reg. o. (terre)) |       |       |
+| (Reg. x. (mer)) |       |       |
+| Direction des nuages |       |       |
+| Pluie tombée |       |       |
+| Température de l'air |       | 14.2  |
+| Hauteur de la mer |       | 1.2  |
+| Agitation de l'eau |       | 1029  |
+| Densité au bout de la jetée |       | 22.0  |
+| Température de l'eau |       |       |
+```

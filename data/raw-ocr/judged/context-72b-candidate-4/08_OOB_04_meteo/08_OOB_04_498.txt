@@ -1,0 +1,31 @@
+```plaintext
+| V. 16 Mai - 1905 | Matin | Soir |
+|---|---|---|
+| Hauteur Barométrique | 759.0 | 760.1 |
+| Direction du vent | cr.cr.o | cr.cr.o |
+| Force | 4 fort | 3 |
+| Nébulosité (Reg. G. (terre)) | 10 | 10 |
+| Nébulosité (Reg. L. (mer)) | 10 | 10 |
+| Direction des nuages | cr.o | cr.o |
+| Pluie tombée | quelques gouttes | " |
+| Température de l'air | 15.4 | 20.3 |
+| Hauteur de la mer | 18.0 | 21.3 |
+| Agitation de l'eau | 2 fort | 2 |
+| Densité au bout de la jetée | 1028.8 | 1028.7 |
+| Température de l'eau | 14.8 | 14.8 |
+
+| V. 17 Mai - 1905 | Matin | Soir |
+|---|---|---|
+| Hauteur Barométrique | 764.0 | 764.9 |
+| Direction du vent | S.E | " |
+| Force | 1 faible | 0 |
+| Nébulosité (Reg. G. (terre)) | 10 | 10 |
+| Nébulosité (Reg. L. (mer)) | 10 | 10 |
+| Direction des nuages | cr.o | " |
+| Pluie tombée | 2.0 | quelques gouttes |
+| Température de l'air | 17.7 | 16.5 |
+| Hauteur de la mer | 10.0 | 12.2 |
+| Agitation de l'eau | 1 faible | 1 faible |
+| Densité au bout de la jetée | 1028.4 | 1028.6 |
+| Température de l'eau | 15.7 | 15.7 |
+```

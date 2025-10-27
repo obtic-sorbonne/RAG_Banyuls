@@ -1,0 +1,16 @@
+| **Date** | 4 Novembre 1901 |
+|---|---|
+| **Heure** | 9h Matin | 3h Soir |
+| **Hauteur Barométrique** | 767.2 | 765.7 |
+| **Direction du vent** | N.N.O | Est |
+| **Force** | 1 fort | 1 T. faible |
+| **Nébulosité** |  |  |
+| **Reg. V. (terre)** | 1 | 10 |
+| **Reg. E. (mer)** | 0 |  |
+| **Direction des nuages** | N.N.O | Est |
+| **Pluie tombée** | '' | '' |
+| **Température de l'air** | 11.2 | 14.3 |
+| **Hauteur de la mer** | 43.6 | 35.0 |
+| **Agitation de l'eau** | 2 | 2 T. fort |
+| **Densité de l'eau** | au Bout du bateau 1026.3 | 1025.3 |
+| **Température de l'eau** | 15.1 | 15.6 |

@@ -1,0 +1,18 @@
+# Date - 31 Janvier - 1901
+
+|  **Date** | **Vent** | **Vent**  |
+| --- | --- | --- |
+|  9th, 20' Martin, 3rd Sorie |  |   |
+|  Hauteur Barométrique |  |   |
+|  Direction du vent | 715, 3 | 715, 3  |
+|  Force mm 10 mm |  |   |
+|  Pince | 1 m faible | 3  |
+|  Tébulosité | Reg. O. (1ère) | 8  |
+|  Tébulosité | Reg. E. (mec) | 0  |
+|  Direction des nuages |  |   |
+|  Nuit tombée |  | 1, 5, 7, 8, 9, 10  |
+|  Température de l'air |  | 5, 0  |
+|  Hauteur de la mer |  | 45, 2  |
+|  Égitation de l'eau |  | 1, 2 m faible  |
+|  Serrate de l'eau |  | 1 m faible  |
+|  **Dempetature de l'eau** |  | 12, 18, 5  |

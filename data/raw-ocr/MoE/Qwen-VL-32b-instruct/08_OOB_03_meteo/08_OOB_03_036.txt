@@ -1,0 +1,18 @@
+# Date: 28 Octobre 1901
+
+|   | 9th Station | 3rd Soir  |
+| --- | --- | --- |
+|  Hauteur Parométrique | 767.6 | 765.7  |
+|  Direction du vent | N.N.O | N.E  |
+|  Force | 3 faible | 3 T. fort  |
+|  (Reg. O- (1ère) Reg. E- (mer) | 0 | 10  |
+|  Direction des nuages | 3 | 10  |
+|  (N.N.O. N.N.O) | 8.E |   |
+|  Sline tombée | 11 | 11  |
+|  Température de l'air | 13.0 | 15.3  |
+|  Hauteur de la mer | 33.8 | 47.5  |
+|  (agitation de l'eau) | 3 fort | 3 fort  |
+|  (au bout de la jeté) | 1027.4 | 1027.3  |
+|  Sensité de l'eau |  |   |
+|  (au S.arge) |  |   |
+|  Température de l'eau | 16.1 | 16.1  |

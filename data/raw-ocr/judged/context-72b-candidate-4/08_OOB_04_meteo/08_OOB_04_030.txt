@@ -1,0 +1,32 @@
+```plaintext
+| **Date**        | **Matin**       | **Soir**        |
+|------------------|-----------------|-----------------|
+| V. 23 Novembre 1901 |                |                 |
+| **Hauteur Barométrique** | 762.8 | 762.3 |
+| **Direction du vent** | c.r.o. | c.r.o. |
+| **Force** | 1 fort | 2 |
+| **Nébulosité** |                |                |
+| Reg. O. (lune) | 60  | 8       |
+| Reg. E. (mer) | 0   | 0       |
+| **Direction des nuages** | c.r.o. | c.r.o. |
+| **Pluie tombée** | "   | "       |
+| **Température de l'air** | 12.4 | 13.3 |
+| **Hauteur de la mer** | 47.1 | 39.9 |
+| **Agitation de l'eau** | 1 T. fort | 1 T. fort |
+| **Densité au bout de la jetée** | 1028.6 | 1028.6 |
+| **Température de l'eau** | 14.9 | 19.2 |
+| V. 24 Novembre 1901 |                |                 |
+| **Hauteur Barométrique** | 763.3 |               |
+| **Direction du vent** | c.r.o. |               |
+| **Force** | 2 fort |               |
+| **Nébulosité** |                |                |
+| Reg. O. (lune) | 0   |                |
+| Reg. E. (mer) | 0   |                |
+| **Direction des nuages** | c.r.o. |               |
+| **Pluie tombée** | "   |               |
+| **Température de l'air** | 6.8 |                |
+| **Hauteur de la mer** | 41.8 |               |
+| **Agitation de l'eau** | 3   |                |
+| **Densité au bout de la jetée** | 1028.8 |               |
+| **Température de l'eau** | 14.3 |               |
+```

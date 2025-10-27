@@ -1,0 +1,31 @@
+| V. 19 Octobre 1906 | Matin | Soir |
+|---|---|---|
+| Hauteur Barométrique |  | 768,8 |
+| Direction du vent |  | S.E |
+| Force |  | 3 |
+| (Reg. à Terre) |  | 10 |
+| Nébulosité |  |  |
+| (Reg. à mer) |  | 40 |
+| Direction des nuages |  | S.E |
+| Pluie tombée |  | " |
+| Température de l'air |  | 22,0 |
+| Hauteur de la mer |  | 40,3 |
+| Agitation de l'eau |  | 1 fort |
+| Visibilité au bout de la jetée |  | 627,9 |
+| Température de l'eau |  | 18,5 |
+|  |  |  |
+| V. 20 Octobre 1906 | Matin | Soir |
+|---|---|---|
+| Hauteur Barométrique |  | 767,8 |
+| Direction du vent |  | S.E |
+| Force |  | 3 |
+| (Reg. à Terre) |  | 10 légère |
+| Nébulosité |  |  |
+| (Reg. à mer) |  | 10 légère |
+| Direction des nuages |  | S.E |
+| Pluie tombée |  | " |
+| Température de l'air |  | 20,8 |
+| Hauteur de la mer |  | 23,0 |
+| Agitation de l'eau |  | 1 T. fort |
+| Visibilité au bout de la jetée |  | 628,9 |
+| Température de l'eau |  | 18,5 |

@@ -1,0 +1,28 @@
+| Date       | Matin                     | Soir                     |
+|------------|---------------------------|--------------------------|
+| **22 Mars 1902** |                           |                          |
+| H. Barométrique | **764.6**              |                          |
+| Direction du vent | **or. 0**            | **sd. 0**              |
+| Force         | **id**                 | **faible**             |
+| Nébulosité (Régl. O. (terre)) | **0**               | **0**                  |
+| Nébulosité (Régl. E. (mer)) | **0**               |                          |
+| Direction des nuages | **"**               |                          |
+| Pluie tombée    | **"**               |                          |
+| Température de l'air | **12.3**             |                          |
+| H. de la mer     | **10.0**             |                          |
+| Agitation de l'eau | **1**               |                          |
+| Densité au bout de la jetée | **1029.2**           |                          |
+| Temp. de l'eau    | **12.6**             |                          |
+| **30 Mars 1902** |                           |                          |
+| H. Barométrique | **765.4**            | **766.0**             |
+| Direction du vent | **s. 0**            | **c. 0**               |
+| Force         | **id**                 | **fortid**            |
+| Nébulosité (Régl. O. (terre)) | **10**              | **10**               |
+| Nébulosité (Régl. E. (mer)) | **10**              | **c. 0**              |
+| Direction des nuages | **s. 0**            | **sd. 0**             |
+| Pluie tombée    | **"**               | **quelques g**         |
+| Température de l'air | **14.4**             |                          |
+| H. de la mer     | **10.0**             |                          |
+| Agitation de l'eau | **1**               | **3**                  |
+| Densité au bout de la jetée | **1028.8**           |                          |
+| Temp. de l'eau    | **12.7**             |                          |

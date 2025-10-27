@@ -1,0 +1,15 @@
+```plaintext
+|  1. 1er février 1901 | Matin | Soir  |
+| --- | --- | --- |
+|  Hauteur Barométrique | 774.3 |   |
+|  Direction du vent | cr.v.o |   |
+|  Force | 2 |   |
+|  Nébulosité | 10 |   |
+|  Direction des nuages | 10 |   |
+|  Pluie tombée | cr.v.o |   |
+|  Température de l'air | 8 |   |
+|  Hauteur de la mer | 2.8 |   |
+|  Agitation de l'eau | 60.1 |   |
+|  Densité au bout de la jetée | 1023.8 |   |
+|  Température de l'eau | 12.8 |   |
+```

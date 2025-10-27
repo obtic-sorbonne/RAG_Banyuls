@@ -1,0 +1,15 @@
+| **Date**         | 22 Décembre 1901 |
+| **Heure**        | 9h Matin, 3h Soir |
+| **Altitude Barométrique** | 742.2 |
+| **Direction du vent** | Ouest |
+| **Force du vent**      | 3 (Faible) |
+| **Nébulosité**       | Reg. O (Clair), Reg. É (Nubilé) |
+| **Direction des nuages** | Sud |
+| **Pluie tombée**    | **Non** |
+| **Température de l'air**   | 4.5 °C |
+| **Hauteur de la mer** | 23.6 m |
+| **Agitation de l'eau** | 5 (Échelle locale) |
+| **Densité de l'eau** | 
+| &emsp; &emsp; au bout de la jetée | 1028.7 kg/m³ |
+| &emsp; &emsp; au large        | |
+| **Température de l'eau** | 12.1 °C |

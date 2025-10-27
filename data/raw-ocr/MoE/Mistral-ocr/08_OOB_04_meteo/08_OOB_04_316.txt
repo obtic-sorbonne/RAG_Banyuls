@@ -1,0 +1,29 @@
+|  V. 19 X bre 1903 | Moatin | Soir  |
+| --- | --- | --- |
+|  Hauteur Prorométrique | 7/4/1 | 7/7/1  |
+|  Direction du vent | cr.o | cr.o  |
+|  Force | 3 | 8 foot  |
+|  (Reg. O. (Vire) | 10 | 10  |
+|  (Mébulosite) |  |   |
+|  (Reg. E. (mer) | 10 | 10  |
+|  Direction des nuages |  | 2.0  |
+|  Thie Tombée | 24/1 | 9.1  |
+|  (Dempérative de l'air) |  | 10.4  |
+|  Hauteur de la mer |  |   |
+|  (Agitation de l'eau) | 4 |   |
+|  Densité au bout de la jetée |  |   |
+|  (Dempérative de l'eau) |  |   |
+|  V. 20 X bre 1903 | Moatin | Soir  |
+|  Hauteur Prorométrique | 763.4 |   |
+|  Direction du vent | cr.o |   |
+|  Force | 1 |   |
+|  (Reg. O. (Vire) | 10 |   |
+|  (Mébulosite) |  |   |
+|  (Reg. E. (mer) | 10 |   |
+|  Direction des nuages | crot |   |
+|  Thie Tombée | 1,87 |   |
+|  (Dempérative de l'air) | 10.8 |   |
+|  Hauteur de la mer | 16.1 |   |
+|  (Agitation de l'eau) | 8 |   |
+|  Densité au bout de la jetée | 1089.3 |   |
+|  (Dempérative de l'eau) | 11.9 |   |

@@ -1,0 +1,29 @@
+| Date            | Matin | Soir  |
+|-----------------|-------|-------|
+| **2 Octobre 1903** |       |       |
+| Hauteur Barométrique | 766.4 | 768.3 |
+| Direction du vent | c.r. or. | c.r. or. |
+| Force | 2 | 2 fort |
+| **Nébulosité** |       |       |
+| Reg. G. (ciel) | 10 | 10 |
+| Reg. E. (mer) | 10 | 10 |
+| Direction des nuages | sud | S.O |
+| Pluie tombée | " | quelques g |
+| Température de l’air | 7.0 | 6.6 |
+| Hauteur de la mer | 37.1 | 36.4 |
+| Agitation de l’eau | 2 | 2 faible |
+| Densité au bout de la jetée | 1029.3 | 1029.2 |
+| Température de l’eau | 14.3 | 14.2 |
+| **3 Octobre 1903** |       |       |
+| Hauteur Barométrique | 769.7 | 763.8 |
+| Direction du vent | c.r. or. | c.nou |
+| Force | 3 | 3 |
+| Reg. G. (ciel) | 0 | 0 |
+| Reg. E. (mer) | 2 | 1 |
+| Direction des nuages | c.r.c... | écouff |
+| Pluie tombée | " | " |
+| Température de l’air | 4.1 | 6.2 |
+| Hauteur de la mer | 43.7 | 41.8 |
+| Agitation de l’eau | 2 | 3 |
+| Densité au bout de la jetée | 1029.4 | 1029.3 |
+| Température de l’eau | 13.9 | 13.7 |

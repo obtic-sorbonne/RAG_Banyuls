@@ -1,0 +1,33 @@
+# V. 23 (Avril 1903
+
+|  Nom | Date | Dépôt | Prix  |
+| --- | --- | --- | --- |
+|  Hauteur Barométrique | 7/12.4 | 749.4 |   |
+|  Direction du vent | or. 8 | or. 0 |   |
+|  Force | 1/20/06 | 3/20/06 |   |
+|  Nébulosité (Reg. O. (terre)) | 10 | 10  |
+|  Nébulosité (Reg. E. (mer)) | 10 | 10  |
+|  Direction des nuages | or. 0 | or. 0 |   |
+|  Pluie tombée | 8/10 |  |   |
+|  Température de l'air | 14.4 | 14.2 |   |
+|  Hauteur de la mer | 39.8 | 43.2 |   |
+|  Agitation de l'eau | 1 | 1/20/06 |   |
+|  Densité au bout de la jetée | 1029.1 | 1029.1 |   |
+|  Température de l'eau | 12.6 | 12.8 |   |
+
+# V. 24 (Avril 1903
+
+|  Nom | Date | Dépôt | Prix  |
+| --- | --- | --- | --- |
+|  Hauteur Barométrique | 7/3.2 | 7/4.6 |   |
+|  Direction du vent | or. 0 | or. 0 |   |
+|  Force | 1 | 1.7 |   |
+|  Nébulosité (Reg. O. (terre)) | 1 | 10  |
+|  Nébulosité (Reg. E. (mer)) | 1 | 10  |
+|  Direction des nuages | or. 0 |  |   |
+|  Pluie tombée | 6.2/0 | 1/1.2/0 |   |
+|  Température de l'air | 12.8 | 9.2 |   |
+|  Hauteur de la mer | 49.0 | 45.0 |   |
+|  Agitation de l'eau | 1/20/06 | 1/20/06 |   |
+|  Densité au bout de la jetée | 1029.2 | 1029.8 |   |
+|  Température de l'eau | 12.2 | 12.6 |   |

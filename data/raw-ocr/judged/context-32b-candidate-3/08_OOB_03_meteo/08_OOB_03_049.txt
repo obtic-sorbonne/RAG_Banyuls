@@ -1,0 +1,18 @@
+```
+# Date - 12 Novembre - 1901
+
+|  Nom | 9th Matin | 3rd Soir  |
+| --- | --- | --- |
+|  Hauteur Barométrique | 753.8 | 753.8  |
+|  Direction du vent | N.N.O | N.N.O  |
+|  Force | 1 | 1  |
+|  Nébulosité { Reg. C. (terre) } | 0 | 0  |
+|  Nébulosité { Reg. E. (mer) } | 0 | 0  |
+|  Direction des nuages | N.N.O | N.N.O  |
+|  Pluie tombée | " | "  |
+|  Température de l'air | 3.1 | 3.1  |
+|  Hauteur de la mer | 36.1 | 36.1  |
+|  Agitation de l'eau | 1 | 1  |
+|  Densité de l'eau { au bout de la jetée } | 1027.6 | 1027.6  |
+|  Température de l'eau | 11.2 | 11.2  |
+```

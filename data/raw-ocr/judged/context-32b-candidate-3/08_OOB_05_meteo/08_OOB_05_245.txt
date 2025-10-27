@@ -1,0 +1,15 @@
+```markdown
+# 16 Mai 1907
+
+| **Date**       | **Heure** | **Hauteur Barométrique** | **Direction du Vent** | **Force** | **Nébulosité (0/10)** | **Réglage**  | **Direction des nuages** | **Pluie tombée** | **Température de l'air** | **Hauteur de la mer (cm)** | **Agitation de l'eau** | **Densité au bout de la jetée** | **Température de l'eau** |
+|----------------|-----------|--------------------------|-----------------------|-----------|-----------------------|---------------|--------------------------|------------------|--------------------------|----------------------------|-----------------------|-------------------------------|--------------------------|
+| 16 Mai 1907    | **Matin** | 763.8 mmHg               | Sud-Ouest             | 4         | 10 (Couvert)           | Reg. C. (Terre)| Sud-Ouest                | quelques g        | 19.7 °C                  | 44.3 cm                    | 1/7 fort              | 1028.0 g/cm³                 | 15.2 °C                 |
+| 16 Mai 1907    | **Soir**  | 762.7 mmHg               | Sud-Ouest             | 3         | 10 (Couvert)           | Reg. C. (Mer) | Sud-Ouest                | quelques g        | 21.3 °C                  | 39.3 cm                    | 1/7 fort              | 1026.0 g/cm³                 | 16.7 °C                 |
+
+# 17 Mai 1907
+
+| **Date**       | **Heure** | **Hauteur Barométrique** | **Direction du Vent** | **Force** | **Nébulosité (0/10)** | **Réglage**  | **Direction des nuages** | **Pluie tombée** | **Température de l'air** | **Hauteur de la mer (cm)** | **Agitation de l'eau** | **Densité au bout de la jetée** | **Température de l'eau** |
+|----------------|-----------|--------------------------|-----------------------|-----------|-----------------------|---------------|--------------------------|------------------|--------------------------|----------------------------|-----------------------|-------------------------------|--------------------------|
+| 17 Mai 1907    | **Matin** | 763.8 mmHg               | Centre-Sud-Ouest      | 3         | 10 (Couvert)           | Reg. C. (Terre)| Centre-Sud-Ouest        | 6.2 mm            | 17.1/2 °C                | 48.8 cm                    | 2/026.8              | 1026.8 g/cm³                 | 14.7 °C                 |
+| 17 Mai 1907    | **Soir**  | -                        | -                     | -         | -                     | -             | -                        | quelques g        | -                        | -                         | -                     | -                             | -                       |
+```

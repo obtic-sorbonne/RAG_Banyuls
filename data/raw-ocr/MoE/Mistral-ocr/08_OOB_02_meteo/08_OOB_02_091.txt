@@ -1,0 +1,17 @@
+# Date: 9 Juin 1901
+
+|  Nautique Pédrométrique | 767.5  |
+| --- | --- |
+|  Direction du vent |   |
+|  Force | 1 faille  |
+|  9 Ébulosité |   |
+|  1 Reg. E. (m. m.) | 0  |
+|  Direction des nuages |   |
+|  1 Nuit |   |
+|  1 Pitié tombée |   |
+|  Température de l'air | 22,7  |
+|  1 Nautique de la mer | 46,3  |
+|  1 Agitation de l'eau | 1 faille  |
+|  1 Densité de l'eau | 1026,1  |
+|  1 En large |   |
+|  Température de l'eau | 22,6  |

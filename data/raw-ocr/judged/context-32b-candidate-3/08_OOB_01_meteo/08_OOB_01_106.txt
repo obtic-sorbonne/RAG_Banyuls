@@ -1,0 +1,22 @@
+# Date. 9 Novembre. 1900.
+
+|  9e Matin | 3e Soir  |
+| --- | --- |
+|  Hauteur Barométrique | 764,4 | 752,5  |
+|  Direction du vent | Nord | Nord  |
+|  Force | 2 faible | 1 faible  |
+|  Nébulosité | 3 | 3  |
+|  Rég. E. (terre) | 0 | 0  |
+|  Rég. E. (mer) | 0 | 0  |
+|  Direction des nuages | Nord | Nord  |
+|  Pluie tombée | 11,9 | 11,0  |
+|  Température de l'air | 14,9 | 15,0  |
+|  Hauteur de la mer | 15,0 | 15,0  |
+|  Agitation de l'eau | 4 fort | 1 faible  |
+|  Densité de l'eau (au bout de la jetée) | 1029,2 | 1023,0  |
+|  Densité de l'eau (au large) | 1029,2 | 1023,0  |
+|  Température de l'eau | 17,2 | 17,2  |
+
+Observat. —
+
+---

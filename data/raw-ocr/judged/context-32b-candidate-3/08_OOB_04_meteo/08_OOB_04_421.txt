@@ -1,0 +1,12 @@
+```plaintext
+14 Septembre 1904
+|  |  |  |
+| :--: | :--: | :--: |
+| Pluie tombée la veille | 9.2 millimetres |  |
+|  |  | 1.9 millimetres |
+| 19 |  | 1.13 millimetres |
+| 22 |  | 2.2 millimetres |
+| -15 |  | 24.0 millimetres |
+| 23 |  | 21.2 millimetres |
+| 24 |  | 1.43 millimetres |
+```

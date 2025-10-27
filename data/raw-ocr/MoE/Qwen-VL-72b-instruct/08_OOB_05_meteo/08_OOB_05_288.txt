@@ -1,0 +1,29 @@
+| V. 24 Aout 1907 | Matin | Soir |
+|-----------------|-------|------|
+| Hauteur Barométrique | 767,9 | 768,4 |
+| Direction du Vent | ORO5 | S.E |
+| 1°ozes | 15 | 1 |
+| Nebulovité | 10 | 10 |
+| (Reg. à clair) | | |
+| Direction des nuages | S.O | S.O |
+| Pluie Tombée | " | " |
+| Température de l'air | 24,4 | 28,8 |
+| Hauteur de la mer | 47,0 | 63,0 |
+| Agitation de l'eau | 1 | 1 |
+| Densité au bord de la jetée | 1027,1 | 1027,35 |
+| Température de l'eau | 21,3 | 23,7 |
+
+| V. 26 Aout 1907 | Matin | Soir |
+|-----------------|-------|------|
+| Hauteur Barométrique | 768,7 | 767,9 |
+| Direction du Vent | ERO5 | S.E |
+| 1°ozes | 15 | 2 |
+| Nebulovité | 0 | 0 |
+| (Reg. à clair) | | |
+| Direction des nuages | " | " |
+| Pluie Tombée | " | " |
+| Température de l'air | 23,7 | 29,6 |
+| Hauteur de la mer | 49,7 | 69,0 |
+| Agitation de l'eau | 1 faible | 1 faible |
+| Densité au bord de la jetée | 1027,1 | 1027,0 |
+| Température de l'eau | 21,7 | 24,8 |

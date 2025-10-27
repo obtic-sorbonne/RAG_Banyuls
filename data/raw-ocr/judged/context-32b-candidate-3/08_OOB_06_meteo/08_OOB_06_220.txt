@@ -1,0 +1,49 @@
+```
+OBSERVATIONS DU 1901, 20 Novembre
+
+| Nombre de bateaux sortis (pêche à l...) | 17.4 |
+| Température de l'air } maxima depuis la veille... | 13.4 |
+| } minima id. | 3.1 |
+| Température de l'eau } maxima depuis la veille.. |  |
+| } minima id. |  |
+| Pluie tombée depuis la veille, en millim... | quelques g |
+| Evaporation depuis le 190 , en millim... |  |
+
+| Direction du vent (à terre) | à 9 h. m. | à 3 h. s. |
+| --- | --- | --- |
+| Force | 1 | 1 |
+| Direction des nuages | S. S. E. | S. S. E. |
+| Nébulosité } région Ouest (terre) | 10 | 10 |
+| } id. Est (mer) | 10 | 10 |
+| Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.) | 8.3 | 34.1 |
+| Agitation de l'eau | 1 faible | 1 faible |
+| Densité de l'eau au bout de la jetée | 1028.4 | 1028.0 |
+| Température id. } Balanc. soir | maxima | 17.9 |
+| } | minima | 11.4 |
+| } Terrane soir | maxima | 24.1 |
+| } | minima | 9.3 |
+
+OBSERVATIONS DU 1901, 21 Novembre
+
+| Nombre de bateaux sortis (pêche à l...) | 17.4 |
+| Température de l'air } maxima depuis la veille... | 13.4 |
+| } minima id. | 3.3 |
+| Température de l'eau } maxima depuis la veille.. |  |
+| } minima id. |  |
+| Pluie tombée depuis la veille, en millim... | - |
+| Evaporation depuis le 190 , en millim... |  |
+
+| Direction du vent (à terre) | à 9 h. m. | à 3 h. s. |
+| --- | --- | --- |
+| Force | 1 fort | 1 fort |
+| Direction des nuages | S. O. | N. O. |
+| Nébulosité } région Ouest (terre) | 10 | 10 |
+| } id. Est (mer) | 10 | 10 |
+| Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.) | 12.9 | 32.1 |
+| Agitation de l'eau | 1 faible | 1 faible |
+| Densité de l'eau au bout de la jetée | 1028.3 | 1028.0 |
+| Température id. } Balanc. soir | maxima | 14.7 |
+| } | minima | 11.4 |
+| } Terrane soir | maxima | 24.0 |
+| } | minima | 12.3 |
+```

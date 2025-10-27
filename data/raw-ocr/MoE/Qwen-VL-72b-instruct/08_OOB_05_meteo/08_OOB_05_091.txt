@@ -1,0 +1,4 @@
+| Date | Matin | Soir |
+|---|---|---|
+| V. 20 Mars. 1906- | Hauteur Barometrique<br>Direction du vent<br>Force<br>Nébulosité<br>(Res. o. (terre)<br>Direction des nuages<br>Pluie tombée<br>Température de l'air<br>Hauteur de la mer<br>Agitation de l'eau<br>Veniste au bout de la jetée<br>Température de l'eau | 761.3<br>cv.cv.o<br>is<br>de fort<br>2<br>Res. xi. (cour)<br>1<br>cv.cv.o<br>"<br>S<br>|<br>fort.<br>S<br>|<br>|
+| V. 21 Mars. 1906- | Hauteur Barometrique<br>direction du vent<br>Force<br>Nébulosite<br>(Res. xi. (mer)<br>Direction des nuages<br>Pluie tombée<br>Température de l'air<br>Hauteur de la mer<br>Agitation de l'eau<br>Veniste au bout de la jetée<br>Température de l'eau | 796.1<br>cv.cv.o<br>is<br>3<br>Res. o. (claire)<br>10<br>cv.o<br>"<br>7.8<br>fl.o<br>2<br>1029/<br>15.0<br>|

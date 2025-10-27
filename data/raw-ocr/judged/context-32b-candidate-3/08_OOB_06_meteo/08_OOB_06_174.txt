@@ -1,0 +1,53 @@
+```plaintext
+### OBSERVATIONS DU 1901 3 juillet
+
+| **Nombre de bateaux sortis (pêche à l'ancre)** | **32.2** |
+| **Température de l'air** |  |
+| - **maxima depuis la veille** | **32.2** |
+| - **minima id.** | **19.7** |
+| **Température de l'eau** |  |
+| - **maxima depuis la veille** | **17.0** |
+| - **minima id.** | **17.0** |
+| **Pluie tombée depuis la veille, en millim.** | **—** |
+| **Évaporation depuis le 26 juin 1901, en millim.** | **32.7** |
+| **Direction du vent (à terre)** | **N. N. O.** | **N. N. O.** |
+| - **Force** | **2 fort** | **2** |
+| - **Direction des nuages** | **N. N. O.** | **N. N. O.** |
+| **Nébulosité** |  |
+| - **région Ouest (terre)** | **10** | **10** |
+| - **id. Est (mer)** | **10** | **10** |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.)** | **43.9** | **—** |
+| **Agitation de l'eau** | **1 fort** | **1 fort** |
+| **Densité de l'eau au bout de la jetée** | **1026.7** | **1026.9** |
+| **Température id.** | **19.7** | **19.2** |
+| - **id. Terrasse Matin** | **Maxima 36.3** | **36.3** |
+| - **id. Minima** | **24.7** | **28.0** |
+| - **id. Soir** | **Maxima 36.3** | **39.7** |
+| - **id. Minima** | **28.7** | **28.7** |
+
+### OBSERVATIONS DU 1901 4 juillet
+
+| **Nombre de bateaux sortis (pêche à l'ancre)** | **26.2** |
+| **Température de l'air** |  |
+| - **maxima depuis la veille** | **26.2** |
+| - **minima id.** | **20.0** |
+| **Température de l'eau** |  |
+| - **maxima depuis la veille** | **—** |
+| - **minima id.** | **—** |
+| **Pluie tombée depuis la veille, en millim.** | **—** |
+| **Évaporation depuis le 1901, en millim.** | **—** |
+| **Direction du vent (à terre)** | **N. N. O.** | **N. E.** |
+| - **Force** | **2** | **1** |
+| - **Direction des nuages** | **S. O.** | **S. O.** |
+| **Nébulosité** |  |
+| - **région Ouest (terre)** | **10** | **10** |
+| - **id. Est (mer)** | **10** | **10** |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.)** | **—** | **—** |
+| **Agitation de l'eau** | **2** | **3** |
+| **Densité de l'eau au bout de la jetée** | **1026.7** | **1026.4** |
+| **Température id.** | **18.7** | **19.7** |
+| - **id. Terrasse Matin** | **Maxima 36.3** | **36.3** |
+| - **id. Minima** | **20.3** | **28.7** |
+| - **id. Soir** | **Maxima 39.7** | **39.7** |
+| - **id. Minima** | **28.7** | **28.7** |
+```

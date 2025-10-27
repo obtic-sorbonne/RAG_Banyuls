@@ -1,0 +1,6 @@
+| Date | Heure | Hauteur Barométrique (mmHg) | Direction du vent | Force | Nébulosité (%) | Pluie tombée (mm) | Température de l'air (°C) | Hauteur de la mer (m) | Agitation de l'eau | Densité au bout de la jetée (kg/m³) | Température de l'eau (°C) |
+|------|-------|---------------------------|--------------------|--------|---------------|-------------------|-------------------------|---------------------|------------------|----------------------------|--------------------------|
+| 29 Novembre 1905 | Matin | 767.7 | S.O. | 1/5 | 0 (claire) | quelques gouttes | 9.8 | 2./1. | faible | 1028./ | 1/.0 |
+| Soir | - | - | - | - | 0 (claire) | - | - | - | - | - | - |
+| 4 Décembre 1905 | Matin | 767.0 | cr.or.o | 1/5 | 0 (claire) | 1.2/ | 11.0 | 48.9 | faible | 1029.4 | 14.9 |
+| Soir | 766.0 | croissant | 2/faible | 1/5 | 0 (claire) | " | 11.3 | 40.0 | 3 | 1029.0 | 14./ |

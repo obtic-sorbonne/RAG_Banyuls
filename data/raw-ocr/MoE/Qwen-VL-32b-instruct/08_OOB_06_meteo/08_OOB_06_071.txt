@@ -1,0 +1,40 @@
+| **DATE** | **DÉTAILS** | **Valeurs** |
+|----------|------------|------------|
+| **1er févr. 1960** | Nombre de bateaux sortis (pêche à l.) | 23.6 |
+| | Température de l'air | |
+| | ├── maxima depuis la veille | 23.6 |
+| | └── minima id. | 14.9 |
+| | Température de l'eau | |
+| | ├── maxima depuis la veille | |
+| | └── minima id. | |
+| | Pluie tombée depuis la veille, en millim. | quelques g |
+| | Evaporation depuis le 190, en millim. | |
+| | Direction du vent (à terre) | N.NO |
+| | Force | 3 Jonc |
+| | Direction des nuages | N.O. |
+| | Nebulosité | |
+| | ├── région Ouest (terre) | 10 |
+| | └── id. Est (mer) | 10 |
+| | Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.) | 40.3 |
+| | Agitation de l'eau | 1 Just |
+| | Densité de l'eau au bout de la jetée | 628.3 |
+| | Température id. | 17.3 |
+| **3 pr. 1960** | Nombre de bateaux sortis (pêche à l.) | 17.2 |
+| | Température de l'air | |
+| | ├── maxima depuis la veille | 17.2 |
+| | └── minima id. | 14.9 |
+| | Température de l'eau | |
+| | ├── maxima depuis la veille | |
+| | └── minima id. | |
+| | Pluie tombée depuis la veille, en millim. | quelques g |
+| | Evaporation depuis le 190, en millim. | |
+| | Direction du vent (à terre) | N.N.O |
+| | Force | 5 |
+| | Direction des nuages | N.N.O. |
+| | Nebulosité | |
+| | ├── région Ouest (terre) | 0 |
+| | └── id. Est (mer) | 0 |
+| | Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.) | 41.9 |
+| | Agitation de l'eau | 2 Jonc |
+| | Densité de l'eau au bout de la jetée | 1028.7 |
+| | Température id. | 16.8 |

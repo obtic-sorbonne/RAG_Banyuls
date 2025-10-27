@@ -1,0 +1,17 @@
+| **Observations** | **9h Matin** | **13h 3h Soir** |
+|:------------------|:-------------:|:-----------------:|
+| **Hauteur Barométrique** | 758.0 | 757.2 |
+| **Direction du vent** | Nord | S-E |
+| **Force** | 2 fort | 1 |
+| **Nébulosité** | | |
+| Reg. 0. (terre) | 8 | 6 |
+| Reg. E. (mer) | 0 | 0 |
+| **Direction des nuages** | Sud | Nord |
+| **Pluie tombée** | **"** | **"** |
+| **Température de l'air** | 21.5 | 23.2 |
+| **Hauteur de la mer** | 50.3 | 34.3 |
+| **Agitation de l'eau** | 2 | 2 faible |
+| **Densité de l'eau** | | |
+| au bout de la jetée | 1027.0 | 1026.4 |
+| au large | | |
+| **Température de l'eau** | 21.6 | 22.4 |

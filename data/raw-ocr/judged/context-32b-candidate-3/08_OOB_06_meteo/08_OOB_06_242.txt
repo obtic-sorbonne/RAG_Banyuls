@@ -1,0 +1,48 @@
+```plaintext
+### OBSERVATIONS DU 1902 20 JANVIER
+
+| **Nombre de bateaux sortis (pêche à la morue)** | **Valeurs** |
+| --- | --- |
+| Température de l'air } maxima depuis la veille | 16,3 |
+| } minima id. | 8,0 |
+| Température de l'eau } maxima depuis la veille |  |
+| } minima id. |  |
+| Pluie tombée depuis la veille, en millim. | 20,0 |
+| (Réervoir d'évaporation rempli par la forte pluie) |  |
+| Evaporation depuis le 1900, en millim. |  |
+| **Direction du vent (à terre)** | **à 9 h. mat.** | **à 3 h. son.** |
+| Force | 2 |  |
+| Direction des nuages | E.S.E. | E.S.E. |
+| **Nébulosité** | **région Ouest (terre)** | **Est (mer)** |
+| } id. | 10 | 10 |
+| } id. | 8 |  |
+| Hauteur de la mer, en centimètres, au-dessus du zéro | 8 |  |
+| Agitation de l'eau |  |  |
+| Densité de l'eau au bout de la jetée |  |  |
+| Température id. |  |  |
+
+### OBSERVATIONS DU 1902 22 JANVIER
+
+| **Nombre de bateaux sortis (pêche à la morue)** | **Valeurs** |
+| --- | --- |
+| Température de l'air } maxima depuis la veille | 14,9 |
+| } minima id. | 6,7 |
+| Température de l'eau } maxima depuis la veille |  |
+| } minima id. |  |
+| Pluie tombée depuis la veille, en millim. | 23,1 |
+| Evaporation depuis le 1900, en millim. |  |
+| **Direction du vent (à terre)** | **à 9 h. mat.** | **à 3 h. son.** |
+| Force | 1 fort | 1 fort |
+| Direction des nuages | S.O. | S.O. |
+| **Nébulosité** | **région Ouest (terre)** | **Est (mer)** |
+| } id. | 10 | 10 |
+| } id. | 10 | 10 |
+| Hauteur de la mer, en centimètres, au-dessus du zéro | 6,9 | 26,6 |
+| Agitation de l'eau | 1 | 1 fort |
+| Densité de l'eau au bout de la jetée | 1026,0 | 1027,0 |
+| **Température id.** |  |  |
+| is. Perman. Matin. } maxima | 21,7 | 17,5 |
+| } minima | 4,0 | 12,5 |
+| is. Matin, minima } maxima | 12,5 | 17,8 |
+| } minima |  |  |
+```

@@ -1,0 +1,29 @@
+| V. 18 Mai 1907 | Matin | Soir |
+|----------------|-------|------|
+| Hauteur Barométrique | 761,7 | 760,7 |
+| Direction du Vent | E.S.E. | E.S.E. |
+| Force | 4 | 4 |
+| Nébulosité | Reg. c. clair | Reg. c. clair |
+| (Reg. n. (mrs)) | 10 | 10 |
+| Direction des nuages | E.S.E. | E.S.E. |
+| Pluie tombée | " | " |
+| Température de l'air | 17,2 | 17,2 |
+| Hauteur de la mer | 0,0 | 0,0 |
+| Agitation de l'eau | 3 | 3 |
+| Vente au bord de la jetée | 1028,2 | 1027,8 |
+| Température de l'eau | 14,4 | 14,4 |
+
+| V. 20 Mai 1907 | Matin | Soir |
+|----------------|-------|------|
+| Hauteur Barométrique |  |  |
+| Direction du Vent |  |  |
+| Force |  |  |
+| Nébulosité | Reg. c. clair |  |
+| (Reg. n. (mrs)) |  |  |
+| Direction des nuages |  |  |
+| Pluie tombée |  |  |
+| Température de l'air |  |  |
+| Hauteur de la mer |  |  |
+| Agitation de l'eau |  |  |
+| Vente au bord de la jetée |  |  |
+| Température de l'eau |  |  |

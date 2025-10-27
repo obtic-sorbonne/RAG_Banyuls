@@ -1,0 +1,33 @@
+```
+|  4. 21 Juin. 1902 | Matin | Soir  |
+| --- | --- | --- |
+|  Hauteur Barométrique | 261,3 | 266,2  |
+|  Direction du vent | cr. | 11,5  |
+|  Force | 1 part. | 1  |
+|  Nébulosité | 8,5 | 8,5  |
+|  (Reg. O. (terre)) | 0 | 0  |
+|  (Reg. E. (mer)) | 0 | 0  |
+|  Direction des images | cr. | cr. 4,0  |
+|  Pluie tombée |  |   |
+|  Température de l'air | 20,0 | 28,3  |
+|  Hauteur de la mer | 49,3 | 18,2  |
+|  Agitation de l'eau | 1,5 | 17,5  |
+|  Densité au bout de la jetée | 1028,0 | 1022,2  |
+|  Température de l'eau | 12,6 | 19,8  |
+
+|  4. 21 Juin. 1902 | Matin | Soir  |
+| --- | --- | --- |
+|  Hauteur Barométrique | 261,2 | 260,3  |
+|  Direction du vent |  | 2,28  |
+|  Force |  | 1,5  |
+|  Nébulosité | 0 | 0  |
+|  (Reg. O. (terre)) | 0 | 0  |
+|  (Reg. E. (mer)) | 0 | 0  |
+|  Direction des images |  |   |
+|  Pluie tombée |  |   |
+|  Température de l'air | 21,6 | 28,4  |
+|  Hauteur de la mer | 43,3 | 10,3  |
+|  Agitation de l'eau |  | 17,5  |
+|  Densité au bout de la jetée | 1022,3 | 1026,8  |
+|  Température de l'eau | 19,3 | 21,8  |
+```

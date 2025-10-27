@@ -1,0 +1,17 @@
+# Date: 31 Octobre 1901
+
+|  Item | 9th Station | 3rd Soir  |
+| --- | --- | --- |
+|  Hauteur Barométrique | 755.3 | 754.4  |
+|  Direction du vent | N.N.O | N.N.O  |
+|  Force | 3 | 4  |
+|  Nébulosité | 10 | 10  |
+|  Reg. O. (terre) | 0 | 0  |
+|  Reg. E. (mer) | 10 | 10  |
+|  Direction des nuages | N.N.O | N.E.  |
+|  Pluie tombée | 5.75 | 4.68  |
+|  Température de l'air | 13.9 | 11.8  |
+|  Hauteur de la mer | 21.4 | 32.6  |
+|  Agitation de l'eau | 3 fort | 4 fort  |
+|  Densité de l'eau | 1026.1 | 1027.3  |
+|  Température de l'eau | 15.6 | 15.8  |

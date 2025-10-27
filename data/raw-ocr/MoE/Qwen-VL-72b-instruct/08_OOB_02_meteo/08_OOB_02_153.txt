@@ -1,0 +1,19 @@
+```plaintext
+| Date | 14 août 1901 |
+| --- | --- |
+| **Paramètres** | **9 h Matin** | **15 h Après-midi** | **3 h Soir** |
+| Hauteur Barométrique | 761.2 | --- | 763.6 |
+| Direction du vent | N.N.O. | --- | S.S.E. |
+| Force | 2 | --- | 2 (faible) |
+| Nébulosité | Reg. O. (Clére) | 0 | 10 (légerne) |
+| Reg. E. (mer) | 0 | --- | 10 (légèrement) |
+| Direction des nuages | --- | --- | --- |
+| Pluie tombée | --- | --- | --- |
+| Température de l'air | 23.0 | --- | 26.4 |
+| Hauteur de la mer | --- | --- | --- |
+| agititation de l'eau | 1 fort | --- | 1 fort |
+| Densité de l'eau | --- | --- | --- |
+| au bout de la jetée | 1.027.5 | --- | 1.027.4 |
+| au large | --- | --- | --- |
+| Température de l'eau | 20.4 | --- | 20.6 |
+```

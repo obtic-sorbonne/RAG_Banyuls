@@ -1,0 +1,47 @@
+```plaintext
+| **OBSERVATIONS DU 1960 28 JUIN** |
+| --- |
+| **Nombre de bateaux sortis (pêche à l'amorce)** | 1 bateau = 81 |
+| **Température de l'air** |  |
+| - maxima depuis la veille | **24.7 °C** |
+| - minima id. | **17.6 °C** |
+| **Température de l'eau** |  |
+| - maxima depuis la veille | **-** |
+| - minima id. | **-** |
+| **Pluie tombée depuis la veille, en millim.** | **-** |
+| **Évaporation depuis le 190, en millim.** | **-** |
+| **à 9 h. m.** | **à 3 h. s.** |
+| **Direction du vent (à terre)** | **N.N.O.** | **N.N.O.** |
+| **Force** | **2** | **2** |
+| **Direction des nuages** | **N.N.O.** | **N.N.O.** |
+| **Nébulosité** |  |
+| - région Ouest (terre) | **0** | **0** |
+| - id. Est (mer) | **0** | **0** |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro** | **34.7 cm** | **34.7 cm** |
+| **Agitation de l'eau** | **1** | **1** |
+| **Densité de l'eau au bout de la jetée** | **1027.9 g/cm³** | **1027.9 g/cm³** |
+| **Température id.** | **18.3 °C** | **18.3 °C** |
+
+| **OBSERVATIONS DU 1960 29 JUIN** |
+| --- |
+| **Nombre de bateaux sortis (pêche à l'amorce)** | **40.8** |
+| **Température de l'air** |  |
+| - maxima depuis la veille | **33.3 °C** |
+| - minima id. | **16.7 °C** |
+| **Température de l'eau** |  |
+| - maxima depuis la veille | **-** |
+| - minima id. | **-** |
+| **Pluie tombée depuis la veille, en millim.** | **quelques g** |
+| **Évaporation depuis le 190, en millim.** | **-** |
+| **à 9 h. m.** | **à 3 h. s.** |
+| **Direction du vent (à terre)** | **S.S.E.** | **N.N.O.** |
+| **Force** | **2 forts** | **1** |
+| **Direction des nuages** | **N.N.O.** | **O.N.O.** |
+| **Nébulosité** |  |
+| - région Ouest (terre) | **0** | **3** |
+| - id. Est (mer) | **0** | **10** |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro** | **20.2 cm** | **39.3 cm** |
+| **Agitation de l'eau** | **1 (faible)** | **1** |
+| **Densité de l'eau au bout de la jetée** | **1027.4 g/cm³** | **1027.9 g/cm³** |
+| **Température id.** | **19.7 °C** | **22.3 °C** |
+```

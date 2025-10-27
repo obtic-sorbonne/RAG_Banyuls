@@ -1,0 +1,15 @@
+| **Paramètre** | **Description** | **9H Matin** | **3H Soir** |
+| --- | --- | --- | --- |
+| **Hauteur Barométrique** |  | **761,7** |  |
+| **Direction du vent** |  | cr.d.0 |  |
+| **Force** |  | **3** |  |
+| **Nébulosité** | Reg. O. (Terre) | **10** |  |
+|  | Reg. E. (mer) | **10** |  |
+| **Direction des nuages** |  | or.d.0 |  |
+| **Pluie tombée** |  |  |  |
+| **Tempéralure de l'air** |  | **5.1** |  |
+| **Hauteur de la mer** |  | **43,9** |  |
+| **Agitation de l'eau** |  | **4** |  |
+| **Densité de l'eau** | au bout de la jatte | 1,228.3 |  |
+|  | au large |  |  |
+| **Tempéralure de l'eau** |  | **10,2** |  |

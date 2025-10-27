@@ -1,0 +1,35 @@
+```plaintext
+# V. 13 Octobre 1902
+
+| Hauteur Barométrique | 770.2 |
+|----------------------|-------|
+| Direction du vent    | or. or. 0 |
+| Force                | 4 |
+| Nébulosité           | 0 |
+| Reg. O. (terre)      | 0 |
+| Reg. E. (mer)        | 0 |
+| Direction des nuages | or. or. 0 |
+| Pluie tombée         | quelques g |
+| Température de l'air | 17.6 |
+| Hauteur de la mer    | 46.3 |
+| Agitation de l'eau   | 3 |
+| Densité au bout de la jetée | 1028.3 |
+| Température de l'eau | 17.7 |
+
+# V. 16 Octobre 1902
+
+| Hauteur Barométrique | 764.3 |
+|----------------------|-------|
+| Direction du vent    | or. or. 0 |
+| Force                | 1 fort |
+| Nébulosité           | 10 légère |
+| Reg. O. (terre)      | 10 |
+| Reg. E. (mer)        | 10 |
+| Direction des nuages | or. or. 0 |
+| Pluie tombée         |         |
+| Température de l'air | 16.8 |
+| Hauteur de la mer    | 36.4 |
+| Agitation de l'eau   | 1 faible |
+| Densité au bout de la jetée | 1028.4 |
+| Température de l'eau | 18.2 |
+```

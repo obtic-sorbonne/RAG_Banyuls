@@ -1,0 +1,17 @@
+# Date: 26 Février 1902
+
+|   | 9h Matin | 3h Soir  |
+| --- | --- | --- |
+| Hauteur Barométrique | 754,4 | 742,5  |
+| Direction du vent | Nord-Est | Ouest  |
+| Force | 1,5 | 1,5  |
+| Nébulosité { Reg. O. (terre) } | 8,5 | 0  |
+| Nébulosité { Reg. E. (mer) } | 0 | 0  |
+| Direction des nuages | Nord | Ouest  |
+| Pluie tombée | — | —  |
+| Température de l'air | 13,4 | 11,5  |
+| Hauteur de la mer | 31,4 | 42,0  |
+| Agitation de l'eau | 1,5 | 1,5  |
+| Densité de l'eau { au bout de la jetée } | 1028,7 | 1028,3  |
+| Densité de l'eau { au large } | — | —  |
+| Température de l'eau | 11,4 | 11,5  |

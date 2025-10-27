@@ -1,0 +1,24 @@
+# Date 4 Décembre 1900
+
+|  3e Matin | 3e Soir  |
+| --- | --- |
+|  Hauteur Barométrique | 707,0 | 707,0  |
+|  Direction du vent | Ouest | Ouest  |
+|  Force | 1. Jaille | 1  |
+|  Nébulosité | 10 | 10. Sign. Imme  |
+|  Rég. E. (mer) | 10 | 10. Sign. Imme  |
+|  Direction des nuages | 7 bord | 7 bord  |
+|  Pluie tombée | quelques gouttes | "  |
+|  Température de l'air | 11,0 | 13,5  |
+|  Hauteur de la mer | 30,0 | 34,1  |
+|  Agitation de l'eau | 17. Jaille | 17. Jaille  |
+|  Densité de l'eau | 1028,7 | 1027,8  |
+|  Température de l'eau | 13,3 | 13,5  |
+
+Salaire de la mer
+
+Agitation de l'eau
+
+Densité de l'eau
+
+Température de l'eau

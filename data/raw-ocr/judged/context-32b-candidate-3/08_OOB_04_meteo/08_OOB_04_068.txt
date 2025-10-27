@@ -1,0 +1,66 @@
+# 5 mars - 1902
+
+|  **Name** | **Position** | **N°**  |
+| --- | --- | --- |
+|  Yantem Maramelvique | 4/4.4 | 4/7.3  |
+|  Direction du vent | 2/2.4 | or.or.o  |
+|  Force | 2/2.4 | 1  |
+|  2/2.4 | 2/2.4 | 1  |
+|  2/2.4 | 2/2.4 | 1  |
+|  2/2.4 | 2/2.4 | 1  |
+|  2/2.4 | 2/2.4 | 1  |
+|  2/2.4 | 2/2.4 | 1  |
+|  2/2.4 | 2/2.4 | 1  |
+|  2/2.4 | 2/2.4 | 1  |
+|  2/2.4 | 2/2.4 | 1  |
+|  2/2.4 | 2/2.4 | 1  |
+|  2/2.4 | 2/2.4 | 1  |
+|  2/2.4 | 2/2.4 | 1  |
+|  2/2.4 | 2/2.4 | 1  |
+|  2/2.4 | 2/2.4 | 1  |
+|  2/2.4 | 2/2.4 | 1  |
+|  2/2.4 | 2/2.4 | 1  |
+|  2/2.4 | 2/2.4 | 1  |
+|  2/2.4 | 2/2.4 | 1  |
+|  2/2.4 | 2/2.4 | 1  |
+|  2/2.4 | 2/2.4 | 1  |
+|  2/2.4 | 2/2.4 | 1  |
+|  2/2.4 | 2/2.4 | 1  |
+|  2/2.4 | 2/2.4 | 1  |
+|  2/2.4 | 2/2.4 | 1  |
+|  2/2.4 | 2/2.4 | 1  |
+|  2/2.4 | 2/2.4 | 1  |
+|  2/2.4 | 2/2.4 | 1  |
+|  2/2.4 | 2/2.4 | 1  |
+|  2/2.4 | 2/2.4 | 1  |
+|  2/2.4 | 2/2.4 | 1  |
+|  2/2.4 | 2/2.4 | 1  |
+
+# Matin
+- Pfanteur Barométrique - 77.4
+- Direction du vent - Est
+- Force - 5
+- Nebnlosité - 10
+- Reg. O. (terre) - 10
+- Reg. A. (mer) - 2 Gort
+- Direction des images - Est
+- Sonde - 12,3
+- Température de l'air - 15,1
+- Fanteur de la mer - 48,4
+- Cgitation de l'eau - Efort
+- Densité au bout de la jetée - 1028,8
+- Température de l'eau - 4,3
+
+# Maitre - Soir
+- Fanteur Barométrique - 754,8
+- Direction du vent - Ouest
+- Force - 1
+- Nebnlosité - 7
+- Reg. O. (terre) - 8
+- Reg. A. (mer) - 15
+- Direction des nuages - Creto
+- Température de l'air - 15,0
+- Fanteur de la mer - 48,4
+- Cgitation de l'eau - 15 fort
+- Densité au bout de la jetée - 1027,0
+- Température de l'eau - 4,3

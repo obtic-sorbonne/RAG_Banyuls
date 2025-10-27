@@ -1,0 +1,48 @@
+| **OBSERVATIONS DU 1982 21 Mai** |
+| --- |
+| **Nombre de bateaux sortis (pêche à l’______)** | 21.0 |
+| **Température de l'air** |  |
+| maxima depuis la veille | 21.0 |
+| minima id. | 19.6 |
+| **Température de l'eau** |  |
+| maxima depuis la veille | -- |
+| minima id. | -- |
+| **Pluie tombée depuis la veille, en millim.** | 4.629 |
+| **Evaporation depuis le 190**, en millim. | -- |
+| **Direction du vent (à terre)** | Sud |
+| **Force** | Fort |
+| **Direction des nuages** | Sud |
+| **Nébulosité** |  |
+| région Ouest (terre) | 10 |
+| id. Est (mer) | 10 |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.)** | 30.2 |
+| **Agitation de l'eau** | 1 fort |
+| **Densité de l'eau au bout de la jetée** | 1027.7 |
+| **Température de l'air** |  |
+| matin (maxima) | 23.6 |
+| minima | 12.7 |
+|  |
+| **OBSERVATIONS DU 1982 24 Mai** |
+| --- |
+| **Nombre de bateaux sortis (pêche à l’______)** | 22.7 |
+| **Température de l'air** |  |
+| maxima depuis la veille | 22.7 |
+| minima id. | 14.7 |
+| **Température de l'eau** |  |
+| maxima depuis la veille | -- |
+| minima id. | -- |
+| **Pluie tombée depuis la veille, en millim.** | 33.10 |
+| **Evaporation depuis le 190**, en millim. | -- |
+| **Direction du vent (à terre)** | N.M.O |
+| **Force** | faible |
+| **Direction des nuages** | n.n.o |
+| **Nébulosité** |  |
+| région Ouest (terre) | 6 |
+| id. Est (mer) | 6 |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.)** | à 9 h.m. | à 3 h.s. |
+|  | 12.6 | 46.3 |
+| **Agitation de l'eau** | 2 | 2 |
+| **Densité de l'eau au bout de la jetée** | 1027.8 | 1027.8 |
+| **Température de l'air** |  |
+| matin (maxima) | 47 | 38.9 |
+| minima | 16.0 | 8.7 |

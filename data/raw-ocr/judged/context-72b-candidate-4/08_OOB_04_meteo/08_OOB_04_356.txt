@@ -1,0 +1,16 @@
+```plaintext
+| 1er Avril 1904 | Matin | Soir  |
+|-----------------|-------|-------|
+| Hauteur Barométrique | 773.2 | 770.4 |
+| Direction du vent | Ouest | Est   |
+| Force | 3 (fort) | 3     |
+| Nebulosité (Reg. O. - Terre) | légèrement | légèrement |
+| (Reg. E. - Mer) | 10 | 10 |
+| Direction des nuages | Ouest | Est |
+| Pluie tombée | ---------------- | 1.5 mm |
+| Température de l'air | 13.5 °C | 11.5 °C |
+| Hauteur de la mer | 67.0 | 71.5 |
+| Agitation de l'eau | 3 (fort) | 3 (fort) |
+| Densité au bout de la jetée | 10.29 | 10.29 |
+| Température de l'eau | 13.0 °C | 13.1 °C |
+```

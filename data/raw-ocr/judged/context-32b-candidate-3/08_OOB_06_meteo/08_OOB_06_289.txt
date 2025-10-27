@@ -1,0 +1,60 @@
+```plaintext
+### OBSERVATIONS DU 1902 8 JUIN
+
+| **Nombre de bateaux sortis (pêche à l.)** | 23.9 |
+| --- | --- |
+| **Température de l'air** |  |
+| - maxima depuis la veille | 23.9 | °C |
+| - minima id. | 14.7 | °C |
+| **Température de l'eau** |  |
+| - maxima depuis la veille | 19.0 | °C |
+| - minima id. |  | °C |
+| **Pluie tombée depuis la veille, en millim.** | 4.29 | mm |
+| **Évaporation depuis le 190, en millim.** |  | mm |
+| **Direction du vent (à terre)** |  |  |
+| - à 9 h. m. |  | 
+| - à 3 h. s. |  |
+| **Force** |  |  |
+| - à 9 h. m. | 0 |
+| - à 3 h. s. |  |
+| **Direction des nuages** | 5.0 |  |
+| **Nébulosité** |  |  |
+| - région Ouest (terre) | 10 |
+| - id. Est (mer) | 60 |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.)** | 32.4 | cm |
+| **Agitation de l'eau** | 1 |  |
+| **Densité de l'eau au bout de la jetée** | 1026.8 |  |
+| **Température** |  |  |
+| - id. Ferrau. soir (Maxima) | 39.0 | °C |
+| - id. Ferrau. soir (Minima) | 12.9 | °C |
+
+### OBSERVATIONS DU 1902 10 JUIN
+
+| **Nombre de bateaux sortis (pêche à l.)** | 23.0 |
+| --- | --- |
+| **Température de l'air** |  |
+| - maxima depuis la veille | 23.0 | °C |
+| - minima id. | 14.3 | °C |
+| **Température de l'eau** |  |
+| - maxima depuis la veille | 19.0 | °C |
+| - minima id. |  | °C |
+| **Pluie tombée depuis la veille, en millim.** | 4.79 | mm |
+| **Évaporation depuis le 190, en millim.** |  | mm |
+| **Direction du vent (à terre)** |  |  |
+| - à 9 h. m. | Ouest |
+| - à 3 h. s. |  |
+| **Force** |  |  |
+| - à 9 h. m. | 1 |
+| - à 3 h. s. |  |
+| **Direction des nuages** | 5.5 |  |
+| **Nébulosité** |  |  |
+| - région Ouest (terre) | 60 |
+| - id. Est (mer) | 10 |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.)** | 30.2 | cm |
+| **Agitation de l'eau** | Légère |  |
+| **Densité de l'eau au bout de la jetée** | 1026.6 |  |
+| **Température** |  |  |
+| - id. Bolaur (Humid.) soir | 12.4 | °C |
+| - id. Ferrau. soir (Maxima) | 39.3 | °C |
+| - id. Ferrau. soir (Minima) | 13.8 | °C |
+```

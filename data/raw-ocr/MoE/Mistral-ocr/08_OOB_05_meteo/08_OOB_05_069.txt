@@ -1,0 +1,25 @@
+|  N. 18 Décembre - 1908 | Mbaatin | Joir  |
+| --- | --- | --- |
+|  Hauteur Maronctrique | 770.2 | 770.2  |
+|  Direction du vent | 0.0 | 0.0  |
+|  Force | 1 | 1 fois  |
+|  Hébulosité (Reg. x. (mm)) | 0 | 0  |
+|  Direction des nuages | 8.0x. 8 | 0  |
+|  Flux tombé |  |   |
+|  Température de l'air | 7.1 | 8.9  |
+|  Hauteur de la mer | 48.3 | 19.8  |
+|  Aéitation de l'eau | 2 fois | 2  |
+|  Densité au bout de la jeté | 1029.3 | 1029.3  |
+|  Température de l'eau | 11.0 | 14.0  |
+|  N. 19 Décembre - 1908 | Mbaatin | Joir  |
+|  Hauteur Maronctrique | 769.2 | 768.3  |
+|  Direction du vent | 1.0 | 0  |
+|  Force | 1 faible | 0  |
+|  Hébulosité (Reg. x. (mm)) | 10 | 10  |
+|  Direction des nuages | 1.0 | 1.0  |
+|  Flux tombé |  |   |
+|  Température de l'air | 6.1 | 3.6  |
+|  Hauteur de la mer | 14.0 | 16.1  |
+|  Aéitation de l'eau | 2 fois | 2  |
+|  Densité au bout de la jeté | 1029.1 | 1029.3  |
+|  Température de l'eau | 14.9 | 14.8  |

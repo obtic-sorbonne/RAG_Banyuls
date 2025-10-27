@@ -1,0 +1,18 @@
+| Date                       | 19 Août 1900   |
+|----                        | ------------- |
+| **Observations**           | **Matin**     | **Soir**      |
+| Hauteur barométrique       | 764,5 m.      | 763,0         |
+| Direction du vent          | –             | E.            |
+| Force                      | 0             | 1             |
+| Nébulosité                 |              |               |
+| - Régn. O. (temp)          | 0             | 0             |
+| - Régn. E. (mer)           | 0             | 0             |
+| Direction des nuages       | –             | –             |
+| Pluie tombée               | –             | –             |
+| Température de l'air       | 27.0 °C       | 27.0 °C       |
+| Hauteur de la mer          | 0,28 m.       | 0,405         |
+| Agitation de l'eau         |               |               |
+| - au bout du jetty         | 0             | 1             |
+| - au large                 |               |               |
+| Température de l'eau       | 1026,9 °C     | 1025,9 °C     |
+| Observat.                  | –             | –             |

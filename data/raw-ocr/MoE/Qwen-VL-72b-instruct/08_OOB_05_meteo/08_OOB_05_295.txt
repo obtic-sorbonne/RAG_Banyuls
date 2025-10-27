@@ -1,0 +1,29 @@
+| V. 14 Septembre - 1907 | Matin | Soir |
+|------------------------|-------|------|
+| Hauteur Barométrique   | 769,6 | 767,7 |
+| Direction du Vent      | Or. 8 | S. 8 |
+| Force                  | 1 fort | 1 |
+| Reg. c. (Terre)        | 10 degrés est | 10 |
+| Nébulosité             | Reg. E. (mer) | 10 légère | 10 |
+| Direction des nuages   | doux | S. 0 |
+| Pluie tombée           | quelques g | " |
+| Température de l'air   | 20,1 | 26,0 |
+| Hauteur de la mer      | 12,9 | 11,8 |
+| Agitation de l'eau     | 1 | 1 faible |
+| Densité au bord de la jetée | 1,027,1 | 1,027,2 |
+| Température de l'eau   | 22,3 | 23,9 |
+
+| V. 16 Septembre - 1907 | Matin | Soir |
+|------------------------|-------|------|
+| Hauteur Barométrique   | 768,2 | 768,3 |
+| Direction du Vent      | Nord | Or. N. 0 |
+| Force                  | 3 fort | 3 fort |
+| Reg. c. (Air)          | 60 | 0 |
+| Nébulosité             | Reg. E. (mer) | 10 | 3 |
+| Direction des nuages   | Nord | Nord |
+| Pluie tombée           | " | " |
+| Température de l'air   | 20,7 | 24,0 |
+| Hauteur de la mer      | 63,4 | 49,2 |
+| Agitation de l'eau     | 3 | 3 |
+| Densité au bord de la jetée | 1,028,0 | 1,027,1 |
+| Température de l'eau   | 21,3 | 21,3 |

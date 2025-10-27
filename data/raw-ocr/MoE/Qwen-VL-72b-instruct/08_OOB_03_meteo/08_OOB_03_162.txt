@@ -1,0 +1,18 @@
+| Date | 7 Avril 1902 |
+|---|---|
+| **Paramètre** | **Matin** | **Soir** |
+| Hauteur Barométrique | 779.7 | 779.7 |
+| Direction du vent | c.r. O | c.r. O |
+| Force | Fort | 4 |
+| NiBulosit | Légère | égère |
+| Reg. (terre) | 10 ligne | 10 ligne |
+| Reg. É. (mer) | Légère | c.r. O |
+| Direction des nuages | c.r. O | c.r. O |
+| Pluie tombée | "-." | -- |
+| Température de l'air | 17.4 | 17.6 |
+| Hauteur de la mer | ±.2 | ±6.7 |
+| Agitation de l'eau | 4 | 4 |
+| Densité de l'eau | 1028.3 | 1028.0 |
+| au bout de la jéti | -- | -- |
+| au Large | -- | -- |
+| Température de l'eau | 14.2 | 14.4 |

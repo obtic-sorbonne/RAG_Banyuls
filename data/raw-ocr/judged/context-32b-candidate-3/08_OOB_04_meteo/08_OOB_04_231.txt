@@ -1,0 +1,31 @@
+# 23 Mai 1903
+
+|  Hauteur Barométrique | 209.2 | 207.0  |
+| --- | --- | --- |
+|  Direction du vent | 8 | 8  |
+|  Force | 1 m/pass | 1  |
+|  Nébulosité (Reg. O. (terre)) | 10 | 10  |
+|  Nébulosité (Reg. E. (mer)) | 10 | 10  |
+|  Direction des nuages |  |  |
+|  Pluie tombée |  |  |
+|  Température de l'air | 20.4 | 22.8  |
+|  Hauteur de la mer | 64.4 | 18.8  |
+|  Agitation de l'eau | 1 |  |
+|  Densité au bout de la jetée | 1022.4 | 1026.1  |
+|  Température de l'eau | 12.2 | 31.3  |
+
+# 25 Mai 1903
+
+|  Hauteur Barométrique | 207.3 | 208.3  |
+| --- | --- | --- |
+|  Direction du vent | 8 | 8  |
+|  Force | 1 | 1  |
+|  Nébulosité (Reg. O. (terre)) | 10 | 10  |
+|  Nébulosité (Reg. E. (mer)) | 10 | 10  |
+|  Direction des nuages |  |  |
+|  Pluie tombée |  |  |
+|  Température de l'air | 24.9 | 29.3  |
+|  Hauteur de la mer | 16.6 | 11.6  |
+|  Agitation de l'eau |  |  |
+|  Densité au bout de la jetée | 1026.6 | 1026.1  |
+|  Température de l'eau | 12.9 | 33.6  |

@@ -1,0 +1,18 @@
+# Dälle. 2de Août. 1901
+
+|  **Sauteur** | **Prix** | **Valeur**  |
+| --- | --- | --- |
+|  Kauteur Pervométrique | 3.45€ | 3.45€  |
+|  Direction du vent | 750.5 | 754.5  |
+|  Force | 5.55€ | 5.55€  |
+|  / Reg. O. (lème) | 1.50€ | 1.50€  |
+|  Productivité | 10 | 10 kg/m²  |
+|  **Reg. E. (mw)** | **10** | **10 kg/m²**  |
+|  Direction des nuages | 5.55€ | 5.55€  |
+|  Flux tombee | 5.55€ | 5.55€  |
+|  Température de l'air | 22.8 | 28.0  |
+|  **Kauteur de la mer** | **5.55€** | **44.7**  |
+|  Opération de l'eau | 1,25€ | 1,25€  |
+|  **Densité de l'eau** | **10.25€** | **10.25€**  |
+|  **au 3e âge** |  |   |
+|  Température de l'eau | 22.1 | 28.6  |

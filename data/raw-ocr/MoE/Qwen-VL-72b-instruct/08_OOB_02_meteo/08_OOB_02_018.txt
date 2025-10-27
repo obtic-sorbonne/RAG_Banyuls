@@ -1,0 +1,17 @@
+|  | 9H Matin | 3H Soir |
+|---|---|---|
+| **Hauteur Barométrique** | 741,4 | 744,7 |
+| **Direction du vent** | Nord | Nord |
+| **Force** | 8 | faible |
+| **Nébulosité** |  |  |
+| Reg. O. (l'éré) | 10 | 10 |
+| Reg. E. (mot) | 10 | 10 |
+| **Direction des nuages** | Nord | Nord |
+| **Pluie tombée** | " | " |
+| **Température de l'air** | 9,3 | 9,4 |
+| **Hauteur de la mer** | 27,6 | 30,1 |
+| **Agnilation de l'eau** | 5 | 4 fort |
+| **Densité de l'eau** |  |  |
+| à la jetée |  |  |
+| au large |  |  |
+| **Température de l'eau** | 10,4 | 10,4 |

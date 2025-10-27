@@ -1,0 +1,16 @@
+# Date. 6 mai 1901
+
+|  Item | 9th Mardi 3rd Sour | 1st Sour  |
+| --- | --- | --- |
+|  Hauteur Barométrique | 754.4 | 753.8  |
+|  Direction Iu vert | Nom | Nom  |
+|  Force | 1 | 5 faille  |
+|  Pédulorite / Reg. G. (Terre) | 10 | 10  |
+|  Pédulorite / Reg. E. (mer) | 10 | 10  |
+|  Direction des nuages | Nom | Nom  |
+|  Mucin tombee | 2 | 13.0  |
+|  Température de l'air | 16.8 | 13.0  |
+|  Hauteur de la mer | 41.9 | 52.9  |
+|  Agitation de l'eau | 2 fort | 1 faille  |
+|  Densité de l'eau / an d'arge | 1027.8 | 1027.7  |
+|  Température de l'eau | 14.3 | 14.4  |

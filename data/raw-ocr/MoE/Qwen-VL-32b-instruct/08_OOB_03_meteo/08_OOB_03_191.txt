@@ -1,0 +1,19 @@
+| **Date** | **22 Mai 1902** |
+| **Paramètre** | **9h Matin** | **3h Soir** |
+| **Hauteur Barométrique** | 769.6 | 769.3 |
+| **Direction du vent** | cr.n.o | cr.n.o |
+| **Force** | 5 | 4 |
+| **Nébulosité** |    |    |
+|  Rég. O. (Terre) | 0 | 2 |
+|  Rég. E. (Mer) | 0 | 2 |
+| **Direction des nuages** | cr.n.o | cr.n.o |
+| **Pluie tombée** |  |  |
+| **Température de l'air** | 13.4 | 16.4 |
+| **Hauteur de la mer** | 70.5 | 74.1 |
+| **Agitation de l'eau** | 3 | 3 |
+| **par bout de la jetée** | 1028.2 | 1028.0 |
+| **Densité de l'eau** |    |    |
+| **Lerange** |    |    |
+| **Densité de l'eau** |    |    |
+| **Longe** |    |    |
+| **Température de l'eau** | 13.7 | 14.9 |

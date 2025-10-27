@@ -1,0 +1,18 @@
+# Date: 18 Juillet 1901
+
+|  Item | Price  |
+| --- | --- |
+|  Hauteur Peuronétique | 9" Matin 3" Soir  |
+|  Direction Su vent | 784,8  |
+|  Force | 1000  |
+|  Peur | 5  |
+|  Pédbulosité | 1  |
+|  Rég. E. (max) | 0  |
+|  Direction: des nuages | 1000  |
+|  Phie tombée | 2  |
+|  Température de l'air | 26,1  |
+|  Hauteur de la mer | 57,6  |
+|  Aciditation de l'eau | 3,6  |
+|  Densité de l'eau | 10,37  |
+|  Au Farge | 1  |
+|  Température de l'eau | 30,8  |

@@ -1,0 +1,15 @@
+| **Date**       | Janvier 1901 |
+|---|---|
+| **Durée** | 9h Matin | 3h Soir |
+| **Hauteur Barométrique** | 775.1 | 773.3 |
+| **Direction du vent** | Nord | Nord |
+| **Force du vent** | 2 | 2 faible |
+| **Nébulosité (Régl. O. (claire))** | 10 | 10 |
+| **Nébulosité (Régl. E. (mer))** | 10 | 10 |
+| **Direction des nuages** | Nord | Nord |
+| **Pluie tombée** | "" | "" |
+| **Température de l'air** | 10.6 | 10.7 |
+| **Hauteur de la mer** | 48.9 | 68.3 |
+| **Agitation de l'eau** | 2 | 2 fort |
+| **Densité de l'eau** | 1028.5 (au bout de la jetée) | 1028.4 (au large) |
+| **Température de l'eau** | 11.9 | 12.0 |

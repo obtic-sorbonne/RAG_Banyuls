@@ -1,0 +1,26 @@
+```plaintext
+| **Date**       | **Matin** | **Soir** |
+|----------------|-----------|----------|
+| **V. 22 Août 1904** | **Hauteur Barométrique** | 764.6 | 763.7 |
+|                | **Direction du vent** | cr.cr.o | cr.cr.o |
+|                | **Force** | 3 faible | faible |
+|                | **Nébulosité (Reg. 0. Claire)** | 10 (Ouest - claire) | 10 (Est - clair) |
+|                | **Direction des nuages** | Sud | Nord |
+|                | **Pluie tombée** | 4, 12/ | " |
+|                | **Température de l'air** | 21.4 | 23.9 |
+|                | **Hauteur de la mer** | 11.6 | +1.4 |
+|                | **Agitation de l'eau** | 2 faible | 2 7 faible |
+|                | **Densité au bout de la jetée** | 1026.8 | 1026.9 |
+|                | **Température de l'eau** | 23.6 | 23.7 |
+| **V. 23 Août 1904** | **Hauteur Barométrique** | 766.6 | 769.4 |
+|                | **Direction du vent** | cr.cr.o | cr.o |
+|                | **Force** | 4 | 4 faible |
+|                | **Nébulosité (Reg. 0. Claire)** | 2 (Ouest - clair mer) | 10 (Nord - clair) |
+|                | **Direction des nuages** | cr.n.o | cr.8 |
+|                | **Pluie tombée** | 8 "" | " |
+|                | **Température de l'air** | 21.2 | 25.3 |
+|                | **Hauteur de la mer** | 64.5 | /3.0 |
+|                | **Agitation de l'eau** | 1 faible | 3 |
+|                | **Densité au bout de la jetée** | 1027.1 | 1046.8 |
+|                | **Température de l'eau** | 23.0 | 23.7 |
+```

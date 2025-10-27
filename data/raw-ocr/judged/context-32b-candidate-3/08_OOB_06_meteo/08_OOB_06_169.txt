@@ -1,0 +1,53 @@
+```plaintext
+### OBSERVATIONS DU 1901 21 JUIN
+
+| **Nombre de bateaux sortis (pêche à l'eau, train)** | **7** |
+| **Température de l'air** |  |
+| - **maxima depuis la veille** | **21.2** |
+| - **minima id.** | **17.7** |
+| **Température de l'eau** |  |
+| - **maxima depuis la veille** |  |
+| - **minima id.** |  |
+| **Pluie tombée depuis la veille, en millim.** | **0** |
+| **Évaporation depuis le 1901, en millim.** |  |
+| **Direction du vent (à terre)** |  |
+| - **à 9 h. m.** | **N.** | **S.S.E.** |
+| - **à 3 h. s.** | **N.N.O.** |  |
+| - **Force** | **2** | **1 fort** |
+| - **Direction des nuages** | **N.N.O.** | **N.N.O.** |
+| **Nébulosité** |  |
+| - **région Ouest (terre)** | **2** | **2** |
+| - **id. Est (mer)** | **0** | **0** |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.)** | **49.1** | **42.7** |
+| **Agitation de l'eau** | **1 fort** | **1 fort** |
+| **Densité de l'eau au bout de la jetée** | **1026.6** | **1026.9** |
+| **Température id.** | **18.2** | **18.2** |
+| - **id. Ferrante Mathis** | **29.8** |  |
+| - **id. Minima** | **21.3** |  |
+
+### OBSERVATIONS DU 1901 22 JUIN
+
+| **Nombre de bateaux sortis (pêche à l'eau, train)** | **32.4** |
+| **Température de l'air** |  |
+| - **maxima depuis la veille** | **32.4** |
+| - **minima id.** | **19.4** |
+| **Température de l'eau** |  |
+| - **maxima depuis la veille** |  |
+| - **minima id.** |  |
+| **Pluie tombée depuis la veille, en millim.** | **0** |
+| **Évaporation depuis le 1901, en millim.** |  |
+| **Direction du vent (à terre)** |  |
+| - **à 9 h. m.** | **N.N.E.** | **S.S.E.** |
+| - **à 3 h. s.** | **1** | **1 fort** |
+| - **Force** | **1** | **1 fort** |
+| - **Direction des nuages** | **N.N.E.** | **N.N.E.** |
+| **Nébulosité** |  |
+| - **région Ouest (terre)** | **0** | **0** |
+| - **id. Est (mer)** | **0** | **0** |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.)** | **49.4** | **37.2** |
+| **Agitation de l'eau** | **faible** | **forte** |
+| **Densité de l'eau au bout de la jetée** | **1026.4** | **1025.9** |
+| **Température id.** | **18.2** | **18.2** |
+| - **id. Bocal** | **22.4** |  |
+| - **id. Terrasse** | **Matin: maxima 30.3, minima 15.0** | **Soir: maxima 34.3, minima 22.8** |
+```

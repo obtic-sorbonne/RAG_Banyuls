@@ -1,0 +1,29 @@
+|  V. 6 Avril - 1907 | Mibatuin | Poir  |
+| --- | --- | --- |
+|  Hauteur Marométrique | 7/4.6 |   |
+|  Direction du vent | 7.8 |   |
+|  Force | 1 |   |
+|  Nébulosité | 10 |   |
+|  (Reg. a. (nur) | 10 |   |
+|  Direction des nuages | cr. 0 |   |
+|  Sluie tomblée | 4.0 |   |
+|  Température de l'air | 16.8 |   |
+|  Hauteur de la mer | 17.7 |   |
+|  Légétation de l'eau | 1029.2 |   |
+|  Densité au bout de la jetée | 12.2 |   |
+|  Température de l'eau | 12.2 |   |
+
+|  V. 8 Avril - 1907 | Mibatuin | Poir  |
+| --- | --- | --- |
+|  Hauteur Marométrique | 7/9.3 | 7/8.9  |
+|  Direction du vent | cr. 0 | cr. 0  |
+|  Force | 2 feet | 3 feet  |
+|  Nébulosité | 10 | 10  |
+|  (Reg. a. (nur) | 10 | 10  |
+|  Direction des nuages | cur. 0 | cr. 0  |
+|  Sluie tomblée | 5.7 |   |
+|  Température de l'air | 12.12 | 14.2  |
+|  Hauteur de la mer | 18.1 | 18.1  |
+|  Légétation de l'eau | 1029.0 | 1029.0  |
+|  Densité au bout de la jetée | 12.4 | 12.3  |
+|  Température de l'eau | 12.4 | 12.3  |

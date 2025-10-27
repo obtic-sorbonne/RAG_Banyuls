@@ -1,0 +1,27 @@
+|  1. 11 Juillet - 1905 | Mbatin | For  |
+| --- | --- | --- |
+|  Hantum Maramitrique |  | 757,5  |
+|  Direction du vent |  | cr.or.  |
+|  Force |  | 5 fort  |
+|  Hébulonte |  | 10  |
+|  Reg. E. (mer) |  | 10  |
+|  Direction des mages |  | or.  |
+|  Leie Tombé |  | 23,6  |
+|  Température de l'air |  | 60,3  |
+|  Hantem de la mer |  | 3  |
+|  Cratation de l'eau |  | 1027,6  |
+|  Société au bout de la jetée |  | 20,1  |
+|  Température de l'eau |  | 70,1  |
+|  1. 12 Juillet - 1905 | Mbatin | For  |
+|  Hantum Maramitrique | 758,2 | 757,2  |
+|  Direction du vent | cr.or. | cr.or.  |
+|  Force |  | 3  |
+|  Hébulonte |  | 10  |
+|  Reg. E. (mer) |  | 10  |
+|  Direction des mages | Ouest | Ouest  |
+|  Leie Tombé |  | 84,0  |
+|  Température de l'air | 21,0 | 51,0  |
+|  Hantem de la mer | 19,4 | 2 fort  |
+|  Cratation de l'eau | 3 | 2 fort  |
+|  Société au bout de la jetée | 1028,0 | 1027,6  |
+|  Température de l'eau | 19,7 | 20,1  |

@@ -1,0 +1,31 @@
+| Date | Matin | Soir |
+|---|---|---|
+| 5 Novembre 1906 |  |  |
+| Hauteur Barometrique | 778.7 | 777.1 |
+| Direction du vent | Ouest | S.S. E |
+| Force | 1 faible | 2 fort |
+| Nébulosité | 10 légère | 10 |
+| (Reg. 2. (terre) |  |  |
+| (Reg. 2. (mer) | 10 légère | 10 |
+| Direction des nuages | S.O | S.O |
+| Pluie tombée | " | " |
+| Température de l'air | 18.0 | 21.1 |
+| Hauteur de la mer | 20.4 | 32.2 |
+| Agitation de l'eau | 17. fort | 2 faible |
+| Densité au bord de la jetée | 1028.9 | 1028.8 |
+| Température de l'eau | 17.7 | 18.0 |
+|  |  |  |
+| 6 Novembre 1906 |  |  |
+| Hauteur Barometrique | 774.3 | 772.3 |
+| Direction du vent | S.O | S.O |
+| Force | 3 | 3 fort |
+| Nébulosité | 10 | 2 |
+| (Reg. 0. (terre) |  |  |
+| (Reg. 2. (mer) | 10 | 2 |
+| Direction des nuages | Ouest | S.O |
+| Pluie tombée | " | " |
+| Température de l'air | 17.5 | 17.5 |
+| Hauteur de la mer |  | 18.3 |
+| Agitation de l'eau | 3 | 3 fort |
+| Densité au bord de la jetée |  | 1028.9 |
+| Température de l'eau | 3 | 17.6 |

@@ -1,0 +1,29 @@
+Date |        Matin        |      Soir     
+--------|---------------------|---------------------
+9 juillet 1902 |              |  
+| Hauteur Baromérique (mm)   | 767.0     | 761.6    
+| Direction du vent       |           | S.E.      
+| Force                   | 0         | 3         
+| Nebulosité Reg. O. (terre) | 10        | 0        
+| Nebulosité Reg. E. (mer)  | 10        | 0        
+| Direction des nuages     | Sud       | Sud       
+| Pluie tombée             |           |           
+| Température de l'air (°C)  | 21.0      | 28.2      
+| Hauteur de la mer (m)    | 11.2      | 37.6      
+| Agitation de l'eau       | Fort      | 1000T     
+| Densité au bout de la jetée  | 1027.3    | 1026.7    
+| Température de l'eau (°C)  | 19.7      | 20.2      
+  
+9 juillet 1902 |              |  
+| Hauteur Barométrique (mm)   | 766.4     | 766.1    
+| Direction du vent       | ouest     | or. Est  
+| Force                   | 3         | Faible   
+| Nebulosité Reg. O. (terre) | 0         | 0        
+| Nebulosité Reg. E. (mer)  | 0         | 0        
+| Direction des nuages     | Ouest     |          
+| Pluie tombée             |           |          
+| Température de l'air (°C)  | 21.2      | 21.3      
+| Hauteur de la mer (m)    | 11.8      |           
+| Agitation de l'eau       | Fort      | 1T. fort  
+| Densité au bout de la jetée  | 1026.4    | 1029.9    
+| Température de l'eau (°C)  | 20.6      | 21.6  

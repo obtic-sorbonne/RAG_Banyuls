@@ -1,0 +1,30 @@
+| Date | Matin | Soir |
+|---|---|---|
+| **V. 5** **Août 1908** |  |  |
+| **Hauteur Barométrique** | 768.4 | 769.5 |
+| **Direction du vent** | er.cr. 8 | 8.s.8 |
+| **Force** | 1/4 fort | 1/4 faible |
+| **Nebulosité** | 0 | 0 |
+| (terre) |  |  |
+| (mer) | 0 | 0 |
+| **Orientation des nuages** |  |  |
+| **Pluie tombée** |  |  |
+| **Température de l'air** | 26.1 | 31.2 |
+| **Hauteur de la mer** | 97.2 | 48.6 |
+| **Agitation de l'eau** | 1 fort | 1/4 fort |
+| **Densité au bout de la jetée** | 1027.9 | 1027.6 |
+| **Température de l'eau** | 21.6 | 22.0 |
+| **V. 6** **Août 1908** |  |  |
+| **Hauteur Barométrique** | 769.2 | 767.6 |
+| **Direction du vent** | er.cr.0 | 8.m.1. |
+| **Force** | 2 | 1 |
+| **Nebulosité** | pdég. 4 | 2 |
+| (terre) |  |  |
+| (mer) | 0 | 0 |
+| **Orientation des nuages** | er.cr.0 |  |
+| **Pluie tombée** |  |  |
+| **Température de l'air** | 27.6 | 31.8 |
+| **Hauteur de la mer** | 92.7 | 91.3 |
+| **Agitation de l'eau** | 1 fort | 1 faible |
+| **Densité au bout de la jetée** | 1027.4 | 1027.0 |
+| **Température de l'eau** | 22.0 | 23.1 |

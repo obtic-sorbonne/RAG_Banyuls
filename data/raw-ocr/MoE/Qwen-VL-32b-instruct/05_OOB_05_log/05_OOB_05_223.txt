@@ -1,0 +1,27 @@
+No 215
+
+Sortie du 15 juin 1905
+
+Départ de Banyuls à 5h30 du m
+pour la Réserve Pilagom-Arrivée à
+Départ de 
+Arrivée à
+Départ de 
+Arrivée à
+
+Arrivée au mouillage dans l'ans de Cantilis à 12h10 du m
+
+État du temps: Vents de sud
+
+Passagers à bord: M. Raeturja
+
+Objet de la sortie: Pêche pelagique dans les grands fonds
+
+Consommation{
+   32 briquettes de 12kl Poids en kilos 384k,
+   3 hl huile Total en litres 30
+}
+
+Désparser
+
+Observations:

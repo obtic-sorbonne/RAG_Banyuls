@@ -1,0 +1,33 @@
+V. 1st février - 1903
+
+|  Hauteur | Narrow | Dimensions  |
+| --- | --- | --- |
+|  Direction du vent |  | 288.0  |
+|  Force |  | 2.8  |
+|   |  | 2 feet  |
+|  Mécanosité | (Reg. O. (tome) | 0  |
+|   | (Reg. Z. (mor) | 0  |
+|  Direction des nuages |  | "  |
+|  Flux |  | "  |
+|  Température de l'air |  | 11.2  |
+|  Hauteur de la mer |  | 16.9  |
+|  Crétation de l'eau |  | 2  |
+|  Densité au bout de la jeté |  | 1029.2  |
+|  Température de l'eau |  | 10.2  |
+
+V. 11 février - 1903
+
+|  Hauteur | Narrow | Dimensions  |
+| --- | --- | --- |
+|  Direction du vent |  | 268.2  |
+|  Force |  | 0  |
+|   |  | 3  |
+|  Mécanosité | (Reg. O. (tome) | 2 feet  |
+|   | (Reg. Z. (mor) | 2 feet  |
+|  Direction des nuages |  | "  |
+|  Flux |  | "  |
+|  Température de l'air |  | 12.1  |
+|  Hauteur de la mer |  | 67.2  |
+|  Crétation de l'eau |  | 2 feet  |
+|  Densité au bout de la jeté |  | 1029.6  |
+|  Température de l'eau |  | 10.5  |

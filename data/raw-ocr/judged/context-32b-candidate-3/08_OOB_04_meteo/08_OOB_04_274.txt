@@ -1,0 +1,49 @@
+# V. 12 Septembre - 1903
+
+|  Hauteur Barométrique | Pour  |
+| --- | --- |
+|  768.1 | 767.3  |
+|  Direction du vent | Nord  |
+|  Force | 2  |
+|  Nébulosité | 10  |
+|  Reg. O. (terre) | 10  |
+|  Reg. F. (mer) | 10  |
+|  Direction des nuages | 7.0  |
+|  Pluie tombée | 19.1  |
+|  Température de l'air | 17.75  |
+|  Hauteur de la mer | 1027.1  |
+|  Densité au bout de la jetée | 20.8  |
+
+# V. 13 Septembre - 1903
+
+|  Hauteur Barométrique | Pour  |
+| --- | --- |
+|  767.3 | 767.3  |
+|  Direction du vent | Nord  |
+|  Force | 2  |
+|  Nébulosité | 10  |
+|  Reg. O. (terre) | 10  |
+|  Reg. F. (mer) | 10  |
+|  Direction des nuages | 7.0  |
+|  Pluie tombée | 2.0  |
+|  Température de l'air | 19.1  |
+|  Hauteur de la mer | 17.75  |
+|  Densité au bout de la jetée | 20.8  |
+
+# V. 13 Septembre - 1903
+
+|  Hauteur Barométrique | Pour  |
+| --- | --- |
+|  767.3 | 767.3  |
+|  Direction du vent | Nord  |
+|  Force | 2  |
+|  Nébulosité | 10  |
+|  Reg. O. (terre) | 10  |
+|  Reg. F. (mer) | 10  |
+|  Direction des nuages | 7.0  |
+|  Pluie tombée | 2.0  |
+|  Température de l'air | 11.1  |
+|  Hauteur de la mer | 28.3  |
+|  Densité au bout de la jetée | 2  |
+|  Densité au bout de la jetée | 1027.1  |
+|  Température de l'eau | 20.0  |

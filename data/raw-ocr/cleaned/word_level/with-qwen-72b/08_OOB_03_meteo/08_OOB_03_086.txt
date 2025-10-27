@@ -1,0 +1,1 @@
+Date Temperature Pressure mmHg Wind Direction Wind Speed Force Nebulosity degrees Clouds Direction Rainfall mm Air Temperature C Sea Height m Sea Agitation Water Density Water Temperature C Remarks 21 Décembre 1901 9 C 754 3 N N O 2 Reg Ø lère 2 Reg E mer 3 N N O 0 4 7 36 0 1 2 At the pier 1027 8 Offshore 12 2 Normal

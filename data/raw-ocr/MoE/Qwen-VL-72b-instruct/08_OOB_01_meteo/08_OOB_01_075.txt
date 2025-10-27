@@ -1,0 +1,18 @@
+```
+| Date | 7 Octobre 1900 |
+| --- | --- |
+| **&&** | **9ʰ m** | **3ʰ 5** |
+| Hauteur barométrique | 772.3 | 771.5 |
+| Direction du vent | S | S |
+| Force | 1 | 3 |
+| Nebulosité (Reg....Ω (terre)) | 1 | 3 |
+| (Reg...∃ (mer)) | 1 | 0 |
+| Direction des nuages | S | S |
+| Pluie tombée | ... | ... |
+| Température de l'air | 22.3 | 22.8 |
+| Hauteur de la mer | 33.8 | 33.2 |
+| Agitation de l'eau | 0 | 1 |
+| Densité de l'eau (au bout de la jetée) | 1022.4 | 1022.6 |
+| au large |  |  |
+| Température de l'eau | 21.1 | 22.1 |
+```

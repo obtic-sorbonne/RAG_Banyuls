@@ -1,0 +1,17 @@
+# 11 Novembre 1903
+
+|  **Position** | **Matin** | **Soir**  |
+| --- | --- | --- |
+|  Hauteur Barométrique | 753.7 | 757.6  |
+|  Direction du vent | nordest | nordest  |
+|  Force | 2 | 2  |
+|  Nébulosité | 9 | 9  |
+|  Reg. O. (terre) | 9 | 9  |
+|  Reg. F. (mer) | 9 | 9  |
+|  Direction des nuages | nordest | nordest  |
+|  Pluie tombée | 0 | 0  |
+|  Température de l'air | 11.7 | 12.6  |
+|  Hauteur de la mer | 45.2 | 47.0  |
+|  Agitation de l'eau | 2 | 2  |
+|  Densité au bout de la jetée | 1028.5 | 1028.8  |
+|  Température de l'eau | 15.4 | 15.6  |

@@ -1,0 +1,27 @@
+| V. 20 Décembre 1906 | Matin | Soir |
+|---------------------|-------|------|
+| Hauteur Barométrique | 770.2 | 770.1 |
+| Direction du Vent | cr.cro | cr.cro |
+| Force | 1/fort | 1/fort |
+| Nébulosité | Reg. C. (clère) | 0 | 2 |
+| Direction des nuages | 2 | 2 |
+| Pluie tombée | " | " |
+| Température de l'air | 1.4 | 3.8 |
+| Hauteur de la mer | 43.2 | 47.8 |
+| Agitation de l'eau | 3 | 3 faible |
+| Densité au bord de la jetée | 6029.6 | 6029.6 |
+| Température de l'eau | 12.6 | 12.4 |
+
+| V. 21 Décembre 1906 | Matin | Soir |
+|---------------------|-------|------|
+| Hauteur Barométrique | 770.4 | 768.8 |
+| Direction du Vent | cr.o | cr.o |
+| Force | 1/fort | 2 |
+| Nébulosité | Reg. C. (clère) | 0 | 10 |
+| Direction des nuages | 10 | 10 |
+| Pluie tombée | 3.7/ | 3.2/ |
+| Température de l'air | 3.6 | 1.2 |
+| Hauteur de la mer | 5 | 5 |
+| Agitation de l'eau | 4/fort | 4 |
+| Densité au bord de la jetée | 3 | 5 |
+| Température de l'eau |   |   |

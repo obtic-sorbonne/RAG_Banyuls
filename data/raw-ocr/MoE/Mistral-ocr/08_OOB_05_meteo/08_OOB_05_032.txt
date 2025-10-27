@@ -1,0 +1,28 @@
+|  1. 18 Septembre 1905 Matin | Joir  |
+| --- | --- |
+|  J'auteur Marométrique | 208.0  |
+|  Direction du vent | Nord  |
+|  Force | 1, fort  |
+|  (Rég. C. (lire)) | 10  |
+|  (Rég. R. (mer)) | 10  |
+|  Direction des nuages | Sud  |
+|  (lire Pombie) | 1,1  |
+|  Température de l'air | 17.0  |
+|  Hauteur de la mer | 46.7  |
+|  (Légitution de l'eau) | 1, fort  |
+|  Densité au bout de la jetée | 1028.4  |
+|  (Légitution de l'eau) | 21,1  |
+|  2. 19 Septembre 1905 Matin | Joir  |
+|  J'auteur Marométrique | 206.2  |
+|  Direction du vent | Nord  |
+|  Force | 1  |
+|  (Rég. C. (lire)) | 1  |
+|  (Rég. R. (mer)) | 8  |
+|  Direction des nuages | Nord  |
+|  (lire Pombie) | 1,1  |
+|  Température de l'air | 19.1  |
+|  Hauteur de la mer | 49.6  |
+|  (Légitution de l'eau) | 1, fort  |
+|  Densité au bout de la jetée | 1028.1  |
+|  (Légitution de l'eau) | 21,2  |
+|  2. 20 Septembre 1905 Matin | Joir  |

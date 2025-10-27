@@ -1,0 +1,15 @@
+# Date - 3 mars 1901
+
+|  **Item** | 9<sup>e</sup> matin | 3<sup>e</sup> soir |
+| --- | --- | --- |
+|  **Hauteur barométrique** | 70,8 | 70,7 |
+|  **Direction du vent** | 3/4,4 | 3/4,4 |
+|  **Force** | 1000 | 1000 |
+|  **Nébulosité (Reg. D. (livre))** | 10 | 10 |
+|  **Direction des nuages** | 10 | 10 |
+|  **Pluie tombée** | 2,5 | 2,5 |
+|  **Température de l'air** | 10,5 | 10,5 |
+|  **Hauteur de la mer** | 48,4 | 48,4 |
+|  **Agitation de l'eau** | 2 | 2 |
+|  **Densité de l'eau** | au fond de la jetée | 1028,5 |
+|  **Température de l'eau** | 10,5 | 10,5 |

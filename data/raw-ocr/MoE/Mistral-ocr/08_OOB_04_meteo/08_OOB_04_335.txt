@@ -1,0 +1,28 @@
+# V. 24 Janvier. 1904
+
+|  **Pfarrer** | **Nieuwschrèque**  |
+| --- | --- |
+|  Direction du vent | 483.4  |
+|  Force | 15  |
+|  **Débatissité** | **Reg. O. (1ère)**  |
+|  Direction des nuages | 10  |
+|  **Désert** | **4.68/9.33**  |
+|  **Démarche** | **3.3**  |
+|  **Écart** | **10**  |
+
+# V. 25 Janvier. 1904
+
+|  **Pfarrer** | **Nieuwschrèque**  |
+| --- | --- |
+|  Direction du vent | 481.6  |
+|  Force | 15  |
+|  **Débatissité** | **Reg. O. (1ère)**  |
+|  Direction des nuages | 10  |
+|  **Désert** | **5.68**  |
+|  **Démarche** | **11.0**  |
+|  **Écart** | **9.3**  |
+|  **Débatissité** | **Reg. E. (1ère)**  |
+|  Direction des nuages | 10  |
+|  **Désert** | **5.68**  |
+|  **Démarche** | **11.0**  |
+|  **Écart** | **9.3**  |

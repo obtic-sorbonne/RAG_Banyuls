@@ -1,0 +1,1 @@
+V 8 Juin 1905 Matin Par Hauteur Praxometrique 260 6 Direction des vents 1 port 160 10 10 1 0 1 0 1 port 22 3 15 1 15 1 1 port 20 0 20 0 V 9 Juin 1905 Matin Par Hauteur Praxometrique 2 9 6 2 8 3 Direction des vents 1 8 3 1 8 3 160 1 port 10 10 10 10 10 10 10 10 21 1 21 1 46 4 46 4 19 4 19 4 108 9 108 1 19 4 20 2

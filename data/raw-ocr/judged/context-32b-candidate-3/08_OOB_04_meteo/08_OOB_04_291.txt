@@ -1,0 +1,31 @@
+# V. 23 Octobre - 1903
+
+|  **Plauteur** | **Poarométrique** | **Détail** | **Soir**  |
+| --- | --- | --- | --- |
+|  Direction du vent |  | 252,6 | 251,1  |
+|  Force |  | 2,0 | 2,0  |
+|  Débulante | (Reg. O. (tire) | 10 | 10  |
+|  (Reg. E. (mer) |  |  |  |
+|  Direction des nuages |  | 10 | 10  |
+|  Flux tombé |  | 0,0 | 0,0  |
+|  Température de l'air |  | 16,5 | 1,39  |
+|  Hauteur de la mer |  | 3,1 | 16,1  |
+|  Écartation de l'eau |  | 1,5 | 1,5  |
+|  Densité au bout de la jetée |  | 1,58,1 | 1,58,4  |
+|  Température de l'eau |  | 13,5 | 13,6  |
+
+# V. 24 Octobre - 1903
+
+|  **Plauteur** | **Poarométrique** | **Détail** | **Soir**  |
+| --- | --- | --- | --- |
+|  Direction du vent |  | 252,2 | 253,4  |
+|  Force |  | 2,0 | 3,28  |
+|  Débulante | (Reg. O. (tire) | 10 | 10  |
+|  (Reg. E. (mer) |  |  |  |
+|  Direction des nuages |  | 10,0 | 13,6  |
+|  Flux tombé |  | 0,0 | 0,0  |
+|  Température de l'air |  | 11,0 | 13,6  |
+|  Hauteur de la mer |  | 43,8 | 16,4  |
+|  Écartation de l'eau |  | 1,0 | 1,5  |
+|  Densité au bout de la jetée |  | 1,58,9 | 1,58,5  |
+|  Température de l'eau |  | 13,6 | 18,0  |

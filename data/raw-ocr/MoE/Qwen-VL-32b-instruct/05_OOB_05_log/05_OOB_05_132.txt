@@ -1,0 +1,35 @@
+No
+
+Sortie du _______ 190
+
+Départ de _______ à _______ heures du _______
+
+pour
+
+Départ de _______ à _______ heures du _______
+
+Arrivée à _______
+
+Départ de _______ à _______ heures du _______
+
+Arrivée à _______
+
+Arrivée au mouillage à _______ h. du _______
+
+État du temps: _______
+
+Passagers à bord: _______
+
+Objet de la sortie: _______
+
+Consommation _______
+
+{ _____________
+
+  riquettes de _______ Poids en kilos
+
+  Huile _______ Total en litres
+
+Dépenses: _______
+
+Observations: _______

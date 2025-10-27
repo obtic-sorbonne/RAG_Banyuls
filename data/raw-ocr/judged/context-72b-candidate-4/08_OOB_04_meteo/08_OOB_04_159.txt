@@ -1,0 +1,8 @@
+```plaintext
+| Date       | Heure  | Hauteur Barométrique | Direction du vent | Force | Nébulosité (Reg. O. - Terre) | Nébulosité (Reg. E. - Mer) | Direction des nuages | Pluie tombée | Température de l'air | Hauteur de la mer | Agitation de l'eau | Densité au bout de la jetée | Température de l'eau |
+|------------|--------|---------------------|-------------------|-------|-----------------------------|--------------------------|---------------------|--------------|---------------------|-------------------|--------------------|-----------------------------|-----------------------|
+| V. 29 Novembre 1902 | Matin | 748.7              | Sud               | 4     | 10                          | 10                       | S. S. S.           | -            | 19.4                | 22.1              | 1                  | 1028.6                     | 19.1                 |
+|            | Soir  | 747.3              | Sud               | 2     | 10                          | 10                       | Sud                 | 2.9          | 14.4                | 24.7              | 1                  | 1029.4                     | 17.2                 |
+| V. 30 Novembre 1902 | Matin | 747.6              | S. S.             | 2     | 10                          | 10                       | S. S.              | 6.2          | 15.6                | 0.0               | 10                 | -                          | -                    |
+|            | Soir  | -                  | -                 | -     | -                           | -                        | -                  | -            | -                   | -                 | -                  | -                          | -                    |
+```

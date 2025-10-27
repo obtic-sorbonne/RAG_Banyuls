@@ -1,0 +1,31 @@
+```
+Sortie du 11 - 8 - 1901
+
+Départ de Rosas à 5 heures du matin
+pour Les Médes
+
+Départ de
+pour
+
+Départ de
+pour
+
+Arrivée à Estourdit à 7 h 30
+
+Arrivée au mouillage à Estourdit à 7 h 30 du matin
+
+État du temps : mer très forte - Vent du Nord
+
+Passagers à bord : M. Pruvot - M. Matz - M. Darboux - Pacault
+
+Objet de la sortie :
+
+Consommation
+- Briquettes de bois | Poids en Kilos
+- Huile           | Total en litres
+
+Dépenses
+
+Observations : Arrivée à Estourdit, la mer
+est très forte, et nous empêche de travailler
+```

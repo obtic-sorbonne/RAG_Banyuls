@@ -1,0 +1,33 @@
+```plaintext
+|  V. 10 Octobre 1902 | Matin | Soir  |
+| --- | --- | --- |
+|  Hauteur Barométrique | 765.3 | 764.3  |
+|  Direction du vent | 0.7.0 | 7.0  |
+|  Force | 1 | 8 fort  |
+|  Rég. O. (terre) | 10 | 10  |
+|  Nébulosité |  |  |
+|  Rég. E. (mer) | 10 | 10  |
+|  Direction des nuages | 0.7.0 | 7.0  |
+|  Pluie tombée |  |  |
+|  Température de l'air | 20.3 | 23.7  |
+|  Hauteur de la mer | 20.7 | 12.3  |
+|  Agitation de l'eau | 3 fort | 27 fort  |
+|  Densité au bout de la jetée | 1028.3 | 1024.8  |
+|  Température de l'eau | 18.2 | 18.3  |
+
+|  V. 11 Octobre 1902 | Matin | Soir  |
+| --- | --- | --- |
+|  Hauteur Barométrique | 765.2 | 764.5  |
+|  Direction du vent | or.0.0 | or.0  |
+|  Force | 2 | 4 fort  |
+|  Rég. O. (terre) | 10 | 10  |
+|  Nébulosité |  |  |
+|  Rég. E. (mer) | 10 | 10  |
+|  Direction des nuages | or.0.0 | or.0.0  |
+|  Pluie tombée | quelques. 9 | quelques. 9  |
+|  Température de l'air | 18.0 | 19.3  |
+|  Hauteur de la mer | 24.2 | 4.4  |
+|  Agitation de l'eau | 2 faible | 2 fort  |
+|  Densité au bout de la jetée | 1028.0 | 1028.0  |
+|  Température de l'eau | 18.4 | 18.0  |
+```

@@ -1,0 +1,17 @@
+# Date: 2 Juillet 1901
+
+|  Item | Q# | Datin | Soir  |
+| --- | --- | --- | --- |
+|  Hauteur Peurométrique | 7/9.4 | 7/9.8 |   |
+|  Direction Su vent | N.N.O | N.N.O |   |
+|  Force | Sfst | 1 |   |
+|  Rég. | C. | 10 |   |
+|  Ébulosité |  |  |   |
+|  Rég. | C. | 10 |   |
+|  Direction des nuage | N.N.O | N.N.O |   |
+|  Mise tombée |  |  |   |
+|  Température de l'air | 20.6 | 20.4 |   |
+|  Hauteur de la mer | 11.8 | 55.7 |   |
+|  Égitation de l'eau | 1 | 17.7 |   |
+|  Densité de l'eau | 1028.1 | 1027.8 |   |
+|  Temperature de l'eau | 19.6 | 19.8 |   |

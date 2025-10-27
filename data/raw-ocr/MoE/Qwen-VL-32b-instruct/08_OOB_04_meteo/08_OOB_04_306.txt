@@ -1,0 +1,33 @@
+V. 26 Novembre 1903
+
+|  Hauteur | Pourcentage | Matin | Soir  |
+| --- | --- | --- | --- |
+|  Direction du vent |  | 769,6 | 769,0  |
+|  Force |  | 68,6 | 68,6  |
+|  (Reg. O. (lire) |  | 10 | 10  |
+|  (Reg. X. (mer) |  | 10 | 10  |
+|  Direction des nuages |  | 63,8 | 61,7  |
+|  Huie tombe |  | 1029,0 | 1029,2  |
+|  Température de l'air |  | 13,8 | 13,7  |
+
+V. 27 Novembre 1903
+
+|  Hauteur | Pourcentage | Matin | Soir  |
+| --- | --- | --- | --- |
+|  Direction du vent |  | 768,0 | 767,7  |
+|  Force |  | 68,4 | 60,0  |
+|  (Reg. O. (lire) |  | 3 | 1  |
+|  (Reg. X. (mer) |  | 10 | 10  |
+|  Direction des nuages |  | 68,4 | 60,0  |
+|  Huie tombe |  | 11,6 | 13,4  |
+|  Température de l'air |  | 64,4 | 60,0  |
+|  Hauteur de la mer |  | 3 font | 3 fonts  |
+|  (Reg. O. (lire) |  | 1029,2 | 1029,3  |
+|  (Reg. X. (mer) |  | 14,8 | 14,1  |
+
+|  769,6 | 769,0  |
+| --- | --- |
+|  10 | 10  |
+|  10 | 10  |
+|  10 | 10  |
+|  10 | 10  |

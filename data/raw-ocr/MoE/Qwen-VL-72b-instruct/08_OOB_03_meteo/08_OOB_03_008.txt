@@ -1,0 +1,18 @@
+| **Date:** 26 Septembre 1901 |
+|---|
+| **Heure** | **9h Matin** | **3h Soir** |
+| **Hauteur Barométrique** | 764,3 | 764,6 |
+| **Direction du vent** | N.N.O | N.N.O |
+| **Force** | 3 Fort | 3 Fort |
+| **Nuébulosité** |  |  |
+| Reg. O. (Terre) | 10 légère | 10 légère |
+| Reg. E. (mer) | 10 | 10 |
+| **Direction des nuages** | N.N.O | N.N.O |
+| **Pluie tombée** | " | " |
+| **Température de l'air** | 19,6 | 20,4 |
+| **Hauteur de la mer** | 48,4 | 43,2 |
+| **Agitation de l'eau** | 2 | 3 |
+| **Densité de l'eau** |  |  |
+| au bout de la jetée | 1026,9 | 1026,6 |
+| au large |  |  |
+| **Température de l'eau** | 17,7 | 18,1 |

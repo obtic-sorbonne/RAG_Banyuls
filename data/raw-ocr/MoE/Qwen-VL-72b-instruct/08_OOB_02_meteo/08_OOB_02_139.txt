@@ -1,0 +1,18 @@
+| **Date** | **30 Juillet 1901** |
+|---|---|
+| **Horaires** | **9h Matin** | **3h Soir** |
+| **Haut. Barométrique** | 766,4 | 766,4 |
+| **Direction du vent** | N.N.O. | Nord |
+| **Force** | 2 fort. | 2 faible |
+| **Nébulosité** |
+|  | Reg. O. (claire) | 10 | 10 |
+|  | Reg. E. (marée) | 10 | 10 |
+| **Direction des nuages** | N.N.O. | Nord |
+| **Pluie tombée** | quelques gouttes | " " |
+| **Température de l'air** | 22.3 | 21.9 |
+| **Haut. de la mer** | 47.0 | 43.7 |
+| **Agitation de l'eau** | 2 | 2 |
+| **Densité de l'eau** | | |
+|  | au bout de la jetée | 1027.6 | 1027.4 |
+|  | au Frange | | |
+| **Température de l'eau** | 20.6 | 20.6 |

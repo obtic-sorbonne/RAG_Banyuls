@@ -1,0 +1,16 @@
+| **Date** | 21 Janvier 1902 |
+| --- | --- |
+| **Heure** | **9H 30 Malin** | **3H Soir** |
+| **Hauteur Barométrique** | 774,3 | 772,9 |
+| **Direction du vent** | Ouest | S.S.E. |
+| **Force** | 1 (faible) | 1 |
+| **Nébulosité** | **Reg. O. (terre)** | 2 légères | 3 légères |
+|  | **Reg. E. (mer)** | 4 légères | 3 légères |
+| **Direction des nuages** | **""** | **""** |
+| **Pluie tombée** | **""** | **""** |
+| **Température de l'air** | 6,7 | 10,6 |
+| **Hauteur de la mer** | 19,1 | 60,6 |
+| **Agitation de l'eau** | 1 (faible) | 1 (fort) |
+| **Densité de l'eau** | **= à bout de la jetée** | 1028,6 | 1028,3 |
+|  | **= au Largue** |  |  |
+| **Température de l'eau** | 11,6 | 12,0 |

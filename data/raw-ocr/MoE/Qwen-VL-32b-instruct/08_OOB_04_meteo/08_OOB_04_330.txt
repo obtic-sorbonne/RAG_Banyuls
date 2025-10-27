@@ -1,0 +1,29 @@
+|  9.9 Janvier - 1904 | Matin | Soir  |
+| --- | --- | --- |
+|  Hauteur Marométrique | 7.63,9 |   |
+|  Direction du vent | or. |   |
+|  Force | 3 fort |   |
+|  Mécanique | Reg. O. (terre) | 10  |
+|   | Reg. E. (mer) | 10  |
+|  Direction des nuages | or. | or.  |
+|  Flux tombe | 6,7/0 |   |
+|  Température de l'air | 10,8 |   |
+|  Hauteur de la mer | 43,3 |   |
+|  Régulation de l'eau | 8 |   |
+|  Densité au bout de la fête |  |   |
+|  Température de l'eau |  |   |
+
+|  9.12 Janvier - 1904 | Matin | Soir  |
+| --- | --- | --- |
+|  Hauteur Marométrique |  | 7.63,9  |
+|  Direction du vent |  | or.  |
+|  Force | 10 |   |
+|  Mécanique | Reg. O. (terre) | 10  |
+|   | Reg. E. (mer) | 10  |
+|  Direction des nuages |  | or.  |
+|  Flux tombe |  | quelques  |
+|  Température de l'air |  | 9,7  |
+|  Hauteur de la mer |  | 43,3  |
+|  Régulation de l'eau |  | 1 fort  |
+|  Densité au bout de la fête |  | 1.029,6  |
+|  Température de l'eau |  | 11,6  |

@@ -1,0 +1,30 @@
+| Date                | Matin         |    | Soir         |
+|---------------------|---------------|----|--------------|
+| V. 27 juin 1904     | Hauteur Barométrique | 764.7 | 764.2 |
+|                     | Direction du vent   | cr.v.o | cr.v.o |
+|                     | Force             | 1 fort | 2 |
+|                     | Reg. 0 (ciel)      | W  | W |
+|                     | Nebulosité       | ↓   | |
+|                     | (Reg. 2) (mer)   | 10  | 10 |
+|                     | Direction des nuages | cr.v.o | cr.v.o |
+|                     | Pluie tombé       | ""  | "" |
+|                     | Température de l'air | 27.5 | 27.4 |
+|                     | Hauteur de la mer  | 12.2 | 11.8 |
+|                     | Agitation de l'eau | 1   | 1 |
+|                     | Densité au bout de la jetée | 1027.2 | 1026.3 |
+|                     | Température de l'eau | 21.9 | 23.3 |
+|---------------------|---------------|----|--------------|
+| V. 28 juin 1904     | Hauteur Barométrique | 769.0 | 764.9 |
+|                     | Direction du vent   | cr.8 | "" |
+|                     | Force             | 1 fort | 0 |
+|                     | Reg. 0 (ciel)      | 1 dég  | 10 |
+|                     | Nebulosité       | ↓   | |
+|                     | (Reg. 2) (mer)   | 0   | 1.0 |
+|                     | Direction nuages | ""  | 1.0 |
+|                     | Pluie tombé       | ""  | "" |
+|                     | Température de l'air | 23.2 | 27.4 |
+|                     | Hauteur de la mer  | 10.8 | 16.9 |
+|                     | Agitation de l'eau | 1 fort | 2 |
+|                     | Densité au bout de la jetée | 1026.9 | 1026.0 |
+|                     | Température de l'eau | 20.2 | 22.8 |
+|---------------------|---------------|----|--------------|

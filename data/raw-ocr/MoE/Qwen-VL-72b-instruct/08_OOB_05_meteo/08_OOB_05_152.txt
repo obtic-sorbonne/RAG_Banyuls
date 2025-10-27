@@ -1,0 +1,29 @@
+| V. 30 Septembre -1906 | Matin | Soir |
+|-----------------------|-------|------|
+| Hauteur Barométrique  | 768.4 |      |
+| Direction du Vent     | cr.c.r.o |      |
+| Force                 | 3     |      |
+| Nébulosité            | Reg. o. (Clair) | 0    |
+|                       | Reg. X. (nuit) | 0    |
+| Direction des nuages  | "     |      |
+| Pluie tombée          | "     |      |
+| Température de l'air  | 19.7  |      |
+| Hauteur de la mer     | 18.9  |      |
+| Agitation de l'eau    | 1     |      |
+| Densité au bout de la jetée | 1028.3 |      |
+| Température de l'eau  | 19.1  |      |
+
+| V. 31 Septembre -1906 | Matin | Soir |
+|-----------------------|-------|------|
+| Hauteur Barométrique  | 768.0 | 766.7 |
+| Direction du Vent     | cr.c.r.o | cr.c.r.o |
+| Force                 | 2     | 1 fort |
+| Nébulosité            | Reg. o. (clair) | 0    |
+|                       | Reg. X. (nuit) | 0    |
+| Direction des nuages  | "     | cr.c.r.o |
+| Pluie tombée          | "     |      |
+| Température de l'air  | 21.6  | 21.3  |
+| Hauteur de la mer     | 46.7  | 60.0  |
+| Agitation de l'eau    | 1 faible | 1 fort |
+| Densité au bout de la jetée | 1028.3 | 1027.4 |
+| Température de l'eau  | 19.6  | 20.2  |

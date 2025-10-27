@@ -1,0 +1,25 @@
+|  1. 12 Janvier - 1906 | Mbatin | Soir  |
+| --- | --- | --- |
+|  Hauteur Nouronétrique |  | 771.2  |
+|  Direction du vent |  | 5.5.5  |
+|  Force |  | 1. part.  |
+|  Nébulosité | (Reg. E. (mer) | Reg. ent.  |
+|  Direction des mages |  |   |
+|  Flue tombée |  |   |
+|  Température de l'air |  | 12.0  |
+|  Hauteur de la mer |  | 19.2  |
+|  Oeitation de l'eau |  | 2.628,8  |
+|  Densité au bout de la jetée |  | 15.8  |
+|  Température de l'eau |  |   |
+|  1. 23 Janvier - 1906 | Mbatin | Soir  |
+|  Hauteur Nouronétrique | 762.2 | 764.0  |
+|  Direction du vent |  | 7.7.0  |
+|  Force |  | 8  |
+|  Nébulosité | (Reg. E. (mer) | 3  |
+|  Direction des mages |  | 10  |
+|  Flue tombée |  | 1.7.0  |
+|  Température de l'air |  | 2.1  |
+|  Hauteur de la mer |  | 2.1  |
+|  Oeitation de l'eau |  | 3  |
+|  Densité au bout de la jetée |  | 5  |
+|  Température de l'eau |  | 5  |

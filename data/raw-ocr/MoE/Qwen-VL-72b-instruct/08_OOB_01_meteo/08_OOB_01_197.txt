@@ -1,0 +1,17 @@
+| **Observations météorologiques** | **9h Matin** | **15h Soir** |
+|---|---|---|
+| Hauteur Barométrique | 766.2 | 767.0 |
+| Direction du vent | Noreste | Noroeste |
+| Force | 4 Fortes | 4 Faibles |
+| Nébulosité   | | |
+|    Reg. 6 (tierre) | 1 | 0 |
+|    Reg. E (mer) | 2 | 1 |
+| Direction des nuages | Noreste | Noreste |
+| Pluie tombée |   |   |
+| Température de l'air | 3.7 | 5.9 |
+| Hauteur de la mer | 13.2 | 57.4 |
+| Agitation de l'eau | 4 | 4 Faible |
+| Vitesse de l'eau    | | |
+|    (au bout de la jetée) | | |
+|    (au Large) | | |
+| Température de l'eau | 10.9 | 10.8 |

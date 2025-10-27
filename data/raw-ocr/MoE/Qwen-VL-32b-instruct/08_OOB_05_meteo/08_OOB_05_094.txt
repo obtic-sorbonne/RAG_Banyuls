@@ -1,0 +1,29 @@
+| **Date** | **Matin** | **Soir** |
+|----------|-----------|---------|
+| 26 Mars 1906 |          |         |
+| Hauteur Barométrique | 74.9.8 | 741.8 |
+| Direction du vent | Est | cr.cr.0 |
+| Force | i5 | afort |
+| Reg. O (terre) | /10 | 10 |
+| Nébulosité |        |     |
+| Reg. E (mer) | 10 | 10 |
+| Direction des nuages | S.E | er.o |
+| Pluie tombée | 24,37 | 37./ |
+| Température de l'air | 9.0 | 9.0 |
+| Hanteur mer |       |    |
+| Asitation eau | + | 10 |
+| Vemite jeté |      |   |
+| Température eau | 3 | 3 |
+| 27 Mars 1906 |           |         |
+| Hauteur Barométrique | 746.0 | - |
+| Direction vent |       | 1.0 |
+| Force | i5 | 1/ |
+| Nébulosite | Disa (terre) | 10 |
+| Des. x (mer) |        | 1.0 |
+| Direction nuags |      | 4.0 |
+| Pluie tombée |        |    |
+| Température de l'air |      |    |
+| Hanteur mer |        |    |
+| Asitation eau |       | 3 |
+| Vemite jeté |        |    |
+| Température de l'eau |      | 3 |

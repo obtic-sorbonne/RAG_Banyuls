@@ -1,0 +1,20 @@
+# Date. 31 Décembre. 1900.
+
+|  **9e Matin** | **3e Soir**  |
+| --- | --- |
+|  Hauteur Barométrique | 782,0 | 786,7  |
+|  Direction du vent | Nord | Nord  |
+|  Force | 4 fort | 4 fort  |
+|  Nébulosité | 10 | 10  |
+|  Rég. E. (mer) | 0 | 0  |
+|  Direction des nuages | Nord | Nord  |
+|  Pluie tombée | 0 | 0  |
+|  Température de l'air | 11,2 | 10,8  |
+|  Hauteur de la mer | 40,3 | 40,8  |
+|  Agitation de l'eau | 3 fort | 3 fort  |
+|  Densité de l'eau | 1023,5 | 1029,2  |
+|  Température de l'eau | 12,5 | 12,9  |
+
+Densité de l'eau
+- au bout de la jetée: 1023,5
+- au large: 1029,2

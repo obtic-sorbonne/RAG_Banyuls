@@ -1,0 +1,6 @@
+| **Date** | **Heure** | **Matin / Soir** | **Hauteur Barométrique (mmHg)** | **Direction du Vent** | **Force du Vent** | **Nébulosité (%)** | **Direction des Nuages** | **Pluie Tombée (mm)** | **Température de l'Air (°C)** | **Hauteur de la Mer (m)** | **Agitation de l'Eau** | **Densité au bout de la jetée** | **Température de l'Eau (°C)** |
+|----------|-----------|------------------|---------------------------------|-----------------------|--------------------|----------------------|-------------------------|------------------------|-------------------------------|-----------------------------|--------------------------|------------------------------|-----------------------------|
+| 31 Janvier 1908 | Matin | - | 764.8 | cr.cr.o | i5 | 0 | N.E. (mer) | " | 11.9 | 5 | 2 fort. | ζ | - |
+| 31 Janvier 1908 | Soir | - | - | - | - | 0 | Reg. O. (terre) | - | - | - | - | - | - |
+| 1er Février 1906 | Matin | - | 771.0 | cr.cr.o | i5 | 0 | Reg. E. (mer) | " | 8.2 | f.f./1 | 2 | ζ | - |
+| 1er Février 1906 | Soir | - | - | - | - | 0 | Reg. O. (terre) | - | - | - | - | - | - |

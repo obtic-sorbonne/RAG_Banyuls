@@ -1,0 +1,17 @@
+# Date: 16 Avril 1901
+
+|  | 9" matin | 3" 800 |
+| --- | --- | --- |
+| Hauteur Barométrique | 760,1 | 758,7 |
+| Direction du vent | Nord | Nord |
+| Force | 4 | 3 |
+| Nébulosité / Rég. O. (Terre) | 2 | 8 |
+| Rég. E. (mer) | 1 | 0 |
+| Direction des nuages | Nord | Nord |
+| Pluie tombée | 14,3 | 17,2 |
+| Température de l'air | 55,8 | 49,9 |
+| Hauteur de la mer | 2 | 2 |
+| Agitation de l'eau | 2 | 2 |
+| Densité de l'eau | 1028,5 | 1028,5 |
+| 1 au bout de la jetée |  |  |
+| Température de l'eau | 13,8 | 13,8 |

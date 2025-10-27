@@ -1,0 +1,17 @@
+# Date: 4 Juin 1901
+
+|  | 9e Matin | 3e Soir |
+| --- | --- | --- |
+|  Hauteur Barométrique | 705.3 | 704.4  |
+|  Direction du vent | S.S.E | S.S.E  |
+|  Force | 17 faible | 3 faible  |
+|  Nébulosité / Reg. O. (lire) | 15/00" C. | 15/00" C.  |
+|  Nébulosité / Reg. E. (mer) | 15/00" C. | 15/00" C.  |
+|  Direction des nuages | Ouest | Ouest  |
+|  Pluie tombée |  |  |
+|  Température de l'air | 34.6 | 38.2  |
+|  Hauteur de la mer | 47.4 | 58.3  |
+|  Agitation de l'eau | 0 | 1 faible  |
+|  Densité de l'eau / au bout de la jetée | 1035.1 | 1034.9  |
+|  Densité de l'eau / au large |  |  |
+|  Température de l'eau | 33.3 | 35.8  |

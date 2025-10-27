@@ -1,0 +1,28 @@
+|  V. 2 H (Jwit - 1904) | Obatin | Jair  |
+| --- | --- | --- |
+|  Hauteur Praxometrique | 763.9 | 762.7  |
+|  Direction du vent | or.v.v. | or.  |
+|  Force | 2 fois | 3 r. fort  |
+|  (Reg. o. (tine) | 40 | 10  |
+|  (Rebutivite) |  |   |
+|  (Reg. F. (mer) | 40 | 10  |
+|  (Direction des mages) | Aut | 2.0  |
+|  Flux tombé |  |   |
+|  (Dempérative de l'air) | 31.0 | 20.2  |
+|  Hauteur de la mer | 17.6 | 13.3  |
+|  (Agitation de l'eau) | 3 faible | 2 r. fort  |
+|  Densité au bout de la jette. | 1027.0 | 1027.1  |
+|  (Dempérative de l'eau) | 23.0 | 23.0  |
+|  V. 21 (Jwit - 1904) | Obatin | Jair  |
+|  Hauteur Praxometrique | 764.4 |   |
+|  Direction du vent | or.v.v. |   |
+|  Force | 1 |   |
+|  (Reg. o. (tine) | 0 |   |
+|  (D. 2. (mer) | 0 |   |
+|  (Direction des mages) | or.v.o. |   |
+|  Flux tombé |  |   |
+|  (Dempérative de l'air) | 17.8 |   |
+|  Hauteur de la mer | 13.6 |   |
+|  (Agitation de l'eau) | 3 |   |
+|  Densité au bout de la jette. |  |   |
+|  (Dempérative de l'eau) | 5 |   |

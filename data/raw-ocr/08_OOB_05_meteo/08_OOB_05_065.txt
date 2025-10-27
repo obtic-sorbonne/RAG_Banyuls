@@ -1,0 +1,29 @@
+|  | Matin | Soir |
+| --- | --- | --- |
+| 9.5 Décembre -1909 |  |  |
+| Hauteur barométrique | 769.3 |  |
+| Direction du vent | cr.cr.o |  |
+| Force | is | 2 |
+| Nebulosite | Reg. o. (clere) | 0 |
+|  | Reg. 2i. (mr) | 1 |
+| Direction des nuags | " |  |
+| Pluie tombée | " |  |
+| Température de l'air | 8.6 |  |
+| Hauteur de la mer | Po.o |  |
+| Agitation de l'eau | 2 fort |  |
+| Remonté au cours de la jetée | 1029.9 |  |
+| Température de l'eau | 14.9 |  |
+|  |  |  |
+| 9.7 Décembre -1909 | Matin | Soir |
+| Hauteur barométrique | 770.9 |  |
+| Direction du vent | er-er-s |  |
+| Force | i5 | 2 |
+| Nebulosite | Reg. o. (clere) | w |
+|  | Reg. 2i. (mr) | w |
+| Direction des nuags |  | cr.s |
+| Pluie tombée | " |  |
+| Température de l'air | 19/1 |  |
+| Hauteur de la mer | po.2 |  |
+| Agitation de l'eau | 2 fort |  |
+| Remonté au cours de la jetée | 1029.2 |  |
+| Température de l'eau | 15.5 |  |

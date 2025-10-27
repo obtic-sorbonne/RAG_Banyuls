@@ -1,0 +1,31 @@
+|  V. 124 (Avril 1903) | Obatir | Soir  |
+| --- | --- | --- |
+|  Hauteur Barométrique | 281.2 |   |
+|  Direction du vent | crest |   |
+|  Force | 3 |   |
+|  (Reg. O. (1ère)) |  |   |
+|  (Reg. O. (2ère)) |  |   |
+|  (Reg. 2. (mer)) |  |   |
+|  Direction des nuages | " |   |
+|  Flux tombé | 14.3 |   |
+|  Température de l'air | 14.3 |   |
+|  Hauteur de la mer | 49.2 |   |
+|  (agitation de l'eau) |  |   |
+|  Densité au bout de la jeté | 1029.2 |   |
+|  (température de l'eau) | 12.5 |   |
+
+|  V. 15 (Avril 1903) | Obatir | Soir  |
+| --- | --- | --- |
+|  Hauteur Barométrique | 284.4 | 283.4  |
+|  Direction du vent | 28.5 | 28.5  |
+|  Force | 15 | 15.7  |
+|  (reg. O. (1ère)) |  |   |
+|  (Reg. O. (2ère)) |  |   |
+|  (Reg. E. (mer)) |  |   |
+|  Direction des nuages | " |   |
+|  Flux tombé | 14.4 | 13.2  |
+|  (température de l'air) | 14.4 | 13.2  |
+|  Hauteur de la mer | 10.2 | 19.2  |
+|  (agitation de l'eau) | 3 | 3.7  |
+|  Densité au bout de la jeté | 1029.2 | 1029.1  |
+|  (température de l'eau) | 12.5 | 12.9  |

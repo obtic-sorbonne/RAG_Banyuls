@@ -1,0 +1,14 @@
+|  1. 20 Novembre - 1905 | Moatin | Soir  |
+| --- | --- | --- |
+|  Hauteur roarométrique | 251.0 |   |
+|  Direction du vent | 1.0 |   |
+|  Force | 1 |   |
+|  Veloutante | 140.0 (mm) | 14000000  |
+|  Définition des images |  |   |
+|  Thie trombée |  |   |
+|  Température de l'air |  | 10.5  |
+|  Définition de la mer |  | 31.1  |
+|  Définition de l'eau |  | 1028.9  |
+|  Densité au bout de la pièce |  | 11.4  |
+|  Température de l'eau |  | 11.4  |
+|  1. 21 Novembre - 1905 | Moatin | Soir  |

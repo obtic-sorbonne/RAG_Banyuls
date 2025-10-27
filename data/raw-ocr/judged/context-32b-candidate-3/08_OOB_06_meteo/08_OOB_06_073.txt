@@ -1,0 +1,47 @@
+```plaintext
+| **OBSERVATIONS DU 1960 14 févr.** |
+| --- |
+| **Nombre de bateaux sortis (pêche à l…)** | … |
+| **Température de l'air** |  |
+| - maxima depuis la veille | 20.8 °C |
+| - minima id. | 9.1 °C |
+| **Température de l'eau** |  |
+| - maxima depuis la veille |  |
+| - minima id. |  |
+| **Pluie tombée depuis la veille, en millim.** | 62.9 mm |
+| **Évaporation depuis le 190, en millim.** |  |
+| **Direction du vent (à terre)** | **à 9 h. m.** | **à 3 h. s.** |
+| | N.S.E. | N.E. |
+| **Force** | 3 | 3 fort. |
+| **Direction des nuages** | S.S.O. | S.S.O. |
+| **Nébulosité** |  |
+| - région Ouest (terre) | 10 | 10 |
+| - id. Est (mer) | 10 | 10 |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.)** | 28.9 cm | 23.0 cm |
+| **Agitation de l'eau** | 1 | 1 fort. |
+| **Densité de l'eau au bout de la jetée** | 1028.3 g/cm³ | 1027.8 g/cm³ |
+| **Température id.** | 17.8 °C |  |
+
+| **OBSERVATIONS DU 1960 8 mars** |
+| --- |
+| **Nombre de bateaux sortis (pêche à l…)** | … |
+| **Température de l'air** |  |
+| - maxima depuis la veille | 22.1 °C |
+| - minima id. | 16.8 °C |
+| **Température de l'eau** |  |
+| - maxima depuis la veille |  |
+| - minima id. |  |
+| **Pluie tombée depuis la veille, en millim.** |  |
+| **Évaporation depuis le 190, en millim.** |  |
+| **Direction du vent (à terre)** | **à 9 h. m.** | **à 3 h. s.** |
+| | S.C. | S.O. |
+| **Force** | 1 fort. |  |
+| **Direction des nuages** | S.O. |  |
+| **Nébulosité** |  |
+| - région Ouest (terre) | 10 |  |
+| - id. Est (mer) | 10 |  |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.)** | S.E. |  |
+| **Agitation de l'eau** | 1 fort. |  |
+| **Densité de l'eau au bout de la jetée** | 1027.7 g/cm³ |  |
+| **Température id.** | 17.4 °C |  |
+```

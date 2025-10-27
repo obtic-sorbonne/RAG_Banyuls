@@ -1,0 +1,1 @@
+Heure Niveau de la mer Vent Hauteur barométrique 6h m 0 36 8h 0 36 8h 15 m 0 39 9h 10 6h m 0 31 7h 5 m 0 32 8h 5 m 0 34 mnl 767 5 9h 30 m 0 40 10h m 0 47 11h 15 m 0 40 1h 30 s 0 44 2h s 0 43 703 2 3h 15 s 0 61 mnl 4h 45 s 0 40 5h 30 s 0 39 6h 15 s 0 38 8h 45 s 0 38 0 39

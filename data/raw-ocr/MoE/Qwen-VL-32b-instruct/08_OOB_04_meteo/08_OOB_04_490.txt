@@ -1,0 +1,29 @@
+|  V. 27 (Avril - 1905) | Maitre | Jour  |
+| --- | --- | --- |
+|  Hauteur Francométrique | 164.0 | 161.8  |
+|  Direction du vent | court | 1.8  |
+|  Noce | 1 fort | 1  |
+|  (RCS. O. (tome)) | 2 ligne | 2 ligne  |
+|  Nébulosité |  | 0  |
+|  (RCS. X. (mur)) |  |   |
+|  Direction des nuages |  |   |
+|  Pluie tombe |  |   |
+|  Température de l'air | 18.0 | 24.5  |
+|  Hauteur de la mer | 18.6 | 18.6  |
+|  Oxyitation de l'eau | 1 | 1 faible  |
+|  Densité au bout de la jetée | 1028.4 | 1028.2  |
+|  Température de l'eau | 16.2 | 18.1  |
+|  V. 28 (Avril - 1905) | Maitre | Jour  |
+|  Hauteur Francométrique | 163.4 | 161.8  |
+|  Direction du vent | 8.9.8 | 1.8.8  |
+|  Noce | 1 | 2 faible  |
+|  (RCS. O. (tome)) | 2 ligne | 1  |
+|  Nébulosité |  |   |
+|  (RCS. X. (mur)) | 2 ligne | 1  |
+|  Direction des nuages | 1.8.8 |   |
+|  Pluie tombe |  |   |
+|  Température de l'air | 11.6 | 21.1  |
+|  Hauteur de la mer | 13.4 | 48.0  |
+|  Oxyitation de l'eau | 1 faible | 1  |
+|  Densité au bout de la jetée | 1028.6 | 1029.0  |
+|  Température de l'eau | 11.8 | 16.2  |

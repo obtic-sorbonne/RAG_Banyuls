@@ -1,0 +1,27 @@
+```plaintext
+|  9. 23 mai. 1906 | Matin | Poir  |
+| --- | --- | --- |
+|  Hauteur Barométrique | 768.8 |   |
+|  Direction du vent | 7/3 | 7/3  |
+|  Force | 1 | 1  |
+|  Nébulosité | (Reg. 2. (mer)) | 10  |
+|  Direction des nuages | 13.3 | 13.3  |
+|  Pluie tombée | 0.0 | 13.6  |
+|  Température de l'air | 13.6 | 13.6  |
+|  Hauteur de la mer | 5 | 5  |
+|  Agitation de l'eau | 4 | 4  |
+|  Densité au bout de la jetée | 1028.5 | 1028.5  |
+|  Température de l'eau | 16.5 | 16.5  |
+|  9. 24 mai. 1906 | Matin | Poir  |
+|  Hauteur Barométrique | 770.6 |   |
+|  Direction du vent | 7/7 | 7/4  |
+|  Force | 1 | 2  |
+|  Nébulosité | (Reg. 2. (mer)) | 10  |
+|  Direction des nuages | 2 | 2  |
+|  Pluie tombée | 0.0 | 2.33  |
+|  Température de l'air | 17.0 | 17.0  |
+|  Hauteur de la mer | 42.3 | 42.3  |
+|  Agitation de l'eau | 3 | 3  |
+|  Densité au bout de la jetée | 1029.6 | 1029.6  |
+|  Température de l'eau | 18.1 | 18.1  |
+```

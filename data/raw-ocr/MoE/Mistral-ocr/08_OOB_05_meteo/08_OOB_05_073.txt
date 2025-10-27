@@ -1,0 +1,27 @@
+|  1. 24 Janvier. 1906 | Mbatin | Soir  |
+| --- | --- | --- |
+|  Hauteur Marométrique |  | 1/1.0  |
+|  Direction du vent |  | 4  |
+|  Force |  | 5  |
+|  Nébulovite | (Reg. o. (time) | 5  |
+|  (Reg. o. (time) |  | 6  |
+|  Direction des mages |  | 5, 1  |
+|  Flue Vombe |  | 5, 2  |
+|  Remplirative de l'air |  | 4  |
+|  Hauteur de la mer |  | 5  |
+|  Gritation de l'eau |  | 5  |
+|  Densité au bout de la jete |  | 4  |
+|  Remplirative de l'eau |  | 5  |
+|  1. 27 Janvier. 1906 | Mbatin | Soir  |
+|  Hauteur Marométrique | 1/8,1 | 1/1.5  |
+|  Direction du vent |  | 5  |
+|  Force |  | 6  |
+|  Nébulovite | (Reg. o. (time) | 1  |
+|  (Reg. o. (time) |  | 1  |
+|  Direction des mages |  | 1  |
+|  Flue Vombe |  | 1  |
+|  Remplirative de l'air |  | 1, 2  |
+|  Hauteur de la mer |  | 2  |
+|  Gritation de l'eau |  | 2  |
+|  Densité au bout de la jete |  | 2  |
+|  Remplirative de l'eau |  | 2  |

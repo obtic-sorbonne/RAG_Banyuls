@@ -1,0 +1,36 @@
+| Date       | 22 Novembre 1900 |
+|------------|------------------|
+| **Observations** | **9h Matin** | **3h Soir** |
+| Hauter Varométrique | 760,8 | 760,7 |
+| Direction du vent | Nord | S.S.E |
+| Force maximum | 1 Faible | 1 T. Faible |
+| Nébulosité {Reg. O (terre)} | 8 légèrement couvert quelques nuages détachés | |
+|        {Reg. E (mer)} | 1 légèrement courant | 0 |
+| Direction des nuages | Nord | Nord |
+| Pluie tombée | " | " |
+| Température de l'air | 10,8 | 12,5 |
+| Hauteur de la mer | 33,4 | 44,2 |
+| Agitation de l'eau (au bout de la jetée) | 2 | 1 Faible |
+| Densité de l'eau { (au large) } | 1028,7 | 1027,9 |
+| Température de l'eau | 14,6 | ||
+
+| Remarques |
+|-----------|
+| **Nébulosité** : |
+| - 8 légèrement couvert quelques nuages détachés (terre) |
+| - 1 légèrement courant (mer), 0 au soir |
+
+| **Pluie tombée** : |
+| - Pas de pluie observée |
+
+| **Agitation de l'eau** : |
+| - De 2 à 1 Faible (stialité au bout de la jetée) |
+
+| **Densité de l'eau** : |
+| - Mesurée au large |
+
+| **Température de l'eau** : |
+| - Mesurée au large
+
+| **Température de l'air** : |
+| - Mesurée à différents moments de la journée (9h Matin, 3h Soir) |

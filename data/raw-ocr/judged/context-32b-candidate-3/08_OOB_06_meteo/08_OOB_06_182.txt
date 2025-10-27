@@ -1,0 +1,55 @@
+```plaintext
+### OBSERVATIONS DU 1901 31 juillet
+
+| **Nombre de bateaux sortis (pêche à l.)** | 38 |
+| **Température de l'air** |  |
+| – maxima depuis la veille | 33.1 |
+| – minima id. | 21.7 |
+| **Température de l'eau** |  |
+| – maxima depuis la veille |  |
+| – minima id. |  |
+| **Pluie tombée depuis la veille, en millim.** |  |
+| **Evaporation depuis le 19 juillet 1901, en millim.** | 99/7 |
+| **Direction du vent (à terre)** | **à 9 h. m.** | **à 3 h. s.** |
+| – Force | 2 | 1 fort |
+| **Direction des nuages** | N.N.O. | S.S.E. |
+| **Nébulosité** | **Région Ouest (terre)** | **id. Est (mer)** |
+| – de 0 à 20 m | 60 | 0 |
+| – de 20 m au sommet | 50 | 1 |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.)** | 29.9 | 31.7 |
+| **Agitation de l'eau** | faible | faible |
+| **Densité de l'eau au bout de la jetée** | 1029.6 | 1024.6 |
+| **Température (id.)** |  |
+| – is. Balances | 30.7 | 37.8 |
+| – is. Terre n'Entrée matin | maxima | 44.7 |
+|  | minima | 19.8 |
+| – is. - Lézir | maxima | 47.7 |
+|  | minima | 32.3 |
+
+### OBSERVATIONS DU 1901 2 août
+
+| **Nombre de bateaux sortis (pêche à l.)** | 37.0 |
+| **Température de l'air** |  |
+| – maxima depuis la veille | 37.0 |
+| – minima id. | 21.8 |
+| **Température de l'eau** |  |
+| – maxima depuis la veille |  |
+| – minima id. |  |
+| **Pluie tombée depuis la veille, en millim.** |  |
+| **Evaporation depuis le 1901, en millim.** |  |
+| **Direction du vent (à terre)** | **à 9 h. m.** | **à 3 h. s.** |
+| – Force | 2 | faible |
+| **Direction des nuages** | N.N.O. | S.S.E. |
+| **Nébulosité** | **Région Ouest (terre)** | **id. Est (mer)** |
+| – de 0 à 20 m | 0 | 1 |
+| – de 20 m au sommet | 0 | 1 |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.)** | 38.0 | 39.0 |
+| **Agitation de l'eau** | 1 | 1 |
+| **Densité de l'eau au bout de la jetée** | 1027.0 | 1024.2 |
+| **Température (id.)** |  |
+| – is. Balances | 29.2 | 34.7 |
+| – is. Terre n'Entrée matin | maxima | 49.0 |
+|  | minima | 24.6 |
+| – is. - Lézir | maxima | 41.7 |
+|  | minima | 33.0 |
+```

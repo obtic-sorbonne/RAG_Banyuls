@@ -1,0 +1,31 @@
+|  9. 8 Mars. 1902 | Martin | Joir  |
+| --- | --- | --- |
+|  Hauteur Marométrique | 7/6.2 |   |
+|  Direction du vent | 0.5.0 |   |
+|  Force | 15 | 3  |
+|  Rég. O. (ème) | 10 |   |
+|  Nebulosite |  |   |
+|  (Reg. E. (me)) | 10 |   |
+|  Direction des nuages | 0.5.0 |   |
+|  Vrai tombe |  |   |
+|  Température de l'air | 15.5 |   |
+|  Hauteur de la mer | 39.1 |   |
+|  Égitation de l'eau | 3 fois |   |
+|  Densité au bout de la jeté | 1039.2 |   |
+|  Température de l'eau | 18.0 |   |
+
+|  9. 10 Mars. 1902 | Martin | Joir  |
+| --- | --- | --- |
+|  Hauteur Marométrique | 765.7 |   |
+|  Direction du vent | Ouest |   |
+|  Force | 15 | 1  |
+|  Rég. O. (ème) | 8 |   |
+|  Nebulosite |  |   |
+|  (Reg. E. (me)) | 1 |   |
+|  Direction des nuages | Ouest |   |
+|  Vrai tombe | 1/1 |   |
+|  Température de l'air | 18.3 |   |
+|  Hauteur de la mer | 43.3 |   |
+|  Égitation de l'eau | 1 fois |   |
+|  Densité au bout de la jeté | 1039.5 |   |
+|  Température de l'eau | 10.7 |   |

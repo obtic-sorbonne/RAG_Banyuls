@@ -1,0 +1,29 @@
+|  1. 13 (Jurid. 1905 | Mbatin | Jair  |
+| --- | --- | --- |
+|  Hauteur Marométrique | 288.4 | 255.3  |
+|  Direction du vent | or. 0 | or. 0  |
+|  Force | 1 fort | 3  |
+|  (Res. o. (ture) | 10 | 10  |
+|  Nebulosite | 10 | 10  |
+|  (Res. E. (mer) | 10 | 10  |
+|  Direction des mages | or. or. 3 | or. or. 5  |
+|  Pluie tombée | 15.1 | 8.1  |
+|  Température de l'air | 10.0 | 12.0  |
+|  Hauteur de la mer | 5 | 1 fort  |
+|  (Agitation de l'eau) |  |   |
+|  Densité au bout de la jeté | 1 | 1 fort  |
+|  Température de l'eau | 5 | 1 fort  |
+|  1. 14 (Jurid. 1905 | Mbatin | Jair  |
+|  Hauteur Marométrique | 288.3 |   |
+|  Direction du vent | or. 0 |   |
+|  Force | 2 fort |   |
+|  (Res. o. (ture) | 10 min. |   |
+|  Nebulosite | 10 min. |   |
+|  (Res. E. (mer) | 10 min. |   |
+|  Direction des mages | or. or. 0 |   |
+|  Pluie tombée | 11.8 |   |
+|  Température de l'air | 11.3 |   |
+|  Hauteur de la mer | 5 |   |
+|  (Agitation de l'eau) |  |   |
+|  Densité au bout de la jeté | 1 |   |
+|  Température de l'eau | 5 |   |

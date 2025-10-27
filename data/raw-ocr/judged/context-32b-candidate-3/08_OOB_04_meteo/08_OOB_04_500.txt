@@ -1,0 +1,29 @@
+```plaintext
+|  9. 20 mai - 1905 | Matin | Jour  |
+| --- | --- | --- |
+|  Hauteur Barométrique | 750.8 | 759.6  |
+|  Direction du vent | 7.0 | 7.8  |
+|  Force | 1 | 2  |
+|  Nébulosité | 10 | 10  |
+|  (Reg. a. (mer)) | 10 | 10  |
+|  Direction des nuages | 4.0 | 2.0  |
+|  Pluie tombée | quelques gouttes | 0.0  |
+|  Température de l'air | 18.8 | 31.6  |
+|  Hauteur de la mer | 46.1 | 19.4  |
+|  Agitation de l'eau | 1 faible | 1.6  |
+|  Densité au bout de la jetée | 1028.2 | 1028.6  |
+|  Température de l'eau | 17.7 | 20.1  |
+|  9. 22 mai - 1905 | Matin | Jour  |
+|  Hauteur Barométrique | 754.8 | 753.4  |
+|  Direction du vent | 0.8 | 8.8  |
+|  Force | 1 | 1  |
+|  Nébulosité | 10 | 10  |
+|  (Reg. a. (mer)) | 10 | 10  |
+|  Direction des nuages | 1.0 | 1.8  |
+|  Pluie tombée | quelques gouttes | 0.0  |
+|  Température de l'air | 19.4 | 38.0  |
+|  Hauteur de la mer | 38.0 | 49.3  |
+|  Agitation de l'eau | 1 faible | 1.6  |
+|  Densité au bout de la jetée | 1028.7 | 1028.6  |
+|  Température de l'eau | 16.4 | 18.8  |
+```

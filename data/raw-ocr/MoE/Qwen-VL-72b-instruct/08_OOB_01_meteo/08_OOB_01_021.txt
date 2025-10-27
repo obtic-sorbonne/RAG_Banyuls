@@ -1,0 +1,23 @@
+| **Date** | **Heures** |
+|----------|------------|
+| Lundi 3 Septembre 1900 | 9h. m. 3h²¾s. |
+
+| **Paramètres de l'observation** | **Valeurs** |
+|------------------------------|-------------|
+| Hauteur barométrique | 765.8 |
+| Direction du vent | N.E. |
+| Force du vent | 1 |
+| Nebulosité (Rég. O. (terra)) | 0 |
+| Nebulosité (Rég. E. (men)) | 0 |
+| Direction des nuages |   |
+| Pluie tombé |   |
+| Température de l'air | 22°.1 |
+| Hauteur des vagues | 0.28   |
+| Agitation de l'eau | 0     |
+| Densité de l'eau (au bout de la jetée) | 1026.9 |
+| Densité de l'eau (sur place, au large) | 1026.8 |
+| Température de l'eau | 21°.3 |
+
+| **Observations** |  |
+|------------------|---|
+|  |  |

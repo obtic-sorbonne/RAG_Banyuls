@@ -1,0 +1,27 @@
+|  V. 30 Novembre - 1907 | Mbotin | Poir  |
+| --- | --- | --- |
+|  Hauteur Maronubrique | 20,5 | 20,4  |
+|  Direction du tout | 20.0 | 20.0  |
+|  Force | 5 | 5  |
+|  Nébubonite | 10 | 10  |
+|  ( Reg. N. (min) |  |   |
+|  Direction des mages | 10 | 10  |
+|  Pluie-tombée | 1,52 | 1,52  |
+|  Dempperature de l'air | 15,8 | 15,8  |
+|  Hauteur de la mer | 35,4 | 42,2  |
+|  Agitation de l'eau | 1 | 1  |
+|  Densité au bout de la jetée | 102,5 | 102,5  |
+|  Dempperature de l'eau | 15,8 | 15,8  |
+|  V. 21 Novembre - 1907 | Mbotin | Poir  |
+|  Hauteur Maronubrique | 202,0 | 208,5  |
+|  Direction du tout | 20.0 | 20.0  |
+|  Force | 5 | 5  |
+|  Nébubonite | 5 | 10  |
+|  ( Reg. N. (min) |  |   |
+|  Direction des mages | 10 | 10  |
+|  Pluie-tombée | 10 | 10  |
+|  Dempperature de l'air | 10,5 | 12,8  |
+|  Hauteur de la mer | 32,8 | 48,5  |
+|  Agitation de l'eau | 5 | 5  |
+|  Densité au bout de la jetée | 102,5 | 102,5  |
+|  Dempperature de l'eau | 15,8 | 15,8  |

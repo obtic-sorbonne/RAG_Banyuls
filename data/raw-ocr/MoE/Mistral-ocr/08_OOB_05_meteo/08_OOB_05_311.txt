@@ -1,0 +1,27 @@
+|  8. 26 Octobie - 1907 | Nkatin | 2016  |
+| --- | --- | --- |
+|  Hauteur 20arométrique | 4/8.2 | 4/7.7  |
+|  Direction du vent | 1/8.0 | 1/8.0  |
+|  Force | 1/10 | 1/10  |
+|  Nvbutonte (Reg. o. (tome) | 10 | 10  |
+|  Nvbutonte (Reg. K. cmm) | 10 | 10  |
+|  Direction des mays | 1/1.0 | 1/1.0  |
+|  Pline tombé | 1/1.0 | 1/1.7  |
+|  Température de l'air | 1/1.0 | 1/1.7  |
+|  Hauteur de la mer | 12.3 | 38.2  |
+|  Cagitation de l'eau | 3/20.0 | 3/20.0  |
+|  Densité au bout de la jetée | 1024.2 | 1026.0  |
+|  Température de l'air | 12.7 | 12.3  |
+|  9. 29 Octobie - 1907 | Nkatin | 2016  |
+|  Hauteur 20arométrique | 4/1.7 | 3/0.0  |
+|  Direction du vent | 1/0.0 | 1/0.0  |
+|  Force | 3/20.0 | 1  |
+|  Nvbutonte (Reg. o. (tome) | 10 | 1  |
+|  Nvbutonte (Reg. K. cmm) | 10 | 1  |
+|  Direction des mays | 1/1.7 | 1/1.6  |
+|  Pline tombé | 1/1.7 | 1/1.6  |
+|  Température de l'air | 14.7 | 16.6  |
+|  Hauteur de la mer | 26.8 | 16.3  |
+|  Cagitation de l'eau | 1/20.0 | 1  |
+|  Densité au bout de la jetée | 1024.0 | 1026.7  |
+|  Température de l'eau | 14.7 | 14.7  |

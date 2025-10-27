@@ -1,0 +1,43 @@
+| **Observations du 1904 20 Février** |
+|--------|--------|--------|
+| **Nombre de bateaux sortis (pêche à l.** | **Maut** |
+| **Température de l'air** |  |  |
+| - maxima depuis la veille |  |  |
+| - minima | ... |  |
+| **Température de l'eau** |  |  |
+| - maxima depuis la veille |  |  |
+| - minima |  |  |
+| **Pluie tombée depuis la veille, en millim** |  |  |
+| **Evaporation depuis le 1900, en millim** |  |  |
+| **Direction du vent (à terre)** | **à 9 h. m.** | **à 3 h. s.** |
+| - Force | N.N.O | N.N.O. |
+| - Direction des nuages |  |  |
+| - Nebulosité |  |  |
+|   - région Ouest (terre) | 60 | 40 |
+|   - id. Est (mer) | 19.3 | 10.9 |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.)** |  |  |
+| **Agitation de l'eau** | 2 | 2.5 |
+| **Densité de l'eau au bout de la jetée** | 1028.7 | 1028.9 |
+| **Température id.** | 11.0 |  |
+|
+| **Observations du 1904 21 Février** |
+|--------|--------|--------|
+| **Nombre de bateaux sortis (pêche à l.** | **Néant** |
+| **Température de l'air** |  |  |
+| - maxima depuis la veille |  |  |
+| - minima | ... |  |
+| **Température de l'eau** |  |  |
+| - maxima depuis la veille |  |  |
+| - minima |  |  |
+| **Pluie tombée depuis la veille, en millim** |  |  |
+| **Evaporation depuis le 1900, en millim** |  |  |
+| **Direction du vent (à terre)** | **à 9 h. m.** | **à 3 h. s.** |
+| - Force | 3 forts | 1 |
+| - Direction des nuages | N.E | N.E. |
+| - Nebulosité |  |  |
+|   - région Ouest (terre) | légère | légère |
+|   - id. Est (mer) | bordées, au. | bordées, couv. |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.)** | 59.6 | 61.0 |
+| **Agitation de l'eau** | 2 | 2 |
+| **Densité de l'eau au bout de la jetée** | 1029.3 | 1029.0 |
+| **Température id.** | 10 | 11.3 |

@@ -1,0 +1,28 @@
+| Date | Matin | Soir |
+|---|---|---|
+| **r. 30 Août. 1905** |  |  |
+| Hauteur Barométrique | 761.8 |  |
+| Direction du vent | S.O. | Fort |
+| Force | is |  |
+| Nébulosité (Aus. c. Terre) | 20 |  |
+| Nébulosité (Aus. li. mer.) |  | 20 |
+| Direction des nuages | S.O. |  |
+| Pluie tombée | 7.12/ |  |
+| Température de l'air |  |  |
+| Hauteur de la mer |  |  |
+| Agitation de l'eau | Faible |  |
+| Densité au bout de la jetée |  |  |
+| Température de l'eau |  |  |
+| **r. 31 Août. 1905** |  |  |
+| Hauteur Barométrique | 761.6 |  |
+| Direction du vent | Ouest-nord-ouest | 2 fort |
+| Force | is |  |
+| Nébulosité (Aus. c. Terre) | 20 |  |
+| Nébulosité (Aus. li. mer.) |  | 20 |
+| Direction des nuages | Ouest |  |
+| Pluie tombée | quelques g. |  |
+| Température de l'air |  |  |
+| Hauteur de la mer |  |  |
+| Agitation de l'eau |  |  |
+| Densité au bout de la jetée |  |  |
+| Température de l'eau |  |  |

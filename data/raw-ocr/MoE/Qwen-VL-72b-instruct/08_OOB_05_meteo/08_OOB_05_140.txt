@@ -1,0 +1,28 @@
+| V. 16 Avril. 1906 | Matin | Soir |
+|------------------|-------|------|
+| Hauteur Barométrique | 767.3 |      |
+| Direction du vent | cr.cr.o |      |
+| Force | 1 fort | légère |
+| Reg. 6. (Terre) |        |      |
+| Nébulosité | Reg. 7. (mer) | légère |
+| Direction des nuages | cr.o |      |
+| Pluie tombée | " |      |
+| Température de l'air | 24.0 |      |
+| Hauteur de la mer | 3.6 |      |
+| Agitation de l'eau | 1 |      |
+| Densité au bout de la jetée | 1027.4 |      |
+| Température de l'eau | 22.2 |      |
+| V. 17 Avril. 1906 | Matin | Soir |
+|------------------|-------|------|
+| Hauteur Barométrique | 767.7 | 766.0 |
+| Direction du vent | cr.cr.o | ouest |
+| Force | 2 faible | 1 |
+| Reg. 6. (Terre) | 10 | 10 |
+| Nébulosité | Reg. 7. (mer) | 10 |
+| Direction des nuages | Ouest | ouest |
+| Pluie tombée | " | " |
+| Température de l'air | 23.3 | 24.3 |
+| Hauteur de la mer | 38.3 | 48.0 |
+| Agitation de l'eau | 2 | 2 |
+| Densité au bout de la jetée | 1027.7 | 1027.7 |
+| Température de l'eau | 21.4 | 21.7 |

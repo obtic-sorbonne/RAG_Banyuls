@@ -1,0 +1,18 @@
+# Dalle 18 Juin 1901
+
+|   | 9" Thatin | 3" Noir  |
+| --- | --- | --- |
+|  Hauteur Pârométrique | 763,2 | 760,2  |
+|  Direction Su vent |  |   |
+|  Force | 3 fort | 3 faible  |
+|  Nétulosite | 0 | 0  |
+|  Négolosite |  |   |
+|  1 Rég. - 2 (mer) | 0 | 0  |
+|  Direction des nuages |  |   |
+|  Fluie tombée | 11 |   |
+|  Température de l'air | 20,6 | 24,8  |
+|  Hauteur de la mer | 18,4 | 42,2  |
+|  Égitation de l'eau | 2 | 2 fort  |
+|  Densité de l'eau | 1026,7 | 1027,4  |
+|  1 au 9 range |  |   |
+|  Température de l'eau | 20,7 | 31,5  |

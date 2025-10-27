@@ -1,0 +1,27 @@
+|  8.21 Junin - 1905 | Mbatin | 20.0  |
+| --- | --- | --- |
+|  Hauteur Econométrique | 770.5 |   |
+|  Direction du vent | er er |   |
+|  Force | 2 fort |   |
+|  Névérite | Reg. o. (terre) | 10.0  |
+|   | Reg. x. (mer) | 10.0  |
+|  Direction des nuages |  | er. 2  |
+|  Élue tombe |  |   |
+|  Température de l'air | 24,5 |   |
+|  Hauteur de la mer |  | 20,0  |
+|  Oeudation de l'eau | 2 fort |   |
+|  Oeuvrite au bout de la jetée | 102,5 |   |
+|  Température de l'eau | 20,2 |   |
+|  8.27 Junin - 1906 | Mbatin | 20.0  |
+|  Hauteur Econométrique |  | 77.4  |
+|  Direction du vent |  | 2  |
+|  Force |  | 25.0  |
+|  Névérite | Reg. o. (terre) |   |
+|   | Reg. x. (mer) |   |
+|  Direction des nuages |  |   |
+|  Élue tombe |  |   |
+|  Température de l'air |  | 14,2  |
+|  Hauteur de la mer |  | 1,2  |
+|  Oeudation de l'eau |  | 102,9  |
+|  Oeuvrite au bout de la jetée |  | 22.0  |
+|  Température de l'eau |  |   |

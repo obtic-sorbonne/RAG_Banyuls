@@ -1,0 +1,32 @@
+V. 1er Octobre 1907 Matin Soir
+| H. | H. |
+| --- | --- |
+| Hauteur Barométrique | 762,7 | 769,6 |
+| Direction du Vent | S.O | S.O |
+| Force | 1 fort | 1 |
+| Nébulosité | Reg. & (clère) | 10 légère |
+| Nébulosité | Reg. & (nue) | 10 légère |
+| Direction des nuages | S.O | S.O |
+| Pluie tombée | 12,1 | " |
+| Température de l'air | 19,0 | 24,3 |
+| Hauteur de la mer | 39,8 | 22,3 |
+| Agitation de l'eau | 1 fort | 1 |
+| Densité au bout de la jetée | 1027,9 | 1027,9 |
+| Température de l'eau | 21,1 | 21,7 |
+
+V. 2 Octobre 1907 Matin Soir
+| H. | H. |
+| --- | --- |
+| Hauteur Barométrique | 764,6 |  |
+| Direction du Vent | S.O |  |
+| Force | 1 fort | 2 faible |
+| Nébulosité | Reg. & (clère) | 10 |
+| Nébulosité | Reg. & (nue) | 10 |
+| Direction des nuages | S.O |  |
+| Pluie tombée | quelque |  |
+| Pluie tombée | quelque |  |
+| Température de l'air | 21,3 |  |
+| Hauteur de la mer | 27,3 |  |
+| Agitation de l'eau | 1 fort |  |
+| Densité au bout de la jetée | 1027,7 |  |
+| Température de l'eau | 21,6 |  |

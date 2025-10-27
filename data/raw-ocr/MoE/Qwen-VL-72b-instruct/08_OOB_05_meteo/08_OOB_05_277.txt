@@ -1,0 +1,27 @@
+| V. 29 Juillet 1907 | Matin | Soir |
+|-------------------|-------|------|
+| Hauteur Barométrique | 757.2 | 764.7 |
+| Direction du vent | Est | S. 8 |
+| Force | 15 | 2 |
+| Nébulosité | Rég. O. (Terre) | 0 | 0 |
+| | Rég. E. (mer) | 0 | 0 |
+| Direction des nuages | " | " |
+| Pluie tombée | " | " |
+| Température de l'air | 29.4 | 34.5 |
+| Hauteur de la mer | 47.2 | 53.7 |
+| Agitation de l'eau | 17. Juillet | 1 |
+| Densité au bout de la jetée | 1027.0 | 1026.5 |
+| Température de l'eau | 22.7 | 25.6 |
+| V. 30 Juillet 1907 | Matin | Soir |
+| Hauteur Barométrique | 761.2 | 764.7 |
+| Direction du vent | S. 8 | Est. 0 |
+| Force | 15 | 3 |
+| Nébulosité | Rég. O. (Terre) | 10 | 10 |
+| | Rég. E. (mer) | 10 | 10 |
+| Direction des nuages | S. 0 | N. 0 |
+| Pluie tombée | " | " |
+| Température de l'air | 27.8 | 28.0 |
+| Hauteur de la mer | 44.3 | 47.7 |
+| Agitation de l'eau | 17. Juillet | 2 |
+| Densité au bout de la jetée | 1027.1 | 1026.8 |
+| Température de l'eau | 28.0 | 28.5 |

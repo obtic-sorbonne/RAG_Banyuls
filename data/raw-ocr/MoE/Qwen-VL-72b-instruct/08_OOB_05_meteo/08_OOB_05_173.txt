@@ -1,0 +1,27 @@
+| V. 12 Novembre 1906 | Matin | Soir |
+|---------------------|-------|------|
+| Hauteur Barométrique | 768,7 |      |
+| Direction du vent    | N.N.O |      |
+| Force                | 1s    |      |
+| Nébulosité           | Reg. 0 (Clair) | 10 légère |
+|                      | Reg. X (Couvert) | 10 légère |
+| Direction des nuages | " | " |
+| Pluie tombée         | " | " |
+| Température de l'air | 14,2 |      |
+| Hauteur de la mer    | 31,8 |      |
+| Agitation de l'eau   | 1° Fort |      |
+| Densité au bord de la jetée | 1029,0 |      |
+| Température de l'eau | 17,7 |      |
+| V. 13 Novembre 1906 | Matin | Soir |
+| Hauteur Barométrique | 766,8 |      |
+| Direction du vent    | S.S.S |      |
+| Force                | 1s    |      |
+| Nébulosité           | Reg. 0 (Clair) | 0 |
+|                      | Reg. X (Couvert) | 0 |
+| Direction des nuages | " | Nord |
+| Pluie tombée         | " | " |
+| Température de l'air | 13,9 |      |
+| Hauteur de la mer    | 33,7 |      |
+| Agitation de l'eau   | 2° faible |      |
+| Densité au bord de la jetée | 1028,1 |      |
+| Température de l'eau | 17,4 |      |

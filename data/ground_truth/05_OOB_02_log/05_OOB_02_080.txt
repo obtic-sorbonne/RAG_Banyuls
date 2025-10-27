@@ -1,0 +1,17 @@
+```plaintext
+83 e sortie
+
+12 Juin 1886
+
+Coup de x
+
+Localité : x
+
+Etaient à bord : l'Equipage
+
+Résultat : 6 Cidaris
+
+le préparateur
+Henri Prouho
+
+```

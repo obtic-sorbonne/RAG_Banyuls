@@ -1,0 +1,16 @@
+# Date. 12. Février 1901
+
+|  | 9e matin | 3e Soir  |
+| --- | --- | --- |
+| **Hauteur Barométrique** | 750,4 | 759,4  |
+| **Direction du vent** | Ouest | Nord  |
+| **Force** | 18 faible | 4  |
+| **Nébulosité (Reg. 6. (terre))** | 10 | 3,63 m.c.  |
+| **Reg. 2. (mer)** | 10,49 m.c. | 0  |
+| **Direction des nuages** |  |  |
+| **Pluie tombée** |  |  |
+| **Température de l'air** | 4,2 | 7,9  |
+| **Hauteur de la mer** | 45,7 | 43,9  |
+| **Agitation de l'eau** | 3 | 3 fort  |
+| **Densité de l'eau (au bout de la jetée)** | 1028,8 | 1028,8  |
+| **Température de l'eau** | 10,6 | 10,6  |

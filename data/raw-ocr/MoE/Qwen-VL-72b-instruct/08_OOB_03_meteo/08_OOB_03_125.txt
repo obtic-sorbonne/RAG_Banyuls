@@ -1,0 +1,18 @@
+| Date | 11 Février 1902 |
+| --- | --- |
+| Heure | 9<sup>e</sup> Matin, 3<sup>h</sup> Soir |
+| **Paramètres** | **9<sup>e</sup> Matin** | **3<sup>h</sup> Soir** |
+| Hauteur Barométrique | 774,0 | --- |
+| Direction du vent | Ouest | --- |
+| Force | 5 | 1 |
+| --- | --- | --- |
+| Rég. O. (Clair) | 10 légions. cl. | --- |
+| Rég. E. (mer) | 10 légions. c | --- |
+| Direction des nuages | Ouest | --- |
+| Pluie tombée | "" | --- |
+| Température de l'air | 10,6 | --- |
+| --- | --- | --- |
+| Hauteur de la mer | 22,2 | --- |
+| Agitation de l'eau | 1. faible | --- |
+| Densité de l'eau | au large | --- |
+| Température de l'eau | 11,2 | --- |

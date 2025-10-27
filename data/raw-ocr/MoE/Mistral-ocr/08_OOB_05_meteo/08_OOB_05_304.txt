@@ -1,0 +1,28 @@
+|  7.8 Octobre - 1907 | Mobing | 2011  |
+| --- | --- | --- |
+|  Hauteur Maronubrique | 4/5.2 | 4/7.4  |
+|  Direction du Vent | 1.5 | 1.5.0  |
+|  Force | 8/20.6 | 1  |
+|  Mébulionte | 10 | 10  |
+|  (Reg. R. Cour) | 10 | 10  |
+|  Direction des mages | 10 | 10.0  |
+|  2011 nombre |  | 10.0  |
+|  Compristine de l'air | 28.0 | 21.3  |
+|  Hauteur de la mer | 38.0 | 40.3  |
+|  2011 nombre au bout de la jetée | 1 | 1 post.  |
+|  Compristine de l'air | 1034.6 | 1089.0  |
+|  20.4 | 30.4 | 30.4  |
+
+|  7.9 Octobre - 1907 | Mobing | 2011  |
+| --- | --- | --- |
+|  Hauteur Maronubrique | 4/7.3 | 4/8.8  |
+|  Direction du Vent | 10.0 | 10.0  |
+|  Force | 8 | 1/20.6  |
+|  Mébulionte | 10 | 10  |
+|  (Reg. R. Cour) | 10 | 10  |
+|  Direction des mages | 10.0 | 10.0  |
+|  2011 nombre | 3,68/ | 3.0  |
+|  Compristine de l'air | 16.7 | 17.4  |
+|  Hauteur de la mer | 16.7 | 39.7  |
+|  2011 nombre au bout de la jetée | 1088.6 | 1089.0  |
+|  Compristine de l'air | 19.8 | 30.0  |

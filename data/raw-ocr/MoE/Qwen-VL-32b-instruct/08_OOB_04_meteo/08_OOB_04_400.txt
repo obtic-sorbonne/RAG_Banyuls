@@ -1,0 +1,73 @@
+V. 19 Juillet. 1904
+
+|  Hauteur | Noxa  |
+| --- | --- |
+|  Hauteur | Noxa  |
+|  Direction | du vent  |
+|  Force |   |
+|  (Reg. G. (taux) |   |
+|  (Reg. G. (mer) |   |
+|  Direction | du mage  |
+|  Flux | Tombé  |
+|  Température | de l'air  |
+|  Hauteur | de la mer  |
+|  (agitation) | de l'eau  |
+|  Bensité | au bout de la fête  |
+|  (température) | de l'eau  |
+
+V. 20 Juillet. 1904
+
+|  Hauteur | Noxa  |
+| --- | --- |
+|  Hauteur | Noxa  |
+|  Direction | du vent  |
+|  Force |   |
+|  (Reg. G. (taux) |   |
+|  (Reg. G. (mer) |   |
+|  Direction | du mage  |
+|  Flux | Tombé  |
+|  Température | de l'air  |
+|  Hauteur | de la mer  |
+|  (agitation) | de l'eau  |
+|  Bensité | au bout de la fête  |
+|  (température) | de l'eau  |
+
+Obbatin
+
+Joir
+
+|  Obbatin | Jour  |
+| --- | --- |
+|  7.63.4 |   |
+|  0 |   |
+|  0 |   |
+|  0 |   |
+|  0 |   |
+|  31.1 |   |
+|  13.13 |   |
+|  1081.7 |   |
+|  81.7 |   |
+
+Obbatin
+
+Jour
+
+|  Obbatin | Jour  |
+| --- | --- |
+|  7.63.6 | 7.63.1  |
+|  0.00 | 7.63.2  |
+|  1.5 | 1.5  |
+|  0 | 0  |
+|  0 | 0  |
+|  0 | 0  |
+|  0 | 0  |
+|  0 | 0  |
+|  0 | 0  |
+|  0 | 0  |
+|  0 | 0  |
+|  0 | 0  |
+|  0 | 0  |
+|  33.7 | 46.3  |
+|  1.5 | 1.5  |
+|  1.5 | 1.5  |
+|  1581.6 | 84.7  |

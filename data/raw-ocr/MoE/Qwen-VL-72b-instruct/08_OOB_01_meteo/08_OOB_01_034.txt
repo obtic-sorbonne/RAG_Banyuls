@@ -1,0 +1,17 @@
+| **Heure** | **Niveau d'eau (m)** | **Vent** | **Hautenn barométrique** | **Heure** | **Niveau d'eau (m)** | **Vent** | **Hautenn barométrique** |
+|-----------|---------------------|----------|-------------------------|-----------|---------------------|----------|-------------------------|
+| 4<sup>h</sup> m. | 0<sup>-</sup>,15 | | | 3<sup>h</sup>35<sup>s</sup>. | 0<sup>-</sup>,135 | | |
+| 4<sup>h</sup>3<sup>'</sup>m. | 0<sup>-</sup>,15 | 0. | 767,4. | 3<sup>h</sup>30<sup>s</sup>. | 0<sup>-</sup>,15 | | |
+| 6<sup>h</sup> m. | 0<sup>-</sup>,32 | | | 3<sup>h</sup>37<sup>s</sup>. | 0<sup>-</sup>,15 | | |
+| 8<sup>h</sup>10<sup>'</sup>m. | 0<sup>-</sup>,32 | 0. | 768,<sup>-</sup>1 | 3<sup>h</sup>49<sup>s</sup>. | 0<sup>-</sup>,195 | | |
+| 8<sup>h</sup>45<sup>'</sup>m. | 0<sup>-</sup>,32 | | | 3<sup>h</sup>59<sup>s</sup>. | 0<sup>-</sup>,15 | | |
+| 9<sup>h</sup>10<sup>'</sup>n. | 0<sup>-</sup>,30 | N.O. | 3 | 4<sup>h</sup>19<sup>s</sup>. | 0<sup>-</sup>,195 | | |
+| 9<sup>h</sup>30<sup>'</sup>... | 0<sup>-</sup>,30 | | 5<sup>h</sup>50<sup>s</sup>. | 0<sup>-</sup>,195 | | | |
+| 10<sup>h</sup>10<sup>'</sup>n. | 0<sup>-</sup>,07 | | 5<sup>h</sup>49<sup>s</sup>. | 0<sup>-</sup>,23 | | | |
+| 10<sup>h</sup>35<sup>'</sup>n. | 0<sup>-</sup>,07 | | 6<sup>h</sup>5<sup>'</sup>s. | 0<sup>-</sup>,23 | | | |
+| 11<sup>h</sup> m. | 0<sup>-</sup>,245 | | 6<sup>h</sup>36<sup>s</sup>. | 0<sup>-</sup>,29 | O.N.O. | 2 | 767,2 |
+| 11<sup>h</sup>35<sup>'</sup>m. | 0<sup>-</sup>,22 | | 6<sup>h</sup>50<sup>s</sup>. | 0<sup>-</sup>,31 | | | |
+| midi | 0<sup>-</sup>,22 | | 8<sup>h</sup>17<sup>s</sup>. | 0<sup>-</sup>,36 | | | |
+| 1h30<sup>'</sup>s. | 0<sup>-</sup>,17 | N.N.O. | 2 | 767,8 | 8<sup>h</sup>27<sup>s</sup>. | 0<sup>-</sup>,36 | |
+| 2<sup>h</sup>2<sup>'</sup>s. | 0<sup>-</sup>,16 | | 8<sup>h</sup>52<sup>s</sup>. | 0<sup>-</sup>,34 | | | |
+| 2<sup>h</sup>3

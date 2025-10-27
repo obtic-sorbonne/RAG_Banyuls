@@ -1,0 +1,16 @@
+```plaintext
+|  3 Avril - 1905 | Matin | Soir  |
+| --- | --- | --- |
+|  Hauteur Barométrique | 765.6 | 754.4  |
+|  Direction du vent | Nord | S.E.  |
+|  Force | 1 | 2  |
+|  Nébulosité | Reg. 1 (terre) | Reg. 1 (terre)  |
+|  (Reg. 1 (mer)) | 2.0 | 2.0  |
+|  Direction des nuages | N.O. | N.O.  |
+|  Pluie tombée |  | quelques  |
+|  Température de l'air | 16.2 | 15.6  |
+|  Hauteur de la mer | 42.5 | 46.2  |
+|  Agitation de l'eau | 13.5 léger | 13.5 léger  |
+|  Densité au bout de la jetée | 1028.8 | 1028.8  |
+|  Température de l'eau | 16.2 | 16.2  |
+```

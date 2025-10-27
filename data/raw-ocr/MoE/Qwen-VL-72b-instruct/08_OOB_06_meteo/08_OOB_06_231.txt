@@ -1,0 +1,57 @@
+| **Observations du 1941 19 Décembre** |  |
+| --- | --- |
+| **Nombre de bateaux sortis (pêche à l)** | 17.8 |
+| **Température de l'air** |  |
+| maxima depuis la veille | 17.8 |
+| minima id. | 10.3 |
+| **Température de l'eau** |  |
+| maxima depuis la veille |  |
+| minima id. |  |
+| **Pluie tombée depuis la veille, en millim** |  |
+| **Evaporation depuis le 190, en millim** |  |
+| **Direction du vent (à terre)** |  |
+| à 9 h. m. | à 3 h. s. |
+| S.O. | N.N.E. |
+| **Force** |  |
+| 3 fort | 3 |
+| **Direction des nuages** |  |
+| S.O. | S.O. |
+| **Nébulosité** |  |
+| région Ouest (terre) | 10 | 10 |
+| id. Est (mer) | 60 | 60 |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.)** | 18.7 | 19.9 |
+| **Agitation de l'eau** | 1 fort | 1 fort |
+| **Densité de l'eau au bout de la jetée** | 1.27.8 | 1.28.0 |
+| **Température** |  |
+| id. | 14.4 | 14.2 |
+| - id. Matin | 21.8 | 20.9 |
+| - id. Soir | 11.1 | 12.7 |
+
+| **Observations du 1941 16 Décembre** |  |
+| --- | --- |
+| **Nombre de bateaux sortis (pêche à l)** | 18.3 |
+| **Température de l'air** |  |
+| maxima depuis la veille | 18.3 |
+| minima id. | 7.2 |
+| **Température de l'eau** |  |
+| maxima depuis la veille |  |
+| minima id. |  |
+| **Pluie tombée depuis la veille, en millim** | quelques |
+| **Evaporation depuis le 190, en millim** |  |
+| **Direction du vent (à terre)** |  |
+| à 9 h. m. | à 3 h. s. |
+| Sud | S.O. |
+| **Force** |  |
+| 17 faible | 17 faible |
+| **Direction des nuages** |  |
+| Nord |  |
+| **Nébulosité** |  |
+| région Ouest (terre) | 10 | 10 |
+| id. Est (mer) | 60 | 60 |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.)** | 39.2 | 32.7 |
+| **Agitation de l'eau** | 1 fort | 1 |
+| **Densité de l'eau au bout de la jetée** | 23.9 | 27.7 |
+| **Température** |  |
+| id. | 16.0 | 16.0 |
+| - id. Matin | 20.7 |  |
+| - id. Soir | 4.7 |  |

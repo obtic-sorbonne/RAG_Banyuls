@@ -1,0 +1,51 @@
+### OBSERVATIONS DU 1902 12 juillet
+
+| **Nombre de bateaux sortis (pêche à l.)** | 32.6 |
+| --- | --- |
+| **Température de l'air** |  |
+| - maxima depuis la veille | 32.6 | °C |
+| - minima id. | 11.9 | °C |
+| **Température de l'eau** |  |
+| - maxima depuis la veille |  | °C |
+| - minima id. |  | °C |
+| **Pluie tombée depuis la veille, en millim.** |  | mm |
+| **Évaporation depuis le 190, en millim.** |  | mm |
+| **Direction du vent (à terre)** | **à 9 h. m.** | **à 3 h. s.** |
+| - Direction | S.S.E. | S.S.O. |
+| - Force | 2 |  |
+| **Direction des nuages** | S.S.E. | S.S.O. |
+| **Nébulosité** |  |  |
+| - région Ouest (terre) | 10 |  |
+| - id. Est (mer) | 10 |  |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.)** | 33.9 | cm |
+| **Agitation de l'eau** | 1 forte |  |
+| **Densité de l'eau au bout de la jetée** | 1026.6 | 20.8 |
+| **Température** |  |  |
+| - id. Bolca [vin] (matin) | 24.8 | °C |
+| - id. Premio hors Laxennol (matin) | 38.0 | °C |
+| - id. Premio hors Laxennol (matin) | 11.7 | °C |
+
+### OBSERVATIONS DU 1902 29 juillet
+
+| **Nombre de bateaux sortis (pêche à l.)** | 9 |
+| --- | --- |
+| **Température de l'air** |  |
+| - maxima depuis la veille |  | °C |
+| - minima id. |  | °C |
+| **Température de l'eau** |  |
+| - maxima depuis la veille |  | °C |
+| - minima id. |  | °C |
+| **Pluie tombée depuis la veille, en millim.** | quelques | mm |
+| **Évaporation depuis le 190, en millim.** |  | mm |
+| **Direction du vent (à terre)** | **à 9 h. m.** | **à 3 h. s.** |
+| - Direction | N.N.O. | S.O. |
+| - Force | 3 fort |  |
+| **Direction des nuages** | N.N.O. | S.O. |
+| **Nébulosité** |  |  |
+| - région Ouest (terre) | 10 |  |
+| - id. Est (mer) | 10 |  |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.)** | 29.2 | cm |
+| **Agitation de l'eau** | 1 forte |  |
+| **Densité de l'eau au bout de la jetée** | 1029.0 |  |
+| **Température** |  |  |
+| - id. jetée (matin) | 17.8 | °C |

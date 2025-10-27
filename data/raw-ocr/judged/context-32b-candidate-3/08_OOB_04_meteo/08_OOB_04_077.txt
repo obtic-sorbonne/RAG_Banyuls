@@ -1,0 +1,67 @@
+# V. 3 (Avril - 1902)
+
+## Matin
+
+|  **Kanteur Barométrique** | **280, 4**  |
+| --- | --- |
+|  Direction du vent | 100  |
+|  Force | 1 r.faible  |
+|  **Nébulosité** | **(Reg. O. (rime))** | **10**  |
+|  | **(Reg. de - (mer))** | **10**  |
+|  Direction des images | 100  |
+|  Pluie tombée | 1, 0, 1  |
+|  Température de l'air | 14, 2  |
+|  Kanteur de la mer | 40, 8  |
+|  Égitation de l'eau | 1, 7, fort  |
+|  Densité au bout de la jeté | 102, 8, 1  |
+|  Température de l'eau | 15, 6  |
+
+## Soir
+
+|  **Kanteur Barométrique** | **280, 2**  |
+| --- | --- |
+|  Direction du vent | 1, 1, 8  |
+|  Force | 2 faible  |
+|  **Nébulosité** | **(Reg. O. (rime))** | **10**  |
+|  | **(Reg. de - (mer))** | **10**  |
+|  Direction des images | 1, 1, 8  |
+|  Pluie tombée | 1, 1  |
+|  Température de l'air | 15, 6  |
+|  Kanteur de la mer | 39, 2  |
+|  Égitation de l'eau | 1, fort  |
+|  Densité au bout de la jeté | 102, 8, 5  |
+|  Température de l'eau | 14, 3  |
+
+# V. 3 (Avril - 1902)
+
+## Matin
+
+|  **Kanteur Barométrique** | **283, 1**  |
+| --- | --- |
+|  Direction du vent | 10 or. 0  |
+|  Force | 5  |
+|  **Nébulosité** | **(Reg. O. (rime))** | **10**  |
+|  | **(Reg. de - (mer))** | **10**  |
+|  Direction des images | 100, 4  |
+|  Pluie tombée | 1, 0  |
+|  Température de l'air | 12, 6  |
+|  Kanteur de la mer | 48, 4  |
+|  Égitation de l'eau | 1 faible  |
+|  Densité au bout de la jeté | 102, 8  |
+|  Température de l'eau | 14, 1  |
+
+## Soir
+
+|  **Kanteur Barométrique** | **283, 8**  |
+| --- | --- |
+|  Direction du vent | 10 or. 0  |
+|  Force | 2, fort  |
+|  **Nébulosité** | **(Reg. O. (rime))** | **10**  |
+|  | **(Reg. de - (mer))** | **10**  |
+|  Direction des images | 1, 0  |
+|  Pluie tombée | 1, 2  |
+|  Température de l'air | 13, 2  |
+|  Kanteur de la mer | 46, 6  |
+|  Égitation de l'eau | 2  |
+|  Densité au bout de la jeté | 102, 8  |
+|  Température de l'eau | 14, 1  |

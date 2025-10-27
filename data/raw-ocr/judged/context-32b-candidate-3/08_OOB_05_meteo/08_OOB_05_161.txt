@@ -1,0 +1,8 @@
+```markdown
+| Date          | Heure  | Hauteur Barométrique | Direction du Vent | Force du Vent | Nébulosité | Rég. c. Clarté (%) | Direction des Nuages | Pluie Tombée | Température de l'Air (°C) | Hauteur de la Mer (m) | Agitation de l'Eau | Densité au bord de la Jetée (kg/m³) | Température de l'Eau (°C) |
+|---------------|--------|---------------------|-------------------|---------------|------------|--------------------|---------------------|--------------|--------------------------|----------------------|-------------------|--------------------------------------|-------------------------|
+| V. 15 Octobre 1906 | Matin | 767.2               | Ouest             | 15            | 0 claire  | 0                  | Ouest               | 2.3          | 13.7                     | 3                    | 1028.4            | 18.4                                | 18.4                    |
+|                | Soir  | 767.8               | Ouest             | 10            | 2          | 10                 | Ouest               | 2.8          | 3                        | 1028.4               | 18.3              |                                    |                         |
+| V. 16 Octobre 1906 | Matin | 761.6               | Sud-Ouest         | 15            | 0 claire  | 0                  | Sud-Ouest           | 1            | 14.7                     | 43.7                 | 3                 | 1028.4                               | 18.4                    |
+|                | Soir  | 762.6               | Sud-Ouest         | 10            | 2          | 10                 | Sud-Ouest           | 19.2         | 42.8                     | 2 fort               | 1028.4            | 18.3                                |                         |
+```

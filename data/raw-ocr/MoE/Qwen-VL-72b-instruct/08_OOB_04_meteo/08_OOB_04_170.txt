@@ -1,0 +1,30 @@
+| Date       | Matin                       | Soir                       |
+|------------|----------------------------|----------------------------|
+| 26 octobre 1902 |                             |                             |
+| Hauteur Barométrique | 778.7                    | 771.5                    |
+| Direction du vent    | cr.of.o                  | cr.of.o                  |
+| Force                 | 2 fon                   | 1 fon                    |
+| Nuébulositè P         | 10                       | légere           |
+|   Reg. 0. (terre      |                          |                          |
+|   Reg. 2. (mer        | 10                       | légere           |
+| Direction des nuages |                          |                          |
+| Pluie tombée          | "                        | "                        |
+| Température de l'air  | 9.8                      | 13.5                     |
+| Hauteur de la mer     | 61.3                     | 67.2                     |
+| Agitation de l'eau    | 2                        | 1 fon                   |
+| Densité au bout de la jetée | 1028.6                    | 1029.2                    |
+| Température de l'eau  | 12.9                     | 13.0                     |
+| 27 octobre 1902 |                             |                             |
+| Hauteur Barométrique | 771.5                    |                          |
+| Direction du vent    | cr.of.o                  |                          |
+| Force                 | 2 fon                   |                          |
+| Nuébulositè P         | 10                       |                          |
+|   Reg. 0. (terre      |                          |                          |
+|   Reg. 2. (mer        | 10                       |                          |
+| Direction des nuages |                          |                          |
+| Pluie tombée          | "                        |                          |
+| Température de l'air  | 13.5                     |                          |
+| Hauteur de la mer     | 67.2                     |                          |
+| Agitation de l'eau    | 1 fon                   |                          |
+| Densité au bout de la jetée | 1029.2                    |                          |
+| Température de l'eau  | 13.0                     |                          |

@@ -1,0 +1,46 @@
+| **Observations du 1902 16 Mars** |
+| --- |
+| **Nombre de bateaux sortis (pêche à l’____)** |  |
+| **Température de l'air** | maxima depuis la veille | 17.1 |
+|  | minima id. | 8.6 |
+| **Température de l'eau** | maxima depuis la veille |  |
+|  | minima id. |  |
+| **Pluie tombée depuis la veille, en millim.** | " |  |
+| **Evaporation depuis le 1900, en millim.** |  |  |
+| **Direction du vent (à terre)** |  | N.N.O. | N.N.O. |
+| **Force** |  | 4 fort | 3 fort |
+| **Direction des nuages** |  | n.n.o. | n.n.o. |
+| **Nébulosité** | région Ouest (terre) | 2 | 3 |
+|  | id. Est (mer) | 2 | 3 |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro** |  | 134 | 416 |
+| **Agitation de l'eau** |  | 3 faible | 2 fort |
+| **Densité de l'eau au bout de la jetée** |  | 1028.0 | 1027.9 |
+| **Température** | id. Terrain Matin maxima | 21.7 |  |
+|  | minima | 7.7 |  |
+|  | id. Soir maxima | 16.7 |  |
+|  | minima | 10.7 |  |
+
+---
+
+| **Observations du 1902 18 Mars** |
+| --- |
+| **Nombre de bateaux sortis (pêche à l’____)** |  |
+| **Température de l'air** | maxima depuis la veille | 19.3 |
+|  | minima id. | 7.6 |
+| **Température de l'eau** | maxima depuis la veille |  |
+|  | minima id. |  |
+| **Pluie tombée depuis la veille, en millim.** | " |  |
+| **Evaporation depuis le 1900, en millim.** |  |  |
+| **Direction du vent (à terre)** |  | N.N.O. | S.S.O. |
+| **Force** |  | 1 fort | 2 |
+| **Direction des nuages** |  | n.o. | n.o. |
+| **Nébulosité** | région Ouest (terre) | 3 | 10 |
+|  | id. Est (mer) | 4 | 10 |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro** |  | 19.7 |  |
+| **Agitation de l'eau** |  | 1 fort | 1 fort |
+| **Densité de l'eau au bout de la jetée** |  | 1027.9 | 1027.6 |
+| **Température** | id. Balane Soir |  | 17.0 |
+|  | errane Matin maxima | 24.3 |  |
+|  | minima | 12. |  |
+|  | soir maxima |  |  |
+|  | minima |  |  |

@@ -1,0 +1,28 @@
+|  8. 26 Novembre 1904 | Obatin | Soir  |
+| --- | --- | --- |
+|  Hanteur Maronctrique | 760,6 | 7/7. 3  |
+|  Direction du vent | or. 0 | 7.0  |
+|  Force | 3 | 1  |
+|  (Gieburtsite) | 10 | 10  |
+|  (Reg. E. (mer) | 10 | 10  |
+|  Direction des nuages | or. 0 | or. 0  |
+|  (Mme tombe) |  |   |
+|  Température de l'air | 8,3 | 10,3  |
+|  Hanteur de la mer | 40,0 | 1/7.0  |
+|  (Agitation de l'eau) | 3 fort | 1 fort  |
+|  Densité au bout de la jeté | 1029,8 | 1089,0  |
+|  (Dempirative de l'eau) | 111 | 111  |
+|  9. 29 Novembre 1904 | Obatin | Soir  |
+|  Hanteur Maronctrique | 7/8.3 |   |
+|  Direction du vent | or. 0 |   |
+|  Force | 3 fort |   |
+|  (Reg. G. (min)) | 10 |   |
+|  (Gieburtsite) |  |   |
+|  (Reg. E. (min)) | 10 |   |
+|  Direction des nuages | 84 |   |
+|  (Mme tombe) | 3,11 |   |
+|  (Dempirative de l'air) | 6,9 |   |
+|  Hanteur de la mer | 33,1 |   |
+|  (Agitation de l'eau) | 3 fort |   |
+|  Densité au bout de la jeté | 1038,2 |   |
+|  (Dempirative de l'eau) | 11,6 |   |

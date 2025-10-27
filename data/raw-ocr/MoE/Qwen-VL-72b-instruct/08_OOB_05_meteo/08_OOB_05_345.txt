@@ -1,0 +1,30 @@
+| V. 23 Janvier 1908 | Matin | Soir |
+|-------------------|-------|------|
+| Hauteur Barométrique | 772.4 | 770.4 |
+| Direction du Vent | S.S.E | S.S.E |
+| Force | 0 | 1 |
+| Nébulosité | Reg. C. Clère | 0 | 0 |
+| Reg. F. (cour.) | 0 | 0 |
+| Direction des nuages | " | " |
+| Pluie tombée | " | " |
+| Température de l'air | 8.3 | 12.7 |
+| Hauteur de la mer | 52.2 | 61.4 |
+| Agitation de l'eau | 1 faible | 1 faible |
+| Ventité au bout de la jetée | 6.28.0 | 6.27.0 |
+| Température de l'eau | 12.0 | 13.6 |
+| is au quinze | 13.0 |  |
+
+| V. 24 Janvier 1908 | Matin | Soir |
+|-------------------|-------|------|
+| Hauteur Barométrique | 772.8 |  |
+| Direction du Vent | Ouest |  |
+| Force | 15 |  |
+| Nébulosité | Reg. C. Clère | 0 |  |
+| Reg. F. (cour.) | 1 |  |
+| Direction des nuages | " |  |
+| Pluie tombée | " |  |
+| Température de l'air | 7.8 |  |
+| Hauteur de la mer | 59.0 |  |
+| Agitation de l'eau | 1 |  |
+| Ventité au bout de la jetée | 6.27.0 |  |
+| Température de l'eau | 11.2 |  |

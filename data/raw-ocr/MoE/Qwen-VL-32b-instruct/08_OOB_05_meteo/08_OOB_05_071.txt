@@ -1,0 +1,4 @@
+| Date | Matin | Soir |
+|------|-------|------|
+| V. 10 Janvier. 1906 | Hantéur Barométrique: 767.1/""<br>Direction du Vent:<br>Force: i5<br>Rég.o (terre): 10<br>Nébulosité:<br>(Rég.E.(mer)): 10<br>Direction des nuages: Ouest.<br>Pluie tombée: quelques g<br>Température de l'air: 14.0<br>Hauteur de la mer: 47.0<br>Agitation de l'eau: 17.fort<br>Densité au bout de la jetée: 1028.7<br>Température de l'eau: 11./ |  |
+| V. 11 Janvier. 1906 | Hantéur Barométrique: 767.0<br>Direction du vent.: cr. o<br>Force: i5<br>Rég.o (terre): 2<br>Nébulosité:<br>(Rég.E.(mer)): 10<br>Direction des nuages: er.cr.o<br>Pluie tombée: quelques g<br>Température de l'air: 12.7<br>Hauteur de la mer: 41.3<br>Agitation de l'eau: 2 T.fort.<br>Densité au bout de la jetée: 1028.6<br>Température de l'eau: 13.2 |  |

@@ -1,0 +1,16 @@
+# Date: 17 Août 1901
+
+|  Item | Quit. | Price  |
+| --- | --- | --- |
+|  Hauteur Parométrique | 705.6 | 754.8  |
+|  Direction du vent | N.N.O. | 808.8  |
+|  Force | 3 faible | 17 faible  |
+|  Ébulosité | Reg. G. (100%) | 0  |
+|  Ébulosité | Reg. E. (100%) | 0  |
+|  Direction des nuages |  | 0  |
+|  Taux tombée |  | 11  |
+|  Température de l'air | 22.5 | 34.8  |
+|  Hauteur de la moe | 15.1 | 65.9  |
+|  Égitation de l'eau | 17 fort | 3 faible  |
+|  Densité de l'eau | 1027.6 | 1027.5  |
+|  Comprendre de l'eau | 13.6 | 20.8  |

@@ -1,0 +1,29 @@
+```plaintext
+|  V. 8 (Avril. 1904) | Obatin | Soir  |
+| --- | --- | --- |
+|  Hauteur Prazometrique | 767,3 | 766,1  |
+|  Direction du vent | or.0 | or.0  |
+|  Force | 5 | 5  |
+|  Nébulosité | Reg. O. (terre) | 10  |
+|  Nébulosité | Reg. E. (mer) | 10  |
+|  Direction des nuages | or.0 | or.0  |
+|  Pluie tombée |  |   |
+|  Température de l'air | 17,0 | 22,1  |
+|  Hauteur de la mer | 72,2 | 70,0  |
+|  Agitation de l'eau | 2 | 2 fort  |
+|  Densité au bout de la jetée | 1029,1 | 1029,0  |
+|  Température de l'eau | 12,1 | 15,1  |
+|  V. 9 (Avril. 1904) | Obatin | Soir  |
+|  Hauteur Prazometrique | 766,5 |   |
+|  Direction du vent | or.0 |   |
+|  Force | 1,7 |   |
+|  Nébulosité | Reg. O. (terre) | 0  |
+|  Nébulosité | Reg. E. (mer) | 0  |
+|  Direction des nuages |  |   |
+|  Pluie tombée |  |   |
+|  Température de l'air | 18,1 |   |
+|  Hauteur de la mer | 6,0 |   |
+|  Agitation de l'eau |  |   |
+|  Densité au bout de la jetée | 1028,1 |   |
+|  Température de l'eau | 15,6 |   |
+```

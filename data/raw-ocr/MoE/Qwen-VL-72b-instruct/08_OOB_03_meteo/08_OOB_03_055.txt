@@ -1,0 +1,18 @@
+| **Date** | 18 Novembre 1901 |
+|---|---|
+| **9h Matin** | **3h Soir** |
+| **Hauteur Barométrique** | 771.0 | 771.0 |
+| **Direction du vent** | N.N.O | N.N.O |
+| **Force** | 4 (fort) | 2 |
+| **Nébulosité** |   |   |
+| Reg. O. (terre) | 0 | 0 |
+| Reg. E. (mer) | 0 | 0 |
+| **Direction des nuages** | N.N.O | N.N.O |
+| **Pluie tombée** | " | " |
+| **Température de l'air (°C)** | 11.8 | 13.9 |
+| **Hauteur de la mer (m)** | 40.0 | 44.9 |
+| **Agitation de l'eau** | 2 | 2 |
+| **Densité de l'eau** |   |   |
+| Au bout de la jetée | 1027.5 | 1027.4 |
+| Au large |   |   |
+| **Température de l'eau (°C)** | 15.1 | 15.4 |

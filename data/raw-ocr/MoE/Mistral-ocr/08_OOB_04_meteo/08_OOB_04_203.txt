@@ -1,0 +1,82 @@
+# 15 Mours. 1903
+
+|  Nom | Date  |
+| --- | --- |
+|  Yautour Maramédrique | 4/15  |
+|  Direction du vent | or.or.o  |
+|  Force | 3  |
+|  Reg. O. (terre) | 10  |
+|  Pécbutovité |   |
+|  (Reg. E. (mur) | 10  |
+|  Direction des nuages | or. 3  |
+|  Aluie tombée | 1 4mo3/  |
+|  Remplirature de l'air | 10.8  |
+|  Yautour de la mer | 5  |
+|  Régistation de l'eau | 5  |
+|  Densité au bout de la jetée | 5  |
+|  Remplirature de l'eau |   |
+
+# 19 Mours. 1903
+
+|  Nom | Date  |
+| --- | --- |
+|  Yautour Maramédrique | 4/19  |
+|  Direction du vent | 1  |
+|  Force | 10  |
+|  Reg. O. (terre) | 10 2/20  |
+|  Pécbutovité |   |
+|  (Reg. E. (mur) | 10 2/21  |
+|  Direction des nuages | or.or.o  |
+|  Aluie tombée | 1  |
+|  Remplirature de l'air | 11.4  |
+|  Yautour de la mer | 14.6  |
+|  Régistation de l'eau | 1  |
+|  Densité au bout de la jetée | 10 2/3.4  |
+|  Remplirature de l'eau | 10.8  |
+
+# 20
+
+|  Nom | Date  |
+| --- | --- |
+|  Matin | 2011  |
+|  Soir |   |
+|  4/10 |   |
+|  10 |   |
+|  10 |   |
+|  10 |   |
+|  or.or.o |   |
+|  or. 3 |   |
+|  18.1 |   |
+|  18.1 |   |
+|  1.6 |   |
+|  1.8 |   |
+|  1.8 |   |
+|  1.8 |   |
+|  1.8 |   |
+|  1.8 |   |
+|  1.8 |   |
+|  1.8 |   |
+|  1.8 |   |
+|  1.8 |   |
+|  1.8 |   |
+|  1.8 |   |
+|  1.8 |   |
+|  1.8 |   |
+|  1.8 |   |
+|  1.8 |   |
+|  1.8 |   |
+|  1.8 |   |
+|  1.8 |   |
+|  1.8 |   |
+|  1.8 |   |
+|  1.8 |   |
+|  1.8 |   |
+|  1.8 |   |
+|  1.8 |   |
+|  1.8 |   |
+|  1.8 |   |
+|  1.8 |   |
+|  1.8 |   |
+|  1.8 |   |
+|  1.8 |   |
+|  1.8 |   |

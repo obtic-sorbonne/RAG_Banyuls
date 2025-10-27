@@ -1,0 +1,27 @@
+|  V. 3 Croût. 1906 | Mbatin | Brix  |
+| --- | --- | --- |
+|  Ajoutere Prouvantrique | 767.0 | 767.7  |
+|  Direction du rent | 2.8 | cr. 3  |
+|  Force | 1, faible | 1, faible  |
+|  Mébulonte | 0 | 10  |
+|  (Reg. E.-cmur) |  |   |
+|  Direction des mages |  | 1.0  |
+|  Flue tombe |  |   |
+|  Remplirative de l'air | 26.2 | 20.8  |
+|  Ajouter de la mer | 48.9 | 47.2  |
+|  Oligitation de l'eau | 1, faible | 1  |
+|  Densité au bout de la jetée | 1627.2 | 1626.1  |
+|  Remplirative de l'eau | 22.7 | 23.6  |
+|  V. 4 Croût. 1906 | Mbatin | Brix  |
+|  Ajoutere Prouvantrique | 767.8 | 767.2  |
+|  Direction du rent | crone | crone  |
+|  Force | 2 | 1, fort  |
+|  Mébulonte | 1 | 0  |
+|  (Reg. E.-cmur) |  |   |
+|  Direction des mages |  | 84  |
+|  Flue tombe |  |   |
+|  Remplirative de l'air | 28.0 | 32.3  |
+|  Ajoutere de la mer | 12.9 | 12.3  |
+|  Oligitation de l'eau | 1 | 1  |
+|  Densité au bout de la jetée | 1627.3 | 1627.3  |
+|  Remplirative de l'eau | 23.3 | 24.3  |

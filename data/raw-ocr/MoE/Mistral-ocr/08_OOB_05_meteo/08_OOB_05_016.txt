@@ -1,0 +1,28 @@
+|  V. f (Avoir - 190) | Moatin | Joir  |
+| --- | --- | --- |
+|  Hauteur Marométrique |  | 754.6  |
+|  Direction du vent |  | 7.0  |
+|  Force | 15 | 4 fois  |
+|  Nebbutivité | (Reg. 2. (min) | 10  |
+|  Direction des nuages |  | 0.0  |
+|  Thie tombée |  | 28.7  |
+|  Température de l'air |  | 36.1  |
+|  Hauteur de la mer |  | 3  |
+|  Débitation de l'eau |  | 3  |
+|  Sécurité au bout de la jetée |  | 1026.4  |
+|  Température de l'eau |  | 23.6  |
+
+|  V. f (Avoir - 190) | Moatin | Joir  |
+| --- | --- | --- |
+|  Hauteur Marométrique | 758.0 | 766.1  |
+|  Direction du vent | ex. 8 | 1. 2. 8  |
+|  Force | 1 fois | 3  |
+|  Nebbutivité | (Reg. 2. (min) | 3  |
+|  Débitation de l'eau |  | 0.0  |
+|  Thie tempête |  | 1.0  |
+|  Thie tempête |  | 28.8  |
+|  Température de l'air | 28.1 | 36.8  |
+|  Hauteur de la mer | 62.8 | 15.1  |
+|  Débitation de l'eau | 1 | 1 fois  |
+|  Sécurité au bout de la jetée | 1026.6 | 1026.4  |
+|  Température de l'eau | 23.8 | 21.2  |

@@ -1,0 +1,6 @@
+| Date       | Heure  | Hauteur Barométrique | Direction du vent | Force | Rég. 6. (clairs) | Nébulosité (Rég. 2. (nués)) | Direction des nuages | Pluie Tombée | Température de l'air | Hauteur de la mer | Agitation de l'eau | Densité au bout de la jetée | Température de l'eau |
+|------------|--------|---------------------|-------------------|-------|------------------|---------------------------|--------------------|-------------|----------------------|-------------------|--------------------|--------------------------|-----------------------|
+| 26 Octobre 1908 | Matin | 776.4 | SUD | 15 | - | 10 | SUD | 30.0 | 18.3 | 18.7 | 4. T. Foul | 1028.3 | 17.7 |
+|  | Soir | 776.4 | - | 1. T. Faible | 10 | - | SUD | - | 18.7 | 18.3 | 4. T. Foul | 1028.3 | 17.7 |
+| 27 Octobre 1908 | Matin | 775.3 | SUD | 15 | 9 | 10 | SUD | - | 18.3 | 26.6 | 3 | 1028.6 | 19.4 |
+|  | Soir | 775.3 | - | 2 | 10 | 10 | SSD | - | 18.3 | 26.6 | 3 | 1028.6 | 19.4 |

@@ -1,0 +1,16 @@
+# Date 23 Février 1901
+
+|  |   |   |
+| --- | --- | --- |
+|  Hanteur Barométrique | 9" Matin 3". Soir |   |
+|  Direction du vent | 763,3 | 761,7  |
+|  Force | Nore | Nore  |
+|  Nécrôlssité | Reg. U. (terre) | 10  |
+|  Nécrôlssité | Reg. E. (mer) | 10  |
+|  Direction des nuages | Bot. | "  |
+|  Mise tombée |  |   |
+|  Température de l'air | 5,1 | 8,7  |
+|  Hanteur de la mer | 37,5 | 55,5  |
+|  Dépilation de l'eau | 6 | 5,22%  |
+|  Densité de l'eau | au bout de la jetée |   |
+|  Temperature de l'eau | 10,5 | 10,6  |

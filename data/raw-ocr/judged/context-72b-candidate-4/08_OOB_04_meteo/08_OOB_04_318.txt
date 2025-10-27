@@ -1,0 +1,31 @@
+```plaintext
+| Date           | Matin         | Soir         |
+|----------------|---------------|--------------|
+| **23 Octobre 1903** |               |              |
+| Hauteur Barométrique | 762,4 |mmHg        | 759,3 |mmHg        |
+| Direction du vent | Ouest        | Sud-Est     |
+| Force           | 15            | 1 Fort      |
+| Nébulosité (Reg. O. (terre)) | 2         | 10         |
+| Nébulosité (Reg. E. (mer)) | 1         | 10         |
+| Direction des nuages | S. O.        | S. O.       |
+| Pluie tombée    |               |              |
+| Température de l'air | 9,9 |°C        | 12,3 |°C       |
+| Hauteur de la mer | 30,6 |m        | 38,9 |m       |
+| Agitation de l'eau | 1 Fort      | Fort       |
+| Densité au bout de la jetée | 1026,8 |kg/m³ | 1028,2 |kg/m³     |
+| Température de l'eau | 12,2 |°C        | 12,3 |°C        |
+
+| **24 Octobre 1903** |               |              |
+| Hauteur Barométrique | 757,6 |mmHg        | 758,4 |mmHg        |
+| Direction du vent | Ouest        | Sud-Ouest    |
+| Force           | 15            | 1 Fort      |
+| Nébulosité (Reg. O. (terre)) | 10        | 10         |
+| Nébulosité (Reg. E. (mer)) | 10        | 10         |
+| Direction des nuages |               | Sud-Ouest    |
+| Pluie tombée    | 6,0 |mm          | 4,62 |mm        |
+| Température de l'air | 9,7 |°C        | 8,9 |°C        |
+| Hauteur de la mer | -          | -           |
+| Agitation de l'eau | 6          | - Fort    |
+| Densité au bout de la jetée | -          | -           |
+| Température de l'eau | -          | -           |
+```

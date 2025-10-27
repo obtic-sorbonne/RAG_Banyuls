@@ -1,0 +1,31 @@
+```
+V. 21 Juillet. 1902 | Matin | Soir  |
+| --- | --- | --- |
+|  Hauteur Barométrique | 201.6 |  |
+|  Direction du vent | or.0.0 |  |
+|  Force | 8 faib. |  |
+|  Nébulosité | Reg. O. (terre) | 10  |
+|  | Reg. E. (mer) | 10  |
+|  Direction des nuages | or.0.0 |  |
+|  Pluie tombée | 16, 2/0 |  |
+|  Température de l'air | 20,1 |  |
+|  Hauteur de la mer | 11,1 |  |
+|  Agitation de l'eau | 2 fort |  |
+|  Densité au bout de la jetée | 1026,2 |  |
+|  Température de l'eau | 20,2 |  |
+
+V. 22 Juillet. 1902 | Matin | Soir  |
+| --- | --- | --- |
+|  Hauteur Barométrique | 266,3 | 266,2  |
+|  Direction du vent | or.0.0 |  |
+|  Force | 2 | 1  |
+|  Nébulosité | Reg. O. (terre) | 10  |
+|  | Reg. E. (mer) | 10  |
+|  Direction des nuages | or.0.0 | or.0.0  |
+|  Pluie tombée |  |  |
+|  Température de l'air | 20,1 | 28,1  |
+|  Hauteur de la mer | 13,2 | 60,8  |
+|  Agitation de l'eau | 1 faib. | 0  |
+|  Densité au bout de la jetée | 1026,3 | 1026,4  |
+|  Température de l'eau | 20,4 | 21,4  |
+```

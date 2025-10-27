@@ -1,0 +1,35 @@
+```markdown
+# 2 DÉCEMBRE 1902
+
+| **Date**         | **Matin** | **Soir** |
+|------------------|----------|----------|
+| **Hauteur Barométrique** | 769.0 | 769.0 |
+| **Direction du vent** | Est-Sud-Est | Est-Sud-Est |
+| **Force** | 1 | 1 |
+| **Reg. chron.** | 10 | 10 |
+| **Nébulosité** | 10 | 10 |
+| **Direction des nuages** | Sud-Ouest | Sud-Ouest |
+| **Pluie tombée** | 7.72 mm | - |
+| **Température de l'air** | 14.0 | 14.0 |
+| **Hauteur de la mer** | 36.7 cm | 38.0 cm |
+| **Agitation de l'eau** | 2 faible | 2 faible |
+| **Densité au bout de la jetée** | 1027.6 | 1027.7 |
+| **Température de l'eau** | 16.6 | 16.6 |
+
+# 3 DÉCEMBRE 1902
+
+| **Date**         | **Matin** | **Soir** |
+|------------------|----------|----------|
+| **Hauteur barométrique** | 762.8 | 767.8 |
+| **Direction du vent** | Sud-Ouest | Sud-Ouest |
+| **Force** | 1 | 6 |
+| **Reg. chron.** | 10 | 10 |
+| **Nébulosité** | 10 | 10 |
+| **Direction des nuages** | Ouest | Sud-Ouest |
+| **Pluie tombée** | - | quelques g |
+| **Température de l'air** | 11.2 | 10.9 |
+| **Hauteur de la mer** | 29.3 | 30.2 |
+| **Agitation de l'eau** | 1 faible | 1 fort |
+| **Densité au bout de la jetée** | 1027.1 | 1027.1 |
+| **Température de l'eau** | 17.6 | 17.0 |
+```

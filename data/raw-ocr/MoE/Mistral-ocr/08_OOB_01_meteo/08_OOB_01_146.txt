@@ -1,0 +1,17 @@
+# Date. 19 Décembre. 1900.
+
+|  9e Matin | 3e Soir  |
+| --- | --- |
+|  776,9 | 770,9  |
+|  10% | 10%  |
+|  1 | 1  |
+|  0 | 0  |
+|  0 | 0  |
+|  1,0 | 11,9  |
+|  58,4 | 58,4  |
+|  102,8 | 1028,8  |
+|  18,7 | 18,7  |
+
+Sauteur Marométrique Direction du vent Force ... is Tributosité Reg. E. (mix) Direction des nuages Pinc tombé Température de l'air
+
+Sauteur de la mer Tgitation de l'eau Sensité de l'eau au large Température de l'eau

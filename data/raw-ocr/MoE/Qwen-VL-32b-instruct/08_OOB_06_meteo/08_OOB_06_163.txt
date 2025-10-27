@@ -1,0 +1,52 @@
+| Observations du 1901/06/07 |
+| --- |
+| **Nombre de bateaux sortis (pêche à l'ancien)** | 2 |
+| **Température de l'air** |  |
+|     maxima depuis la veille | 34.7 |
+|     minima id. | 14.7 |
+| **Température de l'eau** |  |
+|     maxima depuis la veille |  |
+|     minima id. |  |
+| **Pluie tombée depuis la veille, en millimètres** |  |
+| **Evaporation depuis le 19/XX/XXXX, en millimètres** |  |
+| **Direction du vent (à terre)** | E.N.E |
+| **Force du vent** | 1 (faible) |
+| **Direction des nuages** |  |
+| **Nébulosité** |  |
+|     région Ouest (terre) | 0 |
+|     id. Est (mer) | 0 |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.)** | 86.0 |
+| **Agitation de l'eau** | 1 |
+| **Densité de l'eau au bout de la jetée** | 629.9 |
+| **Température de l'eau** |  |
+|     Balano- | 31.8 |
+|     Terrasse Matin | 34.0 |
+|     Terrasse Soir | 14.3 |
+|
+| Observations du 1901/06/08 |
+| **Nombre de bateaux sortis (pêche à l'ancien)** | 2 |
+| **Température de l'air** |  |
+|     maxima depuis la veille | 33.8 |
+|     minima id. | 14.2 |
+| **Température de l'eau** |  |
+|     maxima depuis la veille |  |
+|     minima id. |  |
+| **Pluie tombée depuis la veille, en millimètres** |  |
+| **Evaporation depuis le 1901/05/24, en millimètres** | 26.7 |
+| **Direction du vent (à terre) - 9 h.m.** | S.S.E |
+| **Direction du vent (à terre) - 3 h.s.** | S.P.E |
+| **Force du vent - 9 h.m.** | 2 |
+| **Force du vent - 3 h.s.** | 1 (faible) |
+| **Direction des nuages** |  |
+| **Nébulosité** |  |
+|     région Ouest (terre) - 9 h.m. | 0 |
+|     région Ouest (terre) - 3 h.s. | 2 |
+|     id. Est (mer) - 9 h.m. | 0 |
+|     id. Est (mer) - 3 h.s. | 2 |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.)** | 48.0 (9 h.m.), 33.9 (3 h.s.) |
+| **Agitation de l'eau** | 1 (9 h.m.), 1 (3 h.s.) |
+| **Densité de l'eau au bout de la jetée** | 1029.6 (9 h.m.), 1029.8 (3 h.s.) |
+| **Température de l'eau** |  |
+|     Balano- | 18.6 (9 h.m.), 23.3 (3 h.s.) |
+|     Terrasse Matin | 33.0 (9 h.m.), 31.0 (3 h.s.) |
+|     Terrasse Soir | 14.8 (9 h.m.), 35.7 (3 h.s.) |

@@ -1,0 +1,18 @@
+| **Date**          | **29 juin 1901** |
+|-------------------|------------------|
+| **9h Matin**      | **3h Soir**      |
+| **Hauteur Barométrique** | 766,3 | 764,4 |
+| **Direction du vent** | S.S.E | S.S. |
+| **Force**          | 1     | 2     |
+| **Nébulosité**      |       |       |
+| Reg. 6. (loire)   | 10    | 10    |
+| Reg. E. (mer)     | 10    | 10    |
+| **Direction des nuages** | S.S.E | Nors |
+| **Pluie tombée**       | quelques g. | quelques g. |
+| **Température de l'air** | 18,5 | 27,3 |
+| **Hauteur de la mer** | 58,4 | 49,2 |
+| **Agitation de l'eau** | 17. faible | 16. fort. |
+| **Densité de l'eau**     |       |       |
+| au bout de la jetée | 1027,6 | 1027,8 |
+| au large          |       |       |
+| **Température de l'eau** | 19,4 | 19,6 |

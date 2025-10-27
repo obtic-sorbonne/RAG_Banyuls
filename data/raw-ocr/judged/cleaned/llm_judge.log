@@ -1,0 +1,5496 @@
+2025-09-01 14:36:34,733 - INFO - Initialized LLM Judge with model: qwen2.5-72b-instruct
+2025-09-04 11:40:31,782 - INFO - Initialized LLM Judge with model: qwen2.5-72b-instruct
+2025-09-04 11:40:31,782 - INFO - Processing book: 05_OOB_06_log | Type: log
+2025-09-04 11:40:33,520 - ERROR - API error: Access denied, please make sure your account is in good standing.
+2025-09-04 11:40:35,091 - ERROR - API error: Access denied, please make sure your account is in good standing.
+2025-09-04 11:40:36,660 - ERROR - API error: Access denied, please make sure your account is in good standing.
+2025-09-04 11:40:38,232 - ERROR - API error: Access denied, please make sure your account is in good standing.
+2025-09-04 11:40:39,804 - ERROR - API error: Access denied, please make sure your account is in good standing.
+2025-09-04 11:40:39,805 - ERROR - Failed to get judgment for page 05_OOB_06_001
+2025-09-04 11:40:40,329 - ERROR - API error: Access denied, please make sure your account is in good standing.
+2025-09-04 11:40:41,903 - ERROR - API error: Access denied, please make sure your account is in good standing.
+2025-09-04 11:40:43,480 - ERROR - API error: Access denied, please make sure your account is in good standing.
+2025-09-04 11:40:45,040 - ERROR - API error: Access denied, please make sure your account is in good standing.
+2025-09-04 11:40:46,629 - ERROR - API error: Access denied, please make sure your account is in good standing.
+2025-09-04 11:40:46,629 - ERROR - Failed to get judgment for page 05_OOB_06_002
+2025-09-04 11:40:47,157 - ERROR - API error: Access denied, please make sure your account is in good standing.
+2025-09-04 11:40:48,717 - ERROR - API error: Access denied, please make sure your account is in good standing.
+2025-09-04 11:40:50,286 - ERROR - API error: Access denied, please make sure your account is in good standing.
+2025-09-04 11:40:51,861 - ERROR - API error: Access denied, please make sure your account is in good standing.
+2025-09-04 11:40:53,437 - ERROR - API error: Access denied, please make sure your account is in good standing.
+2025-09-04 11:40:53,437 - ERROR - Failed to get judgment for page 05_OOB_06_003
+2025-09-04 11:40:53,971 - ERROR - API error: Access denied, please make sure your account is in good standing.
+2025-09-04 11:40:55,534 - ERROR - API error: Access denied, please make sure your account is in good standing.
+2025-09-04 11:40:57,109 - ERROR - API error: Access denied, please make sure your account is in good standing.
+2025-09-04 11:40:58,708 - ERROR - API error: Access denied, please make sure your account is in good standing.
+2025-09-04 11:41:00,275 - ERROR - API error: Access denied, please make sure your account is in good standing.
+2025-09-04 11:41:00,276 - ERROR - Failed to get judgment for page 05_OOB_06_004
+2025-09-04 11:41:00,988 - ERROR - API error: Access denied, please make sure your account is in good standing.
+2025-09-04 11:41:02,525 - ERROR - API error: Access denied, please make sure your account is in good standing.
+2025-09-04 11:41:04,093 - ERROR - API error: Access denied, please make sure your account is in good standing.
+2025-09-04 11:41:05,699 - ERROR - API error: Access denied, please make sure your account is in good standing.
+2025-09-04 11:41:07,240 - ERROR - API error: Access denied, please make sure your account is in good standing.
+2025-09-04 11:41:07,241 - ERROR - Failed to get judgment for page 05_OOB_06_005
+2025-09-04 11:41:07,762 - ERROR - API error: Access denied, please make sure your account is in good standing.
+2025-09-04 11:41:09,335 - ERROR - API error: Access denied, please make sure your account is in good standing.
+2025-09-04 11:41:10,910 - ERROR - API error: Access denied, please make sure your account is in good standing.
+2025-09-04 11:41:12,480 - ERROR - API error: Access denied, please make sure your account is in good standing.
+2025-09-04 11:41:14,046 - ERROR - API error: Access denied, please make sure your account is in good standing.
+2025-09-04 11:41:14,047 - ERROR - Failed to get judgment for page 05_OOB_06_006
+2025-09-04 11:41:14,580 - ERROR - API error: Access denied, please make sure your account is in good standing.
+2025-09-04 11:41:16,155 - ERROR - API error: Access denied, please make sure your account is in good standing.
+2025-09-04 11:41:17,730 - ERROR - API error: Access denied, please make sure your account is in good standing.
+2025-09-04 11:41:19,304 - ERROR - API error: Access denied, please make sure your account is in good standing.
+2025-09-04 11:41:20,868 - ERROR - API error: Access denied, please make sure your account is in good standing.
+2025-09-04 11:41:20,868 - ERROR - Failed to get judgment for page 05_OOB_06_007
+2025-09-04 11:41:21,391 - ERROR - API error: Access denied, please make sure your account is in good standing.
+2025-09-04 11:41:22,970 - ERROR - API error: Access denied, please make sure your account is in good standing.
+2025-09-04 11:41:24,531 - ERROR - API error: Access denied, please make sure your account is in good standing.
+2025-09-04 11:41:26,113 - ERROR - API error: Access denied, please make sure your account is in good standing.
+2025-09-04 11:41:27,722 - ERROR - API error: Access denied, please make sure your account is in good standing.
+2025-09-04 11:41:27,723 - ERROR - Failed to get judgment for page 05_OOB_06_008
+2025-09-04 11:41:28,237 - ERROR - API error: Access denied, please make sure your account is in good standing.
+2025-09-04 11:41:29,786 - ERROR - API error: Access denied, please make sure your account is in good standing.
+2025-09-04 11:41:31,373 - ERROR - API error: Access denied, please make sure your account is in good standing.
+2025-09-04 11:41:32,921 - ERROR - API error: Access denied, please make sure your account is in good standing.
+2025-09-04 11:41:34,501 - ERROR - API error: Access denied, please make sure your account is in good standing.
+2025-09-04 11:41:34,501 - ERROR - Failed to get judgment for page 05_OOB_06_009
+2025-09-04 11:41:35,024 - ERROR - API error: Access denied, please make sure your account is in good standing.
+2025-09-04 11:41:36,554 - ERROR - API error: Access denied, please make sure your account is in good standing.
+2025-09-04 11:41:38,075 - ERROR - API error: Access denied, please make sure your account is in good standing.
+2025-09-04 11:41:39,592 - ERROR - API error: Access denied, please make sure your account is in good standing.
+2025-09-04 11:41:41,135 - ERROR - API error: Access denied, please make sure your account is in good standing.
+2025-09-04 11:41:41,136 - ERROR - Failed to get judgment for page 05_OOB_06_010
+2025-09-04 11:41:41,650 - ERROR - API error: Access denied, please make sure your account is in good standing.
+2025-09-04 11:41:43,177 - ERROR - API error: Access denied, please make sure your account is in good standing.
+2025-09-04 11:41:44,702 - ERROR - API error: Access denied, please make sure your account is in good standing.
+2025-09-04 11:41:46,230 - ERROR - API error: Access denied, please make sure your account is in good standing.
+2025-09-04 11:41:47,753 - ERROR - API error: Access denied, please make sure your account is in good standing.
+2025-09-04 11:41:47,754 - ERROR - Failed to get judgment for page 05_OOB_06_011
+2025-09-04 11:41:48,264 - ERROR - API error: Access denied, please make sure your account is in good standing.
+2025-09-04 11:41:49,777 - ERROR - API error: Access denied, please make sure your account is in good standing.
+2025-09-04 11:41:51,296 - ERROR - API error: Access denied, please make sure your account is in good standing.
+2025-09-04 11:41:52,823 - ERROR - API error: Access denied, please make sure your account is in good standing.
+2025-09-04 11:41:54,374 - ERROR - API error: Access denied, please make sure your account is in good standing.
+2025-09-04 11:41:54,374 - ERROR - Failed to get judgment for page 05_OOB_06_012
+2025-09-04 11:41:54,884 - ERROR - API error: Access denied, please make sure your account is in good standing.
+2025-09-04 11:41:56,410 - ERROR - API error: Access denied, please make sure your account is in good standing.
+2025-09-04 11:41:57,938 - ERROR - API error: Access denied, please make sure your account is in good standing.
+2025-09-04 11:41:59,475 - ERROR - API error: Access denied, please make sure your account is in good standing.
+2025-09-04 11:42:01,022 - ERROR - API error: Access denied, please make sure your account is in good standing.
+2025-09-04 11:42:01,023 - ERROR - Failed to get judgment for page 05_OOB_06_013
+2025-09-04 11:42:01,537 - ERROR - API error: Access denied, please make sure your account is in good standing.
+2025-09-04 11:42:04,163 - ERROR - API error: Access denied, please make sure your account is in good standing.
+2025-09-04 11:42:05,684 - ERROR - API error: Access denied, please make sure your account is in good standing.
+2025-09-04 11:42:07,225 - ERROR - API error: Access denied, please make sure your account is in good standing.
+2025-09-04 11:42:08,746 - ERROR - API error: Access denied, please make sure your account is in good standing.
+2025-09-04 11:42:08,746 - ERROR - Failed to get judgment for page 05_OOB_06_014
+2025-09-04 11:42:09,275 - ERROR - API error: Access denied, please make sure your account is in good standing.
+2025-09-04 11:42:11,838 - ERROR - API error: Access denied, please make sure your account is in good standing.
+2025-09-04 11:42:13,365 - ERROR - API error: Access denied, please make sure your account is in good standing.
+2025-09-04 11:42:14,904 - ERROR - API error: Access denied, please make sure your account is in good standing.
+2025-09-04 11:42:16,447 - ERROR - API error: Access denied, please make sure your account is in good standing.
+2025-09-04 11:42:16,448 - ERROR - Failed to get judgment for page 05_OOB_06_015
+2025-09-04 11:42:16,956 - ERROR - API error: Access denied, please make sure your account is in good standing.
+2025-09-04 11:42:19,475 - ERROR - API error: Access denied, please make sure your account is in good standing.
+2025-09-04 11:42:21,004 - ERROR - API error: Access denied, please make sure your account is in good standing.
+2025-09-04 11:42:22,545 - ERROR - API error: Access denied, please make sure your account is in good standing.
+2025-09-04 11:42:24,109 - ERROR - API error: Access denied, please make sure your account is in good standing.
+2025-09-04 11:42:24,109 - ERROR - Failed to get judgment for page 05_OOB_06_016
+2025-09-04 11:42:24,668 - ERROR - API error: Access denied, please make sure your account is in good standing.
+2025-09-04 11:42:26,206 - ERROR - API error: Access denied, please make sure your account is in good standing.
+2025-09-04 11:42:27,785 - ERROR - API error: Access denied, please make sure your account is in good standing.
+2025-09-04 11:42:30,328 - ERROR - API error: Access denied, please make sure your account is in good standing.
+2025-09-04 11:42:31,839 - ERROR - API error: Access denied, please make sure your account is in good standing.
+2025-09-04 11:42:31,840 - ERROR - Failed to get judgment for page 05_OOB_06_017
+2025-09-04 11:42:32,365 - ERROR - API error: Access denied, please make sure your account is in good standing.
+2025-09-04 11:42:33,889 - ERROR - API error: Access denied, please make sure your account is in good standing.
+2025-09-04 11:42:35,526 - ERROR - API error: Access denied, please make sure your account is in good standing.
+2025-09-04 11:42:37,049 - ERROR - API error: Access denied, please make sure your account is in good standing.
+2025-09-04 11:42:38,563 - ERROR - API error: Access denied, please make sure your account is in good standing.
+2025-09-04 11:42:38,564 - ERROR - Failed to get judgment for page 05_OOB_06_018
+2025-09-04 11:42:39,085 - ERROR - API error: Access denied, please make sure your account is in good standing.
+2025-09-04 11:42:40,617 - ERROR - API error: Access denied, please make sure your account is in good standing.
+2025-09-04 11:42:42,160 - ERROR - API error: Access denied, please make sure your account is in good standing.
+2025-09-04 11:42:44,160 - ERROR - API error: Access denied, please make sure your account is in good standing.
+2025-09-04 11:42:45,686 - ERROR - API error: Access denied, please make sure your account is in good standing.
+2025-09-04 11:42:45,686 - ERROR - Failed to get judgment for page 05_OOB_06_019
+2025-09-04 11:42:46,194 - ERROR - API error: Access denied, please make sure your account is in good standing.
+2025-09-04 11:42:47,729 - ERROR - API error: Access denied, please make sure your account is in good standing.
+2025-09-04 11:42:49,255 - ERROR - API error: Access denied, please make sure your account is in good standing.
+2025-09-04 11:42:50,798 - ERROR - API error: Access denied, please make sure your account is in good standing.
+2025-09-04 11:42:52,325 - ERROR - API error: Access denied, please make sure your account is in good standing.
+2025-09-04 11:42:52,326 - ERROR - Failed to get judgment for page 05_OOB_06_020
+2025-09-04 11:42:52,851 - ERROR - API error: Access denied, please make sure your account is in good standing.
+2025-09-04 11:42:54,385 - ERROR - API error: Access denied, please make sure your account is in good standing.
+2025-09-04 11:42:55,913 - ERROR - API error: Access denied, please make sure your account is in good standing.
+2025-09-04 11:42:57,473 - ERROR - API error: Access denied, please make sure your account is in good standing.
+2025-09-04 11:42:59,000 - ERROR - API error: Access denied, please make sure your account is in good standing.
+2025-09-04 11:42:59,001 - ERROR - Failed to get judgment for page 05_OOB_06_021
+2025-09-04 11:42:59,522 - ERROR - API error: Access denied, please make sure your account is in good standing.
+2025-09-04 11:43:01,044 - ERROR - API error: Access denied, please make sure your account is in good standing.
+2025-09-04 11:43:02,585 - ERROR - API error: Access denied, please make sure your account is in good standing.
+2025-09-04 11:43:04,113 - ERROR - API error: Access denied, please make sure your account is in good standing.
+2025-09-04 11:43:05,648 - ERROR - API error: Access denied, please make sure your account is in good standing.
+2025-09-04 11:43:05,649 - ERROR - Failed to get judgment for page 05_OOB_06_022
+2025-09-04 11:43:06,169 - ERROR - API error: Access denied, please make sure your account is in good standing.
+2025-09-04 11:43:07,704 - ERROR - API error: Access denied, please make sure your account is in good standing.
+2025-09-04 11:43:09,233 - ERROR - API error: Access denied, please make sure your account is in good standing.
+2025-09-04 11:43:10,753 - ERROR - API error: Access denied, please make sure your account is in good standing.
+2025-09-04 11:43:12,323 - ERROR - API error: Access denied, please make sure your account is in good standing.
+2025-09-04 11:43:12,323 - ERROR - Failed to get judgment for page 05_OOB_06_023
+2025-09-04 11:43:12,850 - ERROR - API error: Access denied, please make sure your account is in good standing.
+2025-09-04 11:43:14,367 - ERROR - API error: Access denied, please make sure your account is in good standing.
+2025-09-04 11:43:15,904 - ERROR - API error: Access denied, please make sure your account is in good standing.
+2025-09-04 11:43:17,418 - ERROR - API error: Access denied, please make sure your account is in good standing.
+2025-09-04 11:43:18,954 - ERROR - API error: Access denied, please make sure your account is in good standing.
+2025-09-04 11:43:18,956 - ERROR - Failed to get judgment for page 05_OOB_06_024
+2025-09-04 11:43:19,509 - ERROR - API error: Access denied, please make sure your account is in good standing.
+2025-09-04 11:43:22,303 - ERROR - API error: Access denied, please make sure your account is in good standing.
+2025-09-04 11:43:23,819 - ERROR - API error: Access denied, please make sure your account is in good standing.
+2025-09-04 11:43:25,375 - ERROR - API error: Access denied, please make sure your account is in good standing.
+2025-09-04 11:43:26,902 - ERROR - API error: Access denied, please make sure your account is in good standing.
+2025-09-04 11:43:26,903 - ERROR - Failed to get judgment for page 05_OOB_06_025
+2025-09-04 11:43:27,424 - ERROR - API error: Access denied, please make sure your account is in good standing.
+2025-09-04 11:43:28,953 - ERROR - API error: Access denied, please make sure your account is in good standing.
+2025-09-04 11:43:30,480 - ERROR - API error: Access denied, please make sure your account is in good standing.
+2025-09-04 11:43:32,000 - ERROR - API error: Access denied, please make sure your account is in good standing.
+2025-09-04 11:43:33,556 - ERROR - API error: Access denied, please make sure your account is in good standing.
+2025-09-04 11:43:33,557 - ERROR - Failed to get judgment for page 05_OOB_06_026
+2025-09-04 11:43:34,282 - ERROR - API error: Access denied, please make sure your account is in good standing.
+2025-09-04 11:43:35,804 - ERROR - API error: Access denied, please make sure your account is in good standing.
+2025-09-04 11:43:37,332 - ERROR - API error: Access denied, please make sure your account is in good standing.
+2025-09-04 11:43:38,856 - ERROR - API error: Access denied, please make sure your account is in good standing.
+2025-09-04 11:43:40,375 - ERROR - API error: Access denied, please make sure your account is in good standing.
+2025-09-04 11:43:40,375 - ERROR - Failed to get judgment for page 05_OOB_06_027
+2025-09-04 11:43:40,882 - ERROR - API error: Access denied, please make sure your account is in good standing.
+2025-09-04 11:43:42,882 - ERROR - API error: Access denied, please make sure your account is in good standing.
+2025-09-04 11:43:44,412 - ERROR - API error: Access denied, please make sure your account is in good standing.
+2025-09-04 11:43:45,945 - ERROR - API error: Access denied, please make sure your account is in good standing.
+2025-09-04 11:43:47,470 - ERROR - API error: Access denied, please make sure your account is in good standing.
+2025-09-04 11:43:47,470 - ERROR - Failed to get judgment for page 05_OOB_06_028
+2025-09-04 11:43:47,989 - ERROR - API error: Access denied, please make sure your account is in good standing.
+2025-09-04 11:43:49,522 - ERROR - API error: Access denied, please make sure your account is in good standing.
+2025-09-04 11:43:51,155 - ERROR - API error: Access denied, please make sure your account is in good standing.
+2025-09-04 11:43:52,682 - ERROR - API error: Access denied, please make sure your account is in good standing.
+2025-09-04 11:43:54,207 - ERROR - API error: Access denied, please make sure your account is in good standing.
+2025-09-04 11:43:54,208 - ERROR - Failed to get judgment for page 05_OOB_06_029
+2025-09-04 11:43:54,724 - ERROR - API error: Access denied, please make sure your account is in good standing.
+2025-09-04 11:43:56,245 - ERROR - API error: Access denied, please make sure your account is in good standing.
+2025-09-04 11:43:57,776 - ERROR - API error: Access denied, please make sure your account is in good standing.
+2025-09-04 11:43:59,318 - ERROR - API error: Access denied, please make sure your account is in good standing.
+2025-09-04 11:44:00,834 - ERROR - API error: Access denied, please make sure your account is in good standing.
+2025-09-04 11:44:00,834 - ERROR - Failed to get judgment for page 05_OOB_06_030
+2025-09-04 11:44:01,357 - ERROR - API error: Access denied, please make sure your account is in good standing.
+2025-09-04 11:44:02,867 - ERROR - API error: Access denied, please make sure your account is in good standing.
+2025-09-04 11:44:04,397 - ERROR - API error: Access denied, please make sure your account is in good standing.
+2025-09-04 11:44:05,923 - ERROR - API error: Access denied, please make sure your account is in good standing.
+2025-09-04 11:44:07,445 - ERROR - API error: Access denied, please make sure your account is in good standing.
+2025-09-04 11:44:07,446 - ERROR - Failed to get judgment for page 05_OOB_06_031
+2025-09-04 11:44:07,991 - ERROR - API error: Access denied, please make sure your account is in good standing.
+2025-09-04 11:44:09,511 - ERROR - API error: Access denied, please make sure your account is in good standing.
+2025-09-04 11:44:11,041 - ERROR - API error: Access denied, please make sure your account is in good standing.
+2025-09-04 11:44:12,586 - ERROR - API error: Access denied, please make sure your account is in good standing.
+2025-09-04 11:44:14,128 - ERROR - API error: Access denied, please make sure your account is in good standing.
+2025-09-04 11:44:14,129 - ERROR - Failed to get judgment for page 05_OOB_06_032
+2025-09-04 11:44:14,664 - ERROR - API error: Access denied, please make sure your account is in good standing.
+2025-09-04 11:44:16,193 - ERROR - API error: Access denied, please make sure your account is in good standing.
+2025-09-04 11:44:17,732 - ERROR - API error: Access denied, please make sure your account is in good standing.
+2025-09-04 11:44:19,896 - ERROR - API error: Access denied, please make sure your account is in good standing.
+2025-09-04 11:44:21,411 - ERROR - API error: Access denied, please make sure your account is in good standing.
+2025-09-04 11:44:21,411 - ERROR - Failed to get judgment for page 05_OOB_06_033
+2025-09-04 11:44:21,946 - ERROR - API error: Access denied, please make sure your account is in good standing.
+2025-09-04 11:44:23,580 - ERROR - API error: Access denied, please make sure your account is in good standing.
+2025-09-04 11:44:25,138 - ERROR - API error: Access denied, please make sure your account is in good standing.
+2025-09-04 11:44:26,711 - ERROR - API error: Access denied, please make sure your account is in good standing.
+2025-09-04 11:44:28,360 - ERROR - API error: Access denied, please make sure your account is in good standing.
+2025-09-04 11:44:28,360 - ERROR - Failed to get judgment for page 05_OOB_06_034
+2025-09-04 11:44:28,871 - ERROR - API error: Access denied, please make sure your account is in good standing.
+2025-09-04 11:44:30,406 - ERROR - API error: Access denied, please make sure your account is in good standing.
+2025-09-04 11:44:31,948 - ERROR - API error: Access denied, please make sure your account is in good standing.
+2025-09-04 11:44:33,521 - ERROR - API error: Access denied, please make sure your account is in good standing.
+2025-09-04 11:44:35,096 - ERROR - API error: Access denied, please make sure your account is in good standing.
+2025-09-04 11:44:35,098 - ERROR - Failed to get judgment for page 05_OOB_06_035
+2025-09-04 11:44:35,617 - ERROR - API error: Access denied, please make sure your account is in good standing.
+2025-09-04 11:44:37,187 - ERROR - API error: Access denied, please make sure your account is in good standing.
+2025-09-04 11:44:38,763 - ERROR - API error: Access denied, please make sure your account is in good standing.
+2025-09-04 11:44:40,330 - ERROR - API error: Access denied, please make sure your account is in good standing.
+2025-09-04 11:44:41,912 - ERROR - API error: Access denied, please make sure your account is in good standing.
+2025-09-04 11:44:41,913 - ERROR - Failed to get judgment for page 05_OOB_06_036
+2025-09-04 11:44:42,439 - ERROR - API error: Access denied, please make sure your account is in good standing.
+2025-09-04 11:44:44,002 - ERROR - API error: Access denied, please make sure your account is in good standing.
+2025-09-04 11:44:45,573 - ERROR - API error: Access denied, please make sure your account is in good standing.
+2025-09-04 11:44:47,150 - ERROR - API error: Access denied, please make sure your account is in good standing.
+2025-09-04 11:44:48,744 - ERROR - API error: Access denied, please make sure your account is in good standing.
+2025-09-04 11:44:48,744 - ERROR - Failed to get judgment for page 05_OOB_06_037
+2025-09-04 11:44:49,266 - ERROR - API error: Access denied, please make sure your account is in good standing.
+2025-09-04 11:44:50,816 - ERROR - API error: Access denied, please make sure your account is in good standing.
+2025-09-04 11:44:52,392 - ERROR - API error: Access denied, please make sure your account is in good standing.
+2025-09-04 11:44:53,966 - ERROR - API error: Access denied, please make sure your account is in good standing.
+2025-09-04 11:44:55,539 - ERROR - API error: Access denied, please make sure your account is in good standing.
+2025-09-04 11:44:55,539 - ERROR - Failed to get judgment for page 05_OOB_06_038
+2025-09-04 11:44:56,056 - ERROR - API error: Access denied, please make sure your account is in good standing.
+2025-09-04 11:44:57,638 - ERROR - API error: Access denied, please make sure your account is in good standing.
+2025-09-04 11:44:59,207 - ERROR - API error: Access denied, please make sure your account is in good standing.
+2025-09-04 11:45:00,781 - ERROR - API error: Access denied, please make sure your account is in good standing.
+2025-09-04 11:45:02,354 - ERROR - API error: Access denied, please make sure your account is in good standing.
+2025-09-04 11:45:02,355 - ERROR - Failed to get judgment for page 05_OOB_06_039
+2025-09-04 11:45:02,920 - ERROR - API error: Access denied, please make sure your account is in good standing.
+2025-09-04 11:45:04,453 - ERROR - API error: Access denied, please make sure your account is in good standing.
+2025-09-04 11:45:06,039 - ERROR - API error: Access denied, please make sure your account is in good standing.
+2025-09-04 11:45:07,594 - ERROR - API error: Access denied, please make sure your account is in good standing.
+2025-09-04 11:45:09,179 - ERROR - API error: Access denied, please make sure your account is in good standing.
+2025-09-04 11:45:09,180 - ERROR - Failed to get judgment for page 05_OOB_06_040
+2025-09-04 11:45:09,698 - ERROR - API error: Access denied, please make sure your account is in good standing.
+2025-09-04 11:45:11,270 - ERROR - API error: Access denied, please make sure your account is in good standing.
+2025-09-04 11:45:12,840 - ERROR - API error: Access denied, please make sure your account is in good standing.
+2025-09-04 11:45:14,429 - ERROR - API error: Access denied, please make sure your account is in good standing.
+2025-09-04 11:45:15,983 - ERROR - API error: Access denied, please make sure your account is in good standing.
+2025-09-04 11:45:15,983 - ERROR - Failed to get judgment for page 05_OOB_06_041
+2025-09-04 11:45:16,509 - ERROR - API error: Access denied, please make sure your account is in good standing.
+2025-09-04 11:45:18,092 - ERROR - API error: Access denied, please make sure your account is in good standing.
+2025-09-04 11:45:19,655 - ERROR - API error: Access denied, please make sure your account is in good standing.
+2025-09-04 11:45:21,222 - ERROR - API error: Access denied, please make sure your account is in good standing.
+2025-09-04 11:45:22,797 - ERROR - API error: Access denied, please make sure your account is in good standing.
+2025-09-04 11:45:22,797 - ERROR - Failed to get judgment for page 05_OOB_06_042
+2025-09-04 11:45:23,323 - ERROR - API error: Access denied, please make sure your account is in good standing.
+2025-09-04 11:45:24,896 - ERROR - API error: Access denied, please make sure your account is in good standing.
+2025-09-04 11:45:26,467 - ERROR - API error: Access denied, please make sure your account is in good standing.
+2025-09-04 11:45:28,048 - ERROR - API error: Access denied, please make sure your account is in good standing.
+2025-09-04 11:45:29,616 - ERROR - API error: Access denied, please make sure your account is in good standing.
+2025-09-04 11:45:29,616 - ERROR - Failed to get judgment for page 05_OOB_06_043
+2025-09-04 11:45:30,143 - ERROR - API error: Access denied, please make sure your account is in good standing.
+2025-09-04 11:45:31,714 - ERROR - API error: Access denied, please make sure your account is in good standing.
+2025-09-04 11:45:33,287 - ERROR - API error: Access denied, please make sure your account is in good standing.
+2025-09-04 11:45:34,852 - ERROR - API error: Access denied, please make sure your account is in good standing.
+2025-09-04 11:45:36,436 - ERROR - API error: Access denied, please make sure your account is in good standing.
+2025-09-04 11:45:36,436 - ERROR - Failed to get judgment for page 05_OOB_06_044
+2025-09-04 11:45:36,958 - ERROR - API error: Access denied, please make sure your account is in good standing.
+2025-09-04 11:45:38,527 - ERROR - API error: Access denied, please make sure your account is in good standing.
+2025-09-04 11:45:40,104 - ERROR - API error: Access denied, please make sure your account is in good standing.
+2025-09-04 11:45:41,672 - ERROR - API error: Access denied, please make sure your account is in good standing.
+2025-09-04 11:45:43,262 - ERROR - API error: Access denied, please make sure your account is in good standing.
+2025-09-04 11:45:43,262 - ERROR - Failed to get judgment for page 05_OOB_06_045
+2025-09-04 11:45:43,785 - ERROR - API error: Access denied, please make sure your account is in good standing.
+2025-09-04 11:45:45,349 - ERROR - API error: Access denied, please make sure your account is in good standing.
+2025-09-04 11:45:46,924 - ERROR - API error: Access denied, please make sure your account is in good standing.
+2025-09-04 11:45:48,486 - ERROR - API error: Access denied, please make sure your account is in good standing.
+2025-09-04 13:44:04,599 - INFO - Initialized LLM Judge with provider: openrouter
+2025-09-04 13:44:04,625 - INFO - Processing book: 05_OOB_06_log | Type: log
+2025-09-04 13:44:04,747 - ERROR - OpenRouter API call failed: 'LLMJudgeCleaner' object has no attribute 'openrouter_headers'
+2025-09-04 13:44:05,753 - ERROR - OpenRouter API call failed: 'LLMJudgeCleaner' object has no attribute 'openrouter_headers'
+2025-09-04 13:44:07,758 - ERROR - OpenRouter API call failed: 'LLMJudgeCleaner' object has no attribute 'openrouter_headers'
+2025-09-04 13:44:11,761 - ERROR - OpenRouter API call failed: 'LLMJudgeCleaner' object has no attribute 'openrouter_headers'
+2025-09-04 13:44:19,766 - ERROR - OpenRouter API call failed: 'LLMJudgeCleaner' object has no attribute 'openrouter_headers'
+2025-09-04 13:44:19,766 - ERROR - Failed to get judgment for page 05_OOB_06_001
+2025-09-04 13:44:19,777 - ERROR - OpenRouter API call failed: 'LLMJudgeCleaner' object has no attribute 'openrouter_headers'
+2025-09-04 13:44:20,788 - ERROR - OpenRouter API call failed: 'LLMJudgeCleaner' object has no attribute 'openrouter_headers'
+2025-09-04 13:44:22,793 - ERROR - OpenRouter API call failed: 'LLMJudgeCleaner' object has no attribute 'openrouter_headers'
+2025-09-04 13:44:26,799 - ERROR - OpenRouter API call failed: 'LLMJudgeCleaner' object has no attribute 'openrouter_headers'
+2025-09-04 13:44:34,803 - ERROR - OpenRouter API call failed: 'LLMJudgeCleaner' object has no attribute 'openrouter_headers'
+2025-09-04 13:44:34,806 - ERROR - Failed to get judgment for page 05_OOB_06_002
+2025-09-04 13:44:34,811 - ERROR - OpenRouter API call failed: 'LLMJudgeCleaner' object has no attribute 'openrouter_headers'
+2025-09-04 13:44:35,816 - ERROR - OpenRouter API call failed: 'LLMJudgeCleaner' object has no attribute 'openrouter_headers'
+2025-09-04 13:44:37,822 - ERROR - OpenRouter API call failed: 'LLMJudgeCleaner' object has no attribute 'openrouter_headers'
+2025-09-04 13:44:41,831 - ERROR - OpenRouter API call failed: 'LLMJudgeCleaner' object has no attribute 'openrouter_headers'
+2025-09-04 13:49:26,719 - INFO - Initialized LLM Judge with provider: openrouter
+2025-09-04 13:49:26,747 - INFO - Processing book: 05_OOB_06_log | Type: log
+2025-09-04 13:49:28,925 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-04 13:49:39,856 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-04 13:49:48,174 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-04 13:49:53,395 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-04 13:49:59,341 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-04 13:50:04,162 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-04 13:50:11,725 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-04 13:50:15,921 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-04 13:50:22,389 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-04 13:50:26,993 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-04 13:50:32,046 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-04 13:50:37,103 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-04 13:50:43,216 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-04 13:50:49,940 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-04 13:51:00,613 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-04 13:51:08,805 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-04 13:51:13,310 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-04 13:51:17,267 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-04 13:51:21,355 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-04 13:51:25,863 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-04 13:51:30,291 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-04 13:51:38,972 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-04 13:51:45,352 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-04 13:51:49,851 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-04 13:51:54,564 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-04 13:51:59,895 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-04 13:52:05,024 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-04 13:52:11,214 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-04 13:52:16,146 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-04 13:52:22,400 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-04 13:52:26,588 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-04 13:52:31,605 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-04 13:52:36,727 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-04 13:52:40,946 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-04 13:52:46,352 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-04 13:52:50,063 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-04 13:52:56,160 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-04 13:53:05,705 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-04 13:53:10,472 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-04 13:53:15,548 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-04 13:53:21,156 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-04 13:53:24,817 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-04 13:53:35,941 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-04 13:53:40,325 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-04 13:53:44,924 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-04 13:53:51,287 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-04 13:53:55,617 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-04 13:54:01,933 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-04 13:54:05,814 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-04 13:54:10,294 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-04 13:54:14,645 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-09-04 13:54:14,646 - INFO - Retrying request to /chat/completions in 0.425243 seconds
+2025-09-04 13:54:15,744 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-09-04 13:54:15,745 - INFO - Retrying request to /chat/completions in 0.866300 seconds
+2025-09-04 13:54:17,144 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-09-04 13:54:17,146 - ERROR - OpenRouter API call failed: Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-day. Add 5 credits to unlock 1000 free model requests per day', 'code': 429, 'metadata': {'headers': {'X-RateLimit-Limit': '50', 'X-RateLimit-Remaining': '0', 'X-RateLimit-Reset': '1757030400000'}, 'provider_name': None}}, 'user_id': 'user_2scoRxjc8XQp3qjmELcNXYYTAoi'}
+2025-09-04 13:54:18,613 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-09-04 13:54:18,614 - INFO - Retrying request to /chat/completions in 0.391340 seconds
+2025-09-04 13:54:19,504 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-09-04 13:54:19,505 - INFO - Retrying request to /chat/completions in 0.936403 seconds
+2025-09-04 13:54:20,970 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-09-04 13:54:20,981 - ERROR - OpenRouter API call failed: Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-day. Add 5 credits to unlock 1000 free model requests per day', 'code': 429, 'metadata': {'headers': {'X-RateLimit-Limit': '50', 'X-RateLimit-Remaining': '0', 'X-RateLimit-Reset': '1757030400000'}, 'provider_name': None}}, 'user_id': 'user_2scoRxjc8XQp3qjmELcNXYYTAoi'}
+2025-09-04 13:54:23,634 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-09-04 13:54:23,634 - INFO - Retrying request to /chat/completions in 0.485960 seconds
+2025-09-04 13:54:24,655 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-09-04 13:54:24,655 - INFO - Retrying request to /chat/completions in 0.909216 seconds
+2025-09-04 13:54:25,887 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-09-04 13:54:25,889 - ERROR - OpenRouter API call failed: Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-min. ', 'code': 429, 'metadata': {'headers': {'X-RateLimit-Limit': '16', 'X-RateLimit-Remaining': '0', 'X-RateLimit-Reset': '1756986900000'}, 'provider_name': None}}, 'user_id': 'user_2scoRxjc8XQp3qjmELcNXYYTAoi'}
+2025-09-04 13:54:30,350 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-09-04 13:54:30,351 - INFO - Retrying request to /chat/completions in 0.442713 seconds
+2025-09-04 13:54:30,958 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-09-04 13:54:30,959 - INFO - Retrying request to /chat/completions in 0.853642 seconds
+2025-09-04 13:54:32,003 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-09-04 13:54:32,004 - ERROR - OpenRouter API call failed: Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-min. ', 'code': 429, 'metadata': {'headers': {'X-RateLimit-Limit': '16', 'X-RateLimit-Remaining': '0', 'X-RateLimit-Reset': '1756986900000'}, 'provider_name': None}}, 'user_id': 'user_2scoRxjc8XQp3qjmELcNXYYTAoi'}
+2025-09-04 13:54:40,867 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-09-04 13:54:40,870 - INFO - Retrying request to /chat/completions in 0.400224 seconds
+2025-09-04 13:54:41,782 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-09-04 13:54:41,783 - INFO - Retrying request to /chat/completions in 0.982302 seconds
+2025-09-04 13:54:43,283 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-09-04 13:54:43,285 - ERROR - OpenRouter API call failed: Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-day. Add 5 credits to unlock 1000 free model requests per day', 'code': 429, 'metadata': {'headers': {'X-RateLimit-Limit': '50', 'X-RateLimit-Remaining': '0', 'X-RateLimit-Reset': '1757030400000'}, 'provider_name': None}}, 'user_id': 'user_2scoRxjc8XQp3qjmELcNXYYTAoi'}
+2025-09-04 13:54:43,286 - ERROR - Failed to get judgment for page 05_OOB_06_051
+2025-09-04 13:54:43,755 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-09-04 13:54:43,757 - INFO - Retrying request to /chat/completions in 0.395121 seconds
+2025-09-04 13:54:44,661 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-09-04 13:54:44,662 - INFO - Retrying request to /chat/completions in 0.861244 seconds
+2025-09-04 13:54:46,055 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-09-04 13:54:46,057 - ERROR - OpenRouter API call failed: Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-day. Add 5 credits to unlock 1000 free model requests per day', 'code': 429, 'metadata': {'headers': {'X-RateLimit-Limit': '50', 'X-RateLimit-Remaining': '0', 'X-RateLimit-Reset': '1757030400000'}, 'provider_name': None}}, 'user_id': 'user_2scoRxjc8XQp3qjmELcNXYYTAoi'}
+2025-09-04 13:54:47,488 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-09-04 13:54:47,488 - INFO - Retrying request to /chat/completions in 0.458905 seconds
+2025-09-04 13:54:48,447 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-09-04 13:54:48,448 - INFO - Retrying request to /chat/completions in 0.842680 seconds
+2025-09-04 13:54:49,845 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-09-04 13:54:49,846 - ERROR - OpenRouter API call failed: Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-day. Add 5 credits to unlock 1000 free model requests per day', 'code': 429, 'metadata': {'headers': {'X-RateLimit-Limit': '50', 'X-RateLimit-Remaining': '0', 'X-RateLimit-Reset': '1757030400000'}, 'provider_name': None}}, 'user_id': 'user_2scoRxjc8XQp3qjmELcNXYYTAoi'}
+2025-09-04 13:54:52,304 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-09-04 13:54:52,306 - INFO - Retrying request to /chat/completions in 0.489949 seconds
+2025-09-04 13:54:53,429 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-09-04 13:54:53,430 - INFO - Retrying request to /chat/completions in 0.952321 seconds
+2025-09-04 13:54:54,964 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-09-04 13:54:54,966 - ERROR - OpenRouter API call failed: Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-min. ', 'code': 429, 'metadata': {'headers': {'X-RateLimit-Limit': '20', 'X-RateLimit-Remaining': '0', 'X-RateLimit-Reset': '1756986900000'}, 'provider_name': None}}, 'user_id': 'user_2scoRxjc8XQp3qjmELcNXYYTAoi'}
+2025-09-04 13:54:59,475 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-09-04 13:54:59,476 - INFO - Retrying request to /chat/completions in 0.450822 seconds
+2025-09-04 13:55:00,493 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-09-04 13:55:00,494 - INFO - Retrying request to /chat/completions in 0.759387 seconds
+2025-09-04 13:55:01,657 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-09-04 13:55:01,662 - ERROR - OpenRouter API call failed: Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-day. Add 5 credits to unlock 1000 free model requests per day', 'code': 429, 'metadata': {'headers': {'X-RateLimit-Limit': '50', 'X-RateLimit-Remaining': '0', 'X-RateLimit-Reset': '1757030400000'}, 'provider_name': None}}, 'user_id': 'user_2scoRxjc8XQp3qjmELcNXYYTAoi'}
+2025-09-04 13:55:10,225 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-09-04 13:55:10,227 - INFO - Retrying request to /chat/completions in 0.450330 seconds
+2025-09-04 13:55:11,141 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-09-04 13:55:11,142 - INFO - Retrying request to /chat/completions in 0.936316 seconds
+2025-09-04 13:55:12,481 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-09-04 13:55:12,481 - ERROR - OpenRouter API call failed: Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-day. Add 5 credits to unlock 1000 free model requests per day', 'code': 429, 'metadata': {'headers': {'X-RateLimit-Limit': '50', 'X-RateLimit-Remaining': '0', 'X-RateLimit-Reset': '1757030400000'}, 'provider_name': None}}, 'user_id': 'user_2scoRxjc8XQp3qjmELcNXYYTAoi'}
+2025-09-04 13:55:12,481 - ERROR - Failed to get judgment for page 05_OOB_06_052
+2025-09-04 13:55:12,852 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-09-04 13:55:12,853 - INFO - Retrying request to /chat/completions in 0.436390 seconds
+2025-09-04 13:55:13,766 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-09-04 13:55:13,766 - INFO - Retrying request to /chat/completions in 0.929977 seconds
+2025-09-04 13:55:15,124 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-09-04 13:55:15,126 - ERROR - OpenRouter API call failed: Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-day. Add 5 credits to unlock 1000 free model requests per day', 'code': 429, 'metadata': {'headers': {'X-RateLimit-Limit': '50', 'X-RateLimit-Remaining': '0', 'X-RateLimit-Reset': '1757030400000'}, 'provider_name': None}}, 'user_id': 'user_2scoRxjc8XQp3qjmELcNXYYTAoi'}
+2025-09-04 13:55:16,678 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-09-04 13:55:16,680 - INFO - Retrying request to /chat/completions in 0.470977 seconds
+2025-09-04 13:55:17,596 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-09-04 13:55:17,596 - INFO - Retrying request to /chat/completions in 0.966808 seconds
+2025-09-04 13:55:19,138 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-09-04 13:55:19,140 - ERROR - OpenRouter API call failed: Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-day. Add 5 credits to unlock 1000 free model requests per day', 'code': 429, 'metadata': {'headers': {'X-RateLimit-Limit': '50', 'X-RateLimit-Remaining': '0', 'X-RateLimit-Reset': '1757030400000'}, 'provider_name': None}}, 'user_id': 'user_2scoRxjc8XQp3qjmELcNXYYTAoi'}
+2025-09-04 13:55:21,589 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-09-04 13:55:21,590 - INFO - Retrying request to /chat/completions in 0.445176 seconds
+2025-09-04 13:55:22,603 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-09-04 13:55:22,605 - INFO - Retrying request to /chat/completions in 0.863731 seconds
+2025-09-04 13:55:23,851 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-09-04 13:55:23,852 - ERROR - OpenRouter API call failed: Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-day. Add 5 credits to unlock 1000 free model requests per day', 'code': 429, 'metadata': {'headers': {'X-RateLimit-Limit': '50', 'X-RateLimit-Remaining': '0', 'X-RateLimit-Reset': '1757030400000'}, 'provider_name': None}}, 'user_id': 'user_2scoRxjc8XQp3qjmELcNXYYTAoi'}
+2025-09-04 13:55:28,450 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-09-04 13:55:28,451 - INFO - Retrying request to /chat/completions in 0.470559 seconds
+2025-09-04 13:55:29,334 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-09-04 13:55:29,336 - INFO - Retrying request to /chat/completions in 0.856566 seconds
+2025-09-04 13:55:30,672 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-09-04 13:55:30,674 - ERROR - OpenRouter API call failed: Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-day. Add 5 credits to unlock 1000 free model requests per day', 'code': 429, 'metadata': {'headers': {'X-RateLimit-Limit': '50', 'X-RateLimit-Remaining': '0', 'X-RateLimit-Reset': '1757030400000'}, 'provider_name': None}}, 'user_id': 'user_2scoRxjc8XQp3qjmELcNXYYTAoi'}
+2025-09-04 13:55:39,203 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-09-04 13:55:39,204 - INFO - Retrying request to /chat/completions in 0.438345 seconds
+2025-09-04 13:55:40,028 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-09-04 13:55:40,029 - INFO - Retrying request to /chat/completions in 0.854654 seconds
+2025-09-04 13:55:41,424 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-09-04 13:55:41,425 - ERROR - OpenRouter API call failed: Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-day. Add 5 credits to unlock 1000 free model requests per day', 'code': 429, 'metadata': {'headers': {'X-RateLimit-Limit': '50', 'X-RateLimit-Remaining': '0', 'X-RateLimit-Reset': '1757030400000'}, 'provider_name': None}}, 'user_id': 'user_2scoRxjc8XQp3qjmELcNXYYTAoi'}
+2025-09-04 13:55:41,426 - ERROR - Failed to get judgment for page 05_OOB_06_053
+2025-09-04 13:55:41,977 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-09-04 13:55:41,978 - INFO - Retrying request to /chat/completions in 0.462869 seconds
+2025-09-04 13:55:42,831 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-09-04 13:55:42,832 - INFO - Retrying request to /chat/completions in 0.760076 seconds
+2025-09-04 13:55:44,117 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-09-04 13:55:44,118 - ERROR - OpenRouter API call failed: Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-min. ', 'code': 429, 'metadata': {'headers': {'X-RateLimit-Limit': '20', 'X-RateLimit-Remaining': '0', 'X-RateLimit-Reset': '1756986960000'}, 'provider_name': None}}, 'user_id': 'user_2scoRxjc8XQp3qjmELcNXYYTAoi'}
+2025-09-04 13:55:45,656 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-09-04 13:55:45,661 - INFO - Retrying request to /chat/completions in 0.447000 seconds
+2025-09-04 13:55:46,678 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-09-04 13:55:46,679 - INFO - Retrying request to /chat/completions in 0.876578 seconds
+2025-09-04 13:55:48,007 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-09-04 13:55:48,008 - ERROR - OpenRouter API call failed: Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-min. ', 'code': 429, 'metadata': {'headers': {'X-RateLimit-Limit': '20', 'X-RateLimit-Remaining': '0', 'X-RateLimit-Reset': '1756986960000'}, 'provider_name': None}}, 'user_id': 'user_2scoRxjc8XQp3qjmELcNXYYTAoi'}
+2025-09-04 13:55:50,433 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-09-04 13:55:50,437 - INFO - Retrying request to /chat/completions in 0.422288 seconds
+2025-09-04 13:55:51,251 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-09-04 13:55:51,252 - INFO - Retrying request to /chat/completions in 0.756972 seconds
+2025-09-04 13:55:52,477 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-09-04 13:55:52,478 - ERROR - OpenRouter API call failed: Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-min. ', 'code': 429, 'metadata': {'headers': {'X-RateLimit-Limit': '20', 'X-RateLimit-Remaining': '0', 'X-RateLimit-Reset': '1756986960000'}, 'provider_name': None}}, 'user_id': 'user_2scoRxjc8XQp3qjmELcNXYYTAoi'}
+2025-09-04 13:55:56,923 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-09-04 13:55:56,926 - INFO - Retrying request to /chat/completions in 0.482330 seconds
+2025-09-04 13:55:57,808 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-09-04 13:55:57,809 - INFO - Retrying request to /chat/completions in 0.964067 seconds
+2025-09-04 13:55:59,219 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-09-04 13:55:59,219 - ERROR - OpenRouter API call failed: Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-min. ', 'code': 429, 'metadata': {'headers': {'X-RateLimit-Limit': '20', 'X-RateLimit-Remaining': '0', 'X-RateLimit-Reset': '1756986960000'}, 'provider_name': None}}, 'user_id': 'user_2scoRxjc8XQp3qjmELcNXYYTAoi'}
+2025-09-04 13:56:07,762 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-09-04 13:56:07,764 - INFO - Retrying request to /chat/completions in 0.475999 seconds
+2025-09-04 13:56:08,661 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-09-04 13:56:08,663 - INFO - Retrying request to /chat/completions in 0.786882 seconds
+2025-09-04 13:56:09,916 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-09-04 13:56:09,919 - ERROR - OpenRouter API call failed: Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-day. Add 5 credits to unlock 1000 free model requests per day', 'code': 429, 'metadata': {'headers': {'X-RateLimit-Limit': '50', 'X-RateLimit-Remaining': '0', 'X-RateLimit-Reset': '1757030400000'}, 'provider_name': None}}, 'user_id': 'user_2scoRxjc8XQp3qjmELcNXYYTAoi'}
+2025-09-04 13:56:09,919 - ERROR - Failed to get judgment for page 05_OOB_06_054
+2025-09-04 13:56:10,347 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-09-04 13:56:10,347 - INFO - Retrying request to /chat/completions in 0.439346 seconds
+2025-09-04 13:56:11,185 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-09-04 13:56:11,186 - INFO - Retrying request to /chat/completions in 0.768522 seconds
+2025-09-04 13:56:12,432 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-09-04 13:56:12,435 - ERROR - OpenRouter API call failed: Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-day. Add 5 credits to unlock 1000 free model requests per day', 'code': 429, 'metadata': {'headers': {'X-RateLimit-Limit': '50', 'X-RateLimit-Remaining': '0', 'X-RateLimit-Reset': '1757030400000'}, 'provider_name': None}}, 'user_id': 'user_2scoRxjc8XQp3qjmELcNXYYTAoi'}
+2025-09-04 13:56:13,825 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-09-04 13:56:13,827 - INFO - Retrying request to /chat/completions in 0.395716 seconds
+2025-09-04 13:56:14,933 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-09-04 13:56:14,935 - INFO - Retrying request to /chat/completions in 0.943444 seconds
+2025-09-04 13:56:16,376 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-09-04 13:56:16,378 - ERROR - OpenRouter API call failed: Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-day. Add 5 credits to unlock 1000 free model requests per day', 'code': 429, 'metadata': {'headers': {'X-RateLimit-Limit': '50', 'X-RateLimit-Remaining': '0', 'X-RateLimit-Reset': '1757030400000'}, 'provider_name': None}}, 'user_id': 'user_2scoRxjc8XQp3qjmELcNXYYTAoi'}
+2025-09-04 13:56:18,836 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-09-04 13:56:18,838 - INFO - Retrying request to /chat/completions in 0.376673 seconds
+2025-09-04 13:56:19,650 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-09-04 13:56:19,653 - INFO - Retrying request to /chat/completions in 0.926839 seconds
+2025-09-04 13:56:21,086 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-09-04 13:56:21,089 - ERROR - OpenRouter API call failed: Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-day. Add 5 credits to unlock 1000 free model requests per day', 'code': 429, 'metadata': {'headers': {'X-RateLimit-Limit': '50', 'X-RateLimit-Remaining': '0', 'X-RateLimit-Reset': '1757030400000'}, 'provider_name': None}}, 'user_id': 'user_2scoRxjc8XQp3qjmELcNXYYTAoi'}
+2025-09-04 13:56:25,487 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-09-04 13:56:25,496 - INFO - Retrying request to /chat/completions in 0.449023 seconds
+2025-09-04 13:56:26,515 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-09-04 13:56:26,516 - INFO - Retrying request to /chat/completions in 0.872643 seconds
+2025-09-04 13:56:27,807 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-09-04 13:56:27,807 - ERROR - OpenRouter API call failed: Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-day. Add 5 credits to unlock 1000 free model requests per day', 'code': 429, 'metadata': {'headers': {'X-RateLimit-Limit': '50', 'X-RateLimit-Remaining': '0', 'X-RateLimit-Reset': '1757030400000'}, 'provider_name': None}}, 'user_id': 'user_2scoRxjc8XQp3qjmELcNXYYTAoi'}
+2025-09-04 13:56:36,289 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-09-04 13:56:36,291 - INFO - Retrying request to /chat/completions in 0.407526 seconds
+2025-09-04 13:56:37,184 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-09-04 13:56:37,188 - INFO - Retrying request to /chat/completions in 0.904997 seconds
+2025-09-04 13:56:38,481 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-09-04 13:56:38,484 - ERROR - OpenRouter API call failed: Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-day. Add 5 credits to unlock 1000 free model requests per day', 'code': 429, 'metadata': {'headers': {'X-RateLimit-Limit': '50', 'X-RateLimit-Remaining': '0', 'X-RateLimit-Reset': '1757030400000'}, 'provider_name': None}}, 'user_id': 'user_2scoRxjc8XQp3qjmELcNXYYTAoi'}
+2025-09-04 13:56:38,484 - ERROR - Failed to get judgment for page 05_OOB_06_055
+2025-09-04 13:56:38,938 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-09-04 13:56:38,940 - INFO - Retrying request to /chat/completions in 0.453119 seconds
+2025-09-04 13:56:39,818 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-09-04 13:56:39,818 - INFO - Retrying request to /chat/completions in 0.911528 seconds
+2025-09-04 13:56:41,196 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-09-04 13:56:41,207 - ERROR - OpenRouter API call failed: Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-min. ', 'code': 429, 'metadata': {'headers': {'X-RateLimit-Limit': '20', 'X-RateLimit-Remaining': '0', 'X-RateLimit-Reset': '1756987020000'}, 'provider_name': None}}, 'user_id': 'user_2scoRxjc8XQp3qjmELcNXYYTAoi'}
+2025-09-04 13:56:42,590 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-09-04 13:56:42,591 - INFO - Retrying request to /chat/completions in 0.389705 seconds
+2025-09-04 13:56:43,408 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-09-04 13:56:43,410 - INFO - Retrying request to /chat/completions in 0.763111 seconds
+2025-09-04 13:56:44,559 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-09-04 13:56:44,561 - ERROR - OpenRouter API call failed: Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-min. ', 'code': 429, 'metadata': {'headers': {'X-RateLimit-Limit': '20', 'X-RateLimit-Remaining': '0', 'X-RateLimit-Reset': '1756987020000'}, 'provider_name': None}}, 'user_id': 'user_2scoRxjc8XQp3qjmELcNXYYTAoi'}
+2025-09-04 13:56:47,097 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-09-04 13:56:47,099 - INFO - Retrying request to /chat/completions in 0.472290 seconds
+2025-09-04 13:56:48,016 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-09-04 13:56:48,016 - INFO - Retrying request to /chat/completions in 0.946552 seconds
+2025-09-04 13:56:49,346 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-09-04 13:56:49,351 - ERROR - OpenRouter API call failed: Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-min. ', 'code': 429, 'metadata': {'headers': {'X-RateLimit-Limit': '20', 'X-RateLimit-Remaining': '0', 'X-RateLimit-Reset': '1756987020000'}, 'provider_name': None}}, 'user_id': 'user_2scoRxjc8XQp3qjmELcNXYYTAoi'}
+2025-09-04 13:56:53,855 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-09-04 13:56:53,856 - INFO - Retrying request to /chat/completions in 0.496430 seconds
+2025-09-04 13:56:54,733 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-09-04 13:56:54,737 - INFO - Retrying request to /chat/completions in 0.969513 seconds
+2025-09-04 13:56:56,070 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-09-04 13:56:56,073 - ERROR - OpenRouter API call failed: Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-min. ', 'code': 429, 'metadata': {'headers': {'X-RateLimit-Limit': '20', 'X-RateLimit-Remaining': '0', 'X-RateLimit-Reset': '1756987020000'}, 'provider_name': None}}, 'user_id': 'user_2scoRxjc8XQp3qjmELcNXYYTAoi'}
+2025-09-04 13:57:04,608 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-09-04 13:57:04,609 - INFO - Retrying request to /chat/completions in 0.399088 seconds
+2025-09-04 13:57:05,424 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-09-04 13:57:05,427 - INFO - Retrying request to /chat/completions in 0.943320 seconds
+2025-09-04 13:57:06,858 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-09-04 13:57:06,859 - ERROR - OpenRouter API call failed: Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-day. Add 5 credits to unlock 1000 free model requests per day', 'code': 429, 'metadata': {'headers': {'X-RateLimit-Limit': '50', 'X-RateLimit-Remaining': '0', 'X-RateLimit-Reset': '1757030400000'}, 'provider_name': None}}, 'user_id': 'user_2scoRxjc8XQp3qjmELcNXYYTAoi'}
+2025-09-04 13:57:06,859 - ERROR - Failed to get judgment for page 05_OOB_06_056
+2025-09-04 14:00:36,761 - INFO - Initialized LLM Judge with provider: openrouter
+2025-09-04 14:00:36,790 - INFO - Processing book: 05_OOB_01_log | Type: log
+2025-09-04 14:00:37,615 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-09-04 14:00:37,617 - INFO - Retrying request to /chat/completions in 0.428857 seconds
+2025-09-04 14:00:38,528 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-09-04 14:00:38,529 - INFO - Retrying request to /chat/completions in 0.985497 seconds
+2025-09-04 14:00:40,022 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-09-04 14:00:40,028 - ERROR - OpenRouter API call failed: Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-day. Add 5 credits to unlock 1000 free model requests per day', 'code': 429, 'metadata': {'headers': {'X-RateLimit-Limit': '50', 'X-RateLimit-Remaining': '0', 'X-RateLimit-Reset': '1757030400000'}, 'provider_name': None}}, 'user_id': 'user_2scoRxjc8XQp3qjmELcNXYYTAoi'}
+2025-09-04 14:00:41,802 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-09-04 14:00:41,804 - INFO - Retrying request to /chat/completions in 0.393786 seconds
+2025-09-04 14:00:42,674 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-09-04 14:00:42,674 - INFO - Retrying request to /chat/completions in 0.912694 seconds
+2025-09-04 14:00:44,051 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-09-04 14:00:44,053 - ERROR - OpenRouter API call failed: Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-day. Add 5 credits to unlock 1000 free model requests per day', 'code': 429, 'metadata': {'headers': {'X-RateLimit-Limit': '50', 'X-RateLimit-Remaining': '0', 'X-RateLimit-Reset': '1757030400000'}, 'provider_name': None}}, 'user_id': 'user_2scoRxjc8XQp3qjmELcNXYYTAoi'}
+2025-09-04 14:00:46,477 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-09-04 14:00:46,478 - INFO - Retrying request to /chat/completions in 0.378459 seconds
+2025-09-04 14:00:47,451 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-09-04 14:00:47,452 - INFO - Retrying request to /chat/completions in 0.859031 seconds
+2025-09-04 14:00:48,771 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-09-04 14:00:48,772 - ERROR - OpenRouter API call failed: Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-day. Add 5 credits to unlock 1000 free model requests per day', 'code': 429, 'metadata': {'headers': {'X-RateLimit-Limit': '50', 'X-RateLimit-Remaining': '0', 'X-RateLimit-Reset': '1757030400000'}, 'provider_name': None}}, 'user_id': 'user_2scoRxjc8XQp3qjmELcNXYYTAoi'}
+2025-09-04 14:00:53,273 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-09-04 14:00:53,275 - INFO - Retrying request to /chat/completions in 0.471942 seconds
+2025-09-04 14:00:54,347 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-09-04 14:00:54,347 - INFO - Retrying request to /chat/completions in 0.815363 seconds
+2025-09-04 14:00:55,580 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-09-04 14:00:55,581 - ERROR - OpenRouter API call failed: Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-day. Add 5 credits to unlock 1000 free model requests per day', 'code': 429, 'metadata': {'headers': {'X-RateLimit-Limit': '50', 'X-RateLimit-Remaining': '0', 'X-RateLimit-Reset': '1757030400000'}, 'provider_name': None}}, 'user_id': 'user_2scoRxjc8XQp3qjmELcNXYYTAoi'}
+2025-09-04 14:01:04,131 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-09-04 14:01:04,134 - INFO - Retrying request to /chat/completions in 0.397185 seconds
+2025-09-04 14:01:05,041 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-09-04 14:01:05,042 - INFO - Retrying request to /chat/completions in 0.979863 seconds
+2025-09-04 14:01:06,431 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-09-04 14:01:06,434 - ERROR - OpenRouter API call failed: Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-day. Add 5 credits to unlock 1000 free model requests per day', 'code': 429, 'metadata': {'headers': {'X-RateLimit-Limit': '50', 'X-RateLimit-Remaining': '0', 'X-RateLimit-Reset': '1757030400000'}, 'provider_name': None}}, 'user_id': 'user_2scoRxjc8XQp3qjmELcNXYYTAoi'}
+2025-09-04 14:01:06,435 - ERROR - Failed to get judgment for page 05_OOB_01_001
+2025-09-04 14:01:06,931 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-09-04 14:01:06,931 - INFO - Retrying request to /chat/completions in 0.478284 seconds
+2025-09-04 14:01:07,910 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-09-04 14:01:07,912 - INFO - Retrying request to /chat/completions in 0.751668 seconds
+2025-09-04 14:01:09,241 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-09-04 14:01:09,243 - ERROR - OpenRouter API call failed: Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-day. Add 5 credits to unlock 1000 free model requests per day', 'code': 429, 'metadata': {'headers': {'X-RateLimit-Limit': '50', 'X-RateLimit-Remaining': '0', 'X-RateLimit-Reset': '1757030400000'}, 'provider_name': None}}, 'user_id': 'user_2scoRxjc8XQp3qjmELcNXYYTAoi'}
+2025-09-04 14:01:10,788 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-09-04 14:01:10,790 - INFO - Retrying request to /chat/completions in 0.384159 seconds
+2025-09-04 14:01:11,300 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-09-04 14:01:11,302 - INFO - Retrying request to /chat/completions in 0.762427 seconds
+2025-09-04 14:01:12,318 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-09-04 14:01:12,319 - ERROR - OpenRouter API call failed: Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-min. ', 'code': 429, 'metadata': {'headers': {'X-RateLimit-Limit': '16', 'X-RateLimit-Remaining': '0', 'X-RateLimit-Reset': '1756987320000'}, 'provider_name': None}}, 'user_id': 'user_2scoRxjc8XQp3qjmELcNXYYTAoi'}
+2025-09-04 14:01:14,490 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-09-04 14:01:14,491 - INFO - Retrying request to /chat/completions in 0.377738 seconds
+2025-09-04 14:01:14,973 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-09-04 14:01:14,974 - INFO - Retrying request to /chat/completions in 0.879158 seconds
+2025-09-04 14:01:16,546 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-09-04 14:01:16,547 - ERROR - OpenRouter API call failed: Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-day. Add 5 credits to unlock 1000 free model requests per day', 'code': 429, 'metadata': {'headers': {'X-RateLimit-Limit': '50', 'X-RateLimit-Remaining': '0', 'X-RateLimit-Reset': '1757030400000'}, 'provider_name': None}}, 'user_id': 'user_2scoRxjc8XQp3qjmELcNXYYTAoi'}
+2025-09-04 14:01:21,019 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-09-04 14:01:21,022 - INFO - Retrying request to /chat/completions in 0.464675 seconds
+2025-09-04 14:01:21,605 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-09-04 14:01:21,606 - INFO - Retrying request to /chat/completions in 0.848259 seconds
+2025-09-04 14:01:22,818 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-09-04 14:01:22,821 - ERROR - OpenRouter API call failed: Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-min. ', 'code': 429, 'metadata': {'headers': {'X-RateLimit-Limit': '16', 'X-RateLimit-Remaining': '0', 'X-RateLimit-Reset': '1756987320000'}, 'provider_name': None}}, 'user_id': 'user_2scoRxjc8XQp3qjmELcNXYYTAoi'}
+2025-09-04 14:01:31,386 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-09-04 14:01:31,386 - INFO - Retrying request to /chat/completions in 0.419752 seconds
+2025-09-04 14:01:32,212 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-09-04 14:01:32,213 - INFO - Retrying request to /chat/completions in 0.866041 seconds
+2025-09-04 14:01:33,479 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-09-04 14:01:33,549 - ERROR - OpenRouter API call failed: Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-day. Add 5 credits to unlock 1000 free model requests per day', 'code': 429, 'metadata': {'headers': {'X-RateLimit-Limit': '50', 'X-RateLimit-Remaining': '0', 'X-RateLimit-Reset': '1757030400000'}, 'provider_name': None}}, 'user_id': 'user_2scoRxjc8XQp3qjmELcNXYYTAoi'}
+2025-09-04 14:01:33,550 - ERROR - Failed to get judgment for page 05_OOB_01_002
+2025-09-04 14:01:33,981 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-09-04 14:01:33,981 - INFO - Retrying request to /chat/completions in 0.461839 seconds
+2025-09-04 14:01:34,835 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-09-04 14:01:34,842 - INFO - Retrying request to /chat/completions in 0.872955 seconds
+2025-09-04 14:01:36,163 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-09-04 14:01:36,165 - ERROR - OpenRouter API call failed: Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-day. Add 5 credits to unlock 1000 free model requests per day', 'code': 429, 'metadata': {'headers': {'X-RateLimit-Limit': '50', 'X-RateLimit-Remaining': '0', 'X-RateLimit-Reset': '1757030400000'}, 'provider_name': None}}, 'user_id': 'user_2scoRxjc8XQp3qjmELcNXYYTAoi'}
+2025-09-04 14:01:37,720 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-09-04 14:01:37,722 - INFO - Retrying request to /chat/completions in 0.425363 seconds
+2025-09-04 14:01:38,549 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-09-04 14:01:38,561 - INFO - Retrying request to /chat/completions in 0.947519 seconds
+2025-09-04 14:01:39,988 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-09-04 14:01:40,011 - ERROR - OpenRouter API call failed: Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-day. Add 5 credits to unlock 1000 free model requests per day', 'code': 429, 'metadata': {'headers': {'X-RateLimit-Limit': '50', 'X-RateLimit-Remaining': '0', 'X-RateLimit-Reset': '1757030400000'}, 'provider_name': None}}, 'user_id': 'user_2scoRxjc8XQp3qjmELcNXYYTAoi'}
+2025-09-04 14:01:42,467 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-09-04 14:01:42,491 - INFO - Retrying request to /chat/completions in 0.426092 seconds
+2025-09-04 14:01:43,332 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-09-04 14:01:43,333 - INFO - Retrying request to /chat/completions in 0.776051 seconds
+2025-09-04 14:01:44,540 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-09-04 14:01:44,563 - ERROR - OpenRouter API call failed: Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-min. ', 'code': 429, 'metadata': {'headers': {'X-RateLimit-Limit': '20', 'X-RateLimit-Remaining': '0', 'X-RateLimit-Reset': '1756987320000'}, 'provider_name': None}}, 'user_id': 'user_2scoRxjc8XQp3qjmELcNXYYTAoi'}
+2025-09-04 14:01:48,973 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-09-04 14:01:48,974 - INFO - Retrying request to /chat/completions in 0.404126 seconds
+2025-09-04 14:01:49,901 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-09-04 14:01:49,908 - INFO - Retrying request to /chat/completions in 0.930541 seconds
+2025-09-04 14:01:51,449 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-09-04 14:01:51,452 - ERROR - OpenRouter API call failed: Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-min. ', 'code': 429, 'metadata': {'headers': {'X-RateLimit-Limit': '20', 'X-RateLimit-Remaining': '0', 'X-RateLimit-Reset': '1756987320000'}, 'provider_name': None}}, 'user_id': 'user_2scoRxjc8XQp3qjmELcNXYYTAoi'}
+2025-09-04 14:02:00,133 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-09-04 14:02:00,135 - INFO - Retrying request to /chat/completions in 0.400654 seconds
+2025-09-04 14:02:01,060 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-09-04 14:02:01,061 - INFO - Retrying request to /chat/completions in 0.941341 seconds
+2025-09-04 14:02:02,489 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-09-04 14:02:02,489 - ERROR - OpenRouter API call failed: Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-day. Add 5 credits to unlock 1000 free model requests per day', 'code': 429, 'metadata': {'headers': {'X-RateLimit-Limit': '50', 'X-RateLimit-Remaining': '0', 'X-RateLimit-Reset': '1757030400000'}, 'provider_name': None}}, 'user_id': 'user_2scoRxjc8XQp3qjmELcNXYYTAoi'}
+2025-09-04 14:02:02,489 - ERROR - Failed to get judgment for page 05_OOB_01_003
+2025-09-04 14:02:02,896 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-09-04 14:02:02,897 - INFO - Retrying request to /chat/completions in 0.394581 seconds
+2025-09-04 14:02:03,827 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-09-04 14:02:03,828 - INFO - Retrying request to /chat/completions in 0.896104 seconds
+2025-09-04 14:02:05,261 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-09-04 14:02:05,261 - ERROR - OpenRouter API call failed: Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-day. Add 5 credits to unlock 1000 free model requests per day', 'code': 429, 'metadata': {'headers': {'X-RateLimit-Limit': '50', 'X-RateLimit-Remaining': '0', 'X-RateLimit-Reset': '1757030400000'}, 'provider_name': None}}, 'user_id': 'user_2scoRxjc8XQp3qjmELcNXYYTAoi'}
+2025-09-04 14:02:06,896 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-09-04 14:02:06,898 - INFO - Retrying request to /chat/completions in 0.477173 seconds
+2025-09-04 14:02:07,799 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-09-04 14:02:07,801 - INFO - Retrying request to /chat/completions in 0.963185 seconds
+2025-09-04 14:02:09,354 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-09-04 14:02:09,356 - ERROR - OpenRouter API call failed: Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-day. Add 5 credits to unlock 1000 free model requests per day', 'code': 429, 'metadata': {'headers': {'X-RateLimit-Limit': '50', 'X-RateLimit-Remaining': '0', 'X-RateLimit-Reset': '1757030400000'}, 'provider_name': None}}, 'user_id': 'user_2scoRxjc8XQp3qjmELcNXYYTAoi'}
+2025-09-04 14:02:11,813 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-09-04 14:02:11,814 - INFO - Retrying request to /chat/completions in 0.414591 seconds
+2025-09-04 14:02:12,778 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-09-04 14:02:12,781 - INFO - Retrying request to /chat/completions in 0.826276 seconds
+2025-09-04 14:02:14,037 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-09-04 14:02:14,039 - ERROR - OpenRouter API call failed: Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-day. Add 5 credits to unlock 1000 free model requests per day', 'code': 429, 'metadata': {'headers': {'X-RateLimit-Limit': '50', 'X-RateLimit-Remaining': '0', 'X-RateLimit-Reset': '1757030400000'}, 'provider_name': None}}, 'user_id': 'user_2scoRxjc8XQp3qjmELcNXYYTAoi'}
+2025-09-04 14:04:22,097 - INFO - Initialized LLM Judge with provider: openrouter
+2025-09-04 14:04:22,123 - INFO - Processing book: 05_OOB_01_log | Type: log
+2025-09-04 14:04:24,250 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-04 14:04:27,603 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-04 14:04:37,363 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-04 14:04:41,218 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-04 14:04:44,515 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-04 14:04:49,104 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-04 14:04:53,302 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-04 14:04:59,034 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-04 14:05:03,759 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-04 14:05:10,634 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-04 14:05:14,667 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-04 14:05:19,033 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-04 14:05:24,808 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-04 14:05:29,035 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-04 14:05:33,650 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-04 14:05:39,810 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-04 14:05:46,887 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-04 14:05:51,397 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-04 14:05:55,767 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-04 14:06:02,595 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-04 14:06:07,411 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-04 14:06:15,509 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-04 14:06:21,694 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-04 14:06:25,676 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-04 14:06:31,296 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-04 14:06:43,586 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-04 14:09:10,615 - INFO - Initialized LLM Judge with provider: openrouter
+2025-09-04 14:09:10,641 - INFO - Processing book: 05_OOB_01_log | Type: log
+2025-09-04 14:09:12,944 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-04 14:09:16,876 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-04 14:09:19,962 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-04 14:09:22,997 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-04 14:09:26,328 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-04 14:09:35,139 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-04 14:09:39,447 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-04 14:09:45,920 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-04 14:09:50,093 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-04 14:09:54,768 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-04 14:09:58,870 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-04 14:10:05,421 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-04 14:10:10,441 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-04 14:10:16,247 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-04 14:10:22,220 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-04 14:10:30,403 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-04 14:10:34,709 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-04 14:10:39,101 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-04 14:10:43,923 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-04 14:10:48,713 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-04 14:10:53,494 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-04 14:10:58,564 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-04 14:11:03,164 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-04 14:11:07,268 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-04 14:11:14,019 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-04 14:11:19,782 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-04 15:40:50,878 - INFO - Initialized LLM Judge with provider: openrouter
+2025-09-04 15:40:50,940 - INFO - Processing book: 05_OOB_01_log | Type: log
+2025-09-04 15:40:50,953 - INFO - Prompt
+ 
+## Historical Document Transcription Review ##
+
+You are an expert archivist specializing in 18th-19th century maritime documents. 
+Your task is to evaluate multiple OCR transcriptions of the same page and produce 
+a single authoritative version optimized for historical research and RAG systems.
+
+You are processing a historical ship logbook. Pay special attention to:
+- Maritime terminology and ship operations
+- Consistent date/time formats (e.g., '3ème jour de pluviôse')
+- Navigation coordinates and weather observations
+- Sequential event recording
+Preserve original spelling and formatting.
+
+### Context from Previous Pages ###
+No previous pages available
+
+### Context from Next Pages ###
+--- Next Page 1 ---
+""""
+
+--- Next Page 2 ---
+Le document à transcrire est vide. Aucun texte n'est présent pour être transcrit.
+
+Résultat : ""
+
+
+### OCR Candidates for Current Page ###
+=== Candidate from Qwen-VL-32b-instruct ===
+I. Journal du 9 Décembre 1702.
+
+=== Candidate from Mistral-ocr ===
+# Teninal du Bercè. I
+
+=== Candidate from Kraken-ocr ===
+N
+Cr
+13
+L
+1
+Je
+2
+5
+2
+Dn
+F3
+5
+Cois
+dd.5
+yD
+1
+N
+AE7
+2L ES=
+
+### Evaluation Guidelines ###
+1. Accuracy: Select the most faithful representation of the original document
+2. Completeness: Prefer versions with less missing text
+3. Consistency: Maintain flow with previous pages (dates, terminology)
+4. Formatting: Preserve original line breaks, paragraphs, and layout
+5. Error Handling: Only correct obvious OCR errors (e.g., 'mαrina' → 'marina')
+6. Ambiguity: Mark uncertain readings with [sic?] but preserve original
+7. Context Awareness: Use both previous and next pages to resolve ambiguities
+
+### Output Requirements ###
+- Return ONLY the final curated text
+- Maintain original language (French)
+- Preserve historical spellings
+- Include all marginal notes in context
+- Never add explanatory text
+- For tables: maintain alignment with monospace formatting
+- If the page is empty or empty content return""
+
+
+2025-09-04 15:40:52,905 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-04 15:40:53,203 - INFO - Response
+ """
+I. Journal du 9 Décembre 1702.
+"""
+2025-09-04 15:40:54,715 - INFO - Prompt
+ 
+## Historical Document Transcription Review ##
+
+You are an expert archivist specializing in 18th-19th century maritime documents. 
+Your task is to evaluate multiple OCR transcriptions of the same page and produce 
+a single authoritative version optimized for historical research and RAG systems.
+
+You are processing a historical ship logbook. Pay special attention to:
+- Maritime terminology and ship operations
+- Consistent date/time formats (e.g., '3ème jour de pluviôse')
+- Navigation coordinates and weather observations
+- Sequential event recording
+Preserve original spelling and formatting.
+
+### Context from Previous Pages ###
+--- Previous Page 1 ---
+"""
+I. Journal du 9 Décembre 1702.
+"""
+
+### Context from Next Pages ###
+--- Next Page 1 ---
+Le document à transcrire est vide. Aucun texte n'est présent pour être transcrit.
+
+Résultat : ""
+
+--- Next Page 2 ---
+{<em>Le document est vierge.</em>}
+
+
+### OCR Candidates for Current Page ###
+=== Candidate from Qwen-VL-32b-instruct ===
+""""
+
+=== Candidate from Mistral-ocr ===
+.
+
+=== Candidate from Kraken-ocr ===
+NES
+Beite dall
+EE
+EETITES
+Meie e 
+Me e
+M
+CRTTES
+B
+E
+RRE
+Pit A
+MESMTIR
+RRENEBRERE
+di
+
+### Evaluation Guidelines ###
+1. Accuracy: Select the most faithful representation of the original document
+2. Completeness: Prefer versions with less missing text
+3. Consistency: Maintain flow with previous pages (dates, terminology)
+4. Formatting: Preserve original line breaks, paragraphs, and layout
+5. Error Handling: Only correct obvious OCR errors (e.g., 'mαrina' → 'marina')
+6. Ambiguity: Mark uncertain readings with [sic?] but preserve original
+7. Context Awareness: Use both previous and next pages to resolve ambiguities
+
+### Output Requirements ###
+- Return ONLY the final curated text
+- Maintain original language (French)
+- Preserve historical spellings
+- Include all marginal notes in context
+- Never add explanatory text
+- For tables: maintain alignment with monospace formatting
+- If the page is empty or empty content return""
+
+
+2025-09-04 15:40:57,010 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-04 15:40:57,070 - INFO - Response
+ ""
+2025-09-04 15:40:58,578 - INFO - Prompt
+ 
+## Historical Document Transcription Review ##
+
+You are an expert archivist specializing in 18th-19th century maritime documents. 
+Your task is to evaluate multiple OCR transcriptions of the same page and produce 
+a single authoritative version optimized for historical research and RAG systems.
+
+You are processing a historical ship logbook. Pay special attention to:
+- Maritime terminology and ship operations
+- Consistent date/time formats (e.g., '3ème jour de pluviôse')
+- Navigation coordinates and weather observations
+- Sequential event recording
+Preserve original spelling and formatting.
+
+### Context from Previous Pages ###
+--- Previous Page 1 ---
+"""
+I. Journal du 9 Décembre 1702.
+"""
+
+--- Previous Page 2 ---
+""
+
+### Context from Next Pages ###
+--- Next Page 1 ---
+{<em>Le document est vierge.</em>}
+
+--- Next Page 2 ---
+Journal du Bord
+
+Bateau
+
+Le de Lacaze Duthiers.
+
+---
+
+Par un souscripteur qui fournit un nouvel ancre,
+j'ai offert à mon ami namurongay son prédécesseur
+qui fut profondément immergé
+ausi profondément incorrigible,
+en la venue à Venars en avaitil envoyé ses musiques.
+
+Fe de Lacaze Duthiers
+
+Fait le NVD. 1883.
+
+Contres les l'objectif sur ce livre des bords
+complique l'embarrassé emménagé dont L'inégalité de la pêche
+Le jour même l'emportait aux laboratoires de lmutation.
+
+---
+
+LABORATOIRE "ARAGO"
+PUBLIQUE
+ARCHIVES
+PROPRIÉTÉ
+PUBLIQUE
+
+
+### OCR Candidates for Current Page ###
+=== Candidate from Qwen-VL-32b-instruct ===
+Le document à transcrire est vide. Aucun texte n'est présent pour être transcrit.
+
+Résultat : ""
+
+=== Candidate from Mistral-ocr ===
+.
+
+=== Candidate from Kraken-ocr ===
+S. Ce 2 M^ 55.
+S. Site
+Miia
+(u e8
+( V
+ES
+(. . e ai n
+M ra tbe  e
+Dsi
+F.EE
+NTOS
+L
+C. E
+F
+ERETES
+DES
+BTIE
+NEES
+N
+NoS
+MRES
+(
+
+### Evaluation Guidelines ###
+1. Accuracy: Select the most faithful representation of the original document
+2. Completeness: Prefer versions with less missing text
+3. Consistency: Maintain flow with previous pages (dates, terminology)
+4. Formatting: Preserve original line breaks, paragraphs, and layout
+5. Error Handling: Only correct obvious OCR errors (e.g., 'mαrina' → 'marina')
+6. Ambiguity: Mark uncertain readings with [sic?] but preserve original
+7. Context Awareness: Use both previous and next pages to resolve ambiguities
+
+### Output Requirements ###
+- Return ONLY the final curated text
+- Maintain original language (French)
+- Preserve historical spellings
+- Include all marginal notes in context
+- Never add explanatory text
+- For tables: maintain alignment with monospace formatting
+- If the page is empty or empty content return""
+
+
+2025-09-04 15:41:00,295 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-04 15:41:00,333 - INFO - Response
+ ""
+2025-09-04 15:41:01,841 - INFO - Prompt
+ 
+## Historical Document Transcription Review ##
+
+You are an expert archivist specializing in 18th-19th century maritime documents. 
+Your task is to evaluate multiple OCR transcriptions of the same page and produce 
+a single authoritative version optimized for historical research and RAG systems.
+
+You are processing a historical ship logbook. Pay special attention to:
+- Maritime terminology and ship operations
+- Consistent date/time formats (e.g., '3ème jour de pluviôse')
+- Navigation coordinates and weather observations
+- Sequential event recording
+Preserve original spelling and formatting.
+
+### Context from Previous Pages ###
+--- Previous Page 1 ---
+"""
+I. Journal du 9 Décembre 1702.
+"""
+
+--- Previous Page 2 ---
+""
+
+--- Previous Page 3 ---
+""
+
+### Context from Next Pages ###
+--- Next Page 1 ---
+Journal du Bord
+
+Bateau
+
+Le de Lacaze Duthiers.
+
+---
+
+Par un souscripteur qui fournit un nouvel ancre,
+j'ai offert à mon ami namurongay son prédécesseur
+qui fut profondément immergé
+ausi profondément incorrigible,
+en la venue à Venars en avaitil envoyé ses musiques.
+
+Fe de Lacaze Duthiers
+
+Fait le NVD. 1883.
+
+Contres les l'objectif sur ce livre des bords
+complique l'embarrassé emménagé dont L'inégalité de la pêche
+Le jour même l'emportait aux laboratoires de lmutation.
+
+---
+
+LABORATOIRE "ARAGO"
+PUBLIQUE
+ARCHIVES
+PROPRIÉTÉ
+PUBLIQUE
+
+--- Next Page 2 ---
+1er Armement fait le 1er Avril 1883
+
+Patron Bonafos Jean  
+Matelots Barbe Bonaventure, Baillys Pierre  
+Mousse Baillys Jean
+
+
+### OCR Candidates for Current Page ###
+=== Candidate from Qwen-VL-32b-instruct ===
+{<em>Le document est vierge.</em>}
+
+=== Candidate from Mistral-ocr ===
+.
+
+=== Candidate from Kraken-ocr ===
+(  
+DRTOTES
+Prete tiat de d 
+(  Me ile
+Mepisbe R e
+1
+22
+3
+Bhti
+NI
+(  
+2
+2
+N
+F.
+le Male Biiei
+M Mn
+( it e l
+Ce tisteeré
+Mre uulfe
+( l
+( Mn llur Cetlot V^e ill
+Bddteitn  e Mie 
+EK
+
+### Evaluation Guidelines ###
+1. Accuracy: Select the most faithful representation of the original document
+2. Completeness: Prefer versions with less missing text
+3. Consistency: Maintain flow with previous pages (dates, terminology)
+4. Formatting: Preserve original line breaks, paragraphs, and layout
+5. Error Handling: Only correct obvious OCR errors (e.g., 'mαrina' → 'marina')
+6. Ambiguity: Mark uncertain readings with [sic?] but preserve original
+7. Context Awareness: Use both previous and next pages to resolve ambiguities
+
+### Output Requirements ###
+- Return ONLY the final curated text
+- Maintain original language (French)
+- Preserve historical spellings
+- Include all marginal notes in context
+- Never add explanatory text
+- For tables: maintain alignment with monospace formatting
+- If the page is empty or empty content return""
+
+
+2025-09-04 15:41:03,312 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-04 15:41:03,372 - INFO - Response
+ ""
+2025-09-04 15:41:04,880 - INFO - Prompt
+ 
+## Historical Document Transcription Review ##
+
+You are an expert archivist specializing in 18th-19th century maritime documents. 
+Your task is to evaluate multiple OCR transcriptions of the same page and produce 
+a single authoritative version optimized for historical research and RAG systems.
+
+You are processing a historical ship logbook. Pay special attention to:
+- Maritime terminology and ship operations
+- Consistent date/time formats (e.g., '3ème jour de pluviôse')
+- Navigation coordinates and weather observations
+- Sequential event recording
+Preserve original spelling and formatting.
+
+### Context from Previous Pages ###
+--- Previous Page 1 ---
+""
+
+--- Previous Page 2 ---
+""
+
+--- Previous Page 3 ---
+""
+
+### Context from Next Pages ###
+--- Next Page 1 ---
+1er Armement fait le 1er Avril 1883
+
+Patron Bonafos Jean  
+Matelots Barbe Bonaventure, Baillys Pierre  
+Mousse Baillys Jean
+
+--- Next Page 2 ---
+1ʳᵉ Sortie
+
+**Direction :**  
+Au large de l'Île de la Grosse  
+Essai du bateau
+
+Étaient à Bord :  
+M. Pruvot, Taumont, Wegmann, François, Joulain  
+
+**Résultat à rapporter :**
+
+
+### OCR Candidates for Current Page ###
+=== Candidate from Qwen-VL-32b-instruct ===
+Journal du Bord
+
+Bateau
+
+Le de Lacaze Duthiers.
+
+---
+
+Par un souscripteur qui fournit un nouvel ancre,
+j'ai offert à mon ami namurongay son prédécesseur
+qui fut profondément immergé
+ausi profondément incorrigible,
+en la venue à Venars en avaitil envoyé ses musiques.
+
+Fe de Lacaze Duthiers
+
+Fait le NVD. 1883.
+
+Contres les l'objectif sur ce livre des bords
+complique l'embarrassé emménagé dont L'inégalité de la pêche
+Le jour même l'emportait aux laboratoires de lmutation.
+
+---
+
+LABORATOIRE "ARAGO"
+PUBLIQUE
+ARCHIVES
+PROPRIÉTÉ
+PUBLIQUE
+
+=== Candidate from Mistral-ocr ===
+Laboratoire
+![img-0.jpeg](img-0.jpeg)
+
+Journal du Dôvet
+
+Bateau
+
+Se de l'acaze Outhiera.
+
+![img-1.jpeg](img-1.jpeg)
+
+=== Candidate from Kraken-ocr ===
+1
+2
+2
+t
+Sournal du Oodrd
+Jo.
+
+I
+de de Vacare Duthiers.
+u^e O
+3urrille
+1^o
+7 d
+S Saddl 5 mo^l
+49r
+d
+D^d
+10
+30e,
+1
+1 5
+4
+St Cdr
+15
+PUBETS
+310f
+M^er 5ol
+der d^e qot
+30n 816 J? j3e
+30 ot
+d P^ O d
+8 for
+23
+1de
+3
+1
+3etbe
+31
+4^e
+31
+es Fes l'rug^e
+DS
+2
+93
+3
+7-d.
+1
+
+### Evaluation Guidelines ###
+1. Accuracy: Select the most faithful representation of the original document
+2. Completeness: Prefer versions with less missing text
+3. Consistency: Maintain flow with previous pages (dates, terminology)
+4. Formatting: Preserve original line breaks, paragraphs, and layout
+5. Error Handling: Only correct obvious OCR errors (e.g., 'mαrina' → 'marina')
+6. Ambiguity: Mark uncertain readings with [sic?] but preserve original
+7. Context Awareness: Use both previous and next pages to resolve ambiguities
+
+### Output Requirements ###
+- Return ONLY the final curated text
+- Maintain original language (French)
+- Preserve historical spellings
+- Include all marginal notes in context
+- Never add explanatory text
+- For tables: maintain alignment with monospace formatting
+- If the page is empty or empty content return""
+
+
+2025-09-04 15:41:06,981 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-04 15:41:08,962 - INFO - Response
+ Journal du Bord
+
+Bateau
+
+Le de Lacaze Duthiers.
+
+---
+
+Par un souscripteur qui fournit un nouvel ancre,  
+j'ai offert à mon ami namurongay, son prédécesseur,  
+qui fut profondément immergé,  
+aussi profondément incorrigible,  
+en la venue à Venars, en avait-il envoyé ses musique.
+
+Fait le NVD. 1883.
+
+Contre l'objectif sur ce livre des bords,  
+complice l'embarrassé emmenagé,  
+dont l'inégalité de la pêche,  
+le jour même l'emportait aux laboratoires de lmutation.
+
+---
+
+LABORATOIRE "ARAGO"  
+PUBLIQUE  
+ARCHIVES  
+PROPRIÉTÉ PUBLIQUE
+2025-09-04 15:41:10,481 - INFO - Prompt
+ 
+## Historical Document Transcription Review ##
+
+You are an expert archivist specializing in 18th-19th century maritime documents. 
+Your task is to evaluate multiple OCR transcriptions of the same page and produce 
+a single authoritative version optimized for historical research and RAG systems.
+
+You are processing a historical ship logbook. Pay special attention to:
+- Maritime terminology and ship operations
+- Consistent date/time formats (e.g., '3ème jour de pluviôse')
+- Navigation coordinates and weather observations
+- Sequential event recording
+Preserve original spelling and formatting.
+
+### Context from Previous Pages ###
+--- Previous Page 1 ---
+""
+
+--- Previous Page 2 ---
+""
+
+--- Previous Page 3 ---
+Journal du Bord
+
+Bateau
+
+Le de Lacaze Duthiers.
+
+---
+
+Par un souscripteur qui fournit un nouvel ancre,  
+j'ai offert à mon ami namurongay, son prédécesseur,  
+qui fut profondément immergé,  
+aussi profondément incorrigible,  
+en la venue à Venars, en avait-il envoyé ses musique.
+
+Fait le NVD. 1883.
+
+Contre l'objectif sur ce livre des bords,  
+complice l'embarrassé emmenagé,  
+dont l'inégalité de la pêche,  
+le jour même l'emportait aux laboratoires de lmutation.
+
+---
+
+LABORATOIRE "ARAGO"  
+PUBLIQUE  
+ARCHIVES  
+PROPRIÉTÉ PUBLIQUE
+
+### Context from Next Pages ###
+--- Next Page 1 ---
+1ʳᵉ Sortie
+
+**Direction :**  
+Au large de l'Île de la Grosse  
+Essai du bateau
+
+Étaient à Bord :  
+M. Pruvot, Taumont, Wegmann, François, Joulain  
+
+**Résultat à rapporter :**
+
+--- Next Page 2 ---
+2<sup>ième</sup> Sortie  
+20 avril 1843  
+
+Buls  
+Dragage dans le Kontiaulé  
+
+étaient à bord  
+
+In. In.  
+Bruntot, Wegmann, Francois, Fauret, Joulain  
+
+Résultat, on a rapporté  
+Gastéropodes Aréphales, crustacés  
+
+Localité  
+Kontiaulé
+
+
+### OCR Candidates for Current Page ###
+=== Candidate from Qwen-VL-32b-instruct ===
+1er Armement fait le 1er Avril 1883
+
+Patron Bonafos Jean  
+Matelots Barbe Bonaventure, Baillys Pierre  
+Mousse Baillys Jean
+
+=== Candidate from Mistral-ocr ===
+12 Grmement- frail- le 1er Geril - 1883
+
+Garton
+Eborafos Jean
+
+Matelols
+Barbe Bonaventure, Barll's Pierre
+
+Mousse
+Barll's Jean
+
+00983
+
+=== Candidate from Kraken-ocr ===
+p
+2
+
+5
+3
+"
+1^er Armement fait le v^e Aoril -1883
+Clatron
+6
+PEEIIIR
+PLMRILL
+Boncfos deun
+
+E
+
+Matelots Darbe Bonaventure, Daills Pierre
+Mousse
+
+Baills Jeun
+DIB
+
+D  Frir -
+
+### Evaluation Guidelines ###
+1. Accuracy: Select the most faithful representation of the original document
+2. Completeness: Prefer versions with less missing text
+3. Consistency: Maintain flow with previous pages (dates, terminology)
+4. Formatting: Preserve original line breaks, paragraphs, and layout
+5. Error Handling: Only correct obvious OCR errors (e.g., 'mαrina' → 'marina')
+6. Ambiguity: Mark uncertain readings with [sic?] but preserve original
+7. Context Awareness: Use both previous and next pages to resolve ambiguities
+
+### Output Requirements ###
+- Return ONLY the final curated text
+- Maintain original language (French)
+- Preserve historical spellings
+- Include all marginal notes in context
+- Never add explanatory text
+- For tables: maintain alignment with monospace formatting
+- If the page is empty or empty content return""
+
+
+2025-09-04 15:41:12,215 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-04 15:41:13,306 - INFO - Response
+ 1<sup>er</sup> Armement fait le 1<sup>er</sup> Avril 1883
+
+Patron  
+Bonafos Jean
+
+Matelots  
+Barbe Bonaventure, Baillys Pierre
+
+Mousse  
+Baillys Jean
+2025-09-04 15:41:14,826 - INFO - Prompt
+ 
+## Historical Document Transcription Review ##
+
+You are an expert archivist specializing in 18th-19th century maritime documents. 
+Your task is to evaluate multiple OCR transcriptions of the same page and produce 
+a single authoritative version optimized for historical research and RAG systems.
+
+You are processing a historical ship logbook. Pay special attention to:
+- Maritime terminology and ship operations
+- Consistent date/time formats (e.g., '3ème jour de pluviôse')
+- Navigation coordinates and weather observations
+- Sequential event recording
+Preserve original spelling and formatting.
+
+### Context from Previous Pages ###
+--- Previous Page 1 ---
+""
+
+--- Previous Page 2 ---
+Journal du Bord
+
+Bateau
+
+Le de Lacaze Duthiers.
+
+---
+
+Par un souscripteur qui fournit un nouvel ancre,  
+j'ai offert à mon ami namurongay, son prédécesseur,  
+qui fut profondément immergé,  
+aussi profondément incorrigible,  
+en la venue à Venars, en avait-il envoyé ses musique.
+
+Fait le NVD. 1883.
+
+Contre l'objectif sur ce livre des bords,  
+complice l'embarrassé emmenagé,  
+dont l'inégalité de la pêche,  
+le jour même l'emportait aux laboratoires de lmutation.
+
+---
+
+LABORATOIRE "ARAGO"  
+PUBLIQUE  
+ARCHIVES  
+PROPRIÉTÉ PUBLIQUE
+
+--- Previous Page 3 ---
+1<sup>er</sup> Armement fait le 1<sup>er</sup> Avril 1883
+
+Patron  
+Bonafos Jean
+
+Matelots  
+Barbe Bonaventure, Baillys Pierre
+
+Mousse  
+Baillys Jean
+
+### Context from Next Pages ###
+--- Next Page 1 ---
+2<sup>ième</sup> Sortie  
+20 avril 1843  
+
+Buls  
+Dragage dans le Kontiaulé  
+
+étaient à bord  
+
+In. In.  
+Bruntot, Wegmann, Francois, Fauret, Joulain  
+
+Résultat, on a rapporté  
+Gastéropodes Aréphales, crustacés  
+
+Localité  
+Kontiaulé
+
+--- Next Page 2 ---
+3ème Sortie
+
+28 avril
+
+Bul. Dragage au large du Troc - 32 m de profondeur
+
+étaient à bord
+
+M. In. Duval, François, Goulin
+
+---
+
+Résultat-on a rapporté
+- Annélides
+- Gastrochaenae, Amphypora 3.
+
+Localité. au large du Troc 22 Met profondeur
+
+---
+
+
+### OCR Candidates for Current Page ###
+=== Candidate from Qwen-VL-32b-instruct ===
+1ʳᵉ Sortie
+
+**Direction :**  
+Au large de l'Île de la Grosse  
+Essai du bateau
+
+Étaient à Bord :  
+M. Pruvot, Taumont, Wegmann, François, Joulain  
+
+**Résultat à rapporter :**
+
+=== Candidate from Mistral-ocr ===
+# Direclion - Au large de l'lle grosse
+
+## Essai du bateau
+
+### clairolt à Bord
+
+### 311 311. Dunst, Faust, Wegmann, Fromme, Joulin
+
+### 2 Joulin
+
+### Résultat on à rapproche
+
+=== Candidate from Kraken-ocr ===
+Arems
+
+D
+1
+1
+
+2
+3
+"
+t^ève Sortie
+2A
+5"
+étaient a Idord
+J
+--
+-
+A
+Ge
+PU
+Ddirection - Au large de l de Gros3o
+Essai du bêtean
+C
+Mn M. Lruvot, Paurot, Négmann . Freunois,
+
+2 Jour
+(ai - L-
+cin
+Résultat on a rapporté.
+D
+
+1
+1
+-
+---
+----
+13 O3O3
+
+### Evaluation Guidelines ###
+1. Accuracy: Select the most faithful representation of the original document
+2. Completeness: Prefer versions with less missing text
+3. Consistency: Maintain flow with previous pages (dates, terminology)
+4. Formatting: Preserve original line breaks, paragraphs, and layout
+5. Error Handling: Only correct obvious OCR errors (e.g., 'mαrina' → 'marina')
+6. Ambiguity: Mark uncertain readings with [sic?] but preserve original
+7. Context Awareness: Use both previous and next pages to resolve ambiguities
+
+### Output Requirements ###
+- Return ONLY the final curated text
+- Maintain original language (French)
+- Preserve historical spellings
+- Include all marginal notes in context
+- Never add explanatory text
+- For tables: maintain alignment with monospace formatting
+- If the page is empty or empty content return""
+
+
+2025-09-04 15:41:16,052 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-04 15:41:16,717 - INFO - Response
+ 1ʳᵉ Sortie
+
+**Direction :**  
+Au large de l'Île de la Grosse  
+Essai du bateau
+
+Étaient à Bord :  
+M. Pruvot, Taumont, Wegmann, François, Joulain  
+
+**Résultat à rapporter :**
+2025-09-04 15:41:18,227 - INFO - Prompt
+ 
+## Historical Document Transcription Review ##
+
+You are an expert archivist specializing in 18th-19th century maritime documents. 
+Your task is to evaluate multiple OCR transcriptions of the same page and produce 
+a single authoritative version optimized for historical research and RAG systems.
+
+You are processing a historical ship logbook. Pay special attention to:
+- Maritime terminology and ship operations
+- Consistent date/time formats (e.g., '3ème jour de pluviôse')
+- Navigation coordinates and weather observations
+- Sequential event recording
+Preserve original spelling and formatting.
+
+### Context from Previous Pages ###
+--- Previous Page 1 ---
+Journal du Bord
+
+Bateau
+
+Le de Lacaze Duthiers.
+
+---
+
+Par un souscripteur qui fournit un nouvel ancre,  
+j'ai offert à mon ami namurongay, son prédécesseur,  
+qui fut profondément immergé,  
+aussi profondément incorrigible,  
+en la venue à Venars, en avait-il envoyé ses musique.
+
+Fait le NVD. 1883.
+
+Contre l'objectif sur ce livre des bords,  
+complice l'embarrassé emmenagé,  
+dont l'inégalité de la pêche,  
+le jour même l'emportait aux laboratoires de lmutation.
+
+---
+
+LABORATOIRE "ARAGO"  
+PUBLIQUE  
+ARCHIVES  
+PROPRIÉTÉ PUBLIQUE
+
+--- Previous Page 2 ---
+1<sup>er</sup> Armement fait le 1<sup>er</sup> Avril 1883
+
+Patron  
+Bonafos Jean
+
+Matelots  
+Barbe Bonaventure, Baillys Pierre
+
+Mousse  
+Baillys Jean
+
+--- Previous Page 3 ---
+1ʳᵉ Sortie
+
+**Direction :**  
+Au large de l'Île de la Grosse  
+Essai du bateau
+
+Étaient à Bord :  
+M. Pruvot, Taumont, Wegmann, François, Joulain  
+
+**Résultat à rapporter :**
+
+### Context from Next Pages ###
+--- Next Page 1 ---
+3ème Sortie
+
+28 avril
+
+Bul. Dragage au large du Troc - 32 m de profondeur
+
+étaient à bord
+
+M. In. Duval, François, Goulin
+
+---
+
+Résultat-on a rapporté
+- Annélides
+- Gastrochaenae, Amphypora 3.
+
+Localité. au large du Troc 22 Met profondeur
+
+---
+
+--- Next Page 2 ---
+Leïne Sortie
+
+1<sup>er</sup> Mai
+
+But - Pêche au bênet au larged.Paulilles
+
+étaient à bord
+
+M. M. Prunet, François
+
+Résultat on a rapporté
+
+Edmundes - Helothuries - Asclérès  
+Céphalopodes - Asides - Crustaces
+
+Localité. Paulilles 10 mètres de profondeur
+
+
+### OCR Candidates for Current Page ###
+=== Candidate from Qwen-VL-32b-instruct ===
+2<sup>ième</sup> Sortie  
+20 avril 1843  
+
+Buls  
+Dragage dans le Kontiaulé  
+
+étaient à bord  
+
+In. In.  
+Bruntot, Wegmann, Francois, Fauret, Joulain  
+
+Résultat, on a rapporté  
+Gastéropodes Aréphales, crustacés  
+
+Localité  
+Kontiaulé
+
+=== Candidate from Mistral-ocr ===
+# 2ème Sortie
+
+20 avril 1943.
+
+Boit. Bragage Vans & Fontenelle
+
+clairol. a bord
+
+Jn. Jn. Rietst, Wegmann, Francois, Fawel, Jochim
+
+Résultat, on a rapporté —
+
+Gastropoles, Rupiholes, muslacs —
+
+Localité. Montanlé
+
+00902
+
+=== Candidate from Kraken-ocr ===
+teé i----u amor -- M^r. avre -
+3
+Ft Sorte
+2
+But o
+Et
+6
+--
+20 avil 1553
+-
+ze dans le Hontaule
+[B-----------CLLdda
+" a bord
+Mn. M. Lruvet, Négmann, Francais
+8
+Pccomerée
+
+1
+7
+--
+Orté -
+Gastergnodes Rephales, anstaus
+4
+
+Localité Fontaule
+
+ler
+A
+-
+1
+2
+d
+C
+IOdny
+
+### Evaluation Guidelines ###
+1. Accuracy: Select the most faithful representation of the original document
+2. Completeness: Prefer versions with less missing text
+3. Consistency: Maintain flow with previous pages (dates, terminology)
+4. Formatting: Preserve original line breaks, paragraphs, and layout
+5. Error Handling: Only correct obvious OCR errors (e.g., 'mαrina' → 'marina')
+6. Ambiguity: Mark uncertain readings with [sic?] but preserve original
+7. Context Awareness: Use both previous and next pages to resolve ambiguities
+
+### Output Requirements ###
+- Return ONLY the final curated text
+- Maintain original language (French)
+- Preserve historical spellings
+- Include all marginal notes in context
+- Never add explanatory text
+- For tables: maintain alignment with monospace formatting
+- If the page is empty or empty content return""
+
+
+2025-09-04 15:41:19,780 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-04 15:41:20,930 - INFO - Response
+ 2<sup>ème</sup> Sortie  
+20 avril 1883  
+
+Buls  
+Dragage dans le Kontiaulé  
+
+étaient à bord  
+
+In. In.  
+Bruntot, Wegmann, Francois, Fauret, Joulain  
+
+Résultat, on a rapporté  
+Gastéropodes Aréphales, crustacés  
+
+Localité  
+Kontiaulé
+2025-09-04 15:41:22,438 - INFO - Prompt
+ 
+## Historical Document Transcription Review ##
+
+You are an expert archivist specializing in 18th-19th century maritime documents. 
+Your task is to evaluate multiple OCR transcriptions of the same page and produce 
+a single authoritative version optimized for historical research and RAG systems.
+
+You are processing a historical ship logbook. Pay special attention to:
+- Maritime terminology and ship operations
+- Consistent date/time formats (e.g., '3ème jour de pluviôse')
+- Navigation coordinates and weather observations
+- Sequential event recording
+Preserve original spelling and formatting.
+
+### Context from Previous Pages ###
+--- Previous Page 1 ---
+1<sup>er</sup> Armement fait le 1<sup>er</sup> Avril 1883
+
+Patron  
+Bonafos Jean
+
+Matelots  
+Barbe Bonaventure, Baillys Pierre
+
+Mousse  
+Baillys Jean
+
+--- Previous Page 2 ---
+1ʳᵉ Sortie
+
+**Direction :**  
+Au large de l'Île de la Grosse  
+Essai du bateau
+
+Étaient à Bord :  
+M. Pruvot, Taumont, Wegmann, François, Joulain  
+
+**Résultat à rapporter :**
+
+--- Previous Page 3 ---
+2<sup>ème</sup> Sortie  
+20 avril 1883  
+
+Buls  
+Dragage dans le Kontiaulé  
+
+étaient à bord  
+
+In. In.  
+Bruntot, Wegmann, Francois, Fauret, Joulain  
+
+Résultat, on a rapporté  
+Gastéropodes Aréphales, crustacés  
+
+Localité  
+Kontiaulé
+
+### Context from Next Pages ###
+--- Next Page 1 ---
+Leïne Sortie
+
+1<sup>er</sup> Mai
+
+But - Pêche au bênet au larged.Paulilles
+
+étaient à bord
+
+M. M. Prunet, François
+
+Résultat on a rapporté
+
+Edmundes - Helothuries - Asclérès  
+Céphalopodes - Asides - Crustaces
+
+Localité. Paulilles 10 mètres de profondeur
+
+--- Next Page 2 ---
+5<sup>e</sup> Sortie
+
+5 mai
+
+Rus - Reîte au Halut pour avoir des Pedawnsia
+
+étaient-à bord
+
+In. III. Pruvot, François Vignon
+
+Résultat - on a rapporté
+
+Pedawnsia - chinoises
+
+Localité au large Banguls 35 Mt profondeur
+
+
+### OCR Candidates for Current Page ###
+=== Candidate from Qwen-VL-32b-instruct ===
+3ème Sortie
+
+28 avril
+
+Bul. Dragage au large du Troc - 32 m de profondeur
+
+étaient à bord
+
+M. In. Duval, François, Goulin
+
+---
+
+Résultat-on a rapporté
+- Annélides
+- Gastrochaenae, Amphypora 3.
+
+Localité. au large du Troc 22 Met profondeur
+
+---
+
+=== Candidate from Mistral-ocr ===
+scine Sorlie
+
+28 avril
+
+13th Dragage au large Turtre - 32 m²
+Enfants
+
+étatier à bord
+
+21.31. Durot, François, Yoruba
+
+Fermilat ou à rapporté - Armelot
+Gartholmes, Amphipour
+
+Localité, au large du bige 22 m², profanateur
+
+00009
+
+=== Candidate from Kraken-ocr ===
+2
+
+
+
+2
+D
+But Dragage au louze du Croc - 3
+*
+étarent a bord
+
+O
+M. M. Leuvot, François, Joubin
+J
+l
+6
+géme Sortie
+28 Avril
+Prefendeur
+Loi
+3.I
+.
+Résultat on à
+Gastrohanes,
+(
+70r
+
+D
+1..
+Le - Ane lidés
+AA
+Pocalité. au farge du vroi 22 M
+(
+fire
+nideur
+N da
+
+1^o
+I
+je
+6
+FFDadi
+
+### Evaluation Guidelines ###
+1. Accuracy: Select the most faithful representation of the original document
+2. Completeness: Prefer versions with less missing text
+3. Consistency: Maintain flow with previous pages (dates, terminology)
+4. Formatting: Preserve original line breaks, paragraphs, and layout
+5. Error Handling: Only correct obvious OCR errors (e.g., 'mαrina' → 'marina')
+6. Ambiguity: Mark uncertain readings with [sic?] but preserve original
+7. Context Awareness: Use both previous and next pages to resolve ambiguities
+
+### Output Requirements ###
+- Return ONLY the final curated text
+- Maintain original language (French)
+- Preserve historical spellings
+- Include all marginal notes in context
+- Never add explanatory text
+- For tables: maintain alignment with monospace formatting
+- If the page is empty or empty content return""
+
+
+2025-09-04 15:41:25,387 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-04 15:41:26,413 - INFO - Response
+ 3ème Sortie
+
+28 avril 1883
+
+But. Dragage au large du Troc - 32 m de profondeur
+
+étaient à bord
+
+M. M. Duval, François, Goulin
+
+---
+
+Résultat - on a rapporté
+- Annélides
+- Gastrochaenae, Amphypora
+
+Localité. au large du Troc 22 m de profondeur
+2025-09-04 15:41:27,922 - INFO - Prompt
+ 
+## Historical Document Transcription Review ##
+
+You are an expert archivist specializing in 18th-19th century maritime documents. 
+Your task is to evaluate multiple OCR transcriptions of the same page and produce 
+a single authoritative version optimized for historical research and RAG systems.
+
+You are processing a historical ship logbook. Pay special attention to:
+- Maritime terminology and ship operations
+- Consistent date/time formats (e.g., '3ème jour de pluviôse')
+- Navigation coordinates and weather observations
+- Sequential event recording
+Preserve original spelling and formatting.
+
+### Context from Previous Pages ###
+--- Previous Page 1 ---
+1ʳᵉ Sortie
+
+**Direction :**  
+Au large de l'Île de la Grosse  
+Essai du bateau
+
+Étaient à Bord :  
+M. Pruvot, Taumont, Wegmann, François, Joulain  
+
+**Résultat à rapporter :**
+
+--- Previous Page 2 ---
+2<sup>ème</sup> Sortie  
+20 avril 1883  
+
+Buls  
+Dragage dans le Kontiaulé  
+
+étaient à bord  
+
+In. In.  
+Bruntot, Wegmann, Francois, Fauret, Joulain  
+
+Résultat, on a rapporté  
+Gastéropodes Aréphales, crustacés  
+
+Localité  
+Kontiaulé
+
+--- Previous Page 3 ---
+3ème Sortie
+
+28 avril 1883
+
+But. Dragage au large du Troc - 32 m de profondeur
+
+étaient à bord
+
+M. M. Duval, François, Goulin
+
+---
+
+Résultat - on a rapporté
+- Annélides
+- Gastrochaenae, Amphypora
+
+Localité. au large du Troc 22 m de profondeur
+
+### Context from Next Pages ###
+--- Next Page 1 ---
+5<sup>e</sup> Sortie
+
+5 mai
+
+Rus - Reîte au Halut pour avoir des Pedawnsia
+
+étaient-à bord
+
+In. III. Pruvot, François Vignon
+
+Résultat - on a rapporté
+
+Pedawnsia - chinoises
+
+Localité au large Banguls 35 Mt profondeur
+
+--- Next Page 2 ---
+Gene Sortie
+
+10 Mai
+
+Bul - Exploration du port de Port Vendres
+
+Étaient à bord
+
+In. In. de Lagage Frichiers - Privat - Geulin
+
+Localité. Port-vendres
+
+Résultat on a rapporté
+
+Symposium conoides - Ispoigraphy Spallangani
+Eobiedus - Pennibranches
+
+Localité. Port-vendres
+
+0004500
+
+
+### OCR Candidates for Current Page ###
+=== Candidate from Qwen-VL-32b-instruct ===
+Leïne Sortie
+
+1<sup>er</sup> Mai
+
+But - Pêche au bênet au larged.Paulilles
+
+étaient à bord
+
+M. M. Prunet, François
+
+Résultat on a rapporté
+
+Edmundes - Helothuries - Asclérès  
+Céphalopodes - Asides - Crustaces
+
+Localité. Paulilles 10 mètres de profondeur
+
+=== Candidate from Mistral-ocr ===
+time Sortie
+
+1. Mai
+
+Buit - Dele au halet au large Buehllet
+
+élarent à bord
+
+31.31. Droit, Français
+
+Réveillat ou à rapproche -
+
+Chimres - Volatilités - Astéries -
+Cephalopéties - Astéries - Crustées.
+
+Localité: Nautique nord - prondem
+
+00011
+
+=== Candidate from Kraken-ocr ===
+---
+
+S^eme Doutie
+1. Mon
+L eu
+E
+---
+Fout - Leite au chalut au largd. aulellers
+etuient à bord
+-
+M. M. Trnvot, C'hancais
+8
+at on a 7e
+uporté -
+Echimdes = NVolothuries - Asséri
+""
+Lephalopodes. Asidrés - Ciustocés .
+1
+Localité Faulilles. 40 6
+smondeur
+E
+7
+1
+od1 S.
+
+### Evaluation Guidelines ###
+1. Accuracy: Select the most faithful representation of the original document
+2. Completeness: Prefer versions with less missing text
+3. Consistency: Maintain flow with previous pages (dates, terminology)
+4. Formatting: Preserve original line breaks, paragraphs, and layout
+5. Error Handling: Only correct obvious OCR errors (e.g., 'mαrina' → 'marina')
+6. Ambiguity: Mark uncertain readings with [sic?] but preserve original
+7. Context Awareness: Use both previous and next pages to resolve ambiguities
+
+### Output Requirements ###
+- Return ONLY the final curated text
+- Maintain original language (French)
+- Preserve historical spellings
+- Include all marginal notes in context
+- Never add explanatory text
+- For tables: maintain alignment with monospace formatting
+- If the page is empty or empty content return""
+
+
+2025-09-04 15:41:30,193 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-04 15:41:31,322 - INFO - Response
+ ---
+4<sup>ème</sup> Sortie
+
+1<sup>er</sup> Mai
+
+But - Pêche au chalut au large de Paulilles
+
+étaient à bord
+
+M. M. Pruvot, François
+
+Résultat - on a rapporté
+
+Échinodes - Hélothuries - Astéries  
+Céphalopodes - Asidés - Crustacés
+
+Localité. Paulilles 10 mètres de profondeur
+
+---
+2025-09-04 15:41:32,843 - INFO - Prompt
+ 
+## Historical Document Transcription Review ##
+
+You are an expert archivist specializing in 18th-19th century maritime documents. 
+Your task is to evaluate multiple OCR transcriptions of the same page and produce 
+a single authoritative version optimized for historical research and RAG systems.
+
+You are processing a historical ship logbook. Pay special attention to:
+- Maritime terminology and ship operations
+- Consistent date/time formats (e.g., '3ème jour de pluviôse')
+- Navigation coordinates and weather observations
+- Sequential event recording
+Preserve original spelling and formatting.
+
+### Context from Previous Pages ###
+--- Previous Page 1 ---
+2<sup>ème</sup> Sortie  
+20 avril 1883  
+
+Buls  
+Dragage dans le Kontiaulé  
+
+étaient à bord  
+
+In. In.  
+Bruntot, Wegmann, Francois, Fauret, Joulain  
+
+Résultat, on a rapporté  
+Gastéropodes Aréphales, crustacés  
+
+Localité  
+Kontiaulé
+
+--- Previous Page 2 ---
+3ème Sortie
+
+28 avril 1883
+
+But. Dragage au large du Troc - 32 m de profondeur
+
+étaient à bord
+
+M. M. Duval, François, Goulin
+
+---
+
+Résultat - on a rapporté
+- Annélides
+- Gastrochaenae, Amphypora
+
+Localité. au large du Troc 22 m de profondeur
+
+--- Previous Page 3 ---
+---
+4<sup>ème</sup> Sortie
+
+1<sup>er</sup> Mai
+
+But - Pêche au chalut au large de Paulilles
+
+étaient à bord
+
+M. M. Pruvot, François
+
+Résultat - on a rapporté
+
+Échinodes - Hélothuries - Astéries  
+Céphalopodes - Asidés - Crustacés
+
+Localité. Paulilles 10 mètres de profondeur
+
+---
+
+### Context from Next Pages ###
+--- Next Page 1 ---
+Gene Sortie
+
+10 Mai
+
+Bul - Exploration du port de Port Vendres
+
+Étaient à bord
+
+In. In. de Lagage Frichiers - Privat - Geulin
+
+Localité. Port-vendres
+
+Résultat on a rapporté
+
+Symposium conoides - Ispoigraphy Spallangani
+Eobiedus - Pennibranches
+
+Localité. Port-vendres
+
+0004500
+
+--- Next Page 2 ---
+7<sup>me</sup> Sortie
+
+20 Mai 1843
+
+**Bul.** Drogage. Terrest. Cap Béar
+
+**étaient à bord**
+
+In. Mr. (12 élèves de la Famille de Roubaix)
+Mm<sup>e</sup> Barthélémy, Trulet, Cartailhac
+
+Mm<sup>e</sup>: Pruvot, Frances
+
+**Résultat on a rapporté Annelides.**
+A céphales
+
+**Localité.** Cap Béar. 4 sel. Profondeur. 00017
+
+
+### OCR Candidates for Current Page ###
+=== Candidate from Qwen-VL-32b-instruct ===
+5<sup>e</sup> Sortie
+
+5 mai
+
+Rus - Reîte au Halut pour avoir des Pedawnsia
+
+étaient-à bord
+
+In. III. Pruvot, François Vignon
+
+Résultat - on a rapporté
+
+Pedawnsia - chinoises
+
+Localité au large Banguls 35 Mt profondeur
+
+=== Candidate from Mistral-ocr ===
+# 5ème Sortie
+
+## 3 Mar
+
+**Bist.** - Leite au chalet pour avoir 200 Dames
+
+## claires à bord
+
+**311. 311. 311. 311. 311. 311. 311.**
+
+Résultat ou à rapporté
+
+Dames, chantes
+
+Localité au large Banyals 1500000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+
+=== Candidate from Kraken-ocr ===
+1
+1
+-----
+S^e^me Sortie
+3 ai -
+6
+
+dt--
+But - Leche auchalnt pour avoit des Es inreet
+etaient a Gord
+M. M. rruvot.'harmair- IVcepmernt
+Res
+18
+porté
+Rdrinsier - hinide.1 -
+II
+L
+Locolité au large Banynls 35ill
+501e5
+3
+Ces
+
+2
+3
+1
+" "
+8
+1
+5
+2
+
+### Evaluation Guidelines ###
+1. Accuracy: Select the most faithful representation of the original document
+2. Completeness: Prefer versions with less missing text
+3. Consistency: Maintain flow with previous pages (dates, terminology)
+4. Formatting: Preserve original line breaks, paragraphs, and layout
+5. Error Handling: Only correct obvious OCR errors (e.g., 'mαrina' → 'marina')
+6. Ambiguity: Mark uncertain readings with [sic?] but preserve original
+7. Context Awareness: Use both previous and next pages to resolve ambiguities
+
+### Output Requirements ###
+- Return ONLY the final curated text
+- Maintain original language (French)
+- Preserve historical spellings
+- Include all marginal notes in context
+- Never add explanatory text
+- For tables: maintain alignment with monospace formatting
+- If the page is empty or empty content return""
+
+
+2025-09-04 15:41:35,046 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-04 15:41:36,042 - INFO - Response
+ 5<sup>e</sup> Sortie
+
+5 mai 1883
+
+But - Leche au chalut pour avoir des Pedawnsia
+
+étaient à bord
+
+M. M. Pruvot, François, Vignon
+
+Résultat - on a rapporté
+
+Pedawnsia - chinoises
+
+Localité au large de Banyuls 35 mètres de profondeur
+2025-09-04 15:41:37,553 - INFO - Prompt
+ 
+## Historical Document Transcription Review ##
+
+You are an expert archivist specializing in 18th-19th century maritime documents. 
+Your task is to evaluate multiple OCR transcriptions of the same page and produce 
+a single authoritative version optimized for historical research and RAG systems.
+
+You are processing a historical ship logbook. Pay special attention to:
+- Maritime terminology and ship operations
+- Consistent date/time formats (e.g., '3ème jour de pluviôse')
+- Navigation coordinates and weather observations
+- Sequential event recording
+Preserve original spelling and formatting.
+
+### Context from Previous Pages ###
+--- Previous Page 1 ---
+3ème Sortie
+
+28 avril 1883
+
+But. Dragage au large du Troc - 32 m de profondeur
+
+étaient à bord
+
+M. M. Duval, François, Goulin
+
+---
+
+Résultat - on a rapporté
+- Annélides
+- Gastrochaenae, Amphypora
+
+Localité. au large du Troc 22 m de profondeur
+
+--- Previous Page 2 ---
+---
+4<sup>ème</sup> Sortie
+
+1<sup>er</sup> Mai
+
+But - Pêche au chalut au large de Paulilles
+
+étaient à bord
+
+M. M. Pruvot, François
+
+Résultat - on a rapporté
+
+Échinodes - Hélothuries - Astéries  
+Céphalopodes - Asidés - Crustacés
+
+Localité. Paulilles 10 mètres de profondeur
+
+---
+
+--- Previous Page 3 ---
+5<sup>e</sup> Sortie
+
+5 mai 1883
+
+But - Leche au chalut pour avoir des Pedawnsia
+
+étaient à bord
+
+M. M. Pruvot, François, Vignon
+
+Résultat - on a rapporté
+
+Pedawnsia - chinoises
+
+Localité au large de Banyuls 35 mètres de profondeur
+
+### Context from Next Pages ###
+--- Next Page 1 ---
+7<sup>me</sup> Sortie
+
+20 Mai 1843
+
+**Bul.** Drogage. Terrest. Cap Béar
+
+**étaient à bord**
+
+In. Mr. (12 élèves de la Famille de Roubaix)
+Mm<sup>e</sup> Barthélémy, Trulet, Cartailhac
+
+Mm<sup>e</sup>: Pruvot, Frances
+
+**Résultat on a rapporté Annelides.**
+A céphales
+
+**Localité.** Cap Béar. 4 sel. Profondeur. 00017
+
+--- Next Page 2 ---
+8<sup>e</sup> Sortie
+
+21 Mai 1843
+
+But. Visite du port de Port-Vendres
+
+Étaient à bord
+
+In. M. Isabelle de la Fontaine d'Accountre
+
+M. M. Wignaumann, Francis, Brunot, Tamot.
+
+Résultats rapportés
+
+Annelides rosacés
+Spongiaires - Vermicules - Planctons
+
+Localité. Port-Vendres.
+
+
+### OCR Candidates for Current Page ###
+=== Candidate from Qwen-VL-32b-instruct ===
+Gene Sortie
+
+10 Mai
+
+Bul - Exploration du port de Port Vendres
+
+Étaient à bord
+
+In. In. de Lagage Frichiers - Privat - Geulin
+
+Localité. Port-vendres
+
+Résultat on a rapporté
+
+Symposium conoides - Ispoigraphy Spallangani
+Eobiedus - Pennibranches
+
+Localité. Port-vendres
+
+0004500
+
+=== Candidate from Mistral-ocr ===
+Gene Sortie
+
+10 Mar
+
+Bull - Exploration Topart de Des Fentes.
+
+ctacell-a B020
+
+311.311. Le Rouge Tethers - Prust Goutin
+
+Grouette
+
+P. 2e Rouge Botticuy
+
+Ricoultal- oira rapporté
+
+Sympathim analais - Spagraphis Spallangon
+Coldeau - Churuburules
+
+Localité. Route-vendres
+
+00975 11
+
+=== Candidate from Kraken-ocr ===
+1
+A
+1
+Geme Dontie
+10 Vai
+Dut = Expleration disport de Port vendres.
+etaient à boxd
+M. M. de Lauazé Drithiers - Pruvot.Soulin
+Il
+2
+-------
+*.
+deLa aze
+D
+tésultat on a
+7
+r cee
+po
+Tolidens - Plenrebranches
+Localité. Rort vendres
+
+3
+"
+3
+--
+D
+D---
+
+P
+40343
+1I
+2
+L.
+CI
+
+### Evaluation Guidelines ###
+1. Accuracy: Select the most faithful representation of the original document
+2. Completeness: Prefer versions with less missing text
+3. Consistency: Maintain flow with previous pages (dates, terminology)
+4. Formatting: Preserve original line breaks, paragraphs, and layout
+5. Error Handling: Only correct obvious OCR errors (e.g., 'mαrina' → 'marina')
+6. Ambiguity: Mark uncertain readings with [sic?] but preserve original
+7. Context Awareness: Use both previous and next pages to resolve ambiguities
+
+### Output Requirements ###
+- Return ONLY the final curated text
+- Maintain original language (French)
+- Preserve historical spellings
+- Include all marginal notes in context
+- Never add explanatory text
+- For tables: maintain alignment with monospace formatting
+- If the page is empty or empty content return""
+
+
+2025-09-04 15:41:42,520 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-04 15:41:43,819 - INFO - Response
+ ### Curated Text
+
+---
+Gene Sortie
+
+10 Mai 1883
+
+But - Exploration du port de Port-Vendres
+
+Étaient à bord
+
+M. M. de La Gage Frichiers - Pruvot, Goulin
+
+Localité. Port-Vendres
+
+Résultat on a rapporté
+
+Syrphium conoides - Spirographis Spallangani
+Eubranchus - Phyllobranchemes
+
+Localité. Port-Vendres
+
+0004500
+---
+2025-09-04 15:41:45,333 - INFO - Prompt
+ 
+## Historical Document Transcription Review ##
+
+You are an expert archivist specializing in 18th-19th century maritime documents. 
+Your task is to evaluate multiple OCR transcriptions of the same page and produce 
+a single authoritative version optimized for historical research and RAG systems.
+
+You are processing a historical ship logbook. Pay special attention to:
+- Maritime terminology and ship operations
+- Consistent date/time formats (e.g., '3ème jour de pluviôse')
+- Navigation coordinates and weather observations
+- Sequential event recording
+Preserve original spelling and formatting.
+
+### Context from Previous Pages ###
+--- Previous Page 1 ---
+---
+4<sup>ème</sup> Sortie
+
+1<sup>er</sup> Mai
+
+But - Pêche au chalut au large de Paulilles
+
+étaient à bord
+
+M. M. Pruvot, François
+
+Résultat - on a rapporté
+
+Échinodes - Hélothuries - Astéries  
+Céphalopodes - Asidés - Crustacés
+
+Localité. Paulilles 10 mètres de profondeur
+
+---
+
+--- Previous Page 2 ---
+5<sup>e</sup> Sortie
+
+5 mai 1883
+
+But - Leche au chalut pour avoir des Pedawnsia
+
+étaient à bord
+
+M. M. Pruvot, François, Vignon
+
+Résultat - on a rapporté
+
+Pedawnsia - chinoises
+
+Localité au large de Banyuls 35 mètres de profondeur
+
+--- Previous Page 3 ---
+### Curated Text
+
+---
+Gene Sortie
+
+10 Mai 1883
+
+But - Exploration du port de Port-Vendres
+
+Étaient à bord
+
+M. M. de La Gage Frichiers - Pruvot, Goulin
+
+Localité. Port-Vendres
+
+Résultat on a rapporté
+
+Syrphium conoides - Spirographis Spallangani
+Eubranchus - Phyllobranchemes
+
+Localité. Port-Vendres
+
+0004500
+---
+
+### Context from Next Pages ###
+--- Next Page 1 ---
+8<sup>e</sup> Sortie
+
+21 Mai 1843
+
+But. Visite du port de Port-Vendres
+
+Étaient à bord
+
+In. M. Isabelle de la Fontaine d'Accountre
+
+M. M. Wignaumann, Francis, Brunot, Tamot.
+
+Résultats rapportés
+
+Annelides rosacés
+Spongiaires - Vermicules - Planctons
+
+Localité. Port-Vendres.
+
+--- Next Page 2 ---
+9<sup>e</sup> Sortie
+
+2<sup>o</sup> Mai 1883
+
+But  
+Récupe pelagique à l'Anse du Troc
+
+étaient à bord  
+M<sup>l</sup> de Laage Dulhiers  
+et In. In. Prudel, Tanarel, François Wegmann, Joulin  
+Tanare  
+M<sup>l</sup> de Laage Dulhiers.
+
+Résultat on a rapporté  
+Berse Forskåll  
+Encharis multicornis  
+Salpa Democratia  
+Cestum Veneris  
+Arraya Diphyes  
+Apolemina  
+Ammeletes  
+Ouestaciens pelagiques
+
+Localité  
+Anse du Troc
+
+
+### OCR Candidates for Current Page ###
+=== Candidate from Qwen-VL-32b-instruct ===
+7<sup>me</sup> Sortie
+
+20 Mai 1843
+
+**Bul.** Drogage. Terrest. Cap Béar
+
+**étaient à bord**
+
+In. Mr. (12 élèves de la Famille de Roubaix)
+Mm<sup>e</sup> Barthélémy, Trulet, Cartailhac
+
+Mm<sup>e</sup>: Pruvot, Frances
+
+**Résultat on a rapporté Annelides.**
+A céphales
+
+**Localité.** Cap Béar. 4 sel. Profondeur. 00017
+
+=== Candidate from Mistral-ocr ===
+youre Sortie
+
+20 mai 1443.
+
+Bril- Dragage Verbat le cap Bear
+
+etacent. à bord
+
+311.311. Excluive le la Faculté de Toulouse
+M.M. Bouthélémy - Rulot - Cartadha
+
+M.M. Rulot Francais
+
+Résultat-on à rapporté - Remédies
+d'échelles
+
+Localité. Cap Bear 45 rue Plofondoux
+
+00017
+
+=== Candidate from Kraken-ocr ===
+cruE
+2
+2
+1--
+20 Mai 1543
+NI
+Font Dragage devoent le cap Bear
+et
+Ci G.
+eent a Cord
+Ju. Mn. Les eleve
+"5
+8
+MMe Barthe
+De
+l Forilte
+-COactha
+et MM^r Priot Framors
+Résultat on arapporte -dosierdes
+Acephale s
+4
+Localité. Cap Beur 4s5 ebet Mnsfandouz
+7
+7
+4
+600.
+1
+2
+7o
+
+### Evaluation Guidelines ###
+1. Accuracy: Select the most faithful representation of the original document
+2. Completeness: Prefer versions with less missing text
+3. Consistency: Maintain flow with previous pages (dates, terminology)
+4. Formatting: Preserve original line breaks, paragraphs, and layout
+5. Error Handling: Only correct obvious OCR errors (e.g., 'mαrina' → 'marina')
+6. Ambiguity: Mark uncertain readings with [sic?] but preserve original
+7. Context Awareness: Use both previous and next pages to resolve ambiguities
+
+### Output Requirements ###
+- Return ONLY the final curated text
+- Maintain original language (French)
+- Preserve historical spellings
+- Include all marginal notes in context
+- Never add explanatory text
+- For tables: maintain alignment with monospace formatting
+- If the page is empty or empty content return""
+
+
+2025-09-04 15:41:46,882 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-04 15:41:48,288 - INFO - Response
+ ---
+7<sup>me</sup> Sortie
+
+20 Mai 1843
+
+**But.** Dragage terrester. Cap Béar
+
+**étaient à bord**
+
+M<sup>l</sup>. Mr. (12 élèves de la Faculté de Toulouse)
+Mme Barthélémy, Trulet, Cartailhac
+Mme Pruvot, Françoise
+
+**Résultat on a rapporté** Annelides.
+Acephales
+
+**Localité.** Cap Béar. 4 sel. Profondeur. 00017
+
+---
+2025-09-04 15:41:49,798 - INFO - Prompt
+ 
+## Historical Document Transcription Review ##
+
+You are an expert archivist specializing in 18th-19th century maritime documents. 
+Your task is to evaluate multiple OCR transcriptions of the same page and produce 
+a single authoritative version optimized for historical research and RAG systems.
+
+You are processing a historical ship logbook. Pay special attention to:
+- Maritime terminology and ship operations
+- Consistent date/time formats (e.g., '3ème jour de pluviôse')
+- Navigation coordinates and weather observations
+- Sequential event recording
+Preserve original spelling and formatting.
+
+### Context from Previous Pages ###
+--- Previous Page 1 ---
+5<sup>e</sup> Sortie
+
+5 mai 1883
+
+But - Leche au chalut pour avoir des Pedawnsia
+
+étaient à bord
+
+M. M. Pruvot, François, Vignon
+
+Résultat - on a rapporté
+
+Pedawnsia - chinoises
+
+Localité au large de Banyuls 35 mètres de profondeur
+
+--- Previous Page 2 ---
+### Curated Text
+
+---
+Gene Sortie
+
+10 Mai 1883
+
+But - Exploration du port de Port-Vendres
+
+Étaient à bord
+
+M. M. de La Gage Frichiers - Pruvot, Goulin
+
+Localité. Port-Vendres
+
+Résultat on a rapporté
+
+Syrphium conoides - Spirographis Spallangani
+Eubranchus - Phyllobranchemes
+
+Localité. Port-Vendres
+
+0004500
+---
+
+--- Previous Page 3 ---
+---
+7<sup>me</sup> Sortie
+
+20 Mai 1843
+
+**But.** Dragage terrester. Cap Béar
+
+**étaient à bord**
+
+M<sup>l</sup>. Mr. (12 élèves de la Faculté de Toulouse)
+Mme Barthélémy, Trulet, Cartailhac
+Mme Pruvot, Françoise
+
+**Résultat on a rapporté** Annelides.
+Acephales
+
+**Localité.** Cap Béar. 4 sel. Profondeur. 00017
+
+---
+
+### Context from Next Pages ###
+--- Next Page 1 ---
+9<sup>e</sup> Sortie
+
+2<sup>o</sup> Mai 1883
+
+But  
+Récupe pelagique à l'Anse du Troc
+
+étaient à bord  
+M<sup>l</sup> de Laage Dulhiers  
+et In. In. Prudel, Tanarel, François Wegmann, Joulin  
+Tanare  
+M<sup>l</sup> de Laage Dulhiers.
+
+Résultat on a rapporté  
+Berse Forskåll  
+Encharis multicornis  
+Salpa Democratia  
+Cestum Veneris  
+Arraya Diphyes  
+Apolemina  
+Ammeletes  
+Ouestaciens pelagiques
+
+Localité  
+Anse du Troc
+
+--- Next Page 2 ---
+**10<sup>e</sup> Sortie**
+
+**30 Mai 1843**
+
+But - Tragage pour aneis des ampbyones
+
+Étaisent à Bord : l'Équipage
+
+Résultat - 12 ampbyones aépalles Annelides
+
+Localité au Large du Triac 16 Mt profondeur
+
+
+### OCR Candidates for Current Page ###
+=== Candidate from Qwen-VL-32b-instruct ===
+8<sup>e</sup> Sortie
+
+21 Mai 1843
+
+But. Visite du port de Port-Vendres
+
+Étaient à bord
+
+In. M. Isabelle de la Fontaine d'Accountre
+
+M. M. Wignaumann, Francis, Brunot, Tamot.
+
+Résultats rapportés
+
+Annelides rosacés
+Spongiaires - Vermicules - Planctons
+
+Localité. Port-Vendres.
+
+=== Candidate from Mistral-ocr ===
+# Signe Boxtie
+
+21 Mai 1943
+
+Frit. Visite Jupert 2 Zartheures.
+
+clacert à Bors
+
+311. 311. 31. 31. 31. 31. 31. 31. 31. 31. 31. 31. 31. 31. 31. 31. 31. 31. 31. 31. 31. 31. 31. 31. 31. 31. 31. 31. 31. 31. 31. 31. 31. 31. 31. 31. 31. 31. 31. 31. 31. 31. 31. 31. 31. 31. 31. 31. 31. 31. 31. 3
+
+=== Candidate from Kraken-ocr ===
+N
+48
+Bémne
+⁊
+Portie
+21 Marr 1513
+douts Visite di rort de ort vendre ?.
+étaient a bord
+M. M. resélìve De la Lamille d'louioure
+1
+d?-
+et F^n m Negman rancois, Druve, Faurot.
+9
+
+Resultat- on a
+8
+vrap.
+morté el
+D---------te ar.t
+AC 
+Loca
+1e. Poit-vendus.
+
+
+o..
+15 9
+1
+"
+1
+---
+2.
+N^o
+1
+2
+ii
+4
+---
+
+### Evaluation Guidelines ###
+1. Accuracy: Select the most faithful representation of the original document
+2. Completeness: Prefer versions with less missing text
+3. Consistency: Maintain flow with previous pages (dates, terminology)
+4. Formatting: Preserve original line breaks, paragraphs, and layout
+5. Error Handling: Only correct obvious OCR errors (e.g., 'mαrina' → 'marina')
+6. Ambiguity: Mark uncertain readings with [sic?] but preserve original
+7. Context Awareness: Use both previous and next pages to resolve ambiguities
+
+### Output Requirements ###
+- Return ONLY the final curated text
+- Maintain original language (French)
+- Preserve historical spellings
+- Include all marginal notes in context
+- Never add explanatory text
+- For tables: maintain alignment with monospace formatting
+- If the page is empty or empty content return""
+
+
+2025-09-04 15:41:51,809 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-04 15:41:52,764 - INFO - Response
+ ---
+8<sup>e</sup> Sortie
+
+21 Mai 1843
+
+But. Visite du port de Port-Vendres
+
+Étaient à bord
+
+In. M. Isabelle de la Fontaine d'Accountre
+
+M. M. Wignaumann, Francis, Brunot, Tamot.
+
+Résultats rapportés
+
+Annelides rosacés
+Spongiaires - Vermicules - Planctons
+
+Localité. Port-Vendres.
+---
+2025-09-04 15:41:54,273 - INFO - Prompt
+ 
+## Historical Document Transcription Review ##
+
+You are an expert archivist specializing in 18th-19th century maritime documents. 
+Your task is to evaluate multiple OCR transcriptions of the same page and produce 
+a single authoritative version optimized for historical research and RAG systems.
+
+You are processing a historical ship logbook. Pay special attention to:
+- Maritime terminology and ship operations
+- Consistent date/time formats (e.g., '3ème jour de pluviôse')
+- Navigation coordinates and weather observations
+- Sequential event recording
+Preserve original spelling and formatting.
+
+### Context from Previous Pages ###
+--- Previous Page 1 ---
+### Curated Text
+
+---
+Gene Sortie
+
+10 Mai 1883
+
+But - Exploration du port de Port-Vendres
+
+Étaient à bord
+
+M. M. de La Gage Frichiers - Pruvot, Goulin
+
+Localité. Port-Vendres
+
+Résultat on a rapporté
+
+Syrphium conoides - Spirographis Spallangani
+Eubranchus - Phyllobranchemes
+
+Localité. Port-Vendres
+
+0004500
+---
+
+--- Previous Page 2 ---
+---
+7<sup>me</sup> Sortie
+
+20 Mai 1843
+
+**But.** Dragage terrester. Cap Béar
+
+**étaient à bord**
+
+M<sup>l</sup>. Mr. (12 élèves de la Faculté de Toulouse)
+Mme Barthélémy, Trulet, Cartailhac
+Mme Pruvot, Françoise
+
+**Résultat on a rapporté** Annelides.
+Acephales
+
+**Localité.** Cap Béar. 4 sel. Profondeur. 00017
+
+---
+
+--- Previous Page 3 ---
+---
+8<sup>e</sup> Sortie
+
+21 Mai 1843
+
+But. Visite du port de Port-Vendres
+
+Étaient à bord
+
+In. M. Isabelle de la Fontaine d'Accountre
+
+M. M. Wignaumann, Francis, Brunot, Tamot.
+
+Résultats rapportés
+
+Annelides rosacés
+Spongiaires - Vermicules - Planctons
+
+Localité. Port-Vendres.
+---
+
+### Context from Next Pages ###
+--- Next Page 1 ---
+**10<sup>e</sup> Sortie**
+
+**30 Mai 1843**
+
+But - Tragage pour aneis des ampbyones
+
+Étaisent à Bord : l'Équipage
+
+Résultat - 12 ampbyones aépalles Annelides
+
+Localité au Large du Triac 16 Mt profondeur
+
+--- Next Page 2 ---
+11<sup>e</sup> Sortie  
+9 Juin 1883  
+
+But - Dragage pour avis des Gastrotrènes  
+
+taient a Bord - L'équipage  
+
+Résultat - 2 Gastrotrènes - Brachipodes  
+
+Localité au Large du cap Labeille 30 Mètres profondeur  
+
+00925
+
+
+### OCR Candidates for Current Page ###
+=== Candidate from Qwen-VL-32b-instruct ===
+9<sup>e</sup> Sortie
+
+2<sup>o</sup> Mai 1883
+
+But  
+Récupe pelagique à l'Anse du Troc
+
+étaient à bord  
+M<sup>l</sup> de Laage Dulhiers  
+et In. In. Prudel, Tanarel, François Wegmann, Joulin  
+Tanare  
+M<sup>l</sup> de Laage Dulhiers.
+
+Résultat on a rapporté  
+Berse Forskåll  
+Encharis multicornis  
+Salpa Democratia  
+Cestum Veneris  
+Arraya Diphyes  
+Apolemina  
+Ammeletes  
+Ouestaciens pelagiques
+
+Localité  
+Anse du Troc
+
+=== Candidate from Mistral-ocr ===
+# Jorge Sortie
+
+25 Mar 1943
+
+## 53m. Leite pelagique à l'aune in troe
+
+### Atacant à bord
+
+- M.: 2e garage Buthiers
+- 2m. 3m. Crust Faucet, Framper, Magnum, Joutain
+
+![img-0.jpeg](img-0.jpeg)
+
+### Résultat ou à rapporté - Bara Fackel: - Escharis muchiornis - Salpa Simonellia - Estum Veneris - Raga - Splyes - Aperlenia coribata - Arundelra - Eucalai, plaguio
+
+Localité: Aisne du troe
+
+40521
+
+=== Candidate from Kraken-ocr ===
+1
+Nr v: Vr It. ri Tamr
+N^ors
+1
+But-
+9
+oxtie
+e 9)
+Mair 1883
+3
+-
+20.
+Acche pelagigne a c'ause du roe
+M 6
+étaient a bord
+05
+M^r de racose Duthiers
+8
+et M. M. Druré, Faurot, Françeis Wegmann, Joubni
+pven
+I
+5
+2
+M. de
+V" "
+2
+n a ragorté.
+Bers
+1
+Encharis mueticonnis - Salpa Demsoratia
+Cesteun Veneris - Praya Diphy
+---
+contarto  Ammelves - Trusta
+Localites Hense du trocs
+olen
+d
+" :
+
+79
+
+### Evaluation Guidelines ###
+1. Accuracy: Select the most faithful representation of the original document
+2. Completeness: Prefer versions with less missing text
+3. Consistency: Maintain flow with previous pages (dates, terminology)
+4. Formatting: Preserve original line breaks, paragraphs, and layout
+5. Error Handling: Only correct obvious OCR errors (e.g., 'mαrina' → 'marina')
+6. Ambiguity: Mark uncertain readings with [sic?] but preserve original
+7. Context Awareness: Use both previous and next pages to resolve ambiguities
+
+### Output Requirements ###
+- Return ONLY the final curated text
+- Maintain original language (French)
+- Preserve historical spellings
+- Include all marginal notes in context
+- Never add explanatory text
+- For tables: maintain alignment with monospace formatting
+- If the page is empty or empty content return""
+
+
+2025-09-04 15:41:55,695 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-04 15:41:57,794 - INFO - Response
+ ---
+9<sup>e</sup> Sortie
+
+2<sup>o</sup> Mai 1883
+
+**But**  
+Récupération pelagique à l'Anse du Troc
+
+**Étaient à bord**  
+M<sup>l</sup> de Laage Dulhiers  
+et M. M. Prudel, Tanarel, François Wegmann, Joulin
+
+**Résultat on a rapporté**  
+Bersa Forskåll  
+Encharis multicornis  
+Salpa Democratia  
+Cestum Veneris  
+Praya Diphyes  
+Apolemina  
+Ammelites  
+Ouestaciens pelagiques
+
+**Localité**  
+Anse du Troc
+
+---
+2025-09-04 15:41:59,301 - INFO - Prompt
+ 
+## Historical Document Transcription Review ##
+
+You are an expert archivist specializing in 18th-19th century maritime documents. 
+Your task is to evaluate multiple OCR transcriptions of the same page and produce 
+a single authoritative version optimized for historical research and RAG systems.
+
+You are processing a historical ship logbook. Pay special attention to:
+- Maritime terminology and ship operations
+- Consistent date/time formats (e.g., '3ème jour de pluviôse')
+- Navigation coordinates and weather observations
+- Sequential event recording
+Preserve original spelling and formatting.
+
+### Context from Previous Pages ###
+--- Previous Page 1 ---
+---
+7<sup>me</sup> Sortie
+
+20 Mai 1843
+
+**But.** Dragage terrester. Cap Béar
+
+**étaient à bord**
+
+M<sup>l</sup>. Mr. (12 élèves de la Faculté de Toulouse)
+Mme Barthélémy, Trulet, Cartailhac
+Mme Pruvot, Françoise
+
+**Résultat on a rapporté** Annelides.
+Acephales
+
+**Localité.** Cap Béar. 4 sel. Profondeur. 00017
+
+---
+
+--- Previous Page 2 ---
+---
+8<sup>e</sup> Sortie
+
+21 Mai 1843
+
+But. Visite du port de Port-Vendres
+
+Étaient à bord
+
+In. M. Isabelle de la Fontaine d'Accountre
+
+M. M. Wignaumann, Francis, Brunot, Tamot.
+
+Résultats rapportés
+
+Annelides rosacés
+Spongiaires - Vermicules - Planctons
+
+Localité. Port-Vendres.
+---
+
+--- Previous Page 3 ---
+---
+9<sup>e</sup> Sortie
+
+2<sup>o</sup> Mai 1883
+
+**But**  
+Récupération pelagique à l'Anse du Troc
+
+**Étaient à bord**  
+M<sup>l</sup> de Laage Dulhiers  
+et M. M. Prudel, Tanarel, François Wegmann, Joulin
+
+**Résultat on a rapporté**  
+Bersa Forskåll  
+Encharis multicornis  
+Salpa Democratia  
+Cestum Veneris  
+Praya Diphyes  
+Apolemina  
+Ammelites  
+Ouestaciens pelagiques
+
+**Localité**  
+Anse du Troc
+
+---
+
+### Context from Next Pages ###
+--- Next Page 1 ---
+11<sup>e</sup> Sortie  
+9 Juin 1883  
+
+But - Dragage pour avis des Gastrotrènes  
+
+taient a Bord - L'équipage  
+
+Résultat - 2 Gastrotrènes - Brachipodes  
+
+Localité au Large du cap Labeille 30 Mètres profondeur  
+
+00925
+
+--- Next Page 2 ---
+10 Juin
+
+But. Dragage pour avoir des Gastéropodes
+
+Etat à Bord. L'Équipage
+
+Résultat. Pas de Gastéropodes & Brachionotes
+
+Localité au Large du troix 17.Aoue du profondeur
+
+
+### OCR Candidates for Current Page ###
+=== Candidate from Qwen-VL-32b-instruct ===
+**10<sup>e</sup> Sortie**
+
+**30 Mai 1843**
+
+But - Tragage pour aneis des ampbyones
+
+Étaisent à Bord : l'Équipage
+
+Résultat - 12 ampbyones aépalles Annelides
+
+Localité au Large du Triac 16 Mt profondeur
+
+=== Candidate from Mistral-ocr ===
+10- Sortie
+
+30 Mai 1943.
+
+But - Dragage pour avoir 24 amp/youre
+
+Staint a Rod : Equipage
+
+Resultat - 12 amp/youre - oxydate dénuéte
+
+Socabite. un large du bec ne doit pro/próver
+
+00023
+
+=== Candidate from Kraken-ocr ===
+Duie
+10 ortie
+30 Mar 1853.
+But - O
+3
+3
+
+ivois des
+rgage pour a
+Etaieut à Bord .
+D
+Je"
+TLGRAIIRE
+D
+PUBLIRUE
+es
+Resuetat - I^2 amphoaus - Ocephalen Amelidés
+9
+Rocalite. au Large du troc :
+D
+8
+lordescr
+Dil
+
+D
+&
+1
+
+### Evaluation Guidelines ###
+1. Accuracy: Select the most faithful representation of the original document
+2. Completeness: Prefer versions with less missing text
+3. Consistency: Maintain flow with previous pages (dates, terminology)
+4. Formatting: Preserve original line breaks, paragraphs, and layout
+5. Error Handling: Only correct obvious OCR errors (e.g., 'mαrina' → 'marina')
+6. Ambiguity: Mark uncertain readings with [sic?] but preserve original
+7. Context Awareness: Use both previous and next pages to resolve ambiguities
+
+### Output Requirements ###
+- Return ONLY the final curated text
+- Maintain original language (French)
+- Preserve historical spellings
+- Include all marginal notes in context
+- Never add explanatory text
+- For tables: maintain alignment with monospace formatting
+- If the page is empty or empty content return""
+
+
+2025-09-04 15:42:00,587 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-04 15:42:01,408 - INFO - Response
+ **10<sup>e</sup> Sortie**
+
+**30 Mai 1843**
+
+But - Dragage pour avoir des amphiones
+
+Étaient à Bord : l'Équipage
+
+Résultat - 12 amphiones acephales Annelides
+
+Localité. au Large du Troc 16 Mt profondeur
+2025-09-04 15:42:02,918 - INFO - Prompt
+ 
+## Historical Document Transcription Review ##
+
+You are an expert archivist specializing in 18th-19th century maritime documents. 
+Your task is to evaluate multiple OCR transcriptions of the same page and produce 
+a single authoritative version optimized for historical research and RAG systems.
+
+You are processing a historical ship logbook. Pay special attention to:
+- Maritime terminology and ship operations
+- Consistent date/time formats (e.g., '3ème jour de pluviôse')
+- Navigation coordinates and weather observations
+- Sequential event recording
+Preserve original spelling and formatting.
+
+### Context from Previous Pages ###
+--- Previous Page 1 ---
+---
+8<sup>e</sup> Sortie
+
+21 Mai 1843
+
+But. Visite du port de Port-Vendres
+
+Étaient à bord
+
+In. M. Isabelle de la Fontaine d'Accountre
+
+M. M. Wignaumann, Francis, Brunot, Tamot.
+
+Résultats rapportés
+
+Annelides rosacés
+Spongiaires - Vermicules - Planctons
+
+Localité. Port-Vendres.
+---
+
+--- Previous Page 2 ---
+---
+9<sup>e</sup> Sortie
+
+2<sup>o</sup> Mai 1883
+
+**But**  
+Récupération pelagique à l'Anse du Troc
+
+**Étaient à bord**  
+M<sup>l</sup> de Laage Dulhiers  
+et M. M. Prudel, Tanarel, François Wegmann, Joulin
+
+**Résultat on a rapporté**  
+Bersa Forskåll  
+Encharis multicornis  
+Salpa Democratia  
+Cestum Veneris  
+Praya Diphyes  
+Apolemina  
+Ammelites  
+Ouestaciens pelagiques
+
+**Localité**  
+Anse du Troc
+
+---
+
+--- Previous Page 3 ---
+**10<sup>e</sup> Sortie**
+
+**30 Mai 1843**
+
+But - Dragage pour avoir des amphiones
+
+Étaient à Bord : l'Équipage
+
+Résultat - 12 amphiones acephales Annelides
+
+Localité. au Large du Troc 16 Mt profondeur
+
+### Context from Next Pages ###
+--- Next Page 1 ---
+10 Juin
+
+But. Dragage pour avoir des Gastéropodes
+
+Etat à Bord. L'Équipage
+
+Résultat. Pas de Gastéropodes & Brachionotes
+
+Localité au Large du troix 17.Aoue du profondeur
+
+--- Next Page 2 ---
+13<sup>e</sup> Sortie  
+17 Juin  
+
+But : Tragage pour arbres de Crustacés et Brachipodes  
+
+Etaient à Bord : L'équipage  
+
+Résultat :  
+- Brachipodes  
+- Crustacés  
+- Annélides  
+
+Localité :  
+au large de nadies, 25 m<sup>8</sup> de profondeur
+
+
+### OCR Candidates for Current Page ###
+=== Candidate from Qwen-VL-32b-instruct ===
+11<sup>e</sup> Sortie  
+9 Juin 1883  
+
+But - Dragage pour avis des Gastrotrènes  
+
+taient a Bord - L'équipage  
+
+Résultat - 2 Gastrotrènes - Brachipodes  
+
+Localité au Large du cap Labeille 30 Mètres profondeur  
+
+00925
+
+=== Candidate from Mistral-ocr ===
+11: Sortie
+
+2 Juin 1883
+
+But - Dragage pour avec 2, gastroducee
+
+Trioat a Buit - Bquipuge.
+
+Resultat - 2 gastroducees - Brachigesous -
+
+Localite au large du cap labille 30 Apt profanteur
+
+00025
+
+=== Candidate from Kraken-ocr ===
+⟦s in
+But
+11^r Sorté
+2e Juin 1883
+eur. E
+8.
+etaient à Bard - Liquipege.
+"
+DI D
+Résultot
+3
+-
+D
+enes
+-
+2Gastrahuenes - Brachispodes -
+A
+Localite aut Large du
+Rp O
+D'F
+7
+3
+4
+5..
+1
+
+### Evaluation Guidelines ###
+1. Accuracy: Select the most faithful representation of the original document
+2. Completeness: Prefer versions with less missing text
+3. Consistency: Maintain flow with previous pages (dates, terminology)
+4. Formatting: Preserve original line breaks, paragraphs, and layout
+5. Error Handling: Only correct obvious OCR errors (e.g., 'mαrina' → 'marina')
+6. Ambiguity: Mark uncertain readings with [sic?] but preserve original
+7. Context Awareness: Use both previous and next pages to resolve ambiguities
+
+### Output Requirements ###
+- Return ONLY the final curated text
+- Maintain original language (French)
+- Preserve historical spellings
+- Include all marginal notes in context
+- Never add explanatory text
+- For tables: maintain alignment with monospace formatting
+- If the page is empty or empty content return""
+
+
+2025-09-04 15:42:04,505 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-04 15:42:05,331 - INFO - Response
+ 11<sup>e</sup> Sortie  
+2<sup>o</sup> Juin 1883  
+
+But - Dragage pour avoir des Gastrotrènes  
+
+Étaient à Bord - L'équipage  
+
+Résultat - 2 Gastrotrènes - Brachipodes  
+
+Localité - au Large du cap Labeille 30 Mètres profondeur  
+
+00025
+2025-09-04 15:42:06,841 - INFO - Prompt
+ 
+## Historical Document Transcription Review ##
+
+You are an expert archivist specializing in 18th-19th century maritime documents. 
+Your task is to evaluate multiple OCR transcriptions of the same page and produce 
+a single authoritative version optimized for historical research and RAG systems.
+
+You are processing a historical ship logbook. Pay special attention to:
+- Maritime terminology and ship operations
+- Consistent date/time formats (e.g., '3ème jour de pluviôse')
+- Navigation coordinates and weather observations
+- Sequential event recording
+Preserve original spelling and formatting.
+
+### Context from Previous Pages ###
+--- Previous Page 1 ---
+---
+9<sup>e</sup> Sortie
+
+2<sup>o</sup> Mai 1883
+
+**But**  
+Récupération pelagique à l'Anse du Troc
+
+**Étaient à bord**  
+M<sup>l</sup> de Laage Dulhiers  
+et M. M. Prudel, Tanarel, François Wegmann, Joulin
+
+**Résultat on a rapporté**  
+Bersa Forskåll  
+Encharis multicornis  
+Salpa Democratia  
+Cestum Veneris  
+Praya Diphyes  
+Apolemina  
+Ammelites  
+Ouestaciens pelagiques
+
+**Localité**  
+Anse du Troc
+
+---
+
+--- Previous Page 2 ---
+**10<sup>e</sup> Sortie**
+
+**30 Mai 1843**
+
+But - Dragage pour avoir des amphiones
+
+Étaient à Bord : l'Équipage
+
+Résultat - 12 amphiones acephales Annelides
+
+Localité. au Large du Troc 16 Mt profondeur
+
+--- Previous Page 3 ---
+11<sup>e</sup> Sortie  
+2<sup>o</sup> Juin 1883  
+
+But - Dragage pour avoir des Gastrotrènes  
+
+Étaient à Bord - L'équipage  
+
+Résultat - 2 Gastrotrènes - Brachipodes  
+
+Localité - au Large du cap Labeille 30 Mètres profondeur  
+
+00025
+
+### Context from Next Pages ###
+--- Next Page 1 ---
+13<sup>e</sup> Sortie  
+17 Juin  
+
+But : Tragage pour arbres de Crustacés et Brachipodes  
+
+Etaient à Bord : L'équipage  
+
+Résultat :  
+- Brachipodes  
+- Crustacés  
+- Annélides  
+
+Localité :  
+au large de nadies, 25 m<sup>8</sup> de profondeur
+
+--- Next Page 2 ---
+```
+14° Sortie
+
+22 juin 1863
+
+But - Dragage pour avoir des Gastrodéeves
+
+Étaient à Bord - l'équipage
+
+Résultat - Nombreuses Gastrodées - Brachyoïdes - Annélides
+
+Localité - au large de Port-Vendres 20 m_de profondeur
+```
+
+
+### OCR Candidates for Current Page ###
+=== Candidate from Qwen-VL-32b-instruct ===
+10 Juin
+
+But. Dragage pour avoir des Gastéropodes
+
+Etat à Bord. L'Équipage
+
+Résultat. Pas de Gastéropodes & Brachionotes
+
+Localité au Large du troix 17.Aoue du profondeur
+
+=== Candidate from Mistral-ocr ===
+12°
+
+12° Sortie
+
+10 Juin
+
+But. Engage pour avoir vos justiciers
+
+Attire à l'ord, Espirage
+
+Résultat - Pour justiciers, S'croîtent.
+
+Localite, au large du lac M. A. du profondeur
+
+00027
+
+=== Candidate from Kraken-ocr ===
+1
+2
+Out. D
+12^fr Soutre
+uer
+omr avoir
+rgage 7
+Etaient  t Berd.. P
+74
+D
+Resullot Pas3.
+1
+pa ye
+7 Qri Ve 0.
+strochienes -. Trau
+Rocalité, au Parge du troe 11 1S^t
+A
+"9
+9
+1
+trochdenes.
+rode.
+Iendeur
+d
+927
+1.
+17
+
+### Evaluation Guidelines ###
+1. Accuracy: Select the most faithful representation of the original document
+2. Completeness: Prefer versions with less missing text
+3. Consistency: Maintain flow with previous pages (dates, terminology)
+4. Formatting: Preserve original line breaks, paragraphs, and layout
+5. Error Handling: Only correct obvious OCR errors (e.g., 'mαrina' → 'marina')
+6. Ambiguity: Mark uncertain readings with [sic?] but preserve original
+7. Context Awareness: Use both previous and next pages to resolve ambiguities
+
+### Output Requirements ###
+- Return ONLY the final curated text
+- Maintain original language (French)
+- Preserve historical spellings
+- Include all marginal notes in context
+- Never add explanatory text
+- For tables: maintain alignment with monospace formatting
+- If the page is empty or empty content return""
+
+
+2025-09-04 15:42:08,593 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-04 15:42:09,747 - INFO - Response
+ 12<sup>e</sup> Sortie
+
+10 Juin 1883
+
+But. Dragage pour avoir des Gastéropodes
+
+Étaient à Bord. L'Équipage
+
+Résultat. Pas de Gastéropodes & Brachionotes
+
+Localité. au Large du Troc 17<sup>e</sup> de profondeur
+
+00027
+2025-09-04 15:42:11,257 - INFO - Prompt
+ 
+## Historical Document Transcription Review ##
+
+You are an expert archivist specializing in 18th-19th century maritime documents. 
+Your task is to evaluate multiple OCR transcriptions of the same page and produce 
+a single authoritative version optimized for historical research and RAG systems.
+
+You are processing a historical ship logbook. Pay special attention to:
+- Maritime terminology and ship operations
+- Consistent date/time formats (e.g., '3ème jour de pluviôse')
+- Navigation coordinates and weather observations
+- Sequential event recording
+Preserve original spelling and formatting.
+
+### Context from Previous Pages ###
+--- Previous Page 1 ---
+**10<sup>e</sup> Sortie**
+
+**30 Mai 1843**
+
+But - Dragage pour avoir des amphiones
+
+Étaient à Bord : l'Équipage
+
+Résultat - 12 amphiones acephales Annelides
+
+Localité. au Large du Troc 16 Mt profondeur
+
+--- Previous Page 2 ---
+11<sup>e</sup> Sortie  
+2<sup>o</sup> Juin 1883  
+
+But - Dragage pour avoir des Gastrotrènes  
+
+Étaient à Bord - L'équipage  
+
+Résultat - 2 Gastrotrènes - Brachipodes  
+
+Localité - au Large du cap Labeille 30 Mètres profondeur  
+
+00025
+
+--- Previous Page 3 ---
+12<sup>e</sup> Sortie
+
+10 Juin 1883
+
+But. Dragage pour avoir des Gastéropodes
+
+Étaient à Bord. L'Équipage
+
+Résultat. Pas de Gastéropodes & Brachionotes
+
+Localité. au Large du Troc 17<sup>e</sup> de profondeur
+
+00027
+
+### Context from Next Pages ###
+--- Next Page 1 ---
+```
+14° Sortie
+
+22 juin 1863
+
+But - Dragage pour avoir des Gastrodéeves
+
+Étaient à Bord - l'équipage
+
+Résultat - Nombreuses Gastrodées - Brachyoïdes - Annélides
+
+Localité - au large de Port-Vendres 20 m_de profondeur
+```
+
+--- Next Page 2 ---
+15<sup>me</sup> Sortie  
+28 Juin 1885  
+
+Buk – pêche au chalut  
+
+étaient à Bord – l'équipage  
+
+Résultat  
+Pinatilles, holothuries  
+
+Localité  
+Cap Cerbère – 25 Metres Profondeur
+
+
+### OCR Candidates for Current Page ###
+=== Candidate from Qwen-VL-32b-instruct ===
+13<sup>e</sup> Sortie  
+17 Juin  
+
+But : Tragage pour arbres de Crustacés et Brachipodes  
+
+Etaient à Bord : L'équipage  
+
+Résultat :  
+- Brachipodes  
+- Crustacés  
+- Annélides  
+
+Localité :  
+au large de nadies, 25 m<sup>8</sup> de profondeur
+
+=== Candidate from Mistral-ocr ===
+13° Partie
+
+1/ Juin
+
+Prit - Dragage pour avant la Ruclave de Brachique
+
+Staunt - Bov: Regiopage
+
+Remalat - Brachique - Cuisines - Armelites
+
+Bonne, au large de rachis et de papillon
+
+00929
+
+=== Candidate from Kraken-ocr ===
+2
+D
+2
+⟧enee mt
+13^te Porte
+8
+Teus.-.
+S 
+L.
+
+4
+Dut:= Dragage pour avtis. des Erussones et dus Bra hiopoet)
+1.--
+. :"
+Etaient a Bad. :.
+Le
+15
+ji poge
+ "
+LResulloi .. Diachropod Cnistones. Armelides.
+6. --
+Loculité, aus. targe de radérid. L5 MM^r
+2
+1
+-
+- "
+epndain
+7
+d.-57
+
+### Evaluation Guidelines ###
+1. Accuracy: Select the most faithful representation of the original document
+2. Completeness: Prefer versions with less missing text
+3. Consistency: Maintain flow with previous pages (dates, terminology)
+4. Formatting: Preserve original line breaks, paragraphs, and layout
+5. Error Handling: Only correct obvious OCR errors (e.g., 'mαrina' → 'marina')
+6. Ambiguity: Mark uncertain readings with [sic?] but preserve original
+7. Context Awareness: Use both previous and next pages to resolve ambiguities
+
+### Output Requirements ###
+- Return ONLY the final curated text
+- Maintain original language (French)
+- Preserve historical spellings
+- Include all marginal notes in context
+- Never add explanatory text
+- For tables: maintain alignment with monospace formatting
+- If the page is empty or empty content return""
+
+
+2025-09-04 15:42:12,993 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-04 15:42:13,977 - INFO - Response
+ 13<sup>e</sup> Sortie  
+17 Juin 1883  
+
+But : Dragage pour avoir des Crustacés et Brachipodes  
+
+Étaient à Bord : L'équipage  
+
+Résultat :  
+- Brachipodes  
+- Crustacés  
+- Annélides  
+
+Localité :  
+au large de Nadies, 25 mètres de profondeur  
+
+00929
+2025-09-04 15:42:15,482 - INFO - Prompt
+ 
+## Historical Document Transcription Review ##
+
+You are an expert archivist specializing in 18th-19th century maritime documents. 
+Your task is to evaluate multiple OCR transcriptions of the same page and produce 
+a single authoritative version optimized for historical research and RAG systems.
+
+You are processing a historical ship logbook. Pay special attention to:
+- Maritime terminology and ship operations
+- Consistent date/time formats (e.g., '3ème jour de pluviôse')
+- Navigation coordinates and weather observations
+- Sequential event recording
+Preserve original spelling and formatting.
+
+### Context from Previous Pages ###
+--- Previous Page 1 ---
+11<sup>e</sup> Sortie  
+2<sup>o</sup> Juin 1883  
+
+But - Dragage pour avoir des Gastrotrènes  
+
+Étaient à Bord - L'équipage  
+
+Résultat - 2 Gastrotrènes - Brachipodes  
+
+Localité - au Large du cap Labeille 30 Mètres profondeur  
+
+00025
+
+--- Previous Page 2 ---
+12<sup>e</sup> Sortie
+
+10 Juin 1883
+
+But. Dragage pour avoir des Gastéropodes
+
+Étaient à Bord. L'Équipage
+
+Résultat. Pas de Gastéropodes & Brachionotes
+
+Localité. au Large du Troc 17<sup>e</sup> de profondeur
+
+00027
+
+--- Previous Page 3 ---
+13<sup>e</sup> Sortie  
+17 Juin 1883  
+
+But : Dragage pour avoir des Crustacés et Brachipodes  
+
+Étaient à Bord : L'équipage  
+
+Résultat :  
+- Brachipodes  
+- Crustacés  
+- Annélides  
+
+Localité :  
+au large de Nadies, 25 mètres de profondeur  
+
+00929
+
+### Context from Next Pages ###
+--- Next Page 1 ---
+15<sup>me</sup> Sortie  
+28 Juin 1885  
+
+Buk – pêche au chalut  
+
+étaient à Bord – l'équipage  
+
+Résultat  
+Pinatilles, holothuries  
+
+Localité  
+Cap Cerbère – 25 Metres Profondeur
+
+--- Next Page 2 ---
+16<sup>e</sup> Sortie
+
+Le 29 juin 1865
+
+But – Dragage
+
+Étaient à Bord - L'Équipage
+
+Résultat – Moyens, amphixuscus.
+
+Localité – cap L'alèe, 26<sup>e</sup> Tirsenduc
+
+00935
+
+
+### OCR Candidates for Current Page ###
+=== Candidate from Qwen-VL-32b-instruct ===
+```
+14° Sortie
+
+22 juin 1863
+
+But - Dragage pour avoir des Gastrodéeves
+
+Étaient à Bord - l'équipage
+
+Résultat - Nombreuses Gastrodées - Brachyoïdes - Annélides
+
+Localité - au large de Port-Vendres 20 m_de profondeur
+```
+
+=== Candidate from Mistral-ocr ===
+14: Sortie
+
+22 Juin 1963
+
+But - Dragage pour avec un gastrocnemus.
+
+Gravure - Droid - Équipage
+
+Recuelet - Maintremer gastrocnemus - Brachopain - Armelides
+
+Scintille - au large de l'art viaduc ce n'est pas profane
+
+60931
+
+=== Candidate from Kraken-ocr ===
+1
+14^e Sortie
+Juin 1883
+9
+But =. Dragaige pour arois
+D 2 5
+Waient a Bo
+4
+d..20
+1le.
+
+tnn enenelle
+astro laenes
+Remuelat - Nombreines Gastrechoene- Brons
+1
+4
+Pocalile : au large de Part-vendres 20 M
+E
+M
+⟦
+I.
+10
+J
+L LLa S LLEd
+4 O3
+fandeur
+il:
+1
+13
+2
+
+### Evaluation Guidelines ###
+1. Accuracy: Select the most faithful representation of the original document
+2. Completeness: Prefer versions with less missing text
+3. Consistency: Maintain flow with previous pages (dates, terminology)
+4. Formatting: Preserve original line breaks, paragraphs, and layout
+5. Error Handling: Only correct obvious OCR errors (e.g., 'mαrina' → 'marina')
+6. Ambiguity: Mark uncertain readings with [sic?] but preserve original
+7. Context Awareness: Use both previous and next pages to resolve ambiguities
+
+### Output Requirements ###
+- Return ONLY the final curated text
+- Maintain original language (French)
+- Preserve historical spellings
+- Include all marginal notes in context
+- Never add explanatory text
+- For tables: maintain alignment with monospace formatting
+- If the page is empty or empty content return""
+
+
+2025-09-04 15:42:18,908 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-04 15:42:20,990 - INFO - Response
+ ```
+14<sup>e</sup> Sortie
+
+22 Juin 1883
+
+But - Dragage pour avoir des Gastrodées
+
+Étaient à Bord - l'équipage
+
+Résultat - Nombreuses Gastrodées - Brachyodes - Annélides
+
+Localité - au large de Port-Vendres 20 mètres de profondeur
+```
+2025-09-04 15:42:22,496 - INFO - Prompt
+ 
+## Historical Document Transcription Review ##
+
+You are an expert archivist specializing in 18th-19th century maritime documents. 
+Your task is to evaluate multiple OCR transcriptions of the same page and produce 
+a single authoritative version optimized for historical research and RAG systems.
+
+You are processing a historical ship logbook. Pay special attention to:
+- Maritime terminology and ship operations
+- Consistent date/time formats (e.g., '3ème jour de pluviôse')
+- Navigation coordinates and weather observations
+- Sequential event recording
+Preserve original spelling and formatting.
+
+### Context from Previous Pages ###
+--- Previous Page 1 ---
+12<sup>e</sup> Sortie
+
+10 Juin 1883
+
+But. Dragage pour avoir des Gastéropodes
+
+Étaient à Bord. L'Équipage
+
+Résultat. Pas de Gastéropodes & Brachionotes
+
+Localité. au Large du Troc 17<sup>e</sup> de profondeur
+
+00027
+
+--- Previous Page 2 ---
+13<sup>e</sup> Sortie  
+17 Juin 1883  
+
+But : Dragage pour avoir des Crustacés et Brachipodes  
+
+Étaient à Bord : L'équipage  
+
+Résultat :  
+- Brachipodes  
+- Crustacés  
+- Annélides  
+
+Localité :  
+au large de Nadies, 25 mètres de profondeur  
+
+00929
+
+--- Previous Page 3 ---
+```
+14<sup>e</sup> Sortie
+
+22 Juin 1883
+
+But - Dragage pour avoir des Gastrodées
+
+Étaient à Bord - l'équipage
+
+Résultat - Nombreuses Gastrodées - Brachyodes - Annélides
+
+Localité - au large de Port-Vendres 20 mètres de profondeur
+```
+
+### Context from Next Pages ###
+--- Next Page 1 ---
+16<sup>e</sup> Sortie
+
+Le 29 juin 1865
+
+But – Dragage
+
+Étaient à Bord - L'Équipage
+
+Résultat – Moyens, amphixuscus.
+
+Localité – cap L'alèe, 26<sup>e</sup> Tirsenduc
+
+00935
+
+--- Next Page 2 ---
+74me Sortie  
+Le 2 juillet 1883  
+But-Exploration de L'anse des Eulmes  
+
+étaient à Bord- L'équipage  
+
+Résultat- Bruyéres, Aldnires.  
+
+Localité- Anse des Eules
+
+
+### OCR Candidates for Current Page ###
+=== Candidate from Qwen-VL-32b-instruct ===
+15<sup>me</sup> Sortie  
+28 Juin 1885  
+
+Buk – pêche au chalut  
+
+étaient à Bord – l'équipage  
+
+Résultat  
+Pinatilles, holothuries  
+
+Localité  
+Cap Cerbère – 25 Metres Profondeur
+
+=== Candidate from Mistral-ocr ===
+150mc. Sortie
+
+25 juin 1889
+
+Buk - Pôle au Salut
+
+chant à Bord - Pégrapage
+
+Présultat 200000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+
+=== Candidate from Kraken-ocr ===
+o
+1
+25
+15 ume Hartie
+Guen 0
+1 -
+1
+ADwh-
+-
+Déche mu epalutt
+étaint a Bord -L
+lquissage
+V
+--
+Presiltat Pinatulles, halothuriet
+Localité - Cap Corver
+"
+A-
+85 eh
+
+TEN
+D5
+fosi deur
+
+136
+1.
+1.
+⟦e rnn eene
+
+### Evaluation Guidelines ###
+1. Accuracy: Select the most faithful representation of the original document
+2. Completeness: Prefer versions with less missing text
+3. Consistency: Maintain flow with previous pages (dates, terminology)
+4. Formatting: Preserve original line breaks, paragraphs, and layout
+5. Error Handling: Only correct obvious OCR errors (e.g., 'mαrina' → 'marina')
+6. Ambiguity: Mark uncertain readings with [sic?] but preserve original
+7. Context Awareness: Use both previous and next pages to resolve ambiguities
+
+### Output Requirements ###
+- Return ONLY the final curated text
+- Maintain original language (French)
+- Preserve historical spellings
+- Include all marginal notes in context
+- Never add explanatory text
+- For tables: maintain alignment with monospace formatting
+- If the page is empty or empty content return""
+
+
+2025-09-04 15:42:24,198 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-04 15:42:25,287 - INFO - Response
+ 15<sup>e</sup> Sortie  
+28 Juin 1885  
+
+But – pêche au chalut  
+
+Étaient à Bord – l'équipage  
+
+Résultat  
+Pinatilles, holothuries  
+
+Localité  
+Cap Cerbère – 25 mètres de profondeur
+2025-09-04 15:42:26,800 - INFO - Prompt
+ 
+## Historical Document Transcription Review ##
+
+You are an expert archivist specializing in 18th-19th century maritime documents. 
+Your task is to evaluate multiple OCR transcriptions of the same page and produce 
+a single authoritative version optimized for historical research and RAG systems.
+
+You are processing a historical ship logbook. Pay special attention to:
+- Maritime terminology and ship operations
+- Consistent date/time formats (e.g., '3ème jour de pluviôse')
+- Navigation coordinates and weather observations
+- Sequential event recording
+Preserve original spelling and formatting.
+
+### Context from Previous Pages ###
+--- Previous Page 1 ---
+13<sup>e</sup> Sortie  
+17 Juin 1883  
+
+But : Dragage pour avoir des Crustacés et Brachipodes  
+
+Étaient à Bord : L'équipage  
+
+Résultat :  
+- Brachipodes  
+- Crustacés  
+- Annélides  
+
+Localité :  
+au large de Nadies, 25 mètres de profondeur  
+
+00929
+
+--- Previous Page 2 ---
+```
+14<sup>e</sup> Sortie
+
+22 Juin 1883
+
+But - Dragage pour avoir des Gastrodées
+
+Étaient à Bord - l'équipage
+
+Résultat - Nombreuses Gastrodées - Brachyodes - Annélides
+
+Localité - au large de Port-Vendres 20 mètres de profondeur
+```
+
+--- Previous Page 3 ---
+15<sup>e</sup> Sortie  
+28 Juin 1885  
+
+But – pêche au chalut  
+
+Étaient à Bord – l'équipage  
+
+Résultat  
+Pinatilles, holothuries  
+
+Localité  
+Cap Cerbère – 25 mètres de profondeur
+
+### Context from Next Pages ###
+--- Next Page 1 ---
+74me Sortie  
+Le 2 juillet 1883  
+But-Exploration de L'anse des Eulmes  
+
+étaient à Bord- L'équipage  
+
+Résultat- Bruyéres, Aldnires.  
+
+Localité- Anse des Eules
+
+--- Next Page 2 ---
+18éme Sortie
+
+Le 5 juillet 1883
+
+Buk - Bugage
+
+Etaient à Bord : L'Equipage
+
+Résultat : Différents cailloux.
+
+Localité : Cap. Pierre - sité 35 Mties Trousondeur
+
+000290
+
+
+### OCR Candidates for Current Page ###
+=== Candidate from Qwen-VL-32b-instruct ===
+16<sup>e</sup> Sortie
+
+Le 29 juin 1865
+
+But – Dragage
+
+Étaient à Bord - L'Équipage
+
+Résultat – Moyens, amphixuscus.
+
+Localité – cap L'alèe, 26<sup>e</sup> Tirsenduc
+
+00935
+
+=== Candidate from Mistral-ocr ===
+16 eme Scatie
+
+Le 29 juin 1883
+
+Buit - Enggage
+
+clairol à Buit - Enguipage
+
+Bécalist - Moyens, employeurs.
+
+Localité - cap Valette 28 4e - Montenon
+
+00935
+
+=== Candidate from Kraken-ocr ===
+D
+23
+A 
+Dne
+"
+16enue
+
+Buit -
+5d
+Le 29 juin Nes
+9a9
+5
+etaient à Bard- L'Eqn
+Présultat - Un
+mans ,
+ige
+D
+n pcyt
+---
+Rocalité - cap Pabsille 251^at
+R
+
+
+003
+C
+3
+
+### Evaluation Guidelines ###
+1. Accuracy: Select the most faithful representation of the original document
+2. Completeness: Prefer versions with less missing text
+3. Consistency: Maintain flow with previous pages (dates, terminology)
+4. Formatting: Preserve original line breaks, paragraphs, and layout
+5. Error Handling: Only correct obvious OCR errors (e.g., 'mαrina' → 'marina')
+6. Ambiguity: Mark uncertain readings with [sic?] but preserve original
+7. Context Awareness: Use both previous and next pages to resolve ambiguities
+
+### Output Requirements ###
+- Return ONLY the final curated text
+- Maintain original language (French)
+- Preserve historical spellings
+- Include all marginal notes in context
+- Never add explanatory text
+- For tables: maintain alignment with monospace formatting
+- If the page is empty or empty content return""
+
+
+2025-09-04 15:42:30,159 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-04 15:42:31,425 - INFO - Response
+ 16<sup>e</sup> Sortie
+
+Le 29 juin 1883
+
+But – Dragage
+
+Étaient à Bord - L'Équipage
+
+Résultat – Moyens, amphixus.
+
+Localité – cap Valette, 25 mètres de profondeur
+
+00935
+2025-09-04 15:42:32,937 - INFO - Prompt
+ 
+## Historical Document Transcription Review ##
+
+You are an expert archivist specializing in 18th-19th century maritime documents. 
+Your task is to evaluate multiple OCR transcriptions of the same page and produce 
+a single authoritative version optimized for historical research and RAG systems.
+
+You are processing a historical ship logbook. Pay special attention to:
+- Maritime terminology and ship operations
+- Consistent date/time formats (e.g., '3ème jour de pluviôse')
+- Navigation coordinates and weather observations
+- Sequential event recording
+Preserve original spelling and formatting.
+
+### Context from Previous Pages ###
+--- Previous Page 1 ---
+```
+14<sup>e</sup> Sortie
+
+22 Juin 1883
+
+But - Dragage pour avoir des Gastrodées
+
+Étaient à Bord - l'équipage
+
+Résultat - Nombreuses Gastrodées - Brachyodes - Annélides
+
+Localité - au large de Port-Vendres 20 mètres de profondeur
+```
+
+--- Previous Page 2 ---
+15<sup>e</sup> Sortie  
+28 Juin 1885  
+
+But – pêche au chalut  
+
+Étaient à Bord – l'équipage  
+
+Résultat  
+Pinatilles, holothuries  
+
+Localité  
+Cap Cerbère – 25 mètres de profondeur
+
+--- Previous Page 3 ---
+16<sup>e</sup> Sortie
+
+Le 29 juin 1883
+
+But – Dragage
+
+Étaient à Bord - L'Équipage
+
+Résultat – Moyens, amphixus.
+
+Localité – cap Valette, 25 mètres de profondeur
+
+00935
+
+### Context from Next Pages ###
+--- Next Page 1 ---
+18éme Sortie
+
+Le 5 juillet 1883
+
+Buk - Bugage
+
+Etaient à Bord : L'Equipage
+
+Résultat : Différents cailloux.
+
+Localité : Cap. Pierre - sité 35 Mties Trousondeur
+
+000290
+
+--- Next Page 2 ---
+```
+19<sup>ème</sup> Sortie
+
+Le 17 juillet 1889
+
+But - Chalu
+
+Étouffent à Bord - L'équipage.
+
+Résultat-épingons, véritable.
+
+Localité - Célibre, 40 M<sup>t</sup>s Profondeur.
+```
+
+
+### OCR Candidates for Current Page ###
+=== Candidate from Qwen-VL-32b-instruct ===
+74me Sortie  
+Le 2 juillet 1883  
+But-Exploration de L'anse des Eulmes  
+
+étaient à Bord- L'équipage  
+
+Résultat- Bruyéres, Aldnires.  
+
+Localité- Anse des Eules
+
+=== Candidate from Mistral-ocr ===
+# 1900
+
+## Sester
+
+## Le 2 juillet 1889
+
+### 3e du 18 au 19
+
+#### 3e du 18 au 19
+
+**Buch-Exploitation de l'anse des fémes**
+
+**clairauté à Béd.-Léguay**
+
+**césialité - Convoquaires, Médicains.**
+
+**cécalité - Casse des fémes**
+
+100927
+
+=== Candidate from Kraken-ocr ===
+1---
+1"
+i
+17eine
+L
+70
+tie
+Le 2 juillet d
+
+But-Greplonation de Parse des Tetnmes
+-I5
+étaient a Bard- &
+Metat- B.
+II
+i
+eres, Hidraires.
+d7
+Pecalité  Anse des Glmes
+O3
+2
+
+### Evaluation Guidelines ###
+1. Accuracy: Select the most faithful representation of the original document
+2. Completeness: Prefer versions with less missing text
+3. Consistency: Maintain flow with previous pages (dates, terminology)
+4. Formatting: Preserve original line breaks, paragraphs, and layout
+5. Error Handling: Only correct obvious OCR errors (e.g., 'mαrina' → 'marina')
+6. Ambiguity: Mark uncertain readings with [sic?] but preserve original
+7. Context Awareness: Use both previous and next pages to resolve ambiguities
+
+### Output Requirements ###
+- Return ONLY the final curated text
+- Maintain original language (French)
+- Preserve historical spellings
+- Include all marginal notes in context
+- Never add explanatory text
+- For tables: maintain alignment with monospace formatting
+- If the page is empty or empty content return""
+
+
+2025-09-04 15:42:35,430 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-04 15:42:36,069 - INFO - Response
+ ### Curated Text
+
+7<sup>e</sup> Sortie  
+Le 2 juillet 1883  
+But - Exploration de l'anse des Eulmes  
+
+Étaient à Bord - L'équipage  
+
+Résultat - Bruyères, Hidraires.  
+
+Localité - Anse des Eulmes
+
+00927
+2025-09-04 15:42:37,579 - INFO - Prompt
+ 
+## Historical Document Transcription Review ##
+
+You are an expert archivist specializing in 18th-19th century maritime documents. 
+Your task is to evaluate multiple OCR transcriptions of the same page and produce 
+a single authoritative version optimized for historical research and RAG systems.
+
+You are processing a historical ship logbook. Pay special attention to:
+- Maritime terminology and ship operations
+- Consistent date/time formats (e.g., '3ème jour de pluviôse')
+- Navigation coordinates and weather observations
+- Sequential event recording
+Preserve original spelling and formatting.
+
+### Context from Previous Pages ###
+--- Previous Page 1 ---
+15<sup>e</sup> Sortie  
+28 Juin 1885  
+
+But – pêche au chalut  
+
+Étaient à Bord – l'équipage  
+
+Résultat  
+Pinatilles, holothuries  
+
+Localité  
+Cap Cerbère – 25 mètres de profondeur
+
+--- Previous Page 2 ---
+16<sup>e</sup> Sortie
+
+Le 29 juin 1883
+
+But – Dragage
+
+Étaient à Bord - L'Équipage
+
+Résultat – Moyens, amphixus.
+
+Localité – cap Valette, 25 mètres de profondeur
+
+00935
+
+--- Previous Page 3 ---
+### Curated Text
+
+7<sup>e</sup> Sortie  
+Le 2 juillet 1883  
+But - Exploration de l'anse des Eulmes  
+
+Étaient à Bord - L'équipage  
+
+Résultat - Bruyères, Hidraires.  
+
+Localité - Anse des Eulmes
+
+00927
+
+### Context from Next Pages ###
+--- Next Page 1 ---
+```
+19<sup>ème</sup> Sortie
+
+Le 17 juillet 1889
+
+But - Chalu
+
+Étouffent à Bord - L'équipage.
+
+Résultat-épingons, véritable.
+
+Localité - Célibre, 40 M<sup>t</sup>s Profondeur.
+```
+
+--- Next Page 2 ---
+20<sup>e</sup> Sortie  
+Le 11 juillet 1880  
+
+But - Chalu.  
+
+étaient à Bord - L'Équipage.  
+
+Résultat - Spatangles, Halothunies.  
+
+Localité - cap Guillastreuil, 17 Mètres Profondeur.
+
+
+### OCR Candidates for Current Page ###
+=== Candidate from Qwen-VL-32b-instruct ===
+18éme Sortie
+
+Le 5 juillet 1883
+
+Buk - Bugage
+
+Etaient à Bord : L'Equipage
+
+Résultat : Différents cailloux.
+
+Localité : Cap. Pierre - sité 35 Mties Trousondeur
+
+000290
+
+=== Candidate from Mistral-ocr ===
+18km Aurlie
+
+Le S'quillité 1883
+
+Buch - Anagage
+
+Mairie à Bercé - L'Équipage
+
+Bricialat d'Efférents cailloux.
+
+Localité-cap Pierre - file 35 M 4er Prépondérer
+
+00039
+
+=== Candidate from Kraken-ocr ===
+2
+"
+1
+--
+Nareme Surtie.
+Le 3 Jjuillêt 1883
+Fdnh - Buagage
+Etoient a Ron-L'Equipad
+Bresultat 35.
+iffer
+ATUOE
+cai
+2
+Voux.
+3
+4
+Localté- cap Phierre fite 35 M^rres Trofondeur
+1
+D
+D--
+3 S.
+
+### Evaluation Guidelines ###
+1. Accuracy: Select the most faithful representation of the original document
+2. Completeness: Prefer versions with less missing text
+3. Consistency: Maintain flow with previous pages (dates, terminology)
+4. Formatting: Preserve original line breaks, paragraphs, and layout
+5. Error Handling: Only correct obvious OCR errors (e.g., 'mαrina' → 'marina')
+6. Ambiguity: Mark uncertain readings with [sic?] but preserve original
+7. Context Awareness: Use both previous and next pages to resolve ambiguities
+
+### Output Requirements ###
+- Return ONLY the final curated text
+- Maintain original language (French)
+- Preserve historical spellings
+- Include all marginal notes in context
+- Never add explanatory text
+- For tables: maintain alignment with monospace formatting
+- If the page is empty or empty content return""
+
+
+2025-09-04 15:42:40,013 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-04 15:42:41,360 - INFO - Response
+ 18<sup>e</sup> Sortie
+
+Le 5 juillet 1883
+
+But - Bugage
+
+Étaient à Bord : L'Équipage
+
+Résultat : Différents cailloux.
+
+Localité : Cap Pierre - site 35 Mètres Profondeur
+
+000290
+2025-09-04 15:42:42,869 - INFO - Prompt
+ 
+## Historical Document Transcription Review ##
+
+You are an expert archivist specializing in 18th-19th century maritime documents. 
+Your task is to evaluate multiple OCR transcriptions of the same page and produce 
+a single authoritative version optimized for historical research and RAG systems.
+
+You are processing a historical ship logbook. Pay special attention to:
+- Maritime terminology and ship operations
+- Consistent date/time formats (e.g., '3ème jour de pluviôse')
+- Navigation coordinates and weather observations
+- Sequential event recording
+Preserve original spelling and formatting.
+
+### Context from Previous Pages ###
+--- Previous Page 1 ---
+16<sup>e</sup> Sortie
+
+Le 29 juin 1883
+
+But – Dragage
+
+Étaient à Bord - L'Équipage
+
+Résultat – Moyens, amphixus.
+
+Localité – cap Valette, 25 mètres de profondeur
+
+00935
+
+--- Previous Page 2 ---
+### Curated Text
+
+7<sup>e</sup> Sortie  
+Le 2 juillet 1883  
+But - Exploration de l'anse des Eulmes  
+
+Étaient à Bord - L'équipage  
+
+Résultat - Bruyères, Hidraires.  
+
+Localité - Anse des Eulmes
+
+00927
+
+--- Previous Page 3 ---
+18<sup>e</sup> Sortie
+
+Le 5 juillet 1883
+
+But - Bugage
+
+Étaient à Bord : L'Équipage
+
+Résultat : Différents cailloux.
+
+Localité : Cap Pierre - site 35 Mètres Profondeur
+
+000290
+
+### Context from Next Pages ###
+--- Next Page 1 ---
+20<sup>e</sup> Sortie  
+Le 11 juillet 1880  
+
+But - Chalu.  
+
+étaient à Bord - L'Équipage.  
+
+Résultat - Spatangles, Halothunies.  
+
+Localité - cap Guillastreuil, 17 Mètres Profondeur.
+
+
+### OCR Candidates for Current Page ###
+=== Candidate from Qwen-VL-32b-instruct ===
+```
+19<sup>ème</sup> Sortie
+
+Le 17 juillet 1889
+
+But - Chalu
+
+Étouffent à Bord - L'équipage.
+
+Résultat-épingons, véritable.
+
+Localité - Célibre, 40 M<sup>t</sup>s Profondeur.
+```
+
+=== Candidate from Mistral-ocr ===
+1900 Sortie
+
+Le 9 juillet 1889
+
+Boul-Ghatu
+
+Étonnant à Bord-LEguipage.
+
+Resultat-bleçons, vérités.
+
+Localité-Gerbier, 40 M 285 Profondeur
+
+00041
+
+=== Candidate from Kraken-ocr ===
+"
+19^eme Bortter
+Eteauoat a Bord
+L
+M
+---
+Le n juillet 1883
+But-Chalu
+77
+-
+9e:.
+Presultat Aleyons, veutiles.
+D
+OLCCE
+----
+3
+D--
+Rocalité-Cerbére, 40 M^tres Profondeur.
+D
+J
+DUPAM.
+D
+Dos
+
+### Evaluation Guidelines ###
+1. Accuracy: Select the most faithful representation of the original document
+2. Completeness: Prefer versions with less missing text
+3. Consistency: Maintain flow with previous pages (dates, terminology)
+4. Formatting: Preserve original line breaks, paragraphs, and layout
+5. Error Handling: Only correct obvious OCR errors (e.g., 'mαrina' → 'marina')
+6. Ambiguity: Mark uncertain readings with [sic?] but preserve original
+7. Context Awareness: Use both previous and next pages to resolve ambiguities
+
+### Output Requirements ###
+- Return ONLY the final curated text
+- Maintain original language (French)
+- Preserve historical spellings
+- Include all marginal notes in context
+- Never add explanatory text
+- For tables: maintain alignment with monospace formatting
+- If the page is empty or empty content return""
+
+
+2025-09-04 15:42:45,161 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-04 15:42:45,953 - INFO - Response
+ ```
+19<sup>e</sup> Sortie
+
+Le 9 juillet 1883
+
+But - Chalu
+
+Étaient à Bord - L'Équipage.
+
+Résultat - Épinglons, véritables.
+
+Localité - Cerbère, 40 Mètres Profondeur.
+
+00041
+```
+2025-09-04 15:42:47,456 - INFO - Prompt
+ 
+## Historical Document Transcription Review ##
+
+You are an expert archivist specializing in 18th-19th century maritime documents. 
+Your task is to evaluate multiple OCR transcriptions of the same page and produce 
+a single authoritative version optimized for historical research and RAG systems.
+
+You are processing a historical ship logbook. Pay special attention to:
+- Maritime terminology and ship operations
+- Consistent date/time formats (e.g., '3ème jour de pluviôse')
+- Navigation coordinates and weather observations
+- Sequential event recording
+Preserve original spelling and formatting.
+
+### Context from Previous Pages ###
+--- Previous Page 1 ---
+### Curated Text
+
+7<sup>e</sup> Sortie  
+Le 2 juillet 1883  
+But - Exploration de l'anse des Eulmes  
+
+Étaient à Bord - L'équipage  
+
+Résultat - Bruyères, Hidraires.  
+
+Localité - Anse des Eulmes
+
+00927
+
+--- Previous Page 2 ---
+18<sup>e</sup> Sortie
+
+Le 5 juillet 1883
+
+But - Bugage
+
+Étaient à Bord : L'Équipage
+
+Résultat : Différents cailloux.
+
+Localité : Cap Pierre - site 35 Mètres Profondeur
+
+000290
+
+--- Previous Page 3 ---
+```
+19<sup>e</sup> Sortie
+
+Le 9 juillet 1883
+
+But - Chalu
+
+Étaient à Bord - L'Équipage.
+
+Résultat - Épinglons, véritables.
+
+Localité - Cerbère, 40 Mètres Profondeur.
+
+00041
+```
+
+### Context from Next Pages ###
+No next pages available
+
+
+### OCR Candidates for Current Page ###
+=== Candidate from Qwen-VL-32b-instruct ===
+20<sup>e</sup> Sortie  
+Le 11 juillet 1880  
+
+But - Chalu.  
+
+étaient à Bord - L'Équipage.  
+
+Résultat - Spatangles, Halothunies.  
+
+Localité - cap Guillastreuil, 17 Mètres Profondeur.
+
+=== Candidate from Mistral-ocr ===
+# 2000 Sortie
+
+## Te myullit 1889
+
+### Buit - Chalu
+
+*clavent à abord - Pégnipage.*
+
+### Boreille - Spatances, Malchuries.
+
+### Locatie - cap coullachal, 18e etre d'afondure.
+
+=== Candidate from Kraken-ocr ===
+20^eme Sot
+v
+Le 11 juillet 1803
+But - Chalin.
+7
+1
+étaient a Bord
+--
+L
+M
+1^ae6
+qu4
+26
+-a
+Présultot Epatanchles, Halothuries.
+Pocalité
+---
+4
+R
+Cee, pelbe d
+1
+Rofondeur.
+
+6
+--d
+
+### Evaluation Guidelines ###
+1. Accuracy: Select the most faithful representation of the original document
+2. Completeness: Prefer versions with less missing text
+3. Consistency: Maintain flow with previous pages (dates, terminology)
+4. Formatting: Preserve original line breaks, paragraphs, and layout
+5. Error Handling: Only correct obvious OCR errors (e.g., 'mαrina' → 'marina')
+6. Ambiguity: Mark uncertain readings with [sic?] but preserve original
+7. Context Awareness: Use both previous and next pages to resolve ambiguities
+
+### Output Requirements ###
+- Return ONLY the final curated text
+- Maintain original language (French)
+- Preserve historical spellings
+- Include all marginal notes in context
+- Never add explanatory text
+- For tables: maintain alignment with monospace formatting
+- If the page is empty or empty content return""
+
+
+2025-09-04 15:42:50,727 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-04 15:42:51,538 - INFO - Response
+ 20<sup>e</sup> Sortie  
+Le 11 juillet 1883  
+
+But - Chalu.  
+
+Étaient à Bord - L'Équipage.  
+
+Résultat - Spatangles, Halothuries.  
+
+Localité - Cap Guillastreuil, 17 Mètres Profondeur.

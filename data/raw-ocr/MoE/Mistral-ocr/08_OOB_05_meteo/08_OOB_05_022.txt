@@ -1,0 +1,33 @@
+|  V. 20
+Ouvit. 1905 | Matin | Jours  |
+| --- | --- | --- |
+|  J'auteur
+Parométrique | 168.1 |   |
+|  Direction du vent | 0,000 |   |
+|  Force | 1 fort |   |
+|  Nebulinite | 0 |   |
+|  (Ris. x. cm.) |  |   |
+|  Direction des nuages |  |   |
+|  Mise tombée |  |   |
+|  Température de l'air | 37.8 |   |
+|  J'auteur de la mer | 49.4 |   |
+|  Aspiration de l'eau | 1 |   |
+|  Densité au bout de la jetée | 103.1 |   |
+|  Température de l'eau | 37.1 |   |
+
+|  V. 21
+Ouvit. 1905 | Matin | Jours  |
+| --- | --- | --- |
+|  J'auteur
+Parométrique | 168.1 | 167.0  |
+|  Direction du vent | 0.8 | 168.8  |
+|  Force | 1 fort | 2 fort  |
+|  Nebulinite | 0 |   |
+|  (Ris. x. cm.) |  |   |
+|  Direction des nuages | 0,000 | 0,000  |
+|  Mise tombée |  |   |
+|  Température de l'air | 36.6 | 39.2  |
+|  J'auteur de la mer | 70.0 | 70.1  |
+|  Aspiration de l'eau | 1 fort | 17 fort  |
+|  Densité au bout de la jetée | 103.2 | 103.1  |
+|  Température de l'eau | 34.2 | 37.1  |

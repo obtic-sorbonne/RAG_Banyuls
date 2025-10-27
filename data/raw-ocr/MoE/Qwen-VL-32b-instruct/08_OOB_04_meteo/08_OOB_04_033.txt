@@ -1,0 +1,33 @@
+# 9. 30 Novembre 1901
+
+|  Nom | Prénom | Écrit | Date  |
+| --- | --- | --- | --- |
+|  Hauteur Barométrique | 470,8 | 709,9 |   |
+|  Direction du vent | or.or.o | or.or.o |   |
+|  Force | 3 | 1/2010 |   |
+|  Mécanosite | Reg. O. (terre) | 0 |   |
+|  Mécanosite | Reg. F. (mer) | 0 |   |
+|  Direction des nuages | " | 11 |   |
+|  Mure tombe | " | 11 |   |
+|  Comprendre le l'air | 9,6 | 11,6 |   |
+|  Hauteur de la mer | 39,4 | 15,6 |   |
+|  Régulation de l'eau | 3 | 3 |   |
+|  Densité au bout de la jetée | 1029,2 | 1029,2 |   |
+|  Comprendre le l'eau | 13,9 | 13,4 |   |
+
+# 10. 1er mai 1901
+
+|  Nom | Prénom | Écrit | Date  |
+| --- | --- | --- | --- |
+|  Hauteur Barométrique | 470,6 |  |   |
+|  Direction du vent | omod |  |   |
+|  Force | 1/2010 |  |   |
+|  Mécanosite | Reg. O. (terre) | 0 |   |
+|  Mécanosite | Reg. F. (mer) | 0 |   |
+|  Direction des nuages | " | 11 |   |
+|  Mure tombe | " | 11 |   |
+|  Comprendre le l'air | 6,7 |  |   |
+|  Hauteur de la mer | 47,3 |  |   |
+|  Régulation de l'eau | 2 |  |   |
+|  Densité au bout de la jetée | 1029,1 |  |   |
+|  Comprendre le l'eau | 13,7 |  |   |

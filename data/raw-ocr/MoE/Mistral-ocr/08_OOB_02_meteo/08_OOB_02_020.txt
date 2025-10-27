@@ -1,0 +1,19 @@
+# Date. 22 Mars 1901
+
+|  |   |
+| --- | --- |
+|  9. Matin 3. Bois |   |
+|  Houteur Prarométrique | 74.7  |
+|  Direction fin vent | 74.7  |
+|  Force | 5  |
+|  Mibulosite | Reg. 0. (livre)  |
+|  Mibulosite | Reg. E. (mer)  |
+|  Direction des nuages | 3  |
+|  Mure tombe | 3/7  |
+|  Température de l'air | 31.5  |
+|  Houteur de la mer | 3  |
+|  Agitation de l'eau | 3  |
+|  Densité de l'eau | 1  |
+|  Par bont de la jetée |   |
+|  Par barge |   |
+|  Température de l'eau | 10.6  |

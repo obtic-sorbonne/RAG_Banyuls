@@ -1,0 +1,17 @@
+# Date: 26 Juillet 1901
+
+|  **Position** | **Prix**  |
+| --- | --- |
+|  Kauteur Barometrique | 94964  |
+|  Direction Su vent | 763,4  |
+|  Force | N.N.O.  |
+|  Nebulosite | 85,5  |
+|  Reg. O. (terre) | 10  |
+|  Direction des nuages | 10  |
+|  Flux tombée | 10  |
+|  Température de l'air | 30,5  |
+|  Kauteur de la mer | 13,4  |
+|  Égitation de l'eau | 1,4  |
+|  Densité de l'eau | 102,7  |
+|  Au large | 1,27  |
+|  Température de l'eau | 30,5  |

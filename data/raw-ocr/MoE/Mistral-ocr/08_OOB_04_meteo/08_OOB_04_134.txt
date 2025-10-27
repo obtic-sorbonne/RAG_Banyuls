@@ -1,0 +1,29 @@
+|  V-11 Septembre - 1902 | Obatin | Soir  |
+| --- | --- | --- |
+|  Hauteur Poarométrique |  | 766,3  |
+|  Direction du vent |  | or  |
+|  Force |  | 3 fois  |
+|  Néglinoïde | Reg. O. (titre) | 1  |
+|   | Reg. E. (mer) | 0  |
+|  Direction des nuages |  | or or  |
+|  Flux tombe |  | 31,1  |
+|  Température de l'air |  | 47,1  |
+|  Hauteur de la mer |  | 37 fois  |
+|  Législation de l'eau |  | 1027,2  |
+|  Sensible au bout de la jeté |  | 21,1  |
+|  Température de l'eau |  | 21,1  |
+
+|  V-16 Septembre - 1902 | Obatin | Soir  |
+| --- | --- | --- |
+|  Hauteur Poarométrique | 767,3 | 766,2  |
+|  Direction du vent | or | 1.8  |
+|  Force | 1 fois | 2 fois  |
+|  Reg. O. (titre) | 0 | 1  |
+|  Néglinoïde | Reg. E. (mer) | 2  |
+|  Direction des nuages |  | 1.8  |
+|  Flux tombe |  | 21.0  |
+|  Température de l'air | 19,2 | 21,0  |
+|  Hauteur de la mer | 19,2 | 12,1  |
+|  Législation de l'eau | 1 fois | 1  |
+|  Sensible au bout de la jeté | 1026,9 | 1027,5  |
+|  Température de l'eau | 21,4 | 22,3  |

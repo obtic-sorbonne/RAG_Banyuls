@@ -1,0 +1,17 @@
+# Date. 5 février. 1901
+
+|   | 9th matin 3.50.00  |
+| --- | --- |
+|  Hauteur Prazométrique | 250,0  |
+|  Direction du vent | 17. faible  |
+|  Force | 0  |
+|  Vibrativité (Reg. 6. Terre) | 0  |
+|  Direction des nuages | 1  |
+|  Nuit tombée | 1  |
+|  Température de l'air | 9,4  |
+|  Hauteur de la mer | 37,8  |
+|  Écartation de l'eau | 1  |
+|  Densité de l'eau | 1  |
+|  Écart. au large | 18,5  |
+
+Température de l'eau: 18,5

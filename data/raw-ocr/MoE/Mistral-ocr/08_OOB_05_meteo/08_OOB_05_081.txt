@@ -1,0 +1,27 @@
+|  7:20 Jervier - 1905 | Mbatin | Soir  |
+| --- | --- | --- |
+|  Hauteur Maronctrique |  | 20,2  |
+|  Direction du vent |  | 4,626  |
+|  Force |  | 10  |
+|  (Reg. a (ture) |  |   |
+|  (Reg. K (mer) |  |   |
+|  Direction des maays |  |   |
+|  Flue tombe |  |   |
+|  Température de l'air |  | 18.0  |
+|  Hauteur de la mer |  | 63.0  |
+|  Oeptation de l'eau |  | 3 font.  |
+|  Densité au bout de la jetée |  | 5  |
+|  Température de l'eau |  |   |
+|  7:21 Jervier - 1905 | Mbatin | Soir  |
+|  Hauteur Maronctrique | 208,5 | 268.0  |
+|  Direction du vent | or.ov. | 17,6  |
+|  Force | 3 | 17,6  |
+|  (Reg. a (ture) | 10 kg/m²e | 3 kg/m²e  |
+|  (Reg. K (mer) |  |   |
+|  Direction des maays | 10 kg/m²e | 3 kg/m²e  |
+|  Flue tombe |  |   |
+|  Température de l'air | 2,4 | 11.5  |
+|  Hauteur de la mer | 63.1 | 28.0  |
+|  Oeptation de l'eau | 3 font. | 3 font.  |
+|  Densité au bout de la jetée | 1039,4 | 1039,4  |
+|  Température de l'eau | 14.0 | 13.2  |

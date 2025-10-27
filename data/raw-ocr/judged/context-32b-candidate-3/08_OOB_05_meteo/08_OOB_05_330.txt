@@ -1,0 +1,37 @@
+```markdown
+# 13 DÉCEMBRE 1907
+
+| **Date**           | **Matin** | **Soir** | **Observations** |
+|--------------------|-----------|----------|------------------|
+| **Hauteur barométrique (mmHg)** | 760.4 | 759.0 | |
+| **Direction du Vent** | S.O | cr. 0 | |
+| **Force** | 3 | 0 | |
+| **Nébulosité (Rég. C. claire)** | 10 | 2 | |
+| **Nébulosité (Rég. H. Cl.)** | 10 | 1 | |
+| **Direction des nuages** | S.O | cr. 0 | |
+| **Pluie tombée** | - | - | |
+| **Température de l'air (°C)** | 10.3 | 11.6 | |
+| **Température de la mer (°C)** | 48.8 | 39.0 | [sic?] |
+| **Hauteur de la mer (cm)** | - | - | |
+| **Agitation de l'eau** | fort | 1 | |
+| **Densité au bout de la jetée (g/cm³)** | 1028.4 | 1028.4 | |
+| **Température de l'eau (°C)** | 4.2 | 4.4 | |
+
+# 14 DÉCEMBRE 1907
+
+| **Date**           | **Matin** | **Soir** | **Observations** |
+|--------------------|-----------|----------|------------------|
+| **Hauteur barométrique (mmHg)** | 754.2 | 753.3 | |
+| **Direction du Vent** | S.O | S.O | |
+| **Force** | 1 | faible | |
+| **Nébulosité (Rég. C. claire)** | 10 | 10 | |
+| **Nébulosité (Rég. H. Cl.)** | 10 | 10 | |
+| **Direction des nuages** | cr. 0 | cr. 0 | |
+| **Pluie tombée** | quelques g | quelques g | |
+| **Température de l'air (°C)** | 14.2 | 14.9 | |
+| **Température de la mer (°C)** | 49.0 | 39.0 | [sic?] |
+| **Hauteur de la mer (cm)** | 43.5 | 55.0 | [sic?] |
+| **Agitation de l'eau** | 1 fort | 1 | |
+| **Densité au bout de la jetée (g/cm³)** | 1028.6 | 1028.7 | |
+| **Température de l'eau (°C)** | 4.6 | 4.4 | |
+```

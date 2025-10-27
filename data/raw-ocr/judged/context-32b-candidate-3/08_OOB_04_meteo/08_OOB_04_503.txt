@@ -1,0 +1,29 @@
+```plaintext
+|  R. 29 mai - 1905 | Matin |  |
+| --- | --- | --- |
+|  Hauteur Barométrique | 760.4 |  |
+|  Direction du vent | 8.0 |  |
+|  Force | 1 |  |
+|  Nébulosité | (Reg. 6. (min. )) |  |
+|  Direction des nuages | 10 |  |
+|  Pluie tombée | 0.0 |  |
+|  Température de l'air | 18.2 |  |
+|  Hauteur de la mer | 47.0 |  |
+|  Agitation de l'eau | 1 faible |  |
+|  Densité au bout de la jetée | 1028.7 |  |
+|  Température de l'eau | 17.8 |  |
+
+|  R. 30 mai - 1905 | Matin |  |
+| --- | --- | --- |
+|  Hauteur Barométrique | 761.2 |  |
+|  Direction du vent | 8.0 |  |
+|  Force | 1 |  |
+|  Nébulosité | (Reg. 6. (min. )) |  |
+|  Direction des nuages | 10 |  |
+|  Pluie tombée | 0.0 |  |
+|  Température de l'air | 19.1 |  |
+|  Hauteur de la mer | 46.2 |  |
+|  Agitation de l'eau | 1 faible |  |
+|  Densité au bout de la jetée | 1028.6 |  |
+|  Température de l'eau | 18.2 |  |
+```

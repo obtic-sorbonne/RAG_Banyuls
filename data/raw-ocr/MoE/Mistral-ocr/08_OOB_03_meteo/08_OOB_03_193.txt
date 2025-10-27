@@ -1,0 +1,17 @@
+# Date 24 Mai 1902
+
+|  Name | 3rd Sour | 4th Sour  |
+| --- | --- | --- |
+|  Hauteur Barométrique |  | 1/20.2  |
+|  Direction du vent |  | cr. cr.  |
+|  Force |  | A faible  |
+|  Règ. O. (lire) |  | 0  |
+|  Réticulosité |  | 0  |
+|  Règ. E. (mer) |  | 0  |
+|  Direction des nuages |  | cr. cr.  |
+|  Flux tombé |  | 20%  |
+|  Température de l'air |  | 17.5  |
+|  Hauteur de la mer |  | 1/1.5  |
+|  Égitation de l'eau |  | 1028.4  |
+|  Sensibilité de l'eau |  |   |
+|  Température de l'eau |  | 14.7  |

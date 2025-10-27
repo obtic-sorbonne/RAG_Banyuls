@@ -1,0 +1,23 @@
+# Date: 28 Juin - 1901
+
+|   | 9e Station | 3e Soir  |
+| --- | --- | --- |
+|  Hauteur Barométrique | 763,7 | 764,2  |
+|  Direction du vent | N | N  |
+|  Force | 3,6 | 3,6  |
+|  Nébulosité / Reg. O. (terre) | 0 | 0  |
+|  Nébulosité / Reg. E. (mer) | 0 | 0  |
+|  Direction des nuages | N | N  |
+|  Pluie tombée | 1 | 1  |
+|  Température de l'air | 27,3 | 27,3  |
+|  Hauteur de la mer | 37,3 | 49,4  |
+|  Agitation de l'eau | 1 fort | 1 fort  |
+|  Densité de l'eau / au bout de la jetée | 1027,5 | 1027,5  |
+|  Densité de l'eau / au large |  |  |
+|  Température de l'eau | 20,7 | 21,2  |
+
+Densité de l'eau au Cours de la Jolie 1027,5
+
+Densité de l'eau au Barge
+
+Densité de l'eau 20,7 21,2

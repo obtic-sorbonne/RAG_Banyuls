@@ -1,0 +1,18 @@
+# Dôle. 3 Août. 1901
+
+|  Nom | 9e Matin | 3e Soir  |
+| --- | --- | --- |
+|  Hanteur Praxometrique | 755.2 | 754.4  |
+|  Direction du vent | N.N.O | Now  |
+|  Force | faible | faible  |
+|  Reg. O. (terre) |  |   |
+|  Tébulosite |  |   |
+|  Reg. E. (mor) |  |   |
+|  Direction des nuages |  |   |
+|  Unie tombe |  |   |
+|  Température de l'air | 35,1 | 37.7  |
+|  Hanteur de la mor | 54.4 | 54.3  |
+|  Cigitation de l'eau | 3 | faible  |
+|  Densité de l'eau | 1027.5 | 1027.3  |
+|  |   |   |
+|  Température de l'eau | 30.7 | 31.2  |

@@ -1,0 +1,29 @@
+| V. 12 Septembre 1907 | Matin | Soir |
+|----------------------|-------|------|
+| Hauteur Barométrique | 769.3 | 768.0 |
+| Direction du Vent    | Est   | S.O  |
+| Force                | 1 fort| 2    |
+| Nebulosite           | 10    | 10   |
+| Reg. C. Aére)        |       |      |
+| Direction des nuages | Ouest | quelques |
+| Pluie tombée         |       |       |
+| Température de l'air | 26.2  | 26.0 |
+| Hauteur de la mer    | 04.8  | 06.1 |
+| Agitation de l'eau   | 1     | 1 fort |
+| Densité au bout de la jetée | 1027.3 | 1027.3 |
+| Température de l'eau | 22.3  | 22.3 |
+
+| V. 13 Septembre 1907 | Matin | Soir |
+|----------------------|-------|------|
+| Hauteur Barométrique | 769.7 | 768.2 |
+| Direction du Vent    | creux | S.E  |
+| Force                | 1 fort| 1    |
+| Nebulosite           | 10    | 10   |
+| Reg. C. Aére)        |       |      |
+| Direction des nuages | cr.or.o | S.O |
+| Pluie tombée         | 9.1   | quelques |
+| Température de l'air | 21.2  | 21.0 |
+| Hauteur de la mer    | 01.0  | 01.2 |
+| Agitation de l'eau   | 1     | 1 fort |
+| Densité au bout de la jetée | 1027.4 | 1027.4 |
+| Température de l'eau | 22.2  | 22.0 |

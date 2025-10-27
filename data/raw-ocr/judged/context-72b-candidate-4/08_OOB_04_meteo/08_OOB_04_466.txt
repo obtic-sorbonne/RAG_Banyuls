@@ -1,0 +1,31 @@
+```plaintext
+| V. 22 Janvier 1905 | Matin | Soir |
+|---------------------|-------|------|
+| Hauteur Barométrique | 767.0 |      |
+| Direction du vent    | S.O   |      |
+| Force                | 1 faible |      |
+| Nébulosité (Rég. O. (ciel)) | 10 |      |
+| Rég. E. (mer)        | 10 |      |
+| Direction des nuages | S.O |      |
+| Pluie tombée         | quelques g |      |
+| Température de l'air | 9.1 |      |
+| Hauteur de la mer    | 34.4 |      |
+| Agitation de l'eau   | 2 faible |      |
+| Vessite au bout de la jetée | 1029.6 |      |
+| Température de l'eau | 12.1 |      |
+
+| V. 23 Janvier 1905 | Matin | Soir |
+|---------------------|-------|------|
+| Hauteur Barométrique | 770.2 | 768.6 |
+| Direction du vent    | S.S.E | S.S.E |
+| Force                | 2     | 3     |
+| Nébulosité (Rég. O. (ciel)) | 10 | 10 |
+| Rég. E. (mer)        | 10 | 10 |
+| Direction des nuages | S.S.E | S.S.E |
+| Pluie tombée         | 24.0 | 17.2 |
+| Température de l'air | 10.3 | 11.9 |
+| Hauteur de la mer    | 3     | 3     |
+| Agitation de l'eau   | 2 fort | 3 T.fort |
+| Vessite au bout de la jetée | 1029.3 | 1029.3 |
+| Température de l'eau | 12.3 | 12.3 |
+```

@@ -1,0 +1,41 @@
+# OBSERVATIONS DU 1902 15 avie 
+
+Nombre de bateaux sortis (pêche à $l$ $\qquad$ ).
+![img-0.jpeg](img-0.jpeg)
+
+Nombre de bateaux sortis (pêche à 1 $\qquad$ ).
+![img-1.jpeg](img-1.jpeg)
+
+Température de l'air $\left\{\begin{array}{l}\text { maxima depuis la veille. } \\ \text { minima id. }\end{array}\right.$
+![img-2.jpeg](img-2.jpeg)
+
+Peuvent de l'eau $\left\{\begin{array}{l}\text { maxima depuis la veille. } \\ \text { minima id. }\end{array}\right.$
+![img-3.jpeg](img-3.jpeg)
+
+Peuvent de l'eau, en centimètres, au-dessus du zéro $\qquad$ 7.29
+
+Evaporation depuis le $\qquad$ 190 , en millim.
+
+Direction du vent (à terre).
+Force $\qquad$ 8.9 h. m.
+Direction des nuages $\qquad$ 8.9 h. m.
+Nébulosité $\left\{\begin{array}{l}\text { région Ouest (terre) } \\ \text { minima id. }\end{array}\right.$
+![img-4.jpeg](img-4.jpeg)
+
+Hauteur de la mer, en centimètres, au-dessus du zéro $\qquad$ 7.29
+Agitation de l'eau $\qquad$ 7.29
+
+Densité de l'eau au bout de la jetée $\qquad$
+$\qquad$ 7.29
+Evaporation depuis le $\qquad$ 190 , en millim.
+
+Direction du vent (à terre).
+Force $\qquad$ 8.9 h. m.
+Direction des nuages $\qquad$ 8.9 h. m.
+Nébulosité $\left\{\begin{array}{l}\text { région Ouest (terre) } \\ \text { id. Est (mer) }\end{array}\right.$
+![img-5.jpeg](img-5.jpeg)
+
+Hauteur de la mer, en centimètres, au-dessus du zéro $\qquad$ 7.29
+Agitation de l'eau $\qquad$ 7.29
+Densité de l'eau au bout de la jetée $\qquad$ 7.29
+Pèmpérature $\quad$ id. $\qquad$

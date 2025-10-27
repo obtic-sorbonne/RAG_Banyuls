@@ -1,0 +1,17 @@
+# Date: 86 Août 1900
+
+|  Dossier | 8h m. | 1h m. | 1h m.  |
+| --- | --- | --- | --- |
+|  Hauteur barométrique | 745.0 | 745.5 | 745.5  |
+|  Direction du vent | 0.5.0. | 0.5.0. | 0.5.0.  |
+|  Force | 1 | 1 | 1  |
+|  Nébulosité (Rég. O. (taux)) | 5 | 5 | 5  |
+|  Direction des nuages | 0 | 0 | 0  |
+|  Pluie tombée | 0.0 | 0.0 | 0.0  |
+|  Température de l'air | 24.1 | 24.1 | 24.1  |
+|  Hauteur de la mer | 0.51 | 0.51 | 0.51  |
+|  Agitation de l'eau | 2 | 2 | 2  |
+|  Densité de l'eau (en bout de la jetée) | 1026.5 | 1026.5 | 1026.5  |
+|  Température de l'eau | 23.2 | 23.2 | 23.2  |
+
+**Observat.** - Vent plus fort parmoment vers 63, rant du P. O, en se perdant dans le N. E. Vers 114.s.

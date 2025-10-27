@@ -1,0 +1,15 @@
+```markdown
+# 23 Avril 1907
+
+| **Date**       | **Heure** | **Hauteur Barométrique** | **Direction du Vent** | **Force** | **Nébulosité (0/10)** | **Réglage**  | **Direction des nuages** | **Pluie tombée** | **Température de l'air** | **Hauteur de la mer (cm)** | **Agitation de l'eau** | **Densité au bord de la jetée** | **Température de l'eau** |
+|----------------|-----------|--------------------------|-----------------------|-----------|-----------------------|---------------|--------------------------|------------------|--------------------------|----------------------------|-----------------------|-------------------------------|--------------------------|
+| 23 Avril 1907  | **Matin** | 770.0 mmHg               | Nord                  | 5          | 0 (Clair)             | Reg. Z. (Mer) | Nord                     | 0                | 18.7 °C                  | 69.7 cm                    | 2                     | 1028.8 g/cm³                 | 13.7 °C                 |
+| 23 Avril 1907  | **Soir**  | 769.6 mmHg               | Est-Nord-Est          | 5          | 0 (Clair)             | Reg. Z. (Mer) | Nord                     | 0                | 20.8 °C                  | 69.8 cm                    | 2 (fort)              | 1028.8 g/cm³                 | 13.7 °C                 |
+
+# 24 Avril 1907
+
+| **Date**       | **Heure** | **Hauteur Barométrique** | **Direction du Vent** | **Force** | **Nébulosité (0/10)** | **Réglage**  | **Direction des nuages** | **Pluie tombée** | **Température de l'air** | **Hauteur de la mer (cm)** | **Agitation de l'eau** | **Densité au bord de la jetée** | **Température de l'eau** |
+|----------------|-----------|--------------------------|-----------------------|-----------|-----------------------|---------------|--------------------------|------------------|--------------------------|----------------------------|-----------------------|-------------------------------|--------------------------|
+| 24 Avril 1907  | **Matin** | 769.7 mmHg               | Est-Nord-Est          | 5          | 0 (Clair)             | Reg. Z. (Mer) | Nord                     | 0                | 20.4 °C                  | 67.4 cm                    | 2                     | 1028.8 g/cm³                 | 13.6 °C                 |
+| 24 Avril 1907  | **Soir**  | 767.3 mmHg               | Est-Nord-Est          | 5          | 0 (Clair)             | Reg. Z. (Mer) | Nord                     | 0                | 26.9 °C                  | 67.4 cm                    | 2 (faible)            | 1028.6 g/cm³                 | 13.8 °C                 |
+```

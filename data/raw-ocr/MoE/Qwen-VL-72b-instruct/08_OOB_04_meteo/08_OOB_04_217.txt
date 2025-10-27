@@ -1,0 +1,30 @@
+| Date           | Matin     | Soir     |
+|----------------|-----------|----------|
+| **V. 23 Avril 1909** |         |          |
+| Hauteur Barométrique | 747.4 | 748.4   |
+| Direction du vent | cr. 8 | cr. 0   |
+| Force | 1s | 1. Faible | 3. Fort |
+| _Mébulosité_ |           |          |
+| Reg. 6. (Ciel) | 10 | 10       |
+| Reg. F. (mur) | 10 | 10       |
+| Direction des nuage | or. 0 | or. 0   |
+| Pluie tombée     | 8./0 |  | 
+| Température de l'air | 14.4 | 14.2   |
+| Hauteur de la mer | 38.8 | 43.2   |
+| Agitation de l’eau | 1 | 1. Fort |
+| Vélocité au bout de la jetée | 1029.1 | 1029.1 |
+| Température de l’eau | 12.6 | 12.8   |
+| **V. 24 Avril 1909** |         |          |
+| Hauteur Barométrique | 743.2 | 744.6   |
+| Direction du vent | est.ou | sud     |
+| Force | 1s | 1. T. Faible |
+| _Mébulosité_ |           |          |
+| Reg. 6. (Ciel) | 1  | 10       |
+| Reg. E. (mur) | 1  | 10       |
+| Direction des nuage | our  | "       |
+| Pluie tombée     | 6.20 | 11. 70  |
+| Température de l'air | 12.8 | 9.2    |
+| Hauteur de la mer | 49.0 | 46.0    |
+| Agitation de l’eau | 1 Fort | 1 Faible |
+| Vélocité au bout de la jetée | 1029.7 | 1029.8 |
+| Température de l’eau | 12.7 | 12.6   |

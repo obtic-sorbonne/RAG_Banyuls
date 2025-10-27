@@ -1,0 +1,28 @@
+| Date       | Matin | Soir |
+|------------|-------|------|
+| 17 Octobre 1907 | 774,3 | 774,3 |
+| Hauteur Barométrique | 774,3 | 774,3 |
+| Direction du Vent | S | S.S.E |
+| Force | 0 | 1 faible |
+| Nébulosité | 10 | 10 |
+| (Reg. 21 cm) | 10 | 10 |
+| Direction des nuages | S.S.E | S.S.O |
+| Pluie tombée | 1,37 | " |
+| Température de l'air | 13,7 | 16,1 |
+| Température de la mer | 38,8 | 24,8 |
+| Agitation de la mer | 2 fort | 2 |
+| Dépôt au bout de la jetée | 1027,4 | 1027,18 |
+| Température de l'eau | 19,6 | 19,6 |
+| 18 Octobre 1907 | 779,3 | 778,3 |
+| Hauteur Barométrique | 779,3 | 778,3 |
+| Direction du Vent | S.S.E | S.S.E |
+| Force | 2 fort | 2 fort |
+| Nébulosité | 0 | 10 |
+| (Reg. 21 cm) | 0 | 10 |
+| Direction des nuages | S.S.E | S.S.E |
+| Pluie tombée | quelques g | " |
+| Température de l'air | 14,0 | 18,1 |
+| Température de la mer | 41,0 | 27,4 |
+| Agitation de la mer | 1 fort | 1 fort |
+| Dépôt au bout de la jetée | 1027,7 | 1028,3 |
+| Température de l'eau | 19,6 | 19,6 |

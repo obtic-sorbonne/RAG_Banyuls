@@ -1,0 +1,17 @@
+```
+|  V. 6 Janvier - 1904 | Matin | Soir  |
+| --- | --- | --- |
+|  Hauteur Barométrique | 764.3 |   |
+|  Direction du vent | 0.0 |   |
+|  Force | 3 |   |
+|  (Reg. O. (terre)) | 10 |   |
+|  (Reg. E. (mer)) | 10 |   |
+|  Nébulosité | 0 |   |
+|  Direction des nuages | 0.0 |   |
+|  (Pluie tombée) | 7.1 |   |
+|  Température de l'air | 6.3 |   |
+|  Hauteur de la mer | 16.7 |   |
+|  Régulation de l'eau | 31.0 |   |
+|  Densité au bout de la fête | 1026.4 |   |
+|  (Température de l'eau) | 12.0 |   |
+```

@@ -1,0 +1,16 @@
+# Date. 26 Octobre. 1900.
+
+|   | 3e Matin | 3e Soir  |
+| --- | --- | --- |
+|  Hanteur Mavometrique | 258,3 | 255,2  |
+|  Direction du vent | Ouest | "  |
+|  Force | 1, faille | 0  |
+|  Pédbulusité | 10 | 9  |
+|  Pédbulusité |  |   |
+|  1 Req. E. (mix) | 10 | 1  |
+|  Direction des nuages | Ouest | 9500  |
+|  Phine tombie | " | "  |
+|  Température de l'air | 15,2 | 10,9  |
+|  Hanteur de la mer | 28,9 | 44,2  |
+|  Législation de l'eau | 1, faille | 1,7, faille  |
+|  2 an bont de la folie | 1028,5 | 1028,3  |

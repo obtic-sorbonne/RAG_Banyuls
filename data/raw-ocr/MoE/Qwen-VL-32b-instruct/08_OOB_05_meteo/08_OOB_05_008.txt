@@ -1,0 +1,7 @@
+| Date | Matin | Soir |
+|------|-------|------|
+| V. 2 juillet 1905 | Hauteur Barométrique: - Direction du vent: S.O. Force: 2<br>Nébulosité (Reg. 6): W<br>Direction des nuages: W<br>Pluie tombée: quelques gouttes<br>Température de l'air: 27.4°C<br>Hauteur de la mer: 39.1 cm<br>Agitation de l'eau: 2 fort.<br>Vitesse au bout de la jetée: 1026.7 m/s<br>Température de l'eau: 21.6°C | Hauteur Barométrique: 762.4 mmHg<br>Direction du vent: S.O.<br>Force: 2<br>Nébulosité (Reg. 6): W<br>Direction des nuages: S.O.<br>Pluie tombée:<br>Température de l'air: 27.4°C<br>Hauteur de la mer: 39.1 cm<br>Agitation de l'eau: 2 fort.<br>Vitesse au bout de la jetée: 1026.7 m/s<br>Température de l'eau: 21.6°C |
+
+| Date | Matin | Soir |
+|------|-------|------|
+| V. 6 juillet 1905 | Hauteur Barométrique: - Direction du vent: cr.v.o. Force: 2<br>Nébulosité (Reg. 6): W<br>Direction des nuages: cr.v.o.<br>Pluie tombée:<br>Température de l'air: 26.6°C<br>Hauteur de la mer: 34.4 cm<br>Agitation de l'eau: 3<br>Vitesse au bout de la jetée: 1029.7 m/s<br>Température de l'eau: 23.0°C | Hauteur Barométrique: 765.0 mmHg<br>Direction du vent: cr.v.o.<br>Force: 2 fort.<br>Nébulosité (Reg. 6): W<br>Direction des nuages: cr.v.o.<br>Pluie tombée:<br>Température de l'air: 26.6°C<br>Hauteur de la mer: 34.4 cm<br>Agitation de l'eau: 3<br>Vitesse au bout de la jetée: 1029.7 m/s<br>Température de l'eau: 23.0°C |

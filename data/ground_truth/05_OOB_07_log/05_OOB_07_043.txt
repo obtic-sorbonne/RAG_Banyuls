@@ -1,0 +1,27 @@
+```plaintext
+N°
+
+Sortie du 13 août 1909
+
+Départ de Banyuls à 2ʰ heures du Matin pour les grands fonds. Arrivée à 5ʰ40
+
+Départ de _"_____ à __7h30____ heures du ______
+
+Départ de ______ à ______ heures du ______
+
+Arrivée au mouillage à Banyuls à 11ʰ30 du Matin
+
+État du temps : Calme jusqu'à ______
+
+Passagers à bord : M Racovitza, Jeannel
+
+Objet de la sortie : Pêche pélagique dans les grands fonds.
+
+Consommation {
+  68 briquettes de 10 poids en kilos 680 K
+ 4 huile Total en litres 4
+
+Dépenses
+
+Observations: Sondé à 5ʰ40 fond 1045 mètres (Route de 2ʰ à 4ʰ30 - S 40 Est. de 4ʰ30 à 5ʰ40 route au S 50 Est.) Cale à 5ʰ59. Relève à 7ʰ40 - en route pour Banyuls à 7ʰ45.
+```

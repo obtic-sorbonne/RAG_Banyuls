@@ -1,0 +1,29 @@
+| V. 25 juin - 1906 | Matin | Soir |
+|-------------------|-------|------|
+| Hauteur Barométrique | 770,6 |      |
+| Direction du vent | er.c.r.o |      |
+| Force | 2 fort |       |
+| Nébulosité | Reg. 0. (terre) | 10 Légère |
+| Nébulosité | Reg. 7. (mer) | 10 Légère |
+| Direction des nuages | er. E |      |
+| Pluie tombée |        |       |
+| Température de l'air | 24,8 |      |
+| Hauteur de la mer | 0,6 |       |
+| Agitation de l'eau | 2 fort |      |
+| Densité au bout de la jetée | 1027,8 |      |
+| Température de l'eau | 20,2 |      |
+
+| V. 27 juin - 1906 | Matin | Soir |
+|-------------------|-------|------|
+| Hauteur Barométrique | 767,4 |      |
+| Direction du vent | S. E |      |
+| Force | 2 fort |       |
+| Nébulosité | Reg. 0. (terre) | 0 |
+| Nébulosité | Reg. 2. (mer) | 0 |
+| Direction des nuages | " |      |
+| Pluie tombée |        |       |
+| Température de l'air | 21,2 |      |
+| Hauteur de la mer | 0,2 |       |
+| Agitation de l'eau | 1 fort |      |
+| Densité au bout de la jetée | 1026,9 |      |
+| Température de l'eau | 22,0 |      |

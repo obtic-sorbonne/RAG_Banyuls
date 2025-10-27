@@ -1,0 +1,31 @@
+| V. 13 Novembre 1907 | Matin | Soir |
+|---------------------|-------|------|
+| Hauteur Barométrique | 767,7 | 768,7 |
+| Direction du vent    | cr. o | cr. o |
+| Force                | 4     | 3    |
+| Nébulosité           | 0     | 4    |
+| Reg. C. (Terre)      | 0     | 2    |
+| Reg. E. (mer)        | 0     | 2    |
+| Direction des nuages | cr. o | cr. o |
+| Pluie tombée         | "     | "    |
+| Température de l'air | 19,7  | 19,6 |
+| Hauteur de la mer    | 29,3  | 29,0 |
+| Agitation de l'eau   | 2 fort | 2 fort |
+| Ventité au bout de la jetée | 1024,4 | 1024,5 |
+| Température de l'eau | 17,0  | 17,0  |
+
+| V. 14 Novembre 1907 | Matin | Soir |
+|---------------------|-------|------|
+| Hauteur Barométrique | 769,2 | 767,7 |
+| Direction du vent    | cr. o | cr. o |
+| Force                | 4     | 2    |
+| Nébulosité           | 10 légère | 2    |
+| Reg. C. (Terre)      | 10 légère | 0    |
+| Reg. E. (mer)        | 2     | 2    |
+| Direction des nuages | cr. o | cr. o |
+| Pluie tombée         | "     | "    |
+| Température de l'air | 19,7  | 17,4 |
+| Hauteur de la mer    | 28,6  | 29,8 |
+| Agitation de l'eau   | 2 fort | 2 fort |
+| Ventité au bout de la jetée | 1021,3 | 1021,2 |
+| Température de l'eau | 17,4  | 17,4  |

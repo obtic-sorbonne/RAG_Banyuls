@@ -1,0 +1,30 @@
+```plaintext
+| Date            | Matin             | Soir              |
+|-----------------|-------------------|-------------------|
+| V. 20 Avril 1904 |                   |                   |
+| Hauteur Barométrique | 7/8.3          |                   |
+| Direction du Vent  | cr. 8           |                   |
+| Force             | 15               | 1                 |
+| Nebulosité (Reg. O. Claire) | 10    |                   |
+| (Reg. E. (mer))                   | 10              |                   |
+| Direction des nuages           | cr. 8           |                   |
+| Pluie tombée                |                   |                   |
+| Température de l’air        | 16.7            |                   |
+| Hauteur de la mer          | 36.7            |                   |
+| Agitation de l’eau          | 2 fort          |                   |
+| Densité au bout de la jetée | 1028.0          |                   |
+| Température de l’eau         | 14.6            |                   |
+| V. 21 Avril 1904 |                   |                   |
+| Hauteur Barométrique | 761.4          | 760.8            |
+| Direction du Vent  | w.cr.0          | cr.w.0           |
+| Force             | 15               | 2                 |
+| Nebulosité (Reg. O. Claire) | 10    | 10                |
+| (Reg. E. (mer))                   | 10              | 10                |
+| Direction des nuages           | cr.w.0          | cr.w.0           |
+| Pluie tombée                |                   |                   |
+| Température de l’air        | 16.8            | 20.0             |
+| Hauteur de la mer          | 44.1            | 49.3             |
+| Agitation de l’eau          | 1 fort          | 1 fort           |
+| Densité au bout de la jetée | 1028.0          | 1028.0           |
+| Température de l’eau         | 14.4            | 14.8             |
+```

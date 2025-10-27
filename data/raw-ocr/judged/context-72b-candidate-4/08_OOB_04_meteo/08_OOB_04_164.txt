@@ -1,0 +1,33 @@
+```plaintext
+| **Date** | **9 Octobre 1902** | **Matin (9h)** | **Soir (17h)** |
+|----------|-------------------|----------------|----------------|
+| Hauteur Barométrique |  | 763.9 | 763.7 |
+| Direction du vent |  | S.S.E | S.E. |
+| Force |  | 1 T. calme | 2 faible |
+| Nébulosité |  | 10 | 10 |
+| Rég. O. (Terre) |  | 10 | 10 |
+| Rég. E. (Mer) |  |  |  |
+| Direction des nuages |  | S.S.E | S.E. |
+| Pluie Tombée |  | 11.0 | 76.129 [sic?] |
+| Température de l'air |  | 8.1 | 10.9 |
+| Hauteur de la mer |  | 37.7 | 18.4 |
+| Agitation de l'eau |  | 6 | 7 |
+| Densité au bout de la jetée |  |  &  |  &  |
+| Température de l'eau |  | 12.6 | 12.9 |
+
+| **Date** | **10 Octobre 1902** | **Matin (9h)** | **Soir (17h)** |
+|----------|-------------------|----------------|----------------|
+| Hauteur Barométrique |  | 766.6 | 767.7 |
+| Direction du vent |  | S.8 | S.8 |
+| Force |  | 2 faible | 2 T. faible |
+| Nébulosité |  | 10 | 10 |
+| Rég. O. (Terre) |  | 10 | 10 |
+| Rég. E. (Mer) |  |  |  |
+| Direction des nuages |  | S.8 | S.8 |
+| Pluie Tombée |  | 1 dim. 34 [sic?] | quelques g |
+| Température de l'air |  | 13.2 | 13.0 |
+| Hauteur de la mer |  | 19.6 | 3 |
+| Agitation de l'eau |  | 8 | 8 |
+| Densité au bout de la jetée |  |  &  |  &  |
+| Température de l'eau |  | 12.8 | 12.9 |
+```

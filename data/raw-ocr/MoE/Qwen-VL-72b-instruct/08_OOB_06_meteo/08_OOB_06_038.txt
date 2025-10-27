@@ -1,0 +1,41 @@
+OBSERVATIONS DU 1960 28 Juin
+
+| Nombre de bateaux sortis (pêche à l'anchois) | 81 |
+| --- | --- |
+| Température de l'air | maxima depuis la veille | 24.7 |
+|  | minima id. | 17.6 |
+| Température de l'eau | maxima depuis la veille |  |
+|  | minima id. |  |
+| Pluie tombée depuis la veille, en millim. |  |
+| Evaporation depuis le 190, en millim. |  |
+|  | à 9 h. m. | à 3 h. s. |
+| Direction du vent (à terre) | N.N.O |  |
+| Force | 2 |  |
+| Direction des nuages | N.N.O |  |
+| Nébulosité | région Ouest (terre) | 0 |
+|  | id. Est (mer) | 0 |
+| Hauteur de la mer, en centimètres, au-dessus du zéro | 34.7 |  |
+| Agitation de l'eau | 1 |  |
+| Densité de l'eau au bout de la jetée | 1.027.9 |  |
+| Température id. | 18.3 |  |
+
+OBSERVATIONS DU 1960 29 Juin
+
+| Nombre de bateaux sortis (pêche à l. |  |
+| --- | --- |
+| Température de l'air | maxima depuis la veille | 20.8 |
+|  | minima id. | 16.7 |
+| Température de l'eau | maxima depuis la veille |  |
+|  | minima id. |  |
+| Pluie tombée depuis la veille, en millim. |  |
+| Evaporation depuis le 190, en millim. |  |
+|  | à 9 h. m. | à 3 h. s. |
+| Direction du vent (à terre) | S.S.E | N.N.E |
+| Force | 2 | 1 |
+| Direction des nuages | " | O.M.O |
+| Nébulosité | région Ouest (terre) | 0 |
+|  | id. Est (mer) | 0 |
+| Hauteur de la mer, en centimètres, au-dessus du zéro | 30.3 | 39.3 |
+| Agitation de l'eau | 1 faible | 1 |
+| Densité de l'eau au bout de la jetée | 1.027.14 | 1.027.9 |
+| Température id. | 19.7 | 22.3 |

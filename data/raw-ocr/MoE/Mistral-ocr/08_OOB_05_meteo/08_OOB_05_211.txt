@@ -1,0 +1,27 @@
+|  V. 11 Février - 1907 | Maitre | Soir  |
+| --- | --- | --- |
+|  Hauteur Wranometrique | 1/9.6 | 1/8.3  |
+|  Direction du vent | 00.0 | 00.0  |
+|  Force | 1 fort | 1 fort  |
+|  Nœbulonité | 10 | 10  |
+|  Nœbulonité | 10 | 10  |
+|  Direction des nuages | 00.0 | 00.0  |
+|  Flux trombée | 9.8 | 11.7  |
+|  Température de l'air | 149.8 | 15.7  |
+|  Hauteur de la mer | 1029.4 | 1029.3  |
+|  Définition de l'eau | 10.8 | 10.6  |
+|  Sécurité au bout de la jeté |  |   |
+|  Température de l'eau | 10.8 | 10.6  |
+|  Nœbulonité |  |   |
+|  Hauteur Wranometrique | 1/9.0 | 1/8.3  |
+|  Direction du vent | 0 | 1/8.3  |
+|  Force | 10 brs. | 10 brs.  |
+|  Nœbulonité | 10 brs. | 10 brs.  |
+|  Nœbulonité | 10 brs. | 10 brs.  |
+|  Direction des nuages | 10 brs. | 10 brs.  |
+|  Flux trombée | 8.3 | 18.9  |
+|  Température de l'air | 12.0 | 11.0  |
+|  Hauteur de la mer | 1029.4 | 1029.4  |
+|  Définition de l'eau | 10.6 | 11.0  |
+|  Sécurité au bout de la jeté |  |   |
+|  Température de l'eau | 10.6 | 11.0  |

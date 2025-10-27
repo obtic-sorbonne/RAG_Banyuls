@@ -1,0 +1,28 @@
+```plaintext
+| **Date**       | **Matin**        | **Soir**         |
+|----------------|------------------|------------------|
+| **V. 7 juin 1904** |
+| Hauteur Barométrique | 763.3          | -               |
+| Direction du vent   | S.S.E.          | -               |
+| Force              | 1               | -               |
+| Nébulosité         | Reg. G. (Clair) | -               |
+| Direction des nuages| S.S.E.          | -               |
+| Pluie tombée       | -               | -               |
+| Température de l'air| 21.8            | -               |
+| Hauteur de la mer  | 49.5            | -               |
+| Agitation de l'eau | 1 fort          | -               |
+| Densité au bout de la jetée | 1027.4 | -               |
+| Température de l'eau| 19.8            | -               |
+| **V. 8 juin 1904** |
+| Hauteur Barométrique | 758.9          | 758.0           |
+| Direction du vent   | S.S.E.          | S.S.E.          |
+| Force              | 10              | 1               |
+| Nébulosité         | Reg. G. (Clair) | 10              |
+| Direction des nuages| S.S.E.          | Est             |
+| Pluie tombée       | -               | -               |
+| Température de l'air| 21.8            | 26.5            |
+| Hauteur de la mer  | 44.5            | 39.0            |
+| Agitation de l'eau | 1               | 1 fort          |
+| Densité au bout de la jetée | 1027.1 | 1026.9          |
+| Température de l'eau| 18.8            | 20.9            |
+```

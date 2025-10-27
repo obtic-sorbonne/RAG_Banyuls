@@ -1,0 +1,31 @@
+```plaintext
+| V. 16 Janvier 1905 | Matin | Soir |
+|---------------------|-------|------|
+| Hauteur Barométrique | 762.3 |      |
+| Direction du vent    | S.E   |      |
+| Force                | 2     |      |
+| Nébulosité           | Reg.O.(clère) | 4/8 |
+| (Reg. E. (mer))      |       | 4/8  |
+| Direction des nuages | S.E   |      |
+| Pluie Tombée         | 21.2  |      |
+| Température de l'air | 8.3   |      |
+| Hauteur de la mer    | 3     |      |
+| Agitation de l'eau   | 7     |      |
+| Visite au bout de la jetée | 3 |      |
+| Température de l'eau | 3     |      |
+
+| V. 17 Janvier 1905 | Matin | Soir |
+|---------------------|-------|------|
+| Hauteur Barométrique | 746.0 | 746.7 |
+| Direction du vent    | N.O   | N.O   |
+| Force                | 2     | 4     |
+| Nébulosité           | Reg.O.(clère) | 4/8 |
+| (Reg. E. (mer))      |       | 4/8  |
+| Direction des nuages | cr.o  | cr.o  |
+| Pluie Tombée         | 18mm  | quelques g |
+| Température de l'air | 9.3   | 9.3   |
+| Hauteur de la mer    | 3     | 3     |
+| Agitation de l'eau   | 6     | 6     |
+| Visite au bout de la jetée | 3 | 3 |
+| Température de l'eau | 3     | 3     |
+```

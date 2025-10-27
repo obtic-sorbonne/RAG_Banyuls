@@ -1,0 +1,18 @@
+# Date 7 Janvier - 1901
+
+|  |   |   |
+| --- | --- | --- |
+|  9. 50 Moutin 3. 4. 5012 |  |   |
+|  Fauteur Pärométrique | 758,7 | 758,2  |
+|  Direction du vent | Nord | Nord  |
+|  Force | 1 | 1/26th  |
+|  Nébulosité Reg. O. (lire) | 10 | 10  |
+|  Dibulosité Reg. E. (mix) | 10 | 10  |
+|  Direction des nuages | Nord | Nord  |
+|  Flux tombé | 7 m.m. | 8,875  |
+|  Température de l'air | 4,2 | 3,5  |
+|  Fauteur de la mer | 18,0 | 17,0  |
+|  Égulation de l'eau | 7 | 9 feet  |
+|  Sensité de l'eau | au bout de la jolie | 1089,5  |
+|  Sensité de l'eau | au d'orage |   |
+|  Température de l'eau | 18,5 | 11,9  |

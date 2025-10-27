@@ -1,0 +1,31 @@
+```plaintext
+|  V. 17 Novembre - 1904 | Obatin | Jair  |
+| --- | --- | --- |
+|  Hauteur Barométrique | 758,0 | 758,0  |
+|  Direction du vent | or.0 | or. 8  |
+|  Force | 8 | 1 fort  |
+|  Nébulosité | 0 | 10  |
+|  (Reg. G. (min)) |  |   |
+|  Direction des nuages |  | 10  |
+|  Pluie tombée |  | 8,04  |
+|  Température de l'air | 11,5 | 13,8  |
+|  Hauteur de la mer | 11,5 | 41,2  |
+|  Régulation de l'eau | 2 fort | 2 fort  |
+|  Densité au bout de la jetée | 1029,2 | 1028,8  |
+|  Température de l'eau | 15,7 | 15,7  |
+
+|  V. 18 Novembre - 1904 | Obatin | Jair  |
+| --- | --- | --- |
+|  Hauteur Barométrique | 770,9 | 758,0  |
+|  Direction du vent | or.0 | 7,88  |
+|  Force | 1 fort | 1 faute  |
+|  Nébulosité | 8 | 4  |
+|  (Reg. G. (min)) |  |   |
+|  Direction des nuages | 6 | 6  |
+|  Pluie tombée | or.0 | or.0  |
+|  Température de l'air | 12,7 | 14,4  |
+|  Hauteur de la mer | 10,8 | 41,5  |
+|  Régulation de l'eau | 2 fort | 2 fort  |
+|  Densité au bout de la jetée | 1028,2 | 1028,6  |
+|  Température de l'eau | 17,0 | 17,1  |
+```

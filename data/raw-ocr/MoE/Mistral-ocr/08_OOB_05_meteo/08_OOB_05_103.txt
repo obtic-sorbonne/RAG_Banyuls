@@ -1,0 +1,33 @@
+|  1. 17 Civil. 1906. | Matin | Joir  |
+| --- | --- | --- |
+|  Hauteur Pcarométrique | 760.6 | 767.3  |
+|  Direction du vent | cr. 8 | cr. 8  |
+|  Force | 15 faible | 1 faible  |
+|  (Rég. G. Terre) | 10 | 10  |
+|  (Hebubosité) |  |   |
+|  (Rég. X. (mer) | 10 | 10  |
+|  Direction des images |  | cr. 8  |
+|  (Prix tombée) | quelques | quelques  |
+|  Température de l'air | 5 | 16.4  |
+|  Hauteur de la mer | 5 | 17.0  |
+|  (Agritation de l'eau) | 1 faible | 1  |
+|  (Densité au bout de la jetée) |  |   |
+|  (Découpleur) |  |   |
+|  Température de l'eau | 5 | 17.0  |
+|  (1/2) |  |   |
+|  (1/1) |  |   |
+|  1. 18 Civil. 1906. | Matin | Joir  |
+|  Hauteur Pcarométrique |  | 767.4  |
+|  Direction du vent |  | fr. 8.0  |
+|  Force | 15 | 1 fort  |
+|  (Rég. G. Terre) |  | 10  |
+|  (Hebubosité) |  |   |
+|  (Rég. X. (mer) |  | 10  |
+|  Direction des images |  | fr. 8.0  |
+|  (Prix tombée) |  | quelques  |
+|  Température de l'air |  | 19.6  |
+|  Hauteur de la mer |  | 87.4  |
+|  (Agritation de l'eau) |  |   |
+|  (Densité au bout de la jetée) |  |   |
+|  (Découpleur) |  |   |
+|  Température de l'eau |  | 5  |

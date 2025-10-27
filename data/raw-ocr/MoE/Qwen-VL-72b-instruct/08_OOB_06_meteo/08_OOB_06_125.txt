@@ -1,0 +1,55 @@
+### Observations du 28 février 1904
+
+| **Mesure**                               | ** Valeur**     |
+|------------------------------------------|----------------|
+| Nombre de bateaux sortis (pêche à l...)   |                |
+| **Température de l'air**                 |                |
+| maxima depuis la veille                 | 14,7 °C        |
+| minima id.                               | 9,3 °C         |
+| **Température de l'eau**                 |                |
+| maxima depuis la veille                 |                |
+| minima id.                               |                |
+| Pluie tombée depuis la veille, en millim |                |
+| Evaporation depuis le 190 __, en millim  |                |
+
+| **Paramètre**                       | **à 9 h.m.** | **à 3 h.s.** |
+|-------------------------------------|--------------|--------------|
+| Direction du vent (à terre)         | N            | N            |
+| Force                              | 0            |              |
+| Direction des nuages                | N            |              |
+| Nébulosité                          |              |              |
+| région Ouest (terre)                | 0            |              |
+| id. Est (mer)                       |              |              |
+| Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.) | +3,2 cm     |              |
+| Agitation de l'eau                  | faible       |              |
+| Densité de l'eau au bout de la jetée | 1028,6       |              |
+| Température                         | 4,6          |              |
+
+---
+
+### Observations du 2 Mars 1904
+
+| **Mesure**                               | **Valeur**     |
+|------------------------------------------|----------------|
+| Nombre de bateaux sortis (pêche à l...)   |                |
+| **Température de l'air**                 |                |
+| maxima depuis la veille                 | 14,8 °C        |
+| minima id.                               | 7,7 °C         |
+| **Température de l'eau**                 |                |
+| maxima depuis la veille                 |                |
+| minima id.                               |                |
+| Pluie tombée depuis la veille, en millim |                |
+| Evaporation depuis le 190 __, en millim  |                |
+
+| **Paramètre**                       | **à 9 h.m.**     | **à 3 h.s.**     |
+|-------------------------------------|------------------|------------------|
+| Direction du vent (à terre)         | N.N.O            | N.N.O            |
+| Force                              | fort             | fort             |
+| Direction des nuages                | N.N.O            | N.N.O            |
+| Nébulosité                          |                  |                  |
+| région Ouest (terre)                | 0                | 2                |
+| id. Est (mer)                       | 1                | 2                |
+| Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.) | +6,3 cm          | +7,2 cm          |
+| Agitation de l'eau                  | modérée          | modérée          |
+| Densité de l'eau au bout de la jetée | 1029,2           | 1028,7           |
+| Température                         | 10,7             | 11,2             |

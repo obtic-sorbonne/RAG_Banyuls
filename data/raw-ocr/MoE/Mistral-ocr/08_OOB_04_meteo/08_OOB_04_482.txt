@@ -1,0 +1,27 @@
+|  V. 6 (xril - 1901) | Moatin | Jair  |
+| --- | --- | --- |
+|  Hauteur Pbarometrique | 30.0 | 305.5  |
+|  Direction du vent | 20.0 | 200.0  |
+|  Force | 35.0 | 35.0  |
+|  Nœbutosité | (Reg. G. (tare)) | 10  |
+|  Nœbutosité | (Reg. X. (mor)) | 10  |
+|  Direction des nuages | 10.0 | 10.0  |
+|  Flux tombés |  |   |
+|  Température de l'air | 14.9 | 18.0  |
+|  Hauteur de la mer | 14.5 | 69.4  |
+|  Oxyitation de l'eau | 8 | 8.0  |
+|  Densité au bout de la jetée | 1028.4 | 1028.4  |
+|  Température de l'eau | 14.1 | 11.0  |
+|  Nœmperature de l'eau |  |   |
+|  Nœmperature de l'eau | 306.2 |   |
+|  Direction du vent | 200.0 |   |
+|  Force |  |   |
+|  Nœmperature | (Reg. G. (tare)) | 10  |
+|  Nœmperature | (Reg. X. (mor)) | 10  |
+|  Direction des nuages | 14.0 |   |
+|  Flux tombés |  |   |
+|  Température de l'air | 14.0 |   |
+|  Hauteur de la mer | 14.0 |   |
+|  Oxyation de l'eau | 8 |   |
+|  Densité au bout de la jetée | 1028.9 |   |
+|  Température de l'eau | 14.3 |   |

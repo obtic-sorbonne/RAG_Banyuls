@@ -1,0 +1,31 @@
+```plaintext
+N° 33  
+Sortie du 1er Septembre 1909  
+
+Départ de Banyuls à 6ᵉ heures du Matin  
+Arrivée à  
+
+Départ de  
+Arrivée à  
+
+Départ de  
+Arrivée à  
+
+Arrivée au mouillage à Banyuls à 11ᵉ h. du Matin  
+
+État du temps : Beau  
+
+Passagers à bord.  
+
+Objet de la sortie : Pêche pour les travailleurs.  
+
+Consommation  
+{  
+27 briquettes de 10 K. Poids en Kilos 270 K.  
+2 huile Total en litres 2  
+}  
+
+Dépenses  
+
+Observations :  
+```

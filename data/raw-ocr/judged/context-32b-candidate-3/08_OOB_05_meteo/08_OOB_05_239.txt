@@ -1,0 +1,15 @@
+```markdown
+# 2 Mai 1907
+
+| **Date**       | **Heure** | **Hauteur Barométrique** | **Direction du Vent** | **Force** | **Nébulosité (0/10)** | **Réglage**  | **Direction des nuages** | **Pluie tombée** | **Température de l'air** | **Hauteur de la mer (cm)** | **Agitation de l'eau** | **Densité au bout de la jetée** | **Température de l'eau** |
+|----------------|-----------|--------------------------|-----------------------|-----------|-----------------------|---------------|--------------------------|------------------|--------------------------|----------------------------|-----------------------|-------------------------------|--------------------------|
+| 2 Mai 1907     | **Matin** | 768.3 mmHg               | Nord                  | 1 fort    | 10 (Couvert)           | Reg. C. (Terre) | Nord                     | 0                | 10.1 °C                  | 61.0 cm                    | 157.001               | 1029.3 g/cm³                 | 13.2 °C                 |
+| 2 Mai 1907     | **Soir**  | 767.4 mmHg               | Est                   | 3         | 10 (Couvert)           | Reg. C. (Mer)   | Nord                     | 0                | 11.6 °C                  | 71.4 cm                    | 157.001               | 1029.3 g/cm³                 | 14.2 °C                 |
+
+# 3 Mai 1907
+
+| **Date**       | **Heure** | **Hauteur Barométrique** | **Direction du Vent** | **Force** | **Nébulosité (0/10)** | **Réglage**  | **Direction des nuages** | **Pluie tombée** | **Température de l'air** | **Hauteur de la mer (cm)** | **Agitation de l'eau** | **Densité au bout de la jetée** | **Température de l'eau** |
+|----------------|-----------|--------------------------|-----------------------|-----------|-----------------------|---------------|--------------------------|------------------|--------------------------|----------------------------|-----------------------|-------------------------------|--------------------------|
+| 3 Mai 1907     | **Matin** | 766.3 mmHg               | Est                   | 3         | 0 (Clair)             | Reg. C. (Terre) | Nord                     | 0                | 17.7 °C                  | 64.1 cm                    | 1 faible              | 1028.8 g/cm³                 | 11.2 °C                 |
+| 3 Mai 1907     | **Soir**  | 764.9 mmHg               | Est-Nord-Est          | 1         | 0 (Clair)             | Reg. C. (Mer)   | Nord                     | 0                | 20.2 °C                  | 63.0 cm                    | 1 faible              | 1028.3 g/cm³                 | 17.3 °C                 |
+```

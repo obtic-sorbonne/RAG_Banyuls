@@ -1,0 +1,29 @@
+|  4.15 Jervier - 1904 | Nœatin | Son  |
+| --- | --- | --- |
+|  Hauteur Naxométrique | 763.0 |   |
+|  Direction du vent | 10.0 |   |
+|  Force | 1 fort |   |
+|  Nœbulosité | Reg. O. (tane) | 10  |
+|   | 10 |   |
+|  Direction des mages | 10 |   |
+|  Mise tombée |  |   |
+|  Température de l'air | 10.0 |   |
+|  Hauteur de la mer | 49.8 |   |
+|  Régulation de l'eau | 1 fort |   |
+|  Densité au bout de la jetée | 1029.3 |   |
+|  Température de l'eau | 11.4 |   |
+
+|  4.16 Jervier - 1904 | Nœatin | Son  |
+| --- | --- | --- |
+|  Hauteur Naxométrique | 7/1.1 | 7/2.0  |
+|  Direction du vent | 10.0 | 10.0  |
+|  Force | 2 | 2 fort  |
+|  Nœbulosité | Reg. O. (tane) | 10  |
+|   | 10 | 10  |
+|  Direction des mages | 10 | 10.0  |
+|  Mise tombée |  |   |
+|  Température de l'air | 10.2 | 12.2  |
+|  Hauteur de la mer | 30.2 | 32.3  |
+|  Régulation de l'eau | 2 fort | 2.7 fort  |
+|  Densité au bout de la jetée | 1029.4 | 1029.3  |
+|  Température de l'eau | 11.6 | 11.6  |

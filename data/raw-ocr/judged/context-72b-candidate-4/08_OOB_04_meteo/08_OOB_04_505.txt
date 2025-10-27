@@ -1,0 +1,31 @@
+```plaintext
+| V. 8 Juin -1905 | Matin | Soir |
+| --- | --- | --- |
+| Hauteur Barométrique | 762.4 | 760.6 |
+| Direction du vent | Ouest | Ouest |
+| Force | 3 Fort | 1 Fort |
+| Nébulosité (Reg. 6 (terre)) | 10 | 10 |
+| (Reg. 6 (mer)) | 10 | 10 |
+| Direction des nuages | S.O | S.O |
+| Pluie tombée | quelques gouttes | --- |
+| Température de l'air | 22.3 | --- |
+| Hauteur de la mer | 13.1 | --- |
+| Agitation de l'eau | Faible | --- |
+| Remarque au cours de la journée | 10h28m | --- |
+| Température de l'eau | 20.0 | --- |
+
+| V. 9 Juin -1905 | Matin | Soir |
+| --- | --- | --- |
+| Hauteur Barométrique | 769.6 | 768.3 |
+| Direction du vent | E.N.E | S.S.E |
+| Force | 1 | 1 Fort |
+| Nébulosité (Reg. 6 (terre)) | 3 Légèrement couvert | 10 |
+| (Reg. 6 (mer)) | 10 | 10 |
+| Direction des nuages | E.N.E | S.S.E |
+| Pluie tombée | 4.17/ | --- |
+| Température de l'air | 19.4 | 21.5 |
+| Hauteur de la mer | 47.1 | 46.4 |
+| Agitation de l'eau | Très faible | Très faible |
+| Remarque au bout de la jetée | 10h27m.8 | 10h27m.8 |
+| Température de l'eau | 19.4 | 20.2 |
+```

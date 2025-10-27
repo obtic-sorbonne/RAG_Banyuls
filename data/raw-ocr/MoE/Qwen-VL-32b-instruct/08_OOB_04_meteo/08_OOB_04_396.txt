@@ -1,0 +1,25 @@
+|  9. 9 Juillet - 1904 | Obatin | Soir  |
+| --- | --- | --- |
+|  Hauteur Moxométrique | 766,5 | 766,5  |
+|  Direction du vent | 1,8 | 1,8  |
+|  Force | 18 | 3  |
+|  Nébulosité | (Reg. O. (Tare)) | 10 kg.m  |
+|  Direction des nuages |  | 10 kg.m  |
+|  Thie tombée |  | 10  |
+|  Température de l'air | 27,5 | 34,5  |
+|  Hauteur de la mer | 15,6 | 44,7  |
+|  Égitation de l'eau | 17,6 | 1,2  |
+|  Densité au bout de la jeté | 1,86,0 | 1,31,7  |
+|  Température de l'eau | 36,8 | 38,5  |
+|  9. 10 Juillet - 1904 | Obatin | Soir  |
+|  Hauteur Moxométrique | 767,2 |   |
+|  Direction du vent | 1,8 |   |
+|  Force | 18 |   |
+|  Nébulosité | (Reg. O. (Tare)) |   |
+|  Direction des nuages |  |   |
+|  Thie tombée |  |   |
+|  Température de l'air | 28,5 |   |
+|  Hauteur de la mer | 14,8 |   |
+|  Égitation de l'eau | 17,6 |   |
+|  Densité au bout de la jeté | 1,26,0 |   |
+|  Température de l'eau | 36,1 |   |

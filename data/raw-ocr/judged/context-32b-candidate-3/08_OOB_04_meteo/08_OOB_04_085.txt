@@ -1,0 +1,35 @@
+# 9.20 Avril - 1902
+
+## Matin Soir
+
+|  Matin | Pour  |
+| --- | --- |
+|  Hauteur Barométrique | 285,3  |
+|  Direction du vent | 2,25  |
+|  Force | 1  |
+|  Nébulosité (Reg. O. (lire)) | 10  |
+|  Nébulosité (Reg. E. (mer)) | 10  |
+|  Direction des images | cross  |
+|  Pluie tombée |   |
+|  Température de l'air | 16,8  |
+|  Hauteur de la mer | 47,1  |
+|  Égitation de l'eau | 0  |
+|  Densité au bout de la jetée | 1027,4  |
+|  Température de l'eau | 14,3  |
+
+## 10.21 Avril - 1902
+
+|  Matin | Pour  |
+| --- | --- |
+|  Hauteur Barométrique | 285,3  |
+|  Direction du vent | or.ct. 5  |
+|  Force | 1  |
+|  Nébulosité (Reg. O. (lire)) | 0  |
+|  Nébulosité (Reg. E. (mer)) | 0  |
+|  Direction des images |   |
+|  Pluie tombée | quelques  |
+|  Température de l'air | 16,6  |
+|  Hauteur de la mer | 47,1  |
+|  Égitation de l'eau | 15 fois  |
+|  Densité au bout de la jetée | 1027,4  |
+|  Température de l'eau | 17,3  |

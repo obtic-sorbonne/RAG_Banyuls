@@ -1,0 +1,15 @@
+chunking:
+  default_strategy: "page"
+  strategies:
+    page:
+      class: "PageChunker"
+    record:
+      class: "RecordChunker"
+      max_length: 500
+    semantic:
+      class: "SemanticChunker"
+      model: "ai-model/semantic-chunker-v1"
+  book_type_mapping:
+    journal: "page"
+    registre: "record"
+    log: "record"

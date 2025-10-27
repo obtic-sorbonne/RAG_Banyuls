@@ -1,0 +1,4 @@
+| Date | Matin | Soir |
+|---|---|---|
+| 3 Juillet -1905 | Hauteur Barométrique<br>Direction du vent<br>Force<br>Nébulosité<br>Rég. c. (terre)<br>Rég. F.<br>Direction des nuages<br>Pluie tombée<br>Température de l'air<br>Hauteur de la mer<br>Agitation de l'eau<br>Densité au bout de la jetée<br>Température de l'eau | 768.4<br>S.S.E<br>4<br>2<br>0<br>2<br>Sud<br>"<br>31.7<br>10.8<br>3 fort<br>1029.1<br>27.3 | --- |
+| 4 Juillet -1905 | Hauteur Barométrique<br>Direction du vent<br>Force<br>Nébulosité<br>Rég. c. (terre)<br>Rég. F.- (mer)<br>Direction des nuages<br>Pluie tombée<br>Température de l'air<br>Hauteur de la mer<br>Agitation de l'eau<br>Densité au bout de la jetée<br>Température de l'eau | 760.4<br>S.S.E<br>4<br>1<br>1<br>2<br>S.O<br>"<br>29.1<br>39.8<br>2 fort<br>1028.1<br>17.2 | 760.6<br>S.E<br>3<br>2<br>0<br>3<br>Sud<br>"<br>31.7<br>11.0<br>3<br>1026.9<br>18.6 |

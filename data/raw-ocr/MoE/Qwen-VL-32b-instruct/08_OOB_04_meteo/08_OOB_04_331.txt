@@ -1,0 +1,29 @@
+|  1. 13 Janvier 1904 | Matin | Soir  |
+| --- | --- | --- |
+|  Hauteur Marométrique | 767.5 | 763.1  |
+|  Direction Su vent | 7.0 | 7.3.0  |
+|  Force | 1 | 1 faible  |
+|  (Reg. G. (1ère)) | 10 | 10  |
+|  (Reg. E. (mer)) | 10 | 10  |
+|  Direction Ses images | Est | 11.1.0  |
+|  (Précis Tombe) |  |   |
+|  Température Se l'air | 11.4 | 13.7  |
+|  Hauteur Se la mer | 48.1 | 49.1  |
+|  (Égitation Se l'eau) | 0 | 17.6  |
+|  Densité au bout Se la jetée | 1088.5 | 1088.1  |
+|  (Dempérialise Se l'eau) | 11.2 | 18.0  |
+
+|  1. 16 Janvier 1904 | Matin | Soir  |
+| --- | --- | --- |
+|  Hauteur Marométrique |  | 760.5  |
+|  Direction Su vent |  | 11.1.0  |
+|  Force | 11 | 11  |
+|  (Reg. G. (1ère)) |  |   |
+|  (Reg. E. (mer)) |  | 10  |
+|  Direction Ses images |  | 11.1.0  |
+|  (Précis Tombe) |  |   |
+|  (Dempérialise Se l'air) |  | 9.8  |
+|  (Hauteur Se la mer) |  | 61.1  |
+|  (Égitation Se l'eau) |  | 2.6.1.1  |
+|  Densité au bout Se la jetée |  | 1088.7  |
+|  (Dempérialise Se l'eau) |  | 11.7  |

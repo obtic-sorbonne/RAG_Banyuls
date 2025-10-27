@@ -1,0 +1,55 @@
+```plaintext
+### OBSERVATIONS DU 1901 28 SEPTEMBRE
+
+| **Nombre de bateaux sortis (pêche à l.)** | 26,2 |
+| **Température de l'air** |  |  |
+| – maxima depuis la veille | 26,2 |  |
+| – minima id. | 21,3 |  |
+| **Température de l'eau** |  |  |
+| – maxima depuis la veille |  |  |
+| – minima id. |  |  |
+| **Pluie tombée depuis la veille, en millim.** |  |  |
+| **Evaporation depuis le 1901, en millim.** |  |  |
+| **Direction du vent (à terre)** | **à 9 h. m.** | **à 3 h. s.** |
+| – Force | 4 | 3 fort. |
+| – Direction | N.N.O. | N.N.O. |
+| **Direction des nuages** |  |  |
+| **Nébulosité** |  |  |
+| – région Ouest (terre) | 2 | 10 |
+| – id. Est (mer) | 1 | 10 |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (P.R.)** | 35,9 | 39,4 |
+| **Agitation de l'eau** | 1 fort. | 1 fort. |
+| **Densité de l'eau au bout de la jetée** | 1,027,0 | 1,026,7 |
+| **Température id.** | 20,7 | 20,7 |
+| – terrestre Matin (maxima) | 37,3 |  |
+| – (minima) | 20,3 |  |
+| – terrestre Soir (maxima) | 31,0 |  |
+| – (minima) | 24,8 |  |
+
+### OBSERVATIONS DU 1901 29 SEPTEMBRE
+
+| **Nombre de bateaux sortis (pêche à l.)** | 27,4 |
+| **Température de l'air** |  |  |
+| – maxima depuis la veille | 27,4 |  |
+| – minima id. | 19,4 |  |
+| **Température de l'eau** |  |  |
+| – maxima depuis la veille |  |  |
+| – minima id. |  |  |
+| **Pluie tombée depuis la veille, en millim.** |  |  |
+| **Evaporation depuis le 1901, en millim.** |  |  |
+| **Direction du vent (à terre)** | **à 9 h. m.** | **à 3 h. s.** |
+| – Force | 3 fort. | 3 |
+| – Direction | N.N.O. | N.N.O. |
+| **Direction des nuages** |  |  |
+| **Nébulosité** |  |  |
+| – région Ouest (terre) | 10 | 10 |
+| – id. Est (mer) | 10 | 10 |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (P.R.)** | 40,7 | 42,0 |
+| **Agitation de l'eau** | 2 fort. | 2 |
+| **Densité de l'eau au bout de la jetée** | 1,027,9 | 1,027,4 |
+| **Température id.** | 20,4 | 20,5 |
+| – terrestre Matin (maxima) | 31,2 |  |
+| – (minima) | 18,4 |  |
+| – terrestre Soir (maxima) | 31,0 |  |
+| – (minima) | 21,2 |  |
+```

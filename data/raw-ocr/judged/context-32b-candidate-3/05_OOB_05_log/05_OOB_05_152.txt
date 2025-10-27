@@ -1,0 +1,27 @@
+```
+N° Sortie du 31 1903
+
+Départ de _ à _ heures du  
+pour _  
+Arrivée à _ à _ heures du  
+
+Départ de _  
+pour _  
+Arrivée à _ à _ heures du  
+
+Départ de _  
+pour _  
+Arrivée au mouillage à _ h. du  
+
+État du temps: _  
+Passagers à bord: _  
+Objet de la sortie: _  
+
+Consommation
+- Briquettes de charbon: Poids en Kilos
+- Huile: Total en litres  
+
+Dépenses  
+
+Observations:
+```

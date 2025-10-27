@@ -1,0 +1,16 @@
+| **Tâle, 11 Avril 1901** |
+| --- |
+| **9h Matin** | **3h Soir** |
+| Hauteur Barométrique | 758.7 | 755.7 |
+| Direction du vent | Ouest | Sud |
+| Force | 4 faible | 3 fort |
+| Nébulosité { Reg. O. (clére)  | 0 |  |
+| { Reg. E. (mur)  | lég. c. | lég. e. |
+| Direction des nuages | Ouest | Sud |
+| Pluie tombée |  |  |
+| Température de l'air | 17.6 | 19.5 |
+| Hauteur de la mer | 50.9 | 48.4 |
+| Agitation de l'eau | 1 T. faible | 1 T. fort |
+| { au bout du jetée | 1028.4 | 1028.3 |
+| { au large |  |  |
+| Température de l'eau | 12.7 | 13.7 |

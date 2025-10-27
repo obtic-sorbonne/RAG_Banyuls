@@ -1,0 +1,16 @@
+V. 24 Mours. 1903
+
+|  | Matin | Soir |
+| --- | --- | --- |
+| Hauteur Barométrique | 705.8 | 768.2 |
+| Direction du vent | est | est |
+| Force | 4 | 4 |
+| Nébulosité (Reg. O. (terre)) | 10 | 10 |
+| Nébulosité (Reg. E. (mer)) | 10 | 10 |
+| Direction des nuages | est | est |
+| Pluie tombée |  |  |
+| Température de l'air | 16.0 | 16.9 |
+| Hauteur de la mer | 55.0 | 60.16 |
+| Agitation de l'eau | 1 | 1 |
+| Densité au bout de la jetée | 1029.5 | 1023.5 |
+| Température de l'eau | 12.6 | 12.3 |

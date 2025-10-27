@@ -1,0 +1,30 @@
+```plaintext
+| **Date**       | **Matin**               | **Soir**             |
+|----------------|-------------------------|----------------------|
+| **21 juillet 1903** | **Hauteur barométrique** | - | 768.7 |
+|                 | **Direction du vent**  | - | cr. o. 0 |
+|                 | **Force**              | 1 5 | 3 |
+|                 | **Reg. 6 (cler)**      | 2 | 2 |
+|                 | **Nébulosité**         | 1 | 1 |
+|                 | **Reg. 2 (mer)**       | 0 | 0 |
+|                 | **Direction des nuages** | - | cr. o. 0 |
+|                 | **Pluie tombée**       | - | quelques g. |
+|                 | **Température de l'air** | - | 26.4 |
+|                 | **Hauteur de la mer**  | - | 60.6 |
+|                 | **Agitation de l'eau**  | - | 2 |
+|                 | **Densité au bout de la jetée** | - | 1026.9 |
+|                 | **Température de l'eau** | - | 21.2 |
+| **22 juillet 1903** | **Hauteur barométrique** | 766.2 | 763.7 |
+|                 | **Direction du vent**  | E. S. E | S. S. E |
+|                 | **Force**              | 1 5 | 2 faible |
+|                 | **Reg. 6 (cler)**      | 2 | 1 légère |
+|                 | **Nébulosité**         | 1 | 1 légère |
+|                 | **Reg. 2 (mer)**       | 0 | 0 |
+|                 | **Direction des nuages** | - | - |
+|                 | **Pluie tombée**       | - | - |
+|                 | **Température de l'air** | - | 23.4 | 27.7 |
+|                 | **Hauteur de la mer**  | - | 61.3 | 48.7 |
+|                 | **Agitation de l'eau**  | - | 1 faible | 1 faible |
+|                 | **Densité au bout de la jetée** | - | 1026.8 | 1026.2 |
+|                 | **Température de l'eau** | - | 21.9 | 22.6 |
+```

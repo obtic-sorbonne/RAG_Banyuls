@@ -1,0 +1,28 @@
+```
+| Date       | Matin     | Soir     |
+|------------|-----------|----------|
+| 9 juillet 1906 | Hauteur barométrique | 767.8 |  |
+|              | Direction du vent | S.E. |  |
+|              | Force | 3 forts |  |
+|              | Nébulosité (Reg. c. (Clair)) | 7 |  |
+|              | (Reg. E. (nu)) | 8 |  |
+|              | Direction des nuages | 31.1 |  |
+|              | Pluie tombée | 61.7 |  |
+|              | Température de l'air | 22.2 |  |
+|              | Hauteur de la mer | 22.1 |  |
+|              | Agitation de l'eau | 22.2 |  |
+|              | Densité au bout de la jetée | 1029.0 |  |
+|              | Température de l'eau | 22.2 |  |
+| 10 juillet 1906 | Hauteur barométrique | 766.8 |  |
+|              | Direction du vent | S.E. |  |
+|              | Force | 3 brins |  |
+|              | Nébulosité (Reg. c. (Clair)) | 0 |  |
+|              | (Reg. E. (nu)) | 0 |  |
+|              | Direction des nuages | 31.6 |  |
+|              | Pluie tombée | 60.8 |  |
+|              | Température de l'air | 26.5 |  |
+|              | Hauteur de la mer | 25.3 |  |
+|              | Agitation de l'eau | 25.3 |  |
+|              | Densité au bout de la jetée | 1029.8 |  |
+|              | Température de l'eau | 25.3 |  |
+```

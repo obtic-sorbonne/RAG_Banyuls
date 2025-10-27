@@ -1,0 +1,28 @@
+| Date       | Matin | Soir |
+|------------|-------|------|
+| 29 Juin 1907 |       |      |
+| Hauteur Barométrique | 764,1 |      |
+| Direction du Vent | cr. 8 |      |
+| Force | 1 |      |
+| Nébulosité | Reg. C. (nuis) | 60 |
+| (Reg. T. (nuis)) | 10 |      |
+| Direction des nuages | Ouest |      |
+| Pluie tombée | " |      |
+| Température de l'air | 22,5 |      |
+| Hauteur de la mer | 48,3 |      |
+| Agitation de l'eau | 1 |      |
+| Densité au bord de la jetée | 1027,3 |      |
+| Température de l'eau | 21,3 |      |
+| 1<sup>er</sup> Juillet 1907 |       |      |
+| Hauteur Barométrique | 767,2 | 768,7 |
+| Direction du Vent | cr. 8 | cr. 8 |
+| Force | 1 fort. | 2 T. faibles |
+| Nébulosité | Reg. C. (nuis) | 60 |
+| (Reg. T. (nuis)) | 10 | 10 |
+| Direction des nuages | Nord | Ouest |
+| Pluie tombée | " |      |
+| Température de l'air | 23,0 | 24,4 |
+| Hauteur de la mer | 44,1 | 48,1 |
+| Agitation de l'eau | 1 fort. | 2 fort. |
+| Densité au bord de la jetée | 1027,1 | 1027,6 |
+| Température de l'eau | 19,7 | 19,8 |

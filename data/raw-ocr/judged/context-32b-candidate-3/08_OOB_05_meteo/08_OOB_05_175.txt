@@ -1,0 +1,30 @@
+```markdown
+| **Date**          | **Matin**                  | **Soir**                  |
+|-------------------|----------------------------|---------------------------|
+| **V. 16 Novembre 1906** |                             |                           |
+| Hauteur barométrique    | 769.0 mmHg                | 766.7 mmHg                |
+| Direction du vent       | S. O.                     | S. O.                     |
+| Force                   | 1                         | 1                         |
+| Nébulosité (Rey. O. (Céleste)) | 10                   | 10                        |
+| Nébulosité (Rey. II. (Mer))   | 10                   | 10                        |
+| Direction des nuages     | c. r. (c. 0)             | c. r. (c. 0)              |
+| Pluie tombée            | 12.7 mm                  | 16.3 mm                   |
+| Température de l'air     | 12.7 °C                 | 16.3 °C                   |
+| Hauteur de la mer        | 38.0 m                  | 49.7 m                    |
+| Agitation de l'eau       | faible                  | faible                    |
+| Densité au bout de la jetée | 1029.3 kg/m³           | 1029.0 kg/m³              |
+| Température de l'eau     | 16.3 °C                 | 16.1 °C                   |
+| **V. 17 Novembre 1906** |                             |                           |
+| Hauteur barométrique    | 767.3 mmHg                | 764.3 mmHg                |
+| Direction du vent       | S. O.                     | S. O.                     |
+| Force                   | 1                         | 1                         |
+| Nébulosité (Rey. O. (Céleste)) | 10                   | 10                        |
+| Nébulosité (Rey. II. (Mer))   | 10                   | 1                        |
+| Direction des nuages     | c. r. (c. 0)             |                           |
+| Pluie tombée            | 14.1 mm                  | 17.8 mm                   |
+| Température de l'air     | 14.1 °C                 | 14.3 °C                   |
+| Hauteur de la mer        | 39.3 m                  | 15.1 m                    |
+| Agitation de l'eau       | faible                  | faible                    |
+| Densité au bout de la jetée | 1029.3 kg/m³           | 1029.4 kg/m³              |
+| Température de l'eau     | 16.2 °C                 | 17.4 °C                   |
+```

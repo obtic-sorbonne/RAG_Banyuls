@@ -1,0 +1,26 @@
+| Date | Matin | Soir |
+|---|---|---|
+| V. 9 Novembre 1906 |  |  |
+| Hauteur Barométrique | 754,9 | 753,1 |
+| Direction du Vent | E.V.O | E.V.O |
+| Force | 1 | 2 |
+| Nébulosité | Reg. 0 (Clère) | 10 | 10 |
+| Direction des nuage | Ouest | Ouest |
+| Pluie tombée |  |  |
+| Température de l'air | 13,4 | 14,3 |
+| Hauteur de la mer | 27,2 | 13,7 |
+| Agitation de l'eau | 1 fort | 1 fort |
+| Densité au bout de la jetée | 1029,2 | 1029,9 |
+| Température de l'eau | 17,7 | 17,3 |
+| V. 10 Novembre 1906 |  |  |
+| Hauteur Barométrique | 758,9 | 759,4 |
+| Direction du Vent | S.O | S.O |
+| Force | 1 faible | 0 |
+| Nébulosité | Reg. 0 (Clère) | 10 légèrement | 10 |
+| Direction des nuage | S.O | S.O |
+| Pluie tombée | " | " |
+| Température de l'air | 11,4 | 13,8 |
+| Hauteur de la mer | 27,2 | 24,6 |
+| Agitation de l'eau | 1 | 1 fort |
+| Densité au bout de la jetée | 1028,9 | 1028,9 |
+| Température de l'eau | 17,7 | 17,8 |

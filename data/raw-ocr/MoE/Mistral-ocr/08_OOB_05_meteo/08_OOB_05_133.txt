@@ -1,0 +1,27 @@
+|  1. 26 juillet. 1906 | Moatin | Bon  |
+| --- | --- | --- |
+|  Hauteur Marométrique |  | 762.3  |
+|  Direction du vent |  | 28.8  |
+|  Force |  | 10  |
+|  Nébulon | Reg. o. (lire) | 10  |
+|  Nébulon | Reg. x. (mur) | 10  |
+|  Direction des mages |  | 10  |
+|  Plein tombé |  | 49.8  |
+|  Température de l'air |  | 1027.2  |
+|  Hauteur de la mur |  | 28.0  |
+|  Citation de l'eau |  |   |
+|  Densité au bout de la jeté |  |   |
+|  Température de l'eau |  | 26.2  |
+|  N. 31 juillet. 1906 | Moatin | Bon  |
+|  Hauteur Marométrique |  | 967.2  |
+|  Direction du vent |  | 2.8  |
+|  Force |  | 1  |
+|  Nébulon | Reg. o. (lire) | 0  |
+|  Nébulon | Reg. x. (mur) | 0  |
+|  Direction des mages |  | 10  |
+|  Plein tombé |  | 50.4  |
+|  Température de l'air |  | 58.8  |
+|  Hauteur de la mur |  | 1026.2  |
+|  Citation de l'eau |  | 23.0  |
+|  Densité au bout de la jeté |  |   |
+|  Température de l'eau |  | 23.0  |

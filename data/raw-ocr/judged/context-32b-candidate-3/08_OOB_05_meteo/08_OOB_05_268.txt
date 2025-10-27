@@ -1,0 +1,18 @@
+```markdown
+# V. 9 Juillet 1907
+
+| **Date et heure**    | **Matin** | **Soir** |
+|---------------------|----------|----------|
+| Hauteur Barométrique | 768.5 mmHg | 766.8 mmHg |
+| Direction du vent    | N. O. O. | S. E.    |
+| Force               | 2        | 2        |
+| Nébulosité (Reg. 0. (Ciel clair)) | 10      | 10      |
+| (Reg. 6. (nu))      |          |          |
+| Direction des nuages | S.O.     | S.O.     |
+| Pluie tombée         | ——       | ——       |
+| Température de l'air | 27.0 °C  | 26.8 °C  |
+| Hauteur de la mer    | 14.0 cm  | 13.5 cm  |
+| Agitation de l'eau  | 2 (modéré) | 2 (modéré) |
+| Densité au bout de la jetée | 1028.2 g/cm³ | 1028.0 g/cm³ |
+| Température de l'eau | 19.8 °C  | 20.4 °C  |
+```

@@ -1,0 +1,22 @@
+Data: 1. S October 1900.
+
+|   |  | Meunay  |
+| --- | --- | --- |
+|   |  | 3.00  |
+|  Hausteun baromelirigme |  |   |
+|  Direction 9m rent: |  |   |
+|  Force | 2. | 758,0  |
+|   |  | N.O.  |
+|   | Nebulovite (Rej. O. (Leme)) | 1 faible  |
+|   |  | 8  |
+|   | Direction De, muayen | 3  |
+|   |  | N.O.  |
+|   | Pleie Eombei. |   |
+|   | Température D Laci | 31,9  |
+|   | Hausteun De la mer | 0,36  |
+|   | Afgilation De l'eau | 0  |
+|   | Densité De l'eau | 108,5  |
+|   |  | 1084,5  |
+|   | Température De l'eau. | 31,7  |
+
+Observat. —

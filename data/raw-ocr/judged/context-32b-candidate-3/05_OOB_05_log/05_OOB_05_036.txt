@@ -1,0 +1,25 @@
+```
+N°
+
+Sortie du 30 Mai 1901
+
+Départ de Banyuls à 5 heures du matin
+pour le Cap Creux. Arrivée à 7 h 15 du matin
+Départ de Banyuls à 4 h 30 du soir
+pour Banyuls. Arrivée au mouillage à 6 h 30 du soir
+
+État du temps: Beau
+
+Passagers à bord: M. Pruvot
+
+Objet de la sortie: Sortie pour pêcher des poulpes au large du Cap Creux. Nous avons gardé 3 coquilles par 370 mètres environ.
+
+Consommation {
+  briquettes de bois | Poids en Kilos
+  huile             | Total en litres
+}
+
+Dépenses:
+
+Observations: Sortie pour pêcher des poulpes au large du Cap Creux. Nous avons gardé 3 coquilles par 370 mètres environ.
+```

@@ -1,0 +1,17 @@
+# Date. 9 Juillet. 1901
+
+|  Item | 9th Matin. | 3rd Soir.  |
+| --- | --- | --- |
+|  Kauteur Praxometrique | 753.5 | 753.3  |
+|  Direction Su vent | 53.5 | N.N.O  |
+|  Force | 3/26th | 3  |
+|  Reg. O. (Terre) | 0 | 10  |
+|  Pénitvisite |  |   |
+|  Direction des nuages | 0 | 10  |
+|  Suie tombe |  | N.N.O  |
+|  Température de l'air | 30.7 | 32.0  |
+|  Kauteur de la mer | 17.4 | 11.9  |
+|  Régulation de l'eau | 1037.9 | 1037.7  |
+|  Densité de l'eau |  |   |
+|  au 31/12/01 |  |   |
+|  Température de l'eau | 19.9 | 30.3  |

@@ -1,0 +1,64 @@
+| **Observations du 1902, 4 Juin** |
+| --- |
+| Nombre de bateaux sortis (pêche à l.) |  |
+| **Température de l'air** |
+| maxima depuis la veille | 19.0 |
+| minima id. | 11.2 |
+| **Température de l'eau** |
+| maxima depuis la veille |  |
+| minima id. |  |
+| Pluie tombée depuis la veille, en millim. | quelques |
+| Évaporation depuis le 190, en millim. |  |
+| **Direction du vent (à terre)** | **à 9 h. m.** | **à 3 h. s.** |
+| Force |  |  |
+| – | S.O. | S.S.O. |
+| – | 1 fort | 2 |
+| Direction des nuages |  |  |
+| – | S.O. | S.S.O. |
+| – | 10 | 2 |
+| **Nébulosité** |  |  |
+| région Ouest (terre) | 10 | 1 |
+| id. Est (mer) | 10 | 1 |
+| Hauteur de la mer, en centimètres, au-dessus du zéro (B.Q.) | 29.3 | 34.9 |
+| Agitation de l'eau | 1 forte | 1 faible |
+| Densité de l'eau au bout de la jetée | 1028.0 | 1028.0 |
+| **Température** |  |  |
+| id. Balaize (matin et soir) | 16.4 | 16.9 |
+| – id. Bénane matin | Maxima 20.0 | 21.4 |
+| – – Minima | 24.6 |  |
+| – id. Bénane midi | Maxima 8.8 | 28.4 |
+| – – Minima |  | 20.7 |
+| – id. Bénane soir | Maxima  |  |
+| – – Minima |  |  |
+
+| **Observations du 1902, 5 Juin** |
+| --- |
+| Nombre de bateaux sortis (pêche à l.) | 24.0 |
+| **Température de l'air** |
+| maxima depuis la veille | 24.0 |
+| minima id. | 14.9 |
+| **Température de l'eau** |
+| maxima depuis la veille |  |
+| minima id. |  |
+| Pluie tombée depuis la veille, en millim. |  |
+| Évaporation depuis le 190, en millim. |  |
+| **Direction du vent (à terre)** | **à 9 h. m.** | **à 3 h. s.** |
+| Force |  |  |
+| – | Nord | S.S.O. |
+| – | 2 | 2 |
+| Direction des nuages |  |  |
+| – | N.m.o. | N.m.o. |
+| – | 10 | 10 |
+| **Nébulosité** |  |  |
+| région Ouest (terre) | 10 | 10 |
+| id. Est (mer) | 10 | 10 |
+| Hauteur de la mer, en centimètres, au-dessus du zéro (B.Q.) | 31.6 | 37.6 |
+| Agitation de l'eau | 1 forte | 1 |
+| Densité de l'eau au bout de la jetée | 1027.9 | 1028.4 |
+| **Température** |  |  |
+| id. Bénane matin | Maxima 27.7 | 16.9 |
+| – – Minima | 13.1 | 16.9 |
+| id. Bénane midi | Maxima |  |
+| – – Minima |  |  |
+| id. Bénane soir | Maxima |  |
+| – – Minima |  |  |

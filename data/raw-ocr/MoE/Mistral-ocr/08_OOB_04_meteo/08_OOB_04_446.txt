@@ -1,0 +1,29 @@
+|  V. 22 Novembre 1904 | Obatin | Soir  |
+| --- | --- | --- |
+|  Hauteur Parometrique | 4/8.6 |   |
+|  Direction du vent |  |   |
+|  Force | 15 | 0  |
+|   |  | 10  |
+|  Débulosité | (Reg. 2. (min) | 10  |
+|   |  | 5.0  |
+|   |  | 13.8  |
+|   |  | 39.7  |
+|   |  | 1 faible  |
+|   |  | 1029.8  |
+|   |  | 16.6  |
+
+|  V. 27 Novembre 1904 | Obatin | Soir  |
+| --- | --- | --- |
+|  Hauteur Parometrique | 4/5.3 | 4/4.0  |
+|  Direction du vent | or.0 | or.0  |
+|  Force | 4 fois | 1  |
+|   |  | 1  |
+|  Débulosité | (Reg. 2. (min) | 10  |
+|   |  | 0.8  |
+|   |  | 0.0  |
+|   |  | 7.6  |
+|   |  | 29.2  |
+|   |  | 49.8  |
+|   |  | 3 fois  |
+|   |  | 1029.4  |
+|   |  | 16.6  |

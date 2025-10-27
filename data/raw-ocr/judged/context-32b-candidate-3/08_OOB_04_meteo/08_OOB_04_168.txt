@@ -1,0 +1,36 @@
+```plaintext
+# V. 20 X 1902
+
+|  Nom | Matin | Soir  |
+| --- | --- | --- |
+|  Hauteur Barométrique | 771.4 | 759.2  |
+|  Direction du vent | or.or.o | or.or.o  |
+|  Force |  | 4  |
+|  (Reg. O. (terre)) |  |   |
+|  (Reg. E. (mer)) |  |   |
+|  Nébulosité |  |   |
+|  Direction des nuages | or.or.o | or.or.o  |
+|  Pluie tombée |  |   |
+|  Température de l'air | 11.4 | 15.2  |
+|  Hauteur de la mer | 71.0 | 69.8  |
+|  Agitation de l'eau | 3 faible | 3  |
+|  Densité au bout de la jetée | 1028.2 | 1028.5  |
+|  Température de l'eau | 12.5 | 13.2  |
+
+# V. 21 X 1902
+
+|  Nom | Matin  |
+| --- | --- |
+|  Hauteur Barométrique | 758.2  |
+|  Direction du vent | or.or.o  |
+|  Force | 1  |
+|  (Reg. O. (terre)) | 2  |
+|  (Reg. E. (mer)) | 2  |
+|  Nébulosité | or.or.o  |
+|  Pluie tombée |   |
+|  Température de l'air | 12.2  |
+|  Hauteur de la mer | 61.2  |
+|  Agitation de l'eau | 3 faible  |
+|  Densité au bout de la jetée | 1028.1  |
+|  Température de l'eau | 13.0  |
+```

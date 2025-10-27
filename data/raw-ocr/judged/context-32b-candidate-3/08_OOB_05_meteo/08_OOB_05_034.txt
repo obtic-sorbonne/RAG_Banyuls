@@ -1,0 +1,31 @@
+```
+| **Nombre du jour de l'année** | **Date**          | **Matin**   | **Soir**    |
+|------------------------------|-------------------|-------------|-------------|
+| V. 18                        | 18 Septembre 1905 |             |             |
+| Hauteur Barométrique         | 763.0             | 761.0       |
+| Direction du vent            | S.E               | S.E         |
+| Force                        | iS                | i           |
+| Nébulosité (Reg. o. (terre)) | 0                 | 4           |
+| Nébulosité (Reg. E. (mer))   | clairant          | 1           |
+| Direction des nuages         | S.O               | S.O         |
+| Pluie tombée                 | quelques g        | "           |
+| Température de l'air         | 20.2              | 29.3        |
+| Hauteur de la mer            | 39.1              | 43.3        |
+| Agitation de l'eau           | 3                 | faible      |
+| Densité au bout de la jetée  | 1027.5            | 1027.4      |
+| Température de l'eau         | 21.1              | 22.2        |
+
+| V. 19                        | 19 Septembre 1905 |             |             |
+| Hauteur Barométrique         | 763.9             | 764.9       |
+| Direction du vent            | er.cr.o           | "           |
+| Force                        | iS                | fort        |
+| Nébulosité (Reg. o. (terre)) | 10                | 10          |
+| Nébulosité (Reg. E. (mer))   | 10                | 10          |
+| Direction des nuages         | S.O               | S.O         |
+| Pluie tombée                 | quelques g        | quelques g  |
+| Température de l'air         | 18.9              | 21.8        |
+| Hauteur de la mer            | 37.9              | 48.0        |
+| Agitation de l'eau           | 1 fort.           | 2 faible    |
+| Densité au bout de la jetée  | 1028.0            | 1027.8      |
+| Température de l'eau         | 21.0              | 20.8        |
+```

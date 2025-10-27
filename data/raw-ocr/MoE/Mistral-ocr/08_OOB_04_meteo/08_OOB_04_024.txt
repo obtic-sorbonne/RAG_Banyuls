@@ -1,0 +1,33 @@
+# V. 10 Novembre 1901
+
+## Obatir Soir
+
+|  Hauteur | Pourcentage  |
+| --- | --- |
+|  Direction du vent | 704,8  |
+|  Force | 17.70%  |
+|  Subglosite | 0  |
+|  Reg. O. (mer) | 0  |
+|  Direction des nuages | "  |
+|  Flux rombé | "  |
+|  Température de l'air | 10,1  |
+|  Hauteur de la mer | 4,6  |
+|  Gritation de l'eau | 2  |
+|  Gensite au bout de la jeté | 102,2  |
+|  Température de l'eau | 11,4  |
+
+## V. 11 Novembre 1901
+
+|  Hauteur | Pourcentage  |
+| --- | --- |
+|  Direction du vent | 704,8  |
+|  Force | 17.70%  |
+|  Subglosite | 0  |
+|  Reg. O. (mer) | 0  |
+|  Direction des nuages | 102,2  |
+|  Flux rombé | 9,1  |
+|  Température de l'air | 4,1  |
+|  Hauteur de la mer | 4,9  |
+|  Gritation de l'eau | 2,9  |
+|  Gensite au bout de la jeté | 102,2  |
+|  Température de l'eau | 11,1  |

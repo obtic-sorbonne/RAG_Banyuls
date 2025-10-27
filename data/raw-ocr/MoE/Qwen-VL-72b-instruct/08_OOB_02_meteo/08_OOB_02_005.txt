@@ -1,0 +1,18 @@
+| **Date:** 7 mars 1901 |
+| --- |
+| **Heure:** | 9 H Matin | 3 H Soir |
+| **Hauteur Barométrique** | **755.3** | **751.8** |
+| **Direction du vent** | Nord | S.S.E. |
+| **Force** | 3 | 2 fort |
+| **Nébulosité** |  |  |
+|  | Reg. G. (tour) | 1 | 10 |
+|  | Reg. E. (mer) | 1 | 10 |
+| **Direction des nuages** | Nord | Nord |
+| **Pluie tombée** | quelques gouttes |  |
+| **Température de l'air** | **9.6** | **11.5** |
+| **Hauteur de la mer** | **53.6** | **67.3** |
+| **Agitation de l'eau** | 1 fort | 1 |
+| **Densité de l'eau** |  |  |
+|  | au bout de la jetée |  |  |
+|  | au large |  |  |
+| **Température de l'eau** | **11.3** | **11.6** |

@@ -1,0 +1,27 @@
+| V. 25 février 1907 | Matin | Soir |
+|-------------------|-------|------|
+| Hauteur Barométrique | 767,3 | 766,3 |
+| Direction du Vent | ESE | ESE |
+| Force | 4 | 4 |
+| Nébulosité | Reg. 0. (terre) | 0 | 0 |
+| | Reg. 2. (mer) | 0 | 0 |
+| Direction des nuages | " | " |
+| Pluie tombée | " | " |
+| Température de l'air | 12,0 | 12,0 |
+| Hauteur de la mer | 66,6 | 66,6 |
+| Agitation de l'eau | 3 | 3 |
+| Densité au bord de la jetée | 1029,0 | 1029,0 |
+| Température de l'eau | 11,0 | 11,0 |
+| V. 26 février 1907 | Matin | Soir |
+| Hauteur Barométrique | 767,7 | 767,5 |
+| Direction du Vent | ESE | ESE |
+| Force | 2 | 1 |
+| Nébulosité | Reg. 0. (terre) | 0 | 0 |
+| | Reg. 2. (mer) | 0 | 0 |
+| Direction des nuages | ESE | " |
+| Pluie tombée | " | " |
+| Température de l'air | 8,6 | 10,6 |
+| Hauteur de la mer | 66,8 | 66,8 |
+| Agitation de l'eau | 3 | 3 |
+| Densité au bord de la jetée | 1029,4 | 1029,3 |
+| Température de l'eau | 11,0 | 11,1 |

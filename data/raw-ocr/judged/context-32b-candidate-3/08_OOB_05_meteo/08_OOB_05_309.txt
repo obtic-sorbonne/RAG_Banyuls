@@ -1,0 +1,15 @@
+```markdown
+# 22 OCTOBRE 1907
+
+| **Date**        | **Heure** | **Hauteur barométrique (mmHg)** | **Direction du vent** | **Force** | **Nébulosité (Reg. O. centre)** | **Nébulosité (Reg. Ext. clair)** | **Direction des nuages** | **Pluie tombée (mm)** | **Température de l'air (°C)** | **Hauteur de la mer (cm)** | **Agitation de l'eau** | **Densité au bout de la jetée (g/cm³)** | **Température de l'eau (°C)** |
+|-----------------|-----------|--------------------------------|-----------------------|-----------|--------------------------------|--------------------------------|-------------------------|-----------------------|-----------------------------|---------------------------|-----------------------|--------------------------------------|-----------------------------|
+| 22 Octobre 1907 | Matin     | 761.3                          | Est                   | 1 fort    | 10                             | er. 8                           | Est                     | 2.0                  | 19.0                       | 24.9                     | 2 fort                | 1026.6                               | 19.3                        |
+| 22 Octobre 1907 | Soir      | 764.6                          | Est                   | 1 fort    | 10                             | er. 8                           | Est                     | quelques...          | 19.1                       | 26.4                     | 2 fort                | 1027.1                               | 19.1                        |
+
+# 23 OCTOBRE 1907
+
+| **Date**        | **Heure** | **Hauteur barométrique (mmHg)** | **Direction du vent** | **Force** | **Nébulosité (Reg. O. centre)** | **Nébulosité (Reg. Ext. clair)** | **Direction des nuages** | **Pluie tombée (mm)** | **Température de l'air (°C)** | **Hauteur de la mer (cm)** | **Agitation de l'eau** | **Densité au bout de la jetée (g/cm³)** | **Température de l'eau (°C)** |
+|-----------------|-----------|--------------------------------|-----------------------|-----------|--------------------------------|--------------------------------|-------------------------|-----------------------|-----------------------------|---------------------------|-----------------------|--------------------------------------|-----------------------------|
+| 23 Octobre 1907 | Matin     | 764.3                          | Est                   | 3         | 10                             | er. 8                           | Est                     | 12.79                | 16.8                       | 26.4                     | 2                     | 1026.1                               | 18.7                        |
+| 23 Octobre 1907 | Soir      | 762.9                          | Est                   | 2 fort    | 10                             | er. 8                           | Est                     | 18.1                 | 17.1                       | 37.1                     | 2 fort                | 1026.3                               | 18.8                        |
+```

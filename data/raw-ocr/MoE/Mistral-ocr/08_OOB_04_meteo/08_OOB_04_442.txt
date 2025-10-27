@@ -1,0 +1,44 @@
+# V. 12 Novembre - 1904
+
+|  Hauteur | Pourcentage | 320.5  |
+| --- | --- | --- |
+|  Direction |  |   |
+|  Force |  | 2  |
+|  (Rég. O. (mer)) |  | 10 %  |
+|  Direction |  |   |
+|  de nuage |  | 2  |
+|  Huie |  | 14.0  |
+|  Nombre |  | 40.3  |
+|  Capitalisation |  | 1 fort  |
+|  Densité |  | 1028.6  |
+|  Dempotative |  | 12.0  |
+
+# V. 14 Novembre - 1904
+
+|  Hauteur | Pourcentage | 325.0  |
+| --- | --- | --- |
+|  Direction |  |   |
+|  Force |  | 2  |
+|  (Rég. O. (mer)) |  | 10  |
+|  Direction |  |   |
+|  de nuage |  | 24  |
+|  Huie |  | 12.3  |
+|  Nombre |  | 12.4  |
+|  Capitalisation |  | 2 fort  |
+|  Densité |  | 1028.8  |
+|  Dempotative |  | 16.8  |
+
+# V. 15 Novembre - 1904
+
+|  Hauteur | Pourcentage  |
+| --- | --- |
+|  Direction |   |
+|  Force |  | 2  |
+|  (Rég. O. (mer)) |  | 10  |
+|  Direction |  |   |
+|  de nuage |  | 24  |
+|  Huie |  | 12.3  |
+|  Nombre |  | 12.4  |
+|  Capitalisation |  | 2 fort  |
+|  Densité |  | 1028.8  |
+|  Dempotative |  | 16.8  |

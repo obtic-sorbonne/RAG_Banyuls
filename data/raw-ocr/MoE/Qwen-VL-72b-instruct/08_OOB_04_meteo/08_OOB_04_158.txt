@@ -1,0 +1,24 @@
+| **Date**          | **Observations**                 | **Matin** | **Soir** |
+|-------------------|---------------------------------|-----------|----------|
+| **v. 27 Novembre 1902** | Hauteur Barométrique          | 794.7     | 799.7    |
+|                     | Direction du vent              | er. cr. o | er. cr. o|
+|                     | Force                          | 5         | 3 p.ou   |
+|                     | Nebulosit | Reg. o. (clere)     | 3         | 10       |
+|                     | Direction ses eaux             | Ag. E. (mer)| 4        | 10      |
+|                     | Pluie Tombée                   |             | quelques g |          |
+|                     | Température de l'air           | 12.6      | 12.7     |
+|                     | Hauteur de la mer              | 46.4      | 90.7     |
+|                     | Agitation de l’eau             | 1         | 2 poul   |
+|                     | Tensité au bout de la jetée    | 1029.4    | 1029.0   |
+|                     | Température de l'eau           | 14.7      | 14.7     |
+| **v. 28 Novembre 1902** | Hauteur Barométrique          | 794.7     | 794.6    |
+|                     | Direction du vent              | 0. cr. 0  | er. cr. o|
+|                     | Force                          | 5         | 1 poul   |
+|                     | Nebulosit | Reg. o. (clere)     | légume    | 10       |
+|                     | Direction ses eaux             | Ag. E. (mer)| légume  | 10      |
+|                     | Pluie Tombée                   |             |          |          |
+|                     | Température de l'air           | 12.2      | 12.3     |
+|                     | Hauteur de la mer              | 36.6      | 43.3     |
+|                     | Agitation de l’eau             | fac. 1    | 1        |
+|                     | Tensité au bout de la jetée    | 1028.9    | 1028.6   |
+|                     | Température de l'eau           | 15.2      | 15.4     |

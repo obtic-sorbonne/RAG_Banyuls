@@ -1,0 +1,20 @@
+```
+|  N. 9 Octobre 1903 | Obatir | Soir  |
+| --- | --- | --- |
+|  |   |   |
+|  3, 9/1 |  |   |
+|  |   |   |
+|  9. 10 Octobre 1903 | Obatir | Soir  |
+|  Hauteur Poarombrique | 761.5 | 763.6  |
+|  Direction du vent | cr. n. o. | cr. n. o.  |
+|  Force | 3 | 3  |
+|  (Reg. G. (1ere) | 10 | 10  |
+|  (2nd) |  |   |
+|  Direction du mage | cr. o. | 10  |
+|  (3rd) |  |   |
+|  12, 9 |  | 13,1  |
+|  40, 3 |  | 60,2  |
+|  2 fort |  | 2 fort  |
+|  102,2,3 |  | 102,1  |
+|  18,1 |  | 18,4  |
+```

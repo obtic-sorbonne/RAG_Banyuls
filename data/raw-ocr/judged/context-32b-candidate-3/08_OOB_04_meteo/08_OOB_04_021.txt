@@ -1,0 +1,31 @@
+# 9-2 Novembre 1901
+
+|  Hauteur Barométrique | 767.2 | 767.7  |
+| --- | --- | --- |
+|  Direction du vent | or. or. o | 8th  |
+|  Force | 1/201 | 17/20th  |
+|  Nébulosité | 1 | 10  |
+|  Nébulosité | 0 | 10  |
+|  Direction des nuages | or. or. o | 8th  |
+|  Pluie tombée | 11.2 | 14.3  |
+|  Température de l'air | 43.6 | 37.0  |
+|  Hauteur de la mer | 43.6 | 37.0  |
+|  Agitation de l'eau | 2 | 27/20th  |
+|  Densité au bout de la jetée | 1026.3 | 1027.3  |
+|  Température de l'eau | 17.1 | 17.6  |
+
+## 9-3 Novembre 1901
+
+|  Hauteur Barométrique | 769.4 | 769.6  |
+| --- | --- | --- |
+|  Direction du vent | or. or. | 7.8  |
+|  Force | 1 | 1/20th  |
+|  Nébulosité | 0 | 0  |
+|  Nébulosité | 2 | 2  |
+|  Direction des nuages | 2nd | 2nd  |
+|  Pluie tombée | 16.0 | 17.1  |
+|  Température de l'air | 16.3 | 39.3  |
+|  Hauteur de la mer | 16.3 | 1/20th  |
+|  Agitation de l'eau | 2/20th | 1/20th  |
+|  Densité au bout de la jetée | 1026.2 | 1027.8  |
+|  Température de l'eau | 17.4 | 17.7  |

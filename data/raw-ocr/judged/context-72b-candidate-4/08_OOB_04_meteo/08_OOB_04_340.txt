@@ -1,0 +1,31 @@
+```plaintext
+|  V. 12 février - 1904 | Matin | Soir  |
+| --- | --- | --- |
+|  Hauteur Barométrique | 770.0 | 766.6  |
+|  Direction du vent | S.S.E | S.S.E  |
+|  Force | 0 | 2 fort  |
+|  Nébulosité (Terre) | Reg. O. (claire) | 0 légère  |
+|  Nébulosité (Mer) | Reg. E. (mer) | 0 légère  |
+|  Direction des nuages | 0 | -  |
+|  Pluie tombée | " | "  |
+|  Température de l'air | 12.2 | 16.4  |
+|  Hauteur de la mer | 10.2 | 13.3  |
+|  Agitation de l'eau | fort | 1  |
+|  Densité au bout de la jetée | 1029.1 | 1029.0  |
+|  Température de l'eau | 11.1 | 13.0  |
+
+|  V. 13 février - 1904 | Matin | Soir  |
+| --- | --- | --- |
+|  Hauteur Barométrique | 764.0 | 764.7  |
+|  Direction du vent | E.S.E | E.S.E  |
+|  Force | 2 fort | 1 fort  |
+|  Nébulosité (Terre) | Reg. O. (claire) | 10 légère  |
+|  Nébulosité (Mer) | Reg. E. (mer) | 10 légère  |
+|  Direction des nuages | 0 | 10  |
+|  Pluie tombée | " | "  |
+|  Température de l'air | 12.3 | 13.9  |
+|  Hauteur de la mer | 12.2 | 48.3  |
+|  Agitation de l'eau | fort | 2 faible  |
+|  Densité au bout de la jetée | 1029.1 | 1028.9  |
+|  Température de l'eau | 11.4 | 11.1  |
+```

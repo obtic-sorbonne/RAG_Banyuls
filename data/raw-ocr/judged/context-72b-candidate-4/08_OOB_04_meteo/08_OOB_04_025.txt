@@ -1,0 +1,32 @@
+```plaintext
+| **Date**       | **Matin**           | **Soir**           |
+|----------------|---------------------|--------------------|
+| **V. 12 Novembre 1901** |               |                   |
+| Hauteur Barométrique | 759.8 mm        | 757.4 mm          |
+| Direction du vent   | ce. n.o         | ce. or. 0         |
+| Force               | 17.9 T. faible  | 17.9 T. faible    |
+| Nébulosité {       |                  |                   |
+| Reg. O. (terre)    | 0                | 0                 |
+| Reg. E. (mer)      | 0                | 0                 |
+| Direction des nuages | ce. or. 0       | ce. or. 0         |
+| Pluie tombée        | "                | "                 |
+| Température de l'air | 9.1 °C          | 9.1 °C            |
+| Hauteur de la mer   | 32.7 m           | 32.7 m            |
+| Agitation de l'eau  | 1 faible         | 1 faible          |
+| Densité au bout de la jetée | 1027.6 kg/m³ | 1027.6 kg/m³     |
+| Température de l'eau | 11.2 °C         | 11.2 °C           |
+| **V. 13 Novembre 1901** |               |                   |
+| Hauteur Barométrique | 762.2 mm        | 748.3 mm          |
+| Direction du vent   | ouest            | sud               |
+| Force               | 2                | 3                 |
+| Nébulosité {       |                  |                   |
+| Reg. O. (terre)    | 10 légère        | 0                 |
+| Reg. E. (mer)      | 10 légère        | 10 légère         |
+| Direction des nuages | ouest           | ouest             |
+| Pluie tombée        | "                | "                 |
+| Température de l'air | 13.9 °C         | 13.0 °C           |
+| Hauteur de la mer   | 19.9 m           | 28.7 m            |
+| Agitation de l'eau  | 1 faible         | 1 faible          |
+| Densité au bout de la jetée | 1027.9 kg/m³ | 1028.2 kg/m³     |
+| Température de l'eau | 11.4 °C         | 16.3 °C           |
+```

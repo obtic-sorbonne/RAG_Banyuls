@@ -1,0 +1,16 @@
+| Date | 13 Novembre 1901 |
+|---|---|
+| Parameter | 9h Matin | 3h Soir |
+|---|---|---|
+| Hauteur Barométrique | 722.2 | 748.3 |
+| Direction du vent | Ouest | Sud |
+| Force | 2 | 3 faible |
+| Nébulosité Reg. O (terre) | légère | 10 légères |
+| Nébulosité Reg. E (mer) | 10 légères | Ouest |
+| Direction des nuages | Ouest | Ouest |
+| Pluie tombée | " | " |
+| Température de l'air | 13.9 | 13,0 |
+| Hauteur de la mer | 19.9 | 28.5 |
+| Agitation de l'eau | 1 | 1 |
+| Densité de l'eau | 1027.9 (au bout de la jetée) | 1028.2 (au large) |
+| Température de l'eau | 15.4 | 16.3 |

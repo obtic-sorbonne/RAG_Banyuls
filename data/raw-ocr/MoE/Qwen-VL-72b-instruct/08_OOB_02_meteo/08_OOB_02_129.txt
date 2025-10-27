@@ -1,0 +1,14 @@
+| **Données** | **9h30** | **15h00** | **21h30** |
+|---|---|---|---|
+| Hanteur Barométrique | 765,2 | 763,6 |  |
+| Direction du vent | E.S.E. | S.S. |  |
+| Force | 2 | 2 |  |
+| Nébulosité |  |  |  |
+|   Direction des nuages | S.E. - (Clere) | 0 | 0 |
+|   Pluie Tombée | Reg. E. - (eau) | 0 | 0 |
+| Température de l'air | 24,8 | 30,5 |  |
+| Hauteur de la mer | 47,5 | 57,4 |  |
+| Agitation de l'eau | faible | faible |  |
+| Densité de l'eau | 1026,8 | 1026,8 |  |
+|   Frange |  |  |  |
+| Température de l'eau | 22,7 | 22,4 |  |

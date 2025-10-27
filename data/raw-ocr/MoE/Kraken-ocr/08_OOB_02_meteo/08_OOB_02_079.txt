@@ -1,0 +1,54 @@
+LEE
+6
+Ddiate - 20 Mat 1901
+Fauteur Barometrique
+direction du vent
+Force
+67
+N R
+bulosité
+An
+6.
+Reg-E-(mer)
+Diection ses nuages
+Plinie tombée
+Temperature de l'air
+15
+1r
+5
+fiteur de la mer
+Agitation de l'eau
+densite de l'eau
+St Matin, 3^l Soir
+PM
+161,3
+Pd
+1fort
+10
+80
+Hed
+11
+183
+53, 2
+o
+pau bout de la fetre 1026
+2 au Large
+Cemperature de l'eau
+5
+9
+4
+4
+
+7
+Ses
+60
+10
+Su
+90
+13.7
+44.
+1 Gaible
+1028.
+2.2
+2
+ P

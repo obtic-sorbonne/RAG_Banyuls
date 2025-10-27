@@ -1,0 +1,25 @@
+| V. 18 Août - 1906 | Matin | Soir |
+|---|---|---|
+| Hauteur Barométrique | 769.3 | 769.0 |
+| Direction du vent | cr. E | cr. N.O. |
+| Force | 1 | 2 Fort |
+| Nébulosité | Reg. 0. (Clère) | 0 | 0 |
+| Direction des nuages | Reg. E. (mer) | Ouest | Est |
+| Pluie tombée | " | quelques g |  |
+| Température de l'air | 29.1 | 23.9 |
+| Hauteur de la mer | 119.8 | 119.3 |
+| Agitation de l'eau | 1 Fort | 1 Fort |
+| Visibilité au bout de la jetée | 1627.8 | 1627.8 |
+| Température de l'eau | 21.8 | 22.0 |
+| V. 20 Août - 1906 | Matin | Soir |
+| Hauteur Barométrique | 769.7 | 768.2 |
+| Direction du vent | cr. cr. o | cr. ou |
+| Force | 15 | 3 Fort |
+| Nébulosité | Reg. 0. (Clère) | 0 | 0 |
+| Direction des nuages | Reg. E. (mer) | Ouest | Ouest |
+| Pluie tombée | " | " |  |
+| Température de l'air | 21.9 | 26.7 |
+| Hauteur de la mer | 61.7 | 62.1 |
+| Agitation de l'eau | 2 Fort | 2 Fort |
+| Visibilité au bout de la jetée | 428.3 | 427.1 |
+| Température de l'eau | 20.8 | 21.6 |

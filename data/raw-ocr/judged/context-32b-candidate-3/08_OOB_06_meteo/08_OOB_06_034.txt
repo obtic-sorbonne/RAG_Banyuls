@@ -1,0 +1,45 @@
+```plaintext
+| **Observations du 1960 18 juin** |
+| --- |
+| **Nombre de bateaux sortis (pêche à la linche)** | 21.7 |
+| **Température de l'air** |  |
+| - maxima depuis la veille | 21.7 °C |
+| - minima id. | 17.3 °C |
+| **Température de l'eau** |  |
+| - maxima depuis la veille | - |
+| - minima id. | - |
+| **Pluie tombée depuis la veille, en millim.** | 11 mm |
+| **Evaporation depuis le 190, en millim.** | - |
+| **Direction du vent (à terre)** | N.N.O. | N.N.O. |
+| **Force** | 1 (fort) | 2 |
+| **Direction des nuages** | Nord | - |
+| **Nébulosité** | 10/8 | 1/8 |
+| - région Ouest (terre) | 10/8 | 1/8 |
+| - id. Est (mer) | 10/8 | - |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro** | 31.7 cm | 37.1 cm |
+| **Agitation de l'eau** | 1 (faible) | 1 (faible) |
+| **Densité de l'eau au bout de la jetée** | 1026.0 g/cm³ | 1026.7 g/cm³ |
+| **Température id.** | 19.0 °C | 20.0 °C |
+
+| **Observations du 1960 20 juin** |
+| --- |
+| **Nombre de bateaux sortis (pêche à la linche et ganchon)** | 69 |
+| **Température de l'air** |  |
+| - maxima depuis la veille | - |
+| - minima id. | - |
+| **Température de l'eau** |  |
+| - maxima depuis la veille | - |
+| - minima id. | - |
+| **Pluie tombée depuis la veille, en millim.** | - |
+| **Evaporation depuis le 190, en millim.** | - |
+| **Direction du vent (à terre)** | SSE | SSE |
+| **Force** | - | 1 (faible) |
+| **Direction des nuages** | - | - |
+| **Nébulosité** | 10/8 | 0/8 |
+| - région Ouest (terre) | 10/8 | 0/8 |
+| - id. Est (mer) | 10/8 | 0/8 |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro** | 38.8 cm | 33.8 cm |
+| **Agitation de l'eau** | 1 (faible) | 1 (faible) |
+| **Densité de l'eau au bout de la jetée** | 1026.5 g/cm³ | 1027.0 g/cm³ |
+| **Température id.** | 19.5 °C | 21.0 °C |
+```

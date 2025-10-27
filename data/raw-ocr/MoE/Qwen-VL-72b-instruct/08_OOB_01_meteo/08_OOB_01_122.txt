@@ -1,0 +1,18 @@
+| Date | 25 Novembre 1900 |  |
+| --- | --- | --- |
+| --- | --- | --- |
+| Heure | 9h Malin | 3h Soir |
+| **Hauter. Barometrique** | 757.7 |  |
+| **Direction du vent** | Ouest |  |
+| **Force** | 1, faible | 4 |
+| **Nébulosité** | Reg. O (terre) | 1 |
+| Reg. E (mer) |  |  |
+| **Direction des nuages** | Nord |  |
+| **Pluie tombée** | 0,600 |  |
+| **Température de l'air** | 12.1 |  |
+| **Hauteur de la mer** | 32.2 |  |
+| **Agniation de l'eau** | 1, faible | 1028.6 |
+| au bout de la jetée |  |  |
+| **Densité de l'eau** |  | 14.3 |
+| au large |  |  |
+| **Température de l'eau** |  |  |

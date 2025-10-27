@@ -1,0 +1,36 @@
+```
+Journal Météorologique du Navire "La Belle Poule"
+Période : 2 au 5 Mars 1906
+
+| Date       | Matin | Soir  |
+|------------|-------|-------|
+| 2 Mars 1906 |      |      |
+| Hauteur Barométrique (mm) | 768.3 | - |
+| Direction du vent | - | - |
+| Force | 5 | 0 |
+| Nébulosité (Reg. O. Terre) | 10 | - |
+| Nébulosité (Reg. E. Mer) | 10 | - |
+| Direction des nuages | cr.cr.o | - |
+| Pluie tombée (mm) | " | - |
+| Température de l'air (°C) | 13.7 | - |
+| Hauteur de la mer (m) | 64.6 | - |
+| Agitation de l'eau (code) | 2 faible | - |
+| Densité au bout de la jetée (g/cm³) | 1029.0 | - |
+| Température de l'eau (°C) | 19.0 | - |
+
+| 5 Mars 1906 | Matin | Soir  |
+| Hauteur Barométrique (mm) | 774.8 | - |
+| Direction du vent | S.O | - |
+| Force | 5 | 1 fort |
+| Nébulosité (Reg. O. Terre) | 0 | - |
+| Nébulosité (Reg. E. Mer) | 0 | - |
+| Direction des nuages | - | - |
+| Pluie tombée (mm) | " | - |
+| Température de l'air (°C) | 13.6 | - |
+| Hauteur de la mer (m) | 66.0 | - |
+| Agitation de l'eau (code) | 2 faible | - |
+| Densité au bout de la jetée (g/cm³) | 1029.0 | - |
+| Température de l'eau (°C) | 19.0 | - |
+
+Note Marginale : Aucune remarque particulière pour ces dates.
+```

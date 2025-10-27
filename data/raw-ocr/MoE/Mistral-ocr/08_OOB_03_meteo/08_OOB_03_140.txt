@@ -1,0 +1,17 @@
+# Porte - 6 Mours - 1902
+
+|   | 9th Moutin | 3rd Bivin  |
+| --- | --- | --- |
+|  Kanteur Barométrique | 263,4 | 261,5  |
+|  Direction du vent |  | P.E.  |
+|  Force | 0 | 1  |
+|  Mécatlasite | 10 | 10 kg/m²  |
+|  (Reg. E - (min)) |  |   |
+|  Direction des nuages | 59,2 | 59,2  |
+|  Élue Nombre |  |   |
+|  Température de l'air | 12,4 | 13,5  |
+|  Kanteur de la mer | 41,2 | 40,4  |
+|  Régulation de l'eau | 3 fort | 37 fort  |
+|  Densité de l'eau | 1028,2 | 1028,1  |
+|  (au Range) |  |   |
+|  (en nombre de l'eau) | 11,6 | 11,2  |

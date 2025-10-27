@@ -1,0 +1,17 @@
+# Date-27 Janvier-1902
+
+|   | 9e Matin | 4e Soir  |
+| --- | --- | --- |
+| Hauteur Barométrique | 765,5 | 765,6  |
+| Direction du vent | 11 | N.N.O  |
+| Force | 0 | 1 T. faible  |
+| Nébulosité | 10 | 10  |
+| Nébulosité { Reg. É. (mer) } | 10 | 10  |
+| Direction des nuages | 71012 | N.N.O  |
+| Pluie Tombée | 4 | 11  |
+| Température de l'air | 4,5 | 10,2  |
+| Hauteur de la mer | 11,6 | 70,5  |
+| Agitation de l'eau | 1 faible | 1 T. faible  |
+| Densité de l'eau { au bout de la jetée } | 1029,0 | 1029,2  |
+| Densité de l'eau { au large } | 1029,0 | 1029,2  |
+| Température de l'eau | 12,2 | 11,5  |

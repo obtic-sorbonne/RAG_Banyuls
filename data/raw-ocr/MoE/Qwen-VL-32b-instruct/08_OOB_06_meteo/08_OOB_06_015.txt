@@ -1,0 +1,43 @@
+| **Date** | 1960-05-03 |
+|---|---|
+| Nombre de bateaux sortis (pêche à l……) | Néant |
+| **Température de l'air** |  |
+| maxima depuis la veille | 11.9°C |
+| minima id. | 10.7°C |
+| **Température de l'eau** |  |
+| maxima depuis la veille |  |
+| minima id. |  |
+| Pluie tombée depuis la veille, en millim. | 1.6 mm |
+| Evaporation depuis le 190……, en millim. |  |
+| **Direction du vent (à terre)** | N.N.O | N.N.O |
+| Force | 3 foil | 4 foil |
+| **Direction des nuages** | N.N.O | N.N.O |
+| **Nébulosité** |  |  |
+| région Ouest (terre) | 10 | 10 |
+| id. Est (mer) | 10 | 10 |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro** | 27.9 cm | 24.8 cm |
+| **Agitation de l'eau** | 2 | 2 |
+| **Densité de l'eau au bout de la jetée** | 1028.9 g/cm³ | 1028.9 g/cm³ |
+| **Température id.** | 12.9°C | 12.9°C |
+|  |  |
+| **Date** | 1960-05-04 |
+| **Nombre de bateaux sortis (pêche à l……)** | Néant |
+| **Température de l'air** |  |
+| maxima depuis la veille | 11.2°C |
+| minima id. | 10.8°C |
+| **Température de l'eau** |  |
+| maxima depuis la veille |  |
+| minima id. |  |
+| **Pluie tombée depuis la veille, en millim.** |  |
+| **Evaporation depuis le 190……, en millim.** |  |
+| **Direction du vent (à terre)** | N.N.O | S.fork |
+| Force |  |  |
+| **Direction des nuages** | |S.fork |
+| **Nébulosité** |  |  |
+| région Ouest (terre) | 10 | 10 |
+| id. Est (mer) | 10 | 10 |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro** |  | 30.8 cm |
+| **Agitation de l'eau** |  | 3 |
+| **Densité de l'eau au bout de la jetée** | | 1028.2 g/cm³ |
+| **Température id.** | | 12.7°C |
+|  |  |  |

@@ -1,0 +1,7 @@
+| Date | Heure | Hauteur Barométrique (mmHg) | Direction du vent | Force | Nébulosité (%) | Direction des nuages | Pluie tombée (mm) | Température de l'air (°C) | Hauteur de la mer (m) | Agitation de l'eau | Densité au bout S. la jetée (kg/m³) | Température de l'eau (°C) |
+|------|-------|---------------------------|--------------------|--------|------------------|---------------------|-------------------|---------------------|-----------------|-------------------|----------------------------|--------------------------|
+| 22 Août 1905 | Matin | 766.4 | S.S.E. | is | 0 (terre), 10 (mer) | Sud-Est | - | 29.8 | 49.8 | faible | 1027.4 | 29.2 |
+| Soir | 769.4 | " | 0 | dégagée, 10 | Nord-Ouest | quelques g | 31.3 | 10.4 | forte | 1026.7 | 26.5 |
+
+| 23 Août 1905 | Matin | 766.2 | O.N.O. | is | 10 (terre), 10 (mer) | Sud-Ouest | quelque g | 24.0 | 10.8 | forte | 1027.6 | 24.7 |
+| Soir | 769.4 | O.N.O. | 2 faible | dégagée, 10 | Sud-Ouest | 1.87/ | 26.6 | 48.3 | forte | 1027.6 | 29.0 |

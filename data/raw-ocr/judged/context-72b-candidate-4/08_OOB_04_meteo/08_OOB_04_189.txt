@@ -1,0 +1,14 @@
+```plaintext
+# 9. 6 février. 1903
+
+|  Heure | Hauteur Barométrique | Direction du vent | Force | Nébulosité (Reg. O. (terre)) | Nébulosité (Reg. E. (mer)) | Direction des nuages | Pluie Tombée | Température de l'air | Hauteur de la mer | Agitation de l'eau | Densité au bout de la jetée | Température de l'eau |
+|--------|-----------------------|-------------------|-------|-----------------------------|-----------------------------|----------------------|--------------|----------------------|-------------------|---------------------|-----------------------------|----------------------|
+|  Matin | 769.2                | O. S. O.          | 1     | 1                           | 1                           | O. S. O.             | -            | 9.2                 | 67.1             | 1 (faible)          | 1028.6                     | 10.7                |
+|  Soir  | 766.8                | Sud               | 1 (Port) 2 (Faible) | 0                           | 1                           | Sud                 | -            | 13.4                | 98.8             | 1 (faible)          | 1028.6                     | 11.7                |
+
+# 10 février. 1903
+
+|  Heure | Hauteur Barométrique | Direction du vent | Force | Nébulosité (Reg. O. (terre)) | Nébulosité (Reg. E. (mer)) | Direction des nuages | Pluie Tombée | Température de l'air | Hauteur de la mer | Agitation de l'eau | Densité au bout de la jetée | Température de l'eau |
+|--------|-----------------------|-------------------|-------|-----------------------------|-----------------------------|----------------------|--------------|----------------------|-------------------|---------------------|-----------------------------|----------------------|
+|  Matin | 775.6                | Est, Sud-Est      | 2     | 0                           | 0                           | -                    | -            | 14.7                | 69.2             | 1                  | 1029.2                     | 11.2                |
+```

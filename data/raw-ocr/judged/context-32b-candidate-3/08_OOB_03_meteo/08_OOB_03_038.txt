@@ -1,0 +1,17 @@
+# Date. 30 Octobre. 1901
+
+|  | 9" Matin | 3" Soir  |
+| --- | --- | --- |
+| Hauteur Barométrique | 764,1 | 763,4  |
+| Direction du vent | N.N.O | N.E.  |
+| Force | 2 | 3  |
+| Nébulosité | 10 | 10  |
+| Reg. O. (terre) | 0 | 10  |
+| Reg. E. (mer) | 10 | 10  |
+| Direction des nuages | N.N.O | N.E.  |
+| Pluie tombée | 1,8 | 5,7  |
+| Température de l'air | 13,3 | 11,2  |
+| Hauteur de la mer | 19,9 | 39,1  |
+| Agitation de l'eau | 4 | 1  |
+| Densité de l'eau | 1037,5 | 1037,5  |
+| Température de l'eau | 16,3 | 16,4  |

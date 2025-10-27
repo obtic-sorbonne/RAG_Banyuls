@@ -1,0 +1,50 @@
+```
+OBSERVATIONS DU 1902 18 Juin
+| Nombre de bateaux sortis (pêche à l…) |  |
+|---|---|
+| Température de l'air }  |  |
+|  maxima depuis la veille        |  |
+|  minima   id.                  |  |
+| Température de l'eau }  |  |
+|  maxima depuis la veille        |  |
+|  minima   id.                  |  |
+| Pluie tombée depuis la veille, en millim. |  |
+| Evaporation depuis le 190 , en millim.   |  |
+
+| Direction du vent (à terre) | NN.O. |  |
+|---|---|---|
+| Force | 6 fotl. |  |
+| Direction des nuages |  |  |
+| Nébulosité } |  |  |
+|  région Ouest (terre) | 10 |  |
+| 	id. Est (mer) | 10 |  |
+| Hauteur de la mer, en centimètres, au-dessus du zéro (B.Q.:) | 88.8 |  |
+| Agitation de l'eau | 9 |  |
+| Densité de l'eau au bout de la jetée |  |  |
+| Température |  |  |
+
+OBSERVATIONS DU 1902 19 Juin
+| Nombre de bateaux sortis (pêche à l…) | 2% |  |
+|---|---|---|
+| Température de l'air }  |  |
+|  maxima depuis la veille        | 12 |  |
+|  minima   id.                  | 11 |  |
+| Température de l'eau }  |  |
+|  maxima depuis la veille        |  |  |
+|  minima   id.                  |  |  |
+| Pluie tombée depuis la veille, en millim. |  |  |
+| Evaporation depuis le 190 , en millim.   |  |  |
+
+| À 9 h. m. |  | À 3 h. s. |  |
+|---|---|---|---|
+| Direction du vent (à terre) | N.O. | N.E. |  |
+| Force | 4 altar | 1 faotte. |  |
+| Direction des nuages | Ouest. | Ouest. |  |
+| Nébulosité } |  |  |  |
+|  région Ouest (terre) | 10 | 10 |  |
+| 	id. Est (mer) | 10 | 10 |  |
+| Hauteur de la mer, en centimètres, au-dessus du zéro (B.Q.:) | 44.9 | 40.9 |  |
+| Agitation de l'eau | 1 fort. | S. |  |
+| Densité de l'eau au bout de la jetée | 1024.9 | 1026.9 |  |
+| Température | 17.1 | 17.1 |  |
+```

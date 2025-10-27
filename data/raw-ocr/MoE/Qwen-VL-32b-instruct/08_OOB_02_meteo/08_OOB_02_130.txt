@@ -1,0 +1,17 @@
+# Date: 21 Juillet 1901
+
+|  Name | 9th Matin 3 H. 4vin  |
+| --- | --- |
+|  Kauteur Marométrique | 263,1  |
+|  Direction Su vent | 8.5  |
+|  Force | 1, faible  |
+|  Nebulosite | 0  |
+|  Reg. D. (max) | 0  |
+|  Direction des nuages | 11  |
+|  Flux lombaire | 36,5  |
+|  Température de l'air | 26,5  |
+|  Kauteur de la moc | 46,1  |
+|  Régulation de l'eau | 0  |
+|  Densité de l'eau | 1026,7  |
+|  Au charge | 23,5  |
+|  Température de l'eau | 23,5  |

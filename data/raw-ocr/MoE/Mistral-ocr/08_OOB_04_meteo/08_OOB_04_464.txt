@@ -1,0 +1,27 @@
+|  9. 18 Janvier - 1905 | Moatin | Voir  |
+| --- | --- | --- |
+|  Hauteur Prazométrique |  | 3/9.1  |
+|  Direction du vent |  | 4.0  |
+|  Force |  | 6  |
+|  Nébulosité | (Abs. a. Clens) | 10  |
+|   | (Abs. x. (min)) | 10  |
+|  Direction des nuages |  | 10  |
+|  Flux tombé |  | 8.3  |
+|  Température de l'air |  | 8.3  |
+|  Hauteur de la mer |  | 2 port  |
+|  Législation de l'eau |  |   |
+|  Permis au bout de la jolie |  |   |
+|  Température de l'eau |  | 2 port  |
+|  9. 19 Janvier - 1905 | Moatin | Voir  |
+|  Hauteur Prazométrique | 201.0 | 202.4  |
+|  Direction du vent |  | 4.0  |
+|  Force |  | 2  |
+|  Nébulosité | (Abs. a. (min)) | 10  |
+|   | (Abs. x. (min)) | 10  |
+|  Direction des nuages |  | 4.0  |
+|  Flux tombé |  | 8.0  |
+|  Température de l'air | 2.1 | 8.0  |
+|  Hauteur de la mer |  | 5  |
+|  Législation de l'eau |  |   |
+|  Permis au bout de la jolie |  |   |
+|  Température de l'eau |  | 5  |

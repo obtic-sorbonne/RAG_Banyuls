@@ -1,0 +1,28 @@
+| Date       | Matin | Soir |
+|------------|-------|------|
+| V. 18 Juin 1907 | 764,2 | 764,2 |
+| Hauteur Barométrique | S. E | S. E |
+| Direction du vent | 10 | 10 |
+| Force | Reg. C. (Gros) | Reg. C. (Gros) |
+| Nébulosité | 40 | 40 |
+| (Reg. T. cour) | E. N. E | E. N. E |
+| Direction des nuages | " | " |
+| Pluie tombée | 31,1 | 31,1 |
+| Température de l'air | 14,2 | 14,2 |
+| Hauteur de la mer | Faible | Faible |
+| Agitation de l'eau | 627,0 | 627,0 |
+| Densité au bord de la jetée | 21,0 | 21,0 |
+| Température de l'eau |  |  |
+| V. 19 Juin 1907 | 766,7 | 766,3 |
+| Hauteur Barométrique | E. N. E | E. N. E |
+| Direction du vent | 2 | 1 Fort |
+| Force | Reg. C. (Gros) | Reg. C. (Gros) |
+| Nébulosité | 3 Légère | 4 légère |
+| (Reg. T. cour) | S. E | S. E |
+| Direction des nuages | " | " |
+| Pluie tombée | 27,7 | 28,0 |
+| Température de l'air | 16,0 | 17,7 |
+| Hauteur de la mer | 1 Faible | 2 |
+| Agitation de l'eau | 626,7 | 627,3 |
+| Densité au bord de la jetée | 19,6 | 19,3 |
+| Température de l'eau |  |  |

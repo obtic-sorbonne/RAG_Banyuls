@@ -1,0 +1,23 @@
+# Date: 17 Septembre 1900
+
+|   |  | Rocures |   |
+| --- | --- | --- | --- |
+|   |  | ghm. | 3h.s.  |
+| 1 |  |  |   |
+| 2 |  | 766,6 | 766,0  |
+| 3 | Direction du vent | N.E. | S.E.  |
+| 4 | Force | 1 | 1  |
+|   | Nébulosité | 2 | 5  |
+|   |  | 1 | 0  |
+|   | Direction des nuages : | N.O. | 0.0  |
+| 5 |  |  |   |
+|   |  |  | "  |
+|   |  |  | "  |
+|   |  |  | 85',0  |
+| 6 |  |  |   |
+| 7 | Température de l'air | 0,44 | 0,36  |
+| 8 | Agitation de l'eau |  | 1  |
+|   |  | 1085,6 | 1085,4  |
+| 9 |  |  | 1085,4  |
+
+Observ. - Bummes le matin, que dirigen vers la nuit le souffle venant du N. Peu de nuages vers le S. Entrée d'une brise légère du N. Plus tard, vent du S. avec des nuages.

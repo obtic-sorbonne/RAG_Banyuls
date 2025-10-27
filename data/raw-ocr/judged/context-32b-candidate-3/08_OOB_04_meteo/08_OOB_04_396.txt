@@ -1,0 +1,29 @@
+```plaintext
+|  9. 9 Juillet - 1904 | Obatin | Soir  |
+| --- | --- | --- |
+|  Hauteur Barométrique | 766,5 | 766,5  |
+|  Direction du vent | 1,8 | 1,8  |
+|  Force | 3 | 3  |
+|  Nébulosité | (Reg. O. (Terre)) | 10  |
+|  (Reg. O. (Mer)) | 10 | 10  |
+|  Direction des nuages |  | 10  |
+|  Pluie tombée |  | 10  |
+|  Température de l'air | 27,5 | 34,5  |
+|  Hauteur de la mer | 15,6 | 44,7  |
+|  Égitation de l'eau | 17,6 | 1,2  |
+|  Densité au bout de la jetée | 1026,0 | 1031,7  |
+|  Température de l'eau | 36,8 | 38,5  |
+|  9. 10 Juillet - 1904 | Obatin | Soir  |
+|  Hauteur Barométrique | 767,2 |   |
+|  Direction du vent | 1,8 |   |
+|  Force | 3 |   |
+|  Nébulosité | (Reg. O. (Terre)) |   |
+|  (Reg. O. (Mer)) |   |   |
+|  Direction des nuages |  |   |
+|  Pluie tombée |  |   |
+|  Température de l'air | 28,5 |   |
+|  Hauteur de la mer | 14,8 |   |
+|  Égitation de l'eau | 17,6 |   |
+|  Densité au bout de la jetée | 1026,0 |   |
+|  Température de l'eau | 36,1 |   |
+```

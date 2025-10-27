@@ -1,0 +1,55 @@
+```plaintext
+| **OBSERVATIONS DU 1901 11 Octobre** |
+| --- |
+| **Nombre de bateaux sortis (pêche à l.)** | 29.2 |
+| **Température de l'air** |  |
+| - maxima depuis la veille | 23.7 |
+| - minima id. | 13.8 |
+| **Température de l'eau** |  |
+| - maxima depuis la veille |  |
+| - minima id. |  |
+| **Pluie tombée depuis la veille, en millim.** |  |
+| **Evaporation depuis le 1900, en millim.** |  |
+| **Direction du vent (à terre)** | à 9 h. m. | à 3 h. s. |
+| - **Force** | 1 (faible) | 1 (faible) |
+| - **Direction** | S.S.O. | S.S.O. |
+| **Direction des nuages** | S.S.O. | S.S.O. |
+| **Nébulosité** |  |
+| - **région Ouest (terre)** | 10 | 10 |
+| - id. **Est (mer)** | 10 | 10 |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.)** | 92.7 | 40.9 |
+| **Agitation de l'eau** | 2 (faible) | 3 (faible) |
+| **Densité de l'eau au bout de la jetée (Kg/cm³)** | 1028.5 | 1027.6 |
+| **Température id.** | 18.2 | 18.9 |
+| - **Matin** | **maxima** 37.2 | **maxima** 36.8 |
+|  | **minima** 11.9 | **minima** 19.4 |
+| - **Soir** | **maxima** | **maxima** |
+|  | **minima** | **minima** |
+
+| **OBSERVATIONS DU 1901 12 Octobre** |
+| --- |
+| **Nombre de bateaux sortis (pêche à l.)** | 20.2 |
+| **Température de l'air** |  |
+| - maxima depuis la veille | 19.2 |
+| - minima id. | 9.9 |
+| **Température de l'eau** |  |
+| - maxima depuis la veille |  |
+| - minima id. |  |
+| **Pluie tombée depuis la veille, en millim.** |  |
+| **Evaporation depuis le 1900, en millim.** |  |
+| **Direction du vent (à terre)** | à 9 h. m. | à 3 h. s. |
+| - **Force** | 1 (faible) | 1 (faible) |
+| - **Direction** | S.S.O. | S.S.O. |
+| **Direction des nuages** | S.S.O. | S.S.O. |
+| **Nébulosité** |  |
+| - **région Ouest (terre)** | 10 | 10 |
+| - id. **Est (mer)** | 10 | 10 |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.)** | 24.0 | 30.7 |
+| **Agitation de l'eau** | 1 (faible) | 1 (faible) |
+| **Densité de l'eau au bout de la jetée (Kg/cm³)** | 1027.5 | 1027.6 |
+| **Température id.** | 18.3 | 18.2 |
+| - **Matin** | **maxima** 36.8 | **maxima** 35.7 |
+|  | **minima** 13.3 | **minima** 18.6 |
+| - **Soir** | **maxima** | **maxima** |
+|  | **minima** | **minima** |
+```

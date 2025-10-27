@@ -1,0 +1,50 @@
+| **Observations du 1901-01-26** |  |  |
+|---|---|---|
+| Nombre de bateaux sortis (pêche à l…) |  | **9** |
+| - Température de l’air |  |  |
+|   - maxima depuis la veille |  | **9,2** |
+|   - minima id. |  | **1,0** |
+| - Température de l’eau |  |  |
+|   - maxima depuis la veille |  |  |
+|   - minima id. |  |  |
+| - Pluie tombée depuis la veille, en millim |  | **0** |
+| - Évaporation depuis le 190…, en millim |  |  |
+| **Direction du vent (à terre)** | **à 9 h.m.** | **à 3 h.s.** |
+| - Force | **1** |  |
+| - Direction des nuages | **N.E.** |  |
+| **Nébulosité** |  |  |
+|   - région Ouest (terre) | **0** |  |
+|   - id. Est (mer) | **1** |  |
+| - Hauteur de la mer, en centimètres, au-dessus du zéro (B.Q.) | **49.0** |  |
+| - Agitation de l’eau | **2 jol.** |  |
+| - Densité de l’eau au bout de la jetée | **1.259.2** |  |
+| - Température | **11.3** |  |
+
+| **Observations du 1901-01-27** |  |  |
+|---|---|---|
+| Nombre de bateaux sortis (pêche à l…) |  | **9** |
+| - Température de l’air |  |  |
+|   - maxima depuis la veille |  | **8,1** |
+|   - minima id. |  | **1,3** |
+| - Température de l’eau |  |  |
+|   - maxima depuis la veille |  |  |
+|   - minima id. |  |  |
+| - Pluie tombée depuis la veille, en millim |  | **0** |
+| - Évaporation depuis le 190…, en millim |  |  |
+| **Direction du vent (à terre)** | **à 9 h.m.** | **à 3 h.s.** |
+| - Force | **0** | **1 faibl** |
+| - Direction des nuages | **O.S.O.** | **Ouest** |
+| **Nébulosité** |  |  |
+|   - région Ouest (terre) | **10** | **10** |
+|   - id. Est (mer) | **10** | **10** |
+| - Hauteur de la mer, en centimètres, au-dessus du zéro (B.Q.) | **52.8** | **52.1** |
+| - Agitation de l’eau | **2 jol.** | **2 jol.** |
+| - Densité de l’eau au bout de la jetée | **1.258.6** | **1.259.2** |
+| - Température | **11.0** | **11.2** |
+
+| **Notes et remarques** |
+|---|
+| **Signature** ( Valeur de référence |  |
+| **Nom** |  |
+| **Signature** ( Valeur de référence |  |
+| **Nom** |  |

@@ -1,0 +1,49 @@
+2
+2.
+3
+Date - 10 Mar-1901
+5
+fauteur Barometrique
+Orrection du vent
+71
+force
+CpjeJ d.+.
+butosite 
+A
+8
+2
+10
+Reg-E- (mer)
+Direction des nages
+Pluie tombée
+Temperature de l'air
+fanteur de la mer
+Agitation de l'eau
+Densite de l' eau
+1 au Cout de la jetée
+2
+au Frarge
+Cempérature de l'eau
+4
+
+3
+DI Natin 3t Soin
+3.7
+Nor
+S Gort
+8
+Mrd
+5.575
+1
+173
+Boit
+2
+4
+bdegent C
+Noul
+15.4
+64,1
+1 fort 2 Gaible
+10284 1028.6
+14.2
+14,3

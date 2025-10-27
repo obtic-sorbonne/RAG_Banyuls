@@ -1,0 +1,17 @@
+# Date 6 Janvier 1902
+
+|   | 3M Moatin 3M Soir  |
+| --- | --- |
+|  Hauteur Prorométrique | 775.5  |
+|  Direction du vent | N.N.O  |
+|  Force | 5  |
+|  Rébulosité | 0  |
+|  Reg. E. (min) | 0  |
+|  Direction des nuages | N.N.O  |
+|  Taux tombée | "  |
+|  Température de l'air | 3.2  |
+|  Hauteur de la mer | 85.4  |
+|  Écartation de l'eau | 3  |
+|  Densité de l'eau | 1029.3  |
+|  Langue d'ange |   |
+|  Température de l'eau | 11.4  |

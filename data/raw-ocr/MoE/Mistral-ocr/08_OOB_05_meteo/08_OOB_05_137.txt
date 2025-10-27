@@ -1,0 +1,29 @@
+|  V. 8 (Wit. 1906 | Mbatin | Poir  |
+| --- | --- | --- |
+|  Jantier transintrique | 76f.9 |   |
+|  Dircition de rent | or. 8 |   |
+|  Poree | 1 |   |
+|  (Rag. o. (line) | 10 |   |
+|  (Reis. 2.cmer) | 10 |   |
+|  Dircition det. onage | 2.0 |   |
+|  Pluie trombe |  |   |
+|  (Compristine de l'air |  |   |
+|  Jantier de la mer | 16.0 |   |
+|  Agitation de l'eau | 1.40 |   |
+|  Densité au bout de la jetie | 1687.0 |   |
+|  (Compristine de l'eau | 23.3 |   |
+
+|  V. 9 (Wit. 1906 | Mbatin | Poir  |
+| --- | --- | --- |
+|  Jantier transintrique | 76f.7 | 764.6  |
+|  Dircition de rent | or. 0.0 | or. 0.0  |
+|  Poree | 2.7.7.0 | 3  |
+|  (Rag. o. (line) | 2 | 2  |
+|  (Reis. 2.cmer) | 1 | 0  |
+|  Dircition det. onage | or. 0.0 | or. 0.0  |
+|  Pluie trombe |  |   |
+|  (Compristine de l'air | 31.0 | 35.3  |
+|  Jantier de la mer | 46.9 | 17.3  |
+|  Agitation de l'eau | 2.40 | 2  |
+|  Densité au bout de la jetie | 1687.1 | 1687.0  |
+|  (Compristine de l'eau) | 22.6 | 23.3  |

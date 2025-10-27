@@ -1,0 +1,22 @@
+```
+Journal Météorologique du Navire "La Belle Poule"
+Période : 7 Avril 1906
+
+| Nombre de jours de bateaux | Date       | Matin | Soir  |
+|----------------------------|------------|-------|-------|
+| 4                          | 7 Avril 1906 |      |      |
+|                            | Hauteur Barométrique (mm) | - | - |
+|                            | Direction du vent | - | - |
+|                            | Force | - | - |
+|                            | Nébulosité (Reg. O. Terre) | - | - |
+|                            | Nébulosité (Reg. E. Mer) | - | - |
+|                            | Direction des nuages | - | - |
+|                            | Pluie tombée (mm) | - | - |
+|                            | Température de l'air (°C) | - | - |
+|                            | Hauteur de la mer (m) | - | - |
+|                            | Agitation de l'eau (code) | - | - |
+|                            | Densité au bout de la jetée (g/cm³) | - | - |
+|                            | Température de l'eau (°C) | - | - |
+
+Note Marginale : Aucune remarque particulière pour cette date.
+```

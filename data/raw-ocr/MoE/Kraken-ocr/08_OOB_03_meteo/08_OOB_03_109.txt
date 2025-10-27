@@ -1,0 +1,49 @@
+Dale-22 Janvier-1902
+Mo
+Fanleur Barometrique
+Direction du vent
+force  is
+3 "
+Nébulosite
+N 5
+mae
+171,2
+Cnest
+Reg-O. (terre) :
+Rey
+Direction des nuages
+Fluie omte
+5
+1e
+---
+Demperature de l'air
+6
+auleur de la mer
+Agitation de l'eau
+Densite de l'eau
+2
+"
+O
+11
+18
+7,6
+18,6
+RoX
+770.2
+55.E
+2
+"
+9
+21
+38
+1
+12,2
+6
+4,4
+1
+1F. fort : Sfort
+au bout de la jetie 10 28,8 1028,f
+Eau Farge
+Demperature de l'eau
+11,6
+125

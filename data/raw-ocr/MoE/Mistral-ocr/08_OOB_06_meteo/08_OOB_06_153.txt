@@ -1,0 +1,53 @@
+# OBSERVATIONS DU 1901 
+
+Nombre de bateaux sortis (pêche à la flaine). ..... 36
+Température de l'air $\left\{\begin{array}{l}\text { maxima depuis la veille. } \\ \text { minima id. }\end{array}\right.$
+$\qquad$
+$\qquad$
+$\qquad$
+Température de l'eau $\left\{\begin{array}{l}\text { maxima depuis la veille. } \\ \text { minima id. }\end{array}\right.$
+$\qquad$
+Pluie tombée depuis la veille, en millim.
+Evaporation depuis le $\qquad$ 190 , en millim. $\qquad$
+$\qquad$
+$\qquad$
+Direction du vent (à terre). $\qquad$ 1.18
+$\qquad$
+Force
+Direction des nuages. $\qquad$ 1.20
+$\qquad$
+Nébulosité $\left\{\begin{array}{l}\text { région Ouest (terre) } \\ \text { id. Est (mer) }\end{array}\right.$
+$\qquad$
+Hauteur de la mer, en centimètres, au-dessus du zéro. (12.40) $\qquad$
+Agitation de l'eau. $\qquad$
+$\qquad$
+Densité de l'eau au bout de la jetée. $\qquad$
+$\qquad$
+Température $\quad$ id. $\qquad$
+$\qquad$ 14,6
+$\qquad$
+- is- Balans $\qquad$ 156,3
+$\qquad$ 21,1
+
+## OBSERVATIONS DU 1901 11 Mai
+
+Nombre de bateaux sortis (pêche à la flaine). $\qquad$ 1.14
+Température de l'air $\left\{\begin{array}{l}\text { maxima depuis la veille. } \\ \text { minima id. }\end{array}\right.$
+$\qquad$
+Température de l'eau $\left\{\begin{array}{l}\text { maxima depuis la veille. } \\ \text { minima id. }\end{array}\right.$
+$\qquad$
+Pluie tombée depuis la veille, en millim.
+Evaporation depuis le 21 Mai 1901, en millim. $\qquad$ 12,10
+$\qquad$
+Direction du vent (à terre). $\qquad$ 1.18
+$\qquad$
+Force
+Direction des nuages. $\qquad$
+Nébulosité $\left\{\begin{array}{l}\text { région Ouest (terre) } \\ \text { id. Est (mer) }\end{array}\right.$
+$\qquad$
+Hauteur de la mer, en centimètres, au-dessus du zéro. (12.2) $\qquad$
+Agitation de l'eau. $\qquad$
+Densité de l'eau au bout de la jetée. $\qquad$
+Température id. $\qquad$ 14,6
+$\qquad$ 14,5
+$\qquad$ 28,0

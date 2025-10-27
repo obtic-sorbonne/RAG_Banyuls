@@ -1,0 +1,49 @@
+```plaintext
+| **OBSERVATIONS DU 1960 18 juillet** |
+| --- | --- |
+| **Nombre de bateaux sortis (pêche à l'ancre)** | 94 |
+| **Température de l'air** |  |
+| - maxima depuis la veille | 17,8 °C |
+| - minima id. | 14,8 °C |
+| **Température de l'eau** |  |
+| - maxima depuis la veille | - |
+| - minima id. | - |
+| **Pluie tombée depuis la veille, en millim.** | 11 mm |
+| **Évaporation depuis le 190, en millim.** | 11 mm |
+| **Direction du vent (à terre)** |  |  |
+| - à 9 h. m. | N.N.E. |
+| - à 3 h. s. | S.S.E. |
+| **Force** | 2 | 1 faible |
+| **Direction des nuages** | S.O. | S.O. |
+| **Nébulosité** |  |  |
+| - région Ouest (terre) | 10 | 10 |
+| - id. Est (mer) | 10 | 10 |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro** | 43,3 cm | 5,5 cm |
+| **Agitation de l'eau** | 1 | 1 |
+| **Densité de l'eau au bout de la jetée** | 1025,4 g/cm³ | 1025,4 g/cm³ |
+| **Température id.** | 50,8 °C | 50,8 °C |
+
+| **OBSERVATIONS DU 1960 1 août** |
+| --- | --- |
+| **Nombre de bateaux sortis (pêche à l'ancre)** | 80 |
+| **Température de l'air** |  |
+| - maxima depuis la veille | 58,7 °C |
+| - minima id. | 14,8 °C |
+| **Température de l'eau** |  |
+| - maxima depuis la veille | - |
+| - minima id. | - |
+| **Pluie tombée depuis la veille, en millim.** | 2,0 mm |
+| **Évaporation depuis le 6 juillet 1960, en millim.** | 118,6 mm |
+| **Direction du vent (à terre)** |  |  |
+| - à 9 h. m. | S.S.E. |
+| - à 3 h. s. | S.S.E. |
+| **Force** | 0 | 2 |
+| **Direction des nuages** | - | - |
+| **Nébulosité** |  |  |
+| - région Ouest (terre) | 0 | 0 |
+| - id. Est (mer) | 0 | 0 |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro** | 11 cm | 12,8 cm |
+| **Agitation de l'eau** | faible | 1 |
+| **Densité de l'eau au bout de la jetée** | 1026,5 g/cm³ | 1027,2 g/cm³ |
+| **Température id.** | 20,5 °C | 22,9 °C |
+```

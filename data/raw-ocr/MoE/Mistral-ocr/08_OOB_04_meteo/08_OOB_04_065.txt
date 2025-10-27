@@ -1,0 +1,29 @@
+# 26 février - 1902
+
+|  **Pfanteur** | **Neuron** | **Prix**  |
+| --- | --- | --- |
+|  Sélection du vent | 1/4, 4 | 1/2, 3  |
+|  Force | 15 | 1 faible  |
+|  Pédon |  | 1 fort  |
+|  Pédon |  | 0  |
+|  **Pfanteur des nuages** | **Onest** | **0**  |
+|  **Prix tombé** |  |   |
+|  Remplir de la mer | 13, 4 | 1/1, 1  |
+|  Régitation de l'eau | 31, 4 | 4, 0  |
+|  Pédon au bout de la jetée | 1028, 7 | 1, 2, 3, 9  |
+|  Remplir de l'eau | 11, 4 | 1, 3  |
+
+# 27 février - 1902
+
+|  **Pfanteur** | **Neuron** | **Prix**  |
+| --- | --- | --- |
+|  Sélection du vent | 1/2, 6 | 1/2, 2  |
+|  Force | 15 | 2 faible  |
+|  Pédon |  | 10  |
+|  Pédon |  | 10  |
+|  **Pfanteur des nuages** | **Onest** | **Onest**  |
+|  **Prix tombé** |  |   |
+|  Remplir de la mer | 11, 9 | 1/4, 4  |
+|  Régulation de l'eau | 38, 4 | 3/1, 3  |
+|  Pédon au bout de la jetée | 1028, 0 | 1, 2, 3, 7  |
+|  Remplir de l'eau | 10, 7 | 1, 0  |

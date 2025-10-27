@@ -1,0 +1,15 @@
+```markdown
+# 12 SEPTEMBRE 1907
+
+| **Date** | **Heure** | **Hauteur Barométrique (mmHg)** | **Direction du Vent** | **Force du Vent** | **Nébulosité (Reg. C. claire)** | **Direction des nuages** | **Pluie tombée (mm)** | **Température de l'air (°C)** | **Hauteur de la mer (cm)** | **Agitation de l'eau** | **Densité au bout de la jetée (g/cm³)** | **Température de l'eau (°C)** |
+|----------|-----------|---------------------------|-------------------|---------------|---------------------------------|-------------------|--------------------|---------------------|-------------------|-----------------|---------------------------|-----------------------|
+| 12 Septembre 1907 | Matin | 769.9 | Est | Fort | 10 | West | —— | 26.2 | 44.8 | 1 (faible) | 1027.9 | 22.9 |
+| 12 Septembre 1907 | Soir | 768.0 | Sud-Ouest | 2 | 10 | quelques g | —— | 26.0 | 26.1 | Fort | 1027.3 | 22.3 |
+
+# 13 SEPTEMBRE 1907
+
+| **Date** | **Heure** | **Hauteur Barométrique (mmHg)** | **Direction du Vent** | **Force du Vent** | **Nébulosité (Reg. C. claire)** | **Direction des nuages** | **Pluie tombée (mm)** | **Température de l'air (°C)** | **Hauteur de la mer (cm)** | **Agitation de l'eau** | **Densité au bout de la jetée (g/cm³)** | **Température de l'eau (°C)** |
+|----------|-----------|---------------------------|-------------------|---------------|---------------------------------|-------------------|--------------------|---------------------|-------------------|-----------------|---------------------------|-----------------------|
+| 13 Septembre 1907 | Matin | 769.9 | Est | Fort | 10 | Est-Sud-Est | 9.0 | 21.2 | 1.0 | 1 (faible) | 1027.4 | 22.2 |
+| 13 Septembre 1907 | Soir | 768.2 | Sud-Ouest | 1 | 10 | Sud-Ouest | quelques g | 21.0 | 21.2 | Fort | 1027.4 | 22.0 |
+```

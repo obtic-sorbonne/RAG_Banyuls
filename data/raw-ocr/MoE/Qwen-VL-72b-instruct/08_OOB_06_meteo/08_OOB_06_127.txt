@@ -1,0 +1,43 @@
+### Observations du 6 Mars 19**
+
+| **Observations** | **Nombre de bateaux sortis** | **Température de l'air** | **Température de l'eau** | **Pluie tombée depuis la veille** | **Evaporation depuis le 190 en millim** |
+|------------------|-----------------------------|--------------------|-------------------------|--------------------------------------|----------------------------------------|
+|                  |                             | maxima depuis la veille | maxima depuis la veille | en millim                            |                                      |
+|                  |                             | minima id.        | minima id.              |                                      |                                      |
+|                  | 14 (pêche à l)              | 11,6              |                         |                                      |                                      |
+|                  |                             | 7,3               |                         |                                      |                                      |
+
+| **Paramètres**            | **à 9 h. m.** | **à 3 h. s.** |
+|---------------------------|--------------|--------------|
+| Direction du vent (à terre) | N.O.         | #.N.         |
+| Force                    | 4            |              |
+| Direction des nuages      | N.O.         |              |
+| Nébulosité région Ouest (terre) | 10           |              |
+| id. Est (mer)           | 10           |              |
+| Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.) | 44,2         |              |
+| Agitation de l'eau       | 2            |              |
+| Densité de l'eau au bout de la jetée | 1,029./1 |              |
+| Température id.         | 10,/7        |              |
+
+---
+
+### Observations du 7 Mars 19**
+
+| **Observations** | **Nombre de bateaux sortis** | **Température de l'air** | **Température de l'eau** | **Pluie tombée depuis la veille** | **Evaporation depuis le 190 en millim** |
+|------------------|-----------------------------|--------------------|-------------------------|--------------------------------------|----------------------------------------|
+|                  |                             | maxima depuis la veille | maxima depuis la veille | en millim                            |                                      |
+|                  |                             | minima id.        | minima id.              |                                      |                                      |
+|                  | 14 (pêche à l)              | 12,3              |                         |                                      |                                      |
+|                  |                             | 6,7               |                         |                                      |                                      |
+
+| **Paramètres**            | **à 9 h. m.** | **à 3 h. s.** |
+|---------------------------|--------------|--------------|
+| Direction du vent (à terre) | N.O.         |              |
+| Force                    | 3            |              |
+| Direction des nuages      | N.O.         |              |
+| Nébulosité région Ouest (terre) | 10           |              |
+| id. Est (mer)           | 10           |              |
+| Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.) | 43,0         |              |
+| Agitation de l'eau       | 1\quadj.d    |              |
+| Densité de l'eau au bout de la jetée | 1,029.4     |              |
+| Température id.         | 10,/7        |              |

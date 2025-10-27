@@ -1,0 +1,19 @@
+# Date: 25 Avril 1902
+
+| **Paramètre** | **9h Matin** | **3h Soir** |
+|---------------|--------------|-------------|
+| **Hauteur Barométrique (mm)** | 762,4 | 762,4 |
+| **Direction du vent** | S.S.E. | S.S.E. |
+| **Force du vent (Beaufort)** | 2 | 2 |
+| **Nébulosité** | | |
+| **- Reg. 6 (claire)** | 10 (dég.) | 10 (dég.) |
+| **- Reg. E. (mer)** | 10 (dég.) | 10 (dég.) |
+| **Direction des nuages** | S. | S. |
+| **Pluie tombée** | quelques g. | - |
+| **Température de l'air (°C)** | 16,0 | 16,0 |
+| **Hauteur de la mer (m)** | 43,2 | 43,2 |
+| **Agitation de l'eau** | forte | forte |
+| **Densité de l'eau** | - | - |
+| **- au bout de la jetée** | 1026,7 | 1026,7 |
+| **- au large** | 1027,0 | 1027,0 |
+| **Température de l'eau (°C)** | 14,0 | 14,0 |

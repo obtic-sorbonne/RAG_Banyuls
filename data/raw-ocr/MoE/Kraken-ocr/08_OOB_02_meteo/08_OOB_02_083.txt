@@ -1,0 +1,57 @@
+2
+Doâte - 1^er Juin 1901
+fauteur Barometrique
+Direction su vent
+Fonr e -
+Gpf.
+C 8D M
+Reg.
+5
+Rebutosite
+De
+R
+8
+2
+Temperature de l'air
+fanteuve de la mer
+lgitation de l'eau
+eau bout de la fetíe
+Densite de l'eau
+D
+tau Narge
+Cemperature de l'eau
+"
+3
+(Reg-X- (Mer)
+Dire tion des nuages
+Pluie tombée
+".
+
+D
+1
+S^t Matin 3^t Soir
+164. 3
+19
+e
+10
+80
+Vd
+oV
+20.4
+46.E
+1 Jaible
+762.2
+Set
+7
+o
+V Lége^n donre
+Seuil
+23,0
+5&
+"Gaible
+1027.4 1026,7
+10,2
+3
+7
+27
+8

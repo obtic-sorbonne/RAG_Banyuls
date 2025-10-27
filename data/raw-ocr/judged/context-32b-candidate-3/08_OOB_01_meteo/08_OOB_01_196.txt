@@ -1,0 +1,19 @@
+# Date. 7 Février. 1901
+
+|  | 9" matin | 3" soir  |
+| --- | --- | --- |
+| **Hauteur Barométrique** | 762,2 | 763,2  |
+| **Direction du vent** | Ouest | Ouest  |
+| **Force** | 5 | 3, faible  |
+| **Nébulosité** | 3 | 10  |
+| **Rég. E. (terre)** | 7 | 7  |
+| **Rég. E. (mer)** | 7 | 7  |
+| **Direction des nuages** | Ouest | Ouest  |
+| **Pluie tombée** | 0 | 0  |
+| **Température de l'air** | 4,9 | 4,4  |
+| **Hauteur de la mer** | 34,9 | 5,0  |
+| **Agitation de l'eau** | 3, faible | 4  |
+| **Densité de l'eau** | 1028,5 | 1028,5  |
+| **au bout de la jetée** | 1028,5 | 1028,5  |
+| **au large** | 1028,5 | 1028,5  |
+| **Température de l'eau** | 11,3 | 11,3  |

@@ -1,0 +1,17 @@
+# Date: 8 Février 1902
+
+|   | 2nd Mardi | 3rd Soir  |
+| --- | --- | --- |
+| Hauteur Barométrique | 768,3 | 768,3  |
+| Direction du vent | 3/4.0 | 3/4.0  |
+| Force | 3 fort | 3 fort  |
+| Nébulosité { Reg. C. (terre) } | 10 | 10  |
+| Nébulosité { Reg. E. (mer) } | 10 | 10  |
+| Direction des nuages | 3/4.0 | 3/4.0  |
+| Pluie tombée | 11,3 | 11,3  |
+| Température de l'air | 13,2 | 13,2  |
+| Hauteur de la mer | 44,8 | 44,8  |
+| Agitation de l'eau | 3 fort | 3 fort  |
+| Densité de l'eau { au bout de la jetée } | 1028,9 | 1028,9  |
+| Densité de l'eau { au large } | 1028,9 | 1028,9  |
+| Température de l'eau | 11,7 | 11,7  |

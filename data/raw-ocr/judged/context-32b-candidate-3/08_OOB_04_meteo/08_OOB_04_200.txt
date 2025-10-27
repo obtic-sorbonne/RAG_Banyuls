@@ -1,0 +1,33 @@
+```
+# V. 13 016 avr. 1903
+
+|  Hantum | Praxometrique | 202,3 | 200,4  |
+| --- | --- | --- | --- |
+|  Direction du vent |  | or. 3 | 22,3  |
+|  Force |  | 1 | 2  |
+|  Nébulosité | (Reg. O. (terre)) | 0 | 1  |
+|   | (Reg. E. (mur)) | 0 | 0  |
+|  Direction des nuages |  |  | 22,3  |
+|  Pluie tombée |  |  |   |
+|  Température de l'air |  | 9,0 | 17,0  |
+|  Hauteur de la mer |  | 49,2 | 55,2  |
+|  Agitation de l'eau |  | /fort | 1  |
+|  Densité au bout de la jetée |  | 1029,2 | 1028,1  |
+|  Température de l'eau |  | 12,0 | 12,5  |
+
+# V. 17 016 avr. 1903
+
+|  Hantum | Praxometrique | 2/2,1  |
+| --- | --- | --- |
+|  Direction du vent |  | 3, or. 3  |
+|  Force |  | 1, fort  |
+|  Nébulosité | (Reg. O. (terre)) | 10  |
+|   | (Reg. E. (mur)) | 10  |
+|  Direction des nuages |  | or. 8  |
+|  Pluie tombée |  | 10,14  |
+|  Température de l'air |  | 10,0  |
+|  Hauteur de la mer |  |   |
+|  Agitation de l'eau |  | /  |
+|  Densité au bout de la jetée |  | /  |
+|  Température de l'eau |  |   |
+```

@@ -1,0 +1,20 @@
+| Date         | Heure    | Hauteur Barométrique | Direction du Vent | Force | Météorologie | Élément | Matin | Soir |
+|--------------|----------|----------------------|-------------------|-------|------------|---------|------|------|
+| V. A février 1902 | Matin | 761,6               | cr. or. o         | 15    | Reg. 6. (terre) | Pluie tombée | quelques g | 10 légère |
+|              | Soir    | 799,6               | cr. or. o         |  /    | Reg. 6.                    |                          |
+|              |         |                     |                   |       | Reg. E. (mer)              | 10               | 10 légère |
+|              |         |                     |                   |       | Direction des nuages       | cr. or. o       | cr. or. o |
+|              |         |                     |                   |       | Température de l'air       | 7.9              | 7.7     |
+|              |         |                     |                   |       | Hauteur de la mer          | 46,2             | 48.3    |
+|              |         |                     |                   |       | Agitation de l'eau         | 17 fort          | 17 fort  |
+|              |         |                     |                   |       | Densité au bout du jeté     | 1028,3           | 1029.4  |
+|              |         |                     |                   |       | Température de l'eau       | 11.7             | 12.0    |
+|--------------|----------|----------------------|-------------------|-------|------------|---------|------|------|
+| V. P février 1902 | Matin | 760.6              | S.S.E             | 15    | Reg. 6. (terre) | Pluie tombée | " "         | 10       |
+|              | Soir    |                      |                   |       | Reg. E. (mer)              |                     |          |
+|              |         |                     |                   |       | Direction des nuages       | S.S.E           |          |
+|              |         |                     |                   |       | Température de l'air       | 8.2              |          |
+|              |         |                     |                   |       | Hauteur de la mer          | 41,7             |          |
+|              |         |                     |                   |       | Agitation de l'eau         | 3                |          |
+|              |         |                     |                   |       | Densité au bout de la jeté  | 1029.4           |          |
+|              |         |                     |                   |       | Température de l'eau       | 11.8             |          |

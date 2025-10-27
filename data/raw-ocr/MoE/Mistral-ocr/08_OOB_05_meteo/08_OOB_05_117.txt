@@ -1,0 +1,27 @@
+|  V. 8 Juin - 1906 | Mbaatin, Jais  |
+| --- | --- |
+|  Jauteur Miarométrique | 260°  |
+|  Direction du vent | 170°  |
+|  Force | 1,700  |
+|  Nébulonte | 10,000  |
+|  Rég. 2 (mer) | 10,000  |
+|  Direction des nuages | 21.8  |
+|  Pinc trombé | 21.8  |
+|  Température de l'air | 21.8  |
+|  Jauteur de la mer | 2,260  |
+|  Régulation de l'eau | 2,260  |
+|  Densité au bout de la jetée | 18.7  |
+|  Température de l'eau | 18.7  |
+|  V. 9 Juin - 1906 | Mbaatin, Jais  |
+|  Jauteur Miarométrique | 260°  |
+|  Direction du vent | 260°  |
+|  Force | 1,700  |
+|  Nébulonte | 10,000  |
+|  Rég. 2 (mer) | 10,000  |
+|  Direction des nuages | 21.8  |
+|  Pinc trombé | 21.8  |
+|  Température de l'air | 21.8  |
+|  Jauteur de la mer | 2,260  |
+|  Régulation de l'eau | 2,260  |
+|  Densité au bout de la jetée | 18.7  |
+|  Température de l'eau | 21.8  |

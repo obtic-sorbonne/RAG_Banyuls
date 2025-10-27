@@ -1,0 +1,16 @@
+# Date: 27 Juin. 1901
+
+|   | 9e Station | 3e Soir  |
+| --- | --- | --- |
+|  Hauteur Barométrique | 757,8 | 764,3  |
+|  Direction Su vent | 3.3.5 | Sud  |
+|  Force | 1 fort | 3 fort  |
+|  Reg. O. (terre) | 0 | 0  |
+|  Ébulosité |  |   |
+|  Direction des nuages | 0 | 0  |
+|  Enne tombée | " | "  |
+|  Température de l'air | 33,9 | 34,7  |
+|  Hauteur de la mer | 61,4 | 49,6  |
+|  Égitation de l'eau | 0 | 1 fort  |
+|  Densité de l'eau | 1037,1 | 1036,7  |
+|  Comprendre de l'eau | 30,8 | 33,4  |

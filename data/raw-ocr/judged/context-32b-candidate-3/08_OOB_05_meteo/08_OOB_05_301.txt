@@ -1,0 +1,17 @@
+```markdown
+# 28 SEPTEMBRE 1907
+
+| **Date** | **Heure** | **Pression barométrique (mmHg)** | **Direction du vent** | **Force du vent** | **Nébulosité (octaux)** | **Direction des nuages** | **Précipitation (mm)** | **Température de l'air (°C)** | **Hauteur de la mer (m)** | **Agitation de l'eau** | **Densité au bout de la jetée (g/cm³)** | **Température de l'eau (°C)** |
+|----------|-----------|----------------------------------|----------------------|-------------------|-------------------------|-------------------------|------------------------|-----------------------------|------------------------|-----------------------|--------------------------------------|-------------------------|
+| 28 Septembre 1907 | Matin | 798.4 | S.O. | 0 | 10 | S. 2 | quelques | 22.0 | 21.6 | 3 faible | 1023.6 | 20.7 |
+| 28 Septembre 1907 | Soir | 798.0 | S.O. | 1 | 10 | S. 2 | —— | 23.4 | 20.6 | 3 faible | 1023.4 | 20.7 |
+| 30 Septembre 1907 | Matin | 797.4 | S.S.E. | 1 | 9 | S.S.E. | 47.7 | 19.0 | 29.3 | 3 faible | 1028.0 | 21.8 |
+| 30 Septembre 1907 | Soir | 798.3 | croissant | 2 | 10 | croissant | —— | —— | —— | 3 faible | —— | —— |
+
+# 30 SEPTEMBRE 1907
+
+| **Date** | **Heure** | **Pression barométrique (mmHg)** | **Direction du vent** | **Force du vent** | **Nébulosité (octaux)** | **Direction des nuages** | **Précipitation (mm)** | **Température de l'air (°C)** | **Hauteur de la mer (m)** | **Agitation de l'eau** | **Densité au bout de la jetée (g/cm³)** | **Température de l'eau (°C)** |
+|----------|-----------|----------------------------------|----------------------|-------------------|-------------------------|-------------------------|------------------------|-----------------------------|------------------------|-----------------------|--------------------------------------|-------------------------|
+| 30 Septembre 1907 | Matin | 797.4 | S.S.E. | 1 | 9 | S.S.E. | 47.7 | 19.0 | 29.3 | 3 faible | 1028.0 | 21.8 |
+| 30 Septembre 1907 | Soir | 798.3 | croissant | 2 | 10 | croissant | —— | —— | —— | 3 faible | —— | —— |
+```

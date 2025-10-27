@@ -1,0 +1,30 @@
+|  V. 18 9thai. 1903 | 9thatin | Soir  |
+| --- | --- | --- |
+|  Hauteur ｱarométrique | 2/8.2 |   |
+|  Direction du vent | or. or. 0 |   |
+|  Force | 1 font |   |
+|  96ébutointe (Reg. O. (terre) | 10 |   |
+|  10 |  |   |
+|  Direction des mages | or. or. 0 |   |
+|  9hui tombe | gindyine. 9 | 1.121  |
+|  9semperature de l'air | 11.9 |   |
+|  Hauteur de la mer | 43.2 |   |
+|  17. 9aids |  |   |
+|  17. 9aids |  |   |
+|  Densité au bout de la jeté | 1022.0 |   |
+|  14.6 |  |   |
+
+|  V. 13 9thai. 1903 | 9thatin | Soir  |
+| --- | --- | --- |
+|  Hauteur ｱarométrique | 260.2 | 262.2  |
+|  Direction du vent | or. 0 | or. or. 0  |
+|  Force | 3 | 2  |
+|  96ébutointe (Reg. O. (terre) | 10 | 10  |
+|  10 |  |   |
+|  9ébutointe (Reg. O. (mer) | 10 | 10  |
+|  Direction des mages | or. 0 | or. or. 0  |
+|  9hui tombe | 11.4 | 13.0  |
+|  17. 4 | 14.3 |   |
+|  17. 4 | 14.3 |   |
+|  Densité au bout de la jeté | 1025.0 | 1025.0  |
+|  14.8 | 11.8 |   |

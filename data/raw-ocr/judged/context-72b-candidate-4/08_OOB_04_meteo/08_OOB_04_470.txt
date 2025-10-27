@@ -1,0 +1,10 @@
+```plaintext
+S'inscrire sur le registre, à la suite des observations météorologiques, la mention :
+
+Pêche à la traîne du (date de la veille).
+Nombre de paires de bateaux ......
+Quantité de poisson pêché ......
+
+Il faut que tous les matins le patron en venant au laboratoire apporte ces renseignements et qu'ils soient transcrits sans faute sur le registre.
+On fera en temps voulu, la même chose pour la sardine et l'anchois.
+```

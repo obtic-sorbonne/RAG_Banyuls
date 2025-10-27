@@ -1,0 +1,18 @@
+# Date & Juin 1901
+
+|  **Nom** | **Nom des 2e et 3e mois** | **Date**  |
+| --- | --- | --- |
+|  **9e Station** | 9e Station | 3e Soir  |
+|  **Hauteur** | 765.5 | 763.6  |
+|  **Direction du vent** | 1000m | 360  |
+|  **Force** | 17.600l | 360  |
+|  **Tébulosité** | Reg. 6 (1re) | 10 kg/m² C  |
+|  **Débulosité** | Reg. 2 (1re) | 10 kg/m² C  |
+|  **Direction des nuages** | 10 kg/m² C | 10 kg/m² C  |
+|  **Unie tombée** | 11 | 11  |
+|  **Démperature de l'air** | 24.7 | 29.5  |
+|  **Hauteur de la mer** | 50.3 | 58.9  |
+|  **Agitation de l'eau** | 0 | 17.600l  |
+|  **Densité de l'eau** | 1025.0 | 1024.9  |
+|  **Densité de l'eau** | 1024.9 | 1024.9  |
+|  **Démperature de l'eau** | 23.4 | 26.1  |

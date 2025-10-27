@@ -1,0 +1,18 @@
+# Date. 9 M Décembre. 1901
+
+|  |   |   |
+| --- | --- | --- |
+|  Kauteur Barometrique | 9" Stéalin | 3" Soir  |
+|  Direction Su vent | 767.6 | 765.2  |
+|  Force | ouest | ouest  |
+|  15 | 1 faible | 1  |
+|  Reg. o. (Terre) | 10 "égale" | 10 "égale"  |
+|  Nebulosite { Reg. E. (mer) | 10 "égale" | 10 "égale"  |
+|  Direction des nuages | " | ouest  |
+|  Unie tombee | " | "  |
+|  Température de l'air | 8.3 | 13.7  |
+|  Kauteur de la mer | 12.6 | 57.7  |
+|  Agitation de l'eau | 17.9 | 1  |
+|  Sensite de l'eau { au bout de la jetée | 1023.1 | 1023.1  |
+|  Sensite de l'eau { au 3'arge |  |   |
+|  Température de l'eau | 13.5 | 13.7  |

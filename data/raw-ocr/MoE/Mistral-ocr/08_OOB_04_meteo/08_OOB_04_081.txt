@@ -1,0 +1,34 @@
+# V. 12 Avril. 1902
+
+|  Nom | Date | Type | P.  |
+| --- | --- | --- | --- |
+|  Hauteur |  | Paramefrique | 2/1.1  |
+|  Direction |  | du vent | 1/1.0  |
+|  Force |  |  | 1/1.8  |
+|   |  |  | 1/2.8  |
+|  Pédouloiste |  | Reg. O. (time) | 10  |
+|   |  | Reg. E. (mor) | 10  |
+|  Direction |  | des nuages | 1.18  |
+|  Flue |  | tombe | 9.0  |
+|  Température |  | de l'air | 14.6  |
+|  Hauteur |  | de la mer | 24.9  |
+|  Législation |  | de l'eau | 3  |
+|  Densité |  | au bout de la jeté | 108.6  |
+|  Température |  | de l'eau | 13.2  |
+
+# V. 13 Avril. 1902
+
+|  Nom | Date | Type | P.  |
+| --- | --- | --- | --- |
+|  Hauteur |  | Paramefrique | 2/8.4  |
+|  Direction |  | du vent | or.or.0  |
+|  Force |  |  | 2/2.0  |
+|   |  | Reg. O. (time) | 0  |
+|  Pédouloiste |  | Reg. E. (mor) | 3  |
+|  Direction |  | des nuages | or.or.0  |
+|  Flue |  | tombe | goulgues.g  |
+|  Température |  | de l'air | 1.4  |
+|  Hauteur |  | de la mer | 33.2  |
+|  Législation |  | de l'eau | 2/2.0  |
+|  Densité |  | au bout de la jeté | 108.6  |
+|  Température |  | de l'eau | 14.0  |

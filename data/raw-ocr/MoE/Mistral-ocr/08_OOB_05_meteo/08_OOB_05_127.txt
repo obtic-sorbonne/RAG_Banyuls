@@ -1,0 +1,33 @@
+# 9. 9 Juillet - 1906
+
+|  **Position** | **Nom** | **Prix**  |
+| --- | --- | --- |
+|  Hauteur Narrowitéique |  | 767,8  |
+|  Direction du Vent |  | or. 0  |
+|  Force |  | 3 forts  |
+|  Hébulonité | (Reg. 0. (en) | 7  |
+|  Rég. 0. (en) |  | or. 8  |
+|  Direction des rungs |  | 31,1  |
+|  Pluie tombée |  | 61,7  |
+|  Température de l'air |  | 1 fort  |
+|  Hauteur de la mer |  | 122,1  |
+|  Débitation de l'eau |  | 22,2  |
+|  Densité au bout de la jetée |  | 22,2  |
+|  Température de l'eau |  | 22,2  |
+
+# 10 Juillet - 1906
+
+|  **Position** | **Nom** | **Prix**  |
+| --- | --- | --- |
+|  Hauteur Narrowitéique |  | 766,8  |
+|  Direction du Vent |  | or. 0  |
+|  Force |  | 3 brins  |
+|  Hébulonité | (Reg. 0. (en) | 0  |
+|  Rég. 0. (en) |  | or. 0  |
+|  Direction des rungs |  | 31,6  |
+|  Pluie tombée |  | 60,8  |
+|  Température de l'air |  | 1626,5  |
+|  Hauteur de la mer |  | 25,3  |
+|  Débitation de l'eau |  | 25,3  |
+|  Densité au bout de la jetée |  | 1  |
+|  Température de l'eau |  | 25,3  |

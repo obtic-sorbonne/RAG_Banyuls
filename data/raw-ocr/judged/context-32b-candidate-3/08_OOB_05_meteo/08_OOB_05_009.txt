@@ -1,0 +1,29 @@
+```
+| Date | Matin | Soir |
+|------|-------|------|
+| **9 juillet 1905** |   |    |
+| Hauteur Barométrique | 764.3 | 768.6 |
+| Direction du vent | or.cr.0 | S.8 |
+| Force | 5 | - |
+| Nébulosité (Reg. o. (clair)) | 0 | 10 |
+| Direction des nuages | - | - |
+| Pluie tombée | - | - |
+| Température de l'air | 24.6 | 29.6 |
+| Hauteur de la mer | 42.6 | 93.9 |
+| Agitation de l'eau | 2 | fort |
+| Densité au bout de la jetée | 1026.3 | 1029.7 |
+| Température de l'eau | 22.6 | 23.6 |
+
+| **10 juillet 1905** |   |    |
+| Hauteur Barométrique | - | 768.6 |
+| Direction du vent | cr.6 | - |
+| Force | 5 | fort / léger |
+| Nébulosité (Reg. o. (clair) Reg. lii. (nuageux)) | - | 2 légères |
+| Direction des nuages | - | 1.0 |
+| Pluie tombée | - | - |
+| Température de l'air | - | 30.6 |
+| Hauteur de la mer | - | 10.7 |
+| Agitation de l'eau | - | 2 forts |
+| Densité au bout de la jetée | - | 1021.9 |
+| Température de l'eau | - | 23.7 |
+```

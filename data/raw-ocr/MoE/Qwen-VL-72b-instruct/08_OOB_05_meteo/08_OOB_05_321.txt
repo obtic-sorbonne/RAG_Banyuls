@@ -1,0 +1,29 @@
+| V. 22 Novembre - 1907 | Matin | Soir |
+|---|---|---|
+| Hauteur barométrique | 760.7 | 764.3 |
+| Direction du vent | cr. o | cr. cr. s |
+| Force | 3 | 3 |
+| Nebulosité | 0 | 2 |
+| Reg. C. (terr.) | 8 | 1 |
+| Direction des nuages | cr. o | eras |
+| Pluie tombée | " | " |
+| Température de l'air | 9.2 | 11.6 |
+| Hauteur de la mer | 23.6 | 41.2 |
+| Agitation de l'eau | 3 | 8fort |
+| Densité au bord de la jetée | 1027.3 | 1027.2 |
+| Température de l'eau | 16.8 | 17.9 |
+
+| V. 23 Novembre - 1907 | Matin | Soir |
+|---|---|---|
+| Hauteur barométrique | 762.8 |  |
+| Direction du vent | " |  |
+| Force | 3 | 3 |
+| Nebulosité | 60 |  |
+| Reg. C. (terr.) | 10 |  |
+| Direction des nuages | " |  |
+| Pluie tombée | " |  |
+| Température de l'air | 9.2 |  |
+| Hauteur de la mer | 23.3 |  |
+| Agitation de l'eau | 1fort |  |
+| Densité au bord de la jetée | 1027.6 |  |
+| Température de l'eau | 16.9 |  |

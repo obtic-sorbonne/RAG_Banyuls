@@ -1,0 +1,29 @@
+| V. 13 Octobre .1907 | Matin | Soir |
+|---------------------|-------|------|
+| Hauteur Barométrique | 767,3 | 709,8 |
+| Direction du Vent | Est | Est |
+| Force | 2 fort | 3 faible |
+| Nébulosité | Reg. 6. (terre) | 10 | 10 |
+| Reg. 2. (cour) | 10 | 10 |
+| Direction des nuages | Sud | Est |
+| Pluie tombée | 9,12/9 | " |
+| Température de l'air | 20,3 | 21,0 |
+| Hauteur de la mer | 5 | 5 |
+| Agitation de l'eau | 3 | 4 |
+| Humidité au bord de la jetée | 3 | 3 |
+| Température de l'eau | 3 | 3 |
+
+| V. 14 Octobre .1907 | Matin | Soir |
+|---------------------|-------|------|
+| Hauteur Barométrique | 778,7 | 799,6 |
+| Direction du Vent | 11 | S.O |
+| Force | 0 | 1 fort |
+| Nébulosité | Reg. 6. (terre) | 2 | 1 |
+| Reg. 2. (mer) | 2 | 1 |
+| Direction des nuages | Sud | Ouest |
+| Pluie tombée | 47,12/9 | " |
+| Température de l'air | 16,9 | 19,5 |
+| Hauteur de la mer | 31,8 | 18,9 |
+| Agitation de l'eau | 2 fort | 1 fort |
+| Humidité au bord de la jetée | 1026,7 | 1029,7 |
+| Température de l'eau | 20,1 | 19,8 |

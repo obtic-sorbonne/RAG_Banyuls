@@ -1,0 +1,47 @@
+| **OBSERVATIONS DU 1900, 29 juil.** |
+| --- |
+| **Variable** | **Valeur** |
+| --- | --- |
+| Nombre de bateaux sortis (pêche à l...) |  |
+| **Température de l'air** |  |
+| maxima depuis la veille | 16,2 |
+| minima id. | 10,9 |
+| **Température de l'eau** |  |
+| maxima depuis la veille |  |
+| minima id. |  |
+| Pluie tombée depuis la veille, en millim. | " |
+| Evaporation depuis le 1900, en millim. |  |
+| **Caractéristiques du vent et du ciel à 9 h m. et à 3 h s.** |  |
+| --- | --- | --- |
+| **Direction du vent (à terre)** | **À 9 h m.** | **À 3 h s.** |
+| Force | S. O. | Nord |
+| Direction des nuages | Nord-Est | Nord |
+| Nébulosité | 10 | 10 |
+| Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.) | 33,4 | 21,0 |
+| Agitation de l'eau | Fort | 2 |
+| Densité de l'eau au bout de la jetée | 1028,8 | 1028,9 |
+| Température | 14.3 | 14.4 |
+
+| **OBSERVATIONS DU 1900, 30 juil.** |
+| --- |
+| **Variable** | **Valeur** |
+| --- | --- |
+| Nombre de bateaux sortis (pêche à l...) |  |
+| **Température de l'air** |  |
+| maxima depuis la veille |  |
+| minima id. |  |
+| **Température de l'eau** |  |
+| maxima depuis la veille |  |
+| minima id. |  |
+| Pluie tombée depuis la veille, en millim. | 6,12 |
+| Evaporation depuis le 1900, en millim. |  |
+| **Caractéristiques du vent et du ciel à 9 h m. et à 3 h s.** |  |
+| --- | --- | --- |
+| **Direction du vent (à terre)** | **À 9 h m.** | **À 3 h s.** |
+| Force | S. O. |  |
+| Direction des nuages | S. O. |  |
+| Nébulosité | 10 |  |
+| Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.) | 30,2 |  |
+| Agitation de l'eau | Forte |  |
+| Densité de l'eau au bout de la jetée | 1029,0 |  |
+| Température | 12.7 |  |

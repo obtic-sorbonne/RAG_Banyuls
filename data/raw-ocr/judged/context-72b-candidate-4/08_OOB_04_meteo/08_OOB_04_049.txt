@@ -1,0 +1,33 @@
+```plaintext
+| Le 9 janvier 1902 | Matin | Soir |
+|-------------------|-------|------|
+| Hauteur Barométrique | 776.4 | 773.7 |
+| Direction du vent | Ouest | S.S.E. |
+| Force | Ⅰ | Ⅰ fort |
+| Nébulosité \\
+Reg. O. (Terre) | 10 légère | 0 |
+| Reg. E. (Mer) | 10 légère | 0 |
+| Direction des nuages | Ouest | — |
+| Pluie tombée | — | — |
+| Température de l'air | 7.4 | 10.6 |
+| Hauteur de la mer | 48.0 | 69.7 |
+| Agitation de l'eau | 17 faible | 1 faible |
+| Densité au bout de la jetée | 1029.3 | 1028.3 |
+| Température de l'eau | 11.4 | 12.1 |
+
+| Le 10 janvier 1902 | Matin | Soir |
+|-------------------|-------|------|
+| Hauteur Barométrique | 772.8 | 770.9 |
+| Direction du vent | Ouest or.cr.8 | Ouest or.cr.8 |
+| Force | Ⅰ | Ⅰ |
+| Nébulosité \\
+Reg. O. (Terre) | 10 légère | 3 |
+| Reg. E. (Mer) | 10 légère | 2 |
+| Direction des nuages | Ouest | Sud |
+| Pluie tombée | — | — |
+| Température de l'air | 7.0 | 9.0 |
+| Hauteur de la mer | 48.4 | 61.4 |
+| Agitation de l'eau | 0 | 17 faible |
+| Densité au bout de la jetée | 1028.6 | 1028.6 |
+| Température de l'eau | 10.7 | 11.7 |
+```

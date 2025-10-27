@@ -1,0 +1,29 @@
+|  2. 2 Juillet - 1903 | Matin | Soir  |
+| --- | --- | --- |
+|  Yautour Mrarométrique | 766.3 | 766.0  |
+|  Direction du vent | 1.0 | 1.18  |
+|  Force | 1 | 2 fois  |
+|  (Reg. O. (lire) |  |   |
+|  (Reg. X. (mer) |  |   |
+|  Direction des images |  | 1.18  |
+|  Flux bombé |  |   |
+|  Température de l'air | 26.3 | 31.9  |
+|  Yautour de la mer | 11.4 | 41.0  |
+|  Égitation de l'eau | 17.7/1.18 | 2.7/1.18  |
+|  Densité au bout de la jeté | 102.7.4 | 102.7.0  |
+|  Température de l'eau | 20.9 | 21.5  |
+
+|  2. 3 Juillet - 1903 | Matin | Soir  |
+| --- | --- | --- |
+|  Yautour Mrarométrique | 769.0 | 768.0  |
+|  Direction du vent | or.0.0 | 1.8  |
+|  Force | 8 | 1  |
+|  (Reg. O. (lire) |  |   |
+|  (Reg. X. (mer) |  |   |
+|  Direction des images | or.0 | 0.0.0  |
+|  Flux bombé |  |   |
+|  Température de l'air | 21.5 | 23.7  |
+|  Yautour de la mer | 11.1 | 46.3  |
+|  Égitation de l'eau | 1.7/1.18 | 1.7/1.18  |
+|  Densité au bout de la jeté | 102.7.1 | 102.7.2  |
+|  Température de l'eau | 20.8 | 22.0  |

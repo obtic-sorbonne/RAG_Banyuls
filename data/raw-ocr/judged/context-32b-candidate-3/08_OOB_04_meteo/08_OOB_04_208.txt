@@ -1,0 +1,33 @@
+# 28 Mours 1903
+
+|  Nom | Date  |
+| --- | --- |
+|  Hauteur Barométrique | 705.5  |
+|  Direction du vent | 1.0  |
+|  Force | 1  |
+|  Nébulosité (Reg. O. (terre)) | 10  |
+|  Nébulosité (Reg. E. (mer)) | 10  |
+|  Direction des nuages | cross  |
+|  Pluie tombée | 7.07  |
+|  Température de l'air | 13.5  |
+|  Hauteur de la mer | 68.0  |
+|  Agitation de l'eau | 1  |
+|  Densité au bout de la jetée | 1029.6  |
+|  Température de l'eau | 18.6  |
+
+# 30 Mours 1903
+
+|  Nom | Date  |
+| --- | --- |
+|  Hauteur Barométrique | 704.3  |
+|  Direction du vent | cross  |
+|  Force | 2  |
+|  Nébulosité (Reg. O. (terre)) | 3.55  |
+|  Nébulosité (Reg. E. (mer)) | 8.55  |
+|  Direction des nuages | "  |
+|  Pluie tombée | "  |
+|  Température de l'air | 11.1  |
+|  Hauteur de la mer | 15.0  |
+|  Agitation de l'eau | 1  |
+|  Densité au bout de la jetée | 1029.6  |
+|  Température de l'eau | 18.6  |

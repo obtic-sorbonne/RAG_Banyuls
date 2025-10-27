@@ -1,0 +1,31 @@
+| V. 27 novembre 1907 | Matin | Soir |
+|---------------------|-------|------|
+| Hauteur barométrique | 799,0 | 798,7 |
+| Direction du vent    | S.E   | S.O  |
+| Force                | 15    | 10   |
+| (deg. 6. Ouest)      | 10    | 10   |
+| Nébulosité           | 10    | 10   |
+| Reg. E. (mer)        | 10    | 10   |
+| Direction des nuages | S.O   | S.O  |
+| Pluie tombée         | "     | "    |
+| Température de l'air | 18,9  | 16,3 |
+| Hauteur de la mer    | 32,2  | 29,3 |
+| Agitation de l'eau   | 1 fort| 1 fort|
+| Densité au bout de la jetée | 627,6 | 627,6 |
+| Température de l'eau | 16,4  | 16,9 |
+
+| V. 28 novembre 1907 | Matin | Soir |
+|---------------------|-------|------|
+| Hauteur barométrique | 762,0 |      |
+| Direction du vent    | S.E.S |      |
+| Force                | 15    | 2 fort|
+| (deg. 6. Ouest)      | 10    | 10   |
+| Nébulosité           | 10    |      |
+| Reg. di. (mer)       | 10    |      |
+| Direction des nuages | S.O   |      |
+| Pluie tombée         | "     |      |
+| Température de l'air | 17,3  |      |
+| Hauteur de la mer    | 30,7  |      |
+| Agitation de l'eau   | 2     |      |
+| Densité au bout de la jetée | 627,7 |      |
+| Température de l'eau | 17,0  |      |

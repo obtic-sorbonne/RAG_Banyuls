@@ -1,0 +1,33 @@
+# 2. 30 Mai 1903
+
+|  Hauteur | Niveau  |
+| --- | --- |
+|  Hauteur | 7/7.3  |
+|  Direction | or.or.o  |
+|  Pozee | 1 fort  |
+|  (Reg. O. (tenue)) | 10  |
+|  (Reg. Z. (mer)) | 10  |
+|  Direction des mages | 4 h 5  |
+|  (Mme Tombé) | guedgereng  |
+|  Gemplirature de l'air | 21.4  |
+|  Hauteur de la mer | 36.6  |
+|  (Agitation de l'eau) | 1  |
+|  Densité au bout de la jeté | 1024.2  |
+|  Gemplirature de l'eau | 14.9  |
+
+# 4. 2 Juin 1903
+
+|  Hauteur | Niveau  |
+| --- | --- |
+|  Hauteur | 7/7.1  |
+|  Direction | or.or.o  |
+|  Pozee | 3 fort  |
+|  (Reg. O. (tenue)) | 10  |
+|  (Reg. Z. (mer)) | 10  |
+|  Direction des mages | or.or.o  |
+|  (Mme Tombé) | 4.0  |
+|  Gemplirature de l'air | 14.1  |
+|  Hauteur de la mer | 44.9  |
+|  (Agitation de l'eau) | 2 fort  |
+|  Densité au bout de la jeté | 1026.4  |
+|  Gemplirature de l'eau | 19.1  |

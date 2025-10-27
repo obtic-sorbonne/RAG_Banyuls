@@ -1,0 +1,13 @@
+| **Observations** | **9h Matin** | **3h Soir** |
+|-------------------|--------------|--------------|
+| Hauteur Barométrique | 769.8 | 769.7 |
+| Direction du vent | Ouest | S.E. |
+| Force             | 1 faible   | 1 faible     |
+| Nébulosité        | Reg. N. (clair) | 10. léger nuageux |
+| Direction des nuages |           |              |
+| Pluie tombée      |           |              |
+| Température de l'air | 10.2   | 11.8        |
+| Hauteur de la mer  | 39.8 | 45.6       |
+| Agitation de l'eau | 1 (faible) | 2 (fort) |
+| Densité de l'eau   | 1029.5 | 1029.0    |
+| au Long           | 14.9 | 14.4       |

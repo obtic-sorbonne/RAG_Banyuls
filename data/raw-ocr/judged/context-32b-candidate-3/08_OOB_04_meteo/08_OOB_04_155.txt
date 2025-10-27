@@ -1,0 +1,31 @@
+```plaintext
+|  V. 21 Novembre. 1902 | Matin | Soir  |
+| --- | --- | --- |
+|  Hauteur Barométrique | 764.4 | 763.3  |
+|  Direction du vent | or. or. o | cr. or. o  |
+|  Force | 3 | 3 font  |
+|  Nébulosité | 10 | 0  |
+|  (Reg. E. (mer)) |  |  |
+|  Direction des nuages | or. or. o | 0  |
+|  Pluie tombée | 10 |  |
+|  Température de l'air | 7.2 | 10.8  |
+|  Hauteur de la mer | 11.2 | 44.5  |
+|  Agitation de l'eau | 3 | 3 faible  |
+|  Densité au bout de la jetée | 1029.2 | 1029.2  |
+|  Température de l'eau | 14.1 | 14.6  |
+
+|  V. 22 Novembre. 1902 | Matin | Soir  |
+| --- | --- | --- |
+|  Hauteur Barométrique | 761.0 | 764.9  |
+|  Direction du vent | 7.0 | cr. or. o  |
+|  Force | 1 faible | 1  |
+|  Nébulosité | 10 | 10  |
+|  (Reg. E. (mer)) |  |  |
+|  Direction des nuages | 10 | 10  |
+|  Pluie tombée | 10 |  |
+|  Température de l'air | 8.4 | 13.3  |
+|  Hauteur de la mer | 13.4 | 46.9  |
+|  Agitation de l'eau | 3 font | 1 font  |
+|  Densité au bout de la jetée | 1029.9 | 1028.3  |
+|  Température de l'eau | 11.0 | 11.0  |
+```

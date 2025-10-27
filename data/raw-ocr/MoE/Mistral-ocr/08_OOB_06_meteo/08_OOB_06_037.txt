@@ -1,0 +1,39 @@
+# OBSERVATIONS DU 1900
+
+Nombre de bateaux sortis (pêche à l航
+Température de l'air) maxima depuis la veille. 37,3
+minima id. 18,8
+Température de l'eau maxima depuis la veille. 37,3
+minima id. 18,8
+Pluie tombée depuis la veille, en millim. 4
+Evaporation depuis le 190 , en millim. 4
+
+Direction du vent (à terre). à 9 h. m. à 3 h. s.
+Force - 1
+Direction des nuages. 1
+Nébulosité région Ouest (terre) 10
+id. Est (mer) 10
+Hauteur de la mer, en centimètres, au-dessus du zéro. 36,5
+Agitation de l'eau. 1 faible
+Densité de l'eau au bout de la jetée. 60,7,0
+Température id. 18,8
+
+OBSERVATIONS DU 1900 24 JEUNE
+
+Nombre de bateaux sortis (pêche à l航
+Température de l'air) maxima depuis la veille. 23,3
+minima id. 14,6
+Température de l'eau maxima depuis la veille. 37,3
+minima id. 18,8
+Pluie tombée depuis la veille, en millim. 4
+Evaporation depuis le 190 , en millim. 4
+
+Direction du vent (à terre). à 9 h. m. à 3 h. s.
+Force - 10.0
+Direction des nuages. 3 fort 1
+Nébulosité région Ouest (terre) 100
+id. Est (mer) 10
+Hauteur de la mer, en centimètres, au-dessus du zéro. 37,1
+Agitation de l'eau. 3 faible
+Densité de l'eau au bout de la jetée. 60,7,0 17,8
+Température id. 17,8 18,1

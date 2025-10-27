@@ -1,0 +1,54 @@
+# OBSERVATIONS DU 1960 18 x 
+
+Nombre de bateaux sortis (pêche à $l$ $\qquad$ ).
+Température de l'air $\left\{\begin{array}{l}\text { maxima depuis la veille. } \\ \text { minima id. }\end{array}\right.$
+Température de l'eau $\left\{\begin{array}{l}\text { maxima depuis la veille. } \\ \text { minima id. }\end{array}\right.$
+Pluie tombée depuis la veille, en millim.
+Evaporation depuis le $\qquad$ 190 , en millim.
+
+Direction du vent (à terre).
+Force
+Direction des nuages
+Nébulosité $\left\{\begin{array}{l}\text { région Ouest (terre) } \\ \text { id. Est (mer) }\end{array}\right.$
+Hauteur de la mer, en centimètres, au-dessus du zéro. ( 03.4 .)
+Agitation de l'eau.
+Densité de l'eau au bout de la jetée
+Température id.
+
+|  | à 9 h. m. | à 3 h. s. |
+| :--: | :--: | :--: |
+|  |  | 2.20 |
+|  |  | 1.20 |
+|  | 16 | 10 |
+|  | 10 | 10 |
+|  | 12.4 |  |
+|  | 1.25 .6 | 2.26 .2 |
+|  | 12.6 | 12.7 |
+
+## OBSERVATIONS DU 1960
+
+Nombre de bateaux sortis (pêche à $l$ $\qquad$ ).
+Température de l'air $\left\{\begin{array}{l}\text { maxima depuis la veille. } \\ \text { minima id. }\end{array}\right.$
+Température de l'eau $\left\{\begin{array}{l}\text { maxima depuis la veille. } \\ \text { minima id. }\end{array}\right.$
+Pluie tombée depuis la veille, en millim.
+Evaporation depuis le $\qquad$ 190 , en millim.
+
+Direction du vent (à terre).
+Force
+Direction des nuages
+Nébulosité $\left\{\begin{array}{l}\text { région Ouest (terre) } \\ \text { id. Est (mer) }\end{array}\right.$
+Hauteur de la mer, en centimètres, au-dessus du zéro. ( 03.4 .)
+Agitation de l'eau.
+Densité de l'eau au bout de la jetée
+Température id.
+
+|  | à 9 h. m. | à 3 h. s. |
+| :--: | :--: | :--: |
+|  |  | 2.0 |
+|  | 0 | 1.20 |
+|  | 14.8 |  |
+|  | 10 | 10 |
+|  | 15.8 | 14.2 |
+|  | 1 | 1 |
+|  | 22.1 | 22.0 |
+|  | 12.0 | 12.3 |

@@ -1,0 +1,52 @@
+```markdown
+# VENDREDI 13 SEPTEMBRE 1907
+
+| **Date**               | **Matin** | **Soir** |
+|------------------------|-----------|----------|
+| Hauteur barométrique   | 768.6     | 769.2    |
+| Direction du vent      | E.C.0     | S.E.     |
+| Force                  | 1 (faible)| 1 (faible)|
+| Nébulosité (Reg. C. claire) | 10 | 10 |
+| Nébulosité (Reg. F. couverte) | 10 | 10 |
+| Direction des nuages   | Nord      | Nord     |
+| Pluie tombée           | quelques gouttes | n/a |
+| Température de l'air   | 20.7 °C   | 26.0 °C  |
+| Hauteur de la mer      | 12.9 m    | 11.8 m   |
+| Agitation de l'eau     | 1 (faible)| 1 (faible)|
+| Densité au bas de la jetée | 1027.5 g/cm³ | 1027.2 g/cm³ |
+| Température de l'eau   | 22.5 °C   | 23.1 °C  |
+
+# SAMEDI 14 SEPTEMBRE 1907
+
+| **Date**               | **Matin** | **Soir** |
+|------------------------|-----------|----------|
+| Hauteur barométrique   | 767.7     | 766.7    |
+| Direction du vent      | cc-occ    | v-c-no   |
+| Force                  | 4         | 3 (fort) |
+| Nébulosité (Reg. en ciel) | 0 | 2 |
+| Nébulosité (Reg. en mer) | 0 | 0 |
+| Direction des nuages   | S.O.      | N Nord   |
+| Pluie tombée           | n/a       | n/a      |
+| Température de l'air   | 20.2 °C   | 23.7 °C  |
+| Hauteur de la mer      | 98.0 cm   | 41.6 cm  |
+| Agitation de l'eau     | 3 (faible)| 2 (fort) |
+| Densité au bout de la jetée | 1028.1 g/cm³ | 1028.1 g/cm³ |
+| Température de l'eau   | 20.8 °C   | 20.8 °C  |
+
+# LUNDI 16 SEPTEMBRE 1907
+
+| **Date**               | **Matin** | **Soir** |
+|------------------------|-----------|----------|
+| Hauteur barométrique   | 768.2     | 766.3    |
+| Direction du vent      | Nord      | Cord. E.O.|
+| Force                  | 3 (fort)  | 3 (fort) |
+| Nébulosité (Reg. en ciel) | 10 | 0 |
+| Nébulosité (Reg. en mer) | 10 | 0 |
+| Direction des nuages   | Nord      | Nord     |
+| Pluie tombée           | n/a       | n/a      |
+| Température de l'air   | 20.7 °C   | 24.0 °C  |
+| Hauteur de la mer      | 63.4 cm   | 49.2 cm  |
+| Agitation de l'eau     | 3         | 3        |
+| Densité au bout de la jetée | 1028.0 g/cm³ | 1027.1 g/cm³ |
+| Température de l'eau   | 21.3 °C   | 21.8 °C  |
+```

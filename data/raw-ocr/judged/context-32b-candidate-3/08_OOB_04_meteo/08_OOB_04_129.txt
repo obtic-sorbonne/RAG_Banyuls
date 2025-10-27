@@ -1,0 +1,33 @@
+## V. de Septembre 1902
+
+|  Nom | Date | Type  |
+| --- | --- | --- |
+|  Hauteur Barométrique | 20/13 | 203.2  |
+|  Direction du vent | Ouest | 228  |
+|  Force | 1/20/01 | 3  |
+|  (Reg. G. (terre)) | 10 |  |
+|  (Reg. E. (mer)) | 10 |  |
+|  Direction des nuages | Ouest | Ouest  |
+|  (Pluie tombée) |  |  |
+|  Température de l'air | 23.9 | 21.1  |
+|  Hauteur de la mer | 41.2 | 14.2  |
+|  Agitation de l'eau | 1 | 17.20  |
+|  Densité au bout de la jetée | 1022.2 | 1022.2  |
+|  Température de l'eau | 22.3 | 22.5  |
+
+## V. de Septembre 1902
+
+|  Nom | Date | Type  |
+| --- | --- | --- |
+|  Hauteur Barométrique | 200.4 | 205.2  |
+|  Direction du vent | Est | Est  |
+|  Force | 3/20/01 | 3/20/01  |
+|  (Reg. G. (terre)) | 10 |  |
+|  (Reg. E. (mer)) | 10 |  |
+|  Direction des nuages | Est | Est  |
+|  (Pluie tombée) | 8.0 | 9.0  |
+|  Température de l'air | 12.1 | 22.0  |
+|  Hauteur de la mer | 22.3 | 49.8  |
+|  Agitation de l'eau | 3/20/01 | 27.20  |
+|  Densité au bout de la jetée | 1022.3 | 1025.9  |
+|  Température de l'eau | 20.1 | 21.3  |

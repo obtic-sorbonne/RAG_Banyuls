@@ -1,0 +1,37 @@
+```
+# V. 9 Novembre 1903
+
+|  **Position** | **Matin** | **Soir**  |
+| --- | --- | --- |
+|  Hauteur Barométrique | 767.7 | 769.2  |
+|  Direction du vent | nordest | nordest  |
+|  Force | 2 | 2  |
+|  Nébulosité | 8 | 8  |
+|  Reg. O. (terre) | 8 | 8  |
+|  Reg. F. (mer) | 8 | 8  |
+|  Direction des nuages | nordest | nordest  |
+|  Pluie tombée | 0 | 0  |
+|  Température de l'air | 15.7 | 15.4  |
+|  Hauteur de la mer | 36.5 | 38.9  |
+|  Agitation de l'eau | 2 | 2  |
+|  Densité au bout de la jetée | 1028.6 | 1028.5  |
+|  Température de l'eau | 16.5 | 16.3  |
+
+# V. 6 Novembre 1903
+
+|  **Position** | **Matin** | **Soir**  |
+| --- | --- | --- |
+|  Hauteur Barométrique | 769.2 | 771.2  |
+|  Direction du vent | nordest | nordest  |
+|  Force | 1 | 1  |
+|  Nébulosité | 8 | 8  |
+|  Reg. O. (terre) | 8 | 8  |
+|  Reg. F. (mer) | 8 | 8  |
+|  Direction des nuages | nordest | nordest  |
+|  Pluie tombée | 0 | 0  |
+|  Température de l'air | 13.2 | 11.4  |
+|  Hauteur de la mer | 31.8 | 32.6  |
+|  Agitation de l'eau | 2 | 2  |
+|  Densité au bout de la jetée | 1029.1 | 1029.3  |
+|  Température de l'eau | 11.8 | 10.0  |
+```

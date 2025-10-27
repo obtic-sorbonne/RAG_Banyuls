@@ -1,0 +1,16 @@
+| **Date**      | 18 Septembre 1901 |
+|---------------|------------------|
+| **Heure**     | 9h Matin | 3h Soir |
+| **Hauteur Barométrique** | 765,2 | 765,2 |
+| **Direction du vent** | — | S.S.E |
+| **Force**     | 1 | — |
+| **Nébulosité** | Reg. O. (ciel) | 0 |
+|               | Reg. E. (mer) | 0 |
+| **Direction des nuages** | — | S.S.L |
+| **Pluie tombée** | — | — |
+| **Température de l'air** | — | 24,3 |
+| **Hauteur de la mer** | — | 47,9 |
+| **Agitation de l'eau** | au bout de la jetée | 1 T. (gaillou) |
+|                      | au large | 10/27 (neige) |
+| **Vitesse de l'eau** | — | — |
+| **Température de l'eau** | — | 20,3 |

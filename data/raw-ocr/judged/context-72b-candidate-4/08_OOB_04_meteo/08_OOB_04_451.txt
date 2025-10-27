@@ -1,0 +1,31 @@
+```plaintext
+| V. 8 Décembre 1904 | Matin | Soir |
+|---------------------|-------|------|
+| Hauteur Barométrique | 760.6 | -    |
+| Direction du vent    | S.S.O | -    |
+| Force                | 2 faible | -    |
+| Nébulosité (Reg. O. (terre)) | 4/5 | -    |
+| (Reg. E. (mer))      | 3/5 | -    |
+| Direction des nuages | S.O | -    |
+| Pluie tombée         | " | -    |
+| Température de l'air | 12.2 | -    |
+| Hauteur de la mer    | 34.6 | -    |
+| Agitation de l'eau   | 2    | -    |
+| Densité au bout de la jetée | 1029.1 | -    |
+| Température de l'eau | 14.6 | -    |
+
+| V. 9 Décembre 1904 | Matin | Soir |
+|---------------------|-------|------|
+| Hauteur Barométrique | 756.7 | -    |
+| Direction du vent    | S.O   | -    |
+| Force                | 1 faible | -    |
+| Nébulosité (Reg. O. (terre)) | 3/5 | -    |
+| (Reg. E. (mer))      | 3 | -    |
+| Direction des nuages | S.O | -    |
+| Pluie tombée         | " | -    |
+| Température de l'air | 11.9 | -    |
+| Hauteur de la mer    | 31.1 | -    |
+| Agitation de l'eau   | 1 fort | -    |
+| Densité au bout de la jetée | 1029.1 | -    |
+| Température de l'eau | 15.0 | -    |
+```

@@ -1,0 +1,31 @@
+```
+| **Nombre du jour de bateau** | **V. 8 Mars. 1906** | **Matin** | **Soir** |
+|---|---|---|---|
+| **Hauteur Barométrique** | 774.0 |  |  |
+| **Direction du vent** | " | " |  |
+| **Force** | is | 0 |  |
+| **Nébulosité (Reg. o. (Terre))** | 2 |  |  |
+| **(Reg. E. (mer))** | 2 |  |  |
+| **Direction des nuages** | Sud |  |  |
+| **Pluie tombée** | " |  |  |
+| **Température de l'air** | 11.5 |  |  |
+| **Hauteur de la mer** | 64.0 |  |  |
+| **Agitation de l'eau** | faible |  |  |
+| **Densité au bout de la jetée** | 1029.0 |  |  |
+| **Température de l'eau** | 16.0 |  |  |
+
+| **Nombre du jour de bateau** | **V. 9 Mars. 1906** | **Matin** | **Soir** |
+|---|---|---|---|
+| **Hauteur Barométrique** | 766.3 |  |  |
+| **Direction du vent** | " | " |  |
+| **Force** | is | 0 |  |
+| **Nébulosité (Reg. o. (Terre))** |  | 10 |  |
+| **(Reg. 2. (mer))** |  |  |  |
+| **Direction des nuages** |  |  |  |
+| **Pluie tombée** | " |  |  |
+| **Température de l'air** |  |  |  |
+| **Hauteur de la mer** |  |  |  |
+| **Agitation de l'eau** | faible |  |  |
+| **Densité au bout de la jetée** |  |  |  |
+| **Température de l'eau** |  |  |  |
+```

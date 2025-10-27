@@ -1,0 +1,22 @@
+```plaintext
+| Date           | Heure | Temp. (°C) | Press. (mmHg) | Humidité (%) | Condition atmosphérique             |
+|---------------|-------|------------|---------------|--------------|------------------------------------|
+| 23/01/1800    | 06:00 | 3.1        | 763.0         | 87           | Brume épaisse                       |
+| 23/01/1800    | 12:00 | 6.0        | 764.4         | 80           | Ciel bleu, air doux                 |
+| 23/01/1800    | 18:00 | 4.7        | 763.9         | 83           | Nuages légers                       |
+| 23/01/1800    | 24:00 | 3.8        | 763.3         | 85           | Vent modéré, clair                  |
+| 24/01/1800    | 06:00 | 3.0        | 763.2         | 88           | Brume marine                        |
+| 24/01/1800    | 12:00 | 5.7        | 764.5         | 81           | Ciel dégagé, vent léger             |
+| 24/01/1800    | 18:00 | 4.6        | 764.0         | 84           | Nuages bas, vents faibles           |
+| 24/01/1800    | 24:00 | 3.7        | 763.4         | 86           | Brise de mer, nuit calme            |
+| 25/01/1800    | 06:00 | 2.9        | 763.3         | 89           | Brouillard matinal                  |
+| 25/01/1800    | 12:00 | 5.6        | 764.8         | 82           | Ciel ensoleillé, air frais          |
+| 25/01/1800    | 18:00 | 4.4        | 764.2         | 85           | Nuages épars, vents modérés         |
+| 25/01/1800    | 24:00 | 3.6        | 763.5         | 87           | Vent faible, nuit étoilée           |
+| 26/01/1800    | 06:00 | 3.2        | 763.4         | 90           | Brume persistante                    |
+| 26/01/1800    | 12:00 | 5.4        | 765.0         | 83           | Ciel dégagé, température douce      |
+| 26/01/1800    | 18:00 | 4.3        | 764.4         | 86           | Nuages bas, vents modérés           |
+| 26/01/1800    | 24:00 | 3.5        | 763.6         | 88           | Brise de mer, nuit claire           |
+
+**Remarque**: Les dates sont présentées au format **JJ/MM/AAAA** et les heures en format **HH:MM**. Les valeurs de température sont en degrés Celsius (°C), de pression atmosphérique en millimètres de Mercure (mmHg), et d'humidité en pourcentage (%). Les conditions atmosphériques sont décrites textuellement.
+```

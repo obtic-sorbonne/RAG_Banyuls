@@ -1,0 +1,30 @@
+| **Date**       | **Matin** | **Soir** |
+|----------------|----------|----------|
+| **29 janvier 1902** |           |          |
+| Hauteur Barométrique | 769.3 | 768.4 |
+| Direction du vent | er.cr.o | Ouest |
+| Force          | 3        | 7        |
+| Nebulosité     |          |          |
+|  Reg. O. (ciel) | 10      | 10      |
+|  Reg. E. (mer) | 10      | 10      |
+| Direction des nuages | Ouest | er.cr.o |
+| Pluie tombée    | quelques g | quelques g |
+| Température de l'air | 10.8 | 11.0 |
+| Hauteur de la mer     | 13.1 | 60.2 |
+| Agitation de l'eau    | 1    | 2    |
+| Vitesse au bout de la jetée | 1029.2 | 1028.9 |
+| Température de l'eau  | 12.0 | 12.0 |
+| **30 janvier 1902** |           |          |
+| Hauteur Barométrique | 763.3 | -      |
+| Direction du vent | er.cr.o | -      |
+| Force          | 3        | 7        |
+| Nebulosité     |          |          |
+|  Reg. O. (ciel) | 0       | -      |
+|  Reg. E. (mer) | 0       | -      |
+| Direction des nuages | er.cr.o | -      |
+| Pluie tombée    | -        | -      |
+| Température de l'air | 4.1  | -      |
+| Hauteur de la mer     | 16.1 | -      |
+| Agitation de l'eau    | 3 fort. | -      |
+| Vitesse au bout de la jetée | -      | -      |
+| Température de l'eau  | -      | -      |

@@ -1,0 +1,41 @@
+| **Observations du 15 février 1901** |
+| --- |
+| **Nombre de bateaux sortis (pêche à l.)** | 0,4 |
+| **Température de l'air** |
+| maxima depuis la veille | 8.4 |
+| minima id. | 4.4 |
+| **Température de l'eau** |
+| maxima depuis la veille | 6.8 |
+| minima id. | 6.6 |
+| **Pluie tombée depuis la veille, en millim.** | 0 |
+| **Evaporation depuis le 190__, en millim.** | 0 |
+| **Direction du vent (à terre)** | **à 9 h. m.** | **à 3 h. s.** |
+| Force | 2 | 2 |
+| **Direction des nuages** |  |  |
+| Nébulosité | **région Ouest (terre)** | 0 | 1 |
+| **id. Est (mer)** | 0 | 1 |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.)** | 41.9 | 36.8 |
+| **Agitation de l'eau** | 2 | 2 |
+| **Densité de l'eau au bout de la jetée** | 1028.7 | 1028.7 |
+| **Température id.** | 9.7 | 10.9 |
+| --- |
+| **Observations du 16 février 1901** |
+| **Nombre de bateaux sortis (pêche à l.)** | 4.8 |
+| **Température de l'air** |
+| maxima depuis la veille | 7.4 |
+| minima id. | 6.3 |
+| **Température de l'eau** |
+| maxima depuis la veille | 6.9 |
+| minima id. | 6.6 |
+| **Pluie tombée depuis la veille, en millim.** | 0 |
+| **Evaporation depuis le 190__, en millim.** | 0 |
+| **Direction du vent (à terre)** | **à 9 h. m.** | **à 3 h. s.** |
+| Force | Nord | Nord-Est | Nord-Est |
+| NORD |   | Est |   |
+| **Direction des nuages** | Nord | Nord-Nord-Ouest | Nord-Ouest | Nord-Nord-Ouest | Nord-Ouest | Ouest |
+| Nébulosité | **région Ouest (terre)** | 60 | 0 | 0 | 0 | 0 | 0 |
+| **id. Est (mer)** | 10 | 2 | 2 | 2 | 2 | 2 |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.)** | 49.0 | 63.6 |
+| **Agitation de l'eau** | 2 (petites vagues) | 3 (grands lames) |
+| **Densité de l'eau au bout de la jetée** | 1028.9 | 1028.4 |
+| **Température id.** | 9.7 | 10.7 |

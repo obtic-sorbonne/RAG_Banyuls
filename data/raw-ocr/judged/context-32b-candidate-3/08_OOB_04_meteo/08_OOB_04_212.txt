@@ -1,0 +1,33 @@
+```
+# 9. 11 Avril - 1903
+
+|  Hauteur Barométrique | 770.2  |
+| --- | --- |
+|  Direction du vent | or.0  |
+|  Force | 2  |
+|  Nébulosité (Reg. O. (terre)) | 10  |
+|  Nébulosité (Reg. E. (mer)) | 10  |
+|  Direction des nuages | or.0  |
+|  Pluie tombée |  |
+|  Température de l'air | 12.4  |
+|  Hauteur de la mer | 16.9  |
+|  Agitation de l'eau | 2  |
+|  Densité au bout de la jetée | 1028.3  |
+|  Température de l'eau | 13.0  |
+
+# 9. 13 Avril - 1903
+
+|  Hauteur Barométrique | 763.6  |
+| --- | --- |
+|  Direction du vent | or.0  |
+|  Force | 3  |
+|  Nébulosité (Reg. O. (terre)) | 10  |
+|  Nébulosité (Reg. E. (mer)) | 10  |
+|  Direction des nuages | or.0  |
+|  Pluie tombée |  |
+|  Température de l'air | 16.5  |
+|  Hauteur de la mer | 66.9  |
+|  Agitation de l'eau | 5  |
+|  Densité au bout de la jetée | 1029.0  |
+|  Température de l'eau | 16.3  |
+```

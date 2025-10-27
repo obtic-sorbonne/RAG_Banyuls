@@ -1,0 +1,30 @@
+```markdown
+| Date       | Matin            | Soir            |
+|------------|------------------|-----------------|
+| **V. 15 Décembre 1906** |                  |                 |
+| Hauteur barométrique | 767.4 mmHg | —            |
+| Direction du vent | cr. O          | —            |
+| Force            | 5             | —            |
+| Nébulosité (Reg. c. (terre)) | 10            | —            |
+| Nébulosité (Reg. xi. (mer)) | 10            | —            |
+| Direction des nuages | NOU          | —            |
+| Pluie tombée        | quelques g   | —            |
+| Température de l'air | 7.3 °C      | —            |
+| Hauteur de la mer   | 61.8 m       | —            |
+| Agitation de l'eau  | 2            | —            |
+| Densité au bout de la jetée | 1029.4 kg/m³ | —            |
+| Température de l'eau | 13.4 °C     | —            |
+| **V. 17 Décembre 1906** |                  |                 |
+| Hauteur barométrique | 767.6 mmHg | 766.7 mmHg    |
+| Direction du vent | cr. cr. O      | cr. N.O        |
+| Force            | 5             | 3 fort         |
+| Nébulosité (Reg. c. (terre)) | 2 légerc.      | 2 légerc.      |
+| Nébulosité (Reg. xi. (mer)) | 1 dégagée      | 1 dégagée      |
+| Direction des nuages | cr. O (croissant) | ci. O (couchant) |
+| Pluie tombée        | quelques g   | —               |
+| Température de l'air | 9.7 °C      | 11.4 °C         |
+| Hauteur de la mer   | 41.8 m       | 18.8 m          |
+| Agitation de l'eau  | 3            | 3               |
+| Densité au bout de la jetée | 1029.1 kg/m³ | 1029.1 kg/m³    |
+| Température de l'eau | 13.0 °C     | 12.9 °C         |
+```

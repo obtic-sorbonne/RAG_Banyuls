@@ -1,0 +1,30 @@
+```
+| **Date** | **Matin** | **Soir** |
+|----------|-----------|----------|
+| **V. 11 Octobre 1905** |  |  |
+| Hauteur Barométrique | 763.6 | 762.7 |
+| Direction du vent | cr.cr.o | crans |
+| Force | is | 4.7 jou. |
+| Nébulosité (Reg. O. (lère)) | 2 | 0 |
+| (Reg. E. (mer)) | 1 | 1 |
+| Direction des nuages | Nord | crans |
+| Pluie tombée | quelques " | " |
+| Température de l'air | 12.8 | 1/1 |
+| Hauteur de la mer | 47.5 | 48.0 |
+| Agitation de l'eau | 4 | 4 jou. |
+| Densité au bout de la jetée | 1028.7 | 1028.8 |
+| Température de l'eau | 17.8 | 18.0 |
+| **V. 12 Octobre 1905** |  |  |
+| Hauteur Barométrique | 766.0 | 766.0 |
+| Direction du vent | cr.cr.o | cr.cr.o |
+| Force | is | 4 jou. |
+| Nébulosité (Reg. O. (lère)) | 2 lignes | 1 ligne |
+| (Reg. E. (mer)) | 4 degrés | 0 |
+| Direction des nuages | cr.cr.o | n.n.o. |
+| Pluie tombée | " | " |
+| Température de l'air | 13.2 | 13.3 |
+| Hauteur de la mer | 44.2 | 22.0 |
+| Agitation de l'eau | 3 jou. | 3 |
+| Densité au bout de la jetée | 1028.8 | 1028.9 |
+| Température de l'eau | 18.3 | 18.4 |
+```

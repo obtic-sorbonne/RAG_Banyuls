@@ -1,0 +1,29 @@
+|  V. 21 Juillet. 1902 | Moatin | Soir  |
+| --- | --- | --- |
+|  Hauteur Parométrique | 201,6 |   |
+|  Direction Su vent | or.0.0 |   |
+|  Force | 8 faib. |   |
+|  Nebbulosité | Reg. O. (tome) | 10  |
+|   | Reg. E. (mur) | 10  |
+|  Direction des nuages | or.0.0 |   |
+|  Flux tombé | 16, 2/0 |   |
+|  Température de l'air | 20,1 |   |
+|  Hauteur de la mer | 11,1 |   |
+|  Égitation de l'eau | 2 fort |   |
+|  Densité au bout de la jetée | 1026,2 |   |
+|  Température de l'eau | 20,2 |   |
+
+|  V. 22 Juillet. 1902 | Moatin | Soir  |
+| --- | --- | --- |
+|  Hauteur Parométrique | 8266,3 | 266,2  |
+|  Direction Su vent | or.0.0 |   |
+|  Force | 2 | 1  |
+|  Nebbulosité | Reg. O. (tome) | 10  |
+|   | Reg. E. (mur) | 10  |
+|  Direction des nuages | or.0.0 | or.0.0  |
+|  Flux tombé |  |   |
+|  Température de l'air | 20,1 | 88,1  |
+|  Hauteur de la mer | 13,2 | 60,8  |
+|  Égitation de l'eau | 1 faib. | 0  |
+|  Densité au bout de la jetée | 1022,3 | 1022,4  |
+|  Température de l'eau | 20,4 | 81,4  |

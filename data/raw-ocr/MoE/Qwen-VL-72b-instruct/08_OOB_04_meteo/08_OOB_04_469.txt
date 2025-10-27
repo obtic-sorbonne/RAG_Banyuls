@@ -1,0 +1,30 @@
+| V. 1er février 1905 | Matin | Soir |
+|---------------------|-------|------|
+| Hauteur Barometrique | 774.3 |      |
+| Direction du vent    | cr.cr.o |      |
+| Force                | 2     |      |
+| Nébulosité           |       |      |
+|                      | Reg.O.(ciel) | 10   |
+|                      | Reg.E.(mer) | 10   |
+| Direction des nuages | cr.cr.o |      |
+| Pluie tombée         | "     |      |
+| Température de l'air | 9.1   |      |
+| Hauteur de la mer    | 60.2  |      |
+| Agitation de l'eau   | 2     |      |
+| Densité au bout de la jetée | 1029.8 |      |
+| Température de l'eau | 12.3  |      |
+| Pêche à la traîne du 13 mars - 1905 nombre de paires de bateaux ... 7 quantité de poisson pêchée ... ? | V. 13 Mars. 1905 | Matin | Soir |
+|---------------------------------------------------------------------------------------------|------------------|-------|------|
+|                                                                                             | Hauteur Barometrique | 760.2 | 760.1 |
+|                                                                                             | Direction du vent    | cr.cr.o | cr.cr.o |
+|                                                                                             | Force                | 2fort- | 2     |
+|                                                                                             | Nébulosité           |        |       |
+|                                                                                             |                      | Reg.O.(terre) | 10   |
+|                                                                                             |                      | Reg.E.(mer) | 10   |
+|                                                                                             | Direction des nuages | cr.cr.o | cr.cr.o |
+|                                                                                             | Pluie tombée         | "     | "     |
+|                                                                                             | Température de l'air | { }   | { }   |
+|                                                                                             | Hauteur de la mer    | { }   | { }   |
+|                                                                                             | Agitation de l'eau   | 2     | 2     |
+|                                                                                             | Densité au bout de la jetée | { }   | { }   |
+|                                                                                             | Température de l'eau | { }   | { }   |

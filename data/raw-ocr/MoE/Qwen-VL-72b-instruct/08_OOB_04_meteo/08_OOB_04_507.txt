@@ -1,0 +1,6 @@
+|Pêche à l'anchois (nombre de barreaux) | Quantité de poisson|Date|Matin|Soir|
+|---|---|---|---|---|
+|Réchauffeur membres de la famille de Bottecourt 72|135 q|9 juin - 1905|Hauteur Barométrique<br>Direction du vent<br>Force is<br>Nébulosité Reg. G. (terre)<br>Nébulosité Reg. E. (mer)<br>Direction des nuages<br>Pluie tombée<br>Température de l'air<br>Hauteur de la mer<br>Agitation de l'eau<br>Densité au bout de la jetée<br>Température de l'eau|797.7<br>Nord<br>1<br>4/6<br>4/6<br>S.O<br>"<br>20,9<br>44.1°<br>17 faible<br>1028.0<br>19.1|796.3<br>Ouest<br>2<br>4/6<br>4/6<br>O.N.E.<br>quelques gouttes<br>19.4<br>37.0°<br>faible<br>1027.9<br>19.8|
+||du 14 juin - 1905||
+|Pêche à l'anchoix (nombre de barreaux)|Quantité de poisson|15 juin - 1905|Hauteur Barométrique<br>Direction du vent<br>Force is<br>Nébulosité Reg. G. (terre)<br>Nébulosité Reg. E. (mer)<br>Direction des nuages<br>Pluie tombée<br>Température de l'air<br>Hauteur de la mer<br>Agitation de l'eau<br>Densité au bout de la jetée<br>Température de l'eau|799.1<br>S.S.E<br>1<br>Légère<br>Légère<br>O.N.E.<br>"<br>19.3<br>42.1°<br>1 faible<br>1028.1<br>19.2|760.0<br>S.S.E<br>2 faible<br>Légère<br>Légère<br>S.O<br>"<br>26.0<br>39.7°<br>1<br>1028.2<br>19.4|
+||du 15 juin - 1905|||

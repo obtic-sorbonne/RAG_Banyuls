@@ -1,0 +1,17 @@
+|  V. 11 N6ai - 1906 | Mbatin | Savi  |
+| --- | --- | --- |
+|  |   |   |
+|  V. 12 N6ai - 1906 | Mbatin | Savi  |
+|  Fauteur Maronetrique | 4/9.0 |   |
+|  Direction du vent | 1. % |   |
+|  Force | 5/2006 |   |
+|  (Reg. G. (Vine)) |  |   |
+|  Nebulosite | 10 |   |
+|  (Reg. L. (mer)) |  |   |
+|  Direction des nuages | 14.8 |   |
+|  (Prix tombé) |  |   |
+|  Température de l'air | 14.8 |   |
+|  Fauteur de la mer | 41.0 |   |
+|  (Agitation de l'eau) |  |   |
+|  Densité au bout de la jeture | 428.4 |   |
+|  (Température de l'eau) | 19.0 |   |

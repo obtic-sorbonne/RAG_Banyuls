@@ -1,0 +1,17 @@
+Date: 25 Septembre 1900
+
+|   | Heures: |   |
+| --- | --- | --- |
+|   | 9 a.m. | 3 a.m.  |
+|  Hauteur barométrique | 768,8 | 765,2  |
+|  Direction du vent: | N.O. | N.  |
+|  Force | 2 | 2  |
+|  Nébulosité | 0 | 8  |
+|  Rég. O. (mm) | 1 | 1  |
+|  Direction des nuages: |  | 5.0  |
+|  Pluie tombée: |  | 0  |
+|  Température de l'air | 20,4 | 25,1  |
+|  Hauteur de la mer | 0,30 | 0,30  |
+|  Agitation de l'eau | 0 | 0  |
+|  Densité de l'eau (en deux bouteilles) | 1025,7 |   |
+|  Température de l'eau | 21,0 | 21,5  |

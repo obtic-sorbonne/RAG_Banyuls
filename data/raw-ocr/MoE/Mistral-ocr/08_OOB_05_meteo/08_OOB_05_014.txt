@@ -1,0 +1,29 @@
+|  V. 12 Croût-1905 | Moatin | Soir  |
+| --- | --- | --- |
+|  Hauteur Vrarométrique | 2.63.8 | 268.0  |
+|  Direction du vent | 200° | 1000°  |
+|  Force | 1 | 1 port  |
+|  Nébulosité | 10 | 10  |
+|  (Reg. N. (mm)) | 10 | 10  |
+|  Direction des nuages | 07.00.0 | 07.00.0  |
+|  Flux tombé | gnef.0.0.3 | 1  |
+|  Température de l'air | 25.4 | 28.0  |
+|  Hauteur de la mer | 44.8 | 48.4  |
+|  Crétation de l'eau | 15 faible | 1 faible  |
+|  Densité au bout de la jetée | 1026.4 | 1026.0  |
+|  Température de l'eau | 25.1 | 28.0  |
+
+|  V. 2 Croût-1905 | Moatin | Soir  |
+| --- | --- | --- |
+|  Hauteur Prarométrique | 264.3 |   |
+|  Direction du vent | 07.00.0 |   |
+|  Force | 2 port |   |
+|  Nébulosité | 10 |   |
+|  (Reg. N. (mm)) | 10 |   |
+|  Direction des nuages | 2.0 |   |
+|  Flux tombé | gnef.0.0.3 |   |
+|  Température de l'air | 25.4 |   |
+|  Hauteur de la mer | 42.2 |   |
+|  Crétation de l'eau | 2 |   |
+|  Densité au bout de la jetée | 1026.1 |   |
+|  Température de l'eau | 24.6 |   |

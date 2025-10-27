@@ -1,0 +1,32 @@
+```plaintext
+| **Date**       | **Matin**                                          | **Soir**                                           |
+|----------------|---------------------------------------------------|---------------------------------------------------|
+| V. 14 juin 1904 |                                                   |                                                   |
+| Hauteur barométrique | 764.7                                          | 763.7                                           |
+| Direction du vent    | Nord                                            | S.S.E.                                           |
+| Force               | 1 fort                                         | 1 fort                                           |
+| Nébulosité          | léger                                           | légère                                           |
+| - Reg. 6. (terre)   | léger                                           | légère                                           |
+| - Reg. 2. (mer)     | léger                                           | légère                                           |
+| Direction des nuages | Nord                                            | Nord                                             |
+| Pluie tombée      | -                                                | -                                                 |
+| Température de l'air | 24.3                                           | 28.7                                             |
+| Hauteur de la mer   | 44.9                                           | 43.2                                             |
+| Agitation de l'eau  | 1 faible                                        | 1 faible                                         |
+| Densité au bout de la jetée | 1027.3                                    | 1026.8                                           |
+| Température de l'eau | 20.4                                           | 21.8                                             |
+| V. 15 juin 1904 |                                                   |                                                   |
+| Hauteur barométrique | 765.8                                          | 766.0                                           |
+| Direction du vent    | Nord                                            | S.S.E.                                           |
+| Force               | 1 fort                                         | 1 fort                                           |
+| Nébulosité          | 0                                               | légère                                           |
+| - Reg. 6. (terre)   | 0                                               | légère                                           |
+| - Reg. 2. (mer)     | 0                                               | légère                                           |
+| Direction des nuages | cr. cr. o.                                      | Ouest                                             |
+| Pluie tombée      | -                                                | -                                                 |
+| Température de l'air | 26.8                                           | 32.2                                             |
+| Hauteur de la mer   | 44.0                                           | 46.6                                             |
+| Agitation de l'eau  | 1 faible                                        | 1 faible                                         |
+| Densité au bout de la jetée | 1027.0                                    | 1026.4                                           |
+| Température de l'eau | 20.6                                           | 23.7                                             |
+```

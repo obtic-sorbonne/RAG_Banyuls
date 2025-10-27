@@ -1,0 +1,31 @@
+# 30 Mai 1903
+
+|  Hauteur Barométrique | 757.3 | 757.1  |
+| --- | --- | --- |
+|  Direction du vent | or.or.0 | or.or.0  |
+|  Force | 1 port | 0  |
+|  Nébulosité (Reg. O. (terre)) | 10 | 10  |
+|  Nébulosité (Reg. E. (mer)) | 10 | 10  |
+|  Direction des nuages | 4 h 5 | 4 h 5  |
+|  Pluie tombée | guedgereng | guedgereng  |
+|  Température de l'air | 21.4 | 28.7  |
+|  Hauteur de la mer | 36.6 | 48.5  |
+|  Agitation de l'eau | 1 | 1  |
+|  Densité au bout de la jetée | 1024.2 | 1027.1  |
+|  Température de l'eau | 14.9 | 19.0  |
+
+# 2 Juin 1903
+
+|  Hauteur Barométrique | 757.1 | 758.4  |
+| --- | --- | --- |
+|  Direction du vent | or.or.0 | or. 8  |
+|  Force | 3 port | 1 port  |
+|  Nébulosité (Reg. O. (terre)) | 10 | 10  |
+|  Nébulosité (Reg. E. (mer)) | 10 | 10  |
+|  Direction des nuages | or.or.0 | or. 0  |
+|  Pluie tombée | 4.0 | 4.0  |
+|  Température de l'air | 17.1 | 22.3  |
+|  Hauteur de la mer | 44.9 | 39.5  |
+|  Agitation de l'eau | 2 port | 1  |
+|  Densité au bout de la jetée | 1026.4 | 1026.5  |
+|  Température de l'eau | 19.1 | 19.5  |

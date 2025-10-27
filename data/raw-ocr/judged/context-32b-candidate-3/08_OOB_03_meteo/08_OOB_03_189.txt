@@ -1,0 +1,21 @@
+# Date: 20 Mai 1902
+
+| **Paramètre** | **9h Matin** | **3h Soir** |
+|---------------|--------------|-------------|
+| **Hauteur Barométrique (mm)** | 762.6 | 763.2 |
+| **Direction du vent** | cru[cro] | cru[cro] |
+| **Force du vent (Beaufort)** | 4 faible | 3 |
+| **Nébulosité** | 3 (Reg. 6 - claire) | 10 (claire) |
+| **- Reg. E. (mer)** | 2 (Reg. 6 - claire) | 10 (claire) |
+| **Direction des nuages** | cru[cro] | rnro[S.S.E.] |
+| **Pluie tombée** | quelques g. | quelques g. |
+| **Température de l'air (°C)** | 11.3 | 13.5 |
+| **Hauteur de la mer (m)** | 67.9 | 63.5 |
+| **Agitation de l'eau** | 2 faible | 2 faible |
+| **Densité de l'eau** | 1027.9 | 1027.9 |
+| **- au bout de la jetée** | 1027.9 | 1027.9 |
+| **- au large** | - | - |
+| **Température de l'eau (°C)** | 14.0 | 14.3 |
+
+**Remarque additionnelle :**  
+- Nébulosité de la mer : 2 (Reg. 6 - claire) à 9h, 10 (claire) à 3h.

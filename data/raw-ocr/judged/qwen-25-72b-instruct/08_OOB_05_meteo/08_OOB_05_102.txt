@@ -1,0 +1,36 @@
+```
+Journal Météorologique du Navire "La Belle Poule"
+Période : 13 et 14 Avril 1906
+
+| Nombre de jours de bateaux | Date       | Matin | Soir  |
+|----------------------------|------------|-------|-------|
+| 13                         | 13 Avril 1906 |      |      |
+|                            | Hauteur Barométrique (mm) | 766.4 | 766.3 |
+|                            | Direction du vent | er.o | cr.o |
+|                            | Force | 1 fort. | 2 |
+|                            | Nébulosité (Reg. O. Terre) | 10 | 10 |
+|                            | Nébulosité (Reg. E. Mer) | 10 | 10 |
+|                            | Direction des nuages | er.cr.8 | er.cr.8 |
+|                            | Pluie tombée (mm) | 16.1 | 2.9 |
+|                            | Température de l'air (°C) | 10.0 | 12.0 |
+|                            | Hauteur de la mer (m) | S | S |
+|                            | Agitation de l'eau (code) | 1 | 1 fort. |
+|                            | Densité au bout de la jetée (g/cm³) | 3 | 3 |
+|                            | Température de l'eau (°C) | - | - |
+
+| 14                         | 14 Avril 1906 |      |      |
+|                            | Hauteur Barométrique (mm) | 768.2 | - |
+|                            | Direction du vent | er.o | - |
+|                            | Force | 2 fort. | - |
+|                            | Nébulosité (Reg. O. Terre) | 10 légère | - |
+|                            | Nébulosité (Reg. E. Mer) | 10 légère | - |
+|                            | Direction des nuages | er.cr.o | - |
+|                            | Pluie tombée (mm) | - | - |
+|                            | Température de l'air (°C) | 11.8 | - |
+|                            | Hauteur de la mer (m) | 61.3 | - |
+|                            | Agitation de l'eau (code) | 1 | - |
+|                            | Densité au bout de la jetée (g/cm³) | 3 | - |
+|                            | Température de l'eau (°C) | - | - |
+
+Note Marginale : Aucune remarque particulière pour ces dates.
+```

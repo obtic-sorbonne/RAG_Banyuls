@@ -1,0 +1,16 @@
+# Bale. 22 d'rai. 1902
+
+|  **Parleur** | **Pariéres** | **Prix**  |
+| --- | --- | --- |
+|  Xanthium barometrique | 769.6 | 769.3  |
+|  Direction du vent | or.0 | or.0  |
+|  Force | 1.0 | 1.0  |
+|  **Pfébulosiée** | **1.0** | **2**  |
+|  Chag. L. (mer) | 0.0 | 0.0  |
+|  Direction des nuages | or.0 | or.0  |
+|  Mure tombée | 13.1 | 16.1  |
+|  Température de l'air | 13.1 | 16.4  |
+|  **Xanthium de la mer** | **70.8** | **74.1**  |
+|  Agitation de l'eau | 0.0 | 0.0  |
+|  **Densité de l'eau** | **1028.2** | **1028.0**  |
+|  **Température de l'eau** | 13.7 | 14.1  |

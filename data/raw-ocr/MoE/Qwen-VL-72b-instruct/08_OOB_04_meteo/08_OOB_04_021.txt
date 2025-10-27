@@ -1,0 +1,33 @@
+| Date | Matin | Soir |
+| --- | --- | --- |
+| V. 4 Novembre 1901 |  |  |
+| Hauteur Barométrique | 767.2 | 769.7 |
+| Direction du vent | cr.or.o | Est |
+| Force | 1 Fort | 1 T. faible |
+| Nebulosité |  |  |
+| Reg. O. (lère) | „ | „ |
+| Reg E. (mer) | 0 | 0 |
+| Direction des images | cr.or.o | sud |
+| Pluie tombée | „ | „ |
+| Température de l'air | 11.2 | 14.3 |
+| Hauteur de la mer | 43.6 | 39.0 |
+| Agitation de l'eau | 2 | 2 T.fort |
+| Densité au bout de la jetée | 1026.3 | 1029.3 |
+| Température de l'eau | 19.1 | 19.6 |
+
+| Date | Matin | Soir |
+| --- | --- | --- |
+| V. 5 Novembre 1901 |  |  |
+| Hauteur Barométrique | 769.4 | 768.6 |
+| Direction du vent | cr.or. | S.S.8 |
+| Force | 1 | 1 Fort |
+| Nebulosité |  |  |
+| Reg. O. (lère) | 0 | 0 |
+| Reg. E. (mer) | 2 | 2 |
+| Direction des images | sud | sud |
+| Pluie tombée | „ | „ |
+| Température de l'air | 12.0 | 15.1 |
+| Hauteur de la mer | 40.3 | 38.9 |
+| Agitation de l'eau | 2 faible | 1 fort |
+| Densité au bout de la jetée | 1026.2 | 1029.8 |
+| Température de l'eau | 19.4 | 19.7 |

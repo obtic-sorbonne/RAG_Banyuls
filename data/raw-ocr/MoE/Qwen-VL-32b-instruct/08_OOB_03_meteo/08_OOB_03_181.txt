@@ -1,0 +1,18 @@
+| **Date** | 26 Avril 1902 |
+|----------|--------------|
+| **Temps** |             |
+| 9h Matin | 3h Soir     |
+|----------|-------------|-------------|
+| **Hauter Barometrique** | 772,7     |           |
+| **Direction du vent**   | S. S. E.   |           |
+| **Force**               | 2 [frac.] | 2         |
+| **Nebulosité**          | Reg. 0 (claire) | 2 |
+|                         | Reg. 2 (nuages) | 2 |
+| **Direction des nuages** | Ouest      |           |
+| **Pluie tombée**        |           |           |
+| **Temperature de l'air** | 18,6      |           |
+| **Hauter de la mer**    | 34,1      | 1028,6    |
+| **Agitation de l'eau**  |           | 1          |
+| **Densité de l'eau**    | au bout de la journée |           |
+|                         | au Large  |           |
+| **Temperature de l'eau** |           | 14,3     |

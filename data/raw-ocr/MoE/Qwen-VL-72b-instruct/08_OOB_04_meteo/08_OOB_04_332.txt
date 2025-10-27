@@ -1,0 +1,5 @@
+| Date       | Heure | Hauteur Barométrique | Direction Du Vent | Force(id) | Nébulosité | Reg. (terre) | Reg. (mer) | Direction des nuages | Pluie tombée | Température de l'air | Haleur de la mer | Agitation de l'eau | Densité au bout de la jetée | Température de l'eau |
+|------------|-------|----------------------|-------------------|-----------|-----------|--------------|-------------|----------------------|---------------|----------------------|------------------|---------------------|---------------------------|----------------------|
+| 17 janvier 1902 | Matin | 769.3 | N.O. | 4 | 0 |  |  | - | - | 1.8 | 63.0 | 3 | 1028.8 | 11.1 |
+| 18 janvier 1902 | Matin | 767.4 | N.O. | 4 | 3 |  |  | cr. 8.0 | - | 6.5 | 63.0 | 4 | 1028.9 | 10.7 |
+| 18 janvier 1902 | Soir | 767.8 | N.O. | 4 |  |  |  | cr. 8.0 | - | 8.4 | 74.8 | 4 | 1028.9 | 10.8 |

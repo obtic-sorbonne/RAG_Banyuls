@@ -1,0 +1,26 @@
+| Date       | Matin | Soir |
+|------------|-------|------|
+| 5 Xbre 1907|       |      |
+| Hauteur Barométrique | 799.0 | 796.2 |
+| Direction du Vent | S.S.E | O.N.O |
+| Force | 1 faible | 3 |
+| Nébulosité (Reg. 6. (terre)) | 10 | 10 |
+| Direction des nuages | S.O | O.N.O |
+| Pluie Tombée | quelques g |  |
+| Température de l'air | 13.4 | 14.2 |
+| Hauteur de la mer | 13.4 | 37.1 |
+| Agitation de l'eau | 17 fort | 2 |
+| Densité au bout de la jetée | 1027.2 | 1036.8 |
+| Température de l'eau | 14.8 | 14.7 |
+| 7 Xbre 1907|       |      |
+| Hauteur Barométrique | 794.8 | 797.2 |
+| Direction du Vent | O.N.O | O.N.O |
+| Force | 1 fort | 1 |
+| Nébulosité (Reg. 6. (terre)) | 10 | 10 |
+| Direction des nuages | O.N.O | O.N.O |
+| Pluie Tombée | quelques g | quelques g |
+| Température de l'air | 10.2 | 12.6 |
+| Hauteur de la mer | 41.1 | 37.0 |
+| Agitation de l'eau | faible | 17 fort |
+| Densité au bout de la jetée | 1029.6 | 1027.4 |
+| Température de l'eau | 14.6 | 14.8 |

@@ -1,0 +1,46 @@
+| V. 4 Septembre - 1907 | Matin | Soir |
+|-----------------------|-------|------|
+| Hauteur Barométrique  | 766,2 |      |
+| Direction du vent     | cr.0  |      |
+| Force                 | 4     |      |
+|                       | 10    |      |
+| Nébulosité            | Des 6. Ames |      |
+|                       | Res. xi. cnrs |      |
+| Direction des nuages  | cr.n.o |      |
+| Pluie tombée          | "     |      |
+| Température de l'air  | 29,5  |      |
+| Hauteur de la mer     | 60,2  |      |
+| Agitation de l'eau    | 2     |      |
+| Visibilité au bout de la jetée | 1027,5 |      |
+| Température de l'eau  | 21,8  |      |
+|                       |       | 769,2 |
+|                       |       | cr.0  |
+|                       |       | 3     |
+|                       |       | 3 faibl. |
+|                       |       | 3     |
+|                       |       | 0     |
+|                       |       | 0     |
+|                       |       | cr.n.o |
+|                       |       | cr.n.o |
+|                       |       | "     |
+|                       |       | 27,7  |
+|                       |       | 61,0  |
+|                       |       | 13,8  |
+|                       |       | 2     |
+|                       |       | 8 fort |
+|                       |       | 1027,5 |
+|                       |       | 21,9  |
+| V. 5 Septembre - 1907 | Matin | Soir |
+| Hauteur Barométrique  | 769,1 | 769,2 |
+| Direction du vent     | cr.0  | cr.0  |
+| Force                 | 3     | 3 faibl. |
+|                       |       | 3     |
+| Nébulosité            | Des 6. Ames | 0 |
+|                       | Res. xi. cnrs | 0 |
+| Direction des nuages  | cr.n.o | cr.n.o |
+| Pluie tombée          | "     | "     |
+| Température de l'air  | 24,6  | 27,7  |
+| Hauteur de la mer     | 61,0  | 13,8  |
+| Agitation de l'eau    | 2     | 8 fort |
+| Visibilité au bout de la jetée | 1027,5 | 1027,5 |
+| Température de l'eau  | 21,8  | 21,9  |

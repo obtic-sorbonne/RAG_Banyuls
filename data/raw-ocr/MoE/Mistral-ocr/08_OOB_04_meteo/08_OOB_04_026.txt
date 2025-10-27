@@ -1,0 +1,47 @@
+# 12 Novembre 1901
+
+|  Name | Pk | Tilt | Sour  |
+| --- | --- | --- | --- |
+|  Manteur Barometrique |  | 7/2.8 | 7/2.3  |
+|  Direction du vent |  | or. or. | 80th  |
+|  Force |  | 1/20th | 1/20th  |
+|  Pneu |  | 1/20th | 1/20th  |
+|  Pneu |  | 1/20th | 1/20th  |
+|  Pneu |  | 1/20th | 1/20th  |
+|  Direction des nuages |  | or. or. | 1/20th  |
+|  Mise tombée |  |  |   |
+|  Pneu |  | 1/8.3 | 1/8.3  |
+|  Manteur de la mer |  | 15.6 | 15.6  |
+|  Égitation de l'eau |  | 1/15.6 | 1/15.6  |
+|  Sensité au bout de la jolie |  | 108.7 | 108.7  |
+|  Pneu |  | 1/1.7 | 1/1.7  |
+|  Pneu |  | 1/1.7 | 1/1.7  |
+|  Pneu |  | 1/1.7 | 1/1.7  |
+|  Pneu |  | 1/1.7 | 1/1.7  |
+|  Pneu |  | 1/1.7 | 1/1.7  |
+|  Pneu |  | 1/1.7 | 1/1.7  |
+|  Pneu |  | 1/1.7 | 1/1.7  |
+|  Pneu |  | 1/1.7 | 1/1.7  |
+|  Pneu |  | 1/1.7 | 1/1.7  |
+|  Pneu |  | 1/1.7 | 1/1.7  |
+|  Pneu |  | 1/1.7 | 1/1.7  |
+|  Pneu |  | 1/1.7 | 1/1.7  |
+|  Pneu |  | 1/1.7 | 1/1.7  |
+|  Pneu |  | 1/1.7 | 1/1.7  |
+|  Pneu |  | 1/1.7 | 1/1.7  |
+|  Pneu |  | 1/1.7 | 1/1.7  |
+|  Pneu |  | 1/1.7 | 1/1.7  |
+|  Pneu |  | 1/1.7 | 1/1.7  |
+|  Pneu |  | 1/1.7 | 1/1.7  |
+|  Pneu |  | 1/1.7 | 1/1.7  |
+|  Pneu |  | 1/1.7 | 1/1.7  |
+|  Pneu |  | 1/1.7 | 1/1.7  |
+|  Pneu |  | 1/1.7 | 1/1.7  |
+|  Pneu |  | 1/1.7 | 1/1.7  |
+|  Pneu |  | 1/1.7 | 1/1.7  |
+|  Pneu |  | 1/1.7 | 1/1.7  |
+|  Pneu |  | 1/1.7 | 1/1.7  |
+|  Pneu |  | 1/1.7 | 1/1.7  |
+|  Pneu |  | 1/1.7 | 1/1.7  |
+|  Pneu |  | 1/1.7 | 1/1.7  |
+|  Pneu |  | 1/1.7 | 1/1.7  |

@@ -1,0 +1,19 @@
+# 135
+
+## Sortie du 190
+
+|  Départ. de | à | heures du  |
+| --- | --- | --- |
+|  pour | Arrivée à |   |
+|  Départ. de |  | à  |
+|  pour | Arrivée à |   |
+|  Départ. de |  | à  |
+|  pour |  | heures du  |
+|  Arrivée au mouillage |  | à  |
+|  Étal. du temps: |  |   |
+|  Passagers à bord: |  |   |
+|  Objet. de la sortie: |  |   |
+|  Consommation | Briquettes de | Soils en kilos  |
+|   | Huile | Étoiles en litres  |
+|  Dépenses |  |   |
+|  Observations: |  |   |

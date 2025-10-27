@@ -1,0 +1,7 @@
+| **Peak Barometric Height (mmHg)** | **Wind Direction** | **Wind Speed (force)** | **Cloud Cover** | **Rainfall (mm)** | **Air Temperature (°C)** | **Sea Height (cm)** | **Water Agitation** | **Water Density (g/cm³)** | **Water Temperature (°C)** |
+|---|---|---|---|---|---|---|---|---|---|
+| **Morning (9h)** | 774.2 | West | 1 (moderate) | 10 | 9.3 | 47.9 | 1 (moderate) | 1.0285 | 12.2 |
+| **Evening (17h)** | 773.6 | West | 1 (moderate) | 10 | 10.8 | 64.2 | 1 (moderate) | 1.0290 | 12.1 |
+
+**Date:** 23 January 1901  
+**Location:** Tâle

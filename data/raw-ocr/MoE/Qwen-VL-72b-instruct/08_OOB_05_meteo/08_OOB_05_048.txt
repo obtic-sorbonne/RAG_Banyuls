@@ -1,0 +1,27 @@
+| V. 20 Octobre 1905 | Matin | Soir |
+|---|---|---|
+| Hauteur Barométrique | 799.6 | 798.9 |
+| Direction du Vent | cr.cr.o | cr.cr.o |
+| Force | iS | faible | fort |
+| Nébulosité (Res. o. (terre)) | 10 | lu |
+| Nébulosité (Res. xi. (mer)) | lu | lu |
+| Direction des nuages | cr.cr.o | N.cr.o |
+| Pluie tombée | 8.62/ | quelques g |
+| Température de l'air | 3 | E |
+| Hauteur de la mer | 87.2 | 36.2 |
+| Agitation de l'eau | 2 | d ferr |
+| Densité au bout de la jetée | lo28.9 | lo28.6 |
+| Température de l'eau | 17.3 | 16.9 |
+| V. 21 Octobre 1905 | Matin | Soir |
+| Hauteur Barométrique | | 760.9 |
+| Direction du vent | | Nous |
+| Force | iS | 3 |
+| Nébulosité (Res. o. (terre)) | | 0 |
+| Nébulosité (Res. xi. (mer)) | 0 | 0 |
+| Direction Ses nuages | " | " |
+| Pluie tombée | " | " |
+| Température de l'air | | |
+| Hauteur de la mer | | 39.0 |
+| Agitation de l'eau | | 3 |
+| Densité au bout de la jetée | | lo27.8 |
+| Température de l'eau | | 16.4 |

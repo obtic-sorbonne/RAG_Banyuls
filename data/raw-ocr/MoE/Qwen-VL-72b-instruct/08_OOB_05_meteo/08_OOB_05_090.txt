@@ -1,0 +1,27 @@
+|Nombre de bateaux -9| Nombre de baris de bateaux-13| V. 17 946 ans. 1906 | Matin | Soir |
+|---|---|---|---|---|
+|||Hauteur Barometrique|769.6|707.6|
+|||Direction du vent|"|"|
+|||Force is|0|0|
+|||Nébulosité (Reg. o. Clère)|0|0|
+|||( Reg. xê-(mer) )|0|0|
+|||Direction des mage|"|"|
+|||Pluie tombée|"|"|
+|||Température de l'air||19.3|
+|||Hauteur de la mer|3|5|
+|||Agitation de l'eau|0|0|
+|||Densité au bout de la jetée|5|5|
+|||Température de l'eau|3|3|
+||V. 19 946 ans. 1906 |Matin|Soir|
+|||Hauteur Barometrique||760.2|
+|||Direction du vent||er.cr.o|
+|||Force is||6|
+|||Nébulosité (Reg. o. Clère)||10|
+|||( Reg. xê-(mer) )||10|
+|||Direction des image||cr.o|
+|||Pluie tombée||"|
+|||Température de l'air||5|
+|||Hauteur de la mer||5|
+|||Agitation de l'eau||3|
+|||Densité au bout de la jetée||5|
+|||Température de l'eau||5|

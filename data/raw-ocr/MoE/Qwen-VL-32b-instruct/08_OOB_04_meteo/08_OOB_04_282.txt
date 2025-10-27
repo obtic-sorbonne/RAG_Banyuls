@@ -1,0 +1,31 @@
+|  V. 1er Octobre - 1903 | Obtation | Soir  |
+| --- | --- | --- |
+|  Hauteur Moarométrique | 764.6 | 762.8  |
+|  Direction du vent |  | 1.88  |
+|  Force | 2 | 3.7.7000  |
+|  (Reg. O. (Vaine)) | 10 | 10  |
+|  (Gébutosité) |  |   |
+|  (Reg. X. (mur)) | 10 | 10  |
+|  Direction des nuages | P.O | 1.88  |
+|  Flux Vombé | gnechgine. 2 | 6  |
+|  Température de l'air | 23.6 | 26.2  |
+|  Hauteur de la mer | 4.2 | 33.6  |
+|  Régulation de l'eau | 1.700 | 1  |
+|  Densité au bout de la jeté | 1028.6 | 1028.8  |
+|  Température de l'eau | 16.6 | 17.8  |
+
+|  V. 2 Octobre - 1903 | Obtation | Soir  |
+| --- | --- | --- |
+|  Hauteur Moarométrique | 767.2 | 766.4  |
+|  Direction du vent |  | 1.00  |
+|  Force | 2.700 | 2  |
+|  (Reg. O. (Vaine)) | 10 | 3  |
+|  (Gébutosité) |  |   |
+|  (Reg. X. (mur)) | 10 | 0  |
+|  Direction des nuages |  | 0.0  |
+|  Flux Vombé | 4.2/0 | 4  |
+|  Température de l'air | 12.7 | 22.1  |
+|  Hauteur de la mer | 47.1 | 39.4  |
+|  Régulation de l'eau | 1 | 1.700  |
+|  Densité au bout de la jeté | 1028.1 | 1028.1  |
+|  Température de l'eau | 17.6 | 17.6  |

@@ -1,0 +1,32 @@
+# 2. 39 Novembre - 1905
+
+|  Nom | Date | Type  |
+| --- | --- | --- |
+|  Hantum Paramétrique | 7/7.7 |   |
+|  Direction du vent | 7.0 |   |
+|  Force | 1 |   |
+|  Névuante | 10 |   |
+|  Direction des nuages | 10 |   |
+|  Nume tombée | or. or. |   |
+|  Composition de l'air | 9.8 |   |
+|  Hauteur de la mer | 3/1.1 |   |
+|  Acréation de l'eau | 3 faible |   |
+|  Densité au bout de la jetée | 10.29.1 |   |
+|  Composition de l'eau | 1/1.0 |   |
+
+# 2. 4 Décembre - 1905
+
+|  Nom | Date | Type  |
+| --- | --- | --- |
+|  Hantum Paramétrique | 267.0 |   |
+|  Direction du vent | or. or. | or.  |
+|  Force | 3 faible | 1  |
+|  Névuante | 10 | 10  |
+|  Nume tombée | 10 | 10  |
+|  Déviation des nuages | 8.8.8 | or. 8  |
+|  Nume tombée | 1.8.1 | 11.5  |
+|  Composition de l'air | 11.0 | 11.5  |
+|  Hauteur de la mer | 48.9 | 40.0  |
+|  Acréation de l'eau | 3 faible | 5  |
+|  Densité au bout de la jetée | 10.29.1 | 10.29.0  |
+|  Composition de l'eau | 14.9 | 14.1  |

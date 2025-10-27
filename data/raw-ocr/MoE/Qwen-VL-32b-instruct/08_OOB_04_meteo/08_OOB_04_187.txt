@@ -1,0 +1,33 @@
+# N° 1er février - 1903
+
+|  Nom | Date | Prix  |
+| --- | --- | --- |
+|  Hauteur Peuronctrique | 18.1.4 |   |
+|  Direction du vent | 1.0 |   |
+|  Force | 1 |   |
+|  Pécbutoïde | 10 |   |
+|  (Reg. C. (min)) | 10 |   |
+|  Direction des nuages | 10 |   |
+|  Huie tombée | 8.4 |   |
+|  Température de l'air | 46.1 |   |
+|  Hauteur de la mer | 1 |   |
+|  Égitation de l'eau | 1 |   |
+|  Densité au bout de la jeté | 10.89.8 |   |
+|  Température de l'eau | 11.1 |   |
+
+# N° 2 février - 1903
+
+|  Nom | Date | Prix  |
+| --- | --- | --- |
+|  Hauteur Peuronctrique | 18.1.4 |   |
+|  Direction du vent | 1.0 |   |
+|  Force | 1 |   |
+|  Pécbutoïde | 1 |   |
+|  (Reg. C. (min)) | 1 |   |
+|  Direction des nuages | 1.0 |   |
+|  Huie tombée | 8.4 |   |
+|  Température de l'air | 46.1 |   |
+|  Hauteur de la mer | 1 |   |
+|  Égitation de l'eau | 1 |   |
+|  Densité au bout de la jeté | 10.89.8 |   |
+|  Température de l'eau | 10.8 |   |

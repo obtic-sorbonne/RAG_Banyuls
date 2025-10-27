@@ -1,0 +1,32 @@
+|  V. 16 Quat. 1906 | Mbaatin | Bois  |
+| --- | --- | --- |
+|  Ajouteur Miarométrique | 284.3 |   |
+|  Direction du vent | or.cr. |   |
+|  Force | 1/2ert |   |
+|  Rég. o. (lire) | 1/2ant |   |
+|  Mébulivité |  |   |
+|  (Reg. K. (min) |  |   |
+|  Direction des nuages |  |   |
+|  Flux tombe |  |   |
+|  Température de l'air | 240 |   |
+|  Ajouteur de la mer | 1/2.6 |   |
+|  Régination de l'eau | 1/2.6 |   |
+|  Densité au bout de la jetée | 102.4 |   |
+|  Température de l'eau | 28.2 |   |
+
+|  V. 17 Quat. 1906 | Mbaatin | Bois  |
+| --- | --- | --- |
+|  Ajouteur Miarométrique | 164.1 | 266.0  |
+|  Direction du vent | or.cr. | 1/2ert  |
+|  Force | 2/2abb | 1/2  |
+|  Rég. o. (lire) | 10 | 10  |
+|  Mébulivité |  |   |
+|  (Reg. K. (min) |  |   |
+|  Direction des nuages | Ouest | Ouest  |
+|  Flux tombe | 28.3 | 24.3  |
+|  Température de l'air | 1/8.3 | 48.0  |
+|  Ajouteur de la mer | 2 | 2  |
+|  Rég. o. (lire) | 1/2.1 | 102.1  |
+|  Rég. K. (min) | 1/2.1 | 21.1  |
+|  Densité au bout de la jetée |  |   |
+|  Température de l'eau | 21.4 |   |

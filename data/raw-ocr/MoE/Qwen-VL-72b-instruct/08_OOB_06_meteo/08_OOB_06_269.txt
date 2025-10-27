@@ -1,0 +1,41 @@
+| **Observations du 1902, 9 Avril** |
+| --- |
+| **Nombre de bateaux sortis (pêche à l. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .)** | **24.8** |
+| **Température de l'air** | **maxima depuis la veille** | **24.3** |
+| | **minima id.** | **12.3** |
+| **Température de l'eau** | **maxima depuis la veille** |  |
+| | **minima id.** |  |
+| **Pluie tombée depuis la veille, en millim.** |  |
+| **Evaporation depuis le** | **190** | **, en millim.** |  |
+|  | **à 9 h. m.** | **n.n.o.** | **à 3 h. s.** |  |
+| **Direction du vent (à terre)** | **3 foud.** |  |
+| **Force** | |  |
+| **Direction des nuages** | **n.n.o.** |  |
+| **Nébulosité** | **région Ouest (terre)** | **10** |  |
+| | **id. Est (mer)** | **10** |  |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro** | **44.9** |
+| **Agitation de l'eau** | **2** |
+| **Densité de l'eau au bout de la jetée** | **1'28.3** |
+| **Température** | **19.8** |
+
+
+| **Observations du 1902, 10 Avril** |
+| --- |
+| **Nombre de bateaux sortis (pêche à l. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .)** | **18.4** |
+| **Température de l'air** | **maxima depuis la veille** | **18.4** |
+| | **minima id.** | **12.6** |
+| **Température de l'eau** | **maxima depuis la veille** |  |
+| | **minima id.** |  |
+| **Pluie tombée depuis la veille, en millim.** |  |
+| **Evaporation depuis le** | **Janvier 1902**, **, en millim.** | **160** |
+|  | **à 9 h. m.** | **n.n.o.** | **à 3 h. s.** |  |
+| **Direction du vent (à terre)** | **3 foud.** |  |
+| **Force** | |  |
+| **Direction des nuages** | **n.n.o.** |  |
+| **Nébulosité** | **région Ouest (terre)** | **2** |  |
+| | **id. Est (mer)** | **1** |  |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro** | **50.0** |
+| **Agitation de l'eau** | **2** |
+| **Densité de l'eau au bout de la jetée** | **1'27.3** |
+| **Température** | **12.6** |
+| ** Température id.** | **31.4** | **1.9** |  |

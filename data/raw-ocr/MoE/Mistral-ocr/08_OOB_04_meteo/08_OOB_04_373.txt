@@ -1,0 +1,29 @@
+|  4. 15 9thai - 1904 | 9thatin | Soir  |
+| --- | --- | --- |
+|  Hauteur Pcarometrique - Direction du vent | 262.8 | 267.2  |
+|  Force | 16 | 1.8  |
+|  Reg. C. (tire) | 1 | 0  |
+|  Sububosite | 1 | 1  |
+|  Rég. E. (mur) | 1 | 1.8  |
+|  Direction des nuages | 12.8 | 88.8  |
+|  Flux tombé | 12.8 | 64.6  |
+|  Température de l'air | 1 faible | 1 faible  |
+|  Hauteur de la mer | 1082.2 | 1086.2  |
+|  Égitation de l'eau | 19.1 | 81.4  |
+|  Bénosité au bout de la jetée |  |   |
+|  Bénosité au bout de la jetée |  |   |
+|  Température de l'eau | 19.1 | 81.4  |
+|  V. 17 9thai - 1904 | 9thatin | Soir  |
+|  Hauteur Pcarometrique - Direction du vent |  | 262.4  |
+|  Force |  | 84  |
+|  Reg. C. (tire) |  | 17.6  |
+|  Sububosite |  | 1  |
+|  Rég. E. (mur) |  | 1  |
+|  Direction des nuages |  | 87.0  |
+|  Flux tombé |  | 63.7  |
+|  Température de l'air |  | 1 faible  |
+|  Hauteur de la mer |  | 1087.0  |
+|  Égitation de l'eau |  | 50.8  |
+|  Bénosité au bout de la jetée |  |   |
+|  Bénosité au bout de la jetée |  |   |
+|  Température de l'eau |  | 1  |

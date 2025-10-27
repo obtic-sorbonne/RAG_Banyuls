@@ -1,0 +1,8 @@
+```plaintext
+| Date         | Heure | Hauteur Barométrique | Direction du vent | Force | Nébulosité | Direction des nuages | Pluie Tombée | Température de l'air | Hauteur de la mer | Agitation de l'eau | Densité au bout de la jetée | Température de l'eau |
+|--------------|-------|----------------------|-------------------|-------|------------|---------------------|--------------|---------------------|------------------|-------------------|---------------------------|---------------------|
+| V. 2 juillet 1904 | Matin | 766.3               | Er.cr.0           | 2     | Reg. 0 (Clame) | L Reg. 0 (mr)       | 2            | 22.5                | 50.0             | 1 (FaO)            | 1027.4                    | 21.3                |
+|               | Soir  | 766.0               | S. S. E           | 1 fort | 0           | "                    | "            | 27.4                | 17.6             | 1 T. fort         | 1027.4                    | 21.7                |
+| V. 4 juillet 1904 | Matin | 769.8               | S. 8              | 1 fort | Reg. 0 (Clame) | L Reg. X (mr)       | 1            | 24.2                | 47.7             | 1 faible          | 1026.6                    | 24.4                |
+|               | Soir  | 764.7               | S. S. E           | 1 fort | 0           | Ouest               | quelques g   | 28.0                | 11.3             | 1 faible          | 1026.4                    | 24.7                |
+```

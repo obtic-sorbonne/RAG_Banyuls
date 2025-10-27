@@ -1,0 +1,18 @@
+```plaintext
+2
+
+|  A. 23 Mars - 1905 | Matin | Jour  |
+| --- | --- | --- |
+|  Hauteur Barométrique | 760.6 | 760.8  |
+|  Direction du vent | E port | cr. ete  |
+|  Force | 1 | 1 fort  |
+|  Nébulosité | Reg. 2 (terre) | 10  |
+|  (Reg. K. (mer)) | 10.29.5 | 10.29.8  |
+|  Direction des nuages | cr. ete | cr. ete  |
+|  Pluie tombée | quelques | 1  |
+|  Température de l'air | 18.2 | 16.6  |
+|  Hauteur de la mer | 76.0 | 76.0  |
+|  Agitation de l'eau | 1 faible | 1  |
+|  Densité au bout de la jetée | 10.29.5 | 10.29.8  |
+|  Température de l'eau | 13.0 | 13.1  |
+```

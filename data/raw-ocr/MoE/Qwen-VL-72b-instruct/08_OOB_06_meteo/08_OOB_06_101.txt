@@ -1,0 +1,47 @@
+| **OBSERVATIONS DU 1960 28 OCTOBRE** |
+| --- |
+| **Nombre de bateaux sortis (pêche à l.)**            |  |
+| **Température de l'air**                         |                |    |
+| - Maxima depuis la veille                       | 14.7           |    |
+| - Minima id.                                     | 2.9            |    |
+| **Température de l'eau**                         |                |    |
+| - Maxima depuis la veille                       |                |    |
+| - Minima id.                                     |                |    |
+| **Pluie tombée depuis la veille, en millim.**    | quelque...     |    |
+| **Evaporation depuis le 1960, en millim.**       |                |    |
+| **Direction du vent (à terre)**                  |                |    |
+| **Force**                                        |                |    |
+| - à 9 h. m.                                     | 4              |    |
+| - à 3 h. s.                                     | 4              |    |
+| **Direction des nuages**                         |                |    |
+| **Nébulosité**                                   |                |    |
+| - région Ouest (terre)                           | 70             |    |
+| - id. Est (mer)                                 | 60             |    |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.)** | 31.0 |    |
+| **Agitation de l'eau**                            | 3              |    |
+| **Densité de l'eau au bout de la jetée**          |                |    |
+| **Température id.**                              |                |    |
+
+| **OBSERVATIONS DU 1960 30 OCTOBRE** |
+| --- |
+| **Nombre de bateaux sortis (pêche à l.)**            |  |
+| **Température de l'air**                         |                |    |
+| - Maxima depuis la veille                       | 8.1            |    |
+| - Minima id.                                     | 1.1            |    |
+| **Température de l'eau**                         |                |    |
+| - Maxima depuis la veille                       |                |    |
+| - Minima id.                                     |                |    |
+| **Pluie tombée depuis la veille, en millim.**    | 17             |    |
+| **Evaporation depuis le 1960, en millim.**       |                |    |
+| **Direction du vent (à terre)**                  |                |    |
+| **Force**                                        |                |    |
+| - à 9 h. m.                                     | 6              |    |
+| - à 3 h. s.                                     | 6              |    |
+| **Direction des nuages**                         |                |    |
+| **Nébulosité**                                   |                |    |
+| - région Ouest (terre)                           | 30             |    |
+| - id. Est (mer)                                 | 20             |    |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.)** | 35.9 | 42.0 |
+| **Agitation de l'eau**                            | 3              | 3    |
+| **Densité de l'eau au bout de la jetée**          | 1.028.9        | 1.028.7 |
+| **Température id.**                              | 9.2            | 9.7   |

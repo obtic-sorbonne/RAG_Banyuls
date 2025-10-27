@@ -1,0 +1,19 @@
+# Date. 22 Janvier. 1901
+
+|  |   |   |
+| --- | --- | --- |
+|  9." Matin. 3." Soir |  |   |
+|  Hauteur Parométrique |  |   |
+|  Direction du vent | 773,7 | 773,3  |
+|  Force | S.E. | N.N.E.  |
+|   | 1 faible | 1 fort  |
+|  Tributosite | Reg. C. (terre) | 1  |
+|   | 1 | 0  |
+|  Direction des nuages |  |   |
+|  Unic tombe |  |   |
+|  Température de l'air | 11,2 | 11,6  |
+|  Hauteur de la mer | 73,2 | 74,2  |
+|  Agitation de l'eau | 1 | 2  |
+|  Densité de l'eau | 1028,1 | 1028,2  |
+|  |   |   |
+|  Température de l'eau | 12,3 | 12,5  |

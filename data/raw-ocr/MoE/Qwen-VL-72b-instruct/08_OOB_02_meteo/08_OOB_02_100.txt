@@ -1,0 +1,18 @@
+| **Date** | 18 Juin 1901 |
+|---|---|
+| **Heure** | 9h Matin | 3h Soir |
+| **Hauteur Barométrique** | 765.7 | 763.7 |
+| **Direction du vent** | Nord | Ouest |
+| **Force** | 1 | 10 |
+| **Nébulosité** |  |  |
+| **Reg. 0. (terre)** |  | 10 |
+| **Reg. E. (mer)** | 2 | 10 |
+| **Direction des nuages** | Nord | Nord |
+| **Pluie tombée** | "" | "" |
+| **Température de l'air** | 18.3 | 21.4 |
+| **Hauteur de la mer** | 54.6 | 66.1 |
+| **Agi** **tation de l'eau** | 3 fort | 3 |
+| **Densité de l'eau** |  |  |
+| **au bout de la jetée** | 1027.7 | 1027.4 |
+| **au Large** |  |  |
+| **Température de l'eau** | 18.9 | 19.4 |

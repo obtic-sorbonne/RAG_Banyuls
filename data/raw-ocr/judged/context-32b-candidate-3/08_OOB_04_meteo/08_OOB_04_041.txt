@@ -1,0 +1,19 @@
+D
+vre.
+R - 1901
+
+|  **Hauteur Barométrique** | **Matin** | **Soir**  |
+| --- | --- | --- |
+|  Direction du vent | Ouest | Ouest  |
+|  Force | 1 | 2 fort  |
+|  Nébulosité | Reg. O. (terre) | 10 | 10  |
+|  Nébulosité | Reg. E. (mer) | 10 | 10  |
+|  Direction des nuages | Sud-Est | Sud-Est  |
+|  Pluie tombée | 3.0 | 10.0  |
+|  Température de l'air | 6.4 | 9.8  |
+|  Hauteur de la mer | 28.7 | 23.1  |
+|  Agitation de l'eau | 1 | 2 fort  |
+|  Densité au bout de la jetée | 1027.7 | 1027.7  |
+|  Température de l'eau | 13.5 | 12.7  |
+
+4-17 X 6re 1901

@@ -1,0 +1,63 @@
+# 5. 2 Juin - 1902
+
+## Matin
+|  **Hauteur Barométrique** | 264,4  |
+| --- | --- |
+|  Direction du vent | or.0.0  |
+|  Force | 3  |
+|  **Nébulosité** | Reg. O. (terre)  |
+|  **Nébulosité** | Reg. E. (mer) | 10  |
+|  Direction des nuages | or.0.0  |
+|  **Pluie tombée** |   |
+|  **Température de l'air** | 22,4  |
+|  **Hauteur de la mer** | 14,8  |
+|  **Agitation de l'eau** | 1 faible  |
+|  Densité au bout de la jetée | 1026,1  |
+|  **Température de l'eau** | 15,8  |
+
+## Soir
+|  **Hauteur Barométrique** | 267,2  |
+| --- | --- |
+|  Direction du vent | or.0.0  |
+|  Force | 3  |
+|  **Nébulosité** | Reg. O. (terre) | 10  |
+|  **Nébulosité** | Reg. E. (mer) | 10  |
+|  Direction des nuages | or.0.0  |
+|  **Pluie tombée** |   |
+|  **Température de l'air** | 23,1  |
+|  **Hauteur de la mer** | 44,3  |
+|  **Agitation de l'eau** | 1 faible  |
+|  Densité au bout de la jetée | 1027,1  |
+|  **Température de l'eau** | 17,1  |
+
+# 5. 3 Juin - 1902
+
+## Matin
+|  **Hauteur Barométrique** | 266,2  |
+| --- | --- |
+|  Direction du vent | 0.001  |
+|  Force | 3  |
+|  **Nébulosité** | Reg. O. (terre) | 0  |
+|  **Nébulosité** | Reg. E. (mer) | 2  |
+|  Direction des nuages | 0.001  |
+|  **Pluie tombée** |   |
+|  **Température de l'air** | 22,4  |
+|  **Hauteur de la mer** | 11,9  |
+|  **Agitation de l'eau** | 1 faible  |
+|  Densité au bout de la jetée | 1027,3  |
+|  **Température de l'eau** | 19,6  |
+
+## Soir
+|  **Hauteur Barométrique** | 267,8  |
+| --- | --- |
+|  Direction du vent | 0.001  |
+|  Force | 3  |
+|  **Nébulosité** | Reg. O. (terre) | 0  |
+|  **Nébulosité** | Reg. E. (mer) | 2  |
+|  Direction des nuages | or.0.0  |
+|  **Pluie tombée** |   |
+|  **Température de l'air** | 23,0  |
+|  **Hauteur de la mer** | 47,1  |
+|  **Agitation de l'eau** | 1  |
+|  Densité au bout de la jetée | 1027,4  |
+|  **Température de l'eau** | 19,3  |

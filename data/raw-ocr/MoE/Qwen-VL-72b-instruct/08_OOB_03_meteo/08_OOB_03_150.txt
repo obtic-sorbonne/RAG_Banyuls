@@ -1,0 +1,7 @@
+| **Date** | 19 Mars 1902 |
+|---|---|
+| **Heure** | 9h Matin | 3h Soir |
+| **Hauteur Barométrique** | 762.6 |  |
+| **Direction du vent** | Ouest |  |
+| **Force** | 2 |  |
+| **Nébulosité**

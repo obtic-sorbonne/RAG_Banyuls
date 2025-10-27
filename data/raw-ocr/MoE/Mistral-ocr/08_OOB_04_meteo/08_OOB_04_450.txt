@@ -1,0 +1,31 @@
+|  V. de Décembre - 1904 | Obation | Jair  |
+| --- | --- | --- |
+|  Hauteur Paramehique | 164.4 |   |
+|  Direction du vent | or. cr. |   |
+|  Force | 2 |   |
+|  (Reg. G. (mer) | 0 |   |
+|  (Reg. G. (mer) | 0 |   |
+|  Direction des mages | 24.2 |   |
+|  (Prés. Vombe) |  |   |
+|  Rémperature de l'air | 10.0 |   |
+|  Hauteur de la mer | 54.2 |   |
+|  (Agitation de l'eau) |  |   |
+|  Densité au bout de la jolie | 1029.4 |   |
+|  Rémperature de l'eau | 14.1 |   |
+
+|  V. de Décembre - 1904 | Obation | Jair  |
+| --- | --- | --- |
+|  Hauteur Paramehique | 161.4 |   |
+|  Direction du vent | or. cr. |   |
+|  Force | 1 |   |
+|  (Reg. G. (tome) | 2 |   |
+|  (Prés. Vombe) |  |   |
+|  (Reg. G. (mer) | 2 |   |
+|  (Prés. Vombe) |  |   |
+|  Direction des mages | 24.2 |   |
+|  (Prés. Vombe) |  |   |
+|  Rémperature de l'air | 9.5 |   |
+|  Hauteur de la mer | 59.8 |   |
+|  (Agitation de l'eau) |  |   |
+|  Densité au bout de la jolie | 1029.1 |   |
+|  Rémperature de l'eau | 14.8 |   |

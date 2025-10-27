@@ -1,0 +1,36 @@
+```
+Journal Météorologique du Navire "La Belle Poule"
+Période : 30 Avril et 1er Mai 1906
+
+| Nombre de jours de bateaux | Date       | Matin | Soir  |
+|----------------------------|------------|-------|-------|
+| 14                         | 30 Avril 1906 |      |      |
+|                            | Hauteur Barométrique (mm) | 779.0 | 794.7 |
+|                            | Direction du vent | Sud | Sud-Est |
+|                            | Force | 0 | Fort |
+|                            | Nébulosité (Reg. O. Terre) | 10 | 10 |
+|                            | Nébulosité (Reg. E. Mer) | 10 | 10 |
+|                            | Direction des nuages | - | Ouest |
+|                            | Pluie tombée (mm) | - | quelques g |
+|                            | Température de l'air (°C) | S | - |
+|                            | Hauteur de la mer (m) | 1 | - |
+|                            | Agitation de l'eau (code) | 3 | - |
+|                            | Densité au bout de la jetée (g/cm³) | - | - |
+|                            | Température de l'eau (°C) | - | - |
+
+| 15                         | 1er Mai 1906 |      |      |
+|                            | Hauteur Barométrique (mm) | 799.4 | - |
+|                            | Direction du vent | Ouest | Ouest |
+|                            | Force | 2 | - |
+|                            | Nébulosité (Reg. O. Terre) | 10 | - |
+|                            | Nébulosité (Reg. E. Mer) | 10 | 20 |
+|                            | Direction des nuages | - | Ouest |
+|                            | Pluie tombée (mm) | - | quelques g |
+|                            | Température de l'air (°C) | S | 12.3 |
+|                            | Hauteur de la mer (m) | 1 | - |
+|                            | Agitation de l'eau (code) | 3 | 1 |
+|                            | Densité au bout de la jetée (g/cm³) | - | - |
+|                            | Température de l'eau (°C) | - | - |
+
+Note Marginale : Aucune remarque particulière pour ces dates.
+```

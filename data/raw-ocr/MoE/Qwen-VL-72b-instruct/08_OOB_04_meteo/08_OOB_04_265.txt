@@ -1,0 +1,33 @@
+| Date          | Matin | Soir   |
+|---------------|-------|--------|
+| 9\.20 Août 1903 |       |        |
+| Hauteur Barométrique | 767.6  | 767.7  |
+| Direction du vent   | cr. cr. | s. E   |
+| Force          | 2     | 2      |
+| Reg. O. (lune)      | 0     | 0      |
+| Nébulosité      | 0     | 0      |
+| d'au. E. (mer)      |       |        |
+| Direction des nuages |       |        |
+| Pluie Tombée      |       |        |
+| Température de l'air | 20.4  | 24.9  |
+| Hauteur de la mer   | 3.4   | 40.0  |
+| Agitation de l'eau   | 1 fort | faible |
+| Densité au bout de la jetée | 1028.0 | 1028.0 |
+| Température de l'eau | 21.0  | 22.0  |
+
+| Date          | Matin | Soir   |
+|---------------|-------|--------|
+| 9\.21 Août 1903 |       |        |
+| Hauteur Barométrique | 763.6  | 760.6  |
+| Direction du vent   | cr. 8  | cr. 8  |
+| Force          | 1     | 1      |
+| Reg. O. (lune)      | 0     | 0      |
+| Nébulosité      | 0     | 0      |
+| d'au. E. (mer)      |       |        |
+| Direction des nuages |       |        |
+| Pluie Tombée      |       |        |
+| Température de l'air | 21.6  | 28.8  |
+| Hauteur de la mer   | 46.0  | 8/9    |
+| Agitation de l'eau   | 1 faible | 1 fort |
+| Densité au bout de la jetée | 1027.6 | 1027.3 |
+| Température de l'eau | 21.6  | 21.8  |

@@ -1,0 +1,19 @@
+# Date: 31 Mai 1901
+
+|  Nautique Parométrique | 9" Matin 3" Soir  |
+| --- | --- |
+|  Direction du vent |   |
+|  Force | 752.7  |
+|   | N.N.E  |
+|   | 2 failles  |
+|   | 10 kgm³.  |
+|  Tributosité | 10 kgm³.  |
+|  Direction des nuages | 10 kgm³.  |
+|  Huie tombee |   |
+|  Température de l'air | 10 kgm.  |
+|  Nautique de la mer | 4/5  |
+|  Digitation de l'eau | 17 failles  |
+|  Sensité de l'eau | 1025.8  |
+|  Température de l'eau | 19.5  |
+
+Température de l'eau: 19.5

@@ -1,0 +1,31 @@
+# V. de Juillet 1902
+
+|  **Pfandem** | **Narométrique** | **F. 8.7**  |
+| --- | --- | --- |
+|  Direction du vent |  |   |
+|  Force |  |   |
+|  |   |   |
+|  **Débautosité** | **Reg. O. (lire)** | **0**  |
+|  Direction des mages |  |   |
+|  **Phie tombe** |  |   |
+|  Température de l'air |  | 23.2  |
+|  Hauteur de la mer |  | 13.7  |
+|  **Agitation de l'eau** |  | 1.7 faible  |
+|  Densité au bout de la jeté |  | 108.1  |
+|  Température de l'eau |  | 21.9  |
+
+# V. de Juillet 1902
+
+|  **Pfandem** | **Narométrique** | **F. 8.7**  |
+| --- | --- | --- |
+|  Direction du vent |  |   |
+|  Force |  |   |
+|  |   |   |
+|  **Débautosité** | **Reg. O. (lire)** | **25.0**  |
+|  Direction des mages |  |   |
+|  **Phie tombe** |  |   |
+|  Température de l'air |  | 28.2  |
+|  Hauteur de la mer |  | 12.8  |
+|  **Agitation de l'eau** |  | 0  |
+|  Densité au bout de la jeté |  | 108.1  |
+|  Température de l'eau |  | 23.0  |

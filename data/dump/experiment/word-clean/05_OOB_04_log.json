@@ -1,0 +1,1455 @@
+{
+  "book_name": "05_OOB_04_log",
+  "pages": [
+    {
+      "page_number": "001",
+      "raw_content": "",
+      "cleaned_content": "",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "002",
+      "raw_content": "",
+      "cleaned_content": "",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "003",
+      "raw_content": "",
+      "cleaned_content": "",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "004",
+      "raw_content": "",
+      "cleaned_content": "",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "005",
+      "raw_content": "",
+      "cleaned_content": "",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "006",
+      "raw_content": "N Carte 6 Novembre 1790 Chalut au large de Barques le jour R\u00e9sultat op\u00e9rations Plume Poids 1 quartier pierre",
+      "cleaned_content": "N Carte 6 Novembre 1790 Chalutaulargede Barqueslejour R\u00e9sultatop\u00e9rations Plume Poids 1 quartierpierre",
+      "entities": {
+        "dates": [
+          "6 Novembre 1790"
+        ]
+      }
+    },
+    {
+      "page_number": "007",
+      "raw_content": "M sup re sup d artice 19 X sup e sup 1790 Chalut Lucerlite au large de la Boue de Burgues par 48 Etant en bord l \u00e9quipage M sup re sup le N sup re sup Marcheur R\u00e9sultat Elecque Mercheur Craugores Antequetay Urphrodotes",
+      "cleaned_content": "M supresupd artice 19 X supe sup 1790 Chalut Lucerliteaulargedela Bouede Burguespar 48 Etantenbordl \u00e9quipage M supresuple N supresup Marcheur R\u00e9sultat Elecque Mercheur Craugores Antequetay Urphrodotes",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "008",
+      "raw_content": "12 sup e sup Quartier 16 Xbre 1790 Chalus Lucalot sup i sup Boie par 40 m\u00e8tres Resselot sup i sup Crustac sup i sup divers",
+      "cleaned_content": "12 supe sup Quartier 16 Xbre 1790 Chalus Lucalotsupi sup Boiepar 40 m\u00e8tres Resselotsupi sup Crustacsupi supdivers",
+      "entities": {
+        "dates": [
+          "16 Xbre 1790"
+        ]
+      }
+    },
+    {
+      "page_number": "009",
+      "raw_content": "13 sup e sup partie 28 H sup r sup du 1790 Recherche des amphitrites Jour de Esquelles \u00e0 l ancre en Mervecis temps Subsercante",
+      "cleaned_content": "13 supe suppartie 28 H supr supdu 1790 Recherchedesamphitrites Jourde Esquelles \u00e0 lancreen Mervecistemps Subsercante",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "010",
+      "raw_content": "M sup e sup Vartie 42 8 sup e sup 1790 Recherche de Amphioces R\u00e9sultats il Sacyphionces Habitations",
+      "cleaned_content": "M supe sup Vartie 42 8 supe sup 1790 Recherchede Amphioces R\u00e9sultatsil Sacyphionces Habitations",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "011",
+      "raw_content": "N Sixtie 23 Xbre 1890 Charles Localit\u00e9 Large de Cart Sendres Rituelles Arri\u00e8res des Terre Penons rectemarier esphrondis",
+      "cleaned_content": "N Sixtie 23 Xbre 1890 Charles Localit\u00e9 Largede Cart Sendres Rituelles Arri\u00e8resdes Terre Penonsrectemarieresphrondis",
+      "entities": {
+        "dates": [
+          "23 Xbre 1890"
+        ]
+      }
+    },
+    {
+      "page_number": "012",
+      "raw_content": "16 sup e sup Sortie 5 Janvier 1891 Chalus Localit\u00e9 5 milles N E du cap Bear R\u00e9sultats Sledmes Volgula impura Thiographa Bernard et Adamsia Pour Mr Prouho Jh Guilez",
+      "cleaned_content": "16 supe sup Sortie 5 Janvier 1891 Chalus Localit\u00e9 5 milles N E ducap Bear R\u00e9sultats Sledmes Volgulaimpura Thiographa Bernardet Adamsia Pour Mr Prouho Jh Guilez",
+      "entities": {
+        "dates": [
+          "5 Janvier 1891"
+        ]
+      }
+    },
+    {
+      "page_number": "013",
+      "raw_content": "17 sup e sup Sortie 31 Janvier 1891 Charlet Localit\u00e9 large du Cap B\u00e9vue par hpme R\u00e9colteur Cyrillus Charleus 2 acutis 1 Lucidire M\u00eaomesures Ele Tonres",
+      "cleaned_content": "17 supe sup Sortie 31 Janvier 1891 Charlet Localit\u00e9 largedu Cap B\u00e9vueparhpme R\u00e9colteur Cyrillus Charleus 2 acutis 1 Lucidire M\u00eaomesures Ele Tonres",
+      "entities": {
+        "dates": [
+          "31 Janvier 1891"
+        ]
+      }
+    },
+    {
+      "page_number": "014",
+      "raw_content": "17 sup e sup Sortie 4 sup e sup F\u00e9vrier 1891 Charlue une traverse de la Baie de Bourges R\u00e9sultats \u00c9l\u00e9vations vases cies",
+      "cleaned_content": "17 supe sup Sortie 4 supe sup F\u00e9vrier 1891 Charlueunetraversedela Baiede Bourges R\u00e9sultats \u00c9l\u00e9vationsvasescies",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "015",
+      "raw_content": "19 sup e sup Journe 17 f\u00e9vrier 1791 Chalus Larre de la Cote de Burugues R\u00e9sultat orphicures Elidores Verchelles",
+      "cleaned_content": "19 supe sup Journe 17 f\u00e9vrier 1791 Chalus Larredela Cotede Burugues R\u00e9sultatorphicures Elidores Verchelles",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "016",
+      "raw_content": "2 sup e sup Sortie 19 f\u00e9vrier 1791 Cherbus S mille du Cap B\u00e9ar R\u00e9sultat Sctour Chalutage 1 Remercis A Th\u00e9venot",
+      "cleaned_content": "2 supe sup Sortie 19 f\u00e9vrier 1791 Cherbus S milledu Cap B\u00e9ar R\u00e9sultat Sctour Chalutage 1 Remercis A Th\u00e9venot",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "017",
+      "raw_content": "21 sup e sup Sortie 20 f\u00e9vrier 1791 Chalus 7 mill sup s sup du Corps Carri\u00e8re pour Pone R\u00e9sultat \u00c9lectrices Echines accutus fraguves Dueris Canturias Exmercis Notaria sur hydorciis niuniciis Signature",
+      "cleaned_content": "21 supe sup Sortie 20 f\u00e9vrier 1791 Chalus 7 millsups supdu Corps Carri\u00e8repour Pone R\u00e9sultat \u00c9lectrices Echinesaccutusfraguves Dueris Canturias Exmercis Notariasurhydorciisniuniciis Signature",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "018",
+      "raw_content": "24 sup e sup Sortie 7 Mars 1791 L ancre Parage du Cidre R\u00e9sultat Cidres Jet\u00e9ts aentcs",
+      "cleaned_content": "24 supe sup Sortie 7 Mars 1791 L ancre Paragedu Cidre R\u00e9sultat Cidres Jet\u00e9tsaentcs",
+      "entities": {
+        "dates": [
+          "7 Mars 1791"
+        ]
+      }
+    },
+    {
+      "page_number": "019",
+      "raw_content": "23 sup e sup Sortie 9 Mars 1791 Faubert Entre le cap riderei et le cap Cerb\u00e8re Carboneux par 3 pm R\u00e9ticelar Gorgones Synguardime Muricea",
+      "cleaned_content": "23 supe sup Sortie 9 Mars 1791 Faubert Entrelecapridereietlecap Cerb\u00e8re Carboneuxpar 3 pm R\u00e9ticelar Gorgones Synguardime Muricea",
+      "entities": {
+        "dates": [
+          "9 Mars 1791"
+        ]
+      }
+    },
+    {
+      "page_number": "020",
+      "raw_content": "24 sup e sup Octobre Chalus au large de Port Vendres Retrouv\u00e9 El\u00e9onore Paris Vers\u00e9es courantels",
+      "cleaned_content": "24 supe sup Octobre Chalusaulargede Port Vendres Retrouv\u00e9 El\u00e9onore Paris Vers\u00e9escourantels",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "021",
+      "raw_content": "19 sup e sup Sortie 20 mars 1791 Chalut Havre de la baie R\u00e9sultat 8 lutteux alequins",
+      "cleaned_content": "19 supe sup Sortie 20 mars 1791 Chalut Havredelabaie R\u00e9sultat 8 lutteuxalequins",
+      "entities": {
+        "dates": [
+          "20 mars 1791"
+        ]
+      }
+    },
+    {
+      "page_number": "022",
+      "raw_content": "26 sup e sup Sortie 27 mars 91 Chalut Largi de la baie R\u00e9sultat le chalut a \u00e9t\u00e9 rapport\u00e9 \u00e0 terre pour les \u00e9l\u00e8ves de l exercice de p\u00eache Signature",
+      "cleaned_content": "26 supe sup Sortie 27 mars 91 Chalut Largidelabaie R\u00e9sultatlechaluta \u00e9t\u00e9 rapport\u00e9 \u00e0 terrepourles \u00e9l\u00e8vesdel exercicedep\u00eache Signature",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "023",
+      "raw_content": "27 sup e sup Journee 28 Mars 1791 Arrivage du Coloneil amphibious un Marchepied \u00e0 l occasion de l exercice de Passeur Cap d Irbrille Signature",
+      "cleaned_content": "27 supe sup Journee 28 Mars 1791 Arrivagedu Coloneilamphibiousun Marchepied \u00e0 loccasiondel exercicede Passeur Capd Irbrille Signature",
+      "entities": {
+        "dates": [
+          "28 Mars 1791"
+        ]
+      }
+    },
+    {
+      "page_number": "024",
+      "raw_content": "2 Fevrier 1791 30 Mars 1791 Le Barteron est venu au Port Vendres pour Sapprovionner M M Bruech et Jung sont descendus",
+      "cleaned_content": "2 Fevrier 1791 30 Mars 1791 Le Barteronestvenuau Port Vendrespour Sapprovionner M M Bruechet Jungsontdescendus",
+      "entities": {
+        "dates": [
+          "2 Fevrier 1791",
+          "30 Mars 1791"
+        ]
+      }
+    },
+    {
+      "page_number": "025",
+      "raw_content": "29 sup e sup Journee Excursion au Rotors et \u00e0 l occasion de l Excursion du Porques Signature",
+      "cleaned_content": "29 supe sup Journee Excursionau Rotorset \u00e0 loccasiondel Excursiondu Porques Signature",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "026",
+      "raw_content": "JVe Sortie 23 avril 1891 Charut Parages du N\u00e9onneries R\u00e9sultats hydorines de fondre verdinuire de ces fours",
+      "cleaned_content": "JVe Sortie 23 avril 1891 Charut Paragesdu N\u00e9onneries R\u00e9sultatshydorinesdefondreverdinuiredecesfours",
+      "entities": {
+        "dates": [
+          "23 avril 1891"
+        ]
+      }
+    },
+    {
+      "page_number": "027",
+      "raw_content": "31 sup e sup Sortie 27 avril 1791 Chaleur Passage du M\u00e9ridien R\u00e9sultat forme de Direc\u00e9e",
+      "cleaned_content": "31 supe sup Sortie 27 avril 1791 Chaleur Passagedu M\u00e9ridien R\u00e9sultatformede Direc\u00e9e",
+      "entities": {
+        "dates": [
+          "27 avril 1791"
+        ]
+      }
+    },
+    {
+      "page_number": "028",
+      "raw_content": "39 sup e sup Journee 1 Mai 1791 Chalus Parages de M\u00e9docois R\u00e9sultat Temps calme et clair",
+      "cleaned_content": "39 supe sup Journee 1 Mai 1791 Chalus Paragesde M\u00e9docois R\u00e9sultat Tempscalmeetclair",
+      "entities": {
+        "dates": [
+          "1 Mai 1791"
+        ]
+      }
+    },
+    {
+      "page_number": "029",
+      "raw_content": "33 sup e sup Vortice S Meri Foli Chirlet Parages de M\u00e9om\u00e9ris R\u00e9ticulati formae vari\u00e6c\u00e6s",
+      "cleaned_content": "33 supe sup Vortice S Meri Foli Chirlet Paragesde M\u00e9om\u00e9ris R\u00e9ticulatiformaevari\u00e6c\u00e6s",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "030",
+      "raw_content": "3 h sup e sup du matin 6 Mai 1941 Chalut P\u00eacheurs de M\u00e9moires R\u00e9sultat faible activit\u00e9",
+      "cleaned_content": "3 hsupe supdumatin 6 Mai 1941 Chalut P\u00eacheursde M\u00e9moires R\u00e9sultatfaibleactivit\u00e9",
+      "entities": {
+        "dates": [
+          "6 Mai 1941"
+        ]
+      }
+    },
+    {
+      "page_number": "031",
+      "raw_content": "39 6 Nord 12 Mai 1891 Charles Riviere de M\u00e9jicanis Actuellement flou\u00e9es au direcier",
+      "cleaned_content": "39 6 Nord 12 Mai 1891 Charles Rivierede M\u00e9jicanis Actuellementflou\u00e9esaudirecier",
+      "entities": {
+        "dates": [
+          "12 Mai 1891"
+        ]
+      }
+    },
+    {
+      "page_number": "032",
+      "raw_content": "36 sup e sup Nortue 14 Mai 1791 Chalut Purcage de M\u00e9lancolies R\u00e9sultat Somme verdicteur 1 Capricolehennou",
+      "cleaned_content": "36 supe sup Nortue 14 Mai 1791 Chalut Purcagede M\u00e9lancolies R\u00e9sultat Sommeverdicteur 1 Capricolehennou",
+      "entities": {
+        "dates": [
+          "14 Mai 1791"
+        ]
+      }
+    },
+    {
+      "page_number": "033",
+      "raw_content": "37 sup e sup Sortie 19 mai 1891 Chalut Rivages du Nidamancis R\u00e9colte Poisson de diverses",
+      "cleaned_content": "37 supe sup Sortie 19 mai 1891 Chalut Rivagesdu Nidamancis R\u00e9colte Poissondediverses",
+      "entities": {
+        "dates": [
+          "19 mai 1891"
+        ]
+      }
+    },
+    {
+      "page_number": "034",
+      "raw_content": "3 sup e sup Sortie 18 Mai 1891 Chalus Localit\u00e9 Tumelle Nord du cap Rieu R\u00e9sultat Coup\u00e9e de Salicornaria sous Sophora",
+      "cleaned_content": "3 supe sup Sortie 18 Mai 1891 Chalus Localit\u00e9 Tumelle Nordducap Rieu R\u00e9sultat Coup\u00e9ede Salicornariasous Sophora",
+      "entities": {
+        "dates": [
+          "18 Mai 1891"
+        ]
+      }
+    },
+    {
+      "page_number": "035",
+      "raw_content": "3 sup e sup Sortie 19 Mai 1791 Chalut Puruss es Me smises Re veu par Journe ordinaire",
+      "cleaned_content": "3 supe sup Sortie 19 Mai 1791 Chalut Purusses Mesmises Reveupar Journeordinaire",
+      "entities": {
+        "dates": [
+          "19 Mai 1791"
+        ]
+      }
+    },
+    {
+      "page_number": "036",
+      "raw_content": "H 9 sup e sup Sortie 27 mai 1871 Chalus Sueleti E N E Cap Bura Sur gom E du bous Rochers Resultat fond de sable Coquilles blanches Permettus Retepora albicandour Lethya Hydroures Cidrari c rentres Salamys",
+      "cleaned_content": "H 9 supe sup Sortie 27 mai 1871 Chalus Sueleti E N E Cap Bura Surgom E dubous Rochers Resultatfonddesable Coquillesblanches Permettus Reteporaalbicandour Lethya Hydroures Cidraric rentres Salamys",
+      "entities": {
+        "dates": [
+          "27 mai 1871"
+        ]
+      }
+    },
+    {
+      "page_number": "037",
+      "raw_content": "S V e Nortte 27 Mai 91 Chalur E N E du cap Beucr 80 m Sy devicis Curulle ouu Loncoroum",
+      "cleaned_content": "S V e Nortte 27 Mai 91 Chalur E N E ducap Beucr 80 m Sydevicis Curulleouu Loncoroum",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "038",
+      "raw_content": "St Sortie 24 Mai 1891 Chalut P\u00earages ds Me me tres Tracce ant\u00e9rieure",
+      "cleaned_content": "St Sortie 24 Mai 1891 Chalut P\u00earagesds Memetres Tracceant\u00e9rieure",
+      "entities": {
+        "dates": [
+          "24 Mai 1891"
+        ]
+      }
+    },
+    {
+      "page_number": "039",
+      "raw_content": "S d Vicarre 2 Juin 1791 Cherun Parage ds M\u00e9rind\u00e9s Fiacne accidincire",
+      "cleaned_content": "S d Vicarre 2 Juin 1791 Cherun Parageds M\u00e9rind\u00e9s Fiacneaccidincire",
+      "entities": {
+        "dates": [
+          "2 Juin 1791"
+        ]
+      }
+    },
+    {
+      "page_number": "040",
+      "raw_content": "S3 sup e sup Port\u00e9e 3 Mai 1791 Chalus Parage des m\u00e9ridiens Havre vendredi Signature",
+      "cleaned_content": "S3 supe sup Port\u00e9e 3 Mai 1791 Chalus Paragedesm\u00e9ridiens Havrevendredi Signature",
+      "entities": {
+        "dates": [
+          "3 Mai 1791"
+        ]
+      }
+    },
+    {
+      "page_number": "041",
+      "raw_content": "Campagne 1791 92 le Bateaux est arm\u00e9 le 1 sup er sup Octobre",
+      "cleaned_content": "Campagne 1791 92 le Bateauxestarm\u00e9 le 1 supersup Octobre",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "042",
+      "raw_content": "Septembre 1891 1 sup er sup Journ\u00e9e Faubert et Berque Localit\u00e9 90 de force ENE R\u00e9sultat petites acentes vagues venues",
+      "cleaned_content": "Septembre 1891 1 supersup Journ\u00e9e Faubertet Berque Localit\u00e9 90 deforce ENE R\u00e9sultatpetitesacentesvaguesvenues",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "043",
+      "raw_content": "9 Flore 1791 2 sup e sup Fortie N E Cap Bear 3 milles Kpm Resultat gartergsterwy Doris 1 Abeffys 1 Briwpsi lgr fers epvryes Tiverny Nlonnris M Bouchr\u00eate \u00e9teint \u00e0 bord",
+      "cleaned_content": "9 Flore 1791 2 supe sup Fortie N E Cap Bear 3 milles Kpm Resultatgartergsterwy Doris 1 Abeffys 1 Briwpsilgrfersepvryes Tiverny Nlonnris M Bouchr\u00eate \u00e9teint \u00e0 bord",
+      "entities": {
+        "dates": [
+          "9 Flore 1791"
+        ]
+      }
+    },
+    {
+      "page_number": "044",
+      "raw_content": "3 sup e sup durtie 10 9bre 1841 Chalut large de Port Vendres 20 m R\u00e9sultat nombreus despoilier eprouges diverses Signature",
+      "cleaned_content": "3 supe supdurtie 10 9bre 1841 Chalutlargede Port Vendres 20 m R\u00e9sultatnombreusdespoiliereprougesdiverses Signature",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "045",
+      "raw_content": "4 sup e sup Vortio Draguays oue Corps l arbeille La Trergue est rest\u00e9e vue",
+      "cleaned_content": "4 supe sup Vortio Draguaysoue Corpsl arbeille La Trergueestrest\u00e9evue",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "046",
+      "raw_content": "Si Sortie Pour deiguger la dreryue R\u00e9sultat nul",
+      "cleaned_content": "Si Sortie Pourdeigugerladreryue R\u00e9sultatnul",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "047",
+      "raw_content": "6 sup e sup Sortie 22 Febr 91 Chalus M Noiron \u00e9tait \u00e0 bord R\u00e9sultat Archiprues Cynthea Cometales",
+      "cleaned_content": "6 supe sup Sortie 22 Febr 91 Chalus M Noiron \u00e9tait \u00e0 bord R\u00e9sultat Archiprues Cynthea Cometales",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "048",
+      "raw_content": "7 sup e sup Sortie 12 9bre 91 Chalut 6 milles est de la barre di Bruges R\u00e9sultat ascidies diverses Diagoma Palmipes Cidaris Ostreofutes Salicornari\u00e6 c",
+      "cleaned_content": "7 supe sup Sortie 12 9bre 91 Chalut 6 millesestdelabarredi Bruges R\u00e9sultatascidiesdiverses Diagoma Palmipes Cidaris Ostreofutes Salicornari\u00e6 c",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "049",
+      "raw_content": "Jc Sortie 29 y 1891 Chalus en feru de Collivier Nieu Zone R\u00e9sultat Molgules en pouquats Cynuthia Dalica elegans Algonium duergis",
+      "cleaned_content": "Jc Sortie 29 y 1891 Chalusenferude Collivier Nieu Zone R\u00e9sultat Molgulesenpouquats Cynuthia Dalicaelegans Algoniumduergis",
+      "entities": {
+        "dates": [
+          "29 y 1891"
+        ]
+      }
+    },
+    {
+      "page_number": "050",
+      "raw_content": "9 sup e sup Sortie Drague Coup l abeille R\u00e9sultat Cailloux argile \u00e9paisse",
+      "cleaned_content": "9 supe sup Sortie Drague Coupl abeille R\u00e9sultat Caillouxargile \u00e9paisse",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "051",
+      "raw_content": "10 sup e sup Sortie 28 Octobre 1791 Chalut N Sst Vendres \u00e0 3 m R\u00e9sultat Molgues",
+      "cleaned_content": "10 supe sup Sortie 28 Octobre 1791 Chalut N Sst Vendres \u00e0 3 m R\u00e9sultat Molgues",
+      "entities": {
+        "dates": [
+          "28 Octobre 1791"
+        ]
+      }
+    },
+    {
+      "page_number": "052",
+      "raw_content": "M sup e sup Sortie 29 Xbre 1891 Drague sur la c\u00f4te R\u00e9colte de Vareches de goffiers et Cyatuceye \u00e9ponges Vivieres",
+      "cleaned_content": "M supe sup Sortie 29 Xbre 1891 Draguesurlac\u00f4te R\u00e9coltede Varechesdegoffierset Cyatuceye \u00e9ponges Vivieres",
+      "entities": {
+        "dates": [
+          "29 Xbre 1891"
+        ]
+      }
+    },
+    {
+      "page_number": "053",
+      "raw_content": "Th Jurtie 17 Juin 92 Diagmas Amychicus Lourdes",
+      "cleaned_content": "Th Jurtie 17 Juin 92 Diagmas Amychicus Lourdes",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "054",
+      "raw_content": "13 sup e sup Sortie 11 Janvier 92 Chalut Est de S sup t sup Magaire Jusq sup u sup 50 m de fond R\u00e9sultat Echinuster nombreux vershiuers granges diverses",
+      "cleaned_content": "13 supe sup Sortie 11 Janvier 92 Chalut Estde S supt sup Magaire Jusqsupu sup 50 mdefond R\u00e9sultat Echinusternombreuxvershiuersgrangesdiverses",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "055",
+      "raw_content": "14 sup e sup Sortie 27 Fevrier 92 Divergue Cuyr nidermis au corps d arquebelle Amythionne Corillanne \u00e0i Metellicia A Bencetria",
+      "cleaned_content": "14 supe sup Sortie 27 Fevrier 92 Divergue Cuyrnidermisaucorpsd arquebelle Amythionne Corillanne \u00e0i Metellicia A Bencetria",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "056",
+      "raw_content": "15 sup e sup Sort\u00e9e 16 f\u00e9vrier 1892 Recherches d Eponges R\u00e9sultat Eponges diverses anidies holothuries alcyons Par Mr Prouho H Guille",
+      "cleaned_content": "15 supe sup Sort\u00e9e 16 f\u00e9vrier 1892 Recherchesd Eponges R\u00e9sultat Epongesdiversesanidiesholothuriesalcyons Par Mr Prouho H Guille",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "057",
+      "raw_content": "N sup o sup Sorti\u00e9 17 F\u00e9vrier 1892 Coup de Chalut \u00e0 l entr\u00e9e du Port de Port Vendres R\u00e9sultats Sponge vari\u00e9s Gorgons holothuries Sympondium Bernards Zoanth\u00e9es Halocif\u00e8re Coridie Pour M sup r sup Pouho J P Guille",
+      "cleaned_content": "N supo sup Sorti\u00e9 17 F\u00e9vrier 1892 Coupde Chalut \u00e0 lentr\u00e9edu Portde Port Vendres R\u00e9sultats Spongevari\u00e9s Gorgonsholothuries Sympondium Bernards Zoanth\u00e9es Halocif\u00e8re Coridie Pour M supr sup Pouho J P Guille",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "058",
+      "raw_content": "17 sup e sup Sortie 22 f\u00e9vrier 1892 Coup de chalut N E du cap B\u00e9ar 80 m\u00e8tres de profondeur R\u00e9sultat Mollusques Sponges Pour Mr Pincho F Guille",
+      "cleaned_content": "17 supe sup Sortie 22 f\u00e9vrier 1892 Coupdechalut N E ducap B\u00e9ar 80 m\u00e8tresdeprofondeur R\u00e9sultat Mollusques Sponges Pour Mr Pincho F Guille",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "059",
+      "raw_content": "18 sup e sup Sortie 23 f\u00e9vrier 1892 Coup de Chalut S E du cap C\u00e9rbero 90 m\u00e9tres de profondeur R\u00e9sultat Hydroides \u00e9ponges c\u00e9phalopodes p\u00e9ridus Pour M Trouho Signature",
+      "cleaned_content": "18 supe sup Sortie 23 f\u00e9vrier 1892 Coupde Chalut S E ducap C\u00e9rbero 90 m\u00e9tresdeprofondeur R\u00e9sultat Hydroides \u00e9pongesc\u00e9phalopodesp\u00e9ridus Pour M Trouho Signature",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "060",
+      "raw_content": "19 sup e sup Sortie 1 sup er sup Mars 1892 Chalut 8 milles N cap B\u00e9ar R\u00e9sultat Danusia coquilles de Pimmo hydreire",
+      "cleaned_content": "19 supe sup Sortie 1 supersup Mars 1892 Chalut 8 milles N cap B\u00e9ar R\u00e9sultat Danusiacoquillesde Pimmohydreire",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "061",
+      "raw_content": "20 sup e sup Sortie 11 Mars 1792 Chalut 9 milles N Port Vendres R\u00e9flecteur Nombreux Capucins d hu\u00eetres vers fourmis et Nereozveraire divers rel\u00e9gemment Vermilegatiers Cotes dites vastes espaces H 6 heures",
+      "cleaned_content": "20 supe sup Sortie 11 Mars 1792 Chalut 9 milles N Port Vendres R\u00e9flecteur Nombreux Capucinsd hu\u00eetresversfourmiset Nereozverairediversrel\u00e9gemment Vermilegatiers Cotesditesvastesespaces H 6 heures",
+      "entities": {
+        "dates": [
+          "11 Mars 1792"
+        ]
+      }
+    },
+    {
+      "page_number": "062",
+      "raw_content": "15 mars 9h 21 Sortie Le bateaux est rentre deux relieu pri picl",
+      "cleaned_content": "15 mars 9h 21 Sortie Lebateauxestrentredeuxrelieupripicl",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "063",
+      "raw_content": "22 sup e sup Sortie 16 Mars 1892 Recherche des Epaves \u00e0 Port Vendres",
+      "cleaned_content": "22 supe sup Sortie 16 Mars 1892 Recherchedes Epaves \u00e0 Port Vendres",
+      "entities": {
+        "dates": [
+          "16 Mars 1892"
+        ]
+      }
+    },
+    {
+      "page_number": "064",
+      "raw_content": "23 sup e sup Sortie 17 mars 1892 Chalut 9 milles N cap Beau gou de Terre R\u00e9sultat hydaires c Me on \u00e9ris phallusis Perrrotule V\u00e9nustile 1 Kopfrobelennu 1 Bohrunglosse Grossole avec moluscules Signature",
+      "cleaned_content": "23 supe sup Sortie 17 mars 1892 Chalut 9 milles N cap Beaugoude Terre R\u00e9sultathydairesc Meon \u00e9risphallusis Perrrotule V\u00e9nustile 1 Kopfrobelennu 1 Bohrunglosse Grossoleavecmoluscules Signature",
+      "entities": {
+        "dates": [
+          "17 mars 1892"
+        ]
+      }
+    },
+    {
+      "page_number": "065",
+      "raw_content": "24 sup e sup Sortie 19 mars 1792 Charlus D muilly de Baugeuls R\u00e9itulat Symies M\u00e9mmiers Birgumon Pedun Pleudo physelidic 2 Dalis",
+      "cleaned_content": "24 supe sup Sortie 19 mars 1792 Charlus D muillyde Baugeuls R\u00e9itulat Symies M\u00e9mmiers Birgumon Pedun Pleudophyselidic 2 Dalis",
+      "entities": {
+        "dates": [
+          "19 mars 1792"
+        ]
+      }
+    },
+    {
+      "page_number": "066",
+      "raw_content": "29 sup e sup Sortie 22 mars 1792 Cherlet 3 milles E du Cap Cerbi\u00e8re R\u00e9sultat Nombreux Pleurorhagies Diarr\u00e9es",
+      "cleaned_content": "29 supe sup Sortie 22 mars 1792 Cherlet 3 milles E du Cap Cerbi\u00e8re R\u00e9sultat Nombreux Pleurorhagies Diarr\u00e9es",
+      "entities": {
+        "dates": [
+          "22 mars 1792"
+        ]
+      }
+    },
+    {
+      "page_number": "067",
+      "raw_content": "36 sup e sup Sortie 23 Mars 1892 Choulet R\u00e9sultat Apoutreages Bourre daris Echirred flacques",
+      "cleaned_content": "36 supe sup Sortie 23 Mars 1892 Choulet R\u00e9sultat Apoutreages Bourredaris Echirredflacques",
+      "entities": {
+        "dates": [
+          "23 Mars 1892"
+        ]
+      }
+    },
+    {
+      "page_number": "068",
+      "raw_content": "27 sup e sup Sortie 24 Mars 1892 Chalut N E du cap Bon hydroires M\u00e9om\u00e9ries Signature",
+      "cleaned_content": "27 supe sup Sortie 24 Mars 1892 Chalut N E ducap Bonhydroires M\u00e9om\u00e9ries Signature",
+      "entities": {
+        "dates": [
+          "24 Mars 1892"
+        ]
+      }
+    },
+    {
+      "page_number": "069",
+      "raw_content": "28 sup e sup Sortie 2 avril 1797 Dragage au cap d Ableille R\u00e9ductions gorgones E Lecointre",
+      "cleaned_content": "28 supe sup Sortie 2 avril 1797 Dragageaucapd Ableille R\u00e9ductionsgorgones E Lecointre",
+      "entities": {
+        "dates": [
+          "2 avril 1797"
+        ]
+      }
+    },
+    {
+      "page_number": "070",
+      "raw_content": "29 sup e sup Sortie 7 avril 1792 Charles E de Bonyuls sup c sup R\u00eats d abord Phuilles sup c sup Varitilles hydres sup c sup Luidia I Virgulaires",
+      "cleaned_content": "29 supe sup Sortie 7 avril 1792 Charles E de Bonyulssupc sup R\u00eatsd abord Phuillessupc sup Varitilleshydressupc sup Luidia I Virgulaires",
+      "entities": {
+        "dates": [
+          "7 avril 1792"
+        ]
+      }
+    },
+    {
+      "page_number": "071",
+      "raw_content": "30 sup e sup Sortie 13 avril 92 Fouleers Carp ereus R\u00e9sultat Corail hydropoides Myriozocces",
+      "cleaned_content": "30 supe sup Sortie 13 avril 92 Fouleers Carpereus R\u00e9sultat Corailhydropoides Myriozocces",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "072",
+      "raw_content": "31 sup e sup Sortie 18 avril 92 Chalut au large de la lucie R\u00e9sultat uphiures Cucumaria Vareilles Signature",
+      "cleaned_content": "31 supe sup Sortie 18 avril 92 Chalutaulargedelalucie R\u00e9sultatuphiures Cucumaria Vareilles Signature",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "073",
+      "raw_content": "32 sup e sup Sortie 23 avril 97 Drayue Cap l abeille R\u00e9sultat amphiores Cricill\u00e9es \u00e0 m\u00e9tob\u00e9rine",
+      "cleaned_content": "32 supe sup Sortie 23 avril 97 Drayue Capl abeille R\u00e9sultatamphiores Cricill\u00e9es \u00e0 m\u00e9tob\u00e9rine",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "074",
+      "raw_content": "33 sup e sup Sortie 26 avril 1797 Chalut N E Du Cap Bear c m R\u00e9sultat hydricies \u00e0 Moustiq Palmipes Hirgones",
+      "cleaned_content": "33 supe sup Sortie 26 avril 1797 Chalut N E Du Cap Bearc m R\u00e9sultathydricies \u00e0 Moustiq Palmipes Hirgones",
+      "entities": {
+        "dates": [
+          "26 avril 1797"
+        ]
+      }
+    },
+    {
+      "page_number": "075",
+      "raw_content": "34 sup e sup Jourtie 4 Mai 1792 Chalut Parage des Heuresdries R\u00e9sultat Hydaires Permiartiles Chemicedy",
+      "cleaned_content": "34 supe sup Jourtie 4 Mai 1792 Chalut Paragedes Heuresdries R\u00e9sultat Hydaires Permiartiles Chemicedy",
+      "entities": {
+        "dates": [
+          "4 Mai 1792"
+        ]
+      }
+    },
+    {
+      "page_number": "076",
+      "raw_content": "31 sup e sup Sortie 10 Mai 1892 Chalus Diverses des m\u00e9caniques R\u00e9 sultats hygrom\u00e8tres Lefrancq",
+      "cleaned_content": "31 supe sup Sortie 10 Mai 1892 Chalus Diversesdesm\u00e9caniques R\u00e9 sultatshygrom\u00e8tres Lefrancq",
+      "entities": {
+        "dates": [
+          "10 Mai 1892"
+        ]
+      }
+    },
+    {
+      "page_number": "077",
+      "raw_content": "36 sup e sup Sortie 20 Mai 92 Passages des M\u00e9rom\u00e8tres",
+      "cleaned_content": "36 supe sup Sortie 20 Mai 92 Passagesdes M\u00e9rom\u00e8tres",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "078",
+      "raw_content": "37 sup e sup Sortie 27 Mai 1792 Passages des arch qutrebourg",
+      "cleaned_content": "37 supe sup Sortie 27 Mai 1792 Passagesdesarchqutrebourg",
+      "entities": {
+        "dates": [
+          "27 Mai 1792"
+        ]
+      }
+    },
+    {
+      "page_number": "079",
+      "raw_content": "37 sup e sup Sortie 28 Mai 97 Parcours des vents Jourdeuxsins",
+      "cleaned_content": "37 supe sup Sortie 28 Mai 97 Parcoursdesvents Jourdeuxsins",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "080",
+      "raw_content": "39 sup e sup Sortie 1 Juin 47 Parcours des arch sph\u00e9r\u00e9es",
+      "cleaned_content": "39 supe sup Sortie 1 Juin 47 Parcoursdesarchsph\u00e9r\u00e9es",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "081",
+      "raw_content": "Ho darte 2 Juin 97 Rouages des anct Pholcarg",
+      "cleaned_content": "Hodarte 2 Juin 97 Rouagesdesanct Pholcarg",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "082",
+      "raw_content": "Ml sup r sup Jurtie 3 Mai 1792 Parages de vant Phocel",
+      "cleaned_content": "Mlsupr sup Jurtie 3 Mai 1792 Paragesdevant Phocel",
+      "entities": {
+        "dates": [
+          "3 Mai 1792"
+        ]
+      }
+    },
+    {
+      "page_number": "083",
+      "raw_content": "A 25 durtie 6 Mai 1792 Parages des vents g\u00e9n\u00e9raux",
+      "cleaned_content": "A 25 durtie 6 Mai 1792 Paragesdesventsg\u00e9n\u00e9raux",
+      "entities": {
+        "dates": [
+          "6 Mai 1792"
+        ]
+      }
+    },
+    {
+      "page_number": "084",
+      "raw_content": "43 sup e sup Sortie 7 Mai 92 Passages des vant Rhuleng",
+      "cleaned_content": "43 supe sup Sortie 7 Mai 92 Passagesdesvant Rhuleng",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "085",
+      "raw_content": "Hr 6 sup e sup Sortie 7 Juin 92 Terrages des crut Chalangies Affaire de mer",
+      "cleaned_content": "Hr 6 supe sup Sortie 7 Juin 92 Terragesdescrut Chalangies Affairedemer",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "086",
+      "raw_content": "Campagne 1892 1893 Le Bateau est arm\u00e9 le",
+      "cleaned_content": "Campagne 1892 1893 Le Bateauestarm\u00e9 le",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "087",
+      "raw_content": "1 sup re sup Sortie 6 Octobre 1872 Chalut E N E du Cap B\u00e9ar Profondeur 60 m\u00e8tres R\u00e9sultat Sponges holothuries \u00e9toiles de mer Patridies Pour M sup r sup Fouch\u00e9 H Guille",
+      "cleaned_content": "1 supresup Sortie 6 Octobre 1872 Chalut E N E du Cap B\u00e9ar Profondeur 60 m\u00e8tres R\u00e9sultat Spongesholothuries \u00e9toilesdemer Patridies Pour M supr sup Fouch\u00e9 H Guille",
+      "entities": {
+        "dates": [
+          "6 Octobre 1872"
+        ]
+      }
+    },
+    {
+      "page_number": "088",
+      "raw_content": "2 sup e sup Sortie 9 Octobre 1892 Drague Cap B\u00e9ar Profondeur 45 m\u00e8tres R\u00e9sultat Sponges Bryozoaires Pour M sup r sup Prouteau H Guitel",
+      "cleaned_content": "2 supe sup Sortie 9 Octobre 1892 Drague Cap B\u00e9ar Profondeur 45 m\u00e8tres R\u00e9sultat Sponges Bryozoaires Pour M supr sup Prouteau H Guitel",
+      "entities": {
+        "dates": [
+          "9 Octobre 1892"
+        ]
+      }
+    },
+    {
+      "page_number": "089",
+      "raw_content": "3 sup e sup Sortie 11 Octobre 1892 Chalut Est de Banyuls Profondeur 80 m\u00e8tres R\u00e9sultat Antedon Mollusques divers oursins Pour M Drache H Cuvelier",
+      "cleaned_content": "3 supe sup Sortie 11 Octobre 1892 Chalut Estde Banyuls Profondeur 80 m\u00e8tres R\u00e9sultat Antedon Mollusquesdiversoursins Pour M Drache H Cuvelier",
+      "entities": {
+        "dates": [
+          "11 Octobre 1892"
+        ]
+      }
+    },
+    {
+      "page_number": "090",
+      "raw_content": "1 sup re sup Sortie 12 Octobre 1892 Orague Cap B\u00e9ar Profondeur 45 m\u00e8tres R\u00e9sultat Sponges Gorgones Pour M Frouho F sup rs sup Guite",
+      "cleaned_content": "1 supresup Sortie 12 Octobre 1892 Orague Cap B\u00e9ar Profondeur 45 m\u00e8tres R\u00e9sultat Sponges Gorgones Pour M Frouho F suprssup Guite",
+      "entities": {
+        "dates": [
+          "12 Octobre 1892"
+        ]
+      }
+    },
+    {
+      "page_number": "091",
+      "raw_content": "5 sup e sup Sortie 14 Octobre 1892 Dragage au lieu dit Caillalanque Profondeur 25 m\u00e8tres R\u00e9sultat Ostreries Sponges Pour Mr Bouho H Guite",
+      "cleaned_content": "5 supe sup Sortie 14 Octobre 1892 Dragageaulieudit Caillalanque Profondeur 25 m\u00e8tres R\u00e9sultat Ostreries Sponges Pour Mr Bouho H Guite",
+      "entities": {
+        "dates": [
+          "14 Octobre 1892"
+        ]
+      }
+    },
+    {
+      "page_number": "092",
+      "raw_content": "6 sup e sup Sortie 19 Octobre 1892 Chalut Est du Cap B\u00e9ar Profondeur 80 metres R\u00e9sultat Eponges Par M sup r sup Frouko F Emile",
+      "cleaned_content": "6 supe sup Sortie 19 Octobre 1892 Chalut Estdu Cap B\u00e9ar Profondeur 80 metres R\u00e9sultat Eponges Par M supr sup Frouko F Emile",
+      "entities": {
+        "dates": [
+          "19 Octobre 1892"
+        ]
+      }
+    },
+    {
+      "page_number": "093",
+      "raw_content": "7 sup e sup Sortie 20 Octobre 1892 Chalut Est du Cap l Abeille Profondeur 60 m\u00e8tres R\u00e9sultat Holothuries Mollusques divers Pour M Prouho F sup s sup Guitel",
+      "cleaned_content": "7 supe sup Sortie 20 Octobre 1892 Chalut Estdu Capl Abeille Profondeur 60 m\u00e8tres R\u00e9sultat Holothuries Mollusquesdivers Pour M Prouho F sups sup Guitel",
+      "entities": {
+        "dates": [
+          "20 Octobre 1892"
+        ]
+      }
+    },
+    {
+      "page_number": "094",
+      "raw_content": "8 sup e sup Sortie 21 Octobre 1892 Chalut Cap Cerbere Profondeur 75 m\u00e8tres R\u00e9sultat Oeuvins Etoiles Mollusques Pour M Frouhe H sup s sup Guilet",
+      "cleaned_content": "8 supe sup Sortie 21 Octobre 1892 Chalut Cap Cerbere Profondeur 75 m\u00e8tres R\u00e9sultat Oeuvins Etoiles Mollusques Pour M Frouhe H sups sup Guilet",
+      "entities": {
+        "dates": [
+          "21 Octobre 1892"
+        ]
+      }
+    },
+    {
+      "page_number": "095",
+      "raw_content": "9 sup e sup Sortie 22 Octobre 1872 Dragage Cap Ouestreil Profondeur 75 m\u00e8tres R\u00e9sultat Sponges Pour M sup r sup Prouho F Guite",
+      "cleaned_content": "9 supe sup Sortie 22 Octobre 1872 Dragage Cap Ouestreil Profondeur 75 m\u00e8tres R\u00e9sultat Sponges Pour M supr sup Prouho F Guite",
+      "entities": {
+        "dates": [
+          "22 Octobre 1872"
+        ]
+      }
+    },
+    {
+      "page_number": "096",
+      "raw_content": "10 sup e sup Sortie 23 Octobre 1892 Naufrage Baie de Paulilles Profondeur 25 m\u00e8tres R\u00e9sultat Eponges Coquillages Pour M sup r sup Fouho H Gautier",
+      "cleaned_content": "10 supe sup Sortie 23 Octobre 1892 Naufrage Baiede Paulilles Profondeur 25 m\u00e8tres R\u00e9sultat Eponges Coquillages Pour M supr sup Fouho H Gautier",
+      "entities": {
+        "dates": [
+          "23 Octobre 1892"
+        ]
+      }
+    },
+    {
+      "page_number": "097",
+      "raw_content": "M sup e sup Sortie 29 Octobre 1872 Meine dragage que le pr\u00e9c\u00e9dent Pour M Grouho H sup s sup CouteS",
+      "cleaned_content": "M supe sup Sortie 29 Octobre 1872 Meinedragagequelepr\u00e9c\u00e9dent Pour M Grouho H sups sup CouteS",
+      "entities": {
+        "dates": [
+          "29 Octobre 1872"
+        ]
+      }
+    },
+    {
+      "page_number": "098",
+      "raw_content": "19 sup e sup Sortie 28 Octobre 1892 Dragage Cap R\u00eaverie Profondeur 30 m\u00e8tres R\u00e9sultat Gorgones Bryozoaires Pour M sup r sup Pouho J Couteau",
+      "cleaned_content": "19 supe sup Sortie 28 Octobre 1892 Dragage Cap R\u00eaverie Profondeur 30 m\u00e8tres R\u00e9sultat Gorgones Bryozoaires Pour M supr sup Pouho J Couteau",
+      "entities": {
+        "dates": [
+          "28 Octobre 1892"
+        ]
+      }
+    },
+    {
+      "page_number": "099",
+      "raw_content": "13 sup e sup Sortie 2 Novembre 1892 Port Vendres Chalut Profondeur 40 m\u00e8tres R\u00e9sultats Ascidies Sponges Pour M sup r sup Frouhe F Cuvelier",
+      "cleaned_content": "13 supe sup Sortie 2 Novembre 1892 Port Vendres Chalut Profondeur 40 m\u00e8tres R\u00e9sultats Ascidies Sponges Pour M supr sup Frouhe F Cuvelier",
+      "entities": {
+        "dates": [
+          "2 Novembre 1892"
+        ]
+      }
+    },
+    {
+      "page_number": "100",
+      "raw_content": "14 sup e sup Sortie 3 Novembre 1792 Chalut N du cap Bear Profondeur 70 m\u00e8tres R\u00e9sultat Plumulaires Actinia Mollusques Pour Mr Prouho Jn Guite",
+      "cleaned_content": "14 supe sup Sortie 3 Novembre 1792 Chalut N ducap Bear Profondeur 70 m\u00e8tres R\u00e9sultat Plumulaires Actinia Mollusques Pour Mr Prouho Jn Guite",
+      "entities": {
+        "dates": [
+          "3 Novembre 1792"
+        ]
+      }
+    },
+    {
+      "page_number": "101",
+      "raw_content": "15 sup e sup Sortie 6 Novembre 1892 Chalut E N E du Cap B\u00e9ar Profondeur 60 metres R\u00e9sultat Sponges Etoiles Oursins Holothuries Pour M sup r sup Pouho\u00ebt F Quil\u00e8s",
+      "cleaned_content": "15 supe sup Sortie 6 Novembre 1892 Chalut E N E du Cap B\u00e9ar Profondeur 60 metres R\u00e9sultat Sponges Etoiles Oursins Holothuries Pour M supr sup Pouho\u00ebt F Quil\u00e8s",
+      "entities": {
+        "dates": [
+          "6 Novembre 1892"
+        ]
+      }
+    },
+    {
+      "page_number": "102",
+      "raw_content": "16 sup e sup Sortie 9 Novembre 1892 Dragage Capo Bear Profondeur 45 Metres R\u00e9sultat Eponges Bryozoaires Pour M Pouchot F Cuillier",
+      "cleaned_content": "16 supe sup Sortie 9 Novembre 1892 Dragage Capo Bear Profondeur 45 Metres R\u00e9sultat Eponges Bryozoaires Pour M Pouchot F Cuillier",
+      "entities": {
+        "dates": [
+          "9 Novembre 1892"
+        ]
+      }
+    },
+    {
+      "page_number": "103",
+      "raw_content": "17 sup e sup Sortie 13 D\u00e9cembre 1892 Chalut N E du Cap Bear Profondeur 70 m\u00e8tres R\u00e9sultat N\u00e9ant F S Guiteau",
+      "cleaned_content": "17 supe sup Sortie 13 D\u00e9cembre 1892 Chalut N E du Cap Bear Profondeur 70 m\u00e8tres R\u00e9sultat N\u00e9ant F S Guiteau",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "104",
+      "raw_content": "18 sup o sup Sortie 16 D\u00e9cembre 1892 Chalut N E du Cap Bear Profondeur 80 m\u00e8tres R\u00e9sultat Plumataires avec Avicules \u00c9ponges Hernarpis A C Guite",
+      "cleaned_content": "18 supo sup Sortie 16 D\u00e9cembre 1892 Chalut N E du Cap Bear Profondeur 80 m\u00e8tres R\u00e9sultat Plumatairesavec Avicules \u00c9ponges Hernarpis A C Guite",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "105",
+      "raw_content": "19 sup e sup Sortie 20 D\u00e9cembre 1892 Orageux Pointe de la Grose Profondeur 16 Metres J Guite",
+      "cleaned_content": "19 supe sup Sortie 20 D\u00e9cembre 1892 Orageux Pointedela Grose Profondeur 16 Metres J Guite",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "106",
+      "raw_content": "20 sup o sup Sortie 22 Decembre 1892 Vrayage The Perdile Profondeur 12 m\u00e8tres H Guite",
+      "cleaned_content": "20 supo sup Sortie 22 Decembre 1892 Vrayage The Perdile Profondeur 12 m\u00e8tres H Guite",
+      "entities": {
+        "dates": [
+          "22 Decembre 1892"
+        ]
+      }
+    },
+    {
+      "page_number": "107",
+      "raw_content": "21 sup re sup Sortie 24 D\u00e9cembre 1892 Anchage Cap Down Profondeur 12 m\u00e8tres J sup r sup Cuiller",
+      "cleaned_content": "21 supresup Sortie 24 D\u00e9cembre 1892 Anchage Cap Down Profondeur 12 m\u00e8tres J supr sup Cuiller",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "108",
+      "raw_content": "22 sup e sup Sortie 29 D\u00e9cembre 1872 Orage Croc Profondeur 5 m\u00e8tres J C Guite",
+      "cleaned_content": "22 supe sup Sortie 29 D\u00e9cembre 1872 Orage Croc Profondeur 5 m\u00e8tres J C Guite",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "109",
+      "raw_content": "23 sup e sup Sortie 7 Janvier 1893 Coup de Chalut et de Drague E dela baie de Banyuls Profondeur 45 metres Reneletat Eponges diverses Hernarpis Holothuries Pennactele Veretilles Cardium noragicum Amphidetes Amphiotes H Cuvelier",
+      "cleaned_content": "23 supe sup Sortie 7 Janvier 1893 Coupde Chalutetde Drague E delabaiede Banyuls Profondeur 45 metres Reneletat Epongesdiverses Hernarpis Holothuries Pennactele Veretilles Cardiumnoragicum Amphidetes Amphiotes H Cuvelier",
+      "entities": {
+        "dates": [
+          "7 Janvier 1893"
+        ]
+      }
+    },
+    {
+      "page_number": "110",
+      "raw_content": "24 sup e sup Sortie 8 Janvier 1893 Dragage au Croc Par 15 mettes de profondeur R\u00e9sultat J Guitt\u00e9",
+      "cleaned_content": "24 supe sup Sortie 8 Janvier 1893 Dragageau Croc Par 15 mettesdeprofondeur R\u00e9sultat J Guitt\u00e9",
+      "entities": {
+        "dates": [
+          "8 Janvier 1893"
+        ]
+      }
+    },
+    {
+      "page_number": "111",
+      "raw_content": "29 Sorti 10 Janvier 1893 Dragage au Cap Oullestreil 16 metres de profondeur Resvelet H Guite",
+      "cleaned_content": "29 Sorti 10 Janvier 1893 Dragageau Cap Oullestreil 16 metresdeprofondeur Resvelet H Guite",
+      "entities": {
+        "dates": [
+          "10 Janvier 1893"
+        ]
+      }
+    },
+    {
+      "page_number": "112",
+      "raw_content": "26 sup e sup Sortie 11 Janvier 1893 Chalut E du Cap B\u00e9ar Profondeur 80 metres Resultat Sledone Cynthia microcosmus Phallusia manillata hydroides vari\u00e9s sponges vari\u00e9es Heterobranches Pleurophellidies Doris Bleunies Gobies Lamellar\u00eda Adamia Echinus sphera J Quinet",
+      "cleaned_content": "26 supe sup Sortie 11 Janvier 1893 Chalut E du Cap B\u00e9ar Profondeur 80 metres Resultat Sledone Cynthiamicrocosmus Phallusiamanillatahydroidesvari\u00e9sspongesvari\u00e9es Heterobranches Pleurophellidies Doris Bleunies Gobies Lamellar\u00eda Adamia Echinussphera J Quinet",
+      "entities": {
+        "dates": [
+          "11 Janvier 1893"
+        ]
+      }
+    },
+    {
+      "page_number": "113",
+      "raw_content": "27 Jourdi\u00e9 17 Janvier 1893 Chalut N O du Cap Bear Profondeur 30 m\u00e8tres R\u00e9sultat Cynthia microcosmus Ele\u00f3nez Serpuliers Eponges Comatules Stiela glomerata F r Guite",
+      "cleaned_content": "27 Jourdi\u00e9 17 Janvier 1893 Chalut N O du Cap Bear Profondeur 30 m\u00e8tres R\u00e9sultat Cynthiamicrocosmus Ele\u00f3nez Serpuliers Eponges Comatules Stielaglomerata F r Guite",
+      "entities": {
+        "dates": [
+          "17 Janvier 1893"
+        ]
+      }
+    },
+    {
+      "page_number": "114",
+      "raw_content": "28 sup e sup Sortie 28 janvier 1893 Chalut E de Banyuls Profondeur 75 m\u00e8tres R\u00e9sultat Cl\u00e9dones petites roches \u00c9ponges diverses Phyllaria manillata capro aper Doris Diaxona Plumularia H\u00e9la glomerata Blennius ocellaris",
+      "cleaned_content": "28 supe sup Sortie 28 janvier 1893 Chalut E de Banyuls Profondeur 75 m\u00e8tres R\u00e9sultat Cl\u00e9donespetitesroches \u00c9pongesdiverses Phyllariamanillatacaproaper Doris Diaxona Plumularia H\u00e9laglomerata Blenniusocellaris",
+      "entities": {
+        "dates": [
+          "28 janvier 1893"
+        ]
+      }
+    },
+    {
+      "page_number": "115",
+      "raw_content": "29 sup e sup Sortie 28 Janvier 1893 Trois mailles Pierre fitte Cap 50 m de profondeur R\u00e9sultat Nombreux Symposium Sponges vari\u00e9es A Luite",
+      "cleaned_content": "29 supe sup Sortie 28 Janvier 1893 Troismailles Pierrefitte Cap 50 mdeprofondeur R\u00e9sultat Nombreux Symposium Spongesvari\u00e9es A Luite",
+      "entities": {
+        "dates": [
+          "28 Janvier 1893"
+        ]
+      }
+    },
+    {
+      "page_number": "116",
+      "raw_content": "30 sup e sup Sortie 31 Janvier 1793 Drague broc Profondeur 15 metres R\u00e9sultat Sponges J K Guite",
+      "cleaned_content": "30 supe sup Sortie 31 Janvier 1793 Draguebroc Profondeur 15 metres R\u00e9sultat Sponges J K Guite",
+      "entities": {
+        "dates": [
+          "31 Janvier 1793"
+        ]
+      }
+    },
+    {
+      "page_number": "117",
+      "raw_content": "91 sup r sup Sortie 2 F\u00e9vrier 1893 Chalut N du Cap B\u00e9ar Profondeur 50 m\u00e8tres R\u00e9cueillis Eledone Lepia Holgula impura Cynthia microcornus Acto coronata Sponges Hemius callaris Cepco efer Th Guitel",
+      "cleaned_content": "91 supr sup Sortie 2 F\u00e9vrier 1893 Chalut N du Cap B\u00e9ar Profondeur 50 m\u00e8tres R\u00e9cueillis Eledone Lepia Holgulaimpura Cynthiamicrocornus Actocoronata Sponges Hemiuscallaris Cepcoefer Th Guitel",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "118",
+      "raw_content": "82 sup e sup Forti 3 F\u00e9vrier 1893 Dague Cap L Abeille Profondeur H m\u00e8tres Remetat Cerilloux \u00e0 Melob\u00e9sies F sup s sup Cuile",
+      "cleaned_content": "82 supe sup Forti 3 F\u00e9vrier 1893 Dague Cap L Abeille Profondeur H m\u00e8tres Remetat Cerilloux \u00e0 Melob\u00e9sies F sups sup Cuile",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "119",
+      "raw_content": "38 sup e sup Sortie 8 F\u00e9vrier 1892 Chalut E de Canet Profondeur 60 m\u00e8tres R\u00e9sultat Eponges c\u00e9phalopodes Tuniciers concutatus Doris Lamellaria F Cuill\u00e8re",
+      "cleaned_content": "38 supe sup Sortie 8 F\u00e9vrier 1892 Chalut E de Canet Profondeur 60 m\u00e8tres R\u00e9sultat Epongesc\u00e9phalopodes Tuniciersconcutatus Doris Lamellaria F Cuill\u00e8re",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "120",
+      "raw_content": "St sup e sup Sortie 13 F\u00e9vries 1893 P\u00eache p\u00e9lagique Baio de Banyuls Nombreuses larves Etait \u00e0 bord Mr Racovitzja F sup n sup Guite",
+      "cleaned_content": "Stsupe sup Sortie 13 F\u00e9vries 1893 P\u00eachep\u00e9lagique Baiode Banyuls Nombreuseslarves Etait \u00e0 bord Mr Racovitzja F supn sup Guite",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "121",
+      "raw_content": "Y sup re sup Tortie 14 F\u00e9vrier 1893 Draque Cro\u00eb Profendeur 75 m\u00e8tres R\u00e9sultat Algues et poules diverses H Guille",
+      "cleaned_content": "Y supresup Tortie 14 F\u00e9vrier 1893 Draque Cro\u00eb Profendeur 75 m\u00e8tres R\u00e9sultat Alguesetpoulesdiverses H Guille",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "122",
+      "raw_content": "36 sup e sup Sortie 16 F\u00e9vrier 1893 Chalut E de Banyuls Profondeur 70 m\u00e8tres R\u00e9sultat \u00c9ponges \u00c9l\u00e9aires Calinara crabe divers Bernard Lamellaria Molgula Hickopus Holothuria F Guitel",
+      "cleaned_content": "36 supe sup Sortie 16 F\u00e9vrier 1893 Chalut E de Banyuls Profondeur 70 m\u00e8tres R\u00e9sultat \u00c9ponges \u00c9l\u00e9aires Calinaracrabedivers Bernard Lamellaria Molgula Hickopus Holothuria F Guitel",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "123",
+      "raw_content": "37 sup e sup Sortie 18 f\u00e9vrier 1893 Chalut N E du cap B\u00e9ar Profondeur 80 m\u00e8tres R\u00e9sultat Eledones Calmars Thalluria Cucumeria Bernardis Cynuthica etc Jh Guile",
+      "cleaned_content": "37 supe sup Sortie 18 f\u00e9vrier 1893 Chalut N E ducap B\u00e9ar Profondeur 80 m\u00e8tres R\u00e9sultat Eledones Calmars Thalluria Cucumeria Bernardis Cynuthicaetc Jh Guile",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "124",
+      "raw_content": "38e Sortie 3 Mars 1893 Chalut et Drague Passe travers du Beech Profondeur 25 m\u00e8tres R\u00e9coltes Seribes Bernard Aphrodites Oxydennulaires Holothuries Murex Eponges",
+      "cleaned_content": "38e Sortie 3 Mars 1893 Chalutet Drague Passetraversdu Beech Profondeur 25 m\u00e8tres R\u00e9coltes Seribes Bernard Aphrodites Oxydennulaires Holothuries Murex Eponges",
+      "entities": {
+        "dates": [
+          "3 Mars 1893"
+        ]
+      }
+    },
+    {
+      "page_number": "125",
+      "raw_content": "39 sup e sup Sortie 21 Mars 1895 Chalut Parle travers du Cuch Profondeur 60 m\u00e8tres P\u00each\u00e9s Serpuliers Diotrich Palourdes Mollusques \u00c9ponges Holothuries F Guille",
+      "cleaned_content": "39 supe sup Sortie 21 Mars 1895 Chalut Parletraversdu Cuch Profondeur 60 m\u00e8tres P\u00each\u00e9s Serpuliers Diotrich Palourdes Mollusques \u00c9ponges Holothuries F Guille",
+      "entities": {
+        "dates": [
+          "21 Mars 1895"
+        ]
+      }
+    },
+    {
+      "page_number": "126",
+      "raw_content": "Campagne 1893 1894",
+      "cleaned_content": "Campagne 1893 1894",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "127",
+      "raw_content": "105 Sorti 16 D\u00e9cembre 1893 Chalut Est du Cap K\u00e9ar 622 Profondeur 60 m\u00e8tres R\u00e9sultat Nombreux ophiures \u00e9toiles Echinus Ostreries Banyuls sur mer 16 d\u00e9cembre 1893 J Quillet",
+      "cleaned_content": "105 Sorti 16 D\u00e9cembre 1893 Chalut Estdu Cap K\u00e9ar 622 Profondeur 60 m\u00e8tres R\u00e9sultat Nombreuxophiures \u00e9toiles Echinus Ostreries Banyulssurmer 16 d\u00e9cembre 1893 J Quillet",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "128",
+      "raw_content": "2 sup e sup Sortie 23 D\u00e9cembre 1895 Orage Cap d Abeille Profondeur 87 m\u00e8tres Rosulet Cailloux calcaires \u00e0 M\u00e9lolob\u00e9si\u00e9es Baugul Ime 23 Decembre 1895 J Guichet",
+      "cleaned_content": "2 supe sup Sortie 23 D\u00e9cembre 1895 Orage Capd Abeille Profondeur 87 m\u00e8tres Rosulet Caillouxcalcaires \u00e0 M\u00e9lolob\u00e9si\u00e9es Baugul Ime 23 Decembre 1895 J Guichet",
+      "entities": {
+        "dates": [
+          "23 Decembre 1895"
+        ]
+      }
+    },
+    {
+      "page_number": "129",
+      "raw_content": "3e Sortie 27 D\u00e9cembre 1893 Dragage Cap l Abeille Profondeur 87 m\u00e8tres R\u00e9sultat cailloux aleuins o H\u00e9lobesiles Banguio mer 27 Decembre 1893 H Guichet",
+      "cleaned_content": "3e Sortie 27 D\u00e9cembre 1893 Dragage Capl Abeille Profondeur 87 m\u00e8tres R\u00e9sultatcaillouxaleuinso H\u00e9lobesiles Banguiomer 27 Decembre 1893 H Guichet",
+      "entities": {
+        "dates": [
+          "27 Decembre 1893"
+        ]
+      }
+    },
+    {
+      "page_number": "130",
+      "raw_content": "1 sup re sup Sortie 28 D\u00e9cembre 1893 Croix Maille Cap Pierre fitte Profondeur h5 m\u00e8tres R\u00e9sultats Rouettes Muricea Symphodius Ma\u00efa Langoustes Banyuls Imes 28 Decembre 1893 F Quiket",
+      "cleaned_content": "1 supresup Sortie 28 D\u00e9cembre 1893 Croix Maille Cap Pierrefitte Profondeurh5 m\u00e8tres R\u00e9sultats Rouettes Muricea Symphodius Ma\u00efa Langoustes Banyuls Imes 28 Decembre 1893 F Quiket",
+      "entities": {
+        "dates": [
+          "28 Decembre 1893"
+        ]
+      }
+    },
+    {
+      "page_number": "131",
+      "raw_content": "5 sup e sup Sortie 11 Janvier 1894 Drague et Chalut Drague sul cap l Abeille 40 \u00e0 45 m\u00e8tres Chalut dans l Est de Banyuls par 6 om\u00e8tres de fond R\u00e9sultat El\u00e9dores Epnezz vari\u00e9es cailloux du cap l Abeille Bernard de diff\u00e9rents aspect 1 coup de Haubert a \u00e9t\u00e9 donn\u00e9 dans la baie de Caillalo\u00eb par 3 metres de fond Il a \u00e9t\u00e9 pris 1 Arbacia Banyuls mer 11 janvier 1893 F Guillet",
+      "cleaned_content": "5 supe sup Sortie 11 Janvier 1894 Dragueet Chalut Draguesulcapl Abeille 40 \u00e0 45 m\u00e8tres Chalutdansl Estde Banyulspar 6 om\u00e8tresdefond R\u00e9sultat El\u00e9dores Epnezzvari\u00e9escaillouxducapl Abeille Bernarddediff\u00e9rentsaspect 1 coupde Hauberta \u00e9t\u00e9 donn\u00e9 danslabaiede Caillalo\u00eb par 3 metresdefond Ila \u00e9t\u00e9 pris 1 Arbacia Banyulsmer 11 janvier 1893 F Guillet",
+      "entities": {
+        "dates": [
+          "11 Janvier 1894",
+          "11 janvier 1893"
+        ]
+      }
+    },
+    {
+      "page_number": "132",
+      "raw_content": "6 sup e sup Sortie 18 Janvier 1894 Chalut Smille 1 6 du C B\u00e9al Profondeur Som\u00e8tes Remetax Comatals Cynthia microcoma Spirographis Molgula infirma Phallusia mamillata Ascid Pleurobranchi Eporella Bernard Is Genues caramote Ophioglypha Hichopus Promie Pina No\u00eblles et Bauges Ime 18 Janvier 1894 F Quillet",
+      "cleaned_content": "6 supe sup Sortie 18 Janvier 1894 Chalut Smille 1 6 du C B\u00e9al Profondeur Som\u00e8tes Remetax Comatals Cynthiamicrocoma Spirographis Molgulainfirma Phallusiamamillata Ascid Pleurobranchi Eporella Bernard Is Genuescaramote Ophioglypha Hichopus Promie Pina No\u00eblleset Bauges Ime 18 Janvier 1894 F Quillet",
+      "entities": {
+        "dates": [
+          "18 Janvier 1894",
+          "18 Janvier 1894"
+        ]
+      }
+    },
+    {
+      "page_number": "133",
+      "raw_content": "7 sup e sup Sortie 6 F\u00e9vrier 1894 Gerardia Chagage de Touches d Alques Frac 15 metres H Guiteau",
+      "cleaned_content": "7 supe sup Sortie 6 F\u00e9vrier 1894 Gerardia Chagagede Touchesd Alques Frac 15 metres H Guiteau",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "134",
+      "raw_content": "8 sup e sup Sortie 7 Fevrier 1894 Dragage Cap l Ab\u00e9ille Profondeur 35 m\u00e8tres Cailloux \u00e0 Melob\u00e9si\u00e9es F Lecointe",
+      "cleaned_content": "8 supe sup Sortie 7 Fevrier 1894 Dragage Capl Ab\u00e9ille Profondeur 35 m\u00e8tres Cailloux \u00e0 Melob\u00e9si\u00e9es F Lecointe",
+      "entities": {
+        "dates": [
+          "7 Fevrier 1894"
+        ]
+      }
+    },
+    {
+      "page_number": "135",
+      "raw_content": "9 sup e sup Sortie 12 F\u00e9vrier 1894 Dragage Plage d Argelles Profondeur 12 m\u00e8tres R\u00e9sultat Murex Brandaris Osthopecten Amphioxus Homards J sup r sup Cluizel",
+      "cleaned_content": "9 supe sup Sortie 12 F\u00e9vrier 1894 Dragage Plaged Argelles Profondeur 12 m\u00e8tres R\u00e9sultat Murex Brandaris Osthopecten Amphioxus Homards J supr sup Cluizel",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "136",
+      "raw_content": "10 sup e sup jour\u00e9e 15 F\u00e9vrier 1844 Chalut M E de Cap B\u00e9ar R\u00e9sultat Sledone F sup r sup Guite",
+      "cleaned_content": "10 supe supjour\u00e9e 15 F\u00e9vrier 1844 Chalut M E de Cap B\u00e9ar R\u00e9sultat Sledone F supr sup Guite",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "137",
+      "raw_content": "11 sup e sup Sortie 16 F\u00e9vrier 1894 Dragage au Cap d Abeille Profondeur 35 m\u00e8tres R\u00e9cup\u00e9ration Cailloux M\u00e9lob\u00e9sies F Guillet",
+      "cleaned_content": "11 supe sup Sortie 16 F\u00e9vrier 1894 Dragageau Capd Abeille Profondeur 35 m\u00e8tres R\u00e9cup\u00e9ration Cailloux M\u00e9lob\u00e9sies F Guillet",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "138",
+      "raw_content": "De Torcie 24 Fevrier 1894 Braunpol de gouvernail du Roland Port Vendres R Quillot",
+      "cleaned_content": "De Torcie 24 Fevrier 1894 Braunpoldegouvernaildu Roland Port Vendres R Quillot",
+      "entities": {
+        "dates": [
+          "24 Fevrier 1894"
+        ]
+      }
+    },
+    {
+      "page_number": "139",
+      "raw_content": "18e Sortie 7 Novembre 1894 Port Vendres Approvisionnement de Charbon F Guiteau",
+      "cleaned_content": "18e Sortie 7 Novembre 1894 Port Vendres Approvisionnementde Charbon F Guiteau",
+      "entities": {
+        "dates": [
+          "7 Novembre 1894"
+        ]
+      }
+    },
+    {
+      "page_number": "140",
+      "raw_content": "14 sup e sup Sortie 9 Mars 1894 Chalut En face Banyuls Profondeur 45 m\u00e8tres R\u00e9cueillit Slednes Alaym Jeunatules Vrestills Hichopu Ostropeter Cacumaria Sponge Tueres Plumulavia Pagure S melo Phulleria niamilla ta 1 S\u00e9pia F Guittet",
+      "cleaned_content": "14 supe sup Sortie 9 Mars 1894 Chalut Enface Banyuls Profondeur 45 m\u00e8tres R\u00e9cueillit Slednes Alaym Jeunatules Vrestills Hichopu Ostropeter Cacumaria Sponge Tueres Plumulavia Pagure S melo Phullerianiamillata 1 S\u00e9pia F Guittet",
+      "entities": {
+        "dates": [
+          "9 Mars 1894"
+        ]
+      }
+    },
+    {
+      "page_number": "141",
+      "raw_content": "15 sup e sup Sortie 10 Mars 1894 Approtisionnement de barbier \u00e0 Port Vendres J sup r sup Guite",
+      "cleaned_content": "15 supe sup Sortie 10 Mars 1894 Approtisionnementdebarbier \u00e0 Port Vendres J supr sup Guite",
+      "entities": {
+        "dates": [
+          "10 Mars 1894"
+        ]
+      }
+    },
+    {
+      "page_number": "142",
+      "raw_content": "Le 23 Octobre 1894 le quartier ma\u00eetre de man\u0153uvre de 2 sup e sup classe Guerro a \u00e9t\u00e9 d\u00e9l\u00e9gu\u00e9 pour commander la embarcation du Laboratoire Sortie 26 Octobre 1894 Dragage au cap l Abeille Sortie 20 Novembre 1894 Port Vendres Fait du charbon Sortie 27 Novembre 1894 Dragage au cap l Abeille P\u00eache d \u00e9ponges pour M sup r sup Topsent Axinelles Sortie 29 Novembre 1894 Chalutage devant Argel\u00e8s Cynthia Spirographe Mollusques Molgules Drague \u00e0 Paulilles 6 Amphioxus",
+      "cleaned_content": "Le 23 Octobre 1894 lequartierma\u00eetredeman\u0153uvrede 2 supe supclasse Guerroa \u00e9t\u00e9 d\u00e9l\u00e9gu\u00e9 pourcommanderlaembarcationdu Laboratoire Sortie 26 Octobre 1894 Dragageaucapl Abeille Sortie 20 Novembre 1894 Port Vendres Faitducharbon Sortie 27 Novembre 1894 Dragageaucapl Abeille P\u00eached \u00e9pongespour M supr sup Topsent Axinelles Sortie 29 Novembre 1894 Chalutagedevant Argel\u00e8s Cynthia Spirographe Mollusques Molgules Drague \u00e0 Paulilles 6 Amphioxus",
+      "entities": {
+        "dates": [
+          "23 Octobre 1894",
+          "26 Octobre 1894",
+          "20 Novembre 1894",
+          "27 Novembre 1894",
+          "29 Novembre 1894"
+        ]
+      }
+    },
+    {
+      "page_number": "143",
+      "raw_content": "Sortie 9 Decembre 1894 Chalut au large du cap Bear Sortie 10 Decembre 1894 Drogage avec l Abeille Sortie 13 Decembre 1894 Drogage au cap l Abeille anchoises Sortie 15 Decembre 1894 Chalut drogues \u00e0 Carillo 15 anguilles Bri\u00e8d le mot de tope reel Sortie 17 Decembre 1894 Oblig\u00e9s de rentrer apr\u00e8s avoir touch\u00e9 le cap Bear \u00e0 cause du vent du Nord Sortie 18 Decembre 1894 Chalut 3 \u00e9crevisses et petites vieilles",
+      "cleaned_content": "Sortie 9 Decembre 1894 Chalutaulargeducap Bear Sortie 10 Decembre 1894 Drogageavecl Abeille Sortie 13 Decembre 1894 Drogageaucapl Abeilleanchoises Sortie 15 Decembre 1894 Chalutdrogues \u00e0 Carillo 15 anguilles Bri\u00e8dlemotdetopereel Sortie 17 Decembre 1894 Oblig\u00e9sderentrerapr\u00e8savoirtouch\u00e9 lecap Bear \u00e0 causeduventdu Nord Sortie 18 Decembre 1894 Chalut 3 \u00e9crevissesetpetitesvieilles",
+      "entities": {
+        "dates": [
+          "9 Decembre 1894",
+          "10 Decembre 1894",
+          "13 Decembre 1894",
+          "15 Decembre 1894",
+          "17 Decembre 1894",
+          "18 Decembre 1894"
+        ]
+      }
+    },
+    {
+      "page_number": "144",
+      "raw_content": "22 D\u00e9cembre 1894 Chalet au face x Collivine Bleicher Eledros et gg ascidies 24 D\u00e9cembre 1894 Chalet f\u00e2che peu spectacles",
+      "cleaned_content": "22 D\u00e9cembre 1894 Chaletaufacex Collivine Bleicher Eledrosetggascidies 24 D\u00e9cembre 1894 Chaletf\u00e2chepeuspectacles",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "145",
+      "raw_content": "1895 Sortie 2 F\u00e9vrier 1895 Dragage au cap l Abeille Sortie 20 F\u00e9vrier 1895 Chalutage \u00e0 Paullils \u00c9ponges et Seiches Sortie 21 F\u00e9vrier 1895 Chalutage du cap Corbi\u00e8re au Fortoul\u00e9 le chalut \u00e9tant revenu est vide Chalutage du Cap l Obeille \u00e0 Paullills \u00c9ponges Sortie 22 F\u00e9vrier 1895 Chalut en face Collions et Port Venohes \u00c9ponges et beaucoup d Ascidies 8 Mars 1895 Sortie de la G\u00e9rondi\u00e8re allons \u00e0 Port V\u00e9nas pour des Spinosographes et des Cornatules",
+      "cleaned_content": "1895 Sortie 2 F\u00e9vrier 1895 Dragageaucapl Abeille Sortie 20 F\u00e9vrier 1895 Chalutage \u00e0 Paullils \u00c9pongeset Seiches Sortie 21 F\u00e9vrier 1895 Chalutageducap Corbi\u00e8reau Fortoul\u00e9 lechalut \u00e9tantrevenuestvide Chalutagedu Capl Obeille \u00e0 Paullills \u00c9ponges Sortie 22 F\u00e9vrier 1895 Chalutenface Collionset Port Venohes \u00c9pongesetbeaucoupd Ascidies 8 Mars 1895 Sortiedela G\u00e9rondi\u00e8reallons \u00e0 Port V\u00e9naspourdes Spinosographesetdes Cornatules",
+      "entities": {
+        "dates": [
+          "8 Mars 1895"
+        ]
+      }
+    },
+    {
+      "page_number": "146",
+      "raw_content": "21 Mars 1895 Etie Port Vendres faiche du charbon 7 Juin 1895 a l est de Bourgade recherche s Estrella pour M Racovitzka Le 17 Juin 1895 le patron Quene quitte le service du Laboratoire Joseph Rouvier est nomm\u00e9 patron du Laboratoire au mois d Octobre 26 Juin 1895 Sto \u00e0 Port Vendres faire du charbon A bord A Robert M Prochet",
+      "cleaned_content": "21 Mars 1895 Etie Port Vendresfaicheducharbon 7 Juin 1895 al estde Bourgaderecherches Estrellapour M Racovitzka Le 17 Juin 1895 lepatron Quenequitteleservicedu Laboratoire Joseph Rouvierestnomm\u00e9 patrondu Laboratoireaumoisd Octobre 26 Juin 1895 Sto \u00e0 Port Vendresfaireducharbon A bord A Robert M Prochet",
+      "entities": {
+        "dates": [
+          "21 Mars 1895",
+          "7 Juin 1895",
+          "17 Juin 1895",
+          "26 Juin 1895"
+        ]
+      }
+    },
+    {
+      "page_number": "147",
+      "raw_content": "Campagne 1895 96 1 sup re sup Sortie 19 Octobre 1895 Rech d Amphioxus 2 sup e sup Sortie 16 Novembre 1895 Chalut Cynthia g morales Ophiurus deux Trochos zigophinus 1 petite Torp\u00e8de 1 Pleurophyllidic Decem Scaphander 2 Doris 2 Molothrus tubulosa 3 sup e sup Sortie 23 Novembre 1895 Chalut vent du nord assez fort qq Holothurias Echinus Lameilleria 1 Doris 1 Idalia elegans 1 Tritonia 4 sup e sup Sortie 28 Novembre 1895 D\u00e9part 8h\u00bd retour \u00e0 4h\u00bd Chalut 4 Pleurobranches 7 Doris Scapula etc 5 sup e sup Sortie 30 Novembre 1895 Chalut Doris Scaphander 2 Trochos granulatus 6 sup e sup Sortie 2 D\u00e9cembre 1895 C Chalut 7 sup e sup Sortie 19 Janvier 1896 \u00c9t\u00e9 chercher des trysaux \u00e0 Port Vendres 8 sup e sup Sortie 20 Janvier Belle Amphioxus",
+      "cleaned_content": "Campagne 1895 96 1 supresup Sortie 19 Octobre 1895 Rechd Amphioxus 2 supe sup Sortie 16 Novembre 1895 Chalut Cynthiag morales Ophiurusdeux Trochoszigophinus 1 petite Torp\u00e8de 1 Pleurophyllidic Decem Scaphander 2 Doris 2 Molothrustubulosa 3 supe sup Sortie 23 Novembre 1895 Chalutventdunordassezfortqq Holothurias Echinus Lameilleria 1 Doris 1 Idaliaelegans 1 Tritonia 4 supe sup Sortie 28 Novembre 1895 D\u00e9part 8h\u00bd retour \u00e0 4h\u00bd Chalut 4 Pleurobranches 7 Doris Scapulaetc 5 supe sup Sortie 30 Novembre 1895 Chalut Doris Scaphander 2 Trochosgranulatus 6 supe sup Sortie 2 D\u00e9cembre 1895 C Chalut 7 supe sup Sortie 19 Janvier 1896 \u00c9t\u00e9 chercherdestrysaux \u00e0 Port Vendres 8 supe sup Sortie 20 Janvier Belle Amphioxus",
+      "entities": {
+        "dates": [
+          "19 Octobre 1895",
+          "16 Novembre 1895",
+          "23 Novembre 1895",
+          "28 Novembre 1895",
+          "30 Novembre 1895",
+          "19 Janvier 1896"
+        ]
+      }
+    },
+    {
+      "page_number": "148",
+      "raw_content": "9 sup e sup Sortie 21 Juin 1896 Chalut 10 sup e sup Sortie 14 F\u00e9vrier 1896 Chalut 99 Troques 2 Placophyllid\u00e9s Bryozoaires 1 Aureliana aurita et autres Actiniaires Le but \u00e9tait pour l objet de trouver des Actiniaires pour M sup r sup Fauvet 11 sup e sup Sortie 16 Mars 1896 Sortie par avort du Mouex pour le d Barage Au raffort du Gorgones par un seul Mouex 12 sup e sup Sortie 9 Mai 1896 Sortie avec avort des \u00c9ponges pour M sup r sup Minchini Drogages au cap d Abeille Cass\u00e9 la drogue 13 sup e sup Sortie 15 Mai 1896 Chalut le matin \u00c9ledons Lamellaria Drogue l apr\u00e8s midi \u00c9ponges rentr\u00e9e \u00e0 4 h 14 sup e sup Sortie 8 Juin 1896 Chalut",
+      "cleaned_content": "9 supe sup Sortie 21 Juin 1896 Chalut 10 supe sup Sortie 14 F\u00e9vrier 1896 Chalut 99 Troques 2 Placophyllid\u00e9s Bryozoaires 1 Aurelianaauritaetautres Actiniaires Lebut \u00e9taitpourl objetdetrouverdes Actiniairespour M supr sup Fauvet 11 supe sup Sortie 16 Mars 1896 Sortieparavortdu Mouexpourled Barage Auraffortdu Gorgonesparunseul Mouex 12 supe sup Sortie 9 Mai 1896 Sortieavecavortdes \u00c9pongespour M supr sup Minchini Drogagesaucapd Abeille Cass\u00e9 ladrogue 13 supe sup Sortie 15 Mai 1896 Chalutlematin \u00c9ledons Lamellaria Droguel apr\u00e8smidi \u00c9pongesrentr\u00e9e \u00e0 4 h 14 supe sup Sortie 8 Juin 1896 Chalut",
+      "entities": {
+        "dates": [
+          "21 Juin 1896",
+          "16 Mars 1896",
+          "9 Mai 1896",
+          "15 Mai 1896",
+          "8 Juin 1896"
+        ]
+      }
+    },
+    {
+      "page_number": "149",
+      "raw_content": "1896 97 7 Octobre 1896 1 sup re sup Sortie \u00c9t\u00e9 chercher \u00e0 Poste Vendres des pierres pour le fort du caprin 2 sup e sup Sortie 19 Novembre 1896 Sortie pour avoir des \u00c9chinus acutus pour le Triant Le bateau part \u00e0 7 sup h sup Entr\u00e9 \u00e0 15 sup h sup Chalut grosse d \u00c9chinus 20 Elednes 1 Peachiz 1 Lioche 2 Pleurophyllidies 1 Turris granulata Quantit\u00e9 une foule de Collionidae pr\u00e8s du rocher 3 sup e sup Sortie 25 Novembre 1896 Sorti \u00e0 6 sup h sup entr\u00e9 Colliono et Argel\u00e8s dom 2 coupes de drogue et l enf de chalut vers locap Blanc Rebut\u00e9 \u00e0 9 sup h sup pluie vent du Nord Nombreux Gorgones Hogues 7 Pleurobranches membranacees 3 Doris 99 oursins 4 sup e sup Sortie 7 D\u00e9cembre 1896 Sortie pour cherche des Spirographes d\u00e9part 7 sup h sup Poste Vendres Sorti \u00e0 Port Vendres \u00e0 1 sup h sup Chalut Spirographes S\u00e9pules oursins nombreux Doris tr\u00e8s nombreuses Cornatelles 2 Pleurobranches membranac\u00e9es 1897 1897 11 Janvier 1897 5 sup e sup Sortie Chalut D\u00e9part \u00e0 7 sup h sup entr\u00e9e \u00e0 12 sup h sup",
+      "cleaned_content": "1896 97 7 Octobre 1896 1 supresup Sortie \u00c9t\u00e9 chercher \u00e0 Poste Vendresdespierrespourlefortducaprin 2 supe sup Sortie 19 Novembre 1896 Sortiepouravoirdes \u00c9chinusacutuspourle Triant Lebateaupart \u00e0 7 suph sup Entr\u00e9 \u00e0 15 suph sup Chalutgrossed \u00c9chinus 20 Elednes 1 Peachiz 1 Lioche 2 Pleurophyllidies 1 Turrisgranulata Quantit\u00e9 unefoulede Collionidaepr\u00e8sdurocher 3 supe sup Sortie 25 Novembre 1896 Sorti \u00e0 6 suph supentr\u00e9 Collionoet Argel\u00e8sdom 2 coupesdedrogueetl enfdechalutverslocap Blanc Rebut\u00e9 \u00e0 9 suph suppluieventdu Nord Nombreux Gorgones Hogues 7 Pleurobranchesmembranacees 3 Doris 99 oursins 4 supe sup Sortie 7 D\u00e9cembre 1896 Sortiepourcherchedes Spirographesd\u00e9part 7 suph sup Poste Vendres Sorti \u00e0 Port Vendres \u00e0 1 suph sup Chalut Spirographes S\u00e9pulesoursinsnombreux Doristr\u00e8snombreuses Cornatelles 2 Pleurobranchesmembranac\u00e9es 1897 1897 11 Janvier 1897 5 supe sup Sortie Chalut D\u00e9part \u00e0 7 suph supentr\u00e9e \u00e0 12 suph sup",
+      "entities": {
+        "dates": [
+          "7 Octobre 1896",
+          "19 Novembre 1896",
+          "25 Novembre 1896",
+          "11 Janvier 1897"
+        ]
+      }
+    },
+    {
+      "page_number": "150",
+      "raw_content": "6 sup e sup Sortie 12 Janvier 1897 Sortie pour avoir des Amphioxus D\u00e9part \u00e0 8h30 Dragage \u00e0 9h45 Chalut Retour \u00e0 15h 7 sup e sup Sortie 26 Janvier 1897 Chalut D\u00e9part 9h45 entr\u00e9e 15h 8 sup e sup Sortie 9 F\u00e9vrier 1897 Sortie \u00e0 9h15 retour \u00e0 2h50 Chalut Periwinkles V\u00e9r\u00e9tells 3 Pholines et quelques Scaphandres 9 sup e sup Sortie 19 Mars 1897 Sortie pour avoir des Ophiurus st des Murex d\u00e9part \u00e0 6h45 Drag\u00e9 \u00e0 11h15 rentr\u00e9 \u00e0 4h 50 Murex pas d Ophiurus 10 sup e sup Sortie 20 Mars 1897 Sortie pour avoir des Ophiurus D\u00e9part \u00e0 2h30 Drag\u00e9 \u00e0 3h30 Retour \u00e0 5h30 Des milliers d Ophiurus aucun autre animal 11 sup e sup Sortie 18 Mai 1897 Sorte Pour avoir ds Brachiopodes avec Mr de Lavaux Depart \u00e0 7h45 retourn\u00e9 \u00e0 midi Dragu\u00e9 un cephalobele Nombreux Pois protot ds Argiopes etds Polylepion a tres les \u00e9tats de d\u00e9veloppement Solle \u00e0 amphioxus 7 amphixoi 12 sup e sup Sortie 1 sup er sup Juin 1897 Sortie pour 10 m de large fa aussi 13 Molyuds D\u00e9part \u00e0 6h15 retour \u00e0 3heures 1er dragage \u00e0 temps T Chalut Muchans Crustac\u00e9s An\u00e9mones Stichopus etc 2 Doris",
+      "cleaned_content": "6 supe sup Sortie 12 Janvier 1897 Sortiepouravoirdes Amphioxus D\u00e9part \u00e0 8h30 Dragage \u00e0 9h45 Chalut Retour \u00e0 15h 7 supe sup Sortie 26 Janvier 1897 Chalut D\u00e9part 9h45 entr\u00e9e 15h 8 supe sup Sortie 9 F\u00e9vrier 1897 Sortie \u00e0 9h15 retour \u00e0 2h50 Chalut Periwinkles V\u00e9r\u00e9tells 3 Pholinesetquelques Scaphandres 9 supe sup Sortie 19 Mars 1897 Sortiepouravoirdes Ophiurusstdes Murexd\u00e9part \u00e0 6h45 Drag\u00e9 \u00e0 11h15 rentr\u00e9 \u00e0 4h 50 Murexpasd Ophiurus 10 supe sup Sortie 20 Mars 1897 Sortiepouravoirdes Ophiurus D\u00e9part \u00e0 2h30 Drag\u00e9 \u00e0 3h30 Retour \u00e0 5h30 Desmilliersd Ophiurusaucunautreanimal 11 supe sup Sortie 18 Mai 1897 Sorte Pouravoirds Brachiopodesavec Mrde Lavaux Depart \u00e0 7h45 retourn\u00e9 \u00e0 midi Dragu\u00e9 uncephalobele Nombreux Poisprototds Argiopesetds Polylepiona tresles \u00e9tatsded\u00e9veloppement Solle \u00e0 amphioxus 7 amphixoi 12 supe sup Sortie 1 supersup Juin 1897 Sortiepour 10 mdelargefaaussi 13 Molyuds D\u00e9part \u00e0 6h15 retour \u00e0 3heures 1erdragage \u00e0 temps T Chalut Muchans Crustac\u00e9s An\u00e9mones Stichopusetc 2 Doris",
+      "entities": {
+        "dates": [
+          "12 Janvier 1897",
+          "26 Janvier 1897",
+          "19 Mars 1897",
+          "20 Mars 1897",
+          "18 Mai 1897"
+        ]
+      }
+    },
+    {
+      "page_number": "151",
+      "raw_content": "",
+      "cleaned_content": "",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "152",
+      "raw_content": "",
+      "cleaned_content": "",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "153",
+      "raw_content": "",
+      "cleaned_content": "",
+      "entities": {
+        "dates": []
+      }
+    }
+  ],
+  "metadata": {
+    "years": [
+      "1790",
+      "1791",
+      "1792",
+      "1793",
+      "1797",
+      "1871",
+      "1872",
+      "1890",
+      "1891",
+      "1892",
+      "1893",
+      "1894",
+      "1895",
+      "1896",
+      "1897",
+      "1941"
+    ],
+    "book_name": "05_OOB_04_log"
+  }
+}

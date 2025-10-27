@@ -1,0 +1,27 @@
+|  V. 6 Juillet - 1907 | Mbatin, Fous  |
+| --- | --- |
+|  Hauteur Waxométrique | 708,1  |
+|  Direction du vent | 20,2  |
+|  Force | 1,67,4  |
+|  |   |
+|  Nebulinite (Reg. G. (tire) | 10  |
+|  Direction des mages | 10  |
+|  Flux tombé | 10  |
+|  Température de la mage | 38,0  |
+|  Hauteur de la mage | 68,3  |
+|  Cigitation de l'eau | 1  |
+|  Densité au bout de la jetée | 1,028,0  |
+|  Température de l'eau | 18,7  |
+|  V. 8 Juillet - 1907 | Mbatin, Fous  |
+|  Hauteur Waxométrique | 704,5  |
+|  Direction du vent | 20,2  |
+|  Force | 3,60,4  |
+|  |   |
+|  Nebulinite (Reg. G. (tire) | 10  |
+|  Direction des mages | 10  |
+|  Flux tombé | 10  |
+|  Température de l'air | 18,15  |
+|  Hauteur de la mage | 14,0  |
+|  Cigitation de l'eau | 2  |
+|  Densité au bout de la jetée | 1,028,1  |
+|  Température de l'eau | 18,1  |

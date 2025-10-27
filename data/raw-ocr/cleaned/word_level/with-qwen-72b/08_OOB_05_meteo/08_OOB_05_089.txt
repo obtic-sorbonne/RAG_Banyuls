@@ -1,0 +1,1 @@
+N 15 9 Mars 1906 Matin Soir Nombre de jours de bateaux g N 16 9 Mars 1906 Hauteur barométrique 778 2 Direction du vent cr cr o Force i5 1 Ti fort Leger e c Nebulosite Des o terre Peu ent Lige e c Reg xi mer Direction des nuages cr cr o Pluie tombée Temperature de l air s Hauteur de la mer Agitation de l eau faible Densité au bout de la jetée S Temperature de l eau

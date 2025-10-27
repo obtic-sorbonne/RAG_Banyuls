@@ -1,0 +1,32 @@
+```plaintext
+| **Date** | **Matin** | **Soir** |
+|----------|-----------|----------|
+| **Fr. 25 Avril 1903** | | |
+| Hauteur Barométrique | 797.6 | 797.5 |
+| Direction du vent | croissant | croissant 8 |
+| Force | 2 | 2 |
+| Reg. 6 (Ciel clair) | 0 | 10 |
+| Nébulosité | 0 | 10 |
+| Reg. E (matin) | 0 | 10 |
+| Direction des nuages | croissant | croissant |
+| Pluie tombée | 3.0 g | quelques g |
+| Température de l'air | 12.4 | 13.4 |
+| Hauteur de la mer | 48.6 | 48.0 |
+| Agitation de l'eau | 1 | 1 T. faible |
+| Densité au bout de la jetée | 1029.1 | 1029.1 |
+| Température de l'eau | 12.7 | 13.0 |
+| **Fr. 26 Avril 1903** | | |
+| Hauteur Barométrique | 796.0 | 796.0 |
+| Direction du vent | croissant 8 | croissant 8 |
+| Force | 1 | 1 |
+| Reg. 6 (Ciel clair) | 0 | 10 |
+| Nébulosité | 0 | 2 légères |
+| Reg. E (matin) | croissant 8 | croissant 8 |
+| Direction des nuages | croissant 8 | croissant 8 |
+| Pluie tombée | | |
+| Température de l'air | 12.8 | 12.8 |
+| Hauteur de la mer | 47.0 | 47.0 |
+| Agitation de l'eau | 1 T. faible | 1 T. faible |
+| Densité au bout de la jetée | 1029.1 | 1029.1 |
+| Température de l'eau | 13.6 | 13.6 |
+```

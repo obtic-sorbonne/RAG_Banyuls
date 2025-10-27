@@ -1,0 +1,20 @@
+# Date: 16 mars 1901
+
+|  Name | 9th Matin | 3rd Soir  |
+| --- | --- | --- |
+|  Hanteur Marométrique | 760,3 | 758,0  |
+|  Direction du vent | E.N.E | N.N.E  |
+|  Force | 2 Gaithe | 1  |
+|  Pég. D. (time) | 16:30:00 | 16:30:00  |
+|  Pétoulesite |  |   |
+|  2 60,3 |  |   |
+|  Direction des nuages |  |   |
+|  2 Lime tombé |  |   |
+|  Température de l'air |  |   |
+|  10,2 |  |   |
+|  11,7 |  |   |
+|  Hanteur de la mer | 54,8 | 51,4  |
+|  Ggitation de l'eau | 1 | 1,6  |
+|  Pensite de l'eau |  |   |
+|  1 10,2 |  |   |
+|  11,5 |  |   |

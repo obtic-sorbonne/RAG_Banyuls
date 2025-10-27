@@ -1,0 +1,33 @@
+# 4. 16 Août. 1902
+
+|  Nom | Date  |
+| --- | --- |
+|  Hauteur Barométrique | 763.7  |
+|  Direction du vent | 46.  |
+|  Force | 1  |
+|  Nébulosité (Reg. O. (terre)) | 8  |
+|  Nébulosité (Reg. E. (mer)) | 1  |
+|  Direction des nuages | 46.  |
+|  Pluie tombée |  |
+|  Température de l'air | 24.9  |
+|  Hauteur de la mer | 49.0  |
+|  Agitation de l'eau | 15.6  |
+|  Densité au bout de la jetée | 1026.9  |
+|  Température de l'eau | 28.2  |
+
+# 5. 17 Août. 1902
+
+|  Nom | Date  |
+| --- | --- |
+|  Hauteur Barométrique | 766.5  |
+|  Direction du vent | 2.5  |
+|  Force | 1  |
+|  Nébulosité (Reg. O. (terre)) | 8  |
+|  Nébulosité (Reg. E. (mer)) | 1  |
+|  Direction des nuages | 46.  |
+|  Pluie tombée |  |
+|  Température de l'air | 28.3  |
+|  Hauteur de la mer | 49.1  |
+|  Agitation de l'eau | 15.6  |
+|  Densité au bout de la jetée | 1027.1  |
+|  Température de l'eau | 28.4  |

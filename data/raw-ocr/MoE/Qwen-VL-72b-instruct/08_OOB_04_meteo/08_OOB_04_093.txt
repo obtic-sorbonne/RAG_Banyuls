@@ -1,0 +1,29 @@
+| Date       | Matin | Bain | Soir  |
+|------------|-------|------|-------|
+| 22 Mai 1902 | --- | --- | --- |
+| Hauteur Barométrique | 769.6 | --- | 769.3 |
+| Direction du vent | cr. cr. o | --- | cr. cr. o |
+| Force | 1/5 | --- | 4/10 |
+| Nu-bul-visité | Reg. c (cəue) | 0 | 2 |
+|         | Reg. É. (mer) | 0 | 2 |
+| Direction ses images | cr. cr. o | --- | cr. cr. o |
+| Plue Tombé | " | --- | " |
+| Température de l'air | 13.4 | --- | 16.4 |
+| Hauteur de la mer | 70.8 | --- | 74.9 |
+| agilisation de l'eau | 3 | --- | 3 |
+| densite au bout de la jettée | 1028.2 | --- | 1028.0 |
+| Température de l'eau | 13.7 | --- | 14.9 |
+
+| 23 Mai 1902 | --- | --- | --- |
+| Hauteur Barométrique | 761.3 | --- | --- |
+| Direction du vent | cr. cr. o | --- | --- |
+| Force | 3 | --- | --- |
+| Nu-bul-visité | Reg. s (cəue) | 10 | --- |
+|         | Reg. É. (mer) | 10 | --- |
+| Direction ses images | cr. cr. o | --- | --- |
+| Plue Tombé | quelques. g | --- | --- |
+| Température de l'air | 19.2 | --- | --- |
+| Hauteur de la mer | 74.9 | --- | --- |
+| agilisation de l'eau | 2/ord | --- | --- |
+| densite au bout de la jettée | 1028.4 | --- | --- |
+| Température de l'eau | 13.9 | --- | --- |

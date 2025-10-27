@@ -1,0 +1,18 @@
+| **Date** | 20 Mai 1902 |
+|----------|------------|
+| **Paramètres** | **9h Matin** | **3h Soir** |
+| Hauteur Barométrique | 762,6 | 763,2 |
+| Direction du vent | cr.cr. | cr.cr. |
+| Force | faible | 3 |
+| **Nébulosité** |  |  |
+| - Reg. O. (claire) | 1/3 | 1/0 |
+| - Reg. E. (mer) | 2 | 1/0 |
+| Direction des nuages | er.cr. | er.cr. |
+| Pluie tombée | quelques g | quelques g. |
+| Température de l'air | 11,3 | 13,5 |
+| Hauteur de la mer | 67,9 | 63,5 |
+| Agitation de l'eau | faible | faible |
+| - par bout de la jetée | 10/27,9 | 10/27,9 |
+| **Densité de l'eau** |  |  |
+| - au Large |  | |
+| Température de l'eau | 14,0 | 14,3 |

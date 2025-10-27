@@ -1,0 +1,16 @@
+| **Paramètres** | **9h Matin** | **3h Soir** |
+|---|---|---|
+| Hauteur Barométrique | 759.5 | 757.3 |
+| Direction du vent | S.S.E. | S.S.E. |
+| Force | 1 T. faible | 1 T. fort |
+| Régulateur (Clére) | 10 | 10 |
+| Régulateur (mer) | 10 | 10 |
+| Direction des nuages | S.S.E. | S.S.E. |
+| Pluie tombée | 1.829 mill. | quelques g. |
+| Température de l'air | 21.9 | 23.3 |
+| Hauteur de la mer | 3f.5 | 48.6 |
+| Agitation de l'eau | 1 faible | 2 T. fort |
+| Densité de l'eau |
+| au bout de la jetée | 1027.4 | 1027.0 |
+| au Large |
+| Température de l'eau | 21.4 | 21.6 |

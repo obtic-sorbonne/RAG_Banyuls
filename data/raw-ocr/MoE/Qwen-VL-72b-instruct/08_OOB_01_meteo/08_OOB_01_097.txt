@@ -1,0 +1,14 @@
+| **Paramètres météorologiques** | **9ʰ Matin** | **3ʰ Soir** |
+| --- | --- | --- |
+| Hauteur Barométrique | 767.3 | 764.7 |
+| Direction du vent | N.E | Ouest |
+| Force | 1/2 jolle | 1/2 jolle |
+| Nebulosité | Reg. O. (clie) | Reg. E. (nor) |
+|           | 0 | 1/4 couvert |
+| Direction des nuages | — | Ouest |
+| Pluie tombée | — | — |
+| Température de l'air | 15.6 | 20.3 |
+| Hauteur de la mer | 29.0 | 45.2 |
+| Agitation de l'eau au bout de la jolie | 1/2 jolle | 1 jolle |
+| Densité de l'eau au large | 1028.6 | 1028.7 |
+| Température de l'eau | 18.2 | 19.1 |

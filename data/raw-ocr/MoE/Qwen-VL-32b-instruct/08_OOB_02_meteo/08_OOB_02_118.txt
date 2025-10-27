@@ -1,0 +1,16 @@
+# Date: 7 Juillet 1901
+
+|  Item | Price  |
+| --- | --- |
+|  Yauteur Prazometrique | 34,0  |
+|  Direction du vent | mou  |
+|  Force | faible  |
+|  Tributosite | 25,0  |
+|  Tributosite | 25,0  |
+|  Réduction des nuages | 0  |
+|  Tune tombée | "  |
+|  Température de l'air | 24,2  |
+|  Yauteur de la mer | 52,2  |
+|  Égitation de l'eau | faible  |
+|  Densité de l'eau | 102,7  |
+|  Comprendre de l'eau | 20,1  |

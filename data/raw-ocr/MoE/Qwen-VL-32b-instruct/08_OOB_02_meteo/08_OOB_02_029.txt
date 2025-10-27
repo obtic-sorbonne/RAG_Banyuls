@@ -1,0 +1,18 @@
+# Date 31 Mars 1901
+
+9th matin 3rd Soir
+
+|  Item | Date  |
+| --- | --- |
+|  Hauteur Barometrique | 3/4.6  |
+|  Direction Su vent | 3/4.6  |
+|  Force | 3  |
+|  Mébutosite (Reg. D. (mer)) | 10  |
+|  Mébutosite (Reg. E. (mer)) | 10  |
+|  Direction Ses nuages | 10  |
+|  Flue Tombé | quelques  |
+|  Température Je l'air | 14.5  |
+|  Hauteur Je la mer | 35.0  |
+|  Agitation Je l'eau | 5  |
+|  Densité Je l'eau | 1 an  |
+|  Température de l'eau | 11.3  |

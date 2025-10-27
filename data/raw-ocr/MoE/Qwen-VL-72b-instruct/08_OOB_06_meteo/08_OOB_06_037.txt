@@ -1,0 +1,41 @@
+OBSERVATIONS DU 1960 26 Juin
+
+| | à 9 h. m. | à 3 h. s. |
+|---|---|---|
+| Nombre de bateaux sortis (pêche à l'ancre) | 2 bateaux = | 80 | |
+| Température de l'air | maxima depuis la veille | 24,3 | |
+| | minima id. | 16,8 | |
+| Température de l'eau | maxima depuis la veille | | |
+| | minima id. | | |
+| Pluie tombée depuis la veille, en millim. | | 0 | |
+| Evaporation depuis le 190, en millim. | | | |
+| Direction du vent (à terre) | S.S.E | | |
+| Force | | 1 | |
+| Direction des nuages | | S.O | |
+| Nébulosité | région Ouest (terre) | 60 | |
+| | id. Est (mer) | 60 | |
+| Hauteur de la mer, en centimètres, au-dessus du zéro | | 85,6 | |
+| Agitation de l'eau | | 1 faible | |
+| Densité de l'eau au bout de la jetée | | 1027,0 | |
+| Température id. | | 18,8 | |
+
+OBSERVATIONS DU 1960 27 Juin
+
+| | à 9 h. m. | à 3 h. s. |
+|---|---|---|
+| Nombre de bateaux sortis (pêche à l'ancre) | 2 bateaux = | 80 | |
+| Température de l'air | maxima depuis la veille | 23,3 | |
+| | minima id. | 14,6 | |
+| Température de l'eau | maxima depuis la veille | | |
+| | minima id. | | |
+| Pluie tombée depuis la veille, en millim. | | quelques g | |
+| Evaporation depuis le 190, en millim. | | | |
+| Direction du vent (à terre) | M.N.O | O.S.O | |
+| Force | | 3 fort | 1 |
+| Direction des nuages | | Nord | M.N.O |
+| Nébulosité | région Ouest (terre) | 3 | 60 |
+| | id. Est (mer) | 0 | 60 |
+| Hauteur de la mer, en centimètres, au-dessus du zéro | | 38,6 | 29,1 |
+| Agitation de l'eau | | 2 | 2 forte |
+| Densité de l'eau au bout de la jetée | | 1027,0 | 1027,2 |
+| Température id. | | 17,8 | 18,9 |

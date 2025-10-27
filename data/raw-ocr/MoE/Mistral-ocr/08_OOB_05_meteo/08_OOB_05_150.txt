@@ -1,0 +1,27 @@
+|  V. A. Septembre 1905 | Matur | Soir  |
+| --- | --- | --- |
+|  Hauteur Marmoutrique | 200.4 | 204.2  |
+|  Direction du rent | or.00 | 1.5.8  |
+|  4000 | 8 foot | 1  |
+|  1 Reg.0 (time) | 0 | 0  |
+|  Nécutorite |  |   |
+|  (Reg. 20 (mor) | 0 | 0  |
+|  Direction des nuages | or.00 | 0  |
+|  2000 | 0 | 0  |
+|  2000 | 28.2 | 28.9  |
+|  2000 | 10.3 | 46.0  |
+|  2000 | 1029.0 | 1022.1  |
+|  2000 | 81.1 | 21.8  |
+|  V. S. Septembre 1906 | Matur | Soir  |
+|  Hauteur Marmoutrique | 204.1 | 207.2  |
+|  Direction du rent | or.00.8 | 80.0  |
+|  4000 | 1 foot | 1 r.fait  |
+|  1 Reg.0 (time) | 1000 | 10  |
+|  Nécutorite |  |   |
+|  (Reg. 20 (mor) | 1000 | 10  |
+|  Direction des nuages | ouest | ouest  |
+|  2000 | 82.9 | 82.9  |
+|  2000 | 16.2 | 41.3  |
+|  2000 | 1624.1 | 10 foot  |
+|  2000 | 1022.1 | 1022.1  |
+|  2000 | 82.8 | 82.9  |

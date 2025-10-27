@@ -1,0 +1,33 @@
+```plaintext
+| **Date**       | **Matin** | **Soir** |
+|----------------|-----------|----------|
+| **V. 28 Mai 1903** |
+| Hauteur Barométrique | 779.4 | 760.2 |
+| Direction du vent | Sud | Est |
+| Force            | 1 | 1 faible |
+| Nébulosité       | 10 | 10 |
+| Reg. O. (Ciel)   | 10 | 10 |
+| Reg. L. (Mur)    | 10 | 10 |
+| Direction des nuages | Sud | Sud |
+| Pluie tombée     | quelques gouttes | quelques gouttes |
+| Température de l'air | 21.6 | 21.1 |
+| Hauteur de la mer | 36.2 | 13.3 |
+| Agitation de l'eau | 3 | 3 fort |
+| Densité au bout de la jetée | 1027.4 | 1027.6 |
+| Température de l'eau | 17.1 | 17.4 |
+
+| **V. 29 Mai 1903** |
+| Hauteur Barométrique | 778.2 | 777.3 |
+| Direction du vent | cr. cr. 8 | " |
+| Force            | 1 | 0 |
+| Nébulosité       | 10 | 10 |
+| Reg. O. (Ciel)   | 10 | 10 |
+| Reg. L. (Mur)    | 10 | 10 |
+| Direction des nuages | Sud | Sud |
+| Pluie tombée     | " | quelques gouttes |
+| Température de l'air | 21.2 | 22.0 |
+| Hauteur de la mer | 36.6 | 48.2 |
+| Agitation de l'eau | 3 Jour | 3 fort |
+| Densité au bout de la jetée | 1027.9 | 1027.3 |
+| Température de l'eau | 17.8 | 17.9 |
+```

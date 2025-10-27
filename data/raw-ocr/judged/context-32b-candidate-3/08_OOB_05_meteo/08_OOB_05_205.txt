@@ -1,0 +1,18 @@
+```markdown
+# V. 29 Janvier 1907
+
+| **Date** | **Matin** | **Soir** |
+| --- | --- | --- |
+| **Hauteur barométrique** | 765.5 mmHg | 764.2 mmHg |
+| **Direction du vent** | S.O | S.O |
+| **Force** | 3 | 3 |
+| **Nébulosité (Reg. C. (terre))** | 10 | 10 |
+| **Nébulosité (Reg. 2. (mer))** | 10 | 10 |
+| **Direction des nuages** | S.O | S.O |
+| **Pluie tombée** | — | — |
+| **Température de l'air** | 9.5 °C | 9.2 °C |
+| **Hauteur de la mer** | 11.5 m | 11.2 m |
+| **Agitation de l'eau** | 4 modérée | 4 modérée |
+| **Densité au bout de la jetée** | 1028.6 kg/m³ | 1028.6 kg/m³ |
+| **Température de l'eau** | 9.5 °C | 9.5 °C |
+```

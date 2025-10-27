@@ -1,0 +1,33 @@
+# 22 9thai. 1902
+
+## Maitre Noir
+
+|  Maitre | Parémétrique | 269.6 | 269.3  |
+| --- | --- | --- | --- |
+|  Direction du vent |  | or. or. | or. or.  |
+|  Force |  |  | 4  |
+|  Nebulosié | Reg. O. (tier) |  | 2  |
+|  Niebulosié | Reg. E. (mer) |  | 2  |
+|  Direction des nuages |  | or. or. | or. or.  |
+|  Mue lombi |  |  |   |
+|  Température de l'air |  | 13.4 | 16.4  |
+|  Maitre de la mer |  | 20.3 | 24.1  |
+|  Égrégation de l'eau |  | 3 | 3  |
+|  Densité au bout de la jeté |  | 1028.2 | 1028.0  |
+|  Température de l'eau |  | 13.2 | 14.1  |
+
+## 23 9thai. 1902
+
+|  Maitre | Parémétrique | 261.3  |
+| --- | --- | --- |
+|  Direction du vent |  | or. or.  |
+|  Force |  | 3  |
+|  Nebulosié | Reg. O. (tier) | 10  |
+|  Niebulosié | Reg. E. (mer) | 10  |
+|  Direction des nuages |  | or. or.  |
+|  Mue lombi |  | quelques.  |
+|  Température de l'air |  | 11.2  |
+|  Maitre de la mer |  | 21.9  |
+|  Égrégation de l'eau |  | 3 fois  |
+|  Densité au bout de la jeté |  | 1028.4  |
+|  Température de l'eau |  | 13.9  |

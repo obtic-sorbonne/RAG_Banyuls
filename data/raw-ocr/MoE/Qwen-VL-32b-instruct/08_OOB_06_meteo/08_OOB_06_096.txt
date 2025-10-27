@@ -1,0 +1,63 @@
+| **OBSERVATIONS DU 1960 12 xbre** |
+| --- |
+| **Nombre de bateaux sortis (pêche à l.)** |  |
+| **Température de l'air** |
+|     maxima depuis la veille | 13.2 |
+|     minima id. | 6.9 |
+| **Température de l'eau** |
+|     maxima depuis la veille |  |
+|     minima id. |  |
+| **Pluie tombée depuis la veille, en millim.** | quelques gouttes |
+| **Evaporation depuis le 190**, en millim. |  |
+| **Direction du vent (à terre)** |
+|     à 9 h. m. | nor |
+|     à 3 h. s. | sud |
+| **Force** |  |
+| **Direction des nuages** |
+|     à 9 h. m. |  |
+|     à 3 h. s. |  |
+| **Nébulosité** |
+|     région Ouest (terre) | 10 |
+|     id. Est (mer) | 10 |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.)** |
+|     à 9 h. m. | 25.3 |
+|     à 3 h. s. | 26.1 |
+| **Agitation de l'eau** |
+|     à 9 h. m. | 1 faible |
+|     à 3 h. s. | 1حلة |
+| **Densité de l'eau au bout de la jetée** |
+|     à 9 h. m. | 1029.1 |
+|     à 3 h. s. | 1028.8 |
+| **Température** |  |
+
+| **OBSERVATIONS DU 1960 16 xbre** |
+| --- |
+| **Nombre de bateaux sortis (pêche à l.)** | voilant |
+| **Température de l'air** |
+|     maxima depuis la veille | 11.7 |
+|     minima id. | 8.6 |
+| **Température de l'eau** |
+|     maxima depuis la veille |  |
+|     minima id. |  |
+| **Pluie tombée depuis la veille, en millim.** | — |
+| **Evaporation depuis le 190**, en millim. |  |
+| **Direction du vent (à terre)** |
+|     à 9 h. m. | sud-ouest | sud-sud-ouest |
+|     à 3 h. s. | nord-est | sud-est |
+| **Force** | 1 | 1 |
+| **Direction des nuages** |
+|     à 9 h. m. | sud-sud-ouest |  |
+|     à 3 h. s. | sud-sud-ouest |  |
+| **Nébulosité** |
+|     région Ouest (terre) | 10 | 10 |
+|     id. Est (mer) | 20 | 20 |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.)** |
+|     à 9 h. m. | 16.2 |  |
+|     à 3 h. s. | 25.2 |  |
+| **Agitation de l'eau** |
+|     à 9 h. m. | 1 faible | 1 |
+|     à 3 h. s. |  |  |
+| **Densité de l'eau au bout de la jetée** |
+|     à 9 h. m. | 1029.4 |  |
+|     à 3 h. s. | 1029.0 |  |
+| **Température** | 12.2 | 13.4 |

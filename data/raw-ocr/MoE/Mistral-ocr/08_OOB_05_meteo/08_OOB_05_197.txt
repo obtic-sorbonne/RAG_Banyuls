@@ -1,0 +1,29 @@
+|  9. 9 Janvier - 1907 | Mbatin | Soir  |
+| --- | --- | --- |
+|  Hauteur Waxometrique | 370.0 | 369.6  |
+|  Direction du vent | cr.0 | cr.0.3  |
+|  Force | 1 | 1  |
+|  (Reg. O. (mw) | 10 | 3  |
+|  Nébulosité |  |   |
+|  (Reg. K. (mw) | 10 | 8  |
+|  Direction des nuages | crou | cr. 8  |
+|  Élue tombée |  |   |
+|  Température de l'air | 8.1 | 10.0  |
+|  Hauteur de la mer | 64.3 | 11.3  |
+|  (agitation de l'eau) | 2 x font. | 9  |
+|  Densité au bout de la jetée | 1029.0 | 1029.2  |
+|  Température de l'eau | 10.7 | 11.0  |
+|  9. 10 Janvier - 1907 | Mbatin | Soir  |
+|  Hauteur Waxometrique | 370.6 | 369.4  |
+|  Direction du vent | Crou |   |
+|  Force | 1 | 1  |
+|  (Reg. O. (mw) | 1 | 0  |
+|  Nébulosité |  |   |
+|  (Reg. K. (mw) | 8 | 1  |
+|  Direction des nuages |  |   |
+|  Élue tombée |  |   |
+|  Température de l'air | 8.2 | 8.3  |
+|  Hauteur de la mer | 67.3 | 17.4  |
+|  (agitation de l'eau) | 1 font. | 1 font.  |
+|  Densité au bout de la jetée | 1029.6 | 1029.2  |
+|  Température de l'eau | 10.8 | 10.9  |

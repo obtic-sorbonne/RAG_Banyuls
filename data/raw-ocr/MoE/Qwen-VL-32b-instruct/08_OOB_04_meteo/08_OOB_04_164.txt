@@ -1,0 +1,28 @@
+|  N. 9 X 6.2 1908 | Obatir | Soir  |
+| --- | --- | --- |
+|  Hanteur Marométrique | 2/3.3 | 2/3.3  |
+|  Direction du vent | 1/2.8 | 1/8  |
+|  Force | 1 r. faible | 3 fois  |
+|  Reg. U. (force) | 10 | 10  |
+|  (Reg. E. (mer) |  |   |
+|  Direction des images | 10 | 10  |
+|  1/2.8 | 1/8 |   |
+|  Flux tombé | 11.0 | 26.12%  |
+|  Bénéficiaire de l'air | 8.1 | 10.1  |
+|  Hanteur de la mer | 37.7 | 18.4  |
+|  (Agitation de l'eau) |  |   |
+|  Bénéficiaire au bout de la jetée |  |   |
+|  Bénéficiaire de l'eau |  |   |
+|  N. 10 X 6.2 1908 | Obatir | Soir  |
+|  Hanteur Marométrique | 7/6.5 | 7/7.7  |
+|  Direction du vent | 1.8 | 1.8  |
+|  Force | 2 fois | 3 r. fort  |
+|  Reg. U. (force) | 10 | 10  |
+|  (Reg. E. (mer) |  |   |
+|  Direction des images | 1.8 | 1.8  |
+|  Flux tombé | 14.34 | quelques  |
+|  Bénéficiaire de l'air | 13.2 | 13.0  |
+|  Hanteur de la mer | 19.6 |   |
+|  (Agitation de l'eau) |  |   |
+|  Bénéficiaire au bout de la jetée |  |   |
+|  Bénéficiaire de l'eau |  |   |

@@ -1,0 +1,27 @@
+|  4. 13 Jorombre - 1906 | Mbatin | Jair  |
+| --- | --- | --- |
+|  Hauteur Pracométrique | 448.2 | 440.3  |
+|  Direction du vent | or. | or.  |
+|  Force | 3 | 1/20  |
+|  Pénitroite | 10 | 1/10  |
+|  (A. 2. (me)) | 10 | 10  |
+|  Direction des mages | 10 | 10  |
+|  Pluie tombée | 1.811 | 12.2  |
+|  Température de l'air | 12.18 | 12.2  |
+|  Hauteur de la mer | 20.9 | 48.0  |
+|  Crétation de l'eau | 5 | 27.7  |
+|  Densité au bout de la jetée | 1028.8 | 1028.8  |
+|  Température de l'eau | 15.9 | 15.8  |
+|  14 Jorombre - 1906 | Mbatin | Jair  |
+|  Hauteur Pracométrique | 449.6 | 449.6  |
+|  Direction du vent | or.0.0 | or.0.0  |
+|  Force | 4 | 2  |
+|  Pénitroite | 10 | 10  |
+|  (A. 2. (me)) | 10 | 10  |
+|  Direction des mages | 10 | 10  |
+|  Pluie tombée | 12.3 | 12.6  |
+|  Température de l'air | 40.8 | 15.2  |
+|  Hauteur de la mer | 2.601 | 2.601  |
+|  Crétation de l'eau | 2.601 | 2.601  |
+|  Densité au bout de la jetée | 1029.0 | 1029.3  |
+|  Température de l'eau | 11.6 | 11.6  |

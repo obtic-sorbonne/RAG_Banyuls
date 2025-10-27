@@ -1,0 +1,17 @@
+# Dále 25 Měsi 1901
+
+|  |   |   |
+| --- | --- | --- |
+|  Kouteur Barométrique | 9" Matin 3" Soir |   |
+|  Direction Su vent | 751,3 | 759,8  |
+|  Force | N.E | 2,5  |
+|  Nebulosite | Reg. O. (Force) | Reg.  |
+|  Pneudon | Reg. E. (mer) | Reg.  |
+|  Direction des nuages |  | 0  |
+|  Flue tombe |  | 2,5  |
+|  Température de l'air |  | 17,5  |
+|  Kouteur de la mer |  | 52,7  |
+|  Digitation de l'eau |  | 1,5  |
+|  Densité de l'eau |  | 1027,8  |
+|  |   |   |
+|  Température de l'eau |  | 17,5  |

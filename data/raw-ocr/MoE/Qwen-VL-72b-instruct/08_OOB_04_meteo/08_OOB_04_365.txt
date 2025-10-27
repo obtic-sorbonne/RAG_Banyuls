@@ -1,0 +1,31 @@
+|                     | Matin         | Soir          |
+|---------------------|---------------|---------------|
+| **Date**           | **9 Avril 1904** |               |
+| Hauteur Barométrique | 760.6         | 759.7         |
+| Direction du vent   | OE coron o    | OE coron o    |
+| Force              | 15 (fort)      | 3 (fort)      |
+| Reg. 6 (lune)       | 4             | 2             |
+| Mélublosité  (lune) |               |               |
+| Mélublosité (mer)   | OE coron o    | OE coron o    |
+| Pluie tombée       | "             | "             |
+| Température de l’air | 16.7         | 12.1          |
+| Hauteur de la mer   | 11.2          | 47.7          |
+| Agitation de l’eau  | 2 (fort)      | 2             |
+| Visibilité au bout de la jetée | 1028.6       | 1028.6       |
+| Température de l’eau | 13.7         | 14.6          |
+
+|                     | Matin         | Soir          |
+|---------------------|---------------|---------------|
+| **Date**           | **26 Avril 1904** |              |
+| Hauteur Barométrique | 759.6        | 758.3         |
+| Direction du vent   | OE coron o    | OE coron o    |
+| Force              | 15 (fort)      | 4 (fort)      |
+| Reg. 6 (lune)       | 2             | 10 (léger)    |
+| Mélublosité (lune)  |               |               |
+| Mélublosité (mer)   | OE coron o    | OE coron o    |
+| Pluie tombée       | quelques g    | "             |
+| Température de l’air | 16.3         | 13.0          |
+| Hauteur de la mer   | 10.7          | 41.3          |
+| Agitation de l’eau  | 2 (fort)      | 2 (fort)      |
+| Visibilité au bout de la jetée | 1029.6       | 1028.6       |
+| Température de l’eau | 14.0         | 14.5          |

@@ -1,0 +1,27 @@
+| Date       |     |          | T Mar. |    | T Soir |    |
+|------------|-----|----------|--------|----|--------|----|
+| 28 juillet 1904 | Matin | Hauteur barométrique | 767.3 |    | 766.2 |    |
+|             |     | Direction du vent | ccsw |    | 1 sw |    |
+|             |     | Force | Très faible 1 |    | 1 |    |
+|             |     | Reg. 0. (Terre) | 0 |    | 0 |    |
+|             |     | Nebulosité | 0 |    | 0 |    |
+|             |     | Direction des nuages |      |    |      |    |
+|             |     | Pluie/Tombée |  |    |  |    |
+|             |     | Température de l'air | 27.3 |    | 31.7 |    |
+|             |     | Hauteur de la mer | 49.3 |    | 56.8 |    |
+|             |     | Agitation de l'eau | Faible |    | Faible |    |
+|             |     | Densité au bout de la joute | 1026.2 |    | 1026.0 |    |
+|             |     | Température de l'eau | 24.7 |    | 26.7 |    |
+|------------|-----|----------|--------|----|--------|----|
+| 29 juillet 1904 | Matin | Hauteur barométrique | 766.4 |    | 768.2 |    |
+|             |     | Direction du vent | or. cr. 8 |    | 1 sw |    |
+|             |     | Force | Très faible 1 |    | 2 |    |
+|             |     | Reg. 0. (Terre) | 0 |    | 0 |    |
+|             |     | Nebulosité | 0 |    | 0 |    |
+|             |     | Direction des nuages |  |    |  |    |
+|             |     | Pluie/Tombée |  |    |  |    |
+|             |     | Température de l'air | 26.0 |    | 33.0 |    |
+|             |     | Hauteur de la mer | 47.7 |    | 57.3 |    |
+|             |     | Agitation de l'eau | Faible |    | 1 |    |
+|             |     | Densité au bout de la joute | 1027.0 |    | 1026.4 |    |
+|             |     | Température de l'eau | 23.7 |    | 24.7 |    |

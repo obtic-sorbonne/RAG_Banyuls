@@ -1,0 +1,38 @@
+| **Observations du 1900 22 juil.** |
+| --- |
+| Nombre de bateaux sortis (pêche à l.) |  |
+| Température de l'air | maxima depuis la veille | 18.2 |
+|  | minima | 14.2 |
+| Température de l'eau | maxima depuis la veille |  |
+|  | minima |  |
+| Pluie tombée depuis la veille, en millim. | 1.0 |
+| Evaporation depuis le 1900, en millim. |  |
+| **Direction du vent (à terre)** | **à 9 h. m.** | **à 3 h. s.** |
+| Force |  |  |
+|  |  |  |
+| Direction des nuages |  |  |
+| Nébulosité | région Ouest (terre) | 0 |
+|  | Est (mer) | 0 |
+| Hauteur de la mer, en centimètres, au-dessus du zéro (Basin St. Razul) | 41.9 |  |
+| Agitation de l'eau | 2 : 5 |  |
+| Densité de l'eau au bout de la jetée | 1028.7 |  |
+| Température | 16.4 |  |
+| **Observations du 1900 23 juil.** |
+| --- |
+| Nombre de bateaux sortis (pêche à l.) |  |
+| Température de l'air | maxima depuis la veille | 17.2 |
+|  | minima | 14.7 |
+| Température de l'eau | maxima depuis la veille |  |
+|  | minima |  |
+| Pluie tombée depuis la veille, en millim. |  |
+| Evaporation depuis le 1900, en millim. |  |
+| **Direction du vent (à terre)** | **à 9 h. m.** | **à 3 h. s.** |
+| Force | 5 |  |
+|  |  |  |
+| Direction des nuages | N.N.O. | N.N.O. |
+| Nébulosité | région Ouest (terre) | 0 | 10 |
+|  | Est (mer) | 0 | 10 |
+| Hauteur de la mer, en centimètres, au-dessus du zéro (Basin St. Razul) | 48.6 |  |
+| Agitation de l'eau | 2 : 5 | 3 |
+| Densité de l'eau au bout de la jetée | 1028.9 | 1028.3 |
+| Température | 16.4 | 16.1 |

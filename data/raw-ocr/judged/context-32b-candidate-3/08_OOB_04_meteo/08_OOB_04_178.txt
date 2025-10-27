@@ -1,0 +1,33 @@
+# V. 14 Janvier 1903
+
+|  Nom | Date | Type | Prix  |
+| --- | --- | --- | --- |
+|  Hauteur Barométrique | 767.8 | 766.0 |   |
+|  Direction du vent | Ouest | Ouest |   |
+|  Force | 3 | 3 |  |
+|  Nébulosité (Reg. O. (terre)) | 0 | 0 |  |
+|  Nébulosité (Reg. E. (mer)) | 0 | 0 |  |
+|  Direction des nuages | Ouest | Ouest |   |
+|  Pluie tombée | 1/2 | 2.8 |   |
+|  Température de l'air | -10 | 2.8 |   |
+|  Hauteur de la mer | 43.9 | 50.0 |   |
+|  Agitation de l'eau | 4 fois | 3 |  |
+|  Densité au bout de la jetée | 1029.1 | 1028.4 |  |
+|  Température de l'eau | 10.4 | 10.3 |   |
+
+# V. 15 Janvier 1903
+
+|  Nom | Date | Type | Prix  |
+| --- | --- | --- | --- |
+|  Hauteur Barométrique | 766.0 | 764.0 |   |
+|  Direction du vent | Ouest | Ouest |   |
+|  Force | 3 | 3 |  |
+|  Nébulosité (Reg. O. (terre)) | 10 | 10 |  |
+|  Nébulosité (Reg. E. (mer)) | 10 | 10 |  |
+|  Direction des nuages | Ouest | Ouest |   |
+|  Pluie tombée | 1/2 | 1.0 |   |
+|  Température de l'air | 1.2 | 0 |   |
+|  Hauteur de la mer | 31.0 | 14.4 |   |
+|  Agitation de l'eau | 1 fois | 1 fois |  |
+|  Densité au bout de la jetée | 1029.0 | 1028.2 |  |
+|  Température de l'eau | 10.4 | 10.5 |   |

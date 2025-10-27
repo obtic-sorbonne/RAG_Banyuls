@@ -1,0 +1,29 @@
+|  4. 4 Juin . 1907 | Maitun | Soir  |
+| --- | --- | --- |
+|  Hauteur 
+Fors |  |   |
+|  Direction du rent | or.0 | or.0.8  |
+|  Force | 3 | 3  |
+|  (Reg. o. (ture) | 10 | 10  |
+|  (Reg. n. cmur) |  |   |
+|  Direction des mages | 10 | 10  |
+|  (Prix tombé |  |   |
+|  Sempicature de l'air | 19.8 | 28.8  |
+|  Hauteur de la mer | 02.8 | 18.0  |
+|  (Agitation de l'eau) | 8facte | 3  |
+|  Densité au bout de la jetée | 1088.3 | 1087.8  |
+|  Sempicature de l'eau | 16.7 | 17.8  |
+|  5. 5 Juin . 1907 | Maitun | Soir  |
+|  Hauteur 
+Fors |  |   |
+|  Direction du rent | 208.4 | 203.5  |
+|  Force | 15 | or. 8  |
+|  (Reg. o. (ture) | 1/port | 1/port  |
+|  (1 Reg. n. cmur) | 10 legame | 10 legame  |
+|  (1) Direction des mages | 10 | 0.00  |
+|  (Prix tombé |  |   |
+|  Sempicature de l'air | 21.3 | 24.4  |
+|  Hauteur de la mer | 17.8 | 16.3  |
+|  (Agitation de l'eau) | 1/port | 1/port  |
+|  Densité au bout de la jetée | 14.8 | 1087.8  |
+|  Sempicature de l'eau | 17.8 | 17.7  |

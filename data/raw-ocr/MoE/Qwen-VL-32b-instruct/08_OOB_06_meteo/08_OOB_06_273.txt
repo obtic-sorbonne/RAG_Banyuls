@@ -1,0 +1,71 @@
+### Observations du 1902-04-18 et 1902-04-19
+
+#### OBSERVATIONS DU 1902 18 Avril
+
+| Paramètre                              | Valeur          | Unité  |
+|----------------------------------------|------------------|--------|
+| **Nombre de bateaux sortis (pêche à l)** | 14.9            |        |
+| **Température de l'air**               |                 | °C     |
+|   - maxima depuis la veille            | 14.8            |        |
+|   - minima id.                         | 10.6            |        |
+| **Température de l'eau**               |                 | °C     |
+|   - maxima depuis la veille            |                 |        |
+|   - minima id.                         |                 |        |
+| **Pluie tombée depuis la veille**       | 2.7             | mm     |
+| **Evaporation depuis le 1900**          |                 | mm     |
+
+| Paramètre                       | Valeur      | Heure   |
+|---------------------------------|-------------|---------|
+| **Direction du vent (à terre)**  | E.S.E.      | à 9 h. m. |
+|                                | S.S.E.      | à 3 h. s. |
+| **Force**                       | 1           |          |
+|                                | 1           |          |
+| **Direction des nuages**        | E.S.E.      |          |
+|                                | S.S.O.      |          |
+| **Nébulosité**                  |             |          |
+|   - région Ouest (terre)        | 10          |          |
+|   - id. Est (mer)               | 40          |          |
+| **Hauteur de la mer (en cm)**    | 46.2        | (B.R.)   |
+| **Agitation de l'eau**          | +           |          |
+| **Densité de l'eau au bout de la jetée** | 1028.5 |          |
+| **Température id.**              | 13.9        |          |
+
+---
+
+#### OBSERVATIONS DU 1902 19 Avril
+
+| Paramètre                              | Valeur          | Unité  |
+|----------------------------------------|------------------|--------|
+| **Nombre de bateaux sortis (pêche à l)** | 17.0            |        |
+| **Température de l'air**               |                 | °C     |
+|   - maxima depuis la veille            | 17.0            |        |
+|   - minima id.                         | 13.7            |        |
+| **Température de l'eau**               |                 | °C     |
+|   - maxima depuis la veille            |                 |        |
+|   - minima id.                         |                 |        |
+| **Pluie tombée depuis la veille**       |                | mm     |
+| **Evaporation depuis le 1900**          |                 | mm     |
+
+| Paramètre                       | Valeur      | Heure   |
+|---------------------------------|-------------|---------|
+| **Direction du vent (à terre)**  | N.E.        | à 9 h. m. |
+|                                | S.S.E.      | à 3 h. s. |
+| **Force**                       | 1           |          |
+|                                | 1           |          |
+| **Direction des nuages**        |             |          |
+| **Nébulosité**                  |             |          |
+|   - région Ouest (terre)        | 0           |          |
+|   - id. Est (mer)               | 0           |          |
+| **Hauteur de la mer (en cm)**    | 31.0        | (B.R.)   |
+|                                | 46.2        |          |
+| **Agitation de l'eau**          | 2           |          |
+| **Densité de l'eau au bout de la jetée** | 1028.6 |          |
+|                                | 1028.0      |          |
+| **Température id.**              | 13.2        |          |
+|                                | 13.7        |          |
+
+| Maximum / Minimum Température | Valeur      |
+|-------------------------------|-------------|
+| **Maxima**                    | 22.8        |
+| **Minima**                    | 10.2        |
+|                               |            |

@@ -1,0 +1,14 @@
+| **Date**         | **2 Décembre 1900** |
+|-------------------|--------------------|
+| **Heure**        | **9H Matin**      | **3H Soir**       |
+| **Haut. Barom.** | 752.5             | -                |
+| **Dir. Vent**    | Nord              | S fort           |
+| **Force**        | 1/28 métrique     | 1                |
+| **Nébulosité**   | Réq. O. (lue)     | Réq. E. (mul)    |
+| **Dir. Nuages**  | Nord              | -                |
+| **Pluie tombée** | -                 | -                |
+| **Temp. de l'air**| 12.0              | -                |
+| **Haut. de la mer**| 36,0              | -                |
+| **Agit. de l'eau**| Sustient          | S fort           |
+| **Densité de l'eau**| 1025,7            | -                |
+| **Temp. de l'eau**| 13.2              | -                |

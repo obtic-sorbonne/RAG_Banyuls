@@ -1,0 +1,33 @@
+```plaintext
+| V. 27 Avril 1905 | Matin | Soir |
+|------------------|-------|------|
+| Hauteur Barométrique | 764.0 | 761.3 |
+| Direction du vent | E.N.E | S.S.E |
+| Force | 1 Fort | 1 |
+| Régl. O. (Terre) | 2 légèrement | légèrement |
+| Nébulosité | 0 | légèrement |
+| Régl. X. (Mer) | " | " |
+| Direction des nuages | " | " |
+| Pluie tombée | " | " |
+| Température de l'air | 18.0 | 24.5 |
+| Hauteur de la mer | 18.6 | 19.6 |
+| Agitation de l'eau | 1 | faible |
+| Densité au bout de la jetée | 1028.7 | 1028.2 |
+| Température de l'eau | 16.2 | 18.1 |
+
+| V. 28 Avril 1905 | Matin | Soir |
+|------------------|-------|------|
+| Hauteur Barométrique | 763.4 | 761.8 |
+| Direction du vent | E.S.E | S.S.E |
+| Force | 1 | 2 faible |
+| Régl. O. (Terre) | 2 légèrement | 1 |
+| Nébulosité | 2 légèrement | " |
+| Régl. X. (Mer) | " | " |
+| Direction des nuages | S.S.E | " |
+| Pluie tombée | " | " |
+| Température de l'air | 19.6 | 21.1 |
+| Hauteur de la mer | 19.4 | 18.0 |
+| Agitation de l'eau | faible | 1 |
+| Densité au bout de la jetée | 1028.6 | 1029.0 |
+| Température de l'eau | 19.8 | 16.7 |
+```

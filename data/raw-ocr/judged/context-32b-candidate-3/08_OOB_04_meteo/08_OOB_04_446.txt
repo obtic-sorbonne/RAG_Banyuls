@@ -1,0 +1,31 @@
+```plaintext
+|  V. 22 Novembre 1904 | Obatin | Soir  |
+| --- | --- | --- |
+|  Hauteur Barométrique | 758,6 |   |
+|  Direction du vent |   |   |
+|  Force | 15 | 0  |
+|  Nébulosité | (Reg. 2. (mer)) | 10  |
+|  (Reg. 2. (min)) |   | 5.0  |
+|  Direction des nuages |   | 13.8  |
+|  Pluie tombée |   | 39.7  |
+|  Température de l'air |   | 13.8  |
+|  Hauteur de la mer |   | 39.7  |
+|  Régulation de l'eau |   | 1 faible  |
+|  Densité au bout de la jetée |   | 1029.8  |
+|  Température de l'eau |   | 16.6  |
+
+|  V. 27 Novembre 1904 | Obatin | Soir  |
+| --- | --- | --- |
+|  Hauteur Barométrique | 758,3 | 744,0  |
+|  Direction du vent | or.0 | or.0  |
+|  Force | 4 fois | 1  |
+|  Nébulosité | (Reg. 2. (mer)) | 10  |
+|  (Reg. 2. (min)) |   | 0.8  |
+|  Direction des nuages |   | 0.0  |
+|  Pluie tombée |   | 7.6  |
+|  Température de l'air |   | 29.2  |
+|  Hauteur de la mer |   | 49.8  |
+|  Régulation de l'eau |   | 3 fois  |
+|  Densité au bout de la jetée |   | 1029.4  |
+|  Température de l'eau |   | 16.6  |
+```

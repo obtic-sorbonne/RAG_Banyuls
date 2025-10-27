@@ -1,0 +1,16 @@
+| Date | 17 Mars 1902 |
+| --- | --- |
+| **Paramètres** | **9h Matin** | **18h Soir** |
+| Hauteur Barométrique | 767.2 | 768.4 |
+| Direction du vent | Nord | Nord |
+| Force | 4 | 4 |
+| Nébulosité | Reg. 6 (Clair) | Reg. 8 (Mers) |
+| Direction des nuages | Nord | Nord |
+| Pluie tombée | 0 | 0 |
+| Température de l'air | 13.4°C |  |
+| Hauteur de la mer | 67.2 |  |
+| Agitation de l'eau | 2 (Petit) | 2 (Petit) |
+| Densité de l'eau |
+| au Large |  |  |
+| au bout de la jetée |  |  |
+| Température de l'eau | 12.2°C |  |

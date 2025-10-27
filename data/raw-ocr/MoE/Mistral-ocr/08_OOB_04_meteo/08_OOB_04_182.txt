@@ -1,0 +1,35 @@
+# 2. 22 Janvier. 1903
+
+|  Name | Position | Sour  |
+| --- | --- | --- |
+|  Hauteur Harometrique | 202.3 | 20/1/  |
+|  Direction Su vent | or.or.o | or. 3  |
+|  Force | 1.6 | 1  |
+|  Rég. G. (1ère) | 3.6/2.0 | 1  |
+|  Néelouborite |  |   |
+|  (Reg. E. (mer) | 2.6/2.0 | 1  |
+|  Direction des mages | or.or | or. 3  |
+|  Flue tombe |  |   |
+|  Remplirative de l'air | 8.8 | 10.0  |
+|  Hauteur de la mer | 42.3 | 44.4  |
+|  Législation de l'eau | 3 | 2  |
+|  Densité au bout de la jetée | 1022.0 | 1021.3  |
+|  Remplirative de l'eau | 10.1 | 10.2  |
+
+# 3. 23 Janvier. 1903
+
+|  Name | Position | Sour  |
+| --- | --- | --- |
+|  Hauteur Harometrique | 201.6 | 201.2  |
+|  Direction Su vent | 6.1 | or.or.  |
+|  Force | 1.7.6 | 1/2  |
+|  Rég. G. (1ère) | 10 | 10  |
+|  Néelouborite |  |   |
+|  (Reg. E. (mer) | 10 | 10  |
+|  Direction des mages | or.or. | or. 0  |
+|  Flue tombe |  |   |
+|  Remplirative de l'air | 6.9 | 10.6  |
+|  Hauteur de la mer | 48.6 | 46.9  |
+|  Législation de l'eau | 1 | 2  |
+|  Densité au bout de la jetée | 1021.1 | 1024.9  |
+|  Remplirative de l'eau | 9.6 | 9.1  |

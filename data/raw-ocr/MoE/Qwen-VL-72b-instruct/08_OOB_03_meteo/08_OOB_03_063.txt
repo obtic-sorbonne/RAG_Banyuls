@@ -1,0 +1,15 @@
+| **Date:** 26 Novembre 1901 | **Heures:** | Matin (9h) | Soir (3h) |
+|---|---|---|---|
+| **Hauteur Barométrique (mm)** | | 765,5 | 762,0 |
+| **Direction du Vent** | | N.N.O | N.N.O |
+| **Force** | | 1 (fort) | 1 |
+| **Nébulosité (classement)** | Reg. O (clére) | 0 | 0 |
+| | Reg. E (mer) | 2 | 0 |
+| **Direction des nuages** | | N.N.O | N.N.O |
+| **Pluie tombée (mm)** | | 1,37 | — |
+| **Température de l'air (°C)** | | 7,2 | 11,0 |
+| **Hauteur de la mer (m)** | | 26,0 | 39,3 |
+| **Agitation de l'eau** | | 4 | 3 (fort) |
+| **Densité de l'eau** | Au bout de la jetée | 1028,8 | 1028,7 |
+| | Au large | | — |
+| **Température de l'eau (°C)** | | 13,5 | 13,7 |

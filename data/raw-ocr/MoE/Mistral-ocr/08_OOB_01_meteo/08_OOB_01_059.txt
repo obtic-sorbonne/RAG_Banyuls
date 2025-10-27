@@ -1,0 +1,18 @@
+# Date: 9/24 Septembre 1900
+
+|  Recine | 9 h. | 3 h.  |
+| --- | --- | --- |
+|  Bructus barometrique | 767.0 | 75.1  |
+|  Direction 3e vent |  |   |
+|  Force |  |   |
+|  Nebulosié |  |   |
+|  Rig. 0. (ton) | brume épais |   |
+|  Direction 3e mages |  |   |
+|  Prie tombe |  |   |
+|  Température de l'air | 20.5 | 22.5  |
+|  Bructus 3e la mer | 0.39 | 0.79  |
+|  Agitation 3e l'eau | 0 | 0  |
+|  Densité de l'eau (au large) | 1025.0 |   |
+|  Température 3e l'eau | 21.4 |   |
+
+Charrat.

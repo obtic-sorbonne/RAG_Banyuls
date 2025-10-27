@@ -1,0 +1,47 @@
+```plaintext
+### OBSERVATIONS DU 1902 23 avril
+
+| **Nombre de bateaux sortis (pêche à l.)** |  |
+| **Température de l'air** | maxima depuis la veille | 18.6 | °C |
+| | minima id. | 12.2 | °C |
+| **Température de l'eau** | maxima depuis la veille |  | °C |
+| | minima id. |  | °C |
+| **Pluie tombée depuis la veille, en millim.** | quelques | mm |
+| **Évaporation depuis le 1900, en millim.** |  | mm |
+| **Direction du vent (à terre)** |  **à 9 h. m.** |  **à 3 h. s.** |
+| | **N.N.O.** | **N.N.O.** |
+| **Force** | **1 fort** | **1 c.** |
+| **Direction des nuages** | **N.N.O.** | **N.N.O.** |
+| **Nébulosité** | région Ouest (terre) | 10 | 10 |
+| | id. Est (mer) | 10 | 10 |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.)** | 48.4 | 49.6 | cm |
+| **Agitation de l'eau** | **1 faible** | **1 faible** |
+| **Densité de l'eau au bout de la jetée** | 1028.2 | 1028.4 |
+| **Température id.** | -is- Balan. matin (Humid.) | 14.3 | 14.6 | °C |
+| | -is- id. Soir | 19.6 | 17.7 | °C |
+| | -is- id. Terrain matin | 29.8 | 22.7 | °C |
+| | -is- id. Terrain soir | 10.2 | 14.8 | °C |
+
+### OBSERVATIONS DU 1902 24 avril
+
+| **Nombre de bateaux sortis (pêche à l.)** |  |
+| **Température de l'air** | maxima depuis la veille | 19.7 | °C |
+| | minima id. | 11.7 | °C |
+| **Température de l'eau** | maxima depuis la veille |  | °C |
+| | minima id. |  | °C |
+| **Pluie tombée depuis la veille, en millim.** | quelques | mm |
+| **Évaporation depuis le 1900, en millim.** |  | mm |
+| **Direction du vent (à terre)** |  **à 9 h. m.** |  **à 3 h. s.** |
+| | **N.O.** | **N.O.** |
+| **Force** | **1 fort** | **1 fort** |
+| **Direction des nuages** | **N.O.** | **N.O.** |
+| **Nébulosité** | région Ouest (terre) | 10 | 10 |
+| | id. Est (mer) | 60 | 60 |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.)** | 39.4 | 39.1 | cm |
+| **Agitation de l'eau** | **1** | **1** |
+| **Densité de l'eau au bout de la jetée** | 1028.2 | 1028.4 |
+| **Température id.** | -is- Balan. matin | 13.6 | 13.8 | °C |
+| | -is- id. Soir | 19.7 | 17.4 | °C |
+| | -is- id. Terrain matin | 22.7 | 22.0 | °C |
+| | -is- id. Terrain soir | 9.7 | 13.9 | °C |
+```

@@ -1,0 +1,31 @@
+19 Juin 1905
+
+| Matin | Soir |
+|---------------------|----------------|----------------|
+| Hauteur barométrique | --- | 768.1 |
+| Direction du vent | --- | cr. n.o |
+| Force | 3 | 2 |
+| Nébulosité (Reg: (mer)) | 0 | --- |
+| Direction des nuages | --- | --- |
+| Pluie tombée | --- | --- |
+| Température de l'air | --- | 27.8 |
+| Hauteur de la mer | /2.0 | --- |
+| Agitation de l'eau | 2 | --- |
+| Poussée au bâbord de la jetée | 1027.7 | --- |
+| Température de l'eau | --- | 19.8 |
+
+20 Juin 1905
+
+| Matin | Soir |
+|---------------------|----------------|----------------|
+| Hauteur barométrique | 769.6 | 768.7 |
+| Direction du vent | cr. n.o | cr. o |
+| Force | 3 | 4 for |
+| Nébulosité (Reg. clair) | 0 | 2 |
+| Direction des nuages (mer) | 2 | --- |
+| Pluie tombée | ersol | ersol |
+| Température de l'air | 24.7 | 29.2 |
+| Hauteur de la mer | /4.2 | 11.0 |
+| Agitation de l'eau | 3 | 11.9 |
+| Poussée au bâbord de la jetée | 1027.8 | 1027.9 |
+| Température de l'eau | 19.8 | 19.8 |

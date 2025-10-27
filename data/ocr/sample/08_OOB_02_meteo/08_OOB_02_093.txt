@@ -1,0 +1,19 @@
+# Dalle 11 Juin 1901
+
+|   | 9e Matin | 3e Soir |
+| --- | --- | --- |
+|  Hauteur Barométrique | 764.8 |  |
+|  Direction du vent | Nord |  |
+|  Force | 4 fort | 4 fort |
+|  Nébulosité / Reg. O. (terre) | 10 | 10 |
+|  Nébulosité / Reg. E. (mer) | 0 | 0 |
+|  Direction des nuages | 10 | 10 |
+|  Pluie tombée | 19.8 |  |
+|  Température de l'air | 60.1 |  |
+|  Hauteur de la mer | 60.1 |  |
+|  Agitation de l'eau | 2 fort | 2 fort |
+|  Densité de l'eau / au bout de la jetée | 1026.7 |  |
+|  Densité de l'eau / au large |  |  |
+|  Température de l'eau | 20.6 |  |
+
+Note: There are some inconsistencies in the OCR candidates, particularly with the temperature and height values. The final version is based on the most consistent and plausible readings, considering the context from previous and next pages.

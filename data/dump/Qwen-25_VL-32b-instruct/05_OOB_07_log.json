@@ -1,0 +1,565 @@
+{
+  "book_name": "05_OOB_07_log",
+  "pages": [
+    {
+      "page_number": "001",
+      "raw_content": "``` \nLIVRE DE BORD DU ROLAND\n```",
+      "cleaned_content": "``` \nLIVRE DE BORD DU ROLAND\n```",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "002",
+      "raw_content": "LIVRE DE BORD  \nDU  \nROLAND  ",
+      "cleaned_content": "LIVRE DE BORD  \nDU  \nROLAND",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "003",
+      "raw_content": "```plaintext\nPAPIERERIE G. GOUILLET\n24, BOULEVARD S\u1d57. MICHEL, PARIS\n(en face le Mus\u00e9e de Cluny.)\n\nFOURNITURES DE BUREAUX\n\u2022 REGISTRES\n\u2022 IMPRESSIONS\n\nRappeler ce N\u00b0 pour\navoir le m\u00eame mod\u00e8le\nN\u00b0 10751\n```",
+      "cleaned_content": "```plaintext\nPAPIERERIE G. GOUILLET\n24, BOULEVARD S\u1d57. MICHEL, PARIS\n(enfacele Mus\u00e9ede Cluny.)\n\nFOURNITURES DE BUREAUX\n\u2022 REGISTRES\n\u2022 IMPRESSIONS\n\nRappelerce N\u00b0 pouravoirlem\u00eamemod\u00e8le\nN\u00b0 10751\n```",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "004",
+      "raw_content": "En cons\u00e9quence de la disposition du ciel et des vents, nous nous trouvons en ce lieu\u00a0:\n\nLe 3 jour du mois de janvier de l\u2019an 1770, il est environ 7 heures du matin, \u00e0 ** latitude-41\u00b0-23'83 **, ** longitude-157\u00b0-6'28 **. Le navire est \u00e0 bord\u00e9e et \u00e0 berce. La temp\u00e9rature de l'air est douce et les marins se portent bien. Les m\u00e9nages sont correctement \u00e9tablis et ne font point d'anomalie. Le devant du navire est b\u00e2ch\u00e9, la vigie et le pilote aux regards, et tous les devoirs de veille sont avec rigueur. Le vent est partout dans le nord \u00e0 nord-est, revenant au nord, si mauvais qu'il est n\u00e9cessaire de manzer partout. L'eau est propice, les instruments sont bons et en parfaite situation, la chaloupe en parfait ethat (\u00e9tat) et \u00e0 \u0643\u0644\u0644quinard de l'ancre dont elle pourroit s\u2019en servir sans alt\u00e9ration nulle. Son gouvernail est bon, sa barre est suffisante, un chalumeau est avec elle et au toucher en sa charge, une voile est pr\u00eate sur son batteau. Le reste des voiles est en bon \u00e9tat, la corde est bonne, la c\u00e2ble est \u00e9galement bonne et tout ce qui est n\u00e9cessaire. La justice est exprim\u00e9e toujours avec exactitude et rigueur, aucun sujet aux cries et plaintes de face de qui Dominic Zuid amand Martin projet bien vivent ici. \n\n--- fin du texte ---",
+      "cleaned_content": "Encons\u00e9quencedeladispositionducieletdesvents, nousnoustrouvonsencelieu\u00a0:\n\nLe 3 jourdumoisdejanvierdel\u2019an 1770, ilestenviron 7 heuresdumatin, \u00e0 ** latitude-41\u00b0-23'83 **, ** longitude-157\u00b0-6'28 **. Lenavireest \u00e0 bord\u00e9eet \u00e0 berce. Latemp\u00e9raturedel'airestdouceetlesmarinsseportentbien. Lesm\u00e9nagessontcorrectement \u00e9tablisetnefontpointd'anomalie. Ledevantdunavireestb\u00e2ch\u00e9, lavigieetlepiloteauxregards, ettouslesdevoirsdeveillesontavecrigueur. Leventestpartoutdanslenord \u00e0 nord-est, revenantaunord, simauvaisqu'ilestn\u00e9cessairedemanzerpartout. L'eauestpropice, lesinstrumentssontbonsetenparfaitesituation, lachaloupeenparfaitethat (\u00e9tat) et \u00e0 \u0643\u0644\u0644quinarddel'ancredontellepourroits\u2019enservirsansalt\u00e9rationnulle. Songouvernailestbon, sabarreestsuffisante, unchalumeauestavecelleetautoucherensacharge, unevoileestpr\u00eatesursonbatteau. Lerestedesvoilesestenbon \u00e9tat, lacordeestbonne, lac\u00e2bleest \u00e9galementbonneettoutcequiestn\u00e9cessaire. Lajusticeestexprim\u00e9etoujoursavecexactitudeetrigueur, aucunsujetauxcriesetplaintesdefacedequi Dominic Zuidamand Martinprojetbienviventici. \n\n--- findutexte ---",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "005",
+      "raw_content": "Sortie du 6 janvier 1909  \nD\u00e9part de Port-Vendres \u00e0 8 heures du matin  \npour Fontainebaud Arriv\u00e9e \u00e0  \nD\u00e9part de  \npour  \nArriv\u00e9e \u00e0  \nD\u00e9part de  \npour  \nArriv\u00e9e au mouillage  \n\u00e0 h. du  \n\nEtat du temps : N.E. comme brise  \n\nPassagers \u00e0 bord : M^me^, M^me^ Tronot, M^me^ Jeannet  \n\nObjet de la sortie : p\u00eacher du corail dans la R\u00e8che  \n\nConsommation  \n{ 72 briquettes de 6 Poids en Kilos 432 K.  \n  4 huile          Total en litres 4  \n\nD\u00e9penses  \n\nObservations : La mer de N.E. devenant tr\u00e8s forte,  \nnous renon\u00e7ons \u00e0 p\u00eacher dans la R\u00e8che.  \nNous faisons route dans le N.O. et  \nnous metton la chalut \u00e0 la mer \u00e0 10 h. 30.  \nRelais \u00e0 midi, en route  \npour Barnabu \u00e0 Midi 2o, arriv\u00e9 \u00e0 1 h. 30  \nPirons, Ant\u00e9\u00efon, Scaplanche,  \nespagnol, fond deux p\u00eache moyenne.  ",
+      "cleaned_content": "Sortiedu 6 janvier 1909  \nD\u00e9partde Port-Vendres \u00e0 8 heuresdumatinpour Fontainebaud Arriv\u00e9e \u00e0  \nD\u00e9partdepour  \nArriv\u00e9e \u00e0  \nD\u00e9partdepour  \nArriv\u00e9eaumouillage  \n\u00e0 h. du  \n\nEtatdutemps : N.E. commebrise  \n\nPassagers \u00e0 bord : M^me^, M^me^ Tronot, M^me^ Jeannet  \n\nObjetdelasortie : p\u00eacherducoraildansla R\u00e8che  \n\nConsommation  \n{ 72 briquettesde 6 Poidsen Kilos 432 K.  \n  4 huile          Totalenlitres 4  \n\nD\u00e9penses  \n\nObservations : Lamerde N.E. devenanttr\u00e8sforte,  \nnousrenon\u00e7ons \u00e0 p\u00eacherdansla R\u00e8che.  \nNousfaisonsroutedansle N.O. etnousmettonlachalut \u00e0 lamer \u00e0 10 h. 30.  \nRelais \u00e0 midi, enroutepour Barnabu \u00e0 Midi 2o, arriv\u00e9 \u00e0 1 h. 30  \nPirons, Ant\u00e9\u00efon, Scaplanche,  \nespagnol, fonddeuxp\u00eachemoyenne.",
+      "entities": {
+        "dates": [
+          "6 janvier 1909"
+        ]
+      }
+    },
+    {
+      "page_number": "006",
+      "raw_content": "TRAVAUX\nD\u00e9cembre 47 et Janvier 1948\nInstallation tuyautage plomb. cuve inox et tuyautage grand aquarium\nInstallation cana lumi\u00e8res \u00e9tage\nF\u00e9vrier 1947 - Installation tuyautage petit aquarium\nMars - visite savages et d\u00e9caquimmage combach.\nConfections \u00e9tages fini le 12.\nContinues installation petit aquarium\nVente machine.\nRemise en \u00e9tat moteur \u00e9lectrique eau \u00e0 canal Dommange.\nConfection Fissu Talluew et Sim fjuif\u00eete.\nConfection de coins pour collecteur.\nR\u00e9paration syst\u00e8me chambres.\nAvril\nConfectt\u0131on Fisse Gqague.\nPose et confection forte fumi\u00e8re aunox.\nRobinoix para famed Senne.\nElectricit\u00e9 et puis Le camant, Mocuto.\nElectricit\u00e9 eau physique\nConfection rachetter.\nConfection caques four collection.\nPinte coitign\nConfection tonniers. (4).\nMai\nacheven les confections des Tenninsi.\nInstallation \u00e9lectrique 4. et 5.\nSeven confection fiut sen.\nConfection et finisse en place \u00e0 \u00e9tages au 12 + 2.\npuis Le camant.\nRefactation des volquets Fams des chambre. suffis.\nConfection et mise en place Fissu inansiquin Walter\nCommis Dieanfaiqne sur lauilo. avec photo. Hien en\nInstallation \u00e9lectrique photo.\nConfection cercle pour br\u00fbl\u00e9e.\nConfection cercle pour Troublot.\nconfectimonsiquenes,\nConfectir bonnes. et totble,\nElancement chambres nois",
+      "cleaned_content": "TRAVAUX\nD\u00e9cembre 47 et Janvier 1948\nInstallationtuyautageplomb. cuveinoxettuyautagegrandaquarium\nInstallationcanalumi\u00e8res \u00e9tage\nF\u00e9vrier 1947 - Installationtuyautagepetitaquarium\nMars - visitesavagesetd\u00e9caquimmagecombach.\nConfections \u00e9tagesfinile 12.\nContinuesinstallationpetitaquarium\nVentemachine.\nRemiseen \u00e9tatmoteur \u00e9lectriqueeau \u00e0 canal Dommange.\nConfection Fissu Talluewet Simfjuif\u00eete.\nConfectiondecoinspourcollecteur.\nR\u00e9parationsyst\u00e8mechambres.\nAvril\nConfectt\u0131on Fisse Gqague.\nPoseetconfectionfortefumi\u00e8reaunox.\nRobinoixparafamed Senne.\nElectricit\u00e9 etpuis Lecamant, Mocuto.\nElectricit\u00e9 eauphysique\nConfectionrachetter.\nConfectioncaquesfourcollection.\nPintecoitign\nConfectiontonniers. (4).\nMaiachevenlesconfectionsdes Tenninsi.\nInstallation \u00e9lectrique 4. et 5.\nSevenconfectionfiutsen.\nConfectionetfinisseenplace \u00e0 \u00e9tagesau 12 + 2.\npuis Lecamant.\nRefactationdesvolquets Famsdeschambre. suffis.\nConfectionetmiseenplace Fissuinansiquin Walter\nCommis Dieanfaiqnesurlauilo. avecphoto. Hienen\nInstallation \u00e9lectriquephoto.\nConfectioncerclepourbr\u00fbl\u00e9e.\nConfectioncerclepour Troublot.\nconfectimonsiquenes,\nConfectirbonnes. ettotble,\nElancementchambresnois",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "007",
+      "raw_content": "Sortie du 19 janvier 1909\n\nD\u00e9part de Port Vendres \u00e0 8h heures du matin pour Fontainhas. Arriv\u00e9e \u00e0 10h matin.\n\nD\u00e9part de Fontainhas \u00e0 2h45 heures du soir pour...\n\nArriv\u00e9e \u00e0 Banyuls \u00e0 4h10...\n\nD\u00e9part de... \u00e0 heures du...\n\nArriv\u00e9e au mouillage \u00e0 h.du...\n\n\u00c9tat du temps : \u00e0 9h Calme.\n\nPassagers \u00e0 bord : M\u00b0 Pirot Jeannin.\n\nObjet de la sortie : Pour p\u00eacher de chez Rech Lacaze.\n\nConsommation\n{ 70 briquettes de 6 poids en kilos 420\n  4 huile Total en litres 44\n\nD\u00e9penses\n\nObservations : \u00e0 11h du matin nous tournons pour 380\u00b0\nRepin Salem del Gabach par la montagne de St. Antoine (celle du milieu dans le groupe de la cha\u00eene nur Colobre).\nPuig del Gaillino, par la tour de midi St. Elme par le phare de Port Vendres, Les deux Doigts de Calaguiri bien rentr\u00e9s par la montagne de Pagqy.",
+      "cleaned_content": "Sortiedu 19 janvier 1909\n\nD\u00e9partde Port Vendres \u00e0 8hheuresdumatinpour Fontainhas. Arriv\u00e9e \u00e0 10hmatin.\n\nD\u00e9partde Fontainhas \u00e0 2h45 heuresdusoirpour...\n\nArriv\u00e9e \u00e0 Banyuls \u00e0 4h10...\n\nD\u00e9partde... \u00e0 heuresdu...\n\nArriv\u00e9eaumouillage \u00e0 h.du...\n\n\u00c9tatdutemps : \u00e0 9h Calme.\n\nPassagers \u00e0 bord : M\u00b0 Pirot Jeannin.\n\nObjetdelasortie : Pourp\u00eacherdechez Rech Lacaze.\n\nConsommation\n{ 70 briquettesde 6 poidsenkilos 420\n  4 huile Totalenlitres 44\n\nD\u00e9penses\n\nObservations : \u00e0 11hdumatinnoustournonspour 380\u00b0\nRepin Salemdel Gabachparlamontagnede St. Antoine (celledumilieudanslegroupedelacha\u00eenenur Colobre).\nPuigdel Gaillino, parlatourdemidi St. Elmeparlepharede Port Vendres, Lesdeux Doigtsde Calaguiribienrentr\u00e9sparlamontagnede Pagqy.",
+      "entities": {
+        "dates": [
+          "19 janvier 1909"
+        ]
+      }
+    },
+    {
+      "page_number": "008",
+      "raw_content": "```plaintext\njuillet - Confection et mise en place \u00e9tag\u00e8re pour\n\u00e9tale \u00e0 Mr. Bouigni.\nCommenc\u00e9 installation van m\u00b0 Max Tom\nInstalle un secteuriquement nun uniform\u00e9ment\navec photo.\nR\u00e9ampionship et fixation des fanaux mur en\nbois de la cuve de la photo.\n\nConfection table faite s\u00e9par\u00e9ment :\n\u00c9clairage chambre au sol.\nVisite robinetterie eau de mer pavillon,\nmeg.\nInstallation fin au sujet pour d'affaire photo.\nChange fusible Bodians et du au das bez sich Fracht.\nConfection de triangles Fe \u00e9crit abs de fen\u00eatre.\n\nAo\u00fbt - Installation \u00e9lectrique affirtement binventeur\nconfection et mise en place \u00e9tag\u00e8res.\nTrimme triangles des chambres.\nDilbuchen lavallos.\nR\u00e9parations des lariers.\nRefou \u043c\u0435\u0445\u0430\u043d\u0447 fit della vutina.\nchanger fin au Gos Fut trauf (ausbrota).\nCabinets en 1e \u00c9tage\n\nSuzaine Bouigns\nFinietis Metetal\nCalvints Patum\nconfection et mise un floor camelle petit aqaini.\nDelousche lavallos n\u00b0 3.\nRijan 27.\nR\u00e9installation 3 fois l'\u00e9maux (Patum).\n\nSeptembre.\nDilbuchen obanches et lavalbos.\nD\u00e9m\u00e9nagement du vieu Metetal.\nvisite Fe la vanne Le cham.\nconfection s'une ru\u00e8te avec lampe et\ninterrupteur.\nMix en plongue Porte pouist\u00e9 W. 14\nDilbuchen ex Calvina Rz.\nR\u00e9faire contacts ait\u00e8re\n```",
+      "cleaned_content": "```plaintextjuillet - Confectionetmiseenplace \u00e9tag\u00e8repour\n\u00e9tale \u00e0 Mr. Bouigni.\nCommenc\u00e9 installationvanm\u00b0 Max Tom\nInstalleunsecteuriquementnununiform\u00e9mentavecphoto.\nR\u00e9ampionshipetfixationdesfanauxmurenboisdelacuvedelaphoto.\n\nConfectiontablefaites\u00e9par\u00e9ment :\n\u00c9clairagechambreausol.\nVisiterobinetterieeaudemerpavillon,\nmeg.\nInstallationfinausujetpourd'affairephoto.\nChangefusible Bodiansetduaudasbezsich Fracht.\nConfectiondetriangles Fe \u00e9critabsdefen\u00eatre.\n\nAo\u00fbt - Installation \u00e9lectriqueaffirtementbinventeurconfectionetmiseenplace \u00e9tag\u00e8res.\nTrimmetrianglesdeschambres.\nDilbuchenlavallos.\nR\u00e9parationsdeslariers.\nRefou \u043c\u0435\u0445\u0430\u043d\u0447 fitdellavutina.\nchangerfinau Gos Futtrauf (ausbrota).\nCabinetsen 1e \u00c9tage\n\nSuzaine Bouigns\nFinietis Metetal\nCalvints Patumconfectionetmiseunfloorcamellepetitaqaini.\nDelouschelavallosn\u00b0 3.\nRijan 27.\nR\u00e9installation 3 foisl'\u00e9maux (Patum).\n\nSeptembre.\nDilbuchenobanchesetlavalbos.\nD\u00e9m\u00e9nagementduvieu Metetal.\nvisite Felavanne Lecham.\nconfections'uneru\u00e8teaveclampeetinterrupteur.\nMixenplongue Portepouist\u00e9 W. 14\nDilbuchenex Calvina Rz.\nR\u00e9fairecontactsait\u00e8re\n```",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "009",
+      "raw_content": "N\u00b0\nSortie du 18 Mai 1909\n\nD\u00e9part de Pampel \u00e0 9 heures du matin pour Etais  \nArriv\u00e9e \u00e0  \n\nD\u00e9part de  \nArriv\u00e9e \u00e0  \n\nD\u00e9part de  \nArriv\u00e9e \u00e0  \n\nArriv\u00e9e au mouillage \u00e0 Pampel \u00e0 10 h. du matin  \n\nEtat du temps: beau\n\nPassagers \u00e0 bord:  \n\nObjet de la sortie: Essai du machine auxiliaire et du Condenseur  \n\nConsommation {  \n   20 briquettes de 4 poids en kilos 80 kg.  \n   2 huile Total en litres 2  \n\nD\u00e9penses  \n\nObservations: Essai des machines et du Condenseur que nous venons d'aller prendre \u00e0 Toulon. Essais satisfaisants.  ",
+      "cleaned_content": "N\u00b0\nSortiedu 18 Mai 1909\n\nD\u00e9partde Pampel \u00e0 9 heuresdumatinpour Etais  \nArriv\u00e9e \u00e0  \n\nD\u00e9partde  \nArriv\u00e9e \u00e0  \n\nD\u00e9partde  \nArriv\u00e9e \u00e0  \n\nArriv\u00e9eaumouillage \u00e0 Pampel \u00e0 10 h. dumatin  \n\nEtatdutemps: beau\n\nPassagers \u00e0 bord:  \n\nObjetdelasortie: Essaidumachineauxiliaireetdu Condenseur  \n\nConsommation {  \n   20 briquettesde 4 poidsenkilos 80 kg.  \n   2 huile Totalenlitres 2  \n\nD\u00e9penses  \n\nObservations: Essaidesmachinesetdu Condenseurquenousvenonsd'allerprendre \u00e0 Toulon. Essaissatisfaisants.",
+      "entities": {
+        "dates": [
+          "18 Mai 1909"
+        ]
+      }
+    },
+    {
+      "page_number": "010",
+      "raw_content": "Septembre\n\nd\u00e9montage tavan\u00e7ant \u00e0 la chemin\u00e9e au la\nchambr\u00e8re\nconfection fut \u00e0 sonner\nR\u00e9paration fut la fixenamera\nPlatatin en tuque blanc bonne affairement\ndoublette\nrefection fut en etupf des la fon\u00e7at canonammers\nGabaratinon sur canots\n\nOctobre\n\nmise en place des canons pour la vo\u00efeur\nnettoyage de la chambr\u00e9e des nage des\nRecords pour la r\u00e9paration du canard\nconfection femme clif\nconfection femme heut \u00e0 Cocan (Turle)\nR\u00e9paration emboitage et canar 3 01\nPeinture fomentant est bonnant\ncien \u00e9tat ancles M' Monire\nInstallation \u00e9lectrique de 15\nR\u00e9paration embalage\n\nInstallation \u00e0 domiage rater\nconfection bon affairant foncer les Hommes\nconfection banses pour omptine\nchangue continuent cabinet 19\nchangue inteminution salle 11\n\nFinal de montage bles tables putat quand pied\nR\u00e9paration domalio n\u00b02 Roter + euire\nconfection d'ains Gaber\n\nconfection canvas assum\u00e9\nconfection \u00e9gal\nconfection iture\nR\u00e9paration transformaden\n\nRue Richaud Bateax\nconfection d'un tableau avec 3. mains et rinces\ntous pour p\u00e8se d'amants\nconfection, une caine\n",
+      "cleaned_content": "Septembred\u00e9montagetavan\u00e7ant \u00e0 lachemin\u00e9eaulachambr\u00e8reconfectionfut \u00e0 sonner\nR\u00e9parationfutlafixenamera\nPlatatinentuqueblancbonneaffairementdoubletterefectionfutenetupfdeslafon\u00e7atcanonammers\nGabaratinonsurcanots\n\nOctobremiseenplacedescanonspourlavo\u00efeurnettoyagedelachambr\u00e9edesnagedes\nRecordspourlar\u00e9parationducanardconfectionfemmeclifconfectionfemmeheut \u00e0 Cocan (Turle)\nR\u00e9parationemboitageetcanar 3 01\nPeinturefomentantestbonnantcien \u00e9tatancles M' Monire\nInstallation \u00e9lectriquede 15\nR\u00e9parationembalage\n\nInstallation \u00e0 domiageraterconfectionbonaffairantfoncerles Hommesconfectionbansespouromptinechanguecontinuentcabinet 19\nchangueinteminutionsalle 11\n\nFinaldemontageblestablesputatquandpied\nR\u00e9parationdomalion\u00b02 Roter + euireconfectiond'ains Gaberconfectioncanvasassum\u00e9\nconfection \u00e9galconfectioniture\nR\u00e9parationtransformaden\n\nRue Richaud Bateaxconfectiond'untableauavec 3. mainsetrincestouspourp\u00e8sed'amantsconfection, unecaine",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "011",
+      "raw_content": "Sortie du 19 Mai 1909\n\nD\u00e9part de Bampa \u00e0 7 heures du Matin  \n    pour Aba\u00ef\u00e9tau  Arriv\u00e9e \u00e0  \nD\u00e9part de  \n    pour  \nD\u00e9part de  \n    pour  \nArriv\u00e9e au mouillage \u00e0 Bampa \u00e0 3 h. du Soir  \n\nEtat du temps : C\u00e9an  \n\nPassagers \u00e0 bord :  \n\nObjet de la sortie : Essai des Machines, et coup  \n                  de Chalet.  \n\nConsommation  \n{  \n  26 briquettes de 10 Roids en kilos 260  \n  2 huile                          Total en litres 2  \n\nD\u00e9penses  \n{  \n\nObservations : Deuxi\u00e8me essai des machines a  \n             Condenseur - tr\u00e8s satisfaisant.  ",
+      "cleaned_content": "Sortiedu 19 Mai 1909\n\nD\u00e9partde Bampa \u00e0 7 heuresdu Matinpour Aba\u00ef\u00e9tau  Arriv\u00e9e \u00e0  \nD\u00e9partdepour  \nD\u00e9partdepour  \nArriv\u00e9eaumouillage \u00e0 Bampa \u00e0 3 h. du Soir  \n\nEtatdutemps : C\u00e9an  \n\nPassagers \u00e0 bord :  \n\nObjetdelasortie : Essaides Machines, etcoupde Chalet.  \n\nConsommation  \n{  \n  26 briquettesde 10 Roidsenkilos 260  \n  2 huile                          Totalenlitres 2  \n\nD\u00e9penses  \n{  \n\nObservations : Deuxi\u00e8meessaidesmachinesa  \n             Condenseur - tr\u00e8ssatisfaisant.",
+      "entities": {
+        "dates": [
+          "19 Mai 1909"
+        ]
+      }
+    },
+    {
+      "page_number": "012",
+      "raw_content": "Confection d'un Tr\u00e9teau  \nInstallation porte affaiblement Patin  \nD\u00e9mantelage dominicain de la Sod\n\nNovembre  \nConfection d'un canap\u00e9 pliant.  \nConfection de 2 canap\u00e9s.  \nInstallation fusil ramant chandeliers 1/3.  \nRitoupage carrelage.  \n\nCommenc\u00e9s des am\u00e9liorations pour Trait\u00e9.\n\n\nConfection La Turd flanques, etc. Pine.  \nToilettes glaces et Toitures  \nafin anima mission ch\u00e8 la falaise.  \nInstallation auventoon s.  \nConfection Lucite catastrophes.  \nConfection itaque.  \n\nRefa\u00e7antes heures.  \n\nRevue embrayages. Sauvepins des fl\u00e8ches.  \nAllonger l'aile du ho un aller les des la  \nfrohe, confection, clubmines auambrage.  \n\n20 D\u00e9cembre. Confection. FInue comb eu que.  \nSitu en place intermin\u00e9s et  \n\u00c9tiage chambre mois.  \n\nInstallation Vou petit organisme.  \nD\u00e9mantage canots tous.  \nTransformation se lampes \u00e0 huile au  \n\u00e9lectrique.  \nPrise de couram chandeliers et K1. Vanas.  \nInstallation penis aiguilles, espolarities.  \nRefa\u00e7ances Dany care.  \nConfection et mise en place du tapis jonc  \n\u00e0 domage bases usines.  \nMotion \u00e9tat et mise en place plie fente portatives.  \nPonce face face, mise en pleine  \nles fenuvoles fort\u00e9aques et balaises.  \n",
+      "cleaned_content": "Confectiond'un Tr\u00e9teau  \nInstallationporteaffaiblement Patin  \nD\u00e9mantelagedominicaindela Sod\n\nNovembre  \nConfectiond'uncanap\u00e9 pliant.  \nConfectionde 2 canap\u00e9s.  \nInstallationfusilramantchandeliers 1/3.  \nRitoupagecarrelage.  \n\nCommenc\u00e9sdesam\u00e9liorationspour Trait\u00e9.\n\n\nConfection La Turdflanques, etc. Pine.  \nToilettesglaceset Toituresafinanimamissionch\u00e8 lafalaise.  \nInstallationauventoons.  \nConfection Lucitecatastrophes.  \nConfectionitaque.  \n\nRefa\u00e7antesheures.  \n\nRevueembrayages. Sauvepinsdesfl\u00e8ches.  \nAllongerl'aileduhounallerlesdeslafrohe, confection, clubminesauambrage.  \n\n20 D\u00e9cembre. Confection. FInuecombeuque.  \nSituenplaceintermin\u00e9set  \n\u00c9tiagechambremois.  \n\nInstallation Voupetitorganisme.  \nD\u00e9mantagecanotstous.  \nTransformationselampes \u00e0 huileau  \n\u00e9lectrique.  \nPrisedecouramchandelierset K1. Vanas.  \nInstallationpenisaiguilles, espolarities.  \nRefa\u00e7ances Danycare.  \nConfectionetmiseenplacedutapisjonc  \n\u00e0 domagebasesusines.  \nMotion \u00e9tatetmiseenplacepliefenteportatives.  \nPoncefaceface, miseenpleinelesfenuvolesfort\u00e9aquesetbalaises.",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "013",
+      "raw_content": "```plaintext\nSortie du 21 Mai 1909\nD\u00e9part de Bampus \u00e0 6 heures du Matin.\n  pour Obaluter\nArriv\u00e9e \u00e0\nD\u00e9part de\n  pour\nArriv\u00e9e \u00e0\n  heures du\nD\u00e9part de\n  pour\nArriv\u00e9e au mouillage \u00e0 Bampus \u00e0 2\u02b034 du Soir\n\nEtat du temps: Vent du Sud moyen.\n\nPassagers \u00e0 bord:\n\nObjet de la sortie: p\u00eache pour le travailleurs du \n                      laboratoire.\n\nConsommation {\n             40 briquettes de 10 Roids en Kilos          400\n             huile                                      Total en litres\n\nD\u00e9penses\n\nObservations: Donn\u00e9 deux coups de Grabut.\n              tr\u00e8s bonne p\u00eache.\n```\n```plaintext\n```",
+      "cleaned_content": "```plaintext\nSortiedu 21 Mai 1909\nD\u00e9partde Bampus \u00e0 6 heuresdu Matin.\n  pour Obaluter\nArriv\u00e9e \u00e0\nD\u00e9partdepour\nArriv\u00e9e \u00e0\n  heuresdu\nD\u00e9partdepour\nArriv\u00e9eaumouillage \u00e0 Bampus \u00e0 2\u02b034 du Soir\n\nEtatdutemps: Ventdu Sudmoyen.\n\nPassagers \u00e0 bord:\n\nObjetdelasortie: p\u00eachepourletravailleursdulaboratoire.\n\nConsommation {\n             40 briquettesde 10 Roidsen Kilos          400\n             huile                                      Totalenlitres\n\nD\u00e9penses\n\nObservations: Donn\u00e9 deuxcoupsde Grabut.\n              tr\u00e8sbonnep\u00eache.\n```\n```plaintext\n```",
+      "entities": {
+        "dates": [
+          "21 Mai 1909"
+        ]
+      }
+    },
+    {
+      "page_number": "014",
+      "raw_content": "ann\u00e9e 1949.\n\nJanvier :  \n  Finie des chapois les tenues de matelotage sont inutilisables.  \n  D\u00e9montage des chapois. Essais en petite campagne et mise en place \u00e0 la fin du mois.  \n\n  Mis en \u00e9tat P\u00e9niche M\u00e9tellal.  \n\n  Mis en autre P\u00e9niche tenue pneus.  \n  D\u00e9montage piles comme une d\u00e9ficience et mise en place des citernes.  \n  Cuenfrunis, cagous dans notre base.  \n\n  D\u00e9montage Embriagases amusph\u00e8tes afin de choisir les bonnes.  \n  D\u00e9montage Pile de concr\u00e9tuni sons pote sons concr\u00e9tuitive.  \n\nF\u00e9vrier :  \n  R\u00e9paration de pinsard au matelot aff'Dirictien bendine.  \n  \u0444\u043e\u0440\u043e\u043a\u0435\u044ewel et rueelle dune.  \n  Delunushe conluit 2\u00b0 dangle.  \n  R\u00e9paration fe chaine.  \n  Instaukion des gaumages velus. R\u00e9paration Ph\u00e9rique eniois concr\u00e9tuni et mise en place fins carrie were gu\u00e9llage.  \n  affutage cautranc  \n  \n  Dinstallation 3 juils c\u00e8benats.  \n  Confection suivr phones variables.  \n  R\u00e9paration anillages.  \n  Confection au fort douperis.  \n  Temins. Tevire et mandraque.  \n\nL'ensemble du texte est transcrit fid\u00e8lement, en conservant les alin\u00e9as et les formats originels.",
+      "cleaned_content": "ann\u00e9e 1949.\n\nJanvier :  \n  Finiedeschapoislestenuesdematelotagesontinutilisables.  \n  D\u00e9montagedeschapois. Essaisenpetitecampagneetmiseenplace \u00e0 lafindumois.  \n\n  Misen \u00e9tat P\u00e9niche M\u00e9tellal.  \n\n  Misenautre P\u00e9nichetenuepneus.  \n  D\u00e9montagepilescommeuned\u00e9ficienceetmiseenplacedesciternes.  \n  Cuenfrunis, cagousdansnotrebase.  \n\n  D\u00e9montage Embriagasesamusph\u00e8tesafindechoisirlesbonnes.  \n  D\u00e9montage Piledeconcr\u00e9tunisonspotesonsconcr\u00e9tuitive.  \n\nF\u00e9vrier :  \n  R\u00e9parationdepinsardaumatelotaff'Dirictienbendine.  \n  \u0444\u043e\u0440\u043e\u043a\u0435\u044eweletrueelledune.  \n  Delunusheconluit 2\u00b0 dangle.  \n  R\u00e9parationfechaine.  \n  Instaukiondesgaumagesvelus. R\u00e9paration Ph\u00e9riqueenioisconcr\u00e9tunietmiseenplacefinscarrieweregu\u00e9llage.  \n  affutagecautranc  \n  \n  Dinstallation 3 juilsc\u00e8benats.  \n  Confectionsuivrphonesvariables.  \n  R\u00e9parationanillages.  \n  Confectionaufortdouperis.  \n  Temins. Tevireetmandraque.  \n\nL'ensembledutexteesttranscritfid\u00e8lement, enconservantlesalin\u00e9asetlesformatsoriginels.",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "015",
+      "raw_content": "N\u00b0\n\nSortie du 29 Mai 1909  \n\nD\u00e9part de Dampier \u00e0 8 heures du Matin  \npour  ficher  Arriv\u00e9e \u00e0  \n\nD\u00e9part de  \u00e0 heures du   \npour  Arriv\u00e9e \u00e0  \n\nD\u00e9part de  \u00e0 heures du   \npour  \n\nArriv\u00e9e au mouillage \u00e0 Dampier \u00e0 11 h. du Matin  \n\n\u00c9tat du temps : beau  \n\nPassagers \u00e0 bord :  \n\nObjet de la sortie : ficher sur le cap Bear, et Major la dynamo.  \nConsommation  \n$\\left\\{\n\\begin{array}{l}\n28 \\text{ briquettes de su. Poids en kilos } 140,16 \\\\\n2 \\text{ huile } \\quad \\text{Total en litres } 2\n\\end{array}\n\\right.$  \n\nD\u00e9penses :  \n\nObservations :  fich\u00e9 pour garnir la aquarium et faire l'essai de la Dynamon.  ",
+      "cleaned_content": "N\u00b0\n\nSortiedu 29 Mai 1909  \n\nD\u00e9partde Dampier \u00e0 8 heuresdu Matinpourficher  Arriv\u00e9e \u00e0  \n\nD\u00e9partde  \u00e0 heuresdupour  Arriv\u00e9e \u00e0  \n\nD\u00e9partde  \u00e0 heuresdupour  \n\nArriv\u00e9eaumouillage \u00e0 Dampier \u00e0 11 h. du Matin  \n\n\u00c9tatdutemps : beau  \n\nPassagers \u00e0 bord :  \n\nObjetdelasortie : fichersurlecap Bear, et Majorladynamo.  \nConsommation  \n$\\left\\{\n\\begin{array}{l}\n28 \\text{ briquettesdesu. Poidsenkilos } 140,16 \\\\\n2 \\text{ huile } \\quad \\text{Totalenlitres } 2\n\\end{array}\n\\right.$  \n\nD\u00e9penses :  \n\nObservations :  fich\u00e9 pourgarnirlaaquariumetfairel'essaidela Dynamon.",
+      "entities": {
+        "dates": [
+          "29 Mai 1909"
+        ]
+      }
+    },
+    {
+      "page_number": "016",
+      "raw_content": "Mars.\nEclairage luxe central\nConfection Tangent\nMise en place forte chemisant et\nsupport sur ar\u00eate \u00bd x 2 m.\n\nCommenc\u00e9 un album d'images agu\u00e4tines.\nConfection petits becs neuveux.\nConfection fusins pour autismes.\nR\u00e9parer deux vieux cannages.\nR\u00e9parer vieux lampes.\n\nR\u00e9fection tole et mise en place fini\nmina.\n\nR\u00e9par\u00e9 r\u00e8gles sur charveux.\n\nAvril.\nG\u00e9minis soin et \u00c9lectricit\u00e9 avagnnant.\n\nInstallation Sabaro et amis (Bourg\u00e9s)\nMise en place gla\u00e7e et support sp\u00e9cifique.\nMise en place table (Delhomme)\nR\u00e9par\u00e9 lampes anciens : et Bibli.\nV\u00e9rification huilerroutines.\nConfection carton fours mod\u00e8les.\nMise en place & piles Feu annant\nbao \u00e0 dan Basan Chanta\u00ef le\nrivea en place.\n\nTam\u00e9e mine en place\n\nMai.\nInstallation \u00c9lectrique (Bourg\u00e9s)\nR\u00e9parer forte cabinet E?\nD\u00e9barquement Caralos et can\u00fbs.\nR\u00e9par\u00e9 et peinture bancs et alles pour\nwindow.\nInstallation lames camus.",
+      "cleaned_content": "Mars.\nEclairageluxecentral\nConfection Tangent\nMiseenplacefortechemisantetsupportsurar\u00eate \u00bd x 2 m.\n\nCommenc\u00e9 unalbumd'imagesagu\u00e4tines.\nConfectionpetitsbecsneuveux.\nConfectionfusinspourautismes.\nR\u00e9parerdeuxvieuxcannages.\nR\u00e9parervieuxlampes.\n\nR\u00e9fectiontoleetmiseenplacefinimina.\n\nR\u00e9par\u00e9 r\u00e8glessurcharveux.\n\nAvril.\nG\u00e9minissoinet \u00c9lectricit\u00e9 avagnnant.\n\nInstallation Sabaroetamis (Bourg\u00e9s)\nMiseenplacegla\u00e7eetsupportsp\u00e9cifique.\nMiseenplacetable (Delhomme)\nR\u00e9par\u00e9 lampesanciens : et Bibli.\nV\u00e9rificationhuilerroutines.\nConfectioncartonfoursmod\u00e8les.\nMiseenplace & piles Feuannantbao \u00e0 dan Basan Chanta\u00ef leriveaenplace.\n\nTam\u00e9emineenplace\n\nMai.\nInstallation \u00c9lectrique (Bourg\u00e9s)\nR\u00e9parerfortecabinet E?\nD\u00e9barquement Caralosetcan\u00fbs.\nR\u00e9par\u00e9 etpeinturebancsetallespourwindow.\nInstallationlamescamus.",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "017",
+      "raw_content": "Sortie du 21 Juin 1909\n\nD\u00e9part de Banyuls \u00e0 7 heures du Matin.  \nArriv\u00e9e \u00e0 7 h. 30\n\nD\u00e9part de ______ \u00e0 8 heures du matin  \n\nArriv\u00e9e au mouillage \u00e0 Port Vendres \u00e0 12 h. du Matin.\n\n\u00c9tat du temps : \u00e0 11 h. du matin le vent du Sud est tr\u00e8s fort.\n\nPassagers \u00e0 bord : M. Le Capitaine Ceste.\n\nObjet de la sortie : Remorquage du b\u00fbcher pour le tir du fort Bear.\n\nConsommation \\{  \n  36 briquettes de h Poids en Kilos 360  \n  & huile Total en litres 4  \n\nD\u00e9penses\n\nObservations : Maui restant au mouillage \u00e0 Port Vendres, le vent du Sud souffle avec violence.",
+      "cleaned_content": "Sortiedu 21 Juin 1909\n\nD\u00e9partde Banyuls \u00e0 7 heuresdu Matin.  \nArriv\u00e9e \u00e0 7 h. 30\n\nD\u00e9partde ______ \u00e0 8 heuresdumatin  \n\nArriv\u00e9eaumouillage \u00e0 Port Vendres \u00e0 12 h. du Matin.\n\n\u00c9tatdutemps : \u00e0 11 h. dumatinleventdu Sudesttr\u00e8sfort.\n\nPassagers \u00e0 bord : M. Le Capitaine Ceste.\n\nObjetdelasortie : Remorquagedub\u00fbcherpourletirdufort Bear.\n\nConsommation \\{  \n  36 briquettesdeh Poidsen Kilos 360  \n  & huile Totalenlitres 4  \n\nD\u00e9penses\n\nObservations : Mauirestantaumouillage \u00e0 Port Vendres, leventdu Sudsouffleavecviolence.",
+      "entities": {
+        "dates": [
+          "21 Juin 1909"
+        ]
+      }
+    },
+    {
+      "page_number": "018",
+      "raw_content": "Visite Les clapets de la lifte.  \nNettoyage des bouches et changementamp;fiables.  \nR\u00e9parationsen piquettes quest\u00e3o c\u00e9lestes  \nchg nis jewellery necklace unique\n\n---\n\ncommenc\u00e8rent. Une visite \u00e0 cantini\u00e8re: mise en \u00e9tat petite fatigue \u00e0 cause ligneunique\n\nassermentation forte garantie\n\nR\u00e9paraux emballage tampon am\u00e9lioreus.\n\nmis en place istique vendecome.\n\nConf\u00e9rence mise en place Daniesta Delaume.\n\nMise en place poutrelle omn. edit\n\nDemeure ahauxsh elle illumination\n\nMendatage serait \u00e9toile Delannoy.\n\nTirez les points \u00e0 cartets pastilles, chang\u00e9ent\u0131r\u00e9into du Ferma. \u2013 \n\nR\u00e9parer collierchonnel koder t\u00e9l\u00e9.  \n\nR\u00e9parer ancienne Stalle Bondje\n\n---\n\nJuin.\nVisite clapets je.\n\nConf\u00e9rence femmes roque.\n\nConf\u00e9rence Rameau filet Pelagique\n\nInstallation\u306f\u305a\u6709\u975e \u00fd j\u01d0 g\u00e9n\u00e9ration\n\nRemarque \ud83d\udc31~ complement arris  \nInstallation de jeu dur\u00e9e balonse\n\nbourrutsse cousin.",
+      "cleaned_content": "Visite Lesclapetsdelalifte.  \nNettoyagedesbouchesetchangementamp;fiables.  \nR\u00e9parationsenpiquettesquest\u00e3oc\u00e9lesteschgnisjewellerynecklaceunique\n\n---\n\ncommenc\u00e8rent. Unevisite \u00e0 cantini\u00e8re: miseen \u00e9tatpetitefatigue \u00e0 causeligneuniqueassermentationfortegarantie\n\nR\u00e9parauxemballagetamponam\u00e9lioreus.\n\nmisenplaceistiquevendecome.\n\nConf\u00e9rencemiseenplace Daniesta Delaume.\n\nMiseenplacepoutrelleomn. edit\n\nDemeureahauxshelleillumination\n\nMendatageserait \u00e9toile Delannoy.\n\nTirezlespoints \u00e0 cartetspastilles, chang\u00e9ent\u0131r\u00e9intodu Ferma. \u2013 \n\nR\u00e9parercollierchonnelkodert\u00e9l\u00e9.  \n\nR\u00e9parerancienne Stalle Bondje\n\n---\n\nJuin.\nVisiteclapetsje.\n\nConf\u00e9rencefemmesroque.\n\nConf\u00e9rence Rameaufilet Pelagique\n\nInstallation\u306f\u305a\u6709\u975e \u00fd j\u01d0 g\u00e9n\u00e9ration\n\nRemarque \ud83d\udc31~ complementarris  \nInstallationdejeudur\u00e9ebalonsebourrutssecousin.",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "019",
+      "raw_content": "N\u00b0  \nSortie du 22 Juin 1909  \nD\u00e9part de Port-Vendres \u00e0 9 heures du Matin  \npour __________ Arriv\u00e9e \u00e0 __________  \nD\u00e9part de __________ \u00e0 __________ heures du __________  \npour __________ Arriv\u00e9e \u00e0 __________  \nD\u00e9part de __________ \u00e0 __________ heures du __________  \npour __________ Arriv\u00e9e au mouillage \u00e0 Banyuls \u00e0 12 h du soir.  \n\nEtat du temps : Vent du Sud moyen.  \n\nPassagers \u00e0 bord :  \n\nObjet de la sortie : Retravons \u00e0 Banyuls et Soumous un coup de drague sur le caph Bear.  \n\nConsommation { 18 briquettes de 10 Poids en Kilos 180 k.  \n            { 2 huile Total en litres 2  \n\nD\u00e9penses :  \n\nObservations :  ",
+      "cleaned_content": "N\u00b0  \nSortiedu 22 Juin 1909  \nD\u00e9partde Port-Vendres \u00e0 9 heuresdu Matinpour __________ Arriv\u00e9e \u00e0 __________  \nD\u00e9partde __________ \u00e0 __________ heuresdu __________  \npour __________ Arriv\u00e9e \u00e0 __________  \nD\u00e9partde __________ \u00e0 __________ heuresdu __________  \npour __________ Arriv\u00e9eaumouillage \u00e0 Banyuls \u00e0 12 hdusoir.  \n\nEtatdutemps : Ventdu Sudmoyen.  \n\nPassagers \u00e0 bord :  \n\nObjetdelasortie : Retravons \u00e0 Banyulset Soumousuncoupdedraguesurlecaph Bear.  \n\nConsommation { 18 briquettesde 10 Poidsen Kilos 180 k.  \n            { 2 huile Totalenlitres 2  \n\nD\u00e9penses :  \n\nObservations :",
+      "entities": {
+        "dates": [
+          "22 Juin 1909"
+        ]
+      }
+    },
+    {
+      "page_number": "020",
+      "raw_content": "juillet.\nV\u00e9rifie chapets . Les et le chien . D\u00e9limage caravelles . Mise en place et construction monumentaux.\u0627 Antoine.\nPlace os \u00e0 r\u00e9fection . Plaque unci\u00f3 lateur \u00e0\ncontinue installation eau claire et chauffage. Installation encombrainos\n\nao\u00fbt.\nInstallation triuinglaye\u4e32\u8054 un deux un beaume\nconfection et mise en place baracade.\nR\u00e9fection rouleins et fermes.\ncontinue eau claire et chauffage.\nEntretien cantil . execuons mensem.\ndrssu R.\n\nSeptembre.\nR\u00e9paration cabeint end.\nPeltoorhes. R\u00e9paration tuyau fumeur\nconduits et portiers\nfermealye stjoined, et \u00e0 eau dattien\naccessoire \u00e9ume b\u00e9nin un Sieus\nd\u00e9formation cas lessearums zame Bancam.\nEntretien ammant\n\noctobre.\nContinue au rajes lieux pi\u00e9t.\nconstruction sur caisses et bois.\nInstallation Eu et purs.\nR\u00e9paration wagonage van .\nArpan outillage.\n\nR\u00e9pari vacins Camins\nCorcles ers camier st\nsn ant 'agls.",
+      "cleaned_content": "juillet.\nV\u00e9rifiechapets . Lesetlechien . D\u00e9limagecaravelles . Miseenplaceetconstructionmonumentaux.\u0627 Antoine.\nPlaceos \u00e0 r\u00e9fection . Plaqueunci\u00f3 lateur \u00e0\ncontinueinstallationeauclaireetchauffage. Installationencombrainosao\u00fbt.\nInstallationtriuinglaye\u4e32\u8054 undeuxunbeaumeconfectionetmiseenplacebaracade.\nR\u00e9fectionrouleinsetfermes.\ncontinueeauclaireetchauffage.\nEntretiencantil . execuonsmensem.\ndrssu R.\n\nSeptembre.\nR\u00e9parationcabeintend.\nPeltoorhes. R\u00e9parationtuyaufumeurconduitsetportiersfermealyestjoined, et \u00e0 eaudattienaccessoire \u00e9umeb\u00e9ninun Sieusd\u00e9formationcaslessearumszame Bancam.\nEntretienammantoctobre.\nContinueaurajeslieuxpi\u00e9t.\nconstructionsurcaissesetbois.\nInstallation Euetpurs.\nR\u00e9parationwagonagevan .\nArpanoutillage.\n\nR\u00e9parivacins Camins\nCorcleserscamierstsnant 'agls.",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "021",
+      "raw_content": "Sortie du 2<sup>e</sup> juin 1909\n\nD\u00e9part de **Bampal**. \u00e0 6 heures du matin.\n\nD\u00e9part de **Port-Vendin**. *Arriv\u00e9e \u00e0 6<sup>e</sup> 3*\n\nD\u00e9part de **Port-Vendin**. \u00e0 7 heures du matin.\n\nD\u00e9part de **.....**. *Arriv\u00e9e \u00e0 8<sup>e</sup> 1*\n\nD\u00e9part de **.....**. \u00e0 8<sup>e</sup> 4heures du\n\npour **Bampal**.\n\nArriv\u00e9e au mouillage \u00e0 **Bampal**, \u00e0 9 h. du matin.\n\n\u00c9tat du temps : petite brise de N.E.\n\nPassagers \u00e0 bord :\n\nObjet de la sortie : Remorquage de la **\"Germaine\"**.\n\nde **Port-Vendin \u00e0 Paulille**.\n\nConsommation : {\n    18 briquettes de 60 Rois en kilos 18.\n    3 huile\n    Total en litres 3\n}\n\nD\u00e9penses :\n\nObservations :",
+      "cleaned_content": "Sortiedu 2<sup>e</sup> juin 1909\n\nD\u00e9partde **Bampal**. \u00e0 6 heuresdumatin.\n\nD\u00e9partde **Port-Vendin**. *Arriv\u00e9e \u00e0 6<sup>e</sup> 3*\n\nD\u00e9partde **Port-Vendin**. \u00e0 7 heuresdumatin.\n\nD\u00e9partde **.....**. *Arriv\u00e9e \u00e0 8<sup>e</sup> 1*\n\nD\u00e9partde **.....**. \u00e0 8<sup>e</sup> 4heuresdupour **Bampal**.\n\nArriv\u00e9eaumouillage \u00e0 **Bampal**, \u00e0 9 h. dumatin.\n\n\u00c9tatdutemps : petitebrisede N.E.\n\nPassagers \u00e0 bord :\n\nObjetdelasortie : Remorquagedela **\"Germaine\"**.\n\nde **Port-Vendin \u00e0 Paulille**.\n\nConsommation : {\n    18 briquettesde 60 Roisenkilos 18.\n    3 huile\n    Totalenlitres 3\n}\n\nD\u00e9penses :\n\nObservations :",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "022",
+      "raw_content": "Pourville.\n\nR\u00e9paration Radiateur.\nR\u00e9parer Primeouie comment\nchanger interrupteur\nconfection gar pour\namusez erlon titrain.\nmise en place puis comment.\n\nZ toot commicant\nr\u00e9paration \u00f4\u00c2N dix ment an PLAN fouill\u00e9\nmise en mare fort\u00e9. amufferie.\nR\u00e9parer et mise en place forte\nLarin.\nconvenu confection ancienne porte\nturn le Tunnel.\ncommuni la manvier ancakie.\n\nR\u00e9paration juste R\u00e9 Camant et\nRadiateur.\nchang\u00e9 renne garange\nmise en place juste chauff\u00e9\nconfection. Fe cornus\n\nD\u00e9cembre.\n\nconfection garance. D\u00e9montage glace\norguarin. D\u00e9montage tinzantage\ncom Gumin. Rien finition. Terpantage\nfaund van bacon. Santune discuss pour\nr\u00e9p\u00e9tition.\n\nSanures les boites \u00e0 mat\u00e9riel\nconfection daune.\n\nR\u00e9parer les foige\nconfection plantes trois fils\nmise en place commeliste.\n\nSe installing Channelle N\u00b0.15\nInstalling faire \u00e0 album\nconfectry et mise un plan \u00e9vaire form\nles prosbi\u00e9s.\nInstallen privan Blog oment, RU tryingle",
+      "cleaned_content": "Pourville.\n\nR\u00e9paration Radiateur.\nR\u00e9parer Primeouiecommentchangerinterrupteurconfectiongarpouramusezerlontitrain.\nmiseenplacepuiscomment.\n\nZ tootcommicantr\u00e9paration \u00f4\u00c2N dixmentan PLAN fouill\u00e9\nmiseenmarefort\u00e9. amufferie.\nR\u00e9pareretmiseenplaceforte\nLarin.\nconvenuconfectionancienneporteturnle Tunnel.\ncommunilamanvierancakie.\n\nR\u00e9parationjuste R\u00e9 Camantet\nRadiateur.\nchang\u00e9 rennegarangemiseenplacejustechauff\u00e9\nconfection. Fecornus\n\nD\u00e9cembre.\n\nconfectiongarance. D\u00e9montageglaceorguarin. D\u00e9montagetinzantagecom Gumin. Rienfinition. Terpantagefaundvanbacon. Santunediscusspourr\u00e9p\u00e9tition.\n\nSanureslesboites \u00e0 mat\u00e9rielconfectiondaune.\n\nR\u00e9parerlesfoigeconfectionplantestroisfilsmiseenplacecommeliste.\n\nSeinstalling Channelle N\u00b0.15\nInstallingfaire \u00e0 albumconfectryetmiseunplan \u00e9vaireformlesprosbi\u00e9s.\nInstallenprivan Blogoment, RU tryingle",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "023",
+      "raw_content": "N\u00b0\n\n**Sortie du** 27 **Juin** 1909\n\nD\u00e9part de **Banyuls** \u00e0 **3** heures du matin.\n<pour le grande fonds. Arriv\u00e9e \u00e0>\n\nD\u00e9part de \u00e0 heures du\n<pour>\nArriv\u00e9e \u00e0>\n\nD\u00e9part de \u00e0 heures du\n<pour>\n\nArriv\u00e9e au mouillage \u00e0 **Banyuls** \u00e0 **9** h. du matin.\n\n**Etat du temps:** Vent du Nord tr\u00e8s fort.\n\n**Passagers \u00e0 bord:** Mr Mme Racoritz\u00e0, Jeannet, Fage, Charra.\n\n**Objet de la sortie:** P\u00eache p\u00e9lagique dans le grand fond.\n\n**Consommation:**\n- 20 briquettes de 10 Poids en kilos: 200\n- 2 huile\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Total en litres: 2\n\n**D\u00e9penses**\n\n**Observations:** Sorti pour p\u00eacher dans le grand fond, la mer trop forte nous oblige \u00e0 rentrer au mouillage \u00e0 Banyuls.",
+      "cleaned_content": "N\u00b0\n\n**Sortiedu** 27 **Juin** 1909\n\nD\u00e9partde **Banyuls** \u00e0 **3** heuresdumatin.\n<pourlegrandefonds. Arriv\u00e9e \u00e0>\n\nD\u00e9partde \u00e0 heuresdu\n<pour>\nArriv\u00e9e \u00e0>\n\nD\u00e9partde \u00e0 heuresdu\n<pour>\n\nArriv\u00e9eaumouillage \u00e0 **Banyuls** \u00e0 **9** h. dumatin.\n\n**Etatdutemps:** Ventdu Nordtr\u00e8sfort.\n\n**Passagers \u00e0 bord:** Mr Mme Racoritz\u00e0, Jeannet, Fage, Charra.\n\n**Objetdelasortie:** P\u00eachep\u00e9lagiquedanslegrandfond.\n\n**Consommation:**\n- 20 briquettesde 10 Poidsenkilos: 200\n- 2 huile\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Totalenlitres: 2\n\n**D\u00e9penses**\n\n**Observations:** Sortipourp\u00eacherdanslegrandfond, lamertropfortenousoblige \u00e0 rentreraumouillage \u00e0 Banyuls.",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "024",
+      "raw_content": "TRAVAIL 1950\n\n**Janvier**\n- Termin\u00e9 la mise au point des Etages. Pas, c'est local d\u00e9truit. Re\u00e7u comme chez F. Rang Jour quitt\u00e9, lundi 19. Entretien courant.\n\n**F\u00e9vrier**\n- Chang\u00e9 chaudi\u00e8re. R\u00e9paration et production d'eau r\u00e9vision, MTB pour\u5168\u5c40.\n- Confection caisses d'exposition.\n- Entretien courant.\n\n**Mars**\n- Chang\u00e9 toutes les machines: \u043f\u043b\u0430\u043d, \u0448\u0430\u0440.\n- Remis tous les duplicates et mise en \u00e9tat complet.\n- Confection caisses & fabrication artistique.\n- Fabrication formules trouv\u00e9es quasiment.\n\n**Avril**\n- \u00c9bau et \u00e9lectrique quand possible.\n- Distribution fichets.\n- Mise en \u00e9tat et sur E20 Bantam.\n- R\u00e9paration. Peint la chambre.\n- Installation \u00e9lectrique gamelles nouvelles, confection table.",
+      "cleaned_content": "TRAVAIL 1950\n\n**Janvier**\n- Termin\u00e9 lamiseaupointdes Etages. Pas, c'estlocald\u00e9truit. Re\u00e7ucommechez F. Rang Jourquitt\u00e9, lundi 19. Entretiencourant.\n\n**F\u00e9vrier**\n- Chang\u00e9 chaudi\u00e8re. R\u00e9parationetproductiond'eaur\u00e9vision, MTB pour\u5168\u5c40.\n- Confectioncaissesd'exposition.\n- Entretiencourant.\n\n**Mars**\n- Chang\u00e9 touteslesmachines: \u043f\u043b\u0430\u043d, \u0448\u0430\u0440.\n- Remistouslesduplicatesetmiseen \u00e9tatcomplet.\n- Confectioncaisses & fabricationartistique.\n- Fabricationformulestrouv\u00e9esquasiment.\n\n**Avril**\n- \u00c9bauet \u00e9lectriquequandpossible.\n- Distributionfichets.\n- Miseen \u00e9tatetsur E20 Bantam.\n- R\u00e9paration. Peintlachambre.\n- Installation \u00e9lectriquegamellesnouvelles, confectiontable.",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "025",
+      "raw_content": "### Journal de Navigation\n\n**1<sup>re</sup> Journ\u00e9e de la Campagne 1909**\n\n**Sortie du 28 juin 1909**\n\n- D\u00e9part de **Banyuls** \u00e0 3<sup>h</sup>20 du matin\n  - Pour la p\u00eache pelagique. Arriv\u00e9e \u00e0 **7<sup>h</sup>30**.\n- D\u00e9part de\n  - Arriv\u00e9e \u00e0\n- D\u00e9part des lieux de p\u00eache \u00e0 **9 heures du matin** pour **Port-Lligat (Cadaqu\u00e8s)**. Etape.\n  - Arriv\u00e9e au mouillage \u00e0 **Port-Lligat** \u00e0 **11<sup>h</sup>20 du matin**.\n\n**\u00c9tat du temps :**\n- Au d\u00e9part : petite brise du sud.\n  - \u00c0 6 heures : la brise fra\u00eechit, \u00e0 10<sup>h</sup> : forte brise.\n\n**Passagers \u00e0 bord :**\n- M. M. Racordi\u00e8re, Taje, Jannel, Chatton.\n\n**Objet de la sortie :**\n- P\u00eache dans les grands fonds.\n\n**Consommation :**\n- 1/2 briquettes de 10 kg\n- 4 huile\n- **Total en kilos : 20**\n- **Total en litres : 4**\n\n**D\u00e9penses :**\n\n**Observations :**\n- Nous partons \u00e0 3<sup>h</sup>20, route au S. 40\u00b0 E du compas. Nous mettons le grand filet pelagique \u00e0 l'eau \u00e0 8<sup>h</sup> apr\u00e8s un coup de sonde qui sonne 960 m\u00e8tres de fond.\n- Nous filons 900 m\u00e8tres de cabot, relev\u00e9 \u00e0 8<sup>h</sup>45 : bonne p\u00eache, en route pour **Port-Lligat** \u00e0 **9<sup>h</sup>10**.",
+      "cleaned_content": "### Journalde Navigation\n\n**1<sup>re</sup> Journ\u00e9edela Campagne 1909**\n\n**Sortiedu 28 juin 1909**\n\n- D\u00e9partde **Banyuls** \u00e0 3<sup>h</sup>20 dumatin\n  - Pourlap\u00eachepelagique. Arriv\u00e9e \u00e0 **7<sup>h</sup>30**.\n- D\u00e9partde\n  - Arriv\u00e9e \u00e0\n- D\u00e9partdeslieuxdep\u00eache \u00e0 **9 heuresdumatin** pour **Port-Lligat (Cadaqu\u00e8s)**. Etape.\n  - Arriv\u00e9eaumouillage \u00e0 **Port-Lligat** \u00e0 **11<sup>h</sup>20 dumatin**.\n\n**\u00c9tatdutemps :**\n- Aud\u00e9part : petitebrisedusud.\n  - \u00c0 6 heures : labrisefra\u00eechit, \u00e0 10<sup>h</sup> : fortebrise.\n\n**Passagers \u00e0 bord :**\n- M. M. Racordi\u00e8re, Taje, Jannel, Chatton.\n\n**Objetdelasortie :**\n- P\u00eachedanslesgrandsfonds.\n\n**Consommation :**\n- 1/2 briquettesde 10 kg\n- 4 huile\n- **Totalenkilos : 20**\n- **Totalenlitres : 4**\n\n**D\u00e9penses :**\n\n**Observations :**\n- Nouspartons \u00e0 3<sup>h</sup>20, routeau S. 40\u00b0 E ducompas. Nousmettonslegrandfiletpelagique \u00e0 l'eau \u00e0 8<sup>h</sup> apr\u00e8suncoupdesondequisonne 960 m\u00e8tresdefond.\n- Nousfilons 900 m\u00e8tresdecabot, relev\u00e9 \u00e0 8<sup>h</sup>45 : bonnep\u00eache, enroutepour **Port-Lligat** \u00e0 **9<sup>h</sup>10**.",
+      "entities": {
+        "dates": [
+          "28 juin 1909"
+        ]
+      }
+    },
+    {
+      "page_number": "026",
+      "raw_content": "N\u00b0\n\nSortie du 29 Juin 1909\n\nD\u00e9part de Port Ligat \u00e0 heures du\npour le grands fonds Arriv\u00e9e \u00e0 7!^\n\nD\u00e9part de\n\u00e0 heures du\npour\n\nD\u00e9part des lieux de p\u00eache \u00e0 8 1/2 heures du matin\npour Bangue\n\nArriv\u00e9e au mouillage \u00e0 Bangue \u00e0 12 h. du\n\nEtat du temps:\nMatin houle du Sud \u00e0 6!\u00a2 brise du\nN.E. temps couvert la brise tomb\u00e9e 11!\u00a2\n\nPassagers \u00e0 bord: Le m\u00eame.\n\nObjet de la sortie: P\u00eache pelagique dans le grands fonds.\n\nConsommation\n\\[\n\\left\\{\n\\begin{array}{ll}\n14}\")\n\\text { briquettes de 4.'100 Poids en Kilos } & 19'! \\\\\n4 & \\text { huile } & \\text { Total en litres } 4\n\\end{array}\n\\right.\n\\]\n\nD\u00e9penses\n\nObservations: apr\u00e8s avoir pass\u00e9 la nuit sans le partenon \u00e0 8!\u00a20' du\nMatin route au compas S. 65\u00b0\u00b0 E.\nPour poulir \u00e0 6! - 6/0 milieu - faisons\nroute dans l'Est pendant 0!\u00b0' - Fonds 960\nnous calons \u00e0 7! 29' relevons \u00e0 8! 19\np\u00eache ordinaire en route \u00e0 8!\u00b030\npour Bangue.",
+      "cleaned_content": "N\u00b0\n\nSortiedu 29 Juin 1909\n\nD\u00e9partde Port Ligat \u00e0 heuresdupourlegrandsfonds Arriv\u00e9e \u00e0 7!^\n\nD\u00e9partde\n\u00e0 heuresdupour\n\nD\u00e9partdeslieuxdep\u00eache \u00e0 8 1/2 heuresdumatinpour Bangue\n\nArriv\u00e9eaumouillage \u00e0 Bangue \u00e0 12 h. du\n\nEtatdutemps:\nMatinhouledu Sud \u00e0 6!\u00a2 brisedu\nN.E. tempscouvertlabrisetomb\u00e9e 11!\u00a2\n\nPassagers \u00e0 bord: Lem\u00eame.\n\nObjetdelasortie: P\u00eachepelagiquedanslegrandsfonds.\n\nConsommation\n\\[\n\\left\\{\n\\begin{array}{ll}\n14}\")\n\\text { briquettesde 4.'100 Poidsen Kilos } & 19'! \\\\\n4 & \\text { huile } & \\text { Totalenlitres } 4\n\\end{array}\n\\right.\n\\]\n\nD\u00e9penses\n\nObservations: apr\u00e8savoirpass\u00e9 lanuitsanslepartenon \u00e0 8!\u00a20' du\nMatinrouteaucompas S. 65\u00b0\u00b0 E.\nPourpoulir \u00e0 6! - 6/0 milieu - faisonsroutedansl'Estpendant 0!\u00b0' - Fonds 960\nnouscalons \u00e0 7! 29' relevons \u00e0 8! 19\np\u00eacheordinaireenroute \u00e0 8!\u00b030\npour Bangue.",
+      "entities": {
+        "dates": [
+          "29 Juin 1909"
+        ]
+      }
+    },
+    {
+      "page_number": "027",
+      "raw_content": "```plaintext\nN\u00b0\n\nSortie du 1 Juillet 1909\n\nD\u00e9part de Bamps \u00e0 3\u00bd heures du Matin. \npour Palamos              Arriv\u00e9e aux Medes \u00e0 8\u00b9 Matin.\nD\u00e9part des Medes          \u00e0 9\u00b230 heures du matin.\npour le grand fonds        Arriv\u00e9e \u00e0 \nD\u00e9part des  is \u00e0 3h heures du Lois\npour Palamos\nArriv\u00e9e au mouillage \u00e0 Palamos \u00e0 5\u00b220 h du Sois.\n\nEtat du temps : Matin, bise du Nord fra\u00eeche. Soir \npetite bise du Sud. Beau.\nPassagers \u00e0 bord : M\u1d50\u1d49 Racovilza, Tager, Jeannell, Chatton.\nObjet de la sortie : P\u00e9che pilagique dans le grand fond.\n\nConsommation {\n227/ briquettes de 4 Poids en kilos 900\n6 huile                             Total en litres 6\n\nD\u00e9penses\n\nObservations: Parti de Bamps \u00e0 3h40' nous pattons\nau cap Creux \u00e0 5\u00b215' \u00e0 Calagu\u00e9 \u00e0 5\u00b240'\nMouillons aux Medes pour laisser tomber le houb\n\u00e0 8h20'\nEn route pour le grand fond \u00e0 10h20' premier \nlundi 160' 2\u00b0140' 3\u00b01060' descendant le grand\nfilet 950' de cable \u00e0 Mit\u00e1i 40' relev\u00e9 \u00e0 2\u00b220'\nEn route \u00e0 8h apr\u00e8s avoir chang\u00e9 un clopit\nde pompe \u00e0 air qui est bris\u00e9.\nNous Sinoms \u00e0 l'h\u00f4tel de Palamos.\n```",
+      "cleaned_content": "```plaintext\nN\u00b0\n\nSortiedu 1 Juillet 1909\n\nD\u00e9partde Bamps \u00e0 3\u00bd heuresdu Matin. \npour Palamos              Arriv\u00e9eaux Medes \u00e0 8\u00b9 Matin.\nD\u00e9partdes Medes          \u00e0 9\u00b230 heuresdumatin.\npourlegrandfonds        Arriv\u00e9e \u00e0 \nD\u00e9partdesis \u00e0 3hheuresdu Loispour Palamos\nArriv\u00e9eaumouillage \u00e0 Palamos \u00e0 5\u00b220 hdu Sois.\n\nEtatdutemps : Matin, bisedu Nordfra\u00eeche. Soirpetitebisedu Sud. Beau.\nPassagers \u00e0 bord : M\u1d50\u1d49 Racovilza, Tager, Jeannell, Chatton.\nObjetdelasortie : P\u00e9chepilagiquedanslegrandfond.\n\nConsommation {\n227/ briquettesde 4 Poidsenkilos 900\n6 huile                             Totalenlitres 6\n\nD\u00e9penses\n\nObservations: Partide Bamps \u00e0 3h40' nouspattonsaucap Creux \u00e0 5\u00b215' \u00e0 Calagu\u00e9 \u00e0 5\u00b240'\nMouillonsaux Medespourlaissertomberlehoub\n\u00e0 8h20'\nEnroutepourlegrandfond \u00e0 10h20' premierlundi 160' 2\u00b0140' 3\u00b01060' descendantlegrandfilet 950' decable \u00e0 Mit\u00e1i 40' relev\u00e9 \u00e0 2\u00b220'\nEnroute \u00e0 8hapr\u00e8savoirchang\u00e9 unclopitdepompe \u00e0 airquiestbris\u00e9.\nNous Sinoms \u00e0 l'h\u00f4telde Palamos.\n```",
+      "entities": {
+        "dates": [
+          "1 Juillet 1909"
+        ]
+      }
+    },
+    {
+      "page_number": "028",
+      "raw_content": "### Sortie du **6 Juillet 1909**\n\n**D\u00e9part du Palamos \u00e0 4 heures du matin.**\n\n- D\u00e9part des Igls \u00e0 8\u02b030\u02b0 heures du matin.\n- Arriv\u00e9e \u00e0 Palamos \u00e0 10\u02b010\u02b0.\n- D\u00e9part des grands fonds \u00e0 heures du.\n- Arriv\u00e9e au mouillage \u00e0 10\u02b030\u02b0 \u00e0 16\u02b0\ud83d\udc5b",
+      "cleaned_content": "### Sortiedu **6 Juillet 1909**\n\n**D\u00e9partdu Palamos \u00e0 4 heuresdumatin.**\n\n- D\u00e9partdes Igls \u00e0 8\u02b030\u02b0 heuresdumatin.\n- Arriv\u00e9e \u00e0 Palamos \u00e0 10\u02b010\u02b0.\n- D\u00e9partdesgrandsfonds \u00e0 heuresdu.\n- Arriv\u00e9eaumouillage \u00e0 10\u02b030\u02b0 \u00e0 16\u02b0\ud83d\udc5b",
+      "entities": {
+        "dates": [
+          "6 Juillet 1909"
+        ]
+      }
+    },
+    {
+      "page_number": "029",
+      "raw_content": "```\nN\u00b0\nSortie du 7 Juillet 1909\n\nD\u00e9part de Palamos \u00e0 5 heures du matin pour les grands fonds\nArriv\u00e9e \u00e0\n\nD\u00e9part de         Arriv\u00e9e \u00e0\n                heures du\n\nD\u00e9part de         Arriv\u00e9e \u00e0\n                heures du\n\nArriv\u00e9e au mouillage \u00e0 l'Estartit \u00e0 11\u00bd h. du matin\n\nEtat du temps: Vent du Nord tr\u00e8s fort\nPassagers \u00e0 bord: Les m\u00eames\nObjet de la sortie: p\u00eache dans les grands fonds\n\nConsommation {\n             50 briquettes de Ro\u00efds en Kilos 500\n             5 huile Total en litres 5\n\nD\u00e9penses\n\nObservations: Sorti pour p\u00eache dans la Rech\n                au cap S. Sebastien. nous trouvons\n                une forte houle, et le vent du Nord\n                frais.\n                Nous renon\u00e7ons \u00e0 notre p\u00eache, et\n                faisons route \u00e0 l'Estartit.\n```",
+      "cleaned_content": "```\nN\u00b0\nSortiedu 7 Juillet 1909\n\nD\u00e9partde Palamos \u00e0 5 heuresdumatinpourlesgrandsfonds\nArriv\u00e9e \u00e0\n\nD\u00e9partde         Arriv\u00e9e \u00e0\n                heuresdu\n\nD\u00e9partde         Arriv\u00e9e \u00e0\n                heuresdu\n\nArriv\u00e9eaumouillage \u00e0 l'Estartit \u00e0 11\u00bd h. dumatin\n\nEtatdutemps: Ventdu Nordtr\u00e8sfort\nPassagers \u00e0 bord: Lesm\u00eames\nObjetdelasortie: p\u00eachedanslesgrandsfonds\n\nConsommation {\n             50 briquettesde Ro\u00efdsen Kilos 500\n             5 huile Totalenlitres 5\n\nD\u00e9penses\n\nObservations: Sortipourp\u00eachedansla Rechaucap S. Sebastien. noustrouvonsunefortehoule, etleventdu Nordfrais.\n                Nousrenon\u00e7ons \u00e0 notrep\u00eache, etfaisonsroute \u00e0 l'Estartit.\n```",
+      "entities": {
+        "dates": [
+          "7 Juillet 1909"
+        ]
+      }
+    },
+    {
+      "page_number": "030",
+      "raw_content": "Sortie du 8-9 Juillet 1909\n\nD\u00e9part de _______ \u00e0 _______ heures du\npour\n\nArriv\u00e9e \u00e0 _______ \u00e0 _______ heures du\n\nD\u00e9part de _______ \u00e0 _______ heures du\npour\n\nArriv\u00e9e \u00e0 _______ \u00e0 _______ heures du\n\nD\u00e9part de _______ \u00e0 _______ heures du\npour\n\nArriv\u00e9e au mouillage _______ \u00e0 _______ h du\n\n\u00c9tat du temps: Vent du Nord tr\u00e8s fort.\nPassagers \u00e0 bord: Le m\u00eame.\nObjet de la sortie:\n\nConsommation  { 2 briquettes de 4 1/4 Rois en Kilos  210\n                         { huile Total en litres\n\nD\u00e9penses\n\nObservations: Retour sur les feux au mouillage\nde l'Estartit. Le vent du Nord tr\u00e8s violent nous force \u00e0 verrer \u00e0 l'abri.\nExcursion \u00e0 Terre.",
+      "cleaned_content": "Sortiedu 8-9 Juillet 1909\n\nD\u00e9partde _______ \u00e0 _______ heuresdupour\n\nArriv\u00e9e \u00e0 _______ \u00e0 _______ heuresdu\n\nD\u00e9partde _______ \u00e0 _______ heuresdupour\n\nArriv\u00e9e \u00e0 _______ \u00e0 _______ heuresdu\n\nD\u00e9partde _______ \u00e0 _______ heuresdupour\n\nArriv\u00e9eaumouillage _______ \u00e0 _______ hdu\n\n\u00c9tatdutemps: Ventdu Nordtr\u00e8sfort.\nPassagers \u00e0 bord: Lem\u00eame.\nObjetdelasortie:\n\nConsommation  { 2 briquettesde 4 1/4 Roisen Kilos  210\n                         { huile Totalenlitres\n\nD\u00e9penses\n\nObservations: Retoursurlesfeuxaumouillagedel'Estartit. Leventdu Nordtr\u00e8sviolentnousforce \u00e0 verrer \u00e0 l'abri.\nExcursion \u00e0 Terre.",
+      "entities": {
+        "dates": [
+          "9 Juillet 1909"
+        ]
+      }
+    },
+    {
+      "page_number": "031",
+      "raw_content": "```plaintext\nSortie du 10 juillet 1909\nD\u00e9part de L'\u00c9startit \u00e0 4 heures du matin pour Banyuls\nArriv\u00e9e \u00e0\nD\u00e9part de                               \u00e0 heures du\npour                                     Arriv\u00e9e \u00e0\nD\u00e9part de                               \u00e0 heures du\npour\nArriv\u00e9e au mouillage \u00e0 Banyuls \u00e0 8\u02b030 du matin.\n\n\u00c9tat du temps: fort poil sans vent.\nPassagers \u00e0 bord: En m\u00eame.\nObjet de la sortie: Retour \u00e0 Banyuls.\nConsommation{\n    48 briquettes de 10 Roids en kilos: 480 K.\n    3 huile                               Total en litres: 3\n}\n\nD\u00e9penses:\n\nObservations: Retours directement \u00e0 Banyuls.\n```",
+      "cleaned_content": "```plaintext\nSortiedu 10 juillet 1909\nD\u00e9partde L'\u00c9startit \u00e0 4 heuresdumatinpour Banyuls\nArriv\u00e9e \u00e0\nD\u00e9partde                               \u00e0 heuresdupour                                     Arriv\u00e9e \u00e0\nD\u00e9partde                               \u00e0 heuresdupour\nArriv\u00e9eaumouillage \u00e0 Banyuls \u00e0 8\u02b030 dumatin.\n\n\u00c9tatdutemps: fortpoilsansvent.\nPassagers \u00e0 bord: Enm\u00eame.\nObjetdelasortie: Retour \u00e0 Banyuls.\nConsommation{\n    48 briquettesde 10 Roidsenkilos: 480 K.\n    3 huile                               Totalenlitres: 3\n}\n\nD\u00e9penses:\n\nObservations: Retoursdirectement \u00e0 Banyuls.\n```",
+      "entities": {
+        "dates": [
+          "10 juillet 1909"
+        ]
+      }
+    },
+    {
+      "page_number": "032",
+      "raw_content": "Sortie du 17 juillet 1909  \nD\u00e9part de Banyuls \u00e0 4 heures du matin  \npour p\u00eacher dans la G. fonda arriv\u00e9e \u00e0 Midi.  \nD\u00e9part de  \nArriv\u00e9e \u00e0  \nDepuis des grands fonds \u00e0 1 h 1/2 heures du soir.  \nArriv\u00e9e au mouillage \u00e0 Palamos \u00e0 4 h du soir.  \n\n\u00c9tat du temps: au d\u00e9pu. frais bris du Nord. apr\u00e8s le cap  \nCreux petite brise jusqu'au traven du Caploso  \nlogis un du Pais jusqu'\u00e0 2 h.  \nPassagers \u00e0 bord: m. m. Racoritza, Frage, Jeannel.  \n\nObjet de la sortie: P\u00eache p\u00e9lagique dans les grands fonds.  \nConsommation} {briquettes de { poids en kilos 798 k.  \n{ huile { Total en litres 5/8 K.  \nD\u00e9penses de Banyuls au cap S. S\u00e9bastien / 88  \ndu Cap S. S\u00e9bastien \u00e0 Palamos 210 { / 7984  \n\nObservations: arriv\u00e9 \u00e0 midi aux rep\u00e8res suivants  \nFig. (1) nous touchons 1060 m\u00e8tres.  ",
+      "cleaned_content": "Sortiedu 17 juillet 1909  \nD\u00e9partde Banyuls \u00e0 4 heuresdumatinpourp\u00eacherdansla G. fondaarriv\u00e9e \u00e0 Midi.  \nD\u00e9partde  \nArriv\u00e9e \u00e0  \nDepuisdesgrandsfonds \u00e0 1 h 1/2 heuresdusoir.  \nArriv\u00e9eaumouillage \u00e0 Palamos \u00e0 4 hdusoir.  \n\n\u00c9tatdutemps: aud\u00e9pu. fraisbrisdu Nord. apr\u00e8slecap  \nCreuxpetitebrisejusqu'autravendu Caplosologisundu Paisjusqu'\u00e0 2 h.  \nPassagers \u00e0 bord: m. m. Racoritza, Frage, Jeannel.  \n\nObjetdelasortie: P\u00eachep\u00e9lagiquedanslesgrandsfonds.  \nConsommation} {briquettesde { poidsenkilos 798 k.  \n{ huile { Totalenlitres 5/8 K.  \nD\u00e9pensesde Banyulsaucap S. S\u00e9bastien / 88  \ndu Cap S. S\u00e9bastien \u00e0 Palamos 210 { / 7984  \n\nObservations: arriv\u00e9 \u00e0 midiauxrep\u00e8ressuivants  \nFig. (1) noustouchons 1060 m\u00e8tres.",
+      "entities": {
+        "dates": [
+          "17 juillet 1909"
+        ]
+      }
+    },
+    {
+      "page_number": "033",
+      "raw_content": "Sortie du 18 Juillet 1909\n\nD\u00e9part de Palamos \u00e0 4 heures du matin  \npour le grand fonds. Arriv\u00e9e \u00e0 9 h 35  \nD\u00e9part des is \u00e0 8 h 30 heures du matin  \npour l'Estartit. Arriv\u00e9e \u00e0 11 h  \nD\u00e9part de is \u00e0 11 h 30 heures  \npour Cala Mongo  \nArriv\u00e9e au mouillage \u00e0 la Cala Mongo \u00e0 1 h 30 du\n\n\u00c9tat du temps: Calme - 1<sup>r</sup> jour depuis le  \ncommencement de la Campagne.  \nPassagers \u00e0 bord: M<sup>e</sup> Racoritza, Fage, Jeannel\n\nObjet de la sortie: P\u00e9che dans le grand fond.  \n\nConsommation  \n- Briquettes de potasse: 895 kgs  \n- Huile: 3 clt  \n\nTotal consommation: 3 clt  \n\nD\u00e9penses pour le fuel: 198 K.\n\nObservations: Dep. \u00e0 4<sup>e</sup> route: S. 55 E. arriv\u00e9e \u00e0 9 h 39  \nD\u00e9j\u00f4nons au milieu \u00e0 6 h 30. Jours: 1120 m\u00e8tres. Bonne p\u00eache en route  \n\u00e0 8 h 30 pour l'Estartit. Route: N. 40 4/0.  \n\u00c0 9 h nous trouvons une bande de groupes  \ngrisous morts en montant, mais il  \ncoule avant notre arriv\u00e9e; nous  \nrepartons \u00e0 10 h 30 pour la Cala  \nMongo.  \n\nNous ferons la p\u00eache au feux ce soir.",
+      "cleaned_content": "Sortiedu 18 Juillet 1909\n\nD\u00e9partde Palamos \u00e0 4 heuresdumatinpourlegrandfonds. Arriv\u00e9e \u00e0 9 h 35  \nD\u00e9partdesis \u00e0 8 h 30 heuresdumatinpourl'Estartit. Arriv\u00e9e \u00e0 11 h  \nD\u00e9partdeis \u00e0 11 h 30 heurespour Cala Mongo  \nArriv\u00e9eaumouillage \u00e0 la Cala Mongo \u00e0 1 h 30 du\n\n\u00c9tatdutemps: Calme - 1<sup>r</sup> jourdepuislecommencementdela Campagne.  \nPassagers \u00e0 bord: M<sup>e</sup> Racoritza, Fage, Jeannel\n\nObjetdelasortie: P\u00e9chedanslegrandfond.  \n\nConsommation  \n- Briquettesdepotasse: 895 kgs  \n- Huile: 3 clt  \n\nTotalconsommation: 3 clt  \n\nD\u00e9pensespourlefuel: 198 K.\n\nObservations: Dep. \u00e0 4<sup>e</sup> route: S. 55 E. arriv\u00e9e \u00e0 9 h 39  \nD\u00e9j\u00f4nonsaumilieu \u00e0 6 h 30. Jours: 1120 m\u00e8tres. Bonnep\u00eacheenroute  \n\u00e0 8 h 30 pourl'Estartit. Route: N. 40 4/0.  \n\u00c0 9 hnoustrouvonsunebandedegroupesgrisousmortsenmontant, maisilcouleavantnotrearriv\u00e9e; nousrepartons \u00e0 10 h 30 pourla Cala  \nMongo.  \n\nNousferonslap\u00eacheaufeuxcesoir.",
+      "entities": {
+        "dates": [
+          "18 Juillet 1909"
+        ]
+      }
+    },
+    {
+      "page_number": "034",
+      "raw_content": "Campagne de 1909.\n\nSortie du 19 juillet 1909\n\nD\u00e9part de ______ \u00e0 ______ heures du\npour ______\nArriv\u00e9e \u00e0 ______\nD\u00e9part de ______ \u00e0 ______ heures du\npour ______\nArriv\u00e9e \u00e0 ______\nD\u00e9part de ______ \u00e0 ______ heures du\npour ______\nArriv\u00e9e au mouillage \u00e0 ______ h. du\nEtat du temps : Matin houle du Nord. \u00e0 8\u02b0 jour calme.\nPassagers \u00e0 bord : Les m\u00eames.\nObjet de la sortie : P\u00eache de nuit \u00e0 la lumi\u00e8re \u00e9lectrique.\nConsommation \n{ 12 briquettes de 10 poids en kilos 120\n  1 huile Total en litres 1\n\nD\u00e9penses\n\nObservations : Mouillage \u00e0 la Cala \u00e0 Mongo. Le matin \u00e0 7\u02b0 non allons avec les embarcations prendre des trottoirs dans la grotte de la cala \u00e0 Mongo. Le soir nous passionnions au poiti qui est sur la plage. Nous trouverons un tambour de 3\u00b0 \u00e0 la Banci\u00e8re, nous fason un extraction et ramenons la dentit\u00e9 \u00e0 2\u00b0; il Sait y avoir une fuite au Conteneur.\nPuis au loin nous avons fait la p\u00eache au feu m\u00e8tres de la cala et dans la Cala \u00e0 Mongo.\nTout a tr\u00e8s bien march\u00e9. Couch\u00e9s \u00e0 bord \u00e0 minuit.",
+      "cleaned_content": "Campagnede 1909.\n\nSortiedu 19 juillet 1909\n\nD\u00e9partde ______ \u00e0 ______ heuresdupour ______\nArriv\u00e9e \u00e0 ______\nD\u00e9partde ______ \u00e0 ______ heuresdupour ______\nArriv\u00e9e \u00e0 ______\nD\u00e9partde ______ \u00e0 ______ heuresdupour ______\nArriv\u00e9eaumouillage \u00e0 ______ h. du\nEtatdutemps : Matinhouledu Nord. \u00e0 8\u02b0 jourcalme.\nPassagers \u00e0 bord : Lesm\u00eames.\nObjetdelasortie : P\u00eachedenuit \u00e0 lalumi\u00e8re \u00e9lectrique.\nConsommation \n{ 12 briquettesde 10 poidsenkilos 120\n  1 huile Totalenlitres 1\n\nD\u00e9penses\n\nObservations : Mouillage \u00e0 la Cala \u00e0 Mongo. Lematin \u00e0 7\u02b0 nonallonsaveclesembarcationsprendredestrottoirsdanslagrottedelacala \u00e0 Mongo. Lesoirnouspassionnionsaupoitiquiestsurlaplage. Noustrouveronsuntambourde 3\u00b0 \u00e0 la Banci\u00e8re, nousfasonunextractionetramenonsladentit\u00e9 \u00e0 2\u00b0; il Saity avoirunefuiteau Conteneur.\nPuisauloinnousavonsfaitlap\u00eacheaufeum\u00e8tresdelacalaetdansla Cala \u00e0 Mongo.\nTouta tr\u00e8sbienmarch\u00e9. Couch\u00e9s \u00e0 bord \u00e0 minuit.",
+      "entities": {
+        "dates": [
+          "19 juillet 1909"
+        ]
+      }
+    },
+    {
+      "page_number": "035",
+      "raw_content": "N\u00b0 21\n\nSortie du 20 juillet 1909\n\nD\u00e9part de la Cala Mongo \u00e0 3\u02b0\u00b2\u2070' heures du matin pour Barcelonnette. Arriv\u00e9e \u00e0\n\nD\u00e9part de\n\npour\n\nArriv\u00e9e \u00e0\n\nD\u00e9part de\n\nArriv\u00e9e \u00e0\n\nArriv\u00e9e au mouillage \u00e0 Rosas \u00e0 7\u02b0\u00b3\u2070\u02b0 du matin.\n\n\u00c9tat du temps : de 8\u02b0 \u00e0 10\u02b0 Calme. \u00c0 11\u02b0 le vent du Nord-Est tr\u00e8s fort, ce qui nous oblige \u00e0 rel\u00e2cher \u00e0 Rosas.\n\nPassagers \u00e0 bord : M\u1d50\u1d49 Racor\u00edzzi, Fage, Jammel.\n\nObjet de la sortie : Pour p\u00eacher dans le grand fond remontant \u00e0 Barcelonnette, au large du cap Creux.\n\nConsommation\n{\n  briquettes de pondeux en Kilos\n $\n  huile Totales en litres\n}\n\nD\u00e9penses\n\nObservations : Le vent du Nord tr\u00e8s fort nous oblige \u00e0 rel\u00e2cher \u00e0 Rosas. Le matin nous faisons un voyage d'eau douce avec le canot. Prix 3 francs. 6 000 litres.\n\nLe soir 2\u207f\u1d48 voyage.\n\nVisitemon al venin \u00e0 l'h\u00f4tel.",
+      "cleaned_content": "N\u00b0 21\n\nSortiedu 20 juillet 1909\n\nD\u00e9partdela Cala Mongo \u00e0 3\u02b0\u00b2\u2070' heuresdumatinpour Barcelonnette. Arriv\u00e9e \u00e0\n\nD\u00e9partdepour\n\nArriv\u00e9e \u00e0\n\nD\u00e9partde\n\nArriv\u00e9e \u00e0\n\nArriv\u00e9eaumouillage \u00e0 Rosas \u00e0 7\u02b0\u00b3\u2070\u02b0 dumatin.\n\n\u00c9tatdutemps : de 8\u02b0 \u00e0 10\u02b0 Calme. \u00c0 11\u02b0 leventdu Nord-Esttr\u00e8sfort, cequinousoblige \u00e0 rel\u00e2cher \u00e0 Rosas.\n\nPassagers \u00e0 bord : M\u1d50\u1d49 Racor\u00edzzi, Fage, Jammel.\n\nObjetdelasortie : Pourp\u00eacherdanslegrandfondremontant \u00e0 Barcelonnette, aulargeducap Creux.\n\nConsommation\n{\n  briquettesdepondeuxen Kilos\n $\n  huile Totalesenlitres\n}\n\nD\u00e9penses\n\nObservations : Leventdu Nordtr\u00e8sfortnousoblige \u00e0 rel\u00e2cher \u00e0 Rosas. Lematinnousfaisonsunvoyaged'eaudouceaveclecanot. Prix 3 francs. 6 000 litres.\n\nLesoir 2\u207f\u1d48 voyage.\n\nVisitemonalvenin \u00e0 l'h\u00f4tel.",
+      "entities": {
+        "dates": [
+          "20 juillet 1909"
+        ]
+      }
+    },
+    {
+      "page_number": "036",
+      "raw_content": "```\nN\u00b0\nSortie du 21 juillet 1909\n\nD'abord de Rosas \u00e0 heures du Matin.\npour le g. fonds du cap Breux Arriv\u00e9e \u00e0 F.\nD'abord de \u2014\u2014 \u00e0 9 h 30 heures du matin\npour Banyuls. Arriv\u00e9e \u00e0 Banyuls \u00e0 1\u62a4\u680f.\nD'abord de \u2014\u2014 \u00e0 heures du soir\nArriv\u00e9e au mouillage \u00e0 Banyuls \u00e0 1\u62a4\u680f du soir.\n\n\u00c9tat du temps : Grand\nPassagers \u00e0 bord. Les m\u00eames\nObjet de la sortie : P\u00eache dans les grands fonds\n\nMEMORANDUM\n\nBAT\u00c9AU DE ST LAURENT\nMoulins \u00e0 vent pour le Mariame\nQu\u00edigu\n3\u00b0 Barth\u00e9 / Juin pr\u00e8s\nChateau de Port-Vends (Enzagual) /\npar le Nord\n\nMercredi 5 Ao\u00fbt\n```",
+      "cleaned_content": "```\nN\u00b0\nSortiedu 21 juillet 1909\n\nD'abordde Rosas \u00e0 heuresdu Matin.\npourleg. fondsducap Breux Arriv\u00e9e \u00e0 F.\nD'abordde \u2014\u2014 \u00e0 9 h 30 heuresdumatinpour Banyuls. Arriv\u00e9e \u00e0 Banyuls \u00e0 1\u62a4\u680f.\nD'abordde \u2014\u2014 \u00e0 heuresdusoir\nArriv\u00e9eaumouillage \u00e0 Banyuls \u00e0 1\u62a4\u680f dusoir.\n\n\u00c9tatdutemps : Grand\nPassagers \u00e0 bord. Lesm\u00eames\nObjetdelasortie : P\u00eachedanslesgrandsfonds\n\nMEMORANDUM\n\nBAT\u00c9AU DE ST LAURENT\nMoulins \u00e0 ventpourle Mariame\nQu\u00edigu\n3\u00b0 Barth\u00e9 / Juinpr\u00e8s\nChateaude Port-Vends (Enzagual) /\nparle Nord\n\nMercredi 5 Ao\u00fbt\n```",
+      "entities": {
+        "dates": [
+          "21 juillet 1909"
+        ]
+      }
+    },
+    {
+      "page_number": "037",
+      "raw_content": "N\u00b0\nSortie du 21 juillet 1909\n\nD\u00e9part de Rosas \u00e0 heures du Matin.\npour les grands fonds du cap Gr\u00e9dut. Arriv\u00e9e \u00e0 7\u02b0.\nD\u00e9part de is \u00e0 9\u02b030 heures du matin.\npour Banyuls. Arriv\u00e9e \u00e0 Banyuls \u00e0 1\u02b0.\nD\u00e9part de \u00e0 heures du\npour\nArriv\u00e9e au mouillage \u00e0 Banyuls \u00e0 1\u02b020 h du soir.\n\n\u00c9tat du temps: Calm\nPassagers \u00e0 bord: Les m\u00eames\nObjet de la sortie: P\u00eache dans les grands fonds\n\nle 21 juillet 1909 - P\u00eache dans les grands fonds ou cap Gr\u00e9dut.\nD\u00e9part de Rosas \u00e0 3\u02b015\nRamay Norf\u00e9e 4\u02b0 10 - Route au compass S. 80-E\nDonc\u00e9e \u00e0 7\u02b0 10 fond 1220 m\u00e8tres\nRel\u00e8ve \u00e0 8\u02b0.\nEn route sur Banyuls \u00e0 9\u02b020 - Route au compass N.85-E\nR c Banyuls 1\u02b0\n\nMontagne de Pagny. D\u00e8f\u00e8res. La Tour de la Masama Ter\n                                                                              montaye\n                                                                             Masuele\n                                                                                  s. Pierre\nCachernargy\nmonatini materi\nCatchernarig",
+      "cleaned_content": "N\u00b0\nSortiedu 21 juillet 1909\n\nD\u00e9partde Rosas \u00e0 heuresdu Matin.\npourlesgrandsfondsducap Gr\u00e9dut. Arriv\u00e9e \u00e0 7\u02b0.\nD\u00e9partdeis \u00e0 9\u02b030 heuresdumatin.\npour Banyuls. Arriv\u00e9e \u00e0 Banyuls \u00e0 1\u02b0.\nD\u00e9partde \u00e0 heuresdupour\nArriv\u00e9eaumouillage \u00e0 Banyuls \u00e0 1\u02b020 hdusoir.\n\n\u00c9tatdutemps: Calm\nPassagers \u00e0 bord: Lesm\u00eames\nObjetdelasortie: P\u00eachedanslesgrandsfondsle 21 juillet 1909 - P\u00eachedanslesgrandsfondsoucap Gr\u00e9dut.\nD\u00e9partde Rosas \u00e0 3\u02b015\nRamay Norf\u00e9e 4\u02b0 10 - Routeaucompass S. 80-E\nDonc\u00e9e \u00e0 7\u02b0 10 fond 1220 m\u00e8tres\nRel\u00e8ve \u00e0 8\u02b0.\nEnroutesur Banyuls \u00e0 9\u02b020 - Routeaucompass N.85-E\nR c Banyuls 1\u02b0\n\nMontagnede Pagny. D\u00e8f\u00e8res. La Tourdela Masama Termontaye\n                                                                             Masueles. Pierre\nCachernargymonatinimateri\nCatchernarig",
+      "entities": {
+        "dates": [
+          "21 juillet 1909",
+          "21 juillet 1909",
+          "10 fond 1220"
+        ]
+      }
+    },
+    {
+      "page_number": "038",
+      "raw_content": "Sortie on 6 Avril 1909  \nP\u00eache dans les grands fonds de cap Creuzp  \nD\u00e9part de Boissaguin \u00e0 1/2 matin (route S. 40 E)  \nR\u00e9t. = 4h 20 douanier fonds 900 m\u00e8tres.  \nRoute E 20\u00b0 - fond \u2193 w  \nCale' \u00e0 6\u00b0 Relive' 7h. en route pour Bayes  \n(Orst).  \nBonne p\u00eache  \n\u00e0 bord - M. Racorderce - Jeanne BuitoN.  ",
+      "cleaned_content": "Sortieon 6 Avril 1909  \nP\u00eachedanslesgrandsfondsdecap Creuzp  \nD\u00e9partde Boissaguin \u00e0 1/2 matin (route S. 40 E)  \nR\u00e9t. = 4h 20 douanierfonds 900 m\u00e8tres.  \nRoute E 20\u00b0 - fond \u2193 w  \nCale' \u00e0 6\u00b0 Relive' 7h. enroutepour Bayes  \n(Orst).  \nBonnep\u00eache  \n\u00e0 bord - M. Racorderce - Jeanne BuitoN.",
+      "entities": {
+        "dates": [
+          "6 Avril 1909"
+        ]
+      }
+    },
+    {
+      "page_number": "039",
+      "raw_content": "```plaintext\nN\u00b0\nSortie du 21 juillet 1909\n\nD\u00e9part de Rosas    \u00e0 heures du Matin\npour les grands fonds du cap leurs Arriv\u00e9e \u00e0 7 .\n\nD\u00e9part de          \u00e0 9.30 heures du matin\npour Banyuls       Arriv\u00e9e \u00e0 Banyuls \u00e0 1 .\n\nD\u00e9part de          \u00e0 heures du\npour\n\nArriv\u00e9e au mouillage \u00e0 Banyuls \u00e0 1.26 h. du Soir\n\nEtat du temps : Brouillard\n\nPassagers \u00e0 bord : Les m\u00eames\n\nObjet de la sortie : P\u00eache dans les grands fonds\n\nConsommation\n{\n62 briquettes de 10 kilos       Total en kilos 620\n4 litres d'huile                Total en litres 4\n\nD\u00e9penses\n\nObservations : Route pour rentrer S. 87. Ouest\nfond 1120 m\u00e8tres\nP\u00eache ordinaire\n```",
+      "cleaned_content": "```plaintext\nN\u00b0\nSortiedu 21 juillet 1909\n\nD\u00e9partde Rosas    \u00e0 heuresdu Matinpourlesgrandsfondsducapleurs Arriv\u00e9e \u00e0 7 .\n\nD\u00e9partde          \u00e0 9.30 heuresdumatinpour Banyuls       Arriv\u00e9e \u00e0 Banyuls \u00e0 1 .\n\nD\u00e9partde          \u00e0 heuresdupour\n\nArriv\u00e9eaumouillage \u00e0 Banyuls \u00e0 1.26 h. du Soir\n\nEtatdutemps : Brouillard\n\nPassagers \u00e0 bord : Lesm\u00eames\n\nObjetdelasortie : P\u00eachedanslesgrandsfonds\n\nConsommation\n{\n62 briquettesde 10 kilos       Totalenkilos 620\n4 litresd'huile                Totalenlitres 4\n\nD\u00e9penses\n\nObservations : Routepourrentrer S. 87. Ouestfond 1120 m\u00e8tres\nP\u00eacheordinaire\n```",
+      "entities": {
+        "dates": [
+          "21 juillet 1909"
+        ]
+      }
+    },
+    {
+      "page_number": "040",
+      "raw_content": "N\u00b0\n\nSortie du 31 Juillet 1909\n\nD\u00e9part de Bampok \u00e0 6\u00bd heures du matin\npour Chatelin Arriv\u00e9e \u00e0\n\nD\u00e9part de\npour\n\nD\u00e9part de\npour\n\nArriv\u00e9e au mouillage \u00e0 Bampok \u00e0 11 h du Matin\n\n\u00c9tat du temps: bonne brise du Nord\n\nPassagers \u00e0 bord: M<sup>e</sup> Buxton professeur\n\nObjet de la sortie: pour r\u00e9g\u00e9n\u00e9rer les aquariums\n\nConsommation{\n  26 briquettes de \u03c1<sup>kt</sup> poids en kilos 260.lift\n  2 huile                   Total en litres 2\n}\n\nD\u00e9penses\n\nObservations: Bonne p\u00eache.",
+      "cleaned_content": "N\u00b0\n\nSortiedu 31 Juillet 1909\n\nD\u00e9partde Bampok \u00e0 6\u00bd heuresdumatinpour Chatelin Arriv\u00e9e \u00e0\n\nD\u00e9partdepour\n\nD\u00e9partdepour\n\nArriv\u00e9eaumouillage \u00e0 Bampok \u00e0 11 hdu Matin\n\n\u00c9tatdutemps: bonnebrisedu Nord\n\nPassagers \u00e0 bord: M<sup>e</sup> Buxtonprofesseur\n\nObjetdelasortie: pourr\u00e9g\u00e9n\u00e9rerlesaquariums\n\nConsommation{\n  26 briquettesde \u03c1<sup>kt</sup> poidsenkilos 260.lift\n  2 huile                   Totalenlitres 2\n}\n\nD\u00e9penses\n\nObservations: Bonnep\u00eache.",
+      "entities": {
+        "dates": [
+          "31 Juillet 1909"
+        ]
+      }
+    },
+    {
+      "page_number": "041",
+      "raw_content": "N\u00b0\n\nSortie du 6 Ao\u00fbt 1909\n\nD\u00e9part de Bamp\u00e1b \u00e0 1 heure du matin pour le grand fonds. Arriv\u00e9e \u00e0 4 h 20.\n\nD\u00e9part de __ \u00e0 7 heures du matin pour Bamp\u00e1b. Arriv\u00e9e \u00e0 __.\n\nD\u00e9part de __ \u00e0 __ heures du __ pour __.\n\nArriv\u00e9e au mouillage \u00e0 Bamp\u00e1b \u00e0 11 h du matin.\n\n\u00c9tat du temps : beau\n\nPassagers \u00e0 bord : Mme Racoritza, Buxton, Jeannel\n\nObjet de la sortie : P\u00eache dans le grand fonds.\n\nConsommation\n{\n90 briquettes de 10K. Poids en kilos 900K\n4 huile Total en litres 4\n\nD\u00e9penses\nObservations : d\u00e9part \u00e0 1 h du matin, route au S. 40\u00b0 Est \u00e0 4 h 20 londer, fond 960 m\u00e8tres, route au S. 20\u00b0 Est, fond id. Cale \u00e0 6 h relev\u00e9 \u00e0 7 h en route pour Bamp\u00e1b \u00e0 l'Ouest.\n\nBonne p\u00eache.",
+      "cleaned_content": "N\u00b0\n\nSortiedu 6 Ao\u00fbt 1909\n\nD\u00e9partde Bamp\u00e1b \u00e0 1 heuredumatinpourlegrandfonds. Arriv\u00e9e \u00e0 4 h 20.\n\nD\u00e9partde __ \u00e0 7 heuresdumatinpour Bamp\u00e1b. Arriv\u00e9e \u00e0 __.\n\nD\u00e9partde __ \u00e0 __ heuresdu __ pour __.\n\nArriv\u00e9eaumouillage \u00e0 Bamp\u00e1b \u00e0 11 hdumatin.\n\n\u00c9tatdutemps : beau\n\nPassagers \u00e0 bord : Mme Racoritza, Buxton, Jeannel\n\nObjetdelasortie : P\u00eachedanslegrandfonds.\n\nConsommation\n{\n90 briquettesde 10K. Poidsenkilos 900K\n4 huile Totalenlitres 4\n\nD\u00e9penses\nObservations : d\u00e9part \u00e0 1 hdumatin, routeau S. 40\u00b0 Est \u00e0 4 h 20 londer, fond 960 m\u00e8tres, routeau S. 20\u00b0 Est, fondid. Cale \u00e0 6 hrelev\u00e9 \u00e0 7 henroutepour Bamp\u00e1b \u00e0 l'Ouest.\n\nBonnep\u00eache.",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "042",
+      "raw_content": "**N\u00b0**\n**Sortie du 12 ao\u00fbt 1909**\n\nD\u00e9part de **Bampub** \u00e0 **8h** heures du Matin.  \npour **Chalutier**  \n\nArriv\u00e9e \u00e0  \nD\u00e9part de  \n**Arriv\u00e9e \u00e0**  \narrivee au mouillage \u00e0 **Bampub** \u00e0 **1h30** du Soir.\n\n**Etat du temps :** Calme\n\n**Passagers \u00e0 bord :** M., M.\n\n**Objet de la sortie :** Coup de Chalut pour gamin le bacl.\n\n**Consommation**\n| 30 briquettes de **10<sup>\u00e8me</sup>** Roids en Kilos **300 K.** |\n| 2 huile |\n| Total en litres **2** |\n\n**D\u00e9penses**  \n\n**Observations :** Coup de Chalut ordinair Serait Collimons.  ",
+      "cleaned_content": "**N\u00b0**\n**Sortiedu 12 ao\u00fbt 1909**\n\nD\u00e9partde **Bampub** \u00e0 **8h** heuresdu Matin.  \npour **Chalutier**  \n\nArriv\u00e9e \u00e0  \nD\u00e9partde  \n**Arriv\u00e9e \u00e0**  \narriveeaumouillage \u00e0 **Bampub** \u00e0 **1h30** du Soir.\n\n**Etatdutemps :** Calme\n\n**Passagers \u00e0 bord :** M., M.\n\n**Objetdelasortie :** Coupde Chalutpourgaminlebacl.\n\n**Consommation**\n| 30 briquettesde **10<sup>\u00e8me</sup>** Roidsen Kilos **300 K.** |\n| 2 huile |\n| Totalenlitres **2** |\n\n**D\u00e9penses**  \n\n**Observations :** Coupde Chalutordinair Serait Collimons.",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "043",
+      "raw_content": "```plaintext\nN\u00b0\n\n**Sortie du 13 ao\u00fbt 1909**\n\nD\u00e9part de Bangu\u00e8 \u00e0 2\u02b0 heures du Matin pour les grands fonds. Arriv\u00e9e \u00e0 5\u02b040\n\nD\u00e9part de ______ \u00e0 ______ heures du ______\n\nD\u00e9part de ______ \u00e0 ______ heures du ______\n\nArriv\u00e9e au mouillage \u00e0 Bangu\u00e8 \u00e0 11\u02b030\u02b0 du Matin\n\nEtat du temps : Calme jusqu'\u00e0 ______\n\nPassagers \u00e0 bord : Mme Racovitza, Jeannel\n\nObjet de la sortie : PN po-liqu\u00e9e dans le grands fonds.\n\nConsommation {\n  68 briquettes de 6\u207f Rois en kilos 68.13\n  7 huile Total en litres 4\n\nD\u00c9PENSES\n\nObservations: Sond\u00e9 \u00e0 5\u02b040 fonds 10AS mil\u00e9s (Route de 2\u02b0 \u00e0 4\u02b030 - S 40 Est. de 4\u02b030 \u00e0 5\u02b040 route au S fo list.) Coli \u00e0 5\u02b059. Rel\u00e8ve \u00e0 7\u02b040 - en route pour Bangu\u00e8 \u00e0 7\u02b045\u02b0.\n```\n```",
+      "cleaned_content": "```plaintext\nN\u00b0\n\n**Sortiedu 13 ao\u00fbt 1909**\n\nD\u00e9partde Bangu\u00e8 \u00e0 2\u02b0 heuresdu Matinpourlesgrandsfonds. Arriv\u00e9e \u00e0 5\u02b040\n\nD\u00e9partde ______ \u00e0 ______ heuresdu ______\n\nD\u00e9partde ______ \u00e0 ______ heuresdu ______\n\nArriv\u00e9eaumouillage \u00e0 Bangu\u00e8 \u00e0 11\u02b030\u02b0 du Matin\n\nEtatdutemps : Calmejusqu'\u00e0 ______\n\nPassagers \u00e0 bord : Mme Racovitza, Jeannel\n\nObjetdelasortie : PN po-liqu\u00e9edanslegrandsfonds.\n\nConsommation {\n  68 briquettesde 6\u207f Roisenkilos 68.13\n  7 huile Totalenlitres 4\n\nD\u00c9PENSES\n\nObservations: Sond\u00e9 \u00e0 5\u02b040 fonds 10AS mil\u00e9s (Routede 2\u02b0 \u00e0 4\u02b030 - S 40 Est. de 4\u02b030 \u00e0 5\u02b040 routeau S folist.) Coli \u00e0 5\u02b059. Rel\u00e8ve \u00e0 7\u02b040 - enroutepour Bangu\u00e8 \u00e0 7\u02b045\u02b0.\n```\n```",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "044",
+      "raw_content": "Sortie du 13.14 aout. 1909  \n\n**D\u00e9part de Banjul**  \n\u00e0 9h30 heures du soir  \npour la p\u00eache au feu. Arriv\u00e9e \u00e0  \n\n D\u00e9part de  \n \u00e0 heures du  \n\n pour  \n\n D\u00e9part de  \n \u00e0 heures du  \n\n pour  \n\n Arriv\u00e9e au mouillage Banjul  \n\u00e0 3h du matin.  \n(tout c\u00e6p bonne)  \n\n\u00c9tat du temps : Bruis du Nord assez fra\u00eeche  \n\nPassagers \u00e0 bord : M<sup>me</sup>, M<sup>r</sup> Rectoriza, Jeannet  \n\nObjet de la sortie : Peche au feu (lumi\u00e8re \u00e9lectrique).  \n\nConsommation {{(voir ligne en bas de la page) }}  \nbriquettes de 60 kg  \nRoids en kilos 450 k  \n\nD\u00e9penses  \n\nObservations : Nous sommes sortis le soir \u00e0 9h30 pour faire la p\u00eache au feu.  \nLa brise du Nord tr\u00e8s fraiche nous oblige \u00e0 rentrer.  ",
+      "cleaned_content": "Sortiedu 13.14 aout. 1909  \n\n**D\u00e9partde Banjul**  \n\u00e0 9h30 heuresdusoirpourlap\u00eacheaufeu. Arriv\u00e9e \u00e0  \n\n D\u00e9partde  \n \u00e0 heuresdupour  \n\n D\u00e9partde  \n \u00e0 heuresdupour  \n\n Arriv\u00e9eaumouillage Banjul  \n\u00e0 3hdumatin.  \n(toutc\u00e6pbonne)  \n\n\u00c9tatdutemps : Bruisdu Nordassezfra\u00eeche  \n\nPassagers \u00e0 bord : M<sup>me</sup>, M<sup>r</sup> Rectoriza, Jeannet  \n\nObjetdelasortie : Pecheaufeu (lumi\u00e8re \u00e9lectrique).  \n\nConsommation {{(voirligneenbasdelapage) }}  \nbriquettesde 60 kg  \nRoidsenkilos 450 k  \n\nD\u00e9penses  \n\nObservations : Noussommessortislesoir \u00e0 9h30 pourfairelap\u00eacheaufeu.  \nLabrisedu Nordtr\u00e8sfraichenousoblige \u00e0 rentrer.",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "045",
+      "raw_content": "N\u00b0\n\nSortie du 15 ao\u00fbt 1909\n\nD\u00e9part de Bampuh \u00e0 2h 30 du matin pour les grands fonds. Arriv\u00e9e \u00e0 8h.\n\nD\u00e9part de \u00e0 heures du\n\nArriv\u00e9e \u00e0\n\nD\u00e9part de \u00e0 heures du\n\nArriv\u00e9e au mouillage \u00e0 Bampuh \u00e0 1h 10 du soir.\n\n\u00c9tat du temps: brume et houle du N.E.\n\nPassagers \u00e0 bord: Les m\u00eames.\n\nObjet de la sortie: Recherche sans les grands fonds.\n\nConsommation {\n    68 briquettes de 10 K Poids en kilos 680 K.\n    3 huile Total en litres 3\n}\n\nD\u00e9penses\n\nObservations: Bifurc. de Bampuh \u00e0 2h 30 route au S. 45 Est. Le courant du L\u00e9on trois fois nous joint dernier dans le Nord. premier tonnage \u00e0 7h 20. 2\u00e8me 15 8h 40 Route au S. 10 Est. du Compas. 3\u00e8me tonnage 1140 milles. Cali \u00e0 8h 30, relev\u00e9 \u00e0 9h, en route pour Bampuh \u00e0 9h 20. Route au S. Ouest.",
+      "cleaned_content": "N\u00b0\n\nSortiedu 15 ao\u00fbt 1909\n\nD\u00e9partde Bampuh \u00e0 2h 30 dumatinpourlesgrandsfonds. Arriv\u00e9e \u00e0 8h.\n\nD\u00e9partde \u00e0 heuresdu\n\nArriv\u00e9e \u00e0\n\nD\u00e9partde \u00e0 heuresdu\n\nArriv\u00e9eaumouillage \u00e0 Bampuh \u00e0 1h 10 dusoir.\n\n\u00c9tatdutemps: brumeethouledu N.E.\n\nPassagers \u00e0 bord: Lesm\u00eames.\n\nObjetdelasortie: Recherchesanslesgrandsfonds.\n\nConsommation {\n    68 briquettesde 10 K Poidsenkilos 680 K.\n    3 huile Totalenlitres 3\n}\n\nD\u00e9penses\n\nObservations: Bifurc. de Bampuh \u00e0 2h 30 routeau S. 45 Est. Lecourantdu L\u00e9ontroisfoisnousjointdernierdansle Nord. premiertonnage \u00e0 7h 20. 2\u00e8me 15 8h 40 Routeau S. 10 Est. du Compas. 3\u00e8metonnage 1140 milles. Cali \u00e0 8h 30, relev\u00e9 \u00e0 9h, enroutepour Bampuh \u00e0 9h 20. Routeau S. Ouest.",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "046",
+      "raw_content": "N\u00b0\n\nSortie du 16 Aout 1909\n\nD\u00e9part de Bampuls \u00e0 8<sup>e</sup> heures du Matin\n\nD\u00e9part de  \npour  \nD\u00e9part de  \npour  \n\nArriv\u00e9e \u00e0  \nArriv\u00e9e \u00e0  \n\nArriv\u00e9e au mouillage \u00e0 Banyuls \u00e0 11<sup>e</sup> h. du  \n\n\u00c9tat du temps: comme d'un rayon neuf\n\nPassagers \u00e0 bord:\n\nObjet de la sortie: pour placer les bou\u00e9es pour les r\u00e9gates\n\nConsommation\n\\begin{tabular}{l l}\nbriquettes de & Poids en kilos \\\\\nhuile & Total en litres\n\\end{tabular}\n\nD\u00e9penses\n\nObservations: Nous \u00e9tant sous le feu, nous en profitons pour placer les bou\u00e9es qui soient terres de Bat. pour la r\u00e9gate de Bampuls.",
+      "cleaned_content": "N\u00b0\n\nSortiedu 16 Aout 1909\n\nD\u00e9partde Bampuls \u00e0 8<sup>e</sup> heuresdu Matin\n\nD\u00e9partdepour  \nD\u00e9partdepour  \n\nArriv\u00e9e \u00e0  \nArriv\u00e9e \u00e0  \n\nArriv\u00e9eaumouillage \u00e0 Banyuls \u00e0 11<sup>e</sup> h. du  \n\n\u00c9tatdutemps: commed'unrayonneuf\n\nPassagers \u00e0 bord:\n\nObjetdelasortie: pourplacerlesbou\u00e9espourlesr\u00e9gates\n\nConsommation\n\\begin{tabular}{ll}\nbriquettesde & Poidsenkilos \\\\\nhuile & Totalenlitres\n\\end{tabular}\n\nD\u00e9penses\n\nObservations: Nous \u00e9tantsouslefeu, nousenprofitonspourplacerlesbou\u00e9esquisoientterresde Bat. pourlar\u00e9gatede Bampuls.",
+      "entities": {
+        "dates": [
+          "16 Aout 1909"
+        ]
+      }
+    },
+    {
+      "page_number": "047",
+      "raw_content": "Sortie du 18 ao\u00fbt 1909\n\nD\u00e9part de Bangor \u00e0 2\u02b0 heures du matin.\n\npour les grands fonds Arriv\u00e9e \u00e0\n\nD\u00e9part de  \u00e0 heures du\n\npour Arriv\u00e9e \u00e0\n\nD\u00e9part de  \u00e0 heures du\npour\n\nArriv\u00e9e au mouillage \u00e0 la Cala Mongio \u00e0 10\u02b0 du matin.\n\n\u00c9tat du temps: au d\u00e9part, Calme \u00e0 fra\u00ee vent du Sud frais.\n\nPassagers \u00e0 bord: m\u1d50\u1d49 Racoritz\u00e1, Jeannul, C\u0153ur.\n\nObjet de la sortie: P\u00eache p\u00e9lagique dans le grands fonds.\n\nConsommation: {44 briquettes de 60 Roids en Kilos 440\n             9 huile                   Total en litres  9\n\nD\u00e9penses\n\nObservations: Stop. \u00e0 8\u02b0 30' pour faire un po\u00eale au feu, entre le cap Creux et le cap l'Abeille.\nEn route \u00e0 4\u02b0 20' la brise du Sud fra\u00eechit.\nLa houbu et le vent du Sud nous obligent \u00e0 rel\u00e2cher \u00e0 la Cala Mongio.",
+      "cleaned_content": "Sortiedu 18 ao\u00fbt 1909\n\nD\u00e9partde Bangor \u00e0 2\u02b0 heuresdumatin.\n\npourlesgrandsfonds Arriv\u00e9e \u00e0\n\nD\u00e9partde  \u00e0 heuresdupour Arriv\u00e9e \u00e0\n\nD\u00e9partde  \u00e0 heuresdupour\n\nArriv\u00e9eaumouillage \u00e0 la Cala Mongio \u00e0 10\u02b0 dumatin.\n\n\u00c9tatdutemps: aud\u00e9part, Calme \u00e0 fra\u00ee ventdu Sudfrais.\n\nPassagers \u00e0 bord: m\u1d50\u1d49 Racoritz\u00e1, Jeannul, C\u0153ur.\n\nObjetdelasortie: P\u00eachep\u00e9lagiquedanslegrandsfonds.\n\nConsommation: {44 briquettesde 60 Roidsen Kilos 440\n             9 huile                   Totalenlitres  9\n\nD\u00e9penses\n\nObservations: Stop. \u00e0 8\u02b0 30' pourfaireunpo\u00ealeaufeu, entrelecap Creuxetlecapl'Abeille.\nEnroute \u00e0 4\u02b0 20' labrisedu Sudfra\u00eechit.\nLahoubuetleventdu Sudnousobligent \u00e0 rel\u00e2cher \u00e0 la Cala Mongio.",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "048",
+      "raw_content": "N\u00b0 Sortie du 19 ao\u00fbt 1909\n\nD\u00e9part de la Cala Mongo \u00e0 7h 29' heures du Matin. pour l'Estarit\nArriv\u00e9e \u00e0\nD\u00e9part de\n\u00e0 heures du\nArriv\u00e9e \u00e0\nD\u00e9part de\n\u00e0 heures du\nArriv\u00e9e au mouillage \u00e0 l'Estarit \u00e0 8h.20' h. du matin.\n\n\u00c9tat du temps: Forte houle du N.E.\n\nPassagers \u00e0 bord : M\u1d50\u1d49 Racoritza, Jeannel, Peur.\n\nObjet de la sortie:\n\nConsommation\n}\n12 briquettes de 10 K. Poids en Kilos 12.0 K.\n2 huile Total en litres 2\n\nD\u00e9penses\n\nObservations : Le vent de N.E. frais et la houle, nous obligent \u00e0 rentrer \u00e0\nl'abri de l'Estarit.",
+      "cleaned_content": "N\u00b0 Sortiedu 19 ao\u00fbt 1909\n\nD\u00e9partdela Cala Mongo \u00e0 7h 29' heuresdu Matin. pourl'Estarit\nArriv\u00e9e \u00e0\nD\u00e9partde\n\u00e0 heuresdu\nArriv\u00e9e \u00e0\nD\u00e9partde\n\u00e0 heuresdu\nArriv\u00e9eaumouillage \u00e0 l'Estarit \u00e0 8h.20' h. dumatin.\n\n\u00c9tatdutemps: Fortehouledu N.E.\n\nPassagers \u00e0 bord : M\u1d50\u1d49 Racoritza, Jeannel, Peur.\n\nObjetdelasortie:\n\nConsommation\n}\n12 briquettesde 10 K. Poidsen Kilos 12.0 K.\n2 huile Totalenlitres 2\n\nD\u00e9penses\n\nObservations : Leventde N.E. fraisetlahoule, nousobligent \u00e0 rentrer \u00e0\nl'abridel'Estarit.",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "049",
+      "raw_content": "Sortie du 20 Ao\u00fbt 1909\n\nD\u00e9part de l'Estartit \u00e0 3<sup>e</sup> heures du Matin pour Banyuls. Arriv\u00e9e \u00e0\n\nD\u00e9part de\n\nArriv\u00e9e \u00e0\n\nD\u00e9part de\n\nArriv\u00e9e \u00e0\n\nArriv\u00e9e au mouillage \u00e0 Banyuls \u00e0 11<sup>e</sup> h. du matin.\n\n\u00c9tat du temps:\n\nPassagers \u00e0 bord: Les m\u00eames\n\nObjet de la sortie: Peche sans les grands fonds\n\nConsommation{\n    51 briquettes de 10<sup>K</sup> Poids en Kilos 510<sup>K</sup>\n    40 feuile _______ _______ _______\n\nD\u00e9penses\n\nObservations:",
+      "cleaned_content": "Sortiedu 20 Ao\u00fbt 1909\n\nD\u00e9partdel'Estartit \u00e0 3<sup>e</sup> heuresdu Matinpour Banyuls. Arriv\u00e9e \u00e0\n\nD\u00e9partde\n\nArriv\u00e9e \u00e0\n\nD\u00e9partde\n\nArriv\u00e9e \u00e0\n\nArriv\u00e9eaumouillage \u00e0 Banyuls \u00e0 11<sup>e</sup> h. dumatin.\n\n\u00c9tatdutemps:\n\nPassagers \u00e0 bord: Lesm\u00eames\n\nObjetdelasortie: Pechesanslesgrandsfonds\n\nConsommation{\n    51 briquettesde 10<sup>K</sup> Poidsen Kilos 510<sup>K</sup>\n    40 feuile _______ _______ _______\n\nD\u00e9penses\n\nObservations:",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "050",
+      "raw_content": "N\u00b0 33  \nSortie du 1er Septembre 1909  \n\nD\u00e9part de Bamfils \u00e0 6<sup>e</sup> heures du Matin  \nArriv\u00e9e \u00e0  \n\nD\u00e9part de  \nArriv\u00e9e \u00e0  \n\nD\u00e9part de  \nArriv\u00e9e \u00e0  \n\nArriv\u00e9e au mouillage \u00e0 Bamps \u00e0 11<sup>e</sup> h du Matin  \n\nEtat du temps : Beau  \n\nPassagers \u00e0 bord.  \n\nObjet de la sortie : p\u00eacher pour le travailleurs.  \n\nConsommation  \n{  \n27 briquettes de 10 K  \n2 buile  \n}  \nPoids en kilos 270 K  \nTotal en litres 2  \n\nD\u00e9penses  \n\nObservations :  ",
+      "cleaned_content": "N\u00b0 33  \nSortiedu 1er Septembre 1909  \n\nD\u00e9partde Bamfils \u00e0 6<sup>e</sup> heuresdu Matin  \nArriv\u00e9e \u00e0  \n\nD\u00e9partde  \nArriv\u00e9e \u00e0  \n\nD\u00e9partde  \nArriv\u00e9e \u00e0  \n\nArriv\u00e9eaumouillage \u00e0 Bamps \u00e0 11<sup>e</sup> hdu Matin  \n\nEtatdutemps : Beau  \n\nPassagers \u00e0 bord.  \n\nObjetdelasortie : p\u00eacherpourletravailleurs.  \n\nConsommation  \n{  \n27 briquettesde 10 K  \n2 buile  \n}  \nPoidsenkilos 270 K  \nTotalenlitres 2  \n\nD\u00e9penses  \n\nObservations :",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "051",
+      "raw_content": "No\nSortie du 4 Septembre 1909\nD\u00e9part de Banyuls \u00e0 9 heures du Matin\npour la p\u00eache au chalut. Arriv\u00e9e \u00e0\n\nD\u00e9part de  \u00e0  heures du\n\npour Arriv\u00e9e \u00e0\n\nD\u00e9part de  \u00e0  heures du pour\n\nArriv\u00e9e au mouillage \u00e0 Banyuls \u00e0 11 h. du Matin.\n\nEtat du temps: Forte brise du Nord.\n\nPassagers \u00e0 bord : M. M. RUROT, KOLLMANN, BERLAUD, M. COUTIN,\nM. M. LACAMAGNE, RODET, BOHAN\n\nObjet de la sortie : p\u00eache pour 6 travailleurs\ndevant Collioure.\n\nConsommation { 29 briquettes de 10     Roids en kilos    290\n                                   &                  &\n\n                                  2 huile         Total en litres     2\n\nD\u00e9penses\n\nObservations : Bonne p\u00eache.",
+      "cleaned_content": "No\nSortiedu 4 Septembre 1909\nD\u00e9partde Banyuls \u00e0 9 heuresdu Matinpourlap\u00eacheauchalut. Arriv\u00e9e \u00e0\n\nD\u00e9partde  \u00e0  heuresdupour Arriv\u00e9e \u00e0\n\nD\u00e9partde  \u00e0  heuresdupour\n\nArriv\u00e9eaumouillage \u00e0 Banyuls \u00e0 11 h. du Matin.\n\nEtatdutemps: Fortebrisedu Nord.\n\nPassagers \u00e0 bord : M. M. RUROT, KOLLMANN, BERLAUD, M. COUTIN,\nM. M. LACAMAGNE, RODET, BOHAN\n\nObjetdelasortie : p\u00eachepour 6 travailleursdevant Collioure.\n\nConsommation { 29 briquettesde 10     Roidsenkilos    290\n                                   &                  &\n\n                                  2 huile         Totalenlitres     2\n\nD\u00e9penses\n\nObservations : Bonnep\u00eache.",
+      "entities": {
+        "dates": [
+          "4 Septembre 1909"
+        ]
+      }
+    },
+    {
+      "page_number": "052",
+      "raw_content": "N\u00b0\n\nSortie du 7 Septembre 1909\n\nD\u00e9part de Bampuls \u00e0 6 heures du Matin.\npour Obaluter : Arriv\u00e9e \u00e0 \u2014\u2014\nD\u00e9part de \u2014\u2014 \u00e0 \u2014\u2014 heures du \u2014\u2014 pour \u2014\u2014\nArriv\u00e9e \u00e0 \u2014\u2014\nD\u00e9part de \u2014\u2014 \u00e0 \u2014\u2014 heures du \u2014\u2014 pour \u2014\u2014\nArriv\u00e9e au mouillage \u00e0 Bampuls \u00e0 11:45 h. du \u2014\u2014\n\nEtat du temps : Ciel couvert, mer Calme.\n\nPassagers \u00e0 bord : M<sup>me</sup> Purol, Solmann, Faurol, Berland, M<sup>lle</sup> Courtois.\n\nObjet de la sortie : Piche pour la travaillante.\n\nConsummation :\n{ 40 briquettes de 10<sup>o</sup> Poids en kilos 400<sup>K.</sup>\n{ 9 huile Total en litres 9\n\nD\u00e9penses : \u2014\u2014\n\nObservations : 1<sup>er</sup> Coup de chalut aupr\u00e8s Collioure\n                     2<sup>e</sup> au Port Vendres au cap Bear.",
+      "cleaned_content": "N\u00b0\n\nSortiedu 7 Septembre 1909\n\nD\u00e9partde Bampuls \u00e0 6 heuresdu Matin.\npour Obaluter : Arriv\u00e9e \u00e0 \u2014\u2014\nD\u00e9partde \u2014\u2014 \u00e0 \u2014\u2014 heuresdu \u2014\u2014 pour \u2014\u2014\nArriv\u00e9e \u00e0 \u2014\u2014\nD\u00e9partde \u2014\u2014 \u00e0 \u2014\u2014 heuresdu \u2014\u2014 pour \u2014\u2014\nArriv\u00e9eaumouillage \u00e0 Bampuls \u00e0 11:45 h. du \u2014\u2014\n\nEtatdutemps : Cielcouvert, mer Calme.\n\nPassagers \u00e0 bord : M<sup>me</sup> Purol, Solmann, Faurol, Berland, M<sup>lle</sup> Courtois.\n\nObjetdelasortie : Pichepourlatravaillante.\n\nConsummation :\n{ 40 briquettesde 10<sup>o</sup> Poidsenkilos 400<sup>K.</sup>\n{ 9 huile Totalenlitres 9\n\nD\u00e9penses : \u2014\u2014\n\nObservations : 1<sup>er</sup> Coupdechalutaupr\u00e8s Collioure\n                     2<sup>e</sup> au Port Vendresaucap Bear.",
+      "entities": {
+        "dates": [
+          "7 Septembre 1909"
+        ]
+      }
+    },
+    {
+      "page_number": "053",
+      "raw_content": "Sortie du 15 Septembre 1909  \n\nD\u00e9part de Banyuls \u00e0 7 heures du matin  \npour Chalutier  \nArriv\u00e9e \u00e0  \nD\u00e9part de  \n\u00e0 heures du  \npour  \nArriv\u00e9e \u00e0  \nD\u00e9part de  \n\u00e0 heures du  \npour  \nArriv\u00e9e au mouillage \u00e0 Banyuls \u00e0 Minuit du matin  \n\nEtat du temps : Beau, petite brise du Nord  \n\nPassagers \u00e0 bord : M\u1d50\u1d49 Prudot, Taron, Vals, Delbos  \n\nObjet de la sortie : P\u00eache pour les travailleurs  \n\nConsommation  \n{ 3/9 briquettes de 10 k. Poids en Kilos 3/0 k.  \n  3/9 huile          Total en litres 9  \n\nD\u00e9penses  \n\nObservations : Sorti pour p\u00eacher des srespondoles pour M\u1d50\u1d49 Vals.  ",
+      "cleaned_content": "Sortiedu 15 Septembre 1909  \n\nD\u00e9partde Banyuls \u00e0 7 heuresdumatinpour Chalutier  \nArriv\u00e9e \u00e0  \nD\u00e9partde  \n\u00e0 heuresdupour  \nArriv\u00e9e \u00e0  \nD\u00e9partde  \n\u00e0 heuresdupour  \nArriv\u00e9eaumouillage \u00e0 Banyuls \u00e0 Minuitdumatin  \n\nEtatdutemps : Beau, petitebrisedu Nord  \n\nPassagers \u00e0 bord : M\u1d50\u1d49 Prudot, Taron, Vals, Delbos  \n\nObjetdelasortie : P\u00eachepourlestravailleurs  \n\nConsommation  \n{ 3/9 briquettesde 10 k. Poidsen Kilos 3/0 k.  \n  3/9 huile          Totalenlitres 9  \n\nD\u00e9penses  \n\nObservations : Sortipourp\u00eacherdessrespondolespour M\u1d50\u1d49 Vals.",
+      "entities": {
+        "dates": [
+          "15 Septembre 1909"
+        ]
+      }
+    },
+    {
+      "page_number": "054",
+      "raw_content": "Sortie du 30 Septembre 1909\n\nD\u00e9part de Banyuls \u00e0 6h30 heures du matin pour draguer  \nArriv\u00e9e \u00e0  \nD\u00e9part de  \nArriv\u00e9e \u00e0  \nD\u00e9part de  \nArriv\u00e9e \u00e0  \nArriv\u00e9e au mouillage \u00e0 Banyuls \u00e0 11h10 du matin  \n\n\u00c9tat du temps : beau  \n\nPassagers \u00e0 bord :  \n\nObjet de la sortie : p\u00eacher pour les travailleurs  \n\nConsommation :  \n- 3/9 briquettes de 10 k. Roids en kilos  \n- 2/9 huile  \nTotal en litres : 3/0\n\nD\u00e9penses :  \n\nObservations : P\u00eache pour le travailleurs du Laboratoire",
+      "cleaned_content": "Sortiedu 30 Septembre 1909\n\nD\u00e9partde Banyuls \u00e0 6h30 heuresdumatinpourdraguer  \nArriv\u00e9e \u00e0  \nD\u00e9partde  \nArriv\u00e9e \u00e0  \nD\u00e9partde  \nArriv\u00e9e \u00e0  \nArriv\u00e9eaumouillage \u00e0 Banyuls \u00e0 11h10 dumatin  \n\n\u00c9tatdutemps : beau  \n\nPassagers \u00e0 bord :  \n\nObjetdelasortie : p\u00eacherpourlestravailleurs  \n\nConsommation :  \n- 3/9 briquettesde 10 k. Roidsenkilos  \n- 2/9 huile  \nTotalenlitres : 3/0\n\nD\u00e9penses :  \n\nObservations : P\u00eachepourletravailleursdu Laboratoire",
+      "entities": {
+        "dates": [
+          "30 Septembre 1909"
+        ]
+      }
+    },
+    {
+      "page_number": "055",
+      "raw_content": "```\nN\u00b0\nSortie du 3 Octobre 1909\n\nD\u00e9part de Bamp\u00fal \u00e0 6h30 heures du matin\npour Castels\nArriv\u00e9e \u00e0\n\nD\u00e9part de\npour\nArriv\u00e9e \u00e0\n\nD\u00e9part de\npour\nArriv\u00e9e \u00e0\n\nArriv\u00e9e au mouillage \u00e0 Bamp\u00fal \u00e0 10h du matin\n\nEtat du temps: Vent du Nord moyen\n\nPassagers \u00e0 bord:\n\nObjet de la sortie: p\u00eacher pour garnir les aquariums\n\nConsommation\u2019su\u2019\u00e9f\n2\u00bd briquettes de 10 K. Poids en kilos 2/0 K.\n1/2 huile                          Total en litres 2\n\nD\u00e9penses:\n\nObservations:\n```",
+      "cleaned_content": "```\nN\u00b0\nSortiedu 3 Octobre 1909\n\nD\u00e9partde Bamp\u00fal \u00e0 6h30 heuresdumatinpour Castels\nArriv\u00e9e \u00e0\n\nD\u00e9partdepour\nArriv\u00e9e \u00e0\n\nD\u00e9partdepour\nArriv\u00e9e \u00e0\n\nArriv\u00e9eaumouillage \u00e0 Bamp\u00fal \u00e0 10hdumatin\n\nEtatdutemps: Ventdu Nordmoyen\n\nPassagers \u00e0 bord:\n\nObjetdelasortie: p\u00eacherpourgarnirlesaquariums\n\nConsommation\u2019su\u2019\u00e9f\n2\u00bd briquettesde 10 K. Poidsenkilos 2/0 K.\n1/2 huile                          Totalenlitres 2\n\nD\u00e9penses:\n\nObservations:\n```",
+      "entities": {
+        "dates": [
+          "3 Octobre 1909"
+        ]
+      }
+    },
+    {
+      "page_number": "056",
+      "raw_content": "N\u00b0\n\nSortie du 18 Octobre 1909\n\nD\u00e9part de Bampouk \u00e0 7\u2074 heures du matin\npour Oblutere Arriv\u00e9e \u00e0\nD\u00e9part de     \u00e0  heures du\npour        Arriv\u00e9e \u00e0\nD\u00e9part de     \u00e0  heures du\npour\nArriv\u00e9e au mouillage \u00e0 Bampouk \u00e0 12\u2074 h. du\n\nEtat du temps : Vent du Sud frais.\n\nPassagers \u00e0 bord :\n\nObjet de la sortie : Oblutere et draguer pour le\nServier du Laboratoire.\n\nConsommation {\n28 briquettes de 10 kg. Roids en kilos 280 kg.\n2 huile Total en litres 2\n\nD\u00e9penses\n\nObservations :",
+      "cleaned_content": "N\u00b0\n\nSortiedu 18 Octobre 1909\n\nD\u00e9partde Bampouk \u00e0 7\u2074 heuresdumatinpour Oblutere Arriv\u00e9e \u00e0\nD\u00e9partde     \u00e0  heuresdupour        Arriv\u00e9e \u00e0\nD\u00e9partde     \u00e0  heuresdupour\nArriv\u00e9eaumouillage \u00e0 Bampouk \u00e0 12\u2074 h. du\n\nEtatdutemps : Ventdu Sudfrais.\n\nPassagers \u00e0 bord :\n\nObjetdelasortie : Oblutereetdraguerpourle\nServierdu Laboratoire.\n\nConsommation {\n28 briquettesde 10 kg. Roidsenkilos 280 kg.\n2 huile Totalenlitres 2\n\nD\u00e9penses\n\nObservations :",
+      "entities": {
+        "dates": [
+          "18 Octobre 1909"
+        ]
+      }
+    },
+    {
+      "page_number": "057",
+      "raw_content": "```\nN\u00b0\nSortie du 29 Octobre 1909\nD\u00e9part de Banyuls \u00e0 8\u00bd heures du \npour Port Vendres Arriv\u00e9e \u00e0 9\u00bd 10'\nD\u00e9part de ______ \u00e0 ______ heures du  \npour\nD\u00e9part de ______ \u00e0 ______ heures du  \npour\nArriv\u00e9e au mouillage \u00e0 Banyuls \u00e0 3\u00bd h. du soir.\n\n\u00c9tat du temps : beau  \nPassagers \u00e0 bord :\n\nObjet de la sortie : remorquer le Chaland des \nPonts et chauss\u00e9es qu'on nous avait pr\u00eat\u00e9.\n\nConsommation  \n{\n  3/4 briquettes de 10\u00bd Roiis en kilos 3\u00bd \u00bd\n  2 huile                                      Total en litres 2\n\nD\u00e9penses\n\nObservations :\n```",
+      "cleaned_content": "```\nN\u00b0\nSortiedu 29 Octobre 1909\nD\u00e9partde Banyuls \u00e0 8\u00bd heuresdupour Port Vendres Arriv\u00e9e \u00e0 9\u00bd 10'\nD\u00e9partde ______ \u00e0 ______ heuresdupour\nD\u00e9partde ______ \u00e0 ______ heuresdupour\nArriv\u00e9eaumouillage \u00e0 Banyuls \u00e0 3\u00bd h. dusoir.\n\n\u00c9tatdutemps : beau  \nPassagers \u00e0 bord :\n\nObjetdelasortie : remorquerle Chalanddes \nPontsetchauss\u00e9esqu'onnousavaitpr\u00eat\u00e9.\n\nConsommation  \n{\n  3/4 briquettesde 10\u00bd Roiisenkilos 3\u00bd \u00bd\n  2 huile                                      Totalenlitres 2\n\nD\u00e9penses\n\nObservations :\n```",
+      "entities": {
+        "dates": [
+          "29 Octobre 1909"
+        ]
+      }
+    },
+    {
+      "page_number": "058",
+      "raw_content": "Le document est vierge ou ne contient pas de texte.",
+      "cleaned_content": "Ledocumentestviergeounecontientpasdetexte.",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "059",
+      "raw_content": "Le document est vide.",
+      "cleaned_content": "Ledocumentestvide.",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "060",
+      "raw_content": "[Le contenu du texte doit \u00eatre recopi\u00e9 fid\u00e8lement ici. Si aucune information textuelle n'est visible dans l'image, la r\u00e9ponse sera : \"\"]",
+      "cleaned_content": "[Lecontenudutextedoit \u00eatrerecopi\u00e9 fid\u00e8lementici. Siaucuneinformationtextuellen'estvisibledansl'image, lar\u00e9ponsesera : \"\"]",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "061",
+      "raw_content": "\"\"\"\"",
+      "cleaned_content": "\"\"\"\"",
+      "entities": {
+        "dates": []
+      }
+    }
+  ],
+  "metadata": {
+    "years": [
+      "1909"
+    ],
+    "book_name": "05_OOB_07_log"
+  }
+}

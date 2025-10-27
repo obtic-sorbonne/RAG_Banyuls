@@ -1,0 +1,49 @@
+| OBSERVATIONS DU **1901 16 JUIN** |
+| --- |
+| Nombre de bateaux sortis (pêche à l…) |  |
+| Température de l'air | maxima depuis la veille… | 31.1 |
+|  | minima id. | 14.3 |
+| Température de l'eau | maxima depuis la veille… |  |
+|  | minima id. |  |
+| Pluie tombée depuis la veille, en millim… |  |
+| Évaporation depuis le 1900, en millim… |  |
+| **Direction du vent (à terre)** | **à 9 h. m.** | **à 3 h. s.** |
+| Force | S.-S.E. | S.S.E. |
+|  | 1/est | 2 |
+| Direction des nuages | S.O. | S.O. |
+| Nébulosité | région Ouest (terre) | 10 | 10 |
+|  | id. Est (mer) | 10 | 10 |
+| Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.) | 39.2 | 48.9 |
+| Agitation de l'eau | 1 | 1/fort. |
+| Densité de l'eau au bout de la jetée | 1026.2 | 1026.2 |
+| Température | id. | 19.0 | 18.9 |
+|  | Balan | Maxima | 21.3 | 29.0 |
+|  | id. Terrasse | Minima | 13.9 | 30.0 |
+|  | id. | Maxima |  | 22.3 |
+|  | id. | Minima |  |  |
+
+---
+
+| OBSERVATIONS DU **1901 17 JUIN** |
+| --- |
+| Nombre de bateaux sortis (pêche à l…) |  |
+| Température de l'air | maxima depuis la veille… |  |
+|  | minima id. |  |
+| Température de l'eau | maxima depuis la veille… |  |
+|  | minima id. |  |
+| Pluie tombée depuis la veille, en millim… |  |
+| Évaporation depuis le 1900, en millim… |  |
+| **Direction du vent (à terre)** | **à 9 h. m.** | **à 3 h. s.** |
+| Force | N.E. | S.S.E. |
+|  | 1 | 3/fort. |
+| Direction des nuages | S.O. | S.O. |
+| Nébulosité | région Ouest (terre) | 0 | 0 |
+|  | id. Est (mer) | 1 | 2 |
+| Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.) | 35.8 | 40.8 |
+| Agitation de l'eau | 1 | 2 |
+| Densité de l'eau au bout de la jetée | 1026.9 | 1026.9 |
+| Température | id. | 18.9 | 18.9 |
+|  | Balan | Maxima | 24.7 | 29.1 |
+|  | id. Terrasse | Minima | 10.1 | 43.7 |
+|  | id. | Maxima |  | 29.8 |
+|  | id. | Minima |  |  |

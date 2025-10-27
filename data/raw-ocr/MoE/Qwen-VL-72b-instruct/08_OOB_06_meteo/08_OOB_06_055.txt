@@ -1,0 +1,41 @@
+OBSERVATIONS DU 1960 22 Août
+
+| | à 9 h. m. | à 3 h. s. |
+|---|---|---|
+| Nombre de bateaux sortis (pêche à l | | |
+| Température de l'air | maxima depuis la veille. | 31.2 | |
+| | minima id. | 17.1 | |
+| Température de l'eau | maxima depuis la veille. | | |
+| | minima id. | | |
+| Pluie tombée depuis la veille, en millim. | | 0 | |
+| Evaporation depuis le 190, en millim. | | | |
+| Direction du vent (à terre). | N.N.O | N.N.O |
+| Force | | 4 | 4 |
+| Direction des nuages | N.N.O | N.N.O |
+| Nébulosité | région Ouest (terre) | 0 | 0 |
+| | id. Est (mer) | 2 | 3 |
+| Hauteur de la mer, en centimètres, au-dessus du zéro. | | 62.8 | |
+| Agitation de l'eau | | 2 | 2 fort |
+| Densité de l'eau au bout de la jetée | | 1026.1 | |
+| Température id. | | 21.3 | 21.3 |
+
+OBSERVATIONS DU 1960 23 Août
+
+| | à 9 h. m. | à 3 h. s. |
+|---|---|---|
+| Nombre de bateaux sortis (pêche à l | | |
+| Température de l'air | maxima depuis la veille. | 22.7 | |
+| | minima id. | 17.2 | |
+| Température de l'eau | maxima depuis la veille. | | |
+| | minima id. | | |
+| Pluie tombée depuis la veille, en millim. | | 0 | |
+| Evaporation depuis le 190, en millim. | | | |
+| Direction du vent (à terre). | N.N.O | N.N.O |
+| Force | | 4 | 3 |
+| Direction des nuages | N.N.O | N.N.O |
+| Nébulosité | région Ouest (terre) | 10 | 10 |
+| | id. Est (mer) | 10 | 10 |
+| Hauteur de la mer, en centimètres, au-dessus du zéro. | | 60.0 | |
+| Agitation de l'eau | | 1 fort | 1 fort |
+| Densité de l'eau au bout de la jetée | | 1028.2 | 1031.0 |
+| Température id. | | 19.7 | 20.3 |

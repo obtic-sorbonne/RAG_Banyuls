@@ -1,0 +1,31 @@
+```plaintext
+| Date        | Matin        | Soir        |
+|-------------|--------------|-------------|
+| **25 Octobre 1903** |               |             |
+| Hauteur Barométrique | 769.0 |mmHg     | -           |
+| Direction du vent | cr. cr. o    | -           |
+| Force               | 2             | -           |
+| Nébulosité (Reg. O. (terre)) | 10         | -           |
+| Nébulosité (Reg. E. (mer)) | 10         | -           |
+| Direction des nuages | croissant   | -           |
+| Pluie Tombée       | -            | 9.82 |mm    |
+| Température de l'air | 9.6 |°C      | -           |
+| Hauteur de la mer   | 31.8 |m       | -           |
+| Agitation de l'eau  | 2             | -           |
+| Densité au bout de la jetée | 1027.2 |kg/m³ | -   |
+| Température de l'eau | 12.2 |°C      | -           |
+
+| **26 Octobre 1903** |               |             |
+| Hauteur Barométrique | 759.0 |mmHg     | -           |
+| Direction du vent | cr. cr. o    | -           |
+| Force               | 3             | 1 Fort      |
+| Nébulosité (Reg. O. (terre)) | 10         | -           |
+| Nébulosité (Reg. E. (mer)) | 10         | -           |
+| Direction des nuages | -            | aucun       |
+| Pluie Tombée       | -            | -           |
+| Température de l'air | 5.9 |°C      | -           |
+| Hauteur de la mer   | 35.6 |m       | -           |
+| Agitation de l'eau  | Fort         | -           |
+| Densité au bout de la jetée | 1026.8 |kg/m³ | -   |
+| Température de l'eau | 11.7 |°C      | -           |
+```

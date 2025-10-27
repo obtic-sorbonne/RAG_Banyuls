@@ -1,0 +1,4 @@
+| Date | Heure | Hauteur Barométrique (mmHg) | Direction du Vent | Force | Nébulosité (%) | Réf. O. Clarté | Température de l'air (°C) | Hauteur de la mer (m) | Agitation de l'eau | Vitesse au bout de la jetée (nœuds) | Température de l'eau (°C) |
+|------|-------|---------------------------|--------------------|--------|---------------|-----------------|-------------------------|-------------------|------------------|-------------------------------|--------------------------|
+| 25 Novembre 1905 | Soir | 762.8 | Nord | i5 | 1 | Reg. O. (Cl.) | 10.4 | 39.2 | 3 | 1028.7 | 16.0 |
+| 27 Novembre 1905 | Soir | 763.9 | cr.o | i5 | 10 | Reg. O. (Cl.) | 1/3 | - | 2 | 1028.0 | 11.6 |

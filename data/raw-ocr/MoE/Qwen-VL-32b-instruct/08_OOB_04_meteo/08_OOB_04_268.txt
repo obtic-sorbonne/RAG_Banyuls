@@ -1,0 +1,33 @@
+# V. 27 Croist. 1903
+
+|  Niveau | Description  |
+| --- | --- |
+|  Hauteur marométrique | 220.7  |
+|  Direction du vent | 0004  |
+|  Force | 1  |
+|  Nocoutoir | 0  |
+|  (Reg. O. (1000) | 0  |
+|  Direction des nuage | "  |
+|  Nuit tombe | "  |
+|  Température de l'air | 28.5  |
+|  Hauteur de la mer | 13.1  |
+|  Écarture de l'eau | 1  |
+|  Densité au bout de la jeté | 1029.0  |
+|  Température de l'eau | 20.4  |
+
+# V. 28 Croist. 1903
+
+|  Niveau | Description  |
+| --- | --- |
+|  Hauteur marométrique | 269.6  |
+|  Direction du vent | 269.6  |
+|  Force | 1  |
+|  Nocoutoir | 0  |
+|  (Reg. O. (1000) | 0  |
+|  Direction des nuage | "  |
+|  Nuit tombe | "  |
+|  Température de l'air | 23.1  |
+|  Hauteur de la mer | 13.6  |
+|  Écarture de l'eau | 0  |
+|  Densité au bout de la jeté | 1029.0  |
+|  Température de l'eau | 21.2  |

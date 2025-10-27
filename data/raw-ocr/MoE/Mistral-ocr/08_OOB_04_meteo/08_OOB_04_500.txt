@@ -1,0 +1,27 @@
+|  9. 20 mai - 1905 | Mbatin | Jair  |
+| --- | --- | --- |
+|  Hauteur Paronctique | 260.8 | 2/9.6  |
+|  Direction du vent | 2.8 | 2.2.8  |
+|  Force | 1 | 2  |
+|  Nebulante | 10 | 10  |
+|  (Reg. x. (min)) | 10 | 10  |
+|  Direction des nuages | 4.0 | 2.0  |
+|  Flux tombé | goupure. 3 | "  |
+|  Température de l'air | 18.3 | 31.6  |
+|  Hauteur de la mer | 46.3 | 19.4  |
+|  Oligotation de l'eau | 15.6 | 1.6.2.6  |
+|  Sonnite au bout de la jetée | 1028.2 | 1022.6  |
+|  Température de l'eau | 12.2 | 20.1  |
+|  9. 22 mai - 1905 | Mbatin | Jair  |
+|  Hauteur Paronctique | 2/4.4 | 2/3.4  |
+|  Direction du vent | 0.8 | 8.2.8  |
+|  Force | 1 | 1  |
+|  Nebulante | 10 | 10  |
+|  (Reg. x. (min)) | 10 | 10  |
+|  Direction des nuages | 1.8 | 1.8  |
+|  Flux tombé | goupure. 3 | "  |
+|  Température de l'air | 19.4 | 38.0  |
+|  Hauteur de la mer | 38.3 | 49.3  |
+|  Oligotation de l'eau | 1.6 | 1.6.2.6  |
+|  Sonnite au bout de la jetée | 1028.2 | 1022.6  |
+|  Température de l'eau | 16.4 | 18.8  |

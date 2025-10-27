@@ -1,0 +1,21 @@
+| **Date** | 27 Janvier 1902 |
+| **Hauteur Barométrique** | 765.9 mm | 763.6 mm |
+| **Direction du vent** | N.N.O | N.N.O |
+| **Force** | 1 (faible) | 1 (faible) |
+| **Nébulosité** | {
+    **Reg. O. (terre)**: 10
+    **Reg. E. (mer)**: 10
+  } | {
+    **Reg. O. (terre)**: 10
+    **Reg. E. (mer)**: 10
+  } |
+| **Direction des nuages** | Nord | N.N.O |
+| **Pluie Tombée** | " | " |
+| **Température de l'air** | 7.3 °C | 10.2 °C |
+| **Hauteur de la mer** | 1.6 m | 3.0 m |
+| **Agitation de l'eau** | 1 (faible) | 1 (faible) |
+| **Densité de l'eau** | {
+    **Au bout de la jetée**: 1029.0
+    **En large**: 1029.2
+  } | |
+| **Température de l'eau** | 12.2 °C | 11.2 °C |

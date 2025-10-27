@@ -1,0 +1,33 @@
+# 18 Janvier - 1904
+
+|  **Pfanteur** | **Neuron** | **Pneu**  |
+| --- | --- | --- |
+|  Hauteur Barométrique | 74.5 | 74.5  |
+|  Direction du vent | 7.0 | 7.0  |
+|  Force | 4 | 4  |
+|  Nébulosité | 0 | 0  |
+|  (Reg. E. (mer)) |  |   |
+|  Direction des nuages | 0 | 0  |
+|  (Pluie tombée) | 1.8 | 0.3  |
+|  Température de l'air | 63.0 | 3.8  |
+|  Hauteur de la mer | 53.0 | 3.8  |
+|  Égitation de l'eau | 3.8 | 0.3  |
+|  Densité au bout de la jetée | 10.28 | 8.8  |
+|  (Température de l'eau) | 11.1 | 1.1  |
+
+# 9. 18 Janvier. 1904
+
+|  **Pfanteur** | **Neuron** | **Pneu**  |
+| --- | --- | --- |
+|  Hauteur Barométrique | 74.5 | 74.5  |
+|  Direction du vent | 7.0 | 7.0  |
+|  Force | 4 | 4  |
+|  Nébulosité | 0 | 0  |
+|  (Reg. E. (mer)) |  |   |
+|  Direction des nuages | 0 | 0  |
+|  (Pluie tombée) | 1.8 | 0.3  |
+|  Température de l'air | 63.0 | 3.8  |
+|  Hauteur de la mer | 53.0 | 3.8  |
+|  Égitation de l'eau | 3.8 | 0.3  |
+|  Densité au bout de la jetée | 10.28 | 8.8  |
+|  (Température de l'eau) | 11.1 | 1.1  |

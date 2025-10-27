@@ -1,0 +1,8 @@
+```plaintext
+| Date           | Heure | Hauteur Barométrique | Direction du vent | Force | Reg. O. (lune) | Nébulosité (Reg. E. (mer)) | Direction des nuages | Pluie Tombée | Température de l'air | Hauteur de la mer | Agitation de l'eau | Densité au bout de la jetée | Température de l'eau |
+|----------------|-------|----------------------|-------------------|-------|----------------|--------------------------|---------------------|-------------|---------------------|------------------|------------------|--------------------------|---------------------|
+| V. 16 Septembre 1908 | Matin | 767.0                | or. or.           | 4     | 0             | 0                       | or. or.             | 11          | 16.4                | 68.3             | 27.70             | 1028.4                  | 18.4                |
+| V. 16 Septembre 1908 | Soir  | 766.7                | or.                | 5     | 10            | 10                      | or.                 | 11          | 19.6                | 48.7             | 27.70             | 1028.4                  | 18.8                |
+| V. 17 Septembre 1908 | Matin | 769.3                | or. or.           | 16    | 0             | 0                       |                    |             | 17.3                | 66.4             | 16.4              | 1028.7                  | 18.0                |
+| V. 17 Septembre 1908 | Soir  |                      |                   |       |               |                          |                    |             |                     |                  |                   |                        |                     |
+```

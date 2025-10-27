@@ -1,0 +1,47 @@
+```plaintext
+| **OBSERVATIONS DU 1900 27 DÉCEMBRE** |
+| --- |
+| **Nombre de bateaux sortis (pêche à l.)** |  |
+| **Température de l'air** |  |
+| maxima depuis la veille |  |
+| minima id. |  |
+| **Température de l'eau** |  |
+| maxima depuis la veille |  |
+| minima id. |  |
+| **Pluie tombée depuis la veille, en millim.** | 21.7 |
+| **Évaporation depuis le 1900, en millim.** |  |
+| **Direction du vent (à terre)** | **à 9 h. m.** | **à 3 h. s.** |
+|  | **N.N.O.** |  |
+| **Force** | **1** |  |
+| **Direction des nuages** | **diverse** |  |
+| **Nébulosité** |  |
+| région Ouest (terre) | **10** |  |
+| id. Est (mer) | **10** |  |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.)** | **8.0** |  |
+| **Agitation de l'eau** |  |  |
+| **Densité de l'eau au bout de la jetée** |  |  |
+| **Température id.** |  |  |
+
+| **OBSERVATIONS DU 1900 28 DÉCEMBRE** |
+| --- |
+| **Nombre de bateaux sortis (pêche à l.)** |  |
+| **Température de l'air** |  |
+| maxima depuis la veille | 21.0 |
+| minima id. | 9.3 |
+| **Température de l'eau** |  |
+| maxima depuis la veille |  |
+| minima id. |  |
+| **Pluie tombée depuis la veille, en millim.** |  |
+| **Évaporation depuis le 1900, en millim.** |  |
+| **Direction du vent (à terre)** | **à 9 h. m.** | **à 3 h. s.** |
+|  | **S.O.** |  |
+| **Force** | **2** |  |
+| **Direction des nuages** | **Ouest** |  |
+| **Nébulosité** |  |
+| région Ouest (terre) | **10** |  |
+| id. Est (mer) | **10** |  |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.)** | **9.8** |  |
+| **Agitation de l'eau** | **2** |  |
+| **Densité de l'eau au bout de la jetée** | **1027.7** |  |
+| **Température id.** | **17.9** |  |
+```

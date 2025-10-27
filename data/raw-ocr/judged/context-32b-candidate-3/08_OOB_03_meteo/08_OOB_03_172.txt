@@ -1,0 +1,19 @@
+# Date: 17 Avril 1902
+
+| **Paramètre** | **9h Matin** | **18h Soir** |
+|---------------|--------------|--------------|
+| **Hauteur Barométrique (mm)** | 761.6 | 761.3 |
+| **Direction du vent** | v.r.o | v.r.o |
+| **Force du vent (Bft)** | 3 | 3 |
+| **Nébulosité** | 2 (léger) | 2 (léger) |
+| **Reg. O. (Clair)** | 2 | 2 |
+| **Reg. E. (mer)** | 2 | 2 |
+| **Direction des nuages** | v.r.o | v.r.o |
+| **Pluie tombée (mm)** | quelques gouttes | -- |
+| **Température de l'air (°C)** | 14.6 | 16.7 |
+| **Hauteur de la mer (m)** | 41.4 | 33.9 |
+| **Agitation de l'eau** | 1<sup>re</sup> faible | 2<sup>nd</sup> modéré |
+| **Densité de l'eau** |  |  |
+| **- au bout de la jetée** | 1025.7 | 1025.9 |
+| **- au large** |  |  |
+| **Température de l'eau (°C)** | 14.1 | 14.3 |

@@ -1,0 +1,29 @@
+```plaintext
+|  18 Moai - 1904 | Moalin | Soir  |
+| --- | --- | --- |
+|  Hauteur Parométrique | 708.0 | 766.0  |
+|  Direction du vent | 1.8 | 1.8  |
+|  Force | 16 | 3  |
+|  Nébulosité | Reg. C. (tine) | 10 kg/m²  |
+|  Direction des nuages | 10 kg/m² | 2 kg/m²  |
+|  Muie tombée |  |   |
+|  Température de l'air | 28.0 | 30.0  |
+|  Hauteur de la mer | 1.4 | 0.5  |
+|  Égitation de l'eau | 1 faible | 1  |
+|  Densité au bout de la jetée | 1027.7 | 1026.8  |
+|  Température de l'eau | 18.1 | 21.1  |
+
+|  19 Moai - 1904 | Moalin | Soir  |
+| --- | --- | --- |
+|  Hauteur Parométrique | 707.6 |   |
+|  Direction du vent | 1.8 |   |
+|  Force | 16 | 3  |
+|  Nébulosité | Reg. C. (tine) | 10 kg/m²  |
+|  Direction des nuages | 10 kg/m² | 2 kg/m²  |
+|  Muie tombée |  |   |
+|  Température de l'air | 28.5 |   |
+|  Hauteur de la mer | 1.0 |   |
+|  Égitation de l'eau | 1 | 1  |
+|  Densité au bout de la jetée | 1027.1 | 1026.1  |
+|  Température de l'eau | 20.1 |   |
+```

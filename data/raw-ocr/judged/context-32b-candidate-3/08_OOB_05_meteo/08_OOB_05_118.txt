@@ -1,0 +1,28 @@
+```
+| **Date**       | **Matin**       | **Soir**         |
+|----------------|-----------------|------------------|
+| **11 Juin 1906** |                 |                  |
+| **Hauteur Barométrique** | 764.3           | 762.7            |
+| **Direction du Vent**     | S.S.E.          | S.O.             |
+| **Force**         | 1°.faible        | 2°               |
+| **Nébulosité (Régl. 6. (Jean))** | 6                | 0                |
+| **Direction des nuages (mer)** | S.E. lég.      | 10               |
+| **Pluie tombée**   |                 |                  |
+| **Température de l'air** | 22.9          | 28.0            |
+| **Hauteur de la mer** | 11.9          | 16.2            |
+| **Agitation de l'eau**  | 1°1. faible     | 2° faible        |
+| **Densité au bout de la jetée** | 1027.6        | 1027.7          |
+| **Température de l'eau** | 20.0          | 19.5            |
+| **12 Juin 1906** |                 |                  |
+| **Hauteur Barométrique** | 763.2           | 760.2            |
+| **Direction du Vent**     | S.E.           | S.O.             |
+| **Force**         | 1°              | 2°               |
+| **Nébulosité (Régl. 6. (Jean))** | 6                | 10 léger.        |
+| **Direction des nuages (mer)** | N.O.          | 10 lég.         |
+| **Pluie tombée**   |                 |                  |
+| **Température de l'air** | 22.0          | 26.9            |
+| **Hauteur de la mer** | 12.2           | 11.8            |
+| **Agitation de l'eau**  | 1°. faible      | 2° faible        |
+| **Densité au bout de la jetée** | 1027.6        | 1027.9          |
+| **Température de l'eau** | 20.0          | 18.8            |
+```

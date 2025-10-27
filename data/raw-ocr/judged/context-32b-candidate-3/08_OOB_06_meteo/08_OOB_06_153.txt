@@ -1,0 +1,51 @@
+```plaintext
+### OBSERVATIONS DU 1901
+
+#### **10 Mai**
+| **Paramètre**                               | **Valeur** |
+|---------------------------------------------|------------|
+| **Nombre de bateaux sortis (pêche à la Traîne)** | **36**     |
+| **Température de l'air**                     |            |
+| - **maxima depuis la veille**                | **21,8**   |
+| - **minima id.**                             | **10,2**   |
+| **Température de l'eau**                     |            |
+| - **maxima depuis la veille**                |            |
+| - **minima id.**                             |            |
+| **Pluie tombée depuis la veille, en millim.** | **0**      |
+| **Évaporation depuis le 2 Mai 1901, en millim.** |            |
+| **Direction du vent (à terre)**              | **S.S.E.** | **S.S.E.** |
+| - **Force**                                  | **1 faible** | **1 fort** |
+| - **Direction des nuages**                   | **S.S.E.** | **S.S.E.** |
+| **Nébulosité**                               |            |
+| - **région Ouest (terre)**                   | **2**      | **10**     |
+| - **id. Est (mer)**                          | **0**      | **10**     |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.)** | **38,5** | **36,4** |
+| **Agitation de l'eau**                       | **1 faible** | **1 forte** |
+| **Densité de l'eau au bout de la jetée**     | **1028,1** | **1028,1** |
+| **Température id.**                          | **14,6**   | **15,7**  |
+| **Température Balancier**                    | **26,3**   | **21,7**  |
+
+#### **11 Mai**
+| **Paramètre**                               | **Valeur** |
+|---------------------------------------------|------------|
+| **Nombre de bateaux sortis (pêche à la Traîne)** | **44**     |
+| **Température de l'air**                     |            |
+| - **maxima depuis la veille**                | **29,0**   |
+| - **minima id.**                             | **12,3**   |
+| **Température de l'eau**                     |            |
+| - **maxima depuis la veille**                |            |
+| - **minima id.**                             |            |
+| **Pluie tombée depuis la veille, en millim.** | **0**      |
+| **Évaporation depuis le 2 Mai 1901, en millim.** | **575**  |
+| **Direction du vent (à terre)**              | **S.S.E.** | **S.S.E.** |
+| - **Force**                                  | **1 faible** | **2 fort** |
+| - **Direction des nuages**                   | **S.E.**   | **S.S.E.** |
+| **Nébulosité**                               |            |
+| - **région Ouest (terre)**                   | **10**     | **10**     |
+| - **id. Est (mer)**                          | **10**     | **10**     |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.)** | **32,8** | **31,4** |
+| **Agitation de l'eau**                       | **1 faible** | **1 forte** |
+| **Densité de l'eau au bout de la jetée**     | **1027,7** | **1028,0** |
+| **Température id.**                          | **14,6**   | **14,3**  |
+| **Température Balancier**                    | **22,0**   | **19,0**  |
+```

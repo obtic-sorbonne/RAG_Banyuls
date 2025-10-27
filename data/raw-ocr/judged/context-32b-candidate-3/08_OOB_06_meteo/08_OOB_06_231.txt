@@ -1,0 +1,57 @@
+```plaintext
+### OBSERVATIONS DU 1901 19 DÉCEMBRE
+
+| **Nombre de bateaux sortis (pêche à l.)** | 17.8 |
+| **Température de l'air** |  |  |
+| - **maxima depuis la veille** | 17.8 °C |
+| - **minima id.** | 10.3 °C |
+| **Température de l'eau** |  |  |
+| - **maxima depuis la veille** | *non mentionnée* |
+| - **minima id.** | *non mentionnée* |
+| **Pluie tombée depuis la veille, en millim.** |  |
+| **Évaporation depuis le 1901, en millim.** | *non mentionnée* |
+| **Direction du vent (à terre)** |  |  |
+| - **à 9 h. m.** | S.S.O. |
+| - **à 3 h. s.** | N.N.O. |
+| - **Force** | 2 | 2 |
+| - **Direction des nuages** | S.S.O. | S.S.O. |
+| **Nébulosité** |  |  |
+| - **région Ouest (terre)** | 10 | 10 |
+| - **id. Est (mer)** | 10 | 10 |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.)** | 18.7 | 19.9 |
+| **Agitation de l'eau** | 1 fort | 1 fort |
+| **Densité de l'eau au bout de la jetée** | 1027.8 | 1028.0 |
+| **Température id.** |  |  |
+| - **Matin** | **Maxima** | 21.8 °C |  |
+| - **Minima** | 11.1 °C |  |
+| - **Soir** | **Maxima** | 20.9 °C |  |
+| - **Minima** | 12.7 °C |  |
+
+### OBSERVATIONS DU 1901 16 DÉCEMBRE
+
+| **Nombre de bateaux sortis (pêche à l.)** | 18.3 |
+| **Température de l'air** |  |  |
+| - **maxima depuis la veille** | 18.3 °C |
+| - **minima id.** | 7.2 °C |
+| **Température de l'eau** |  |  |
+| - **maxima depuis la veille** | *non mentionnée* |
+| - **minima id.** | *non mentionnée* |
+| **Pluie tombée depuis la veille, en millim.** | quelques |
+| **Évaporation depuis le 1901, en millim.** | *non mentionnée* |
+| **Direction du vent (à terre)** |  |  |
+| - **à 9 h. m.** | S.S.E. |
+| - **à 3 h. s.** | S.S.E. |
+| - **Force** | 3 fort | 3 fort |
+| - **Direction des nuages** | S.S.E. | S.S.E. |
+| **Nébulosité** |  |  |
+| - **région Ouest (terre)** | 10 | 10 |
+| - **id. Est (mer)** | 10 | 10 |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.)** | 9.2 | 32.7 |
+| **Agitation de l'eau** | 1 fort | 1 |
+| **Densité de l'eau au bout de la jetée** | 1023.9 | 1027.7 |
+| **Température id.** |  |  |
+| - **Matin** | **Maxima** | 20.7 °C |  |
+| - **Minima** | 5.9 °C |  |
+| - **Soir** | **Maxima** |  |  |
+| - **Minima** | 4.7 °C |  |
+```

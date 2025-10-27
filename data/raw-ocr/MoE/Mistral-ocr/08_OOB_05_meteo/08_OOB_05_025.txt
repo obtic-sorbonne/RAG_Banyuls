@@ -1,0 +1,30 @@
+|  8. 85 Strait-1905 | Maitin | Joir  |
+| --- | --- | --- |
+|  Hauteur Prazometrique | 758.4 | 768.8  |
+|  Direction du vent | or.cr. | 800  |
+|  Force | 8 | faible  |
+|  (Reg. o. (tire) | 8 |   |
+|  (Tes. o. (tire) |  |   |
+|  1 | 1 | 1.0  |
+|  2.0 | 2.0 | 29.0  |
+|  3.0 | 39.0 | 38.6  |
+|  4.9.9 | 58.6 | 5  |
+|  5.7.7.7 | 108.7.7 | 108.7.7  |
+|  6.8.8 | 108.7.7 | 83.8  |
+
+|  8. 88 Strait-1905 | Maitin | Joir  |
+| --- | --- | --- |
+|  Hauteur Prazometrique | 754.8 | 760.8  |
+|  Direction du vent | 8.7.8 | 7.7.8  |
+|  Force | 1/7.8 | 8  |
+|  (Reg. o. (tire) | 10 | 10  |
+|  (Tes. o. (tire) | 10 | 10  |
+|  (Tes. o. (tire) | 10 | 10  |
+|  Direction des mages | 2.0 | 0.7.0  |
+|  (Chie tombée) |  |   |
+|  Température de l'air | 84.8 | 88.7  |
+|  Hauteur de la mer | 15.2 | 11.0  |
+|  (Définition de l'eau) |  |   |
+|  10.27.4 | 108.7.4 | 108.7.7  |
+|  108.7.4 | 84.8 | 84.7  |
+|  108.7.4 |  |   |

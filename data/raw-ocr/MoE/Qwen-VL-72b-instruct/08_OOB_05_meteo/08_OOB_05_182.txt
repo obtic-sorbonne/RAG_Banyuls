@@ -1,0 +1,27 @@
+| V. 3 Décembre 1906 | Matin | Soir |
+|-------------------|-------|------|
+| Hauteur Barometrique | 769.1 | 767.6 |
+| Direction du Vent | cr. o | cr. o |
+| Force | 6 | 6 fort |
+| Nébulosité | Reg. 0 (Clère) | 10 légère | 10 |
+| Reg. X (Nur) | 10 légère | 10 |
+| Direction des nuages | cr. o | cr. o |
+| Pluie tombée | " | " |
+| Température de l'air | 14.2 | 14.2 |
+| Hauteur de la mer | 44.6 | 44.6 |
+| Agitation de l'eau | 3 | 3 |
+| Densité au bout de la jetée | 1029.4 | 1029.4 |
+| Température de l'eau | 14.4 | 14.4 |
+| V. 4 Décembre 1906 | Matin | Soir |
+| Hauteur Barometrique | 769.7 | 766.2 |
+| Direction du Vent | cr. o | cr. o |
+| Force | 6 faible | 6 fort |
+| Nébulosité | Reg. 0 (Clère) | 10 | 10 |
+| Reg. X (Nur) | 10 | 10 |
+| Direction des nuages | cr. o | cr. o |
+| Pluie tombée | " | " |
+| Température de l'air | 14.6 | 14.6 |
+| Hauteur de la mer | 44.7 | 44.7 |
+| Agitation de l'eau | 3 | 3 fort |
+| Densité au bout de la jetée | 1028.9 | 1028.9 |
+| Température de l'eau | 14.8 | 14.8 |

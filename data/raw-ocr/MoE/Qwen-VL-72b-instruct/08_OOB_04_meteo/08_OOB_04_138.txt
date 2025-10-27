@@ -1,0 +1,6 @@
+| Date et Heure | Hauteur Barométrique (mmHg) | Direction du Vent | Force du Vent | Nébulosité (%) | Reg (Clair/Flou) | Direction des Images | Pluie Tombée | Température de l'Air (°C) | Hauteur de la Mer (m) | Agitation de l'Eau | Densité au Bout de la Jetée (Kg/m³) | Température de l'Eau (°C) |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| 24 Septembre 1902, Matin | 767.4 | er. cr. o | 3 | 10 | cl. (Mer) | er.cr.o | quelques g | 18.2 | 42.7 | 3 | 1028.2 | 20.1 |
+| 24 Septembre 1902, Soir | 767.2 | er. cr. o | 3 | 10 | cl. (Mer) | er.cr.o | quelques g | 20.4 | 38.7 | 3 | 1027.8 | 20.5 |
+| 25 Septembre 1902, Matin | 768.7 | er. cr. o | 2 Fort | 10 | cl. (Mer) | er.cr.o | quelques g | 15.7 | 48.0 | 2 Fort | 1027.9 | 20.1 |
+| 25 Septembre 1902, Soir | 767.4 | er. cr. o | 2 | 10 | cl. (Mer) | er.cr.o | quelques g | 16.3 | 43.6 | 2 Fort | 1027.8 | 19.8 |

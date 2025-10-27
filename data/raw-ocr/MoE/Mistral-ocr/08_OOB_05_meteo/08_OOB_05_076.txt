@@ -1,0 +1,25 @@
+|  V. & Février. 1905 | Nibatin | Soir  |
+| --- | --- | --- |
+|  Hauteur Marométrique | 209.8 | 202.4  |
+|  Direction du rent | cr.cr. | cr.cr.  |
+|  Force | 3 fort | 4  |
+|  Nébulinite (Reg. C. (mar) | 10 | 1  |
+|  Direction des mages | cr. 8 | 2  |
+|  Flue tombe |  | cr.  |
+|  Température de la mer | 9,3 | 11,9  |
+|  Hauteur de la mer | 20,0 | 20,1  |
+|  Agitation de l'eau | 3 fort | 3  |
+|  Densité au bout de la jete | 1028.8 | 3  |
+|  Température de l'eau | 13,6 | 3  |
+|  V. & Février. 1905 | Nibatin | Soir  |
+|  Hauteur Marométrique | 278,3 |   |
+|  Direction du rent | cr.cr. |   |
+|  Force | 10 |   |
+|  Nébulinite (Reg. C. (mar) | 10 |   |
+|  Direction des mages | 80 |   |
+|  Flue tombe |  |   |
+|  Température de l'air | 1 |   |
+|  Hauteur de la mer | 3 |   |
+|  Agitation de l'eau | 5 |   |
+|  Densité au bout de la jete | 5 |   |
+|  Température de l'eau | 5 |   |

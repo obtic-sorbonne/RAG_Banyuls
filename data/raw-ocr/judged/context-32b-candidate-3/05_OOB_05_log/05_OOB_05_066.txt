@@ -1,0 +1,35 @@
+```plaintext
+N°
+
+Sortie du 13 Août 1902
+
+Départ de Banyuls à 12 heures du matin
+pour Cerbère. Arrivée à 12 h 25
+
+Départ de Cerbère à 1 heure du soir
+pour Banyuls. Arrivée à 1 h 40
+
+Départ de Banyuls à 2 heures du soir
+pour pêcher au chalut
+
+Arrivée au mouillage à Banyuls à 6 h du soir
+
+État du temps : calme
+
+Passagers à bord :
+
+Objet de la sortie : Remorquer le bateau naufragé de Cerbère
+              à Banyuls - Pêcher au Chalut
+
+Consommation
+- Briquettes de bois | Poids en Kilos
+- Huile             | Total en litres
+
+Dépenses
+
+Observations : Neuf hommes alliés... Cerbère furent ramenés
+              à Banyuls. Le bateau de pêche que
+              nous avions remarqué hier dans le fort de Cerbère
+              Nous sortons à 2 h demain un coup de
+              Chalut pour garnir les aquariums -
+```

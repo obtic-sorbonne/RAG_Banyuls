@@ -1,0 +1,15 @@
+| **Date** | 4 Avril 1902 |
+|---|---|
+| **Haut. Barométrique** | 9h Matin | 3h Soir |
+| **Pression de l'air** | 764.1 | 763.6 |
+| **Direction du vent** | cer.cr. | cer.cr.0 |
+| **Force** | 3 | 2 fort |
+| **Nébulosité** | Reg. 6. (claire) | 10 |
+| **Nébulosité** | Reg. E. (nuée) | 10 | 0 |
+| **Pluie tombée** | nn | nn |
+| **Température de l'air** | 17.6 | 19.2 |
+| **Hauteur de la mer** | 48.4 | 46.6 |
+| **Agitation de l'eau** | faible | 2 |
+| **Densité de l'eau** | au bout de la jetée | 1027.9 | 1027.8 |
+| **Densité de l'eau** | au large | |
+| **Température de l'eau** | 14.5 | 14.5 |

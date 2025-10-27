@@ -1,0 +1,35 @@
+```markdown
+# SAMEDI 14 SEPTEMBRE 1907
+
+| **Date**               | **Matin** | **Soir** |
+|------------------------|-----------|----------|
+| Hauteur barométrique   | 767.7     | 766.7    |
+| Direction du vent      | cc-occ    | v-c-no   |
+| Force                  | 4         | 3 (fort) |
+| Nébulosité (Reg. en ciel) | 0 | 2 |
+| Nébulosité (Reg. en mer) | 0 | 0 |
+| Direction des nuages   | S.O.      | N Nord   |
+| Pluie tombée           | n/a       | n/a      |
+| Température de l'air   | 20.2 °C   | 23.7 °C  |
+| Hauteur de la mer      | 98.0 cm   | 41.6 cm  |
+| Agitation de l'eau     | 3 (faible)| 2 (fort) |
+| Densité au bout de la jetée | 1028.1 g/cm³ | 1028.1 g/cm³ |
+| Température de l'eau   | 20.8 °C   | 20.8 °C  |
+
+# MARDI 18 SEPTEMBRE 1907
+
+| **Date**               | **Matin** | **Soir** |
+|------------------------|-----------|----------|
+| Hauteur barométrique   | 767.3     | 766.3    |
+| Direction du vent      | ssw       | sur      |
+| Force                  | 1 (faible)| 1 (faible)|
+| Nébulosité (Reg. en ciel) | 1 | 0 |
+| Nébulosité (Reg. en mer) | 0 | 0 |
+| Direction des nuages   | n/a       | n/a      |
+| Pluie tombée           | n/a       | n/a      |
+| Température de l'air   | 24.0 °C   | 24.0 °C  |
+| Hauteur de la mer      | 41.4 cm   | 41.4 cm  |
+| Agitation de l'eau     | 2 (fort)  | 2 (fort) |
+| Densité au bout de la jetée | 1028.0 g/cm³ | 1028.0 g/cm³ |
+| Température de l'eau   | 21.0 °C   | 21.0 °C  |
+```

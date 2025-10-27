@@ -1,0 +1,58 @@
+| Date       |  | Valeurs                        |
+|------------|---|--------------------------------|
+| 1902-03-14 |   |                                |
+| Nombre de bateaux sortis (pêche à l.)        |         | 17.2                           |
+| Température de l'air (°C)                    | Maxima  | 17.2                           |
+|                                          | Minima  | 7.7                            |
+| Température de l'eau (°C)                   |         |                                |
+|                                          | Maxima  |                                 |
+|                                          | Minima  |                                 |
+| Pluie tombée depuis la veille (mm)          |         | 0                              |
+| Évaporation depuis le précédent enregistrement (mm) | | 0                              |
+| **Direction du vent** (à terre)                 | 9 h m. | Sud-Est                        |
+|                                           | 3 h s. | Sud-Est                        |
+| Force                                  |            | Faible                         |
+| **Direction des nuages**                  |           | Sud-Sud-Est                    |
+| Nuébulosité (décalage apparent)            | Terre     | 2                              |
+|                                           | Mer       | 0                              |
+| Hauteur de la mer (cm au-dessus du zéro)   |            | 12.8 (BQ.)                    |
+| Agitation de l'eau                        |           | Faible                         |
+| Densité de l'eau au bout de la jetée        |           | 1.027.7                        |
+| Température de l'eau                      | Balana Matin | 24.4                          |
+|                                           |            | Minima                         |
+|                                           | Balana Soir | 12.8                          |
+|                                           |            | Maxima                         |
+|                                           | Balana Matin | 4.7                           |
+|                                           |            | Minima                         |
+|                                           | Balana Soir | 11.0                          |
+|                                           |            | Maxima                         |
+|                                           | Balana Matin | 19.9                          |
+|                                           |            | Minima                         |
+|                                           | Balana Soir | 14.6                          |
+|                                           |            | Maxima                         |
+|                                           | Balana Matin | 7.0                           |
+|                                           | Balana Soir | 11.0                          |
+| **Observations du 1902-03-17**              |           |                                |
+| Nombre de bateaux sortis (pêche à l.)        |           | 16.8                           |
+| Température de l'air (°C)                    | Maxima  | 16.8                           |
+|                                          | Minima  | 9.7                            |
+| Température de l'eau (°C)                   |         |                                |
+|                                          | Maxima  |                                 |
+|                                          | Minima  |                                 |
+| Pluie tombée depuis la veille (mm)          |         | 0                              |
+| Évaporation depuis le précédent enregistrement (mm) | | 0                              |
+| **Direction du vent** (à terre)                 | 9 h m. | Sud-Sud-Est                    |
+|                                           | 3 h s. | Sud-Sud-Ouest                  |
+| Force                                  |            | Faible                         |
+| **Direction des nuages**                  |           | Sud-Sud-Ouest                  |
+| Nuébulosité (décalage apparent)            | Terre     | 10                             |
+|                                           | Mer       | 0                              |
+| Hauteur de la mer (cm au-dessus du zéro)   |            | 42.9 (BQ.)                    |
+| Agitation de l'eau                        |           | 1                              |
+| Densité de l'eau au bout de la jetée        |           | 1.027.9                        |
+| Température de l'eau                      | Balana Matin | 18.6                          |
+|                                           |            | Minima                         |
+|                                           | Balana Soir | 4.0                           |
+|                                          |            | Maxima                         |
+|                                           | Balana Matin | 16.4                          |
+|                                          | Balana Soir | 5.0                           |

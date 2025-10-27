@@ -1,0 +1,47 @@
+| **Observations du 1902 23 Janvier** |  |
+| --- | --- |
+| **Nombre de bateaux sortis (pêche à l.)** | 19.2 |
+| **Température de l'air** | **maxima depuis la veille** | 11.2 |
+| **Température de l'air** | **minima id.** | 11.8 |
+| **Température de l'eau** | **maxima depuis la veille** |  |
+| **Température de l'eau** | **minima id.** |  |
+| **Pluie tombée depuis la veille, en millim** |  |
+| **Evaporation depuis le 190**, en millim** |  |
+|  | **à 9 h. m.** | **à 3 h. s.** |
+| **Direction du vent (à terre)** | SSE |  |
+| **Force** | 1 fort |  |
+| **Direction des nuages** | SSE | SSE |
+| **Nébulosité** | **région Ouest (terre)** | 10 | 10 |
+| **Nébulosité** | **id. Est (mer)** | 10 | 10 |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.)** | 0.0 | 13.0 |
+| **Agitation de l'eau** | 3 |  |
+| **Densité de l'eau au bout de la jetée** | 1028.0 |  |
+| **Température id.** | 12.8 |  |
+| **Température id. Suh Abonne** | **Matin** | 17,7 |  |
+| **Température id. Suh Abonne** | **Midi** | 12,3 |  |
+| **Température id. Suh Abonne** | **id. Suh Abonne** | **Soir** | **maxima** | 20,4 |  |
+| **Température id. Suh Abonne** | **id. Suh Abonne** | **minima** | 14,9 |  |
+
+| **Observations du 1902 24 Janvier** |  |
+| --- | --- |
+| **Nombre de bateaux sortis (pêche à l.)** | 17.1 |
+| **Température de l'air** | **maxima depuis la veille** | 17.1 |
+| **Température de l'air** | **minima id.** | 8.6 |
+| **Température de l'eau** | **maxima depuis la veille** |  |
+| **Température de l'eau** | **minima id.** |  |
+| **Pluie tombée depuis la veille, en millim** |  |
+| **Evaporation depuis le 190**, en millim** |  |
+|  | **à 9 h. m.** | **à 3 h. s.** |
+| **Direction du vent (à terre)** | SSE | SSE |
+| **Force** | 0 | 0 |
+| **Direction des nuages** | SSE | SSE |
+| **Nébulosité** | **région Ouest (terre)** | 10 | 10 |
+| **Nébulosité** | **id. Est (mer)** | 10 | 10 |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.)** | 9,9 | 16,6 |
+| **Agitation de l'eau** | 1 fort | 1 fort |
+| **Densité de l'eau au bout de la jetée** | 1027.9 | 1027.0 |
+| **Température id.** | 12,6 | 12,7 |
+| **Température id. Suh Abonne** | **Matin** | 20,4 |  |
+| **Température id. Suh Abonne** | **Midi** | 6,7 | 20,4 |
+| **Température id. Suh Abonne** | **id. Suh Abonne** | **Soir** | **maxima** | 20,4 |  |
+| **Température id. Suh Abonne** | **id. Suh Abonne** | **minima** | 10,1 |  |

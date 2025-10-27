@@ -1,0 +1,45 @@
+| **OBSERVATIONS DU 19** | **3 Mars** |
+| --- | --- |
+| **Nombre de bateaux sortis (pêche à l…)** | **Manué** |
+| **Température de l'air** |  |  |
+| maxima depuis la veille |  |  |
+| minima id. |  |  |
+| **Température de l'eau** |  |  |
+| maxima depuis la veille |  |  |
+| minima id. |  |  |
+| **Pluie tombée depuis la veille, en millim.** |  | " | |
+| **Evaporation depuis le 190**, en millim. |  |  |
+| **Direction du vent (à terre)** | **à 9 h. m.** | **à 3 h. s.** |
+| Force |  | 6 |
+|  | N.N.O | N.E |
+| Direction des nuages |  | N.N.O |
+| Nébulosité | |  |
+| région Ouest (terre) | | 10 |
+| id. Est (mer) | | 10 |
+| Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.) | | 70 |
+| Agitation de l'eau | | 1 |
+| Densité de l'eau au bout de la jetée | | 1028 |
+| Température id. |  |  | |
+
+| **OBSERVATIONS DU 19** | **4 Mars** |
+| --- | --- |
+| **Nombre de bateaux sortis (pêche à l…)** | **Manué** |
+| **Température de l'air** |  |  |
+| maxima depuis la veille | 13,8 |  |
+| minima id. | 10,3 |  |
+| **Température de l'eau** |  |  |
+| maxima depuis la veille |  |  |
+| minima id. |  |  |
+| **Pluie tombée depuis la veille, en millim.** |  | " | |
+| **Evaporation depuis le 190**, en millim. |  |  |
+| **Direction du vent (à terre)** | **à 9 h. m.** | **à 3 h. s.** |
+| Force | 3 | 1 Faula |
+|  | N.N.O | N.E |
+| Direction des nuages |  | N.N.O |
+| Nébulosité | |  |
+| région Ouest (terre) | | 2 |
+| id. Est (mer) | | 2 |
+| Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.) |  |  |
+| Agitation de l'eau | 1 | 1 Port |
+| Densité de l'eau au bout de la jetée | 1029 | 1028 |
+| Température id. | 10,7 | 11.5 |

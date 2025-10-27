@@ -1,0 +1,33 @@
+| **Date**       | **Matin**        | **Soir**        |
+|----------------|------------------|-----------------|
+| **9. 16 Avril-1902** |                |                 |
+| Hauteur Barométrique | 799,4 |               |
+| Direction du vent  | or.cr.o |            |
+| Force            | 1.5    |  4 foll.    |
+| nebuleute        |        |             |
+| / Reg. 6. (Terre) | 10    |             |
+| avec les matins |        |             |
+| -->Reg-6-(Mer)    | 10    |             |
+| Direction des nuages |  er.cr.o|         |
+| Pluie tombée    | 4.125  |             |
+| Température de l'air | 11,9  |             |
+| Hauteur de la mer | 40.2  |             |
+| En tation de l’eau | 3    |              |
+| Densité au bout de la jetée | 1026.8 |     |
+| Température de l'eau | 13.6  |             |
+|----------------|------------------|-----------------|
+| **9. 17 Avril-1902** |                |                 |
+| Hauteur Barométrique | 761.6 | 761.3 | |
+| Direction du vent  | or.cr.o | or.cr.o | |
+| Force            | 1.5    | 3     |  3      |
+| nebuleute        |        |       |         |
+| / Reg. 6. (Terre) | 2     |       |  léger.c |
+| avec les matins |        |       |         |
+| -->Reg-6-(Mer)    | 2     |       | léger.c |
+| Direction des nuages |  er.cr.o | er.cr.o| |
+| Pluie tombée    | quelques |     |    |
+| Température de l'air | 14.6  | 16.7 | |
+| Hauteur de la mer | 41.4  | 33.9 | |
+| En tation de l’eau | 1     |       | 2 faille |
+| Densité au bout de la jetée | 1029.7 |  1029.9 | |
+| Température de l'eau | 14.1  | 14.3 | |

@@ -1,0 +1,11 @@
+| **Date** | **Nombre de bateaux sortis** | **Température de l'air** | **Température de l'eau** | **Pluie tombée depuis la veille** | **Evaporation depuis le 190** | **Direction du vent (à terre)** | **Force** | **Direction des nuages** | **Nébulosité** | **Hauteur de la mer** | **Agitation de l'eau** | **Densité de l'eau au bout de la jetée** | **Température** |
+|----------|---------------------------|--------------------------|--------------------------|---------------------------------|-----------------------------|-------------------------------|----------|--------------------------|-------------|----------------------|------------------------|-------------------------------|---------------|
+| **1902-02-24** | 19.7 | maxima: 19.7<br>minima: 11.0 |         | 7 |      | N.N.O | 1/fort  | S.O | région Ouest (terre): 60<br>id. Est (mer): 60 | 29.8 cm | 1/fort | 12.0 | matin: max. 29.2<br>min. 9.3<br>soir: max. 29.2<br>min. 13.0 |
+| **à 9 h m.** | | | | | | S.S. | 1.T.fort |        | région Ouest (terre): 40<br>id. Est (mer): 40 | 38.7 cm | 1/fort | 12.3 |      |
+| **à 3 h s.** | | | | | |        |        |        |        | 1027.4 | 1027.4 | 12.3 |      |
+
+| **Date** | **Nombre de bateaux sortis** | **Température de l'air** | **Température de l'eau** | **Pluie tombée depuis la veille** | **Evaporation depuis le 190** | **Direction du vent (à terre)** | **Force** | **Direction des nuages** | **Nébulosité** | **Hauteur de la mer** | **Agitation de l'eau** | **Densité de l'eau au bout de la jetée** | **Température** |
+|----------|---------------------------|--------------------------|--------------------------|---------------------------------|-----------------------------|-------------------------------|----------|--------------------------|-------------|----------------------|------------------------|-------------------------------|---------------|
+| **1902-02-26** | 17.0 | maxima: 17.0<br>minima: 9.4 |         | 0 mm |      | N.N.O | 3/fort |        | 10 | 39.7 cm | 2 | 1027.2 | matin: max. 29.3<br>min. 6.3<br>soir: max. 13.0<br>min.      |
+| **à 9 h m.** | | | | | |        |      |        |     | 2 cm |         | 12.0 |      |
+| **à 3 h s.** | | | | | |        |      |        |     |       |         |       |      |      |   |

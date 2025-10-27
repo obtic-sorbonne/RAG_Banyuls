@@ -1,0 +1,8 @@
+```plaintext
+| Date         | Heure | Hauteur Barométrique | Direction du Vent | Force | Nébulosité | Direction des nuages | Pluie Tombée | Température de l'air | Hauteur de la mer | Agitation de l'eau | Densité au bout de la jetée | Température de l'eau |
+|--------------|-------|----------------------|--------------------|-------|------------|---------------------|--------------|---------------------|------------------|-------------------|---------------------------|---------------------|
+| V. 30 juin 1904 | Matin | 763.7               | cr. n.o            | 2     | 10         | cr. n.o             | 6.0          | 23.6                | 43.0             | 1 fort            | 1026.4                    | 22.8                |
+|              | Soir  | 763.0               | cr. n.o            | 3     | 10         | cr. n.o             | 1.63         | 19.8                | 12.8             | 1 fort            | 1026.8                    | 22.0                |
+| V. 1er juillet 1904 | Matin | 764.2             | cr. n.o            | 3     | 0          | cr. n.o             | 4.0          | 21.0                | 47.1             | 2 fois            | 1027.0                    | 21.2                |
+|              | Soir  | 764.6               | cr. n.o            | 2     | 0          | cr. n.o             | "            | 26.9                | 60.0             | 1 fort            | 1027.4                    | 21.0                |
+```

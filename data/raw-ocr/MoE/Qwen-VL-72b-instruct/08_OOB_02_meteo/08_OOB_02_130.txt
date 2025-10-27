@@ -1,0 +1,15 @@
+| Date       | 21 juillet 1901 |
+| ---------- | -------------- |
+| **Données horaires** | 9 H Matin | 3 H Soir |
+| Hauteur Barométrique | 763.7 |  |  
+| Direction du vent | S.E | |  
+| Force | 15 | Faible |  
+| Nébulosité | Reg. O. (claire) | 0 |  
+|          | Reg. E. (mas) | 0 |  
+| Direction des nuages |  |  |  
+| Pluie tombée |  |  |  
+| Température de l'air | 26,6 |  |  
+| Hauteur de la mer | 46,5 |  |  
+| Agitation de l'eau | 0 |  |  
+| Densité de l'eau | au bout de la jetée | 1026.7 |  
+| Température de l'eau | 23,6 |  |  

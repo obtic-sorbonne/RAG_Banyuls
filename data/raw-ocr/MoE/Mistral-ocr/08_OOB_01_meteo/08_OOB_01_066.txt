@@ -1,0 +1,24 @@
+# Date: 17. 28 Septembre 1900
+
+|  Item |  | Heavens:  |
+| --- | --- | --- |
+|   |  | 940. 343.  |
+|  Manteur lacométrique |  |   |
+|  Direction | (x) vent | 760,1 779,0  |
+|  Force |  | 5. 5.  |
+|   |  | 1 ha/ache  |
+|  Nebulovite | (Reg. D. (Force) | 3 3  |
+|   | (Reg. E. (Iner) | 3 8  |
+|  Direction Des nuages |  | 5. 5.0.  |
+|  Plein basile |  |   |
+|  Température | (x) la  |   |
+|   | 23° 9. 23,5 |   |
+|  Manteur | (x) la mer | 0° 2 0,45  |
+|  Agitation | (x) le  |   |
+|   | 2 1 |   |
+|  Demite | (x) le  |   |
+|   | (a) large | 1026,5  |
+|  Température | (x) le  |   |
+|   | 20,5. |   |
+|  |   |   |
+|  Observat. |  |   |

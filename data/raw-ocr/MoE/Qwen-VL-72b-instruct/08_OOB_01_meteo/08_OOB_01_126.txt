@@ -1,0 +1,17 @@
+| **Date**      | 29 Novembre 1900 |
+|---------------|------------------|
+| **Heure**     | **9h Matin**     | **3h Soir**   |
+| **Hauter. Barométrique** | 743,9      | 743,2      |
+| **Direction du vent**   | Nord       | Nord       |
+| **Force vent**         | 1          | 4 Faulle   |
+| **Nébulosité**         |            |            |
+| **Reg. 6. (civic)**     | 10         | 10         |
+| **Reg. E. (mer)**      | 10         | 10         |
+| **Direction des nuages** | Nord     | Nord       |
+| **Pluie tombée**       | "         | "          |
+| **Température de l’air**| 8,7       | 9,2       |
+| **Hauteur de la mer**  | 22,5      | 11,8      |
+| **Agitation de l’eau** | 2 Jaible   | 3          |
+| **Densité de l’eau**   | **pambout de la jetté** | **1027,9** |
+|                       | **au large**                  | **1027,9** |
+| **Température de l’eau**| 12,4      | 10,5      |

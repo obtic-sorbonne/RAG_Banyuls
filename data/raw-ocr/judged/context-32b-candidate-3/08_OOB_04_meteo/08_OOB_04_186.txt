@@ -1,0 +1,33 @@
+V. 30 Janvier. 1903
+
+|  **Position** | **Matin** | **Soir**  |
+| --- | --- | --- |
+|  Hauteur Barométrique | 775.5 | 773.3  |
+|  Direction du vent | O. 2.0 | O. 7.0  |
+|  Force | 2 | 2  |
+|  Nébulosité (Reg. O. (terre)) | 10 | 10  |
+|  Nébulosité (Reg. E. (mer)) | 10 | 10  |
+|  Direction des nuages | 0.7.0 | 0.2.0  |
+|  Pluie tombée |  |  |
+|  Température de l'air | 8.7 | 11.5  |
+|  Hauteur de la mer | 24.8 | 28.8  |
+|  Agitation de l'eau | 1/2 | 1/2  |
+|  Densité au bout de la jetée | 1029.1 | 1028.5  |
+|  Température de l'eau | 11.5 | 11.6  |
+
+V. 31 Janvier. 1903
+
+|  **Position** | **Matin** | **Soir**  |
+| --- | --- | --- |
+|  Hauteur Barométrique | 773.3 | 763.3  |
+|  Direction du vent | O. 2.0 | O. 7.0  |
+|  Force | 10 | 10  |
+|  Nébulosité (Reg. O. (terre)) | 3 | 3  |
+|  Nébulosité (Reg. E. (mer)) | 3 | 3  |
+|  Direction des nuages | 0.7.0 | 0.2.0  |
+|  Pluie tombée |  | 22.0  |
+|  Température de l'air | 12.3 | 12.3  |
+|  Hauteur de la mer | 9.3 | 53.3  |
+|  Agitation de l'eau | 17 | 17  |
+|  Densité au bout de la jetée | 1029.5 | 1028.6  |
+|  Température de l'eau | 11.3 | 11.6  |

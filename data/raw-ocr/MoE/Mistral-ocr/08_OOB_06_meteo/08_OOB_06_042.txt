@@ -1,0 +1,40 @@
+# OBSERVATIONS DU 1906
+
+Nombre de bateaux sortis (pêche à l______).
+
+Température de l'air | maxima depuis la veille. | 26,8
+minima | id. |
+Température de l'eau | maxima depuis la veille. | 26,8
+minima | id. |
+Pluie tombée depuis la veille, en millim. | 190 | en millim. | 3 h. m. | à 3 h. s.
+
+Evaporation depuis le | à 9 h. m. | à 3 h. s.
+
+Direction du vent (à terre). | A. M. o | 14.14.0
+Force | 1 port | 4 port
+Direction des nuages | A. M. o | 14.14.0
+Nébulosité | région Ouest (terre) | 2 | 2
+| id. Est (mer). | 2 | 1
+Hauteur de la mer, en centimètres, au-dessus du zéro. | 37,0 | 31,3
+Agitation de l'eau. | 2 port | 2 port
+Densité de l'eau au bout de la jetée. | 103,1 | 103,1
+Température | id. | 17,7 | 18,0
+
+# OBSERVATIONS DU 1906
+
+Nombre de bateaux sortis (pêche à l______).
+
+Température de l'air | maxima depuis la veille. | 26,8
+minima | id. |
+Température de l'eau | maxima depuis la veille. | 26,8
+minima | id. |
+Pluie tombée depuis la veille, en millim. | 190 | en millim. | 3 h. m. | à 3 h. s.
+
+Direction du vent (à terre). | A. M. o | 14.14.0
+Force | 1 port | 3
+Direction des nuages | A. M. o | 14.14.0
+Nébulosité | région Ouest (terre) | 10 | 10
+Hauteur de la mer, en centimètres, au-dessus du zéro. | 37,1 | 37,1
+Agitation de l'eau. | 2 ports | 2
+Densité de l'eau au bout de la jetée. | 103,1 | 103,1
+Température | id. | 17,1 | 17,1

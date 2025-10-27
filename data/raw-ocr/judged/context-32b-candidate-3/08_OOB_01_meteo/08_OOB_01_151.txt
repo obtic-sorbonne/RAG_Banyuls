@@ -1,0 +1,20 @@
+# Date - 24 Décembre - 1900
+
+|  **9e Matin** | **3e Soir**  |
+| --- | --- |
+|  Hauteur Barométrique | 764,3 | 766,3  |
+|  Direction du vent | Nord | Nord  |
+|  Force | 5 | 5  |
+|  Nébulosité | 1 | 0  |
+|  Rég. E. (mer) | 1 | 0  |
+|  Direction des nuages | Nord | Nord  |
+|  Pluie tombée | 18,1 | 18,1  |
+|  Température de l'air | 13,1 | 13,1  |
+|  Hauteur de la mer | 47,3 | 47,3  |
+|  Agitation de l'eau | 1 | 1  |
+|  Densité de l'eau | 1028,3 | 1028,3  |
+|  Température de l'eau | 12,9 | 12,9  |
+
+Densité de l'eau
+- au bout de la jetée: 1028,3
+- au large: 1028,3

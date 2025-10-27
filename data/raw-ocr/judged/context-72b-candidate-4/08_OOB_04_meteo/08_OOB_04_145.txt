@@ -1,0 +1,28 @@
+```plaintext
+| Date       | Matin            | Soir            |
+|------------|------------------|-----------------|
+| V. 18 Octobre 1902 | Hauteur Barométrique | 764.3 | 763.2 |
+|             | Direction du vent | cr. cr. o      | s.s.e. |
+|             | Force            | 2              | 1 fort |
+|             | Nébulosité       | Reg. O. (Clair) | 10    | 10 |
+|             |                  | Reg. E. (mer)   | 10    | 10 |
+|             | Direction des nuages | cr. cr. o      | cr. cr. o |
+|             | Pluie tombée     |                 |       |
+|             | Température de l'air | 16.6          | 18.6 |
+|             | Hauteur de la mer | 46.1           | 11.1 |
+|             | Agitation de l'eau | 2             | 1 faible |
+|             | Densité au bout de la jetée | 1028.9 | 1028.3 |
+|             | Température de l'eau | 17.4          | 18.0 |
+| V. 20 Octobre 1902 | Hauteur Barométrique | 768.2 | 766.8 |
+|             | Direction du vent | cr. cr. 0      | s.s.e. |
+|             | Force            | 1 T. faible    | 1 T. fort |
+|             | Nébulosité       | Reg. O. (terre) | 2 dégén. c | 10 léger c |
+|             |                  | Reg. E. (mer)   | 2      | 10 léger c |
+|             | Direction des nuages | Sud            | cr. cr. o |
+|             | Pluie tombée     |                 |       |
+|             | Température de l'air | 16.2          | 19.8 |
+|             | Hauteur de la mer | 39.0           | 13.2 |
+|             | Agitation de l'eau | 1 faible       | 1 |
+|             | Densité au bout de la jetée | 1028.9 | 1028.2 |
+|             | Température de l'eau | 17.7          | 18.2 |
+```

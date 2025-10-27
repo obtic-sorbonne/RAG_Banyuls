@@ -1,0 +1,32 @@
+```plaintext
+| Date         | Matin           | Soir            |
+|--------------|-----------------|-----------------|
+| V. 24 Mars 1903 |                |                 |
+| Hauteur Barométrique | 761.8 | 762.5 |
+| Direction du vent | S.S.E. | S.S.E. |
+| Force | 4 | 2 |
+| Rég. O. (Clair) | 10 dég. c. 10 lignes | 10 |
+| Rég. E. (Mer) | 10 dég. c. 10 lignes | 10 |
+| Direction des nuages | Sud | Sud |
+| Pluie tombée | " | " |
+| Température de l'air | 16.9 | 19.3 |
+| Hauteur de la mer | 60.6 | 66.9 |
+| Agitation de l'eau | 1 | 1 |
+| Densité au bout de la jetée | 1029.8 | 1029.5 |
+| Température de l'eau | 12.6 | 13.0 |
+| **Date** | **Matin** | **Soir** |
+|--------------|-----------------|-----------------|
+| V. 27 Mars 1903 |                |                 |
+| Hauteur Barométrique | 763.4 | 761.9 |
+| Direction du vent | S.S.O. | S.O. |
+| Force | 4 | 2 |
+| Rég. O. (Clair) | 10 | 10 |
+| Rég. E. (Mer) | 10 | 10 |
+| Direction des nuages | S.S.O. | S.O. |
+| Pluie tombée | " | " |
+| Température de l'air | 16.0 | 16.2 |
+| Hauteur de la mer | 66.8 | 66.6 |
+| Agitation de l'eau | 1 | 1 |
+| Densité au bout de la jetée | 1029.5 | 1029.6 |
+| Température de l'eau | 12.6 | 12.9 |
+```

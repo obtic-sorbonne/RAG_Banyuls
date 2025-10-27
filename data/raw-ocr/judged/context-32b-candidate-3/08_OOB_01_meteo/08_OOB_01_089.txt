@@ -1,0 +1,19 @@
+# Date. 22 Octobre. 1900.
+
+|  **Nom** | **9e Matin** | **3e Soir** | **Nom de l'exploitant**  |
+| --- | --- | --- | --- |
+|  Hauteur barométrique | 704,0 | 707,1 |  |
+|  Direction du vent | Est | Est |  |
+|  Force | 1 faible | 4 fort |  |
+|  Nébulosité | 10 | 10 |  |
+|  Rég. E. (terre) | 1 | 1 |  |
+|  Direction des nuages | Est | Est |  |
+|  Pluie tombée | 350,0 | 350,0 |  |
+|  Température de l'air | 10,0 | 10,0 |  |
+|  Hauteur de la mer | 43,1 | 43,1 |  |
+|  Agitation de l'eau | 4 faible | 4 faible |  |
+|  Densité de l'eau (au bout de la jetée) | 1028,4 | 1028,4 |  |
+|  Densité de l'eau (au large) |  |  |  |
+|  Température de l'eau | 15,5 | 17,0 |  |
+
+Observat. —

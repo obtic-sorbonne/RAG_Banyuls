@@ -1,0 +1,63 @@
+# 7. 29 Moai - 1902
+
+## Matin
+
+|  **Fauteur Barométrique** | 762,6  |
+| --- | --- |
+|  Direction du vent | 3  |
+|  Force | 3 fort  |
+|  **Nébulosité** | Reg. O. (terre)  |
+|  **Direction des nuages** | 8  |
+|  **Pluie tombée** |   |
+|  Température de l'air | 20,9  |
+|  Hauteur de la mer | 49,9  |
+|  Égitation de l'eau | 3  |
+|  Densité au bout de la jetée | 1027,8  |
+|  Température de l'eau | 14,8  |
+
+## Soir
+
+|  **Fauteur Barométrique** | 753,4  |
+| --- | --- |
+|  Direction du vent | 3  |
+|  Force | 2  |
+|  **Nébulosité** | Reg. O. (terre)  |
+|  **Direction des nuages** | 8  |
+|  **Pluie tombée** |   |
+|  Température de l'air | 20,5  |
+|  Hauteur de la mer | 49,9  |
+|  Égitation de l'eau | 3  |
+|  Densité au bout de la jetée | 1028,0  |
+|  Température de l'eau | 14,8  |
+
+# 8. 30 Moai - 1902
+
+## Matin
+
+|  **Fauteur Barométrique** | 779,3  |
+| --- | --- |
+|  Direction du vent | 3  |
+|  Force | 3 fort  |
+|  **Nébulosité** | Reg. O. (terre)  |
+|  **Direction des nuages** | 3  |
+|  **Pluie tombée** |   |
+|  Température de l'air | 20,7  |
+|  Hauteur de la mer | 46,7  |
+|  Égitation de l'eau | 3 faible  |
+|  Densité au bout de la jetée | 1028,0  |
+|  Température de l'eau | 14,8  |
+
+## Soir
+
+|  **Fauteur Barométrique** | 753,4  |
+| --- | --- |
+|  Direction du vent | 3  |
+|  Force | 2  |
+|  **Nébulosité** | Reg. O. (terre)  |
+|  **Direction des nuages** | 3  |
+|  **Pluie tombée** |   |
+|  Température de l'air | 20,5  |
+|  Hauteur de la mer | 46,7  |
+|  Égitation de l'eau | 3 faible  |
+|  Densité au bout de la jetée | 1028,0  |
+|  Température de l'eau | 14,8  |

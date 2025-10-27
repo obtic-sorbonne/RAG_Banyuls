@@ -1,0 +1,35 @@
+# 24 Janvier 1903
+
+|  **Position** | **Noat** | **Prix**  |
+| --- | --- | --- |
+|  Hauteur Maronctrique | 769.3 | 768.4  |
+|  Direction du vent | cr.or.o | cr.or.o  |
+|  Force | 5 | 5 fort  |
+|  Reg. O. (lire) | 0 | 3 agn.  |
+|  **Félicité** |  |   |
+|  (Reg. E. (me)) | 0 | 0  |
+|  Direction des nuages | cr.or.o | cr.or.o  |
+|  **Hut Tombé** |  |   |
+|  Température de l'air | 7.7 | 10.4  |
+|  Hauteur de la mer | 14.9 | 15.9  |
+|  **Égitation de l'eau** | 3 fort | 3  |
+|  Densité au bout de la jolie | 1027.2 | 1027.2  |
+|  Température de l'eau | 10.1 | 10.6  |
+
+# 27 Janvier 1903
+
+|  **Position** | **Noat** | **Prix**  |
+| --- | --- | --- |
+|  Hauteur Maronctrique | 772.6 |   |
+|  Direction du vent |  |   |
+|  Force | 15 fuible |   |
+|  Reg. O. (lire) | 2 agn. |   |
+|  **Félicité** |  |   |
+|  (Reg. E. (me)) | 2 agn. |   |
+|  Direction des nuages |  |   |
+|  **Hut Tombé** |  |   |
+|  Température de l'air | 9.3 |   |
+|  Hauteur de la mer | 19.9 |   |
+|  **Égitation de l'eau** | 3 |   |
+|  Densité au bout de la jolie | 1027.7 |   |
+|  Température de l'eau | 10.7 |   |

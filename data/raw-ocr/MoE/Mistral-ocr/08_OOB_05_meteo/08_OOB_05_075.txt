@@ -1,0 +1,27 @@
+|  V. 31 Janvier - 1908 | Nibatin | Jour  |
+| --- | --- | --- |
+|  Hauteur Prorométrique | 184.8 |   |
+|  Direction du vent | or.0.0 |   |
+|  Force | 0.9 fort. |   |
+|  Nebutivite | 0 |   |
+|  (Rig. x (mer) |  |   |
+|  Direction des mages | or.0.0 |   |
+|  Unie tombeé |  |   |
+|  Température de l'air | 11.9 |   |
+|  Hauteur de la mer |  |   |
+|  Agitation de l'eau | 3 fort. |   |
+|  Densité au bout de la jetée |  |   |
+|  Température de l'eau | 5 |   |
+|  1er Février - 1908 | Nibatin | Jour  |
+|  Hauteur Prorométrique | 191.0 |   |
+|  Direction du vent | or.0.0 |   |
+|  Force | 0 |   |
+|  Nebutivite | 0 |   |
+|  (Rig. x (mer) |  |   |
+|  Direction des mages | or.0.0 |   |
+|  Unie tombeé |  |   |
+|  Température de l'air | 11.2 |   |
+|  Hauteur de la mer |  |   |
+|  Agitation de l'eau | 3 |   |
+|  Densité au bout de la jetée |  |   |
+|  Température de l'eau | 5 |   |

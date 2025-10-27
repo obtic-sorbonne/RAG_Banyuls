@@ -1,0 +1,6 @@
+embeddings:
+  default_model: "sentence-transformers/paraphrase-multilingual-mpnet-base-v2"
+  fallback_model: "sentence-transformers/all-MiniLM-L6-v2"
+  batch_size: 64
+  normalization: "l2"
+  device: "cuda"  # or "cpu"

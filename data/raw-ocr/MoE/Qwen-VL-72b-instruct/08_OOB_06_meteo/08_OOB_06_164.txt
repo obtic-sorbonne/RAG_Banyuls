@@ -1,0 +1,86 @@
+### Observations du 1901-06-09
+
+| Paramètre                                   | Valeur                  |
+|--------------------------------------------|------------------------|
+| **Nombre de bateaux sortis**               | 36,2                   |
+| **Température de l'air**                   | -                       |
+|    maxima depuis la veille                 | 36,2                   |
+|    minima                                 | 16,1                   |
+| **Température de l'eau**                   | -                       |
+|    maxima depuis la veille                 | -                       |
+|    minima                                 | -                       |
+| **Pluie tombée depuis la veille** (mm)     | -                       |
+| **Evaporation depuis le 190 (mm)**         | -                       |
+| **Direction du vent (à terre)**            |                          |
+|    à 9 h m                                | Est                    |
+|    à 3 h s                                | S.S.E.                 |
+| **Force**                                 |                          |
+|    à 9 h m                                | 1                      |
+|    à 3 h s                                | 1 fort                 |
+| **Direction des nuages**                   |                          |
+|    à 9 h m                                | 5.0                    |
+|    à 3 h s                                | 5.0                    |
+| **Nébulosité**                             |                          |
+|    Région Ouest (terre)                   | 60                     |
+|    Région Est (mer)                       | 60                     |
+| **Hauteur de la mer (cm au-dessus du zéro)** |                          |
+|    à 9 h m                                | 34.0                   |
+|    à 3 h s                                | 29.8                   |
+| **Agitation de l'eau**                     |                          |
+|    à 9 h m                                | faible                 |
+|    à 3 h s                                | 1                      |
+| **Densité de l'eau au bout de la jetée**   |                          |
+|    à 9 h m                                | 1026.0                 |
+|    à 3 h s                                | 1029.8                 |
+| **Température**                            |                          |
+|    Balise                                | 19.7                   |
+|    Terram - Matin (maxima)                | 24.3                   |
+|    Terram - Matin (minima)                | 31.7                   |
+|    Terram - Matin (minima)                | 16.1                   |
+|    Terram - Matin (maxima)                | 37.0                   |
+|    Terram - Loir (maxima)                 | -26.2                  |
+|    Terram - Loir (minima)                 | -                       |
+
+---
+
+### Observations du 1901-06-10
+
+| Paramètre                                   | Valeur                  |
+|--------------------------------------------|------------------------|
+| **Nombre de bateaux sortis**               | 28,7                   |
+| **Température de l'air**                   | -                       |
+|    maxima depuis la veille                 | 28.7                   |
+|    minima                                 | 14.6                   |
+| **Température de l'eau**                   | -                       |
+|    maxima depuis la veille                 | -                       |
+|    minima                                 | -                       |
+| **Pluie tombée depuis la veille** (mm)     | 14.62                  |
+| **Evaporation depuis le 190 (mm)**         | -                       |
+| **Direction du vent (à terre)**            |                          |
+|    à 9 h m                                | N.O.                   |
+|    à 3 h s                                | S.O.                   |
+| **Force**                                 |                          |
+|    à 9 h m                                | faible                 |
+|    à 3 h s                                | 1                      |
+| **Direction des nuages**                   |                          |
+|    à 9 h m                                | N.O.                   |
+|    à 3 h s                                | N.O.                   |
+| **Nébulosité**                             |                          |
+|    Région Ouest (terre)                   | 60                     |
+|    Région Est (mer)                       | 60                     |
+| **Hauteur de la mer (cm au-dessus du zéro)** |                          |
+|    à 9 h m                                | 33.1                   |
+|    à 3 h s                                | 29.9                   |
+| **Agitation de l'eau**                     |                          |
+|    à 9 h m                                | faible                 |
+|    à 3 h s                                | faible                 |
+| **Densité de l'eau au bout de la jetée**   |                          |
+|    à 9 h m                                | 1029.6                 |
+|    à 3 h s                                | 1029.3                 |
+| **Température**                            |                          |
+|    Balise                                | 19.2                   |
+|    Terram - Matin (maxima)                | 19.6                   |
+|    Terram - Matin (maxima)                | 36.9                   |
+|    Terram - Matin (minima)                | 14.6                   |
+|    Terram - Loir (maxima)                 | -                       |
+|    Terram - Loir (minima)                 | -                       |

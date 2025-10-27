@@ -1,0 +1,29 @@
+| V. 21 Xbre 1907 | Matin | Soir |
+|----------------|-------|------|
+| Hauteur Barométrique | 767,0 | 765,7 |
+| Direction du Vent | S.O | S.O |
+| Force | faible | 2 fort |
+| Nebulité | Reg. C. (Terre) | 3 | 10 |
+| Reg. E. (mer) | 2 | 10 |
+| Direction des vagues | S.E | S.E |
+| Pluie tombée | " | " |
+| Température de l'air | 12,4 | 13,7 |
+| Hauteur de la mer | 38,1 | 32,2 |
+| Agitation de l'eau | 1 | 1 |
+| Densité au bord de la jetée | 0,28,8 | 0,28,6 |
+| Température de l'eau | 1/2 | 14,8 |
+
+| V. 23 Xbre 1907 | Matin | Soir |
+|----------------|-------|------|
+| Hauteur Barométrique | 770,2 | 769,6 |
+| Direction du Vent | S.O | S.E |
+| Force | 1 | 1 fort |
+| Nebulité | Reg. C. (Terre) | 10 | 10 |
+| Reg. E. (mer) | 10 | 10 |
+| Direction des vagues | S.E | S.E |
+| Pluie tombée | " | " |
+| Température de l'air | 13,4 | 14,0 |
+| Hauteur de la mer | 39,1 | 40,1 |
+| Agitation de l'eau | 1 | 1 fort |
+| Densité au bord de la jetée | 0,28,9 | 0,28,6 |
+| Température de l'eau | 14,8 | 15,2 |

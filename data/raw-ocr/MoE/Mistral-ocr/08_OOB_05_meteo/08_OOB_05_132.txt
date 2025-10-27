@@ -1,0 +1,27 @@
+|  V. 21 Juillet. 1905 | Mbatin | Foir  |
+| --- | --- | --- |
+|  Hauteur Mavonotrique | 257,4 |   |
+|  Direction du vent | crans |   |
+|  Voie | 2 forts |   |
+|  Mébubinite | 0 |   |
+|  (Reg. C. (mer) | 0 |   |
+|  Direction des mages |  |   |
+|  Flue tombe |  |   |
+|  Remporature de l'air | 24,0 |   |
+|  Hauteur de la mer | 18,3 |   |
+|  Oligitation de l'eau | 1 fort |   |
+|  Densité au bout de la jetée | 1024,7 |   |
+|  Remporature de l'eau | 21,7 |   |
+|  V. 25 Juillet. 1905 | Mbatin | Foir  |
+|  Hauteur Mavonotrique | 254,3 |   |
+|  Direction du vent | cr.0.0 |   |
+|  Voie | 5 |   |
+|  Mébubinite | 0 |   |
+|  (Reg. C. (mer) | 0 |   |
+|  Direction des mages | cr.0.0 |   |
+|  Flue tombe | quelques |   |
+|  Remporature de l'air | 26,7 |   |
+|  Hauteur de la mer | 47,6 |   |
+|  Oligitation de l'eau | 17 fort |   |
+|  Densité au bout de la jetée | 1024,7 |   |
+|  Remporature de l'eau | 21,7 |   |

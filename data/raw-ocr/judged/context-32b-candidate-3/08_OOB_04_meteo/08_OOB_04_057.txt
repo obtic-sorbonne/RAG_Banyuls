@@ -1,0 +1,29 @@
+# 4. 29 Janvier-1902
+
+|  Name | Position | Règl. | Sour  |
+| --- | --- | --- | --- |
+|  Hauteur Marométrique | Direction du vent | 2/9.3 | 2/8.4  |
+|  Force | 15 | 1/2 | 1  |
+|  Nébulosité | Reg. O. (terre) | 10 | 10  |
+|  | Reg. E. (mer) | 10 | 10  |
+|  Direction des nuages | or. or.  |  |  |
+|  Pluie tombée | 10.8 | 11.0  |
+|  Température de l'air | 10.8 | 10.8  |
+|  Hauteur de la mer | 8 |  |
+|  Cargitation de l'eau | 1029.2 |  |
+|  Température de l'eau | 12.5 |  |
+
+# 5. 30 Janvier-1902
+
+|  Name | Position | Règl. | Sour  |
+| --- | --- | --- | --- |
+|  Hauteur Marométrique | Direction du vent | 2.63.3 |  |
+|  Force | 15 | 2 |  |
+|  Nébulosité | Reg. O. (terre) | 0 |  |
+|  | Reg. E. (mer) | 0 |  |
+|  Direction des nuages | or. or. o |  |
+|  Pluie tombée | 4.1 |  |
+|  Température de l'air | 1.6 |  |
+|  Hauteur de la mer | 40.6 |  |
+|  Cargitation de l'eau | 1028.0 |  |
+|  Température de l'eau | 12.0 |  |

@@ -1,0 +1,57 @@
+```plaintext
+### OBSERVATIONS DU 1902 26 avril
+
+| **Nombre de bateaux sortis (pêche à l.)** |  |
+| **Température de l'air** |  |
+| - maxima depuis la veille | 17.2 | °C |
+| - minima id. | 11.8 | °C |
+| **Température de l'eau** |  |
+| - maxima depuis la veille |  | °C |
+| - minima id. |  | °C |
+| **Pluie tombée depuis la veille, en millim.** | quelques g | mm |
+| **Évaporation depuis le 1900, en millim.** |  | mm |
+| **Direction du vent (à terre)** | **à 9 h. m.** | **à 3 h. s.** |
+| - Sud | Sud |
+| **Force** | **1 fort.** | **1 fort.** |
+| **Direction des nuages** | **S.S.O.** | **S.S.O.** |
+| **Nébulosité** |  |
+| - région Ouest (terre) | 10 | 10 |
+| - id. Est (mer) | 10 | 10 |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.)** | 39.0 | cm |
+| **Agitation de l'eau** | **1 fort.** |  |
+| **Densité de l'eau au bout de la jetée** | 1028.9 |  |
+| **Température** |  |
+| - Balanç Matin | 14.7 | °C |
+| - Terrasse Matin | 18.9 | °C |
+| - Soir | 26.9 | °C |
+| - Minima | 9.9 | °C |
+| - Minima | 13.4 | °C |
+
+### OBSERVATIONS DU 1902 27 avril
+
+| **Nombre de bateaux sortis (pêche à l.)** |  |
+| **Température de l'air** |  |
+| - maxima depuis la veille | 19.3 | °C |
+| - minima id. | 10.0 | °C |
+| **Température de l'eau** |  |
+| - maxima depuis la veille |  | °C |
+| - minima id. |  | °C |
+| **Pluie tombée depuis la veille, en millim.** | 3.0 | mm |
+| **Évaporation depuis le 1900, en millim.** |  | mm |
+| **Direction du vent (à terre)** | **à 9 h. m.** | **à 3 h. s.** |
+| - Nord | Nord |
+| **Force** | **1 fort.** | **1 fort.** |
+| **Direction des nuages** | **S.S.O.** | **S.S.O.** |
+| **Nébulosité** |  |
+| - région Ouest (terre) | 10 | 10 |
+| - id. Est (mer) | 10 | 10 |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.)** | 40.7 | cm |
+| **Agitation de l'eau** | **1 fort.** |  |
+| **Densité de l'eau au bout de la jetée** | 1028.3 |  |
+| **Température** |  |
+| - Balanç Matin | 12.0 | °C |
+| - Terrasse Matin | 13.6 | °C |
+| - Soir | 26.4 | °C |
+| - Minima | 7.0 | °C |
+| - Minima | 11.9 | °C |
+```

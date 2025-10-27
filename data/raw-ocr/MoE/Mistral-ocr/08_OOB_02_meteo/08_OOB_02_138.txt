@@ -1,0 +1,17 @@
+# Date 29 Juillet 1901
+
+|  Nautique | 9e Ottan 3e Soir  |
+| --- | --- |
+|  Nauteur Maronotrique | 704, 2  |
+|  Direction du vent | 7000  |
+|  Force | 1  |
+|  Reg. G. (terre) | 10  |
+|  Tébullosité | 10  |
+|  Direction des nuages | 10  |
+|  Huie tombée | 8, 2, 0  |
+|  Température de l'air | 19, 8  |
+|  Nauteur de la mer | 46, 8  |
+|  Égitation de l'eau | 1  |
+|  Densité de l'eau | 102, 7  |
+|  Énergie | 2, 0  |
+|  Température de l'eau | 20, 6  |

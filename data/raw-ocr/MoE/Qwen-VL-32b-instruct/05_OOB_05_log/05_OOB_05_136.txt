@@ -1,0 +1,34 @@
+```
+N°
+Sortie du _________    _________ 190
+
+Départ de ________ à ________ heures du ________
+pour ________
+Arrivée à ________ à ________ heures du ________
+
+Départ de ________ à ________ heures du ________
+pour ________
+Arrivée à ________ à ________ heures du ________
+
+Départ de ________ à ________ heures du ________
+pour ________
+Arrivée à ________ à ________ heures du ________
+
+Arrivée au mouillage à ________ h. du ________
+
+Etat du temps:
+
+Passagers à bord:
+
+Objet de la sortie:
+
+Consommation
+{
+briquettes de ________ Poids en Kilos ________
+huile                Total en litres ________
+}
+
+Dépenses:
+
+Observations:
+```

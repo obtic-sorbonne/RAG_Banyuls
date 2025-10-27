@@ -1,0 +1,31 @@
+```
+V. 20 février. 1903 | Matin | Soir |
+| --- | --- | --- |
+|  Hauteur Barométrique | 787.7 | 753.0 |
+|  Direction du vent | 20.0 |  |
+|  Force | 1.0 | 0 |
+|  Nébulosité (Reg. O. (terre)) | 8 | 0 |
+|  Nébulosité (Reg. X. (mur)) | 0 |  |
+|  Direction des nuages |  |  |
+|  Flux tombé |  |  |
+|  Température de l'air | 8.9 | 11.4 |
+|  Hauteur de la mer | 80.3 | 81.8 |
+|  Agitation de l'eau | 8 | 8 |
+|  Densité au bout de la jetée | 1028.8 | 1028.4 |
+|  Température de l'eau | 10.2 | 12.5 |
+
+V. 24 février. 1903 | Matin | Soir |
+| --- | --- | --- |
+|  Hauteur Barométrique | 721.4 |  |
+|  Direction du vent | E-N-E |  |
+|  Force | 2.0 |  |
+|  Nébulosité (Reg. O. (terre)) | 1 |  |
+|  Nébulosité (Reg. X. (mur)) |  |  |
+|  Direction des nuages | E-N-E |  |
+|  Flux tombé |  |  |
+|  Température de l'air | 10.6 |  |
+|  Hauteur de la mer | 60.7 |  |
+|  Agitation de l'eau | 1.0 |  |
+|  Densité au bout de la jetée | 1028.6 |  |
+|  Température de l'eau | 11.6 |  |
+```

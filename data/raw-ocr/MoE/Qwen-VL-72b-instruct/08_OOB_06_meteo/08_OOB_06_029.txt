@@ -1,0 +1,41 @@
+OBSERVATIONS DU 1900 7 Juin
+
+| Nombre de bateaux sortis (pêche à la Sarline). | 16 |
+| --- | --- |
+| Température de l'air | maxima depuis la veille | 31,7 |
+|  | minima id. | 14,3 |
+| Température de l'eau | maxima depuis la veille |  |
+|  | minima id. |  |
+| Pluie tombée depuis la veille, en millim. |  |
+| Evaporation depuis le 190 , en millim. |  |
+|  | à 9 h. m. | à 3 h. s. |
+| Direction du vent (à terre). | E4 | N.E |
+| Force |  |  |
+| Direction des nuages | 18 Juile | 1 N.O |
+| Nébulosité | région Ouest (terre) | 2 | 8 |
+|  | id. Est (mer) | 1 | 3 |
+| Hauteur de la mer, en centimètres, au-dessus du zéro. | 47,9 |  |
+| Agitation de l'eau | 17.2.10 | 18.2.0 |
+| Densité de l'eau au bout de la jetée. | 621,8 | 1024,8 |
+| Température id. | 17,8 | 20,2 |
+
+OBSERVATIONS DU 1900 8 Juin
+
+| Nombre de bateaux sortis (pêche à la Sarline). | 16 |
+| --- | --- |
+| Température de l'air | maxima depuis la veille | 31,3 |
+|  | minima id. | 18,3 |
+| Température de l'eau | maxima depuis la veille |  |
+|  | minima id. |  |
+| Pluie tombée depuis la veille, en millim. |  |
+| Evaporation depuis le 190 , en millim. |  |
+|  | à 9 h. m. | à 3 h. s. |
+| Direction du vent (à terre). | N.E |  |
+| Force |  | 1 fort |
+| Direction des nuages |  | 1 P.O |
+| Nébulosité | région Ouest (terre) | 10 |  |
+|  | id. Est (mer) | 10 |  |
+| Hauteur de la mer, en centimètres, au-dessus du zéro. | 47,9 |  |
+| Agitation de l'eau |  | 1 |
+| Densité de l'eau au bout de la jetée. | 621,8 | 1024,8 |
+| Température id. |  | 18,4 |

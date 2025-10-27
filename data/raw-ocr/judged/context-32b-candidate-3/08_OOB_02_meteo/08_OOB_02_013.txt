@@ -1,0 +1,25 @@
+# Date - 15 Mars 1901
+
+|  | 9" matin | 4" soir |
+| --- | --- | --- |
+| Hauteur Barométrique | 755,4 | 755,6 |
+| Direction du vent | Ouest | Ouest |
+| Force | 3 | 3 |
+| Ébulosité | 10 | 10 |
+| Reg. E. (mer) | 2 | 0 |
+| Direction des nuages | Ouest | Ouest |
+| Pluie tombée | 0 | 0 |
+| Température de l'air | 12,9 | 12,9 |
+| Hauteur de la mer | 47,8 | 46,2 |
+| Agitation de l'eau | 5 | 6 |
+| Densité de l'eau | 1,5 | 1,6 |
+| Température de l'eau | 11,5 | 11,6 |
+
+Séminaire Barométrique Direction du vent Force mme 15 Reg. E. (Verre)
+Direction des nuages
+Pluie tombée
+Température de l'air
+Hauteur de la mer
+Agitation de l'eau
+Densité de l'eau / à la jetée au large
+Séminaire de l'eau

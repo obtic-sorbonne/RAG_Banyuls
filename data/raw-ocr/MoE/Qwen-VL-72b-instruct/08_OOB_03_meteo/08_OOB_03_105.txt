@@ -1,0 +1,21 @@
+```
+Date: 16 Janvier 1902
+
+| Paramètre                             | 9h Matin | 3h00 Soir |
+|--------------------------------------|---------|----------|
+| Hauteur Barométrique                | 780.0   | 775.7    |
+| Direction des nuages du vent        | N.N.O   | N.N.O    |
+| Pluie tombée Force                    | 2       | 2 T. fort |
+| Nébulosité                          |         |          |
+|   Reg. O. (Clair)                   | 0       | 0        |
+|   Reg. E. (nu)                      | 1       | légère  |
+| Direction des nuages                | "       | "        |
+| Pluie tombée                        | "       | "        |
+| Température de l'air                 | 8,6     | 14,1     |
+| Hauteur de la mer                   | 61.8    | 70.5     |
+| Agitation de l'eau                  | 3 T. fort  | 3        |
+| Densité de l'eau                    |          |          |
+|   amont de la jetée                 | 1028.9  | 1028.4   |
+|   au large                          |          |          |
+| Température de l'eau                | 11.3    | 11.4     |
+```

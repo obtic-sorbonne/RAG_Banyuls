@@ -1,0 +1,33 @@
+```markdown
+# 17 Août 1907
+
+| **Date**       | **Matin** | **Soir** |
+| --- | --- | --- |
+| Hauteur barométrique | 768.8 | 767.4 |
+| Direction du vent | Nord | N.O. |
+| Force | 3 | 3 |
+| Nébulosité (Rég. C. Aire) | 10 | 10 |
+| Direction des nuages | Ouest | N.O. |
+| Pluie tombée | —— | —— |
+| Température de l'air | 21.6 | 28.3 |
+| Hauteur de la mer | 37.0 | 39.6 |
+| Agitation de l'eau | 2 (fort) | 2 (fort) |
+| Densité au bord de la jetée | 1027.7 | 1027.6 |
+| Température de l'eau | 21.3 | 22.0 |
+
+# 19 Août 1907
+
+| **Date**       | **Matin** | **Soir** |
+| --- | --- | --- |
+| Hauteur barométrique | 767.4 | 766.2 |
+| Direction du vent | E | S.S.E. |
+| Force | 1 | 2 (fort) |
+| Nébulosité (Rég. C. Aire) | 0 | 5 |
+| Direction des nuages | E | S.O. |
+| Pluie tombée | —— | —— |
+| Température de l'air | 24.6 | 30.0 |
+| Hauteur de la mer | 60.0 | 47.0 |
+| Agitation de l'eau | 1 (faible) | 2 (fort) |
+| Densité au bord de la jetée | 1026.9 | 1026.6 |
+| Température de l'eau | 23.2 | 24.3 |
+```

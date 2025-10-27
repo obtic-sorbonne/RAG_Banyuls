@@ -1,0 +1,35 @@
+# V. 15 Novembre 1903
+
+|  **Position** | **Matin** | **Soir**  |
+| --- | --- | --- |
+|  Hauteur Barométrique | 764.6 | 764.6  |
+|  Direction du vent | or.0 0  | or.0 0  |
+|  Force | 2 | 1 post.  |
+|  Nébulosité | 3 | 3  |
+|  Reg. O. (terre) | 3 | 3  |
+|  Reg. F. (mer) | 2 | 2  |
+|  Direction des nuages | 3500 mts. | 3500 mts.  |
+|  Pluie tombée | 0 | 0  |
+|  Température de l'air | 15.5 | 15.5  |
+|  Hauteur de la mer | 10.4 | 10.4  |
+|  Agitation de l'eau | 1 faible | 1 faible  |
+|  Densité au bout de la jetée | 1028.1 | 1028.1  |
+|  Température de l'eau | 16.0 | 16.0  |
+
+# V. 16 Novembre 1903
+
+|  **Position** | **Matin** | **Soir**  |
+| --- | --- | --- |
+|  Hauteur Barométrique | 706.5 | 706.5  |
+|  Direction du vent | 400.5 | 400.5  |
+|  Force | 15 | 15  |
+|  Nébulosité | 15 faible | 15 faible  |
+|  Reg. O. (terre) | 1000 mts. | 1000 mts.  |
+|  Reg. F. (mer) | 10 | 10  |
+|  Direction des nuages | 10 | 10  |
+|  Pluie tombée | 10 | 10  |
+|  Température de l'air | 14.8 | 14.8  |
+|  Hauteur de la mer | 32.6 | 32.6  |
+|  Agitation de l'eau | 15 faible | 15 faible  |
+|  Densité au bout de la jetée | 1029.1 | 1029.1  |
+|  Température de l'eau | 13.7 | 13.7  |

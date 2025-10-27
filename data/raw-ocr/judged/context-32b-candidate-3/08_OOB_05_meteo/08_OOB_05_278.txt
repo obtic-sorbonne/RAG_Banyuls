@@ -1,0 +1,35 @@
+```markdown
+# 31 Juillet 1907
+
+| **Date et heure**    | **Matin** | **Soir** |
+|---------------------|----------|----------|
+| Hauteur Barométrique | 766.0 mmHg | 767.0 mmHg |
+| Direction du Vent    | cr. O.   | cr. - cr. O. |
+| Force               | 4        | 3        |
+| Rég. c. Terre       | Très lég. | 3        |
+| Nébulosité (Reg. 2nd (nuv.)) | Très légère | 0        |
+| Direction des nuages | N. O.   | N. O.   |
+| Pluie Tombée        | ——      | ——      |
+| Température de l’air | 21.3 °C | 26.7 °C |
+| Hauteur de la mer    | 21.8 cm | 26.7 cm |
+| Agitation de l’eau  | 3 (fort) | 2 (fort) |
+| Densité au bout de la jetée | 1027.6 g/cm³ | 1027.0 g/cm³ |
+| Température de l’eau | 21.4 °C | 21.0 °C |
+
+# 1er Août 1907
+
+| **Date et heure**    | **Matin** | **Soir** |
+|---------------------|----------|----------|
+| Hauteur Barométrique | 769.0 mmHg | ——        |
+| Direction du Vent    | S. E.   | ——        |
+| Force               | 15       | 1        |
+| Régl. 6. (Terre)    | +        | 3        |
+| Nébulosité (Reg. 2nd (nuv.)) | ——      | 3        |
+| Direction des nuages | ——      | ——      |
+| Pluie Tombée        | ——      | ——      |
+| Température de l’air | 23.0 °C | ——        |
+| Hauteur de la mer    | +        | Er.      |
+| Agitation de l’eau  | Er.      | 1 (faible) |
+| Densité au bout de la jetée | 1027.9 g/cm³ | ——        |
+| Température de l’eau | 21.6 °C | ——        |
+```

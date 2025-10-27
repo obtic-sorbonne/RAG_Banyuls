@@ -1,0 +1,31 @@
+```markdown
+| 7. 10 Octobre - 1905 | Matin | Soir  |
+|----------------------|-------|-------|
+| Hauteur Barométrique (mmHg) | 754,8 | 762,2  |
+| Direction du Vent | 1,8   | 1,8   |
+| Force du Vent | 3 fort | 3 fort  |
+| Nébulosité | 10 | 10  |
+| Rég. c. Clarté (%) | 10 | 10  |
+| Direction des Nuages | 10 | 10  |
+| Pluie Tombée | gristine, 3 | gristine, 3  |
+| Température de l'Air (°C) | 38,3 | 34,0  |
+| Hauteur de la Mer (m) | 37,3 | 34,0  |
+| Agitation de l'Eau | 17,60 | 3  |
+| Densité au bout de la Jetée (kg/m³) | 10,28,3 | 10,28,3  |
+| Température de l'Eau (°C) | 18,7 | 18,7  |
+
+| 7. 11 Octobre - 1905 | Matin | Soir  |
+|----------------------|-------|-------|
+| Hauteur Barométrique (mmHg) | 76,7  | 760,3  |
+| Direction du Vent | 10,0  | 10,0  |
+| Force du Vent | 3,60  | 3  |
+| Nébulosité | 10 | 10  |
+| Rég. c. Clarté (%) | 10 | 10  |
+| Direction des Nuages | 8,7,8 | 10  |
+| Pluie Tombée | 4,2,0 | 11,7  |
+| Température de l'Air (°C) | 13,8 | 14,3  |
+| Hauteur de la Mer (m) | 3 | 3  |
+| Agitation de l'Eau | 1 fort | 3 fort  |
+| Densité au bout de la Jetée (kg/m³) | 6 | 6  |
+| Température de l'Eau (°C) | 7 | 7  |
+```

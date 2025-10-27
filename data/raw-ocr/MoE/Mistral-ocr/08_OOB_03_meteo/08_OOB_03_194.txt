@@ -1,0 +1,19 @@
+# Date de 1902
+
+|  Nom | Date | Type  |
+| --- | --- | --- |
+|  Jauteur Maronctrique | 268,2 | 766,8  |
+|  Direction du vent |  |   |
+|  Force | 3 jour | 3 jour  |
+|  Reg. O. (ren) |  |   |
+|  Mobilioir |  |   |
+|  (Reg. E. (mer) |  |   |
+|  Direction des nuages |  |   |
+|  Fluc tombee |  |   |
+|  Température de l'air | 21,7 | 23,9  |
+|  |   |   |
+|  Jauteur de la mer |  | 68,9  |
+|  Opitation de l'eau | 1 jour | 2  |
+|  Densité de l'eau | 1022,9 | 1022,9  |
+|  |   |   |
+|  Température de l'eau | 18,8 | 16,4  |

@@ -1,0 +1,30 @@
+```plaintext
+| **Date**             | **Matin**      | **Soir**       |
+|----------------------|----------------|----------------|
+| **V. 15 Septembre 1902** |                |                |
+| Hauteur Barométrique | 766.3          |                |
+| Direction du vent    | croix          | 2 foibles      |
+| Force                | 1              | 1              |
+| Nébulosité Rég. O. (terre) | 0 | 1 |
+| Nébulosité Rég. E. (mer) | 0 | 0 |
+| Direction des nuages | "             | "             |
+| Pluie tombée         | "             | "             |
+| Température de l'air | 21.1           | 21.0           |
+| Hauteur de la mer    | 47.1           | 42.1           |
+| Agitation de l'eau   | 2 faibles      | 1              |
+| Densité au bout de la jetée | 1027.2 | 1027.3         |
+| Température de l'eau | 21.1           | 22.3           |
+| **V. 16 Septembre 1902** |                |                |
+| Hauteur Barométrique | 767.8          | 766.2          |
+| Direction du vent    | croix          | S-E.           |
+| Force                | 1 faible       | 2 foibles      |
+| Nébulosité Rég. O. (terre) | 0 | 1 |
+| Nébulosité Rég. E. (mer) | 0 | 2 |
+| Direction des nuages | "             | S-E.           |
+| Pluie tombée         | "             | "             |
+| Température de l'air | 19.2           | 21.0           |
+| Hauteur de la mer    | 3.2            | 2.1            |
+| Agitation de l'eau   | 1 faible       | 1              |
+| Densité au bout de la jetée | 1026.8 | 1027.3         |
+| Température de l'eau | 21.4           | 22.3           |
+```

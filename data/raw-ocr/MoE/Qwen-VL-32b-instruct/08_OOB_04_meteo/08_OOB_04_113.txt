@@ -1,0 +1,36 @@
+V. 9 Juillet. 1902
+
+|  |   |   |
+| --- | --- | --- |
+|  Hauteur | Praerométrique | 467,6  |
+|   | Direction du vent | 30,2  |
+|   | Force | 48,3  |
+|   |  | 0  |
+|  Néel |  |   |
+|  Néel |  |   |
+|  1 Reg. |  |   |
+|  Direction des images |  |   |
+|  1 1111 |  |   |
+|  1 Reg. |  |   |
+|  11 Juillet. 1902 |  | 20,2  |
+|  1111 |  | 48,3  |
+|  1111 |  | 0  |
+|  1111 |  | 27,6  |
+
+V. 11 Juillet. 1902
+
+|  |   |   |
+| --- | --- | --- |
+|  Hauteur | Praerométrique | 467,5  |
+|   | Direction du vent | or.0.0  |
+|   | Force | 4  |
+|   |  | 0  |
+|  Néel |  |   |
+|  Néel |  |   |
+|  1 Reg. |  |   |
+|  Direction des images |  | or.0.0  |
+|  1 1111 |  | 21,3  |
+|  1 1111 |  | 72,7  |
+|  1111 |  | 3  |
+|  1111 |  | 1026,6  |
+|  1111 |  | 21,7  |

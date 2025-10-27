@@ -1,0 +1,31 @@
+# V. 24 Janvier. 1907
+
+|  **Tanteur** | **Poursentisque**  |
+| --- | --- |
+|  Direction du vent | 7.09.8  |
+|  Force | 15  |
+|  Nébulosité | (Reg. G. (1)  |
+|  |   |
+|  Direction des mages | 10  |
+|  Flux tombe | 8.4  |
+|  Température de l'air | 17.1  |
+|  Hauteur de la mer | 10.1  |
+|  Agitation de l'eau | 6  |
+|  Sensité au bout de la jetée |   |
+|  Température de l'eau | 5  |
+
+# V. 25 Janvier. 1907
+
+|  **Tanteur** | **Poursentisque**  |
+| --- | --- |
+|  Direction du vent | 7.07.4  |
+|  Force | 5.8  |
+|  Nébulosité | (Reg. G. (1)  |
+|  |   |
+|  Direction des mages | 10  |
+|  Flux tombe | 5.8  |
+|  Température de l'air | 8.0  |
+|  Hauteur de la mer | 11.1  |
+|  Agitation de l'eau | 6  |
+|  Sensité au bout de la jetée |   |
+|  Température de l'eau | 5  |

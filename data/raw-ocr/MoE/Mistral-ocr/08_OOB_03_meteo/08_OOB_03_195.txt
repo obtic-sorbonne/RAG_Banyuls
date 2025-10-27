@@ -1,0 +1,18 @@
+# Date 27 mai 1902
+
+|  Name | 9th Station | 3rd Join  |
+| --- | --- | --- |
+|  Kanteur Barometrique | 25.1 | 254.4  |
+|  Direction du vent | or.or. | 25.5  |
+|  Force | 2 faith | 1 fort  |
+|  Reg. O. (hors) |  |   |
+|  9 débutovits |  |   |
+|  1 Reg. F. (mer) |  |   |
+|  Direction des nuages | or.or. | 11  |
+|  2 finie tombée |  |   |
+|  1 température de l'air | 21.4 | 24.0  |
+|  2 Kanteur de la mer | 15.1 | 62.3  |
+|  1 agitation de l'eau | 17. faible | 17. faible  |
+|  1 Densité de l'eau | 1028.1 | 1027.1  |
+|  2 amilarye |  |   |
+|  1 température de l'eau | 15.2 | 18.6  |

@@ -1,0 +1,26 @@
+| Date       | Matin | Soir |
+|------------|-------|------|
+| 2 Août 1907 |       |      |
+| Hauteur Barométrique | 766,1 | 766,1 |
+| Direction du vent | S | S.S.E |
+| Force | 3 Fort | 3 Fort |
+| Nébulosité (Reg. O. Clère) | 0 | 0 |
+| Direction des nuages | " | " |
+| Pluie tombée | " | " |
+| Température de l'air | 29,7 | 29,7 |
+| Hauteur de la mer | 44,2 | 44,2 |
+| Agitation de l'eau | 1 faible | 1 faible |
+| Densité au bout de la jetée | 1026,9 | 1026,9 |
+| Température de l'eau | 23,9 | 23,9 |
+| 3 Août 1907 |       |      |
+| Hauteur Barométrique | 767,2 | 766,3 |
+| Direction du vent | E.S.E | E.S.E |
+| Force | 3 Fort | 3 |
+| Nébulosité (Reg. O. Clère) | 0 | 0 |
+| Direction des nuages | " | " |
+| Pluie tombée | " | " |
+| Température de l'air | 26,8 | 32,0 |
+| Hauteur de la mer | 44,0 | 46,0 |
+| Agitation de l'eau | 1 faible | 1 faible |
+| Limite au bout de la jetée | 1023,4 | 1026,5 |
+| Température de l'eau | 22,3 | 21,2 |

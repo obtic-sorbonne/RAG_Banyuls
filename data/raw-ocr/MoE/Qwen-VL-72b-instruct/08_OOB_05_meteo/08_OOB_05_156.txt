@@ -1,0 +1,29 @@
+| V. 3 Octobre 1906 | Matin | Soir |
+|-------------------|-------|------|
+| Hauteur Barométrique | 766,3 | 765,2 |
+| Direction du vent | Est | E.S.E |
+| Force | 1 | 1 fort |
+| Nébulosité | Reg. c. (clair) | 60 | 2 |
+| Nébulosité | Reg. E. (nuage) | 60 | 2 |
+| Direction des nuages | O.Cr.O | O.Cr.O |
+| Pluie tombée | " | " |
+| Température de l'air | 21,2 | 24,0 |
+| Hauteur de la mer | 47,1 | 47,2 |
+| Agitation de l'eau | 1 faible | 1 faible |
+| Densité au bâur de la jetée | 1028,0 | 1027,8 |
+| Température de l'eau | 20,2 | 21,1 |
+
+| V. 4 Octobre 1906 | Matin | Soir |
+|-------------------|-------|------|
+| Hauteur Barométrique | 765,7 | 764,0 |
+| Direction du vent | E.S.E | S.S.E |
+| Force | 1 | 2 faible |
+| Nébulosité | Reg. c. (clair) | 10 légère | 2 |
+| Nébulosité | Reg. E. (nuage) | 10 légère | 2 |
+| Direction des nuages | Ouest | Ouest |
+| Pluie tombée | " | " |
+| Température de l'air | 23,2 | 27,4 |
+| Hauteur de la mer | 46,7 | 48,8 |
+| Agitation de l'eau | 1 faible | 1 faible |
+| Densité au bâur de la jetée | 1027,2 | 1027,8 |
+| Température de l'eau | 20,2 | 21,6 |

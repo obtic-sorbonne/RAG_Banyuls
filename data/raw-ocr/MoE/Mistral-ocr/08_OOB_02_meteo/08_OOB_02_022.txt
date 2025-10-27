@@ -1,0 +1,15 @@
+# Date. 2h mars 1901
+
+|  |   |
+| --- | --- |
+|  Hanteur Barométrique | 9" Matin 3" Bois  |
+|  Direction Su vent. | 702,0  |
+|  Force | 1000  |
+|  % Ébulosité / Reg. O. (livre) | 4  |
+|  Direction Ses nuages | 1  |
+|  Unité Tombé | "  |
+|  Température De l'air | 8,5  |
+|  Hanteur De la mer | 50,8  |
+|  Agitation De l'eau | 4  |
+|  Densité De l'eau / au Range | 10,4  |
+|  Température De l'eau | 10,4  |

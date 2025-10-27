@@ -1,0 +1,31 @@
+```plaintext
+|  V. 10 Janvier. 1901 | Matin | Soir  |
+| --- | --- | --- |
+|  Hauteur Barométrique | 275.0 |   |
+|  Direction du vent | 14.0 |   |
+|  Force | 4 fort |   |
+|  Nébulosité | 10 |   |
+|  (Reg. 2. (min)) | 10 |   |
+|  Direction des nuages | 14.0 |   |
+|  Pluie tombée | 11 |   |
+|  Température de l'air | 9.6 |   |
+|  Hauteur de la mer | 61.1 |   |
+|  Agitation de l'eau | 3 |   |
+|  Densité au bout de la jetée | 1029.4 |   |
+|  Température de l'eau | 13.5 |   |
+
+|  V. 12 Janvier. 1901 | Matin | Soir  |
+| --- | --- | --- |
+|  Hauteur Barométrique | 270.3 |   |
+|  Direction du vent | 14.0 |   |
+|  Force | 3 |   |
+|  Nébulosité | 10 |   |
+|  (Reg. 2. (min)) | 0 |   |
+|  Direction des nuages | 11 |   |
+|  Pluie tombée | 11 |   |
+|  Température de l'air | 10.6 |   |
+|  Hauteur de la mer | 12.8 |   |
+|  Agitation de l'eau | 1 fort |   |
+|  Densité au bout de la jetée | 1029.4 |   |
+|  Température de l'eau | 13.5 |   |
+```

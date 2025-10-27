@@ -1,0 +1,47 @@
+```plaintext
+| **OBSERVATIONS DU 1901 17 AVRIL** |
+| --- |
+| **Nombre de bateaux sortis (pêche à la traine)** | - |
+| **Température de l'air** |  |
+| - **maxima depuis la veille** | 19,7 |
+| - **minima id.** | 4,7 |
+| **Température de l'eau** |  |
+| - **maxima depuis la veille** | - |
+| - **minima id.** | - |
+| **Pluie tombée depuis la veille, en millim.** | - |
+| **Évaporation depuis le 1900, en millim.** | - |
+| **à 9 h. m.** | **à 3 h. s.** |
+| **Direction du vent (à terre)** | **N. E.** | **S. E.** |
+| **Force** | **faible** | **1 fort** |
+| **Direction des nuages** | **N. E.** | **S. S. O.** |
+| **Nébulosité** |  |
+| - **région Ouest (terre)** | **0** | **2** |
+| - **id. Est (mer)** | **0** | **1** |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.)** | **29,8** | **4,0** |
+| **Agitation de l'eau** | **1** | **1 fort.** |
+| **Densité de l'eau au bout de la jetée** | **1027,9** | **1028,0** |
+| **Température id.** | **11,3** | **11,7** |
+
+| **OBSERVATIONS DU 1901 18 AVRIL** |
+| --- |
+| **Nombre de bateaux sortis (pêche à la traine)** | **38** |
+| **Température de l'air** |  |
+| - **maxima depuis la veille** | 20,3 |
+| - **minima id.** | 6,3 |
+| **Température de l'eau** |  |
+| - **maxima depuis la veille** | - |
+| - **minima id.** | - |
+| **Pluie tombée depuis la veille, en millim.** | - |
+| **Évaporation depuis le 1900, en millim.** | - |
+| **à 9 h. m.** | **à 3 h. s.** |
+| **Direction du vent (à terre)** | **S. E.** | **Sud** |
+| **Force** | **faible** | **1 fort** |
+| **Direction des nuages** | - | **S. S. O.** |
+| **Nébulosité** |  |
+| - **région Ouest (terre)** | **40** | **2** |
+| - **id. Est (mer)** | **40** | **1** |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.)** | **22,4** | **36,0** |
+| **Agitation de l'eau** | **3 fort** | **1 fort.** |
+| **Densité de l'eau au bout de la jetée** | **1028,8** | **1028,3** |
+| **Température id.** | **12,6** | **12,9** |
+```

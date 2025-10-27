@@ -1,0 +1,36 @@
+```
+Journal Météorologique du Navire "La Belle Poule"
+Période : 6 et 9 Avril 1906
+
+| Nombre de jours de bateaux | Date       | Matin | Soir  |
+|----------------------------|------------|-------|-------|
+| 6                          | 6 Avril 1906 |      |      |
+|                            | Hauteur Barométrique (mm) | 768.2 | - |
+|                            | Direction du vent | Est | - |
+|                            | Force | 2 | - |
+|                            | Nébulosité (Reg. O. Terre) | 40 | - |
+|                            | Nébulosité (Reg. E. Mer) | 40 | - |
+|                            | Direction des nuages | Sud | - |
+|                            | Pluie tombée (mm) | 6.0 | - |
+|                            | Température de l'air (°C) | 10.5 | - |
+|                            | Hauteur de la mer (m) | S | - |
+|                            | Agitation de l'eau (code) | 7 | - |
+|                            | Densité au bout de la jetée (g/cm³) | S | - |
+|                            | Température de l'eau (°C) | - | - |
+
+| 9                          | 9 Avril 1906 |      |      |
+|                            | Hauteur Barométrique (mm) | 766.9 | 766.7 |
+|                            | Direction du vent | Ouest | cr.cro.8 |
+|                            | Force | 5 | 1 fort. 1 |
+|                            | Nébulosité (Reg. O. Terre) | 3 | 2 |
+|                            | Nébulosité (Reg. E. Mer) | 0 | 0 |
+|                            | Direction des nuages | cr.cr.E | cr.cr.8 |
+|                            | Pluie tombée (mm) | 8.7 | - |
+|                            | Température de l'air (°C) | 12.7 | 16.0 |
+|                            | Hauteur de la mer (m) | 12.1 | 16.0 |
+|                            | Agitation de l'eau (code) | 1 | 1 |
+|                            | Densité au bout de la jetée (g/cm³) | 1 | 1 |
+|                            | Température de l'eau (°C) | - | - |
+
+Note Marginale : Aucune remarque particulière pour ces dates.
+```

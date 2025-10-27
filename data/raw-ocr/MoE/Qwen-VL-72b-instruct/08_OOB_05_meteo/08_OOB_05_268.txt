@@ -1,0 +1,28 @@
+| Date       | Matin | Soir |
+|------------|-------|------|
+| 9 Juillet 1907 |       |      |
+| Hauteur Barométrique | 770,7 | 769,7 |
+| Direction du Vent | E.V.N.O. | S.S.O. |
+| Force | 2 | 2 |
+| Nébulosité | Reg. 0. (Terre) | 0 | 2 |
+| Reg. 2. (mer) | 1 | 1 |
+| Direction des vagues | S.S.E. | E.V.N.O. |
+| Pluie Tombée |       |      |
+| Température de l'air | 19,0 | 25,0 |
+| Hauteur de la mer | 63,8 | 63,5 |
+| Agitation de l'eau | 1 | 1 |
+| Densité au bord de la jetée | 628,2 | 1027,7 |
+| Température de l'eau | 19,0 | 21,5 |
+| 10 Juillet 1907 |       |      |
+| Hauteur Barométrique | 769,9 |       |
+| Direction du Vent | S.S.E. |       |
+| Force | 2 |       |
+| Nébulosité | Reg. 0. (Terre) | 7 | légère |
+| Reg. 2. (mer) | 1 |       |
+| Direction des vagues | E.V.O. |       |
+| Pluie Tombée |       |      |
+| Température de l'air | 27,8 |       |
+| Hauteur de la mer | 63,7 |       |
+| Agitation de l'eau | 1 |       |
+| Densité au bord de la jetée | 1027,3 |       |
+| Température de l'eau | 22,3 |       |

@@ -1,0 +1,17 @@
+# Date: 26 Juin. 1901
+
+|  Item | Q. | R.  |
+| --- | --- | --- |
+|  Hauteur Marométrique | 9" Matin 3" Soir |   |
+|  Direction Su vent | 767,5 | 765,4  |
+|  Force | 1/2 | 1/2  |
+|  IV |  |   |
+|  Tébuloïde | Reg. D. (terre) | Reg. D. (mer)  |
+|  Direction des nuages |  | Reg. D. (mer)  |
+|  Flux Lombé |  |   |
+|  Température de l'air |  | 38,7  |
+|  Hauteur de la mer |  | 62,6  |
+|  Gâtation de l'eau |  | 1/2000  |
+|  Densité de l'eau |  | 1027,7  |
+|  Pan Varge |  |   |
+|  Température de l'eau |  | 30,7  |

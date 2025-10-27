@@ -1,0 +1,46 @@
+### Observations du 1901 29 Novembre
+
+| **Nombre de bateaux sortis (pêche à la ligne)** | 19.7 |
+|---|---|
+| **Température de l'air** } maxima depuis la veille | 19.7 |
+| **Température de l'air** } minima id. | 13.7 |
+| **Température de l'eau** } maxima depuis la veille |  |
+| **Température de l'eau** } minima id. |  |
+| **Pluie tombée depuis la veille, en millim.** | 0,83 |
+| **Évaporation depuis le 1901**, en millim. |  |
+| **Direction du vent (à terre)** |         |        |
+| **À 9 h. m.** | Nord       |      |
+| **À 3 h. s.** | Sud        |      |
+| **Force** | faible |      |
+| **Direction des nuages** | Est       |      |
+| **Nébulosité** } région Ouest (terre) | 60 |         |         |
+| **Nébulosité** } id. Est (mer) | 60 |         |         |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.)** | 29,7 | 19,4 |
+| **Agitation de l'eau** | 2,7 (faible) | 2 |
+| **Densité de l'eau au bout de la jetée** | 10,237,7 | 10,237,6 |
+| **Température** } id. Terre Matin | maxima 29,7 | minima 13,7 |
+| **Température** } id. Terre Soir | maxima 29,4 | minima 15,2 |
+
+---
+
+### Observations du 1901 30 Novembre
+
+| **Nombre de bateaux sortis (pêche à la ligne)** | 17,0 |
+|---|---|
+| **Température de l'air** } maxima depuis la veille | 17,0 |
+| **Température de l'air** } minima id. | 12,2 |
+| **Température de l'eau** } maxima depuis la veille |  |
+| **Température de l'eau** } minima id. |  |
+| **Pluie tombée depuis la veille, en millim.** | 22.0 |
+| **Évaporation depuis le 1901**, en millim. |  |
+| **Direction du vent (à terre)** |         |        |
+| **À 9 h. m.** | N.N.O.       |      |
+| **À 3 h. s.** | N.E.         |      |
+| **Force** | 1 |      |
+| **Direction des nuages** | N.E      |      |
+| **Nébulosité** } région Ouest (terre) | 60 |         |         |
+| **Nébulosité** } id. Est (mer) | 60 |         |         |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.)** | 26,3 |  |
+| **Agitation de l'eau** | 2 (faible) |     |
+| **Densité de l'eau au bout de la jetée** | 10,26.3 |     |
+| **Température** } id. Terre Matin | maxima 29,7 | minima 10,8 |

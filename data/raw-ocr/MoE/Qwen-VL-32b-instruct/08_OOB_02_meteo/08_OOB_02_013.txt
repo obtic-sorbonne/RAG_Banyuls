@@ -1,0 +1,23 @@
+# Date - 15 Mars 1901
+
+|  |   |   |
+| --- | --- | --- |
+|  Hauteur Barometrique | 9" matin 4" soir | 9" matin 4" soir  |
+|  Direction du vent | 755,4 | 755,6  |
+|  Force | Ouest | Ouest  |
+|  3 | 3 | 3  |
+|  2 | 2 | 2  |
+|  Ébulusité |  |   |
+|  Reg. E. (mer) | 1 | 2  |
+|  Direction des miages | Ouest | Ouest  |
+|  3e miage | 11,500 | 11,500  |
+|  2e miage | 12,9 | 12,9  |
+|  Température de l'air | 47,8 | 46,2  |
+|  1st mardi | 25,2 | 25,2  |
+|  Hauteur de la mer | 47,8 | 46,2  |
+|  2nd mardi | 25,2 | 25,2  |
+|  1st mardi | 25,2 | 25,2  |
+|  Densité de l'eau | 11,5 | 11,6  |
+|  1st mardi | 11,5 | 11,6  |
+
+Température de l'eau: 11,5

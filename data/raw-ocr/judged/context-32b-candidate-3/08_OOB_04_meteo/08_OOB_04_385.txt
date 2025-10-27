@@ -1,0 +1,31 @@
+```plaintext
+|  N. 11 Juin - 1904 | Matin | Jour  |
+| --- | --- | --- |
+|  Hauteur Barométrique | 28.1 | 29.0  |
+|  Direction du vent | 0.0.0 | 0.0  |
+|  Force | 1 fort | 3  |
+|  Nébulosité | Reg. 0. (min) | 10  |
+|  Nébulosité | Reg. 2. (min) | 10  |
+|  Direction des nuages | 0.0.0 | 0.0.0  |
+|  Pluie tombée | 9.12 | 9.12  |
+|  Température de l'air | 16.5 | 17.9  |
+|  Hauteur de la mer | 1 faible | 1  |
+|  Régulation de l'eau | 1 faible | 1  |
+|  Densité au bout de la jetée | 1084.1 | 1084.1  |
+|  Température de l'eau | 16.5 | 17.9  |
+
+|  N. 19 Juin - 1904 | Matin | Jour  |
+| --- | --- | --- |
+|  Hauteur Barométrique | 28.0 |   |
+|  Direction du vent | 0.8 |   |
+|  Force | 2 |   |
+|  Nébulosité | Reg. 0. (bien) | 0  |
+|  Nébulosité | 0 | 0  |
+|  Direction des nuages | 0.8 |   |
+|  Pluie tombée | 1.2 |   |
+|  Température de l'air | 18.5 |   |
+|  Hauteur de la mer | 49.8 |   |
+|  Régulation de l'eau | 3 faible |   |
+|  Densité au bout de la jetée | 1081.9 |   |
+|  Température de l'eau | 19.3 |   |
+```

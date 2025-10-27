@@ -1,0 +1,30 @@
+```markdown
+| Date          | Matin     | Soir      |
+|---------------|-----------|-----------|
+| 22 Octobre 1906 |           |           |
+| Hauteur Barométrique (mmHg) | 767.3 | 768.8  |
+| Direction du Vent | Sud      | Sud-Est  |
+| Force du Vent | 3         | 2 forte   |
+| Nébulosité | 0          | 3         |
+| Rég. c. Clarté (%) | 2        | 2        |
+| Direction des Nuages | S.O.     | S.O.     |
+| Pluie Tombée | —          | —         |
+| Température de l'Air (°C) | 20.8    | 23.2    |
+| Hauteur de la Mer (m) | 28.2    | 36.8    |
+| Agitation de l'Eau | 2 faible | 1 tr. fort |
+| Densité au bout de la Jetée (kg/m³) | 1029.6 | 1028.4  |
+| Température de l'Eau (°C) | 19.2    | 19.4    |
+| 23 Octobre 1906 |           |           |
+| Hauteur Barométrique (mmHg) | 768.2 |         |
+| Direction du Vent | Sud-Est  |         |
+| Force du Vent | 3         | forte    |
+| Nébulosité | 10         | 10        |
+| Rég. c. Clarté (%) | 10       | 10       |
+| Direction des Nuages |         | S.O.     |
+| Pluie Tombée | —          | —         |
+| Température de l'Air (°C) |         | 21.6    |
+| Hauteur de la Mer (m) |         | 38.8    |
+| Agitation de l'Eau |         | 1        |
+| Densité au bout de la Jetée (kg/m³) |         | 1029.8  |
+| Température de l'Eau (°C) |         | 19.6    |
+```

@@ -1,0 +1,27 @@
+|V. 2 Février. 1906|Matin|Soir|
+|---|---|---|
+|Hauteur Barométrique|769.8|767.4|
+|Direction du vent|cr.cr.o|cr.cr.o|
+|Force|3 fort|4|
+|Nébulosité (Reg. O.(terre)|10|1|
+||Reg.E.(mer)|4||
+|Direction des nuages|cr. E|cr.cr.o|
+|Pluie tombée|"|"|
+|Température de l'air|9.3|11.9|
+|Hauteur de la mer|70.6|70.1|
+|Agitation de l'eau|3 fort|3|
+|Rensite au bout de la jetée|1028.8|S|
+|Temperature de l'eau|13.6|3|
+|V. 6 Février. 1906|Matin|Soir|
+|Hauteur Barométrique|758.8| |
+|Direction du vent|cr.cr.o| |
+|Force|6| |
+|Nébulosité Reg.O.(terre)|10| |
+||Reg.E.(mer)|4||
+|Direction des nuages|Est| |
+|Pluie Tombée|"|"|
+|Température de l'air| | |
+|Hauteur de la mer| | |
+|Agitation de l'eau|3| |
+|Rensite au bout de la jetée|S| |
+|Temperature de l'eau| | |

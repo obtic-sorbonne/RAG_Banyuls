@@ -1,0 +1,42 @@
+| **OBSERVATIONS DU 1901 26 Septembre** |
+| --- |
+| **Nombre de bateaux sortis (pêche à l.)** |  |  |
+| **Température de l'air** | **maxima depuis la veille** | 26.9 |
+|  | **minima id.** | 14.4 |
+| **Température de l'eau** | **maxima depuis la veille** |  |
+|  | **minima id.** |  |
+| **Pluie tombée depuis la veille, en millim.** |  |  |
+| **Evaporation depuis le 18 Sept 1901, en millim.** |  | 3.7 |
+|  | **à 9 h. m.** | **à 3 h. s.** |
+| **Direction du vent (à terre)** |  | Nord |
+| **Force** |  | 1 fort |
+| **Direction des nuages** |  | Nord |
+| **Nébulosité** | **région Ouest (terre)** | 1 |
+|  | **id. Est (mer)** | 1 |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.)** |  | 41.0 |
+| **Agitation de l'eau** |  | 1 fort |
+| **Densité de l'eau au bout de la jetée** |  | 1,026.9 |
+| **Température id.** |  | 21.3 |
+|  | **Matin** | **maxima** | 33.9 |
+|  | **id. Coucher de soleil** | **minima** | 17.8 |
+| **OBSERVATIONS DU 1901 27 Septembre** |
+| --- |
+| **Nombre de bateaux sortis (pêche à l.)** |  | 29.8 |
+| **Température de l'air** | **maxima depuis la veille** | 21.8 |
+|  | **minima id.** | 20.6 |
+| **Température de l'eau** | **maxima depuis la veille** |  |
+|  | **minima id.** |  |
+| **Pluie tombée depuis la veille, en millim.** |  |  |
+| **Evaporation depuis le ... 190 ... en millim.** |  |  |
+|  | **à 9 h. m.** | **à 3 h. s.** |
+| **Direction du vent (à terre)** |  | N.N.E. |
+| **Force** |  | 1 fort |
+| **Direction des nuages** |  | Nord |
+| **Nébulosité** | **région Ouest (terre)** | 0 |
+|  | **id. Est (mer)** | 1 |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.)** |  | 31.6 |
+| **Agitation de l'eau** |  | 1 fort |
+| **Densité de l'eau au bout de la jetée** |  | 1,026.0 |
+| **Température id.** |  | 20.8 |
+|  | **Matin** | **maxima** | 30.6 |
+|  | **id. Coucher de soleil** | **minima** | 18.8 |

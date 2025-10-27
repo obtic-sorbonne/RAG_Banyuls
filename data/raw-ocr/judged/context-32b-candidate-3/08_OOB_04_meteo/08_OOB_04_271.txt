@@ -1,0 +1,25 @@
+# V. 6 Septembre - 1903
+
+|  **Plauteur** | **Vraisonnécrique** | **Direction** | **Suivant**  |
+| --- | --- | --- | --- |
+|  1 | Direction Suivant |  |   |
+|  2 | Force |  |   |
+
+---
+
+N° 6 Septembre - 1903
+
+|  Matin | Soir  |
+| --- | --- |
+|  Hauteur Barométrique | 766.2 | 766.6  |
+|  Direction du vent | Sud-Est | Sud-Est  |
+|  Force | 1 | 1  |
+|  (Reg. O. (terre)) | 10 | 10  |
+|  (Reg. F. (mer)) | 10 | 10  |
+|  Direction des nuages | SE 8 | SE 8  |
+|  (Claire tombée) | 1 | 1  |
+|  Température de l'air | 25.0 | 26.0  |
+|  Hauteur de la mer | 47.8 | 51.0  |
+|  (Agitation de l'eau) | 2 | 2  |
+|  Densité au bout de la jetée | 1027.4 | 1027.5  |
+|  Température de l'eau | 21.7 | 22.2  |

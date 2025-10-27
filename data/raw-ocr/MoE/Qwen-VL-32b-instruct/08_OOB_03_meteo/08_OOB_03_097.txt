@@ -1,0 +1,16 @@
+# Date 7 Janvier 1902
+
+|   | 0st. Prisation | 3rd Soir  |
+| --- | --- | --- |
+|  Kauteur Praxometrique | 773.4 | 773.7  |
+|  Direction Su vent | N.N.O | N.N.O  |
+|  Force | 1 | 2  |
+|  Prébulante | Reg.-G. (Terre) | 0  |
+|  Prébulante | Reg.-E. (mer) | 1  |
+|  Direction des nuages |  | 1  |
+|  Huie tombée |  | 1  |
+|  Température de l'air | 9.8 | 13.4  |
+|  Kauteur de la mer | 10.6 | 17.2  |
+|  Agitation de l'eau | 4 | 3  |
+|  Sensible de l'eau | 1029.0 | 1028.5  |
+|  Température de l'eau | 10.7 | 11.3  |

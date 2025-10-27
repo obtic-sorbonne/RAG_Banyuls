@@ -1,0 +1,18 @@
+# Date: Mo. 11 Septembre 1900
+
+|  Item |  | Recurs:  |
+| --- | --- | --- |
+|   | ghm. | 4 hs.  |
+|  **Hauteur barométrique** | 768,2 | 765,2  |
+|  **Direction du vent** | N.-O. | O.N.O.  |
+|  **Force** | 3 | 2  |
+|  **Nébulosité** | (Fig. O. (mm)) | 0  |
+|  **Direction des nuages** | " | "  |
+|  **Pluie tombée** |  |   |
+|  **Température de l'air** | 23,1 | 23,1  |
+|  **Hauteur de la mer** | 0,31 | 0,17  |
+|  **Agitation de l'eau** | 3 | 3  |
+|  **Densité de l'eau** | au bout de la jetée | 1026,5  |
+|  **Température de l'eau** | 21,6 | 21,8  |
+
+**Observat.**

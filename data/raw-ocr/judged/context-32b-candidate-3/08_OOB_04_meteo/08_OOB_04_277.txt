@@ -1,0 +1,33 @@
+# 9. 18 Septembre 1903
+
+|  Hauteur Barométrique | Matin | Soir  |
+| --- | --- | --- |
+|  Hauteur | 766.5 | 766.2  |
+|  Direction du vent | ouest | ouest  |
+|  Force | 2 | 2  |
+|  Rég. O. (terre) | 0 | 0  |
+|  Nébuleuse (Reg. F. (mer)) | 10 | 10  |
+|  Direction des nuages | ouest | ouest  |
+|  Pluie tombée | 0 | 0  |
+|  Température de l'air | 18.3 | 20.3  |
+|  Hauteur de la mer | 60.1 | 43.1  |
+|  Agitation de l'eau | 1 | 1  |
+|  Densité au bout de la jetée | 1028.3 | 1028.3  |
+|  Température de l'eau | 18.0 | 18.3  |
+
+# 19. 20 Septembre 1903
+
+|  Hauteur Barométrique | Matin | Soir  |
+| --- | --- | --- |
+|  Hauteur | 763.6 | 763.6  |
+|  Direction du vent | ouest | ouest  |
+|  Force | 1 | 1  |
+|  Rég. O. (terre) | 10 | 10  |
+|  Nébuleuse (Reg. F. (mer)) | 10 | 10  |
+|  Direction des nuages | ouest | ouest  |
+|  Pluie tombée | 0 | 0  |
+|  Température de l'air | 18.3 | 20.4  |
+|  Hauteur de la mer | 63.6 | 63.6  |
+|  Agitation de l'eau | 1 | 1  |
+|  Densité au bout de la jetée | 1028.3 | 1028.3  |
+|  Température de l'eau | 18.0 | 18.3  |

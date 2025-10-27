@@ -1,0 +1,16 @@
+# V. 22 Janvier 1907
+
+| **Date** | **Matin** | **Soir** |
+| --- | --- | --- |
+| **Hauteur barométrique** | 760.0 mmHg | 758.0 mmHg |
+| **Direction du vent** | S.O | S.O |
+| **Force** | 1 | 1 |
+| **Nébulosité (Reg. C. (terre))** | 0 | 0 |
+| **Nébulosité (Reg. R. (mer))** | 0 | 0 |
+| **Direction des nuages** | — | — |
+| **Pluie tombée** | — | — |
+| **Température de l'air** | 5.0 °C | 6.7 °C |
+| **Hauteur de la mer** | 64.5 m | 64.4 m |
+| **Agitation de l'eau** | 8 fort | 8 fort |
+| **Densité au bout de la jetée** | 1029.8 kg/m³ | 1029.8 kg/m³ |
+| **Température de l'eau** | 12.2 °C | 12.2 °C |

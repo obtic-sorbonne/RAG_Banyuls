@@ -1,0 +1,26 @@
+| **Date**       | **Heure** | **Station** | **Matiin** | **Soir** |
+|---------------|----------|-------------|------------|----------|
+| **9 février 1908** |        |             |            |          |
+| Hauteur barométrique | | |776,8 |777,3 |
+| Direction du vent | | |cr. cr. o |cr. cr. o |
+| Force | | |2 |2 |
+| Nébulosité (Reg. II, Clous.) | | |2 |0 |
+| Direction des nuages | | |cr. cr. o | |
+| Pluie tombée | | | | |
+| Température de l'air | | |6,0 |8,9 |
+| Étendue de la mer | | |23,8 |66,9 |
+| Agitation de l'eau | | |3 fort |3 fort |
+| Densité au bout de la jête | | |428,6 |428,7 |
+| Température de l'eau | | |10,0 |10,3 |
+| **9 février 1908** |        |             |            |          |
+| Hauteur barométrique | | |778,4 | |
+| Direction du vent | | |cr. cr. o | |
+| Force | | |fort |0 |
+| Nébulosité (Reg. II, Clous.) | | |0 | |
+| Direction des nuages | | | | |
+| Pluie tombée | | | | |
+| Température de l'air | | |7,1 | |
+| Étendue de la mer | | |10,8 | |
+| Agitation de l'eau | | |2 | |
+| Densité au bout de la jête | | |428,7 | |
+| Température de l'eau | | |9,9 | |

@@ -1,0 +1,27 @@
+| **Date**       | **Matin**     | **Soir**     |
+|----------------|---------------|--------------|
+| V. 9 juillet 1904 |               |              |
+| Hauteur Barométrique | 767.2 | 766.3 |
+| Direction du vent | S.1.2 | 1.1.6 |
+| Force | 1° 18 | 2 |
+| Nucléosité (Reg. 0 - tense) | 1040 | 1050 |
+| Nucléosité (Reg. 4 - marée) | 1029 | 1026 |
+| Direction des nuages |     |      |
+| Pluie tombée |     |      |
+| Température de l'air | 27.5 | 34.0 |
+| Hauteur de la mer | 16.6 | 44.7 |
+| Agitation de l'eau | 1³.folle | 1².folle |
+| Densité au bout de la jetée | 1026.0 | 1029.7 |
+| Tempéralrale de l'eau | 26.8 | 28.3 |
+| V. 10 juillet 1904 |               |              |
+| Hauteur Barométrique | 765.2 |     |
+| Direction du vent | S.E |     |
+| Force | 1° 13 | 1**- faible |
+| Nucléosité (Reg. 0 - tense) | 0 |     |
+| Nucléosité (Reg. 4 - marée) | 0 |     |
+| Direction des nuages |     |      |
+| Pluie tombée |     |      |
+| Température de l'air | 28.5 |     |
+| Hauteur de la mer | 14.8 |     |
+| Agitation de l'eau | 1². faible |     |
+| Densité au bout de la jetée | 1026.0 | 26.9 |

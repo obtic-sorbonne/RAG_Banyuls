@@ -1,0 +1,30 @@
+```plaintext
+| **Date**       | **Matin** | **Soir** |
+|----------------|-----------|----------|
+| **V. 22 Mai 1904** |
+| Hauteur Barométrique | 763.0     |         |
+| Direction du vent    | env. 8    | Port    |
+| Force                | 1         | 10      |
+| Nébulosité (Reg. 0 - Terre) | 10      |         |
+| Nébulosité (Reg. 2 - Mer)  | 10      | 10      |
+| Direction des nuages |         |         |
+| Pluie tombée         |         |         |
+| Température de l'air |         | 24.6    |
+| Hauteur de la mer    |         | 18.5    |
+| Agitation de l'eau   | faible   |         |
+| Densité au bout de la jetée |         | 1027.7  |
+| Température de l'eau |         | 19.8    |
+| **V. 23 Mai 1904** |
+| Hauteur Barométrique | 767.6     |         |
+| Direction du vent    | env. 0    | Port    |
+| Force                | 1 fort    | 4       |
+| Nébulosité (Reg. 0 - Terre) | 10      |         |
+| Nébulosité (Reg. 2 - Mer)  | 10      | 10      |
+| Direction des nuages |         | env. 0  |
+| Pluie tombée         |         |         |
+| Température de l'air |         |         |
+| Hauteur de la mer    |         | 3       |
+| Agitation de l'eau   |         | 3       |
+| Densité au bout de la jetée |         | 3       |
+| Température de l'eau |         |         |
+```

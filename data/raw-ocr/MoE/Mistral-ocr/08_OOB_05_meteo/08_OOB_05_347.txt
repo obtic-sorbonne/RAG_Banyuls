@@ -1,0 +1,30 @@
+|  V. 28 Janvier - 1908 | Moatin | Soir  |
+| --- | --- | --- |
+|  Hauteur Wsaronehrique | 766,1 | 744,2  |
+|  Direction du Vent | or.0 | 34  |
+|  Force | 3 | 17,6  |
+|  Hébulonte | 10 | 10  |
+|  (Reg. C. (terre) |  |   |
+|  Direction des mages | 10 | 10  |
+|  Hebulointe | or.0 | 0,0  |
+|  (Rey. x. (min) |  |   |
+|  Direction des mages | 14,7 | 16,9  |
+|  Hebule | 12,1 | 11,2  |
+|  (2) | 2 | 2,6  |
+|  20 cmité au bout de la jetée | 1024,0 | 1028,0  |
+|  Dempirature de l'eau | 11,6 | 12,0  |
+|  (2) |  |   |
+|  V. 29 Janvier - 1908 | Moatin | Soir  |
+|  Hauteur Wsaronehrique | 418,3 | 411,0  |
+|  Direction du Vent | or.0 | or. 8  |
+|  Force | 3 fort | 3 fort  |
+|  Hébulonte | 10 | 10  |
+|  (Reg. C. (terre) |  |   |
+|  Direction des mages | 10 | 10  |
+|  Hebule | or.0 | or.0  |
+|  (2) | 2 | 11,8  |
+|  20 cmité au bout de la jetée | 16,1 | 48,8  |
+|  Dempirature de l'eau | 2 | 2,6  |
+|  (2) | 1024,4 | 1027,1  |
+|  1027,4 | 11,7 | 12,0  |
+|  (2) |  |   |

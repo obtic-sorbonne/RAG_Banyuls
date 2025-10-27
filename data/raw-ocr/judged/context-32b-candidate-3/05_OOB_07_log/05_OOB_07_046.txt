@@ -1,0 +1,33 @@
+```plaintext
+N°
+
+Sortie du 16 Août 1909
+
+Départ de Banyuls à 8ᵉ heures du Matin
+
+Départ de  
+pour  
+Départ de  
+pour  
+
+Arrivée à  
+Arrivée à  
+
+Arrivée au mouillage à Banyuls à 11ᵉ h. du matin.
+
+État du temps: Bonne brise de nord-est
+
+Passagers à bord: Mᵐᵉ Racoritza, Jeannel
+
+Objet de la sortie: Pour placer les bouées pour les régates
+
+Consommation
+{
+Briquettes de 60 Roids en Kilos 680 K.
+3 huile Total en litres 3
+}
+
+Dépenses
+
+Observations: Nous étant sous le feu, nous en profitons pour placer les bouées qui doivent servir de but pour la régate de Banyuls.
+```

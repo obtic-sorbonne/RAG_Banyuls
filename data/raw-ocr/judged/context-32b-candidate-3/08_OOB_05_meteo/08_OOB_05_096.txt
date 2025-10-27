@@ -1,0 +1,26 @@
+```
+| **Nombre de jours de bateaux** | **Date**        | **Matin** | **Soir** |
+|-------------------------------|-----------------|-----------|----------|
+| 2                             | r. 30 Mars 1906 | ---       | ---      |
+|                               | Hauteur Barométrique | 769.4 | ---      |
+|                               | Direction du vent     | Est   | Ouest    |
+|                               | Force                 | 5     | Fort     |
+|                               | Nébulosité            | 0     | 3        |
+|                               | Pluie tombée          | ---   | ---      |
+|                               | Température de l'air  | 6.8   | ---      |
+|                               | Hauteur de la mer     | S     | ---      |
+|                               | Agitation de l'eau    | 2 fort| ---      |
+|                               | Densité au bout de la jetée | --- | ---      |
+|                               | Température de l'eau  | ---   | ---      |
+| 1                             | r. 31 Mars 1906 | ---       | ---      |
+|                               | Hauteur Barométrique | 769.4 | ---      |
+|                               | Direction du vent     | Est   | Ouest    |
+|                               | Force                 | 5     | Fort     |
+|                               | Nébulosité            | 0     | 3        |
+|                               | Pluie tombée          | ---   | ---      |
+|                               | Température de l'air  | 6.8   | ---      |
+|                               | Hauteur de la mer     | S     | ---      |
+|                               | Agitation de l'eau    | 2 fort| ---      |
+|                               | Densité au bout de la jetée | --- | ---      |
+|                               | Température de l'eau  | ---   | ---      |
+```

@@ -1,0 +1,524 @@
+{
+  "book_name": "05_OOB_06_log",
+  "pages": [
+    {
+      "page_number": "001",
+      "raw_content": "D\u00c9PARTEMENT DE ST-ETIENNE\nARRONDISSEMENT\nCANTON\n\u00c9COLE COMMUNALE de Sorties du vieux\u00a0\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Roland\ndirig\u00e9e par M\n\nCAHIER DE DEVOIRS M\u00c9NSUELS\nART. 15 DU R\u00c8GLEMENT (1)\nCONFORME AU MOD\u00c8LE PRESCRIT\nPAR LA CIRCULAIRE DU MINISTRE DE L'INSTRUCTION PUBLIQUE\nCOURS\n\nR\u00e9serv\u00e9 \u00e0 l'\u00c9l\u00e8ve\n\nN\u00e9 le ________ \u00e0 ________\n\nEntr\u00e9 \u00e0 l'\u00c9cole le ________ Sorti de l'Ecole le ________\n\n(1) ARTICLE 15 DE L'ARR\u00caT\u00c9 MINIST\u00c9RIEL DU 18 JANVIER 1887\n\nArt. 15. \u2014 Chaque \u00e9l\u00e8ve, \u00e0 son entr\u00e9e \u00e0 l'\u00e9cole, recevra un cahier sp\u00e9cial qu'il devra conserver pendant toute la dur\u00e9e de sa scolarit\u00e9.  \n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0par l'\u00e9l\u00e8ve, en classe et sans secours \u00e9tranger, de telle sorte que l'ensemble de ces devoirs permette de suivre la s\u00e9rie des exercices et d'appr\u00e9cier les progr\u00e8s de l'\u00e9l\u00e8ve d'ann\u00e9e en ann\u00e9e.\n\nLe premier devoir de chaque mois, dans chaque ordre d'\u00e9tudes, sera fait sur ce cahier Ce cahier restera d\u00e9pos\u00e9 \u00e0 l'\u00e9cole.\n\nLibrairie-Papeterie BRUN Fr\u00e8res, 22, Rue des Augustins \u2014 PERPIGNAN\n\n6340 D",
+      "cleaned_content": "D\u00c9PARTEMENT DE ST-ETIENNE\nARRONDISSEMENT\nCANTON\n\u00c9COLE COMMUNALE de Sortiesduvieux\u00a0\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Rolanddirig\u00e9epar M\n\nCAHIER DE DEVOIRS M\u00c9NSUELS\nART. 15 DU R\u00c8GLEMENT (1)\nCONFORME AU MOD\u00c8LE PRESCRIT\nPAR LA CIRCULAIRE DU MINISTRE DE L'INSTRUCTION PUBLIQUE\nCOURS\n\nR\u00e9serv\u00e9 \u00e0 l'\u00c9l\u00e8ve\n\nN\u00e9 le ________ \u00e0 ________\n\nEntr\u00e9 \u00e0 l'\u00c9colele ________ Sortidel'Ecolele ________\n\n(1) ARTICLE 15 DE L'ARR\u00caT\u00c9 MINIST\u00c9RIEL DU 18 JANVIER 1887\n\nArt. 15. \u2014 Chaque \u00e9l\u00e8ve, \u00e0 sonentr\u00e9e \u00e0 l'\u00e9cole, recevrauncahiersp\u00e9cialqu'ildevraconserverpendanttouteladur\u00e9edesascolarit\u00e9.  \n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0parl'\u00e9l\u00e8ve, enclasseetsanssecours \u00e9tranger, detellesortequel'ensembledecesdevoirspermettedesuivrelas\u00e9riedesexercicesetd'appr\u00e9cierlesprogr\u00e8sdel'\u00e9l\u00e8ved'ann\u00e9eenann\u00e9e.\n\nLepremierdevoirdechaquemois, danschaqueordred'\u00e9tudes, serafaitsurcecahier Cecahierresterad\u00e9pos\u00e9 \u00e0 l'\u00e9cole.\n\nLibrairie-Papeterie BRUN Fr\u00e8res, 22, Ruedes Augustins \u2014 PERPIGNAN\n\n6340 D",
+      "entities": {
+        "dates": [
+          "18 JANVIER 1887"
+        ]
+      }
+    },
+    {
+      "page_number": "002",
+      "raw_content": "Le 18e jour du mois de juillet ann\u00e9e 1789.\n\nL'appareil a quitt\u00e9 le port de La Rochelle \u00e0 l'aube. Notre r\u00e9solution est ferme de naviguer vers les c\u00f4tes de l'outremer. Le vent est peu favorable, et la mer semble ind\u00e9cise. Nous esp\u00e9rons quitter les rivages de France avant que la temp\u00eate ne se l\u00e8ve.\n\nAinsi soit-il, \u00e9cris-je dans l'ombre du c\u0153ur, en songeant \u00e0 ceux que j'oque laisser derri\u00e8re moi.\n\nLe s\u00e9ant du commandant, le feu de la cuisson est assoiff\u00e9, et la cloche sonne d\u00e9j\u00e0 \u00e0 l'heure pr\u00e9vu. Le soleil \u00e9merge de l'est, et j'observe les silhouettes des mats emplissant les voiles. Le navire s'\u00e9loigne lentement, mais avec la tristesse de ceux qui savent que ce d\u00e9part promet bien des adieux.\n\nBlottis au seuil, nous quittons ce port de mille souvenirs, ce fond de moisson o\u00f9 la terre se rapproche et o\u00f9 les vagues fra\u00eeches les am\u00e8nent \u00e0 bouillir.\n\nC'est ainsi que l'aventure peut commenser, non comme espoir vague de gloire ou d'argent, mais comme geste inquiet de s'aventurer au-del\u00e0 des contours connus. J'ai encore dans ma m\u00e9moire les cieux de la c\u00f4te, \u00e9toil\u00e9s d'instants brefs o\u00f9 la douleur a sembl\u00e9 s'effacer.\n\nCe r\u00e9cit est le commencement d'une \u00e9pop\u00e9e, dont les dates et les circonstances de retour m'apparaissent encore lointaines.\n\n\u00c0 demain, \u00f4 que cet ailleurs soit doux.",
+      "cleaned_content": "Le 18ejourdumoisdejuilletann\u00e9e 1789.\n\nL'appareila quitt\u00e9 leportde La Rochelle \u00e0 l'aube. Notrer\u00e9solutionestfermedenaviguerverslesc\u00f4tesdel'outremer. Leventestpeufavorable, etlamersembleind\u00e9cise. Nousesp\u00e9ronsquitterlesrivagesde Franceavantquelatemp\u00eatenesel\u00e8ve.\n\nAinsisoit-il, \u00e9cris-jedansl'ombreduc\u0153ur, ensongeant \u00e0 ceuxquej'oquelaisserderri\u00e8remoi.\n\nLes\u00e9antducommandant, lefeudelacuissonestassoiff\u00e9, etlaclochesonned\u00e9j\u00e0 \u00e0 l'heurepr\u00e9vu. Lesoleil \u00e9mergedel'est, etj'observelessilhouettesdesmatsemplissantlesvoiles. Lenavires'\u00e9loignelentement, maisaveclatristessedeceuxquisaventqueced\u00e9partprometbiendesadieux.\n\nBlottisauseuil, nousquittonsceportdemillesouvenirs, cefonddemoissono\u00f9 laterreserapprocheeto\u00f9 lesvaguesfra\u00eecheslesam\u00e8nent \u00e0 bouillir.\n\nC'estainsiquel'aventurepeutcommenser, noncommeespoirvaguedegloireoud'argent, maiscommegesteinquietdes'aventurerau-del\u00e0 descontoursconnus. J'aiencoredansmam\u00e9moirelescieuxdelac\u00f4te, \u00e9toil\u00e9sd'instantsbrefso\u00f9 ladouleura sembl\u00e9 s'effacer.\n\nCer\u00e9citestlecommencementd'une \u00e9pop\u00e9e, dontlesdatesetlescirconstancesderetourm'apparaissentencorelointaines.\n\n\u00c0 demain, \u00f4 quecetailleurssoitdoux.",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "003",
+      "raw_content": "```plaintext\nNOM DE L'INSTITUT  \u00c9COLE COMMUNALE D                 DATE\n(jour, mois, ann\u00e9e)\nNOM DE L'\u00c9L\u00c8VE       COURS\n\nN\u00e9 le _________ ENTR\u00c9 A L'\u00c9COLE    Titre du Devoir : _________\nAnn\u00e9e\n1903\nMercredi 7 janvier 1903\n\nAllum\u00e9 les feux \u00e0 bord du Roland.\n\u00e0\nAppareill\u00e9 { 6 heures\n{ 7 heures\nBriguettes { 1 de 8 kilos\nHuille   { 2 litres 900\nBut de la {\n        { Draguages au large de C\u0153ulliac, en regagnant\nSailie    { la C\u00f4te de B\u00e9arn.\nRentr\u00e9s   \u00e0 10 heures 30.\n```",
+      "cleaned_content": "```plaintext\nNOM DE L'INSTITUT  \u00c9COLE COMMUNALE D                 DATE\n(jour, mois, ann\u00e9e)\nNOM DE L'\u00c9L\u00c8VE       COURS\n\nN\u00e9 le _________ ENTR\u00c9 A L'\u00c9COLE    Titredu Devoir : _________\nAnn\u00e9e\n1903\nMercredi 7 janvier 1903\n\nAllum\u00e9 lesfeux \u00e0 borddu Roland.\n\u00e0\nAppareill\u00e9 { 6 heures\n{ 7 heures\nBriguettes { 1 de 8 kilos\nHuille   { 2 litres 900\nButdela {\n        { Draguagesaulargede C\u0153ulliac, enregagnant\nSailie    { la C\u00f4tede B\u00e9arn.\nRentr\u00e9s   \u00e0 10 heures 30.\n```",
+      "entities": {
+        "dates": [
+          "7 janvier 1903"
+        ]
+      }
+    },
+    {
+      "page_number": "004",
+      "raw_content": "Date du 1<sup>er</sup> F\u00e9vrier 1903\n\nAllum\u00e9 les feux \u00e0 bord du  \n\"Roland\" \u00e0 9h 39.\n\nAppareillage \u00e0 9 heures. allant au  \nCap-Creus pour la p\u00eache au  \nCorail.\n\nFait plusieurs dragages, puis nous avons  \ngagn\u00e9 le Cap du Cap, pour prendre  \nla temp\u00e9rature.\n\nRentres \u00e0 Banyuls \u00e0 6 heures soir  \nBuquettes d\u00e9penses pour aller au Cap.\n\nB\u00eates marques T 33  \nB\u00eates \u2013 AFA 38  \nBuquettes entre milles manque T 8.  \n\n",
+      "cleaned_content": "Datedu 1<sup>er</sup> F\u00e9vrier 1903\n\nAllum\u00e9 lesfeux \u00e0 borddu  \n\"Roland\" \u00e0 9h 39.\n\nAppareillage \u00e0 9 heures. allantau  \nCap-Creuspourlap\u00eacheau  \nCorail.\n\nFaitplusieursdragages, puisnousavonsgagn\u00e9 le Capdu Cap, pourprendrelatemp\u00e9rature.\n\nRentres \u00e0 Banyuls \u00e0 6 heuressoir  \nBuquettesd\u00e9pensespourallerau Cap.\n\nB\u00eatesmarques T 33  \nB\u00eates \u2013 AFA 38  \nBuquettesentremillesmanque T 8.",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "005",
+      "raw_content": "Samedi 7 f\u00e9vrier 1903\n\nSortie du \"Roland\"\n\nAppareillage \u00e0 7 heures Matin  \nFait route vers le large en face Banjuls.  \nOp\u00e9rat plusieurs sondages.  \nRepriis la marche gagnant le grand large.  \n\nFait une s\u00e9rie d'exp\u00e9riences sur la temp\u00e9rature  \nde l'eau de la mer, \u00e0 diverses profondeurs.  \n\nRentr\u00e9s \u00e0 Banjuls \u00e0 9 heures.  \nBriquettes \ud835\uddc1\uc774 { =  {\n   .",
+      "cleaned_content": "Samedi 7 f\u00e9vrier 1903\n\nSortiedu \"Roland\"\n\nAppareillage \u00e0 7 heures Matin  \nFaitrouteverslelargeenface Banjuls.  \nOp\u00e9ratplusieurssondages.  \nRepriislamarchegagnantlegrandlarge.  \n\nFaitunes\u00e9ried'exp\u00e9riencessurlatemp\u00e9raturedel'eaudelamer, \u00e0 diversesprofondeurs.  \n\nRentr\u00e9s \u00e0 Banjuls \u00e0 9 heures.  \nBriquettes \ud835\uddc1\uc774 { =  {\n   .",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "006",
+      "raw_content": "Lundi 9 f\u00e9vrier 1903.\n\nSortie du \"Roland\"\n\nAppareillage \u00e0 7 heures. Matin.\n\nFait route sur Port-Vendres pour y faire de l'eau\net du Charbon.\nA fait le plein de toutes les Caissons \u00e0 eau\nEmbarqu\u00e9 469 briquettes & manque Gd. Comb.\nEn sortant de Port-Vendres donn\u00e9 & Coup de\nObalus - r\u00e9sultats de p\u00eache assez lont.\n\nBriquettes d\u00e9pens\u00e9es\n& 32 de & Pilars =\n& 2 de 10 Kilos =  ",
+      "cleaned_content": "Lundi 9 f\u00e9vrier 1903.\n\nSortiedu \"Roland\"\n\nAppareillage \u00e0 7 heures. Matin.\n\nFaitroutesur Port-Vendrespoury fairedel'eauetdu Charbon.\nA faitlepleindetoutesles Caissons \u00e0 eau\nEmbarqu\u00e9 469 briquettes & manque Gd. Comb.\nEnsortantde Port-Vendresdonn\u00e9 & Coupde\nObalus - r\u00e9sultatsdep\u00eacheassezlont.\n\nBriquettesd\u00e9pens\u00e9es\n& 32 de & Pilars =\n& 2 de 10 Kilos =",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "007",
+      "raw_content": "Mercredi 11 f\u00e9vrier 1903.\n\nPortie du \"Roland\"\n\nAuparavallage \u00e0 7 heures matin\n\nTraquages \u00e0 Fontandran\n\nCoups de Lamberts, pour la p\u00eache au Corail nante\n\nRentres vers les 4 heures 30\"\n\nBittes d\u00e9pens\u00e9es\n136 de 30 kilos \u2014 360\n\nBuguettes. maigre\nG.d. Came.",
+      "cleaned_content": "Mercredi 11 f\u00e9vrier 1903.\n\nPortiedu \"Roland\"\n\nAuparavallage \u00e0 7 heuresmatin\n\nTraquages \u00e0 Fontandran\n\nCoupsde Lamberts, pourlap\u00eacheau Corailnante\n\nRentresversles 4 heures 30\"\n\nBittesd\u00e9pens\u00e9es\n136 de 30 kilos \u2014 360\n\nBuguettes. maigre\nG.d. Came.",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "008",
+      "raw_content": "Jeudi 12 Janvier 1903.\n\nSortie du \"Roland\"\n\nArborciffiage \u00e0 1 heure de l'apr\u00e8s-midi  \npour s'aller donner quelque Coups de Chaluts  \nau large du Cap. l'abeille\n\nDonn\u00e9 deux Coups de Chaluts\n\nRentr\u00e9s \u00e0 9 heures 30\n\nHtes depens\u00e9es  \n{ 1 boite de 30 kilos - 10 Koli\u00f6s  \nMarque { Ga. Combs.  ",
+      "cleaned_content": "Jeudi 12 Janvier 1903.\n\nSortiedu \"Roland\"\n\nArborciffiage \u00e0 1 heuredel'apr\u00e8s-midipours'allerdonnerquelque Coupsde Chalutsaulargedu Cap. l'abeille\n\nDonn\u00e9 deux Coupsde Chaluts\n\nRentr\u00e9s \u00e0 9 heures 30\n\nHtesdepens\u00e9es  \n{ 1 boitede 30 kilos - 10 Koli\u00f6s  \nMarque { Ga. Combs.",
+      "entities": {
+        "dates": [
+          "12 Janvier 1903"
+        ]
+      }
+    },
+    {
+      "page_number": "009",
+      "raw_content": "Samedi 21 f\u00e9vrier 1903\n\nSortie du Roland\n\nAppareill\u00e9 vers les 6 heures du Matin\npour aller rep\u00eacher le chalut du\nbateau de *sans p\u00eache*.\nTous nos efforts pour le retrouver sont rest\u00e9s\ninutiles.\nIl faut rouler pour le Cap *Creus* pour\naller p\u00eacher le *Coraill*.\n\nOttes depens\u00e9es { 43 de so*til* } = 480 livres\nMarque Oa Cambe.",
+      "cleaned_content": "Samedi 21 f\u00e9vrier 1903\n\nSortiedu Roland\n\nAppareill\u00e9 versles 6 heuresdu Matinpourallerrep\u00eacherlechalutdubateaude *sansp\u00eache*.\nTousnoseffortspourleretrouversontrest\u00e9sinutiles.\nIlfautroulerpourle Cap *Creus* pourallerp\u00eacherle *Coraill*.\n\nOttesdepens\u00e9es { 43 deso*til* } = 480 livres\nMarque Oa Cambe.",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "010",
+      "raw_content": "D\u00eemanche 22 Janvier 1908.\n\nArriv\u00e9e de l'excursion Espagnole.\n\nSortie du Roland.\n\nApparille vers 1 heure de l'apr\u00e8s-midi\n\nPour aller \u00e0 Cerb\u00e8re, prendre quelques\n\nmembres de l'excursion.\n\nFait route sur Banyuls, ou nous sommes\n\nrentres vers les 8 heures apr\u00e8s-midi.\n\nBuquettes d\u00e9pens\u00e9es {1/5 de 10 Francs, 50 c.\n\nMarque { 3<sup>e</sup> Comte.}",
+      "cleaned_content": "D\u00eemanche 22 Janvier 1908.\n\nArriv\u00e9edel'excursion Espagnole.\n\nSortiedu Roland.\n\nApparillevers 1 heuredel'apr\u00e8s-midi\n\nPouraller \u00e0 Cerb\u00e8re, prendrequelquesmembresdel'excursion.\n\nFaitroutesur Banyuls, ounoussommesrentresversles 8 heuresapr\u00e8s-midi.\n\nBuquettesd\u00e9pens\u00e9es {1/5 de 10 Francs, 50 c.\n\nMarque { 3<sup>e</sup> Comte.}",
+      "entities": {
+        "dates": [
+          "22 Janvier 1908"
+        ]
+      }
+    },
+    {
+      "page_number": "011",
+      "raw_content": "```plaintext\nLundi 23 f\u00e9vrier 1903\n\nPartie du Roland\n\nAvarcielle vers les 4 heures du Matin\npour aller, donner un Coup de Chalut\nen face Cond\u00e9-Combolini.\nTous les Excicrmoniles Espagnols \u00e9taient\n\u00e0 bord.\nDonn\u00e9 un Coup de Chalut, puis nous\navons rentri \u00e0 Banyuls.\n\nBuquettes d\u00e9penc\u00e9es.        { 1/\" de 10 K\u00ecla = 130 Vilos\nMarque \u24b8                                 ca Comb.\n```",
+      "cleaned_content": "```plaintext\nLundi 23 f\u00e9vrier 1903\n\nPartiedu Roland\n\nAvarcielleversles 4 heuresdu Matinpouraller, donnerun Coupde Chalutenface Cond\u00e9-Combolini.\nTousles Excicrmoniles Espagnols \u00e9taient\n\u00e0 bord.\nDonn\u00e9 un Coupde Chalut, puisnousavonsrentri \u00e0 Banyuls.\n\nBuquettesd\u00e9penc\u00e9es.        { 1/\" de 10 K\u00ecla = 130 Vilos\nMarque \u24b8                                 ca Comb.\n```",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "012",
+      "raw_content": "Mercredi et Jeudi 1903  \nPartie du Roland.  \n\nAppareill\u00e9 vers les 8 heures du matin pour  \naller Conduire les Excomunielles \u00e9espagnols.  \n\u00e0 Port. Ban.  \nArriv\u00e9 \u00e0 Port. Ban vers les 10 heures Matin.  \nau Retour sur \u00e0 Banjuls o\u00f9 nous sommmes  \nanv\u00e9s vers midi.  \n\nBuquelles d\u00e9pens\u00e9s { 19 de 10 bialis \u2013 190 kilos.  \nMarque Ond compb.  ",
+      "cleaned_content": "Mercrediet Jeudi 1903  \nPartiedu Roland.  \n\nAppareill\u00e9 versles 8 heuresdumatinpouraller Conduireles Excomunielles \u00e9espagnols.  \n\u00e0 Port. Ban.  \nArriv\u00e9 \u00e0 Port. Banversles 10 heures Matin.  \nau Retoursur \u00e0 Banjulso\u00f9 noussommmesanv\u00e9sversmidi.  \n\nBuquellesd\u00e9pens\u00e9s { 19 de 10 bialis \u2013 190 kilos.  \nMarque Ondcompb.",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "013",
+      "raw_content": "Samedi 28 f\u00e9vrier 1908.\n\nSorti du Roland.\n\nAppareill\u00e9 \u00e0 8 heures du Matin pour aller \u00e0 Port Vendres.\n\nArriv\u00e9s \u00e0 Port Vendres \u00e0 9 heures Matin nous sommes re\u00e7us par M\u00b0 Pams d\u00e9put\u00e9 - Mr Bernard ministre des postes et t\u00e9l\u00e9graphes et sa suite\n\nCes messieurs furent plac\u00e9s sur le Roland, et vont faire une promenade dans le port puis nous poursuivrons notre promenade jusqu'\u00e0 face la baie de Collioure\n\nRent\u00e9s dans le port de Port Vendres \u00e0 14 heures o\u00f9 Les messieurs le d\u00e9barquent\n\nBttes d\u00e9pens\u00e9es { 19 de sohilos\n10 en Cours de route\n                        {        91/arge          G d Condy\n                        { par la jumenada\n                        { dtruiar du jeu dans le port.\n",
+      "cleaned_content": "Samedi 28 f\u00e9vrier 1908.\n\nSortidu Roland.\n\nAppareill\u00e9 \u00e0 8 heuresdu Matinpouraller \u00e0 Port Vendres.\n\nArriv\u00e9s \u00e0 Port Vendres \u00e0 9 heures Matinnoussommesre\u00e7uspar M\u00b0 Pamsd\u00e9put\u00e9 - Mr Bernardministredespostesett\u00e9l\u00e9graphesetsasuite\n\nCesmessieursfurentplac\u00e9ssurle Roland, etvontfaireunepromenadedansleportpuisnouspoursuivronsnotrepromenadejusqu'\u00e0 facelabaiede Collioure\n\nRent\u00e9sdansleportde Port Vendres \u00e0 14 heureso\u00f9 Lesmessieursled\u00e9barquent\n\nBttesd\u00e9pens\u00e9es { 19 desohilos\n10 en Coursderoute\n                        {        91/arge          G d Condy\n                        { parlajumenada\n                        { dtruiardujeudansleport.",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "014",
+      "raw_content": "Mar. 1903\nLundi\nEmeur",
+      "cleaned_content": "Mar. 1903\nLundi\nEmeur",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "015",
+      "raw_content": "**Mars 1903.**\n\n**Dimanche 1**<sup>er</sup> mars 1903\n\n**Partie du Rolant.**\n\nAffairilli au Pat de port Vendres ou le b\u00e2teaux avait \u00e9t\u00e9 lav\u00e9 la veille pour le plein de leau.\n\nEmbarqu\u00e9 une (Home) Barbon Botte 5, \u00e0 3 kilos.\n\nPart route sur Bamjuls, o\u00f9 nous sommes rentres \u00e0 Midi.\n\n**Buquettes**  \n10 Compt. 3 = **30 kilos**  \nPetites Buquettes de 3 kilos (13 de 3 kilos) = **39.**\n\n**6, 69 h.**",
+      "cleaned_content": "**Mars 1903.**\n\n**Dimanche 1**<sup>er</sup> mars 1903\n\n**Partiedu Rolant.**\n\nAffairilliau Patdeport Vendresouleb\u00e2teauxavait \u00e9t\u00e9 lav\u00e9 laveillepourlepleindeleau.\n\nEmbarqu\u00e9 une (Home) Barbon Botte 5, \u00e0 3 kilos.\n\nPartroutesur Bamjuls, o\u00f9 noussommesrentres \u00e0 Midi.\n\n**Buquettes**  \n10 Compt. 3 = **30 kilos**  \nPetites Buquettesde 3 kilos (13 de 3 kilos) = **39.**\n\n**6, 69 h.**",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "016",
+      "raw_content": "**Samedi 14 mars 1903.**\n\n**Chau\ufb00e, ai r\u00e9gl\u00e9 du 11 mars.**\n**Sortie du Roland.**\nCoup\u00e9 au large de Port Vendres, venant Greleuver en face la baie de Banjuls.\n\n**Baits d\u00e9pens\u00e9s :** 20 \u00bd = 60k.\n- **En cours de route :** 10 \u00bd\n- **Entretien du Jeux :** 10 \u00bd\n- **Retour :** 10 \u00bd\n\n**TOTAL :** 30 - 30.",
+      "cleaned_content": "**Samedi 14 mars 1903.**\n\n**Chau\ufb00e, air\u00e9gl\u00e9 du 11 mars.**\n**Sortiedu Roland.**\nCoup\u00e9 aulargede Port Vendres, venant Greleuverenfacelabaiede Banjuls.\n\n**Baitsd\u00e9pens\u00e9s :** 20 \u00bd = 60k.\n- **Encoursderoute :** 10 \u00bd\n- **Entretiendu Jeux :** 10 \u00bd\n- **Retour :** 10 \u00bd\n\n**TOTAL :** 30 - 30.",
+      "entities": {
+        "dates": [
+          "14 mars 1903"
+        ]
+      }
+    },
+    {
+      "page_number": "017",
+      "raw_content": "Lundi 30 mars. 1903.\n\nPartie du Roland.\n\nAppareill\u00e9 6 heures Matin  \npour aller \u00e0 Port. Vendres faie du  \nCharbon P  \nEmbarqu\u00e9 8520 kilos Charbon  \nRentres \u00e0 6 heures du Soir.  ",
+      "cleaned_content": "Lundi 30 mars. 1903.\n\nPartiedu Roland.\n\nAppareill\u00e9 6 heures Matinpouraller \u00e0 Port. Vendresfaiedu  \nCharbon P  \nEmbarqu\u00e9 8520 kilos Charbon  \nRentres \u00e0 6 heuresdu Soir.",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "018",
+      "raw_content": "Samedi 4 Avril 1903\n\nPortie du Roland.\n\nAppareill\u00e9 \u00e0 3 heures de l'apr\u00e8s-midi pour aller \u00e0 Port-Vendres rejoindre le ministre de la Marine.\n\nBottes d\u00e9pens\u00e9es 18 5 4 Kilo\n\nM<sup>me</sup> Quivert. direction\nM<sup>e</sup> Racovitza. 1<sup>er</sup> directeur on \u00e9tait \u00e0 bord",
+      "cleaned_content": "Samedi 4 Avril 1903\n\nPortiedu Roland.\n\nAppareill\u00e9 \u00e0 3 heuresdel'apr\u00e8s-midipouraller \u00e0 Port-Vendresrejoindreleministredela Marine.\n\nBottesd\u00e9pens\u00e9es 18 5 4 Kilo\n\nM<sup>me</sup> Quivert. direction\nM<sup>e</sup> Racovitza. 1<sup>er</sup> directeuron \u00e9tait \u00e0 bord",
+      "entities": {
+        "dates": [
+          "4 Avril 1903"
+        ]
+      }
+    },
+    {
+      "page_number": "019",
+      "raw_content": "Lundi 6 avril 1900.\n\nSortie du Roland.\n\nAppareill\u00e9 \u00e0 8 heures du Matin J'avant\nroute sur Bambuls.\n\nDottes d\u00e9penses en Cours de route\n19 de 8 kitos L.\n57 tulas.",
+      "cleaned_content": "Lundi 6 avril 1900.\n\nSortiedu Roland.\n\nAppareill\u00e9 \u00e0 8 heuresdu Matin J'avantroutesur Bambuls.\n\nDottesd\u00e9pensesen Coursderoute\n19 de 8 kitos L.\n57 tulas.",
+      "entities": {
+        "dates": [
+          "6 avril 1900"
+        ]
+      }
+    },
+    {
+      "page_number": "020",
+      "raw_content": "Mardi 7 Avril 1903\n\nSortie du Roland\n\nAppareill\u00e9 vers les 6 heures du Matin\n\nJet\u00e9 aller donner un Coup de Sabord\n\nen face Port Vendres.\n\nL'escursion \u00e9tait \u00e0 bord.\n\nC\u00f4tes d\u00e9pens\u00e9s. f 38 = 114k.",
+      "cleaned_content": "Mardi 7 Avril 1903\n\nSortiedu Roland\n\nAppareill\u00e9 versles 6 heuresdu Matin\n\nJet\u00e9 allerdonnerun Coupde Sabordenface Port Vendres.\n\nL'escursion \u00e9tait \u00e0 bord.\n\nC\u00f4tesd\u00e9pens\u00e9s. f 38 = 114k.",
+      "entities": {
+        "dates": [
+          "7 Avril 1903"
+        ]
+      }
+    },
+    {
+      "page_number": "021",
+      "raw_content": "Mercredi 8 Avril.\nSortie du Roland\n\nAppareill\u00e9 le matin \u00e0 6 heures,\nfaisant route sur Lamsa : ou l'excurision\na \u00e9t\u00e9 d\u00e9barqu\u00e9e, pour aller visiter le\nmonast\u00e8re de San Pedro.\nLe vent du Nord souffle avec violence,\nnous sommes oblig\u00e9s de rel\u00e2cher \u00e0 Cerb\u00e8re.\n\nBittes d\u00e9penis (80 =) 24 0 K.",
+      "cleaned_content": "Mercredi 8 Avril.\nSortiedu Roland\n\nAppareill\u00e9 lematin \u00e0 6 heures,\nfaisantroutesur Lamsa : oul'excurisiona \u00e9t\u00e9 d\u00e9barqu\u00e9e, pourallervisiterlemonast\u00e8rede San Pedro.\nLeventdu Nordsouffleavecviolence,\nnoussommesoblig\u00e9sderel\u00e2cher \u00e0 Cerb\u00e8re.\n\nBittesd\u00e9penis (80 =) 24 0 K.",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "022",
+      "raw_content": "Jeudi 9 Avril 1903  \nSortie du Roland.\n\nAppar\u00eb\u00fcle, de Cerb\u00e8re, pour rentrer \u00e0  \nBarjuls, malgr\u00e9 le fort vent du  \nNord  \nRendus \u00e0 Barjuls, nous ne pouvons pas  \nrentrer dans le bassin, nous avons \u00e9t\u00e9  \noblig\u00e9s de mouiller pr\u00e8s de la plage \u00e0 l'abri  \ndu Nord.  \n\nBtes depens\u00e9es 30 ...\n9 0 K.",
+      "cleaned_content": "Jeudi 9 Avril 1903  \nSortiedu Roland.\n\nAppar\u00eb\u00fcle, de Cerb\u00e8re, pourrentrer \u00e0  \nBarjuls, malgr\u00e9 lefortventdu  \nNord  \nRendus \u00e0 Barjuls, nousnepouvonspasrentrerdanslebassin, nousavons \u00e9t\u00e9  \noblig\u00e9sdemouillerpr\u00e8sdelaplage \u00e0 l'abridu Nord.  \n\nBtesdepens\u00e9es 30 ...\n9 0 K.",
+      "entities": {
+        "dates": [
+          "9 Avril 1903"
+        ]
+      }
+    },
+    {
+      "page_number": "023",
+      "raw_content": "Lundi 13 Octobre 1903.\n\nPartie du Roland.\n\nDernier pour Barcelonne, ayant Jouts l'excretion \u00e0 bord.\n\nEscale de 1 heure \u00e0 Palamos pour d\u00e9jeuner, puis \u00e0 St P'dieu de Xixols pour souper et y coucher.\n\nBatte despenrtri $ 39.6klast \n\nD 23\nBitte despenr\u00e9s $ 132\n39.6 KIast",
+      "cleaned_content": "Lundi 13 Octobre 1903.\n\nPartiedu Roland.\n\nDernierpour Barcelonne, ayant Joutsl'excretion \u00e0 bord.\n\nEscalede 1 heure \u00e0 Palamospourd\u00e9jeuner, puis \u00e0 St P'dieude Xixolspoursouperety coucher.\n\nBattedespenrtri $ 39.6klast \n\nD 23\nBittedespenr\u00e9s $ 132\n39.6 KIast",
+      "entities": {
+        "dates": [
+          "13 Octobre 1903"
+        ]
+      }
+    },
+    {
+      "page_number": "024",
+      "raw_content": "Mardi 14 Avril 1933.\n\nPartie du Roland.\n\nAppareill\u00e9 le matin vers les 6 heures.\npour aller faire escale \u00e0 Malaga o\u00f9 le d\u00e9jeuner fut offert aux excursionnistes.\nPartis de Malaga vers les 4 heures pour Barcelone.\nRent\u00e9s \u00e0 Barcelone vers les 7 heures.\n\nBotte d\u00e9jeun\u00e9e 150 = .... 450 KC.",
+      "cleaned_content": "Mardi 14 Avril 1933.\n\nPartiedu Roland.\n\nAppareill\u00e9 lematinversles 6 heures.\npourallerfaireescale \u00e0 Malagao\u00f9 led\u00e9jeunerfutoffertauxexcursionnistes.\nPartisde Malagaversles 4 heurespour Barcelone.\nRent\u00e9s \u00e0 Barceloneversles 7 heures.\n\nBotted\u00e9jeun\u00e9e 150 = .... 450 KC.",
+      "entities": {
+        "dates": [
+          "14 Avril 1933"
+        ]
+      }
+    },
+    {
+      "page_number": "025",
+      "raw_content": "Mercredi 17 Avril 1903.\n\nSortie du Roland  \nPartis le soir de Barcelonne avec un temps passablement beau.  \n\nVers la Matin\u00e9e nous \u00e9tions en face Blan\u00e8s  \n\nJourn\u00e9e  \nde  \nMardi 18  \n\nNous avons poursuivi notre route sur Cadaques malgr\u00e9 l'envage, de vent du Nord, que nous rencontrons sur le Cap S. Sebastian et les \u00eeles des Medes, nous avan\u00e7ons quand M\u00d4MS. et nous allons nous abuter dans le Port de Cadaques o\u00f9 nous arrivons vers les 4 heures de l'apr\u00e8s-midi  \n\nFIgnettes d\u00e9pens\u00e9e en Cours de vents  \nde Barcelonne \u00e0 Cadaques 1039 k.  \n445  \n345",
+      "cleaned_content": "Mercredi 17 Avril 1903.\n\nSortiedu Roland  \nPartislesoirde Barcelonneavecuntempspassablementbeau.  \n\nVersla Matin\u00e9enous \u00e9tionsenface Blan\u00e8s  \n\nJourn\u00e9ede  \nMardi 18  \n\nNousavonspoursuivinotreroutesur Cadaquesmalgr\u00e9 l'envage, deventdu Nord, quenousrencontronssurle Cap S. Sebastianetles \u00eelesdes Medes, nousavan\u00e7onsquand M\u00d4MS. etnousallonsnousabuterdansle Portde Cadaqueso\u00f9 nousarrivonsversles 4 heuresdel'apr\u00e8s-midi  \n\nFIgnettesd\u00e9pens\u00e9een Coursdeventsde Barcelonne \u00e0 Cadaques 1039 k.  \n445  \n345",
+      "entities": {
+        "dates": [
+          "17 Avril 1903"
+        ]
+      }
+    },
+    {
+      "page_number": "026",
+      "raw_content": "Dimanche 19 Avril\nPort\u00e9e du Roland\n\nPartis vers 7 heures de Cadaqu\u00e8s nous doublions le Cap Cerque malgr\u00e9 la\nfole brise de vent du Nord. La mer\ntout agit\u00e9e\n\nRentr\u00e9s \u00e0 Banuls \u00e0 10 heures Matin.\nOttes ... depence\u00e9 3.90 ... 24.0k.",
+      "cleaned_content": "Dimanche 19 Avril\nPort\u00e9edu Roland\n\nPartisvers 7 heuresde Cadaqu\u00e8snousdoublionsle Cap Cerquemalgr\u00e9 lafolebrisedeventdu Nord. Lamertoutagit\u00e9e\n\nRentr\u00e9s \u00e0 Banuls \u00e0 10 heures Matin.\nOttes ... depence\u00e9 3.90 ... 24.0k.",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "027",
+      "raw_content": "Zendredi 24 Avril 1903\n\nSortie du Roland\n\nApparell\u00e9 vers les 6 heures, pour aller renflouer le bateau de Coulibourg.\nPris deux de leurs bateaux \u00e0 la remorque, nous nous rendons \u00e0 l'endroit o\u00f9 se trouve le bateau naufrag\u00e9.\nLes bateaux, ont jet\u00e9s leurs grappins dedans, mais leurs pancnes, ne sont rendues.\nApr\u00e8s plusieurs tentatives d'essais, nous avons rentr\u00e9s.\n\nB'ttes\nd\u00e9pen\u00e9es               110 = 330 k.",
+      "cleaned_content": "Zendredi 24 Avril 1903\n\nSortiedu Roland\n\nApparell\u00e9 versles 6 heures, pourallerrenflouerlebateaude Coulibourg.\nPrisdeuxdeleursbateaux \u00e0 laremorque, nousnousrendons \u00e0 l'endroito\u00f9 setrouvelebateaunaufrag\u00e9.\nLesbateaux, ontjet\u00e9sleursgrappinsdedans, maisleurspancnes, nesontrendues.\nApr\u00e8splusieurstentativesd'essais, nousavonsrentr\u00e9s.\n\nB'ttesd\u00e9pen\u00e9es               110 = 330 k.",
+      "entities": {
+        "dates": [
+          "24 Avril 1903"
+        ]
+      }
+    },
+    {
+      "page_number": "028",
+      "raw_content": "Lundi 27 avril 1773\n\nSortie du Roland\n\nPartis \u00e0 6 heures du Matin\nfaisant route sur Colloire\npour avertir les p\u00eacheurs, qu'on n'avait\npas essayer de renflouer le bateau.\nNous avons gagn\u00e9 un peu le large\npour donner un coup de sabut\n\nBatines\nd\u00e9penzi en route 7 livres 24 sols (14 s. 2d.)",
+      "cleaned_content": "Lundi 27 avril 1773\n\nSortiedu Roland\n\nPartis \u00e0 6 heuresdu Matinfaisantroutesur Colloirepouravertirlesp\u00eacheurs, qu'onn'avaitpasessayerderenflouerlebateau.\nNousavonsgagn\u00e9 unpeulelargepourdonneruncoupdesabut\n\nBatinesd\u00e9penzienroute 7 livres 24 sols (14 s. 2d.)",
+      "entities": {
+        "dates": [
+          "27 avril 1773"
+        ]
+      }
+    },
+    {
+      "page_number": "029",
+      "raw_content": "Mardi 19 Mai 1903.\nSortie du **Roland**.\nPour aller faire de l'eau \u00e0 **Port Venches**.\nPuis donner 1 Coup de **chalut** en rentr\u00e9e.\n**Bugnettes** - 1 - **180 kilos**.",
+      "cleaned_content": "Mardi 19 Mai 1903.\nSortiedu **Roland**.\nPourallerfairedel'eau \u00e0 **Port Venches**.\nPuisdonner 1 Coupde **chalut** enrentr\u00e9e.\n**Bugnettes**  **180 kilos**.",
+      "entities": {
+        "dates": [
+          "19 Mai 1903"
+        ]
+      }
+    },
+    {
+      "page_number": "030",
+      "raw_content": "Vendredi 22 mai 1903.\n\nSortie du Roland.\nLe Roland sort pour aller donner un Coup de chalut en face Port Vendres.\nBut de la Sortie ?\n\nExcursion des \u00c9tudiants Bordelais\nsous la Conduite de M. de Roseneur\nM. Grivel et autres \u00e0 bord.",
+      "cleaned_content": "Vendredi 22 mai 1903.\n\nSortiedu Roland.\nLe Rolandsortpourallerdonnerun Coupdechalutenface Port Vendres.\nButdela Sortie ?\n\nExcursiondes \u00c9tudiants Bordelaissousla Conduitede M. de Roseneur\nM. Griveletautres \u00e0 bord.",
+      "entities": {
+        "dates": [
+          "22 mai 1903"
+        ]
+      }
+    },
+    {
+      "page_number": "031",
+      "raw_content": "Jamedi 23 Mai 1903.\n\nSortie du Roland.\n\nAppareill\u00e9 \u00e0 6 heures. (pour aller direct\n\u00e0 l'escalai) . J'informe l'h\u00f4telier qu'une\nexcursion viendra demain.\nLe lendemain excursions aux grottes de\nl'escalai Rocas, puis retour \u00e0 Banguls.\nBttes 130 de 3 kilos = 390 kilos",
+      "cleaned_content": "Jamedi 23 Mai 1903.\n\nSortiedu Roland.\n\nAppareill\u00e9 \u00e0 6 heures. (pourallerdirect\n\u00e0 l'escalai) . J'informel'h\u00f4telierqu'uneexcursionviendrademain.\nLelendemainexcursionsauxgrottesdel'escalai Rocas, puisretour \u00e0 Banguls.\nBttes 130 de 3 kilos = 390 kilos",
+      "entities": {
+        "dates": [
+          "23 Mai 1903"
+        ]
+      }
+    },
+    {
+      "page_number": "032",
+      "raw_content": "Dimanche 2<sup>e</sup> mai 1903.\n\nSortie du Roland.\n\nAmorcill\u00e9 \u00e0 6 heures de Roses. Partis pour les grottes, puis retomb sur l'\u00c9scala pour y prendre le d\u00e9jeuner, puis retour pour Banyuls. Rent\u00e9s \u00e0 Roses.\n\nBattis 160 x 3 kilos = 480 kilos.",
+      "cleaned_content": "Dimanche 2<sup>e</sup> mai 1903.\n\nSortiedu Roland.\n\nAmorcill\u00e9 \u00e0 6 heuresde Roses. Partispourlesgrottes, puisretombsurl'\u00c9scalapoury prendreled\u00e9jeuner, puisretourpour Banyuls. Rent\u00e9s \u00e0 Roses.\n\nBattis 160 x 3 kilos = 480 kilos.",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "033",
+      "raw_content": "juin 1903...\n\u00e0 Roscoff.\nSortie du Roland.\n\nMercredi 17 juin 1903\nSortie pour aller en face Corbi\u00e8re\nFaire des essais de p\u00eache p\u00e9lagique\nPour M. Racovitza\n\nPrises : 10 balles de 3 kilos = 169 kilos",
+      "cleaned_content": "juin 1903...\n\u00e0 Roscoff.\nSortiedu Roland.\n\nMercredi 17 juin 1903\nSortiepourallerenface Corbi\u00e8re\nFairedesessaisdep\u00eachep\u00e9lagique\nPour M. Racovitza\n\nPrises : 10 ballesde 3 kilos = 169 kilos",
+      "entities": {
+        "dates": [
+          "17 juin 1903"
+        ]
+      }
+    },
+    {
+      "page_number": "034",
+      "raw_content": "Lundi 9 juin 1903\n\nSortie du Rotambte\n\nSortis \u00e0 9 heures au matin pour aller  \n\u00e0 Port. Venches, pour p\u00eache des Altolies  \net faire une provision de bois.\n\nBottes 60 de 3 kilos i = 160 Kilos.  ",
+      "cleaned_content": "Lundi 9 juin 1903\n\nSortiedu Rotambte\n\nSortis \u00e0 9 heuresaumatinpouraller  \n\u00e0 Port. Venches, pourp\u00eachedes Altoliesetfaireuneprovisiondebois.\n\nBottes 60 de 3 kilosi = 160 Kilos.",
+      "entities": {
+        "dates": [
+          "9 juin 1903"
+        ]
+      }
+    },
+    {
+      "page_number": "035",
+      "raw_content": "Lundi 2 Ao\u00fbt 1903.\nSortie du Roland.\n\nPartis \u00e0 7 heures pour essais d'un filet pour p\u00eaches p\u00e9lagiques et Coup de chalut.......\n\nBottine, 56 de 3 kilos = 168. kilos.",
+      "cleaned_content": "Lundi 2 Ao\u00fbt 1903.\nSortiedu Roland.\n\nPartis \u00e0 7 heurespouressaisd'unfiletpourp\u00eachesp\u00e9lagiqueset Coupdechalut.......\n\nBottine, 56 de 3 kilos = 168. kilos.",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "036",
+      "raw_content": "Vendredi 26 juin 1903.\n\nSortie du Roland.\n\nSortis le matin vers 9 heures, pour aller op\u00e9rer les derni\u00e8res exp\u00e9riences du filet pelagique pour M\u02b3 Racovitza, du c\u00f4t\u00e9 de la baie de Paulilles. Puis en venant avons donn\u00e9 un coup de b\u00e9lons montants dans la baie de Banguls. \n\nBilles = de 3 km = 189 kilos.",
+      "cleaned_content": "Vendredi 26 juin 1903.\n\nSortiedu Roland.\n\nSortislematinvers 9 heures, pourallerop\u00e9rerlesderni\u00e8resexp\u00e9riencesdufiletpelagiquepour M\u02b3 Racovitza, duc\u00f4t\u00e9 delabaiede Paulilles. Puisenvenantavonsdonn\u00e9 uncoupdeb\u00e9lonsmontantsdanslabaiede Banguls. \n\nBilles = de 3 km = 189 kilos.",
+      "entities": {
+        "dates": [
+          "26 juin 1903"
+        ]
+      }
+    },
+    {
+      "page_number": "037",
+      "raw_content": "Juillet 1903\n\nDimanche 5 Juillet\n\nSortie du Roland, pour exp\u00e9riences\nd'h\u00e9lice.\nLes essais ont \u00e9t\u00e9 tr\u00e8s satisfaisants.\n\nBotte d\u00e9pann\u00e9e 45 de 3 kilos = 13 kilos.\nRenav 6 kilos = 41g laus\nP. 8 kilo 1/4 dinze.\nPetite 8 mains\n\n5 Juillet au \"Maland\" a l'eau",
+      "cleaned_content": "Juillet 1903\n\nDimanche 5 Juillet\n\nSortiedu Roland, pourexp\u00e9riencesd'h\u00e9lice.\nLesessaisont \u00e9t\u00e9 tr\u00e8ssatisfaisants.\n\nBotted\u00e9pann\u00e9e 45 de 3 kilos = 13 kilos.\nRenav 6 kilos = 41glaus\nP. 8 kilo 1/4 dinze.\nPetite 8 mains\n\n5 Juilletau \"Maland\" al'eau",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "038",
+      "raw_content": "Vendredi 10 juillet 1903\n\n**Sortie au Roland.**\n\nSortis pour aller faire leau et le charbon.  \n\u00e0 Port. Vendres.. \u00e0 7h20.  \n\nEau embarqu\u00e9e 2000 litres.  \nCarbon. 6000 kilos.  \nPartis \u00e0 3 heures.  \n\n**Petties = 50 de 3 kilos = 150 kilos**\n\nNous embarquons 3 Becquills et quelques min crunch.  ",
+      "cleaned_content": "Vendredi 10 juillet 1903\n\n**Sortieau Roland.**\n\nSortispourallerfaireleauetlecharbon.  \n\u00e0 Port. Vendres.. \u00e0 7h20.  \n\nEauembarqu\u00e9e 2000 litres.  \nCarbon. 6000 kilos.  \nPartis \u00e0 3 heures.  \n\n**Petties = 50 de 3 kilos = 150 kilos**\n\nNousembarquons 3 Becquillsetquelquesmincrunch.",
+      "entities": {
+        "dates": [
+          "10 juillet 1903"
+        ]
+      }
+    },
+    {
+      "page_number": "039",
+      "raw_content": "Mercredi 22 juillet 1903.\n\nSortis pour \u00e9voluer dans la baie et au large, ainsi que du c\u00f4t\u00e9 du phare d'Argeles, pour le R\u00e9glage du Compass. Puis rentr\u00e9s \u00e0 Port Vendres.\n\nBetta de 3 kilos = 180 kilos.",
+      "cleaned_content": "Mercredi 22 juillet 1903.\n\nSortispour \u00e9voluerdanslabaieetaularge, ainsiqueduc\u00f4t\u00e9 duphared'Argeles, pourle R\u00e9glagedu Compass. Puisrentr\u00e9s \u00e0 Port Vendres.\n\nBettade 3 kilos = 180 kilos.",
+      "entities": {
+        "dates": [
+          "22 juillet 1903"
+        ]
+      }
+    },
+    {
+      "page_number": "040",
+      "raw_content": "Jeudi 23 Juillet 1903.\n\nAllum\u00e9 les feux \u00e0 7 heures, rest\u00e9 sur le Couvert mort, jusqu'\u00e0 9 heures.\n\nA 9 heures, nous avons fait route vers le large pour r\u00e9gler de nouveau notre Compas.\n\nRentr\u00e9s \u00e0 Port, Vendues \u00e0 Midi\n\nP\u00eaches aux Sk\u00e8tes ======= 150 kilos\n\n",
+      "cleaned_content": "Jeudi 23 Juillet 1903.\n\nAllum\u00e9 lesfeux \u00e0 7 heures, rest\u00e9 surle Couvertmort, jusqu'\u00e0 9 heures.\n\nA 9 heures, nousavonsfaitrouteverslelargepourr\u00e9glerdenouveaunotre Compas.\n\nRentr\u00e9s \u00e0 Port, Vendues \u00e0 Midi\n\nP\u00eachesaux Sk\u00e8tes ======= 150 kilos",
+      "entities": {
+        "dates": [
+          "23 Juillet 1903"
+        ]
+      }
+    },
+    {
+      "page_number": "041",
+      "raw_content": "Jeu\u00bfi 30 Juller 1903  \nSortie du Roland.  \n\nPortis pour aller \u00e0 Port. Vendres  \nlaire leau et le Charbon.  \nCharbon embarqu\u00e9 30fou 3/pibos  \nEau embarqu\u00e9 2au litres \u00bf ",
+      "cleaned_content": "Jeu\u00bfi 30 Juller 1903  \nSortiedu Roland.  \n\nPortispouraller \u00e0 Port. Vendreslaireleauetle Charbon.  \nCharbonembarqu\u00e9 30fou 3/pibos  \nEauembarqu\u00e9 2aulitres \u00bf",
+      "entities": {
+        "dates": [
+          "30 Juller 1903"
+        ]
+      }
+    },
+    {
+      "page_number": "042",
+      "raw_content": "```\n42\nCampage faitte avec le\nRoland, sur les c\u00f4tes des\niles Bal\u00e9ares.\nLundi 3 Aout 1903\n1\u8054\u7cfb\u65b9\u5f0f. Partis de Banuls vers lheure\ndu matin, nous faisions escale \u00e0 Palamos\npour y d\u00e9je\u00fbner.\nApr\u00e8s d\u00e9je\u00fbner, nous refaisons route\npar Barcelona, o\u00f9 nous rentrions vers\n11 Heures du soir.\n\nObits d\u00e9pensi\u00e9s 35,0 = 10.50\n```",
+      "cleaned_content": "```\n42\nCampagefaitteavecle\nRoland, surlesc\u00f4tesdesiles Bal\u00e9ares.\nLundi 3 Aout 1903\n1\u8054\u7cfb\u65b9\u5f0f. Partisde Banulsverslheuredumatin, nousfaisionsescale \u00e0 Palamospoury d\u00e9je\u00fbner.\nApr\u00e8sd\u00e9je\u00fbner, nousrefaisonsroutepar Barcelona, o\u00f9 nousrentrionsvers\n11 Heuresdusoir.\n\nObitsd\u00e9pensi\u00e9s 35,0 = 10.50\n```",
+      "entities": {
+        "dates": [
+          "3 Aout 1903"
+        ]
+      }
+    },
+    {
+      "page_number": "043",
+      "raw_content": "Mercredi 1 Avril\n\nLundi 6 Avril 1903\n\nDe 2^me^ Depart de Barcelonne\n\nvers les 4 heures de l'apr\u00e8s-midi\n\npour Palma\n\nEn cours de route, nous avons\n\neu une avarie de h\u00e9lice ;\n\nla rupture d'une patte.\n\nArriv\u00e9e \u00e0 Palma \u00e0 3 heures de\n\nl\u2019apr\u00e8s-midi\n\nBittes d\u00e9pos\u00e9es Ado - 13.20",
+      "cleaned_content": "Mercredi 1 Avril\n\nLundi 6 Avril 1903\n\nDe 2^me^ Departde Barcelonneversles 4 heuresdel'apr\u00e8s-midipour Palma\n\nEncoursderoute, nousavonseuuneavariedeh\u00e9lice ;\n\nlaruptured'unepatte.\n\nArriv\u00e9e \u00e0 Palma \u00e0 3 heuresdel\u2019apr\u00e8s-midi\n\nBittesd\u00e9pos\u00e9es Ado - 13.20",
+      "entities": {
+        "dates": [
+          "6 Avril 1903"
+        ]
+      }
+    },
+    {
+      "page_number": "044",
+      "raw_content": "Samedi 8 Ao\u00fbt 1903\n\nMarresii pour aller drager  \nHrge, adus la baie de Palma.  \n\nDettes d\u00e9pens\u00e9es 89- 267 kilos  ",
+      "cleaned_content": "Samedi 8 Ao\u00fbt 1903\n\nMarresiipourallerdrager  \nHrge, aduslabaiede Palma.  \n\nDettesd\u00e9pens\u00e9es 89- 267 kilos",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "045",
+      "raw_content": "Lundi 10 ao\u00fbt 1903\n\nNous appareillons vers les 4 heures de\nPalma pour nous rendre \u00e0\nl'\u00eele de Cabrera pour diff\u00e9rents\ntravaux.\nL\u00e0 nous avons chang\u00e9 l'h\u00e9lice avanc\u00e9e.\n(Buter - 100 de = 300)",
+      "cleaned_content": "Lundi 10 ao\u00fbt 1903\n\nNousappareillonsversles 4 heuresde\nPalmapournousrendre \u00e0\nl'\u00eelede Cabrerapourdiff\u00e9rentstravaux.\nL\u00e0 nousavonschang\u00e9 l'h\u00e9liceavanc\u00e9e.\n(Buter - 100 de = 300)",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "046",
+      "raw_content": "Mardi 18 Ao\u00fbt 1903  \net  \nMercredi 19 Ao\u00fbt 1903  \n\nchang\u00e9 l'h\u00e9lice du Roland.  \ndans le port de Cabraia.  \n\nLa Mer David descend en calepin pour le changement de l'h\u00e9lice.  ",
+      "cleaned_content": "Mardi 18 Ao\u00fbt 1903  \net  \nMercredi 19 Ao\u00fbt 1903  \n\nchang\u00e9 l'h\u00e9licedu Roland.  \ndansleportde Cabraia.  \n\nLa Mer Daviddescendencalepinpourlechangementdel'h\u00e9lice.",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "047",
+      "raw_content": "Jouudi 13 Aout 1903  \nApparill\u00e9 vers les 4 heures du matin  \npour Daller draguer au large de  \nl'\u00eele de Cabrera  \nLes draguages.. netaient  ",
+      "cleaned_content": "Jouudi 13 Aout 1903  \nApparill\u00e9 versles 4 heuresdumatinpour Dallerdragueraulargedel'\u00eelede Cabrera  \nLesdraguages.. netaient",
+      "entities": {
+        "dates": [
+          "13 Aout 1903"
+        ]
+      }
+    },
+    {
+      "page_number": "048",
+      "raw_content": "```plaintext\nVendredi\n4 Ao\u00fbt\n1903.\n\nAppareill\u00e9 pour aller draguer\navec ferrons de l\u00e0.\n\nBotte deperdi\u00e8 = 140 de\ndeperdi\u00e8 = 3 R. = 510\n```",
+      "cleaned_content": "```plaintext\nVendredi\n4 Ao\u00fbt\n1903.\n\nAppareill\u00e9 pourallerdragueravecferronsdel\u00e0.\n\nBottedeperdi\u00e8 = 140 dedeperdi\u00e8 = 3 R. = 510\n```",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "049",
+      "raw_content": "Dimanche 16 Ao\u00fbt 1903\n\nPartis de l'\u00eele de Cabrera pour aller drager du c\u00f4t\u00e9 de Campo, puis nous dirigeant vers le port de Palma.\nBotres d\u00e9pens\u00e9s 18 de 8 = 30\n\nLundi 17 Ao\u00fbt 1903\nSortie de Palma nous dirigeant vers Mahon\nBotel = 90 c' 8 hulots\n     et j'en ai mis",
+      "cleaned_content": "Dimanche 16 Ao\u00fbt 1903\n\nPartisdel'\u00eelede Cabrerapourallerdragerduc\u00f4t\u00e9 de Campo, puisnousdirigeantversleportde Palma.\nBotresd\u00e9pens\u00e9s 18 de 8 = 30\n\nLundi 17 Ao\u00fbt 1903\nSortiede Palmanousdirigeantvers Mahon\nBotel = 90 c' 8 hulotsetj'enaimis",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "050",
+      "raw_content": "Mercredi 19 Aout 1908.\nAppareillage avec Rotativ des Baleiniers.\nBord\u00e9 du Cardiff.\n\nLundi 20 Aout 1908.\nSortie - Baleines.\nBord\u00e9 Cardiff.\n\nVendredi 21 Ao\u00fbt 1908\nVol\u00e9e p. Baleiniers.\nBord\u00e9 Cardiff.",
+      "cleaned_content": "Mercredi 19 Aout 1908.\nAppareillageavec Rotativdes Baleiniers.\nBord\u00e9 du Cardiff.\n\nLundi 20 Aout 1908.\nSortie - Baleines.\nBord\u00e9 Cardiff.\n\nVendredi 21 Ao\u00fbt 1908\nVol\u00e9ep. Baleiniers.\nBord\u00e9 Cardiff.",
+      "entities": {
+        "dates": [
+          "19 Aout 1908",
+          "20 Aout 1908"
+        ]
+      }
+    },
+    {
+      "page_number": "051",
+      "raw_content": "Samedi 22 Ao\u00fbt 1903  \nCampagne Baleine  \n\n29 Juillet au 30  \nSamedi 21 Ao\u00fbt 1903  \nMardi 25 Ao\u00fbt 1903  \nJeudi 27 Ao\u00fbt 1903  \nVendredi 28 Ao\u00fbt 1903  \nDimanche 30 Ao\u00fbt 1903  \nDepart de **Roissier** pour Banyuls  \nBilletx 880. = 1320k.  ",
+      "cleaned_content": "Samedi 22 Ao\u00fbt 1903  \nCampagne Baleine  \n\n29 Juilletau 30  \nSamedi 21 Ao\u00fbt 1903  \nMardi 25 Ao\u00fbt 1903  \nJeudi 27 Ao\u00fbt 1903  \nVendredi 28 Ao\u00fbt 1903  \nDimanche 30 Ao\u00fbt 1903  \nDepartde **Roissier** pour Banyuls  \nBilletx 880. = 1320k.",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "052",
+      "raw_content": "Lundi 4 septembre\n\nEmbauqu\u00e9 1700 kilos charbon  \n\u2014  \n\u2014  \n\n\n**Sallu pour aller donner un Coup P\u00e2lut en face**\n**Port Vendres.**  \n**Nous d\u00fb recharger \u00e0 Port Vendres**  \n**\u00e0 cause du faultant du Nad.**  \nBottes 13 = 180 kilos  \n\n\nJeudi 17 septembre  \n\nSallu avec Roland  \nde Port Vendres \u2013  \ndonner un Coup P\u00e2lut  \nun peu au large.  \n\nRentus de Bandulls \u00e0 minu  \nBottes 17 = 170 kilos  ",
+      "cleaned_content": "Lundi 4 septembre\n\nEmbauqu\u00e9 1700 kiloscharbon  \n\u2014  \n\u2014  \n\n\n**Sallupourallerdonnerun Coup P\u00e2lutenface**\n**Port Vendres.**  \n**Nousd\u00fb recharger \u00e0 Port Vendres**  \n**\u00e0 causedufaultantdu Nad.**  \nBottes 13 = 180 kilos  \n\n\nJeudi 17 septembre  \n\nSalluavec Rolandde Port Vendres \u2013  \ndonnerun Coup P\u00e2lutunpeuaularge.  \n\nRentusde Bandulls \u00e0 minu  \nBottes 17 = 170 kilos",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "053",
+      "raw_content": "Samain 19 ghe 1903  \nSalie pour aller dequien  \nen face au Venduds  \np\u00eache au ch\u00e2line  \nPotterf. 4\u00b0 de 8 kilos  \n______  \n\nJemai 24 yhe 1903  \nPontis de Bonjuls pour  \nRotac', ou nous avons  \npane la nuit  \nPotter 9\u00b0 des kula 45.07  \n______  \n\nVendredii 25 ghe1903  \nPantis de Rosat.  \npour aller dams' grottes  \nMoulli et panil la nuit  \nCal\u00e9 Monguo  \nPcis 70\u00b0 de Bakul\u00fc otani 910 demur  ",
+      "cleaned_content": "Samain 19 ghe 1903  \nSaliepourallerdequienenfaceau Vendudsp\u00eacheauch\u00e2line  \nPotterf. 4\u00b0 de 8 kilos  \n______  \n\nJemai 24 yhe 1903  \nPontisde Bonjulspour  \nRotac', ounousavonspanelanuit  \nPotter 9\u00b0 deskula 45.07  \n______  \n\nVendredii 25 ghe1903  \nPantisde Rosat.  \npourallerdams' grottes  \nMoullietpanillanuit  \nCal\u00e9 Monguo  \nPcis 70\u00b0 de Bakul\u00fc otani 910 demur",
+      "entities": {
+        "dates": [
+          "19 ghe 1903",
+          "24 yhe 1903"
+        ]
+      }
+    },
+    {
+      "page_number": "054",
+      "raw_content": "Jeudi 26 f\u00e9vrier 1908  \nD\u00e9part de la Calle Monjue pour Bayyala.  \nPotier 120 -  \n\nTamgr*  \nDiapt*  \nP Scout*",
+      "cleaned_content": "Jeudi 26 f\u00e9vrier 1908  \nD\u00e9partdela Calle Monjuepour Bayyala.  \nPotier 120 -  \n\nTamgr*  \nDiapt*  \nP Scout*",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "055",
+      "raw_content": "Sorti du 3 gbu\n\nEscairons Espagnol\nDepart pour Port. Bon \u00e0 g\u02b0 arriv\u00e9e\n\u00e0 Port. Bon \u00e0 g\u02b0.10 heure Port.Nada.\nD\u00e9part \u00e0 10\u02b0 Sc R. Barbus 14\u02b0 matin.\ny faire le charbon el bien ancre \u00e0 11\u02b0 20\nembarqu\u00e8 300ki. de charbon\nRep. de P.V. \u00e0 4\u02b0.10 au Montilla\u66f2\u7ebf 5\u02b0.",
+      "cleaned_content": "Sortidu 3 gbu\n\nEscairons Espagnol\nDepartpour Port. Bon \u00e0 g\u02b0 arriv\u00e9e\n\u00e0 Port. Bon \u00e0 g\u02b0.10 heure Port.Nada.\nD\u00e9part \u00e0 10\u02b0 Sc R. Barbus 14\u02b0 matin.\nyfairelecharbonelbienancre \u00e0 11\u02b0 20\nembarqu\u00e8 300ki. decharbon\nRep. de P.V. \u00e0 4\u02b0.10 au Montilla\u66f2\u7ebf 5\u02b0.",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "056",
+      "raw_content": "OBSERVATIONS\n\nL\u00e9 pr\u00e9sent cahier est la propri\u00e9t\u00e9 de l'\u00e9l\u00e8ve, mais l\u2019instituteur en a la garde tant que l\u2019enfant reste \u00e0 l'\u00e9cole ; il lui est remis d\u00e9finitivement \u00e0 sa sortie de l\u2019\u00e9cole.\n\nTout \u00e9l\u00e8ve qui passe d'une \u00e9cole publique dans une autre doit emporter avec lui ce cahier, qui lui sera demand\u00e9 par l\u2019instituteur au moment de son arriv\u00e9e \u00e0 l'\u00e9cole.\n\nChaque mois, au moment d\u2019y inscrire le devoir indiqu\u00e9 par le ma\u00eetre, les cahiers sont distribu\u00e9s aux \u00e9l\u00e8ves, puis, aussit\u00f4t apr\u00e8s, ils sont relev\u00e9s et serr\u00e9s soigneusement dans l\u2019armoire-biblioth\u00e8que.\n\nLe cahier est pagin\u00e9 ; aucune feuille n\u2019en devra \u00eatre d\u00e9tach\u00e9e.\n\nIl pourra y \u00eatre ajout\u00e9, s\u2019il en est besoin, quelques pages intercalaires ou suppl\u00e9mentaires qui seront \u00e9galement dat\u00e9es et num\u00e9rot\u00e9es.\n\nL\u2019\u00e9l\u00e8ve signera lisiblement et datera tous les devoirs sans exception.\n\nL\u2019instituteur corrigera chacun de ces devoirs et lui donnera une note. Toutes les annotations devront \u00eatre faites avec une encre ou un crayon de couleur. Elles seront communiqu\u00e9es \u00e0 l\u2019\u00e9l\u00e8ve.\n\nL\u2019Inspecteur primaire, lors de l\u2019inspection de la classe, visera les cahiers \u00e0 la suite du dernier devoir inscrit.\n\nAVIS IMPORTANT\n\nLes dict\u00e9es contenues dans ce cahier ne doivent jamais \u00eatre des copies de dict\u00e9es mises au net ; elles doivent \u00eatre \u00e9crites en classe par l\u2019\u00e9l\u00e8ve, sur ce cahier m\u00eame, et rester telles que l\u2019\u00e9l\u00e8ve les a \u00e9crites.\n\nDemandez chez tous les Libraires et Papetiers\n\nLES CAHIERS\nDE DEVOIRS\nMENSUELS\nAVEC\nCOUVERTURE\nBIBENCRE\nBREVET\u00c9E S. G. D. G.\n\nTOUTS\nLES CAHIERS\nD\u2019\u00c9COLIERS\nAVEC\nCOUVERTURE\nBIBENCRE\nBREVET\u00c9E S. G. D. G.",
+      "cleaned_content": "OBSERVATIONS\n\nL\u00e9 pr\u00e9sentcahierestlapropri\u00e9t\u00e9 del'\u00e9l\u00e8ve, maisl\u2019instituteurena lagardetantquel\u2019enfantreste \u00e0 l'\u00e9cole ; illuiestremisd\u00e9finitivement \u00e0 sasortiedel\u2019\u00e9cole.\n\nTout \u00e9l\u00e8vequipassed'une \u00e9colepubliquedansuneautredoitemporteravecluicecahier, quiluiserademand\u00e9 parl\u2019instituteuraumomentdesonarriv\u00e9e \u00e0 l'\u00e9cole.\n\nChaquemois, aumomentd\u2019yinscrireledevoirindiqu\u00e9 parlema\u00eetre, lescahierssontdistribu\u00e9saux \u00e9l\u00e8ves, puis, aussit\u00f4tapr\u00e8s, ilssontrelev\u00e9setserr\u00e9ssoigneusementdansl\u2019armoire-biblioth\u00e8que.\n\nLecahierestpagin\u00e9 ; aucunefeuillen\u2019endevra \u00eatred\u00e9tach\u00e9e.\n\nIlpourray \u00eatreajout\u00e9, s\u2019ilenestbesoin, quelquespagesintercalairesousuppl\u00e9mentairesquiseront \u00e9galementdat\u00e9esetnum\u00e9rot\u00e9es.\n\nL\u2019\u00e9l\u00e8vesigneralisiblementetdateratouslesdevoirssansexception.\n\nL\u2019instituteurcorrigerachacundecesdevoirsetluidonneraunenote. Touteslesannotationsdevront \u00eatrefaitesavecuneencreouuncrayondecouleur. Ellesserontcommuniqu\u00e9es \u00e0 l\u2019\u00e9l\u00e8ve.\n\nL\u2019Inspecteurprimaire, lorsdel\u2019inspectiondelaclasse, viseralescahiers \u00e0 lasuitedudernierdevoirinscrit.\n\nAVIS IMPORTANT\n\nLesdict\u00e9escontenuesdanscecahiernedoiventjamais \u00eatredescopiesdedict\u00e9esmisesaunet ; ellesdoivent \u00eatre \u00e9critesenclasseparl\u2019\u00e9l\u00e8ve, surcecahierm\u00eame, etrestertellesquel\u2019\u00e9l\u00e8velesa \u00e9crites.\n\nDemandezcheztousles Libraireset Papetiers\n\nLES CAHIERS\nDE DEVOIRS\nMENSUELS\nAVEC\nCOUVERTURE\nBIBENCRE\nBREVET\u00c9E S. G. D. G.\n\nTOUTS\nLES CAHIERS\nD\u2019\u00c9COLIERS\nAVEC\nCOUVERTURE\nBIBENCRE\nBREVET\u00c9E S. G. D. G.",
+      "entities": {
+        "dates": []
+      }
+    }
+  ],
+  "metadata": {
+    "years": [
+      "1773",
+      "1887",
+      "1900",
+      "1903",
+      "1908",
+      "1933"
+    ],
+    "book_name": "05_OOB_06_log"
+  }
+}

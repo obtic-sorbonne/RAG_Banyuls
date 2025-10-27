@@ -1,0 +1,8 @@
+```markdown
+| Date       | Heure | Hauteur Barométrique (mmHg) | Direction du Vent | Force du Vent | Nébulosité | Reg. c. (claire) | Direction des nuages | Pluie tombée | Température de l'air (°C) | Hauteur de la mer (m) | Agitation de l'eau | Densité au bord de la jetée (kg/m³) | Température de l'eau (°C) |
+|------------|-------|---------------------------|-------------------|--------------|-----------|-----------------|---------------------|-------------|-----------------------|-------------------|-------------------|----------------------------------|-----------------------|
+| 26.09.1906 | Matin | 770.7                    | Ouest             | 1            | 10        | Reg. xi (nuageux) | Est                 | quelques gouttes | 21.6                | 11.2             | 2 fort            | 1028.2                          | 19.8                |
+| 26.09.1906 | Soir  | -                        | -                 | -            | -         | -               | -                   | -            | -                    | -                | -                | -                                | -                    |
+| 29.09.1906 | Matin | 769.8                    | S.S.E.            | 1            | 1         | Reg. xi (nuageux) | S.E.                | -            | 20.7                 | 13.0             | 2                | 1028.1                          | 19.7                |
+| 29.09.1906 | Soir  | -                        | -                 | -            | 1         | -               | -                   | -            | -                    | -                | -                | -                                | -                    |
+```

@@ -1,0 +1,18 @@
+| **Date** | **16 octobre - 1900** |
+|---|---|
+| **9h.m** | **3h.s** |
+| **Hauteur barométrique** | **771,8** | **770,7** |
+| **Direction du vent** | **N.E** | **S** |
+| **Force** | **I** | **2** |
+| **Nébulosité** | | |
+| **Reg... O** | **I** | **2** |
+| **Reg... E** | **I** | **0** |
+| **Poussière des images** | **S** | **S** |
+| **Pluie tombé** | **...** | **...** |
+| **Température de l'Air** | **21,2** | **22,5** |
+| **Hauteur de la mer** | **30,8** | **40,6** |
+| **Agitation de l'eau** | **I faible** | **I** |
+| **Densité** | | |
+| **au bout de la pêcherie** | **1022,5** | **1022,2** |
+| **au large** | | |
+| **Température de l'eau** | **21,2** | **22,1** |

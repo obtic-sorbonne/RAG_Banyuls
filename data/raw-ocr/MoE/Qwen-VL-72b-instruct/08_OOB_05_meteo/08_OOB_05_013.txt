@@ -1,0 +1,27 @@
+| V. 29 juillet - 1905 | Matin | Soir |
+|---|---|---|
+| Hauteur Barometrique | 766,0 | 767,0 |
+| Direction du vent | cr.cr.o | cr.cr.o |
+| Force | id | 3 | 3 |
+| Nébulosité | Deg.O.(terre) | 0 | 0 |
+| | Reg.Xi.(mer) | 0 | 0 |
+| Direction des nuages | cr.cr.o | " |
+| Pluie tombée | quelques gouttes | " |
+| Température de l'air | 26,1 | 31,4 |
+| Hauteur de la mer | 10,7 | 45,8 |
+| Agitation de l'eau | 2 fort | 3 |
+| Densité au bout de la jetée | 1026,0 | 1025,9 |
+| Température de l'eau | 24,7 | 25,0 |
+| V. 31 juillet - 1905 | Matin | Soir |
+| Hauteur Barometrique | 767,4 | 767,0 |
+| Direction du vent | " | S.S.E |
+| Force | id | 0 | 1 |
+| Nébulosité | Deg.O.(terre) | 10 | 10 |
+| | Reg.Xi.(mer) | 10 | 10 |
+| Direction des nuages | S.O | S.O |
+| Pluie tombée | " | " |
+| Température de l'air | 29,7 | 30,3 |
+| Hauteur de la mer | 43,1 | 45,8 |
+| Agitation de l'eau | 1 faible | 1 faible |
+| Densité au bout de la jetée | 1025,8 | 1025,6 |
+| Température de l'eau | 26,3 | 27,1 |

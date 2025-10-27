@@ -1,0 +1,20 @@
+# Date. 30 Octobre. 1900.
+
+|  9e Matin | 3e Soir  |
+| --- | --- |
+|  Hauteur Barométrique | 757,3 | 754,7  |
+|  Direction du vent | N.E. | Ouest  |
+|  Force | 1 faible | 1 faible  |
+|  Nébulosité | 11 | 11  |
+|  Rég. E. (terre) | 0 | 0  |
+|  Rég. E. (mer) | 0 | 0  |
+|  Direction des nuages | N.E. | Ouest  |
+|  Pluie tombée | 0 | 0  |
+|  Température de l'air | 17,2 | 17,5  |
+|  Hauteur de la mer | 45,2 | 49,0  |
+|  Agitation de l'eau | 1 faible | 1 faible  |
+|  Densité de l'eau (au bout de la jetée) | 1028,6 | 1028,5  |
+|  Densité de l'eau (au large) |  |  |
+|  Température de l'eau | 18,0 | 18,2  |
+
+Observat. —

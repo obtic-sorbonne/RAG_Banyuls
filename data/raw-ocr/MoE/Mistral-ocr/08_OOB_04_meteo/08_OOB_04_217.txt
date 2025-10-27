@@ -1,0 +1,33 @@
+# V. 23 (Avril-1903
+
+|  Nom | Date | Dépôt  |
+| --- | --- | --- |
+|  Hauteur Marométrique | 7-12-4 | 749.4  |
+|  Direction du vent | or. 8 | or. 0  |
+|  Force | faible | 3/20th  |
+|  (Reg. O. (tine) | 10 | 10  |
+|  (Reg. F. (mur) | 10 | 10  |
+|  Direction des images | or. 0 | or. 0  |
+|  Mise tombe | 8/0 | "  |
+|  Température de l'air | 14.4 | 14.2  |
+|  Hauteur de la mer | 39.8 | 43.2  |
+|  Gratuitation de l'eau | 1 | 1/20th  |
+|  Densité au bout de la jeté | 1029.1 | 1029.1  |
+|  Température de l'eau | 12.6 | 12.8  |
+
+# V. 24 (Avril-1903
+
+|  Nom | Date | Dépôt  |
+| --- | --- | --- |
+|  Hauteur Marométrique | 7/3-2 | 7/4.6  |
+|  Direction du vent | or. 0 | Air  |
+|  Force | 1 | 1.7 / 20th  |
+|  (Reg. O. (tine) | 1 | 10  |
+|  (Reg. F. (mur) | 1 | 10  |
+|  Direction des images | or. 0 | "  |
+|  Mise tombe | 6.2/0 | 1/1.7/0  |
+|  Température de l'air | 12.8 | 9.2  |
+|  Hauteur de la mer | 49.0 | 46.0  |
+|  Gratuitation de l'eau | 1/20th | 1/20th  |
+|  Densité au bout de la jeté | 1029.7 | 1029.8  |
+|  Température de l'eau | 12.7 | 12.6  |

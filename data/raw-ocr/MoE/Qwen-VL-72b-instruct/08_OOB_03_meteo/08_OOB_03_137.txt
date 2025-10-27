@@ -1,0 +1,14 @@
+| **Observations météorologiques - 1er Mars 1902** | **9h Matin** | **15h** | **18h Soir** |
+|---|---|---|---|
+| **Hauteur Barométrique** | | **752,2** |  |
+| **Direction du vent** | | Ouest | Légère c  |
+| **Force** | | **3** |  |
+| **Nébulosité** | | | Légère c |
+| **Dir. des nuages (terre)** | **Reg.O.** | | Ouest |
+| **Dir. des nuages (mer)** | **Reg.E.** | |  |
+| **Pluie tombée** | | | "  |
+| **Température de l'air** | | **14.0** |  |
+| **Hauteur de la mer** | **22,6** | |  |
+| **Agitation de l'eau** | **1** | |  |
+| **Densité de l'eau** | au bout de la jetée | **10.29** |  |
+| **Température de l'eau** | **10.8** | |  |

@@ -1,0 +1,40 @@
+|  4. 8 Décembre 1908 | Moatin | Poir  |
+| --- | --- | --- |
+|  Hauteur 
+Vouveillais
+Direction du vent | 222.2
+or.or.o
+1 fort | 222.4
+"  |
+|  Nébulinite
+(Reg. O. (tome)
+Direction des nuages | 0
+orout | 0
+orout  |
+|  Sline tombée | " | "  |
+|  Bemporadine de l'air | 1/0 | 1/0  |
+|  Hauteur de la mer | 13.2 | 10.1  |
+|  Agitation de l'eau | 2 forts | 1 fort  |
+|  Comité au bout de la jetée | 1029.6 | 1029.7  |
+|  Bemporadine de l'eau | 1/0.2 | 1/0  |
+
+|  4. 9 Décembre 1908 | Moatin | Poir  |
+| --- | --- | --- |
+|  Hauteur
+Vouveillais
+Direction du vent | 221.2
+or.or.o
+2 | 223.8
+or.or.o
+1 fort  |
+|  Nébulinite
+(Reg. O. (tome)
+Direction des nuages | 10
+orout | 3
+orout  |
+|  Sline tombée | " | "  |
+|  Bemporadine de l'air | 13.9 | 1/0  |
+|  Hauteur de la mer | 14.3 | 1/0.3  |
+|  Agitation de l'eau | 1 fort | 15.1  |
+|  Comité au bout de la jetée | 1029.2 | 1029.7  |
+|  Bemporadine de l'eau | 1/0 | 1/0  |

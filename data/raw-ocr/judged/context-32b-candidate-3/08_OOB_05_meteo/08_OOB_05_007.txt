@@ -1,0 +1,29 @@
+| Date | Matin | Soir |
+|------|-------|------|
+| **V. 30 juin 1905** |   |   |
+| Hauteur barométrique | 758.0 |   |
+| Direction du vent | S.S.E. |   |
+| Force | 1 | 8 |
+| Nébulosité (Reg. O. (clère)) | 0 |   |
+| Nébulosité (Reg. E. (mer)) | légère |   |
+| Direction des nuages | lent |   |
+| Pluie tombée | - |   |
+| Température de l'air | 26.0 |   |
+| Hauteur de la mer | 42.0 |   |
+| Agitation de l'eau | 2 |   |
+| Densité au bout de la jetée | 1026.0 |   |
+| Température de l'eau | 23.0 |   |
+
+| **V. 1er juillet 1905** |   |   |
+| Hauteur barométrique | 764.6 |   |
+| Direction du vent | or.8 | faible |
+| Force | 1 | 10 |
+| Nébulosité (Reg. O. (clère)) | 10 |   |
+| Nébulosité (Reg. E. (mer)) | 10 |   |
+| Direction des nuages | - |   |
+| Pluie tombée | - |   |
+| Température de l'air | 24.2 |   |
+| Hauteur de la mer | 39.1 |   |
+| Agitation de l'eau | 3 |   |
+| Densité au bout de la jetée | 1023.2 |   |
+| Température de l'eau | 20.0 |   |

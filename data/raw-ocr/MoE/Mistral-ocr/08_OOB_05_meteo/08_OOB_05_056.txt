@@ -1,0 +1,29 @@
+|  9.8 Yorembre - 1908 | M6atin | - Joir  |
+| --- | --- | --- |
+|  Hauteur Prazométrique |  | 754.3  |
+|  Direction du vent |  | or.0r.0  |
+|  Force |  | 5/201  |
+|  Nebulisite |  | 10  |
+|  (Res. 22 (min) |  | or.0r.0  |
+|  Direction des nuages |  | 12.1  |
+|  Heie tombée |  | 12.2  |
+|  Denspiration de l'air |  | 8/12  |
+|  Hauteur de la nue |  | 8/12  |
+|  Dégration de l'eau |  | 15  |
+|  Densité au bout de la jolie |  | 1028.2  |
+|  Denspiration de l'eau |  | 12.0  |
+|  19.9 Yorembre - 1908 | M6atin | - Joir  |
+|  Hauteur Prazométrique |  | 758.1  |
+|  Direction du vent |  | or.0r.0  |
+|  Force |  | 27.720  |
+|  Nebulisite | (Res. 0 (min) | 10  |
+|  (Res. 22 (min) |  | 10  |
+|  Direction des nuages |  | or.0r.0  |
+|  Heie tombée |  | 12.3  |
+|  Denspiration de l'air |  | 18.3  |
+|  Hauteur de la nue |  | 51.2  |
+|  Dégration de l'eau |  | 18.4  |
+|  Densité au bout de la jolie |  | 1028.2  |
+|  Denspiration de l'eau |  | 18.3  |
+|  Densité au bout de la jolie |  | 18.3  |
+|  Denspiration de l'eau |  | 16.3  |

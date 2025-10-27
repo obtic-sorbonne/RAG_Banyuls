@@ -1,0 +1,30 @@
+```plaintext
+| V. 9 mai - 1905 | Matin | Soir |
+|---|---|---|
+| Hauteur Barométrique | 764.0 | 764.0 |
+| Direction du vent | O.V.O | N.N.O |
+| Force | 4 | 3 fort |
+| Nébulosité (Reg. G. (terre)) | 10 | 10 |
+| Nébulosité (Reg. L. (mer)) | 10 | 10 |
+| Direction des nuages | O.V.O | N.N.O |
+| Pluie tombée | 4.2/ | " |
+| Température de l'air | 19.8 | 19.1 |
+| Hauteur de la mer | 50.0 | 64.7 |
+| Agitation de l'eau | 2 fort | 3 fort |
+| Densité au bout de la jetée | 1028.4 | 1028.4 |
+| Température de l'eau | 15.6 | 15.7 |
+| V. 10 mai - 1905 | Matin | Soir |
+|---|---|---|
+| Hauteur Barométrique | 764.9 | 764.6 |
+| Direction du vent | O.V.O | O.V.S |
+| Force | 4 fort | 4 |
+| Nébulosité (Reg. G. (terre)) | 0 | 0 |
+| Nébulosité (Reg. L. (mer)) | 9 | 1 |
+| Direction des nuages | O.V.O | O.V.S |
+| Pluie tombée | " | " |
+| Température de l'air | 19.6 | 19.0 |
+| Hauteur de la mer | 60.3 | 62.0 |
+| Agitation de l'eau | 3 fort | 3 fort |
+| Densité au bout de la jetée | 1028.7 | 1028.7 |
+| Température de l'eau | 19.1 | 19.4 |
+```

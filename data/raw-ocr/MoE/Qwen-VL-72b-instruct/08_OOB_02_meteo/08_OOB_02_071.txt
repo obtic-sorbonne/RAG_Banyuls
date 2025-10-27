@@ -1,0 +1,14 @@
+| **Données** | **9h Matin** | **19h Soir** |
+|---|---|---|
+| Hauteur Barométrique | 765.4 | 764.8 |
+| Direction du Vent | N.E | Sud |
+| Force du Vent | Fort | 2 |
+| Nébulosité (Reg.O. - Clarté) | 0 | 1 |
+| Nébulosité (Reg.E. - Ombre) | 0 | 1 |
+| Direction des Nuages | N.E | Sud |
+| Pluie tombée |  |  |
+| Température de l'Air | 15.6 | 20.7 |
+| Hauteur de la mer | 49.6 | 63.4 |
+| Agitation de l'eau (au bout de la jetée) | 1 T. faible | 1 T. faible |
+| Densité de l'eau (au Large) | 1027.9 | 1026.4 |
+| Température de l'eau | 16.6 | 19.8 |

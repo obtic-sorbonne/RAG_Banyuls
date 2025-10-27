@@ -1,0 +1,27 @@
+|  7. 27 Juillet - 1905 | Moatin | Soir  |
+| --- | --- | --- |
+|  Hauteur Pearsonietrique | 767.3 | 764.1  |
+|  Scirction du vent | 11.3 | 11.3  |
+|  Force | 2 fort | 3 fort  |
+|  Niebulonte | 0 | 0  |
+|  (Reg. N.(m) |  |   |
+|  Scirction des mages |  |   |
+|  Fluie tombée |  |   |
+|  Température de l'air | 29.2 | 32.0  |
+|  Hauteur de la mer | 12.1 | 41.7  |
+|  Crystallien de l'eau | 1 fort | 3  |
+|  Permite au bout de la jetée | 1026.1 | 1021.9  |
+|  Température de l'eau | 61.7 | 31.6  |
+|  7. 28 Juillet - 1908 | Moatin | Soir  |
+|  Hauteur Pearsonietrique | 766.0 | 761.1  |
+|  Scirction du vent | 8.7.8 |   |
+|  Force | 1 | 0  |
+|  Niebulonte |  | 10  |
+|  (Reg. N.(m) |  |   |
+|  Scirction des mages |  |   |
+|  Fluie tombée |  |   |
+|  Température de l'air | 86.3 | 27.2  |
+|  Hauteur de la mer | 11.3 | 42.8  |
+|  Crystallien de l'eau | 1 faible | 1 faible  |
+|  Permite au bout de la jetée | 1026.0 | 1021.6  |
+|  Température de l'eau | 83.0 | 31.1  |

@@ -1,0 +1,17 @@
+```
+9. 4 x 1903
+
+|  Yauteur Marométrique | Matin | Soir  |
+| --- | --- | --- |
+|  Direction du vent | Nord | Nord  |
+|  Force | 5 | 3  |
+|  Reg. O. (terre) | 10 | 10  |
+|  Reg. F. (mer) | 10 | 10  |
+|  Direction des nuages | Nord | Nord  |
+|  Dime tombée | 0 | 0  |
+|  Température de l'air | 6.8 | 9.0  |
+|  Hauteur de la mer | 42.8 | 38.0  |
+|  Agitation de l'eau | 5 fort | 3 fort  |
+|  Densité au bout de la jetée | 1023.5 | 1023.3  |
+|  Température de l'eau | 13.5 | 13.1  |
+```

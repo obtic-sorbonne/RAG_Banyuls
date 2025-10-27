@@ -1,0 +1,16 @@
+```markdown
+|  V. 24 Décembre 1906 | Matin | Soir  |
+| --- | --- | --- |
+|  Hauteur barométrique | 770.3 mmHg | 770.8 mmHg  |
+|  Direction du vent | v.v.o | v.v.o  |
+|  Force | 1 faible | 1 fort  |
+|  Nébulosité (Reg. C. (terre)) | 10 | 10  |
+|  Nébulosité (Reg. 2. (mer)) | 10 | 10  |
+|  Direction des nuages | v.v. 8 | v.v.  |
+|  Pluie tombée | 8.3 g | 7.0 g  |
+|  Température de l'air | 8.7 °C | 10.7 °C  |
+|  Hauteur de la mer | 42.5 m | 45.0 m  |
+|  Agitation de l'eau | 3 faible | 3  |
+|  Densité au bout de la jetée | 1029.6 kg/m³ | 1029.6 kg/m³  |
+|  Température de l'eau | 12.6 °C | 12.4 °C  |
+```

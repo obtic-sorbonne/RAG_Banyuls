@@ -1,0 +1,37 @@
+```plaintext
+# V. 18 X 1902
+
+|  Nom | Date  |
+| --- | --- |
+|  Hauteur Barométrique | 717.1 | 717.1  |
+|  Direction du vent | or.or.o | or.or.o  |
+|  Force | 6 faible | 6 faible  |
+|  Rég. O. (terre) | 2 jou | 2 jou  |
+|  Nébulosité |   |   |
+|  Rég. E. (mer) | 2 jou | 2 jou  |
+|  Direction des nuages | or.or.o | or.or.o  |
+|  Pluie tombée |   |   |
+|  Température de l'air | 11.6 | 11.6  |
+|  Hauteur de la mer | 13.2 | 13.2  |
+|  Agitation de l'eau | 3 jou | 3 jou  |
+|  Densité au bout de la jetée | 1026.9 | 1026.9  |
+|  Température de l'eau | 13.3 | 13.3  |
+
+# V. 19 X 1902
+
+|  Nom | Date  |
+| --- | --- |
+|  Hauteur Barométrique | 717.3 | 717.3  |
+|  Direction du vent | or.or.o | or.or.o  |
+|  Force | 4 | 4  |
+|  Rég. O. (terre) | 0 | 0  |
+|  Nébulosité |   |   |
+|  Rég. E. (mer) | 1 | 1  |
+|  Direction des nuages | or.or.o | or.or.o  |
+|  Pluie tombée |   |   |
+|  Température de l'air | 11.4 | 11.4  |
+|  Hauteur de la mer | 72.7 | 72.7  |
+|  Agitation de l'eau | 3 jou | 3 jou  |
+|  Densité au bout de la jetée | 1027.8 | 1027.8  |
+|  Température de l'eau | 13.3 | 13.3  |
+```

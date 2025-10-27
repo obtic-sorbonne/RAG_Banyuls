@@ -1,0 +1,16 @@
+| **Date** | M. 19 Septembre 1900 |
+| **Heures** | 9ʰ **p.m.** | 3ʰ **s.** |
+| **Hauter barométrique** | 764,4 | 763,8 |
+| **Direction du vent:** | N.N.O. | N.N.E. |
+| **Force id.** | 1 | 1 |
+| **Nébulosité** | Reg. O. | 10 | 9 |
+| | Reg. E. | 10 | 9 |
+| **Direction des nuages** | N. | N.E. |
+| **Pluie tombée:** | 6 **mm.** | 5 **"** |
+| **Température de l'air** | 20°,0 | 21°,2 | *(21°,0上午)* |
+| **Hauter de la mer** | 0**,33** | 0**,46** |
+| **Agitation de l’eau** | 2 | 2 |
+| **Densité de l’eau** | *(au boudelajet)* | 1026,1 | |
+| | *(au layo)* | | 1026,3 |
+| **Température de l’eau** | 21°,1 | 21°,0 | *(analoyé)* |
+| **Observations** | Arrays **du 3ʰ½**Horaire, pleins battants, jusqu’à **6ʰ.** |

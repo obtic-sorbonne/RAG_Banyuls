@@ -1,0 +1,16 @@
+| **Date**       | **25 Juillet 1901** |
+|---|---|
+| **Heures**     | **Malin (9h)** | **Soir (3h)** |
+| H. Barométrique | --- | 762,5 mm |
+| Direction du vent | --- | --- |
+| Force | --- | --- |
+| Nuélosite | Reg. O - (lère) | 10 |
+|         | Reg. E - (mer) | 10 |
+| Direction des nuages | --- | N.N.O |
+| Pluie tombée | --- | 23,7 mm |
+| Température de l'air | --- | 21,3 °C |
+| Hauteur de la mer | --- | 40,5 m |
+| Agitation de l'eau (par bout de la jetée) | faible | --- |
+| Agitation de l'eau (en large) | --- | 1m57,6 |
+| Densité de l'eau | --- | --- |
+| Température de l'eau | --- | 20,2 °C |

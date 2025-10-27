@@ -1,0 +1,15 @@
+| **Date** | 20 Avril 1901 |
+| **Heure** | 9⁷ H Matin | 15 H Soir |
+| **Hauteur Barométrique** | 764,6 | 763,6 |
+| **Direction du Vent** | Sud | Sud |
+| **Force du Vent** | 3 fort | 3 fort |
+| **Nébulosité** | Reg. 6. (boire) | 6 léger. c | 0 |
+| **Nébulosité** | Reg. 0. (mer) | 0 | 0 |
+| **Direction des Nuages** | Sud | Sud |
+| **Pluie Tombée** | — | — |
+| **Température de l'Air** | 13,4 | 14,6 |
+| **Hauteur de la Mer** | 47,2 | 63,8 |
+| **Agitation de l'Eau** | 2 fort | 3 |
+| **Densité de l'Eau** | au bout de la jetée | au large |
+| | 1028,9 | 1028,7 |
+| **Température de l'Eau** | 13,0 | 13,9 |

@@ -1,0 +1,35 @@
+```markdown
+# 29 NOVEMBRE 1907
+
+| **Date**         | **Matin** | **Soir** |
+|------------------|----------|----------|
+| **Hauteur barométrique (mmHg)** | 769.4 | 769.2 |
+| **Direction du vent** | Sud-Est | Sud-Est |
+| **Force** | 2 | 2 |
+| **Nébulosité (Reg. C. claire)** | 0 (claire) | 10 |
+| **Nébulosité (Reg. 2. (mer))** | 10 | 10 |
+| **Direction des nuages** | Sud-Ouest | Sud-Ouest |
+| **Pluie tombée** | quelques g | - |
+| **Température de l'air (°C)** | 17.9 | 17.2 |
+| **Hauteur de la mer (cm)** | 30.0 | 40.4 |
+| **Agitation de l'eau** | 2 | 3 |
+| **Densité au bout de la jetée (g/cm³)** | 1028.0 | 1028.0 |
+| **Température de l'eau (°C)** | 17.0 | 17.0 |
+
+# 30 NOVEMBRE 1907
+
+| **Date**         | **Matin** | **Soir** |
+|------------------|----------|----------|
+| **Hauteur barométrique (mmHg)** | 769.3 | 764.7 |
+| **Direction du vent** | Sud-Est | Sud-Est |
+| **Force** | 3 | 2 |
+| **Nébulosité (Reg. C. claire)** | 10 | 10 |
+| **Nébulosité (Reg. 2. (mer))** | 10 | 10 |
+| **Direction des nuages** | Sud-Ouest | Sud-Ouest |
+| **Pluie tombée** | quelques g | - |
+| **Température de l'air (°C)** | 17.2 | 17.2 |
+| **Hauteur de la mer (cm)** | 40.4 | 30.8 |
+| **Agitation de l'eau** | 3 | 3 |
+| **Densité au bout de la jetée (g/cm³)** | 1028.0 | 1028.0 |
+| **Température de l'eau (°C)** | 17.0 | 17.0 |
+```

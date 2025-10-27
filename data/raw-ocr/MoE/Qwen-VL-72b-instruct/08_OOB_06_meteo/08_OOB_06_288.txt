@@ -1,0 +1,50 @@
+```plaintext
+| OBSERVATIONS DU 1902  6 Juin |
+| --- |
+| **Nombre de bateaux sortis (pêche à l…)** | 21.3 |
+| **Température de l'air** |  |  |
+| maxima depuis la veille… | 21.3 |
+| minima id. | 13.7 |
+| **Température de l'eau** |  |  |
+| maxima depuis la veille… |  |
+| minima id. |  |
+| **Pluie tombée depuis la veille, en millim…** |  |
+| **Evaporation depuis le 190 , en millim…** |  |
+|  | **à 9 h. m.** | **à 3 h. s.** |
+| **Direction du vent (à terre)** | S.S.E |  |
+| **Force** | 2 |  |
+| **Direction des nuages** | S.S.E |  |
+| **Nébulosité** |  |  |
+| région Ouest (terre) | 10 |  |
+| id. Est (mer) | 10 |  |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.)** | 20.2 |  |
+| **Agitation de l'eau** | 1 |  |
+| **Densité de l'eau au bout de la jetée** | 1027.4 |  |
+| **Température id.** | 16.7 |  |
+| - i5. **Bolaux (Humides) Matin** | 18.7 |  |
+| - i5. **Peruch Matin** | 31.4 | 11.2 |
+|
+| OBSERVATIONS DU 1902  7 Juin |
+| --- |
+| **Nombre de bateaux sortis (pêche à l…)** |  |
+| **Température de l'air** |  |  |
+| maxima depuis la veille… |  |
+| minima id. |  |
+| **Température de l'eau** |  |  |
+| maxima depuis la veille… |  |
+| minima id. |  |
+| **Pluie tombée depuis la veille, en millim…** |  |
+| **Evaporation depuis le 190 , en millim…** |  |
+|  | **à 9 h. m.** | **à 3 h. s.** |
+| **Direction du vent (à terre)** | N.O. |  |
+| **Force** | 1 faible | 2 |
+| **Direction des nuages** | N.O. |  |
+| **Nébulosité** |  |  |
+| région Ouest (terre) | 10 |  |
+| id. Est (mer) | 10 |  |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.)** | 35.2 | 2 |
+| **Agitation de l'eau** | 2 |  |
+| **Densité de l'eau au bout de la jetée** | 1027.3 |  |
+| **Température id.** |  | 16.9 |
+|
+```

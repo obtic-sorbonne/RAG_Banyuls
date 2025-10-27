@@ -1,0 +1,61 @@
+```plaintext
+### OBSERVATIONS DU 1960 14 Avril
+
+| **Nombre de bateaux sortis (pêche à la ligne)** | Neant |
+| **Température de l'air** |  |
+| - maxima depuis la veille | 21.8 |
+| - minima id. | 14.7 |
+| **Température de l'eau** |  |
+| - maxima depuis la veille |  |
+| - minima id. |  |
+| **Pluie tombée depuis la veille, en millim.** | quelques |
+| **Evaporation depuis le 190, en millim.** |  |
+| **Direction du vent (à terre)** | **à 9 h. m.** | **à 3 h. s.** |
+| - Direction | E.S.E | S.O. |
+| - Force | 2 fort | 1 fort |
+| **Direction des nuages** |  |  |
+| - région Ouest (terre) | 10 | 10 |
+| - id. Est (mer) | 10 | 10 |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro** |  |  |
+| - à 9 h. m. | 66.4 |  |
+| - à 3 h. s. | 60.2 |  |
+| **Agitation de l'eau** |  |  |
+| - à 9 h. m. | 8 fort |  |
+| - à 3 h. s. | 3 faible |  |
+| **Densité de l'eau au bout de la jetée** |  |  |
+| - à 9 h. m. | 1028.2 |  |
+| - à 3 h. s. |  |  |
+| **Température** |  |  |
+| - à 9 h. m. | 12.1 |  |
+| - à 3 h. s. |  |  |
+
+### OBSERVATIONS DU 1960 15 Avril
+
+| **Nombre de bateaux sortis (pêche à la traine)** | 34 |
+| **Température de l'air** |  |
+| - maxima depuis la veille | 21.3 |
+| - minima id. | 9.3 |
+| **Température de l'eau** |  |
+| - maxima depuis la veille |  |
+| - minima id. |  |
+| **Pluie tombée depuis la veille, en millim.** |  |
+| **Evaporation depuis le 190, en millim.** |  |
+| **Direction du vent (à terre)** | **à 9 h. m.** | **à 3 h. s.** |
+| - Direction | Sud | Ouest |
+| - Force | 2 faible | 3 |
+| **Direction des nuages** |  |  |
+| - région Ouest (terre) | 1 | 10 |
+| - id. Est (mer) | 1 | 10 |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro** |  |  |
+| - à 9 h. m. | 54.8 |  |
+| - à 3 h. s. | 50.7 |  |
+| **Agitation de l'eau** |  |  |
+| - à 9 h. m. | 2 faible |  |
+| - à 3 h. s. | 1 |  |
+| **Densité de l'eau au bout de la jetée** |  |  |
+| - à 9 h. m. | 1028.2 |  |
+| - à 3 h. s. | 1028.7 |  |
+| **Température** |  |  |
+| - à 9 h. m. | 12.2 |  |
+| - à 3 h. s. | 12.3 |  |
+```

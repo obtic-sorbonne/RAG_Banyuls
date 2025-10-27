@@ -1,0 +1,45 @@
+```plaintext
+| **Observations du 1960 17 février** |
+| --- |
+| **Nombre de bateaux sortis (pêche à l.)** |  |
+| **Température de l'air** |  |
+| - maxima depuis la veille | 18.7 °C |
+| - minima id. | 11.7 °C |
+| **Température de l'eau** |  |
+| - maxima depuis la veille |  |
+| - minima id. |  |
+| **Pluie tombée depuis la veille, en millim.** |  |
+| **Évaporation depuis le 190, en millim.** |  |
+| **Direction du vent (à terre)** | **à 9 h. m.** | **à 3 h. s.** |
+| - Force | 1 faible | 1 fort |
+| - Direction des nuages | Nord | S.S.E. |
+| **Nébulosité** |  |
+| - région Ouest (terre) | 0 | 10 |
+| - id. Est (mer) | 0 | 10 |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (Bassin S. Radeûl)** | 42.0 |  |
+| **Agitation de l'eau** | faible | faible |
+| **Densité de l'eau au bout de la jetée** | 1028.0 g/cm³ | 1028.0 g/cm³ |
+| **Température id.** | 18.4 °C | 19.4 °C |
+
+| **Observations du 1960 19 février** |
+| --- |
+| **Nombre de bateaux sortis (pêche à l.)** |  |
+| **Température de l'air** |  |
+| - maxima depuis la veille | 24.0 °C |
+| - minima id. | 12.8 °C |
+| **Température de l'eau** |  |
+| - maxima depuis la veille |  |
+| - minima id. |  |
+| **Pluie tombée depuis la veille, en millim.** | quelques |
+| **Évaporation depuis le 190, en millim.** | 93 / 0 |
+| **Direction du vent (à terre)** | **à 9 h. m.** | **à 3 h. s.** |
+| - Force | 1 faible | 1 faible |
+| - Direction des nuages | S.S.E. | S.S.E. |
+| **Nébulosité** |  |
+| - région Ouest (terre) | 10 | 10 |
+| - id. Est (mer) | 10 | 10 |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (Bassin S. Radeûl)** | 39.8 | 39.0 |
+| **Agitation de l'eau** | 1 faible | 1 faible |
+| **Densité de l'eau au bout de la jetée** | 1028.2 g/cm³ | 1028.2 g/cm³ |
+| **Température id.** | 17.8 °C | 18.0 °C |
+```

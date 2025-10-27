@@ -1,0 +1,22 @@
+# Date: 23 Mai 1902
+
+| **Paramètre** | **9h Matin** | **3h Soir** |
+|---------------|--------------|-------------|
+| **Hauteur Barométrique (mm)** | 763.3 | 763.3 |
+| **Direction du vent** | E.S.O. | E.S.O. |
+| **Force du vent (Beaufort)** | 3 | 3 |
+| **Nébulosité** | 10 (claire) | 10 (claire) |
+| **- Reg. N. (terre)** | - | - |
+| **- Reg. E. (mer)** | 10 (claire) | 10 (claire) |
+| **Direction des nuages** | E.S.O. | E.S.O. |
+| **Pluie tombée** | - | quelques g. |
+| **Température de l'air (°C)** | 11.2 | 11.2 |
+| **Hauteur de la mer (m)** | 7.9 | 7.9 |
+| **Agitation de l'eau** | 2 faible | 3 faible |
+| **Densité de l'eau** | - | - |
+| **- au bout de la jetée** | 1028.4 | 1028.4 |
+| **- au large** | - | - |
+| **Température de l'eau (°C)** | 13.9 | 13.9 |
+
+**Remarque additionnelle :**  
+- Nébulosité de la mer : 10 (claire) à 9h, 10 (claire) à 3h.

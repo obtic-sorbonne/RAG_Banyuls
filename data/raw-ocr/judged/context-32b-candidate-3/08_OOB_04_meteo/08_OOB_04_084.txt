@@ -1,0 +1,33 @@
+# V. 18 (Avril. 1902)
+
+## Matin
+
+|  **Kanteur Barométrique** | **702, 3**  |
+| --- | --- |
+|  Direction du vent | CV:0  |
+|  Force | 4  |
+|  **Nébulosité** | **(Reg. O. (terre))** | **10**  |
+|  | **(Reg. E. (mer))** | **10**  |
+|  Direction des nuages | 10  |
+|  Pluie tombée | 2, 5, 8  |
+|  Température de l'air | 11, 9  |
+|  Kanteur de la mer | 42, 8  |
+|  Égitation de l'eau | 2, faible  |
+|  Densité au bout de la jetée | 1026, 9  |
+|  Température de l'eau | 14, 7  |
+
+## Soir
+
+|  **Kanteur Barométrique** | **763, 3**  |
+| --- | --- |
+|  Direction du vent | ex. 8  |
+|  Force | 2  |
+|  **Nébulosité** | **(Reg. O. (verre))** | **1**  |
+|  | **(Reg. E. (mer))** | **2**  |
+|  Direction des nuages | 10  |
+|  Pluie tombée | 1, 0  |
+|  Température de l'air | 16, 5  |
+|  Kanteur de la mer | 47, 8  |
+|  Égitation de l'eau | 1, fort  |
+|  Densité au bout de la jetée | 1026, 3  |
+|  Température de l'eau | 14, 7  |

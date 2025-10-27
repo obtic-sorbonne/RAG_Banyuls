@@ -1,0 +1,27 @@
+|  Y. f. frin. 1903 | Matin | Soir  |
+| --- | --- | --- |
+|  Hauteur Prazomatique | 7.02.0 | 7.03.2  |
+|  Direction su vent | or.or.0 | "  |
+|  Force | 3 | 0  |
+|  (Reg. o. (rime) | 7 | 10  |
+|  (Reg. E. (mur) |  |   |
+|  Direction ses mages | or.or.0 | oror  |
+|  Mini tombi |  |   |
+|  Semplirative de l'air | 19.0 | 23.7  |
+|  Hauteur de la mer | 43.7 | 41.8  |
+|  Cigitation de l'eau | 2 fort | 17 fort  |
+|  Densité au bout de la jeté | 10.37.0 | 10.26.7  |
+|  Semplirative de l'eau | 17.7 | 18.1  |
+|  Y. G. frin. 1903 | Matin | Soir  |
+|  Hauteur Prazomatique | 7.04.7 | 7.03.8  |
+|  Direction su vent | or.or. 8 | 7.8  |
+|  Force | 1 fort | 1  |
+|  (Reg. a (rime) | 0 | 1  |
+|  (Reg. E. (mur) |  |   |
+|  Direction ses mages | or.or. 8 | oror  |
+|  Mini tombi |  |   |
+|  Semplirative de l'air | 21.2 | 37.8  |
+|  Hauteur de la mer | 48.3 | 41.0  |
+|  Cigitation de l'eau | 1 fort | 1 fort  |
+|  Densité au bout de la jeté | 10.26.7 | 10.26.4  |
+|  Semplirative de l'eau | 18.4 | 20.2  |

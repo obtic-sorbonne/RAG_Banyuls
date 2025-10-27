@@ -1,0 +1,22 @@
+```
+Sortie du 9 juin 1901
+
+Départ de Cadaqués pour Rosas
+Arrivée à 6 h 50 du matin
+
+Arrivée au mouillage à Rosas à 6 h 50 du matin
+
+État du temps: Beau
+
+Passagers à bord: M. Pruvot, M. Malty, Pacault
+
+Objet de la sortie: 
+
+Consommation
+- Briquettes de bois | Poids en Kilos
+- Huile             | Total en litres
+
+Dépenses
+
+Observations:
+```

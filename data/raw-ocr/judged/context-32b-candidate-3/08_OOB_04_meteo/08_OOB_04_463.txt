@@ -1,0 +1,31 @@
+```plaintext
+|  V. 16 Janvier - 1901 | Matin | Jour  |
+| --- | --- | --- |
+|  Hauteur Barométrique | 262.3 |   |
+|  Direction du vent | 2.8 |   |
+|  Force | 2 |   |
+|  Nébulosité | 10 |   |
+|  (Reg. 2. (min)) | 10 |   |
+|  Direction des nuages | 2.8 |   |
+|  Pluie tombée | 21.2 |   |
+|  Température de l'air | 3.3 |   |
+|  Hauteur de la mer | 3 |   |
+|  Agitation de l'eau | 3 |   |
+|  Densité au bout de la jetée | 5 |   |
+|  Température de l'eau | 5 |   |
+
+|  V. 17 Janvier - 1905 | Matin | Jour  |
+| --- | --- | --- |
+|  Hauteur Barométrique | 246.0 | 246.2  |
+|  Direction du vent | 0.0 | 0.0  |
+|  Force | 2 | 4  |
+|  Nébulosité | 10 | 10  |
+|  (Reg. 2 (min)) | 10 | 10  |
+|  Direction des nuages | 0.0 | 0.0  |
+|  Pluie tombée | 9.3 | 9.3  |
+|  Température de l'air | 9.3 | 9.3  |
+|  Hauteur de la mer | 5 | 5  |
+|  Agitation de l'eau | 6 | 6  |
+|  Densité au bout de la jetée | 5 | 5  |
+|  Température de l'eau | 5 | 5  |
+```

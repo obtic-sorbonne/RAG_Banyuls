@@ -1,0 +1,27 @@
+| V. 23 Novembre - 1906 | Matin | Soir |
+|-----------------------|-------|------|
+| Hauteur Barométrique  | 776,0 |      |
+| Direction du Vent     | E.N.O |      |
+| Force                 | 1 fort |      |
+| Nebulosite            | Reg. ci. (clair) | 2 |
+|                       | Reg. ci. (mor) | 0 |
+| Direction des nuages  | E.N.O |      |
+| Pluie tombée          | " |      |
+| Température de l'air  | 14,3 |      |
+| Hauteur de la mer     | 19,3 |      |
+| Agitation de l'eau    | 17 fort |      |
+| Densité au bord de la jetée | 1028,6 |      |
+| Température de l'eau  | 16,4 |      |
+| V. 24 Novembre - 1906 | Matin | Soir |
+| Hauteur Barométrique  | 779,6 |      |
+| Direction du Vent     | " |      |
+| Force                 | 0 |      |
+| Nebulosite            | Reg. ci. (clair) | 0 |
+|                       | Reg. ci. (mor) | 1 |
+| Direction des nuages  | " |      |
+| Pluie tombée          | " |      |
+| Température de l'air  | 14,4 |      |
+| Hauteur de la mer     | 48,2 |      |
+| Agitation de l'eau    | 2 |      |
+| Densité au bord de la jetée | 1028,6 |      |
+| Température de l'eau  | 16,9 |      |

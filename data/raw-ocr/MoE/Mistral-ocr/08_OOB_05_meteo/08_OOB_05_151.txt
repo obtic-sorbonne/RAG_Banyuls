@@ -1,0 +1,25 @@
+|  V. 17. Septembre - 1905 | Ntoatin | Soir  |
+| --- | --- | --- |
+|  Hauteur Vravometrique | 318.1 | 300.8  |
+|  Direction du vent | 000.8 | 000.8  |
+|  Force | 5 | 5  |
+|  Nburosite | Reg. 0. (leire) |   |
+|  Direction des nuages | 0 | 0  |
+|  Nuit tombée | 0 | 0  |
+|  Température de l'air | 18,1 | 22.3  |
+|  Hauteur de la nuit | 18,1 | 18.0  |
+|  Cogitation de l'eau | 18,1 | 18.0  |
+|  Densité au bout de la jetée | 1028.5 | 1024.8  |
+|  Température de l'eau | 20.0 | 20.4  |
+|  V. 18. Septembre - 1905 | Ntoatin | Soir  |
+|  Hauteur Vravometrique | 318.0 | 304.3  |
+|  Direction du vent | 000.0 | 8.0.8  |
+|  Force | 5 | 1  |
+|  Nburosite | Reg. 0. (leire) |   |
+|  Direction des nuages | 0 | 10  |
+|  Nuit tombée | 0 | 0  |
+|  Température de l'air | 18.3 | 22.1  |
+|  Hauteur de la nuit | 18.0 | 18.2  |
+|  Cogitation de l'eau | 1,1 | 2  |
+|  Densité au bout de la jetée | 1028.1 | 1028.2  |
+|  Température de l'eau | 20.0 | 20.5  |

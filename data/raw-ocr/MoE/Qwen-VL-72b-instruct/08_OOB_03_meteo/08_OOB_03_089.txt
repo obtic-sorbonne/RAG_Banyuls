@@ -1,0 +1,16 @@
+| **Date** | **24 Décembre 1901** |
+|----------|------------------------|
+| **9H Matin** | **3H Soir** |
+| **Hauteur Barométrique** | 758.7 |  |
+| **Direction du vent** | Gust |  |
+| **Force** | faible |  |
+| **Nébulosité** | Reg. O. (Claire) | 10 |
+|  | Reg. E. (mer) | 10 |
+| **Direction des nuages** | Nord |  |
+| **Ouie tombée** | quelques gouttes |  |
+| **Temperatûre de l'air** | 9.1 |  |
+| **Hauteur de la mer** | 29.3 |  |
+| **Agitation de l'eau** | 1 |  |
+| **Densité de l'eau** | au bout sell'ajûtée 1028.7 |  |
+|  | au large |  |
+| **Temperatûre de l'eau** | 11.6 |  |

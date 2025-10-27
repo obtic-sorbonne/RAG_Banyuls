@@ -1,0 +1,28 @@
+|  Y. 23 mai. 1906 | Mbaatin | Poir  |
+| --- | --- | --- |
+|  Hauteur Ponométrique |  |   |
+|  Direction du vent |  | 7/3/  |
+|  Voze |  | 1  |
+|  Niebulosite | (Rey. 2. (me)) | 10  |
+|   | (Rey. 2. (me)) |   |
+|  Direction des nuages |  | 13.3/  |
+|  Huie tombee |  | 13.6  |
+|  Température de l'air |  | 13.6  |
+|  Hauteur de la mer |  | 5  |
+|  Gajitation de l'eau |  | 4  |
+|  Sensité au bout de la jetée |  | 5  |
+|  Température de l'eau |  | 5  |
+|  9. 24 mai. 1906 | Mbaatin | Poir  |
+|  Hauteur Ponométrique |  |   |
+|  Direction du vent |  | 7/7,4  |
+|  Voze |  | 4  |
+|   |  | 3  |
+|  Niebulosite | (Rey. 2. (me)) | 10  |
+|   | (Rey. 2. (me)) |   |
+|  Direction des nuages |  | 2  |
+|  Huie tombee |  | 2.33/  |
+|  Température de l'air |  | 1/10  |
+|  Hauteur de la mer |  | 42.3  |
+|  Gajitation de l'eau |  | 3  |
+|  Sensité au bout de la jetée |  | 1029.6  |
+|  Température de l'eau |  | 1/1.1  |

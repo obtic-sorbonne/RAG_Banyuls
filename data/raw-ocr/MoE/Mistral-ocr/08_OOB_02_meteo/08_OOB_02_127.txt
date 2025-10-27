@@ -1,0 +1,18 @@
+# Oake - 16 Juillet - 1901
+
+|   | 9th Ott | 3rd Soir  |
+| --- | --- | --- |
+|  Kanteur Parométrique | 756,9 | 755,4  |
+|  Direction Su vent |  | 5.85  |
+|  Force |  | 3,600  |
+|  Reg. O. (tone) |  |   |
+|  Débutroite |  |   |
+|  Reg. E. (mix) |  |   |
+|  Direction des nuages |  |   |
+|  Mise tombe |  |   |
+|  Température Sel aise | 26,7 | 32,4  |
+|  Kanteur de la mer | 19,7 | 53,9  |
+|  Opération de l'eau |  |   |
+|  Densité de l'eau | 1036,8 | 1036,1  |
+|  Pan. Large |  |   |
+|  Température de l'eau | 33,3 | 25,6  |

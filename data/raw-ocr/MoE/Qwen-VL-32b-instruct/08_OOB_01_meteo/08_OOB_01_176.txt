@@ -1,0 +1,19 @@
+# Date - 18 Janvier 1901
+
+|  |   |   |
+| --- | --- | --- |
+|  Hauteur Maronctrique Direction du vent Force | 768,6 | 767,8  |
+|   | Nom | F.S.E.  |
+|   | 1 fort | 15,700 |
+|  |   |   |
+|  Nébulusité Reg. - 6 (m. 1 mer) Direction des nuages | 10 | 1  |
+|   | Nom | Nom  |
+|   | 3,47 | 11  |
+|   | 10,4 | 11,8  |
+|  Hauteur de la mer | 44,5 | 33,5  |
+|  |   |   |
+|  Agitation de l'eau | 1 fort | 1 fort  |
+|   | 10,28,4 | 10,28,7  |
+|  Densité de l'eau | au large |   |
+|  |   |   |
+|  Température de l'eau | 13,8 | 13,4  |

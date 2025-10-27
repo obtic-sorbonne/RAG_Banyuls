@@ -1,0 +1,6 @@
+| **Nombre de jours du bateau** | **Date** | **Heure** | **Hauteur Barométrique (mm)** | **Direction du vent** | **Force** | **Nébulosité (Reg. 6 - clair/obscur)** | **(Res. 2 - mer)** | **Direction des nuages** | **Pluie tombée** | **Température de l'air (°C)** | **Hauteur de la mer (m)** | **Agitation de l'eau** | **Densité au bout de la jatte (g/cm³)** | **Température de l'eau (°C)** |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| 7 | V. 16 Octobre 1909 | Matin | 797,7 | cr.cr.o | 15 | 10 | w | or.c.r.o | " | 17,0 | 46,8 | 1 fort | 1028,7 | 17,8 |
+| Soir | 796,6 | cr.cr.o | 2 T.jour | w | or.c.r.o | " | 16,3 | 46,8 | 1 fort | 1028,8 | 17,9 |
+| 8 | V. 17 Octobre 1909 | Matin | 760,4 | cr.cr.o | 2 | 0 | 0 | or.c.r.o | " | 16,3 | 41,0 | 3 faible | 1028,7 | 18,1 |
+| Soir | 760,2 | cr.cr.o | 2 | 1 | S.0 | or.c.r.o | " | /3,2 | 3 | 1028,6 | 18,9 |

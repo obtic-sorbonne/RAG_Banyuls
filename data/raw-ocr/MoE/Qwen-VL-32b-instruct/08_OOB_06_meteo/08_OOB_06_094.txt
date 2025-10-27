@@ -1,0 +1,47 @@
+```plaintext
+| OBSERVATIONS DU 1900 10 Xbre |
+| --- |
+| Nombre de bateaux sortis (pêche à l…) | Néant |
+| **Température de l'air** |  |
+| maxima depuis la veille | 12.3 |
+| minima id. | 7.3 |
+| **Température de l'eau** |  |
+| maxima depuis la veille |  |
+| minima id. |  |
+| Pluie tombée depuis la veille, en millim. | " |
+| Evaporation depuis le 1900, en millim. |  |
+| **Direction du vent (à terre)** | 9 h. m. | 3 h. s. |
+| Force | 4 fort | 2 |
+| **Direction des nuages** | 0.S.0 | Oudj. |
+| **Nébulosité** |  |
+| région Ouest (terre) | 1 | 10 |
+| id. Est (mer) | 3 | 10 |
+| Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.) | 14.6 | 0.0 |
+| Agitation de l'eau | 1 | 1 |
+| Densité de l'eau au bout de la jetée | 1029.3 | 1028.9 |
+| Température id. | 13.4 | 13.3 |
+
+---
+
+| OBSERVATIONS DU 1900 12 Xbre |
+| --- |
+| Nombre de bateaux sortis (pêche à l…) | Néant |
+| **Température de l'air** |  |
+| maxima depuis la veille | 16.5 |
+| minima id. | 6.6 |
+| **Température de l'eau** |  |
+| maxima depuis la veille |  |
+| minima id. |  |
+| Pluie tombée depuis la veille, en millim. | quelques |
+| Evaporation depuis le 1900, en millim. |  |
+| **Direction du vent (à terre)** | 9 h. m. | 3 h. s. |
+| Force | 1 | 1 fort. |
+| **Direction des nuages** | 0.S.0 | 0.S.0 |
+| **Nébulosité** |  |
+| région Ouest (terre) | 5 | 10 |
+| id. Est (mer) | 2 | 10 |
+| Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.) | 12.0 | 2.0 |
+| Agitation de l'eau | 1 fort. | 1 |
+| Densité de l'eau au bout de la jetée | 1028.3 | 1026.8 |
+| Température id. | 13.2 | 13.6 |
+```

@@ -1,0 +1,58 @@
+| **Observations du 26 septembre 1901** |
+| --- |
+| Nombre de bateaux sortis (pêche à l.) | |
+| **Température de l'air** |
+| maxima depuis la veille | 26,9 |
+| minima id. | 19,4 |
+| **Température de l'eau** |
+| maxima depuis la veille | |
+| minima id. | |
+| Pluie tombée depuis la veille, en millim. | |
+| Evaporation depuis le 18 juillet 1901, en millim. | 3,17 |
+| **Direction du vent (à terre)** |
+| à 9 h. m. | Nord |
+| à 3 h. s. | Nord |
+| **Force** |
+| id. | 1 fort |
+| **Direction des nuages** |
+| Nord |
+| **Nébulosité** |
+| région Ouest (terre) | 1 |
+| id. Est (mer) | 1 |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.)** | 41,0 |
+| **Agitation de l'eau** | 1 fort |
+| **Densité de l'eau au bout de la jetée** | 1026,9 |
+| **Température id. (Juname) matin** |
+| maxima | 21,3 |
+| minima | 21,3 |
+| **Température id. (Juname) soir** |
+| maxima | 33,9 |
+| minima | 17,8 |
+
+| **Observations du 27 septembre 1901** |
+| --- |
+| Nombre de bateaux sortis (pêche à l.) | |
+| **Température de l'air** |
+| maxima depuis la veille | 27,8 |
+| minima id. | 20,6 |
+| **Température de l'eau** |
+| maxima depuis la veille | |
+| minima id. | |
+| Pluie tombée depuis la veille, en millim. | |
+| Evaporation depuis le 190, en millim. | |
+| **Direction du vent (à terre)** |
+| à 9 h. m. | N.N.E. |
+| à 3 h. s. | Nord |
+| **Force** |
+| id. | 1 fort |
+| **Direction des nuages** |
+| Nord |
+| **Nébulosité** |
+| région Ouest (terre) | 0 |
+| id. Est (mer) | 1 |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.)** | 31,6 |
+| **Agitation de l'eau** | 1 fort |
+| **Densité de l'eau au bout de la jetée** | 1026,0 |
+| **Température id. (Bigame) matin** |
+| maxima | 30,6 |
+| minima | 18,8 |

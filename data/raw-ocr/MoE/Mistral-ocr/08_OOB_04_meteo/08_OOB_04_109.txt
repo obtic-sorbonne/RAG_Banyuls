@@ -1,0 +1,29 @@
+|  4. 28 Juin. 1902 | N'Gatin | Soir  |
+| --- | --- | --- |
+|  Nauteur Maronctrique | 467.3 | 464.6  |
+|  Direction Su vent | 1.8 | 1.8  |
+|  Force | 1 fort | 3  |
+|  N'Gobutosite | 10 | 10  |
+|  (Reg. O. (tine) |  |   |
+|  Direction des nuages | 10 | 10  |
+|  Flue Tombie | 1.8 | 1.8  |
+|  Température de l'air | 20.8 | 20.7  |
+|  Nauteur de la mer | 47.1 | 41.8  |
+|  (Égitation de l'eau) | 3 fort | 4 fort  |
+|  Densité au bout de la jetée | 1027.7 | 1027.7  |
+|  (Démperature de l'eau) | 18.5 | 17.5  |
+
+|  4. 30 Juin. 1902 | N'Gatin | Soir  |
+| --- | --- | --- |
+|  Nauteur Maronctrique | 464.7 | 464.1  |
+|  Direction Su vent | 1.8 | 1.8  |
+|  Force | 2 fort | 3  |
+|  N'Gobutosite | 10 | 0  |
+|  (Reg. O. (tine) |  |   |
+|  Direction des nuages | 168 | 168  |
+|  Flue Tombie | 20.4 | 22.6  |
+|  Température de l'air | 20.4 | 22.6  |
+|  Nauteur de la mer | 13.8 | 42.1  |
+|  (Égitation de l'eau) | 2 | 2  |
+|  Densité au bout de la jetée | 1027.3 | 1027.2  |
+|  (Démperature de l'eau) | 18.6 | 19.1  |

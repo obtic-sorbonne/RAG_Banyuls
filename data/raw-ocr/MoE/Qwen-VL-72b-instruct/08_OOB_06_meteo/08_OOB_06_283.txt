@@ -1,0 +1,62 @@
+### **Observations du 1902 17 Mai**
+
+| Nombre de bateaux sortis (pêche à la ligne) | 81,0 |
+| --- | --- |
+| Température de l'air |  |
+| maxima depuis la veille | 31,0°C |
+| minima id. | 19,4°C |
+| Température de l'eau |  |
+| maxima depuis la veille | |  
+| minima id. | |  
+| Pluie tombée depuis la veille, en millimètres | quelque chose |
+| Evaporation depuis le 1902, en millimètres | |  
+
+| **Direction du vent (à terre)** | **à 9 h. m.** | **à 3 h. s.** |
+| --- | --- | --- |
+| Force | Mod. | 2 |
+| Direction des nuages | NN.O. | NN.E. |
+| Nebulosité |  |  |
+| région Ouest (terre) | 10 | 6 |
+| id. Est (mer) | 10 | 2 |
+| Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.) | 44,9 | 12,4 |
+| Agitation de l'eau | 2 | 2|
+| Densité de l'eau au bout de la jetée | 1027,2 | 1026,9 |
+| Température | 16,2 | 16,6 |
+| id. | | |
+| Matin | 16,2 | 16,6 |
+| Maxima | 34,4 | |
+| Minima | 11,9 | |
+
+---
+
+### **Observations du 1902 20 Mai**
+
+| Nombre de bateaux sortis (pêche à la ligne) | 23,2 |
+| --- | --- |
+| Température de l'air |  |
+| maxima depuis la veille | 23,2°C |
+| minima id. | 12,6°C |
+| Température de l'eau |  |
+| maxima depuis la veille | |  
+| minima id. | |  
+| Pluie tombée depuis la veille, en millimètres | 2,7 |
+| Evaporation depuis le 10 avril 1902, en millimètres | 78 |
+
+| **Direction du vent (à terre)** | **à 9 h. m.** | **à 3 h. s.** |
+| --- | --- | --- |
+| Force | fort | 2 |
+| Direction des nuages | S. S. E. | S. S. E. |
+| Nebulosité |  |  |
+| région Ouest (terre) | 10 | 10 |
+| id. Est (mer) | 10 | 10 |
+| Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.) | 34,7 | 44,1 |
+| Agitation de l'eau | 1 | 1 |
+| Densité de l'eau au bout de la jetée | 1027,3 | 1027,3 |
+| Température | 16,1 | 16,0 |
+| id. | | |
+| Matin | 16,1 | 16,0 |
+| Maxima | 31,7 | |
+| Minima | 10,6 | |
+| Maxima | 23,2 | |
+| Minima | 18,9 | |
+

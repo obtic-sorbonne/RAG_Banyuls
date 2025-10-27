@@ -1,0 +1,15 @@
+| **Date**       | 6 Novembre 1900 |
+|-----------------|-----------------|
+| **Paramètres**  | **9h Matin**    | **3h Soir**    |
+| **Hauteur Barométrique** | 756.5 | 756.7 |
+| **Direction du vent**    | Nord | N.E. |
+| **Force**         | 1 faible | 1 faible |
+| **Nébulosité**  | Reg. W. (loin) | Reg. E. (mar) |
+| **O**           | **0**         | **0**         |
+| **Direction des nuages** | Nord | Ouest |
+| **Pluie tombée**  | " | " |
+| **Température de l'air** | 15.6 | 16.8 |
+| **Haut. de la mer** | 42.6 | 37.9 |
+| **Agitation de l’eau** | 1.T. faible | 1.T. faible |
+| **Densité de l’eau** | 1029.5 | 1028.8 |
+| **Température de l’eau** | 17.5 | 17.7 |

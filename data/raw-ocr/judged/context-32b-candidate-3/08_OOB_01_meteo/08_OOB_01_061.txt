@@ -1,0 +1,21 @@
+# Data: No. 25 September 1900
+
+|   |  | Heures:  |
+| --- | --- | --- |
+|   |  | 3th/12  |
+|  Bauteur barométrique |  | 762.1 761.1  |
+|  Direction du vent |  | S.E. 2.S.E.  |
+|  Force |  | 2  |
+|   |  | 4  |
+|  Nébulosité | (Reg. O. (tens)) | 7  |
+|   | (Reg. E. (mm)) | 8  |
+|  Direction des nuages |  | 5  |
+|  Plein tombé |  |   |
+|  Température de l'air |  | 23.8 24.5  |
+|  Bauteur de la mer |  | 0.45  |
+|  Agitation de l'eau |  | 0  |
+|  Densité de l'eau | (autour) à la jetée | 1025.5  |
+|  (au large) |  |   |
+|  Température de l'eau |  | 21.9  |
+
+Meurat.

@@ -1,0 +1,18 @@
+# Date: 17 Mai 1901
+
+|   | 9th Matin | 3rd Soir  |
+| --- | --- | --- |
+|  Kanteur Paromatique | 759,4 | 759,4  |
+|  Direction du vent | N.E. | Ouest  |
+|  Force | 2 faille | 1 faille  |
+|  Reg. 6. (titre) | 10 | 10  |
+|  Tributointe ? |  |   |
+|  Reg. E. (max) | 10 | 10  |
+|  Direction des nuages | Nom | Ouest  |
+|  Mise Tombe | 11 | 5,450  |
+|  Température de l'air | 19,9 | 16,9  |
+|  Kanteur de la mer | 51,3 | 55,3  |
+|  Agitation de l'eau | 1,751,4 | 1,751,4  |
+|  Sensité de l'eau ? |  |   |
+|  1 an frâge |  |   |
+|  Température de l'eau | 16,6 | 16,5  |

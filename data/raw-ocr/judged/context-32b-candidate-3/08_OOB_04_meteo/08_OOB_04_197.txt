@@ -1,0 +1,31 @@
+```
+V. 6 Mours. 1903 | Matin | Soir |
+| --- | --- | --- |
+|  Hauteur Barométrique |  | 788,5 |
+|  Direction du vent |  | or. 0 |
+|  Force |  | f/faible |
+|  Nébulosité (Reg. O. (terre)) |  | 10 |
+|  Nébulosité (Reg. E. (mur)) |  | or. 0 |
+|  Direction des nuages |  | or. 0 |
+|  Pluie tombée |  |  |
+|  Température de l'air |  | 11,7 |
+|  Hauteur de la mer |  | 64,7 |
+|  Agitation de l'eau |  | 3 |
+|  Densité au bout de la jetée |  | 1028,9 |
+|  Température de l'eau |  | 11,4 |
+
+V. 7 Mours. 1903 | Matin | Soir |
+| --- | --- | --- |
+|  Hauteur Barométrique | 771,0 | 788,4 |
+|  Direction du vent | or. 0 | or. or. 0 |
+|  Force | 4 | 2/fort |
+|  Nébulosité (Reg. O. (terre)) | 0 |  |
+|  Nébulosité (Reg. E. (mur)) | 0 |  |
+|  Direction des nuages | or. 0 |  |
+|  Pluie tombée |  |  |
+|  Température de l'air | 9,8 | 12,4 |
+|  Hauteur de la mer | 69,2 | 9/17 |
+|  Agitation de l'eau | 2/fort | 2 |
+|  Densité au bout de la jetée | 1029,9 | 1029,1 |
+|  Température de l'eau | 10,7 | 11,5 |
+```

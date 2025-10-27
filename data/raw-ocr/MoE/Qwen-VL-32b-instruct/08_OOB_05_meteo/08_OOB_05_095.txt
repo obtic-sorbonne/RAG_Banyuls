@@ -1,0 +1,26 @@
+| **Nombre de jours de bateaux** | **Date**       | **Matin**   | **Soir**    |
+|-------------------------------|----------------|-------------|-------------|
+| 18                            | V. 28 Mars. 1906 |             |             |
+|                               | Hauteur Barométrique | 749.2      |             |
+|                               | Direction du vent     | cr.cr.o    |             |
+|                               | Force                | is        | fort       |
+|                               | Nébulosité           | Reg. o (lèvre) | w         |
+|                               | Répartition des nuages | Reg. xii (mer) | eost     |
+|                               | Pluie tombée          |            | 4.37/     |
+|                               | Température de l'air  |            |           |
+|                               | Hauteur de la mer     |            |           |
+|                               | Agitation de l'eau    |            | fort      |
+|                               | Densité au bout de la jetée |        |           |
+|                               | Température de l'eau  |            |           |
+| 15                            | V. 29 Mars. 1906 |             |             |
+|                               | Hauteur Barométrique | 7/9.7     |           |
+|                               | Direction du vent     | cr.cr.o    | defort    |
+|                               | Force                | is        | 2         |
+|                               | Nébulosité           | Reg. o (lèvre) | 1       |
+|                               | Répartition des nuages | Reg. xi (mer) | cr.cr.o  |
+|                               | Pluie tombée          |            | 9./      |
+|                               | Température de l'air  |            | S        |
+|                               | Hauteur de la mer     |            |           |
+|                               | Agitation de l'eau    |            | 2        |
+|                               | Densité au bout de la jetée |        | S        |
+|                               | Température de l'eau  |            |           |

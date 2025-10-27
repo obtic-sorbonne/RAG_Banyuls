@@ -1,0 +1,41 @@
+# V. 9 X le 1901
+
+## Matin
+
+- **Fauteur Prorandieque**
+  - Direction du vent
+
+- **Force**
+  - 15
+  - 1600
+  - 1600
+  - 1600
+  - 1600
+
+- **Obébulosité**
+  - (Reg. - E - (mer))
+
+- **Direction des nuages**
+  - 1600
+  - 1600
+  - 1600
+  - 1600
+
+- **Cluice tombée**
+  - 1600
+  - 1600
+  - 1600
+  - 1600
+
+- **Démarcheur de l'air**
+  - 1600
+  - 1600
+  - 1600
+  - 1600
+
+- **Fauteur de la mer**
+  - 1600
+  - 1600
+  - 1600
+  - 1600
+  - 1600

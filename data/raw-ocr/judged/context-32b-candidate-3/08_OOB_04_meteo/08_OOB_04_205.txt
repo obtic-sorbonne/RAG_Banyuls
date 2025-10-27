@@ -1,0 +1,31 @@
+V. 21 Mours. 1903
+
+|  Hauteur Barométrique |  | 172.7  |
+| --- | --- | --- |
+|  Direction du vent |  | 3.6  |
+|  Force |  | 3 fort  |
+|  Nébulosité (Reg. C. (terre)) |  | 0  |
+|  Nébulosité (Reg. F. (mer)) |  | 0  |
+|  Direction des nuages |  |  |
+|  Prise tombée |  |  |
+|  Température de l'air |  | 15.0  |
+|  Hauteur de la mer |  | 68.7  |
+|  Agitation de l'eau |  | 1  |
+|  Densité au bout de la jetée |  | 102.8  |
+|  Température de l'eau |  | 12.5  |
+
+V. 23 Mours. 1903
+
+|  Hauteur Barométrique | 170.6 | 167.2  |
+| --- | --- | --- |
+|  Direction du vent |  |  |
+|  Force |  | 3  |
+|  Nébulosité (Reg. C. (terre)) |  | 2  |
+|  Nébulosité (Reg. F. (mer)) |  |  |
+|  Direction des nuages |  |  |
+|  Prise tombée |  |  |
+|  Température de l'air | 16.7 |  |
+|  Hauteur de la mer | 69.1 | 67.4  |
+|  Agitation de l'eau | 1/feuille | 1/fort  |
+|  Densité au bout de la jetée | 102.9 | 102.9  |
+|  Température de l'eau | 12.4 | 13.9  |

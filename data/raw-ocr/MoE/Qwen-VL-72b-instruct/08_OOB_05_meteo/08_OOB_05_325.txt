@@ -1,0 +1,25 @@
+| Péche à la Traine - g.b. | V. 2 Xbre 1907 | Matin | Soir |
+|--------------------------|----------------|-------|------|
+| Hauteur Barométrique     |                | 767.0 | 767.0 |
+| Direction du Vent        |                | cr.o  | cr.o  |
+| Force                    |                | 15    | 15    |
+| Nebulosite               | Reg. O. (km)   | 10    | 10    |
+| Direction des nuages     |                | cr.o  | s.o   |
+| Pluie tombée             |                | 7.729 | "     |
+| Température de l'air     |                | 14.0  | 15.0  |
+| Hauteur de la mer        |                | 36.7  | 28.0  |
+| Agitation de l'eau       |                | 2 faible | 2 faible |
+| Densité au bout de la jetée |             | 1027.6 | 1027.7 |
+| Température de l'eau     |                | 16.9  | 16.6  |
+| Péche à la Traine - g.b. | V. 3 Xbre 1907 | Matin | Soir |
+| Hauteur Barométrique     |                | 792.8 | 797.8 |
+| Direction du Vent        |                | s.o   | cr.o  |
+| Force                    |                | 15    | 6     |
+| Nebulosite               | Reg. O. (km)   | 10    | 10    |
+| Direction des nuages     |                | ouest | cr.o  |
+| Pluie tombée             |                | "     | quelques |
+| Température de l'air     |                | 11.2  | 10.9  |
+| Hauteur de la mer        |                | 29.9  | 30.8  |
+| Agitation de l'eau       |                | 1 faible | 2 faible |
+| Densité au bout de la jetée |             | 1027.6 | 1027.1 |
+| Température de l'eau     |                | 17.6  | 17.0  |

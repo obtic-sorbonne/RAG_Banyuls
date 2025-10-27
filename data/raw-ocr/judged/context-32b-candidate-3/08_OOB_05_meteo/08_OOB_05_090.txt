@@ -1,0 +1,31 @@
+```
+| **Nombre de jours, de bateaux** | 9 |
+| --- | --- |
+| **r. 17 mars. 1906:** | **Matin** | **Soir** |
+| Hauteur Barométrique | 769.6 | 707.6 |
+| Direction du vent | cr.cr.o | cr.cr.o |
+| Force | is | 0 |
+| Nébulosité (Reg. o. (claire)) | 0 | 0 |
+| Direction des nuages | cr.cr.o | cr.cr.o |
+| Pluie tombée | " | " |
+| Température de l'air | 12.0 | 19.3 |
+| Hauteur de la mer | 3 | 5 |
+| Agitation de l'eau | 0 | 0 |
+| Densité au bout de la jetée | 1029.3 | 1029.3 |
+| Température de l'eau | 14.6 | 14.6 |
+
+| **Nombre de jours, de bateaux** | 18 |
+| --- | --- |
+| **r. 19 mars. 1906:** | **Matin** | **Soir** |
+| Hauteur Barométrique | 760.2 | 710.8 |
+| Direction du vent | cr.cr.o | or.or.o |
+| Force | is | 6 |
+| Nébulosité (Reg. o. (claire)) | 10 | 10 |
+| Direction des nuages | cr.cr.o | cr.o |
+| Pluie tombée | " | " |
+| Température de l'air | 12.0 | 5 |
+| Hauteur de la mer | 3 | 3 |
+| Agitation de l'eau | 3 | 3 |
+| Densité au bout de la jetée | 1028.3 | 1028.3 |
+| Température de l'eau | 14.6 | 14.6 |
+```

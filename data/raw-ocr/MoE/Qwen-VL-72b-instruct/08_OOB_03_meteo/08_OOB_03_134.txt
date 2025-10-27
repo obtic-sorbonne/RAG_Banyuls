@@ -1,0 +1,17 @@
+| **Date** | 25 Février 1902 |
+|---|---|
+| **Heure** | 9h Matin | 19h Soir |
+| **Direct. Su vent** | n | s.s.o | s. E |
+| **Haut. Barométrique** | 751,8 | 752,2 |
+| **Force** | 3 Fort | 1 Très faible |
+| **Nébulosite** | 0 | 8 |
+| **Reg. O. (terre)** | 6 | 1 |
+| **Reg. E. (mer)** | n.e.n.0 | S.S. |
+| **Dir. nuages** | quelques g | | |
+| **Pluie tombée** | | " | |
+| **Température de l'air** | 13.3 | 13.7 |
+| **Haut. de la mer** | 24.1 | 42.4 |
+| **Agitation de l'eau** | 3 Fort | 3 Fort | |
+| **Densité de l'eau** | | | |
+| **au Dégant** | 1028.7 | 1028.9 |
+| **Température de l'eau** | 11,4 | 11,3 |

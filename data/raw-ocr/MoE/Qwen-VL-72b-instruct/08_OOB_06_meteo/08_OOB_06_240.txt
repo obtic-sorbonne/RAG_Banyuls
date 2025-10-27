@@ -1,0 +1,41 @@
+| **OBSERVATIONS DU 1902 15 janvier** |
+| --- |
+| **Nombre de bateaux sortis (pêche à l.)** | ... |
+| **Température de l'air** | **maxima depuis la veille** | **6**,**1** |
+| **Température de l'eau** | **maxima depuis la veille** | ... |
+| **Pluie tombée depuis la veille, en millim.** | **19**,**6** |
+| **Evaporation depuis le 8 janvier 1902, en millim.** | **6**,**7** |
+| **Direction du vent (à terre)** | à 9 h. m. | **S. O.** |
+| **Force** | | **1** |
+| **Direction des nuages** | | **N. O.** |
+| **Nébulosité** | **région Ouest (terre)** | **0** |
+| **id. Est (mer)** | **1** |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B.P.)** | **35,2** |
+| **Agitation de l'eau** | **1 fort** |
+| **Densité de l'eau au bout de la jetée** | **1028,2** |
+| **Température** | **id. is. is.** | **13,2** |
+| **- is. is. is.** | **Matin** | **maxima 21,0** |
+| **- is. is. is.** | **Minima 3,7** |
+| **- is. is. is.** | **Soir** | **maxima 21,2** |
+| **Minima 9,0** |
+
+| **OBSERVATIONS DU 1902 16 janvier** |
+| --- |
+| **Nombre de bateaux sortis (pêche à l.)** | ... |
+| **Température de l'air** | **maxima depuis la veille** | **19,8** |
+| **Température de l'eau** | **maxima depuis la veille** | ... |
+| **Pluie tombée depuis la veille, en millim.** | **0** |
+| **Evaporation depuis le 190 , en millim.** | ... |
+| **Direction du vent (à terre)** | à 9 h. m. | **S. O.** |
+| **Force** | | **1** |
+| **Direction des nuages** | | **S. E.** |
+| **Nébulosité** | **région Ouest (terre)** | **1** |
+| **id. Est (mer)** | **0** |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B.P.)** | **21,2** |
+| **Agitation de l'eau** | **1, fort 2** |
+| **Densité de l'eau au bout de la jetée** | **1028,1** |
+| **Température** | **id. is. is.** | **12,8** |
+| **- is. is. is.** | **Matin** | **maxima 21,0** |
+| **- is. is. is.** | **Minima 3,0** |
+| **- is. is. is.** | **Soir** | **maxima 18,3** |
+| **Minima 8,0** | | |

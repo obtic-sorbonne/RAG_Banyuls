@@ -1,0 +1,35 @@
+```markdown
+# V. 6 Février 1907
+
+| **Date** | **Matin** | **Soir** |
+| --- | --- | --- |
+| **Hauteur barométrique** | 762.8 mmHg | — |
+| **Direction du vent** | S.O | — |
+| **Force** | 1 | — |
+| **Nébulosité (Reg. C. (terre))** | 10 | — |
+| **Nébulosité (Reg. 2. (mer))** | 10 | — |
+| **Direction des nuages** | S.O | — |
+| **Pluie tombée** | — | — |
+| **Température de l'air** | -2.0 °C | — |
+| **Hauteur de la mer** | 63.2 cm | — |
+| **Agitation de l'eau** | 2 | — |
+| **Densité au bout de la jetée** | 1030.1 g/cm³ | — |
+| **Température de l'eau** | 11.6 °C | — |
+
+# V. 7 Février 1907
+
+| **Date** | **Matin** | **Soir** |
+| --- | --- | --- |
+| **Hauteur barométrique** | 766.4 mmHg | 769.4 mmHg |
+| **Direction du vent** | C.O | C.O |
+| **Force** | 2 | 1 |
+| **Nébulosité (Reg. C. (terre))** | 10 | 10 |
+| **Nébulosité (Reg. 2. (mer))** | 10 | 10 |
+| **Direction des nuages** | C.O | C.O |
+| **Pluie tombée** | — | Quelques g |
+| **Température de l'air** | 4.6 °C | — |
+| **Hauteur de la mer** | 17.7 cm | — |
+| **Agitation de l'eau** | 1 | 2 fort |
+| **Densité au bout de la jetée** | 1029.7 g/cm³ | — |
+| **Température de l'eau** | 11.4 °C | — |
+```

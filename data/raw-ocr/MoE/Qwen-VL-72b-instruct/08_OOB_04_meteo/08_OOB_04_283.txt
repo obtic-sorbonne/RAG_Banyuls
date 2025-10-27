@@ -1,0 +1,30 @@
+| **Date**       | **Matin** | **Soir** |
+|---------------|-----------|----------|
+| 3 Octobre 1903 |           |          |
+| Hauteur Barométrique | 767.2 | 767.8 |
+| Direction du vent | cér. o |        |
+| Force | 15 | 1 fais. |
+| Reg. O. (clou) | 1 légume | 0 |
+| Nébulosités |             |         |
+|   (Reg. Z. (mur)) | 2 lègum. | 1 |
+| Direction des nuages |     | Clou |
+| Pluie Tombée |     |       |
+| Température d’en l’air | 20.9 | 23.6 |
+| Hauteur de la mer | 03.1 | 42.7 |
+| Agitation de l’eau | 1 | 1 |
+| Vitesse au bout de la jetée | 1027.8 | 1026.7 |
+| Température de l’eau | 18.2 | 19.1 |
+| 4 Octobre 1903 |           |          |
+| Hauteur Barométrique | 767.2 |        |
+| Direction du vent | Est. |        |
+| Force | 15 | 1 faible |
+| Reg. O. ( clou ) | 0 |        |
+| Nébulosités |             |         |
+|   (Reg. Z. (mur)) | 2 lègum. | plémisc. |
+| Direction des nuages |     |        |
+| Pluie Tombée |     |        |
+| Température d’en l’air | 19.9 |        |
+| Hauteur de la mer | 48.2 |        |
+| Agitation de l’eau | 1 7 faible |      |
+| Vitesse au bout de la jetée | 1026.6 |      |
+| Température de l’eau | 19.0 |        |

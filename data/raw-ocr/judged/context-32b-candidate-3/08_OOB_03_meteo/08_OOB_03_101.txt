@@ -1,0 +1,18 @@
+# Bate. 11 Janvier. 1902
+
+|  |   |   |
+| --- | --- | --- |
+|  Hauteur Barométrique | 9th Matin 3rd Soir |   |
+|  Direction du vent | 770,0 | 778,0  |
+|  Force | Ouest | Mou  |
+|  | 1 r. faible | Faible  |
+|  Nébulosité { Reg. C. (terre) } | 10 | 0  |
+|  Nébulosité { Reg. E. (mer) } | 10 | 2  |
+|  Direction des nuages | N.N.O | Nul  |
+|  Pluie tombée |  |   |
+|  Température de l'air | 8,1 | 9,6  |
+|  Hauteur de la mer | 42,4 | 81,0  |
+|  Agitation de l'eau | 3 | 1 r. fort  |
+|  Densité de l'eau { au bout de la jetée } | 1028,7 | 1028,3  |
+|  Densité de l'eau { au large } | - |  -  |
+|  Température de l'eau | 12,6 | 11,8  |

@@ -1,0 +1,29 @@
+```plaintext
+|  IV. 7 Juin - 1904 | Matin | Soir  |
+| --- | --- | --- |
+|  Hauteur Barométrique | 763.3 | 763.3  |
+|  Direction du vent | 2.5.8 | 2.5.8  |
+|  Force | 1 | 1  |
+|  Nébutoïde | Reg. G. (lire) | 15.50 mts  |
+|  Direction des nuages | 2.28 | 2.28  |
+|  Pluie Tombée |  |  |
+|  Température de l'air | 21.8 | 21.8  |
+|  Hauteur de la mer | 49.5 | 49.5  |
+|  Cigitation de l'eau | 1 fort | 1 fort  |
+|  Densité au bout de la jetée | 1087.4 | 1087.4  |
+|  Température de l'eau | 19.1 | 19.1  |
+
+|  IV. 8 Juin - 1904 | Matin | Soir  |
+| --- | --- | --- |
+|  Hauteur Barométrique | 718.9 | 718.9  |
+|  Direction du vent | 2.5.8 | 2.5.8  |
+|  Force | 1 | 1  |
+|  Nébutoïde | Reg. G. (lire) | 10  |
+|  Direction des nuages | 10 | 10  |
+|  Pluie Tombée |  |  |
+|  Température de l'air | 21.8 | 26.5  |
+|  Hauteur de la mer | 44.5 | 39.0  |
+|  Cigitation de l'eau | 1 | 1 fort  |
+|  Densité au bout de la jetée | 1087.1 | 1086.9  |
+|  Température de l'eau | 18.8 | 30.8  |
+```

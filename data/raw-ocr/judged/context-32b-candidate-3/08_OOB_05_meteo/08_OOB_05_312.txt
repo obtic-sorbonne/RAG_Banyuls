@@ -1,0 +1,15 @@
+```markdown
+# 20 OCTOBRE 1907
+
+| **Date**        | **Heure** | **Hauteur barométrique (mmHg)** | **Direction du vent** | **Force** | **Nébulosité (Reg. C. claire)** | **Nébulosité (Reg. 2. (mer))** | **Direction des nuages** | **Pluie tombée (mm)** | **Température de l'air (°C)** | **Hauteur de la mer (cm)** | **Agitation de l'eau** | **Densité au bout de la jetée (g/cm³)** | **Température de l'eau (°C)** |
+|-----------------|-----------|--------------------------------|-----------------------|-----------|--------------------------------|-----------------------------|------------------------|-----------------------|-----------------------------|---------------------------|-----------------------|---------------------------------------|-----------------------------|
+| 20 Octobre 1907 | Matin     | 778.7                          | Nord-Ouest            | 1 faible  | 0 (clair)                     | 0 (clair)                  | Sud-Ouest              | 0.0                  | 16.7                       | 26.9                     | 1 fort                | 1026.9                                | 17.7                        |
+| 20 Octobre 1907 | Soir      | 777.2                          | Sud-Ouest             | 1 faible  | 0 (clair)                     | 0 (clair)                  | Sud-Ouest              | 0.0                  | 18.2                       | 22.2                     | 1 fort                | 1027.4                                | 17.7                        |
+
+# 21 OCTOBRE 1907
+
+| **Date**        | **Heure** | **Hauteur barométrique (mmHg)** | **Direction du vent** | **Force** | **Nébulosité (Reg. C. claire)** | **Nébulosité (Reg. 2. (mer))** | **Direction des nuages** | **Pluie tombée (mm)** | **Température de l'air (°C)** | **Hauteur de la mer (cm)** | **Agitation de l'eau** | **Densité au bout de la jetée (g/cm³)** | **Température de l'eau (°C)** |
+|-----------------|-----------|--------------------------------|-----------------------|-----------|--------------------------------|-----------------------------|------------------------|-----------------------|-----------------------------|---------------------------|-----------------------|---------------------------------------|-----------------------------|
+| 21 Octobre 1907 | Matin     | 760.6                          | Nord-Ouest            | 1 faible  | 0 (clair)                     | 0 (clair)                  | Sud-Ouest              | 0.0                  | 17.4                       | 36.9                     | 2 faible              | 1026.7                                | 17.7                        |
+| 21 Octobre 1907 | Soir      | 760.7                          | Sud-Ouest             | 1 faible  | 0 (clair)                     | 0 (clair)                  | Sud-Ouest              | 0.0                  | 19.2                       | 26.3                     | 2 faible              | 1026.6                                | 18.0                        |
+```

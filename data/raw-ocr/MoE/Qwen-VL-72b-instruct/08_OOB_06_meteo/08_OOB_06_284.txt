@@ -1,0 +1,40 @@
+| **OBSERVATIONS DU 1902 21 Mai** |
+| Nombre de bateaux sortis (pêche à l…) | 21.0 |
+| Température de l'air | **maxima depuis la veille** | **15.0** |
+|  | **minima id.** | **11.6** |
+| Température de l'eau | **maxima depuis la veille** | – |
+|  | **minima id.** | – |
+| Pluie tombée depuis la veille, en millim. | **4.629** |
+| Evaporation depuis le 1900, en millim. | – |
+| Direction du vent (à terre) | **↑** | – |
+| Force | **FORT** | – |
+| Direction des nuages | **Sud** | – |
+| Nébulosité | **région Ouest (terre)** | **10** | – |
+|  | **id. Est (mer)** | **10** | – |
+| Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.) | **30.2** | – |
+| Agitation de l'eau | **Forte** | – |
+| Densité de l'eau au bout de la jetée | **1027.7** | – |
+| Température id. | ** maritime** | **matin (maxima)** | **14.8** | – |
+|  | **—** | **maxima** | **23.6** | – |
+|  | **—** | **minima** | **12.7** | – |
+|  | ** TERRE** | – | – | – |
+| **OBSERVATIONS DU 1902 24 Mai** |
+| Nombre de bateaux sortis (pêche à l…) | **22.7** |
+| Température de l'air | **maxima depuis la veille** | **22.7** |
+|  | **minima id.** | **14.7** |
+| Température de l'eau | **maxima depuis la veille** | – |
+|  | **minima id.** | – |
+| Pluie tombée depuis la veille, en millim. | **33.10** |
+| Evaporation depuis le 1900, en millim. | – |
+| Direction du vent (à terre) | **N.N.O.** | **N.N.O.** |
+| Force | **Forte** | **Forte** |
+| Direction des nuages | **N.N.O.** | **N.N.O.** |
+| Nébulosité | **région Ouest (terre)** | **6** | **2** |
+|  | **id. Est (mer)** | **6** | **1** |
+| Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.) | **12.6** | **46.3** |
+| Agitation de l'eau | **2** | **2** |
+| Densité de l'eau au bout de la jetée | **1027.8** | **1027.8** |
+| Température id. | ** maritime** | **maxima** | **14.7** | **16.0** |
+|  | **—** | **maxima** | **33.9** | – |
+|  | **—** | **minima** | **8.1** | – |
+|  | ** TERRE** | – | – | – |

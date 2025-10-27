@@ -1,0 +1,33 @@
+```plaintext
+Sortie du 6 janvier 1909  
+Départ de Port-Vendres à 8 heures du matin  
+pour Fontainebaud. Arrivée à 10h matin.  
+
+Départ de Fontainebaud à 2h45 heures du soir  
+pour Banyuls. Arrivée à 4h10.  
+
+Départ de Banyuls à 8 heures du matin  
+pour le mouillage. Arrivée au mouillage  
+à 10h30.  
+
+État du temps : N.E. comme brise  
+
+Passagers à bord : M^me^, M^me^ Tronot, M^me^ Jeannet  
+
+Objet de la sortie : pêcher du corail dans la Rèche  
+
+Consommation  
+{ 72 briquettes de 6 Poids en Kilos 432 K.  
+  4 huile          Total en litres 4  
+
+Dépenses  
+
+Observations : La mer de N.E. devenant très forte,  
+nous renonçons à pêcher dans la Rèche.  
+Nous faisons route dans le N.O. et  
+nous mettons le chalut à la mer à 10h30.  
+Relais à midi, en route  
+pour Barnabu à Midi 20, arrivée à 1h30.  
+Pirons, Antéïon, Scaplanche,  
+espagnol, fond deux pêche moyenne.
+```

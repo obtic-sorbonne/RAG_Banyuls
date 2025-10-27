@@ -1,0 +1,21 @@
+```
+| Date: 28 Juillet 1901 |
+|----------------------|
+| 9h Matin | 3h Soir |
+|----------|----------|
+| Hauteur Barométrique |  |  |
+| Direction du vent |  |  |
+| Force |  |  |
+| Nébulosité |  |  |
+| Reg. O. (terre) |  |  |
+| Reg. E. (mer) |  |  |
+| Direction des nuages |  |  |
+| Pluie tombée |  |  |
+| Température de l'air |  |  |
+| Hauteur de la mer |  |  |
+| Agitation de l'eau |  |  |
+|  au bout de la jetée |  |  |
+| au large |  |  |
+| Vitesse de l'eau |  |  |
+| Température de l'eau |  |  |
+```

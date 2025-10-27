@@ -1,0 +1,16 @@
+# Date: 19 Novembre 1901
+
+|  | 9th Matin | 3rd Soir  |
+| --- | --- | --- |
+|  Hauteur Barométrique | 772,3 | 770,4  |
+|  Direction du vent | N.N.O | N.N.O  |
+|  Force | 3, faible | 3, faible  |
+|  Nébulosité { Reg. C. (terre) } | 0 | 0  |
+|  Nébulosité { Reg. E. (mer) } | 0 | 0  |
+|  Direction des nuages | N.N.O | N.N.O  |
+|  Pluie tombée | - | 11  |
+|  Température de l'air | 13,0 | 11,7  |
+|  Hauteur de la mer | 13,3 | 12,5  |
+|  Agitation de l'eau | 17, faible | 2, faible  |
+|  Densité de l'eau { au bout de la jetée } | 1027,3 | 1028,3  |
+|  Température de l'eau | 14,4 | 14,4  |

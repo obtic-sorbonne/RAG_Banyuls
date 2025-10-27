@@ -1,0 +1,18 @@
+| Date | 18 Octobre 1900 |
+|---|---|
+| | 9H Matin | 3H Soir |
+| Hauteur Barométrique | 762,5 | 761,8 |
+| Direction du Vent | Nord | Nord |
+| Force du Vent (Beaufort) | 4 | 4 |
+| Nébulosité | | |
+| - NE (terre) | 10 | 10 |
+| - NE (mer) | 10 | 10 |
+| Direction des Nuages | Nord | Nord |
+| Pluie tombée (mm) | 2,45 | 11,5 |
+| Température de l'Air (°C) | 16,7 | 17,5 |
+| Hauteur de la Mer (m) | 48,2 | 39,8 |
+| Agitation de l'Eau (échelle de Beaufort) | 3 | 3 (fort) |
+| Densité de l'Eau | | |
+| - au pont | 1027,8 | 1026,8 |
+| - au large | | |
+| Température de l'Eau (°C) | 19,3 | 19,3 |

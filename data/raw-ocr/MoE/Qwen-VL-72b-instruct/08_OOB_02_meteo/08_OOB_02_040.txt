@@ -1,0 +1,15 @@
+| **Date:** 19 Avril 1901 |
+| **Observations**                                | **9h Matin** | **15h Soir** |
+| Hauteur Barométrique                            | 766.1       | 764.7       |
+| Direction du vent                              | Est.        | Sud.        |
+| Force des vents                                | 1 faible    | 3 [moderate] |
+| Nébulosité (Reg. O.)                            | 0           | 0           |
+| Nébulosité (Reg. E.)                            | 0           | 0           |
+| Direction des nuages                           | Sud.        | Sud.        |
+| Pluie tombée                                   | —           | —           |
+| Température de l'air                           | 12.4        | 14.4        |
+| Hauteur de la mer                              | 49.9        | 64.4        |
+| Agitation de l'eau                             | 3 [faible]  | 3 [faible]  |
+| Densité de l'eau (au bout de la jetée)          | 1028.1      | 1028.7      |
+| Densité de l'eau (au large)                     | —           | —           |
+| Température de l'eau                           | 13.3        | 12.9        |

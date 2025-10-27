@@ -1,0 +1,16 @@
+# Date: 14 Avril 1902
+
+|  Item | Quit  |
+| --- | --- |
+|  Kanteur Barométrique | 9% Moatin, 3% Soir  |
+|  Direction Su vent | 7/6,3  |
+|  Force | 15  |
+|  Nebulosite | 10  |
+|  Q. Reg. E. (mer) | 10  |
+|  Direction des nuages | 10  |
+|  Flux tombé | 10  |
+|  Température de l'air | 16,4  |
+|  Kanteur de la mer | 34,1  |
+|  Q. Régitation de l'eau | 1,27,1  |
+|  Densité de l'eau | 102,6  |
+|  Q. Q. Large | 14,3  |

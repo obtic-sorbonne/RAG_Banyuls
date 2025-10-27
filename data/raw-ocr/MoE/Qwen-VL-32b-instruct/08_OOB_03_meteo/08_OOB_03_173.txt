@@ -1,0 +1,20 @@
+| Date    | Date |  |   
+| --- | --- | --- | --- 
+| 18 Avril. 1902 |       |       |   
+| Hauteur Barométrique | 9<sup>e</sup> Matin | 3<sup>e</sup> Soir | 
+|         | 762.3 |       |   
+| Direction du vent |          | er. cer.0 |   
+| Force      | 15  | 2 Pol |  
+| Nuées      |     |       |   
+|           | Reg. O. (Clair) | 0        |   
+|      | Reg. E. (mer) | 2       |   
+| Direction des nuages |         |  | "  
+| Pluie tombée |        | "  | "  
+| Température de l'air |        | "  | 15.8  
+| Hauteur de la mer |        | 42.9 |   
+| Agitation de l'eau |        |  | Faible  
+| Painbout de la jétée |        | 1026,4 |   
+| Densité de l'eau |        |  | 
+| Au large |        |  | 
+| Température de l'eau |        |  | 14,3  
+|       |       |       |    |

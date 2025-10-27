@@ -1,0 +1,43 @@
+2
+Ddate-3
+avn 1981
+fauteur Barometrique
+Drrection su vent
+torce -
+
+17
+Hutosite
+N
+RReg.-F- (mer)
+Direction des nuages
+Pluie tombée
+Cemperature de b'air
+fanteur de la mer
+Agitation de l'eau
+Densité de l'eau
+s un bout de la ptee
+au Large
+Cemperature de l'eau
+Hatin 38
+M
+764,3
+Noi
+3gaible
+9.
+7
+77
+51
+3
+Bois Bout
+3
+8
+17.9
+sfort
+10
+87,8
+147
+D
+02./
+9
+3, 2
+20.8

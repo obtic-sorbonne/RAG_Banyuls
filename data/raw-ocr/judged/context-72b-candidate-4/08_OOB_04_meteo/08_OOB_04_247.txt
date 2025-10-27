@@ -1,0 +1,32 @@
+```plaintext
+| **Date**       | **Matin** | **Soir** |
+|----------------|-----------|----------|
+| **V. 27 juin 1903** |
+| Hauteur Barométrique | 766.7 | 769.8 |
+| Direction du vent | Est | S.E. |
+| Force | 1/5 | 1/5 |
+| **Reg. 0. (île)** | 0 | 0 |
+| **Nébulosité** | 0 | 1/8 |
+| Rég. E. (mer) | 0 | 1/8 |
+| Direction des nuages | — | — |
+| Pluie tombée | — | — |
+| Température de l'air | 23.6 | 30.1 |
+| Hauteur de la mer | 43.9 | 48.2 |
+| Agitation de l'eau | 0 | 1 T. faible |
+| Densité au bout de la jetée | 1026.7 | 1026.4 |
+| Température de l'eau | 20.6 | 24.7 |
+| **V. 28 juin 1903** |
+| Hauteur Barométrique | 767.2 | 760.7 |
+| Direction du vent | E. ou S. | S.S.E. |
+| Force | 1 | 4 |
+| **Reg. 6. (île)** | 0 | 10 |
+| **Nébulosité** | 0 | 10 |
+| Rég. E. (mer) | 0 | 10 |
+| Direction des nuages | — | S.E. |
+| Pluie tombée | — | — |
+| Température de l'air | 24.7 | 27.0 |
+| Hauteur de la mer | 43.8 | 48.1 |
+| Agitation de l'eau | 1 T. faible | 2 T. forte |
+| Densité au bout de la jetée | 1027.0 | 1027.3 |
+| Température de l'eau | 21.1 | 21.3 |
+```

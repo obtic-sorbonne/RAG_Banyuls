@@ -1,0 +1,16 @@
+# V. 5 Mars 1907
+
+| **Date**       | **Matin** | **Soir**    |
+|----------------|-----------|-------------|
+| **Hauteur barométrique** | 768.8 mmHg | 764.0 mmHg |
+| **Direction du vent** | O | O |
+| **Force** | 8 | 6 |
+| **Nébulosité (Reg. C. (terre))** | 10 | 10 |
+| **Nébulosité (Reg. 2. (mer))** | 10 | 10 |
+| **Direction des nuages** | 0.0 | 0.0 |
+| **Pluie tombée** | 1 | 1 |
+| **Température de l'air** | 9.5 °C | 11.5 °C |
+| **Hauteur de la mer** | 37.3 cm | 60.5 cm |
+| **Agitation de l'eau** | 7 | 7 |
+| **Densité au bout de la jetée** | 1029.7 g/cm³ | 1029.4 g/cm³ |
+| **Température de l'eau** | 12.28 °C | 11.5 °C |

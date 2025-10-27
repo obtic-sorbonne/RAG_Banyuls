@@ -1,0 +1,16 @@
+# Date: 21 Mai 1901
+
+|  Item | 9th (M) | 3rd (S)  |
+| --- | --- | --- |
+|  Hauteur Barométrique | 766,1 | 764,5  |
+|  Direction du vent | N.E. | 261  |
+|  Force | 1 faible | 2 faible  |
+|  Nébulosité / Reg. O. (terre) | 0 | 8  |
+|  Nébulosité / Reg. E. (mer) |  |   |
+|  Direction des nuages | 11 | 21,9  |
+|  Pluie tombée | 17,4 | 21,9  |
+|  Température de l'air | 17,4 | 20,1  |
+|  Hauteur de la mer | 0 | 1 T. faible  |
+|  Densité de l'eau / au bout de la jetée | 1027,1 | 1027,1  |
+|  Densité de l'eau / au large |  |  |
+|  Température de l'eau | 17,6 | 20,1  |

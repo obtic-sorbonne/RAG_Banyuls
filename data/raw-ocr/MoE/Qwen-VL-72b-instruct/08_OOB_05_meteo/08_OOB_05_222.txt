@@ -1,0 +1,17 @@
+| Nombre de paire de bateaux | 21 Mars 1907 | Matin | Soir |
+|-----------------------------|--------------|-------|------|
+| Hauteur Barometrique        |              | 770.6 |      |
+| Direction du vent           |              | S.E   |      |
+| Voix                        |              | 1faible |      |
+| Nébulosité                  | (Reg. O. (Terre)) | 0 |      |
+| (Reg. 2. (mer))             |              | 0 |      |
+| Direction des nuages        | Pluie tombée | " |      |
+| Température de l'air        |              | 16,4 |      |
+| Hauteur de la mer           |              | 73,2 |      |
+| Agitation de l'eau          |              | 2 fort |      |
+| Vente au tour de la jetée   |              | 1028,7 |      |
+| Température de l'eau        |              | 12,6 |      |
+|                             | 22 Mars 1907 |       |      |
+| Nombre de paire de bateaux  | 4            |       |      |
+|                             | 23 Mars 1907 |       |      |
+| Nombre de paire de bateaux  | 1            |       |      |

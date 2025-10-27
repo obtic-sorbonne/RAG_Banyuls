@@ -1,0 +1,27 @@
+|  9.13 Décembre 1905 | Nibatin | Soir  |
+| --- | --- | --- |
+|  Hauteur Maronctrique | 221, 0 |   |
+|  Direction du vent | or.or.o |   |
+|  Force | 2 fort. |   |
+|  Nebulosiée | 0 |   |
+|  (Reg. x. (mer) |  |   |
+|  Direction des nuages |  |   |
+|  Huie tombee |  |   |
+|  Température de l'air | 8,1 |   |
+|  Hauteur de la mer | 11,1 |   |
+|  Agitation de l'eau | 3 fort. |   |
+|  Densité au bout de la jetée | 1029,0 |   |
+|  Température de l'eau | 11,1 |   |
+|  9.14 Décembre 1905 | Nibatin | Soir  |
+|  Hauteur Maronctrique | 269,0 | 266,3  |
+|  Direction du vent | or.o | or.or.o  |
+|  Force | 1 | 1 fort  |
+|  Nebulosiée | rég. 0. (1ane) |   |
+|  (Reg. x. (mer) |  |   |
+|  Direction des nuages |  |   |
+|  Huie tombee |  |   |
+|  Température de l'air | 8,0 | 12,9  |
+|  Hauteur de la mer | 47,2 | 61,8  |
+|  Agitation de l'eau | 4 faible | 3 faible  |
+|  Densité au bout de la jetée | 1029,4 | 1029,3  |
+|  Température de l'eau | 14,4 | 14,2  |

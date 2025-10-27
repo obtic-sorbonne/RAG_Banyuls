@@ -1,0 +1,30 @@
+```
+| **Nombre de jours du bateau** | **Matin** | **Soir** |
+|------------------------------|-----------|----------|
+| 8                            | V. 18 Octobre 1909 | V. 18 Octobre 1909 |
+| Hauteur Barométrique (mm)    | 764.3     | 763.3    |
+| Direction du vent            | cr.ar.o   | clair    |
+| Force                        | 8         | 8        |
+| Nébulosité (Res. O)          | 1         | 1        |
+| Nébulosité (Res. E. (mer))   | 1         | 1        |
+| Direction des nuages         | cr.ar.o   | cr.8     |
+| Pluie tombée                 | "S"       | "S"      |
+| Température de l'air (°C)    | 40.9      | 44.8     |
+| Hauteur de la mer (m)        | 3 faible  | 3 faible |
+| Agitation de l'eau           | 1028.4    | 1028.9   |
+| Densité au bout de la jatte (kg/m³) | 18.0   | 18.0    |
+| Température de l'eau (°C)    | 18.0      | 18.0     |
+| 8                            | V. 19 Octobre 1909 | V. 19 Octobre 1909 |
+| Hauteur Barométrique (mm)    | 763.0     | 765.8    |
+| Direction du vent            | S.S.E.    | 2        |
+| Force                        | 8         | 0        |
+| Nébulosité (Res. O)          | 0         | 0        |
+| Nébulosité (Res. E. (mer))   | 0         | 0        |
+| Direction des nuages         | "S"       | "S"      |
+| Pluie tombée                 | "S"       | "S"      |
+| Température de l'air (°C)    | 42.9      | 42.1     |
+| Hauteur de la mer (m)        | 17.0      | 3        |
+| Agitation de l'eau           | 1028.9    | 19.2     |
+| Densité au bout de la jatte (kg/m³) | 1028.4  | 1028.4  |
+| Température de l'eau (°C)    | 18.0      | 18.0     |
+```

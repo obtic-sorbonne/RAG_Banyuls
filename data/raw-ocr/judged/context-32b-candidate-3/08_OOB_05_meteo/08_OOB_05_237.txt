@@ -1,0 +1,15 @@
+```markdown
+# 27 Avril 1907
+
+| **Date**       | **Heure** | **Hauteur Barométrique** | **Direction du Vent** | **Force** | **Nébulosité (0/10)** | **Réglage**  | **Direction des nuages** | **Pluie Tombée** | **Température de l'Air** | **Hauteur de la Mer (cm)** | **Agitation de l'Eau** | **Densité au bord de la jetée** | **Température de l'Eau** |
+|----------------|-----------|--------------------------|-----------------------|-----------|-----------------------|---------------|--------------------------|------------------|--------------------------|----------------------------|-----------------------|-------------------------------|--------------------------|
+| 27 Avril 1907  | **Matin** | 761.2 mmHg               | Nord                  | 15 faible | 10 (Couvert)           | 3/20.5        | Nord                     | 14.3 mm          | 14.3 °C                  | 44.2 cm                    | 3/20.5                | 1028.3 g/cm³                 | 15.5 °C                 |
+| 27 Avril 1907  | **Soir**  | 763.8 mmHg               | Nord                  | 4 faible  | 10 (Couvert)           | 3/20.5        | Nord                     | 15.3 mm          | 15.3 °C                  | 15.3 cm                    | 3/20.5                | 1028.3 g/cm³                 | 15.1 °C                 |
+
+# 29 Avril 1907
+
+| **Date**       | **Heure** | **Hauteur Barométrique** | **Direction du Vent** | **Force** | **Nébulosité (0/10)** | **Réglage**  | **Direction des nuages** | **Pluie Tombée** | **Température de l'Air** | **Hauteur de la Mer (cm)** | **Agitation de l'Eau** | **Densité au bord de la jetée** | **Température de l'Eau** |
+|----------------|-----------|--------------------------|-----------------------|-----------|-----------------------|---------------|--------------------------|------------------|--------------------------|----------------------------|-----------------------|-------------------------------|--------------------------|
+| 29 Avril 1907  | **Matin** | 762.2 mmHg               | Nord                  | 4/20.5    | 10 (Couvert)           | 3/20.5        | Nord                     | 11.3 mm          | 15.2 °C                  | 15.2 cm                    | 2                     | 1028.3 g/cm³                 | 14.6 °C                 |
+| 29 Avril 1907  | **Soir**  | 762.2 mmHg               | Nord                  | 4/20.5    | 10 (Couvert)           | 3/20.5        | Nord                     | 11.0 mm          | 15.4 °C                  | 15.4 cm                    | 2                     | 1028.3 g/cm³                 | 15.2 °C                 |
+```

@@ -1,0 +1,45 @@
+```markdown
+| **Observations du 16 juin 1960** |
+| --- |
+| **Nombre de bateaux sortis (pêche à l'ancre & sandrine)** | 46 |
+| **Température de l'air** |  |
+| - maxima depuis la veille | 24.2 |
+| - minima id. | 14.2 |
+| **Température de l'eau** |  |
+| - maxima depuis la veille | - |
+| - minima id. | - |
+| **Pluie tombée depuis la veille, en millim.** | - |
+| **Évaporation depuis le 190, en millim.** | - |
+| **Direction du vent (à terre)** |  | SE |
+| **Force** | 1 fort | 1 fort |
+| **Direction des nuages** |  |  |
+| **Nébulosité** |  |
+| - région Ouest (terre) | 0 | 10 |
+| - id. Est (mer) | 0 | 10 |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro** | 36.5 | 40.2 |
+| **Agitation de l'eau** | 2 | 1 fort |
+| **Densité de l'eau au bout de la jetée** | 1027.6 | 1026.6 |
+| **Température id.** | 17.2 | 17.7 |
+
+| **Observations du 17 juin 1960** |
+| --- |
+| **Nombre de bateaux sortis (pêche à l'ancre & sandrine)** | - |
+| **Température de l'air** |  |
+| - maxima depuis la veille | 24.2 |
+| - minima id. | 14.1 |
+| **Température de l'eau** |  |
+| - maxima depuis la veille | - |
+| - minima id. | - |
+| **Pluie tombée depuis la veille, en millim.** | - |
+| **Évaporation depuis le 190, en millim.** | - |
+| **Direction du vent (à terre)** |  | SSE |
+| **Force** | 1 fort | 1 fort |
+| **Direction des nuages** |  |  |
+| **Nébulosité** |  |
+| - région Ouest (terre) | 0 | 10 |
+| - id. Est (mer) | 0 | 10 |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro** | 40.0 | - |
+| **Agitation de l'eau** | 1 fort | - |
+| **Densité de l'eau au bout de la jetée** | - | 1026.7 |
+| **Température id.** | - | 21.4 |
+```

@@ -1,0 +1,41 @@
+```plaintext
+| **OBSERVATIONS DU 1960 28 JUN** |
+| --- |
+| Nombre de bateaux sortis (pêche à l\'amorce) | 1 botanx = | 81 |
+| Température de l'air | maxima depuis la veille | 24.7 |
+|                       | minima id.               | 17.6 |
+| Température de l'eau | maxima depuis la veille |  |
+|                       | minima id.               |  |
+| Pluie tombée depuis la veille, en millim. |  |
+| Evaporation depuis le | 190, en millim. |  |
+| à 9 h. m. | à 3 h. s. |
+| Direction du vent (à terre) | N.N.O. |  |
+| Force | 2 |  |
+| Direction des nuages | N.N.O. |  |
+| Nebulosité | région Ouest (terre) | 0 |  |
+|                       | id. Est (mer) | 0 |  |
+| Hauteur de la mer, en centimètres, au-dessus du zéro | 34.7 |  |
+| Agitation de l'eau | 1 |  |
+| Densité de l'eau au bout de la jetée | 1027.9 |  |
+| Température id. | 18.3 |  |
+
+| **OBSERVATIONS DU 1960 29 JUN** |
+| --- |
+| Nombre de bateaux sortis (pêche à l\'amorce) | 40.8 |
+| Température de l'air | maxima depuis la veille | 40.8 |
+|                       | minima id.               | 16.7 |
+| Température de l'eau | maxima depuis la veille |  |
+|                       | minima id.               |  |
+| Pluie tombée depuis la veille, en millim. |  |
+| Evaporation depuis le | 190, en millim. |  |
+| à 9 h. m. | à 3 h. s. |
+| Direction du vent (à terre) | S.S.E. | N.N.O. |
+| Force | 2 | 1 |
+| Direction des nuages | " | O.N.O. |
+| Nebulosité | région Ouest (terre) | 0 | 3 |
+|                       | id. Est (mer) | 0 | 0 |
+| Hauteur de la mer, en centimètres, au-dessus du zéro | 20.2 | 39.3 |
+| Agitation de l'eau | 1 (faible) | 1 |
+| Densité de l'eau au bout de la jetée | 1027.4 | 1027.9 |
+| Température id. | 19.7 | 22.3 |
+```

@@ -1,0 +1,17 @@
+# Date. 13 Mars 1901
+
+|  |   |   |
+| --- | --- | --- |
+|  Hauteur Barometrique | 9" matin | 3" Boir  |
+|  Direction du vent | 760.3 | 759.0  |
+|  Force | Nord | Sud  |
+|  1/2 | 2 fort | 1/2  |
+|  9" (ébulosité) | 10 | 10  |
+|  Reg. E. (mer) | 10 | 10  |
+|  Direction des nuages | 1000 | 1000  |
+|  Eau tombée | 9" | 11.3  |
+|  Température de l'air | 9"6 | 11.3  |
+|  Hauteur de la mer | 59.2 | 58.6  |
+|  Agitation de l'eau | 3 | 1 T.  |
+|  Sensité de l'eau | (au large) | 1 T.  |
+|  Température de l'eau | 10.2 | 11.2  |

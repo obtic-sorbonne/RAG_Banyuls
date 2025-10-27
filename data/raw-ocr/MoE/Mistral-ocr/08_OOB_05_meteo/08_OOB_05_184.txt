@@ -1,0 +1,29 @@
+# V. & Décembre 1906
+
+|  Hanteur | Pour  |
+| --- | --- |
+|  Direction du Vent | 1/9.8  |
+|  Force | 15  |
+|  Nébutoniste | 10  |
+|  Direction des nuages | 10  |
+|  Flux tombé | 8.3  |
+|  Température de l'air | 8.3  |
+|  Hanteur de la mer | 38.4  |
+|  Aputation de l'eau | 36.2  |
+|  Densité au bout de la jetée | 10.29  |
+|  Température de l'eau | 14.0  |
+
+# V. & Décembre - 1906
+
+|  Hanteur | Pour  |
+| --- | --- |
+|  Direction du Vent | 11/16  |
+|  Force | 15  |
+|  Nébutoniste | 10  |
+|  Direction des nuages | 10  |
+|  Flux tombé | 1.83  |
+|  Température de l'air | 6.8  |
+|  Hanteur de la mer | 5  |
+|  Aputation de l'eau | 1  |
+|  Densité au bout de la jetée | 1  |
+|  Température de l'eau | 5  |

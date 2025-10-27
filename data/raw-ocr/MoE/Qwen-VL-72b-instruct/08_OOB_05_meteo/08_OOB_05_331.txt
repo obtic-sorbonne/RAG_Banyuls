@@ -1,0 +1,25 @@
+| V. 16 Xbre 1907 | Matin | Soir |
+|----------------|-------|------|
+| Hauteur Barométrique | 767.4 | 767.4 |
+| Direction du Vent | O.0 | O.0 |
+| Force | 2 fort | 1 |
+| Nébulosité (Reg. O. Aire) | 0 | 0 |
+| Direction des nuages | O.0 | " |
+| Pluie Tombée | 1.7 | " |
+| Température de l'air | 11.0 | 12.0 |
+| Hauteur de la mer | 0.5 | 0.6 |
+| Agitation de l'eau | 2 | 2 |
+| Dernité au bout de la jetée | 1029.1 | 1028.1 |
+| Température de l'eau | 17.0 | 17.3 |
+| V. 18 Xbre 1907 | Matin | Soir |
+| Hauteur Barométrique | 778.2 |  |
+| Direction du Vent | S.0 |  |
+| Force | 3 faible |  |
+| Nébulosité (Reg. O. Aire) | 0 |  |
+| Direction des nuages | S.0 |  |
+| Pluie Tombée | " |  |
+| Température de l'air | 18.8 |  |
+| Hauteur de la mer | 0.3 |  |
+| Agitation de l'eau | 2 |  |
+| Dernité au bout de la jetée | 1028.6 |  |
+| Température de l'eau | 17.3 |  |

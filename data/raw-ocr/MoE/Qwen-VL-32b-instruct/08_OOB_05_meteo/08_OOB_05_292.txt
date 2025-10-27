@@ -1,0 +1,26 @@
+| **Date**        | **Matin**        | **Loin**       |
+|-----------------|------------------|----------------|
+| **6 Septembre 1907** |                |                |
+| Hauteur barométrique | 770.0          |                |
+| Direction du vent | croix          | Fort          |
+| Force | 5               |                |
+| Nébulosité | (Région c. Ouest) | 0              |
+| Direction des nuages | Pluie tombée |               |
+| Température de l'air | 24.6          |               |
+| Hauteur de la mer | 19.1           |               |
+| Agitation de l'eau | 1              |               |
+| Densité au bord de la jetée | 1027.0 |               |
+| Température de l'eau | 21.1          |               |
+
+| **7 Septembre 1907** |                | **Loin**       |
+|---------------------|----------------|----------------|
+| Hauteur barométrique | 771.2          | 770.3          |
+| Direction du vent | cr. 8          | s. 8           |
+| Force | 5               | faible        |
+| Nébulosité | (Région 2. (mer)) | 2              | 0              |
+| Direction des nuages | Pluie tombée | 61.6          |               |
+| Température de l'air | 22.8          | 25.0          |
+| Hauteur de la mer | 18.9           | 61.8          |
+| Agitation de l'eau | faible         | 1              |
+| Densité au bord de la jetée | 1026.5 | 1026.0        |
+| Température de l'eau | 22.9          | 24.7          |

@@ -1,0 +1,13 @@
+| Paramètre                     | 9h Matin     | 3h Soir      |
+|-------------------------------|--------------|--------------|
+| Hauteur Barométrique           | 766,4       | 765,4       |
+| Direction du vent             | N.E         | S.S.E       |
+| Force                          | 1 T. fort   | 1 T. fort   |
+| Nébulosité                     | Reg. O. (claire)| Reg. E. (mer)|
+| Direction des nuages          | /            | /            |
+| Pluie tombée                   | /            | /            |
+| Température de l'air           | 21,3        | 25,9        |
+| Hauteur de la mer             | 47,2        | 52,5        |
+| Agitation de l'eau (au bout de la jetée) | 1 T. jaill | 0            |
+| Densité de l'eau (au large)   | 1027,5      | 1026,9      |
+| Température de l'eau          | 21,7        | 24,0        |

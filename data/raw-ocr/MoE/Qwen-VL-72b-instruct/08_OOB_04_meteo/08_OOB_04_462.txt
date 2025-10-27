@@ -1,0 +1,28 @@
+| V. 10 Janvier 1905 | Matin | Soir |
+|---|---|---|
+| Hauteur Barométrique | 773.0 | - |
+| Direction du vent | N.O | - |
+| Force | 4 jour. | - |
+| Nébulosité Reg. O. (terre) | 10 | - |
+| Nébulosité Reg. E. (mer) | 10 | - |
+| Direction des nuages | N.O | - |
+| Pluie tombée | " | - |
+| Température de l'air | 9.6 | - |
+| Hauteur de la mer | 61.1 | - |
+| Agitation de l'eau | 8 | - |
+| Densité au bout de la jetée | 1029.4 | - |
+| Température de l'eau | 13.5 | - |
+| V. 12 Janvier 1905 | Matin | Soir |
+|---|---|---|
+| Hauteur Barométrique | 770.3 | - |
+| Direction du vent | S.E.O | - |
+| Force | 2 | - |
+| Nébulosité Reg. O. (terre) | 0 | - |
+| Nébulosité Reg. E. (mer) | 0 | - |
+| Direction des nuages | " | - |
+| Pluie tombée | " | - |
+| Température de l'air | 10.6 | - |
+| Hauteur de la mer | 12.8 | - |
+| Agitation de l'eau | 1 fort | - |
+| Densité au bout de la jetée | 1029.4 | - |
+| Température de l'eau | 13.6 | - |

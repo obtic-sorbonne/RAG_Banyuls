@@ -1,0 +1,50 @@
+### OBSERVATIONS DU 1902 18 Avril
+
+| **Nombre de bateaux sortis (pêche à l)** | 14.9 |  |
+| **Température de l'air** | maxima depuis la veille | 14.8 | °C |
+|  | minima id. | 10.6 | °C |
+| **Température de l'eau** | maxima depuis la veille |  | °C |
+|  | minima id. |  | °C |
+| **Pluie tombée depuis la veille, en millim.** | 2.7 | mm |
+| **Évaporation depuis le 1900, en millim.** |  | mm |
+| **Direction du vent (à terre)** | **à 9 h. m.** | E.S.E. |
+|  | **à 3 h. s.** | S.S.E. |
+| **Force** | 1 |  |
+|  | 1 |  |
+| **Direction des nuages** | E.S.E. |  |
+|  | S.S.O. |  |
+| **Nébulosité** | région Ouest (terre) | 10 |  |
+|  | id. Est (mer) | 40 |  |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B. R.)** | 46.2 | cm |
+| **Agitation de l'eau** | + |  |
+| **Densité de l'eau au bout de la jetée** | 1028.5 |  |
+| **Température** | id. Matin | 13.9 | °C |
+
+---
+
+### OBSERVATIONS DU 1902 19 Avril
+
+| **Nombre de bateaux sortis (pêche à l)** | 17.0 |  |
+| **Température de l'air** | maxima depuis la veille | 17.0 | °C |
+|  | minima id. | 13.7 | °C |
+| **Température de l'eau** | maxima depuis la veille |  | °C |
+|  | minima id. |  | °C |
+| **Pluie tombée depuis la veille, en millim.** |  | mm |
+| **Évaporation depuis le 1900, en millim.** |  | mm |
+| **Direction du vent (à terre)** | **à 9 h. m.** | N.E. |
+|  | **à 3 h. s.** | S.S.E. |
+| **Force** | 1 |  |
+|  | 1 |  |
+| **Direction des nuages** |  |  |
+| **Nébulosité** | région Ouest (terre) | 0 |  |
+|  | id. Est (mer) | 0 |  |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B. R.)** | 31.0 | cm |
+|  | 46.2 | cm |
+| **Agitation de l'eau** | 2 |  |
+| **Densité de l'eau au bout de la jetée** | 1028.6 |  |
+|  | 1028.0 |  |
+| **Température** | id. Matin | 13.2 | °C |
+|  | id. Matin | 13.7 | °C |
+| **Maximum / Minimum Température** |  |  |
+| **Maxima** | 22.8 | °C |
+| **Minima** | 10.2 | °C |

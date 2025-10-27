@@ -1,0 +1,49 @@
+### Observations du 19****
+#### **8 Mai**
+| **Paramètre**                               | **Valeur** |
+|---------------------------------------------|------------|
+| Nombre de bateaux sortis (pêche à la grandine) | 40         |
+| Température de l’air                         |            |
+|   - maxima depuis la veille                 | 20,0       |
+|   - minima id.                              | 12,3       |
+| Température de l’eau                        |            |
+|   - maxima depuis la veille                 |            |
+|   - minima id.                              |            |
+| Pluie tombée depuis la veille, en millim.    |            |
+| Evaporation depuis le **190**, en millim.    |            |
+| Direction du vent (à terre)                 | N.E        | S.E      |
+| Force                                      | 2 fort     | 1 fort   |
+| Direction des nuages                       | id         | id       |
+| Nébulosité                                  |            |
+|   - région Ouest (terre)                    | 0          | 0        |
+|   - id. Est (mer)                           | 0          | 9        |
+| Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.) | 38,9 | 36,2 |
+| Agitation de l’eau                         | 2          | 1        |
+| Densité de l’eau au bout de la jetée        | 1028,4     | 1028,4   |
+| Température id.                             | 13,7       | 14,0     |
+
+---
+
+### Observations du 19****
+#### **9 Mai**
+| **Paramètre**                               | **Valeur** |
+|---------------------------------------------|------------|
+| Nombre de bateaux sortis (pêche à la grandine) | 40         |
+| Température de l’air                         |            |
+|   - maxima depuis la veille                 |            |
+|   - minima id.                              |            |
+| Température de l’eau                        |            |
+|   - maxima depuis la veille                 |            |
+|   - minima id.                              |            |
+| Pluie tombée depuis la veille, en millim.    |            |
+| Evaporation depuis le **190**, en millim.    |            |
+| Direction du vent (à terre)                 | S.S.E      | S.S.E    |
+| Force                                      | 1 fort     | 2 fort   |
+| Direction des nuages                       | S.S.O      | S.S.O    |
+| Nébulosité                                  |            |
+|   - région Ouest (terre)                    | 60         | 60       |
+|   - id. Est (mer)                           | 60         | 60       |
+| Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.) | 36,0 | 38,1 |
+| Agitation de l’eau                         | 1          | 1 fort   |
+| Densité de l’eau au bout de la jetée        | 1027,8     | 1028,6   |
+| Température id.                             | 13,9       | 14,4     |

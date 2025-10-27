@@ -1,0 +1,1 @@
+Date 24 Juin 1901 Item Qty Price Hauteur macrométrique 3 00 757 0 Direction du vent N N O N N O Force 4 fort 3 fort Rébulosité Reg 0 terre 8 Débulosité Reg I mer 0 Direction des nuages N N O N N O Eau tombeée 21 0 24 0 Température de l air 28 5 12 9 Hauteur de la mer 1 fort 3 fort Égulation de l eau 1027 9 1027 9 Densité de l eau au large Température de l eau 19 5 19 7

@@ -1,0 +1,27 @@
+|  V. 17 Mbaí. 1905 | Moatin | Joir  |
+| --- | --- | --- |
+|  Hauteur Maronitrique | 7/1.2 | 7/1.8  |
+|  Direction du vent | or. 0 | 7.0  |
+|  Force | 8 fort | 1 fort  |
+|  Nebulinite | 10 | 10  |
+|  (Reg. K. (mer) |  |   |
+|  Direction des ma |  |   |
+|  Pluie bombe |  |   |
+|  Compristine de l'air | 13.2 | 13.0  |
+|  Hauteur de la mer | 37.1 | 37.0  |
+|  Agitation de l'eau | 17. fort | 17. fort  |
+|  Densité au bout de la jet | 16.27.1 | 16.27.1  |
+|  Compristine de l'eau | 19.0 | 19.9  |
+|  V. 18 Mbaí. 1905 | Moatin | Joir  |
+|  Hauteur Maronitrique | 7/2.6 | 7/3.1  |
+|  Direction du vent | or.0 | or.0  |
+|  Force | 2 | 3  |
+|  Nebulinite | 10 | 10  |
+|  (Reg. K. (mer) |  |   |
+|  Direction des ma |  |   |
+|  Pluie bombe |  |   |
+|  Compristine de l'air | 13.2 | 10.0  |
+|  Hauteur de la mer | 36.2 | 33.1  |
+|  Agitation de l'eau | 2 | 1 fort  |
+|  Densité au bout de la jet | 16.27.3 | 16.27.1  |
+|  Compristine de l'eau | 11.1 | 11.3  |

@@ -1,0 +1,29 @@
+```
+| Date        |             | Matin |         |         | Soir     |
+|-------------|-------------|-------|---------|---------|----------|
+| V. 15 Juin 1906 |           |       |         |         |          |
+| Hauteur Barométrique |        | 769.0 |         |         | 768.6    |
+| Direction du vent |        | S.O.  |         |         | S.O.     |
+| Force                             |        | 2 fort  |         |         | 2        |
+| Nébulosité (Reg. 6. (Jean)) |        | 10      |         |         | 10       |
+| Direction des nuages            |        | S.O.    |         |         | aucun    |
+| Pluie tombée                    |        | "       |         |         | "        |
+| Température de l'air           |        | 23.6    |         |         | 27.9     |
+| Hauteur de la mer              |        | 49.8    |         |         | 49.2     |
+| Agitation de l'eau             |        | 1       |         |         | 2        |
+| Densité au bout de la jetée    |        | 1027.8  |         |         | 1027.6   |
+| Température de l'eau          |        | 19.0    |         |         | 19.0     |
+|-----------------|-------------|-------|---------|---------|----------|
+| V. 16 Juin 1906 |           |       |         |         |          |
+| Hauteur Barométrique |        | 763.0 |         |         | 762.4    |
+| Direction du vent |        | S.O.  |         |         | S.O.     |
+| Force                             |        | 2 T. fort |         |         | 3        |
+| Nébulosité (Reg. 6. (Jean)) |        | 10      |         |         | 0        |
+| Direction des nuages            |        | S.O.    |         |         | S.O.     |
+| Pluie tombée                    |        | "       |         |         | "        |
+| Température de l'air           |        | 20.3    |         |         | 24.6     |
+| Hauteur de la mer              |        | 48.2    |         |         | 40.4     |
+| Agitation de l'eau             |        | 2       |         |         | 2        |
+| Densité au bout de la jetée    |        | 1027.7  |         |         | 1027.6   |
+| Température de l'eau          |        | 18.3    |         |         | 18.7     |
+```

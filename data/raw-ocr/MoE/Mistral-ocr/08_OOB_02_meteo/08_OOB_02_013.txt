@@ -1,0 +1,17 @@
+# Date - 15 Mars 1901
+
+|  |   |   |
+| --- | --- | --- |
+|  Hauteur Barométrique | 9" matin | 4" soir  |
+|  Direction du vent | 755,4 | 755,6  |
+|  Force | Ouest | Ouest  |
+|  % Ébulusité | 3 | 3  |
+|  % Reg. E. (mer) | 2 | 0  |
+|  Direction des mirages | Ouest | Ouest  |
+|  Tonie tombée | 11,500 | 11,500  |
+|  Température de l'air | 12,9 | 12,9  |
+|  Hauteur de la mer | 47,8 | 46,2  |
+|  Législation de l'eau | 2 foot | 2 foot  |
+|  Densité de l'eau |  |   |
+|  en Éarge |  |   |
+|  Température de l'eau | 11,5 | 11,6  |

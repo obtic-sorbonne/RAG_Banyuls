@@ -1,0 +1,16 @@
+# Date. 31 Janvier. 1902
+
+|  Name | 9th Matin | 3rd Jour  |
+| --- | --- | --- |
+|  Yantieur Marométrique Direction du vent Force | 758,7 | 759,4  |
+|   | 450 | 450  |
+|   | 450 | 450  |
+|   | 1029,3 | 1029,3  |
+|  Yebulosite Reg. C. (mer) Direction des nuages | 1029,3 | 0  |
+|   | 1029,0 | 1029,0  |
+|   | 1029,5 | 1029,5  |
+|  Yemperature de l'air | 3,2 | 0,5  |
+|  Yantieur de la mer | 52,9 | 53,5  |
+|  Agitation de l'eau | 3 | 3  |
+|  Densité de l'eau au large | 1029,5 | 1029,3  |
+|  Comperature de l'eau | 11,0 | 13,3  |

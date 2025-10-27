@@ -1,0 +1,31 @@
+```
+| **Nombre du jour du Bateau** | **Date**           | **Matin**  | **Soir**  |
+|-----------------------------|--------------------|------------|-----------|
+| 2                           | 20 Septembre 1909  |            |           |
+|                             | Hauteur Barométrique | 766.5     | 766.0     |
+|                             | Direction du vent    | W.O.      | O.S.      |
+|                             | Force               | is         | 3 fort    |
+|                             | Nébulosité (Reg. C. (terre)) | 10       | 10        |
+|                             | Nébulosité (Reg. E. (mer))   | 10       | 10        |
+|                             | Direction des nuages | N.O.      | N.E.      |
+|                             | Pluie tombée         | quelques g | quelques g|
+|                             | Température de l'air | 18.5      | 19.9      |
+|                             | Hauteur de la mer    | 13.7      | 14.4      |
+|                             | Agitation de l'eau   | 3 fort    | 4         |
+|                             | Densité au bout de la jetée | 1027.9 | 1027.8    |
+|                             | Température de l'eau | 20.0      | 20.0      |
+|                             |                     |            |           |
+| 3                           | 21 Septembre 1909   |            |           |
+|                             | Hauteur Barométrique | 764.6     |           |
+|                             | Direction du vent    | O.S.      |           |
+|                             | Force               | is         | 3 fort    |
+|                             | Nébulosité (Reg. C. (terre)) | 0        |           |
+|                             | Nébulosité (Reg. E. (mer))   | 0        |           |
+|                             | Direction des nuages | O.S.      |           |
+|                             | Pluie tombée         | quelques g|           |
+|                             | Température de l'air | 19.2      |           |
+|                             | Hauteur de la mer    | 16.4      |           |
+|                             | Agitation de l'eau   | 8         |           |
+|                             | Densité au bout de la jetée | 1028.2 |           |
+|                             | Température de l'eau | 20.0      |           |
+```

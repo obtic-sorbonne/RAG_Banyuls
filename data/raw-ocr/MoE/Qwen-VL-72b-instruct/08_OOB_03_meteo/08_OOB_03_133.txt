@@ -1,0 +1,18 @@
+| **Date**        | 24 Février 1902 |
+|------------------|------------------|
+| **Heure**       | 9H Matin | 3H Soir |
+| **Hauteur Barométrique** | 777.6 | — |
+| **Direction du vent** | S.O. | — |
+| **Force du vent** | 3 | — |
+| **Nébulosité** |  
+| — **Rég. Est. (Terre)** | 10 | — |
+| — **Rég. Est. (Mer)** | 10 | — |
+| **Direction des nuages** | S.O. | — |
+| **Pluie tombée** | — | — |
+| **Température de l'air** | 12.6 | — |
+| **Hauteur de la mer** | 35.3 | — |
+| **Agitation de l'eau** | 2 | — |
+| **Densité de l'eau** |  
+| — **poubout-delajeûl** | 1028.9 | — |
+| — **au large** | — | — |
+| **Température de l'eau** | 11.1 | — |

@@ -1,0 +1,17 @@
+# Date - 8 Mars 1901
+
+|  |   |   |   |
+| --- | --- | --- | --- |
+|  9th Matin | 3% Soir |  |   |
+|  Hauteur Parométrique | 749,7 | 749,6 |   |
+|  Direction du vent | Nord | E.N.E |   |
+|  Force | 1 fort | 2 failts |   |
+|  9e (ébutosité [ Reg. O. (livre) | 10 hyper.C. | 8 |   |
+|  9e (ébutosité [ Reg. E. (mer) | 10 hyper.C | 0 |   |
+|  Direction des nuages | Nord | Nord |   |
+|  Flux tombée | 4,75 | 11 |   |
+|  Température de l'air | 8,3 | 10,2 |   |
+|  Hauteur de la mer | 41,2 | 53,1 |   |
+|  Régulation de l'eau | 1 fort | 1 fort |   |
+|  Densité de l'eau [ au brarge] |  |  |   |
+|  Température de l'eau | 11,3 | 11,4 |   |

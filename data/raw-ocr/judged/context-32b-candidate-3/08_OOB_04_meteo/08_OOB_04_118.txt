@@ -1,0 +1,31 @@
+```
+| V. 23 Juillet - 1902 | Matin | Soir  |
+| --- | --- | --- |
+|  Hauteur Barométrique | 766.6 | 764.8  |
+|  Direction du vent | 4th | 1.18  |
+|  Force | 1 r. faible | 2 fort  |
+|  Nébulosité (Reg. O. (terre)) | 10 légère | 10  |
+|  Nébulosité (Reg. E. (mer)) | 10 légère | 10  |
+|  Direction des nuages |  | 3e  |
+|  Pluie tombée |  |  |
+|  Température de l'air | 20.4 | 24.4  |
+|  Hauteur de la mer | 12.8 | 62.6  |
+|  Agitation de l'eau | 1 r. faible | 1  |
+|  Densité au bout de la jetée | 1027.2 | 1026.6  |
+|  Température de l'eau | 20.7 | 22.8  |
+
+| V. 8 Août - 1902 | Matin | Soir  |
+| --- | --- | --- |
+|  Hauteur Barométrique | 763.8 | 764.1  |
+|  Direction du vent |  | 1.8  |
+|  Force | 1 fort | 1 faible  |
+|  Nébulosité (Reg. O. (terre)) | 10 | 3  |
+|  Nébulosité (Reg. E. (mer)) |  | 2  |
+|  Direction des nuages |  | 2  |
+|  Pluie tombée |  | 2.0  |
+|  Température de l'air | 22.2 | 21.1  |
+|  Hauteur de la mer | 28.7 | 47.8  |
+|  Agitation de l'eau | 1 | 1 r. faible  |
+|  Densité au bout de la jetée | 1027.0 | 1026.4  |
+|  Température de l'eau | 22.6 | 24.3  |
+```

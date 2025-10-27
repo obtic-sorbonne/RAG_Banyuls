@@ -1,0 +1,28 @@
+| V. 26 Juillet 1906 | Matin | Soir |
+|-------------------|-------|------|
+| Hauteur Barométrique | 762,3 |      |
+| Direction du vent | S.S.E |      |
+| Force | 1 |       |
+| Nébulosité | Reg. 0 (Clère) | 0 |
+| (Reg. 2 (mr)) | 0 |       |
+| Direction des nuages | cr. 0 |      |
+| Pluie tombée | quelques g |     |
+| Température de l'air | 49,8 |      |
+| Hauteur de la mer | 1 |       |
+| Agitation de l'eau | W 27,2 |      |
+| Vitesse au bout de la jetée | 22,0 |      |
+| Température de l'eau | |       |
+| V. 31 Juillet 1906 | Matin | Soir |
+|-------------------|-------|------|
+| Hauteur Barométrique | 761,2 |      |
+| Direction du vent | S.E |      |
+| Force | 1 |       |
+| Nébulosité | Reg. 0 (Clère) | 0 |
+| (Reg. 2 (mr)) | 0 |       |
+| Direction des nuages | " |      |
+| Pluie tombée | |       |
+| Température de l'air | 20,4 |      |
+| Hauteur de la mer | 38,2 |      |
+| Agitation de l'eau | 1 |       |
+| Vitesse au bout de la jetée | W 26,7 |      |
+| Température de l'eau | 23,0 |      |

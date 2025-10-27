@@ -1,0 +1,17 @@
+# 9. 19 Septembre 1902
+
+|  Hauteur Barométrique | Matin | Soir  |
+| --- | --- | --- |
+|  Hauteur Barométrique | 767.4 | 755.7  |
+|  Direction du vent | or | or  |
+|  Force | 1 | 2  |
+|  Nébulosité | 8 | 8  |
+|  Rég. O. (terre) | 8 | 8  |
+|  Rég. E. (mer) | 0 | 0  |
+|  Direction des nuages | or | or  |
+|  Pluie tombée | 0 | 0  |
+|  Température de l'air | 18.7 | 20.3  |
+|  Hauteur de la mer | 12.2 | 14.5  |
+|  Agitation de l'eau | 1 faible | 1  |
+|  Densité au bout de la jetée | 1027.6 | 1027.2  |
+|  Température de l'eau | 20.8 | 21.6  |

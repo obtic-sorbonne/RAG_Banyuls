@@ -1,0 +1,20 @@
+| **Date**         | 18 janvier 1902 |
+|---|---|
+| **Observations** | **9H Matin** | **5H Soir** |
+| Hauteur Barométrique | 768.4 | 767.6 |
+| Direction du vent | N.N.O | Euest |
+| Force | 1 (faible) | 1 |
+| Nébulosité |  
+|   - Reg. O. (Clére) | 10 légères c | 10 |
+|   - Reg. E. (nu) | 10 légères c | 10 |
+| Direction des nuages | N.N.O | Euest |
+| Pluie tombée | " | " |
+| Température de l'air | 7.9 | 9.3 |
+| Hauteur de la mer | 57.2 | 50.3 |
+| Agitation de l'eau |  
+|   - à bout de la jetée | Fort | Fort |
+|   - au large | Fort | Faible |
+| Observations spécifiques | poubout de la jetée 1028.5 | 1028.6 |
+| Densité de l'eau |  
+|   - au large | " | " |
+| Température de l'eau | 11.7 | 11.7 |

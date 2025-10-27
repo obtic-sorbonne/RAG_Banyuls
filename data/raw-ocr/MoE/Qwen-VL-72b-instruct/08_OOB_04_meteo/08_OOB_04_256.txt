@@ -1,0 +1,29 @@
+| **V. 30 juillet 1903** | **Matin** | **Soir** |
+|---|---|---|
+| Hauteur Barométrique | 763.8 | 769.3 |
+| Direction du vent | cr.c.ro. | cr.c.ro. |
+| Force | is | 2 jon | 3 joilbl. |
+| Reg. O. (Clée) | 10 | 10 |
+| Reg. E. (nér) | 10 | 10 |
+| Direction des nuages | cr.c.ro. | cr.c.ro. |
+| Pluie tombée | quelque.g | quelque.g |
+| Température de l'air | 21.7 | 17.7 |
+| Hauteur de la mer | 11.0 | 14.9 |
+| Agitation de l'eau | 1 jon | 2 joilbl. |
+| Venance au bout de la jètè | 1027.9 | 1028.4 |
+| Température de l'eau | 20.4 | 20.2 |
+
+| **V. 31 juillet 1903** | **Matin** | **Soir** |
+|---|---|---|
+| Hauteur Barométrique | 767.2 |  |
+| Direction du vent | cr.c.ro. |  |
+| Force | is | 2k |
+| Reg. O. (Chée) | 0 | 0 |
+| Reg. E. (nér) | 0 | 0 |
+| Direction des nuages | cr.c.ro. |  |
+| Pluie tombée | 2.0 |  |
+| Température de l'air | 19.9 |  |
+| Hauteur de la mer | 62.0 |  |
+| Agitation de l'eau | 2 jon | 1 joilbl. |
+| Venance au bout de la jètè | 1027.8 |  |
+| Température de l'eau | 20.0 |  |

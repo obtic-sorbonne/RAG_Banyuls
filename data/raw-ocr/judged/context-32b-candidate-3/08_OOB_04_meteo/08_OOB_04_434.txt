@@ -1,0 +1,31 @@
+# V. 21 Octobre 1904
+
+|  Nom | Date  |
+| --- | --- |
+|  Hauteur Praxométrique | 753.9  |
+|  Direction du vent | 2.8  |
+|  Force | 1  |
+|  Nébulosité | Reg. O. (min)  |
+|  Direction des nuages | Reg. O. (min)  |
+|  Flux tombé | 24.5  |
+|  Température de l'air | 24.5  |
+|  Hauteur de la mer | 1.0  |
+|  Agitation de l'eau | 1.0  |
+|  Densité au bout de la jetée | 1028.3  |
+|  Température de l'eau | 20.4  |
+
+# V. 24 Octobre 1904
+
+|  Nom | Date  |
+| --- | --- |
+|  Hauteur Praxométrique | 757.4  |
+|  Direction du vent | 2.5  |
+|  Force | 1  |
+|  Nébulosité | Reg. O. (min)  |
+|  Direction des nuages | 10  |
+|  Flux tombé | 1.1  |
+|  Température de l'air | 18.3  |
+|  Hauteur de la mer | 41.1  |
+|  Agitation de l'eau | 3  |
+|  Densité au bout de la jetée | 1028.8  |
+|  Température de l'eau | 18.3  |

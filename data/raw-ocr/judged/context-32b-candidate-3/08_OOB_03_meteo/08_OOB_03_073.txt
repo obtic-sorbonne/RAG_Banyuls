@@ -1,0 +1,17 @@
+# Date: 6 Décembre 1901
+
+|   | 9e Station | 3e Soir  |
+| --- | --- | --- |
+|  Hauteur Barométrique | 757,8 | 754,7  |
+|  Direction du vent | N.N.O | N.N.O  |
+|  Force | 3 faible | 27 fort  |
+|  Nébulosité { Reg. C. (terre) } | 0 | 0  |
+|  Nébulosité { Reg. E. (mer) } | 0 | 0  |
+|  Direction des nuages | 11 | 11  |
+|  Pluie tombée | 11 | 10,7  |
+|  Température de l'air | 8,2 | 10,7  |
+|  Hauteur de la mer | 48,3 | 48,3  |
+|  Agitation de l'eau | 27 fort | 3  |
+|  Densité de l'eau { au bout de la jetée } | 1029,2 | 1029,1  |
+|  Densité de l'eau { au large } | - | -  |
+|  Température de l'eau | 13,2 | 13,4  |

@@ -1,0 +1,60 @@
+```plaintext
+|  7. 11 Croût - 1904 | Obatin | Soir  |
+| --- | --- | --- |
+|  Hauteur Poarométrique | 708.8 |   |
+|  Direction Su vent |  |   |
+|  Force | 8 faib. |   |
+|  (h) 8 faib. | 8 h. |   |
+|  (h) 8 h. | 8 h. |   |
+|  (h) 8 h. | 8 h. |   |
+|  (h) 8 h. | 8 h. |   |
+|  (h) 8 h. | 8 h. |   |
+|  Direction des mages |  |   |
+|  8h. | 89.0 |   |
+|  41.4 | 41.4 |   |
+|  (h) 8 h. | 17. faib. |   |
+|  (h) 8 h. | 1086.2 |   |
+|  (h) 8 h. | 81.9 |   |
+
+|  7. 12 Croût - 1904 | Obatin | Soir  |
+| --- | --- | --- |
+|  Hauteur Poarométrique | 707.3 |   |
+|  Direction Su vent |  |   |
+|  Force | 8 faib. |   |
+|  (h) 8 faib. | 8 h. |   |
+|  (h) 8 h. | 8 h. |   |
+|  (h) 8 h. | 8 h. |   |
+|  (h) 8 h. | 8 h. |   |
+|  (h) 8 h. | 8 h. |   |
+|  (h) 8 h. | 8 h. |   |
+|  (h) 8 h. | 8 h. |   |
+|  (h) 8 h. | 8 h. |   |
+|  (h) 8 h. | 8 h. |   |
+|  (h) 8 h. | 8 h. |   |
+|  (h) 8 h. | 8 h. |   |
+|  (h) 8 h. | 8 h. |   |
+|  (h) 8 h. | 8 h. |   |
+|  (h) 8 h. | 8 h. |   |
+|  (h) 8 h. | 8 h. |   |
+|  (h) 8 h. | 8 h. |   |
+|  (h) 8 h. | 8 h. |   |
+|  (h) 8 h. | 8 h. |   |
+|  (h) 8 h. | 8 h. |   |
+|  (h) 8 h. | 8 h. |   |
+|  (h) 8 h. | 8 h. |   |
+|  (h) 8 h. | 8 h. |   |
+|  (h) 8 h. | 8 h. |   |
+|  (h) 8 h. | 8 h. |   |
+|  (h) 8 h. | 8 h. |   |
+|  (h) 8 h. | 8 h. |   |
+|  (h) 8 h. | 8 h. |   |
+|  (h) 8 h. | 8 h. |   |
+|  (h) 8 h. | 8 h. |   |
+|  (h) 8 h. | 8 h. |   |
+|  (h) 8 h. | 8 h. |   |
+|  (h) 8 h. | 8 h. |   |
+|  (h) 8 h. | 8 h. |   |
+|  (h) 8 h. | 8 h. |   |
+|  (h) 8 h. | 8 h. |   |
+|  (h) 8 h. | 8 h. |   |
+```

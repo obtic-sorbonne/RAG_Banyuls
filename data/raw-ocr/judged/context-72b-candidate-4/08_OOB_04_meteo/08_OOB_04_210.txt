@@ -1,0 +1,6 @@
+```
+| Date         | H. 14 Matin | H. 14 Soir | Hauteur Barométrique | Direction du vent | Force | Rég. O. (Clair) | Nébulosité Reg. E. (Mer.) | Direction des nuages | Pluie tombée | Température de l'air | Hauteur de la mer | Agitation de l'eau | Densité au bout de la jetée | Température de l'eau |
+|--------------|-------------|-------------|---------------------|-------------------|-------|------------------|--------------------------|---------------------|--------------|---------------------|------------------|-------------------|-----------------------------|---------------------|
+| V. 3 Avril 1903 |            |             | 769.8               | cr. o             | 7     | 10               | 10                       | cr. e               | quelques g  | 11.9                | 61.0             | 3 jour             | 1029.2                      | 11.8                |
+| V. 5 Avril 1903 |            |             | 764.6               | cr. o             | 3 jour| 10               | 10                       | cr. o               | "            | 16.1                | 60.9             | 2 jour             | 1029.0                      | 12.3                |
+```

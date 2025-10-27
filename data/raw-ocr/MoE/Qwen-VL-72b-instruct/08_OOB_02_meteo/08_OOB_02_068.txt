@@ -1,0 +1,19 @@
+| **Date**     | **17 Mai 1901**       |
+|--------------|-----------------------|
+| **Heure**    | **9 H Matin**         | **3 H Soir**          |
+|--------------|-----------------------|-----------------------|
+| **Haut. Barométrique** | **759.7**           | **759.4**           |
+| **Dir. du vent**       | **S.E**             | **Ouest**           |
+| **Frc.**                | **2 faible**        | **1 faible**        |
+| **N ebuli site**       | **10**              | **10**              |
+| **Reg. 6. (clair)**    |                     |                     |
+| **Reg. 7. (mar)**      | **10**              | **10**              |
+| **Dir. des nuages**    | **Nord**            | **Ouest**           |
+| **Pluie tombée**       | **-**               | **f.450**           |
+| **T p. de l'air**      | **19.9**            | **16.9**            |
+| **Haut. de la mer**    | **51.3**            | **55.9**            |
+| **Agitation de l'eau** | **1. T. faible**     | **1 faible**        |
+| **au bout de la jetée**| **1028.4**          | **1027.7**          |
+| **Densité de l'eau**   |                     |                     |
+| **au largue**          |                     |                     |
+| **T p. de l'eau**      | **16.6**            | **16.5**            |

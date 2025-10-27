@@ -1,0 +1,31 @@
+| Date | Matin | Soir |
+|------|-------|------|
+| **8 Novembre 1901** | **Matin** | **Soir** |
+| Hauteur Barométrique | 763.7 | 761.8 |
+| Direction du vent | er.cr.0 | cr.cr.0 |
+| Force | 2 | 1 Faible |
+| Nebulosité | | |
+|  | Reg. 0 (ciel) | 10 lég. c. | 10 |
+|  | Reg. E (mer) | lég.c. | lég. |
+| Direction des nuages | err. | cers |
+| Pluie tombée | " | " |
+| Température de l'air | 14.1 | 19.7 |
+| Hauteur de la mer | 47.2 | 40.0 |
+| Agitation de l'eau | 3 | 3 |
+| Densité au bout de la jetée | 1026.8 | 1026.9 |
+| Température de l'eau | 14.8 | 19.9 |
+
+| **9 Novembre 1901** | **Matin** | **Soir** |
+| Hauteur Barométrique | 762.4 | 761.6 |
+| Direction du vent | cr.cr.0 | cr.cr.0 |
+| Force | 3 | 3 |
+| Nebulosité | | |
+|  | Reg. 0 (ciel) | 0 | 0 |
+|  | Reg. E (mer) | lég.c. | lég. |
+| Direction des nuages | " | " |
+| Pluie tombée | " | " |
+| Température de l'air | 13.2 | 19.3 |
+| Hauteur de la mer | 43.1 | 40.9 |
+| Agitation de l'eau | 2T.fort | 2T.fort |
+| Densité au bout de la jetée | 1027.2 | 1027.2 |
+| Température de l'eau | 13.6 | 13.6 |

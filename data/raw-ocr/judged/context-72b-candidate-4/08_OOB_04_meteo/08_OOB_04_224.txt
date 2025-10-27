@@ -1,0 +1,8 @@
+```plaintext
+| Date       | Heure | Hauteur Barométrique | Direction du vent | Force | Reg. O. (clarté) | Nébulosité | Direction des nuages | Pluie Tombée | Température de l'air | Hauteur de la mer | Agitation de l'eau | Densité au bout de la jetée | Température de l'eau |
+|------------|-------|----------------------|--------------------|-------|------------------|-------------|----------------------|------------------|----------------------|-------------------|--------------------|-------------------------|----------------------|
+| 8 Mai 1903 | Matin | 777.3                | S.E.               | 1     | 10               | 0 / 2       | Ouest                |                 | 20.7                 | 46.3              | forte              | 1029.6                  | 13.7                  |
+| 8 Mai 1903 | Soir  | 766.7                | S.E.               | 1     | 2                | 0 / 0       | Ouest                |                 | 20.2                 | 42.0              | faible             | 1027.5                  | 13.4                  |
+| 9 Mai 1903 | Matin | 768.2                | N-E.               | 1     | 0                | 1 / 1       | Ouest                |                 | 20.0                 | 38.9              | modérément faible  | 1027.6                  | 11.0                  |
+| 9 Mai 1903 | Soir  | 766.3                | S-O.               | 2     | 0                | 0 / 0       | Ouest                |                 | 23.0                 | 40.2              | 1                  | 1027.3                  | 15.2                  |
+```

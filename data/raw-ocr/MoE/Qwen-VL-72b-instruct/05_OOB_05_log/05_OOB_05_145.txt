@@ -1,0 +1,29 @@
+N°
+Sortie du 24 190
+
+Départ de
+pour
+Départ de
+pour
+Départ de
+pour
+Arrivée au mouillage
+à heures du
+Arrivée à
+à heures du
+Arrivée à
+à heures du
+à h.du
+
+Etat du temps:
+
+Passagers à bord:
+
+Objet de la sortie:
+
+Consommation{ brâquettes de Poids en Kilos
+huile Total en litres
+
+Dépenses
+
+Observations:

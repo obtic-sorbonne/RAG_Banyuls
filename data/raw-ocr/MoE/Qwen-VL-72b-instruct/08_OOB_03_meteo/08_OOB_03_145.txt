@@ -1,0 +1,18 @@
+| **Date** | 12 Mars 1902 |
+|---|---|
+| **Heure** | 9h Matin | 3h Soir |
+| **Hauteur Barométrique** | 760.6 | ** |
+| **Direction du vent** | ** | ** |
+| **Force** | 5 | 0 |
+| **Nébulosité** | | |
+|  | Reg. S. | 10 |
+|  | Reg. E. (mar) | 10 |
+| **Direction des images** | ** | ** |
+| **Pluie tombée** | ** | ** |
+| **Température de l'air** | 11.2 | ** |
+| **Hauteur de la mer** | 34.9 | ** |
+| **Agitation de l'eau** | Fort | 10 (28.2) |
+|  | **(au bout de la jetée)** | ** |
+| **Densité de l'eau** | ** | ** |
+|  | **(au large)** | ** |
+| **Température de l'eau** | 11.9 | ** |

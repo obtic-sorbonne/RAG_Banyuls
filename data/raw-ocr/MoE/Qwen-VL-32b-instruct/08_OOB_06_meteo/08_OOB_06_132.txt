@@ -1,0 +1,39 @@
+| **Observations du 18 Mars 1901** |
+| --- |
+| **Nombre de bateaux sortis (pêche à la bannie)** | 28 |
+| **Température de l'air** | **maxima depuis la veille** | 12,6 |
+|  | **minima** | 7,0 |
+| **Température de l'eau** | **maxima depuis la veille** |  |
+|  | **minima** |  |
+| **Pluie tombée depuis la veille, en millim.** | 0,0 |
+| **Evaporation depuis le 190, en millim.** |  |
+| **Direction du vent (à terre)** | 9 h.m. | 3 h.s. |
+| **Force** | S.S.E | S.S.E |
+|  | 0 | Fort |
+| **Direction des nuages** | S.S.E | S.S.E |
+| **Nébulosité** | **région Ouest (terre)** | 60 | 60 |
+|  | **id. Est (mer)** | 60 | 60 |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.)** | 34,8 | 47,2 |
+| **Agitation de l'eau** | Fort | 2 |
+| **Densité de l'eau au bout de la jetée** | 1029,9 | 1028,8 |
+| **Température** | 12,13 | 12,4 |
+
+**Observations du 20 Mars 1901**
+
+| **Nombre de bateaux sortis (pêche à la bannie)** | 38 |
+| **Température de l'air** | **maxima depuis la veille** | 19,4 |
+|  | **minima** | 18,6 |
+| **Température de l'eau** | **maxima depuis la veille** |  |
+|  | **minima** |  |
+| **Pluie tombée depuis la veille, en millim.** | quelque g |
+| **Evaporation depuis le 190, en millim.** |  |
+| **Direction du vent (à terre)** | 9 h.m. | 3 h.s. |
+| **Force** | S.S.E | S.S.E |
+|  | Fort | 2 |
+| **Direction des nuages** | S.S.E | S.S.E |
+| **Nébulosité** | **région Ouest (terre)** | 60 | 2 |
+|  | **id. Est (mer)** | 60 | 1 |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.)** | 20,8 | 29,6 |
+| **Agitation de l'eau** | 2 fort | 2 |
+| **Densité de l'eau au bout de la jetée** | 1029,2 | 1028,9 |
+| **Température** | 11,6 | 11,6 |

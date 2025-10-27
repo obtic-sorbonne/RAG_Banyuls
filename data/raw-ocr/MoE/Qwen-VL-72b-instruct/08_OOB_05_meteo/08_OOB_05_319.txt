@@ -1,0 +1,28 @@
+| V. 18 Novembre - 1907 | Matin | Soir |
+|-----------------------|-------|------|
+| Hauteur Barométrique  | 767.3 | 763.4 |
+| Direction du Vent     | cr. o | cr. o |
+| Force                 | 1     | 1     |
+| Nébulosité            | 10    | 10    |
+| Reg. G. (clère)       |       |       |
+| Direction des nuages  | cr. o | cr. o |
+| Pluie tombée          | "     | "     |
+| Température de l'air  | 13.0  | 12.9  |
+| Hauteur de la mer     | 40.7  | 43.4  |
+| Agitation de l'eau    | 2 fort | 2     |
+| Ventité au bout de la jetée | 1026.6 | 1027.17 |
+| Température de l'eau  | 16.7  | 16.4  |
+| V. 19 Novembre - 1907 | Matin | Soir |
+|-----------------------|-------|------|
+| Hauteur Barométrique  | 768.6 | 766.7 |
+| Direction du Vent     | S. o  | S. o |
+| Force                 | 1 faible | 2     |
+| Nébulosité            | 10    | 10    |
+| Reg. G. (clère)       |       |       |
+| Direction des nuages  | S. o  | S. o  |
+| Pluie tombée          | "     | "     |
+| Température de l'air  | 12.0  | 12.2  |
+| Hauteur de la mer     | 44.3  | 48.2  |
+| Agitation de l'eau    | 2 faible | 2     |
+| Ventité au bout de la jetée | 1026.6 | 1026.6 |
+| Température de l'eau  | 16.3  | 16.3  |

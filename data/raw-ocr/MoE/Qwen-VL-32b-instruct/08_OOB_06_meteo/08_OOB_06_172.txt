@@ -1,0 +1,48 @@
+| **OBSESSIONS DU 1901-06-28** |
+| --- |
+| **Nombre de bateaux sortis (pêche à l'une)** |  |
+| **Température de l'air** |
+| maxima depuis la veille | 22.2 |
+| minima id. | 14.7 |
+| **Température de l'eau** |
+| maxima depuis la veille |  |
+| minima id. |  |
+| **Pluie tombée depuis la veille, en millim.** | — |
+| **Evaporation depuis le 1901 en millim.** |  |
+| **Direction du vent (à terre)** | n.n.o | n.e |
+| **Force** | 2 | 2 |
+| **Direction des nuages** |  |  |
+| **Nébulosité** |
+| région Ouest (terre) | 0 | 0 |
+| id. Est (mer) | 0 | 0 |
+| **Hauteur de la **mer, en centimètres, au-dessus du zéro (#B.R)** | 71.2 | 69.0 |
+| **Agitation de l'eau** | 1 | 2 |
+| **Densité de l'eau au bout de la jetée** | 1027.3 | 1026.6 |
+| **Température id.** | 18.3 | 18.2 |
+| **is – Terrasse Matin** | maxima 36.7 | maxima 29.7 |
+| **is – soir** | minima 14.2 | minima 22.7 |
+
+| **OBSESSIONS DU 1901-06-29** |
+| --- |
+| **Nombre de bateaux sortis (pêche à l'une)** |  |
+| **Température de l'air** |
+| maxima depuis la veille |  |
+| minima id. |  |
+| **Température de l'eau** |
+| maxima depuis la veille |  |
+| minima id. |  |
+| **Pluie tombée depuis la veille, en millim.** | — |
+| **Evaporation depuis le 1901 en millim.** |  |
+| **Direction du vent (à terre)** | s.s.e | s.s.e |
+| **Force** | 1 | 1 |
+| **Direction des nuages** | n.n.o | n.n.o |
+| **Nébulosité** |
+| région Ouest (terre) | 1 | 2 |
+| id. Est (mer) | 0 | 0 |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (#B.R)** | 41.0 | 60.2 |
+| **Agitation de l'eau** | 1 | 1 |
+| **Densité de l'eau au bout de la jetée** | 1026.f | 1026.6 |
+| **Température id.** | 19.1 | 21.1 |
+| **is – Balancé** | 24.7 |  |
+| **is – trembl de Matin** | 39.6 | 29.7 |
+| **is – soir** | minima 19.2 | minima 26.3 |

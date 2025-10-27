@@ -1,0 +1,46 @@
+### **Observations du 1901, 23 juin**
+
+| **Nombre de bateaux sortis (pêche à l’ancre)** |  | 29.0 |
+|---|---|---|
+| **Température de l’air** | **maxima depuis la veille** | 29.0 |
+|  | **minima id** | 17.1 |
+| **Température de l’eau** | **maxima depuis la veille** |  |
+|  | **minima id** |  |
+| **Pluie tombée depuis la veille, en millim** |  | " |
+| **Evaporation depuis le 190**, en millim. |  |  |
+| **Direction du vent (à terre)** | **à 9 h. m.** | SSE |
+|  | **à 3 h. s.** | S.O. |
+| **Force** |  | 1 fort |
+| **Direction des nuages** |  |  |
+| **Nébulosité** | **région Ouest (terre)** | 60 |
+|  | **id. Est (mer)** | 40 |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.)** |  | 24.4 |
+| **Agitation de l’eau** |  | 1 jeud. |
+| **Densité de l’eau au bout de la jetée** |  | 1026.4 |
+| **Température id.** |  | 19.0 |
+| **i5 - Balanz** |  | 24.0 |
+| **i5 - Terram - Loir** | **maxima** | 34.2 |
+|  | **minima** | 16.7 |
+
+### **Observations du 1901, 24 juin**
+
+| **Nombre de bateaux sortis (pêche à l’ancre)** |  | 22.6 |
+|---|---|---|
+| **Température de l’air** | **maxima depuis la veille** | 22.6 |
+|  | **minima id** | 17.9 |
+| **Température de l’eau** | **maxima depuis la veille** |  |
+|  | **minima id** |  |
+| **Pluie tombée depuis la veille, en millim** |  | " |
+| **Evaporation depuis le 190**, en millim. |  |  |
+| **Direction du vent (à terre)** | **à 9 h. m.** | N.N.O. |
+|  | **à 3 h. s.** |  |
+| **Force** |  | 3 |
+| **Direction des nuages** |  | N.N.0. |
+| **Nébulosité** | **région Ouest (terre)** | 10 |
+|  | **id. Est (mer)** | 40 |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.)** |  | 33.5 |
+| **Agitation de l’eau** |  | 1 jeud. |
+| **Densité de l’eau au bout de la jetée** |  | 1027.1 |
+| **Température id.** |  | 18.7 |
+| **i5 - Terram - Matin** | **maxima** | 34.2 |
+|  | **minima** | 16.7 |

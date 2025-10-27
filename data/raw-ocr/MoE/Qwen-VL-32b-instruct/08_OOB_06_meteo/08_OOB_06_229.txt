@@ -1,0 +1,55 @@
+### Observations du 11 Décembre 1981
+
+| **Observations**                               | **Données**      |
+|-----------------------------------------------|-----------------|
+| Nombre de bateaux sortis (pêche à lokalise)    | 14,3            |
+| **Température de l'air**                      |                 |
+|     - maxima depuis la veille                 | 14.3            |
+|     - minima id.                              | 11.7            |
+| **Température de l'eau**                      |                 |
+|     - maxima depuis la veille                 | -               |
+|     - minima id.                              | -               |
+| **Pluie tombée depuis la veille, en millim**   | quelques        |
+| **Evaporation depuis le 190**, en millim       | -               |
+| **Vent (à 9 h. m. et 3 h. s.)**               |                 |
+|     - Direction du vent (à terre)             | n.m.o / n.n.o.  |
+|     - Force                                    | 3 / 4           |
+|     - Direction des nuages                    | n.n.o / n.n.o.  |
+| **Nébulosité**                                |                 |
+|     - région Ouest (terre)                    | 10 / 10         |
+|     - id. Est (mer)                           | 10 / 10         |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro** | 19.8 / -         |
+| **Agitation de l'eau**                        | faible / fort   |
+| **Densité de l'eau au bout de la jetée**       | 1037.1 / 1037.8 |
+| **Température d'eau au bout de la jetée**      | 12.7 / 12.8     |
+| **Température (max/min)**                     |                 |
+|     - Matin                                   | 23.4 / 3.7      |
+|     - Jour                                    | 23.9 / 10.7     |
+
+### Observations du 12 Décembre 1981
+
+| **Observations**                               | **Données**      |
+|-----------------------------------------------|-----------------|
+| Nombre de bateaux sortis (pêche à lokalise)    | 11,1            |
+| **Température de l'air**                      |                 |
+|     - maxima depuis la veille                 | 12.1            |
+|     - minima id.                              | 9.6             |
+| **Température de l'eau**                      |                 |
+|     - maxima depuis la veille                 | -               |
+|     - minima id.                              | -               |
+| **Pluie tombée depuis la veille, en millim**   | "               |
+| **Evaporation depuis le 190**, en millim       | -               |
+| **Vent (à 9 h. m. et 3 h. s.)**               |                 |
+|     - Direction du vent (à terre)             | S.O / S.S.O.    |
+|     - Force                                    | faible / fort   |
+|     - Direction des nuages                    | n / n           |
+| **Nébulosité**                                |                 |
+|     - région Ouest (terre)                    | 0 / 0           |
+|     - id. Est (mer)                           | 1 / 6           |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro** | 46.0 / 33.9  |
+| **Agitation de l'eau**                        | fort / 1        |
+| **Densité de l'eau au bout de la jetée**       | 1028.0 / 1027.4 |
+| **Température d'eau au bout de la jetée**      | 12.7 / 13.2     |
+| **Température (max/min)**                     |                 |
+|     - Matin                                   | 23.4 / 3.7      |
+|     - Jour                                    | 23.9 / 10.7     |

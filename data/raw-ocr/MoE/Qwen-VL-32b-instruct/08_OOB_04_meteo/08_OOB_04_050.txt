@@ -1,0 +1,35 @@
+# 9. 11 Janvier. 1908
+
+|  Name | Pension | Taux  |
+| --- | --- | --- |
+|  Yantour Barométrique | 708,0 | 767,8  |
+|  Direction du vent | Ouest | Ouest  |
+|  Force | 17,6 | 1,6  |
+|  Reg. O. (titre) | 10 | 3  |
+|  **Télébulosité** |  |   |
+|  (Reg. E - (mw) | 10 | 2  |
+|  Direction des nuages | or. or. 0 | Sud  |
+|  **Mise tombe** |  |   |
+|  Température de l'air | 9,1 | 9,6  |
+|  Yantour de la mer | 42,4 | 19,0  |
+|  (Agitation de l'eau) | 3 | 17,6  |
+|  Densité au bout de la jetie | 1028,7 | 1028,8  |
+|  Température de l'eau | 12,6 | 11,8  |
+
+# 13 Janvier. 1908
+
+|  Name | Pension | Taux  |
+| --- | --- | --- |
+|  Yantour Barométrique | 707,7 | 767,6  |
+|  Direction du vent | Ouest | Ouest  |
+|  Force | 17,6 | 1,6  |
+|  Reg. O. (titre) | 3 | 0  |
+|  **Télébulosité** |  |   |
+|  (Reg. E - (mw) | 1 | 1  |
+|  Direction des nuages | 11 | 11  |
+|  **Mise tombe** |  |   |
+|  Température de l'air | 6,6 | 10,3  |
+|  Yantour de la mer | 38,6 | 14,6  |
+|  (Agitation de l'eau) | 4,6 | 2,6  |
+|  Densité au bout de la jetie | 1028,9 | 1028,6  |
+|  Température de l'eau | 11,1 | 4,3  |

@@ -1,0 +1,31 @@
+```plaintext
+Sortie du 29 Mai 1909  
+
+Départ de Dampier à 8 heures du Matin  
+pour ficher. Arrivée à  
+
+Départ de  à heures du   
+pour  Arrivée à  
+
+Départ de  à heures du   
+pour  
+
+Arrivée au mouillage à Dampier à 11 h. du Matin  
+
+État du temps : beau  
+
+Passagers à bord :  
+
+Objet de la sortie : ficher sur le cap Bear, et majorer la dynamo.  
+Consommation  
+$\left\{
+\begin{array}{l}
+28 \text{ briquettes de 1 Poids en kilos } 140,16 \\
+2 \text{ huile } \quad \text{Total en litres } 2
+\end{array}
+\right.$  
+
+Dépenses :  
+
+Observations : ficher pour garnir l'aquarium et faire l'essai de la dynamo.
+```

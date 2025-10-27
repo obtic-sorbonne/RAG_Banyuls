@@ -1,0 +1,31 @@
+```plaintext
+                 54
+Sortie du                      15          8           1901
+                             ____   ____    ____
+
+Départ de Barnus                      à 7.31 heures du matin
+pour Port-Vendres                    Arrivée à 8 h. 16
+
+Départ de P. V.                      à 11 h. 15 heures du m.
+pour                              Arrivée à
+
+Départ de                            à heures du
+pour
+
+Arrivée au mouillage à Barnus         à 11 h. 10 h. du matin
+
+Etat du temps:                       Beau
+
+Passagers à bord:                     M. Prunot, M. Barbott, M. Matz
+
+Objet de la sortie:                   Pour pièces d'anthropophages et hydrauliques
+                                          dans le port
+
+Consommation
+briquettes de                            Poids en Kilos
+huile                                     Total en litres
+
+Dépenses
+
+Observations:
+```

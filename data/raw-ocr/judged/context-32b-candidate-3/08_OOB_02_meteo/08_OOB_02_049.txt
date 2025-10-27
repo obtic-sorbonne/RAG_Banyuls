@@ -1,0 +1,16 @@
+# Date: 28 Avril 1901
+
+|  **Hauteur Barométrique** | **9th Matin** | **3rd Soir**  |
+| --- | --- | --- |
+|  Direction du vent | Nord |   |
+|  Force |  | 17. faible  |
+|  Nébulosité / Reg. O. (terre) | 10 | 10  |
+|  Nébulosité / Reg. E. (mer) |  | 10  |
+|  Direction des nuages |  | Occet.  |
+|  Pluie tombée |  | quelques gouttes  |
+|  Température de l'air | 14.7 | 14.7  |
+|  Hauteur de la mer |  | 13.2  |
+|  Agitation de l'eau |  | 1 faible  |
+|  Densité de l'eau / au bout de la jetée |  | 1028.8  |
+|  Densité de l'eau / au large |  |  |
+|  Température de l'eau |  | 13.7  |

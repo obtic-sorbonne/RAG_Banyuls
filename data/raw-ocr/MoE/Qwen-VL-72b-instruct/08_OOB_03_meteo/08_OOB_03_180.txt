@@ -1,0 +1,16 @@
+| Date                       | 2/ Avril 1902            |
+|-----------------------------|--------------------------|
+| Heure                      | 9<sup>e</sup> Matin, 3<sup>e</sup> Soir |
+| Hauteur Barométrique       | 762.4                   |
+| Direction du vent          | S.S.E.                  |
+| Force                      | 2                       |
+| Nébulosité                 | Ciel clair (10 degrés)   |
+| Direction des nuages       | Sud                      |
+| Pluie tombée                | quelques g              |
+| Température de l'air       | 16.0                    |
+| Hauteur de la mer          | 43.2                    |
+| Agitation de l'eau         | Fort                    |
+| Densité de l'eau           | 1.027.2                 |
+| au bout de la jetée        |                          |
+| au large                   |                          |
+| Tempéature de l'eau        | 14.f                    |

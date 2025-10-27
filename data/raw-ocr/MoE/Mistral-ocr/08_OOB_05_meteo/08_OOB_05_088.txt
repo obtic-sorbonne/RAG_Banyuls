@@ -1,0 +1,31 @@
+# V. 13 M6ars. 1906
+
+|  **Hauteur** | **M6atur** | **Soir**  |
+| --- | --- | --- |
+|  Hauteur |  |   |
+|  Direction du vent |  |   |
+|  **Force** | **15** | **4**  |
+|  **Nébulosité** | **Res. a. (laine)** | **10**  |
+|  Direction des nuages |  |   |
+|  **Prix** | **Prix tombée** | **20%**  |
+|  **Dempérature de l'air** | **Prix de la mer** | **15.5**  |
+|  Hauteur de la mer |  |   |
+|  **Débitation de l'eau** | **Prix de la mer** | **1089.5**  |
+|  Densité au bout de la jetée |  | 18.0  |
+|  **Dempérature de l'eau** |  |   |
+
+# V. 14 M6ars. 1906
+
+|  **Hauteur** | **M6atur** | **Soir**  |
+| --- | --- | --- |
+|  Hauteur |  |   |
+|  Direction du vent |  |   |
+|  **Force** | **15** |   |
+|  **Nébulosité** | **Res. a. (laine)** |   |
+|  Direction des nuages |  |   |
+|  **Prix tombée** |  |   |
+|  **Dempérature de l'air** |  |   |
+|  Hauteur de la mer |  |   |
+|  **Débitation de l'eau** |  |   |
+|  Densité au bout de la jetée |  |   |
+|  **Dempérature de l'eau** |  |   |

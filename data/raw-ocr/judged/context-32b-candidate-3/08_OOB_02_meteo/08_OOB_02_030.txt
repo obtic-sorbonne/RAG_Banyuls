@@ -1,0 +1,16 @@
+# Date: 9 Avril 1901
+
+|            | 9" Matin | 3" Soir |
+|------------|----------|---------|
+| Hauteur Barométrique | 761,2 | 759,7  |
+| Direction du vent | Jus | S.E  |
+| Force | 1 faible | 1 T. faible  |
+| Nébulosité / Rég. O. (terre) | 10 | 10  |
+| Rég. E. (mer) | 10 | 10  |
+| Direction des nuages | Jus | Jus  |
+| Pluie tombée |  |  |
+| Température de l'air | 15,7 | 15,1  |
+| Hauteur de la mer | 47,9 | 50,8  |
+| Agitation de l'eau | 1 fort | 1 T. fort  |
+| Densité de l'eau | 1027,5 | 1027,8  |
+| Température de l'eau | 13,5 | 13,6  |

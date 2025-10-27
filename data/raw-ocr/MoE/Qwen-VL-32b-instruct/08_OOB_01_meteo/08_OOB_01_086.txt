@@ -1,0 +1,17 @@
+# Date. 18 Octobre. 1900.
+
+|  9th Mardi 30 Soir |  |   |
+| --- | --- | --- |
+|  Hanteur Praxometrique | 702,5 | 701,8  |
+|  Direction du vent | 9600 | 9600  |
+|  Force | 4 | 4  |
+|  Mébulorité | 10 | 10  |
+|  Req. E. (mix) | 10 | 10  |
+|  Direction des musées | 9600 | 9600  |
+|  Mise tombée | 2, 450 | 1, 450  |
+|  Température de l'air | 10,7 | 1,5  |
+|  Hanteur de la mer | 48,2 | 35,8  |
+|  Opération de l'eau | 3 | 3,607  |
+|  Densité de l'eau | 102,8 | 1020,8  |
+|  |   |   |
+|  Température de l'eau | 19,3 | 19,3  |

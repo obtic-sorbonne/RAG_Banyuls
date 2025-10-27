@@ -1,0 +1,32 @@
+| Date | Matin | Soir |
+|---|---|---|
+| V. 13 Avril 1904 |  |  |
+| H. Barométrique | 760.4 | 760.2 |
+| Direction du vent | S.O | Sud |
+| Force | 2 fort | 3 |
+| Reg. O. (toire) | 10 | 10 |
+| Nebulosité |  |  |
+| Reg. E. (mer) | 10 | 10 |
+| Direction ses nuages | S.O | Sud |
+| Pluie tombée |  | quelques g |
+| Température de l'air | 17.6 | 19.3 |
+| Hauteur de la mer | 48.2 | 49.6 |
+| Agitation de l'eau | 2 faible | 2 |
+| Vitesse au bout de la jetée | 1029.4 | 1029.4 |
+| Température de l'eau | 13.f | 13.f |
+|  |  |  |
+| V. 14 Avril 1904 |  |  |
+| H. Barométrique |  | 797.9 |
+| Direction du vent |  | Sud-Est |
+| Force |  | 1 fort |
+| Reg. O. (claire) |  | 10 |
+| Nebulosité |  | 10 |
+| Reg. E. (mer) |  | Sud |
+| Direction ses nuages |  |  |
+| Pluie tombée |  |  |
+| Température de l'air |  | 19.0 |
+| Hauteur de la mer |  | 43.8 |
+| Agitation de l'eau |  | 4 |
+| Vitesse au bout de la jetée |  | 1029.4 |
+| Température de l'eau |  | 13.f |
+|  |  |  |

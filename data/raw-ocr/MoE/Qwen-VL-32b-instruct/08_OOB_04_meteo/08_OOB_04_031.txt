@@ -1,0 +1,31 @@
+# 9.26 Novembre 1901
+
+|  **Parlure Parométrique** | **Phtatin** | **Soir**  |
+| --- | --- | --- |
+|  Direction du vent | 700.4 | 707.5  |
+|  Force | 3 fort | 3 fort  |
+|  Phtobulosite | 16 | 16  |
+|  (Reg. G. (mer)) |  |   |
+|  Direction des nuages | 2.78 | 20  |
+|  Thie tombee |  |   |
+|  Température de l'air | 3.9 | 7.4  |
+|  Pariteur de la mer | 37.9 | 40.0  |
+|  Égitation de l'eau | 3 | 4  |
+|  Sécurité au bout de la jetée | 1028.9 | 1028.7  |
+|  Température de l'eau | 13.3 | 13.6  |
+
+# 9.26 Novembre 1901
+
+|  **Parlure Parométrique** | **Phtatin** | **Soir**  |
+| --- | --- | --- |
+|  Direction du vent | 707.1 | 702.0  |
+|  Force | 1 fort | 1 fort  |
+|  Phtobulosite | 0 | 0  |
+|  (Reg. G. (mer)) |  |   |
+|  Direction des nuages | 2 | 0  |
+|  Thie tombee | 1.37 | 11  |
+|  Température de l'air | 7.2 | 11.0  |
+|  Pariteur de la mer | 26.0 | 39.3  |
+|  Égitation de l'eau | 4 | 3 fort  |
+|  Sécurité au bout de la jetée | 1028.8 | 1028.7  |
+|  Température de l'eau | 13.1 | 13.7  |

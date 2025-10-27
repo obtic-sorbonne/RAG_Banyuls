@@ -1,0 +1,20 @@
+# Date - 13 Décembre - 1900
+
+|  **9e Matin** | **3e Soir** |  |
+| --- | --- | --- |
+|  Hauteur Barométrique | 769,5 | 770,2  |
+|  Direction du vent | Ouest | Ouest  |
+|  Force | 1 faible | 1 faible  |
+|  Nébulosité | 0 | 0  |
+|  Rég. E. (mer) | 0 | 0  |
+|  Direction des nuages | Ouest | Ouest  |
+|  Pluie tombée | 0 | 0  |
+|  Température de l'air | 9,3 | 13,2  |
+|  Hauteur de la mer | 52,6 | 53,2  |
+|  Agitation de l'eau | 8 | 8  |
+|  Densité de l'eau | 1023,4 | 1023,0  |
+|  Température de l'eau | 13,6 | 13,6  |
+
+Densité de l'eau
+- au bout de la jetée: 1023,4
+- au large: 1023,0

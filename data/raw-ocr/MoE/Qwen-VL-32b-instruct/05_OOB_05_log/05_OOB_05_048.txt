@@ -1,0 +1,25 @@
+Sortie du 18 juillet 1901
+
+Départ de Banyuls à 4⁴⁴ heures du matin  
+pour Port-Vendres  Arrivée à 5²²  
+Départ de P. V. à 5⁴² heures du matin  
+pour Rue St André Arrivée à Port-Vendres. 1² 1/2 son  
+Départ de Port-Vendres à 1³² heures du jour  
+pour Arrivalé au mouillage a Banyuls à 2⁴⁰ h. du soir  
+
+Etat du temps: Bon temps
+
+Passagers à bord: Mr Prunel, (Mr Blane piro de Port-Vendres)
+
+Objet de la sortie:
+
+Consommation {
+                briquettes de Poids en Kilos
+                huile Total en litres
+}
+
+Dépenses
+
+Observations: Nous avons amarré sur Blane père a  
+                Port-Vendre pour nous mener sur le rocher du  
+                St André, et d'Cyprèn. Donnés un coup de Chalut  

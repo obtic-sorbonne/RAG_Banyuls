@@ -1,0 +1,17 @@
+# Date: 27 Octobre 1901
+
+|  Nauteur | 9th matin 3rd Soir  |
+| --- | --- |
+|  Nauteur Paromatique | 785.3  |
+|  Direction du vent | N.N.O  |
+|  Force | 4 fort  |
+|  Ébulosité | Reg. & (Jarre)  |
+|  |   |
+|  Direction des nuages | 10  |
+|  Guic tombee | N.N.O  |
+|  Température de l'air | 13.7  |
+|  Nauteur de la mer | 34.7  |
+|  Agitation de l'eau | 3  |
+|  Densité de l'eau | 1027.6  |
+|  |   |
+|  Température de l'eau | 15.9  |

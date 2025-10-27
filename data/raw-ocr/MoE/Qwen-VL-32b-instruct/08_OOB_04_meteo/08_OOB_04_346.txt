@@ -1,0 +1,33 @@
+# 7. 26 février - 1904
+
+|  Name | Moation | Soir  |
+| --- | --- | --- |
+|  Hauteur Marométrique |  | 761,7  |
+|  Direction du vent |  | 24,8  |
+|  Force |  | 3  |
+|  (Rég. O. (1ère)) |  | 10 kg/m²  |
+|  (Rég. X. (1111) |  | 10 kg/m²  |
+|  Direction des nuages |  |   |
+|  Flux tombe |  |   |
+|  Température de l'air |  | 10,0  |
+|  Hauteur de la mer |  | 39,7  |
+|  Écartation de l'eau |  | 3  |
+|  Densité au bout de la jeté |  | 10,5  |
+|  Température de l'eau |  | 10,6  |
+
+# 7. 27 février - 1904
+
+|  Name | Moation | Soir  |
+| --- | --- | --- |
+|  Hauteur Marométrique | 762,3 | 762,3  |
+|  Direction du vent | 24,0 | 24,0  |
+|  Force | 2 | 2  |
+|  (Rég. O. (1ère)) | 10 | 10  |
+|  (Rég. X. (1111) | 10 | 10  |
+|  Direction des nuages |  |   |
+|  Flux tombe |  |   |
+|  Température de l'air | 6,6 | 8,1  |
+|  Hauteur de la mer | 44,9 | 87,1  |
+|  Écartation de l'eau | 2,6 | 3  |
+|  Densité au bout de la jeté | 10,8 | 10,5  |
+|  Température de l'eau | 10,7 | 10,6  |

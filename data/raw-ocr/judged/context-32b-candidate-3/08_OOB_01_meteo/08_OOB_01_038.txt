@@ -1,0 +1,18 @@
+# Observations du 14 Septembre 1900
+
+|  Mesure | Invicta L. | Vent |  | Passage  |
+| --- | --- | --- | --- | --- |
+|   |  | Direction | Force | Discretion  |
+|  6 m. | 0 m. 30 s. |  |  |   |
+|  8½ m. | 0 m. 39 s. |  |  |   |
+|  9½ m. | 0 m. 41 s. | 0. | 1 force | 768.4  |
+|  10½ m. | 0 m. 42 s. |  |  |   |
+|  11½ m. | 0 m. 43 s. |  |  |   |
+|  12½ m. | 0 m. 43 s. |  |  |   |
+|  1½ m. | 0 m. 39 s. | E | 1 force | 768.6  |
+|  2½ m. | 0 m. 36 s. |  |  |   |
+|  3½ m. | 0 m. 37 s. | nul | " | 767.4  |
+|  4½ m. | 0 m. 53 - 0.34 s. |  |  |   |
+|  5½ m. | 0 m. 37 m. 0.36 s. |  |  |   |
+
+N.B. - Completion by oxidation, but a factor of 2 has been found in a series of studies. The present results are in agreement with the results of the observation.

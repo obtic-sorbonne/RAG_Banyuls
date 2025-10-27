@@ -1,0 +1,1 @@
+Paramètres 9h Matin 3h Soir Hauteur Barométrique 773 7 773 3 Direction du vent S E N N E Force 1 faible 1 fort Nébulosité Rég O terre 0 0 Rég E mer 1 0 Direction des nuages Pluie tombée Température de l air 11 2 11 8 Hauteur de la mer 73 2 74 2 Agitation de l eau 1 2 Densité de l eau au bout de la jetée 1028 1 1028 2 Température de l eau 12 3 12 6 Date 22 Janvier 1901

@@ -1,0 +1,54 @@
+### Registre d'observations météorologiques historiques
+
+#### OBSERVATIONS DU 1901 — 3 AVRIL
+
+| **Nombre de bateaux sortis (pêche à la Queryieu)** | **2** |
+|-------------------------------------------------|-------|
+| **Température de l'air**                        |       |
+| - maxima depuis la veille                       | **19.6** |
+| - minima id.                                    | **10.0** |
+| **Température de l'eau**                        |       |
+| - maxima depuis la veille                       | **[pas renseigné]** |
+| - minima id.                                    | **[pas renseigné]** |
+| **Pluie tombée depuis la veille, en millim.**   | **1.37** |
+| **Evaporation depuis le 1901, en millim.**      | **[pas renseigné]** |
+| **Direction du vent (à terre)**                 | **à 9 h. m.** | **à 3 h. s.** |
+| **Force**                                       | **faible** | **[pas renseigné]** |
+| **Direction des nuages**                        | **n.n.e.** | **[pas renseigné]** |
+| **Nébulosité**                                  |       |       |
+| - région Ouest (terre)                          | **3 R** | **[pas renseigné]** |
+| - id. Est (mer)                                 | **60** | **[pas renseigné]** |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.)** | **30.1** | **[pas renseigné]** |
+| **Agitation de l'eau**                          | **2 faible** | **[pas renseigné]** |
+| **Densité de l'eau au bout de la jetée**        | **1027.9** | **[pas renseigné]** |
+| **Température id.**                             | **11.8** | **[pas renseigné]** |
+
+#### OBSERVATIONS DU 1901 — 4 AVRIL
+
+| **Nombre de bateaux sortis (pêche à l'** | **9.00** |
+|-------------------------------------------------|-------|
+| **Température de l'air**                        |       |
+| - maxima depuis la veille                       | **13.3** |
+| - minima id.                                    | **4.4** |
+| **Température de l'eau**                        |       |
+| - maxima depuis la veille                       | **[pas renseigné]** |
+| - minima id.                                    | **[pas renseigné]** |
+| **Pluie tombée depuis la veille, en millim.**   | **rr** |
+| **Evaporation depuis le 1901, en millim.**      | **[pas renseigné]** |
+| **Direction du vent (à terre)**                 | **à 9 h. m.** | **à 3 h. s.** |
+| **Force**                                       | **6** | **[pas renseigné]** |
+| **Direction des nuages**                        | **n.n.e.** | **[pas renseigné]** |
+| **Nébulosité**                                  |       |       |
+| - région Ouest (terre)                          | **3 R** | **[pas renseigné]** |
+| - id. Est (mer)                                 | **60** | **[pas renseigné]** |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.)** | **26.0** | **[pas renseigné]** |
+| **Agitation de l'eau**                          | **2 faible** | **[pas renseigné]** |
+| **Densité de l'eau au bout de la jetée**        | **1027.6** | **[pas renseigné]** |
+| **Température id.**                             | **11.1** | **[pas renseigné]** |
+
+**Notes sur les abréviations et symboles :**
+- "n.n.e." : Nord-Nord-Est
+- "n.n.o." : Nord-Nord-Ouest
+- "m. a.m." : matin
+- "h.s." : soirée
+- "(B.R.)" : cote à l'arrière (Bulletin de Route)

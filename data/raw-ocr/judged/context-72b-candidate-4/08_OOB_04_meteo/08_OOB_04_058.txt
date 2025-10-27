@@ -1,0 +1,44 @@
+```plaintext
+| **Date**       | **Heure** | **Paramètre**             | **Valeur**      |
+|----------------|-----------|---------------------------|-----------------|
+| 31 janvier 1902 | Matin    | Hauteur Barométrique      | 798.7           |
+|                |           | Direction du vent         | cr. cr. o       |
+|                |           | Force                     | 4 faible        |
+|                |           | Nébulosité (Reg. E clair) | 10 légère       |
+|                |           | Nébulosité (Reg. G (mer)) | 3               |
+|                |           | Direction des nuages      | cr. cr. o       |
+|                |           | Pluie tombée               | —               |
+|                |           | Température de l'air      | 3.2             |
+|                |           | Hauteur de la mer         | 32.9            |
+|                |           | Agitation de l'eau        | 3               |
+|                |           | Densité au bout de la jetée | 1029.9         |
+|                |           | Température de l'eau      | 11.6            |
+| 31 janvier 1902 | Soir     | Hauteur Barométrique      | 799.4           |
+|                |           | Direction du vent         | cr. cr. o       |
+|                |           | Force                     | 3               |
+|                |           | Nébulosité (Reg. G (mer)) | 0               |
+|                |           | Direction des nuages      | cr. cr. o       |
+|                |           | Pluie tombée               | —               |
+|                |           | Température de l'air      | 6.6             |
+|                |           | Hauteur de la mer         | 33.5            |
+|                |           | Agitation de l'eau        | 3               |
+|                |           | Densité au bout de la jetée | 1029.3         |
+|                |           | Température de l'eau      | 12.3            |
+| 1er février 1902 | Matin    | Hauteur Barométrique      | 799.3           |
+|                |           | Direction du vent         | cr. cr. o       |
+|                |           | Force                     | 4 faible        |
+|                |           | Nébulosité (Reg. G (claire)) | 10            |
+|                |           | Nébulosité (Reg. E (mer))  | 10              |
+|                |           | Direction des nuages      | cr. cr. o       |
+|                |           | Pluie tombée               | quelques g     |
+|                |           | Température de l'air      | 4.7             |
+|                |           | Hauteur de la mer         | 46.9            |
+|                |           | Agitation de l'eau        | 3 fort         |
+|                |           | Densité au bout de la jetée | 1029.2        |
+|                |           | Température de l'eau      | 11.4            |
+| **Remarque** |
+|--------------|
+| - Le format de la date est normalisé au format Jour Mois Année. |
+| - Les valeurs sont conservées avec leurs unités originales. |
+| - Le symbole "cr. cr. o" semble être une notation spécifique provenant des observations (peut-être "croix croix ouest"). |
+```

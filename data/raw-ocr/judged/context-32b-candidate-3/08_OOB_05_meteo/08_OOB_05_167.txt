@@ -1,0 +1,31 @@
+```markdown
+| 29 Octobre 1906 | Matin | Soir |
+|-----------------|-------|------|
+| Hauteur Barométrique (mmHg) | 763.8 | 761.4 |
+| Direction du Vent | Ouest | Ouest |
+| Force du Vent | 1 fort | 1    |
+| Nébulosité | 10    | 10    |
+| Rég. c. Clarté (%) | 10    | 10    |
+| Direction des Nuages | Ouest | Ouest |
+| Pluie Tombée | —      | —      |
+| Température de l'Air (°C) | 16.3 | 18.4 |
+| Hauteur de la Mer (m) | 45.9 | 38.7 |
+| Agitation de l'Eau | 7 fort | 1    |
+| Densité au bout de la Jetée (kg/m³) | 1028.9 | 1028.6 |
+| Température de l'Eau (°C) | 18.1 | 18.7 |
+
+| 30 Octobre 1906 | Matin | Soir |
+|-----------------|-------|------|
+| Hauteur Barométrique (mmHg) | 761.0 | 749.2 |
+| Direction du Vent | Ouest | Ouest |
+| Force du Vent | 10    | 1    |
+| Nébulosité | 10    | 10    |
+| Rég. c. Clarté (%) | 10    | 10    |
+| Direction des Nuages | Ouest | Ouest |
+| Pluie Tombée | —      | —      |
+| Température de l'Air (°C) | 16.1 | 18.3 |
+| Hauteur de la Mer (m) | 31.7 | 5    |
+| Agitation de l'Eau | 1    | 3    |
+| Densité au bout de la Jetée (kg/m³) | 1028.1 | 1028.7 |
+| Température de l'Eau (°C) | 18.7 | 18.3 |
+```

@@ -1,0 +1,28 @@
+| Date | Matin | Soir |
+|---|---|---|
+| V. 29 Avril 1905 | - | - |
+| Hauteur Barometrique | 763.2 | 759.9 |
+| Direction du vent | S.S.E | S.S.E |
+| Force is | 1 | 1 Fort |
+| Nébulosité Reg.O.(terre) | 10 | 10 |
+| (Reg.E.(mer) | 10 | 10 |
+| Direction des nuages | Ouest | Sud |
+| Pluie tombée | " | " |
+| Température de l'air | 19.8 | 21.4 |
+| Hauteur de la mer | 48.9 | 44.6 |
+| Agitation de l'eau | 1 | 2 Faible |
+| Densité au bout de la jetée | 1029.2 | 1029.0 |
+| Température de l'eau | 15.9 | 15.9 |
+| V. 1<sup>er</sup> Mai 1905 | - | - |
+| Hauteur Barometrique | 762.1 | 760.1 |
+| Direction du vent | S.O | Sud |
+| Force is | 1 Fort | 2 Fort |
+| Nébulosité Reg.O.(terre) | 10 | 10 |
+| (Reg.E.(mer) | 10 | 10 |
+| Direction des nuages | S.O | Ouest |
+| Pluie tombée | " | " |
+| Température de l'air | 17.8 | 21.2 |
+| Hauteur de la mer | 43.0 | 37.0 |
+| Agitation de l'eau | 1 | 1 Fort |
+| Densité au bout de la jetée | 1029.1 | 1029.7 |
+| Température de l'eau | 14.8 | 14.6 |

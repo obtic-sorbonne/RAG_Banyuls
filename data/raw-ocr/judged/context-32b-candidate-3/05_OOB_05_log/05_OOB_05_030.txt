@@ -1,0 +1,26 @@
+```
+Sortie du 15<sup>e</sup> 1900
+
+Départ de Banyuls à 10 heures du matin pour chaluter dans la baie
+Arrivée à Banyuls à 12<sup>ème</sup> 15
+Départ de Banyuls à 1<sup>ère</sup> 40 heures du soir pour Port-Vendres
+Arrivée à 2<sup>ème</sup> 20
+Départ de Port-Vendres à 3<sup>ème</sup> 20 heures du soir pour Banyuls
+Arrivée au mouillage à Banyuls à 4<sup>ème</sup> heures du soir
+
+État du temps: Beau
+
+Passagers à bord:
+
+Objet de la sortie: Matin - chaluter dans la baie - soir pour prendre du bois à Port-Vendres.
+
+Consommation:
+- Briquettes de charbon
+- Poids en Kilos
+- Huile
+  - Total en litres
+
+Dépenses:
+
+Observations:
+```

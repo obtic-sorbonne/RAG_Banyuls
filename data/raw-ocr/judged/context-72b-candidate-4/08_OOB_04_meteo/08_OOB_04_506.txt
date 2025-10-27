@@ -1,0 +1,35 @@
+```plaintext
+| V. 11 Juin - 1905 | Matin | Soir |
+| --- | --- | --- |
+| Hauteur Barométrique | 760.4 |  |
+| Direction du vent | S |  |
+| Force | 2 | Fort. |
+| Nébulosité (Reg. 6 (terre)) | 2 Légèrement couvert |  |
+| (Reg. 6 (mer)) | 2 Légèrement couvert |  |
+| Direction des nuages | S.O |  |
+| Pluie tombée | 4.575 |  |
+| Température de l'air | 18.0 |  |
+| Hauteur de la mer | 11.1 |  |
+| Agitation de l'eau | 1 Fort. |  |
+| Densité au bout de la jetée | 1028.0 |  |
+| Température de l'eau | 18.9 |  |
+| Visite au bout de la jetée | 10:29.0 |  |
+| Pêche à l'anchois (nombre de barreaux) | 10 |  |
+| Quantité de poisson | 28 q |  |
+
+| V. 13 Juin - 1905 | Matin | Soir |
+| --- | --- | --- |
+| Hauteur Barométrique | 759.9 |  |
+| Direction du vent | S.S.E |  |
+| Force | 1 |  |
+| Nébulosité (Reg. 6 (terre)) | 10 |  |
+| (Reg. 6 (mer)) | 10 |  |
+| Direction des nuages | S.O |  |
+| Pluie tombée | quelques gouttes |  |
+| Température de l'air | 19.8 |  |
+| Hauteur de la mer | 49.1 |  |
+| Agitation de l'eau | 1 Faible |  |
+| Densité au bout de la jetée | 1028.2 |  |
+| Température de l'eau | 18.7 |  |
+| Visite au bout de la jetée | 10:28.2 |  |
+```

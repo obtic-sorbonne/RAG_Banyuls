@@ -1,0 +1,28 @@
+```plaintext
+| Date       | Matin                          | Soir                           |
+|------------|--------------------------------|--------------------------------|
+| 21 Juin 1904 | Hauteur Barométrique: 766.6   | Hauteur Barométrique: 766.8   |
+|             | Direction du vent: Nord-Est   | Direction du vent: Sud         |
+|             | Force: 1                      | Force: Fort                    |
+|             | Reg. 6 (terre): 6             | Reg. 6 (terre): 0              |
+|             | Nébulosité: 0 (Reg. 2 (mer))  | Nébulosité: 0 (Reg. 2 (mer))  |
+|             | Direction des nuages: Nord    | Direction des nuages: Nord-Est|
+|             | Pluie tombée: "               | Pluie tombée: "                |
+|             | Température de l'air: 29.0    | Température de l'air: 29.1    |
+|             | Hauteur de la mer: 10.6       | Hauteur de la mer: 21.6       |
+|             | Agitation de l'eau: 1 (faible)| Agitation de l'eau: 1         |
+|             | Densité au bout de la jetée: 1027.4 | Densité au bout de la jetée: 1027.0 |
+|             | Température de l'eau: 21.3    | Température de l'eau: 22.1    |
+| 22 Juin 1904 | Hauteur Barométrique: 769.7   | Hauteur Barométrique: 769.2   |
+|             | Direction du vent: Nord-Est   | Direction du vent: Sud-Est    |
+|             | Force: 1                      | Force: 1                      |
+|             | Reg. 6 (terre): 2             | Reg. 6 (terre): 10            |
+|             | Nébulosité: 2 (Reg. 2 (mer))  | Nébulosité: 10 (Reg. 2 (mer)) |
+|             | Direction des nuages: Nord-Ouest | Direction des nuages: Ouest    |
+|             | Pluie tombée: "               | Pluie tombée: quelques g       |
+|             | Température de l'air: 26.4    | Température de l'air: 27.6    |
+|             | Hauteur de la mer: 16.3       | Hauteur de la mer: 27.7       |
+|             | Agitation de l'eau: 1 (faible)| Agitation de l'eau: 1         |
+|             | Densité au bout de la jetée: 1027.0 | Densité au bout de la jetée: 1027.2 |
+|             | Température de l'eau: 23.2    | Température de l'eau: 21.2    |
+```

@@ -1,0 +1,18 @@
+```markdown
+# 4 Février 1908
+
+| **Position** | **Matin** | **Soir** |
+|--------------|-----------|----------|
+| **Hauteur barométrique (mmHg)** | 791.0 | 766.3 |
+| **Direction du vent** | Ouest | 6.0 |
+| **Force** | 6 fuites | 6 fuites |
+| **Nébulosité (Reg. C. claire)** | 10 | 0 |
+| **Nébulosité (Reg. 2° (mûr))** | 10 | 0 |
+| **Direction des nuages** | 6.5 | 6.5 |
+| **Pluie tombée (mm)** | quelques | 1.2 |
+| **Température de l'air (°C)** | 6.5 | 1.2 |
+| **Hauteur de la mer (cm)** | 166.1 | 1.2 |
+| **Agitation de l'eau** | 3 fort | 3 |
+| **Densité au bout de la jetée (g/cm³)** | 5 | 5 |
+| **Température de l'eau (°C)** | 5 | 5 |
+```

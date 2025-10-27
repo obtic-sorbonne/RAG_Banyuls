@@ -1,0 +1,71 @@
+### OBSERVATIONS DU 03 JANVIER 1904
+
+| **Observation**                                   | **Valeur**       |
+|--------------------------------------------------|------------------|
+| **Nombre de bateaux sortis (pêche à l………)**      | Absent          |
+| **Température de l'air**                         |                  |
+| - maxima depuis la veille                        | 10.6 °C         |
+| - minima id.                                     | 1.9 °C          |
+| **Température de l'eau**                         |                  |
+| - maxima depuis la veille                        | Absent          |
+| - minima id.                                     | Absent          |
+| **Pluie tombée depuis la veille, en millim.**     | Absent          |
+| **Evaporation depuis le 1900, en millim.**        | Absent          |
+| **Direction du vent (à terre)**                  |                  |
+| - Force à 9 h. m.                               | 4               |
+| - Force à 3 h. s.                               | 5               |
+| **Direction des nuages**                         |                  |
+| - région Ouest (terre)                          | n.n.o.          |
+| - id. Est (mer)                                 | n.n.o.          |
+| **Nébulosité**                                   |                  |
+| - région Ouest (terre)                          | 3               |
+| - id. Est (mer)                                 | 2               |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B.Q.)** |                  |
+| - à 9 h. m.                                     | 34.8 cm         |
+| - à 3 h. s.                                     | 43.8 cm         |
+| **Agitation de l'eau**                           |                  |
+| - à 9 h. m.                                     | 2 <sub>j</sub> |<sub>f</sub> |<sub>j</sub> |<sub>r</sub>t |
+| - à 3 h. s.                                     | 2 <sub>j</sub> |<sub>f</sub> |<sub>j</sub> |<sub>r</sub>t |
+| **Densité de l'eau au bout de la jetée**          |                  |
+| - à 9 h. m.                                     | 1029.1 kg/m³    |
+| - à 3 h. s.                                     | 1029.1 kg/m³    |
+| **Température de l'eau au bout de la jetée**      |                  |
+| - à 9 h. m.                                     | 9.19 °C         |
+| - à 3 h. s.                                     | 8.19 °C         |
+
+---
+
+### OBSERVATIONS DU 04 JANVIER 1904
+
+| **Observation**                                   | **Valeur**       |
+|--------------------------------------------------|------------------|
+| **Nombre de bateaux sortis (pêche à l………)**      | Absent          |
+| **Température de l'air**                         |                  |
+| - maxima depuis la veille                        | 4.3 °C          |
+| - minima id.                                     | +7/10 °C       |
+| **Température de l'eau**                         |                  |
+| - maxima depuis la veille                        | Absent          |
+| - minima id.                                     | Absent          |
+| **Pluie tombée depuis la veille, en millim.**     | Absent          |
+| **Evaporation depuis le 1900, en millim.**        | Absent          |
+| **Direction du vent (à terre)**                  |                  |
+| - Force à 9 h. m.                               | 7               |
+| - Force à 3 h. s.                               | 7               |
+| **Direction des nuages**                         |                  |
+| - région Ouest (terre)                          | n.n.o.          |
+| - id. Est (mer)                                 | n.n.o.          |
+| **Nébulosité**                                   |                  |
+| - région Ouest (terre)                          | 60              |
+| - id. Est (mer)                                 | 60              |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B.Q.)** |                  |
+| - à 9 h. m.                                     | 16.0 cm         |
+| - à 3 h. s.                                     | 99.8 cm         |
+| **Agitation de l'eau**                           |                  |
+| - à 9 h. m.                                     | 2 <sub>j</sub> |<sub>f</sub> |<sub>j</sub> |<sub>r</sub>t |
+| - à 3 h. s.                                     | 2 <sub>j</sub> |<sub>f</sub> |<sub>j</sub> |<sub>r</sub>t |
+| **Densité de l'eau au bout de la jetée**          |                  |
+| - à 9 h. m.                                     | Absent          |
+| - à 3 h. s.                                     | Absent          |
+| **Température de l'eau au bout de la jetée**      |                  |
+| - à 9 h. m.                                     | Absent          |
+| - à 3 h. s.                                     | Absent          |

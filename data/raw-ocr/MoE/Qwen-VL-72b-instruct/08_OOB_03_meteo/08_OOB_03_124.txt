@@ -1,0 +1,14 @@
+| **Date** | 9 février 1902 |
+|---|---|
+| | **Heure** | **16h** | **3h** |
+| **Hauteur Barométrique** | 7/2, 2 | --- |
+| **Direction du vent** | cr. o | --- |
+| **Force** | 1 | --- |
+| **Ciel (Nuages)** | 10 | 10 |
+| **Direction des nuages** | cr. o | --- |
+| **Pluie tombée** | quelques g. | --- |
+| **Température de l'air** | 11.6 | 11.5 |
+| **Hauteur de la mer** | 29.1 | --- |
+| **Agitation de l'eau** | faible | --- |
+| **Densité de l'eau** | --- | --- |
+| **Temperature de l'eau** | 10, 28.8 | --- |

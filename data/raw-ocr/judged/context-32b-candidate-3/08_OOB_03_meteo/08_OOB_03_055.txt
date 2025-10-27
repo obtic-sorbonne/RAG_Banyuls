@@ -1,0 +1,16 @@
+# Date. 18 Novembre. 1901
+
+|   | 9th Station | 3rd Soir  |
+| --- | --- | --- |
+|  Hauteur Barométrique | 771,0 | 771,0  |
+|  Direction du vent | N.N.O | N.N.O  |
+|  Force | 4, faible | 2, faible  |
+|  Nébulosité { Reg. C. (terre) } | 0 | 0  |
+|  Nébulosité { Reg. E. (mer) } | 0 | 0  |
+|  Direction des nuages | N.N.O | N.N.O  |
+|  Pluie tombée | 11,8 | 13,9  |
+|  Température de l'air | 40,0 | 44,9  |
+|  Hauteur de la mer | 2,0 | 2,0  |
+|  Agitation de l'eau | 2 | 2  |
+|  Densité de l'eau { au bout de la jetée } | 1027,5 | 1027,4  |
+|  Température de l'eau | 15,1 | 15,4  |

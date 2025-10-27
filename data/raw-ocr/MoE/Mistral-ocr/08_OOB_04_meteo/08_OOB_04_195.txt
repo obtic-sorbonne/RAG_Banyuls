@@ -1,0 +1,29 @@
+|  9. 26 février - 1903 | Obtation | Soir  |
+| --- | --- | --- |
+|  Hauteur Marmoutrique | 209.0 |   |
+|  Direction du vent |  |   |
+|  Force | 15 | 15.0  |
+|  Nébulosité | (Reg. O. (lour) | 10  |
+|   | (Reg. X.- (mur) | 10  |
+|  Direction des nuages |  |   |
+|  Fluie tombée |  |   |
+|  Température de l'air |  | 11.8  |
+|  Hauteur de la mer |  | 42.2  |
+|  Égitation de l'eau |  | 1.8  |
+|  Densité au bout de la jeté |  | 102.8  |
+|  Température de l'eau |  | 12.1  |
+
+|  9. 28 mars - 1903 | Obtation | Soir  |
+| --- | --- | --- |
+|  Hauteur Marmoutrique |  | 202.4  |
+|  Direction du vent |  | 2.8  |
+|  Force |  | 2  |
+|  Nébulosité | (Reg. O. (lour) | 10  |
+|   | (Reg. X.- (mur) | 10  |
+|  Direction des nuages |  | or. or.  |
+|  Fluie tombée |  | 12.8  |
+|  Température de l'air |  | 64.1  |
+|  Hauteur de la mer |  | 1.8  |
+|  Égitation de l'eau |  | 1.8  |
+|  Densité au bout de la jeté |  | 102.8  |
+|  Température de l'eau |  | 11.6  |

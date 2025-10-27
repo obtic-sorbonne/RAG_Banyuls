@@ -1,0 +1,20 @@
+```
+| **No. de l'année du Bottourt** | **Matin** | **Soir** |
+|---|---|---|
+| 2 | — | — |
+| **Name de Jours, de mois, du pays à la Jardine** | **Matin** | **Soir** |
+| 19 Mai 1906 | — | — |
+| 21 Mai 1906 | — | — |
+| **Hauteur Barométrique** | **758,2** | **758,6** |
+| **Direction du vent** | **er. cr. c.** | **er. cr. c.** |
+| **Force** | 2 | 1 |
+| **Nébulosité (Reg. G. Terre)** | 8 | 10 |
+| **Nébulosité (Reg. E. mer)** | 8 | 10 |
+| **Direction des nuages** | **er. cr. v.** | **er. cr. v.** |
+| **Pluie tombée** | quelques g | quelques g |
+| **Température de l'air** | **15,2** | **17,0** |
+| **Hauteur de la mer** | **45,7** | **45,7** |
+| **Agitation de l'eau** | **5 fort** | **5 fort** |
+| **Densité au bout de la jetée** | **1027,8** | **1027,8** |
+| **Température de l'eau** | **15,2** | **15,2** |
+```

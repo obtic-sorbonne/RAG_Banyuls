@@ -1,0 +1,35 @@
+```plaintext
+# V. 22 X 1902
+
+|  Name | Position | Soir  |
+| --- | --- | --- |
+|  Hauteur Barométrique | 707.3 | 758.6  |
+|  Direction du vent | or. or. | or. or.  |
+|  Force | 4 | 3  |
+|  Nébulosité (Reg. O. (terre)) | 0 | 0  |
+|  Nébulosité (Reg. E. (mer)) | 8 | 8  |
+|  Direction des nuages | or. or. | or. or.  |
+|  Pluie tombée |  |   |
+|  Température de l'air | 12.0 | 13.1  |
+|  Hauteur de la mer | 65.0 | 67.0  |
+|  Agitation de l'eau | 3 | 3  |
+|  Densité au bout de la jetée | 1028.7 | 1028.1  |
+|  Température de l'eau | 12.6 | 12.7  |
+
+# V. 24 X 1902
+
+|  Name | Position | Soir  |
+| --- | --- | --- |
+|  Hauteur Barométrique | 727.0 | 727.0  |
+|  Direction du vent | or. or. | or. or.  |
+|  Force | 1 | 1  |
+|  Nébulosité (Reg. O. (terre)) | 10 | 10  |
+|  Nébulosité (Reg. E. (mer)) | 10 | 10  |
+|  Direction des nuages | or. or. | or. or.  |
+|  Pluie tombée |  |   |
+|  Température de l'air | 7.0 | 10.4  |
+|  Hauteur de la mer | 78.3 | 49.1  |
+|  Agitation de l'eau | 1 | 1  |
+|  Densité au bout de la jetée | 1028.8 | 1028.6  |
+|  Température de l'eau | 13.4 | 13.1  |
+```

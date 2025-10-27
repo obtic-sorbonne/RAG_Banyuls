@@ -1,0 +1,193 @@
+```html
+<table>
+  <tr>
+    <td>Observations DU</td>
+    <td>1960</td>
+    <td>8</td>
+    <td>janvier</td>
+  </tr>
+  <tr>
+    <td>Nombre de bateaux sortis (pêche à l………)</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Température de l'air</td>
+    <td>} maxima depuis la veille</td>
+    <td>22,8</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>minima id.</td>
+    <td>12,1</td>
+  </tr>
+  <tr>
+    <td>Température de l'eau</td>
+    <td>| maxima depuis la veille…</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>minima id.</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Pluie tombée depuis la veille, en millim.</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Evaporation depuis le… 190, en millim.</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>à 9 h. m.</td>
+    <td>à 3 h. s.</td>
+  </tr>
+  <tr>
+    <td>Direction du vent (à terre)………</td>
+    <td>Nord</td>
+    <td>S.-S.-O.</td>
+  </tr>
+  <tr>
+    <td>Force</td>
+    <td>1 fort</td>
+    <td>1)</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>N.E.</td>
+    <td>M.N.O.</td>
+  </tr>
+  <tr>
+    <td>Direction des nuages</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Nébulosité</td>
+    <td>} région Ouest (terre)…</td>
+    <td>10</td>
+    <td>10</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>id. Est (mer).</td>
+    <td>10</td>
+    <td>10</td>
+  </tr>
+  <tr>
+    <td>Hauteur de la mer, en centimètres, au-dessus du zéro</td>
+    <td>1</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td>Agitation de l'eau………</td>
+  </tr>
+  <tr>
+    <td>Densité de l'eau au bout de la jetée………</td>
+    <td>1027,0</td>
+    <td>1027,6</td>
+  </tr>
+  <tr>
+    <td>Température</td>
+    <td>id.</td>
+    <td>19,0</td>
+    <td>19,1</td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td>Observations DU</td>
+    <td>1960</td>
+    <td>9</td>
+    <td>janvier</td>
+  </tr>
+  <tr>
+    <td>Nombre de bateaux sortis (pêche à l………)</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Température de l'air</td>
+    <td>} maxima depuis la veille</td>
+    <td>23,7</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>minima id.</td>
+    <td>14,4</td>
+  </tr>
+  <tr>
+    <td>Température de l'eau</td>
+    <td>| maxima depuis la veille…</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>minima id.</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Pluie tombée depuis la veille, en millim.</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Evaporation depuis le… 190, en millim.</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>à 9 h. m.</td>
+    <td>à 3 h. s.</td>
+  </tr>
+  <tr>
+    <td>Direction du vent (à terre)………</td>
+    <td>N.E.</td>
+    <td>N.O.</td>
+  </tr>
+  <tr>
+    <td>Force</td>
+    <td>3</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>N. E.</td>
+    <td>N.O.</td>
+  </tr>
+  <tr>
+    <td>Direction des nuages</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Nébulosité</td>
+    <td>} région Ouest (terre)…</td>
+    <td>10</td>
+    <td>10</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>id. Est (mer).</td>
+    <td>10</td>
+    <td>10</td>
+  </tr>
+  <tr>
+    <td>Hauteur de la mer, en centimètres, au-dessus du zéro</td>
+  </tr>
+  <tr>
+    <td>Agitation de l'eau………</td>
+    <td>1 fort</td>
+    <td>2 faible</td>
+  </tr>
+  <tr>
+    <td>Densité de l'eau au bout de la jetée………</td>
+    <td>1027,3</td>
+    <td>1027,9</td>
+  </tr>
+  <tr>
+    <td>Température</td>
+    <td>id.</td>
+    <td>18,7</td>
+    <td>18,8</td>
+  </tr>
+</table>
+```

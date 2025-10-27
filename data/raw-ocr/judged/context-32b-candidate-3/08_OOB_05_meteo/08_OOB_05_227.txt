@@ -1,0 +1,35 @@
+```markdown
+# 4 Avril 1907
+
+| **Date**       | **Matin** | **Soir** |
+|----------------|-----------|----------|
+| **Hauteur barométrique** | 746.0 mmHg | 744.3 mmHg |
+| **Direction du vent** | S.E. | cr.0 |
+| **Force** | 1 | 4 |
+| **Nébulosité (Res. 0. (terre))** | 10 | 10 |
+| **Nébulosité (Res. 2. (mer))** | 10 | 6 |
+| **Direction des nuages** | S.E. | cr.0 |
+| **Pluie tombée** | - | quelques |
+| **Température de l'air** | 11.4 °C | 10.9 °C |
+| **Hauteur de la mer** | 53.8 cm | 50.4 cm |
+| **Agitation de l'eau** | 1 for. | 1 for. |
+| **Densité au bord de la jetée** | 1029.4 g/cm³ | 1029.4 g/cm³ |
+| **Température de l'eau** | 12.3 °C | 12.4 °C |
+
+# 5 Avril 1907
+
+| **Date**       | **Matin** | **Soir** |
+|----------------|-----------|----------|
+| **Hauteur barométrique** | 740.9 mmHg | 722.4 mmHg |
+| **Direction du vent** | cr.0 | cr.0 |
+| **Force** | 5 | 6 |
+| **Nébulosité (Res. 0. (terre))** | 10 | 10 dég. |
+| **Nébulosité (Res. 2. (mer))** | 10 | 10 dég. |
+| **Direction des nuages** | cr.0 | cr.0 |
+| **Pluie tombée** | - | - |
+| **Température de l'air** | 10.9 °C | 14.2 °C |
+| **Hauteur de la mer** | 48.1 cm | 54.2 cm |
+| **Agitation de l'eau** | 1 for. | 3 for. |
+| **Densité au bord de la jetée** | 1029.7 g/cm³ | 1029.5 g/cm³ |
+| **Température de l'eau** | 11.7 °C | 12.0 °C |
+```

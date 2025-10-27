@@ -1,0 +1,32 @@
+$$
+\begin{array}{|c|c|c|}
+\hline
+& \text{9h Matin} & \text{3h Soir} \\
+\hline
+\text{Hauteur Barométrique} & 766.2 & 763.0 \\
+\hline
+\text{Direction du vent} & \text{N.N.O} & \text{S.S.E} \\
+\hline
+\text{Force} & \text{1 (fort)} & \text{1 (fort)} \\
+\hline
+\text{Nébulosité} & & \\
+\text{(Reg.-O. (claire))} & 0 & 0 \\
+\text{(Reg.-E. (mer))} & 0 & 0 \\
+\hline
+\text{Direction des nuages} & & \\
+\text{Pluie tombée} & & \\
+\hline
+\text{Température de l'air} & 14.4 & 15.7 \\
+\hline
+\text{Hauteur de la mer} & 49.9 & 38.0 \\
+\hline
+\text{Agitation de l'eau} & \text{1 (fort)} & 1 \\
+\hline
+\text{Densité de l'eau} & & \\
+\text{au bout de la jetée} & 1027.4 & 1027.4 \\
+\text{au large} & & \\
+\hline
+\text{Température de l'eau} & 16.8 & 17.1 \\
+\hline
+\end{array}
+$$

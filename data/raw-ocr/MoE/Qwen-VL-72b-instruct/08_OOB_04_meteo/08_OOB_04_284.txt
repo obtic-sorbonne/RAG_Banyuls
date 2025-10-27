@@ -1,0 +1,19 @@
+| Date                | Matin       | 14h Matin | 16h Matin | Soir       |
+|---------------------|-------------|----------|-----------|------------|
+| **9 Octobre 1903**  |             |          |           |            |
+| Pluie tombée        | -           | -        | -         | 3.8 mm     |
+|                     |             |          |           |            |
+| **10 Octobre 1903** |             |          |           |            |
+| Hauteur barométrique | -          | 765.1    | -         | 763.6      |
+| Direction du vent   | -          | cr. or. 0 | -         | cr. or. 0  |
+| Force               | -          | 3        | -         | 3 faible   |
+| Régl. 6 (claire)    | -          | 10 légumières | -         | 10         |
+| Météorosité        | -          | 10 légumières  | -         | 10         |
+| Régl. 3 (mer)      | -          | -        | -         | -          |
+| Direction des vagues | -        | cr. or. 0 | -         | cr. or. 0  |
+| Pluie tombée        | -          | "        | -         | "          |
+| Température de l'air | -        | 17.3     | -         | 19.1       |
+| Hauteur de la mer   | -          | 46.3     | -         | 60.2       |
+| Agitation de l'eau  | -          | 2 fort   | -         | 2 fort     |
+| Densité au bout de la jetée | - | 1027.3   | -         | 1027.3     |
+| Température de l'eau | -        | 18.9     | -         | 18.4       |

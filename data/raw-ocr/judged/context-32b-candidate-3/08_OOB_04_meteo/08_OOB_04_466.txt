@@ -1,0 +1,29 @@
+```plaintext
+|  9. 22 Janvier - 1901 | Matin | Soir  |
+| --- | --- | --- |
+|  Hauteur Barométrique | 267.0 |   |
+|  Direction du vent | 7.0 |   |
+|  Force | 1.0 |   |
+|  Nébulosité | 1.0 |   |
+|  (Reg. 2. (min)) | 2.0 |   |
+|  Direction des nuages | 3.0 |   |
+|  Pluie tombée | 4.0 |   |
+|  Température de l'air | 5.0 |   |
+|  Hauteur de la mer | 6.0 |   |
+|  Agitation de l'eau | 7.0 |   |
+|  Densité au bout de la jetée | 10.3 |   |
+|  Température de l'eau | 11.9 |   |
+|  7.23 Janvier - 1901 | Matin | Soir  |
+|  Hauteur Barométrique | 270.2 | 268.6  |
+|  Direction du vent | 7.0 | 7.0  |
+|  Force | 1.0 | 3.0  |
+|  Nébulosité | 1.0 | 1.0  |
+|  (Reg. 2. (min)) | 2.0 | 2.0  |
+|  Direction des nuages | 3.0 | 3.0  |
+|  Pluie tombée | 4.0 | 4.0  |
+|  Température de l'air | 5.0 | 5.0  |
+|  Hauteur de la mer | 6.0 | 6.0  |
+|  Agitation de l'eau | 7.0 | 7.0  |
+|  Densité au bout de la jetée | 10.3 | 11.9  |
+|  Température de l'eau | 11.9 | 11.9  |
+```

@@ -1,0 +1,35 @@
+V. 30 Octobre - 1902
+
+|  Hauteur | Parométrique  |
+| --- | --- |
+|  Direction du vent |   |
+|  Force | 15.2.5  |
+|   | orad  |
+|   | 2 fort  |
+|  Néelulosite |   |
+|  (Reg. O. (1ere) |   |
+|  Direction des nuages | orad  |
+|  Flux tombei |   |
+|  Température de l'air | 13.5  |
+|  Hauteur de la mer | 34.3  |
+|  Régitation de l'eau | 3  |
+|  Densité au bout de la jolie | 1029.9  |
+|  Température de l'eau | 15.1  |
+
+V. 31 Octobre - 1902
+
+|  Hauteur | Parométrique  |
+| --- | --- |
+|  Direction du vent |   |
+|  Force | 15.3.5  |
+|   | or.ur.c  |
+|   | 4  |
+|  Néelulosite |   |
+|  (Reg. O. (1ere) |   |
+|  Direction des nuages |   |
+|  Flux tombei |   |
+|  Température de l'air | 13.3  |
+|  Hauteur de la mer | 41.3  |
+|  Régitation de l'eau | 3 fort  |
+|  Densité au bout de la jolie | 1029.4  |
+|  Température de l'eau | 15.4  |

@@ -1,0 +1,49 @@
+# 9. 6 février. 1903
+
+|  **Nom** | **Date** | **Matin** | **Soir**  |
+| --- | --- | --- | --- |
+|  Hauteur Barométrique |  | 769.2 | 768.8  |
+|  Direction du vent |  | 0.70 | 268.8  |
+|  Force |  | 1.50 m | 2  |
+|  Nébulosité (Reg. G. (terre)) |  | 1 | 0  |
+|  Nébulosité (Reg. X. (mur)) |  | 1 | 1  |
+|  Direction des nuages |  | 0.70 | 268.8  |
+|  Pluie tombée |  | 0.2 | 18.4  |
+|  Température de l'air |  | 9.2 | 18.8  |
+|  Hauteur de la mer |  | 67.1 | 1.4.1  |
+|  Agitation de l'eau |  | 17.9 | 1029.6  |
+|  Densité au bout de la jetée |  | 1029.6 | 10.1  |
+
+# 10 février. 1903
+
+|  **Nom** | **Date** | **Matin** | **Soir**  |
+| --- | --- | --- | --- |
+|  Hauteur Barométrique |  | 771.6 | 771.6  |
+|  Direction du vent |  | 0.00 | 0  |
+|  Force |  | 2 | 0  |
+|  Nébulosité (Reg. G. (terre)) |  | 0 | 0  |
+|  Nébulosité (Reg. X. (mur)) |  | 0 | 0  |
+|  Direction des nuages |  | 0 | 0  |
+|  Pluie tombée |  | 0.1 | 14.7  |
+|  Température de l'air |  | 9.2 | 14.2  |
+|  Hauteur de la mer |  | 69.2 | 62.2  |
+|  Agitation de l'eau |  | 1 | 2  |
+|  Densité au bout de la jetée |  | 1029.2 | 1028.6  |
+|  Température de l'eau |  | 14.7 | 14.2  |
+
+# 11 février. 1903
+
+|  **Nom** | **Date** | **Matin** | **Soir**  |
+| --- | --- | --- | --- |
+|  Hauteur Barométrique |  | 771.6 | 771.6  |
+|  Direction du vent |  | 0.00 | 0  |
+|  Force |  | 2 | 0  |
+|  Nébulosité (Reg. G. (terre)) |  | 0 | 0  |
+|  Nébulosité (Reg. X. (mur)) |  | 0 | 0  |
+|  Direction des nuages |  | 0 | 0  |
+|  Pluie tombée |  | 0 | 0  |
+|  Température de l'air |  | 11.1 | 11.1  |
+|  Hauteur de la mer |  | 67.2 | 61.8  |
+|  Agitation de l'eau |  | 2 | 2  |
+|  Densité au bout de la jetée |  | 1029.1 | 1029.1  |
+|  Température de l'eau |  | 10.7 | 10.7  |

@@ -1,0 +1,35 @@
+# V. 1er 9 mars - 1902
+
+|  **Name** | **Pf 2.2**  |
+| --- | --- |
+|  Kanteur Praxometrique | 3  |
+|  Direction du vent | 3  |
+|  Force | 5  |
+|  Subbutosité | 2  |
+|  (Reg. O. (terre)) | 2  |
+|  (Reg. F. (mer)) | 2  |
+|  Direction des images | 2  |
+|  Chine Tombé | 1  |
+|  Température de l'air | 14,0  |
+|  Kanteur de la mer | 22,5  |
+|  Régulation de l'eau | 1  |
+|  Sensité au bout de la jeté | 102,4  |
+|  (température de l'eau) | 10,8  |
+
+# V. 24 mars - 1902
+
+|  **Name** | **Pf 1.8**  |
+| --- | --- |
+|  Kanteur Praxometrique | 3.2.8  |
+|  Direction du vent | 3.2.8  |
+|  Force | 1  |
+|  Subbutosité | 0  |
+|  (Reg. O. (terre)) | 0  |
+|  (Reg. F. (mer)) | 0  |
+|  Direction des images | 1  |
+|  Chine Tombé | 1  |
+|  (température de l'air) | 11,1  |
+|  Kanteur de la mer | 45,1  |
+|  Régulation de l'eau | 1.8.1  |
+|  Sensité au bout de la jeté | 102,4  |
+|  (température de l'eau) | 11,1  |

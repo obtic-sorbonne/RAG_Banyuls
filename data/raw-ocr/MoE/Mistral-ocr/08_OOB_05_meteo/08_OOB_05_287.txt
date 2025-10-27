@@ -1,0 +1,31 @@
+|  1. 22
+Ouvr. 1907 | Mbañ | Fon  |
+| --- | --- | --- |
+|  Hauteur
+Monométrique | 770.8 | 769.6  |
+|  Direction du vent | 200.5 | 2.3  |
+|  Force | 2 | 1/2000  |
+|  Mésubstrat | 0 | 0  |
+|  (Reg. C. (en) |  |   |
+|  Direction des nuages |  |   |
+|  Pluie tomlıie |  |   |
+|  Température de l'air | 23.2 | 28.0  |
+|  Hauteur de la mer | 12.0 | 18.1  |
+|  Agitation de l'eau | 2/2000 | 2/2000  |
+|  Sensit au bout de la jetie | 1028.2 | 1027.4  |
+|  Température de l'eau | 20.6 | 21.5  |
+|  1. 23
+Ouvr. 1907 | Mbañ | Fon  |
+|  Hauteur
+Monométrique | 768.6 | 766.6  |
+|  Direction du vent | 0.000 | 0.8  |
+|  Force | 2 | 2  |
+|  Mésubstrat | 0 | 10  |
+|  (Reg. C. (en) |  |   |
+|  Direction des nuages | 0.0 | 10  |
+|  Pluie tomlıie |  | 1.0  |
+|  Température de l'air | 24.3 | 28.7  |
+|  Hauteur de la mer | 12.9 | 12.9  |
+|  Agitation de l'eau | 1/2000 | 1/2000  |
+|  Sensit au bout de la jetie | 1027.7 | 1027.6  |
+|  Température de l'eau | 21.2 | 21.4  |

@@ -1,0 +1,35 @@
+# V. 17 Septembre 1902
+
+|  Nom | Matin | Soir  |
+| --- | --- | --- |
+|  Hauteur Barométrique | 767.4 | 760.8  |
+|  Direction du vent | or | or  |
+|  Force | 2 faible | 1  |
+|  Nébulosité | 10 | 10  |
+|  Rég. O. (terre) | 10 | 10  |
+|  Rég. E. (mer) | 10 | 10  |
+|  Direction des nuages | or | or  |
+|  Pluie tombée |  |  |
+|  Température de l'air | 19.8 | 22.1  |
+|  Hauteur de la mer | 13.6 | 18.1  |
+|  Agitation de l'eau | 1 | 1  |
+|  Densité au bout de la jetée | 1022.8 | 1022.4  |
+|  Température de l'eau | 21.8 | 22.3  |
+
+# V. 18 Septembre 1902
+
+|  Nom | Matin | Soir  |
+| --- | --- | --- |
+|  Hauteur Barométrique | 767.4 | 760.0  |
+|  Direction du vent | or | or  |
+|  Force | 1 fort | 1 fort  |
+|  Nébulosité | 8 | 0  |
+|  Rég. O. (terre) | 8 | 0  |
+|  Rég. E. (mer) | 0 | 0  |
+|  Direction des nuages | or | or  |
+|  Pluie tombée |  |  |
+|  Température de l'air | 21.8 | 21.1  |
+|  Hauteur de la mer | 12.1 | 12.1  |
+|  Agitation de l'eau | 1 | 1 faible  |
+|  Densité au bout de la jetée | 1029.2 | 1029.1  |
+|  Température de l'eau | 21.9 | 22.9  |

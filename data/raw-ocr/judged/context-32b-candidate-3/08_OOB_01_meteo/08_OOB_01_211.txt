@@ -1,0 +1,17 @@
+# Date - 22 février - 1901
+
+|  | 9e matin | 3e Soir  |
+| --- | --- | --- |
+| **Hauteur barométrique** | 702,1 | 701,0  |
+| **Direction du vent** | Nord | Nord  |
+| **Force** | 3 fois | 2 fois  |
+| **Nébulosité (Reg. E. (mer))** | 10 | 10  |
+| **Direction des nuages** | 10 | 10  |
+| **Pluie tombée** | 0 | 0  |
+| **Température de l'air** | 3,1 | 11,5  |
+| **Hauteur de la mer** | 11,8 | 0,0  |
+| **Agitation de l'eau** | 5 | 4  |
+| **Densité de l'eau** | 1028,5 | 1028,4  |
+| **au bout de la jetée** | 1028,5 | 1028,4  |
+| **au large** | 1028,5 | 1028,4  |
+| **Température de l'eau** | 10,8 | 10,5  |

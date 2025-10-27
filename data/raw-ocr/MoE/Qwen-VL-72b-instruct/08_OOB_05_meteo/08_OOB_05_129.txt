@@ -1,0 +1,29 @@
+| V. 13 Juillet. 1905 | Matin | Soir |
+|-------------------|-------|------|
+| Hauteur Barométrique | 769.2 | - |
+| Direction du vent | er.cr.o | - |
+| Force | 4 | - |
+| Nébulosité | Reg. 6. (clère) | 10 |
+| (Reg. 12. (mor)) | 10 | - |
+| Direction des nuages | er.o | - |
+| Pluie tombée | - | - |
+| Température de l'air | 19.9 | - |
+| Hauteur de la mer | 61.7 | - |
+| Agitation de l'eau | 2 | - |
+| Densité au bout de la jetée | 1029.00 | - |
+| Température de l'eau | 19.3 | - |
+
+| V. 16 Juillet. 1905 | Matin | Soir |
+|-------------------|-------|------|
+| Hauteur Barométrique | 769.8 | 768.3 |
+| Direction du vent | er.cr.o | er.cr.o |
+| Force | 5 | 3 |
+| Nébulosité | Reg. 6. (clère) | 0 |
+| (Reg. 12. (mor)) | 3 légèrement | 0 |
+| Direction des nuages | " | " |
+| Pluie tombée | " | " |
+| Température de l'air | 22.6 | 29.2 |
+| Hauteur de la mer | 63.1 | 72.6 |
+| Agitation de l'eau | 3 | 2 fort |
+| Densité au bout de la jetée | 1027.17 | 1027.00 |
+| Température de l'eau | 20.9 | 31.6 |

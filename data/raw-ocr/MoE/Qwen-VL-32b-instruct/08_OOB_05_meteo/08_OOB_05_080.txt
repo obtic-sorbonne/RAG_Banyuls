@@ -1,0 +1,6 @@
+| Date | Heure | Hauteur Barométrique (mmHg) | Direction du vent | Force (Bft) | Nuébuloité (%) | Température de l'air (°C) | Hauteur de la mer (m) | Agitation de l'eau (niveau) | Pluie tombée (mm) | Densité au bout de la jetée (kg/m³) | Température de l'eau (°C) |
+|------|-------|---------------------------|--------------------|-------------|---------------|-------------------------|---------------------|------------------------|-------------------|----------------------------|--------------------------|
+| 16 février 1906 | Matin | 761.7 | cr.cr.o | 2 | Reg. 0 (claire) | 8.0 | 18.2 | 2 | quelques g | 1029.8 | 13.5 |
+| Soir | - | - | - | - | 9/10 nuée | - | - | - | - | - | - |
+| 17 février 1906 | Matin | 762.2 | Ouest | 17 faible | Reg. 0 (claire) | 9.8 | 5 | 0 | 10.62 | ? | ? |
+| Soir | 761.2 | S.E | Fort | 10 | S.S-E | quelques g | 11.6 | 3 | 1 | ? | ? |

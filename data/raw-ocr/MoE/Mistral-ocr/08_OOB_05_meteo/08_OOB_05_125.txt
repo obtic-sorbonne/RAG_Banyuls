@@ -1,0 +1,26 @@
+|  V. 2 Juillet - 1906 | Moatin | Par  |
+| --- | --- | --- |
+|  Hauteur Econométrique | 203.5 |   |
+|  Direction du vent | 1.3 |   |
+|  Force | 2 fois |   |
+|  Nébulonité | 40.0 (lire) |   |
+|  Réduction des images | 10 |   |
+|  Pule tomble | 10 |   |
+|  Température de l'air | pulpe |   |
+|  Hauteur de la mer | 1 |   |
+|  Agitation de l'eau | 1 |   |
+|  Densité au bout de la jetée | 1 |   |
+|  Température de l'eau |  |   |
+|  V. 3 Juillet - 1906 | Moatin | Par  |
+|  Hauteur Econométrique |  |   |
+|  Direction du vent |  |   |
+|  Force |  |   |
+|  Nébulonité |  |   |
+|  (Reg. 2. (mer) |  |   |
+|  Direction des images |  |   |
+|  Pule tomble |  |   |
+|  Température de l'air |  |   |
+|  Hauteur de la mer |  |   |
+|  Agitation de l'eau |  |   |
+|  Densité au bout de la jetée |  |   |
+|  Température de l'eau |  |   |

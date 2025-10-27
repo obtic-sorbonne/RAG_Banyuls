@@ -1,0 +1,17 @@
+| **Date** | **20** **Mai** **1902** |
+| :--- | :--- |
+| **Hauteur Barométrique** | **9h Matin** | **3h Soir** |
+| | **762,6** | **763,2** |
+| **Direction du vent** | **cruro.** | **cruro.** |
+| **Force** | **4 faible** | **3** |
+| **Nébulosité** | | |
+| **Reg. 6 (claire)** | **3** | **10** |
+| **Reg. E (mer)** | **2** | **10** |
+| **Direction des nuages** | **cruro.** | **rnro.** |
+| **Pluie tombée** | **quelques g** | **quelques g** |
+| **Température de l'air** | **11,3** | **13,5** |
+| **Hauteur de la mer** | **67,9** | **63,5** |
+| **Agitation de l'eau** | | |
+| **Par bout de la jetée** | **2 faible** | **2 faible** |
+| **Densité de l'eau** | **1027,9** | **1027,9** |
+| **Température de l'eau** | **14,0** | **14,3** |

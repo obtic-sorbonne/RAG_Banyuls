@@ -1,0 +1,47 @@
+```plaintext
+| OBSERVATIONS DU 1902 4 Mars |
+| --- |
+| **Nombre de bateaux sortis** |  |
+| **Température de l'air** | maxima depuis la veille | 20,8 |
+|  | minima id. | 9,9 |
+| **Température de l'eau** | maxima depuis la veille |  |
+|  | minima id. |  |
+| **Pluie tombée depuis la veille, en millim.** | quelques g |
+| **Evaporation depuis le 190**, en millim. |  |
+| **Direction du vent (à terre)** | à 9 h. m. | S.S.E |
+| **Force** | à 3 h. s. | 2 |
+| **Direction des nuages** |  | " |
+| **Nébulosité** | région Ouest (terre) | 0 |
+|  | id. Est (mer) | 0 |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.)** | 13,1 |
+| **Agitation de l'eau** | 1 |
+| **Densité de l'eau au bout de la jetée** | 1027.0 |
+| **Température** | id. | 12 |
+| - rs. Balança | soir | Maxima | 24.2 |
+| - is. foraine | is. | Minima | 6,9 |
+|
+|
+| OBSERVATIONS DU 1902 9 Mars |
+| --- |
+| **Nombre de bateaux sortis** |  |
+| **Température de l'air** | maxima depuis la veille | 17,9 |
+|  | minima id. | 8,4 |
+| **Température de l'eau** | maxima depuis la veille |  |
+|  | minima id. |  |
+| **Pluie tombée depuis la veille, en millim.** | " |
+| **Evaporation depuis le 190**, en millim. |  |
+| **Direction du vent (à terre)** | à 9 h. m. | N.E |
+| **Force** | à 3 h. s. | N° E° |
+| **Direction des nuages** |  | Mer |
+| **Nébulosité** | région Ouest (terre) | 10 |
+|  | id. Est (mer) | 10 |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.)** | 26.6 | 44.9 |
+| **Agitation de l'eau** | 1 | 1 |
+| **Densité de l'eau au bout de la jetée** | 1027.1 | 1026.9 |
+| **Température** | id. | 12.6 | 13.1 |
+| - is. Balanca | Matin | Maxima | 24,2 |
+|  |  | Minima | 6,9 |
+| - is. foranie | | | 6,3 | 24,2 |
+| - is. | soir | Maxima |  |
+|  |  | Minima | 12,9 |
+```

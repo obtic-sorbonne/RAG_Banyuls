@@ -1,0 +1,31 @@
+```
+V. 18 février - 1903
+
+|  Hauteur Barométrique | 774.6 | 774.6  |
+|  Direction du vent | 225.0 | 225.0  |
+|  Force | 3 | 3  |
+|  Nébulosité (Reg. O. (terre)) | 4 | 4  |
+|  Nébulosité (Reg. E. (mer)) | 0 | 0  |
+|  Direction des nuages | 225.0 | 225.0  |
+|  Pluie tombée | 0 | 0  |
+|  Température de l'air | 8.2 | 8.2  |
+|  Hauteur de la mer | 68.0 | 68.0  |
+|  Agitation de l'eau | 3 | 3  |
+|  Densité au bout de la jetée | 1028.6 | 1028.6  |
+|  Température de l'eau | 10.4 | 10.4  |
+
+V. 19 février - 1903
+
+|  Hauteur Barométrique | 772.0 | 772.0  |
+|  Direction du vent | 120.0 | 120.0  |
+|  Force | 2 | 2  |
+|  Nébulosité (Reg. O. (terre)) | 2 | 2  |
+|  Nébulosité (Reg. E. (mer)) | 0 | 0  |
+|  Direction des nuages | 120.0 | 120.0  |
+|  Pluie tombée | 0 | 0  |
+|  Température de l'air | 12.8 | 12.8  |
+|  Hauteur de la mer | 21.5 | 21.5  |
+|  Agitation de l'eau | 3 | 3  |
+|  Densité au bout de la jetée | 1028.5 | 1028.5  |
+|  Température de l'eau | 10.2 | 10.2  |
+```

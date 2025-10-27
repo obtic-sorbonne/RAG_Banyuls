@@ -1,0 +1,28 @@
+```
+| Date         | Matin                                 | Soir                                 |
+|--------------|---------------------------------------|--------------------------------------|
+| V. 30 Août. 1904 | Hauteur Barométrique: 764.6           | Hauteur Barométrique:                |
+|              | Direction du vent: nord-est (N.E.)    | Direction du vent:                   |
+|              | Force du vent: faible (1-2)           | Force du vent:                      |
+|              | Nébulosité (nuages): 100% (Plafond bas)| Nébulosité (nuages):                 |
+|              | Direction des nuages: nord-ouest (N.O.)| Direction des nuages:                |
+|              | Pluie tombée: quelques g                | Pluie tombée:                       |
+|              | Température de l'air: 23.2 °C          | Température de l'air:                |
+|              | Hauteur de la mer:                    | Hauteur de la mer:                   |
+|              | Agitation de l'eau: faible             | Agitation de l'eau:                  |
+|              | Lumière au bout de la jetée:          | Lumière au bout de la jetée:         |
+|              | Température de l'eau:                 | Température de l'eau:                |
+|--------------|---------------------------------------|--------------------------------------|
+| V. 31 Août. 1904 | Hauteur Barométrique: 766.3           | Hauteur Barométrique:                |
+|              | Direction du vent: nord-nord-est (N.N.E.)| Direction du vent:                   |
+|              | Force du vent: faible (1-2)           | Force du vent:                      |
+|              | Nébulosité (nuages): 100% (Plafond bas)| Nébulosité (nuages):                 |
+|              | Direction des nuages: ouest (O)       | Direction des nuages:                |
+|              | Pluie tombée: quelques g                | Pluie tombée:                       |
+|              | Température de l'air: 24.2 °C          | Température de l'air:                |
+|              | Hauteur de la mer:                    | Hauteur de la mer:                   |
+|              | Agitation de l'eau: /                 | Agitation de l'eau:                  |
+|              | Lumière au bout de la jetée:          | Lumière au bout de la jetée:         |
+|              | Température de l'eau:                 | Température de l'eau:                |
+|--------------|---------------------------------------|--------------------------------------|
+```

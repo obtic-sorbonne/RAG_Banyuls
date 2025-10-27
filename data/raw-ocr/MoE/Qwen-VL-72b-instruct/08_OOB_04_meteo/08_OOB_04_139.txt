@@ -1,0 +1,32 @@
+| **Date**         | **Malin**    | **Soir**    |
+|------------------|--------------|-------------|
+| **V. 26 Septembre 1902** |          |             |
+| Hauteur Barométrique | 766.4      | 769.8       |
+| Direction du vent | er.or.o     | erow        |
+| Force            | 1,5         | 3 jon. / 1  |
+| Nébulosités      |             |             |
+| - Reg. Q. (terre) | 10         | 10          |
+| - Reg. N. (mer)  | 10         | 10          |
+| Direction des nuages | er. 8   | er. 8       |
+| Pluie Tombée      | 7.379      | "           |
+| Température de l'air | 17.6   | 20.3        |
+| Hauteur de la mer | 32.0       | 34.6        |
+| Agitation de l'eau | 3 T. fort | 4 / paible   |
+| Densité au bout de la jetée | 1028,1 | 1027.9      |
+| Température de l'eau | 19.7   | 20.0        |
+
+| **V. 27 Septembre 1902** |          |             |
+|------------------|--------------|-------------|
+| Hauteur Barométrique | 769.1      | 764.6       |
+| Direction du vent | er.or.o     | er.or.o     |
+| Force            | 1,5         | 2 jon. 3    |
+| Nébulosités      |             |             |
+| - Reg. Q. (terre) | 10         | 10          |
+| - Reg. N. (mer)  | 10         | 10          |
+| Direction des nuages | Est      | Est         |
+| Pluie Tombée      | quelques g | "           |
+| Température de l'air | 19.0   | 20.7        |
+| Hauteur de la mer | 48.7       | 32.4        |
+| Agitation de l'eau | 2 faible  | /           |
+| Densité au bout de la jetée | 1028.1 |             |
+| Température de l'eau | 19.7   |             |

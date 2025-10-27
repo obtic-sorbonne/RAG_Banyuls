@@ -1,0 +1,31 @@
+```plaintext
+# V. 16 Novembre 1904
+
+|  Hauteur Barométrique | Pourcentage  |
+| --- | --- |
+|  Direction du vent | 777.0  |
+|  Force | 1  |
+|  Nébulosité | (Reg. 0. (tune))  |
+|  Direction des nuages | 2  |
+|  Pluie tombée | 14.3  |
+|  Température de l'air | 61.1  |
+|  Hauteur de la mer | 3  |
+|  Régulation de l'eau | 1089.7  |
+|  Densité au bout de la jetée | 17.2  |
+|  Température de l'eau | 17.2  |
+
+# V. 16 Novembre 1904
+
+|  Hauteur Barométrique | Pourcentage  |
+| --- | --- |
+|  Direction du vent | 769.4  |
+|  Force | 3  |
+|  Nébulosité | (Reg. 0. (tune))  |
+|  Direction des nuages | 0  |
+|  Pluie tombée | 17.7  |
+|  Température de l'air | 68.7  |
+|  Hauteur de la mer | 3  |
+|  Régulation de l'eau | 1089.3  |
+|  Densité au bout de la jetée | 16.4  |
+|  Température de l'eau | 16.4  |
+```

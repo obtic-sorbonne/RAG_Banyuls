@@ -1,0 +1,57 @@
+| **Observations du 30 Octobre** |
+| --- |
+| Nombre de bateaux sortis (pêche à l...) | ... |
+| Température de l'air | maxima depuis la veille... | 19.0 |
+|  | minima id. | 9.8 |
+| Température de l'eau | maxima depuis la veille... | ... |
+|  | minima id. | ... |
+| Pluie tombée depuis la veille, en millim... | ... |
+| Evaporation depuis le... 190, en millim... | ... |
+|  |
+| **À 9 h. m.** | **À 3 h. s.** |
+| Direction du vent (à terre)... | N.N. O. | N.O. |
+| Force | 3 fort | 2 |
+| Direction des nuages... | | |
+| Nébulosité | région Ouest (terre)... | 2 dég. | 0 |
+|  | id. Est (mer)... | 0 | 0 |
+| Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.) | 31.1 | 30.8 |
+| Agitation de l'eau... | 2 fort | 2 |
+| Densité de l'eau au bout de la jetée... | 1.028.2 | 1.027.9 |
+| Température id. | 16.9 | 16.7 |
+
+---
+
+| **Observations du 31 Octobre** |
+| --- |
+| Nombre de bateaux sortis (pêche à l...) | ... |
+| Température de l'air | maxima depuis la veille... | 16.6 |
+|  | minima id. | 9.4 |
+| Température de l'eau | maxima depuis la veille... | ... |
+|  | minima id. | ... |
+| Pluie tombée depuis la veille, en millim... | ... |
+| Evaporation depuis le... 190, en millim... | ... |
+|  |
+| **À 9 h. m.** | **À 3 h. s.** |
+| Direction du vent (à terre)... | Nord | Nord |
+| Force | 2 faible | 1 |
+| Direction des nuages... | J.S.E | S.S.O. |
+| Nébulosité | région Ouest (terre)... | 0 | 10 |
+|  | id. Est (mer)... | 8 | 60 |
+| Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.) | 38.6 | 29.8 |
+| Agitation de l'eau... | 2 faible | 2 faible |
+| Densité de l'eau au bout de la jetée... | 1.027.0 | 1.027.4 |
+| Température id. | 16.9 | 17.0 |
+
+| Terraine | Matin | Minima | 13.9 |
+| --- | --- | --- | --- |
+|  | maxima | Maxima | 18.6 |
+| id. | minima | minima | 7.9 |
+| Terre | minima | minima | 24.8 |
+|  | minima | minima | 24.8 |
+
+| Terre | Matin | maxima | 18.6 |
+| --- | --- | --- | --- |
+| S.  | S.  |  |  |
+| Lointain | Min. | 7.2 |  |
+|  | maxima | 24.8 |  |
+|  | minima | 24.8 |  |

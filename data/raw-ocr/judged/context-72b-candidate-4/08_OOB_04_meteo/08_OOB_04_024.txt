@@ -1,0 +1,8 @@
+```plaintext
+| **Date**       | **Heure** | **Hauteur Barométrique** | **Direction du vent** | **Force** | **Nébulosité (Reg. O. / Reg. É.)** | **Pluie Tombée** | **Température de l'air** | **Hauteur de la mer** | **Agitation de l'eau** | **Densité au bout de la jetée** | **Température de l'eau** |
+|----------------|-----------|--------------------------|-----------------------|-----------|------------------------------------|------------------|---------------------------|-----------------------|--------------------------|-----------------------------|-----------------------------|
+| 10 Novembre 1901 | Matin     | 764.8 mm                 | Erou.c.c              | 1 T. Fort | 0 / 0                            | "                | 10.7 °C                  | 47.6 m                | 2                        | 1027.8 kg/m³                | 17.4 °C                     |
+| 10 Novembre 1901 | Soir      | 764.8 mm                 | Erou.c.c              | 1 T. Fort | 0 / 0                            | "                | 10.7 °C                  | 47.6 m                | 2                        | 1027.8 kg/m³                | 17.4 °C                     |
+| 11 Novembre 1901 | Matin     | 764.2 mm                 | Ouest                 | 17 Faible | 0 / 0                            | "                | 9.1 °C                   | 41.9 m                | 2 Faible                 | 1027.6 kg/m³                | 17.7 °C                     |
+| 11 Novembre 1901 | Soir      | 761.4 mm                 | S.S. O                | 1 T. Fort | 10 légère                        | "                | 12.0 °C                  | 49.2 m                | 1 T. Fort                | 1027.4 kg/m³                | 17.3 °C                     |
+```

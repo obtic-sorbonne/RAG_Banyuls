@@ -1,0 +1,29 @@
+V. 4 Juillet - 1907
+Matin Soir
+Hauteur Barométrique 769,3 764,7
+Direction du Vent S.O S.S.E
+Force 1 3
+Nébulosité (Reg. d'Air) 10 3
+(Reg. d'Ouv) 10 2
+Direction des nuages S.O S.O
+Pluie Tombée " "
+Température de l'air 22,0 28,0
+Hauteur de la mer 16,4 47,2
+Agitation de l'eau 1 faible 2
+Densité au haut de la jetée 1027,6° 1027,4
+Température de l'eau 19,7 19,3
+
+V. 5 Juillet - 1907
+Matin Soir
+Hauteur Barométrique 767,7 766,3
+Direction du Vent S.E S.E
+Force 2 2 fort
+Nébulosité (Reg. d'Air) 10 2
+(Reg. d'Ouv) 10 1
+Direction des nuages S.E S.E
+Pluie Tombée " "
+Température de l'air 21,0 24,1
+Hauteur de la mer 18,2 50,9
+Agitation de l'eau 1 T. fort 2
+Densité au haut de la jetée 1027,8 1028,0
+Température de l'eau 18,4 17,7

@@ -1,0 +1,8 @@
+```
+| Date | Heure | Hauteur Barométrique (mmHg) | Direction du vent | Force du vent | Nébulosité (%) | Direction des nuages | Pluie tombée (mm) | Température de l'air (°C) | Hauteur de la mer (m) | Agitation de l'eau | Densité au bout de la jetée (kg/m³) | Température de l'eau (°C) |
+|------|-------|---------------------------|--------------------|---------------|-----------------|---------------------|-------------------|------------------------|------------------|---------------------|----------------------------|--------------------------|
+| V. 20 Août 1905 | Matin | 768.1 | crois | iS | Aq.s.c.(clère) | Reg. x. (terre) | " | 29.8 | 49.4 | 1 | 1027.1 | 25.1 |
+| V. 20 Août 1905 | Soir | 768.1 | - | - | - | - | - | - | - | - | - | - |
+| V. 21 Août 1905 | Matin | 767.1 | er.S | iS | Aq.g.(terre) légère | Reg. xii. (mer) | légère | 26.6 | 30.0 | 1 fort | 1027.3 | 24.2 |
+| V. 21 Août 1905 | Soir | 767.0 | S.S.E | 2 fort | 0 | Sud | - | 29.2 | 30.7 | 17 fort | 1026.7 | 25.7 |
+```

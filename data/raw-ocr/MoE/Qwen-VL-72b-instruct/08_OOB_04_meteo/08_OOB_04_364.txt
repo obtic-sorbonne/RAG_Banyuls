@@ -1,0 +1,32 @@
+```
+| Date       | Matin       | Soir        |
+|------------|-------------|-------------|
+| V. 22 Avril 1904 |             |             |
+| Haut. Baromètrique | 762.6 | 761.3 |
+| Direction du vent | cr.n.o | cr.n.o |
+| Force | 4 (fort) | 4 |
+| Nebulosité |        |        |
+| Reg. O. (tien) | 10 | 0 |
+| Reg. E. (mer) | 10 | 0 |
+| Direction des nuages | cr.n.o | cr.n.o |
+| Pluie tombée | " | " |
+| Température de l'air | 14.8 | 17.3 |
+| Ht. de la mer | 18.2 | 17.1 |
+| Agitation de l'eau | 3 (fort) | 3 (fort) |
+| Densité au bout de la jété | 1028.6 | 1028.7 |
+| Température de l'eau | 14.3 | 14.4 |
+| V. 23 Avril 1904 |             |             |
+| Haut. Baromètrique | 767.2 | 764.5 |
+| Direction du vent | cr.n.o | cr.n.o |
+| Force | 3 (fort) | 4 |
+| Nebulosité |        |        |
+| Reg. O. (tien) | 10 | légère. c |
+| Reg. E. (mer) | 10 | cr.n.o |
+| Direction des nuages | cr.n.o | cr.n.o |
+| Pluie tombée | quelques g | " |
+| Température de l'air | 12.2 | 18.7 |
+| Ht. de la mer | 17.0 | 13.1 |
+| Agitation de l'eau | 2 (faible) | 2 (fort) |
+| Densité au bout de la jetée | 1028.8 | 1028.6 |
+| Température de l'eau | 13.6 | 13.6 |
+```

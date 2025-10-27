@@ -1,0 +1,15 @@
+```markdown
+# 23 Mai 1907
+
+| **Date**       | **Heure** | **Hauteur Barométrique** | **Direction du Vent** | **Force** | **Nébulosité (0/10)** | **Réglage**  | **Direction des nuages** | **Pluie tombée** | **Température de l'air** | **Hauteur de la mer (cm)** | **Agitation de l'eau** | **Densité au bout de la jetée** | **Température de l'eau** |
+|----------------|-----------|--------------------------|-----------------------|-----------|-----------------------|---------------|--------------------------|------------------|--------------------------|----------------------------|-----------------------|-------------------------------|--------------------------|
+| 23 Mai 1907    | **Matin** | 768.8 mmHg               | Sud-Est               | 2         | 10 (Couvert)           | Reg. C. (Terre)| Sud-Ouest                | 8.12 mm          | 17.3 °C                  | 3.0 cm                    | 3                     | 1028.6 g/cm³                 | 14.1 °C                 |
+| 23 Mai 1907    | **Soir**  | 768.9 mmHg               | Sud-Est               | 1 forte   | 10 (Couvert)           | Reg. C. (Terre)| Sud-Ouest                | 11 mm            | 21.3 °C                  | 4.0 cm                    | 4                     | -                             | -                       |
+
+# 24 Mai 1907
+
+| **Date**       | **Heure** | **Hauteur Barométrique** | **Direction du Vent** | **Force** | **Nébulosité (0/10)** | **Réglage**  | **Direction des nuages** | **Pluie tombée** | **Température de l'air** | **Hauteur de la mer (cm)** | **Agitation de l'eau** | **Densité au bout de la jetée** | **Température de l'eau** |
+|----------------|-----------|--------------------------|-----------------------|-----------|-----------------------|---------------|--------------------------|------------------|--------------------------|----------------------------|-----------------------|-------------------------------|--------------------------|
+| 24 Mai 1907    | **Matin** | 761.5 mmHg               | Sud-Ouest             | 1         | 10 (Couvert)           | Reg. C. (Terre)| Sud-Ouest                | quelques g        | 21.3 °C                  | 40.1 cm                    | 2 faible              | 1028.2 g/cm³                 | 14.7 °C                 |
+| 24 Mai 1907    | **Soir**  | 762.0 mmHg               | Centre-Ouest          | 1 faible   | 10 (Couvert)           | Reg. C. (Mer) | Sud-Ouest                | -                | 24.0 °C                  | 42.1 cm                    | 2 fort                | 1029.9 g/cm³                 | 19.2 °C                 |
+```

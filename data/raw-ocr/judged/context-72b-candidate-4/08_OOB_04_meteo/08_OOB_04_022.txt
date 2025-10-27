@@ -1,0 +1,30 @@
+```plaintext
+| **Date**         | **9h 30 matin** | **17h 30 soir** |
+|------------------|-----------------|-----------------|
+| 6 Novembre 1901 |                 |                 |
+| Hauteur Barométrique | 768.8 mm      | 767.4 mm       |
+| Direction du vent | SSE             | SSE             |
+| Force             | 1 Force Fort    | 1 Force Fort    |
+| Nebulosité (Terre)| 10 légère       | 3 légère        |
+| Nebulosité (Mer)  | 10 légère       | 3               |
+| Direction des nuages | SSE            | SSE             |
+| Pluie tombée      | "                | "               |
+| Température de l'air | 14.6 °C        | 14.7 °C         |
+| Hauteur de la mer | 42.8 m          | 41.3 m          |
+| Agitation de l'eau | 2 faible        | 2 faible        |
+| Densité au bout de la jetée | 1027.7 kg/m³ | 1027.7 kg/m³  |
+| Température de l'eau | 16.3 °C        | 16.7 °C         |
+| 7 Novembre 1901  |                 |                 |
+| Hauteur Barométrique | 766.2 mm      | 764.7 mm       |
+| Direction du vent | or. ori.        | or. o.          |
+| Force             | 1 Force Fort    | 2               |
+| Nebulosité (Terre)| "                | 10 légère        |
+| Nebulosité (Mer)  | 10 légère       | 10 légère       |
+| Direction des nuages | Est            | Est nord        |
+| Pluie tombée      | quelques g      | "               |
+| Température de l'air | 13.0 °C        | 13.3 °C         |
+| Hauteur de la mer | 43.0 m          | 31.6 m          |
+| Agitation de l'eau | 3 Fort         | 3 Fort          |
+| Densité au bout de la jetée | 1026.6 kg/m³ | 1026.4 kg/m³  |
+| Température de l'eau | 17.0 °C        | 17.4 °C         |
+```

@@ -1,0 +1,18 @@
+```
+# 9. 19 Octobre 1903
+
+|  Hauteur Barométrique | Matin | Soir  |
+| --- | --- | --- |
+|  764,6 |  |  |
+|  Direction du vent | nord-est | nord-est  |
+|  Force | 3 | 3  |
+|  (Reg. O. (terre)) | 10 | 10  |
+|  (Reg. F. (mer)) | 10 | 10  |
+|  Direction des nuages | nord-est | nord-est  |
+|  Pluie tombée | 0,0 | 0,0  |
+|  Température de l'air | 18,4 | 18,4  |
+|  Hauteur de la mer | 6,4 | 6,4  |
+|  Agitation de l'eau | 1 | 1  |
+|  Densité au bout de la jetée | 1028,6 | 1028,6  |
+|  Température de l'eau | 17,6 | 17,6  |
+```

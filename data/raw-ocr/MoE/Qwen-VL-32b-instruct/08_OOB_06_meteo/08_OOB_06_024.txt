@@ -1,0 +1,57 @@
+| **DATE**     | 1960-05-26 |
+|--------------|------------|
+| Nombre de bateaux sortis (pêche à la brêche) | 18          |
+| Température de l'air maxima depuis la veille | 21,9       |
+| Température de l'air minima id. | 14,3       |
+| Température de l'eau maxima depuis la veille | -          |
+| Température de l'eau minima id. | -          |
+| Pluie tombée depuis la veille, en millim. | -          |
+| Evaporation depuis le 1900, en millim. | -          |
+| Direction du vent (à terre) à 9 h. m. | N.N.O.      |
+| Direction du vent force | 1        |
+| Direction du vent (à terre) à 3 h. s. | E. S. E.    |
+| Direction des nuages à 9 h. m. | J. S. E.    |
+| Direction des nuages force | -        |
+| Direction des nuages à 3 h. s. | S.S.E.    |
+| Nébulosité région Ouest (terre) à 9 h. m. | 10         |
+| Nébulosité région Est (mer) à 9 h. m. | 10         |
+| Nébulosité région Ouest (terre) à 3 h. s. | 10         |
+| Nébulosité région Est (mer) à 3 h. s. | 10         |
+| Hauteur de la mer, en centimètres, au-dessus du zéro à 9 h. m. | 12,3       |
+| Hauteur de la mer, en centimètres, au-dessus du zéro à 3 h. s. | +1,9       |
+| Agitation de l'eau à 9 h. m. | Forte      |
+| Agitation de l'eau force | -        |
+| Agitation de l'eau à 3 h. s. | Faible     |
+| Densité de l'eau au bout de la jetée à 9 h. m. | 1026,1    |
+| Densité de l'eau au bout de la jetée à 3 h. s. | 1026,2    |
+| Température de l'eau au bout de la jetée à 9 h. m. | 17.6      |
+| Température de l'eau au bout de la jetée à 3 h. s. | 16.6      |
+
+| **DATE**     | 1960-05-27 |
+|--------------|------------|
+| Nombre de bateaux sortis (pêche à la brêche) | 21          |
+| Température de l'air maxima depuis la veille | 21.8       |
+| Température de l'air minima id. | 12.8       |
+| Température de l'eau maxima depuis la veille | -          |
+| Température de l'eau minima id. | -          |
+| Pluie tombée depuis la veille, en millim. | 23,12      |
+| Evaporation depuis le 1900, en millim. | -          |
+| Direction du vent (à terre) à 9 h. m. | N.N.O.      |
+| Direction du vent force | 1        |
+| Direction du vent (à terre) à 3 h. s. | E. S. E.    |
+| Direction des nuages à 9 h. m. | N.N.O.      |
+| Direction des nuages force | -        |
+| Direction des nuages à 3 h. s. | Ouest      |
+| Nébulosité région Ouest (terre) à 9 h. m. | 10         |
+| Nébulosité région Est (mer) à 9 h. m. | 10         |
+| Nébulosité région Ouest (terre) à 3 h. s. | 10         |
+| Nébulosité région Est (mer) à 3 h. s. | 10         |
+| Hauteur de la mer, en centimètres, au-dessus du zéro à 9 h. m. | 49.8       |
+| Hauteur de la mer, en centimètres, au-dessus du zéro à 3 h. s. | 40.1       |
+| Agitation de l'eau à 9 h. m. | Très Forte  |
+| Agitation de l'eau force | -        |
+| Agitation de l'eau à 3 h. s. | Faible     |
+| Densité de l'eau au bout de la jetée à 9 h. m. | 1029,4    |
+| Densité de l'eau au bout de la jetée à 3 h. s. | 1024.0    |
+| Température de l'eau au bout de la jetée à 9 h. m. | 19.6      |
+| Température de l'eau au bout de la jetée à 3 h. s. | 17.6      |

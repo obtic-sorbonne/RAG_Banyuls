@@ -1,0 +1,29 @@
+# 9.9 Novembre 1901
+
+|  **Hauteur Barométrique** | **Matin** | **Soir**  |
+| --- | --- | --- |
+|  Direction du vent | 763,1 | 761,8  |
+|  Force | 2 | 1,8  |
+|  Nébulosité | 10 kg/m² | 10  |
+|  Nébulosité | 10 kg/m² | 10  |
+|  Direction des nuages | 10 kg/m² | 10  |
+|  Pluie tombée | 14,1 | 11,7  |
+|  Hauteur de la mer | 47,2 | 40,0  |
+|  Agitation de l'eau | 3 | 3  |
+|  Densité au bout de la jetée | 1026,8 | 1026,9  |
+|  Température de l'eau | 14,8 | 11,1  |
+
+# 9.10 Novembre 1901
+
+|  **Hauteur Barométrique** | **Matin** | **Soir**  |
+| --- | --- | --- |
+|  Direction du vent | 762,4 | 761,2  |
+|  Force | 2 | 2  |
+|  Nébulosité | 10 kg/m² | 10  |
+|  Nébulosité | 10 kg/m² | 10  |
+|  Direction des nuages | 10 kg/m² | 10  |
+|  Pluie tombée | 13,2 | 11,3  |
+|  Hauteur de la mer | 43,1 | 40,9  |
+|  Agitation de l'eau | 2 T. / 1/2 | 2 T. / 1/2  |
+|  Densité au bout de la jetée | 1027,2 | 1027,2  |
+|  Température de l'eau | 11,6 | 11,6  |

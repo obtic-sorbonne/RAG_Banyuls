@@ -1,0 +1,3 @@
+"""
+I. Journal du 9 Décembre 1702.
+"""

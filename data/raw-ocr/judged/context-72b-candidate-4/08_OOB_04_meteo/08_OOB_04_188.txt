@@ -1,0 +1,15 @@
+```plaintext
+# V. 3 février 1903
+
+|  Heure | Hauteur Barométrique | Direction du vent | Force | Nébulosité (Reg. O. (terre)) | Nébulosité (Reg. E. (mer)) | Direction des nuages | Pluie Tombée | Température de l'air | Hauteur de la mer | Agitation de l'eau | Densité au bout de la jetée | Température de l'eau |
+|--------|-----------------------|-------------------|-------|-----------------------------|-----------------------------|----------------------|--------------|----------------------|-------------------|---------------------|-----------------------------|----------------------|
+|  Matin | 700.2                | or.0              | 8.0   | 2                           | 2                           | Sud                  | -            | 7.2                 | 14.0             | 9                  | 1029.0                     | 9.0                 |
+|  Soir  | 700.0                | or.0              | 8.0   | 1                           | 1                           | Sud                  | -            | 8.1                 | 51.0             | 8                  | 1029.0                     | 9.2                 |
+
+# V. 4 février 1903
+
+|  Heure | Hauteur Barométrique | Direction du vent | Force | Nébulosité (Reg. O. (terre)) | Nébulosité (Reg. E. (mer)) | Direction des nuages | Pluie Tombée | Température de l'air | Hauteur de la mer | Agitation de l'eau | Densité au bout de la jetée | Température de l'eau |
+|--------|-----------------------|-------------------|-------|-----------------------------|-----------------------------|----------------------|--------------|----------------------|-------------------|---------------------|-----------------------------|----------------------|
+|  Matin | 771.0                | or.0              | 8     | 1                           | 0                           | -                    | -            | 8.1                 | 72.2             | 2                  | 1029.1                     | 10.3                |
+|  Soir  | 771.8                | or.0.8            | 8     | 0                           | 0                           | -                    | -            | 10.7                | 71.1             | 2                  | 1028.9                     | 10.6                |
+```

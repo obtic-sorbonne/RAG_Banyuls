@@ -1,0 +1,41 @@
+OBSERVATIONS DU 1900 24 Aout
+
+| Nombre de bateaux sortis (pêche à l...) |  |
+| --- | --- |
+| Température de l'air | maxima depuis la veille. | 23,2 |
+|  | minima id. | 17,2 |
+| Température de l'eau | maxima depuis la veille. |  |
+|  | minima id. |  |
+| Pluie tombée depuis la veille, en millim. |  |
+| Evaporation depuis le 190, en millim. |  |
+|  | à 9 h. m. | à 3 h. s. |
+| Direction du vent (à terre) | Nord | S.S.E |
+| Force | 2 | 1 fort. |
+| Direction des nuages | Nord | " |
+| Nébulosité | région Ouest (terre) | 0 | 0 |
+|  | id. Est (mer) | 0 | 0 |
+| Hauteur de la mer, en centimètres, au-dessus du zéro |  |
+| Agitation de l'eau | 1 | 1 faible |
+| Densité de l'eau au bout de la jetée | 1027,5 | 1025,5 |
+| Température id. | 19,18 | 21,12 |
+
+OBSERVATIONS DU 1900 25 Aout
+
+| Nombre de bateaux sortis (pêche à l...) |  |
+| --- | --- |
+| Température de l'air | maxima depuis la veille. | 23,4 |
+|  | minima id. | 16,2 |
+| Température de l'eau | maxima depuis la veille. |  |
+|  | minima id. |  |
+| Pluie tombée depuis la veille, en millim. |  |
+| Evaporation depuis le 190, en millim. |  |
+|  | à 9 h. m. | à 3 h. s. |
+| Direction du vent (à terre) | S.S.E | S.S.E |
+| Force | 1 | 1 fort |
+| Direction des nuages | " | " |
+| Nébulosité | région Ouest (terre) | 0 | 0 |
+|  | id. Est (mer) | 0 | 0 |
+| Hauteur de la mer, en centimètres, au-dessus du zéro |  |
+| Agitation de l'eau | 1 faible | 1 |
+| Densité de l'eau au bout de la jetée | 1023,7 | 1026,0 |
+| Température id. | 21,2 | 22,6 |

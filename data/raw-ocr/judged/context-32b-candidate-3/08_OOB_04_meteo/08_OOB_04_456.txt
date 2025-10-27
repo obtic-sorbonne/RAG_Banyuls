@@ -1,0 +1,31 @@
+```plaintext
+|  V. 24 Décembre 1904 | Matin | Jour  |
+| --- | --- | --- |
+|  Hauteur barométrique | 755.3 | 754.0  |
+|  Direction du vent | O. E. | O. 0.0  |
+|  Force | 1/paible | 1/paible  |
+|  Nébulosité |  | 5  |
+|  (Reg. 0. (min)) | 2 | 2  |
+|  Direction des nuages | 7.0 | 7.0  |
+|  Pluie tombée |  |   |
+|  Température de l'air | 10.0 | 12.1  |
+|  Hauteur de la mer | 42.9 | 17.4  |
+|  Agitation de l'eau | 2/paible | 2/paible  |
+|  Densité au bout de la jetée | 1029.3 | 1029.0  |
+|  Température de l'eau | 14.1 | 14.3  |
+
+|  V. 27 Décembre 1904 | Matin | Jour  |
+| --- | --- | --- |
+|  Hauteur barométrique | 759.8 | 753.0  |
+|  Direction du vent | O. 0 | O. 0  |
+|  Force | 3 | 3/fort  |
+|  Nébulosité |  | 1  |
+|  (Reg. 0. (min)) | 10 | 1  |
+|  Direction des nuages | O. 0 | O. 0  |
+|  Pluie tombée | 4.27 | 1  |
+|  Température de l'air | 12.0 | 12.5  |
+|  Hauteur de la mer | 37.9 | 47.7  |
+|  Agitation de l'eau | 2/fort | 3  |
+|  Densité au bout de la jetée | 1029.2 | 1029.2  |
+|  Température de l'eau | 13.5 | 13.4  |
+```

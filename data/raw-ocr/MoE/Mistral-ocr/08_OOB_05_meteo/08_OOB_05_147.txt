@@ -1,0 +1,26 @@
+|  V. 6 Septembre - 1906 | Nibatin | Soir  |
+| --- | --- | --- |
+|  Hauteur Prorométrique | 288,1 | 262,0  |
+|  Direction du vent | or. 8 | 1. 1. 6  |
+|  Force - - - is | 1 | 1 part  |
+|  Nebulosite (Reg. o. (en) | 3 bigues | 1  |
+|  Nefalúsite (Reg. K. (en)) | 3 bigues | 1  |
+|  Direction des mages | 1.0 | 1.0  |
+|  Prie tombe |  |   |
+|  Température de l'air | 23,2 | 23,2  |
+|  Hauteur de la mer | 42,4 | 60,0  |
+|  Agitation de l'eau | 1 faible | 1  |
+|  Densité au bout de la jetée | 1022,1 | 1022,2  |
+|  Température de l'eau | 26,6 | 27,0  |
+|  V. 7 Septembre - 1905 | Nibatin | Soir  |
+|  Hauteur Prorométrique | 268,3 | 268,1  |
+|  Direction du vent |  | 1. 1. 8  |
+|  Force - - is | 0 | 3 faibles  |
+|  Nebulosite (Reg. K. (en)) | 0 | 0  |
+|  Direction des mages |  |   |
+|  Prie tombe |  |   |
+|  Température de l'air | 26,6 | 38,0  |
+|  Hauteur de la mer | 42,0 | 12,1  |
+|  Agitation de l'eau | 1 faible | 1 faible  |
+|  Densité au bout de la jetée | 1022,5 | 1022,1  |
+|  Température de l'eau | 23,2 | 24,5  |

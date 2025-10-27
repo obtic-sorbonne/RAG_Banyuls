@@ -1,0 +1,6 @@
+| Date           | Heure | Hauteur Barométrique | Direction du vent | Force | Rég. O. (cloue) | Rég. E. (mur) | Direction des images | Pluie tombée | Température de l'air | Hauteur de la mer | Agitation de l'eau | Densité au bout de la jetée | Température de l'eau |
+|----------------|-------|---------------------|--------------------|-------|-----------------|---------------|----------------------|-------------|---------------------|------------------|--------------------|-----------------------------|---------------------|
+| V. 7 juillet. 1902 | Matin            | 767.2 | c.r. 2 | 15 | l. faible | légère      | "             | "           | 23./               | 44.0      | 1 T. faible | 1024.6             | 23./               |
+|                 | Soir             | 767.2 | s. 8  |    | légèrement | 2 légère      | "             | "           | 27.6               | 44.3      | 1 T. faible | 1024.2             | 26.8               |
+| V. 8 juillet. 1902 | Matin            | 767.7 | s. 8  | 15 | o          | 0             | "             | "           | 29.4               | 44.9      | 0                 | 1024.8             | 24./               |
+|                 | Soir             |      |      |   |             |               |               |             |                   |          |                 |                     |                   |

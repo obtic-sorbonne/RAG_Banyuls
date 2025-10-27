@@ -1,0 +1,43 @@
+# OBSERVATIONS DU 194 28 Mai
+
+Nombre de bateaux sortis (pêche à la Pannine) 12
+Température de l'air | maxima depuis la veille 19,6
+minima id. 11,4
+Température de l'eau | maxima depuis la veille
+minima id. 11,4
+
+Pluie tombée depuis la veille, en millim. 9ulper-1
+Evaporation depuis le 190, en millim. à 9 h. m. à 3 h. s.
+Direction du vent (à terre). 11.11.0
+Force 2fout 0
+Direction des nuages 11.11.0
+Nébulosité | région Ouest (terre) 10
+id. Est (mer) 10
+Hauteur de la mer, en centimètres, au-dessus du zéro. (23.9k.)
+Agitation de l'eau 1fout 1
+Densité de l'eau au bout de la jetée 602,5 602,6
+Température id. 14,1 15,0
+- id. Balanc 20,1 21,6
+
+OBSERVATIONS DU 1951 28 Mai
+
+Nombre de bateaux sortis (pêche à la Pannine) 12
+Température de l'air | maxima depuis la veille 20,1
+minima id. 14,3
+Température de l'eau | maxima depuis la veille
+minima id. 11,4
+
+Pluie tombée depuis la veille, en millim. 9ulper-1
+Evaporation depuis le 190, en millim. 9ulper-1
+Direction du vent (à terre). à 9 h. m. à 3 h. s.
+Force 11.11.0 11.11.0
+Direction des nuages 3fout 3fout
+Nébulosité | région Ouest (terre) 11.11.0 11.11.0
+id. Est (mer) 10 10 10 10 10 10 10 10
+Hauteur de la mer, en centimètres, au-dessus du zéro. (23.9k.)
+Agitation de l'eau 1fout 1fout
+Densité de l'eau au bout de la jetée 102,5 102,5
+Température id. 14,6 15,2
+id. Balanc 21,7 19,2
+température Terrance 22,1 22,1
+minima 25,6

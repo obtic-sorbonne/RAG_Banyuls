@@ -1,0 +1,16 @@
+```plaintext
+|  7. 7 Septembre - 1901 | Matin | Soir  |
+| --- | --- | --- |
+|  Hauteur Praxometrique | 708,4 | 758,4  |
+|  Direction du vent | or.0.0 | or.0.0  |
+|  Force | 3 | 2  |
+|  (Reg. O. (terre)) | 10 | 10  |
+|  (Reg. O. (mer)) |  |   |
+|  Direction des nuages | cent | crant  |
+|  Flux tombé |  |   |
+|  Température de l'air | 20.4 | 33.7  |
+|  Hauteur de la mer | 16.5 | 13.75  |
+|  Agitation de l'eau | 2 faible | 1 fort  |
+|  Densité au bout de la jetée | 1027.0 | 1027.3  |
+|  Température de l'eau | 21.5 | 21.8  |
+```

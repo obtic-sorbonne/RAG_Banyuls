@@ -1,0 +1,16 @@
+# Diale. 19 Avril 1901
+
+|   | 9. Otto | 3. Boix |
+| --- | --- | --- |
+| Hauteur Barométrique | 755,1 | 754,7 |
+| Direction du vent | Est | Sud |
+| Force | 1 faible | 3 |
+| Ébulosité / Rég. O. (terre) | 0 | 0 |
+| Rég. E. (mer) | 0 | 0 |
+| Direction des nuages | Sud | Sud |
+| Pluie tombée | 18,4 | 14,4 |
+| Température de l'air | 18,4 | 64,4 |
+| Hauteur de la mer | 49,9 | 3 faible |
+| Agitation de l'eau | 3 | 1028,7 |
+| Densité de l'eau | 1038,1 |  |
+| Température de l'eau | 13,3 | 12,9 |

@@ -1,0 +1,33 @@
+# V. 29 (Avril. 1903
+
+|  Nom | Date | Type  |
+| --- | --- | --- |
+|  Hauteur Paromatique | 2/17.2 | 2/11.1  |
+|  Direction du vent | 2.4 | 3.2.8  |
+|  Force | 1/2004 | 1  |
+|  Rég. O. (titre) | 1 | Regar  |
+|  Nébulosité |  | Regar  |
+|  Direction des nuages | 1 | Regar  |
+|  Huie tombé |  |   |
+|  Température de l'air | 18.2 | 18.9  |
+|  Hauteur de la mer | 37.0 | 49.6  |
+|  Régination de l'eau | 1/2004 | 1  |
+|  Densité au bout de la jeté | 1089.8 | 1088.2  |
+|  Température de l'eau | 13.6 | 13.9  |
+
+# V. 30 (Avril. 1903
+
+|  Nom | Date | Type  |
+| --- | --- | --- |
+|  Hauteur Paromatique | 2/14.2 | 2/11.6  |
+|  Direction du vent | cr. or. 8 | 3  |
+|  Force | 1 | 3  |
+|  Rég. O. (titre) | 10 | Regar  |
+|  Nébulosité |  | Regar  |
+|  Direction des nuages | 10 | Regar  |
+|  Huie tombé |  |   |
+|  Température de l'air | 16.6 | 47.0  |
+|  Hauteur de la mer | 36.6 | 44.4  |
+|  Régination de l'eau | 1 | 1/2004  |
+|  Densité au bout de la jeté | 1089.2 | 1089.0  |
+|  Température de l'eau | 13.3 | 13.2  |

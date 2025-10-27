@@ -1,0 +1,29 @@
+|  V. 6 Mours. 1908 | Moatin | Soir  |
+| --- | --- | --- |
+|  Hauteur Pracométrique |  | 788,5  |
+|  Direction du vent |  | or. 0  |
+|  Force |  | f/faible  |
+|  Nébulosité | (Reg. G. (lire) | 10  |
+|   | (Reg. R. (mur) | 10  |
+|  Direction des nuages |  | or. 0  |
+|  Mure tombe |  |   |
+|  Température de l'air |  | 11,7  |
+|  Hauteur de la mer |  | 64,7  |
+|  Crétation de l'eau |  | 3  |
+|  Densité au bout de la jetée |  | 1028,9  |
+|  Température de l'eau |  | 11,4  |
+
+|  V. 7 Mours. 1908 | Moatin | Soir  |
+| --- | --- | --- |
+|  Hauteur Pracométrique | 771,0 | 788,4  |
+|  Direction du vent | or. 0 | or. or. 0  |
+|  Force | 4 | 2/fort  |
+|  Nébulosité | (Reg. G. (lire) | 0  |
+|   | (Reg. R. (mur) | 0  |
+|  Direction des nuages | or. 0 |   |
+|  Mure tombe |  |   |
+|  Température de l'air | 9,8 | 12,4  |
+|  Hauteur de la mer | 69,2 | 9/17  |
+|  Crétation de l'eau | 2/fort | 2  |
+|  Densité au bout de la jetée | 1029,9 | 1029,1  |
+|  Température de l'eau | 10,7 | 11,5  |

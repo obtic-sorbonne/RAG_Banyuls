@@ -1,0 +1,22 @@
+```
+Journal Météorologique du Navire "La Belle Poule"
+Période : 24 Mars 1906
+
+| Date       | Matin | Soir  |
+|------------|-------|-------|
+| 24 Mars 1906 |      |      |
+| Hauteur Barométrique (mm) | 791.1 | - |
+| Direction du vent | cr.cr.o | - |
+| Force | 5 | 9 |
+| Nébulosité (Reg. O. Terre) | 10 | 10 |
+| Nébulosité (Reg. E. Mer) | 10 | 10 |
+| Direction des nuages | Ouest | - |
+| Pluie tombée (mm) | - | quelques gouttes |
+| Température de l'air (°C) | 3.0 | - |
+| Hauteur de la mer (m) | 5 | - |
+| Agitation de l'eau (code) | 2 | - |
+| Densité au bout de la jetée (g/cm³) | 5 | - |
+| Température de l'eau (°C) | - | - |
+
+Note Marginale : Aucune remarque particulière pour ces dates.
+```

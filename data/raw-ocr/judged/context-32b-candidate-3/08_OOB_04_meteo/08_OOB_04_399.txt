@@ -1,0 +1,33 @@
+```plaintext
+|  V. 16 Juillet - 1904 | Obatin | Soir  |
+| --- | --- | --- |
+|  Hauteur Barométrique | 769,1 | 769,1  |
+|  Direction du vent | or. 8 | 7,88  |
+|  Force | 1,61 | 2  |
+|  (Reg. G. (1me)) | 1,8 | 0  |
+|  Nébulosité |  |   |
+|  (Reg. E. (mor)) | 3 | 1  |
+|  Direction des nuages | 2,16 |   |
+|  Flux tombé |  |   |
+|  Température de l'air | 37,8 | 39,9  |
+|  Hauteur de la mer | 46,1 | 51,0  |
+|  Égitation de l'eau | 17,61 | 1,61  |
+|  Densité au bout de la jetée | 1086,4 | 108,5  |
+|  Température de l'eau | 24,4 | 39,8  |
+
+|  V. 18 Juillet - 1904 | Obatin | Soir  |
+| --- | --- | --- |
+|  Hauteur Barométrique | 766,2 | 767,3  |
+|  Direction du vent | 8,88 | 7,8  |
+|  Force | 1 | 1  |
+|  (Reg. G. (1me)) | 0 | 0  |
+|  Nébulosité |  |   |
+|  (Reg. E. (mor)) | 0 | 0  |
+|  Direction des nuages |  | or. 8  |
+|  Flux tombé |  |   |
+|  Température de l'air | 39,0 | 34,7  |
+|  Hauteur de la mer | 10,0 | 13,4  |
+|  Égitation de l'eau | 0 | 17,61  |
+|  Densité au bout de la jetée | 1086,3 | 108,1  |
+|  Température de l'eau | 37,8 | 39,4  |
+```

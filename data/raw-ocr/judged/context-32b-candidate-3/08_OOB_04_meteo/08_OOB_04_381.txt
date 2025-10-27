@@ -1,0 +1,31 @@
+```plaintext
+|  V. 3 juin - 1904 | Obatin | Soir  |
+| --- | --- | --- |
+|  Hauteur Barométrique | 760.0 | 760.0  |
+|  Direction du vent | 0.0 | 0.0  |
+|  Force | 3 | 3  |
+|  Nébulosité | Reg. O. (terre) | 10  |
+|  Nébulosité | Reg. E. (mer) | 10  |
+|  Direction des nuages | 0.0 | 0.0  |
+|  Pluie Tombée |  |  |
+|  Température de l'air | 19.3 | 19.3  |
+|  Hauteur de la mer | 13.8 | 13.8  |
+|  Agitation de l'eau | 3 | 3  |
+|  Densité au bout de la jetée | 1028.1 | 1028.1  |
+|  Température de l'eau | 18.1 | 18.1  |
+
+|  V. 4 juin - 1904 | Obatin | Soir  |
+| --- | --- | --- |
+|  Hauteur Barométrique | 754.8 | 754.8  |
+|  Direction du vent | 0.0 | 0.0  |
+|  Force | 1.5 | 1.5  |
+|  Nébulosité | Reg. O. (terre) | 10  |
+|  Nébulosité | Reg. E. (mer) | 10  |
+|  Direction des nuages | 0.0 | 0.0  |
+|  Pluie Tombée | 8.0 | 8.0  |
+|  Température de l'air | 18.5 | 18.5  |
+|  Hauteur de la mer | 11.4 | 11.4  |
+|  Agitation de l'eau | 1 | 1  |
+|  Densité au bout de la jetée | 1028.2 | 1028.2  |
+|  Température de l'eau | 18.1 | 18.1  |
+```

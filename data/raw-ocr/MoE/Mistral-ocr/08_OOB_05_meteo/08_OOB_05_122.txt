@@ -1,0 +1,34 @@
+|  V. 21 juin - 1905 | Mbaatin | Jour  |
+| --- | --- | --- |
+|  Hauteur Marométrique | 708.2 | 708.2  |
+|  Direction du vent | or.ct. | or.ct.  |
+|  1/2 | 4 fort | 3  |
+|  1/2 Reg. O. (tane) | 0 | 0  |
+|  (Rég. O. (tane) |  |   |
+|  Direction des nuages |  |   |
+|  1/2 |  |   |
+|  1/2 |  |   |
+|  1/4 |  |   |
+|  2 n. fort |  |   |
+|  1/2 2/3 |  |   |
+|  1/4 1/4 |  |   |
+|  1/8.3 |  |   |
+|  V. 22 juin - 1905 | Mbaatin | Jour  |
+|  Hauteur Marométrique | 706.2 | 706.0  |
+|  Direction du vent | or.ct. | or.ct.  |
+|  1/2 | 3 fort | 0  |
+|  1/2 Reg. O. (tane) | 10 | 0  |
+|  (Rég. O. (tane) |  |   |
+|  1/2 Reg. X. (mur) | 10 | 0  |
+|  1/2 Direction des nuages |  |   |
+|  1/2 2/3 |  |   |
+|  1/4 2/3 |  |   |
+|  2/8.4 |  |   |
+|  1/8 1/8 |  |   |
+|  1/1.3 |  |   |
+|  1/1 1/1 |  |   |
+|  1/2 1/2 |  |   |
+|  1/2 2/3 |  |   |
+|  1/2 1/4 |  |   |
+|  1/8.4 |  |   |
+|  2/1.0 |  |   |

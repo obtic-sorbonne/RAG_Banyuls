@@ -1,0 +1,27 @@
+```
+4
+Sortie du 28 juin 1901
+
+Départ de Banyuls à 4 h 10 du matin 
+pour Chasse les dauphins. Arrivée à St Laurent de la Salanque 7 h 15
+Départ de Barcarès à 9 h 20 du matin 
+pour 
+Arrivée à Port-Vendres 12 h 1/2 du jour
+Départ de Port-Vendres à 4 h 40 du soir 
+pour 
+Arrivée au mouillage à Banyuls à 5 h 25 du soir
+
+État du temps : Beaux temps le matin - vent du Sud assez fort
+
+Passagers à bord : Mr Pruvot, Mr Racovitza, M<sup>e</sup> Mosz
+
+Objet de la sortie : Chasse les dauphins
+
+Consommation
+- Briquettes de | Poids en Kilos
+- Huile | Total en litres
+
+Dépenses
+
+Observations : Pas vu de dauphin!!
+```

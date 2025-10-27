@@ -1,0 +1,17 @@
+# Date: 29 Octobre 1900
+
+|  Nom | N° Matin | % Soir  |
+| --- | --- | --- |
+|  Hantime Praxometrique | 757,3 | 755,7  |
+|  Direction du vent | N.E. | 3,6%  |
+|  Force | 1 faille | 1 faille  |
+|  Reg. O. (livre) | 0 | 16,9%  |
+|  (Ebulusité) |  |   |
+|  Reg. E. (mer) | 0 | 16,9%  |
+|  Direction des nuages | " | "  |
+|  Mise tumble | 17,1 | 17,5  |
+|  Température de l'air | 45,8 | 51,5  |
+|  Hantime de la mer | 0 | 1 faille  |
+|  Légitarium de l'eau | 0 | 1 faille  |
+|  Densité de l'eau | 1028,7 | 1028,5  |
+|  **Dempixature de l'eau** | 18,0 | 18,3  |

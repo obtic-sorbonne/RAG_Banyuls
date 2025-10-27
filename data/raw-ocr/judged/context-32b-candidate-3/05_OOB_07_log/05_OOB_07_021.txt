@@ -1,0 +1,25 @@
+Sortie du 2<sup>e</sup> juin 1909
+
+Départ de **Banyuls** à 6 heures du matin.
+pour **Port-Vendres**. Arrivée à 6 h 31.
+Départ de **Port-Vendres** à 7 heures du matin.
+pour **Gaultille**. Arrivée à 9 h 11.
+Départ de **Gaultille** à 8 h 46 heures du
+pour **Banyuls**. Arrivée au mouillage à **Banyuls** à 9 h du matin.
+
+État du temps : petite brise de N.E.
+
+Passagers à bord :
+
+Objet de la sortie : Remorquage de la **"Germaine"**
+de **Port-Vendres** à **Gaultille**.
+
+Consommation : {
+    18 briquettes de 60 Poids en kilos 18.
+    3 huile
+    Total en litres 3
+}
+
+Dépenses :
+
+Observations :

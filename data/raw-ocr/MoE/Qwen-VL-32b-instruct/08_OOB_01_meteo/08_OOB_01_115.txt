@@ -1,0 +1,17 @@
+# Date. 18 Novembre. 1900.
+
+|  9th M6atin | 3rd Soix  |
+| --- | --- |
+|  Hanteur Naxométrique | 850.5  |
+|  Direction des nuages vent | 9000°  |
+|  Force | 3 fort  |
+|  Tébulosité | 10 kgm. cm³  |
+|  Rég. E. (mw) | 10 kgm. cm³  |
+|  Direction des nuages | 1000°  |
+|  Phin tombé | 11.9  |
+|  Température de l'air | 47.3  |
+|  Hanteur de la mer | 2 fort  |
+|  Opération de l'eau | 1029.5  |
+|  Densité de l'eau | 10.1  |
+|  1 an Range |   |
+|  Température de l'eau | 10.1  |

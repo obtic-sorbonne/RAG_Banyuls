@@ -1,0 +1,51 @@
+```plaintext
+### OBSERVATIONS DU 1902 6 MARS
+
+| **Nombre de bateaux sortis (pêche à l.)** |  |  |
+| **Température de l'air** |  |  |
+| - maxima depuis la veille | 20,7 |  |
+| - minima id. | 12,7 |  |
+| **Température de l'eau** |  |  |
+| - maxima depuis la veille |  |  |
+| - minima id. |  |  |
+| **Pluie tombée depuis la veille, en millim.** | quelques gouttes |  |
+| **Évaporation depuis le 1900, en millim.** |  |  |
+| **Direction du vent (à terre)** | **à 9 h. m.** | **à 3 h. s.** |  |
+| - Force | 2 forte | 1 forte |  |
+| - Direction des nuages | 1/0 | 2/10 |  |
+| **Nébulosité** |  |  |  |
+| - région Ouest (terre) | 10 | 2 |  |
+| - id. Est (mer) | 6 | 4 |  |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.)** | 31,0 | 30,0 / 43,0 |  |
+| **Agitation de l'eau** | 1 forte | 2 forte |  |
+| **Densité de l'eau au bout de la jetée** | 1027,2 | 1027,0 / 1027,9 |  |
+| **Température de l'eau** |  |  |  |
+| - is. Balaire (Maxima) matin | 23,6 | 23,7 |  |
+| - is. Balaire (Minima) matin | 11,8 | 11,7 |  |
+| - is. Balaire (Maxima) soir | 17,4 | 11,0 |  |
+
+### OBSERVATIONS DU 1902 7 MARS
+
+| **Nombre de bateaux sortis (pêche à l.)** |  |  |
+| **Température de l'air** |  |  |
+| - maxima depuis la veille | 16,2 |  |
+| - minima id. | 9,2 |  |
+| **Température de l'eau** |  |  |
+| - maxima depuis la veille |  |  |
+| - minima id. |  |  |
+| **Pluie tombée depuis la veille, en millim.** | 4,19 |  |
+| **Évaporation depuis le 1900, en millim.** |  |  |
+| **Direction du vent (à terre)** | **à 9 h. m.** | **à 3 h. s.** |  |
+| - Force | 1 forte | 1 forte |  |
+| - Direction des nuages | 1/0 | 2/10 |  |
+| **Nébulosité** |  |  |  |
+| - région Ouest (terre) | 2 | 2 |  |
+| - id. Est (mer) | 4 | 4 |  |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.)** | 30,0 | 30,0 / 43,0 |  |
+| **Agitation de l'eau** | 1 forte | 1 forte |  |
+| **Densité de l'eau au bout de la jetée** | 1027,0 | 1027,0 / 1027,9 |  |
+| **Température de l'eau** |  |  |  |
+| - is. Balaire (Maxima) matin | 23,7 | 23,7 |  |
+| - is. Balaire (Minima) matin | 11,7 | 11,7 |  |
+| - is. Balaire (Maxima) soir | 11,0 | 11,0 |  |
+```

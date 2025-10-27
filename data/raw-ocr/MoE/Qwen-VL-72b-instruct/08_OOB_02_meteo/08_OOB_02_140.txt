@@ -1,0 +1,17 @@
+| Date      | 31 Juillet 1901 |
+|---|---|
+|  | 9<sup>e</sup> Matin | 3<sup>e</sup> Soir |
+| Hauteur Barométrique     | 762,8       | 763,3 |
+| Direction du vent        | N. N. O     | S. S. E |
+| Force                    | 2 fort      | 1 fort |
+| Nébulosité |  |  |
+| Reg. O. (terre)         | 10          | 10   |
+| Reg. E. (mer)           | 10          | 10   |
+| Direction des nuages    | Nord        | Sud  |
+| Pluie tombée             | 8,375      | quelques g. |
+| Température de l'air     | 21,1       | 22,4 |
+| Hauteur de la mer       | 43,0       | 54,1 |
+| Agitation de l'eau      | 1 fort      | 2 fort |
+| Densité de l'eau        | 1027,5     | 1027,2 |
+| au Large                |            |       |
+| Température de l'eau    | 20,2       | 20,6 |

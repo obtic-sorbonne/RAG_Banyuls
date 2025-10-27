@@ -1,0 +1,31 @@
+# 2. 20 9thai. 1902
+
+|  Hauteur | Praxometrique | 702,6 | 762,2  |
+| --- | --- | --- | --- |
+|  Direction du vent | or. or. | or. or. |   |
+|  Force |  | 4 faib. | 3  |
+|  Nébulosité | (Reg. O. (terre) | 3 | 10  |
+|   | (Reg. I. (mer) | 2 | 10  |
+|  Direction des images | or. or. | or. or. |   |
+|  Pluie tombée | quelques. | quelques. |   |
+|  Température de l'air | 11,3 | 13,1 |   |
+|  Hauteur de la mer | 67,9 | 63,1 |   |
+|  Égitation de l'eau | 2 faib. | 2 faib. |   |
+|  Densité au bout de la jetée | 1027,9 | 1027,9 |   |
+|  Température de l'eau | 14,0 | 14,3 |   |
+
+# 3. 21 9thai. 1902
+
+|  Hauteur | Praxometrique | 704,6 | 767,6  |
+| --- | --- | --- | --- |
+|  Direction du vent | or. or. | or. or. |   |
+|  Force |  | 4 st. foot | 1  |
+|  Nébulosité | Reg. O. (terre) | 0 | 0  |
+|   | Reg. I. (mer) | 2 | 0  |
+|  Direction des images | or. or. | or. or. |   |
+|  Pluie tombée | 13,4 | 12,9 |   |
+|  Température de l'air | 13,4 | 12,9 |   |
+|  Hauteur de la mer | 63,4 | 61,9 |   |
+|  Égitation de l'eau | 2 | 3 faib. |   |
+|  Densité au bout de la jetée | 1028,6 | 1028,0 |   |
+|  Température de l'eau | 14,2 | 14,3 |   |

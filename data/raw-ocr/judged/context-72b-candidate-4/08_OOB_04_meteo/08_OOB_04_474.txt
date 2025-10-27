@@ -1,0 +1,31 @@
+```plaintext
+| Sèche à la Vraie | nombre de paires de Bateaux - 1 Hgr. | Quantité de poisson pêché - 95 Kgs | Valeur du poisson - 61 f |
+|------------------|---------------------------------------|--------------------------------------|--------------------------|
+|                  |                                        |                                       |                           |
+| V. 18 Mars-1905   | Matin                                 | Soir                                  |                           |
+| Hauteur Barométrique | 769.7                           | 760.2                                |                           |
+| Direction du vent | cr.cr.o                          | cr.cr.o                              |                           |
+| Force            | 1                                 | 0                                    |                           |
+| Nébulosité       | Reg. 6. (terre)                  | 10 légèrement c                      | 10                        |
+|                   | Reg. 2. (mer)                    | 10 légèrement c                      | 10                        |
+| Direction des nuages | cr.cr.o                        | s.o                                  |                           |
+| Pluie tombée     | "                                 | "                                     |                           |
+| Température de l'air | 11.9                           | 16.8                                 |                           |
+| Hauteur de la mer | 31.0                             | 34.4                                 |                           |
+| Agitation de l'eau | 1                                | 1                                    |                           |
+| Densité au bout de la jetée | 1029.8                      | 1029.8                               |                           |
+| Température de l'eau | 12.2                           | 13.1                                 |                           |
+| V. 20 Mars-1905   | Matin                             | Soir                                  |                           |
+| Hauteur Barométrique | 761.4                           | 758.7                                |                           |
+| Direction du vent | s.s.e                            | chors                                |                           |
+| Force            | 1                                 | 1 T.Faible                           |                           |
+| Nébulosité       | Reg. 6. (terre)                  | 10                                   | 10                        |
+|                   | Reg. 2. (mer)                    | 10                                   | 10                        |
+| Direction des nuages | s.o                            | s.o                                  |                           |
+| Pluie tombée     | "                                 | "                                     |                           |
+| Température de l'air | 14.7                           | 16.1                                 |                           |
+| Hauteur de la mer | 49.4                             | 58.0                                 |                           |
+| Agitation de l'eau | 1 fort                          | 2 faible                             |                           |
+| Densité au bout de la jetée | 1029.8                      | 1029.6                               |                           |
+| Température de l'eau | 12.7                           | 12.8                                 |                           |
+```

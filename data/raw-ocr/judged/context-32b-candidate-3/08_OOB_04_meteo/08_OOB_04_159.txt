@@ -1,0 +1,31 @@
+```plaintext
+|  4. 29 Novembre 1902 | Matin | Soir  |
+| --- | --- | --- |
+|  Hauteur Barométrique | 749,7 | 747,5  |
+|  Direction du vent | 4,5 | 4,5  |
+|  Force | 4 | 2  |
+|  Nébulosité (Reg. O. (terre)) | 10 | 10  |
+|  Nébulosité (Reg. E. (mer)) | 10 | 10  |
+|  Direction des nuages | 7,8 | 4,5  |
+|  Pluie tombée |  | 2,7  |
+|  Température de l'air | 17,4 | 14,4  |
+|  Hauteur de la mer | 22,1 | 24,7  |
+|  Agitation de l'eau | 1 | 1  |
+|  Densité au bout de la jetée | 1028,6 | 1028,4  |
+|  Température de l'eau | 17,1 | 17,2  |
+
+|  4. 30 Novembre 1902 | Matin | Soir  |
+| --- | --- | --- |
+|  Hauteur Barométrique | 747,6 |  |
+|  Direction du vent | 7,8 |  |
+|  Force | 2,7 |  |
+|  Nébulosité (Reg. O. (terre)) | 10 |  |
+|  Nébulosité (Reg. E. (mer)) | 10 |  |
+|  Direction des nuages | 7,8 |  |
+|  Pluie tombée | 1,62 |  |
+|  Température de l'air | 17,6 |  |
+|  Hauteur de la mer | 0 |  |
+|  Agitation de l'eau | 10 |  |
+|  Densité au bout de la jetée |  |  |
+|  Température de l'eau |  |  |
+```

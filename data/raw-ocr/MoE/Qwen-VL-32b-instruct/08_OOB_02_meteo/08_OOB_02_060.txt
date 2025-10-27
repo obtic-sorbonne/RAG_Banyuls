@@ -1,0 +1,15 @@
+# Date. 9 mai 1901
+
+|  Nanterre Barometrique | 9e Matin | 3e Bois  |
+| --- | --- | --- |
+|  Direction du vent | 703,0 | 703,3  |
+|  Force | 100% | 100%  |
+|  1 fort | 1 fort | 1 fort  |
+|  Tributosité / Reg. E. (mer) | 10% | 10%  |
+|  Direction des nuages | 10% | 10%  |
+|  Mure tombe | 1,77 | 1,77  |
+|  Température de l'air | 13,3 | 10,9  |
+|  Nanterre de la mer | 10,9 | 0,1  |
+|  Régulation de l'eau | 1 faible | 0 faible  |
+|  Sensible de l'eau / au bours de la jetée | 1028,2 | 1028,2  |
+|  Température de l'eau | 13,1 | 15,1  |

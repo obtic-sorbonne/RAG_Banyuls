@@ -1,0 +1,18 @@
+| **Date**       | 17 Janvier 1902                                                                                       |
+|---             |------------------------------------------------------------------------------------------------------|
+| **Variable**   | **9 H Matin**                          | **3 H Soir**                            |
+|----------------|----------------------------------------|----------------------------------------|
+| Hauteur Barométrique | 770.2                               | 768.7                                |
+| Direction du vent   | Ouest (O.)                           | E.N.E.                               |
+| Force            | faible (1)                            | 0                                   |
+| Nébulosité (Reg. O. (Terre)) | 0                               | 0                                   |
+| Remark: (Reg. E. (mer)) | 3 légère                            | 2 légère                             |
+| Direction des nuages | N.N.E.                              | Nord                                |
+| Pluie tombée |                                           |                                      |
+| Température de l'air   | 10.8                                 | 11.6                                 |
+| Hauteur de la mer |                                           |                                      |
+| Agitation de l'eau (aubout de la jetée) | 4 faible                              | 3 faible                             |
+| Th: {|1039.1                    | 1029.0                             |
+| Densité de l'eau { |                                           |                                      |
+| | au Large |             |                                    |
+| Température de l’eau | 11.7                                | 11.8                                 |

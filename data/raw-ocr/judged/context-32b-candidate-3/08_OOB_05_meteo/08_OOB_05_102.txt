@@ -1,0 +1,31 @@
+```
+| **Date** | **Heure** | **Matin** | **Soir** |
+|----------|-----------|-----------|----------|
+| V. 13 Avril 1906 | Hauteur Barométrique | 766.4 | 766.3 |
+| Direction du vent | er. 0 | cr. 0 |
+| Force | 5 | 2 fort. |
+| Nébulosité (Res. o. (claire)) | 10 | 10 |
+| Nébulosité (Res. x. (mer)) | 10 | 10 |
+| Direction des nuages | cr. cr. 8 | cr. cr. 8 |
+| Pluie tombée | 16.1 | 2.1 |
+| Température de l'air | 10.0 | 12.0 |
+| Hauteur de la mer | 5 | 5 |
+| Agitation de l'eau | 1 | 1 fort. |
+| Densité au bout de la jetée | 3 | 3 |
+| Température de l'eau | - | - |
+
+| **Date** | **Heure** | **Matin** | **Soir** |
+|----------|-----------|-----------|----------|
+| V. 14 Avril 1906 | Hauteur Barométrique | 768.2 | - |
+| Direction du vent | er. 0 | - |
+| Force | 5 | 2 fort. |
+| Nébulosité (Res. o. (terre)) | 10 légère | - |
+| Nébulosité (Res. x. (mer)) | 10 légère | - |
+| Direction des nuages | er. cr. 0 | - |
+| Pluie tombée | - | - |
+| Température de l'air | 11.8 | - |
+| Hauteur de la mer | 61.3 | - |
+| Agitation de l'eau | 1 | - |
+| Densité au bout de la jetée | 3 | - |
+| Température de l'eau | - | - |
+```

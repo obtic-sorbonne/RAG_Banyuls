@@ -1,0 +1,35 @@
+```markdown
+# 11 Avril 1907
+
+| **Date** | **Heure** | **Matin** | **Soir** |
+|----------|-----------|-----------|----------|
+| **Hauteur Barométrique** | | 769.2 mmHg | 766.4 mmHg |
+| **Direction du Vent** | | Nord | Sud-Est |
+| **Force** | | 1 fort | 2 |
+| **Nébulosité (Res. 0. (terre))** | | 10 (Clair) | 10 (Clair) |
+| **Nébulosité (Res. 2. (mer))** | | 10 (Clair) | 10 (Clair) |
+| **Direction des nuages** | | S.O. | S.O. |
+| **Pluie Tombée** | | - | - |
+| **Température de l'air** | | 12.8 °C | 17.2 °C |
+| **Hauteur de la mer** | | 78.2 cm | 78.6 cm |
+| **Agitation de l'eau** | | 1 | 1 |
+| **Densité au bord de la jetée** | | 1028.8 g/cm³ | 1028.7 g/cm³ |
+| **Température de l'eau** | | 18.0 °C | 14.0 °C |
+
+# 12 Avril 1907
+
+| **Date** | **Heure** | **Matin** | **Soir** |
+|----------|-----------|-----------|----------|
+| **Hauteur Barométrique** | | 752.6 mmHg | 752.3 mmHg |
+| **Direction du Vent** | | Sud-Est | Sud-Est |
+| **Force** | | 2 fort | 2 fort |
+| **Nébulosité (Res. 0. (terre))** | | 10 (Clair) | 10 (Clair) |
+| **Nébulosité (Res. 2. (mer))** | | 10 (Clair) | 10 (Clair) |
+| **Direction des nuages** | | Sud | S.O. |
+| **Pluie Tombée** | | 2.375 mm | 34.375 mm |
+| **Température de l'air** | | 13.1 °C | 18.6 °C |
+| **Hauteur de la mer** | | 93.2 cm | 93.2 cm |
+| **Agitation de l'eau** | | 1 fort | 2 |
+| **Densité au bord de la jetée** | | 1028.6 g/cm³ | 1028.6 g/cm³ |
+| **Température de l'eau** | | 12.4 °C | 12.4 °C |
+```

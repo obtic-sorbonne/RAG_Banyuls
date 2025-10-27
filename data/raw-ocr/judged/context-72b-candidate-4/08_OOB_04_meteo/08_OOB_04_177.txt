@@ -1,0 +1,32 @@
+```plaintext
+| **Date**       | **Matin**                        | **Soir**                       |
+|----------------|----------------------------------|--------------------------------|
+| **V. 12 janvier 1903** |                             |                                |
+| Hauteur Barométrique | 796.6                        | 797.4                         |
+| Direction du vent   | er.or.o                      | er.or.o                       |
+| Force               | 2 Pod                        | 3 Pod                         |
+| Reg. 6. (Clair)    | 10                            | 10                            |
+| Nébulosité         |                              |                               |
+| Reg. 2. (nu)       | 10                            | 10                            |
+| Direction des nuages | 1/5                         | 1/5                           |
+| Pluie tombée       | -                             | "                             |
+| Température de l'air | 8.7                         | 8.9                           |
+| Hauteur de la mer  | 28.2                         | 41.2                          |
+| Agitation de l'eau | 2 Pod                        | 2 Pod                         |
+| Vitesse au bout de la jetée | 1028.7               | 1028.2                        |
+| Température de l'eau | 11.6                        | 11.7                          |
+| **V. 13 janvier 1903** |                            |                                |
+| Hauteur Barométrique | 799.3                        | -                             |
+| Direction du vent   | er.or.o                      | -                             |
+| Force               | p                            | -                             |
+| Reg. 6. (Clair)    | 0                             | -                             |
+| Nébulosité         |                              |                               |
+| Reg. 2. (nu)       | 1                             | -                             |
+| Direction des nuages | er.or.o                     | -                             |
+| Pluie tombée       | "                             | -                             |
+| Température de l'air | 1.9                         | -                             |
+| Hauteur de la mer  | 32.4                         | -                             |
+| Agitation de l'eau | 4                            | -                             |
+| Vitesse au bout de la jetée | 1029.0                | -                             |
+| Température de l'eau | 10.7                        | -                             |
+```

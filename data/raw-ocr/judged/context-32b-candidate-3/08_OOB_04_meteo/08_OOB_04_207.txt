@@ -1,0 +1,33 @@
+# V. 26 Mars 1903
+
+|  Nom | Date  |
+| --- | --- |
+|  Hauteur Barométrique | 74.3  |
+|  Direction du vent | 4.8  |
+|  Force | 2 fort  |
+|  Nébulosité (Reg. O. (terre)) | 10  |
+|  Nébulosité (Reg. E. (mer)) | 10  |
+|  Direction des nuages | 4.4.0  |
+|  Pluie tombée | 11  |
+|  Température de l'air | 17.6  |
+|  Hauteur de la mer | 44.1  |
+|  Agitation de l'eau | 3 fort  |
+|  Densité au bout de la jetée | 1029.8  |
+|  Température de l'eau | 18.8  |
+
+# V. 27 Mars 1903
+
+|  Nom | Date  |
+| --- | --- |
+|  Hauteur Barométrique | 74.0  |
+|  Direction du vent | 4.0  |
+|  Force | 3 fort  |
+|  Nébulosité (Reg. O. (terre)) | 10  |
+|  Nébulosité (Reg. E. (mer)) | 10  |
+|  Direction des nuages | 4.0  |
+|  Pluie tombée | quelques  |
+|  Température de l'air | 10.1  |
+|  Hauteur de la mer | 89.0  |
+|  Agitation de l'eau | 3 fort  |
+|  Densité au bout de la jetée | 1029.4  |
+|  Température de l'eau | 18.7  |

@@ -1,0 +1,16 @@
+# Date - 9 Février - 1901
+
+|  Nom | Date | Type  |
+| --- | --- | --- |
+|  Hanteur Barometrique | 9-Matin-3e Soir |   |
+|  Direction du vent | 769.3 | 768.7  |
+|  Force | Nord | Nord  |
+|   | 3 | 2 faible  |
+|  Tébuloisite (Reg. U. (terre) | " | "  |
+|  Direction des mirages | " | "  |
+|  Mise tombée | " | "  |
+|  Température de l'air | 3.4 | 7.4  |
+|  Hanteur de la mer | 48.9 | 7.1  |
+|  Égitation de l'eau | 3 faible | 3  |
+|  Densité de l'eau (au bout de la jeté) |  |   |
+|  Température de l'eau | 10.3 | 10.6  |

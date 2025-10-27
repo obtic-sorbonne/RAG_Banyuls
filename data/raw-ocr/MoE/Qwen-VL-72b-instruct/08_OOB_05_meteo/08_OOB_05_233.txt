@@ -1,0 +1,27 @@
+| Nombre de paix de bateaux | V. 18 Avril 1907 | Matin | Soir |
+|---------------------------|------------------|-------|------|
+| Hauteur Barométrique       |                  | 794.0 | 794.6|
+| Direction du Vent         |                  | cr.o  | cr.o |
+| Force                     |                  | 1     | 6    |
+| Nébulosité (Res. c. Air)  |                  | 10    | 10   |
+| Nébulosité (Res. c. mer)  |                  | 10    | 10   |
+| Direction des nuages      |                  | croix | croix|
+| Pluie tombée              |                  | "     | "    |
+| Température de l'air      |                  | 12.3  | 19.4 |
+| Hauteur de la mer         |                  | 47.3  | 56.6 |
+| Agitation de l'eau        |                  | 3     | 3 fort|
+| Densité au bout de la jetée|                 | 1028.8| 1029.2|
+| Température de l'eau      |                  | 12.4  | 12.7 |
+|                           | V. 19 Avril 1907 | Matin | Soir |
+| Hauteur Barométrique       |                  | 798.6 | 797.8|
+| Direction du Vent         |                  | cr.o  | cr.o |
+| Force                     |                  | 4 fort| 4 fort|
+| Nébulosité (Res. c. Terre) |                 | 10    | 10   |
+| Nébulosité (Res. c. mer)  |                  | 10    | 10   |
+| Direction des nuages      |                  | croix | croix|
+| Pluie tombée              |                  | "     | "    |
+| Température de l'air      |                  | 11.3  | 17.0 |
+| Hauteur de la mer         |                  | 54.5  | 63.0 |
+| Agitation de l'eau        |                  | 3 fort| 3    |
+| Densité au bout de la jetée|                 | 1029.3| 1029.3|
+| Température de l'eau      |                  | 12.4  | 12.7 |

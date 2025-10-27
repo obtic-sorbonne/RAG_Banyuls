@@ -1,0 +1,27 @@
+|  1. 13 Octobre 19.3 | Mbaire | Soir  |
+| --- | --- | --- |
+|  Hauteur Marométrique | 763,2 | 764,2  |
+|  Direction du vent | cr.cr.o | cr.cr.o  |
+|  Force | 3 fort | 1 r.faible  |
+|  (Reg. O. (laine)) | 10 | 10  |
+|  (Reg. O. (mur)) | 10 | 10  |
+|  Direction des nuages | cr.o | 20  |
+|  Flux lombri | 19,7 | 31,7  |
+|  Température de l'air | 44,6 | 42,3  |
+|  Hauteur de la mer | 1 fort | 3 fuible  |
+|  (Agitation de l'eau) | 1029,3 | 1027,3  |
+|  Densité au bout de la jetée | 18,3 | 18,6  |
+|  (Dempperative de l'eau) |  |   |
+|  1. 14 Octobre 19.3 | Mbaire | Soir  |
+|  Hauteur Marométrique | 766,3 | 764,4  |
+|  Direction du vent | 7,73 | 7,73  |
+|  Force | 1 fort | 3  |
+|  (Reg. O. (laine)) | (Reg. 1) | 10 kg.m.e.  |
+|  (Reg. O. (mur)) | 0 | 10 kg.m.e.  |
+|  (Direction des nuages) | 101 | 7,73  |
+|  Flux lombri | 18,6 | 30,1  |
+|  (Bempperative de l'air) | 10,7 | 39,4  |
+|  Hauteur de la mer | 1 fuible | 1  |
+|  (Agitation de l'eau) | 1029,1 | 1029,0  |
+|  Densité au bout de la jetée | 18,7 | 18,8  |
+|  (Dempperative de l'eau) |  |   |

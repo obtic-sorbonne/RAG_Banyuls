@@ -1,0 +1,1085 @@
+{
+  "book_name": "08_OOB_05_meteo",
+  "pages": [
+    {
+      "page_number": "001",
+      "raw_content": "",
+      "cleaned_content": "",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "002",
+      "raw_content": "",
+      "cleaned_content": "",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "003",
+      "raw_content": "",
+      "cleaned_content": "",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "004",
+      "raw_content": "V 16 Juin 1905 Matin Soir Hauteur Barom\u00e9trique 761 1 757 2 Direction du vent S E S S E Force is 1 fort 2 fort N\u00e9bulosit\u00e9 Reg G terre 10 10 Reg E mer 10 10 Direction des nuages S O S O Pluie tomb\u00e9e Temp\u00e9rature de l air 21 6 20 3 Hauteur de la mer 43 6 42 1 Agitation de l eau 2 faible 2 Densit\u00e9 au bout de la jet\u00e9e 1028 2 1027 8 Temp\u00e9rature de l eau 19 5 19 5 P\u00eache \u00e0 l anchois du 16 juin 1905 Nombre Batteur Quantit\u00e9 de fouron V 17 Juin 1905 Matin Soir Hauteur Barom\u00e9trique 759 3 758 2 Direction du vent S S E S S E Force is 1 faible 1 N\u00e9bulosit\u00e9 Reg G terre l\u00e9g\u00e8rement 2 Reg E mer l\u00e9g\u00e8rement 1 Direction des nuages W O S O Pluie tomb\u00e9e Temp\u00e9rature de l air 22 1 26 4 Hauteur de la mer 36 3 42 0 Agitation de l eau 1 1 Densit\u00e9 au bout de la jet\u00e9e 1028 0 1027 9 Temp\u00e9rature de l eau 19 5 19 8 P\u00eache \u00e0 l anchois du 17 juin 1905 M\u00e9ant",
+      "cleaned_content": "V 16 Juin 1905 Matin Soir Hauteur Barom\u00e9trique 761 1 757 2 Directionduvent S E S S E Forceis 1 fort 2 fort N\u00e9bulosit\u00e9 Reg G terre 10 10 Reg E mer 10 10 Directiondesnuages S O S O Pluietomb\u00e9e Temp\u00e9raturedel air 21 6 20 3 Hauteurdelamer 43 6 42 1 Agitationdel eau 2 faible 2 Densit\u00e9 auboutdelajet\u00e9e 1028 2 1027 8 Temp\u00e9raturedel eau 19 5 19 5 P\u00eache \u00e0 lanchoisdu 16 juin 1905 Nombre Batteur Quantit\u00e9 defouron V 17 Juin 1905 Matin Soir Hauteur Barom\u00e9trique 759 3 758 2 Directionduvent S S E S S E Forceis 1 faible 1 N\u00e9bulosit\u00e9 Reg G terrel\u00e9g\u00e8rement 2 Reg E merl\u00e9g\u00e8rement 1 Directiondesnuages W O S O Pluietomb\u00e9e Temp\u00e9raturedel air 22 1 26 4 Hauteurdelamer 36 3 42 0 Agitationdel eau 1 1 Densit\u00e9 auboutdelajet\u00e9e 1028 0 1027 9 Temp\u00e9raturedel eau 19 5 19 8 P\u00eache \u00e0 lanchoisdu 17 juin 1905 M\u00e9ant",
+      "entities": {
+        "dates": [
+          "16 Juin 1905",
+          "16 juin 1905",
+          "17 Juin 1905",
+          "17 juin 1905"
+        ]
+      }
+    },
+    {
+      "page_number": "005",
+      "raw_content": "V 19 juin 1905 Matin Soir Hauteur Barometrique 763 2 764 7 Direction du vent cr cr o s o Force is 1 fort Nebulosite Reg o terre lo lo Reg E mer lo lo Direction des nuages cvorel n cr o Pluie Tomb\u00e9e quelques g quelques g Temp\u00e9rature de l air 23 0 26 1 Hauteur de la mer 89 8 92 0 Agitation de l eau 1 faible Densit\u00e9 au bout de la jet\u00e9e 1027 2 1027 0 temp\u00e9rature de l eau 19 7 20 9 V 20 juin 1905 Matin Soir Hauteur Barometrique 768 1 Direction du vent cr cr o Force is 2 fort Nebulosite Reg o terre l\u00e9g\u00e8rement c Reg E mer l\u00e9g\u00e8rement c Direction Ses nuages cr cr o Pluie Tomb\u00e9e Temp\u00e9rature de l air 23 1 Hauteur de la mer 45 7 Agitation de l eau 1 Densit\u00e9 au bout de la jet\u00e9e 1027 4 Temp\u00e9rature de l eau 19 8",
+      "cleaned_content": "V 19 juin 1905 Matin Soir Hauteur Barometrique 763 2 764 7 Directionduventcrcro so Forceis 1 fort Nebulosite Rego terrelolo Reg E merlolo Directiondesnuagescvoreln cro Pluie Tomb\u00e9equelquesg quelquesg Temp\u00e9raturedel air 23 0 26 1 Hauteurdelamer 89 8 92 0 Agitationdel eau 1 faible Densit\u00e9 auboutdelajet\u00e9e 1027 2 1027 0 temp\u00e9raturedel eau 19 7 20 9 V 20 juin 1905 Matin Soir Hauteur Barometrique 768 1 Directionduventcrcro Forceis 2 fort Nebulosite Rego terrel\u00e9g\u00e8rementc Reg E merl\u00e9g\u00e8rementc Direction Sesnuagescrcro Pluie Tomb\u00e9e Temp\u00e9raturedel air 23 1 Hauteurdelamer 45 7 Agitationdel eau 1 Densit\u00e9 auboutdelajet\u00e9e 1027 4 Temp\u00e9raturedel eau 19 8",
+      "entities": {
+        "dates": [
+          "19 juin 1905",
+          "20 juin 1905"
+        ]
+      }
+    },
+    {
+      "page_number": "006",
+      "raw_content": "V 27 Juin 1905 Matin Soir Hauteur Barometrique 767 6 766 2 Direction du vent S E S E Force iS 2 Nebulosite Reg o cl\u00e8re 8 w Reg xi mer 2 wo Direction des nuages S O S O Pluie Tomb\u00e9e Temperature de l air 23 6 27 9 Hauteur de la mer 49 6 48 Agitation de l eau fort faible Remite au bout de la jet\u00e9e 1027 6 1026 4 Temperature de l eau 22 0 22 2 V 29 Juin 1905 Matin Soir Hauteur Barometrique 761 2 761 2 Direction du vent S E S E Force iS 2 Nebulosite Reg o cl\u00e8re 8 wo Reg xi mer 2 wo Direction des nuages Ouert Ouert Pluie Tomb\u00e9e quelques s quelques s Temperature de l air 27 8 27 8 Hauteur de la mer 3 2 3 2 Agitation de l eau 1 1 Remite au bout de la jet\u00e9e 1026 2 1026 2 Temperature de l eau 22 6 22 6",
+      "cleaned_content": "V 27 Juin 1905 Matin Soir Hauteur Barometrique 767 6 766 2 Directionduvent S E S E ForceiS 2 Nebulosite Rego cl\u00e8re 8 w Regximer 2 wo Directiondesnuages S O S O Pluie Tomb\u00e9e Temperaturedel air 23 6 27 9 Hauteurdelamer 49 6 48 Agitationdel eaufortfaible Remiteauboutdelajet\u00e9e 1027 6 1026 4 Temperaturedel eau 22 0 22 2 V 29 Juin 1905 Matin Soir Hauteur Barometrique 761 2 761 2 Directionduvent S E S E ForceiS 2 Nebulosite Rego cl\u00e8re 8 wo Regximer 2 wo Directiondesnuages Ouert Ouert Pluie Tomb\u00e9equelquess quelquess Temperaturedel air 27 8 27 8 Hauteurdelamer 3 2 3 2 Agitationdel eau 1 1 Remiteauboutdelajet\u00e9e 1026 2 1026 2 Temperaturedel eau 22 6 22 6",
+      "entities": {
+        "dates": [
+          "27 Juin 1905",
+          "29 Juin 1905"
+        ]
+      }
+    },
+    {
+      "page_number": "007",
+      "raw_content": "V 30 Juin 1905 Matin Soir Hauteur Barometrique 7 8 o Direction du vent S E S Force is 8 Nebulosite Reg O claire 0 I Reg E mer Cleger est e Direction des nuages Ouest Pluie tomb\u00e9e Temperature de l air 26 Hauteur de la mer 42 Agitation de l eau 2 Densit\u00e9 au bout de la jet\u00e9e 1026 o Temperature de l eau 23 o V 1er juillet 1905 Vrbatin Soir Hauteur Barometrique 7 7 6 Direction du vent or s Force is faibl Nebulosite Reg O claire lo I Reg E mer 10 Direction des nuages Pluie tomb\u00e9e Temperature de l air 24 2 Hauteur de la mer Agitation de l eau 3 Densit\u00e9 au bout de la jet\u00e9e 1027 2 Temperature de l eau 20",
+      "cleaned_content": "V 30 Juin 1905 Matin Soir Hauteur Barometrique 7 8 o Directionduvent S E S Forceis 8 Nebulosite Reg O claire 0 I Reg E mer Clegereste Directiondesnuages Ouest Pluietomb\u00e9e Temperaturedel air 26 Hauteurdelamer 42 Agitationdel eau 2 Densit\u00e9 auboutdelajet\u00e9e 1026 o Temperaturedel eau 23 o V 1erjuillet 1905 Vrbatin Soir Hauteur Barometrique 7 7 6 Directionduventors Forceisfaibl Nebulosite Reg O clairelo I Reg E mer 10 Directiondesnuages Pluietomb\u00e9e Temperaturedel air 24 2 Hauteurdelamer Agitationdel eau 3 Densit\u00e9 auboutdelajet\u00e9e 1027 2 Temperaturedel eau 20",
+      "entities": {
+        "dates": [
+          "30 Juin 1905"
+        ]
+      }
+    },
+    {
+      "page_number": "008",
+      "raw_content": "V 2 Juillet 1905 Matin Soir Hauteur Barometrique 762 4 Direction du vent S o Force iS 2 W Nebulosite Reg O terre Reg Z mer N Direction Ses nuages S o Pluie tomb\u00e9e quelques gouttes Temp\u00e9rature de l air 28 4 Hauteur de la mer 39 1 Agitation de l eau 2 fort Vensit\u00e9 au bout de la jet\u00e9e 1026 7 Temperature de l eau 21 6 V 6 Juillet 1905 Matin Soir Hauteur Barometrique 769 0 Direction du vent vr cr o Force is 4 fort vo Nebulosite Reg O terre Reg Z mer 10 Direction Ses nuages cr cr o Pluie tomb\u00e9e Temp\u00e9rature de l air 26 6 Hauteur de la mer 34 4 Agitation de l eau 3 Vensit\u00e9 au bout de la jet\u00e9e 1025 7 Temperature de l eau 23 0",
+      "cleaned_content": "V 2 Juillet 1905 Matin Soir Hauteur Barometrique 762 4 Directionduvent S o ForceiS 2 W Nebulosite Reg O terre Reg Z mer N Direction Sesnuages S o Pluietomb\u00e9equelquesgouttes Temp\u00e9raturedel air 28 4 Hauteurdelamer 39 1 Agitationdel eau 2 fort Vensit\u00e9 auboutdelajet\u00e9e 1026 7 Temperaturedel eau 21 6 V 6 Juillet 1905 Matin Soir Hauteur Barometrique 769 0 Directionduventvrcro Forceis 4 fortvo Nebulosite Reg O terre Reg Z mer 10 Direction Sesnuagescrcro Pluietomb\u00e9e Temp\u00e9raturedel air 26 6 Hauteurdelamer 34 4 Agitationdel eau 3 Vensit\u00e9 auboutdelajet\u00e9e 1025 7 Temperaturedel eau 23 0",
+      "entities": {
+        "dates": [
+          "2 Juillet 1905",
+          "6 Juillet 1905"
+        ]
+      }
+    },
+    {
+      "page_number": "009",
+      "raw_content": "Date Matin Soir 7 Juillet 1905 Hauteur Barometrique br Direction du vent br Force br N\u00e9bulosit\u00e9 br Reg C toue br Direction des images br Pluie tomb\u00e9e br Temp\u00e9rature de l air br Hauteur de la mer br Agitation de l eau br Densit\u00e9 au bout de la jet\u00e9e br Temp\u00e9rature de l eau 764 3 br O E O br 3 br 0 br br 24 6 br 42 6 br 2 br 1026 3 br 22 6 768 6 br S S br 1 br 10 br occult br br 29 6 br 13 9 br fort br 1029 7 br 23 6 10 Juillet 1905 Hauteur Barometrique br Direction du vent br Force br N\u00e9bulosit\u00e9 br Reg C toue br Direction des images br Pluie tomb\u00e9e br Temp\u00e9rature de l air br Hauteur de la mer br Agitation de l eau br Densit\u00e9 au bout de la jet\u00e9e br Temp\u00e9rature de l eau 768 6 br E N E br 1 fort br 1 l\u00e9g\u00e8rement br 2 l\u00e9g\u00e8rement br 1 0 br br 30 6 br 10 7 br 2 fort br 1021 9 br 23 5",
+      "cleaned_content": "Date Matin Soir 7 Juillet 1905 Hauteur Barometriquebr Directionduventbr Forcebr N\u00e9bulosit\u00e9 br Reg C touebr Directiondesimagesbr Pluietomb\u00e9ebr Temp\u00e9raturedel airbr Hauteurdelamerbr Agitationdel eaubr Densit\u00e9 auboutdelajet\u00e9ebr Temp\u00e9raturedel eau 764 3 br O E O br 3 br 0 brbr 24 6 br 42 6 br 2 br 1026 3 br 22 6 768 6 br S S br 1 br 10 broccultbrbr 29 6 br 13 9 brfortbr 1029 7 br 23 6 10 Juillet 1905 Hauteur Barometriquebr Directionduventbr Forcebr N\u00e9bulosit\u00e9 br Reg C touebr Directiondesimagesbr Pluietomb\u00e9ebr Temp\u00e9raturedel airbr Hauteurdelamerbr Agitationdel eaubr Densit\u00e9 auboutdelajet\u00e9ebr Temp\u00e9raturedel eau 768 6 br E N E br 1 fortbr 1 l\u00e9g\u00e8rementbr 2 l\u00e9g\u00e8rementbr 1 0 brbr 30 6 br 10 7 br 2 fortbr 1021 9 br 23 5",
+      "entities": {
+        "dates": [
+          "7 Juillet 1905",
+          "2 br 1026",
+          "10 Juillet 1905"
+        ]
+      }
+    },
+    {
+      "page_number": "010",
+      "raw_content": "V 11 juillet 1905 Matin Soir Hauteur Barom\u00e9trique 764 8 766 3 Direction du vent S E E S Force is 1 fort H\u00e9bulosite As s o terre O Aus Li mer O Direction des nuages Pluie Tomb\u00e9e temp\u00e9rature de l air 23 23 Hauteur de la mer 49 0 49 0 Agitation de l eau 1 faible 1 faible Visite au bout de la jet\u00e9e 1027 0 1027 0 Temp\u00e9rature de l eau 26 26 V 26 juillet 1905 Matin Soir Hauteur Barom\u00e9trique 764 6 763 0 Direction du vent N v r o N v r o Force is 4 H\u00e9bulosite As s o terre 10 Aus Li mer 10 Direction des nuages N v r o N v r o Pluie Tomb\u00e9e quelque g Temp\u00e9rature de l air 26 3 28 9 Hauteur de la mer 42 2 49 0 Agitation de l eau 2 fort 3 fort Visite au bout de la jet\u00e9e 1027 0 1026 8 Temp\u00e9rature de l eau 24 3 24 9",
+      "cleaned_content": "V 11 juillet 1905 Matin Soir Hauteur Barom\u00e9trique 764 8 766 3 Directionduvent S E E S Forceis 1 fort H\u00e9bulosite Ass oterre O Aus Limer O Directiondesnuages Pluie Tomb\u00e9etemp\u00e9raturedel air 23 23 Hauteurdelamer 49 0 49 0 Agitationdel eau 1 faible 1 faible Visiteauboutdelajet\u00e9e 1027 0 1027 0 Temp\u00e9raturedel eau 26 26 V 26 juillet 1905 Matin Soir Hauteur Barom\u00e9trique 764 6 763 0 Directionduvent N vr o N vr o Forceis 4 H\u00e9bulosite Ass oterre 10 Aus Limer 10 Directiondesnuages N vr o N vr o Pluie Tomb\u00e9equelqueg Temp\u00e9raturedel air 26 3 28 9 Hauteurdelamer 42 2 49 0 Agitationdel eau 2 fort 3 fort Visiteauboutdelajet\u00e9e 1027 0 1026 8 Temp\u00e9raturedel eau 24 3 24 9",
+      "entities": {
+        "dates": [
+          "11 juillet 1905",
+          "26 juillet 1905"
+        ]
+      }
+    },
+    {
+      "page_number": "011",
+      "raw_content": "V 25 Juillet 1905 Matin Soir Hauteur Barometrique 763 8 764 6 Direction du vent cr cr o Nord Force is 4 3 Reg c Taux o o N\u00e9bulosit\u00e9 L Reg xi mer o o Direction des nuages cr cr o cr cr o Pluie Tomb\u00e9e Temp\u00e9rature de l air 25 5 30 2 Hauteur de la mer 14 2 47 1 Agitation de l eau 3 fort 3 Densit\u00e9 au bout de la jet\u00e9e 1026 8 1026 6 temp\u00e9rature de l eau 24 2 24 1 V 26 Juillet 1905 Matin Soir Hauteur Barometrique 763 9 763 8 Direction du vent S S E S S E Force is 1 fort 2 fort Reg a taux o o N\u00e9bulosit\u00e9 L Reg xii mer o o Direction des nuages Pluie Tomb\u00e9e Temp\u00e9rature de l air 26 4 31 4 Hauteur de la mer 33 9 44 0 Agitation de l eau 1 faible 2 Densit\u00e9 au bout de la jet\u00e9e 1026 1 1026 1 Temp\u00e9rature de l eau 25 2 24 2",
+      "cleaned_content": "V 25 Juillet 1905 Matin Soir Hauteur Barometrique 763 8 764 6 Directionduventcrcro Nord Forceis 4 3 Regc Tauxo o N\u00e9bulosit\u00e9 L Regximero o Directiondesnuagescrcro crcro Pluie Tomb\u00e9e Temp\u00e9raturedel air 25 5 30 2 Hauteurdelamer 14 2 47 1 Agitationdel eau 3 fort 3 Densit\u00e9 auboutdelajet\u00e9e 1026 8 1026 6 temp\u00e9raturedel eau 24 2 24 1 V 26 Juillet 1905 Matin Soir Hauteur Barometrique 763 9 763 8 Directionduvent S S E S S E Forceis 1 fort 2 fort Rega tauxo o N\u00e9bulosit\u00e9 L Regxiimero o Directiondesnuages Pluie Tomb\u00e9e Temp\u00e9raturedel air 26 4 31 4 Hauteurdelamer 33 9 44 0 Agitationdel eau 1 faible 2 Densit\u00e9 auboutdelajet\u00e9e 1026 1 1026 1 Temp\u00e9raturedel eau 25 2 24 2",
+      "entities": {
+        "dates": [
+          "25 Juillet 1905",
+          "26 Juillet 1905"
+        ]
+      }
+    },
+    {
+      "page_number": "012",
+      "raw_content": "Matin Soir V 27 Juillet 1905 Hauteur Barometrique 76 3 764 Direction du vent S S E S S E Force is 2 fort Des O km o o N\u00e9bulosite Reg ti mr o o Direction des nuages Pluie tomb\u00e9e Temp\u00e9rature de l air 29 2 32 o Hauteur de la mer 2 1 7 Agitation de l eau 1fort 2 Ventit\u00e9 au bout de la jet\u00e9e 1026 1026 9 temp\u00e9rature de l eau 2 7 2 6 V 28 Juillet 1905 Matin Soir Hauteur Barometrique 766 o 76 direction du vent E S E Force is 1 o Des o km l\u00e9g\u00e8re lo N\u00e9bulosite Reg ti mr dispersee 10 Direction des nuages y ouest Pluie tomb\u00e9e quelques g Temp\u00e9rature de l air 26 3 27 2 Hauteur de la mer 1 3 42 8 Agitation de l eau faible faible Ventit\u00e9 au bout de la jet\u00e9e 1026 o 102 6 Temp\u00e9rature de l eau 23 o 27 1",
+      "cleaned_content": "Matin Soir V 27 Juillet 1905 Hauteur Barometrique 76 3 764 Directionduvent S S E S S E Forceis 2 fort Des O kmo o N\u00e9bulosite Regtimro o Directiondesnuages Pluietomb\u00e9e Temp\u00e9raturedel air 29 2 32 o Hauteurdelamer 2 1 7 Agitationdel eau 1fort 2 Ventit\u00e9 auboutdelajet\u00e9e 1026 1026 9 temp\u00e9raturedel eau 2 7 2 6 V 28 Juillet 1905 Matin Soir Hauteur Barometrique 766 o 76 directionduvent E S E Forceis 1 o Deso kml\u00e9g\u00e8relo N\u00e9bulosite Regtimrdispersee 10 Directiondesnuagesy ouest Pluietomb\u00e9equelquesg Temp\u00e9raturedel air 26 3 27 2 Hauteurdelamer 1 3 42 8 Agitationdel eaufaiblefaible Ventit\u00e9 auboutdelajet\u00e9e 1026 o 102 6 Temp\u00e9raturedel eau 23 o 27 1",
+      "entities": {
+        "dates": [
+          "27 Juillet 1905",
+          "28 Juillet 1905"
+        ]
+      }
+    },
+    {
+      "page_number": "013",
+      "raw_content": "V 29 juillet 1905 Matin Soir Hauteur Barometrique 766 0 767 0 Direction du vent cr cr o cr cr o Force id 3 3 N\u00e9bulosit\u00e9 Deg O terre 0 0 Reg Xi mer 0 0 Direction des nuages cr cr o Pluie tomb\u00e9e quelques gouttes Temp\u00e9rature de l air 26 1 31 4 Hauteur de la mer 10 7 45 8 Agitation de l eau 2 fort 3 Densit\u00e9 au bout de la jet\u00e9e 1026 0 1025 9 Temp\u00e9rature de l eau 24 7 25 0 V 31 juillet 1905 Matin Soir Hauteur Barometrique 767 4 767 0 Direction du vent S S E Force id 0 1 N\u00e9bulosit\u00e9 Deg O terre 10 10 Reg Xi mer 10 10 Direction des nuages S O S O Pluie tomb\u00e9e Temp\u00e9rature de l air 29 7 30 3 Hauteur de la mer 43 1 45 8 Agitation de l eau 1 faible 1 faible Densit\u00e9 au bout de la jet\u00e9e 1025 8 1025 6 Temp\u00e9rature de l eau 26 3 27 1",
+      "cleaned_content": "V 29 juillet 1905 Matin Soir Hauteur Barometrique 766 0 767 0 Directionduventcrcro crcro Forceid 3 3 N\u00e9bulosit\u00e9 Deg O terre 0 0 Reg Ximer 0 0 Directiondesnuagescrcro Pluietomb\u00e9equelquesgouttes Temp\u00e9raturedel air 26 1 31 4 Hauteurdelamer 10 7 45 8 Agitationdel eau 2 fort 3 Densit\u00e9 auboutdelajet\u00e9e 1026 0 1025 9 Temp\u00e9raturedel eau 24 7 25 0 V 31 juillet 1905 Matin Soir Hauteur Barometrique 767 4 767 0 Directionduvent S S E Forceid 0 1 N\u00e9bulosit\u00e9 Deg O terre 10 10 Reg Ximer 10 10 Directiondesnuages S O S O Pluietomb\u00e9e Temp\u00e9raturedel air 29 7 30 3 Hauteurdelamer 43 1 45 8 Agitationdel eau 1 faible 1 faible Densit\u00e9 auboutdelajet\u00e9e 1025 8 1025 6 Temp\u00e9raturedel eau 26 3 27 1",
+      "entities": {
+        "dates": [
+          "29 juillet 1905",
+          "31 juillet 1905"
+        ]
+      }
+    },
+    {
+      "page_number": "014",
+      "raw_content": "V 1 sup er sup Ao\u00fbt 1905 Matin Soir Hauteur Barom\u00e9trique 763 8 762 0 Direction du vent crois Nord Force is 1 fort N\u00e9bulosit\u00e9 Reg F mer 40 40 Direction des nuages cr cro o cr cr o Pluie tomb\u00e9e quelques gouttes Temp\u00e9rature de l air 29 7 29 0 Hauteur de la mer 44 8 48 4 Agitation de l eau 1 faible 1 faible Densit\u00e9 au bout de la jet\u00e9e 1026 4 1026 0 Temp\u00e9rature de l eau 29 1 28 0 V 2 Ao\u00fbt 1905 Matin Soir Hauteur Barom\u00e9trique 764 3 Direction du vent cr cr o Force is 2 fort N\u00e9bulosit\u00e9 Reg F terre 40 Direction des nuages s o Pluie tomb\u00e9e quelques gouttes Temp\u00e9rature de l air 23 4 Hauteur de la mer 42 2 Agitation de l eau 2 Densit\u00e9 au bout de la jet\u00e9e 1026 7 Temp\u00e9rature de l eau 24 6",
+      "cleaned_content": "V 1 supersup Ao\u00fbt 1905 Matin Soir Hauteur Barom\u00e9trique 763 8 762 0 Directionduventcrois Nord Forceis 1 fort N\u00e9bulosit\u00e9 Reg F mer 40 40 Directiondesnuagescrcroo crcro Pluietomb\u00e9equelquesgouttes Temp\u00e9raturedel air 29 7 29 0 Hauteurdelamer 44 8 48 4 Agitationdel eau 1 faible 1 faible Densit\u00e9 auboutdelajet\u00e9e 1026 4 1026 0 Temp\u00e9raturedel eau 29 1 28 0 V 2 Ao\u00fbt 1905 Matin Soir Hauteur Barom\u00e9trique 764 3 Directionduventcrcro Forceis 2 fort N\u00e9bulosit\u00e9 Reg F terre 40 Directiondesnuagess o Pluietomb\u00e9equelquesgouttes Temp\u00e9raturedel air 23 4 Hauteurdelamer 42 2 Agitationdel eau 2 Densit\u00e9 auboutdelajet\u00e9e 1026 7 Temp\u00e9raturedel eau 24 6",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "015",
+      "raw_content": "Date Matin Soir 3 Juillet 1905 Hauteur Barom\u00e9trique br Direction du vent br Force br N\u00e9bulosit\u00e9 br R\u00e9g c terre br R\u00e9g F br Direction des nuages br Pluie tomb\u00e9e br temp\u00e9rature de l air br Hauteur de la mer br Agitation de l eau br Densit\u00e9 au bout de la jet\u00e9e br Temp\u00e9rature de l eau 768 4 br S S E br 4 br 2 br 0 br 2 br Sud br br 31 7 br 10 8 br 3 fort br 1029 1 br 27 3 4 Juillet 1905 Hauteur Barom\u00e9trique br Direction du vent br Force br N\u00e9bulosit\u00e9 br R\u00e9g c terre br R\u00e9g F mer br Direction des nuages br Pluie tomb\u00e9e br Temp\u00e9rature de l air br Hauteur de la mer br Agitation de l eau br Densit\u00e9 au bout de la jet\u00e9e br Temp\u00e9rature de l eau 760 4 br S S E br 4 br 1 br 1 br 2 br S O br br 29 1 br 39 8 br 2 fort br 1028 1 br 17 2 760 6 br S E br 3 br 2 br 0 br 3 br Sud br br 31 7 br 11 0 br 3 br 1026 9 br 18 6",
+      "cleaned_content": "Date Matin Soir 3 Juillet 1905 Hauteur Barom\u00e9triquebr Directionduventbr Forcebr N\u00e9bulosit\u00e9 br R\u00e9gc terrebr R\u00e9g F br Directiondesnuagesbr Pluietomb\u00e9ebrtemp\u00e9raturedel airbr Hauteurdelamerbr Agitationdel eaubr Densit\u00e9 auboutdelajet\u00e9ebr Temp\u00e9raturedel eau 768 4 br S S E br 4 br 2 br 0 br 2 br Sudbrbr 31 7 br 10 8 br 3 fortbr 1029 1 br 27 3 4 Juillet 1905 Hauteur Barom\u00e9triquebr Directionduventbr Forcebr N\u00e9bulosit\u00e9 br R\u00e9gc terrebr R\u00e9g F merbr Directiondesnuagesbr Pluietomb\u00e9ebr Temp\u00e9raturedel airbr Hauteurdelamerbr Agitationdel eaubr Densit\u00e9 auboutdelajet\u00e9ebr Temp\u00e9raturedel eau 760 4 br S S E br 4 br 1 br 1 br 2 br S O brbr 29 1 br 39 8 br 2 fortbr 1028 1 br 17 2 760 6 br S E br 3 br 2 br 0 br 3 br Sudbrbr 31 7 br 11 0 br 3 br 1026 9 br 18 6",
+      "entities": {
+        "dates": [
+          "3 Juillet 1905",
+          "4 Juillet 1905",
+          "3 br 1026"
+        ]
+      }
+    },
+    {
+      "page_number": "016",
+      "raw_content": "V 5 Ao\u00fbt 1905 Matin Soir Hauteur Barometrique 764 6 Direction du vent cr cr o Force is fort Nebulosit\u00e9 Reg o terre ro Reg xi mer 10 Direction des nuages Occidt Pluie tomb\u00e9e Temp\u00e9rature de l air 23 7 Hauteur de la mer 36 Agitation de l eau 3 Densit\u00e9 au bout Se la jet\u00e9e 1026 4 Temp\u00e9rature de l eau 28 6 V 7 Ao\u00fbt 1905 Matin Soir Hauteur Barometrique 768 0 766 1 Direction du vent er E S S E Force iS 1fort 2 Nebulosit\u00e9 Reg o terre o Reg xi mer o Direction des nuages S O Pluie tomb\u00e9e Temp\u00e9rature de l air 22 1 28 8 Hauteur de la mer 62 8 36 1 Agitation de l eau 1 1fort Densit\u00e9 au bout Se la jet\u00e9e 1026 6 1026 4 Temp\u00e9rature de l eau 23 8 25 2",
+      "cleaned_content": "V 5 Ao\u00fbt 1905 Matin Soir Hauteur Barometrique 764 6 Directionduventcrcro Forceisfort Nebulosit\u00e9 Rego terrero Regximer 10 Directiondesnuages Occidt Pluietomb\u00e9e Temp\u00e9raturedel air 23 7 Hauteurdelamer 36 Agitationdel eau 3 Densit\u00e9 aubout Selajet\u00e9e 1026 4 Temp\u00e9raturedel eau 28 6 V 7 Ao\u00fbt 1905 Matin Soir Hauteur Barometrique 768 0 766 1 Directionduventer E S S E ForceiS 1fort 2 Nebulosit\u00e9 Rego terreo Regximero Directiondesnuages S O Pluietomb\u00e9e Temp\u00e9raturedel air 22 1 28 8 Hauteurdelamer 62 8 36 1 Agitationdel eau 1 1fort Densit\u00e9 aubout Selajet\u00e9e 1026 6 1026 4 Temp\u00e9raturedel eau 23 8 25 2",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "017",
+      "raw_content": "V 8 Av\u00fbt 1905 Matin Soir Hauteur Barometrique 767 4 769 8 Direction du vent S E N S E Force is I R\u00e9gl C terre o o N\u00e9bulosit\u00e9 Reg E mer o o Direction des nuages Pluie tomb\u00e9e Temp\u00e9rature de l air 24 7 29 8 Hauteur de la mer 60 0 50 8 Agitation de l eau 1 T Joible 1 T Joibl Densit\u00e9 au bout de la jet\u00e9e 1026 4 1029 9 Temp\u00e9rature de l eau 24 7 26 8 V 9 Av\u00fbt 1905 Matin Soir Hauteur Barometrique 767 2 766 4 Direction du vent cr s s e Force is 3 R\u00e9gl C terre d\u00e9jeun\u00e9e o N\u00e9bulosit\u00e9 Reg E mer l\u00e9g\u00e8re entr\u00e9e o Direction des nuages S E Pluie tomb\u00e9e Temp\u00e9rature de l air 24 2 29 8 Hauteur de la mer 47 4 46 1 Agitation de l eau 1 3 Densit\u00e9 au bout de la jet\u00e9e 1026 1 1026 1 Temp\u00e9rature de l eau 24 2 22 6",
+      "cleaned_content": "V 8 Av\u00fbt 1905 Matin Soir Hauteur Barometrique 767 4 769 8 Directionduvent S E N S E Forceis I R\u00e9gl C terreo o N\u00e9bulosit\u00e9 Reg E mero o Directiondesnuages Pluietomb\u00e9e Temp\u00e9raturedel air 24 7 29 8 Hauteurdelamer 60 0 50 8 Agitationdel eau 1 T Joible 1 T Joibl Densit\u00e9 auboutdelajet\u00e9e 1026 4 1029 9 Temp\u00e9raturedel eau 24 7 26 8 V 9 Av\u00fbt 1905 Matin Soir Hauteur Barometrique 767 2 766 4 Directionduventcrs se Forceis 3 R\u00e9gl C terred\u00e9jeun\u00e9eo N\u00e9bulosit\u00e9 Reg E merl\u00e9g\u00e8reentr\u00e9eo Directiondesnuages S E Pluietomb\u00e9e Temp\u00e9raturedel air 24 2 29 8 Hauteurdelamer 47 4 46 1 Agitationdel eau 1 3 Densit\u00e9 auboutdelajet\u00e9e 1026 1 1026 1 Temp\u00e9raturedel eau 24 2 22 6",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "018",
+      "raw_content": "V 10 Ao\u00fbt 1905 Matin Soir Hauteur Barometrique 766 0 764 6 Direction du vent S O S S E Force iS 2 Nebulosite Reg O cl\u00e8re 0 0 Reg E mer 1 0 Direction des nuages S O Pluie tomb\u00e9e Temp\u00e9rature de l air 27 4 29 9 Hauteur de la mer 16 1 41 6 Agitation de l eau 1 2 Densit\u00e9 au bout de la jet\u00e9e 1026 9 1027 4 temp\u00e9rature de l eau 22 7 20 6 V 11 Ao\u00fbt 1905 Matin Soir Hauteur Barometrique 766 0 766 2 Direction du vent cvors cv cv o Force is 8 fort 4 Nebulosite Reg o terre l\u00e9g\u00e8re entr\u00e9e lo Reg E mer l\u00e9g\u00e8re entr\u00e9e lo Direction des nuages S O S O Pluie tomb\u00e9e quelques gouttes Temp\u00e9rature de l air 29 7 28 3 Hauteur de la mer 19 9 41 9 Agitation de l eau 1 2 fort Densit\u00e9 au bout de la jet\u00e9e 1027 8 1027 4 Temp\u00e9rature de l eau 21 8 23 9",
+      "cleaned_content": "V 10 Ao\u00fbt 1905 Matin Soir Hauteur Barometrique 766 0 764 6 Directionduvent S O S S E ForceiS 2 Nebulosite Reg O cl\u00e8re 0 0 Reg E mer 1 0 Directiondesnuages S O Pluietomb\u00e9e Temp\u00e9raturedel air 27 4 29 9 Hauteurdelamer 16 1 41 6 Agitationdel eau 1 2 Densit\u00e9 auboutdelajet\u00e9e 1026 9 1027 4 temp\u00e9raturedel eau 22 7 20 6 V 11 Ao\u00fbt 1905 Matin Soir Hauteur Barometrique 766 0 766 2 Directionduventcvorscvcvo Forceis 8 fort 4 Nebulosite Rego terrel\u00e9g\u00e8reentr\u00e9elo Reg E merl\u00e9g\u00e8reentr\u00e9elo Directiondesnuages S O S O Pluietomb\u00e9equelquesgouttes Temp\u00e9raturedel air 29 7 28 3 Hauteurdelamer 19 9 41 9 Agitationdel eau 1 2 fort Densit\u00e9 auboutdelajet\u00e9e 1027 8 1027 4 Temp\u00e9raturedel eau 21 8 23 9",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "019",
+      "raw_content": "V 12 Ao\u00fbt 1905 Matin Soir Hauteur Barometrique 770 9 768 8 Direction du vent cr cr o cr E Force is 3 fort Reg O Terre o o N\u00e9bulosit\u00e9 L Reg E mer o o Direction des nuages cr cr o Pluie tomb\u00e9e Temp\u00e9rature de l air 21 4 26 6 Hauteur de la mer 61 7 74 0 Agitation de l eau 3 2 fort Densit\u00e9 au bout de la jet\u00e9e 1027 6 1027 4 Temp\u00e9rature de l eau 22 3 23 3 V 14 Ao\u00fbt 1905 Matin Soir Hauteur Barometrique 767 6 766 2 Direction du vent S E S O Force is 1 fort Reg O Terre l\u00e9g\u00e8rement c lo N\u00e9bulosit\u00e9 L Reg E mer l\u00e9g\u00e8rement c lo Direction des nuages court S O Pluie tomb\u00e9e quelques g Temp\u00e9rature de l air 26 3 27 0 Hauteur de la mer 71 6 60 7 Agitation de l eau 1 1 Densit\u00e9 au bout de la jet\u00e9e 1027 7 1027 8 Temp\u00e9rature de l eau 23 4 24 0",
+      "cleaned_content": "V 12 Ao\u00fbt 1905 Matin Soir Hauteur Barometrique 770 9 768 8 Directionduventcrcro cr E Forceis 3 fort Reg O Terreo o N\u00e9bulosit\u00e9 L Reg E mero o Directiondesnuagescrcro Pluietomb\u00e9e Temp\u00e9raturedel air 21 4 26 6 Hauteurdelamer 61 7 74 0 Agitationdel eau 3 2 fort Densit\u00e9 auboutdelajet\u00e9e 1027 6 1027 4 Temp\u00e9raturedel eau 22 3 23 3 V 14 Ao\u00fbt 1905 Matin Soir Hauteur Barometrique 767 6 766 2 Directionduvent S E S O Forceis 1 fort Reg O Terrel\u00e9g\u00e8rementc lo N\u00e9bulosit\u00e9 L Reg E merl\u00e9g\u00e8rementc lo Directiondesnuagescourt S O Pluietomb\u00e9equelquesg Temp\u00e9raturedel air 26 3 27 0 Hauteurdelamer 71 6 60 7 Agitationdel eau 1 1 Densit\u00e9 auboutdelajet\u00e9e 1027 7 1027 8 Temp\u00e9raturedel eau 23 4 24 0",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "020",
+      "raw_content": "V 16 Ao\u00fbt 1905 Matin Soir Hauteur Barom\u00e9trique 766 6 769 7 Direction du Vent N O S N N O Force iS 2 fort R\u00e9glage G tire 40 40 N\u00e9bulosit\u00e9 R\u00e9glage H mer 10 10 Direction des nuages O or o eN o Pluie tomb\u00e9e quelques 3 2 7 Temp\u00e9rature de l air 25 o 22 o Hauteur de la mer 48 7 47 2 Agitation de l eau 1 1 Fort Densit\u00e9 au bout de la jet\u00e9e 1027 4 1027 o Temp\u00e9rature de l eau 23 8 25 1 V 17 Ao\u00fbt 1905 Matin Soir Hauteur Barom\u00e9trique 766 0 766 0 Direction du vent n n o n n o Force is 4 R\u00e9glage C tire 1 2 N\u00e9bulosit\u00e9 R\u00e9glage H mer 1 1 Direction des nuages n n o n n o Pluie Tomb\u00e9e 19 0 Temp\u00e9rature de l air 21 2 25 6 Hauteur de la mer 44 7 46 1 Agitation de l eau 3 3 faible Densit\u00e9 au bout de la jet\u00e9e 1027 5 1026 9 Temp\u00e9rature de l eau 23 0 23 3",
+      "cleaned_content": "V 16 Ao\u00fbt 1905 Matin Soir Hauteur Barom\u00e9trique 766 6 769 7 Directiondu Vent N O S N N O ForceiS 2 fort R\u00e9glage G tire 40 40 N\u00e9bulosit\u00e9 R\u00e9glage H mer 10 10 Directiondesnuages O oro eN o Pluietomb\u00e9equelques 3 2 7 Temp\u00e9raturedel air 25 o 22 o Hauteurdelamer 48 7 47 2 Agitationdel eau 1 1 Fort Densit\u00e9 auboutdelajet\u00e9e 1027 4 1027 o Temp\u00e9raturedel eau 23 8 25 1 V 17 Ao\u00fbt 1905 Matin Soir Hauteur Barom\u00e9trique 766 0 766 0 Directionduventn no nn o Forceis 4 R\u00e9glage C tire 1 2 N\u00e9bulosit\u00e9 R\u00e9glage H mer 1 1 Directiondesnuagesn no nn o Pluie Tomb\u00e9e 19 0 Temp\u00e9raturedel air 21 2 25 6 Hauteurdelamer 44 7 46 1 Agitationdel eau 3 3 faible Densit\u00e9 auboutdelajet\u00e9e 1027 5 1026 9 Temp\u00e9raturedel eau 23 0 23 3",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "021",
+      "raw_content": "r 18 Ao\u00fbt 1905 Matin Soir Hauteur Barom\u00e9trique 766 0 766 0 Direction du vent er cr o cr e Force is 2 Nebulosit\u00e9 Reg O terre o Reg E mer l\u00e9g\u00e8rement Direction des nuages Pluie tomb\u00e9e Temp\u00e9rature de l air 24 0 28 8 Hauteur de la mer 48 0 19 3 Agitation de l eau 1 1 Densit\u00e9 au bout de la jet\u00e9e 1027 4 1026 8 temp\u00e9rature de l eau 23 8 29 7 r 19 Ao\u00fbt 1905 Matin Soir Hauteur Barom\u00e9trique 768 4 767 4 Direction du vent er cr o s e Force is fort Nebulosit\u00e9 Reg O Terre o Reg E mer l\u00e9g\u00e8rement Direction des nuages n r n o Pluie tomb\u00e9e Temp\u00e9rature de l air 29 8 30 8 Hauteur de la mer 49 6 17 8 Agitation de l eau faible faible Densit\u00e9 au bout de la jet\u00e9e 1027 8 1026 7 Temp\u00e9rature de l eau 24 2 27 2",
+      "cleaned_content": "r 18 Ao\u00fbt 1905 Matin Soir Hauteur Barom\u00e9trique 766 0 766 0 Directionduventercro cre Forceis 2 Nebulosit\u00e9 Reg O terreo Reg E merl\u00e9g\u00e8rement Directiondesnuages Pluietomb\u00e9e Temp\u00e9raturedel air 24 0 28 8 Hauteurdelamer 48 0 19 3 Agitationdel eau 1 1 Densit\u00e9 auboutdelajet\u00e9e 1027 4 1026 8 temp\u00e9raturedel eau 23 8 29 7 r 19 Ao\u00fbt 1905 Matin Soir Hauteur Barom\u00e9trique 768 4 767 4 Directionduventercro se Forceisfort Nebulosit\u00e9 Reg O Terreo Reg E merl\u00e9g\u00e8rement Directiondesnuagesn rn o Pluietomb\u00e9e Temp\u00e9raturedel air 29 8 30 8 Hauteurdelamer 49 6 17 8 Agitationdel eaufaiblefaible Densit\u00e9 auboutdelajet\u00e9e 1027 8 1026 7 Temp\u00e9raturedel eau 24 2 27 2",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "022",
+      "raw_content": "V 20 Ao\u00fbt 1905 Matin Soir Hauteur Barometrique 768 7 Direction du vent crois Force is 1 fort N\u00e9bulosite Reg s c terre o Reg xi mer o Direction des nuages Pluie Tomb\u00e9e Temp\u00e9rature de l air 25 8 Hauteur de la mer 49 4 Casitation de l eau Densit\u00e9 au bout de la jet\u00e9e 1027 1 temp\u00e9rature de l eau 25 1 V 21 Ao\u00fbt 1905 Matin Soir Hauteur Barometrique 767 7 767 0 Direction du vent cr s s s e Force is 2 fort N\u00e9bulosite Reg s c terre l\u00e9g\u00e8rement c Reg xi mer l\u00e9g\u00e8rement c o Direction des nuages Ouest Sud Pluie Tomb\u00e9e Temp\u00e9rature de l air 26 6 29 2 Hauteur de la mer 50 0 50 7 Casitation de l eau 1 fort 17 fort Densit\u00e9 au bout de la jet\u00e9e 1027 3 1026 7 Temp\u00e9rature de l eau 24 2 25 7",
+      "cleaned_content": "V 20 Ao\u00fbt 1905 Matin Soir Hauteur Barometrique 768 7 Directionduventcrois Forceis 1 fort N\u00e9bulosite Regs cterreo Regximero Directiondesnuages Pluie Tomb\u00e9e Temp\u00e9raturedel air 25 8 Hauteurdelamer 49 4 Casitationdel eau Densit\u00e9 auboutdelajet\u00e9e 1027 1 temp\u00e9raturedel eau 25 1 V 21 Ao\u00fbt 1905 Matin Soir Hauteur Barometrique 767 7 767 0 Directionduventcrs ss e Forceis 2 fort N\u00e9bulosite Regs cterrel\u00e9g\u00e8rementc Regximerl\u00e9g\u00e8rementc o Directiondesnuages Ouest Sud Pluie Tomb\u00e9e Temp\u00e9raturedel air 26 6 29 2 Hauteurdelamer 50 0 50 7 Casitationdel eau 1 fort 17 fort Densit\u00e9 auboutdelajet\u00e9e 1027 3 1026 7 Temp\u00e9raturedel eau 24 2 25 7",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "023",
+      "raw_content": "N 22 Ao\u00fbt 1905 Matin Soir Hauteur Barom\u00e9trique 766 4 769 4 Direction du vent S S E Force is fort Nebulosit\u00e9 Reg 6 terre d\u00e9gag\u00e9e 10 Reg E mer Levicuie 10 Direction des nuages Nord Sud Pluie tomb\u00e9e Temp\u00e9rature de l air 28 7 31 3 Hauteur de la mer 49 8 50 4 Agitation de l eau 1 T Faible 1 Densit\u00e9 au bout de la jet\u00e9e 1027 4 1026 7 Temp\u00e9rature de l eau 28 2 26 3 N 23 Ao\u00fbt 1905 Matin Soir Hauteur Barom\u00e9trique 765 2 769 4 Direction du vent O R O O R O Force is 2 faible Nebulosit\u00e9 Reg 6 terre 10 10 Reg E mer 10 10 Direction des nuages S o S o Pluie tomb\u00e9e quelques g 1 87 Temp\u00e9rature de l air 24 0 26 6 Hauteur de la mer 50 8 48 3 Agitation de l eau 1 fort 1 fort Densit\u00e9 au bout de la jet\u00e9e 1027 6 1027 6 Temp\u00e9rature de l eau 24 7 29 0",
+      "cleaned_content": "N 22 Ao\u00fbt 1905 Matin Soir Hauteur Barom\u00e9trique 766 4 769 4 Directionduvent S S E Forceisfort Nebulosit\u00e9 Reg 6 terred\u00e9gag\u00e9e 10 Reg E mer Levicuie 10 Directiondesnuages Nord Sud Pluietomb\u00e9e Temp\u00e9raturedel air 28 7 31 3 Hauteurdelamer 49 8 50 4 Agitationdel eau 1 T Faible 1 Densit\u00e9 auboutdelajet\u00e9e 1027 4 1026 7 Temp\u00e9raturedel eau 28 2 26 3 N 23 Ao\u00fbt 1905 Matin Soir Hauteur Barom\u00e9trique 765 2 769 4 Directionduvent O R O O R O Forceis 2 faible Nebulosit\u00e9 Reg 6 terre 10 10 Reg E mer 10 10 Directiondesnuages S o S o Pluietomb\u00e9equelquesg 1 87 Temp\u00e9raturedel air 24 0 26 6 Hauteurdelamer 50 8 48 3 Agitationdel eau 1 fort 1 fort Densit\u00e9 auboutdelajet\u00e9e 1027 6 1027 6 Temp\u00e9raturedel eau 24 7 29 0",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "024",
+      "raw_content": "V 24 Ao\u00fbt 1905 Matin Soir Hauteur Barometrique 764 6 762 6 Direction du vent crois S E Force is 1 fort Reg o terre lo lo N\u00e9bulosit\u00e9 Res xi mer W vo Direction des nuages s o s o Pluie tomb\u00e9e Temp\u00e9rature de l air 23 8 26 8 Hauteur de la mer 48 8 39 9 Agitation de l eau I IT fort Densit\u00e9 au bout de la jet\u00e9e 1027 1 1027 2 temp\u00e9rature de l eau 29 9 29 1 V 25 Ao\u00fbt 1905 Matin Soir Hauteur Barometrique 760 3 757 1 Direction du vent crois s o Force is 1 faible Reg o terre lo lo N\u00e9bulosit\u00e9 Res xi mer w vo Direction des nuages s o s o Pluie tomb\u00e9e quelque g Temp\u00e9rature de l air 24 6 31 2 Hauteur de la mer 48 9 31 4 Agitation de l eau 1 T faible 1 faible Densit\u00e9 au bout de la jet\u00e9e 1027 4 1027 6 Temp\u00e9rature de l eau 29 7 24 1",
+      "cleaned_content": "V 24 Ao\u00fbt 1905 Matin Soir Hauteur Barometrique 764 6 762 6 Directionduventcrois S E Forceis 1 fort Rego terrelolo N\u00e9bulosit\u00e9 Resximer W vo Directiondesnuagess os o Pluietomb\u00e9e Temp\u00e9raturedel air 23 8 26 8 Hauteurdelamer 48 8 39 9 Agitationdel eau I IT fort Densit\u00e9 auboutdelajet\u00e9e 1027 1 1027 2 temp\u00e9raturedel eau 29 9 29 1 V 25 Ao\u00fbt 1905 Matin Soir Hauteur Barometrique 760 3 757 1 Directionduventcroiss o Forceis 1 faible Rego terrelolo N\u00e9bulosit\u00e9 Resximerw vo Directiondesnuagess os o Pluietomb\u00e9equelqueg Temp\u00e9raturedel air 24 6 31 2 Hauteurdelamer 48 9 31 4 Agitationdel eau 1 T faible 1 faible Densit\u00e9 auboutdelajet\u00e9e 1027 4 1027 6 Temp\u00e9raturedel eau 29 7 24 1",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "025",
+      "raw_content": "V 26 Ao\u00fbt 1905 Matin Soir Hauteur Barom\u00e9trique 762 4 762 8 Direction du vent cr cr o Est Force is S Reg o terre 3 faible N\u00e9bulosit\u00e9 2 p Reg n mer Direction des nuages s o s o Pluie tomb\u00e9e Temp\u00e9rature de l air 23 0 29 0 Hauteur de la mer 49 9 38 6 Agitation de l eau 17 fort 3 Densit\u00e9 au bout de la jet\u00e9e 1027 7 1027 4 Temp\u00e9rature de l eau 23 8 23 8 V 28 Ao\u00fbt 1905 Matin Soir Hauteur Barom\u00e9trique 764 8 760 8 Direction du vent E S E S S E Force is 2 Reg ci terre lo lo N\u00e9bulosit\u00e9 4o 4o Reg n mer 4o 4o Direction des nuages s o o s o Pluie tomb\u00e9e Temp\u00e9rature de l air 24 8 28 7 Hauteur de la mer 16 2 16 6 Agitation de l eau 1 2 fort Densit\u00e9 au bout de la jet\u00e9e 1027 4 1027 7 Temp\u00e9rature de l eau 24 3 24 7",
+      "cleaned_content": "V 26 Ao\u00fbt 1905 Matin Soir Hauteur Barom\u00e9trique 762 4 762 8 Directionduventcrcro Est Forceis S Rego terre 3 faible N\u00e9bulosit\u00e9 2 p Regn mer Directiondesnuagess os o Pluietomb\u00e9e Temp\u00e9raturedel air 23 0 29 0 Hauteurdelamer 49 9 38 6 Agitationdel eau 17 fort 3 Densit\u00e9 auboutdelajet\u00e9e 1027 7 1027 4 Temp\u00e9raturedel eau 23 8 23 8 V 28 Ao\u00fbt 1905 Matin Soir Hauteur Barom\u00e9trique 764 8 760 8 Directionduvent E S E S S E Forceis 2 Regciterrelolo N\u00e9bulosit\u00e9 4o 4o Regn mer 4o 4o Directiondesnuagess oo so Pluietomb\u00e9e Temp\u00e9raturedel air 24 8 28 7 Hauteurdelamer 16 2 16 6 Agitationdel eau 1 2 fort Densit\u00e9 auboutdelajet\u00e9e 1027 4 1027 7 Temp\u00e9raturedel eau 24 3 24 7",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "026",
+      "raw_content": "V 30 Ao\u00fbt 1905 Matin Soir Hauteur Barom\u00e9trique 761 8 Direction du vent S O S O Force is 2 fort N\u00e9bulosit\u00e9 Reg c Terre 4 10 Reg E mer 4 10 Direction des nuages S O S O Pluie tomb\u00e9e 7 12 Temp\u00e9rature de l air 5 Hauteur de la mer 5 Agitation de l eau Faible Densit\u00e9 au bout de la jet\u00e9e 5 Temp\u00e9rature de l eau 5 V 31 Ao\u00fbt 1905 Matin Soir Hauteur Barom\u00e9trique 761 6 Direction du vent O E N O O E N O Force is 2 fort N\u00e9bulosit\u00e9 Reg c Terre 4 10 Reg E mer 4 10 Direction des nuages Ouest Pluie tomb\u00e9e quelques g Temp\u00e9rature de l air 5 Hauteur de la mer 5 Agitation de l eau 1 Densit\u00e9 au bout de la jet\u00e9e 5 Temp\u00e9rature de l eau 5",
+      "cleaned_content": "V 30 Ao\u00fbt 1905 Matin Soir Hauteur Barom\u00e9trique 761 8 Directionduvent S O S O Forceis 2 fort N\u00e9bulosit\u00e9 Regc Terre 4 10 Reg E mer 4 10 Directiondesnuages S O S O Pluietomb\u00e9e 7 12 Temp\u00e9raturedel air 5 Hauteurdelamer 5 Agitationdel eau Faible Densit\u00e9 auboutdelajet\u00e9e 5 Temp\u00e9raturedel eau 5 V 31 Ao\u00fbt 1905 Matin Soir Hauteur Barom\u00e9trique 761 6 Directionduvent O E N O O E N O Forceis 2 fort N\u00e9bulosit\u00e9 Regc Terre 4 10 Reg E mer 4 10 Directiondesnuages Ouest Pluietomb\u00e9equelquesg Temp\u00e9raturedel air 5 Hauteurdelamer 5 Agitationdel eau 1 Densit\u00e9 auboutdelajet\u00e9e 5 Temp\u00e9raturedel eau 5",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "027",
+      "raw_content": "Date Matin Soir 1er Septembre 1905 Hauteur Barom\u00e9trique 769 2 br Direcction du vent v v br Force iS br R\u00e9s o terre 2 l\u00e9g\u00e8rement br N\u00e9bulosit\u00e9 br Deg E mer 2 l\u00e9g\u00e8rement br Direcction des nuags S O br Pluie tomb\u00e9e br Temp\u00e9rature de l air 21 8 br Hauteur de la mer 47 9 br Agitation de l eau 2 faible br Densit\u00e9 au bout de la jet\u00e9e 1027 8 br Temp\u00e9rature de l eau 23 4 Hauteur Barom\u00e9trique 768 3 br Direcction du vent Est br Force 2 Faible br R\u00e9s o terre 1 faible br N\u00e9bulosit\u00e9 br Deg E mer 40 br Direcction des nuags S O br Pluie tomb\u00e9e br temp\u00e9rature de l air 26 6 br Hauteur de la mer 65 4 br Agitation de l eau 2 faible br Densit\u00e9 au bout de la jet\u00e9e 1027 8 br Temp\u00e9rature de l eau 24 9 2 Septembre 1905 Hauteur Barom\u00e9trique 768 1 br Direcction du vent v v br Force iS br R\u00e9s o terre o br N\u00e9bulosit\u00e9 br Deg E mer o br Direcction des nuags v v br Pluie tomb\u00e9e br Temp\u00e9rature de l air 22 9 br Hauteur de la mer 49 6 br Agitation de l eau 1 fort br Densit\u00e9 au bout de la jet\u00e9e 1028 1 br Temp\u00e9rature de l eau 23 0 Hauteur Barom\u00e9trique 716 7 br Direcction du vent v v br Force 3 br R\u00e9s o terre 40 br N\u00e9bulosit\u00e9 br Deg E mer 40 br Direcction des nuags v v br Pluie tomb\u00e9e br Temp\u00e9rature de l air 26 6 br Hauteur de la mer 64 9 br Agitation de l eau 2 br Densit\u00e9 au bout de la jet\u00e9e 1028 1 br Temp\u00e9rature de l eau 23 1",
+      "cleaned_content": "Date Matin Soir 1er Septembre 1905 Hauteur Barom\u00e9trique 769 2 br Direcctionduventv vbr ForceiS br R\u00e9so terre 2 l\u00e9g\u00e8rementbr N\u00e9bulosit\u00e9 br Deg E mer 2 l\u00e9g\u00e8rementbr Direcctiondesnuags S O br Pluietomb\u00e9ebr Temp\u00e9raturedel air 21 8 br Hauteurdelamer 47 9 br Agitationdel eau 2 faiblebr Densit\u00e9 auboutdelajet\u00e9e 1027 8 br Temp\u00e9raturedel eau 23 4 Hauteur Barom\u00e9trique 768 3 br Direcctionduvent Estbr Force 2 Faiblebr R\u00e9so terre 1 faiblebr N\u00e9bulosit\u00e9 br Deg E mer 40 br Direcctiondesnuags S O br Pluietomb\u00e9ebrtemp\u00e9raturedel air 26 6 br Hauteurdelamer 65 4 br Agitationdel eau 2 faiblebr Densit\u00e9 auboutdelajet\u00e9e 1027 8 br Temp\u00e9raturedel eau 24 9 2 Septembre 1905 Hauteur Barom\u00e9trique 768 1 br Direcctionduventv vbr ForceiS br R\u00e9so terreo br N\u00e9bulosit\u00e9 br Deg E mero br Direcctiondesnuagsv vbr Pluietomb\u00e9ebr Temp\u00e9raturedel air 22 9 br Hauteurdelamer 49 6 br Agitationdel eau 1 fortbr Densit\u00e9 auboutdelajet\u00e9e 1028 1 br Temp\u00e9raturedel eau 23 0 Hauteur Barom\u00e9trique 716 7 br Direcctionduventv vbr Force 3 br R\u00e9so terre 40 br N\u00e9bulosit\u00e9 br Deg E mer 40 br Direcctiondesnuagsv vbr Pluietomb\u00e9ebr Temp\u00e9raturedel air 26 6 br Hauteurdelamer 64 9 br Agitationdel eau 2 br Densit\u00e9 auboutdelajet\u00e9e 1028 1 br Temp\u00e9raturedel eau 23 1",
+      "entities": {
+        "dates": [
+          "2 Septembre 1905"
+        ]
+      }
+    },
+    {
+      "page_number": "028",
+      "raw_content": "Nombre de pairs de bateaux 16 V 4 Septembre 1905 Matin Soir Hauteur Barometrique 768 8 767 0 Direction du vent cr cr o crois Force is 2 fort 2 faible Nebulosite Reg a terre 0 0 Reg Ei mer 0 0 Direction des nuage cr cr o crois Pluie tomb\u00e9e Temperature de l air 24 0 30 0 Hauteur de la mer 17 1 18 9 Agitation de l eau 2 fort 3 faible Densit\u00e9 au bout de la jet\u00e9e 1027 6 1027 8 Temperature de l eau 22 8 23 3 Nombre de pairs de bateaux 16 V 5 Septembre 1905 Matin Soir Hauteur Barometrique 768 0 766 6 Direction du vent S E S S E Force is 1 fort 2 Nebulosite Reg a terre 0 0 Reg Ei mer 0 0 Direction des nuage Pluie tomb\u00e9e Temperature de l air 23 0 27 4 Hauteur de la mer 19 0 20 1 Agitation de l eau 2 2 faible Densit\u00e9 au bout de la jet\u00e9e 1027 6 1027 5 Temperature de l eau 22 4 23 6",
+      "cleaned_content": "Nombredepairsdebateaux 16 V 4 Septembre 1905 Matin Soir Hauteur Barometrique 768 8 767 0 Directionduventcrcro crois Forceis 2 fort 2 faible Nebulosite Rega terre 0 0 Reg Eimer 0 0 Directiondesnuagecrcro crois Pluietomb\u00e9e Temperaturedel air 24 0 30 0 Hauteurdelamer 17 1 18 9 Agitationdel eau 2 fort 3 faible Densit\u00e9 auboutdelajet\u00e9e 1027 6 1027 8 Temperaturedel eau 22 8 23 3 Nombredepairsdebateaux 16 V 5 Septembre 1905 Matin Soir Hauteur Barometrique 768 0 766 6 Directionduvent S E S S E Forceis 1 fort 2 Nebulosite Rega terre 0 0 Reg Eimer 0 0 Directiondesnuage Pluietomb\u00e9e Temperaturedel air 23 0 27 4 Hauteurdelamer 19 0 20 1 Agitationdel eau 2 2 faible Densit\u00e9 auboutdelajet\u00e9e 1027 6 1027 5 Temperaturedel eau 22 4 23 6",
+      "entities": {
+        "dates": [
+          "4 Septembre 1905",
+          "5 Septembre 1905"
+        ]
+      }
+    },
+    {
+      "page_number": "029",
+      "raw_content": "Nombre de pairs de Cateaux R 6 Septembre 1905 Matin Soir Hauteur Barometrique 764 6 764 6 Direction du vent S E S E Force is 2 fort 2 fort N\u00e9bulosit\u00e9 Res o Terre 10 10 Reg di mer 10 10 Direction des nuages S S O S S O Pluie tomb\u00e9e Temp\u00e9rature de l air 24 2 26 7 Hauteur de la mer 35 1 42 3 Agitation de l eau 2 2 Densit\u00e9 au bout de la jet\u00e9e 1087 8 1027 5 Temp\u00e9rature de l eau 23 8 23 9 Nombre de pairs de Cateaux R 7 Septembre 1905 Matin Soir Hauteur Barometrique 764 1 762 7 Direction du vent S S O S S O Force is 2 faible 3 N\u00e9bulosit\u00e9 Res o Terre 10 d\u00e9goutte 10 Reg ti mer 10 l\u00e9g\u00e8remente 10 Direction des nuages S S O S S O Pluie tomb\u00e9e Temp\u00e9rature de l air 29 2 27 5 Hauteur de la mer 38 8 39 8 Agitation de l eau 1 fort 2 fort Densit\u00e9 au bout de la jet\u00e9e 1027 8 1027 6 Temp\u00e9rature de l eau 23 4 23 0",
+      "cleaned_content": "Nombredepairsde Cateaux R 6 Septembre 1905 Matin Soir Hauteur Barometrique 764 6 764 6 Directionduvent S E S E Forceis 2 fort 2 fort N\u00e9bulosit\u00e9 Reso Terre 10 10 Regdimer 10 10 Directiondesnuages S S O S S O Pluietomb\u00e9e Temp\u00e9raturedel air 24 2 26 7 Hauteurdelamer 35 1 42 3 Agitationdel eau 2 2 Densit\u00e9 auboutdelajet\u00e9e 1087 8 1027 5 Temp\u00e9raturedel eau 23 8 23 9 Nombredepairsde Cateaux R 7 Septembre 1905 Matin Soir Hauteur Barometrique 764 1 762 7 Directionduvent S S O S S O Forceis 2 faible 3 N\u00e9bulosit\u00e9 Reso Terre 10 d\u00e9goutte 10 Regtimer 10 l\u00e9g\u00e8remente 10 Directiondesnuages S S O S S O Pluietomb\u00e9e Temp\u00e9raturedel air 29 2 27 5 Hauteurdelamer 38 8 39 8 Agitationdel eau 1 fort 2 fort Densit\u00e9 auboutdelajet\u00e9e 1027 8 1027 6 Temp\u00e9raturedel eau 23 4 23 0",
+      "entities": {
+        "dates": [
+          "6 Septembre 1905",
+          "7 Septembre 1905"
+        ]
+      }
+    },
+    {
+      "page_number": "030",
+      "raw_content": "V 8 Septembre 1809 Matin Soir Hauteur Barometrique 766 2 767 5 Direction du vent crois cr cr o Force iS 3 Nebulosite Reg a terre lo lo Reg E mer lo lo Direction des nuage S S O ouest Pluie Tomb\u00e9e Temperature de l air 23 5 22 3 Hauteur de la mer 47 6 46 5 Agitation de l eau 2 3 Visite au bout de la jet\u00e9e 1028 2 1027 9 Temperature de l eau 22 5 22 7 V 9 Septembre 1809 Matin Soir Hauteur Barometrique 770 0 Direction du vent cr cr o Force is 2 fort Nebulosite Reg a terre o Reg E mer 2 l\u00e9g\u00e8rement Direction des nuages Pluie Tomb\u00e9e quelques g Temperature de l air 21 8 Hauteur de la mer 60 8 Agitation de l eau 1 fort Visite au bout de la jet\u00e9e 1029 0 Temperature de l eau 22 5",
+      "cleaned_content": "V 8 Septembre 1809 Matin Soir Hauteur Barometrique 766 2 767 5 Directionduventcroiscrcro ForceiS 3 Nebulosite Rega terrelolo Reg E merlolo Directiondesnuage S S O ouest Pluie Tomb\u00e9e Temperaturedel air 23 5 22 3 Hauteurdelamer 47 6 46 5 Agitationdel eau 2 3 Visiteauboutdelajet\u00e9e 1028 2 1027 9 Temperaturedel eau 22 5 22 7 V 9 Septembre 1809 Matin Soir Hauteur Barometrique 770 0 Directionduventcrcro Forceis 2 fort Nebulosite Rega terreo Reg E mer 2 l\u00e9g\u00e8rement Directiondesnuages Pluie Tomb\u00e9equelquesg Temperaturedel air 21 8 Hauteurdelamer 60 8 Agitationdel eau 1 fort Visiteauboutdelajet\u00e9e 1029 0 Temperaturedel eau 22 5",
+      "entities": {
+        "dates": [
+          "8 Septembre 1809",
+          "9 Septembre 1809"
+        ]
+      }
+    },
+    {
+      "page_number": "031",
+      "raw_content": "V 10 Septembre 1905 Matin Soir Hauteur Barom\u00e9trique 766 0 764 3 Direction du vent cr E S S E Force iS 2 forts N\u00e9bulosit\u00e9 Reg O terre o o Reg E mer o o Direction des nuages Pluie tomb\u00e9e Temp\u00e9rature de l air 22 0 81 6 Hauteur de la mer ft 7 48 4 Agitation de l eau faible faible Densit\u00e9 au bout de la jet\u00e9e 1028 0 1029 0 Temp\u00e9rature de l eau 22 8 23 4 V 12 Septembre 1905 Nombre de bateaux Nombre de pairs de Bateaux",
+      "cleaned_content": "V 10 Septembre 1905 Matin Soir Hauteur Barom\u00e9trique 766 0 764 3 Directionduventcr E S S E ForceiS 2 forts N\u00e9bulosit\u00e9 Reg O terreo o Reg E mero o Directiondesnuages Pluietomb\u00e9e Temp\u00e9raturedel air 22 0 81 6 Hauteurdelamerft 7 48 4 Agitationdel eaufaiblefaible Densit\u00e9 auboutdelajet\u00e9e 1028 0 1029 0 Temp\u00e9raturedel eau 22 8 23 4 V 12 Septembre 1905 Nombredebateaux Nombredepairsde Bateaux",
+      "entities": {
+        "dates": [
+          "10 Septembre 1905",
+          "12 Septembre 1905"
+        ]
+      }
+    },
+    {
+      "page_number": "032",
+      "raw_content": "V 13 Septembre 1905 Matin Soir Hauteur Barometrique 769 0 767 7 Direction du vent N O S N N O Force iS 2 fort Nebulosite Reg O tene 40 40 Reg X mur 40 40 Direction des nuages S o s S o s Pluie Tomb\u00e9e 1 quelques g Temperature de l air 17 0 19 3 Hauteur de la mer 46 7 46 8 Agitation de l eau 1 fort 1 fort Densit\u00e9 au bout de la jet\u00e9e 1028 4 1028 3 Temperature de l eau 21 21 Nombre de pairs de Bateaux V 14 Septembre 1905 Matin Soir Hauteur Barometrique 766 2 764 7 Direction du vent E E N O E N O S Force iS 2 fort Nebulosite Reg O tene 1 40 Reg X mur 2 40 Direction des nuages N V O N O Pluie Tomb\u00e9e 1 Temperature de l air 19 22 1 Hauteur de la mer 49 6 47 4 Agitation de l eau 1 fort 2 fort Densit\u00e9 au bout de la jet\u00e9e 1028 1028 2 Temperature de l eau 21 2 22 0 Nombre de pairs de Bateaux",
+      "cleaned_content": "V 13 Septembre 1905 Matin Soir Hauteur Barometrique 769 0 767 7 Directionduvent N O S N N O ForceiS 2 fort Nebulosite Reg O tene 40 40 Reg X mur 40 40 Directiondesnuages S os S os Pluie Tomb\u00e9e 1 quelquesg Temperaturedel air 17 0 19 3 Hauteurdelamer 46 7 46 8 Agitationdel eau 1 fort 1 fort Densit\u00e9 auboutdelajet\u00e9e 1028 4 1028 3 Temperaturedel eau 21 21 Nombredepairsde Bateaux V 14 Septembre 1905 Matin Soir Hauteur Barometrique 766 2 764 7 Directionduvent E E N O E N O S ForceiS 2 fort Nebulosite Reg O tene 1 40 Reg X mur 2 40 Directiondesnuages N V O N O Pluie Tomb\u00e9e 1 Temperaturedel air 19 22 1 Hauteurdelamer 49 6 47 4 Agitationdel eau 1 fort 2 fort Densit\u00e9 auboutdelajet\u00e9e 1028 1028 2 Temperaturedel eau 21 2 22 0 Nombredepairsde Bateaux",
+      "entities": {
+        "dates": [
+          "13 Septembre 1905",
+          "14 Septembre 1905"
+        ]
+      }
+    },
+    {
+      "page_number": "033",
+      "raw_content": "Nombre de faire de bateaux V 15 Septembre 1905 Matin Soir Hauteur Barometrique 768 7 769 4 Direction du vent S O Force is o faible Reg O lire W CO N\u00e9bulosit\u00e9 Reg E cour WO 10 Direction des nuages S o S o Pluie tomb\u00e9e quelques g quelques g temp\u00e9rature de l air 19 9 18 4 Hauteur de la mer 22 0 18 3 Agitation de l eau 1 T Faible 1 Densit\u00e9 au bout de la jet\u00e9e 1028 2 1028 0 Temp\u00e9rature de l eau 21 2 21 0 Nombre de faire de bateaux V 16 Septembre 1905 Matin Soir Hauteur Barometrique 766 3 769 8 Direction du vent cr cr o crorc Force is fort 1 Reg G lire WO WO N\u00e9bulosit\u00e9 Reg E mer WO WO Direction des nuages S o S o Pluie tomb\u00e9e peu quelque g Temp\u00e9rature de l air 18 4 20 3 Hauteur de la mer 40 54 6 Agitation de l eau 1 faible Densit\u00e9 au bout de la jet\u00e9e 1028 1 1028 2 Temp\u00e9rature de l eau 21 4 21 0",
+      "cleaned_content": "Nombredefairedebateaux V 15 Septembre 1905 Matin Soir Hauteur Barometrique 768 7 769 4 Directionduvent S O Forceiso faible Reg O lire W CO N\u00e9bulosit\u00e9 Reg E cour WO 10 Directiondesnuages S o S o Pluietomb\u00e9equelquesg quelquesg temp\u00e9raturedel air 19 9 18 4 Hauteurdelamer 22 0 18 3 Agitationdel eau 1 T Faible 1 Densit\u00e9 auboutdelajet\u00e9e 1028 2 1028 0 Temp\u00e9raturedel eau 21 2 21 0 Nombredefairedebateaux V 16 Septembre 1905 Matin Soir Hauteur Barometrique 766 3 769 8 Directionduventcrcro crorc Forceisfort 1 Reg G lire WO WO N\u00e9bulosit\u00e9 Reg E mer WO WO Directiondesnuages S o S o Pluietomb\u00e9epeuquelqueg Temp\u00e9raturedel air 18 4 20 3 Hauteurdelamer 40 54 6 Agitationdel eau 1 faible Densit\u00e9 auboutdelajet\u00e9e 1028 1 1028 2 Temp\u00e9raturedel eau 21 4 21 0",
+      "entities": {
+        "dates": [
+          "15 Septembre 1905",
+          "16 Septembre 1905"
+        ]
+      }
+    },
+    {
+      "page_number": "034",
+      "raw_content": "V 18 Septembre 1905 Matin Soir Hauteur Barom\u00e9trique 762 0 761 0 Direction du vent S E S E Force iS iS N\u00e9bulosit\u00e9 Reg O terre o 4 N\u00e9bulosit\u00e9 Reg E mer Clignante 1 Direction des nuages S O S O Pluie tomb\u00e9e quelques g Temp\u00e9rature de l air 20 2 29 3 Hauteur de la mer 39 1 43 3 Agitation de l eau 3 3 Faible Densit\u00e9 au bout de la jet\u00e9e 1027 1 1027 4 temp\u00e9rature de l eau 21 1 22 2 V 19 Septembre 1905 Matin Soir Hauteur Barom\u00e9trique 763 9 764 9 Direction du vent cr cr o Force iS Forte 0 N\u00e9bulosit\u00e9 Reg O terre 10 10 N\u00e9bulosit\u00e9 Reg E mer 10 10 Direction des nuages S O S O Pluie tomb\u00e9e quelques g quelques g Temp\u00e9rature de l air 18 1 21 8 Hauteur de la mer 37 3 48 0 Agitation de l eau 1 fort 2 faible Densit\u00e9 au bout de la jet\u00e9e 1028 0 1027 9 Temp\u00e9rature de l eau 21 0 20 8",
+      "cleaned_content": "V 18 Septembre 1905 Matin Soir Hauteur Barom\u00e9trique 762 0 761 0 Directionduvent S E S E ForceiS iS N\u00e9bulosit\u00e9 Reg O terreo 4 N\u00e9bulosit\u00e9 Reg E mer Clignante 1 Directiondesnuages S O S O Pluietomb\u00e9equelquesg Temp\u00e9raturedel air 20 2 29 3 Hauteurdelamer 39 1 43 3 Agitationdel eau 3 3 Faible Densit\u00e9 auboutdelajet\u00e9e 1027 1 1027 4 temp\u00e9raturedel eau 21 1 22 2 V 19 Septembre 1905 Matin Soir Hauteur Barom\u00e9trique 763 9 764 9 Directionduventcrcro ForceiS Forte 0 N\u00e9bulosit\u00e9 Reg O terre 10 10 N\u00e9bulosit\u00e9 Reg E mer 10 10 Directiondesnuages S O S O Pluietomb\u00e9equelquesg quelquesg Temp\u00e9raturedel air 18 1 21 8 Hauteurdelamer 37 3 48 0 Agitationdel eau 1 fort 2 faible Densit\u00e9 auboutdelajet\u00e9e 1028 0 1027 9 Temp\u00e9raturedel eau 21 0 20 8",
+      "entities": {
+        "dates": [
+          "18 Septembre 1905",
+          "19 Septembre 1905"
+        ]
+      }
+    },
+    {
+      "page_number": "035",
+      "raw_content": "N 20 20 Septembre 1905 Matin Soir Hauteur Barom\u00e9trique 766 8 766 0 Direction du vent W O W O R O R Force is S fort S fort Nebulosite Reg C Cime 40 40 Visecton des mags O R O O R E Pluie tomb\u00e9e quelques gouttes Temp\u00e9rature de l air 18 5 19 9 Hauteur de la mer 3 1 34 4 Agitation de l eau 3 fort 4 Densit\u00e9 au bout de la jet\u00e9e 1027 9 1027 8 Temperature de l eau 20 1 20 5 N 21 21 Septembre 1905 Matin Soir Hauteur Barom\u00e9trique 764 6 Direction du vent O R O Force is S fort Nebulosite Reg C Cime 0 0 Visecton des mags Pluie tomb\u00e9e Temp\u00e9rature de l air 19 2 Hauteur de la mer 16 4 Agitation de l eau 3 Densit\u00e9 au bout de la jet\u00e9e 1028 2 Temperature de l eau 20 0",
+      "cleaned_content": "N 20 20 Septembre 1905 Matin Soir Hauteur Barom\u00e9trique 766 8 766 0 Directionduvent W O W O R O R Forceis S fort S fort Nebulosite Reg C Cime 40 40 Visectondesmags O R O O R E Pluietomb\u00e9equelquesgouttes Temp\u00e9raturedel air 18 5 19 9 Hauteurdelamer 3 1 34 4 Agitationdel eau 3 fort 4 Densit\u00e9 auboutdelajet\u00e9e 1027 9 1027 8 Temperaturedel eau 20 1 20 5 N 21 21 Septembre 1905 Matin Soir Hauteur Barom\u00e9trique 764 6 Directionduvent O R O Forceis S fort Nebulosite Reg C Cime 0 0 Visectondesmags Pluietomb\u00e9e Temp\u00e9raturedel air 19 2 Hauteurdelamer 16 4 Agitationdel eau 3 Densit\u00e9 auboutdelajet\u00e9e 1028 2 Temperaturedel eau 20 0",
+      "entities": {
+        "dates": [
+          "20 Septembre 1905",
+          "21 Septembre 1905"
+        ]
+      }
+    },
+    {
+      "page_number": "036",
+      "raw_content": "N Date Matin Soir 22 22 Septembre 1905 H Barom\u00e9trique 762 3 br Dir du vent Eros br Tour is br Nebulosite Reg c Cl\u00e8re 2 br Dir des nuages S O br Pluie tomb\u00e9e br Temp\u00e9rature de l air 19 4 br Haut de la mer 34 9 br Agitation de l eau 1 fort br Densit\u00e9 au bout de la jet\u00e9e 1027 9 br Temp\u00e9rature de l eau 21 2 H Barom\u00e9trique 760 4 br Dir du vent S E br Tour 1 br Nebulosite l\u00e9g\u00e8rement d\u00e9gag\u00e9e br Dir des nuages S S E br Pluie tomb\u00e9e r br Temp\u00e9rature de l air 22 4 br Haut de la mer 46 4 br Agitation de l eau 1 br Densit\u00e9 au bout de la jet\u00e9e 1027 9 br Temp\u00e9rature de l eau 21 3 23 23 Septembre 1905 H Barom\u00e9trique 759 2 br Dir du vent Eros br Tour is br Nebulosite Reg c Cl\u00e8re 10 br Dir des nuages S O br Pluie tomb\u00e9e br Temp\u00e9rature de l air 21 4 br Haut de la mer 48 7 br Agitation de l eau 1 fort br Densit\u00e9 au bout de la jet\u00e9e 1027 8 br Temp\u00e9rature de l eau 21 3 H Barom\u00e9trique 758 7 br Dir du vent S S O br Tour 2 fort br Nebulosite 10 br Dir des nuages S O br Pluie tomb\u00e9e 1 7 br Temp\u00e9rature de l air 21 0 br Haut de la mer 33 8 br Agitation de l eau 1 t fort br Densit\u00e9 au bout de la jet\u00e9e 1027 6 br Temp\u00e9rature de l eau 20 4",
+      "cleaned_content": "N Date Matin Soir 22 22 Septembre 1905 H Barom\u00e9trique 762 3 br Dirduvent Erosbr Tourisbr Nebulosite Regc Cl\u00e8re 2 br Dirdesnuages S O br Pluietomb\u00e9ebr Temp\u00e9raturedel air 19 4 br Hautdelamer 34 9 br Agitationdel eau 1 fortbr Densit\u00e9 auboutdelajet\u00e9e 1027 9 br Temp\u00e9raturedel eau 21 2 H Barom\u00e9trique 760 4 br Dirduvent S E br Tour 1 br Nebulositel\u00e9g\u00e8rementd\u00e9gag\u00e9ebr Dirdesnuages S S E br Pluietomb\u00e9er br Temp\u00e9raturedel air 22 4 br Hautdelamer 46 4 br Agitationdel eau 1 br Densit\u00e9 auboutdelajet\u00e9e 1027 9 br Temp\u00e9raturedel eau 21 3 23 23 Septembre 1905 H Barom\u00e9trique 759 2 br Dirduvent Erosbr Tourisbr Nebulosite Regc Cl\u00e8re 10 br Dirdesnuages S O br Pluietomb\u00e9ebr Temp\u00e9raturedel air 21 4 br Hautdelamer 48 7 br Agitationdel eau 1 fortbr Densit\u00e9 auboutdelajet\u00e9e 1027 8 br Temp\u00e9raturedel eau 21 3 H Barom\u00e9trique 758 7 br Dirduvent S S O br Tour 2 fortbr Nebulosite 10 br Dirdesnuages S O br Pluietomb\u00e9e 1 7 br Temp\u00e9raturedel air 21 0 br Hautdelamer 33 8 br Agitationdel eau 1 tfortbr Densit\u00e9 auboutdelajet\u00e9e 1027 6 br Temp\u00e9raturedel eau 20 4",
+      "entities": {
+        "dates": [
+          "22 Septembre 1905",
+          "23 Septembre 1905"
+        ]
+      }
+    },
+    {
+      "page_number": "037",
+      "raw_content": "Matin Soir Hauteur Barometrique 760 3 760 3 Direction du vent cr ouest Force is fort N\u00e9bulosit\u00e9 Reg 2 terre l\u00e9g\u00e8rement W Direction des nuages S O S O Pluie tomb\u00e9e Temp\u00e9rature de l air 19 0 19 4 Hauteur de la mer 47 6 39 5 Agitation de l eau 1 Faible Densit\u00e9 au bout de la jet\u00e9e 1027 8 1027 8 Temp\u00e9rature de l eau 20 8 20 7 Matin Soir Hauteur Barometrique 779 9 779 9 Direction du Vent cr cr o crois\u00e9 Force is fort N\u00e9bulosit\u00e9 Reg 2 terre lo Direction des nuages cr cr o S O Pluie tomb\u00e9e 12 37 Temp\u00e9rature de l air 19 8 19 6 Hauteur de la mer 49 7 39 2 Agitation de l eau 1 faible 2 Densit\u00e9 au bout de la jet\u00e9e 1028 8 1028 3 Temp\u00e9rature de l eau 20 3 20 2 V 25 Septembre 1905 V 26 Septembre 1905",
+      "cleaned_content": "Matin Soir Hauteur Barometrique 760 3 760 3 Directionduventcrouest Forceisfort N\u00e9bulosit\u00e9 Reg 2 terrel\u00e9g\u00e8rement W Directiondesnuages S O S O Pluietomb\u00e9e Temp\u00e9raturedel air 19 0 19 4 Hauteurdelamer 47 6 39 5 Agitationdel eau 1 Faible Densit\u00e9 auboutdelajet\u00e9e 1027 8 1027 8 Temp\u00e9raturedel eau 20 8 20 7 Matin Soir Hauteur Barometrique 779 9 779 9 Directiondu Ventcrcro crois\u00e9 Forceisfort N\u00e9bulosit\u00e9 Reg 2 terrelo Directiondesnuagescrcro S O Pluietomb\u00e9e 12 37 Temp\u00e9raturedel air 19 8 19 6 Hauteurdelamer 49 7 39 2 Agitationdel eau 1 faible 2 Densit\u00e9 auboutdelajet\u00e9e 1028 8 1028 3 Temp\u00e9raturedel eau 20 3 20 2 V 25 Septembre 1905 V 26 Septembre 1905",
+      "entities": {
+        "dates": [
+          "25 Septembre 1905",
+          "26 Septembre 1905"
+        ]
+      }
+    },
+    {
+      "page_number": "038",
+      "raw_content": "V 27 Septembre 1905 Matin Soir Hauteur Barom\u00e9trique 760 8 758 3 Direction du vent E E O S S O Force iS 1 fort N\u00e9bulosit\u00e9 Reg a terre W Ph\u00e9g\u00e9n\u00e9e Reg F mer W O Direction des nuages Ouest S S O Pluie tomb\u00e9e Temp\u00e9rature de l air 17 7 19 4 Hauteur de la mer 48 2 46 2 Agitation de l eau I Faible Densit\u00e9 au bout de la jet\u00e9e 1028 3 1028 3 Temp\u00e9rature de l eau 19 4 20 1 V 28 Septembre 1905 Matin Soir Hauteur Barom\u00e9trique 754 6 752 6 Direction du Vent S S O S O Force iS 2 1 fort N\u00e9bulosit\u00e9 Reg G terre W O Reg H mer W I Direction des nuages S O S O Pluie tomb\u00e9e 7 87 Temp\u00e9rature de l air 18 8 21 3 Hauteur de la mer 59 1 49 3 Agitation de l eau 2 Forte Densit\u00e9 au bout de la jet\u00e9e 1028 3 1028 2 Temp\u00e9rature de l eau 19 9 20 0",
+      "cleaned_content": "V 27 Septembre 1905 Matin Soir Hauteur Barom\u00e9trique 760 8 758 3 Directionduvent E E O S S O ForceiS 1 fort N\u00e9bulosit\u00e9 Rega terre W Ph\u00e9g\u00e9n\u00e9e Reg F mer W O Directiondesnuages Ouest S S O Pluietomb\u00e9e Temp\u00e9raturedel air 17 7 19 4 Hauteurdelamer 48 2 46 2 Agitationdel eau I Faible Densit\u00e9 auboutdelajet\u00e9e 1028 3 1028 3 Temp\u00e9raturedel eau 19 4 20 1 V 28 Septembre 1905 Matin Soir Hauteur Barom\u00e9trique 754 6 752 6 Directiondu Vent S S O S O ForceiS 2 1 fort N\u00e9bulosit\u00e9 Reg G terre W O Reg H mer W I Directiondesnuages S O S O Pluietomb\u00e9e 7 87 Temp\u00e9raturedel air 18 8 21 3 Hauteurdelamer 59 1 49 3 Agitationdel eau 2 Forte Densit\u00e9 auboutdelajet\u00e9e 1028 3 1028 2 Temp\u00e9raturedel eau 19 9 20 0",
+      "entities": {
+        "dates": [
+          "27 Septembre 1905",
+          "28 Septembre 1905"
+        ]
+      }
+    },
+    {
+      "page_number": "039",
+      "raw_content": "Nombres de pairs du bateaux 7 R 29 Septembre 1905 Matin Soir Haul\u00e9ur Barom\u00e9trique 799 4 797 6 Direction du vent S E S S E Force is 1 1 fort Nebulosite Reg O terre 10 l\u00e9g\u00e8rement c\u00e9g\u00e9e enti\u00e8 l\u00e9g\u00e8rement c\u00e9geant L Reg E mer 10 l\u00e9g\u00e8rement c\u00e9geant l\u00e9g\u00e8rement c\u00e9geant Direction des nuages S O S O Pluie Tomb\u00e9e Temp\u00e9rature de l air 18 8 23 4 Hauteur de la mer 86 1 47 3 Agitation de l eau 2 fort 2 faible Densit\u00e9 au bout de la jet\u00e9e 1027 9 1027 8 Temp\u00e9rature de l eau 19 6 19 8 Nombres de pairs du bateaux 7 R 30 Septembre 1905 Matin Soir Haul\u00e9ur Barom\u00e9trique 762 7 762 7 Direction du vent cr 8 S E Force iS 1 1 fort Nebulosite Reg O Cleue 2 l\u00e9g\u00e8rement c\u00e9geant 10 l\u00e9g\u00e8rement c\u00e9geant L Reg E mer 1 l\u00e9g\u00e8rement c\u00e9geant 10 l\u00e9g\u00e8rement c\u00e9geant Direction des nuages S O S O Pluie Tomb\u00e9e Temp\u00e9rature de l air 17 4 21 0 Hauteur de la mer 86 9 51 6 Agitation de l eau 1 fort 1 Densit\u00e9 au bout de la jet\u00e9e 1028 2 1027 9 Temp\u00e9rature de l eau 19 1 20 0",
+      "cleaned_content": "Nombresdepairsdubateaux 7 R 29 Septembre 1905 Matin Soir Haul\u00e9ur Barom\u00e9trique 799 4 797 6 Directionduvent S E S S E Forceis 1 1 fort Nebulosite Reg O terre 10 l\u00e9g\u00e8rementc\u00e9g\u00e9eenti\u00e8 l\u00e9g\u00e8rementc\u00e9geant L Reg E mer 10 l\u00e9g\u00e8rementc\u00e9geantl\u00e9g\u00e8rementc\u00e9geant Directiondesnuages S O S O Pluie Tomb\u00e9e Temp\u00e9raturedel air 18 8 23 4 Hauteurdelamer 86 1 47 3 Agitationdel eau 2 fort 2 faible Densit\u00e9 auboutdelajet\u00e9e 1027 9 1027 8 Temp\u00e9raturedel eau 19 6 19 8 Nombresdepairsdubateaux 7 R 30 Septembre 1905 Matin Soir Haul\u00e9ur Barom\u00e9trique 762 7 762 7 Directionduventcr 8 S E ForceiS 1 1 fort Nebulosite Reg O Cleue 2 l\u00e9g\u00e8rementc\u00e9geant 10 l\u00e9g\u00e8rementc\u00e9geant L Reg E mer 1 l\u00e9g\u00e8rementc\u00e9geant 10 l\u00e9g\u00e8rementc\u00e9geant Directiondesnuages S O S O Pluie Tomb\u00e9e Temp\u00e9raturedel air 17 4 21 0 Hauteurdelamer 86 9 51 6 Agitationdel eau 1 fort 1 Densit\u00e9 auboutdelajet\u00e9e 1028 2 1027 9 Temp\u00e9raturedel eau 19 1 20 0",
+      "entities": {
+        "dates": [
+          "29 Septembre 1905",
+          "30 Septembre 1905"
+        ]
+      }
+    },
+    {
+      "page_number": "040",
+      "raw_content": "V 27 Octobre 1905 Matin Soir Hauteur Barometrique Direction du Vent Force 4 is N\u00e9bulosite Reg O claire Reg E nuage Direction des nuages Pluie tomb\u00e9e Temp\u00e9rature de l air Hauteur de la mer Agitation de l eau Densit\u00e9 au bout de la jet\u00e9e Temp\u00e9rature de l eau 1 62 Nombre au pairs du bateau Mecant V 3 Octobre 1905 Matin Soir",
+      "cleaned_content": "V 27 Octobre 1905 Matin Soir Hauteur Barometrique Directiondu Vent Force 4 is N\u00e9bulosite Reg O claire Reg E nuage Directiondesnuages Pluietomb\u00e9e Temp\u00e9raturedel air Hauteurdelamer Agitationdel eau Densit\u00e9 auboutdelajet\u00e9e Temp\u00e9raturedel eau 1 62 Nombreaupairsdubateau Mecant V 3 Octobre 1905 Matin Soir",
+      "entities": {
+        "dates": [
+          "27 Octobre 1905",
+          "3 Octobre 1905"
+        ]
+      }
+    },
+    {
+      "page_number": "041",
+      "raw_content": "V 4 Octobre 1905 Matin Soir Hauteur Barometrique 766 o 764 3 Direction du vent or or o S S E Force is 1 fort Res o Chine lo lo Nebulosite Res R mer W Lo Direction des nuages cr cr o N or o pluie tomb\u00e9e Temperature de l air 19 5 22 1 Hauteur de la mer 50 4 4 7 Oscillation de l eau 2 faible 2 Densit\u00e9 au bout de la jet\u00e9e 1028 3 1028 2 Temperature de l eau 18 2 18 5 V 5 Octobre 1905 Matin Soir Hauteur Barometrique 763 9 760 8 Direction du vent or or o S E Force is 1 fort Res o Chine lo lo Nebulosite Res R mer Lo Lo Direction des nuages ouest cr N o Pluie Tomb\u00e9e Temperature de l air 18 4 21 3 Hauteur de la mer 48 9 38 6 Oscillation de l eau 1 T fort 1 T fort Densit\u00e9 au bout de la jet\u00e9e 1028 9 1028 8 Temperature de l eau 18 7 19 2",
+      "cleaned_content": "V 4 Octobre 1905 Matin Soir Hauteur Barometrique 766 o 764 3 Directionduventororo S S E Forceis 1 fort Reso Chinelolo Nebulosite Res R mer W Lo Directiondesnuagescrcro N oro pluietomb\u00e9e Temperaturedel air 19 5 22 1 Hauteurdelamer 50 4 4 7 Oscillationdel eau 2 faible 2 Densit\u00e9 auboutdelajet\u00e9e 1028 3 1028 2 Temperaturedel eau 18 2 18 5 V 5 Octobre 1905 Matin Soir Hauteur Barometrique 763 9 760 8 Directionduventororo S E Forceis 1 fort Reso Chinelolo Nebulosite Res R mer Lo Lo Directiondesnuagesouestcr N o Pluie Tomb\u00e9e Temperaturedel air 18 4 21 3 Hauteurdelamer 48 9 38 6 Oscillationdel eau 1 T fort 1 T fort Densit\u00e9 auboutdelajet\u00e9e 1028 9 1028 8 Temperaturedel eau 18 7 19 2",
+      "entities": {
+        "dates": [
+          "4 Octobre 1905",
+          "5 Octobre 1905"
+        ]
+      }
+    },
+    {
+      "page_number": "042",
+      "raw_content": "V 6 Octobre 1905 Matin Soir Hauteur Barom\u00e9trique 761 7 761 6 Direction du vent N N O N N O Force is 3 fort 3 T fort R\u00e9gnante terre 40 28 N\u00e9bulosit\u00e9 W H R\u00e9gnante mer W I Direction des nuages N N O N N O Pluie Tomb\u00e9e quelques g Temp\u00e9rature de l air 16 2 17 8 Hauteur de la mer 3 1 44 7 Agitation de l eau 3 3 fort Densit\u00e9 au bout de la jet\u00e9e 1028 8 1028 9 Temp\u00e9rature de l eau 18 3 18 2 V 7 Octobre 1905 Matin Soir Hauteur Barom\u00e9trique 768 4 766 8 Direction du vent O R O N N O Force is 3 T fort 2 R\u00e9gnante terre 0 0 N\u00e9bulosit\u00e9 0 2 R\u00e9gnante mer 0 2 Direction des nuages Pluie tomb\u00e9e Temp\u00e9rature de l air 14 3 18 7 Hauteur de la mer 62 3 47 7 Agitation de l eau 4 3 T fort Densit\u00e9 au bout de la jet\u00e9e 1028 7 1028 7 Temp\u00e9rature de l eau 17 9 17 7",
+      "cleaned_content": "V 6 Octobre 1905 Matin Soir Hauteur Barom\u00e9trique 761 7 761 6 Directionduvent N N O N N O Forceis 3 fort 3 T fort R\u00e9gnanteterre 40 28 N\u00e9bulosit\u00e9 W H R\u00e9gnantemer W I Directiondesnuages N N O N N O Pluie Tomb\u00e9equelquesg Temp\u00e9raturedel air 16 2 17 8 Hauteurdelamer 3 1 44 7 Agitationdel eau 3 3 fort Densit\u00e9 auboutdelajet\u00e9e 1028 8 1028 9 Temp\u00e9raturedel eau 18 3 18 2 V 7 Octobre 1905 Matin Soir Hauteur Barom\u00e9trique 768 4 766 8 Directionduvent O R O N N O Forceis 3 T fort 2 R\u00e9gnanteterre 0 0 N\u00e9bulosit\u00e9 0 2 R\u00e9gnantemer 0 2 Directiondesnuages Pluietomb\u00e9e Temp\u00e9raturedel air 14 3 18 7 Hauteurdelamer 62 3 47 7 Agitationdel eau 4 3 T fort Densit\u00e9 auboutdelajet\u00e9e 1028 7 1028 7 Temp\u00e9raturedel eau 17 9 17 7",
+      "entities": {
+        "dates": [
+          "6 Octobre 1905",
+          "7 Octobre 1905"
+        ]
+      }
+    },
+    {
+      "page_number": "043",
+      "raw_content": "V 9 Octobre 1905 Matin Soir Hauteur Barometrique 769 6 768 3 Direction du vent N E N O Nord Force iS 3 T fort Nebulosit\u00e9 Reg 6 terre lo ligne ent c Reg E mer lo ligne ent c Direction des nuages Nord Nord Pluie tomb\u00e9e Temp\u00e9rature de l air 16 18 9 Hauteur de la mer 49 6 49 Agitation de l eau 3 3 Densite au bout de la jet\u00e9e 428 8 428 6 temp\u00e9rature de l eau 18 3 18 2 V 10 Octobre 1905 Matin Soir Hauteur Barometrique 764 7 Direction du vent S S E S O Force iS 3 fort Nebulosit\u00e9 Reg o terre lo Reg xi mer lo Direction des nuags S S E Pluie Tomb\u00e9e Temp\u00e9rature de l air 17 6 Hauteur de la mer 60 2 Agitation de l eau 3 Densite au bout de la jet\u00e9e 428 8 Temp\u00e9rature de l eau 18 0",
+      "cleaned_content": "V 9 Octobre 1905 Matin Soir Hauteur Barometrique 769 6 768 3 Directionduvent N E N O Nord ForceiS 3 T fort Nebulosit\u00e9 Reg 6 terreloligneentc Reg E merloligneentc Directiondesnuages Nord Nord Pluietomb\u00e9e Temp\u00e9raturedel air 16 18 9 Hauteurdelamer 49 6 49 Agitationdel eau 3 3 Densiteauboutdelajet\u00e9e 428 8 428 6 temp\u00e9raturedel eau 18 3 18 2 V 10 Octobre 1905 Matin Soir Hauteur Barometrique 764 7 Directionduvent S S E S O ForceiS 3 fort Nebulosit\u00e9 Rego terrelo Regximerlo Directiondesnuags S S E Pluie Tomb\u00e9e Temp\u00e9raturedel air 17 6 Hauteurdelamer 60 2 Agitationdel eau 3 Densiteauboutdelajet\u00e9e 428 8 Temp\u00e9raturedel eau 18 0",
+      "entities": {
+        "dates": [
+          "9 Octobre 1905",
+          "10 Octobre 1905"
+        ]
+      }
+    },
+    {
+      "page_number": "044",
+      "raw_content": "Date Matin Soir 11 Octobre 1905 Hauteur Barom\u00e9trique 763 6 br Direc\u021bion du vent cr cr o br Force is br R\u00e9g O l\u00e8vre 2 br N\u00e9bulosit\u00e9 br R\u00e9g R mer 1 br Direc\u021bion des nuages Noul br Pluie tomb\u00e9e quelques g br Temp\u00e9rature de l air 12 8 br Hauteur de la mer 47 br Agitation de l eau 4 br Densit\u00e9 au bout de la jet\u00e9e 1028 7 br temp\u00e9rature de l eau 17 8 Hauteur Barom\u00e9trique 762 7 br Direc\u021bion du vent crars br Force 4 T Jor br R\u00e9g O l\u00e8vre 0 br N\u00e9bulosit\u00e9 br R\u00e9g R mer 1 br Direc\u021bion des nuages crars br Pluie tomb\u00e9e br Temp\u00e9rature de l air 1 br Hauteur de la mer 42 0 br Agitation de l eau 4 fort br Densit\u00e9 au bout de la jet\u00e9e 1028 8 br Temp\u00e9rature de l eau 18 0 12 Octobre 1905 Hauteur Barom\u00e9trique 766 0 br Direc\u021bion du Vent cr cr o br Force is br R\u00e9g O l\u00e8vre 2 lignes br N\u00e9bulosit\u00e9 br R\u00e9g R mer 4 d\u00e9g ent c br Direc\u021bion des nuages er cr o br Pluie tomb\u00e9e br Temp\u00e9rature de l air 13 2 br Hauteur de la mer 44 2 br Agitation de l eau 3 Jor br Densit\u00e9 au bout de la jet\u00e9e 1028 8 br Temp\u00e9rature de l eau 18 3 Hauteur Barom\u00e9trique 766 0 br Direc\u021bion du Vent cr cr o br Force 4 Fort br R\u00e9g O l\u00e8vre 1 ligne entre br N\u00e9bulosit\u00e9 br R\u00e9g R mer 0 br Direc\u021bion des nuages W N O br Pluie tomb\u00e9e br Temp\u00e9rature de l air 1 3 br Hauteur de la mer 2 br Agitation de l eau 3 br Densit\u00e9 au bout de la jet\u00e9e 1027 9 br Temp\u00e9rature de l eau 18 4",
+      "cleaned_content": "Date Matin Soir 11 Octobre 1905 Hauteur Barom\u00e9trique 763 6 br Direc\u021bionduventcrcro br Forceisbr R\u00e9g O l\u00e8vre 2 br N\u00e9bulosit\u00e9 br R\u00e9g R mer 1 br Direc\u021biondesnuages Noulbr Pluietomb\u00e9equelquesg br Temp\u00e9raturedel air 12 8 br Hauteurdelamer 47 br Agitationdel eau 4 br Densit\u00e9 auboutdelajet\u00e9e 1028 7 brtemp\u00e9raturedel eau 17 8 Hauteur Barom\u00e9trique 762 7 br Direc\u021bionduventcrarsbr Force 4 T Jorbr R\u00e9g O l\u00e8vre 0 br N\u00e9bulosit\u00e9 br R\u00e9g R mer 1 br Direc\u021biondesnuagescrarsbr Pluietomb\u00e9ebr Temp\u00e9raturedel air 1 br Hauteurdelamer 42 0 br Agitationdel eau 4 fortbr Densit\u00e9 auboutdelajet\u00e9e 1028 8 br Temp\u00e9raturedel eau 18 0 12 Octobre 1905 Hauteur Barom\u00e9trique 766 0 br Direc\u021biondu Ventcrcro br Forceisbr R\u00e9g O l\u00e8vre 2 lignesbr N\u00e9bulosit\u00e9 br R\u00e9g R mer 4 d\u00e9gentc br Direc\u021biondesnuagesercro br Pluietomb\u00e9ebr Temp\u00e9raturedel air 13 2 br Hauteurdelamer 44 2 br Agitationdel eau 3 Jorbr Densit\u00e9 auboutdelajet\u00e9e 1028 8 br Temp\u00e9raturedel eau 18 3 Hauteur Barom\u00e9trique 766 0 br Direc\u021biondu Ventcrcro br Force 4 Fortbr R\u00e9g O l\u00e8vre 1 ligneentrebr N\u00e9bulosit\u00e9 br R\u00e9g R mer 0 br Direc\u021biondesnuages W N O br Pluietomb\u00e9ebr Temp\u00e9raturedel air 1 3 br Hauteurdelamer 2 br Agitationdel eau 3 br Densit\u00e9 auboutdelajet\u00e9e 1027 9 br Temp\u00e9raturedel eau 18 4",
+      "entities": {
+        "dates": [
+          "11 Octobre 1905",
+          "12 Octobre 1905"
+        ]
+      }
+    },
+    {
+      "page_number": "045",
+      "raw_content": "Nombre de pairs de bateaux V 13 Octobre 1905 Matin Soir Hauteur Barometrique 768 2 766 2 Direction du vent or cr o cr cr o Force is 3 3 N\u00e9bulosit\u00e9 Res c tire 0 1 l\u00e9g\u00e8re entr\u00e9e Pluie tomb\u00e9e Temp\u00e9rature de l air 14 0 16 7 Hauteur de la mer 91 99 8 Agitation de l eau 3 T Jour 3 T Jour Densite au bout de la jet\u00e9e 1029 0 1028 7 temp\u00e9rature de l eau 19 0 19 3 Nombre de pairs de bateaux V 14 Octobre 1905 Matin Soir Hauteur Barometrique 764 8 764 2 Direction du vent cr cr o cr cr o Force is 1 fort 2 T fort N\u00e9bulosit\u00e9 Res c tire 10 l\u00e9g\u00e8res entr\u00e9es 10 Pluie tomb\u00e9e Temp\u00e9rature de l air 17 0 19 3 Hauteur de la mer 91 7 64 8 Agitation de l eau 2 3 fort Densite au bout de la jet\u00e9e 1028 7 1028 7 Temp\u00e9rature de l eau 19 0 18 6",
+      "cleaned_content": "Nombredepairsdebateaux V 13 Octobre 1905 Matin Soir Hauteur Barometrique 768 2 766 2 Directionduventorcro crcro Forceis 3 3 N\u00e9bulosit\u00e9 Resc tire 0 1 l\u00e9g\u00e8reentr\u00e9e Pluietomb\u00e9e Temp\u00e9raturedel air 14 0 16 7 Hauteurdelamer 91 99 8 Agitationdel eau 3 T Jour 3 T Jour Densiteauboutdelajet\u00e9e 1029 0 1028 7 temp\u00e9raturedel eau 19 0 19 3 Nombredepairsdebateaux V 14 Octobre 1905 Matin Soir Hauteur Barometrique 764 8 764 2 Directionduventcrcro crcro Forceis 1 fort 2 T fort N\u00e9bulosit\u00e9 Resc tire 10 l\u00e9g\u00e8resentr\u00e9es 10 Pluietomb\u00e9e Temp\u00e9raturedel air 17 0 19 3 Hauteurdelamer 91 7 64 8 Agitationdel eau 2 3 fort Densiteauboutdelajet\u00e9e 1028 7 1028 7 Temp\u00e9raturedel eau 19 0 18 6",
+      "entities": {
+        "dates": [
+          "13 Octobre 1905",
+          "14 Octobre 1905"
+        ]
+      }
+    },
+    {
+      "page_number": "046",
+      "raw_content": "Nombre de paix N 16 Octobre 1905 7 16 atin Soir de bateaux Hauteur Barometrique 797 2 796 6 Direction du vent er cr o cr cr o Force is 17 fort 2 T fort Nebulosite Reg o terre 10 10 Res 2 mer W W Direction des nuags or o N o Pluie tomb\u00e9e Temp\u00e9rature de l air 17 0 16 3 Hauteur de la mer 8 7 46 8 Agitation de l eau 1 fort 17 Fort Densit\u00e9 au bout de la jet\u00e9e 1028 7 1028 8 Temp\u00e9rature de l eau 17 8 17 Nombre de paix N 17 Octobre 1905 7 16atin Soir de bateaux Hauteur Barometrique 760 4 760 2 Direction du vent cr cr o crois Force is 2 2 Nebulosite Reg o terre 0 1 Res 2 mer 0 0 Direction des nuags or cr o S o Pluie tomb\u00e9e Temp\u00e9rature de l air 16 3 16 3 Hauteur de la mer 41 0 3 2 Agitation de l eau 3 faible 3 Densit\u00e9 au bout de la jet\u00e9e 1028 7 1028 6 Temp\u00e9rature de l eau 18 1 18",
+      "cleaned_content": "Nombredepaix N 16 Octobre 1905 7 16 atin Soirdebateaux Hauteur Barometrique 797 2 796 6 Directionduventercro crcro Forceis 17 fort 2 T fort Nebulosite Rego terre 10 10 Res 2 mer W W Directiondesnuagsoro N o Pluietomb\u00e9e Temp\u00e9raturedel air 17 0 16 3 Hauteurdelamer 8 7 46 8 Agitationdel eau 1 fort 17 Fort Densit\u00e9 auboutdelajet\u00e9e 1028 7 1028 8 Temp\u00e9raturedel eau 17 8 17 Nombredepaix N 17 Octobre 1905 7 16atin Soirdebateaux Hauteur Barometrique 760 4 760 2 Directionduventcrcro crois Forceis 2 2 Nebulosite Rego terre 0 1 Res 2 mer 0 0 Directiondesnuagsorcro S o Pluietomb\u00e9e Temp\u00e9raturedel air 16 3 16 3 Hauteurdelamer 41 0 3 2 Agitationdel eau 3 faible 3 Densit\u00e9 auboutdelajet\u00e9e 1028 7 1028 6 Temp\u00e9raturedel eau 18 1 18",
+      "entities": {
+        "dates": [
+          "16 Octobre 1905",
+          "17 Octobre 1905"
+        ]
+      }
+    },
+    {
+      "page_number": "047",
+      "raw_content": "Nombre de bateaux Nombre de paix V 18 Octobre 1905 Matin V 18 Octobre 1905 Soir Hauteur Barom\u00e9trique br Direction du vent br Force br N\u00e9bulosit\u00e9 br Direcction des nuags br Pluie tomb\u00e9e br Temp\u00e9rature de l air br Hauteur de la mer br Oscitation de l eau br Densit\u00e9 au bout de la jet\u00e9e br Temp\u00e9rature de l eau 764 3 br cr cr o br is br R\u00e9g O terre br L R\u00e9g E mer br br S br 40 9 br 3 faible br 1028 4 br 18 0 763 3 br CNOS br d fort br 8 fort br 1 br cr br cr 8 br S br 44 8 br 3 faible br 1028 9 br 18 0 Nombre de bateaux Nombre de paix V 19 Octobre 1905 Matin V 19 Octobre 1905 Soir Hauteur Barom\u00e9trique br Direction du vent br Force br N\u00e9bulosit\u00e9 br Direcction des nuags br Pluie tomb\u00e9e br Temp\u00e9rature de l air br Hauteur de la mer br Oscitation de l eau br Densit\u00e9 au bout de la jet\u00e9e br Temp\u00e9rature de l eau 763 0 br I S E br is br R\u00e9g O terre br L R\u00e9g E mer br br M br 42 9 br IT FORT br 1028 9 br 19 2 1 8 8 br 2 br 0 br 0 br br W br 17 4fort",
+      "cleaned_content": "Nombredebateaux Nombredepaix V 18 Octobre 1905 Matin V 18 Octobre 1905 Soir Hauteur Barom\u00e9triquebr Directionduventbr Forcebr N\u00e9bulosit\u00e9 br Direcctiondesnuagsbr Pluietomb\u00e9ebr Temp\u00e9raturedel airbr Hauteurdelamerbr Oscitationdel eaubr Densit\u00e9 auboutdelajet\u00e9ebr Temp\u00e9raturedel eau 764 3 brcrcro brisbr R\u00e9g O terrebr L R\u00e9g E merbrbr S br 40 9 br 3 faiblebr 1028 4 br 18 0 763 3 br CNOS brd fortbr 8 fortbr 1 brcrbrcr 8 br S br 44 8 br 3 faiblebr 1028 9 br 18 0 Nombredebateaux Nombredepaix V 19 Octobre 1905 Matin V 19 Octobre 1905 Soir Hauteur Barom\u00e9triquebr Directionduventbr Forcebr N\u00e9bulosit\u00e9 br Direcctiondesnuagsbr Pluietomb\u00e9ebr Temp\u00e9raturedel airbr Hauteurdelamerbr Oscitationdel eaubr Densit\u00e9 auboutdelajet\u00e9ebr Temp\u00e9raturedel eau 763 0 br I S E brisbr R\u00e9g O terrebr L R\u00e9g E merbrbr M br 42 9 br IT FORT br 1028 9 br 19 2 1 8 8 br 2 br 0 br 0 brbr W br 17 4fort",
+      "entities": {
+        "dates": [
+          "18 Octobre 1905",
+          "18 Octobre 1905",
+          "19 Octobre 1905",
+          "19 Octobre 1905"
+        ]
+      }
+    },
+    {
+      "page_number": "048",
+      "raw_content": "V 20 Octobre 1905 Matin Soir Hauteur Barom\u00e9trique 799 6 798 9 Direction du Vent cr cr o cr cr o Force iS faible fort N\u00e9bulosit\u00e9 Res o terre 10 lu N\u00e9bulosit\u00e9 Res xi mer lu lu Direction des nuages cr cr o N cr o Pluie tomb\u00e9e 8 62 quelques g Temp\u00e9rature de l air 3 E Hauteur de la mer 87 2 36 2 Agitation de l eau 2 d ferr Densit\u00e9 au bout de la jet\u00e9e lo28 9 lo28 6 temp\u00e9rature de l eau 17 3 16 9 V 21 Octobre 1905 Matin Soir Hauteur Barom\u00e9trique 760 9 Direction du vent Nous Force iS 3 N\u00e9bulosit\u00e9 Res o terre 0 N\u00e9bulosit\u00e9 Res xi mer 0 0 Direction Ses nuages Pluie tomb\u00e9e Temp\u00e9rature de l air Hauteur de la mer 39 0 Agitation de l eau 3 Densit\u00e9 au bout de la jet\u00e9e lo27 8 temp\u00e9rature de l eau 16 4",
+      "cleaned_content": "V 20 Octobre 1905 Matin Soir Hauteur Barom\u00e9trique 799 6 798 9 Directiondu Ventcrcro crcro ForceiS faiblefort N\u00e9bulosit\u00e9 Reso terre 10 lu N\u00e9bulosit\u00e9 Resximerlulu Directiondesnuagescrcro N cro Pluietomb\u00e9e 8 62 quelquesg Temp\u00e9raturedel air 3 E Hauteurdelamer 87 2 36 2 Agitationdel eau 2 dferr Densit\u00e9 auboutdelajet\u00e9elo28 9 lo28 6 temp\u00e9raturedel eau 17 3 16 9 V 21 Octobre 1905 Matin Soir Hauteur Barom\u00e9trique 760 9 Directionduvent Nous ForceiS 3 N\u00e9bulosit\u00e9 Reso terre 0 N\u00e9bulosit\u00e9 Resximer 0 0 Direction Sesnuages Pluietomb\u00e9e Temp\u00e9raturedel air Hauteurdelamer 39 0 Agitationdel eau 3 Densit\u00e9 auboutdelajet\u00e9elo27 8 temp\u00e9raturedel eau 16 4",
+      "entities": {
+        "dates": [
+          "20 Octobre 1905",
+          "21 Octobre 1905"
+        ]
+      }
+    },
+    {
+      "page_number": "049",
+      "raw_content": "Nombre de bateaux Nombre de jours R 23 Octobre 1905 Matin Soir Hauteur Barom\u00e9trique 762 1 762 0 Direction du vent Nord Nord Force 1 fort 1 fort N\u00e9bulosit\u00e9 Reg O terre W W Reg E mer W W Direction des nuages Nord Nord Pluie tomb\u00e9e temp\u00e9rature de l air 3 3 Hauteur de la mer 46 2 89 3 Agitation de l eau 2 Tr fort 3 faible Densit\u00e9 au bout de la jet\u00e9e 1028 8 1028 7 Temp\u00e9rature de l eau 17 2 16 1 Nombre de bateaux Nombre de jours R 24 Octobre 1905 Matin Soir Hauteur Barom\u00e9trique 799 7 Direction du vent Nord Force 1 fort N\u00e9bulosit\u00e9 Des O terre W Reg E mer W Direction des nuages Sud Pluie tomb\u00e9e quelques g Temp\u00e9rature de l air 3 Hauteur de la mer 42 9 Agitation de l eau 4 Densit\u00e9 au bout de la jet\u00e9e 1029 0 Temp\u00e9rature de l eau 17 1",
+      "cleaned_content": "Nombredebateaux Nombredejours R 23 Octobre 1905 Matin Soir Hauteur Barom\u00e9trique 762 1 762 0 Directionduvent Nord Nord Force 1 fort 1 fort N\u00e9bulosit\u00e9 Reg O terre W W Reg E mer W W Directiondesnuages Nord Nord Pluietomb\u00e9etemp\u00e9raturedel air 3 3 Hauteurdelamer 46 2 89 3 Agitationdel eau 2 Trfort 3 faible Densit\u00e9 auboutdelajet\u00e9e 1028 8 1028 7 Temp\u00e9raturedel eau 17 2 16 1 Nombredebateaux Nombredejours R 24 Octobre 1905 Matin Soir Hauteur Barom\u00e9trique 799 7 Directionduvent Nord Force 1 fort N\u00e9bulosit\u00e9 Des O terre W Reg E mer W Directiondesnuages Sud Pluietomb\u00e9equelquesg Temp\u00e9raturedel air 3 Hauteurdelamer 42 9 Agitationdel eau 4 Densit\u00e9 auboutdelajet\u00e9e 1029 0 Temp\u00e9raturedel eau 17 1",
+      "entities": {
+        "dates": [
+          "23 Octobre 1905",
+          "24 Octobre 1905"
+        ]
+      }
+    },
+    {
+      "page_number": "050",
+      "raw_content": "Date Matin Soir 25 Octobre 1905 H Barom\u00e9trique br 764 3 br Direc du vent br er cr o br Tonce br id br R\u00e9s O terre br lu br N\u00e9bulosit\u00e9 br R\u00e9s 2 sup e sup mer br lo br Direc des nuags br S d r 8 br Pluie Tomb\u00e9e br 10 7 br Temp\u00e9rature de l air br 8 1 8 br Haut de la mer br 3 br Agitat de l eau br 7 br Vensite au bout de la jet\u00e9e br 3 br Temp\u00e9rature de l eau br H Barom\u00e9trique br 761 3 br Direc du vent br cr cr o br Tonce br 3 four br R\u00e9s O terre br 10 br N\u00e9bulosit\u00e9 br R\u00e9s 2 sup e sup mer br 10 br Direc des nuags br cr 8 br Pluie Tomb\u00e9e br 2 2 br Temp\u00e9rature de l air br 11 0 br Haut de la mer br 3 br Agitat de l eau br 1 br Vensite au bout de la jet\u00e9e br 3 br Temp\u00e9rature de l eau br 3 26 Octobre 1905 H Barom\u00e9trique br 762 3 br Direc du vent br cr cr o br Tonce br iS br R\u00e9s O terre br o br N\u00e9bulosit\u00e9 br R\u00e9s 2 sup e sup mer br o br Direc des nuags br br Pluie Tomb\u00e9e br quelques g br Temp\u00e9rature de l air br 10 8 br Haut de la mer br 47 x br Agitat de l eau br x br Vensite au bout de la jet\u00e9e br 1029 br Temp\u00e9rature de l eau br 17 1 H Barom\u00e9trique br 763 br Direc du vent br or cr o br Tonce br d faible br df br R\u00e9s O terre br o br N\u00e9bulosit\u00e9 br R\u00e9s 2 sup e sup mer br o br Direc des nuags br br Pluie Tomb\u00e9e br br Temp\u00e9rature de l air br 12 6 br Haut de la mer br 40 br Agitat de l eau br x br Vensite au bout de la jet\u00e9e br 1029 4 br Temp\u00e9rature de l eau br 17 0",
+      "cleaned_content": "Date Matin Soir 25 Octobre 1905 H Barom\u00e9triquebr 764 3 br Direcduventbrercro br Toncebridbr R\u00e9s O terrebrlubr N\u00e9bulosit\u00e9 br R\u00e9s 2 supe supmerbrlobr Direcdesnuagsbr S dr 8 br Pluie Tomb\u00e9ebr 10 7 br Temp\u00e9raturedel airbr 8 1 8 br Hautdelamerbr 3 br Agitatdel eaubr 7 br Vensiteauboutdelajet\u00e9ebr 3 br Temp\u00e9raturedel eaubr H Barom\u00e9triquebr 761 3 br Direcduventbrcrcro br Toncebr 3 fourbr R\u00e9s O terrebr 10 br N\u00e9bulosit\u00e9 br R\u00e9s 2 supe supmerbr 10 br Direcdesnuagsbrcr 8 br Pluie Tomb\u00e9ebr 2 2 br Temp\u00e9raturedel airbr 11 0 br Hautdelamerbr 3 br Agitatdel eaubr 1 br Vensiteauboutdelajet\u00e9ebr 3 br Temp\u00e9raturedel eaubr 3 26 Octobre 1905 H Barom\u00e9triquebr 762 3 br Direcduventbrcrcro br ToncebriS br R\u00e9s O terrebro br N\u00e9bulosit\u00e9 br R\u00e9s 2 supe supmerbro br Direcdesnuagsbrbr Pluie Tomb\u00e9ebrquelquesg br Temp\u00e9raturedel airbr 10 8 br Hautdelamerbr 47 xbr Agitatdel eaubrx br Vensiteauboutdelajet\u00e9ebr 1029 br Temp\u00e9raturedel eaubr 17 1 H Barom\u00e9triquebr 763 br Direcduventbrorcro br Toncebrd faiblebrdfbr R\u00e9s O terrebro br N\u00e9bulosit\u00e9 br R\u00e9s 2 supe supmerbro br Direcdesnuagsbrbr Pluie Tomb\u00e9ebrbr Temp\u00e9raturedel airbr 12 6 br Hautdelamerbr 40 br Agitatdel eaubrx br Vensiteauboutdelajet\u00e9ebr 1029 4 br Temp\u00e9raturedel eaubr 17 0",
+      "entities": {
+        "dates": [
+          "25 Octobre 1905",
+          "26 Octobre 1905"
+        ]
+      }
+    },
+    {
+      "page_number": "051",
+      "raw_content": "N Nombre de bateaux Nombre de pairs du pays 27 Octobre 1905 Matin Soir Hauteur Barom\u00e9trique 769 8 769 3 Direction du vent crois er Force is fort Nebulosite Res o lun 2 degres ci 0 Res E mer 1 0 Direction des nuages Pluie tomb\u00e9e Temp\u00e9rature de l air 12 3 Hauteur de la mer 12 1 18 3 Agitation de l eau 8fort 3 fort Densit\u00e9 au bout de la jet\u00e9e 1029 8 1029 0 Temp\u00e9rature de l eau 17 1 18 3 N Nombre de bateaux Nombre de pairs du pays 28 Octobre 1905 Matin Soir 2 Hauteur Barom\u00e9trique 766 8 766 8 Direction des nuages vent S S E S S E Pluie tomb\u00e9e Floree 1fort 1fort Temp\u00e9rature de l air Nebulosite Res o terre 10 10 Res E mer 10 10 Direction des nuages er 8 er 8 Pluie tomb\u00e9e er Temp\u00e9rature de l air 14 6 14 6 Hauteur de la mer 11 0 11 0 Agitation de l eau 2 2 Densit\u00e9 au bout de la jet\u00e9e 1028 9 1028 9 Temp\u00e9rature de l eau 17 6 17 6",
+      "cleaned_content": "N Nombredebateaux Nombredepairsdupays 27 Octobre 1905 Matin Soir Hauteur Barom\u00e9trique 769 8 769 3 Directionduventcroiser Forceisfort Nebulosite Reso lun 2 degresci 0 Res E mer 1 0 Directiondesnuages Pluietomb\u00e9e Temp\u00e9raturedel air 12 3 Hauteurdelamer 12 1 18 3 Agitationdel eau 8fort 3 fort Densit\u00e9 auboutdelajet\u00e9e 1029 8 1029 0 Temp\u00e9raturedel eau 17 1 18 3 N Nombredebateaux Nombredepairsdupays 28 Octobre 1905 Matin Soir 2 Hauteur Barom\u00e9trique 766 8 766 8 Directiondesnuagesvent S S E S S E Pluietomb\u00e9e Floree 1fort 1fort Temp\u00e9raturedel air Nebulosite Reso terre 10 10 Res E mer 10 10 Directiondesnuageser 8 er 8 Pluietomb\u00e9eer Temp\u00e9raturedel air 14 6 14 6 Hauteurdelamer 11 0 11 0 Agitationdel eau 2 2 Densit\u00e9 auboutdelajet\u00e9e 1028 9 1028 9 Temp\u00e9raturedel eau 17 6 17 6",
+      "entities": {
+        "dates": [
+          "27 Octobre 1905",
+          "28 Octobre 1905"
+        ]
+      }
+    },
+    {
+      "page_number": "052",
+      "raw_content": "Le 2 Novembre 1905 Sorti pour la Perche \u00e0 la tramie 2 jours",
+      "cleaned_content": "Le 2 Novembre 1905 Sortipourla Perche \u00e0 latramie 2 jours",
+      "entities": {
+        "dates": [
+          "2 Novembre 1905"
+        ]
+      }
+    },
+    {
+      "page_number": "053",
+      "raw_content": "Nombre du bateaux c V 30 Octobre 1905 Matin Soir Hauteur Barometrique 767 6 756 5 Direction du vent S O crois Force i5 2 1 Fort Res a Terre W Lo N\u00e9bulosit\u00e9 Reg 2i mer lo lo Direction des nuags O er o S O Pluie tomb\u00e9e Temp\u00e9rature de l air 13 9 19 9 Hauteur de la mer 24 3 48 6 Agitation de l eau 1 fort 17 fort Densit\u00e9 au bout de la jet\u00e9e 1o29 o 1o29 o Temp\u00e9rature de l eau 18 8 17 8 Nombre du bateaux c V 31 Octobre 1905 Matin Soir Hauteur Barometrique 768 4 Direction du vent cr cr o Force i5 1 fort Res O Terre W N\u00e9bulosit\u00e9 Reg 2i mer lo Direction des nuags Ouest Pluie Tomb\u00e9e quelques g Temp\u00e9rature de l air 19 0 Hauteur de la mer 34 4 Agitation de l eau 1 T Fort Densit\u00e9 au bout de la jet\u00e9e 1o28 6 Temp\u00e9rature de l eau 27 3",
+      "cleaned_content": "Nombredubateauxc V 30 Octobre 1905 Matin Soir Hauteur Barometrique 767 6 756 5 Directionduvent S O crois Forcei5 2 1 Fort Resa Terre W Lo N\u00e9bulosit\u00e9 Reg 2imerlolo Directiondesnuags O ero S O Pluietomb\u00e9e Temp\u00e9raturedel air 13 9 19 9 Hauteurdelamer 24 3 48 6 Agitationdel eau 1 fort 17 fort Densit\u00e9 auboutdelajet\u00e9e 1o29 o 1o29 o Temp\u00e9raturedel eau 18 8 17 8 Nombredubateauxc V 31 Octobre 1905 Matin Soir Hauteur Barometrique 768 4 Directionduventcrcro Forcei5 1 fort Res O Terre W N\u00e9bulosit\u00e9 Reg 2imerlo Directiondesnuags Ouest Pluie Tomb\u00e9equelquesg Temp\u00e9raturedel air 19 0 Hauteurdelamer 34 4 Agitationdel eau 1 T Fort Densit\u00e9 auboutdelajet\u00e9e 1o28 6 Temp\u00e9raturedel eau 27 3",
+      "entities": {
+        "dates": [
+          "30 Octobre 1905",
+          "31 Octobre 1905"
+        ]
+      }
+    },
+    {
+      "page_number": "054",
+      "raw_content": "V 3 Novembre 1905 Matin Soir Hauteur Barom\u00e9trique 7 29 6 7 28 3 Direction du vent S S E Force iS o N\u00e9bulosit\u00e9 Reg o terre 2 l\u00e9g\u00e8rement c 40 l\u00e9g\u00e8res Reg E mer 3 l\u00e9g\u00e8rement c lo L\u00e9g\u00e8re c Direction des nuages S O Pluie tomb\u00e9e quelques gouttes Temp\u00e9rature de l air 10 8 17 1 Hauteur de la mer 33 0 32 0 Agitation de l eau 2 2 forte Densit\u00e9 au haut de la jet\u00e9e 1029 1 1028 1 Temp\u00e9rature de l eau 16 4 16 1 V 4 Novembre 1905 Matin Soir Hauteur Barom\u00e9trique 7 28 4 Direction du vent S O Force iS 1 Forte N\u00e9bulosit\u00e9 Reg o terre n Reg E mer W Direction des nuages S S O Pluie tomb\u00e9e 2o 62p Temp\u00e9rature de l air 11 9 Hauteur de la mer 5 Agitation de l eau 10 Densit\u00e9 au haut de la jet\u00e9e 5 Temp\u00e9rature de l eau 5",
+      "cleaned_content": "V 3 Novembre 1905 Matin Soir Hauteur Barom\u00e9trique 7 29 6 7 28 3 Directionduvent S S E ForceiS o N\u00e9bulosit\u00e9 Rego terre 2 l\u00e9g\u00e8rementc 40 l\u00e9g\u00e8res Reg E mer 3 l\u00e9g\u00e8rementc lo L\u00e9g\u00e8rec Directiondesnuages S O Pluietomb\u00e9equelquesgouttes Temp\u00e9raturedel air 10 8 17 1 Hauteurdelamer 33 0 32 0 Agitationdel eau 2 2 forte Densit\u00e9 auhautdelajet\u00e9e 1029 1 1028 1 Temp\u00e9raturedel eau 16 4 16 1 V 4 Novembre 1905 Matin Soir Hauteur Barom\u00e9trique 7 28 4 Directionduvent S O ForceiS 1 Forte N\u00e9bulosit\u00e9 Rego terren Reg E mer W Directiondesnuages S S O Pluietomb\u00e9e 2o 62p Temp\u00e9raturedel air 11 9 Hauteurdelamer 5 Agitationdel eau 10 Densit\u00e9 auhautdelajet\u00e9e 5 Temp\u00e9raturedel eau 5",
+      "entities": {
+        "dates": [
+          "3 Novembre 1905",
+          "4 Novembre 1905"
+        ]
+      }
+    },
+    {
+      "page_number": "055",
+      "raw_content": "V 6 Novembre 1905 Matin Soir Hauteur Barom\u00e9trique 762 8 Direction du Vent cr cr c Force is N\u00e9bulosit\u00e9 Res o terre w Res ni mer w Direction des nuages Sud Pluie tomb\u00e9e 13 62 Temp\u00e9rature de l air 10 4 Hauteur de la mer 34 1 Agitation de l eau 2 T fort Densit\u00e9 au bord de la jet\u00e9e 1028 Temp\u00e9rature de l eau 16 4 V 7 Novembre 1905 Matin Soir",
+      "cleaned_content": "V 6 Novembre 1905 Matin Soir Hauteur Barom\u00e9trique 762 8 Directiondu Ventcrcrc Forceis N\u00e9bulosit\u00e9 Reso terrew Resnimerw Directiondesnuages Sud Pluietomb\u00e9e 13 62 Temp\u00e9raturedel air 10 4 Hauteurdelamer 34 1 Agitationdel eau 2 T fort Densit\u00e9 auborddelajet\u00e9e 1028 Temp\u00e9raturedel eau 16 4 V 7 Novembre 1905 Matin Soir",
+      "entities": {
+        "dates": [
+          "6 Novembre 1905",
+          "7 Novembre 1905"
+        ]
+      }
+    },
+    {
+      "page_number": "056",
+      "raw_content": "V 8 Novembre 1905 Matin Soir Hauteur Barom\u00e9trique 764 3 Direction du vent cr vr o Force is 3 fort N\u00e9bulosit\u00e9 Des 6 lire 10 Des 2\u00e8 mer 10 Direction des nuages cr vr o Pluie tomb\u00e9e 12 Temp\u00e9rature de l air 12 7 Hauteur de la mer 8f 2 Agitation de l eau 3 Densit\u00e9 au bout de la jet\u00e9e 1028 7 Temp\u00e9rature de l eau 17 0 V 9 Novembre 1905 Matin Soir Hauteur Barom\u00e9trique 766 1 768 6 Direction du vent cr vr o cr vr o Force is 2 T fort T fort N\u00e9bulosit\u00e9 Des 6 lire 0 10 Des E mer 0 10 Direction des nuages cr vr o cr vr o Pluie tomb\u00e9e Temp\u00e9rature de l air 12 3 13 2 Hauteur de la mer 51 7 42 4 Agitation de l eau 2 2 fort Densit\u00e9 au bout de la jet\u00e9e 1028 7 1028 8 Temp\u00e9rature de l eau 13 3 16 3",
+      "cleaned_content": "V 8 Novembre 1905 Matin Soir Hauteur Barom\u00e9trique 764 3 Directionduventcrvro Forceis 3 fort N\u00e9bulosit\u00e9 Des 6 lire 10 Des 2\u00e8 mer 10 Directiondesnuagescrvro Pluietomb\u00e9e 12 Temp\u00e9raturedel air 12 7 Hauteurdelamer 8f 2 Agitationdel eau 3 Densit\u00e9 auboutdelajet\u00e9e 1028 7 Temp\u00e9raturedel eau 17 0 V 9 Novembre 1905 Matin Soir Hauteur Barom\u00e9trique 766 1 768 6 Directionduventcrvro crvro Forceis 2 T fort T fort N\u00e9bulosit\u00e9 Des 6 lire 0 10 Des E mer 0 10 Directiondesnuagescrvro crvro Pluietomb\u00e9e Temp\u00e9raturedel air 12 3 13 2 Hauteurdelamer 51 7 42 4 Agitationdel eau 2 2 fort Densit\u00e9 auboutdelajet\u00e9e 1028 7 1028 8 Temp\u00e9raturedel eau 13 3 16 3",
+      "entities": {
+        "dates": [
+          "8 Novembre 1905",
+          "9 Novembre 1905"
+        ]
+      }
+    },
+    {
+      "page_number": "057",
+      "raw_content": "V 10 Novembre 1905 Matin Soir Hauteur Barom\u00e9trique 766 4 764 6 Direction du vent er cr o Force is 1 fort o N\u00e9bulosit\u00e9 Reg O Cl\u00e8re o Direction des nuages cr cr o cr cr o Pluie tomb\u00e9e Temp\u00e9rature de l air 11 9 13 0 Hauteur de la mer 49 3 46 9 Agitation de l eau 1 1 Densit\u00e9 au bout de la jet\u00e9e 1028 9 1028 6 Temp\u00e9rature de l eau 17 2 17 4 V 11 Novembre 1905 Matin Soir Hauteur Barom\u00e9trique 762 3 760 5 Direction du Vent S O er cr o Force is 1 faible 1 fort N\u00e9bulosit\u00e9 Reg O Cl\u00e8re lo lo Direction des nuages eNord Nord quelque g Pluie Tomb\u00e9e quelques g Temp\u00e9rature de l air 10 6 11 6 Hauteur de la mer 40 9 40 8 Agitation de l eau 2 1 fort Densit\u00e9 au bout de la jet\u00e9e 1028 6 1028 4 Temp\u00e9rature de l eau 17 0 17 7",
+      "cleaned_content": "V 10 Novembre 1905 Matin Soir Hauteur Barom\u00e9trique 766 4 764 6 Directionduventercro Forceis 1 forto N\u00e9bulosit\u00e9 Reg O Cl\u00e8reo Directiondesnuagescrcro crcro Pluietomb\u00e9e Temp\u00e9raturedel air 11 9 13 0 Hauteurdelamer 49 3 46 9 Agitationdel eau 1 1 Densit\u00e9 auboutdelajet\u00e9e 1028 9 1028 6 Temp\u00e9raturedel eau 17 2 17 4 V 11 Novembre 1905 Matin Soir Hauteur Barom\u00e9trique 762 3 760 5 Directiondu Vent S O ercro Forceis 1 faible 1 fort N\u00e9bulosit\u00e9 Reg O Cl\u00e8relolo DirectiondesnuageseNord Nordquelqueg Pluie Tomb\u00e9equelquesg Temp\u00e9raturedel air 10 6 11 6 Hauteurdelamer 40 9 40 8 Agitationdel eau 2 1 fort Densit\u00e9 auboutdelajet\u00e9e 1028 6 1028 4 Temp\u00e9raturedel eau 17 0 17 7",
+      "entities": {
+        "dates": [
+          "10 Novembre 1905",
+          "11 Novembre 1905"
+        ]
+      }
+    },
+    {
+      "page_number": "058",
+      "raw_content": "Date Matin Soir 9 13 Novembre 1905 Hauteur Barom\u00e9trique br 748 2 br Direcction du vent br O R O br Force br 3 br N\u00e9bulosit\u00e9 br R\u00e9g O terre br W br Mouvement des mers br Des E mer br W br Direction des vagues br Ouest br Pluie tomb\u00e9e br 0 87 br temp\u00e9rature de l air br 12 8 br Hauteur de la mer br 20 9 br Agitatian de l eau br S br Devrite au baut de la jet\u00e9e br 1028 8 br Tempierature de l eau br 16 9 Hauteur Barom\u00e9trique br 746 3 br Direcction du vent br S O br Force br 1 fort br N\u00e9bulosit\u00e9 br R\u00e9g O terre br W br Mouvement des mers br Des E mer br W br Direction des vagues br S O br Pluie tomb\u00e9e br br Temp\u00e9rature de l air br 12 2 br Hauteur de la mer br 48 0 br Agitatian de l eau br 2 T fort br Devrite au baut de la jet\u00e9e br 1028 8 br Tempierature de l eau br 16 8 9 14 Novembre 1905 Hauteur Barom\u00e9trique br 749 6 br Direcction du vent br er cr o br Force br 4 br N\u00e9bulosit\u00e9 br R\u00e9g O terre br W br Mouvement des mers br Des E mer br W br Direction des vagues br Ouest br Pluie tomb\u00e9e br br Temp\u00e9rature de l air br 12 3 br Hauteur de la mer br 40 8 br Agitatian de l eau br 2 fort br Devrite au baut de la jet\u00e9e br 1029 0 br Tempierature de l eau br 19 6 Hauteur Barom\u00e9trique br 749 6 br Direcction du vent br cr cr o br Force br 2 br N\u00e9bulosit\u00e9 br R\u00e9g O terre br W br Mouvement des mers br Des E mer br W br Direction des vagues br Ouest br Pluie tomb\u00e9e br br Temp\u00e9rature de l air br 12 6 br Hauteur de la mer br 36 7 br Agitatian de l eau br 2 faible br Devrite au baut de la jet\u00e9e br 1029 3 br Tempierature de l eau br 19 6",
+      "cleaned_content": "Date Matin Soir 9 13 Novembre 1905 Hauteur Barom\u00e9triquebr 748 2 br Direcctionduventbr O R O br Forcebr 3 br N\u00e9bulosit\u00e9 br R\u00e9g O terrebr W br Mouvementdesmersbr Des E merbr W br Directiondesvaguesbr Ouestbr Pluietomb\u00e9ebr 0 87 brtemp\u00e9raturedel airbr 12 8 br Hauteurdelamerbr 20 9 br Agitatiandel eaubr S br Devriteaubautdelajet\u00e9ebr 1028 8 br Tempieraturedel eaubr 16 9 Hauteur Barom\u00e9triquebr 746 3 br Direcctionduventbr S O br Forcebr 1 fortbr N\u00e9bulosit\u00e9 br R\u00e9g O terrebr W br Mouvementdesmersbr Des E merbr W br Directiondesvaguesbr S O br Pluietomb\u00e9ebrbr Temp\u00e9raturedel airbr 12 2 br Hauteurdelamerbr 48 0 br Agitatiandel eaubr 2 T fortbr Devriteaubautdelajet\u00e9ebr 1028 8 br Tempieraturedel eaubr 16 8 9 14 Novembre 1905 Hauteur Barom\u00e9triquebr 749 6 br Direcctionduventbrercro br Forcebr 4 br N\u00e9bulosit\u00e9 br R\u00e9g O terrebr W br Mouvementdesmersbr Des E merbr W br Directiondesvaguesbr Ouestbr Pluietomb\u00e9ebrbr Temp\u00e9raturedel airbr 12 3 br Hauteurdelamerbr 40 8 br Agitatiandel eaubr 2 fortbr Devriteaubautdelajet\u00e9ebr 1029 0 br Tempieraturedel eaubr 19 6 Hauteur Barom\u00e9triquebr 749 6 br Direcctionduventbrcrcro br Forcebr 2 br N\u00e9bulosit\u00e9 br R\u00e9g O terrebr W br Mouvementdesmersbr Des E merbr W br Directiondesvaguesbr Ouestbr Pluietomb\u00e9ebrbr Temp\u00e9raturedel airbr 12 6 br Hauteurdelamerbr 36 7 br Agitatiandel eaubr 2 faiblebr Devriteaubautdelajet\u00e9ebr 1029 3 br Tempieraturedel eaubr 19 6",
+      "entities": {
+        "dates": [
+          "13 Novembre 1905",
+          "14 Novembre 1905"
+        ]
+      }
+    },
+    {
+      "page_number": "059",
+      "raw_content": "Date Matin Soir 15 Novembre 1905 Hauteur Barom\u00e9trique br 746 1 br br Direc\u021bion du vent br cr cr o br br Force br i5 br br R\u00e9g o terre br lo br br N\u00e9bulosite br R\u00e9g ti mer br lo br br Direc\u021bion des nuages br er E br br Pluie Tomb\u00e9e br 4 2 br br Temp\u00e9rature de l air br 7 4 br br Hauteur de la mer br 29 0 br br Agitation de l eau br 3 faible br br Versit\u00e9 au bout de la jet\u00e9e br 1028 8 br br Temp\u00e9rature de l eau br 17 3 Hauteur Barom\u00e9trique br 745 7 br br Direc\u021bion du vent br cr vr o br br Force br 2 fort br br R\u00e9g o terre br lo br br N\u00e9bulosite br R\u00e9g ti mer br lo br br Direc\u021bion des nuages br cr cr o br br Pluie Tomb\u00e9e br 1 0 br br Temp\u00e9rature de l air br 10 0 br br Hauteur de la mer br 34 br br Agitation de l eau br 3 br br Versit\u00e9 au bout de la jet\u00e9e br 1028 9 br br Temp\u00e9rature de l eau br 19 6 17 Novembre 1905 Hauteur Barom\u00e9trique br 763 8 br br Direc\u021bion du vent br Ouest br br Force br i5 br br R\u00e9g o terre br lo br br N\u00e9bulosite br R\u00e9g ti mer br lo br br Direc\u021bion des nuages br E O br br Pluie Tomb\u00e9e br 2 0 br br Temp\u00e9rature de l air br 8 br br Hauteur de la mer br 38 0 br br Agitation de l eau br 1 fort br br Versit\u00e9 au bout de la jet\u00e9e br 1029 2 br br Temp\u00e9rature de l eau br 15 0 Hauteur Barom\u00e9trique br 764 6 br br Direc\u021bion du vent br crois br br Force br to br br R\u00e9g o terre br lo br br N\u00e9bulosite br R\u00e9g ti mer br lo br br Direc\u021bion des nuages br E S O br br Pluie Tomb\u00e9e br quelques g br br Temp\u00e9rature de l air br 9 6 br br Hauteur de la mer br 43 3 br br Agitation de l eau br 1 fort br br Versit\u00e9 au bout de la jet\u00e9e br 1029 0 br br Temp\u00e9rature de l eau br 16 0",
+      "cleaned_content": "Date Matin Soir 15 Novembre 1905 Hauteur Barom\u00e9triquebr 746 1 brbr Direc\u021bionduventbrcrcro brbr Forcebri5 brbr R\u00e9go terrebrlobrbr N\u00e9bulositebr R\u00e9gtimerbrlobrbr Direc\u021biondesnuagesbrer E brbr Pluie Tomb\u00e9ebr 4 2 brbr Temp\u00e9raturedel airbr 7 4 brbr Hauteurdelamerbr 29 0 brbr Agitationdel eaubr 3 faiblebrbr Versit\u00e9 auboutdelajet\u00e9ebr 1028 8 brbr Temp\u00e9raturedel eaubr 17 3 Hauteur Barom\u00e9triquebr 745 7 brbr Direc\u021bionduventbrcrvro brbr Forcebr 2 fortbrbr R\u00e9go terrebrlobrbr N\u00e9bulositebr R\u00e9gtimerbrlobrbr Direc\u021biondesnuagesbrcrcro brbr Pluie Tomb\u00e9ebr 1 0 brbr Temp\u00e9raturedel airbr 10 0 brbr Hauteurdelamerbr 34 brbr Agitationdel eaubr 3 brbr Versit\u00e9 auboutdelajet\u00e9ebr 1028 9 brbr Temp\u00e9raturedel eaubr 19 6 17 Novembre 1905 Hauteur Barom\u00e9triquebr 763 8 brbr Direc\u021bionduventbr Ouestbrbr Forcebri5 brbr R\u00e9go terrebrlobrbr N\u00e9bulositebr R\u00e9gtimerbrlobrbr Direc\u021biondesnuagesbr E O brbr Pluie Tomb\u00e9ebr 2 0 brbr Temp\u00e9raturedel airbr 8 brbr Hauteurdelamerbr 38 0 brbr Agitationdel eaubr 1 fortbrbr Versit\u00e9 auboutdelajet\u00e9ebr 1029 2 brbr Temp\u00e9raturedel eaubr 15 0 Hauteur Barom\u00e9triquebr 764 6 brbr Direc\u021bionduventbrcroisbrbr Forcebrtobrbr R\u00e9go terrebrlobrbr N\u00e9bulositebr R\u00e9gtimerbrlobrbr Direc\u021biondesnuagesbr E S O brbr Pluie Tomb\u00e9ebrquelquesg brbr Temp\u00e9raturedel airbr 9 6 brbr Hauteurdelamerbr 43 3 brbr Agitationdel eaubr 1 fortbrbr Versit\u00e9 auboutdelajet\u00e9ebr 1029 0 brbr Temp\u00e9raturedel eaubr 16 0",
+      "entities": {
+        "dates": [
+          "15 Novembre 1905",
+          "17 Novembre 1905"
+        ]
+      }
+    },
+    {
+      "page_number": "060",
+      "raw_content": "V 18 Novembre 1905 Matin Soir Hauteur Barom\u00e9trique 760 sup o sup Direction du vent S E Force is 2 N\u00e9bulosit\u00e9 Res o terre 40 Res e mer 40 Direction des nuages S E Pluie tomb\u00e9e 10 62 sup o sup Temp\u00e9rature de l air Hauteur de la mer 3 Agitation de l eau 3 fort Densit\u00e9 au bord de la jet\u00e9e Temp\u00e9rature de l eau 3 V 19 Novembre 1905 Matin Soir Hauteur Barom\u00e9trique 761 sup o sup Direction du vent S O Force is 1 fort N\u00e9bulosit\u00e9 Res o terre 40 Res e mer 40 Direction des nuages S O Pluie tomb\u00e9e 26 87 sup o sup Temp\u00e9rature de l air Hauteur de la mer 40 Agitation de l eau Densit\u00e9 au bord de la jet\u00e9e Temp\u00e9rature de l eau 3",
+      "cleaned_content": "V 18 Novembre 1905 Matin Soir Hauteur Barom\u00e9trique 760 supo sup Directionduvent S E Forceis 2 N\u00e9bulosit\u00e9 Reso terre 40 Rese mer 40 Directiondesnuages S E Pluietomb\u00e9e 10 62 supo sup Temp\u00e9raturedel air Hauteurdelamer 3 Agitationdel eau 3 fort Densit\u00e9 auborddelajet\u00e9e Temp\u00e9raturedel eau 3 V 19 Novembre 1905 Matin Soir Hauteur Barom\u00e9trique 761 supo sup Directionduvent S O Forceis 1 fort N\u00e9bulosit\u00e9 Reso terre 40 Rese mer 40 Directiondesnuages S O Pluietomb\u00e9e 26 87 supo sup Temp\u00e9raturedel air Hauteurdelamer 40 Agitationdel eau Densit\u00e9 auborddelajet\u00e9e Temp\u00e9raturedel eau 3",
+      "entities": {
+        "dates": [
+          "18 Novembre 1905",
+          "19 Novembre 1905"
+        ]
+      }
+    },
+    {
+      "page_number": "061",
+      "raw_content": "V 20 Novembre 1905 Matin Soir Hauteur barom\u00e9trique 761 0 Direction du vent S O Force is 1 N\u00e9bulosit\u00e9 Res O Tous l\u00e9g\u00e8rement e Res E mer 1 D\u00e9viation des nuages S O Pluie tomb\u00e9e Temp\u00e9rature de l air 10 7 Hauteur de la mer 39 1 Agitation de l eau 2 Densit\u00e9 au bout de la jet\u00e9e 1028 9 Temp\u00e9rature de l eau 1 4 V 21 Novembre 1905 Matin Soir",
+      "cleaned_content": "V 20 Novembre 1905 Matin Soir Hauteurbarom\u00e9trique 761 0 Directionduvent S O Forceis 1 N\u00e9bulosit\u00e9 Res O Tousl\u00e9g\u00e8remente Res E mer 1 D\u00e9viationdesnuages S O Pluietomb\u00e9e Temp\u00e9raturedel air 10 7 Hauteurdelamer 39 1 Agitationdel eau 2 Densit\u00e9 auboutdelajet\u00e9e 1028 9 Temp\u00e9raturedel eau 1 4 V 21 Novembre 1905 Matin Soir",
+      "entities": {
+        "dates": [
+          "20 Novembre 1905",
+          "21 Novembre 1905"
+        ]
+      }
+    },
+    {
+      "page_number": "062",
+      "raw_content": "V 22 Novembre 1905 Matin Soir Hauteur Barometrique 767 2 Direction du vent cr cr o Force is T fort Nebulosite Reg o terre W Reg E mer N O Direction des nuages S O Pluie tomb\u00e9e Temperature de l air 11 1 Hauteur de la mer 43 0 Agitation de l eau 3 Densit\u00e9 au bout de la jet\u00e9e 1028 8 Temperature de l eau 16 1 V 23 Novembre 1905 Matin Soir Hauteur Barometrique 768 3 Direction vent or or o Force _is_ 2 Nebulosite Reg o terre O Reg E mer O Direction des nuages Pluie Tomb\u00e9e Temperature de l air 11 2 Hauteur de la mer 48 8 Agitation de l eau 2 T fort Densite au bout de la jet\u00e9e 1028 1 Temperature de l eau 15 2",
+      "cleaned_content": "V 22 Novembre 1905 Matin Soir Hauteur Barometrique 767 2 Directionduventcrcro Forceis T fort Nebulosite Rego terre W Reg E mer N O Directiondesnuages S O Pluietomb\u00e9e Temperaturedel air 11 1 Hauteurdelamer 43 0 Agitationdel eau 3 Densit\u00e9 auboutdelajet\u00e9e 1028 8 Temperaturedel eau 16 1 V 23 Novembre 1905 Matin Soir Hauteur Barometrique 768 3 Directionventororo Force _is_ 2 Nebulosite Rego terre O Reg E mer O Directiondesnuages Pluie Tomb\u00e9e Temperaturedel air 11 2 Hauteurdelamer 48 8 Agitationdel eau 2 T fort Densiteauboutdelajet\u00e9e 1028 1 Temperaturedel eau 15 2",
+      "entities": {
+        "dates": [
+          "22 Novembre 1905",
+          "23 Novembre 1905"
+        ]
+      }
+    },
+    {
+      "page_number": "063",
+      "raw_content": "Date Matin Soir V 25 Novembre 1905 Hauteur Barom\u00e9trique 762 5 br Direction du Vent N O br Force i5 br N\u00e9bulosit\u00e9 br R\u00e9g O Cl\u00e8re br R\u00e9g E mer br Direction des mags S o br Pluie Tomb\u00e9e 2 3 br Temp\u00e9rature de l air 10 4 br Hauteur de la mer 89 2 br Agitation de l eau 3 br Venit\u00e8 au bout de la jet\u00e9e 10 28 br Temp\u00e9rature de l eau 16 0 V 27 Novembre 1905 Hauteur Barom\u00e9trique 763 5 br Direction du vent cr o br Force is 2 fort br N\u00e9bulosit\u00e9 br R\u00e9g o Ch\u00e8re lo br R\u00e9g Ei mer lo br Direction des mags s o br Pluie Tomb\u00e9e br Temp\u00e9rature de l air 1 3 br Hauteur de la mer br Agitation de l eau 2 br Venit\u00e8 au bout de la jet\u00e9e 10 28 0 br Temp\u00e9rature de l eau 1 6",
+      "cleaned_content": "Date Matin Soir V 25 Novembre 1905 Hauteur Barom\u00e9trique 762 5 br Directiondu Vent N O br Forcei5 br N\u00e9bulosit\u00e9 br R\u00e9g O Cl\u00e8rebr R\u00e9g E merbr Directiondesmags S obr Pluie Tomb\u00e9e 2 3 br Temp\u00e9raturedel air 10 4 br Hauteurdelamer 89 2 br Agitationdel eau 3 br Venit\u00e8 auboutdelajet\u00e9e 10 28 br Temp\u00e9raturedel eau 16 0 V 27 Novembre 1905 Hauteur Barom\u00e9trique 763 5 br Directionduventcro br Forceis 2 fortbr N\u00e9bulosit\u00e9 br R\u00e9go Ch\u00e8relobr R\u00e9g Eimerlobr Directiondesmagss obr Pluie Tomb\u00e9ebr Temp\u00e9raturedel air 1 3 br Hauteurdelamerbr Agitationdel eau 2 br Venit\u00e8 auboutdelajet\u00e9e 10 28 0 br Temp\u00e9raturedel eau 1 6",
+      "entities": {
+        "dates": [
+          "25 Novembre 1905",
+          "27 Novembre 1905"
+        ]
+      }
+    },
+    {
+      "page_number": "064",
+      "raw_content": "29 Novembre 1905 Matin Soir Hauteur Barometrique 767 7 Direction du vent S O Force is I N\u00e9bulosit\u00e9 Des o claire W Des E mer lo Direction des nuages cr cr o Pluie tomb\u00e9e quelques g Temp\u00e9rature de l air 9 8 Hauteur de la mer 2f f Agitation de l eau 2 faible Densit\u00e9 au bout de la jet\u00e9e 1028 f Temp\u00e9rature de l eau 14 0 4 Decembre 1905 Matin Soir Hauteur Barometrique 767 0 766 0 Direction du vent cr cr c cr crw Force is 2faible N\u00e9bulosite Des o claire w Des E mer w Direction des nuages s s s cr b Pluie tomb\u00e9e 1 2f Temperature de l air 11 0 11 3 Hauteur de la mer 48 9 40 6 agitation de l eau 3faible 3 densite au bout de la jetee 1029 4 1029 0 temperature de l eau 14 9 14 f",
+      "cleaned_content": "29 Novembre 1905 Matin Soir Hauteur Barometrique 767 7 Directionduvent S O Forceis I N\u00e9bulosit\u00e9 Deso claire W Des E merlo Directiondesnuagescrcro Pluietomb\u00e9equelquesg Temp\u00e9raturedel air 9 8 Hauteurdelamer 2ff Agitationdel eau 2 faible Densit\u00e9 auboutdelajet\u00e9e 1028 f Temp\u00e9raturedel eau 14 0 4 Decembre 1905 Matin Soir Hauteur Barometrique 767 0 766 0 Directionduventcrcrc crcrw Forceis 2faible N\u00e9bulosite Deso clairew Des E merw Directiondesnuagess ss crb Pluietomb\u00e9e 1 2f Temperaturedel air 11 0 11 3 Hauteurdelamer 48 9 40 6 agitationdel eau 3faible 3 densiteauboutdelajetee 1029 4 1029 0 temperaturedel eau 14 9 14 f",
+      "entities": {
+        "dates": [
+          "29 Novembre 1905",
+          "4 Decembre 1905"
+        ]
+      }
+    },
+    {
+      "page_number": "065",
+      "raw_content": "Matin Soir 9 5 D\u00e9cembre 1909 Hauteur barom\u00e9trique 769 3 Direction du vent cr cr o Force is 2 Nebulosite Reg o clere 0 Reg 2i mr 1 Direction des nuags Pluie tomb\u00e9e Temp\u00e9rature de l air 8 6 Hauteur de la mer Po o Agitation de l eau 2 fort Remont\u00e9 au cours de la jet\u00e9e 1029 9 Temp\u00e9rature de l eau 14 9 9 7 D\u00e9cembre 1909 Matin Soir Hauteur barom\u00e9trique 770 9 Direction du vent er er s Force i5 2 Nebulosite Reg o clere w Reg 2i mr w Direction des nuags cr s Pluie tomb\u00e9e Temp\u00e9rature de l air 19 1 Hauteur de la mer po 2 Agitation de l eau 2 fort Remont\u00e9 au cours de la jet\u00e9e 1029 2 Temp\u00e9rature de l eau 15 5",
+      "cleaned_content": "Matin Soir 9 5 D\u00e9cembre 1909 Hauteurbarom\u00e9trique 769 3 Directionduventcrcro Forceis 2 Nebulosite Rego clere 0 Reg 2imr 1 Directiondesnuags Pluietomb\u00e9e Temp\u00e9raturedel air 8 6 Hauteurdelamer Poo Agitationdel eau 2 fort Remont\u00e9 aucoursdelajet\u00e9e 1029 9 Temp\u00e9raturedel eau 14 9 9 7 D\u00e9cembre 1909 Matin Soir Hauteurbarom\u00e9trique 770 9 Directionduventerers Forcei5 2 Nebulosite Rego clerew Reg 2imrw Directiondesnuagscrs Pluietomb\u00e9e Temp\u00e9raturedel air 19 1 Hauteurdelamerpo 2 Agitationdel eau 2 fort Remont\u00e9 aucoursdelajet\u00e9e 1029 2 Temp\u00e9raturedel eau 15 5",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "066",
+      "raw_content": "Date Matin Soir 8 D\u00e9cembre 1905 Hauteur Barom\u00e9trique 772 3 br Direction du vent cr cr o br Force is br N\u00e9bulosit\u00e9 br R\u00e9g o Terre 0 br R\u00e9g xi mer 0 br Direction des nuages croix br Pluie tomb\u00e9e br Temp\u00e9rature de l air 19 0 br Hauteur de la mer 98 2 br Agitation de l eau 2 faible br Densit\u00e9 au bout de la jet\u00e9e 1028 6 br temp\u00e9rature de l eau 19 2 Hauteur Barom\u00e9trique 772 4 br Direction du vent br Force fort br N\u00e9bulosit\u00e9 br R\u00e9g o Terre 0 br R\u00e9g xi mer 0 br Direction des nuages croix br Pluie tomb\u00e9e br Temp\u00e9rature de l air 19 0 br Hauteur de la mer 90 9 br Agitation de l eau 1 fort br Densit\u00e9 au bout de la jet\u00e9e 1028 7 br Temp\u00e9rature de l eau 19 0 9 D\u00e9cembre 1905 Hauteur Barom\u00e9trique 771 7 br Direction du vent cr cr o br Force is br N\u00e9bulosit\u00e9 br R\u00e9g o Terre 10 br R\u00e9g xi mer 10 br Direction des nuages croix br Pluie tomb\u00e9e br Temp\u00e9rature de l air 19 9 br Hauteur de la mer 94 3 br Agitation de l eau 1 fort br Densit\u00e9 au bout de la jet\u00e9e 1029 2 br Temp\u00e9rature de l eau 19 0 Hauteur Barom\u00e9trique 768 8 br Direction du vent N gr o br Force 1 fort br N\u00e9bulosit\u00e9 br R\u00e9g o Terre 3 br R\u00e9g xi mer 2 br Direction des nuages croix br Pluie tomb\u00e9e br Temp\u00e9rature de l air 19 0 br Hauteur de la mer 99 8 br Agitation de l eau 1 T fort br Densit\u00e9 au bout de la jet\u00e9e 1029 2 br Temp\u00e9rature de l eau 19 1",
+      "cleaned_content": "Date Matin Soir 8 D\u00e9cembre 1905 Hauteur Barom\u00e9trique 772 3 br Directionduventcrcro br Forceisbr N\u00e9bulosit\u00e9 br R\u00e9go Terre 0 br R\u00e9gximer 0 br Directiondesnuagescroixbr Pluietomb\u00e9ebr Temp\u00e9raturedel air 19 0 br Hauteurdelamer 98 2 br Agitationdel eau 2 faiblebr Densit\u00e9 auboutdelajet\u00e9e 1028 6 brtemp\u00e9raturedel eau 19 2 Hauteur Barom\u00e9trique 772 4 br Directionduventbr Forcefortbr N\u00e9bulosit\u00e9 br R\u00e9go Terre 0 br R\u00e9gximer 0 br Directiondesnuagescroixbr Pluietomb\u00e9ebr Temp\u00e9raturedel air 19 0 br Hauteurdelamer 90 9 br Agitationdel eau 1 fortbr Densit\u00e9 auboutdelajet\u00e9e 1028 7 br Temp\u00e9raturedel eau 19 0 9 D\u00e9cembre 1905 Hauteur Barom\u00e9trique 771 7 br Directionduventcrcro br Forceisbr N\u00e9bulosit\u00e9 br R\u00e9go Terre 10 br R\u00e9gximer 10 br Directiondesnuagescroixbr Pluietomb\u00e9ebr Temp\u00e9raturedel air 19 9 br Hauteurdelamer 94 3 br Agitationdel eau 1 fortbr Densit\u00e9 auboutdelajet\u00e9e 1029 2 br Temp\u00e9raturedel eau 19 0 Hauteur Barom\u00e9trique 768 8 br Directionduvent N gro br Force 1 fortbr N\u00e9bulosit\u00e9 br R\u00e9go Terre 3 br R\u00e9gximer 2 br Directiondesnuagescroixbr Pluietomb\u00e9ebr Temp\u00e9raturedel air 19 0 br Hauteurdelamer 99 8 br Agitationdel eau 1 T fortbr Densit\u00e9 auboutdelajet\u00e9e 1029 2 br Temp\u00e9raturedel eau 19 1",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "067",
+      "raw_content": "Matin Soir V 11 D\u00e9cembre 1905 Hauteur Barom\u00e9trique 772 8 772 7 Direction du vent Eroux Eroux Force is 1 fort 1 Nebulosit\u00e9 Reg o l\u00e8re L\u00e9g\u00e8re Reg xi mer 20 Direction des nuages S or Est Pluie tomb\u00e9e quelques gouttes Temp\u00e9rature de l air 60 8 11 Hauteur de la mer 3 3 Agitation de l eau 3 T fort 4 Sensit\u00e9 au cours de la jete 3 3 Temp\u00e9rature de l eau V 12 D\u00e9cembre 1905 Matin Soir Hauteur Barom\u00e9trique 779 7 779 0 Direction du vent Eroux Or N O Force is 2 1 Nebulosit\u00e9 Reg a l\u00e8re 0 1 Reg Xi mer 0 1 Direction des nuages Pluie tomb\u00e9e Temp\u00e9rature de l air 7 9 9 3 Hauteur de la mer 3 3 Agitation de l eau 4 4 Sensit\u00e9 au cours de la jet\u00e9e 3 3 Temp\u00e9rature de l eau",
+      "cleaned_content": "Matin Soir V 11 D\u00e9cembre 1905 Hauteur Barom\u00e9trique 772 8 772 7 Directionduvent Eroux Eroux Forceis 1 fort 1 Nebulosit\u00e9 Rego l\u00e8re L\u00e9g\u00e8re Regximer 20 Directiondesnuages S or Est Pluietomb\u00e9equelquesgouttes Temp\u00e9raturedel air 60 8 11 Hauteurdelamer 3 3 Agitationdel eau 3 T fort 4 Sensit\u00e9 aucoursdelajete 3 3 Temp\u00e9raturedel eau V 12 D\u00e9cembre 1905 Matin Soir Hauteur Barom\u00e9trique 779 7 779 0 Directionduvent Eroux Or N O Forceis 2 1 Nebulosit\u00e9 Rega l\u00e8re 0 1 Reg Ximer 0 1 Directiondesnuages Pluietomb\u00e9e Temp\u00e9raturedel air 7 9 9 3 Hauteurdelamer 3 3 Agitationdel eau 4 4 Sensit\u00e9 aucoursdelajet\u00e9e 3 3 Temp\u00e9raturedel eau",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "068",
+      "raw_content": "V 13 D\u00e9cembre 1905 Matin Soir Hauteur Barom\u00e9trique 771 6 Direction du vent cr cr o Force is 2 fort N\u00e9bulosit\u00e9 Reg o terre 0 Reg E mer 0 Direction des nuages Pluie tomb\u00e9e Temp\u00e9rature de l air 8 1 Hauteur de la mer 91 9 Agitation de l eau 3 fort Visibilit\u00e9 au bout de la jet\u00e9e 1029 0 Temp\u00e9rature de l eau 15 1 V 14 D\u00e9cembre 1905 Matin Soir Hauteur Barom\u00e9trique 769 0 766 9 Direction du vent cr o cr cr o Force is 1 fort N\u00e9bulosit\u00e9 Reg o terre l\u00e9g\u00e8rement e Reg E mer 0 Direction des nuages W E Pluie tomb\u00e9e Temp\u00e9rature de l air 8 0 12 9 Hauteur de la mer 47 7 61 8 Agitation de l eau de faible 3 faible Visibilit\u00e9 au bout de la jet\u00e9e 1029 4 1029 9 Temp\u00e9rature de l eau 14 4 14 2",
+      "cleaned_content": "V 13 D\u00e9cembre 1905 Matin Soir Hauteur Barom\u00e9trique 771 6 Directionduventcrcro Forceis 2 fort N\u00e9bulosit\u00e9 Rego terre 0 Reg E mer 0 Directiondesnuages Pluietomb\u00e9e Temp\u00e9raturedel air 8 1 Hauteurdelamer 91 9 Agitationdel eau 3 fort Visibilit\u00e9 auboutdelajet\u00e9e 1029 0 Temp\u00e9raturedel eau 15 1 V 14 D\u00e9cembre 1905 Matin Soir Hauteur Barom\u00e9trique 769 0 766 9 Directionduventcro crcro Forceis 1 fort N\u00e9bulosit\u00e9 Rego terrel\u00e9g\u00e8remente Reg E mer 0 Directiondesnuages W E Pluietomb\u00e9e Temp\u00e9raturedel air 8 0 12 9 Hauteurdelamer 47 7 61 8 Agitationdel eaudefaible 3 faible Visibilit\u00e9 auboutdelajet\u00e9e 1029 4 1029 9 Temp\u00e9raturedel eau 14 4 14 2",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "069",
+      "raw_content": "V 15 D\u00e9cembre 1905 Matin Soir Hauteur Barom\u00e9trique 770 2 770 3 Direction du vent er o er cr o Force is i faibl Reg O terre o o N\u00e9bulosit\u00e9 Reg 2 sup e sup mer 7 o Direction des nuages S cr E Pluie tomb\u00e9e Temp\u00e9rature de l air 7 9 8 9 Hauteur de la mer 48 3 49 8 Agitation de l eau 2 fort 2 Densit\u00e9 au bout de la jet\u00e9e 1029 3 1029 3 Temp\u00e9rature de l eau 19 0 14 0 V 19 D\u00e9cembre 1905 Matin Soir Hauteur Barom\u00e9trique 769 2 768 3 Direction du vent S o Force is i faible Reg O terre lo lo N\u00e9bulosit\u00e9 Reg 2 sup e sup mer 10 10 Direction des nuages S o S o Pluie tomb\u00e9e Temp\u00e9rature de l air 6 9 9 6 Hauteur de la mer 44 0 46 1 Agitation de l eau 2 fort 2 Densit\u00e9 au bout de la jet\u00e9e 1029 3 1029 3 Temp\u00e9rature de l eau 14 9 14 8",
+      "cleaned_content": "V 15 D\u00e9cembre 1905 Matin Soir Hauteur Barom\u00e9trique 770 2 770 3 Directionduventero ercro Forceisi faibl Reg O terreo o N\u00e9bulosit\u00e9 Reg 2 supe supmer 7 o Directiondesnuages S cr E Pluietomb\u00e9e Temp\u00e9raturedel air 7 9 8 9 Hauteurdelamer 48 3 49 8 Agitationdel eau 2 fort 2 Densit\u00e9 auboutdelajet\u00e9e 1029 3 1029 3 Temp\u00e9raturedel eau 19 0 14 0 V 19 D\u00e9cembre 1905 Matin Soir Hauteur Barom\u00e9trique 769 2 768 3 Directionduvent S o Forceisi faible Reg O terrelolo N\u00e9bulosit\u00e9 Reg 2 supe supmer 10 10 Directiondesnuages S o S o Pluietomb\u00e9e Temp\u00e9raturedel air 6 9 9 6 Hauteurdelamer 44 0 46 1 Agitationdel eau 2 fort 2 Densit\u00e9 auboutdelajet\u00e9e 1029 3 1029 3 Temp\u00e9raturedel eau 14 9 14 8",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "070",
+      "raw_content": "Matin Soir V 3 Janvier 1906 Hauteur Barometrique 798 6 762 3 Direction du vent cr cr o crois Force is 1 2 fort Nebulosite Reg o clerg 10 10 Reg E mer 10 10 Direction des nuages cr cr o cr g Pluie tomb\u00e9e 83 2f quelques g Temp\u00e9rature de l air 3 5 Hauteur de la mer 6 4 Agitation de l eau 2 2 Densit\u00e9 au bout de la jet\u00e9e 3 3 Temp\u00e9rature de l eau 3 3 V 6 Janvier 1906 Hauteur Barometrique 76 1 764 3 Direction du vent cr cr o Force is 1 0 Nebulosite Reg o clere 10 10 Reg E mer 10 10 Direction des nuages cr o G cr o Pluie tomb\u00e9e Temp\u00e9rature de l air 10 7 12 2 Hauteur de la mer 44 0 40 Agitation de l eau IT faiible 2 Densit\u00e9 au bout de la jet\u00e9e 1028 8 1028 0 Temp\u00e9rature de l eau 18 0 18 0",
+      "cleaned_content": "Matin Soir V 3 Janvier 1906 Hauteur Barometrique 798 6 762 3 Directionduventcrcro crois Forceis 1 2 fort Nebulosite Rego clerg 10 10 Reg E mer 10 10 Directiondesnuagescrcro crg Pluietomb\u00e9e 83 2fquelquesg Temp\u00e9raturedel air 3 5 Hauteurdelamer 6 4 Agitationdel eau 2 2 Densit\u00e9 auboutdelajet\u00e9e 3 3 Temp\u00e9raturedel eau 3 3 V 6 Janvier 1906 Hauteur Barometrique 76 1 764 3 Directionduventcrcro Forceis 1 0 Nebulosite Rego clere 10 10 Reg E mer 10 10 Directiondesnuagescro G cro Pluietomb\u00e9e Temp\u00e9raturedel air 10 7 12 2 Hauteurdelamer 44 0 40 Agitationdel eau IT faiible 2 Densit\u00e9 auboutdelajet\u00e9e 1028 8 1028 0 Temp\u00e9raturedel eau 18 0 18 0",
+      "entities": {
+        "dates": [
+          "3 Janvier 1906",
+          "6 Janvier 1906"
+        ]
+      }
+    },
+    {
+      "page_number": "071",
+      "raw_content": "Date Matin Soir 10 Janvier 1906 Hauteur Barometrique br 765 1 br Direction du vent br br Force iS br o br R\u00e9g o terre br Wo br H\u00e9bulosite br R\u00e9g zi mer br Wo br Direction des nuages br Ouest br Pluie tomb\u00e9e br quelques g br Temp\u00e9rature de l air br 14 o br Hauteur de la mer br 47 o br Agitation de l eau br 1 Tr fort br Densit\u00e9 au bout de la jet\u00e9e br 1028 7 br Temp\u00e9rature de l eau br 11 11 Janvier 1906 Hauteur Barometrique br 767 o br Direction du vent br er o br Force is br 2 br R\u00e9g o terre br Wo br H\u00e9bulosite br R\u00e9g zi mer br Wo br Direction des nuages br er cr o br Pluie tomb\u00e9e br quelque g br Temp\u00e9rature de l air br 12 7 br Hauteur de la mer br 1 3 br Agitation de l eau br 2 T fort br Densit\u00e9 au bout de la jet\u00e9e br 1028 6 br Temp\u00e9rature de l eau br 13 2",
+      "cleaned_content": "Date Matin Soir 10 Janvier 1906 Hauteur Barometriquebr 765 1 br Directionduventbrbr ForceiS bro br R\u00e9go terrebr Wobr H\u00e9bulositebr R\u00e9gzimerbr Wobr Directiondesnuagesbr Ouestbr Pluietomb\u00e9ebrquelquesg br Temp\u00e9raturedel airbr 14 obr Hauteurdelamerbr 47 obr Agitationdel eaubr 1 Trfortbr Densit\u00e9 auboutdelajet\u00e9ebr 1028 7 br Temp\u00e9raturedel eaubr 11 11 Janvier 1906 Hauteur Barometriquebr 767 obr Directionduventbrero br Forceisbr 2 br R\u00e9go terrebr Wobr H\u00e9bulositebr R\u00e9gzimerbr Wobr Directiondesnuagesbrercro br Pluietomb\u00e9ebrquelqueg br Temp\u00e9raturedel airbr 12 7 br Hauteurdelamerbr 1 3 br Agitationdel eaubr 2 T fortbr Densit\u00e9 auboutdelajet\u00e9ebr 1028 6 br Temp\u00e9raturedel eaubr 13 2",
+      "entities": {
+        "dates": [
+          "10 Janvier 1906",
+          "11 Janvier 1906"
+        ]
+      }
+    },
+    {
+      "page_number": "072",
+      "raw_content": "V 12 Janvier 1906 Matin Soir Hauteur Barom\u00e9trique 771 7 Direction du vent S S O Force is Forte N\u00e9bulosit\u00e9 Reg o terre L\u00e9g\u00e8re L\u00e9g\u00e8re N\u00e9bulosit\u00e9 Reg E mer L\u00e9g\u00e8re Direction des nuages pluie tomb\u00e9e Temp\u00e9rature de l air 12 0 Hauteur de la mer 18 2 Agitation de l eau 2 faible Densit\u00e9 au bout de la jet\u00e9e 20 28 8 Temp\u00e9rature de l eau 13 8 V 23 Janvier 1906 Matin Soir Hauteur Barom\u00e9trique 762 2 764 0 Direction du vent cr cr o cr cr o Force is is N\u00e9bulosit\u00e9 Reg o terre 3 10 N\u00e9bulosit\u00e9 Reg E mer 3 10 Direction des nuages cr cr o cr cr o Pluie tomb\u00e9e Temp\u00e9rature de l air 5 2 5 Hauteur de la mer 3 3 Agitation de l eau 3 3 Densit\u00e9 au bout de la jet\u00e9e 3 3 Temp\u00e9rature de l eau 3 3",
+      "cleaned_content": "V 12 Janvier 1906 Matin Soir Hauteur Barom\u00e9trique 771 7 Directionduvent S S O Forceis Forte N\u00e9bulosit\u00e9 Rego terre L\u00e9g\u00e8re L\u00e9g\u00e8re N\u00e9bulosit\u00e9 Reg E mer L\u00e9g\u00e8re Directiondesnuagespluietomb\u00e9e Temp\u00e9raturedel air 12 0 Hauteurdelamer 18 2 Agitationdel eau 2 faible Densit\u00e9 auboutdelajet\u00e9e 20 28 8 Temp\u00e9raturedel eau 13 8 V 23 Janvier 1906 Matin Soir Hauteur Barom\u00e9trique 762 2 764 0 Directionduventcrcro crcro Forceisis N\u00e9bulosit\u00e9 Rego terre 3 10 N\u00e9bulosit\u00e9 Reg E mer 3 10 Directiondesnuagescrcro crcro Pluietomb\u00e9e Temp\u00e9raturedel air 5 2 5 Hauteurdelamer 3 3 Agitationdel eau 3 3 Densit\u00e9 auboutdelajet\u00e9e 3 3 Temp\u00e9raturedel eau 3 3",
+      "entities": {
+        "dates": [
+          "12 Janvier 1906",
+          "23 Janvier 1906"
+        ]
+      }
+    },
+    {
+      "page_number": "073",
+      "raw_content": "V 24 Janvier 1906 Matin Soir Hauteur Barom\u00e9trique 767 0 Direction du vent cr o Force is N\u00e9bulosit\u00e9 Reg c terre 8 Reg E mer 2 Direction des nuages or cr o Pluie Tomb\u00e9e Temp\u00e9rature de l air 3 7 Hauteur de la mer s Agitation de l eau 4 Versite au bout de la jet\u00e9e \u03a3 Temp\u00e9rature de l eau \u03a3 V 25 Janvier 1906 Matin Soir Hauteur Barom\u00e9trique 768 9 767 3 Direction du vent cr cr o cr cr o Force 2 fort 2 faible N\u00e9bulosit\u00e9 Reg c terre o 1 Reg E mer Direction des nuages Pluie Tomb\u00e9e Temp\u00e9rature de l air 2 0 7 7 Hauteur de la mer 3 5 Agitation de l eau 2 2 Versite au bout de la jet\u00e9e \u03a3 \u03a3 Temp\u00e9rature de l eau \u03a3 \u03a3",
+      "cleaned_content": "V 24 Janvier 1906 Matin Soir Hauteur Barom\u00e9trique 767 0 Directionduventcro Forceis N\u00e9bulosit\u00e9 Regc terre 8 Reg E mer 2 Directiondesnuagesorcro Pluie Tomb\u00e9e Temp\u00e9raturedel air 3 7 Hauteurdelamers Agitationdel eau 4 Versiteauboutdelajet\u00e9e \u03a3 Temp\u00e9raturedel eau \u03a3 V 25 Janvier 1906 Matin Soir Hauteur Barom\u00e9trique 768 9 767 3 Directionduventcrcro crcro Force 2 fort 2 faible N\u00e9bulosit\u00e9 Regc terreo 1 Reg E mer Directiondesnuages Pluie Tomb\u00e9e Temp\u00e9raturedel air 2 0 7 7 Hauteurdelamer 3 5 Agitationdel eau 2 2 Versiteauboutdelajet\u00e9e \u03a3 \u03a3 Temp\u00e9raturedel eau \u03a3 \u03a3",
+      "entities": {
+        "dates": [
+          "24 Janvier 1906",
+          "25 Janvier 1906"
+        ]
+      }
+    },
+    {
+      "page_number": "074",
+      "raw_content": "Date Matin Soir V 26 Janvier 1906 Hauteur Barometrique br 764 3 br Direciton du vent br S O br Force is br 1 fort br R\u00e9g O terre br 10 br N\u00e9bulosit\u00e9 br R\u00e9g E mer br 10 br Direction des nuags br br Pluie Tomb\u00e9e br quelques g br Temp\u00e9rature de l air br 1 6 br Hauteur de la mer br 3 br Agitation de l eau br 0 br Versit\u00e9 au bout de la jet\u00e9e br 3 br Temp\u00e9rature de l eau br Hauteur Barometrique br 766 3 br Direciton du vent br Ov S br Force is br 1 br R\u00e9g O terre br 10 br N\u00e9bulosit\u00e9 br R\u00e9g E mer br 10 br Direction des nuags br cr cr o br Pluie Tomb\u00e9e br 1 12 br Temp\u00e9rature de l air br 8 8 br Hauteur de la mer br 3 br Agitation de l eau br 0 br Versit\u00e9 au bout de la jet\u00e9e br 3 br Temp\u00e9rature de l eau br V 27 Janvier 1906 Hauteur Barometrique br 770 0 br Direciton du vent br Crozet br Force is br faible br R\u00e9g o terre br 10 br N\u00e9bulosit\u00e9 br R\u00e9g E mer br 10 br Direction des nuags br cr cr o br Pluie Tomb\u00e9e br br Temp\u00e9rature de l air br 10 0 br Hauteur de la mer br 49 8 br Agitation de l eau br 3 br Versit\u00e9 au bout de la jet\u00e9e br 1029 2 br Temp\u00e9rature de l eau br 13 f br Hauteur Barometrique br 769 6 br Direciton du vent br Bett br Force is br faible br R\u00e9g o terre br 10 br N\u00e9bulosit\u00e9 br R\u00e9g E mer br 10 br Direction des nuags br cr cr o br Pluie Tomb\u00e9e br br Temp\u00e9rature de l air br 10 8 br Hauteur de la mer br 63 8 br Agitation de l eau br 3 br Versit\u00e9 au bout de la jet\u00e9e br 1029 3 br Temp\u00e9rature de l eau br 14 0 br",
+      "cleaned_content": "Date Matin Soir V 26 Janvier 1906 Hauteur Barometriquebr 764 3 br Direcitonduventbr S O br Forceisbr 1 fortbr R\u00e9g O terrebr 10 br N\u00e9bulosit\u00e9 br R\u00e9g E merbr 10 br Directiondesnuagsbrbr Pluie Tomb\u00e9ebrquelquesg br Temp\u00e9raturedel airbr 1 6 br Hauteurdelamerbr 3 br Agitationdel eaubr 0 br Versit\u00e9 auboutdelajet\u00e9ebr 3 br Temp\u00e9raturedel eaubr Hauteur Barometriquebr 766 3 br Direcitonduventbr Ov S br Forceisbr 1 br R\u00e9g O terrebr 10 br N\u00e9bulosit\u00e9 br R\u00e9g E merbr 10 br Directiondesnuagsbrcrcro br Pluie Tomb\u00e9ebr 1 12 br Temp\u00e9raturedel airbr 8 8 br Hauteurdelamerbr 3 br Agitationdel eaubr 0 br Versit\u00e9 auboutdelajet\u00e9ebr 3 br Temp\u00e9raturedel eaubr V 27 Janvier 1906 Hauteur Barometriquebr 770 0 br Direcitonduventbr Crozetbr Forceisbrfaiblebr R\u00e9go terrebr 10 br N\u00e9bulosit\u00e9 br R\u00e9g E merbr 10 br Directiondesnuagsbrcrcro br Pluie Tomb\u00e9ebrbr Temp\u00e9raturedel airbr 10 0 br Hauteurdelamerbr 49 8 br Agitationdel eaubr 3 br Versit\u00e9 auboutdelajet\u00e9ebr 1029 2 br Temp\u00e9raturedel eaubr 13 fbr Hauteur Barometriquebr 769 6 br Direcitonduventbr Bettbr Forceisbrfaiblebr R\u00e9go terrebr 10 br N\u00e9bulosit\u00e9 br R\u00e9g E merbr 10 br Directiondesnuagsbrcrcro br Pluie Tomb\u00e9ebrbr Temp\u00e9raturedel airbr 10 8 br Hauteurdelamerbr 63 8 br Agitationdel eaubr 3 br Versit\u00e9 auboutdelajet\u00e9ebr 1029 3 br Temp\u00e9raturedel eaubr 14 0 br",
+      "entities": {
+        "dates": [
+          "26 Janvier 1906",
+          "27 Janvier 1906"
+        ]
+      }
+    },
+    {
+      "page_number": "075",
+      "raw_content": "V 31 Janvier 1906 Matin Soir Hauteur Barom\u00e9trique 764 8 Direction du vent cr cr o Force is 6 T fort N\u00e9bulosit\u00e9 Reg O terre O Reg E mer O Direction des nuages cr cr o Pluie tomb\u00e9e Temp\u00e9rature de l air 11 9 Hauteur de la mer S Agitation de l eau 2 fort Densit\u00e9 au bout de la jet\u00e9e \u039e Temp\u00e9rature de l eau \u039e V 1er F\u00e9vrier 1906 Matin Soir Hauteur Barom\u00e9trique 771 0 Direction du vent cr cr o Force is 2 N\u00e9bulosit\u00e9 Reg O terre O Reg E mer O Direction des nuages cr cr o Pluie tomb\u00e9e Temp\u00e9rature de l air 9 2 Hauteur de la mer 7\u00bd 1 Agitation de l eau 2 Densit\u00e9 au bout de la jet\u00e9e \u039e Temp\u00e9rature de l eau \u039e",
+      "cleaned_content": "V 31 Janvier 1906 Matin Soir Hauteur Barom\u00e9trique 764 8 Directionduventcrcro Forceis 6 T fort N\u00e9bulosit\u00e9 Reg O terre O Reg E mer O Directiondesnuagescrcro Pluietomb\u00e9e Temp\u00e9raturedel air 11 9 Hauteurdelamer S Agitationdel eau 2 fort Densit\u00e9 auboutdelajet\u00e9e \u039e Temp\u00e9raturedel eau \u039e V 1er F\u00e9vrier 1906 Matin Soir Hauteur Barom\u00e9trique 771 0 Directionduventcrcro Forceis 2 N\u00e9bulosit\u00e9 Reg O terre O Reg E mer O Directiondesnuagescrcro Pluietomb\u00e9e Temp\u00e9raturedel air 9 2 Hauteurdelamer 7\u00bd 1 Agitationdel eau 2 Densit\u00e9 auboutdelajet\u00e9e \u039e Temp\u00e9raturedel eau \u039e",
+      "entities": {
+        "dates": [
+          "31 Janvier 1906"
+        ]
+      }
+    },
+    {
+      "page_number": "076",
+      "raw_content": "V 2 F\u00e9vrier 1906 Matin Soir Hauteur Barom\u00e9trique 769 8 767 4 Direction du vent cr cr o cr cr o Force 3 fort 4 N\u00e9bulosit\u00e9 Reg O terre 10 1 Reg E mer 4 Direction des nuages cr E cr cr o Pluie tomb\u00e9e Temp\u00e9rature de l air 9 3 11 9 Hauteur de la mer 70 6 70 1 Agitation de l eau 3 fort 3 Rensite au bout de la jet\u00e9e 1028 8 S Temperature de l eau 13 6 3 V 6 F\u00e9vrier 1906 Matin Soir Hauteur Barom\u00e9trique 758 8 Direction du vent cr cr o Force 6 N\u00e9bulosit\u00e9 Reg O terre 10 Reg E mer 4 Direction des nuages Est Pluie Tomb\u00e9e Temp\u00e9rature de l air Hauteur de la mer Agitation de l eau 3 Rensite au bout de la jet\u00e9e S Temperature de l eau",
+      "cleaned_content": "V 2 F\u00e9vrier 1906 Matin Soir Hauteur Barom\u00e9trique 769 8 767 4 Directionduventcrcro crcro Force 3 fort 4 N\u00e9bulosit\u00e9 Reg O terre 10 1 Reg E mer 4 Directiondesnuagescr E crcro Pluietomb\u00e9e Temp\u00e9raturedel air 9 3 11 9 Hauteurdelamer 70 6 70 1 Agitationdel eau 3 fort 3 Rensiteauboutdelajet\u00e9e 1028 8 S Temperaturedel eau 13 6 3 V 6 F\u00e9vrier 1906 Matin Soir Hauteur Barom\u00e9trique 758 8 Directionduventcrcro Force 6 N\u00e9bulosit\u00e9 Reg O terre 10 Reg E mer 4 Directiondesnuages Est Pluie Tomb\u00e9e Temp\u00e9raturedel air Hauteurdelamer Agitationdel eau 3 Rensiteauboutdelajet\u00e9e S Temperaturedel eau",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "077",
+      "raw_content": "V 7 F\u00e9vrier 1906 Matin Soir Hauteur Barometrique 757 6 Direction du vent cr o Force is 8 N\u00e9bulosite Reg o terre Reg z mer Direction de nuags Pluie tomb\u00e9e Temp\u00e9rature de l air Hauteur de la mer \u03be Agitation de l eau 3 fort Densit\u00e9 au bout de la jet\u00e9e Temp\u00e9rature de l eau \u03be V 9 F\u00e9vrier 1906 Matin Soir Hauteur Barometrique 760 Direction du vent cr cr o Force is 3 N\u00e9bulosit\u00e9 Reg o terre no Reg zi mer lo Direction des nuags er o Pluie tomb\u00e9e quelques g Temp\u00e9rature de l air 6 0 Hauteur de la mer s Agitation de l eau 2 Fort Densit\u00e9 au bout de la jet\u00e9e \u03be Temp\u00e9rature de l eau",
+      "cleaned_content": "V 7 F\u00e9vrier 1906 Matin Soir Hauteur Barometrique 757 6 Directionduventcro Forceis 8 N\u00e9bulosite Rego terre Regz mer Directiondenuags Pluietomb\u00e9e Temp\u00e9raturedel air Hauteurdelamer \u03be Agitationdel eau 3 fort Densit\u00e9 auboutdelajet\u00e9e Temp\u00e9raturedel eau \u03be V 9 F\u00e9vrier 1906 Matin Soir Hauteur Barometrique 760 Directionduventcrcro Forceis 3 N\u00e9bulosit\u00e9 Rego terreno Regzimerlo Directiondesnuagsero Pluietomb\u00e9equelquesg Temp\u00e9raturedel air 6 0 Hauteurdelamers Agitationdel eau 2 Fort Densit\u00e9 auboutdelajet\u00e9e \u03be Temp\u00e9raturedel eau",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "078",
+      "raw_content": "V 10 F\u00e9vrier 1906 Matin Soir Hauteur Barom\u00e9trique 760 3 Direction du vent Nord Force is 3 T fort N\u00e9bulosit\u00e9 Reg o cl\u00e8re 3 Res E mer 1 Direction des nuages Nord Pluie tomb\u00e9e quelques g Temp\u00e9rature de l air 6 8 Hauteur de la mer 5 Agitation de l eau 3 Densit\u00e9 au bout de la jet\u00e9e 3 Temp\u00e9rature de l eau V 12 F\u00e9vrier 1906 Matin Soir Hauteur Barom\u00e9trique 748 7 741 8 Direction du vent cr cr o cr cr o Force is 1 3 N\u00e9bulosit\u00e9 Reg o cl\u00e8re l\u00e9g\u00e8rement c 1 Reg E mer l\u00e9g\u00e8rement e Direction des nuages Ouest cras Pluie Tomb\u00e9e quelques g Temp\u00e9rature de l air 4 0 9 0 Hauteur de la mer 5 46 6 Agitation de l eau 3 3 fort Densit\u00e9 au bout de la jet\u00e9e 3 levres Temp\u00e9rature de l eau 12 8",
+      "cleaned_content": "V 10 F\u00e9vrier 1906 Matin Soir Hauteur Barom\u00e9trique 760 3 Directionduvent Nord Forceis 3 T fort N\u00e9bulosit\u00e9 Rego cl\u00e8re 3 Res E mer 1 Directiondesnuages Nord Pluietomb\u00e9equelquesg Temp\u00e9raturedel air 6 8 Hauteurdelamer 5 Agitationdel eau 3 Densit\u00e9 auboutdelajet\u00e9e 3 Temp\u00e9raturedel eau V 12 F\u00e9vrier 1906 Matin Soir Hauteur Barom\u00e9trique 748 7 741 8 Directionduventcrcro crcro Forceis 1 3 N\u00e9bulosit\u00e9 Rego cl\u00e8rel\u00e9g\u00e8rementc 1 Reg E merl\u00e9g\u00e8remente Directiondesnuages Ouestcras Pluie Tomb\u00e9equelquesg Temp\u00e9raturedel air 4 0 9 0 Hauteurdelamer 5 46 6 Agitationdel eau 3 3 fort Densit\u00e9 auboutdelajet\u00e9e 3 levres Temp\u00e9raturedel eau 12 8",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "079",
+      "raw_content": "Date Matin Soir 13 f\u00e9vrier 1906 Hauteur Barometrique br 7 2 8 Direction du vent br er cr o Force br is Nebulosite br Reg c terre br 0 Reg E mer br 1 Direction des nuages br er cr o Pluie tomb\u00e9e br quelque g Temperature de l air br f 2 Hauteur de la mer br Agitation de l eau br Densit\u00e9 au bout de la jet\u00e9e br Temperature de l eau 14 f\u00e9vrier 1906 Hauteur Barometrique br 7 7 3 Direction du vent br er cr o Force br is Nebulosite br Reg c terre br 10 Reg E mer br 10 Direction des nuages br cr cr o Pluie tomb\u00e9e br quelque g Temperature de l air br 7 2 Hauteur de la mer br 41 4 Agitation de l eau br 3 Densit\u00e9 au bout de la jet\u00e9e br 1029 br Temperature de l eau br 13",
+      "cleaned_content": "Date Matin Soir 13 f\u00e9vrier 1906 Hauteur Barometriquebr 7 2 8 Directionduventbrercro Forcebris Nebulositebr Regc terrebr 0 Reg E merbr 1 Directiondesnuagesbrercro Pluietomb\u00e9ebrquelqueg Temperaturedel airbrf 2 Hauteurdelamerbr Agitationdel eaubr Densit\u00e9 auboutdelajet\u00e9ebr Temperaturedel eau 14 f\u00e9vrier 1906 Hauteur Barometriquebr 7 7 3 Directionduventbrercro Forcebris Nebulositebr Regc terrebr 10 Reg E merbr 10 Directiondesnuagesbrcrcro Pluietomb\u00e9ebrquelqueg Temperaturedel airbr 7 2 Hauteurdelamerbr 41 4 Agitationdel eaubr 3 Densit\u00e9 auboutdelajet\u00e9ebr 1029 br Temperaturedel eaubr 13",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "080",
+      "raw_content": "V 16 f\u00e9vrier 1906 Matin Soir Hauteur Barom\u00e9trique 761 7 Direction du vent cr cr o Force is 2 N\u00e9bulosit\u00e9 Reg o terre 3 L\u00e9g\u00e8rement couvert N\u00e9bulosit\u00e9 Reg xi mer 1 Direction des nuages Nord Pluie tomb\u00e9e quelques gouttes Temp\u00e9rature de l air 8 0 Hauteur de la mer 18 2 Agitation de l eau 2 Densit\u00e9 au bout de la jet\u00e9e 1029 8 temp\u00e9rature de l eau 18 1 V 17 f\u00e9vrier 1906 Matin Soir Hauteur Barom\u00e9trique 762 8 761 2 Direction du vent Ouest S E Force is 15 faible br 14 fort N\u00e9bulosit\u00e9 Reg o terre 10 10 N\u00e9bulosit\u00e9 Reg xi mer 10 10 Direction des nuages Sud S E Pluie tomb\u00e9e 10 62 mm quelques gouttes Temp\u00e9rature de l air 7 8 11 6 Hauteur de la mer 5 3 Agitation de l eau 0 1 Densit\u00e9 au bout de la jet\u00e9e 5 5 Temp\u00e9rature de l eau",
+      "cleaned_content": "V 16 f\u00e9vrier 1906 Matin Soir Hauteur Barom\u00e9trique 761 7 Directionduventcrcro Forceis 2 N\u00e9bulosit\u00e9 Rego terre 3 L\u00e9g\u00e8rementcouvert N\u00e9bulosit\u00e9 Regximer 1 Directiondesnuages Nord Pluietomb\u00e9equelquesgouttes Temp\u00e9raturedel air 8 0 Hauteurdelamer 18 2 Agitationdel eau 2 Densit\u00e9 auboutdelajet\u00e9e 1029 8 temp\u00e9raturedel eau 18 1 V 17 f\u00e9vrier 1906 Matin Soir Hauteur Barom\u00e9trique 762 8 761 2 Directionduvent Ouest S E Forceis 15 faiblebr 14 fort N\u00e9bulosit\u00e9 Rego terre 10 10 N\u00e9bulosit\u00e9 Regximer 10 10 Directiondesnuages Sud S E Pluietomb\u00e9e 10 62 mmquelquesgouttes Temp\u00e9raturedel air 7 8 11 6 Hauteurdelamer 5 3 Agitationdel eau 0 1 Densit\u00e9 auboutdelajet\u00e9e 5 5 Temp\u00e9raturedel eau",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "081",
+      "raw_content": "V 20 f\u00e9vrier 1905 Matin Soir Hauteur Barometrique 768 3 769 2 Direction du vent cr vrs cr vrs Force is 4 faible N\u00e9bulosit\u00e9 Reg c Cl\u00e8re 10 10 Reg E mer W cr vrs Direction des nuags cr vrs Pluie tomb\u00e9e Temp\u00e9rature de l air 7 4 12 0 Hauteur de la mer 63 1 63 0 Agitation de l eau 2 fort 2 fort Densite au bout de la jet\u00e9e 1029 4 S Temp\u00e9rature de l eau 14 0 V 21 f\u00e9vrier 1905 Matin Soir Hauteur Barometrique 768 3 766 0 Direction du vent cr vrs cr vrs Force is 3 N\u00e9bulosit\u00e9 Reg c Cl\u00e8re 10 l\u00e9g\u00e8rement c 2 l\u00e9g\u00e8rement c Reg E mer W l\u00e9g\u00e8rement c S l\u00e9g\u00e8rement c Direction des nuags cr vrs Pluie tomb\u00e9e Temp\u00e9rature de l air 7 4 11 6 Hauteur de la mer 63 1 72 0 Agitation de l eau 2 fort 2 fort Densite au bout de la jet\u00e9e 1029 4 1029 4 Temp\u00e9rature de l eau 14 0 13 2",
+      "cleaned_content": "V 20 f\u00e9vrier 1905 Matin Soir Hauteur Barometrique 768 3 769 2 Directionduventcrvrscrvrs Forceis 4 faible N\u00e9bulosit\u00e9 Regc Cl\u00e8re 10 10 Reg E mer W crvrs Directiondesnuagscrvrs Pluietomb\u00e9e Temp\u00e9raturedel air 7 4 12 0 Hauteurdelamer 63 1 63 0 Agitationdel eau 2 fort 2 fort Densiteauboutdelajet\u00e9e 1029 4 S Temp\u00e9raturedel eau 14 0 V 21 f\u00e9vrier 1905 Matin Soir Hauteur Barometrique 768 3 766 0 Directionduventcrvrscrvrs Forceis 3 N\u00e9bulosit\u00e9 Regc Cl\u00e8re 10 l\u00e9g\u00e8rementc 2 l\u00e9g\u00e8rementc Reg E mer W l\u00e9g\u00e8rementc S l\u00e9g\u00e8rementc Directiondesnuagscrvrs Pluietomb\u00e9e Temp\u00e9raturedel air 7 4 11 6 Hauteurdelamer 63 1 72 0 Agitationdel eau 2 fort 2 fort Densiteauboutdelajet\u00e9e 1029 4 1029 4 Temp\u00e9raturedel eau 14 0 13 2",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "082",
+      "raw_content": "V 22 f\u00e9vrier 1906 Matin Soir Hauteur Barometrique 762 8 762 8 Direction du vent S O S O Force is is N\u00e9bulosit\u00e9 Res o terre 10 10 Res o mer W P O Direction des nuages Pluie tomb\u00e9e Temp\u00e9rature de l air 11 0 11 0 Hauteur de la mer 07 0 07 0 Agitation de l eau 2 fort 2 fort Visite au bout de la jet\u00e9e w29 0 w29 0 Temp\u00e9rature de l eau 14 9 14 9 V 23 f\u00e9vrier 1906 Matin Soir Hauteur Barometrique 756 0 753 2 Direction du vent er cr o er cr o Force is is N\u00e9bulosit\u00e9 Res o terre 10 10 Res o mer 10 10 Direction des nuages cr cr o cr cr o Pluie tomb\u00e9e quelques g Temp\u00e9rature de l air 3 3 Hauteur de la mer 3 3 Agitation de l eau 1 fort 2 fort Visite au bout de la jet\u00e9e 3 3 Temp\u00e9rature de l eau 3 3",
+      "cleaned_content": "V 22 f\u00e9vrier 1906 Matin Soir Hauteur Barometrique 762 8 762 8 Directionduvent S O S O Forceisis N\u00e9bulosit\u00e9 Reso terre 10 10 Reso mer W P O Directiondesnuages Pluietomb\u00e9e Temp\u00e9raturedel air 11 0 11 0 Hauteurdelamer 07 0 07 0 Agitationdel eau 2 fort 2 fort Visiteauboutdelajet\u00e9ew29 0 w29 0 Temp\u00e9raturedel eau 14 9 14 9 V 23 f\u00e9vrier 1906 Matin Soir Hauteur Barometrique 756 0 753 2 Directionduventercro ercro Forceisis N\u00e9bulosit\u00e9 Reso terre 10 10 Reso mer 10 10 Directiondesnuagescrcro crcro Pluietomb\u00e9equelquesg Temp\u00e9raturedel air 3 3 Hauteurdelamer 3 3 Agitationdel eau 1 fort 2 fort Visiteauboutdelajet\u00e9e 3 3 Temp\u00e9raturedel eau 3 3",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "083",
+      "raw_content": "V 24 f\u00e9vrier 1906 Matin Soir Hauteur Barometrique 799 0 Direction du vent cr o Force is 3 N\u00e9bulosit\u00e9 Res o terre 10 Res E mer 10 Direction des nuages cr o Pluie tomb\u00e9e 1 6 Temp\u00e9rature de l air 9 4 Hauteur de la mer S Agitation de l eau 1 fort Densit\u00e9 au bout de la jet\u00e9e 5 Temp\u00e9rature de l eau V 1 sup er sup Mars 1906 Matin Soir Hauteur Barometrique 769 4 Direction du vent cr cr o Force is 2 fort N\u00e9bulosit\u00e9 Res o terre 10 Res E mer 10 Direction des nuages Ouest Pluie tomb\u00e9e temp\u00e9rature de l air 14 4 Hauteur de la mer S S Agitation de l eau 2 fort Densit\u00e9 au bout de la jet\u00e9e 5 Temp\u00e9rature de l eau",
+      "cleaned_content": "V 24 f\u00e9vrier 1906 Matin Soir Hauteur Barometrique 799 0 Directionduventcro Forceis 3 N\u00e9bulosit\u00e9 Reso terre 10 Res E mer 10 Directiondesnuagescro Pluietomb\u00e9e 1 6 Temp\u00e9raturedel air 9 4 Hauteurdelamer S Agitationdel eau 1 fort Densit\u00e9 auboutdelajet\u00e9e 5 Temp\u00e9raturedel eau V 1 supersup Mars 1906 Matin Soir Hauteur Barometrique 769 4 Directionduventcrcro Forceis 2 fort N\u00e9bulosit\u00e9 Reso terre 10 Res E mer 10 Directiondesnuages Ouest Pluietomb\u00e9etemp\u00e9raturedel air 14 4 Hauteurdelamer S S Agitationdel eau 2 fort Densit\u00e9 auboutdelajet\u00e9e 5 Temp\u00e9raturedel eau",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "084",
+      "raw_content": "V 2 Mars 1906 Matin Soir Hauteur Barom\u00e9trique 768 3 Direction du vent Force is o N\u00e9bulosit\u00e9 Res o terre 10 Res x mer 10 Direction des nuages cr cr o Pluie tomb\u00e9e Temp\u00e9rature de l air 13 7 Hauteur de la mer 64 6 Agitation de l eau 2 faible Densit\u00e9 au bout de la jet\u00e9e 1029 temp\u00e9rature de l eau 19 0 V 5 Mars 1906 Matin Soir Hauteur Barom\u00e9trique 774 8 Direction du vent S O Force is 1 fort N\u00e9bulosit\u00e9 Res o terre 0 Res x mer 0 Direction des nuages Pluie tomb\u00e9e Temp\u00e9rature de l air 13 6 Hauteur de la mer 66 0 Agitation de l eau 2 faible Densit\u00e9 au bout de la jet\u00e9e 1029 Temp\u00e9rature de l eau 19 0",
+      "cleaned_content": "V 2 Mars 1906 Matin Soir Hauteur Barom\u00e9trique 768 3 Directionduvent Forceiso N\u00e9bulosit\u00e9 Reso terre 10 Resx mer 10 Directiondesnuagescrcro Pluietomb\u00e9e Temp\u00e9raturedel air 13 7 Hauteurdelamer 64 6 Agitationdel eau 2 faible Densit\u00e9 auboutdelajet\u00e9e 1029 temp\u00e9raturedel eau 19 0 V 5 Mars 1906 Matin Soir Hauteur Barom\u00e9trique 774 8 Directionduvent S O Forceis 1 fort N\u00e9bulosit\u00e9 Reso terre 0 Resx mer 0 Directiondesnuages Pluietomb\u00e9e Temp\u00e9raturedel air 13 6 Hauteurdelamer 66 0 Agitationdel eau 2 faible Densit\u00e9 auboutdelajet\u00e9e 1029 Temp\u00e9raturedel eau 19 0",
+      "entities": {
+        "dates": [
+          "2 Mars 1906",
+          "5 Mars 1906"
+        ]
+      }
+    },
+    {
+      "page_number": "085",
+      "raw_content": "Nombre de jours 2 V 6 Mars 1906 Matin Soir Hauteur Barometrique 774 6 Direction du vent Sud T ozee i5 2 fort Reg o leve 2 N\u00e9bulosit\u00e9 Reg E mur g Position des nuags o Pluie Tomb\u00e9e Temperature de l air Hauteur de la mer 64 3 Casitation de l eau 1 fort Versite au bout de la jet\u00e9e 1029 6 Temperature de l eau 1 8 Nombre de jours 2 V 5 Mars 1906",
+      "cleaned_content": "Nombredejours 2 V 6 Mars 1906 Matin Soir Hauteur Barometrique 774 6 Directionduvent Sud T ozeei5 2 fort Rego leve 2 N\u00e9bulosit\u00e9 Reg E murg Positiondesnuagso Pluie Tomb\u00e9e Temperaturedel air Hauteurdelamer 64 3 Casitationdel eau 1 fort Versiteauboutdelajet\u00e9e 1029 6 Temperaturedel eau 1 8 Nombredejours 2 V 5 Mars 1906",
+      "entities": {
+        "dates": [
+          "6 Mars 1906",
+          "5 Mars 1906"
+        ]
+      }
+    },
+    {
+      "page_number": "086",
+      "raw_content": "Nombre de pairs de bateaux V 8 Mars 1906 Matin Soir 2 Hauteur Barometrique 774 0 Direction du vent Force is o Reg o Terre 2 N\u00e9bulosit\u00e9 Reg E mer 2 Direction des nuages Sud Pluie tomb\u00e9e Temp\u00e9rature de l air 11 5 Hauteur de la mer 64 0 Agitation de l eau faible Densit\u00e9 au bout de la jet\u00e9e 1029 Temp\u00e9rature de l eau 16 0 Nombre de pairs de bateaux V 9 Mars 1906 Matin Soir 2 Hauteur Barometrique x 766 3 Direction du vent Force is o Reg o Terre W N\u00e9bulosit\u00e9 Reg E mer 10 Direction des nuages Pluie tomb\u00e9e Temp\u00e9rature de l air 3 Hauteur de la mer 3 Agitation de l eau T T Faible Densit\u00e9 au bout de la jet\u00e9e Temp\u00e9rature de l eau",
+      "cleaned_content": "Nombredepairsdebateaux V 8 Mars 1906 Matin Soir 2 Hauteur Barometrique 774 0 Directionduvent Forceiso Rego Terre 2 N\u00e9bulosit\u00e9 Reg E mer 2 Directiondesnuages Sud Pluietomb\u00e9e Temp\u00e9raturedel air 11 5 Hauteurdelamer 64 0 Agitationdel eaufaible Densit\u00e9 auboutdelajet\u00e9e 1029 Temp\u00e9raturedel eau 16 0 Nombredepairsdebateaux V 9 Mars 1906 Matin Soir 2 Hauteur Barometriquex 766 3 Directionduvent Forceiso Rego Terre W N\u00e9bulosit\u00e9 Reg E mer 10 Directiondesnuages Pluietomb\u00e9e Temp\u00e9raturedel air 3 Hauteurdelamer 3 Agitationdel eau T T Faible Densit\u00e9 auboutdelajet\u00e9e Temp\u00e9raturedel eau",
+      "entities": {
+        "dates": [
+          "8 Mars 1906",
+          "9 Mars 1906"
+        ]
+      }
+    },
+    {
+      "page_number": "087",
+      "raw_content": "V 10 Mars 1906 Matin Soir Hauteur Barom\u00e9trique 767 9 764 5 Direction du vent cr cr o cr cr o Force 3 2 N\u00e9bulosit\u00e9 Res o terre 10 1 N\u00e9bulosit\u00e9 Res x mer 10 2 Direction des nuages er o or o Pluie tomb\u00e9e Temp\u00e9rature de l air 12 0 17 0 Hauteur de la mer 67 1 76 9 Agitation de l eau 2 fort 2 fort Densit\u00e9 au bout de la jet\u00e9e 1 28 4 1 28 3 Temp\u00e9rature de l eau 14 6 14 9 V 12 Mars 1906 Matin Soir Hauteur Barom\u00e9trique 796 2 Direction du vent cr cr o Force 3 fort N\u00e9bulosit\u00e9 Res o terre 10 N\u00e9bulosit\u00e9 Res x mer 10 Direction des nuages Ouest Pluie tomb\u00e9e Temp\u00e9rature de l air 16 0 Hauteur de la mer 43 0 Agitation de l eau 2 Densit\u00e9 au bout de la jet\u00e9e Temp\u00e9rature de l eau",
+      "cleaned_content": "V 10 Mars 1906 Matin Soir Hauteur Barom\u00e9trique 767 9 764 5 Directionduventcrcro crcro Force 3 2 N\u00e9bulosit\u00e9 Reso terre 10 1 N\u00e9bulosit\u00e9 Resx mer 10 2 Directiondesnuagesero oro Pluietomb\u00e9e Temp\u00e9raturedel air 12 0 17 0 Hauteurdelamer 67 1 76 9 Agitationdel eau 2 fort 2 fort Densit\u00e9 auboutdelajet\u00e9e 1 28 4 1 28 3 Temp\u00e9raturedel eau 14 6 14 9 V 12 Mars 1906 Matin Soir Hauteur Barom\u00e9trique 796 2 Directionduventcrcro Force 3 fort N\u00e9bulosit\u00e9 Reso terre 10 N\u00e9bulosit\u00e9 Resx mer 10 Directiondesnuages Ouest Pluietomb\u00e9e Temp\u00e9raturedel air 16 0 Hauteurdelamer 43 0 Agitationdel eau 2 Densit\u00e9 auboutdelajet\u00e9e Temp\u00e9raturedel eau",
+      "entities": {
+        "dates": [
+          "10 Mars 1906",
+          "12 Mars 1906"
+        ]
+      }
+    },
+    {
+      "page_number": "088",
+      "raw_content": "V 13 Mars 1906 Matin Soir Hauteur Barometrique 76 sup o sup 2 Direction du vent cr cr o Force is 4 N\u00e9bulosit\u00e9 Reg o terre br Reg xi mer lo br lo Direction des nuages cr cr o Pluie tomb\u00e9e quelques g Temp\u00e9rature de l air 9 sup o sup Hauteur de la mer ff 2 Agitation de l eau 3 Densit\u00e9 au bout de la jet\u00e9e 1029 8 Temp\u00e9rature de l eau 18 sup o sup V 14 Mars 1906 Matin Soir Hauteur Barometrique Direction du vent Force is N\u00e9bulosit\u00e9 Reg o terre br Reg xi mer Direction des nuages Pluie tomb\u00e9e Temp\u00e9rature de l air Hauteur de la mer Agitation de l eau Densit\u00e9 au bout de la jet\u00e9e Temp\u00e9rature de l eau",
+      "cleaned_content": "V 13 Mars 1906 Matin Soir Hauteur Barometrique 76 supo sup 2 Directionduventcrcro Forceis 4 N\u00e9bulosit\u00e9 Rego terrebr Regximerlobrlo Directiondesnuagescrcro Pluietomb\u00e9equelquesg Temp\u00e9raturedel air 9 supo sup Hauteurdelamerff 2 Agitationdel eau 3 Densit\u00e9 auboutdelajet\u00e9e 1029 8 Temp\u00e9raturedel eau 18 supo sup V 14 Mars 1906 Matin Soir Hauteur Barometrique Directionduvent Forceis N\u00e9bulosit\u00e9 Rego terrebr Regximer Directiondesnuages Pluietomb\u00e9e Temp\u00e9raturedel air Hauteurdelamer Agitationdel eau Densit\u00e9 auboutdelajet\u00e9e Temp\u00e9raturedel eau",
+      "entities": {
+        "dates": [
+          "13 Mars 1906",
+          "14 Mars 1906"
+        ]
+      }
+    },
+    {
+      "page_number": "089",
+      "raw_content": "N 15 9 Mars 1906 Matin Soir Nombre de jours de bateaux g N 16 9 Mars 1906 Hauteur barom\u00e9trique 778 2 Direction du vent cr cr o Force i5 1 Ti fort Leger e c Nebulosite Des o terre Peu ent Lige e c Reg xi mer Direction des nuages cr cr o Pluie tomb\u00e9e Temperature de l air s Hauteur de la mer Agitation de l eau faible Densit\u00e9 au bout de la jet\u00e9e S Temperature de l eau",
+      "cleaned_content": "N 15 9 Mars 1906 Matin Soir Nombredejoursdebateauxg N 16 9 Mars 1906 Hauteurbarom\u00e9trique 778 2 Directionduventcrcro Forcei5 1 Tifort Legere c Nebulosite Deso terre Peuent Ligee c Regximer Directiondesnuagescrcro Pluietomb\u00e9e Temperaturedel airs Hauteurdelamer Agitationdel eaufaible Densit\u00e9 auboutdelajet\u00e9e S Temperaturedel eau",
+      "entities": {
+        "dates": [
+          "9 Mars 1906",
+          "9 Mars 1906"
+        ]
+      }
+    },
+    {
+      "page_number": "090",
+      "raw_content": "Nombre de bateaux 9 Nombre de baris de bateaux 13 V 17 946 ans 1906 Matin Soir Hauteur Barometrique 769 6 707 6 Direction du vent Force is 0 0 N\u00e9bulosit\u00e9 Reg o Cl\u00e8re 0 0 Reg x\u00ea mer 0 0 Direction des mage Pluie tomb\u00e9e Temp\u00e9rature de l air 19 3 Hauteur de la mer 3 5 Agitation de l eau 0 0 Densit\u00e9 au bout de la jet\u00e9e 5 5 Temp\u00e9rature de l eau 3 3 V 19 946 ans 1906 Matin Soir Hauteur Barometrique 760 2 Direction du vent er cr o Force is 6 N\u00e9bulosit\u00e9 Reg o Cl\u00e8re 10 Reg x\u00ea mer 10 Direction des image cr o Pluie tomb\u00e9e Temp\u00e9rature de l air 5 Hauteur de la mer 5 Agitation de l eau 3 Densit\u00e9 au bout de la jet\u00e9e 5 Temp\u00e9rature de l eau 5",
+      "cleaned_content": "Nombredebateaux 9 Nombredebarisdebateaux 13 V 17 946 ans 1906 Matin Soir Hauteur Barometrique 769 6 707 6 Directionduvent Forceis 0 0 N\u00e9bulosit\u00e9 Rego Cl\u00e8re 0 0 Regx\u00ea mer 0 0 Directiondesmage Pluietomb\u00e9e Temp\u00e9raturedel air 19 3 Hauteurdelamer 3 5 Agitationdel eau 0 0 Densit\u00e9 auboutdelajet\u00e9e 5 5 Temp\u00e9raturedel eau 3 3 V 19 946 ans 1906 Matin Soir Hauteur Barometrique 760 2 Directionduventercro Forceis 6 N\u00e9bulosit\u00e9 Rego Cl\u00e8re 10 Regx\u00ea mer 10 Directiondesimagecro Pluietomb\u00e9e Temp\u00e9raturedel air 5 Hauteurdelamer 5 Agitationdel eau 3 Densit\u00e9 auboutdelajet\u00e9e 5 Temp\u00e9raturedel eau 5",
+      "entities": {
+        "dates": [
+          "46 ans 1906",
+          "46 ans 1906"
+        ]
+      }
+    },
+    {
+      "page_number": "091",
+      "raw_content": "Date Matin Soir V 20 Mars 1906 Hauteur Barometrique br Direction du vent br Force br N\u00e9bulosit\u00e9 br Res o terre br Direction des nuages br Pluie tomb\u00e9e br Temp\u00e9rature de l air br Hauteur de la mer br Agitation de l eau br Veniste au bout de la jet\u00e9e br Temp\u00e9rature de l eau 761 3 br cv cv o br is br de fort br 2 br Res xi cour br 1 br cv cv o br br S br br fort br S br br V 21 Mars 1906 Hauteur Barometrique br direction du vent br Force br N\u00e9bulosite br Res xi mer br Direction des nuages br Pluie tomb\u00e9e br Temp\u00e9rature de l air br Hauteur de la mer br Agitation de l eau br Veniste au bout de la jet\u00e9e br Temp\u00e9rature de l eau 796 1 br cv cv o br is br 3 br Res o claire br 10 br cv o br br 7 8 br fl o br 2 br 1029 br 15 0 br",
+      "cleaned_content": "Date Matin Soir V 20 Mars 1906 Hauteur Barometriquebr Directionduventbr Forcebr N\u00e9bulosit\u00e9 br Reso terrebr Directiondesnuagesbr Pluietomb\u00e9ebr Temp\u00e9raturedel airbr Hauteurdelamerbr Agitationdel eaubr Venisteauboutdelajet\u00e9ebr Temp\u00e9raturedel eau 761 3 brcvcvo brisbrdefortbr 2 br Resxicourbr 1 brcvcvo brbr S brbrfortbr S brbr V 21 Mars 1906 Hauteur Barometriquebrdirectionduventbr Forcebr N\u00e9bulositebr Resximerbr Directiondesnuagesbr Pluietomb\u00e9ebr Temp\u00e9raturedel airbr Hauteurdelamerbr Agitationdel eaubr Venisteauboutdelajet\u00e9ebr Temp\u00e9raturedel eau 796 1 brcvcvo brisbr 3 br Reso clairebr 10 brcvo brbr 7 8 brflo br 2 br 1029 br 15 0 br",
+      "entities": {
+        "dates": [
+          "20 Mars 1906",
+          "21 Mars 1906",
+          "2 br 1029"
+        ]
+      }
+    },
+    {
+      "page_number": "092",
+      "raw_content": "V 22 Mars 1906 Matin Soir Hauteur Barometrique 770 2 Direction du Vent N N O Force i5 fort Nebulosite Reg O Cleire 10 Reg E mer 10 Direction des nuags S V S V O Pluie tomb\u00e9e 3 0 Temperature de l air 8 7 Hauteur de la mer 5 Agitation de l eau 4 Densit\u00e9 au bout de la jet\u00e9e 3 Temperature de l eau V 23 Mars 1906 Matin Soir Hauteur Barometrique 747 3 Direction du vent S E S E O Force i5 f Nebulosite Reg O Cleire 10 Reg E mer 10 Direction des nuags S V S V O Pluie tomb\u00e9e quelques gouttes Temperature de l air 8 7 Hauteur de la mer 5 Agitation de l eau 2 forts Densit\u00e9 au bout de la jet\u00e9e 5 Temperature de l eau",
+      "cleaned_content": "V 22 Mars 1906 Matin Soir Hauteur Barometrique 770 2 Directiondu Vent N N O Forcei5 fort Nebulosite Reg O Cleire 10 Reg E mer 10 Directiondesnuags S V S V O Pluietomb\u00e9e 3 0 Temperaturedel air 8 7 Hauteurdelamer 5 Agitationdel eau 4 Densit\u00e9 auboutdelajet\u00e9e 3 Temperaturedel eau V 23 Mars 1906 Matin Soir Hauteur Barometrique 747 3 Directionduvent S E S E O Forcei5 f Nebulosite Reg O Cleire 10 Reg E mer 10 Directiondesnuags S V S V O Pluietomb\u00e9equelquesgouttes Temperaturedel air 8 7 Hauteurdelamer 5 Agitationdel eau 2 forts Densit\u00e9 auboutdelajet\u00e9e 5 Temperaturedel eau",
+      "entities": {
+        "dates": [
+          "22 Mars 1906",
+          "23 Mars 1906"
+        ]
+      }
+    },
+    {
+      "page_number": "093",
+      "raw_content": "V 24 Mars 1906 Matin Soir Hauteur Barometrique 791 Direction du vent er cr o Force N\u00e9bulosit\u00e9 Reg o terre 10 Reg mer 10 Direction des nuages Ouert Pluie tomb\u00e9e quelques g Temp\u00e9rature de l air 3 Hauteur de la mer S Agitation de l eau 2 Densit\u00e9 au bouti si la jet\u00e9e 5 Temp\u00e9rature de l eau Nombre de pairs de bateaux 2 V 25 Mars 1906",
+      "cleaned_content": "V 24 Mars 1906 Matin Soir Hauteur Barometrique 791 Directionduventercro Force N\u00e9bulosit\u00e9 Rego terre 10 Regmer 10 Directiondesnuages Ouert Pluietomb\u00e9equelquesg Temp\u00e9raturedel air 3 Hauteurdelamer S Agitationdel eau 2 Densit\u00e9 auboutisilajet\u00e9e 5 Temp\u00e9raturedel eau Nombredepairsdebateaux 2 V 25 Mars 1906",
+      "entities": {
+        "dates": [
+          "24 Mars 1906",
+          "25 Mars 1906"
+        ]
+      }
+    },
+    {
+      "page_number": "094",
+      "raw_content": "Date Matin Soir V 26 Mars 1906 Hanteur Barometrique br 749 8 br Direcion du vent br E Sud Est br Force is br 2 fort br Nebulosite Reg O terre br 10 br Direction des nuags br S E br Pluie tomb\u00e9e br 24 37 br temp\u00e9rature de l air br 9 0 br Hauten mer br 5 br Asitation eau br 4 br Denrite jet\u00e9e br 3 br Temperature eau br 3 Hanteur Barometrique br 741 8 br Direcion du vent br cr cN o br Force is br 1 br Nebulosite Reg O terre br 10 br Direction des nuags br cr o br Pluie tomb\u00e9e br 37 9 br Temp\u00e9rature de l air br 9 0 br Hauten mer br 5 br Asitation eau br 10 br Denrite jet\u00e9e br 3 br Temperature eau br 3 V 27 Mars 1906 Hanteur Barometrique br br Direicion vent br br Force is br br Nebulosite Ris a terre br des xi mr br Direction nuags br br Pluie tomb\u00e9e br br Temp\u00e9rature de l air br br Hauten mer br br Asitation eau br br Denrite jet\u00e9e br br Temperature de l eau br br Matiu br 746 0 br Soir br 1 0 br Matin br 1 br Soir br 10 br Matin br 4 0 br Soir br 3 br Matin br 3 br Soir br 3",
+      "cleaned_content": "Date Matin Soir V 26 Mars 1906 Hanteur Barometriquebr 749 8 br Direcionduventbr E Sud Estbr Forceisbr 2 fortbr Nebulosite Reg O terrebr 10 br Directiondesnuagsbr S E br Pluietomb\u00e9ebr 24 37 brtemp\u00e9raturedel airbr 9 0 br Hautenmerbr 5 br Asitationeaubr 4 br Denritejet\u00e9ebr 3 br Temperatureeaubr 3 Hanteur Barometriquebr 741 8 br DirecionduventbrcrcN obr Forceisbr 1 br Nebulosite Reg O terrebr 10 br Directiondesnuagsbrcro br Pluietomb\u00e9ebr 37 9 br Temp\u00e9raturedel airbr 9 0 br Hautenmerbr 5 br Asitationeaubr 10 br Denritejet\u00e9ebr 3 br Temperatureeaubr 3 V 27 Mars 1906 Hanteur Barometriquebrbr Direicionventbrbr Forceisbrbr Nebulosite Risa terrebrdesximrbr Directionnuagsbrbr Pluietomb\u00e9ebrbr Temp\u00e9raturedel airbrbr Hautenmerbrbr Asitationeaubrbr Denritejet\u00e9ebrbr Temperaturedel eaubrbr Matiubr 746 0 br Soirbr 1 0 br Matinbr 1 br Soirbr 10 br Matinbr 4 0 br Soirbr 3 br Matinbr 3 br Soirbr 3",
+      "entities": {
+        "dates": [
+          "26 Mars 1906",
+          "27 Mars 1906"
+        ]
+      }
+    },
+    {
+      "page_number": "095",
+      "raw_content": "Nombre de jours de bateaux 18 V 28 Mars 1906 Matin Soir Hauteur Barometrique 749 2 Direction du vent cr cr o Force is 1 fort Res o l\u00e8re Lo N\u00e9bulosit\u00e9 L Res xi mer 10 D\u00e9viation des nuages Est pluie tomb\u00e9e 4 37 Temp\u00e9rature de l air Hauteur de la mer Agitation de l eau fort Densit\u00e9 au bout de la jet\u00e9e Temp\u00e9rature de l eau Nombre de jours de bateaux 15 V 29 Mars 1906 Matin Soir Hauteur Barometrique 749 7 Direction du vent cr cr o Force is fort Res o l\u00e8re 2 N\u00e9bulosit\u00e9 L Res xi mer 1 D\u00e9viation des nuages cr cr o Pluie tomb\u00e9e 9 Temp\u00e9rature de l air S Hauteur de la mer 2 Agitation de l eau S Densit\u00e9 au bout de la jet\u00e9e Temp\u00e9rature de l eau",
+      "cleaned_content": "Nombredejoursdebateaux 18 V 28 Mars 1906 Matin Soir Hauteur Barometrique 749 2 Directionduventcrcro Forceis 1 fort Reso l\u00e8re Lo N\u00e9bulosit\u00e9 L Resximer 10 D\u00e9viationdesnuages Estpluietomb\u00e9e 4 37 Temp\u00e9raturedel air Hauteurdelamer Agitationdel eaufort Densit\u00e9 auboutdelajet\u00e9e Temp\u00e9raturedel eau Nombredejoursdebateaux 15 V 29 Mars 1906 Matin Soir Hauteur Barometrique 749 7 Directionduventcrcro Forceisfort Reso l\u00e8re 2 N\u00e9bulosit\u00e9 L Resximer 1 D\u00e9viationdesnuagescrcro Pluietomb\u00e9e 9 Temp\u00e9raturedel air S Hauteurdelamer 2 Agitationdel eau S Densit\u00e9 auboutdelajet\u00e9e Temp\u00e9raturedel eau",
+      "entities": {
+        "dates": [
+          "28 Mars 1906",
+          "29 Mars 1906"
+        ]
+      }
+    },
+    {
+      "page_number": "096",
+      "raw_content": "N\u00e9ant V 30 Mars 1906 Matin Soir Nombre de jours de bateaux x V 31 Mars 1906 Matin Soir Hauteur Barom\u00e9trique Direction du vent Force Nebulosite Reg L cour Direction des mags Pluie tomb\u00e9e Temp\u00e9rature de l air Hauteur de la mer Agitation de l eau Densit\u00e9 au bout de la jet\u00e9e Temp\u00e9rature de l eau 76 4 croix fort o 3 Sud 8 S 2 fort S",
+      "cleaned_content": "N\u00e9ant V 30 Mars 1906 Matin Soir Nombredejoursdebateauxx V 31 Mars 1906 Matin Soir Hauteur Barom\u00e9trique Directionduvent Force Nebulosite Reg L cour Directiondesmags Pluietomb\u00e9e Temp\u00e9raturedel air Hauteurdelamer Agitationdel eau Densit\u00e9 auboutdelajet\u00e9e Temp\u00e9raturedel eau 76 4 croixforto 3 Sud 8 S 2 fort S",
+      "entities": {
+        "dates": [
+          "30 Mars 1906",
+          "31 Mars 1906"
+        ]
+      }
+    },
+    {
+      "page_number": "097",
+      "raw_content": "Nombre de pairs de bateaux 14 Nombre de pairs de bateaux 24 Date Matin Soir 9 2 Avril 1906 9 3 Avril 1906 Matin Soir",
+      "cleaned_content": "Nombredepairsdebateaux 14 Nombredepairsdebateaux 24 Date Matin Soir 9 2 Avril 1906 9 3 Avril 1906 Matin Soir",
+      "entities": {
+        "dates": [
+          "2 Avril 1906",
+          "3 Avril 1906"
+        ]
+      }
+    },
+    {
+      "page_number": "099",
+      "raw_content": "V 7 Avril 1906 Nombre de paris de bateaux 4",
+      "cleaned_content": "V 7 Avril 1906 Nombredeparisdebateaux 4",
+      "entities": {
+        "dates": [
+          "7 Avril 1906"
+        ]
+      }
+    },
+    {
+      "page_number": "100",
+      "raw_content": "V 6 Avril 1906 Matin Soir Hauteur Barometrique 768 2 Direction du vent Est Force 2 Res G lire 10 N\u00e9bulosite 40 Res L mr Direction des nuage Sud Pluie tomb\u00e9e 6 0 Temp\u00e9rature de l air 10 5 Hauteur de la mer S Agitation de l eau 7 Densit\u00e9 au bout de le jet\u00e9e S Temp\u00e9rature de l eau V 9 Avril 1906 Matin Soir Hauteur Barometrique 766 9 766 7 Direction du vent crois cr cro 8 Force iS 1 fort 1 Res G lire 3 2 N\u00e9bulosite 0 0 Res L mr 0 0 Direction des nuage cr cr E cr cr 8 Pluie tomb\u00e9e 8 7 9 Temp\u00e9rature de l air 12 7 16 0 Hauteur de la mer S 70 8 Agitation de l eau 1 1 Densit\u00e9 au bout de le jet\u00e9e S E Temp\u00e9rature de l eau",
+      "cleaned_content": "V 6 Avril 1906 Matin Soir Hauteur Barometrique 768 2 Directionduvent Est Force 2 Res G lire 10 N\u00e9bulosite 40 Res L mr Directiondesnuage Sud Pluietomb\u00e9e 6 0 Temp\u00e9raturedel air 10 5 Hauteurdelamer S Agitationdel eau 7 Densit\u00e9 auboutdelejet\u00e9e S Temp\u00e9raturedel eau V 9 Avril 1906 Matin Soir Hauteur Barometrique 766 9 766 7 Directionduventcroiscrcro 8 ForceiS 1 fort 1 Res G lire 3 2 N\u00e9bulosite 0 0 Res L mr 0 0 Directiondesnuagecrcr E crcr 8 Pluietomb\u00e9e 8 7 9 Temp\u00e9raturedel air 12 7 16 0 Hauteurdelamer S 70 8 Agitationdel eau 1 1 Densit\u00e9 auboutdelejet\u00e9e S E Temp\u00e9raturedel eau",
+      "entities": {
+        "dates": [
+          "6 Avril 1906",
+          "9 Avril 1906"
+        ]
+      }
+    },
+    {
+      "page_number": "101",
+      "raw_content": "Nombre de pairs de bateaux 9 Matin Soir R 10 Avril 1906 767 0 Hauteur Barom\u00e9trique Direction du vent Erau Force is 1 Reg c terre 4 0 N\u00e9bulosit\u00e9 Res li mer 1 0 Direction des nuages Sest Pluie tomb\u00e9e A P Temp\u00e9rature de l air 11 8 Hauteur de la mer 2 6 Agitation de l eau 1 faible Densit\u00e9 au bout de la jet\u00e9e 3 Temp\u00e9rature de l eau Nombre de pairs de bateaux 14 Matin Soir R 19 Avril 1906 767 8 Hauteur Barom\u00e9trique Direction du vent S E Force is 1 fort Reg c terre 4 0 N\u00e9bulosit\u00e9 Res li mer 1 0 Direction des nuages S E Pluie tomb\u00e9e 3 0 Temp\u00e9rature de l air 5 Hauteur de la mer 5 Agitation de l eau 2 faible Densit\u00e9 au bout de la jet\u00e9e 5 Temp\u00e9rature de l eau",
+      "cleaned_content": "Nombredepairsdebateaux 9 Matin Soir R 10 Avril 1906 767 0 Hauteur Barom\u00e9trique Directionduvent Erau Forceis 1 Regc terre 4 0 N\u00e9bulosit\u00e9 Reslimer 1 0 Directiondesnuages Sest Pluietomb\u00e9e A P Temp\u00e9raturedel air 11 8 Hauteurdelamer 2 6 Agitationdel eau 1 faible Densit\u00e9 auboutdelajet\u00e9e 3 Temp\u00e9raturedel eau Nombredepairsdebateaux 14 Matin Soir R 19 Avril 1906 767 8 Hauteur Barom\u00e9trique Directionduvent S E Forceis 1 fort Regc terre 4 0 N\u00e9bulosit\u00e9 Reslimer 1 0 Directiondesnuages S E Pluietomb\u00e9e 3 0 Temp\u00e9raturedel air 5 Hauteurdelamer 5 Agitationdel eau 2 faible Densit\u00e9 auboutdelajet\u00e9e 5 Temp\u00e9raturedel eau",
+      "entities": {
+        "dates": [
+          "10 Avril 1906",
+          "19 Avril 1906"
+        ]
+      }
+    },
+    {
+      "page_number": "102",
+      "raw_content": "V 13 Avril 1906 Matin Soir Hauteur Barometrique 766 4 766 3 Direction du vent er o cr o Force is 1 fort 2 N\u00e9bulosit\u00e9 Res o terre 10 10 Res e mer 10 10 Direction des nuages er cr 8 er cr 8 Pluie tomb\u00e9e 16 1 2 9 Temp\u00e9rature de l air 10 o 12 o Hauteur de la mer S S Agitation de l eau 1 1 fort Densit\u00e9 au bout de la jet\u00e9e 3 S Temp\u00e9rature de l eau V 14 Avril 1906 Matin Soir Hauteur Barom\u00e9trique 768 2 Direction du vent er o Force is 2 fort N\u00e9bulosit\u00e9 Res o terre 10 l\u00e9g\u00e8re c Res e mer 10 l\u00e9g\u00e8re c Direction des nuages er cr o Pluie tomb\u00e9e Temp\u00e9rature de l air 19 8 Hauteur de la mer 61 3 Agitation de l eau 1 Densit\u00e9 au bout de la jet\u00e9e 3 Temp\u00e9rature de l eau",
+      "cleaned_content": "V 13 Avril 1906 Matin Soir Hauteur Barometrique 766 4 766 3 Directionduventero cro Forceis 1 fort 2 N\u00e9bulosit\u00e9 Reso terre 10 10 Rese mer 10 10 Directiondesnuagesercr 8 ercr 8 Pluietomb\u00e9e 16 1 2 9 Temp\u00e9raturedel air 10 o 12 o Hauteurdelamer S S Agitationdel eau 1 1 fort Densit\u00e9 auboutdelajet\u00e9e 3 S Temp\u00e9raturedel eau V 14 Avril 1906 Matin Soir Hauteur Barom\u00e9trique 768 2 Directionduventero Forceis 2 fort N\u00e9bulosit\u00e9 Reso terre 10 l\u00e9g\u00e8rec Rese mer 10 l\u00e9g\u00e8rec Directiondesnuagesercro Pluietomb\u00e9e Temp\u00e9raturedel air 19 8 Hauteurdelamer 61 3 Agitationdel eau 1 Densit\u00e9 auboutdelajet\u00e9e 3 Temp\u00e9raturedel eau",
+      "entities": {
+        "dates": [
+          "13 Avril 1906",
+          "14 Avril 1906"
+        ]
+      }
+    },
+    {
+      "page_number": "103",
+      "raw_content": "N Date Matin Soir 17 Avril 1906 Hauteur Barom\u00e9trique 760 6 747 3 Direction du vent cr 8 cr 8 Force is 1 T fiable Faible N\u00e9bulosit\u00e9 Reg G Terre 10 10 Reg E mer 10 10 Direction des nuages Sud cr 8 Pluie tomb\u00e9e quelques g quelques g temp\u00e9rature de l air 16 4 Hauteur de la mer 3 99 0 Agitation de l eau 1 faible 1 Densit\u00e9 au bout de la jet\u00e9e S S Temp\u00e9rature de l eau N Date Matin Soir 18 Avril 1906 Hauteur Barom\u00e9trique 745 7 Direction du vent S S O Force is 1 fort N\u00e9bulosit\u00e9 Reg G Terre 10 Reg E mer 10 Direction des nuages S O Pluie tomb\u00e9e quelques g Temp\u00e9rature de l air 19 4 Hauteur de la mer 89 4 Agitation de l eau 2 Densit\u00e9 au bout de la jet\u00e9e S Temp\u00e9rature de l eau",
+      "cleaned_content": "N Date Matin Soir 17 Avril 1906 Hauteur Barom\u00e9trique 760 6 747 3 Directionduventcr 8 cr 8 Forceis 1 T fiable Faible N\u00e9bulosit\u00e9 Reg G Terre 10 10 Reg E mer 10 10 Directiondesnuages Sudcr 8 Pluietomb\u00e9equelquesg quelquesg temp\u00e9raturedel air 16 4 Hauteurdelamer 3 99 0 Agitationdel eau 1 faible 1 Densit\u00e9 auboutdelajet\u00e9e S S Temp\u00e9raturedel eau N Date Matin Soir 18 Avril 1906 Hauteur Barom\u00e9trique 745 7 Directionduvent S S O Forceis 1 fort N\u00e9bulosit\u00e9 Reg G Terre 10 Reg E mer 10 Directiondesnuages S O Pluietomb\u00e9equelquesg Temp\u00e9raturedel air 19 4 Hauteurdelamer 89 4 Agitationdel eau 2 Densit\u00e9 auboutdelajet\u00e9e S Temp\u00e9raturedel eau",
+      "entities": {
+        "dates": [
+          "17 Avril 1906",
+          "18 Avril 1906"
+        ]
+      }
+    },
+    {
+      "page_number": "104",
+      "raw_content": "Manuscrit de Jean de Gobaux 14 V 19 Avril 1906 Matin Soir Hauteur Barom\u00e9trique 793 3 Direction du Vent cr cr o Force is 2 N\u00e9bulosit\u00e9 Res o terre W R\u00e9gl 2i mer 10 Variation des nuages cr o Pluie tomb\u00e9e quelque g Temp\u00e9rature de l air 12 6 Hauteur de la mer 13 7 Agitation de l eau 1 Densit\u00e9 au bout de la jet\u00e9e 1027 9 Temp\u00e9rature de l eau 16 3 Manuscrit de Jean de Gobaux 14 V 28 Avril 1906 Matin Soir",
+      "cleaned_content": "Manuscritde Jeande Gobaux 14 V 19 Avril 1906 Matin Soir Hauteur Barom\u00e9trique 793 3 Directiondu Ventcrcro Forceis 2 N\u00e9bulosit\u00e9 Reso terre W R\u00e9gl 2imer 10 Variationdesnuagescro Pluietomb\u00e9equelqueg Temp\u00e9raturedel air 12 6 Hauteurdelamer 13 7 Agitationdel eau 1 Densit\u00e9 auboutdelajet\u00e9e 1027 9 Temp\u00e9raturedel eau 16 3 Manuscritde Jeande Gobaux 14 V 28 Avril 1906 Matin Soir",
+      "entities": {
+        "dates": [
+          "19 Avril 1906",
+          "28 Avril 1906"
+        ]
+      }
+    },
+    {
+      "page_number": "105",
+      "raw_content": "Nombre de paix de bateaux 14 Membre de paix de bateaux 18 9 30 Avril 1906 V 1er Mai 1906 Matin Soir Hauteur Barometrique 799 0 794 7 Direction du vent S S Force i5 O Fort Res O Cl\u00e8re 10 10 Nebulosit\u00e9 L Res E mer 10 10 Direction des nuags Ouest quelques g Pluie Tomb\u00e9e 16 2 Temperature de l air 5 5 Hauteur de la mer 1 1 T faible Agitation de l eau Densite au bout de la jet\u00e9e 3 3 Temp\u00e9rature de l eau Matin Soir Hauteur Barometrique 799 4 Direction du vent ouest Force i5 2 Res O Cl\u00e8re 10 10 Nebulosit\u00e9 Res Ei mer 20 Direction des nuags ouest Pluie Tomb\u00e9e quelques g Temperature de l air 12 3 Hauteur de la mer Agitation de l eau 1 Densite au bout de la jet\u00e9e 3 Temp\u00e9rature de l eau",
+      "cleaned_content": "Nombredepaixdebateaux 14 Membredepaixdebateaux 18 9 30 Avril 1906 V 1er Mai 1906 Matin Soir Hauteur Barometrique 799 0 794 7 Directionduvent S S Forcei5 O Fort Res O Cl\u00e8re 10 10 Nebulosit\u00e9 L Res E mer 10 10 Directiondesnuags Ouestquelquesg Pluie Tomb\u00e9e 16 2 Temperaturedel air 5 5 Hauteurdelamer 1 1 T faible Agitationdel eau Densiteauboutdelajet\u00e9e 3 3 Temp\u00e9raturedel eau Matin Soir Hauteur Barometrique 799 4 Directionduventouest Forcei5 2 Res O Cl\u00e8re 10 10 Nebulosit\u00e9 Res Eimer 20 Directiondesnuagsouest Pluie Tomb\u00e9equelquesg Temperaturedel air 12 3 Hauteurdelamer Agitationdel eau 1 Densiteauboutdelajet\u00e9e 3 Temp\u00e9raturedel eau",
+      "entities": {
+        "dates": [
+          "30 Avril 1906"
+        ]
+      }
+    },
+    {
+      "page_number": "107",
+      "raw_content": "V 4 Mai 1906 Matin Soir Hauteur Barom\u00e9trique 767 8 Direction du Vent cr E Force iS faible W Nebulosite Reg 6 cl\u00e8re Reg 2 cur 10 Direction des nuages cr O Pluie Tomb\u00e9e Temp\u00e9rature de l air 18 4 Hauteur de la mer 17ct Agitation de l eau Tt faible Consid\u00e9 au bout de la jet\u00e9e 3 Temp\u00e9rature de l eau V 5 Mai 1906 Matin Soir",
+      "cleaned_content": "V 4 Mai 1906 Matin Soir Hauteur Barom\u00e9trique 767 8 Directiondu Ventcr E ForceiS faible W Nebulosite Reg 6 cl\u00e8re Reg 2 cur 10 Directiondesnuagescr O Pluie Tomb\u00e9e Temp\u00e9raturedel air 18 4 Hauteurdelamer 17ct Agitationdel eau Ttfaible Consid\u00e9 auboutdelajet\u00e9e 3 Temp\u00e9raturedel eau V 5 Mai 1906 Matin Soir",
+      "entities": {
+        "dates": [
+          "4 Mai 1906",
+          "5 Mai 1906"
+        ]
+      }
+    }
+  ],
+  "metadata": {
+    "years": [
+      "1809",
+      "1905",
+      "1906"
+    ],
+    "book_name": "08_OOB_05_meteo"
+  }
+}

@@ -1,0 +1,25 @@
+|  4. 27 Juin. 1903 | Matin | Soir  |
+| --- | --- | --- |
+|  Hauteur Marométrique | 256.2 | 20.8  |
+|  Direction Su vent | 30.8 | 2.8  |
+|  Force | 1 faible | 1 fort  |
+|  Nocoulosité (Reg. O. (16me)) | 0 | 0  |
+|  Nocoulosité (Reg. K. (me)) | 0 | 16 g.m-2.  |
+|  Direction des nuages |  |   |
+|  2. 28 Juin. 1903 | 28.6 | 30.1  |
+|  Nocoulosité de l'air | 43.9 | 18.2  |
+|  Nocoulosité de la mer | 0 | 17.6  |
+|  2. 28 Juin. 1903 | 1026.2 | 1026.4  |
+|  Nocoulosité de l'eau | 20.6 | 24.2  |
+|  4. 28 Juin. 1903 | Matin | Soir  |
+|  Hauteur Marométrique | 262.2 | 260.2  |
+|  Direction Su vent | ex. ex. 8 | 2.8.8  |
+|  Force | 1 | 4  |
+|  Nocoulosité (Reg. O. (16me)) | 0 | 10  |
+|  Nocoulosité (Reg. K. (me)) | 0 | 10  |
+|  Direction des nuages |  | 2.28  |
+|  2. 28 Juin. 1903 | 24.2 | 22.0  |
+|  Nocoulosité de l'air | 43.8 | 41.1  |
+|  Nocoulosité de la mer | 17.6 | 27.6  |
+|  2. 28 Juin. 1903 | 1027.0 | 1027.3  |
+|  Nocoulosité de l'eau | 21.1 | 21.3  |

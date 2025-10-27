@@ -1,0 +1,17 @@
+# Date. 7 Octobre - 1901
+
+|   | 9" Matin | 3" Soir  |
+| --- | --- | --- |
+|  Hauteur Barométrique | 758,4 | 758,3  |
+|  Direction du vent | N.N.O | N.N.O  |
+|  Force | /faible | /faible  |
+|  Nébulosité | 10 | 0  |
+|  Reg. O. (terre) | 10 | 0  |
+|  Reg. E. (mer) | 0 | 3  |
+|  Direction des nuages | N.N.O | N.N.O  |
+|  Pluie tombée | 10 | 10  |
+|  Température de l'air | 11,9 | 11,6  |
+|  Hauteur de la mer | 11,1 | 40,6  |
+|  Agitation de l'eau | 3 fort | 4 faible  |
+|  Densité de l'eau | 1026,7 | 1026,9  |
+|  Température de l'eau | 18,1 | 18,5  |

@@ -1,0 +1,47 @@
+```plaintext
+| **OBSERVATIONS DU 1901 / 11 Janvier** |
+| --- |
+| **Nombre de bateaux sortis (pêche à l.)** | 9,8 |
+| **Température de l'air** |
+| - **maxima depuis la veille** | 9,8 |
+| - **minima id.** | 3,3 |
+| **Température de l'eau** |
+| - **maxima depuis la veille** |  |
+| - **minima id.** |  |
+| **Pluie tombée depuis la veille, en millim.** |  |
+| **Evaporation depuis le 1900, en millim.** | 80 |
+| **à 9 h. m.** | **à 3 h. s.** |
+| **Direction du vent (à terre)** | N.N.O. | N.E. |
+| **Force** | 2 | 1 / Faible |
+| **Direction des nuages** | N.N.O. | 7 |
+| **Nébulosité** |
+| - **région Ouest (terre)** | 2 | 6 |
+| - **id. Est (mer)** | 0 | 0 |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B.Q.)** | 11,2 | 48,0 |
+| **Agitation de l'eau** | 2 / Fort | 2 |
+| **Densité de l'eau au bout de la jetée** | 10,29 | 10,7 |
+| **Température id.** | 9,4 |  |
+
+| **OBSERVATIONS DU 1901 / 12 Janvier** |
+| --- |
+| **Nombre de bateaux sortis (pêche à l.)** |  |
+| **Température de l'air** |
+| - **maxima depuis la veille** |  |
+| - **minima id.** |  |
+| **Température de l'eau** |
+| - **maxima depuis la veille** |  |
+| - **minima id.** |  |
+| **Pluie tombée depuis la veille, en millim.** |  |
+| **Evaporation depuis le 1900, en millim.** |  |
+| **à 9 h. m.** | **à 3 h. s.** |
+| **Direction du vent (à terre)** |  | S.S.O. |
+| **Force** |  | 1 |
+| **Direction des nuages** |  | S.S.O. |
+| **Nébulosité** |
+| - **région Ouest (terre)** | 2 |  |
+| - **id. Est (mer)** | 0 | 3 |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B.Q.)** |  | 33,6 |
+| **Agitation de l'eau** |  | 1 / Fort |
+| **Densité de l'eau au bout de la jetée** |  | 10,286 |
+| **Température id.** |  | 10,9 |
+```

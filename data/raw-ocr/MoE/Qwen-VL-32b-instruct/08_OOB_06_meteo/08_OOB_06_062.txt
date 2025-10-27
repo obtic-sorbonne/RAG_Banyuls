@@ -1,0 +1,69 @@
+### OBSERVATIONS DU 1960 10 Fév.
+
+| **Éléments**                        | **Valeurs**         |
+|-----------------------------------|--------------------|
+| **Nombre de bateaux sortis (pêche à l.'')** |                 |
+| **Température de l'air**           |                    |
+|   - maxima depuis la veille        | 21,1 °C            |
+|   - minima id.                     | 11,4 °C            |
+| **Température de l'eau**           |                    |
+|   - maxima depuis la veille        |                    |
+|   - minima id.                     |                    |
+| **Pluie tombée depuis la veille, en millim** | ''              |
+| **Évaporation depuis le 190, en millim.** |                  |
+| **à 9 h. m.**                      |                    |
+|   - Direction du vent (à terre)    | N.N.O.             |
+|   - Force                          | f                  |
+|   - Direction des nuages           |                    |
+|   - Nébulosité                     |地区的Ouest (terre) | 10              |
+|                                    |地区的Est (mer)     | 10              |
+|   - Hauteur de la mer, en centimètres, au-dessus du zéro |                 |
+|   - Agitation de l'eau             | 2 fort.            |
+|   - Densité de l'eau au bout de la jetée | 1027,8           |
+|   - Température, id.               | 18,8               |
+| **à 3 h. s.**                      |                    |
+|   - Direction du vent (à terre)    | N.N.O.             |
+|   - Force                          | f                 |
+|   - Direction des nuages           | N.N.O.             |
+|   - Nébulosité                     |地区的Ouest (terre) | 10              |
+|                                    |地区的Est (mer)     | 10              |
+|   - Hauteur de la mer, en centimètres, au-dessus du zéro |                 |
+|   - Agitation de l'eau             | 1 fort.            |
+|   - Densité de l'eau au bout de la jetée | 1027,4          |
+|   - Température, id.               | 18,6               |
+
+---
+
+### OBSERVATIONS DU 1960 12 Fév.
+
+| **Éléments**                        | **Valeurs**         |
+|-----------------------------------|--------------------|
+| **Nombre de bateaux sortis (pêche à l.'')** |                 |
+| **Température de l'air**           |                    |
+|   - maxima depuis la veille        | 20,6 °C            |
+|   - minima id.                     | 11,4 °C            |
+| **Température de l'eau**           |                    |
+|   - maxima depuis la veille        |                    |
+|   - minima id.                     |                    |
+| **Pluie tombée depuis la veille, en millim** |''              |
+| **Évaporation depuis le 190, en millim.** |                  |
+| **à 9 h. m.**                      |                    |
+|   - Direction du vent (à terre)    | N.N.O.             |
+|   - Force                          | 2 fort.            |
+|   - Direction des nuages           |                    |
+|   - Nébulosité                     |地区的Ouest (terre) | 10              |
+|                                    |地区的Est (mer)     | 10              |
+|   - Hauteur de la mer, en centimètres, au-dessus du zéro |                 |
+|   - Agitation de l'eau             | 1 fort.            |
+|   - Densité de l'eau au bout de la jetée | 1028,6           |
+|   - Température, id.               | 17,8               |
+| **à 3 h. s.**                      |                    |
+|   - Direction du vent (à terre)    | S.S.E.             |
+|   - Force                          | 1 t. faible        |
+|   - Direction des nuages           | N.N.O.             |
+|   - Nébulosité                     |地区的Ouest (terre) | 10              |
+|                                    |地区的Est (mer)     | 10              |
+|   - Hauteur de la mer, en centimètres, au-dessus du zéro |                 |
+|   - Agitation de l'eau             | 1 fort.            |
+|   - Densité de l'eau au bout de la jetée | 1027,4          |
+|   - Température, id.               | 18,4               |

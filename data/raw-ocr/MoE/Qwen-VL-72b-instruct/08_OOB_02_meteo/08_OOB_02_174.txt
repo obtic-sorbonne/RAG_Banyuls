@@ -1,0 +1,15 @@
+| **Date** | 07 Septembre 1901 |
+|----------|-------------------|
+| **Heure** | 9 H Matin | 3 H Soir |
+| **Hauteur Barométrique** | 762,3 | 761,4 |
+| **Direction du Vent** | E.N.E | S.S.E |
+| **Force** | 1 fort | 2 |
+| **Nébulosité - Reg. 6 (terre)** | 3 | 10 |
+| **Nébulosité - Reg. E (mer)** | Adigée | 10 |
+| **Direction des nuages** | Sud | Sud |
+| **Pluie tombée** | || |
+| **Température de l'air** | 20,6 | 22,4 |
+| **Hauteur de la mer** | 49,0 | 32,9 |
+| **Agnitation de l'eau (au bout de la jetée)** | 1 T. faib | 1 faib |
+| **Densité de l'eau** | 1027,1 | 1026,9 |
+| **Température de l'eau** | 21,3 | 22,3 |

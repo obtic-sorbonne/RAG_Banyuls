@@ -1,0 +1,36 @@
+```
+Journal Météorologique du Navire "La Belle Poule"
+Période : 19 et 28 Avril 1906
+
+| Nombre de jours de bateaux | Date       | Matin | Soir  |
+|----------------------------|------------|-------|-------|
+| 14                         | 19 Avril 1906 |      |      |
+|                            | Hauteur Barométrique (mm) | 793.3 | - |
+|                            | Direction du vent | cr.cr.o | - |
+|                            | Force | 1 | 2 |
+|                            | Nébulosité (Reg. O. Terre) | 10 | - |
+|                            | Nébulosité (Reg. E. Mer) | 10 | - |
+|                            | Direction des nuages | cr.o | - |
+|                            | Pluie tombée (mm) | quelques g | - |
+|                            | Température de l'air (°C) | 12.6 | - |
+|                            | Hauteur de la mer (m) | 13.7 | - |
+|                            | Agitation de l'eau (code) | 1 | - |
+|                            | Densité au bout de la jetée (g/cm³) | 1027.9 | - |
+|                            | Température de l'eau (°C) | 16.3 | - |
+
+| 15                         | 28 Avril 1906 |      |      |
+|                            | Hauteur Barométrique (mm) | - | - |
+|                            | Direction du vent | - | - |
+|                            | Force | - | - |
+|                            | Nébulosité (Reg. O. Terre) | - | - |
+|                            | Nébulosité (Reg. E. Mer) | - | - |
+|                            | Direction des nuages | - | - |
+|                            | Pluie tombée (mm) | - | - |
+|                            | Température de l'air (°C) | - | - |
+|                            | Hauteur de la mer (m) | - | - |
+|                            | Agitation de l'eau (code) | - | - |
+|                            | Densité au bout de la jetée (g/cm³) | - | - |
+|                            | Température de l'eau (°C) | - | - |
+
+Note Marginale : Aucune remarque particulière pour ces dates.
+```

@@ -1,0 +1,35 @@
+```
+# V. 13 Août - 1902
+
+|  Matin | Soir  |
+| --- | --- |
+|  Hauteur Barométrique | 766.7 | 762.8  |
+|  Direction du vent | or.0.0 |  |
+|  Force | 1 | 2  |
+|  Nébulosité (Reg. O. (terre)) | 10 | 10  |
+|  Nébulosité (Reg. E. (mer)) | 10 | 0  |
+|  Direction des nuages |  |  |
+|  Pluie tombée |  |  |
+|  Température de l'air | 18 | 20.7  |
+|  Hauteur de la mer | 62.6 | 18.0  |
+|  Agitation de l'eau | 1 fort | 1  |
+|  Densité au bout de la jetée | 1027.0 | 1027.0  |
+|  Température de l'eau | 21.2 | 21.7  |
+
+# V. 14 Août - 1902
+
+|  Matin | Soir  |
+| --- | --- |
+|  Hauteur Barométrique | 765.2 | 762.0  |
+|  Direction du vent | or.0.0 | 2.8  |
+|  Force | 2 | 3  |
+|  Nébulosité (Reg. O. (terre)) | 10 | 10  |
+|  Nébulosité (Reg. E. (mer)) | 10 | 0  |
+|  Direction des nuages |  | 47  |
+|  Pluie tombée |  |  |
+|  Température de l'air | 20.6 | 22.6  |
+|  Hauteur de la mer | 45.9 | 47.8  |
+|  Agitation de l'eau | 1 | 1  |
+|  Densité au bout de la jetée | 1027.0 | 1027.0  |
+|  Température de l'eau | 21.6 | 22.3  |
+```

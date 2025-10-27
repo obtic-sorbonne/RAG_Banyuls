@@ -1,0 +1,30 @@
+| **Date**          | **Heure** | **Stations** | **Précipitations** |
+|-------------------|-----------|--------------|---------------------|
+| 29 Novembre 1907  | Matin    | Matin       | Pluie tombée (quelques g) |
+|                   | Soir     | Soir       |                      |
+|                   |          | **Atmosphère et Air** | **Eau** |
+|                   |          | Pression barométrique (mmHg) | 769.4 | 769.2 |
+|                   |          | Direction du vent | Sud-Est | Sud-Est |
+|                   |          | Force | 2 | 2 |
+|                   |          | Nébulosité | 0 (claire) | 10 |
+|                   |          | Visibilité (km) | 10 | 1 |
+|                   |          | Direction des nuages | Sud-Ouest | Sud-Ouest |
+|                   |          | Température de l'air (°C) | 17.9 | 17.2 |
+|                   |          | Hauteur de la mer (m) | 30.0 | 40.4 |
+|                   |          | Agitation de l'eau | 2fois | 3fois |
+|                   |          | Vitesse au bout de la jetée (km/h) | 1028.0 | 1028.0 |
+|                   |          | Température de l'eau (°C) | 17.0 | 17.0 |
+| 30 Novembre 1907  | Matin    | Matin       | Pluie tombée (quelques g) |
+|                   | Soir     | Soir       |                      |
+|                   |          | **Atmosphère et Air** | **Eau** |
+|                   |          | Pression barométrique (mmHg) | 769.3 | 764.7 |
+|                   |          | Direction du vent | Sud-Est | Sud-Est |
+|                   |          | Force | 3 | 2 |
+|                   |          | Nébulosité | 10 (claire) | 10 |
+|                   |          | Visibilité (km) | 8 | 8 |
+|                   |          | Direction des nuages | Sud-Ouest | Sud-Ouest |
+|                   |          | Température de l'air (°C) | 17.2 | 17.2 |
+|                   |          | Hauteur de la mer (m) | 40.4 | 30.8 |
+|                   |          | Agitation de l'eau | 3 | 3faible |
+|                   |          | Vitesse au bout de la jetée (km/h) | 1028.0 | 1028.0 |
+|                   |          | Température de l'eau (°C) | 17.0 | 17.0 |

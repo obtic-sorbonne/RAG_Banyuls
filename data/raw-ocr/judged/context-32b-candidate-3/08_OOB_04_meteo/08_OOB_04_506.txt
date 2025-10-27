@@ -1,0 +1,31 @@
+```plaintext
+|  1. 11 juin - 1905 | Matin | Soir  |
+| --- | --- | --- |
+|  Hauteur Barométrique | 760.4 |   |
+|  Direction du vent | av. 8 |   |
+|  Force | 1/2 |   |
+|  Nébulosité | 1 |   |
+|  (Phys. C. (tine)) |  |   |
+|  Direction des nuages | 2 Signes |   |
+|  Pluie tombée | av. av. 0 |   |
+|  Température de l'air | 18.37 |   |
+|  Hauteur de la mer | 1/1 |   |
+|  Agitation de l'eau | 1/2 |   |
+|  Densité au bout de la jetée | 1029.0 |   |
+|  Température de l'eau | 18.9 |   |
+
+|  1. 13 juin - 1905 | Matin | Soir  |
+| --- | --- | --- |
+|  Hauteur Barométrique | 753.9 |   |
+|  Direction du vent | av. ev. o |   |
+|  Force | 2 |   |
+|  Nébulosité | 7 |   |
+|  (Phys. C. (tine)) |  |   |
+|  Direction des nuages | 10 |   |
+|  Pluie tombée | 2/9.9 |   |
+|  Température de l'air | 17.8 |   |
+|  Hauteur de la mer | 49.1 |   |
+|  Agitation de l'eau | 1 |   |
+|  Densité au bout de la jetée | 1028.2 |   |
+|  Température de l'eau | 18.7 |   |
+```

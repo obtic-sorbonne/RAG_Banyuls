@@ -1,0 +1,41 @@
+### Observations du 1902 17 Février
+
+| Observations | Valeur |
+|--------------|--------|
+| Nombre de bateaux sortis | 13.7 |
+| Température de l'air | Max. depuis la veille: 13,7°C | Min. depuis la veille: 9,1°C |
+| Température de l'eau | Max. depuis la veille: - | Min. depuis la veille: - |
+| Pluie tombée depuis la veille, en millimètres | 0 |
+| Évaporation depuis le 1900, en millimètres | - |
+| Direction du vent (à 9 h) | Nord | Nord |
+| Force du vent (à 9 h) | 1 | 1 |
+| Direction des nuages (à 9 h) | Sud-Ouest | Sud-Ouest |
+| Nébulosité (Région Ouest - Terre) | 10 | 10 |
+| Nébulosité (Région Est - Mer) | 20,0 | 32,0 |
+| Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.) | 20,0 | 32,0 |
+| Agitation de l'eau | 1 | 1 |
+| Densité de l'eau au bout de la jetée | 1027.1 | 1027.1 |
+| Température (Dernier matin) | Max. 18.1°C | Min. 11.7°C |
+| Température (Dernier soir) | Max. 7.0°C | Min. 11.7°C |
+
+---
+
+### Observations du 1902 19 Février
+
+| Observations | Valeur |
+|--------------|--------|
+| Nombre de bateaux sortis | 14.9 |
+| Température de l'air | Max. depuis la veille: 14,9°C | Min. depuis la veille: 12,3°C |
+| Température de l'eau | Max. depuis la veille: - | Min. depuis la veille: - |
+| Pluie tombée depuis la veille, en millimètres | 0 |
+| Évaporation depuis le 1900, en millimètres | - |
+| Direction du vent (à 9 h) | Nord | - |
+| Force du vent (à 9 h) | 2 | - |
+| Direction des nuages (à 9 h) | Sud-Ouest | - |
+| Nébulosité (Région Ouest - Terre) | 10 | - |
+| Nébulosité (Région Est - Mer) | 10 | - |
+| Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.) | 0,0 | 3 |
+| Agitation de l'eau | - | - |
+| Densité de l'eau au bout de la jetée | - | - |
+| Température (Dernier matin) | Max. 20.4°C | Min. 9.0°C |
+| Température (Dernier soir) | - | - |

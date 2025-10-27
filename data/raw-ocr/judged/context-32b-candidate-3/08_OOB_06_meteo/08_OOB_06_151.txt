@@ -1,0 +1,45 @@
+```plaintext
+### OBSERVATIONS DU 1964 5 Mai
+
+| **Nombre de bateaux sortis (pêche à la ligne)** | **42** |
+| **Température de l'air** |  |
+| - **maxima depuis la veille** | **19.3** |
+| - **minima id.** | **10.9** |
+| **Température de l'eau** |  |
+| - **maxima depuis la veille** |  |
+| - **minima id.** |  |
+| **Pluie tombée depuis la veille, en millim.** | **quelque** |
+| **Évaporation depuis le 190, en millim.** |  |
+| **Direction du vent (à terre)** | **N.N.O.** | **N.N.O.** |
+| - **Force** | **3 fort** | **3 fort** |
+| - **Direction des nuages** | **N.N.O.** | **N.N.O.** |
+| **Nébulosité** |  |
+| - **région Ouest (terre)** | **4** | **4** |
+| - **id. Est (mer)** | **1** | **1** |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro** | **3.7** | **48.4** |
+| **Agitation de l'eau** | **2 fort** | **3** |
+| **Densité de l'eau au bout de la jetée** | **1028.2** | **1028.0** |
+| **Température id.** | **13.2** | **13.7** |
+
+### OBSERVATIONS DU 1964 6 Mai
+
+| **Nombre de bateaux sortis (pêche à la traîne)** | **42** |
+| **Température de l'air** |  |
+| - **maxima depuis la veille** | **17.3** |
+| - **minima id.** | **12.4** |
+| **Température de l'eau** |  |
+| - **maxima depuis la veille** |  |
+| - **minima id.** |  |
+| **Pluie tombée depuis la veille, en millim.** |  |
+| **Évaporation depuis le 190, en millim.** |  |
+| **Direction du vent (à terre)** | **N.N.O.** | **N.N.O.** |
+| - **Force** | **faible** | **3 fort** |
+| - **Direction des nuages** | **N.N.O.** | **N.N.O.** |
+| **Nébulosité** |  |
+| - **région Ouest (terre)** | **2** | **1** |
+| - **id. Est (mer)** | **1** | **0** |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro** | **48.0** |  |
+| **Agitation de l'eau** | **2** | **2 faible** |
+| **Densité de l'eau au bout de la jetée** | **1028.2** | **1028.2** |
+| **Température id.** | **13.4** | **14.0** |
+```

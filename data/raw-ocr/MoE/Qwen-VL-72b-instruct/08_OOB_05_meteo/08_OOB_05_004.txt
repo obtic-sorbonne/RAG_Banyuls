@@ -1,0 +1,29 @@
+|  | V. 16 Juin - 1905 | Matin | Soir |
+| --- | --- | --- | --- |
+| Hauteur Barométrique |  | 761.1 | 757.2 |
+| Direction du vent |  | S.E | S.S.E |
+| Force | is | 1 fort | 2 fort |
+| Nébulosité | Reg. G. (terre) | 10 | 10 |
+|  | Reg. E. (mer) | 10 | 10 |
+| Direction des nuages |  | S.O | S.O |
+| Pluie tombée |  | " | " |
+| Température de l'air |  | 21.6 | 20.3 |
+| Hauteur de la mer |  | 43.6 | 42.1 |
+| Agitation de l'eau |  | 2 faible | 2 |
+| Densité au bout de la jetée |  | 1028.2 | 1027.8 |
+| Température de l'eau |  | 19.5 | 19.5 |
+| Pêche à l'anchois | du 16 juin - 1905 | Nombre & Batteur | Quantité de fouron |
+|  | V. 17 Juin - 1905 | Matin | Soir |
+| Hauteur Barométrique |  | 759.3 | 758.2 |
+| Direction du vent |  | S.S.E | S.S.E |
+| Force | is | 1 faible | 1 |
+| Nébulosité | Reg. G. (terre) | légèrement | 2 |
+|  | Reg. E. (mer) | légèrement | 1 |
+| Direction des nuages |  | W.O | S.O |
+| Pluie tombée |  | " | " |
+| Température de l'air |  | 22.1 | 26.4 |
+| Hauteur de la mer |  | 36.3 | 42.0 |
+| Agitation de l'eau |  | 1 | 1 |
+| Densité au bout de la jetée |  | 1028.0 | 1027.9 |
+| Température de l'eau |  | 19.5 | 19.8 |
+| Pêche à l'anchois | du 17 juin - 1905 | Méant |  |

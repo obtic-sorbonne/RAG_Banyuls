@@ -1,0 +1,28 @@
+| Date | Matin | Soir |
+|------|-------|------|
+| V. 21 Octobre 1902 | **Hauteur Barométrique** | 767.6 | 769.0 |
+| | **Direction du vent** | cr. α | cr. cr. α |
+| | **Force** | faible | faible |
+| | **Nébulosité** | léger. c | 2 |
+| | Rég. 6. (tmp) | léger. c | 2 |
+| | Rég. É. (mer) | | |
+| | **Direction ses images** | | cr. cr. 0 |
+| | Pluie tombé | | |
+| | **Température de l'air** | 17.6 | 18.3 |
+| | **Hauteur de la mer** | 36.7 | 49.4 |
+| | **Agitation de l'eau** | 0 | 17 faible |
+| | **Vitesse au bout de la jetée** | 1028.2 | 1028.4 |
+| | **Température de l'eau** | 18.0 | 19.0 |
+| V. 22 Octobre 1902 | **Hauteur Barométrique** | 768.6 | |
+| | **Direction du vent** | cr. cr. 0 | |
+| | **Force** | 4 fort | |
+| | **Nébulosité** | 10 | |
+| | Rég. 6. (tmp) | 10 | |
+| | Rég. É. (mer) | 10 | |
+| | **Direction ses images** | cr. cr. 0 | |
+| | Pluie tombé | quelques gr | |
+| | **Température de l'air** | 16.2 | |
+| | **Hauteur de la mer** | 42.1 | |
+| | **Agitation de l'eau** | 3 | |
+| | **Vitesse au bout de la jetée** | 1029.0 | |
+| | **Température de l'eau** | 17.6 | |

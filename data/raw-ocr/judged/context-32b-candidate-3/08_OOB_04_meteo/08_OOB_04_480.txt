@@ -1,0 +1,16 @@
+```plaintext
+|  1er Frul - 1905 | Matin | Soir  |
+| --- | --- | --- |
+|  Hauteur Barométrique | 768.7 | 764.5  |
+|  Direction du vent | N.E. | N.E.  |
+|  Force | 1 | 2  |
+|  Nébulosité | Reg. 0 (terre) | Reg. 0 (terre)  |
+|  (Reg. 1 (mer)) | 10.28.0 | 10.28.0  |
+|  Direction des nuages | N.E. | N.E.  |
+|  Pluie tombée |  | 22.6  |
+|  Température de l'air | 19.0 | 17.0  |
+|  Hauteur de la mer | 17.0 | 17.0  |
+|  Agitation de l'eau | 15.0 faible | 15.0 faible  |
+|  Densité au bout de la jetée | 1028.5 | 1028.8  |
+|  Température de l'eau | 17.0 | 17.0  |
+```

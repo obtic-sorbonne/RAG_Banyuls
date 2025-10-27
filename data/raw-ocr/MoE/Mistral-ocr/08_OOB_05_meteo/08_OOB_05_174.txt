@@ -1,0 +1,27 @@
+|  V. 14 Novembre - 1905 | Mbaatin | Fait  |
+| --- | --- | --- |
+|  Mankin Moxométrique | 268,2 |   |
+|  Direction du vent | or.ur. |   |
+|  Force | 5 |   |
+|  Nébulonité | 2 |   |
+|  (Reg. G. (en) | 2 |   |
+|  Direction des images |  |   |
+|  (Prix tombé) |  |   |
+|  Dempiration de l'air | 11,4 |   |
+|  Mankin de la mer | 46,6 |   |
+|  Régitation de l'eau | 2 fois |   |
+|  Densité au bout de la jetée | 489,0 |   |
+|  Dempiration de l'eau | 16,2 |   |
+|  V. 15 Novembre - 1905 | Mbaatin | Fait  |
+|  Mankin Moxométrique | 420,3 |   |
+|  Direction du vent | or.ur. |   |
+|  Force | 3 fois |   |
+|  Nébulonité | 0 |   |
+|  (Reg. G. (en) | 0 |   |
+|  Direction des images |  |   |
+|  (Prix tombé) |  |   |
+|  Dempiration de l'air | 11,3 |   |
+|  Mankin de la mer | 43,8 |   |
+|  Régulation de l'eau | 2 fois |   |
+|  Densité au bout de la jetée | 1488,3 |   |
+|  Dempiration de l'eau | 11,2 |   |

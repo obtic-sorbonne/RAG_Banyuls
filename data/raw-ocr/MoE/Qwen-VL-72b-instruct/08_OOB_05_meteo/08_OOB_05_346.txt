@@ -1,0 +1,32 @@
+| V. 25 Janvier 1908 | Matin | Soir |
+|---------------------|-------|------|
+| Hauteur Barométrique | 773,6 |      |
+| Direction du Vent | cr. 8 |      |
+| Force | 1 |      |
+| Nébulosité | 10 | 10 |
+| Reg. C. (Air) |      |      |
+| Reg. Di. (mer) |      |      |
+| Direction des nuages | er. o |      |
+| Pluie tombée |      |      |
+| Température de l'air | 10,8 |      |
+| Hauteur de la mer | 62,1 |      |
+| Agitation de la mer | 1 fort |      |
+| Courant au bout de la jetée | 026,9 |      |
+| Température de l'eau | 11,6 | 11,8 |
+| is au poisson |      |      |
+| V. 27 Janvier 1908 | Matin | Soir |
+|---------------------|-------|------|
+| Hauteur Barométrique | 771,4 |      |
+| Direction du Vent | cr. cr. o |      |
+| Force | 2 fort | 2 |
+| Nébulosité | 2 | 2 |
+| Reg. C. (Air) |      |      |
+| Reg. Di. (mer) |      |      |
+| Direction des nuages | er. o |      |
+| Pluie tombée |      |      |
+| Température de l'air | 14,8 |      |
+| Hauteur de la mer | 67,1 |      |
+| Agitation de la mer | 3 |      |
+| Courant au bout de la jetée | 027,0 |      |
+| Température de l'eau | 11,3 | 11,4 |
+| is au poisson |      |      |

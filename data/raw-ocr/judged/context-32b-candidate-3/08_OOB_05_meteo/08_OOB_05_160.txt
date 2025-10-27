@@ -1,0 +1,33 @@
+```markdown
+# V. 13 Octobre 1906
+
+|  **Hauteur Barométrique** | 761.3  |
+| --- | --- |
+|  **Direction du Vent** | Ouest  |
+|  **Force du Vent** | 1 fort  |
+|  **Nébulosité** | 10  |
+|  **Rég. c. Clarté (%)** | 10  |
+|  **Direction des Nuages** | Ouest  |
+|  **Pluie Tombée** | —  |
+|  **Température de l'Air (°C)** | 18.5  |
+|  **Hauteur de la Mer (m)** | 40.3  |
+|  **Agitation de l'Eau** | 3 faible  |
+|  **Densité au bout de la Jetée (kg/m³)** | 1027.1  |
+|  **Température de l'Eau (°C)** | 19.3  |
+
+# V. 13 Octobre 1906
+
+|  **Hauteur Barométrique** | 760.3  |
+| --- | --- |
+|  **Direction du Vent** | Ouest  |
+|  **Force du Vent** | 1 faible  |
+|  **Nébulosité** | 10  |
+|  **Rég. c. Clarté (%)** | 10  |
+|  **Direction des Nuages** | Ouest  |
+|  **Pluie Tombée** | —  |
+|  **Température de l'Air (°C)** | 20.9  |
+|  **Hauteur de la Mer (m)** | 41.8  |
+|  **Agitation de l'Eau** | 1 fort  |
+|  **Densité au bout de la Jetée (kg/m³)** | 1027.1  |
+|  **Température de l'Eau (°C)** | 19.5  |
+```

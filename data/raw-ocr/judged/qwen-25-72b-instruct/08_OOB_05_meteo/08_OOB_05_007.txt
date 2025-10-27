@@ -1,0 +1,13 @@
+```
+Journal Météorologique du Navire "La Belle Poule"
+Période : 30 Juin au 1er Juillet 1905
+
+Date       | Heure | Hauteur Barométrique (mm) | Direction du vent | Force | Nébulosité (%) | Direction des nuages | Pluie tombée (mm) | Température de l'air (°C) | Hauteur de la mer (m) | Agitation de l'eau (code) | Densité au bout de la jetée (g/cm³) | Température de l'eau (°C)
+-----------|-------|---------------------------|-------------------|-------|----------------|---------------------|-------------------|--------------------------|-----------------------|--------------------------|------------------------------------|-------------------------
+30 Juin 1905 | Matin | 78.0                      | S.S.E.            | 5     | Reg. O. (claire) | Reg. E. (mer) claire | -                 | 26.0                      | 42.0                  | 2                        | 1026.0                             | 23.0
+30 Juin 1905 | Soir  | -                         | -                 | 8     | 0              | Ouest               | -                 | -                        | -                     | -                        | -                                  | -
+1er Juillet 1905 | Matin | 79.6                     | O.S.              | 5     | Reg. O. (claire) | Reg. E. (mer)       | -                 | 24.2                      | -                     | 3                        | 1027.2                             | 20.0
+1er Juillet 1905 | Soir  | -                         | -                 | faible | 10             | -                   | -                 | -                        | -                     | -                        | -                                  | -
+
+Note Marginale : Aucune remarque particulière pour ces dates.
+```

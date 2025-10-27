@@ -1,0 +1,19 @@
+# Date d'Août 1901
+
+## 9<sup>th</sup> Matin 3<sup>th</sup> Soir
+
+| **Item** | **9<sup>th</sup> Matin** | **3<sup>th</sup> Soir** |
+| --- | --- | --- |
+| Hauteur Barométrique | 755,2 | 754,4 |
+| Direction du vent | N.N.O | N.N.O |
+| Force | faible | faible |
+| Nébulosité / Reg. O. (terre) |  |  |
+| Nébulosité / Reg. E. (mer) |  |  |
+| Direction des nuages |  |  |
+| Pluie tombée |  |  |
+| Température de l'air | 35,1 | 37,7 |
+| Hauteur de la mer | 54,4 | 54,3 |
+| Agitation de l'eau | 3 | faible |
+| Densité de l'eau | 1027,5 | 1027,3 |
+|  |  |  |
+| Température de l'eau | 30,7 | 31,2 |

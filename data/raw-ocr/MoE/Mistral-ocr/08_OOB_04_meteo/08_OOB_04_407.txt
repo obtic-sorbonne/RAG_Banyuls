@@ -1,0 +1,28 @@
+|  V. 4 (Wuit - 1904) | Obatin | Jour.  |
+| --- | --- | --- |
+|  Hauteur Pcarometrique | 270.0 | 258.2  |
+|  Direction du vent | 2.8.8 | 2.8.8  |
+|  Force | 2 | 3  |
+|  (Reg. O. (1ine) | 0 | 3  |
+|  (Reg. O. (mer) |  |   |
+|  Direction des mages | 2.8.8 | 2.8.8  |
+|  (Juin tombé) |  |   |
+|  Température de l'air | 37.8 | 30.2  |
+|  Hauteur de la mer | 48.2 | 42.0  |
+|  (agitation de l'eau) | (faible) | (fort)  |
+|  (Dernière au bout de la jeté) | 1025.4 | 1025.2  |
+|  (température de l'eau) | 37.5 | 37.4  |
+|  V. 5 (Wuit - 1904) | Obatin | Jour.  |
+|  Hauteur Pcarometrique | 259.1 | 258.1  |
+|  Direction du vent | (droit) | 84  |
+|  Force | 6 | 1  |
+|  (Reg. O. (1ine) | 3 | 3  |
+|  (Juin tombé) |  |   |
+|  (Reg. O. (mer) |  |   |
+|  Direction des mages | or. or. 0 | 25  |
+|  (Juin tombé) |  |   |
+|  (température de l'air) | 37.2 | 31.8  |
+|  Hauteur de la mer | 11.1 | 44.2  |
+|  (agitation de l'eau) | (fort) | 1025.1  |
+|  (Dernière au bout de la jeté) | 1025.1 | 1021.9  |
+|  (température de l'eau) | 34.5 | 35.5  |

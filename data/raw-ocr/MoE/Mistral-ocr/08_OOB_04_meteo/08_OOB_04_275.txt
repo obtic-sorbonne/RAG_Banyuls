@@ -1,0 +1,34 @@
+# 14 Septembre 1903
+
+|  Hauteur | Niveau | Obstacle | Soir  |
+| --- | --- | --- | --- |
+|  Hauteur | Narrowelvique | 281.1 | 284.1  |
+|  Direction | du vent | or. 0 | or. 0  |
+|  Force | - 15 | 3 r. fort | 1 faible  |
+|   |  | 10 | 10  |
+|  Obébutosité | (Reg. 2. (mer) |  |   |
+|   |  | 10 | 10  |
+|  Direction | des nuage | or. 0.0 | or. 0  |
+|  Mise tombei |  | 7.0 | quelques. 3  |
+|  Semplirature | de l'air | 11.5 | 16.1  |
+|  Hauteur | de la mer | 11.1 | 4.2  |
+|  Régulation | de l'eau | 6 faible | 3 faible  |
+|  Sensité | au bout de la jeté | 1027.2 | 1029.1  |
+|  Semplirature | de l'eau | 19.5 | 19.1  |
+
+# 11 Septembre 1903
+
+|  Hauteur | Narrowelvique | 285.8 | 265.4  |
+| --- | --- | --- | --- |
+|  Direction | du vent | or. 0 | or. 0  |
+|  Force | - 15 | 1 r. fort | 3 fort  |
+|   | (Reg. 0. (tome) | 10 | 10  |
+|  Obébutosité | (Reg. 2. (mer) |  |   |
+|   |  | 10 | 10  |
+|  Direction | des nuage | or. 0 | or. 0  |
+|  Mise tombei |  |  |   |
+|  Semplirature | de l'air | 11.4 | 16.9  |
+|  Hauteur | de la mer | 21.3 | 19.3  |
+|  Régulation | de l'eau | 3 fort | 3 fort  |
+|  Sensité | au bout de la jeté | 1029.2 | 1029.5  |
+|  Semplirature | de l'eau | 18.8 | 18.5  |

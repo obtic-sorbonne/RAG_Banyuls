@@ -1,0 +1,8 @@
+```plaintext
+| Date           | Heure | Hauteur Barométrique | Direction du vent | Force | Nébulosité | Pluie tombée | Température de l'air | Hauteur de la mer | Agitation de l'eau | Densité au bout de la jetée | Température de l'eau |
+|----------------|-------|---------------------|--------------------|-------|------------|--------------|---------------------|------------------|-------------------|-----------------------------|---------------------|
+| 11 Xbre 1902   | Matin | 769.6               | Est                | 15    | 0 (Clair)  | -            | 10.9                | -                | 10                | 1                           | -                   |
+| 11 Xbre 1902   | Soir  | -                   | Est                | 3 fort| 0 (mer)    | 17.7         | -                   | -                | 10                | -                           | -                   |
+| 12 Xbre 1902   | Matin | 764.6               | Est                | 15    | 0 (Clair)  | 11.25        | 11.2                | -                | 17                | 1                           | -                   |
+| 12 Xbre 1902   | Soir  | 764.0               | S.E                | 3 fort| 0 (mer)    | 6.0          | 11.7                | -                | 7 fort            | -                           | -                   |
+```

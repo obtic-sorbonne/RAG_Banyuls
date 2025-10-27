@@ -1,0 +1,45 @@
+```plaintext
+| **OBSERVATIONS DU 1991 9 Janvier** |
+| --- |
+| **Nombre de bateaux sortis (pêche à l.)** | 9 |
+| **Température de l'air** |
+| - **maxima depuis la veille** | 6.7 |
+| - **minima id.** | -1.0 |
+| **Température de l'eau** |
+| - **maxima depuis la veille** |  |
+| - **minima id.** |  |
+| **Pluie tombée depuis la veille, en millim.** |  |
+| **Evaporation depuis le 190, en millim.** |  |
+| **Direction du vent (à terre)** | **Nord** | 
+| **Force** | 3 |
+| **Direction des nuages** | **Nord-Nord-Ouest** |
+| **Nébulosité** |
+| - **région Ouest (terre)** | 0 |
+| - **id. Est (mer)** | 1 |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.)** | 80 | 470 |
+| **Agitation de l'eau** | 2 faibles |
+| **Densité de l'eau au bout de la jetée** | 1029.4 | 1029.4 |
+| **Température id.** | 9.3 | 9.6 |
+
+| **OBSERVATIONS DU 1991 10 Janvier** |
+| --- |
+| **Nombre de bateaux sortis (pêche à l.)** | 6 |
+| **Température de l'air** |
+| - **maxima depuis la veille** | 10.2 |
+| - **minima id.** | -1.0 |
+| **Température de l'eau** |
+| - **maxima depuis la veille** |  |
+| - **minima id.** |  |
+| **Pluie tombée depuis la veille, en millim.** | quelques gouttes |
+| **Evaporation depuis le 190, en millim.** |  |
+| **Direction du vent (à terre)** | **Nord-Nord-Ouest** | 
+| **Force** | 5 |
+| **Direction des nuages** | **Nord-Nord-Ouest** |
+| **Nébulosité** |
+| - **région Ouest (terre)** | 10 |
+| - **id. Est (mer)** | 1 |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.)** | 57.6 | 54.0 |
+| **Agitation de l'eau** | 2 forte |
+| **Densité de l'eau au bout de la jetée** | 1029.3 | 1029.3 |
+| **Température id.** | 9.4 | 9.6 |
+```

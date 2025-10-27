@@ -1,0 +1,28 @@
+| **Date**       | **Matin** | **Soir** |
+|----------------|-----------|----------|
+| **V. 23 juillet 1902** |       |      |
+| Hauteur Barométrique | 766.6   | 764.8  |
+| Direction du vent    | Est    | Sud-Est |
+| Force              | 1 NSString(0)5_00x | 1 faible     | 2 fort       |
+| Nebulosité       | Reg. O. (claire) | légère      | 10         |
+| (Reg. E. (mer))  | légère      | 10         |
+| Direction des images |         | Sud     |
+| Pluie tombée      | "        | "        |
+| Température de l'air | 20.4    | 24.4    |
+| Hauteur de la mer     | 13.8    | 62.6    |
+| Agitation de l'eau | 1 faible    | 1          |
+| Densité au bout de la jetée | 1027.2  | 1026.6    |
+| Température de l'eau | 20.7    | 22.8    |
+| **V. 8 Août 1902** |       |      |
+| Hauteur Barométrique | 763.0   | 763.1  |
+| Direction du vent    | Est-Sud-Est         | Sud-Est |
+| Force              | 15        | 1 fort    | 1 faible    |
+| Nebulosité       | Reg. O. (claire) | 10        | 3          |
+| (Reg. E. (mer))  | 10        | 2          |
+| Direction des images | Est-Sud-Est         | Nord-Ouest |
+| Pluie tombée      | "        | "        |
+| Température de l'air | 22.2    | 25.1    |
+| Hauteur de la mer     | 38.7    | 47.8    |
+| Agitation de l'eau | 1        | 1 faible    |
+| Densité au bout de la jetée | 1027.0  | 1026.4    |
+| Température de l'eau | 22.6    | 24.3    |

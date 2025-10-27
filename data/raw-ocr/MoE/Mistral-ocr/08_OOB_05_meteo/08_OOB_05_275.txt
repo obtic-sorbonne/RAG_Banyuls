@@ -1,0 +1,27 @@
+|  1. 24 Juillet. 1907 | Mbeatin | Soir  |
+| --- | --- | --- |
+|  Hauteur Economatique | 201.8 | 200.3  |
+|  Direction du vent | 1.0 | 1.18  |
+|  Force | 1 | 2  |
+|  Nébulonte | 10 | 10  |
+|  (Reg. E. Cmer) | 10 | 10  |
+|  Direction des mages | 100 | 1000  |
+|  Unie trombe |  |   |
+|  Température de l'air | 27.4 | 29.4  |
+|  Hauteur de la nu | 49.0 | 44.3  |
+|  Capitation de l'eau | 15.7/2 | 17.7/2  |
+|  Densité au bout de la jetée | 108.2 | 108.2  |
+|  Température de l'eau | 21.8 | 22.3  |
+|  1. 27 Juillet. 1907 | Mbeatin | Soir  |
+|  Hauteur Barométrique | 200.8 | 200.4  |
+|  Direction du vent | 0.0 | 0.0  |
+|  Force | 3 | 3.7/4  |
+|  Nébulonte | 10 | 10  |
+|  (Reg. E. Cmer) | 10 | 10  |
+|  Direction des mages | 1.0 | 0.0  |
+|  Unie trombe | 2.1 | 2.5.4  |
+|  Température de l'air | 21.5 | 25.4  |
+|  Hauteur de la nu | 41.0 | 44.8  |
+|  Capitation de l'eau | 3.7/2 | 3.7/2  |
+|  Densité au bout de la jetée | 108.2 | 108.2  |
+|  Température de l'eau | 20.8 | 21.0  |

@@ -1,0 +1,30 @@
+```markdown
+| Date           | Matin       | Soir      |
+|----------------|-------------|-----------|
+| V. 20 Septembre 1906 |            |           |
+| Hauteur barométrique | 768.4      |           |
+| Direction du vent   | cr. cr. o   |           |
+| Force              | 3 (frais)   |           |
+| Nébulosité (Reg. 0 - Claire) | 0         |           |
+| (Reg. E - Mêlée)   | 0           |           |
+| Direction des nuages | —          |           |
+| Pluie tombée       | —           |           |
+| Température de l'air (°C) | 19.2      |           |
+| Hauteur de la mer  | 18.9        |           |
+| Agitation de l'eau | 1           |           |
+| Densité au bout de la jetée | 1028.5    |           |
+| Température de l'eau (°C) | 19.1      |           |
+| V. 21 Septembre 1906 |            |           |
+| Hauteur barométrique | 768.0      | 766.9     |
+| Direction du vent   | cr. cr. o   | cr. e     |
+| Force              | 2           | fort      |
+| Nébulosité (Reg. 0 - Claire) | 0         | 10        |
+| (Reg. E - Mêlée)   | 0           | 0         |
+| Direction des nuages | —          | —         |
+| Pluie tombée       | —           | —         |
+| Température de l'air (°C) | 21.6      | 22.9      |
+| Hauteur de la mer  | 46.7        | 60.0      |
+| Agitation de l'eau | faible      | fort      |
+| Densité au bout de la jetée | 1028.3    | 1027.4    |
+| Température de l'eau (°C) | 19.6      | 20.2      |
+```

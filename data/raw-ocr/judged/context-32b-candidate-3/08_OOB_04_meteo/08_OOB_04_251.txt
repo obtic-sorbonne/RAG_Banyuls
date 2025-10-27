@@ -1,0 +1,31 @@
+```plaintext
+|  V. 9 Juillet - 1903 | Obatir | Soir  |
+| --- | --- | --- |
+|  Hauteur Barométrique | 767.3 | 766.1  |
+|  Direction du vent | or. 0.0 | or. 0.0  |
+|  Force | 4 | 3  |
+|  Nébulosité (Reg. O. (terre)) | 0 | 0  |
+|  Nébulosité (Reg. E. (mer)) | 8 | 0  |
+|  Direction des nuages |  | or. 0.0  |
+|  Flux tombé |  |   |
+|  Température de l'air | 33.4 | 37.2  |
+|  Hauteur de la mer | 19.8 | 61.7  |
+|  Agitation de l'eau | 3 | 5  |
+|  Densité au bout de la jetée | 1029.0 | 1027.6  |
+|  Température de l'eau | 19.6 | 30.4  |
+
+|  V. 11 Juillet - 1903 | Obatir | Soir  |
+| --- | --- | --- |
+|  Hauteur Barométrique | 761.2 | 761.1  |
+|  Direction du vent | 3.7.3 | 7.7.3  |
+|  Force | 1 | 2  |
+|  Nébulosité (Reg. O. (terre)) | 0 | 0  |
+|  Nébulosité (Reg. E. (mer)) | 0 | 0  |
+|  Direction des nuages |  |   |
+|  Flux tombé |  |   |
+|  Température de l'air | 33.6 | 38.4  |
+|  Hauteur de la mer | 41.8 | 13.6  |
+|  Agitation de l'eau | 1 | 1  |
+|  Densité au bout de la jetée | 1027.1 | 1026.9  |
+|  Température de l'eau | 31.2 | 22.3  |
+```

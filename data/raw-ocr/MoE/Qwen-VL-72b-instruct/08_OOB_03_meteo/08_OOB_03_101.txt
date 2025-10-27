@@ -1,0 +1,17 @@
+| Date | 11 Janvier 1902 |
+|---|---|
+| **Paramètre** | **9h Matin** | **3h Soir** |
+| Hauteur Barométrique | 768.6 | 767.8 |
+| Direction du vent | Ouest | Nord |
+| Force | 15 | 3 |
+| Nuageux (Nébulosité) | | |
+| - Région O. (Clair) | 10 | 3 |
+| - Région E. (mer) | 10 | 2 |
+| Direction des nuages | NNO | Sud |
+| Pluie Tombée | " | " |
+| Température de l'air | 8.1 | 9.6 |
+| Hauteur de la mer | 42.4 | 39.0 |
+| Agitation de l'eau | 3 | 1 ⅘ |
+| Densité de l'eau | Au bout de la jetée | 1038.7 |
+| - Au Large | 1038.8 |
+| Température de l'eau | 12.6 | 11.8 |

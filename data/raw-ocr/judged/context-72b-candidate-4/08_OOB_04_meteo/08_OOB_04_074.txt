@@ -1,0 +1,31 @@
+```plaintext
+| **Date**       | **Matin** | **Soir**  | **Paramètre**                   | **Valeur Matin** | **Valeur Soir** |
+|----------------|-----------|-----------|--------------------------------|------------------|------------------|
+| V. 22 Mars. 1902 |           |           | Hauteur Barométrique            | 739.2            | 753.3            |
+|                |           |           | Direction du vent              | E. S. E.         | E. S. E.         |
+|                |           |           | Force                         | 15               | 4 fort           |
+|                |           |           | Nébulosité                    | Reg. O. (terre)  | 0                |
+|                |           |           |                               | Reg. E. (mer)    | légère           |
+|                |           |           | Direction des nuages          | E. S. E.         | E. S. E.         |
+|                |           |           | Pluie Tombé                    | quelques g       | "                |
+|                |           |           | Température de l'air           | 9.9              | 13.6             |
+|                |           |           | Hauteur de la mer              | 35.4             | 33.4             |
+|                |           |           | Agitation de l'eau             | 2                | 2                |
+|                |           |           | Densité au bout de la jetée    | 1028.6           | 1028.4           |
+|                |           |           | Température de l'eau          | 12.0             | 12.2             |
+
+| **Date**       | **Matin** | **Soir**  | **Paramètre**                   | **Valeur Matin** | **Valeur Soir** |
+|----------------|-----------|-----------|--------------------------------|------------------|------------------|
+| V. 23 Mars. 1902 |           |           | Hauteur Barométrique            | 762.3            | 762.2            |
+|                |           |           | Direction du vent              | E. S. E.         | E. S. E.         |
+|                |           |           | Force                         | 2                | 3 fort           |
+|                |           |           | Nébulosité                    | Reg. O. (terre)  | 0                |
+|                |           |           |                               | Reg. E. (mer)    | 10 légère        |
+|                |           |           | Direction des nuages          | E. S. E.         | E. S. E.         |
+|                |           |           | Pluie Tombé                    | "                | "                |
+|                |           |           | Température de l'air           | 14.6             | 17.4             |
+|                |           |           | Hauteur de la mer              | 64.9             | 66.8             |
+|                |           |           | Agitation de l'eau             | 1 faible          | 1 fort           |
+|                |           |           | Densité au bout de la jetée    | 1028.1           | 1028.2           |
+|                |           |           | Température de l'eau          | 12.2             | 13.2             |
+```

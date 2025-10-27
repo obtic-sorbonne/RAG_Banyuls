@@ -1,0 +1,21 @@
+# Date: 20 Mars 1901
+
+|  | 9" Matin | 3" Soir |
+| --- | --- | --- |
+| Hauteur Barométrique | 741,4 | 744,7 |
+| Direction du vent | Ouest | Ouest |
+| Force | 8 | 8 faible |
+| Nébulosité | 10 | 10 |
+| Reg. O. (terre) | 1000 | 1000 |
+| Reg. E. (mer) | 10 | 10 |
+| Direction des nuages | Ouest | Ouest |
+| Pluie tombée | 1000 | 1000 |
+| Température de l'air | 10,4 | 10,4 |
+| Hauteur de la mer | 28,5 | 50,1 |
+| Agitation de l'eau | 5 | 4 fort |
+| Densité de l'eau | 1,02 | 1,02 |
+| Température de l'eau | 10,4 | 10,4 |
+
+Comprendre de l'eau
+
+10,4 10,4

@@ -1,0 +1,27 @@
+|  1. A. (Avril. 1907 | Maitre | Poir  |
+| --- | --- | --- |
+|  Hauteur Miarométrique | 746.0 | 744.3  |
+|  Direction du vent | 1.8 | 0.0  |
+|  Force | 1.6 | 4  |
+|  Mibulosité | 10 | 10  |
+|  (Reg. C. (en)) |  |   |
+|  Direction des mages | 1.8 | 10  |
+|  Plein tombé |  | 0.0  |
+|  Température de l'air | 11.4 | 10.4  |
+|  Hauteur de la mer | 43.8 | 10.4  |
+|  Aptation de l'eau | 1.6 | 1.6  |
+|  Densité au bout de la jetée | 1.639.4 | 1.639.1  |
+|  Température de l'eau | 12.8 | 12.4  |
+|  1. F. (Avril. 1907 | Maitre | Poir  |
+|  Hauteur Miarométrique | 76.9 | 72.4  |
+|  Direction du vent | 0.0 | 0.0  |
+|  Force | 10 | 10  |
+|  Mibulosité | 10 | 10  |
+|  (Reg. C. (en)) |  |   |
+|  Direction des mages | 10 | 10  |
+|  Plein tombé |  | 0.0  |
+|  Température de l'air | 10.1 | 14.2  |
+|  Hauteur de la mer | 48.1 | 14.8  |
+|  Aptation de l'eau | 5 | 5  |
+|  Densité au bout de la jetée | 1.639.1 | 1.639.1  |
+|  Température de l'eau | 11.7 | 12.0  |

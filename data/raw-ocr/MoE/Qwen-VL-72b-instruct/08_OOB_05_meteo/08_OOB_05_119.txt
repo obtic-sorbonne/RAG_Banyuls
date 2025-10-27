@@ -1,0 +1,28 @@
+| V. 13 Juin 1906 | Matin | Soir |
+|----------------|-------|------|
+| Hauteur Barometrique | 778.6 | 779.6 |
+| Direction du vent | S. E. | S. E. |
+| Force | 15 | 15 |
+| Nébulosité | Res. O. (Terre) | 4 légère | 10 |
+| Direction des nuages | " | " |
+| Pluie tombée | " | " |
+| Température de l'air | 23.8 | 28.2 |
+| Hauteur de la mer | 30.1 | 47.8 |
+| Agitation de l'eau | 1. Tr. faible | 1. Tr. faible |
+| Densité au bout de la jetée | 1027.8 | 1027.7 |
+| Température de l'eau | 19.6 | 20.1 |
+
+| V. 14 Juin 1906 | Matin | Soir |
+|----------------|-------|------|
+| Hauteur Barometrique |  | 779.5 |
+| Direction du vent | S. E. | S. E. |
+| Force | 15 | 1 Fort |
+| Nébulosité | Aug. O. (Terre) | 2 |
+| Aug. E. (mer) | 0 | cr. 0 |
+| Direction des nuages |  |  |
+| Pluie tombée |  |  |
+| Température de l'air |  | 28.9 |
+| Hauteur de la mer |  | 48.2 |
+| Agitation de l'eau |  | 1 |
+| Densité au bout de la jetée |  | 1027.1 |
+| Température de l'eau |  | 18.8 |

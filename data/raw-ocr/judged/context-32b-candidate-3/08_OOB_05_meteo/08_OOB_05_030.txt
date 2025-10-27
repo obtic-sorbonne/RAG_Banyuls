@@ -1,0 +1,6 @@
+```
+| **Date** | **Heure** | **Hauteur Barométrique (mm)** | **Direction du vent** | **Force** | **Nébulosité (Reg.o. (terre))** | **Nébulosité (Reg.d. (mer))** | **Direction des nuages** | **Pluie tombée (mm)** | **Température de l'air (°C)** | **Hauteur de la mer (m)** | **Agitation de l'eau** | **Densité au bout de la jetée (g/cm³)** | **Température de l'eau (°C)** |
+|----------|-----------|-----------------------------|------------------|------------|---------------------|---------------------|-------------------------|-------------------------|-------------------------------|--------------------------|------------------------|------------------------------------|-----------------------------|
+| 8 Septembre 1905 | Matin | 766.2 | croix | is | 10 | 10 | S.S.O. | " | 23.0 | 11.6 | 2 | 1028.2 | 22.5 |
+| 8 Septembre 1905 | Soir | 767.4 | cr.cr.o. | 2 fort | 0 | 2 léger | - | quelques g | 21.8 | 60.8 | 1 fort | 1029.0 | 22.3 |
+```

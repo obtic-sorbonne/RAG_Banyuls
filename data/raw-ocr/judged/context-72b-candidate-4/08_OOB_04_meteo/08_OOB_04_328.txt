@@ -1,0 +1,28 @@
+```plaintext
+| **Date**          | **Heure** | **Données**                     | **Matin**          | **Soir**         |
+|-------------------|-----------|--------------------------------|--------------------|------------------|
+| **4 Janvier 1904**  |           | **Hauteur Barométrique**       | 761.4              | 759.3            |
+|                     |           | **Direction du vent**           | cr. o              | s. s. e          |
+|                     |           | **Force**                       | 1/2 (faible)       | 1/2 (faible)     |
+|                     |           | **Nébulosité** (terre)          | 0                  | 2                |
+|                     |           | (mer)                           | 0                  | 0                |
+|                     |           | **Direction des nuages**        | cr. o              |                  |
+|                     |           | **Pluie Tombée**                |                    |                  |
+|                     |           | **Température de l'air**        | 10,5 °C             | 11,5 °C           |
+|                     |           | **Hauteur de la mer**           | 3f. 1              | 2f. 1            |
+|                     |           | **Agitation de l'eau**          | 2 (faible)         | 1                |
+|                     |           | **Vitesse au bout de la jetée** | 1026.6 m           | 1026.5 m         |
+|                     |           | **Température de l'eau**        | 11,4 °C             | 11,5 °C           |
+| **5 Janvier 1904**  |           | **Hauteur Barométrique**       | 759.3              | 754.8            |
+|                     |           | **Direction du vent**           | cr. o              | nw. o            |
+|                     |           | **Force**                       | 3                  | 3 (faible)       |
+|                     |           | **Nébulosité** (terre)          | 10                 | 10                |
+|                     |           | (mer)                           | 10                 | 10                |
+|                     |           | **Direction des nuages**        | cr. o              | cr. o            |
+|                     |           | **Pluie Tombée**                | 2,1 mm             | 9,62 mm          |
+|                     |           | **Température de l'air**        | 6,4 °C             | 5,5 °C            |
+|                     |           | **Hauteur de la mer**           | 0.0                | 0.0              |
+|                     |           | **Agitation de l'eau**          | 1 (fort)           | 2                |
+|                     |           | **Vitesse au bout de la jetée** | 0.0                | 0.0              |
+|                     |           | **Température de l'eau**        | 11,4 °C             | 11,5 °C           |
+```

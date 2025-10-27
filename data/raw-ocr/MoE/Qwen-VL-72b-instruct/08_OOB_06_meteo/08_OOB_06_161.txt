@@ -1,0 +1,55 @@
+### Registre d'observations météorologiques historiques
+
+#### Observations du 1901 1eʳ juin  
+| **Nombre de bateaux sortis (pêche à l. ..............)** | 23, 7 |  
+| --- | --- |  
+| **Température de l'air** |  |  
+| maxima depuis la veille | 23, 7 |  
+| minima id. | 12, 7 |  
+| **Température de l'eau** |  |  
+| maxima depuis la veille |  |  
+| minima id. |  |  
+| **Pluie tombée depuis la veille, en millim.** | 27, 0 |  
+| **Evaporation depuis le 1901, en millim.** |  |  
+
+| **Direction du vent (à terre)** | à 9 h. m. | à 3 h. s. |  
+| --- | --- | --- |  
+| **Direction des nuages** | **S.S. E.** | **Sud** |  
+| **Nébulosité** |  |  |  
+| région Ouest (terre) | 2 |  |  
+| id. Est (mer) | 1 |  |  
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B. R.)** | 42, 2 |  |  
+| **Agitation de l'eau** | Très faible |  |  
+| **Densité de l'eau au bout de la jetée** | 1,026, 9 |  |  
+| **Température id. Balano** | 24, 2 |  |  
+| **terra** |  | **Maxima** | **Minima** |  
+| **terre om Leipzig** | 30, 8 | 13, 7 |  
+
+#### Observations du 1901 2 Juin  
+| **Nombre de bateaux sortis (pêche à l. ..............)** | 23, 7 |  
+| --- | --- |  
+| **Température de l'air** |  |  
+| maxima depuis la veille | 23, 6 |  
+| minima id. | 14, 4 |  
+| **Température de l'eau** |  |  
+| maxima depuis la veille |  |  
+| minima id. |  |  
+| **Pluie tombée depuis la veille, en millim.** | "" |  
+| **Evaporation depuis le 1901, en millim.** |  |  
+
+| **Direction du vent (à terre)** | à 9 h. m. | à 3 h. s. |  
+| --- | --- | --- |  
+| **Direction des nuages** | **O.N. E.** | **S.S. O.** |  
+| **Nébulosité** |  |  |  
+| région Ouest (terre) | 60 | 40 |  
+| id. Est (mer) | 10 | 60 |  
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B. R.)** | 89, 0 | 43, 0 |  
+| **Agitation de l'eau** | 1. Très faible | 1. Fort |  
+| **Densité de l'eau au bout de la jetée** | 1,026, 3 | 1,026, 8 |  
+| **Température** | 17, 7 |  |  
+| **id. Balano** | 22, 6 |  |  
+| **terra** | 24, 3 |  |  
+| **terre Jawasp** | | **Matin** | **14, 3** |  
+| **Loir** | | **Maxima** | **Minima** |  
+| | | 26, 1 | 14, 3 |  
+| | | 31, 3 | 28, 0 |  

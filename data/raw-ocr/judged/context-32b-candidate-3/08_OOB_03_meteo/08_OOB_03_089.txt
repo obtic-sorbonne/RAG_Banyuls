@@ -1,0 +1,17 @@
+# Date: 24 Décembre 1901
+
+|  | 9e Matin | 3e Soir |
+| --- | --- | --- |
+|  Hauteur Barométrique | 758,7 | 758,7 |
+|  Direction du vent | N.N.O | N.N.O |
+|  Force | 1 | 1 faible |
+|  Nébulosité { Reg. C. (terre) } | 10 | 10 |
+|  Nébulosité { Reg. E. (mer) } | 10 | 10 |
+|  Direction des nuages | Nord | Nord |
+|  Pluie tombée | quelques gouttes | - |
+|  Température de l'air | 3,7 | 3,7 |
+|  Hauteur de la mer | 29,3 | 29,3 |
+|  Agitation de l'eau | 1 | 1 |
+|  Densité de l'eau { au bout de la jetée } | 1028,7 | 1028,7 |
+|  Densité de l'eau { au large } | - | - |
+|  Température de l'eau | 11,6 | 11,6 |

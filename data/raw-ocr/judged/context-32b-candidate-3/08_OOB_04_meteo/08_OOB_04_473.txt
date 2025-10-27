@@ -1,0 +1,29 @@
+```plaintext
+|  1. 16 mars - 1905 | Moatin | Jair  |
+| --- | --- | --- |
+|  Hauteur Barométrique | 2/4.0 | 2/3.8  |
+|  Direction du vent | cr.c. | N. 0  |
+|  Force | 8 | 1 faible  |
+|  Nébulosité | 10 kg/m² | 10  |
+|  (Reg. K. (mm)) |  |   |
+|  Direction des nuages | cr. | 2.0  |
+|  Pluie tombée | 15.5 | 15.4  |
+|  Température de l'air | 15.5 | 39.1  |
+|  Hauteur de la mer | 45.1 | 39.1  |
+|  Agitation de l'eau | 2 faible | 1  |
+|  Densité au bout de la jetée | 10.29.8 | 10.29.4  |
+|  Température de l'eau | 12.2 | 12.8  |
+|  1. 14 mars - 1905 | Moatin | Jair  |
+|  Hauteur Barométrique | 262.5 | 251.0  |
+|  Direction du vent | 2.8 | 2.2.3  |
+|  Force | 15 | 1 fort  |
+|  Nébulosité | 10 | 10  |
+|  (Reg. K. (mm)) |  |   |
+|  Direction des nuages | 2.0 | 2.0  |
+|  Pluie tombée | 9.32 | 1.0  |
+|  Température de l'air | 15.4 | 11.0  |
+|  Hauteur de la mer | 11.1 | 18.9  |
+|  Agitation de l'eau | 10.29.4 | 10.29.8  |
+|  Densité au bout de la jetée | 12.2 | 13.1  |
+|  Température de l'eau | 12.2 | 12.8  |
+```

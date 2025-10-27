@@ -1,0 +1,27 @@
+| V. 7 Aout. 1907 | Matin | Soir |
+|----------------|-------|------|
+| Hauteur Barométrique | 767.2 | 767.2 |
+| Direction du vent | crois | crois |
+| Force | 1 fort | 2 fort |
+| Nébulosité (Reg. 2. cour) | 10 | 10 |
+| Direction des nuages | S.O. | S.O. |
+| Pluie tombée | " | " |
+| Température de l'air | 27.3 | 29.0 |
+| Hauteur de la mer | 49.7 | 52.0 |
+| Agitation de l'eau | 1 faible | 1 |
+| Densité au bout de la jetée | 1027.9 | 1027.0 |
+| Température de l'eau | 22.9 | 23.9 |
+
+| V. 8 Aout. 1907 | Matin | Soir |
+|----------------|-------|------|
+| Hauteur Barométrique | 769.3 | 768.6 |
+| Direction du vent | crois | S.E. |
+| Force | 1 fort | 1 faible |
+| Nébulosité (Reg. 2. cour) | 0 | 0 |
+| Direction des nuages | " | " |
+| Pluie tombée | " | " |
+| Température de l'air | 26.4 | 31.3 |
+| Hauteur de la mer | 53.2 | 57.8 |
+| Agitation de l'eau | 1 faible | 1 faible |
+| Densité au bout de la jetée | 1027.3 | 1026.3 |
+| Température de l'eau | 22.1 | 21.3 |

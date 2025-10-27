@@ -1,0 +1,27 @@
+| V. 27 Mars. 1907 | Matin | Soir |
+|------------------|-------|------|
+| Hauteur Barométrique | 767,5 | 766,6 |
+| Direction du Vent | S. E. | S.S.E |
+| Force | 1 faible | 1 fort |
+| Nébulosité | Reg. 6. (clère) | 1 | 0 |
+| | Reg. 2. (nue) | 1 | 0 |
+| Direction des nuages | " | " |
+| Pluie tombée | " | " |
+| Température de l'air | 10,6 | 16,0 |
+| Hauteur de la mer | 17,7 | 67,8 |
+| Agitation de l'eau | 1 faible | 1 |
+| Vendite au bout de la jetée | 10,28,7 | 1028,9 |
+| Température de l'eau | 12,4 | 14,7 |
+| V. 28 Mars. 1907 | Matin | Soir |
+| Hauteur Barométrique | 767,9 | 766,9 |
+| Direction du Vent | S. E. | S. E. |
+| Force | 1 fort | 2 |
+| Nébulosité | Reg. 6. (clère) | 0 | 10 |
+| | Reg. 2. (nue) | 0 | 10 |
+| Direction des nuages | " | S. E. |
+| Pluie tombée | " | " |
+| Température de l'air | 13,6 | 14,1 |
+| Hauteur de la mer | 18,1 | 20,0 |
+| Agitation de l'eau | 1 | 1 fort |
+| Vendite au bout de la jetée | 10,29,4 | 1029,4 |
+| Température de l'eau | 12,6 | 12,4 |

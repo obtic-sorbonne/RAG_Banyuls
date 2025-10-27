@@ -1,0 +1,24 @@
+# Date: 18 Juin 1901
+
+|  Item | 9e Matin | 3e Soir  |
+| --- | --- | --- |
+|  Hauteur Barométrique | 765,7 | 765,7  |
+|  Direction du vent | Nord | Nord  |
+|  Force | 15 | 15  |
+|  Nébulosité / Reg. O. (terre) | 2 | 10  |
+|  Nébulosité / Reg. E. (mer) | 2 | 10  |
+|  Direction des nuages | Nord | Nord  |
+|  Pluie tombée | 1,6 | 1,6  |
+|  Température de l'air | 18,3 | 21,4  |
+|  Hauteur de la mer | 56,1 | 56,1  |
+|  Agitation de l'eau | 6 | 6  |
+|  Densité de l'eau / au bout de la jetée | 1027,7 | 1027,4  |
+|  Densité de l'eau / au large |  |  |
+|  Température de l'eau | 18,9 | 19,4  |
+
+Délivrable
+
+|  Nº | Nom | Prix  |
+| --- | --- | --- |
+|  2 |  | 10  |
+|  1 |  | 21,4  |

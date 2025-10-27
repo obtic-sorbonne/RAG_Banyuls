@@ -1,0 +1,25 @@
+| V. 1<sup>er</sup> Août - 1905 | Matin | Soir |
+|---|---|---|
+| Hauteur Barométrique | 763.8 | 762.0 |
+| Direction du vent | crois | Nord |
+| Force | is | 1 fort |
+| Nébulosité (Reg. F. (mer)) | 40 | 40 |
+| Direction des nuages | cr.cro.o | cr.cr.o |
+| Pluie tombée | quelques gouttes | " |
+| Température de l'air | 29.7 | 29.0 |
+| Hauteur de la mer | 44.8 | 48.4 |
+| Agitation de l'eau | 1 faible | 1 faible |
+| Densité au bout de la jetée | 1026.4 | 1026.0 |
+| Température de l'eau | 29.1 | 28.0 |
+| V. 2 Août - 1905 | Matin | Soir |
+| Hauteur Barométrique | 764.3 |  |
+| Direction du vent | cr.cr.o |  |
+| Force | is | 2 fort |
+| Nébulosité (Reg. F. (terre)) | 40 |  |
+| Direction des nuages | s.o |  |
+| Pluie tombée | quelques gouttes |  |
+| Température de l'air | 23.4 |  |
+| Hauteur de la mer | 42.2 |  |
+| Agitation de l'eau | 2 |  |
+| Densité au bout de la jetée | 1026.7 |  |
+| Température de l'eau | 24.6 |  |

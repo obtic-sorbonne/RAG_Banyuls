@@ -1,0 +1,32 @@
+```plaintext
+| Date                  | Matin                  | Soir                  |
+|-----------------------|------------------------|-----------------------|
+| **V. 13 Novembre 1902** |
+| Hauteur Barométrique  | 766.0                  | 765.6                 |
+| Direction du vent     | er. cr. o              | Est                    |
+| Force                 | 1                      | 1 fort                |
+| Nébulosité            | 10                     | 10                    |
+| Reg. O. (ferre)       | 10                     | 10                    |
+| Reg. E. (mer)         | 10                     | 10                    |
+| Direction des nuages  | S. ½                   | Est                    |
+| Pluie tombée          |                        | "                     |
+| Température de l'air  | 11.7                   | 11.7                  |
+| Hauteur de la mer     | 43.9                   | 40.9                  |
+| Agitation de l'eau    | 2                      | 2                     |
+| Densité au bout de la jetée | 1029.0              | 1028.8                |
+| Température de l'eau  | 16.4                   | 16.7                  |
+| **V. 14 Novembre 1902** |
+| Hauteur Barométrique  | 767.3                  | -                     |
+| Direction du vent     | er. cr. o              | -                     |
+| Force                 | 2                      | 2 fort                |
+| Nébulosité            | 10                     | -                     |
+| Reg. O. (ferre)       | 10                     | -                     |
+| Reg. E. (mer)         | 10                     | -                     |
+| Direction des nuages  | er. cr. o              | -                     |
+| Pluie tombée          |                        | quelques g            |
+| Température de l'air  | -                      | 13.6                  |
+| Hauteur de la mer     | -                      | 42.3                  |
+| Agitation de l'eau    | -                      | 3                     |
+| Densité au bout de la jetée | -                | 1028.9                |
+| Température de l'eau  | -                      | 16.4                  |
+```

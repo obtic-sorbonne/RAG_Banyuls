@@ -1,0 +1,41 @@
+OBSERVATIONS DU 1960 7 Avril
+
+| | à 9 h. m. | à 3 h. s. |
+|---|---|---|
+| Nombre de bateaux sortis (pêche à la Plaine) | 34 | | |
+| Température de l'air maxima depuis la veille | 11,8 | | |
+| minima id. | 6,8 | | |
+| Température de l'eau maxima depuis la veille | | | |
+| minima id. | | | |
+| Pluie tombée depuis la veille, en millim. | 11 | | |
+| Evaporation depuis le 190, en millim. | | | |
+| Direction du vent (à terre) | N. No | Ouest |
+| Force | 1/4ar | 1 |
+| Direction des nuages | N.N.O | N.N.O |
+| Nébulosité région Ouest (terre) | 10 | 10 |
+| id. Est (mer) | 10 | 10 |
+| Hauteur de la mer, en centimètres, au-dessus du zéro | 29,0 | 32,0 |
+| Agitation de l'eau | 1 | 1 |
+| Densité de l'eau au bout de la jetée | 627,6 | 627,6 |
+| Température id. | 11,3 | 12,4 |
+
+OBSERVATIONS DU 1960 8 Avril
+
+| | à 9 h. m. | à 3 h. s. |
+|---|---|---|
+| Nombre de bateaux sortis (pêche à la Plaine) | 34 | | |
+| Température de l'air maxima depuis la veille | 17,2 | | |
+| minima id. | 4,9 | | |
+| Température de l'eau maxima depuis la veille | | | |
+| minima id. | | | |
+| Pluie tombée depuis la veille, en millim. | quelques g | | |
+| Evaporation depuis le 190, en millim. | | | |
+| Direction du vent (à terre) | N.E | S.E |
+| Force | 1 | 2 |
+| Direction des nuages | S.O | N.O |
+| Nébulosité région Ouest (terre) | 10 | 10 |
+| id. Est (mer) | 10 | 10 |
+| Hauteur de la mer, en centimètres, au-dessus du zéro | 30,4 | 28,2 |
+| Agitation de l'eau | 1 | 1 |
+| Densité de l'eau au bout de la jetée | 627,7 | 627,4 |
+| Température id. | 12,0 | 13,8 |

@@ -1,0 +1,45 @@
+```plaintext
+| **OBSERVATIONS DU 1960 22 AOUT** |
+| --- |
+| **Nombre de bateaux sortis (pêche à l.)** |  |
+| **Température de l'air** |  |
+| - maxima depuis la veille | 31.2 °C |
+| - minima id. | 17.0 °C |
+| **Température de l'eau** |  |
+| - maxima depuis la veille |  |
+| - minima id. |  |
+| **Pluie tombée depuis la veille, en millim.** | 0.0 mm |
+| **Évaporation depuis le 190, en millim.** |  |
+| **Direction du vent (à terre)** | **à 9 h. m.** | **à 3 h. s.** |
+| **Force** | 5 | 4 |
+| **Direction des nuages** | N.N.O. | N.N.O. |
+| **Nébulosité** |  |
+| - région Ouest (terre) | 0 | 0 |
+| - id. Est (mer) | 2 | 3 |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro** | 28.0 cm |  |
+| **Agitation de l'eau** | 2 | 2 fort. |
+| **Densité de l'eau au bout de la jetée** | 1026.0 g/cm³ | 1021.9 g/cm³ |
+| **Température id.** |  | 21.9 °C |
+
+| **OBSERVATIONS DU 1960 23 AOUT** |
+| --- |
+| **Nombre de bateaux sortis (pêche à l.)** |  |
+| **Température de l'air** |  |
+| - maxima depuis la veille | 22.2 °C |
+| - minima id. | 17.2 °C |
+| **Température de l'eau** |  |
+| - maxima depuis la veille |  |
+| - minima id. |  |
+| **Pluie tombée depuis la veille, en millim.** |  |
+| **Évaporation depuis le 190, en millim.** |  |
+| **Direction du vent (à terre)** | **à 9 h. m.** | **à 3 h. s.** |
+| **Force** | 4 | 3 |
+| **Direction des nuages** | N.N.O. | N.N.O. |
+| **Nébulosité** |  |
+| - région Ouest (terre) | 10 | 10 |
+| - id. Est (mer) | 10 | 10 |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro** | 0.0 cm |  |
+| **Agitation de l'eau** | 1 fort. | 1 fort. |
+| **Densité de l'eau au bout de la jetée** | 1028.2 g/cm³ | 1027.0 g/cm³ |
+| **Température id.** | 19.7 °C | 20.3 °C |
+```

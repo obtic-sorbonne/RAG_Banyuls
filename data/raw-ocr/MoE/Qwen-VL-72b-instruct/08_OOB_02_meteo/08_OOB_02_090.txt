@@ -1,0 +1,17 @@
+| **Date** | 8 Juin 1901 |
+|---|---|
+| **Heure** | **9h Matin** | **18h Soir** |
+| **Hauter Barométrique** | 761,6 | 760,6 |
+| **Direction du vent** | S.S.E. | Sud |
+| **Force** | 15 | 2 Faible | 3 |
+| **Nébulosité** | Reg. 0. (terre) | Léger couvert | Léger couvert |
+| **Reg. 1. (mer)** | Léger couvert | Léger couvert |
+| **Direction des nuages** | Sud | Sud |
+| **Pluie tombée** | - | - |
+| **Température de l'air** | 22,3 | 25,4 |
+| **Hauteur de la mer** | 4,4 | 5,9 |
+| **Agitation de l'eau** | 1 Faible | 1 Fort |
+| **Densité de l'eau** | 1025,7 | 1025,8 |
+| **au bout de la jetée** |  |  |
+| **en harge** |  |  |
+| **Température de l'eau** | 22,7 | 22,7 |

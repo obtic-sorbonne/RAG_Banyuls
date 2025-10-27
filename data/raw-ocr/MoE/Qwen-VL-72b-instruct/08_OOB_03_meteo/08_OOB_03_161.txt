@@ -1,0 +1,17 @@
+| **Date**   | **5 Avril 1902**                                                                                                                            |
+|------------|-------------------------------------------------------------------------------------------------------------------------------------------|
+| **Paramètre**                                      | **9h Matin**                     | **3h Soir**                      |
+| **Hauteur Barométrique**                          | 763.2                           | 760.7                           |
+| **Direction du vent**                            | S-E                             | Est                             |
+| **Force**                                         |_faible_                        | _faible_                        |
+| **Nébulosité (terre)**                           | 10 légère                       | 10                              |
+| **Nébulosité (mer)**                             | 10 légère                       | 10                              |
+| **Direction des nuages**                         | Sud-Est                         | Sud-Est                         |
+| **Pluie tombée**                                 | —                               | —                               |
+| **Température de l’air**                         | 16.8 °                          | 15.9 °                          |
+| **Hauteur de la mer**                            | 0.0 m                           | 46.6 m                          |
+| **Agitation de l’eau**                           | 0                               | 1 (faible)                      |
+| **Densité de l’eau (bout de la jetée)**           | 1.027.8                         | 1.027.9                         |
+| **Densité de l’eau (au large)**                  | —                               | —                               |
+| **Température de l’eau (bout de la jetée)**       | 14.8 °                          | 16.8 °                          |
+| **Température de l’eau (au large)**              | —                               | —                               |

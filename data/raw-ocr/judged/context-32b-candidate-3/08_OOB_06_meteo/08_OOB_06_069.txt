@@ -1,0 +1,45 @@
+```plaintext
+| **Observations du 1900 27 fév** |
+| --- |
+| **Nombre de bateaux sortis (pêche à l.)** |  |
+| **Température de l'air** |  |
+| - maxima depuis la veille | 19.0 °C |
+| - minima id. | 11.3 °C |
+| **Température de l'eau** |  |
+| - maxima depuis la veille |  |
+| - minima id. |  |
+| **Pluie tombée depuis la veille, en millim.** |  |
+| **Évaporation depuis 1900, en millim.** |  |
+| **Direction du vent (à terre)** | **à 9 h. m.** | **à 3 h. s.** |
+| - Force | Fort | Fort |
+| - Direction des nuages | Sud | Sud |
+| **Nébulosité** |  |
+| - région Ouest (terre) | 2 | 6 |
+| - id. Est (mer) | 0 | 1 |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (Bassin St. Radulp)** | 49.8 cm | 31.6 cm |
+| **Agitation de l'eau** | 1 fas. | 1 fas. |
+| **Densité de l'eau au bout de la jetée** | 1028.2 g/cm³ | 1028.1 g/cm³ |
+| **Température id.** | 16.7 °C | 16.7 °C |
+
+| **Observations du 1900 28 fév** |
+| --- |
+| **Nombre de bateaux sortis (pêche à l.)** |  |
+| **Température de l'air** |  |
+| - maxima depuis la veille | 21.3 °C |
+| - minima id. | 13.0 °C |
+| **Température de l'eau** |  |
+| - maxima depuis la veille |  |
+| - minima id. |  |
+| **Pluie tombée depuis la veille, en millim.** |  |
+| **Évaporation depuis 1900, en millim.** |  |
+| **Direction du vent (à terre)** | **à 9 h. m.** | **à 3 h. s.** |
+| - Force | 1 | 3 |
+| - Direction des nuages | S.O. | S.O. |
+| **Nébulosité** |  |
+| - région Ouest (terre) | 6 | 6 |
+| - id. Est (mer) | 10 | 10 |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (Bassin St. Radulp)** | 44.6 cm | 31.1 cm |
+| **Agitation de l'eau** | 1 | 1 fas. |
+| **Densité de l'eau au bout de la jetée** | 1027.8 g/cm³ | 1028.3 g/cm³ |
+| **Température id.** | 16.7 °C | 16.7 °C |
+```

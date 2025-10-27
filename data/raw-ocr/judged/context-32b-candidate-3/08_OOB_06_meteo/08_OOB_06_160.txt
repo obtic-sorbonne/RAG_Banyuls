@@ -1,0 +1,69 @@
+### Observations météorologiques du 1901-05-26
+
+| **Paramètre**            | **Valeur**                          |
+|-------------------------|------------------------------------|
+| Nombre de bateaux sortis | Neant                             |
+| Température de l'air     | Maxima depuis la veille : 26.7     |
+|                          | Minima id. : 11.9                 |
+| Température de l'eau    | Maxima depuis la veille : **Non renseigné** |
+|                          | Minima id. : **Non renseigné**      |
+| Pluie tombée depuis la veille | en millim.: **Non renseigné** |
+| Evaporation depuis le 1900 | en millim.: **Non renseigné** |
+
+#### Données détaillées :
+| **Critère**             | **Direction** / **Heure** | **Valeur** |
+|-------------------------|--------------------------|------------|
+| Direction du vent      | à 9 h. m.              | N.E.       |
+|                         | à 3 h. s.              | S.S.E.     |
+| Force                   | à 9 h. m.              | 1          |
+|                         | à 3 h. s.              | 2 fort     |
+| Direction des nuages   | à 9 h. m.              | N.E.       |
+|                         | à 3 h. s.              | S.E.       |
+| Nebulosité              | région Ouest (terre)  | 60         |
+|                         | région Est (mer)      | 60         |
+| Hauteur de la mer      | en centimètres, au-dessus du zéro | 36.7 (9 h. m.) |
+|                         | 27.8 (3 h. s.)         |            |
+| Agitation de l'eau     | à 9 h. m.              | 1          |
+|                         | à 3 h. s.              | 1 fort     |
+| Densité de l'eau au bout de la jetée | à 9 h. m. | 1027.3 |
+|                         | à 3 h. s.              | 1027.3     |
+| Température             | identique Balanc       | 16.8 (9 h. m.) |
+|                         | idem Terrasse          | 16.3 (3 h. s.) |
+|                         | Matin                  | Maxima 32.2, Minima 11.3 |
+|                         | Soir                   | Maxima 24.3, Minima 17.2 |
+
+---
+
+### Observations météorologiques du 1901-05-27
+
+| **Paramètre**            | **Valeur**                          |
+|-------------------------|------------------------------------|
+| Nombre de bateaux sortis | Neant                             |
+| Température de l'air     | Maxima depuis la veille : 21.2     |
+|                          | Minima id. : 14.2                 |
+| Température de l'eau    | Maxima depuis la veille : **Non renseigné** |
+|                          | Minima id. : **Non renseigné**      |
+| Pluie tombée depuis la veille | en millim.: 2.0 |
+| Evaporation depuis le 1900 | en millim.: **Non renseigné** |
+
+#### Données détaillées :
+| **Critère**             | **Direction** / **Heure** | **Valeur** |
+|-------------------------|--------------------------|------------|
+| Direction du vent      | à 9 h. m.              | N          |
+|                         | à 3 h. s.              | S.E.       |
+| Force                   | à 9 h. m.              | 0          |
+|                         | à 3 h. s.              | 1 fort     |
+| Direction des nuages   | à 9 h. m.              | N          |
+|                         | à 3 h. s.              | S.E.       |
+| Nebulosité              | région Ouest (terre)  | 60         |
+|                         | région Est (mer)      | 60         |
+| Hauteur de la mer      | en centimètres, au-dessus du zéro | 35.2 (9 h. m.) |
+|                         | 39.8 (3 h. s.)         |            |
+| Agitation de l'eau     | à 9 h. m.              | 2          |
+|                         | à 3 h. s.              | 2          |
+| Densité de l'eau au bout de la jetée | à 9 h. m. | 1027.4 |
+|                         | à 3 h. s.              | 1027.3     |
+| Température             | identique Balanc       | 19.2 (Matin, 19.8 (Soir)) |
+|                         | idem Terrasse          | 16.3 (Matin, 16.2 (Soir)) |
+|                         | Matin                  | Maxima 24.2, Minima 14.3 |
+|                         | Soir                   | Maxima 24.3, Minima 16.2 |

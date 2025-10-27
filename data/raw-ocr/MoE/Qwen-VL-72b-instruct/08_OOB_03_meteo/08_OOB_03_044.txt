@@ -1,0 +1,17 @@
+| **Paramètre** | **9h Matin** | **15h Après-midi** |
+|---|---|---|
+| **Hauteur Barométrique** | 766.2 | 764.7 |
+| **Direction du Vent** | N.N.O | N.N.O |
+| **Force** | 1 fort | 2 |
+| **Nébulosité** | | |
+| ⬑ Reg. O. (tere) | 10 | 10 légère |
+| ⬑ Reg. E. (mer) | 10 | 10 légère |
+| **Direction des Nuages** | Est | Nord |
+| **Pluie Tombée** | quelques g. | 11 |
+| **Température de l'Air** | 13.0 | 13.3 |
+| **Hauteur de la Mer** | 4.0 | 3.6 |
+| **Agitation de l'Eau** | 3 fort | 3 fort |
+| **Densité de l'Eau** | | |
+| ⬑ au bout de la jetée | 1026.6 | 1026.5 |
+| ⬑ au Large | | |
+| **Température de l'Eau** | 15.5 | 15.4 |

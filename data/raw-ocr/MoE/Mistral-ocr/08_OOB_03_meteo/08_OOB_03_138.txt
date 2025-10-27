@@ -1,0 +1,18 @@
+# Date: 2 Mars 1902
+
+|  Name | 2 Mm | 3 Mm | 3 M.  |
+| --- | --- | --- | --- |
+|  Hauteur Poursentique | 2/3.6 |  |   |
+|  Direction du vent | 3.3.3 |  |   |
+|  Force | 1/2 | 1/2 | 1/2  |
+|  Minibusite | Reg-G. (Tence) | 0 |   |
+|  Minibusite | Reg-E. (mn) | 0 |   |
+|  Direction des rinages |  |  |   |
+|  Chine Tombe |  |  |   |
+|  Température de l'air |  | 11,5 |   |
+|  Hauteur de la mer |  | 43,1 |   |
+|  Législation de l'eau |  | 17/2 | 17/2  |
+|  Persée de l'eau | au bout de la fête | 10.24.4 |   |
+|  20 |  |  |   |
+|  20 |  |  |   |
+|  Température de l'eau |  | 11,5 |   |

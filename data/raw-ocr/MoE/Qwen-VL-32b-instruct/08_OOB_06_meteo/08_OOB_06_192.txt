@@ -1,0 +1,40 @@
+| **Observations du 1901 2 septembre** |
+| --- |
+| **Nombre de bateaux sortis (pêche à l')** | |
+| **Température de l'air** }<br>maxima depuis la veille | 29.6 |
+| }<br>minima id. | 20.9 |
+| **Température de l'eau** }<br>maxima depuis la veille | |
+| }<br>minima id. | |
+| **Pluie tombée depuis la veille, en millim.** | — |
+| **Evaporation depuis le 190 , en millim.** | |
+| **Direction du vent (à terre)** | **à 9 h. m.** | **à 3 h. s.** |
+| — Force | 8 | |
+| **Direction des nuages** | Sud | |
+| **Nébulosité** }<br>région Ouest (terre) | 10 | |
+| }<br>id. Est (mer) | 10 | |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.)** | 40.9 | |
+| **Agitation de l'eau** | 1/4 d. | |
+| **Densité de l'eau au bout de la jetée** | 1021.7 | |
+| **Température id.** | 24.6 | |
+
+| **Observations du 1901 4 septembre** |
+| --- |
+| **Nombre de bateaux sortis (pêche à l')** | |
+| **Température de l'air** }<br>maxima depuis la veille | 30.3 |
+| }<br>minima id. | 19.3 |
+| **Température de l'eau** }<br>maxima depuis la veille | |
+| }<br>minima id. | |
+| **Pluie tombée depuis la veille, en millim.** | — |
+| **Evaporation depuis le 22 août 1901, en millim.** | 72'/' |
+| **Direction du vent (à terre)** | **à 9 h. m.** | **à 3 h. s.** |
+| — Force | 1/4-d. | 1/4-d. |
+| **Direction des nuages** | Nn | Nn |
+| **Nébulosité** }<br>région Ouest (terre) | 0 | 0 |
+| }<br>id. Est (mer) | 0 | 0 |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.)** | 41.6 | 92.2 |
+| **Agitation de l'eau** | 1/4 d. | 1 |
+| **Densité de l'eau au bout de la jetée** | 1026.0 | 1021.9 |
+| **Température id.** | 24.3 | 28.4 |
+| - i5 **Tonneau matin (Maxima)**<br>Philiquet **soir (Minima)** | 34.3 | 31.0 |
+| - i5 **Bateau matin (Maxima)**<br>Reuge **soir (Minima)** | 41.2 | 34.5 |
+| - i5 **Coupe matin (Maxima)**<br>loir **soir (Minima)** | 17.1 | 27.0 |

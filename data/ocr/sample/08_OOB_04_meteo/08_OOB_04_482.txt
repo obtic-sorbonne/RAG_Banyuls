@@ -1,0 +1,16 @@
+```plaintext
+|  V. 6 Avril - 1905 | Matin | Soir  |
+| --- | --- | --- |
+|  Hauteur Barométrique | 765.0 | 765.5  |
+|  Direction du vent | N.E. | N.E.  |
+|  Force | 3 | 3  |
+|  Nébulosité | Reg. 1 (terre) | Reg. 1 (terre)  |
+|  (Reg. 1 (mer)) | 10 | 10  |
+|  Direction des nuages | N.E. | N.E.  |
+|  Pluie tombée |  | 14.0  |
+|  Température de l'air | 14.9 | 18.0  |
+|  Hauteur de la mer | 14.5 | 17.4  |
+|  Agitation de l'eau | 8 | 8  |
+|  Densité au bout de la jetée | 1028.4 | 1028.4  |
+|  Température de l'eau | 14.1 | 11.0  |
+```

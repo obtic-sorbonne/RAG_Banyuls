@@ -1,0 +1,28 @@
+```plaintext
+N°
+
+Sortie du 9 Avril 1903
+
+Départ de Cerbère à 6 heures du matin
+pour Banyuls  
+Arrivée à heures du 
+
+Départ de  à heures du 
+pour
+
+Arrivée au mouillage à Banyuls à 7h15 du matin
+
+État du temps: Vent faible du Nord
+
+Passagers à bord: 
+
+Objet de la sortie: Retour à Banyuls
+
+Consommation 
+- 19 briquettes de 10 Poids en Kilos 190
+- 2 huile Total en litres 2
+
+Dépenses
+
+Observations : Après avoir franchi une nuit très calme, nous sortons du port de Cerbère. Nous appareillons pour regagner Banyuls. Nous arrivons à Banyuls à 7h15 à la force des avirons. Nous mouillons à l'abri du Cap Bonne.
+```

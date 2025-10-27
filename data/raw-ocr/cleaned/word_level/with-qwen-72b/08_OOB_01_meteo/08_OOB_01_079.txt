@@ -1,0 +1,1 @@
+Date Paramètre Valeur 11 Octobre 1900 Hauteur Barométrique 760 3 764 1 Direction du vent N Sud Force 2 1 Nébulosité reg O terre 9 3 Nébulosité reg E mer 9 3 Direction des nuages N N Pluie tombée Température de l air 21 8 22 1 Hauteur de la mer 42 1 27 8 Agitation de l eau au bord de la jetée 1 2 Densité au large 1021 2 1021 0 Température de l eau 21 1 21 8

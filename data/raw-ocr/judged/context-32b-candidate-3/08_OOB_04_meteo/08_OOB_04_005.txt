@@ -1,0 +1,35 @@
+```
+27 Septembre 1901
+
+|  Nauteur Barométrique | Matin | Soir  |
+| --- | --- | --- |
+|  Direction du vent | 767.7 | 767.6  |
+|  Force | 3.7 | 3.7  |
+|  Nœbutosité | 1.6 | 0.6  |
+|  Reg. D. (mer) | 2.6 | 2.6  |
+|  Direction des nuages | 0.0 | 0.0  |
+|  Unic tombé | 20.0 | 21.6  |
+|  Température de l'air | 17.6 | 18.4  |
+|  Nauteur de la mer | 3 | 3  |
+|  Égitation de l'eau | 1087.8 | 1086.9  |
+|  Sensité au bout de la jolie | 17.7 | 17.7  |
+|  Température de l'eau | 17.7 | 17.7  |
+
+27 Septembre 1901 (Quite)
+
+30 Septembre 1901
+
+|  Nauteur Barométrique | Matin | Soir  |
+| --- | --- | --- |
+|  Direction du vent | 769.4 | 769.8  |
+|  Force | 1.7 | 1.7  |
+|  Nœbutosité | 10 | 10  |
+|  Reg. D. (mer) | 10 | 10  |
+|  Direction des nuages | 21.5 | 21.5  |
+|  Unic tombé | 0.078 | 0.011  |
+|  Température de l'air | 18.6 | 18.4  |
+|  Nauteur de la mer | 34.7 | 48.8  |
+|  Égitation de l'eau | 3.7 | 3.7  |
+|  Sensité au bout de la jolie | 1087.7 | 1087.0  |
+|  Température de l'eau | 17.7 | 18.0  |
+```

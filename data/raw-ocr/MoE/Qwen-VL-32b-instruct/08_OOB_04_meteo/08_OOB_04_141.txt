@@ -1,0 +1,33 @@
+# V. A Octobre 1902
+
+|  Nom | Date | Dépôt  |
+| --- | --- | --- |
+|  Hauteur Maronnetrique | 3/7/4 | 3/4.1  |
+|  Direction du vent | 3/7/5 | 1/1.1  |
+|  Force | 2/20/1 | 2  |
+|  Nocbulosité | 10 | 5  |
+|  Nocbulosité | 10 | 2  |
+|  Direction des nuages | 10 | 2  |
+|  Nuit bombé | 13.1 | 13.1  |
+|  Température de l'air | 13.0 | 19.3  |
+|  Hauteur de la mer | 14.1 | 25.0  |
+|  Crigtation de l'eau | 4 | 4.1  |
+|  Densité au bout de la jeté | 5 | 10.2  |
+|  Température de l'eau | 19.4 | 19.4  |
+
+# V. J Octobre 1902
+
+|  Nom | Date | Dépôt  |
+| --- | --- | --- |
+|  Hauteur Maronnetrique | 3/7/5 | 3/4.1  |
+|  Direction du vent | 3/7/5 | 1/1.1  |
+|  Force | 15 | 2  |
+|  Nocbulosité | 10 | 2  |
+|  Nocbulosité | 10 | 2  |
+|  Direction des nuages | 10 | 2  |
+|  Nuit bombé | 13.1 | 13.1  |
+|  Température de l'air | 13.0 | 14.0  |
+|  Hauteur de la mer | 14.0 | 14.0  |
+|  Crigtation de l'eau | 3 | 3  |
+|  Densité au bout de la jeté | 10.2 | 10.2  |
+|  Température de l'eau | 19.4 | 19.4  |

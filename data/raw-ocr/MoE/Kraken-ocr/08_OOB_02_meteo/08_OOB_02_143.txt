@@ -1,0 +1,51 @@
+4
+Diile 8 Aouf 1901
+1
+Jauteur Barometrique
+Direction du vent
+Force ed
+3
+Rébulosité
+Direction des nuages
+Température de l'air
+fauteuve de la mer
+Agitalion de l'eau
+Densite de l'eau
+=an bout de la fté
+l'au Harge
+Temperature de l'eau
+4
+N
+RReg.- Z- (mer)
+Fluie tambée
+6
+1
+SHOatin 3t Soir
+
+7o5.2
+N.N.O
+1
+DD
+⁊s
+11
+N1
+If,1
+7
+14,4
+3
+4
+DCn
+2
+1
+6.
+Nou
+4 faible
+4
+30
+5
+64,0
+Ifaible
+1027."
+20.7
+P
+D

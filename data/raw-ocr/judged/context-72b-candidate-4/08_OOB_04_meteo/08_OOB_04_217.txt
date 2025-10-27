@@ -1,0 +1,32 @@
+```plaintext
+| Date       | Matin     | Soir     |
+|------------|-----------|----------|
+| **V. 23 Avril 1903** |          |          |
+| Hauteur Barométrique | 747.4   | 748.4   |
+| Direction du vent    | cr. 8   | cr. 0   |
+| Force                | 1/20/06 | 3/20/06 |
+| Nébulosité           |         |         |
+| Reg. 6. (Ciel)       | 10      | 10      |
+| Reg. E. (mur)        | 10      | 10      |
+| Direction des nuages | or. 0   | or. 0   |
+| Pluie tombée         | 8.0     |         |
+| Température de l'air | 14.4    | 14.2    |
+| Hauteur de la mer    | 38.8    | 43.2    |
+| Agitation de l'eau   | 1       | 1/20/06 |
+| Densité au bout de la jetée | 1029.1 | 1029.1 |
+| Température de l'eau | 12.6    | 12.8    |
+| **V. 24 Avril 1903** |          |          |
+| Hauteur Barométrique | 743.2   | 744.6   |
+| Direction du vent    | or. 0   | sud     |
+| Force                | 1       | 1/7     |
+| Nébulosité           |         |         |
+| Reg. 6. (Ciel)       | 1       | 10      |
+| Reg. E. (mur)        | 1       | 10      |
+| Direction des nuages | or. 0   |         |
+| Pluie tombée         | 6.20    | 11.70   |
+| Température de l'air | 12.8    | 9.2     |
+| Hauteur de la mer    | 49.0    | 46.0    |
+| Agitation de l'eau   | 1/20/06 | 1/20/06 |
+| Densité au bout de la jetée | 1029.7 | 1029.8 |
+| Température de l'eau | 12.7    | 12.6    |
+```

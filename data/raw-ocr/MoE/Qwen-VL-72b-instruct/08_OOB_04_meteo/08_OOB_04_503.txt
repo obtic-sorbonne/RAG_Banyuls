@@ -1,0 +1,8 @@
+| V. 29 mai. 1905 | Matin | Soir |
+|-----------------|-------|------|
+| Hauteur Barométrique - Direction du vent Force is |       |      |
+| Nébulosité Reg. 6 (claire) Reg. 2i (mer) |        |      |
+| Direction des nuages Pluie tombée Température de l'air Hauteur de la mer Agitation de l'eau Remise au bout Se la jetée Température de l'eau |    |     |
+| V. 30 mai. 1905 | Matin | Soir |
+| Hauteur Barométrique Direction du vent Force is Reg. 6 (terre) |   |     |
+| Nébulosité Reg. Ti (mer) Direction des nuages Pluie tombée Température de l'air Hauteur de la mer Agitation de l'eau Remise au bout de la jetée Température de l'eau |   |     |

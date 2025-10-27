@@ -1,0 +1,20 @@
+Dat: M. Ey A
+
+|   |   | Neum: |
+| --- | --- | --- |
+|   |   | 1/4/2 m.  |
+|  Hauteim barométrique |  | 116,3  |
+|  Direction du vent |  | N. O.  |
+|  Force |  | 3  |
+|  Nébulosité | Rég. O. (taux) | 1  |
+|  Nébulosité | Rég. O. (mm) | 1  |
+|  Direction des nuages |  | N. O.  |
+|  Pluie tombée |  | "  |
+|  Température de l'air |  | 20,0  |
+|  Hauteur de la mer |  | 0,5  |
+|  Agitation de l'eau |  | 2  |
+|  Densité de l'eau | (au large) | 1027,0  |
+|  Température de l'eau |  | 20,2  |
+|  Dossier |  |   |
+
+Nisens.

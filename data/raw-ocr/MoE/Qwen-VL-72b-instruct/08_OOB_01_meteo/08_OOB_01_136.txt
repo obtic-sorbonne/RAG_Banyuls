@@ -1,0 +1,15 @@
+| **Date**       | 09/12/1900 |
+|-----------------|------------|
+| **Heure (Actuel/Avant)** | 9h/3h |
+| **Hauteur Barométrique** | 768,6 |
+| **Direction du vent**    | Ouest |
+| **Force du vent**        | 1 (Jaille) |
+| **Nébulosité (Reg. N.)** | 0 (Clair) |
+| **Nébulosité (Reg. E.)** | 0 (Mes) |
+| **Direction des nuages** | -- |
+| **Pluie tombée**         | -- |
+| **Température de l'air** | 10,3°C |
+| **Hauteur de la mer**    | 38,0 |
+| **Agitation de l'eau**   | 2 |
+| **Densité de l'eau**     | 1,0258 (au bout de la jetée) |
+| **Température de l'eau** | 14,7°C |

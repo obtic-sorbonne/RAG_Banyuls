@@ -1,0 +1,35 @@
+```markdown
+# 14 Août 1907
+
+| **Date** | **Matin** | **Vers 9h30** | **Après-midi** | **Vers 18h** | **Résumé diurne** |
+|----------|-----------|---------------|----------------|--------------|------------------|
+| Hauteur Barométrique | 769.3 mmHg | —— | —— | —— | —— |
+| Direction du vent | S-E | —— | —— | —— | —— |
+| Force | 1 | —— | —— | —— | —— |
+| Nébulosité (Reg. clair) | 0 | —— | —— | —— | —— |
+| (Reg. 2. (nu)) | 0 | —— | —— | —— | —— |
+| Direction des nuages | —— | —— | —— | —— | —— |
+| Pluie tombée | —— | —— | —— | —— | —— |
+| Température de l'air | 27.9 °C | —— | —— | —— | —— |
+| Hauteur de la mer | 11.6 cm | —— | —— | —— | —— |
+| Agitation de l'eau | 1.6 | —— | —— | —— | —— |
+| Densité au bout de la jetée | 1027.4 g/cm³ | —— | —— | —— | —— |
+| Température de l'eau | 24.2 °C | —— | —— | —— | —— |
+
+# 16 Août 1907
+
+| **Date** | **Matin** | **Vers 9h30** | **Après-midi** | **Vers 18h** | **Résumé diurne** |
+|----------|-----------|---------------|----------------|--------------|------------------|
+| Hauteur Barométrique | 762.3 mmHg | —— | —— | —— | —— |
+| Direction du vent | 10.0 | —— | —— | —— | —— |
+| Force | 10 | —— | —— | —— | —— |
+| Nébulosité (Reg. clair) | 10 | —— | —— | —— | —— |
+| (Reg. 2. (nu)) | 10 | —— | —— | —— | —— |
+| Direction des nuages | 10 | —— | —— | —— | —— |
+| Pluie tombée | —— | —— | —— | —— | —— |
+| Température de l'air | 21.2 °C | —— | —— | —— | —— |
+| Hauteur de la mer | 12.9 cm | —— | —— | —— | —— |
+| Agitation de l'eau | 3.6 | —— | —— | —— | —— |
+| Densité au bout de la jetée | 1027.4 g/cm³ | —— | —— | —— | —— |
+| Température de l'eau | 21.6 °C | —— | —— | —— | —— |
+```

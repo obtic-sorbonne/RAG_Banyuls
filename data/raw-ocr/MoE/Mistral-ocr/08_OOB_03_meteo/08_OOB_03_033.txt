@@ -1,0 +1,15 @@
+# Date. 21 Octobre. 1901
+
+|  Nauteur Parométrique | 9" Matin, 3" Soir | 9" Matin, 3" Soir  |
+| --- | --- | --- |
+|  Direction Su vent | 750,0 | 753,0  |
+|  Force | N.N.O | 888  |
+|   | 1/art | 1/art  |
+|  Débutivité | Reg.-D. (line) | 0  |
+|  Direction des nuages |  |   |
+|  Flux tombée |  |   |
+|  Température de l'air | 14,4 | 15,7  |
+|  Hauteur de la mer | 49,9 | 38,0  |
+|  Égitation de l'eau | 1/art | 1  |
+|  Densité de l'eau | 1087,4 | 1087,4  |
+|  Comprendre de l'eau | 15,8 | 17,8  |

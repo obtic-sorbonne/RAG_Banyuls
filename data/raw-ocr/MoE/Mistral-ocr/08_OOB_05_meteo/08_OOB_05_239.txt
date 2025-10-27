@@ -1,0 +1,27 @@
+|  V. 2 Mai 1907 | Maitun | Poir  |
+| --- | --- | --- |
+|  Hauteur | 768.3 | 767.4  |
+|  Direction du Vent | 0.0 | 1.8  |
+|  Force | 1 fort | 3  |
+|  Méburborite | 10 | 10 bign.  |
+|  (Reg. C. (tane) |  |   |
+|  Direction des nuages | 0 | 10 bign.  |
+|  Flux tombé |  |   |
+|  Température de l'air | 10,1 | 11.6  |
+|  Hauteur de la mer | 61.0 | 71.4  |
+|  Agitation de l'eau | 157.001 | 157.001  |
+|  Densité au bout de la jetée | 1029.3 | 1029.3  |
+|  Température de l'eau | 13.2 | 14.2  |
+|  V. 3 Mai 1907 | Maitun | Poir  |
+|  Hauteur | 766.3 | 764.9  |
+|  Direction du Vent | 1.8 | 8.00.8  |
+|  Force | 3 | 1  |
+|  Méburborite | 0 | 0  |
+|  (Reg. C. (tane) |  |   |
+|  Direction des nuages | 2 | 3  |
+|  Flux tombé |  |   |
+|  Température de l'air | 17.7 | 20.2  |
+|  Hauteur de la mer | 64.1 | 63.0  |
+|  Agitation de l'eau | 1 faible | 1 faible  |
+|  Densité au bout de la jetée | 1028.8 | 1028.3  |
+|  Température de l'eau | 11.2 | 17.3  |

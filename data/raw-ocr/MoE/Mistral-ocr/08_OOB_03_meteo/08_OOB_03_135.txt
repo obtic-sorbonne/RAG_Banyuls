@@ -1,0 +1,16 @@
+# Date: 26 février 1902
+
+|  |   |   |
+| --- | --- | --- |
+|  Hauteur Barometrique | 314,4 | 212,5  |
+|  Direction du vent | 7,5 | 5,5  |
+|  Force | 1,5 | 1,5  |
+|  Reg. O. (lire) | 8,5 | 0  |
+|  Nébutosité |  |   |
+|  Direction des nuages | 0 | 0  |
+|  Flux tombée |  |   |
+|  Température de l'air | 13,4 | 11,5  |
+|  Hauteur de la mer | 31,4 | 42,0  |
+|  Cigatation de l'eau | 1,5 | 1,5  |
+|  Densité de l'eau | 1,28,7 | 1,028,3  |
+|  Comprendre de l'eau | 11,4 | 11,5  |

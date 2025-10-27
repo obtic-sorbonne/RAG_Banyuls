@@ -1,0 +1,29 @@
+|  V. Le Janvier - 1908 | Nkatin | Soir  |
+| --- | --- | --- |
+|  Hauteur Maremmairique | 170.4 |   |
+|  Direction du Vent | or.ur.0 |   |
+|  10 | 8 |   |
+|  (Reg. G. (trme) | 10 |   |
+|  Nébulonte |  |   |
+|  (Reg. K. (mn) | 10 |   |
+|  Direction des mages | Onest |   |
+|  Place Tombeie |  |   |
+|  Dempesature de l'air | 10.7 |   |
+|  Hauteur de la mer | 4/1.1 |   |
+|  (Agitation de l'eau) | 1/2.1 |   |
+|  Donnte au bout de la jetée | 1631.1 |   |
+|  Dempesature de l'eau | 11.0 |   |
+|  V. 28 Janvier - 1908 | Nkatin | Soir  |
+|  Hauteur Maremmairique | 174.2 | 173.6  |
+|  Direction du Vent | onest | 1.1.8  |
+|  10 | 1 | 1 n.  |
+|  (Rég. G. (trme) | 10 | 10  |
+|  Nébulonte |  |   |
+|  (Reg. K. (mn) | 10 | 10  |
+|  Direction des mages | or. 8 | or. 8  |
+|  Place Tombeie |  |   |
+|  Dempesature de l'air | 16.3 | 13.9  |
+|  Hauteur de la mer | 48.4 | 51.1  |
+|  (Agitation de l'eau) | 1/2.1 |   |
+|  Donnte au bout de la jetée | 1632.8 | 1632.2  |
+|  Dempesature de l'eau | 13.8 | 13.8  |

@@ -1,0 +1,16 @@
+| Date | 20 Mars 1902 |
+|------|------------|
+| **Données** | **9ᵉ Matin** | **3ᵉ Soir** |
+| Hauteur Barométrique |  | 760.2 |
+| Direction du vent |  | S.E. |
+| Force |  | 1 |
+| Nébulosité | Reg. O. (Terre) | 3 |
+|  | Reg. E. (Mer) | 2 |
+| Direction des nuages |  | S.E. |
+| Pluie tombée |  | " |
+| Température de l'air |  | 12.8 |
+| Hauteur de la mer |  | 50.5 |
+| Agitation de l'eau |  | 1 |
+| Densité de l'eau | au bout de la jetée | 1027.9 |
+|  | au large |  |
+| Température de l'eau |  | 13.3 |

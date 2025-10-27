@@ -1,0 +1,27 @@
+| V. 4 Février 1907 | Matin | Soir |
+|-------------------|-------|------|
+| Hauteur Barométrique | 762.0 |      |
+| Direction du vent | cr. o |      |
+| Force | 3 |      |
+| Nébulosité (Reg. o. (cler)) | 40 |      |
+| Direction des nuages (Reg. d. (mur)) | cr. o |      |
+| Pluie tombée | " |      |
+| Température de l'air | 3.0 |      |
+| Hauteur de la mer | 5 |      |
+| Agitation de l'eau | E faible |      |
+| Densité au bord de la jetée | 5 |      |
+| Température de l'eau | 7 |      |
+
+| V. 5 Février 1907 | Matin | Soir |
+|-------------------|-------|------|
+| Hauteur Barométrique | 751.7 | 762.5 |
+| Direction du vent | cr. o | cr. o |
+| Force | 3 | 3 fort |
+| Nébulosité (Reg. o. (cler)) | 2 lignes wit. | 10 lignes wit. |
+| Direction des nuages (Reg. d. (mur)) | cr. o | cr. cr. o |
+| Pluie tombée | " | " |
+| Température de l'air | 3.2 | 1.0 |
+| Hauteur de la mer | 64.2 | 62.0 |
+| Agitation de l'eau | 3 | 3 |
+| Densité au bord de la jetée | 1020.0 | 1029.1 |
+| Température de l'eau | 10.4 | 10.8 |

@@ -1,0 +1,15 @@
+```markdown
+# 17 OCTOBRE 1907
+
+| **Date**        | **Heure** | **Hauteur barométrique (mmHg)** | **Direction du vent** | **Force** | **Nébulosité (Reg. C. claire)** | **Nébulosité (Reg. 2. (mer))** | **Direction des nuages** | **Pluie tombée (mm)** | **Température de l'air (°C)** | **Hauteur de la mer (cm)** | **Agitation de l'eau** | **Densité au bout de la jetée (g/cm³)** | **Température de l'eau (°C)** |
+|-----------------|-----------|--------------------------------|-----------------------|-----------|--------------------------------|-----------------------------|------------------------|-----------------------|-----------------------------|---------------------------|-----------------------|---------------------------------------|-----------------------------|
+| 17 octobre 1907 | Matin     | 794.3                          | Est                   | 0         | 10                            | 10                         | Sud-Sud-Ouest          | 1.87                  | 13.7                       | 38.8                     | 2 fort                | 1027.4                                | 19.6                        |
+| 17 octobre 1907 | Soir      | 794.3                          | Est                   | 0         | 10                            | 10                         | Sud-Sud-Ouest          | 1.37                  | 15.0                       | 24.8                     | 2                     | 1027.8                                | 19.6                        |
+
+# 18 OCTOBRE 1907
+
+| **Date**        | **Heure** | **Hauteur barométrique (mmHg)** | **Direction du vent** | **Force** | **Nébulosité (Reg. C. claire)** | **Nébulosité (Reg. 2. (mer))** | **Direction des nuages** | **Pluie tombée (mm)** | **Température de l'air (°C)** | **Hauteur de la mer (cm)** | **Agitation de l'eau** | **Densité au bout de la jetée (g/cm³)** | **Température de l'eau (°C)** |
+|-----------------|-----------|--------------------------------|-----------------------|-----------|--------------------------------|-----------------------------|------------------------|-----------------------|-----------------------------|---------------------------|-----------------------|---------------------------------------|-----------------------------|
+| 18 octobre 1907 | Matin     | 799.3                          | Sud-Sud-Est           | 2         | 0                             | 10                         | Sud                    | quelques g            | 14.0                       | 41.0                     | 1 fort                | 1027.7                                | 19.9                        |
+| 18 octobre 1907 | Soir      | 798.3                          | Sud-Sud-Est           | 2         | 10                            | 10                         | Sud                    | 18.1                  | 14.0                       | 37.4                     | 1 fort                | 1027.7                                | 19.6                        |
+```

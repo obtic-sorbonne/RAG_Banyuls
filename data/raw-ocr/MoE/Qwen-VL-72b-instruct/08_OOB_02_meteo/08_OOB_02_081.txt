@@ -1,0 +1,17 @@
+| **Observations météorologiques** | **9h Matin**         | **3h Soir**         |
+|-----------------------------------|---------------------|---------------------|
+| Hauteur barométrique (mmHg)       | 760.8               | 759.7               |
+| Direction du vent                | N.N.E.              | Sud                 |
+| Force du vent                    | 1 (fort)            | 3 (faib.)           |
+| Niebulosité                      |                     |                     |
+|   - Reg. C. (ciel clair)         | 10 (léger couvert)  | 10 (léger couvert) |
+|   - Reg. E. (mer)                | 10 (léger couvert)  | 10 (léger couvert) |
+| Direction des nuages             | Sud                 | Nord                |
+| Pluie tombée                     | " "                 | " "                 |
+| Température de l'air (°C)        | 18.7                | 23.4                |
+| Hauteur de la mer (m)            | 48.8                | 42.8                |
+| Agitation de l'eau               | 1 (faib.)           | 1 (faib.)           |
+| Densité de l'eau                 |                     |                     |
+|   - au bout de la jetée          |                     |                     |
+|   - au large                     | 1027.8              | 1027.1              |
+| Température de l'eau (°C)        | 13.2                | 20.3                |

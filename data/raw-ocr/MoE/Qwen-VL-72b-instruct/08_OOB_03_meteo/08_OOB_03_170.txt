@@ -1,0 +1,16 @@
+| Date          | 1<sup>er</sup> Avril 1902                             |
+| ------------- | ---------------------------------------------------- |
+| **Observations**                           | **Données**                     |
+| **Baromètre**                             | **Hauteur barométrique** | 733,7 | 733,7 |
+|                                           | **Direction du vent**         | ※ dr. 0 | ※ dr. 0 |
+|                                           | **Force**                      | 1      | 1      |
+| **Nébulosité**                           | **Rég. O. (terre)**            | 10     | 10     |
+|                                         | **Rég. E. (mer)**              | 10     | 10     |
+| **Direction des nuages**                 |                               | ※ dr. 0  | ※ dr. 0 |
+| **Pluie tombée**                        |                               | quelque g. | quelque g. |
+| **Température de l'air**               |                               | 14,4  | 14,4  |
+| **Hauteur de la mer**                   |                               | 35,8  | 35,8  |
+| **Agitation de l'eau**                 |                               | 1      | 1      |
+|  **Densité de l'eau**                   | **Au bord de la jetée** | 1027,2| |
+|                                       | **Au Large** | 1 | |
+| **Température de l'eau**               |                               | 13,8  | 13,8  |

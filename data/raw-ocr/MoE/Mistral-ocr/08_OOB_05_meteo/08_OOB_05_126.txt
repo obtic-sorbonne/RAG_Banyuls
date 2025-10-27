@@ -1,0 +1,29 @@
+|  N. f. Juillet. 1905 | Nibatin, | Foir  |
+| --- | --- | --- |
+|  Hauteur Wrawmethrique | 753.5 |   |
+|  direction du vent | or. or. |   |
+|  Force | 3 fort. |   |
+|  Nebulante | Reg. o. (time) | 10  |
+|   |  | 10  |
+|   |  | 10  |
+|  Direction des mages | or. |   |
+|  Plein tombé | 6.0 |   |
+|  Remplirature de l'air | 19.0 |   |
+|  Hauteur de la mer | 49.4 |   |
+|  Agitation de l'eau | 1 fort |   |
+|  Sensité au bout de la jetée | 1689.3 |   |
+|  Remplirature de l'eau | 30.2 |   |
+|  N. 7 Juillet. 1906 | Nibatin | Foir  |
+|  Hauteur Wrawmethrique | 754.7 |   |
+|  direction du vent | or. |   |
+|  Force | 37.7 |   |
+|  Nebulante | Reg. o. (time) | 10  |
+|   |  | 10  |
+|   |  | 10  |
+|  Direction des mages | or. |   |
+|  Plein tombé | 3.1 |   |
+|  Remplirature de l'air | 19.6 |   |
+|  Hauteur de la mer | 49.8 |   |
+|  Agitation de l'eau | 1687.8 |   |
+|  Sensité au bout de la jetée | 1687.8 |   |
+|  Remplirature de l'eau | 19.1 |   |

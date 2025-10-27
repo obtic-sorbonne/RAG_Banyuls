@@ -1,0 +1,51 @@
+### Observations du 3 Avril 1901
+
+| **Paramètres**                                     | **Valeurs**     |
+|----------------------------------------------------|-----------------|
+| Nombre de bateaux sortis (pêche à la trahîne)      | 2               |
+| Température de l'air                               |                 |
+|   - maxima depuis la veille                        | 19.6            |
+|   - minima id.                                     | 10.0            |
+| Température de l'eau                              |                 |
+|   - maxima depuis la veille                        |                 |
+|   - minima id.                                     |                 |
+| Pluie tombée depuis la veille, en millim.          | 1.37            |
+| Évaporation depuis le 1901, en millim.             |                 |
+| Direction du vent (à terre) à 9 h. m.             | n.n.o           |
+| Direction du vent (à terre) à 3 h. s.             |                 |
+| Force                                             | faible          |
+| Direction des nuages                              | n.n.o           |
+| Nébulosité                                        |                 |
+|   - région Ouest (terre)                           | 60              |
+|   - id. Est (mer)                                 | 60              |
+| Hauteur de la mer, en centimètres, au-dessus du zéro | 30,1            |
+| Agitation de l'eau                                | 2               |
+| Densité de l'eau au bout de la jetée               | 1'279           |
+| Température de l'eau                             | 11,8            |
+
+---
+
+### Observations du 4 Avril 1901
+
+| **Paramètres**                                     | **Valeurs**     |
+|----------------------------------------------------|-----------------|
+| Nombre de bateaux sortis (pêche à la trahîne)      | 9               |
+| Température de l'air                               |                 |
+|   - maxima depuis la veille                        | 13.3            |
+|   - minima id.                                     | 4.4             |
+| Température de l'eau                              |                 |
+|   - maxima depuis la veille                        |                 |
+|   - minima id.                                     |                 |
+| Pluie tombée depuis la veille, en millim.          |                 |
+| Évaporation depuis le 1901, en millim.             |                 |
+| Direction du vent (à terre) à 9 h. m.             | n.n.o           |
+| Direction du vent (à terre) à 3 h. s.             |                 |
+| Force                                             | 6               |
+| Direction des nuages                              | n.n.o           |
+| Nébulosité                                        |                 |
+|   - région Ouest (terre)                           | 60              |
+|   - id. Est (mer)                                 | 60              |
+| Hauteur de la mer, en centimètres, au-dessus du zéro | 36,0            |
+| Agitation de l'eau                                | 2               |
+| Densité de l'eau au bout de la jetée               | 1'279           |
+| Température de l'eau                             | 14,1            |

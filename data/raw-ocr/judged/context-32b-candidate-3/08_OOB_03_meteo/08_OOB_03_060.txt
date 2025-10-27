@@ -1,0 +1,16 @@
+# Date. 23 Novembre. 1901
+
+|   | 9e Obatín | 3e Soin  |
+| --- | --- | --- |
+|  Hauteur Barométrique | 762,8 | 762,3  |
+|  Direction du vent | N.N.O | N.N.O  |
+|  Force | 1, fort | 2  |
+|  Nébulosité { Reg. C. (terre) } | 10 | 8  |
+|  Nébulosité { Reg. E. (mer) } | 10 | 0  |
+|  Direction des nuages | N.N.O | N.N.O  |
+|  Pluie tombée | - | -  |
+|  Température de l'air | 12,4 | 15,3  |
+|  Hauteur de la mer | 47,1 | 59,9  |
+|  Agitation de l'eau | 1, fort | 1, fort  |
+|  Densité de l'eau { au bout de la jetée } | 1028,6 | 1028,6  |
+|  Température de l'eau | 14,9 | 17,2  |

@@ -1,0 +1,31 @@
+```plaintext
+| Date       | Matin                               | Soir                                |
+|------------|-------------------------------------|-------------------------------------|
+| 28 juillet 1904 |                                       |                                      |
+| Hauteur barométrique | 767.3                            | 766.2                               |
+| Direction du vent   | S.S.O.                           | S                      |
+| Force                | Très faible 1                   | 1                      |
+| Nébulosité (Reg. 0 - Terre) | 0                        | 0                      |
+| Nébulosité (Reg. 2 - Mer)   | 0                        | 0                      |
+| Direction des nuages       |                           | S                      |
+| Pluie tombée             |                            |                        |
+| Température de l'air      | 27.3                      | 31.7                   |
+| Hauteur de la mer         | 49.3                      | 56.8                   |
+| Agitation de l'eau        | Faible                    | Faible                 |
+| Densité au bout de la jetée | 1026.2                  | 1026.0                 |
+| Température de l'eau      | 24.7                      | 26.7                   |
+|                         |                            |                        |
+| 29 juillet 1904 |                                       |                                      |
+| Hauteur barométrique | 766.4                            | 768.2                               |
+| Direction du vent   | S. S. O.                        | S.S.O.                          |
+| Force                | Très faible 1                   | 2                      |
+| Nébulosité (Reg. 0 - Terre) | 0                        | 0                      |
+| Nébulosité (Reg. 2 - Mer)   | 0                        | 0                      |
+| Direction des nuages       |                           | S.O.                     |
+| Pluie tombée             |                            |                        |
+| Température de l'air      | 26.0                      | 33.0                   |
+| Hauteur de la mer         | 47.7                      | 57.3                   |
+| Agitation de l'eau        | Faible                    | 1                      |
+| Densité au bout de la jetée | 1027.0                  | 1026.4                 |
+| Température de l'eau      | 23.7                      | 24.7                   |
+```

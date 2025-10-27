@@ -1,0 +1,43 @@
+### OBSERVATIONS DU 1900 19 AOÛT
+
+| **Nombre de bateaux sortis (pêche à l...)** | Neant |
+| **Température de l'air** | |
+| - maxima depuis la veille | 14.7 |
+| - minima id. | 13.0 |
+| **Température de l'eau** | |
+| - maxima depuis la veille | - |
+| - minima id. | - |
+| **Pluie tombée depuis la veille, en millim.** | " |
+| **Evaporation depuis le 1900, en millim.** | - |
+| **Direction du vent (à terre)** | **à 9 h. m.** | **à 3 h. s.** |
+| - Direction | N.N.O. | N.N.O. |
+| - Force | 5 | 6 |
+| **Direction des nuages** | **à 9 h. m.** | **à 3 h. s.** |
+| - région Ouest (terre) | 10 | 3 |
+| - id. Est (mer) | 10 | 3 |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro** | 26.7 | 26.9 |
+| **Agitation de l'eau** | 2 | 3 |
+| **Densité de l'eau au bout de la jetée** | 1027.1 | 1028.2 |
+| **Température** | 12.6 | 13.0 |
+
+### OBSERVATIONS DU 1900 20 AOÛT
+
+| **Nombre de bateaux sortis (pêche à l...)** | Neant |
+| **Température de l'air** | |
+| - maxima depuis la veille | 17.7 |
+| - minima id. | 14.0 |
+| **Température de l'eau** | |
+| - maxima depuis la veille | - |
+| - minima id. | - |
+| **Pluie tombée depuis la veille, en millim.** | " |
+| **Evaporation depuis le 1900, en millim.** | - |
+| **Direction du vent (à terre)** | **à 9 h. m.** | **à 3 h. s.** |
+| - Direction | N.O. | N.N.O. |
+| - Force | 5 | 5 |
+| **Direction des nuages** | **à 9 h. m.** | **à 3 h. s.** |
+| - région Ouest (terre) | 10 | 10 |
+| - id. Est (mer) | 10 | 10 |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro** | 22.8 | 22.2 |
+| **Agitation de l'eau** | 3 | 3 |
+| **Densité de l'eau au bout de la jetée** | 1027.7 | 1027.7 |
+| **Température** | 12.7 | 13.7 |

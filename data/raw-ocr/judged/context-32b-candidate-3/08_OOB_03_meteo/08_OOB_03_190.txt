@@ -1,0 +1,21 @@
+# Date: 21 Mai 1902
+
+| **Paramètre** | **9h Matin** | **3h Soir** |
+|---------------|--------------|-------------|
+| **Hauteur Barométrique (mm)** | 764.6 | 765.6 |
+| **Direction du vent** | cr.cr.0 | cr.cr.0 |
+| **Force du vent (Beaufort)** | 1 | - |
+| **Nébulosité** | 0 (claire) | légère |
+| **- Reg. E. (mer)** | 2 (claire) | - |
+| **Direction des nuages** | cr.cr.0 | cr.cr.0 |
+| **Pluie tombée** | - | - |
+| **Température de l'air (°C)** | 13.4 | 12.9 |
+| **Hauteur de la mer (m)** | 70.4 | 61.9 |
+| **Agitation de l'eau** | 2 | 3 faibles |
+| **Densité de l'eau** | - | - |
+| **- au bout de la jetée** | 1028.6 | 1028.0 |
+| **- au large** | - | - |
+| **Température de l'eau (°C)** | 14.2 | 14.3 |
+
+**Remarque additionnelle :**  
+- Nébulosité de la mer : 2 (claire) à 9h, - à 3h.

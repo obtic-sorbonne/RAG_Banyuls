@@ -1,0 +1,7 @@
+```plaintext
+| Date       | Heure | Hauteur barométrique | Direction du vent | Force | Nébulosité | Reg. (terre) | Reg. (mer) | Direction des nuages | Pluie tombée | Température de l'air | Hauteur de la mer | Agitation de l'eau | Densité au bout de la jetée | Température de l'eau |
+|------------|-------|----------------------|-------------------|-------|------------|--------------|-------------|----------------------|--------------|----------------------|-------------------|--------------------|---------------------------|----------------------|
+| 17 janvier 1904 | Matin | 769.3               | N.O.              | 4     | 0          | 0            | 0           | -                    | -            | 1.8                  | 63.0              | 3                  | 1028.8                    | 11.1                 |
+| 18 janvier 1904 | Matin | 767.4               | N.O.              | 4     | 0          | 0            | 0           | cr. 8.0              | -            | 6.5                  | 63.0              | 4                  | 1028.9                    | 10.7                 |
+| 18 janvier 1904 | Soir  | 767.8               | N.O.              | 4     | 0          | 0            | 0           | cr. 8.0              | -            | 8.4                  | 74.8              | 4                  | 1028.9                    | 10.8                 |
+```

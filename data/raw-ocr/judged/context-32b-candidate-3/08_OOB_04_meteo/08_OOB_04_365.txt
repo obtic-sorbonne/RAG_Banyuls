@@ -1,0 +1,32 @@
+```plaintext
+|  9. 25 Avril 1904 | Obatin | Soir  |
+| --- | --- | --- |
+|  Hauteur Barométrique | 760.6 | 719.7  |
+|  Direction du vent | or.0.0 | or.0.0  |
+|  Force | 4 fois | 3 fois  |
+|  (Reg. G. (terre) | 3 | 3  |
+|  (Reg. G. (mer) |  |   |
+|  Direction des nuages | or.0.0 | or.0.0  |
+|  (Pluie tombée) |  |   |
+|  Température de l'air | 16.7 | 20.1  |
+|  Hauteur de la mer | 16.7 | 47.7  |
+|  (Agitation de l'eau) | 3 fois | 3  |
+|  Densité au bout de la jetée | 1028.6 | 1028.6  |
+|  Température de l'eau | 13.7 | 14.6  |
+
+|  9. 26 Avril 1904 | Obatin | Soir  |
+| --- | --- | --- |
+|  Hauteur Barométrique | 719.6 | 718.3  |
+|  Direction du vent | or.0.0 | or.0.0  |
+|  Force | 4 | 4 fois  |
+|  (Reg. G. (terre) | 3 | 1028.6  |
+|  (Pluie tombée) |  |   |
+|  (Reg. G. (mer) | 3 | 1028.6  |
+|  Direction des nuages | or.0.0 | or.0.0  |
+|  (Pluie tombée) |  |   |
+|  Température de l'air | 16.3 | 13.0  |
+|  Hauteur de la mer | 10.7 | 41.3  |
+|  (Agitation de l'eau) | 3 fois | 3.7 fois  |
+|  Densité au bout de la jetée | 1028.6 | 1028.6  |
+|  Température de l'eau | 14.0 | 14.1  |
+```

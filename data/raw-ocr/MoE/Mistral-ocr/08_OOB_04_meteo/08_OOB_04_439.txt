@@ -1,0 +1,27 @@
+|  9. 3 Novembre 1904 | Moatin | Soir  |
+| --- | --- | --- |
+|  Hauteur Prorométrique | 270.0 |   |
+|  Direction du vent | ovout |   |
+|  Force | 1 |   |
+|  (Rég. o. (1ene)) | 2 |   |
+|  (Rég. 2 (1me)) |  |   |
+|  Direction des mages | ovout |   |
+|  (1me tombée) |  |   |
+|  Température de l'air | 14,3 |   |
+|  Hauteur de la mer | 13,1 |   |
+|  (agitation de l'eau) | 3 |   |
+|  Densité au bout de la jeté | 1088,6 |   |
+|  (température de l'eau) | 12,4 |   |
+|  9. 5 Novembre 1904 | Moatin | Soir  |
+|  Hauteur Prorométrique |  | 281,0  |
+|  Direction du vent |  | 2.5.6  |
+|  Force | 1 | 10  |
+|  (Rég. o. (1ene)) |  | 10  |
+|  (10.0.2 (1me)) |  | 10  |
+|  Direction des mages |  | 2.0  |
+|  (1me tombée) |  | 14,3  |
+|  Température de l'air |  | 43,3  |
+|  Hauteur de la mer |  | 1  |
+|  (agitation de l'eau) |  | 1088,6  |
+|  Densité au bout de la jeté |  | 12,5  |
+|  (température de l'eau) |  |   |

@@ -1,0 +1,25 @@
+N° Sortie du 30 Juillet 1902
+
+Départ de Banyuls à 12³ heures du mat  
+pour Port Vendres. Arrivée 8 h. 10
+
+Départ de Port Vendres à 3² heures du  
+pour  
+
+Arrivée au mouillage à Banyuls à 3² 40 h. du soir  
+
+Etat du temps: beau  
+
+Passagers à bord:
+
+Objet de la sortie: Faire de l'eau à Port-Vendres.
+
+Consommation {
+  - braquettes de huile
+  - poids en kilos
+  - total en litres
+}
+
+Dépenses
+
+Observations:

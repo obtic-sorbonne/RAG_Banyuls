@@ -1,0 +1,17 @@
+# Bate. 2 Mai. 1901
+
+|  **Nom** | **Prix**  |
+| --- | --- |
+|  Kanteur Pénometrique | 783,3  |
+|  Direction du vent | 783,3  |
+|  Force | 3  |
+|  Tributosite | 10  |
+|  Reg. E. (mer) | 10  |
+|  Direction des nuages | 10  |
+|  Pince tombe | 3,33  |
+|  Température de l'air | 13,7  |
+|  Kanteur de la mer | 63,3  |
+|  Régulation de l'eau | 3  |
+|  Densité de l'eau | 1029,4  |
+|  **2ème Énergie** |   |
+|  Température de l'eau | 13,6  |

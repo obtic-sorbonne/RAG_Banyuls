@@ -1,0 +1,6 @@
+| **Date** | **Heure** | **Hauteur Barométrique (mmHg)** | **Direction du vent** | **Force du vent** | **Nébulosité (%)** | **Direction des nuages** | **Pluie tombée (mm)** | **Température de l'air (°C)** | **Hauteur de la mer (m)** | **Agitation de l'eau** | **Densité au bout de la jetée (kg/m³)** | **Température de l'eau (°C)** |
+|----------|-----------|----------------------------------|-----------------------|--------------------|------------------------|-------------------------|-----------------------------|-------------------------------|-----------------------------|----------------------|---------------------------------|------------------------------|
+| 25 Septembre 1909 | Matin | 760.9 | cr. E | is | légère | S.O. | - | 19.0 | 47.6 | faible | 1027.8 | 20.8 |
+| 25 Septembre 1909 | Soir | 760.3 | ouest | fort | légère | S.O. | - | 19.7 | 39.5 | faible | 1027.8 | 20.7 |
+| 26 Septembre 1909 | Matin | 7/9.9 | cr.cr.o | is | claire | cr.cr.o | 12.37 | 19.8 | 49.7 | faible | 1028.8 | 20.3 |
+| 26 Septembre 1909 | Soir | 7/9./ | croisé | fort | claire | S.O. | - | 19.6 | 39.2 | 2 | 1028.3 | 20.2 |

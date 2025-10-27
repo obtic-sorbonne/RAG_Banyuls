@@ -1,0 +1,24 @@
+ocr:
+  input_dir: "/data/raw_ocr"
+  output_dir: "/data/processed"
+
+vector:
+  vector_db: "OOB_RAG_DEV"
+  chunk_strategy: "page"
+  embedding_model: "sentence-transformers/paraphrase-multilingual-mpnet-base-v2"
+  embedding_dim: 768
+
+  vector_store_type: "deeplake"
+
+  deeplake_path: "al://wenjun/OOB-DEV-RAG"
+
+  chromadb_persist_dir: "./data/vectordb/chromadb"
+  chromadb_type: "local"
+
+  chromadb_host: "localhost"
+  chromadb_port: 8000
+
+  cleaning_rules:
+    remove_page_numbers: true
+    fix_split_words: true
+    remove_headers: true

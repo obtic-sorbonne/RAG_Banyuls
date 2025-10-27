@@ -1,0 +1,29 @@
+# 9. 17 MARS. 1908
+
+|  Nom | Date | Type  |
+| --- | --- | --- |
+|  Fauteur Marométrique | 1902.3 | Direction du vent  |
+|  Force | 1902 | Force  |
+|  Modbulosité | (Reg. O. (1) 1902) | (Reg. O. (1) 1902)  |
+|  Direction des nuages | 1902 | Direction des nuages  |
+|  Flux tombé | 1902 | Flux tombé  |
+|  Température de l'air | 1902 | 13,4  |
+|  Fauteur de la mer | 1902 | 84,2  |
+|  Cargotation de l'eau | 1902 | 3 fois  |
+|  Densité au bout de la jetée | 1902 | 1029,4  |
+|  Température de l'eau | 1902 | 12,2  |
+
+# 18 MARS. 1908
+
+|  Nom | Date | Type  |
+| --- | --- | --- |
+|  Fauteur Marométrique | 1902.6 | Direction du vent  |
+|  Force | 1902 | Force  |
+|  Modbulosité | (Reg. O. (1) 1902) | (Reg. O. (1) 1902)  |
+|  Direction des nuages | 1902 | Direction des nuages  |
+|  Flux tombé | 1902 | Flux tombé  |
+|  Température de l'air | 1902 | 14,1  |
+|  Fauteur de la mer | 1902 | 14,6  |
+|  Cargotation de l'eau | 1902 | 0  |
+|  Densité au bout de la jetée | 1902 | 1029,3  |
+|  Température de l'eau | 1902 | 12,3  |

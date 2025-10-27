@@ -1,0 +1,33 @@
+```markdown
+# 19 OCTOBRE 1907
+
+| **Date**         | **Matin** | **Soir** |
+|------------------|----------|----------|
+| **Hauteur barométrique (mmHg)** | 770.8 | 768.3 |
+| **Direction du vent** | S. O. | N. O. |
+| **Force** | 2-3 faibles | Fort |
+| **Nébulosité (Rég. cour.)** | 8 | 2 |
+| **Direction des nuages** | S. O. | S. O. |
+| **Pluie tombée (mm)** | 0 | 2 |
+| **Température de l'air (°C)** | 9.8 | 13.0 |
+| **Humidité de l'air (%)** | 46.0 | 14.9 |
+| **Agitation de l'eau** | 2 faibles | 2 faibles |
+| **Densité au bout de la jetée (g/cm³)** | 1028.8 | 1028.6 |
+| **Température de l'eau (°C)** | 11.4 | 14.78 |
+
+# 20 OCTOBRE 1907
+
+| **Date**         | **Matin** | **Soir** |
+|------------------|----------|----------|
+| **Hauteur barométrique (mmHg)** | 768.2 | 768.7 |
+| **Direction du vent** | S. O. | S. O. |
+| **Force** | 2-3 faibles | 0 |
+| **Nébulosité (Rég. couv.)** | 10 | 10 |
+| **Direction des nuages** | S. et S. | S. O. |
+| **Pluie tombée (mm)** | 0 | 10 |
+| **Température de l'air (°C)** | 18.0 | 13.2 |
+| **Humidité de l'air (%)** | 41.3 | 14.2 |
+| **Agitation de l'eau** | 2 faibles | 2 |
+| **Densité au bout de la jetée (g/cm³)** | 1028.6 | 1028.6 |
+| **Température de l'eau (°C)** | 19.6 | 13.7 |
+```

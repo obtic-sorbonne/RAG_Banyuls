@@ -1,0 +1,16 @@
+| **Date** | **20 Février 1902** |
+|---|---|
+| **Heures** | **9h Matin** | **3h Soir** |
+| **Hauteur Barométrique** | 758.6 |  |
+| **Direction du vent** | Est |  |
+| **Force** | 2 |  |
+| **Nébulosité** | **Reg. 6. (terre)** | 10 |
+|  | **Reg. E. (mer)** | 10 |
+| **Direction des nuages** | Sud |  |
+| **Pluie tombée** | 7.5 |  |
+| **Température de l'air** | 10.0 |  |
+| **Hauteur de la mer** | 28.4 |  |
+| **Agitation de l'eau** | 3 |  |
+| **Densité de l'eau** | **au bout de la jetée** | 1028.2 |
+|  | **au Large** |  |
+| **Température de l'eau** | 10.6 |  |

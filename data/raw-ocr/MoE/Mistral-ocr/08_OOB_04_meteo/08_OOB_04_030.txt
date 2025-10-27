@@ -1,0 +1,35 @@
+# 7.23 Novembre 1901
+
+|  Name | Pension | Pension  |
+| --- | --- | --- |
+|  Ysanté Baromérique | 702.8 | 702.3  |
+|  Direction du vent | or.00 | or.00  |
+|  Force | 17.70 | 2  |
+|  (Reg. O. (tane) | 10 | 8  |
+|  **Médbulosité** |  |   |
+|  (Reg. E. (mer) | 10 | 0  |
+|  Direction des nuages | or.00 | or.00  |
+|  **Mie tombée** |  |   |
+|  Température de l'air | 12.4 | 13.3  |
+|  Hauteur de la mer | 47.1 | 39.9  |
+|  Régulation de l'eau | 17.70 | 17.70  |
+|  Densité au bout de la fétie | 1028.6 | 1028.6  |
+|  Température de l'eau | 14.9 | 11.2  |
+
+# 7.24 Novembre 1901
+
+|  Name | Pension | Pension  |
+| --- | --- | --- |
+|  Ysanté Baromérique | 703.3 |   |
+|  Direction du vent | or.00 |   |
+|  Force | 4.70 |   |
+|  (reg. O. (tane) | 0 |   |
+|  **Médbulosité** |  |   |
+|  (Reg. E. (mer) | 0 |   |
+|  Direction des nuages | or.00 |   |
+|  **Mie tombée** |  |   |
+|  Température de l'air | 6.8 |   |
+|  Hauteur de la mer | 41.8 |   |
+|  Régulation de l'eau | 3 |   |
+|  Densité au bout de la fétie | 1028.8 |   |
+|  Température de l'eau | 14.3 |   |

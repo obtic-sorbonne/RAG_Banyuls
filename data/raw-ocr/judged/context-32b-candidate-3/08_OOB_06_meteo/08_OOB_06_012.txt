@@ -1,0 +1,47 @@
+### OBSERVATIONS DU 1960 26 avril
+
+| **Observations** | **Valeurs à 9 h.m.** | **Valeurs à 3 h.s.** |
+|------------------|----------------------|----------------------|
+| **Nombre de bateaux sortis (pêche à la traîne)** | 84 | - |
+| **Température de l'air** | | |
+| - maxima depuis la veille | 16.6 | - |
+| - minima id. | 10.9 | - |
+| **Température de l'eau** | | |
+| - maxima depuis la veille | - | - |
+| - minima id. | - | - |
+| **Pluie tombée depuis la veille, en millim.** | - | - |
+| **Evaporation depuis le 190, en millim.** | - | 0.110 |
+| **Direction du vent (à terre)** | N.N.O. | - |
+| **Force** | 1 fort | - |
+| **Direction des nuages** | N.N.O. | - |
+| **Nébulosité** | | |
+| - région Ouest (terre) | 10 | - |
+| - id. Est (mer) | 10 | - |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro** | 34.6 | - |
+| **Agitation de l'eau** | 2 | - |
+| **Densité de l'eau au bout de la jetée** | 1.028.0 | - |
+| **Température id.** | 12.9 | - |
+
+### OBSERVATIONS DU 1960 27 avril
+
+| **Observations** | **Valeurs à 9 h.m.** | **Valeurs à 3 h.s.** |
+|------------------|----------------------|----------------------|
+| **Nombre de bateaux sortis (pêche à la traîne)** | 84 | - |
+| **Température de l'air** | | |
+| - maxima depuis la veille | 16.0 | - |
+| - minima id. | 10.4 | - |
+| **Température de l'eau** | | |
+| - maxima depuis la veille | - | - |
+| - minima id. | - | - |
+| **Pluie tombée depuis la veille, en millim.** | quelques... | - |
+| **Evaporation depuis le 190, en millim.** | - | - |
+| **Direction du vent (à terre)** | Nord | N.E. |
+| **Force** | 1 fort | 1 fort |
+| **Direction des nuages** | N.N.O. | N.N.O. |
+| **Nébulosité** | | |
+| - région Ouest (terre) | 10 | 3 |
+| - id. Est (mer) | 10 | 2 |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro** | 44.9 | 34.7 |
+| **Agitation de l'eau** | 1 fort | 1 |
+| **Densité de l'eau au bout de la jetée** | 1.028.3 | 1.027.8 |
+| **Température id.** | 12.9 | 14.7 |

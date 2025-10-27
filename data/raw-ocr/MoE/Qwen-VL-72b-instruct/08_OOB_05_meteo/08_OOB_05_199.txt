@@ -1,0 +1,31 @@
+V. 14 Janvier 1907
+| Matin | Soir |
+|-------|------|
+| Hauteur Barométrique | 772.0 | 771.0 |
+| Direction du vent | E.N.E. | E.N.E. |
+| Force | 3 | 2 |
+| Nébulosité | Régl. c. (terre) | 1 | 0 |
+| Régl. c. (mer) | 2 | 1 |
+| Direction des nuages | E.N.E. | " |
+| Pluie tombée | " | " |
+| Température de l'air | 10.9 | 14.0 |
+| Hauteur de la mer | 54.7 | 77.0 |
+| Agitation de l'eau | 2 | 2 |
+| Densité au bout de la jetée | 1029.9 | 1029.9 |
+| Température de l'eau | 10.3 | 10.9 |
+
+V. 16 Janvier 1907
+| Matin | Soir |
+|-------|------|
+| Hauteur Barométrique | 774.0 | 773.8 |
+| Direction du vent | S.O. | " |
+| Force | 1 | 0 |
+| Nébulosité | Régl. c. (terre) | 0 | 0 |
+| Régl. c. (mer) | 0 | 0 |
+| Direction des nuages | " | " |
+| Pluie tombée | " | " |
+| Température de l'air | 6.2 | 9.3 |
+| Hauteur de la mer | 51.2 | 71.8 |
+| Agitation de l'eau | Faible | Faible |
+| Densité au bout de la jetée | 1029.6 | 1029.6 |
+| Température de l'eau | 10.8 | 11.3 |

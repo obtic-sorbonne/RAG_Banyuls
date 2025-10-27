@@ -1,0 +1,31 @@
+V. 15 Janvier 1908
+| Matin | Soir |
+|-------|------|
+| Hauteur barométrique | 773.7 | 772.7 |
+| Direction du Vent | vr. o | vr. vr. o |
+| Force | 1 fort | 2 faible |
+| Nébulosité | (Reg. c. aère) | 10 | 10 |
+| (Reg. di. (nuv)) | 10 | 10 |
+| Direction des nuages | vr. o | vr. o |
+| Pluie tombée | " | " |
+| Température de l'air | 10.6 | 11.9 |
+| Hauteur de la mer | 11.3 | 12.3 |
+| Agitation de l'eau | 1 fort | 2 faible |
+| Densité au bout de la Jetée | 1027.7 | 1027.7 |
+| Température de l'eau | 12.9 | 12.6 |
+
+V. 16 Janvier 1908
+| Matin | Soir |
+|-------|------|
+| Hauteur barométrique | 773.2 | 772.0 |
+| Direction du Vent | " | vr. o |
+| Force | 15 | 15 |
+| Nébulosité | (Reg. c. aère) | 10 | 2 |
+| (Reg. di. (nuv)) | 10 | 2 |
+| Direction des nuages | vr. o | vr. o |
+| Pluie tombée | " | " |
+| Température de l'air | 10.8 | 11.4 |
+| Hauteur de la mer | 12.1 | 12.9 |
+| Agitation de l'eau | 1 fort | 1 fort |
+| Densité au bout de la Jetée | 1027.4 | 1026.8 |
+| Température de l'eau | 12.9 | 13.2 |

@@ -1,0 +1,27 @@
+|  7. 18 Septembre 1905 | Mboatin | Jour  |
+| --- | --- | --- |
+|  Hauteur Marométrique | 708.0 | 781.0  |
+|  Direction des vent | 7.8 | 7.8  |
+|  Force | 1 | 1  |
+|  Yébulosité | Reg. O. (tire) | 0  |
+|  7. 19 Septembre | Reg. E. (mur) | 1  |
+|  Direction des mages |  | 1  |
+|  Série Tombe |  | quelques.  |
+|  Dempperature de l'air |  | 80.2  |
+|  Hauteur de la mer |  | 37.5  |
+|  Déclartation de l'eau |  | 35.5  |
+|  Densité au bout de la jetée |  | 102.4  |
+|  Dempperature de l'eau |  | 21.1  |
+|  7. 19 Septembre 1905 | Mboatin | Jour  |
+|  Hauteur Marométrique | 708.1 | 781.1  |
+|  Direction des vent |  | 1  |
+|  Force |  | 1  |
+|  Yébulosité | Reg. O. (tire) | 10  |
+|  7. 19 Septembre | Reg. E. (mur) | 10  |
+|  Direction des mages |  | 10  |
+|  Série Tombe |  | quelques.  |
+|  Dempperature de l'air |  | 18.1  |
+|  Hauteur de la mer |  | 37.5  |
+|  Déclartation de l'eau |  | 1  |
+|  Densité au bout de la jetée |  | 102.6  |
+|  Dempperature de l'eau |  | 21.0  |

@@ -1,0 +1,57 @@
+```plaintext
+### OBSERVATIONS DU 1902, 4 Mars
+
+| **Nombre de bateaux sortis (pêche à l...)** |  |
+| **Température de l'air** |  |  |
+| - maxima depuis la veille | 20,8 |
+| - minima id. | 9,2 |
+| **Température de l'eau** |  |  |
+| - maxima depuis la veille |  |
+| - minima id. |  |
+| **Pluie tombée depuis la veille, en millim.** | quelques gouttes |
+| **Evaporation depuis le 1900, en millim.** |  |
+| **Direction du vent (à terre)** |  |  |
+| - à 9 h. m. | S.S.E. |
+| - à 3 h. s. |  |
+| **Force** |  | 2 |
+| **Direction des nuages** |  |  |
+| **Nébulosité** |  |  |  |
+| - région Ouest (terre) | 0 |
+| - id. Est (mer) | 0 |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.)** |  | 13,1 |
+| **Agitation de l'eau** |  | 1 |
+| **Densité de l'eau au bout de la jetée** |  | 1027,0 |
+| **Température** |  |  |
+| - is. Balaire (Humide) matin | 13,9 |
+| - is. Peratte matin (Maxima) | 24,2 |
+| - is. Peratte matin (Minima) | 6,8 |
+
+### OBSERVATIONS DU 1902, 9 Mars
+
+| **Nombre de bateaux sortis (pêche à l...)** |  |
+| **Température de l'air** |  |  |
+| - maxima depuis la veille | 12,6 |
+| - minima id. | 17,9 |
+| **Température de l'eau** |  |  |
+| - maxima depuis la veille | 8,4 |
+| - minima id. |  |
+| **Pluie tombée depuis la veille, en millim.** |  |
+| **Evaporation depuis le 1900, en millim.** |  |
+| **Direction du vent (à terre)** |  |  |
+| - à 9 h. m. | N.E. |  |
+| - à 3 h. s. |  |
+| **Force** |  | 1 |
+| **Direction des nuages** |  |  |
+| **Nébulosité** |  |  |  |
+| - région Ouest (terre) | 10 |
+| - id. Est (mer) | 10 |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.)** |  | 36,6 |
+| **Agitation de l'eau** |  | 1 |
+| **Densité de l'eau au bout de la jetée** |  | 1027,1 |
+| **Température** |  |  |
+| - is. Balaire (Humide) matin | 11,4 |
+| - is. Peratte matin (Maxima) | 24,2 |
+| - is. Peratte matin (Minima) | 6,8 |
+| - is. Peratte soir (Maxima) | 24,2 |
+| - is. Peratte soir (Minima) | 15,8 |
+```

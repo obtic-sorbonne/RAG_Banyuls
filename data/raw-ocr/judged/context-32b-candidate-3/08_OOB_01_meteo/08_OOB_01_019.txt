@@ -1,0 +1,20 @@
+# Dati: 21.12.1900
+
+|  |   |   |
+| --- | --- | --- |
+|  **Hauteur barométrique** |  | 762,1  |
+|  **Direction du vent** |  | E.  |
+|  **Force** |  | 3  |
+|  **Nébulosité** |  | 0  |
+|  **Rép. O. (tome)** |  | 0  |
+|  **Direction des nuages** |  |   |
+|  **Pluie tombée** |  |   |
+|  **Température de l'air** |  | 31,3  |
+|  **Hauteur de la mer** |  | 0,51  |
+|  **Agitation de l'eau** |  | 2  |
+|  **Densité de l'eau** | (au bout de la jetée) | 1025,0  |
+|  **Température de l'eau** |  | 20,5  |
+
+Oberr.
+
+---

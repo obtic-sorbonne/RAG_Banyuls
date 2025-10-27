@@ -1,0 +1,18 @@
+```markdown
+# 14 Février 1908
+
+| **Hauteur barométrique (mmHg)** | **Matin** | **Soir** |
+|---------------------------------|-----------|----------|
+| **Direction du vent** | S. 0 | S. 0 |
+| **Force** | 2 | 2 |
+| **Nébulosité (Reg. II, Clous.)** | 3 | 2 |
+| **Direction des nuages** | S. 0 | - |
+| **Pluie tombée (mm)** | - | - |
+| **Température de l'air (°C)** | 8.5 | 10.2 |
+| **Hauteur de la mer (cm)** | 34.5 | 45.9 |
+| **Agitation de l'eau** | 2 | 2 |
+| **Densité au bout de la jetée (g/cm³)** | 1028.6 | 1028.7 |
+| **Température de l'eau (°C)** | 10.1 | 10.4 |
+```
+
+Note: The content of the OCR candidates was highly fragmented and unclear. The provided text is a reconstruction based on the context from previous pages and the guidelines provided.

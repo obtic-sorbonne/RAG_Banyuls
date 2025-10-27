@@ -1,0 +1,34 @@
+# 9.16 M6ai. 1902
+
+|  **Pauleur** | **Prénom | **Prix**  |
+| --- | --- | --- |
+|  Fructus | *Prénom | 75,3  |
+|  Force | *Prénom | 75,8  |
+|  Force | *Prénom | 1,5  |
+|  Nebulosi | *Reg. O. (titre) | 10  |
+|  Nebulosi | *Reg. E. (nom) | 10  |
+|  Direction | *Prénom | 10  |
+|  **Prix** | **Tombé** |   |
+|  Température | *Prénom | 10,4  |
+|  Fauteur | *Prénom | 64,3  |
+|  **Création** | **de l'eau** | 1,2  |
+|  **Persiste** | **au bout de la jeté** | 102,8  |
+|  Température | *Prénom | 1,2  |
+|  **Présentation** | **de l'eau** | 1,2  |
+
+# 17 M6ai. 1902
+
+|  **Pauleur** | **Prénom** | **Prix**  |
+| --- | --- | --- |
+|  Fructus | *Prénom | 5  |
+|  Force | *Prénom | 1,5  |
+|  Nebulosi | *Reg. O. (titre) | 3  |
+|  Nebulosi | *Reg. E. (nom) | 3  |
+|  Direction | *Prénom | 3  |
+|  **Prix** | **Tombé** |   |
+|  Température | *Prénom | 8,5  |
+|  Fauteur | *Prénom | 1,2  |
+|  **Création** | **de l'eau** | 1,2  |
+|  **Persiste** | **au bout de la jeté** | 102,8  |
+|  Température | *Prénom | 1,2  |
+|  **Présentation** | **de l'eau** | 1,2  |

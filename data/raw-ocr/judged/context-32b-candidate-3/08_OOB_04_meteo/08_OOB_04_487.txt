@@ -1,0 +1,29 @@
+```plaintext
+|  18 Avril - 1906 | Matin | Jour  |
+| --- | --- | --- |
+|  Hauteur Barométrique | 74.3 | 74.0  |
+|  Direction du vent | 3/4.0 | 3/3.0  |
+|  Force | 3/3.0 | 3/3.0  |
+|  Nébulosité (Abs. E. (min)) | 0 | 0  |
+|  Direction des nuages | 0 | 0  |
+|  Pluie tombée | 1/0 | 1/1.1  |
+|  Température de l'air | 15.0 | 14.5  |
+|  Hauteur de la mer | 13.6 | 12.6  |
+|  Agitation de l'eau | 11.1 | 10.9  |
+|  Densité au bout de la jetée | 10.8 | 10.7  |
+|  Température de l'eau | 14.9 | 14.9  |
+
+|  19 Avril - 1906 | Matin | Jour  |
+| --- | --- | --- |
+|  Hauteur Barométrique | 74.3 | 74.0  |
+|  Direction du vent | 3/4.0 | 3/3.0  |
+|  Force | 3/3.0 | 3/3.0  |
+|  Nébulosité (Abs. E. (min)) | 10 | 10  |
+|  Direction des nuages | 10 | 10  |
+|  Pluie tombée | 10.9 | 10.6  |
+|  Température de l'air | 15.0 | 14.5  |
+|  Hauteur de la mer | 13.6 | 12.6  |
+|  Agitation de l'eau | 11.1 | 10.9  |
+|  Densité au bout de la jetée | 10.8 | 10.7  |
+|  Température de l'eau | 14.8 | 14.8  |
+```

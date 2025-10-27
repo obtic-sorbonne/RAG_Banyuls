@@ -1,0 +1,6 @@
+| Date | Heure | HAUTEUR BAROMÉTRIQUE | DIRECTION DU VENT | FORCE | REG. O. (TERRE) | REG. E. (MER) | MOBILITÉ | DIRECTION | PLUIE TOMBÉE | TEMPÉRATURE DE L'AIR | HAUTEUR DE LA MER | AGITATION DE L'EAU | DENSITÉ AU BOUT DE LA JETÉE | TEMPÉRATURE DE L'EAU |
+|------|-------|---------------------|-------------------|-------|-------------------|-------------|----------|-----------|----------------|---------------------|-------------------|--------------------|--------------------------|---------------------|
+| 23 Juin 1903 | Matin | 764.0 | S.E | 1 | 0 | 0 | " | " | 17.9 | 11.4 | 1 | 1028.2 | 17.4 |
+| 23 Juin 1903 | Soir | 763.3 | S.E | 2 | 0 | 2 légères | " | " | 23.6 | 46.0 | 1 | 1027.6 | 17.6 |
+| 24 Juin 1903 | Matin | 763.1 | est.ou.Nord | 2 | 10 | 10 | O. ou.0 | " | 20.2 | 46.1 | 1 | 1027.7 | 18.2 |
+| 24 Juin 1903 | Soir | 763.4 | 8.9.8 | 1 T.faible | 3 | 3 | Ouest | " | 25.8 | 43.5 | 1 T.faible | 1026.9 | 19.1 |

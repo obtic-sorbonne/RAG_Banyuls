@@ -1,0 +1,17 @@
+# Date: 10 Mai 1901
+
+|  Nom | Date | Type  |
+| --- | --- | --- |
+|  Kanteur Barometrique | 9 mai 1901 | 3e Soir  |
+|  Direction du vent | 7 mai 1901 | 7  |
+|  Force | 3 fort | 3  |
+|  Nœbulosité | 1 1901 | 4  |
+|  Nœbulosité | Reg. E. (mer) | 0  |
+|  Direction des nuages | 1 mai 1901 | 0  |
+|  Mise tombée | 5 mai 1901 | 5  |
+|  Température de l'air | 18,5 | 15,4  |
+|  Kanteur de la mer | 17,3 | 0,4  |
+|  Régulation de l'eau | 1 fort | 2  |
+|  Sensité de l'eau | 10,28 | 10,28  |
+|  Sens | 1 1901 | 10  |
+|  Température de l'eau | 14,2 | 14,3  |

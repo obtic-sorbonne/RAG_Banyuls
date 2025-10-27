@@ -1,0 +1,18 @@
+| **Date**       | 21 Octobre 1901 |
+|---------------|----------------|
+| **9<sup>e</sup> Matin** | **3<sup>e</sup> Soir** |
+| **Hauteur Barométrique** | 758.6 | 755.7 |
+| **Direction du vent** | S.S.E | Sud |
+| **Force** | 15 | 2 |
+| **Nébulosité** |  |  |
+| **(Reg. 0 - Terre)** | 0 | 2 |
+| **(Reg. 0 - Mer)** | 0 | 1 |
+| **Direction des nuages** | S.S.E | Sud |
+| **Pluie tombée** | 97.3 | 11.5 |
+| **Temperature de l'air** | 13.2 | 10.8 |
+| **Hauteur de la mer** | 37.1 | 29.2 |
+| **Agiilation de l'eau** | 1 | 1 |
+| **Densite de l'eau** |  |  |
+| **au bout de la jalle** | 1027.4 | 1027.5 |
+| **au large** |  |  |
+| **Temperature de l’eau** | 17.4 | 17.2 |

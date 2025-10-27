@@ -1,0 +1,15 @@
+```markdown
+# V. 25 Février 1907
+
+| **Date** | **Heure** | **Hauteur barométrique** | **Direction du vent** | **Force** | **Nébulosité (Reg. C. (terre))** | **Nébulosité (Reg. 2. (mer))** | **Direction des nuages** | **Pluie tombée** | **Température de l'air (°C)** | **Hauteur de la mer (cm)** | **Agitation de l'eau** | **Densité au bout de la jetée** | **Température de l'eau (°C)** |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| **25 février 1907** | Matin | 767.3 mmHg | E | 4 | 0 | 0 | 0 | — | 12.0 | 66.6 | 3 | 1029.0 g/cm³ | 11.0 |
+| **25 février 1907** | Soir | 767.3 mmHg | E | 4 | 0 | 0 | 0 | — | 12.0 | 66.6 | 3 | 1029.0 g/cm³ | 11.0 |
+
+# V. 26 Février 1907
+
+| **Date** | **Heure** | **Hauteur barométrique** | **Direction du vent** | **Force** | **Nébulosité (Reg. C. (terre))** | **Nébulosité (Reg. 2. (mer))** | **Direction des nuages** | **Pluie tombée** | **Température de l'air (°C)** | **Hauteur de la mer (cm)** | **Agitation de l'eau** | **Densité au bout de la jetée** | **Température de l'eau (°C)** |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| **26 février 1907** | Matin | 767.7 mmHg | E | 2 | 0 | 1 | cr. 8 | — | 8.6 | 63.8 | 3 | 1029.4 g/cm³ | 11.0 |
+| **26 février 1907** | Soir | 767.7 mmHg | E | 1 | 0 | 1 | cr. 8 | — | 10.6 | 66.8 | 3 | 1029.3 g/cm³ | 11.1 |
+```

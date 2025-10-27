@@ -1,0 +1,27 @@
+|  V. 14 Cuvv. 1907 | Nibatin | Son  |
+| --- | --- | --- |
+|  Nauteur marmiteque | 769,3 |   |
+|  Direction du vent | 3.00.8 |   |
+|  Force | 1 |   |
+|  Nébulonte (Reg. C. (en)) | 0 |   |
+|  Direction des mages |  |   |
+|  Flue tombe |  |   |
+|  Rempprature de l'air | 87,9 |   |
+|  Nauteur de la mer | 11,6 |   |
+|  Agitation de l'eau | 17.6 |   |
+|  Sensité au baux de la jetée | 1687,4 |   |
+|  Rempprature de l'eau | 24,2 |   |
+
+|  V. 16 Cuvv. 1907 | Nibatin | Son  |
+| --- | --- | --- |
+|  Nauteur Marmiteque | 762,3 |   |
+|  Direction du vent | 10.0 |   |
+|  Force | 10 |   |
+|  Nébulonte (Reg. C. (en)) | 10 |   |
+|  Direction des mages | 10 |   |
+|  Flue tombe |  |   |
+|  Rempprature de l'air | 21,2 |   |
+|  Nauteur de la mer | 12,9 |   |
+|  Agitation de l'eau | 37.6 |   |
+|  Sensité au baux de la jetée | 1687,4 |   |
+|  Rempprature de l'eau | 21,6 |   |

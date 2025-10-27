@@ -1,0 +1,20 @@
+# Salle 3 Janvier 1901
+
+9e Matin 3e Soir
+
+|  |   |   |
+| --- | --- | --- |
+|  1 kanten 1 Parométrique | 704,0 | 704,3  |
+|  Direction du vent | Nord | Nord  |
+|  Force | 1 fort | 1 fort  |
+|  Systèmes | 10.5 kg/10.5 cm | 0  |
+|  Picturistes | 10.5 kg/10.5 cm | 0  |
+|  2 Pieg. E. (max) |  |   |
+|  1 Direction des nuages | Nord | Nord  |
+|  1 Pinc tombé |  |   |
+|  2 L'umbeurative de l'air | 7,4 | 8,0  |
+|  1 Kanten de la mer | 44,0 | 10,3  |
+|  2 Agitation de l'eau | 0 | 1  |
+|  1 Densité de l'eau | 1029,0 | 1029,3  |
+|  2 au Large |  |   |
+|  2 L'umbeurative de l'eau | 18,4 | 11,8  |

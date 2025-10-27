@@ -1,0 +1,28 @@
+| Date | Matin | Soir |
+|---|---|---|
+| 7 Janvier -1905 | --- | --- |
+| Hauteur Barometrique | 766.8 | 767.1 |
+| Direction du vent | cr.o | cr.o |
+| Force is | 1 fort | 1 |
+| Nebulosité Reg. o. (tene) | 0 | 0 |
+| Aug. Ei. (nuer) | 1 | 1 |
+| Direction des nuages | cr.o | cr.o |
+| Pluie Tombée | " | " |
+| Température de l'air | 1/.3 | 1/1 |
+| Hauteur de la mer | 58./ | 71.1 |
+| Agitation de l'eau | 3 | 3 |
+| Densité au bout de la jetée | 1029.2 | 5 |
+| Température de l'eau | 11.8 | 3 |
+| 9 Janvier -1905 | --- | --- |
+| Hauteur Barometrique | 774.0 | 772.6 |
+| Direction du vent | cr.cr.o | cors |
+| Force is | 1 fort | 1 fort |
+| Nebulosité Reg. o. (tene) | 0 | 0 |
+| Aug. Ei. (nuer) | 1 | 0 |
+| Direction des nuages | " | cr.o |
+| Pluie Tombée | " | " |
+| Température de l'air | 10.9 | 12.C |
+| Hauteur de la mer | 49.7 | 59.4 |
+| Agitation de l'eau | 1 fort | 1 fort- |
+| Densité au bout de la jetée | 1029.4 | 1029.3 |
+| Température de l'eau | 13.6 | 13.6 |

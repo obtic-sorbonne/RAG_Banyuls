@@ -1,0 +1,20 @@
+# Date: 8.18 Jours 1900
+
+|   |  | Heure |   |
+| --- | --- | --- | --- |
+|   |  | 9 h. | 3 h.  |
+|  Bauteur Garamérique |  | 767.0 | 764.7  |
+|  Direction du vent |  | N.N.E. |   |
+|  Force |  | 1 | 0  |
+|  Nébulosité | Région D. (Loire) | 6 | 8  |
+|   | Région B. (Loire) | 6 | 3  |
+|  Direction des nuages |  | N.N.E. | E.  |
+|  Pluie tombée |  |  |   |
+|  Température de l'air |  | 81° 1 | 83° 1  |
+|  Hauteur de la mer |  | 0° 35 | 0° 40  |
+|  Agitation de l'eau |  | 4 | 2  |
+|  Densité de l'eau (au bout de la jetée) |  | 1026.8  |
+|  Température de l'eau |  | 81° 1 | 82° 4  |
+
+Observations: Orage violent avant l'aube ; pluie pendant la nuit et la journée avec force abaissement de la température.
+10:21 - Température et densité de l'eau: Taux de ruine d'eau au bout de la jetée dans un seau en métal qu'on a laissé plongé quelques instants pour assurer l'égalité de la température. Du laboratoire, remplir une première fois l'éprouvette où on a placé le thermomètre et le densimètre. Remplir de nouveau ; et lire la température au dixième de degré, et la densité également au dixième de graduation.

@@ -1,0 +1,18 @@
+| **Date** | 7 Février 1902 |
+|---|---|
+| **Observations** | **9ʰ Matin** | **3ʰ Soir** |
+| Hauteur Barométrique | 7/2, 3 |  |
+| Direction du vent | N |  |
+| Force | 1 |  |
+| Nuélosité { |  |  |
+| (Reg. Île-terre) | 10 |  |
+| (Reg. Île-mer) | 10 |  |
+| Direction des nuages | Nord | Nord |
+| Pluie tombée |  |  |
+| Température de l'air | 11,6 |  |
+| Hauteur de la mer | 32,2 |  |
+| Agitation de l'eau | 2 fort | 10,28,7 |
+| au bout de la jetée |  |  |
+| Densité de l'eau { |  |  |
+| au Large |  |  |
+| Température de l'eau | 12,0 |  |

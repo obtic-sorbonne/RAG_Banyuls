@@ -1,0 +1,46 @@
+| **Observations du 19 juillet** |
+| --- |
+| Nombre de bateaux sortis (pêche à l’ancien) | **30.4** |
+| Température de l’air | **maxima depuis la veille** | **30.4** |
+|  | **minima id.** | **21.3** |
+| Température de l’eau | **maxima depuis la veille** |  |
+|  | **minima id.** |  |
+| Pluie tombée depuis la veille, en millimètres | **0** |
+| Évaporation depuis le 1900, en millimètres |  |
+| **Direction du vent (à terre)** | **à 9 h m.** | **à 3 h s.** |
+| Force | **0** | **0** |
+| Direction des nuages | **1.0** | **4.0** |
+| Nébulosité | **région Ouest (terre)** | **40** | **60** |
+|  | **id. Est (mer)** | **60** | **60** |
+| Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.) | **29.0** |  |
+| Agitation de l’eau | **1** | **4** |
+| Densité de l’eau au bout de la jetée | **1024.9** | **1024.8** |
+| Température id. | **33.3** | **33.3** |
+| iS. Balan |  |  |
+| iS. Torrano | **Matin maxima** | **49.2** | **49.2** |
+|  | **Minima** | **21.9** | **21.9** |
+|  | | 
+
+| **Observations du 20 juillet** |
+| --- |
+| Nombre de bateaux sortis (pêche à l'ancien) | **84** |
+| Température de l’air | maxima depuis la veille | **32.7** |
+|  | minima id. | **20.6** |
+| Température de l’eau | maxima depuis la veille |  |
+|  | minima id. |  |
+| Pluie tombée depuis la veille, en millimètres | **0** |
+| Évaporation depuis le 1900, en millimètres |  |
+| **Direction du vent (à terre)** | **à 9 h m.** | **à 3 h s.** |
+| Force | **2** | **0** |
+| Direction des nuages | **N.N.E.** | **E.** |
+| Nébulosité | **région Ouest (terre)** | **0** | **1** |
+|  | **id. Est (mer)** | **0** | **1** |
+| Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.) | **39.7** |  |
+| Agitation de l’eau | **1** | **faible** |
+| Densité de l’eau au bout de la jetée | **1029.6** | **1029.6** |
+| Température id. | **23.9** | **29.3** |
+| iS. Balan | **28.8** | **39.3** |
+| iS. Torrano | **Matin maxima** | **43.1** | **43.1** |
+|  | **Minima** | **20.9** | **20.9** |
+|  | **Soir maxima** | **32.3** | **32.3** |
+|  | **Minima** |  |  |

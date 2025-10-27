@@ -1,0 +1,31 @@
+```plaintext
+| Date                 | Matin                               | Soir                                |
+|----------------------|-------------------------------------|-------------------------------------|
+| **V. 2 août 1904**   |                                     |                                     |
+| Hauteur Barométrique | 767.7                              | -                                   |
+| Direction du vent    | S. S. E.                           | -                                   |
+| Force                | 2                                  | -                                   |
+| Nébulosité (Reg. 0 - Terre) | 0                             | 0                                   |
+| Nébulosité (Reg. 2 - Mer)   | 2                              | -                                   |
+| Direction des nuages | Est                                | -                                   |
+| Pluie tombée         | -                                 | -                                   |
+| Température de l'air | 29.7                              | -                                   |
+| Hauteur de la mer    | 38.8                              | -                                   |
+| Agitation de l'eau   | 2 fort                            | -                                   |
+| Densité au bout de la jetée | 1026.9                        | -                                   |
+| Température de l'eau | 23.4                              | -                                   |
+|                      |                                     |                                     |
+| **V. 3 août 1904**   |                                     |                                     |
+| Hauteur Barométrique | 768.7                              | 767.7                              |
+| Direction du vent    | Est                                | S. S. E.                           |
+| Force                | 1                                  | 1                                  |
+| Nébulosité (Reg. 0 - Terre) | 0                             | 0                                   |
+| Nébulosité (Reg. 2 - Mer)   | 0                              | 0                                   |
+| Direction des nuages | -                                 | -                                   |
+| Pluie tombée         | 4.0 (8.2)                         | -                                   |
+| Température de l'air | 28.2                              | 33.4                              |
+| Hauteur de la mer    | 47.2                              | 46.8                              |
+| Agitation de l'eau   | 1 faible                           | 1 faible                          |
+| Densité au bout de la jetée | 1027.0                        | 1026.7                            |
+| Température de l'eau | 24.2                              | 24.8                              |
+```

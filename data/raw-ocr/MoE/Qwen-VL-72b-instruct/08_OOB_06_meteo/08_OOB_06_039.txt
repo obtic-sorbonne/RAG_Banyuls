@@ -1,0 +1,54 @@
+```
+OBSERVATIONS DU 1900 30 Juin
+
+Nombre de bateaux sortis (pêche à l'anchois).  Viande.
+
+Température de l'air | maxima depuis la veille.
+                     | minima id.
+
+Température de l'eau | maxima depuis la veille.
+                     | minima id.
+
+Pluie tombée depuis la veille, en millim.  quelques g
+
+Evaporation depuis le 1900, en millim.
+
+| à 9 h. m. | à 3 h. s.
+|------------|------------
+Direction du vent (à terre). | N.E | N.N.O
+Force | 2 | 4
+Direction des nuages | S.O | N.N.O
+Nébulosité | région Ouest (terre) | 10 | 10
+            | id. Est (mer) | 10 | 10
+Hauteur de la mer, en centimètres, au-dessus du zéro. | 39.7 | 39.7
+Agitation de l'eau | 1 | 1 fort
+Densité de l'eau au bout de la jetée | 1027.5 | 1027.6
+Température id. | 20.3 | 18.7
+
+
+OBSERVATIONS DU 1900 1er Juillet
+
+Nombre de bateaux sortis (pêche à l'anchois).  82
+
+Température de l'air | maxima depuis la veille.
+                     | minima id.
+
+Température de l'eau | maxima depuis la veille.
+                     | minima id.
+
+Pluie tombée depuis la veille, en millim.  n
+
+Evaporation depuis le 1900, en millim.
+
+| à 9 h. m. | à 3 h. s.
+|------------|------------
+Direction du vent (à terre). | N.N.O | S.E
+Force | 3 fort | 1
+Direction des nuages | N.N.O | N.N.O
+Nébulosité | région Ouest (terre) | 2 | 3
+            | id. Est (mer) | 1 | 2
+Hauteur de la mer, en centimètres, au-dessus du zéro. | 39.6 | 38.8
+Agitation de l'eau | 2 fort | 1
+Densité de l'eau au bout de la jetée | 1027.6 | 1027.4
+Température id. | 18.7 | 20.2
+```

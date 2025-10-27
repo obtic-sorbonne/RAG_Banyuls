@@ -1,0 +1,22 @@
+```plaintext
+Sortie du 10 juillet 1909
+Départ de L'Éstartit à 4 heures du matin pour Banyuls
+Arrivée à
+Départ de                               à heures du
+pour                                     Arrivée à
+Départ de                               à heures du
+pour
+Arrivée au mouillage à Banyuls à 8ʰ30 du matin.
+
+État du temps: fort poil sans vent.
+Passagers à bord: En même.
+Objet de la sortie: Retour à Banyuls.
+Consommation{
+    48 briquettes de 10 Roids en kilos: 480 K.
+    3 huile                               Total en litres: 3
+}
+
+Dépenses:
+
+Observations: Retours directement à Banyuls.
+```

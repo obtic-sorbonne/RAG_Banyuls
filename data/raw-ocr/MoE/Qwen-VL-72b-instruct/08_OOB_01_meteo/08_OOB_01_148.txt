@@ -1,0 +1,4 @@
+| **Hauteur Barométrique** | **Direction du vent** | **Force** | **Nébulosité** | **Direction des nuages** | **Pluie tombée** | **Température de l'air** | **Hauteur de la mer** | **Agitation de l'eau** | **Densité de l'eau** | **Température de l'eau** |
+|-----------------------|---------------------|-----------|---------------|-----------------------|------------------|------------------------|-----------------------|----------------------|---------------------|------------------------|
+|                       |                     |           | Reg. v.       |                       |                  |                        |                       | au bout de la jetée |                     |                        |
+|                       |                     |           | Reg. E.       |                       |                  |                        |                       | au Larg |                     |                        |

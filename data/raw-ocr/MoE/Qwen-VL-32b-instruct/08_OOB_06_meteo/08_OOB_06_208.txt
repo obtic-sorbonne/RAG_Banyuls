@@ -1,0 +1,59 @@
+### Observations du 16 octobre 1901
+
+| **Nombre de bateaux sortis (pêche à l.)** |  |
+| **Température de l'air** |  |
+| - maxima depuis la veille | 23.1 |
+| - minima id. | 14.6 |
+| **Température de l'eau** |  |
+| - maxima depuis la veille |  |
+| - minima id. |  |
+| **Pluie tombée depuis la veille, en millim** | 67.7 |
+| **Évaporation depuis le 1900, en millim** |  |
+| **Direction du vent (à terre)** | - |
+| - à 9 h. m. | Ouest- |
+| - à 3 h. s. | Sud-est |
+| **Force** | - |
+| - à 9 h. m. | faible |
+| - à 3 h. s. | modérée |
+| **Direction des nuages** | - |
+| - à 9 h. m. | Ouest |
+| - à 3 h. s. | Sud-ouest |
+| **Nébulosité** |  |
+| - région Ouest (terre) | 10 |
+| - id. Est (mer) | 10 |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro** | 6 |
+| **Agitation de l'eau** | - |
+| **Densité de l'eau au bout de la jetée** | - |
+| **Température id.** |  |
+| - maxima | 31.7 |
+| - minima | 9.7 |
+
+---
+
+### Observations du 17 octobre 1901
+
+| **Nombre de bateaux sortis (pêche à l.)** |  |
+| **Température de l'air** |  |
+| - maxima depuis la veille | 17.3 |
+| - minima id. | 11.0 |
+| **Température de l'eau** |  |
+| - maxima depuis la veille |  |
+| - minima id. |  |
+| **Pluie tombée depuis la veille, en millim** | 1.0 |
+| **Évaporation depuis le 1900, en millim** |  |
+| **Direction du vent (à terre)** | - |
+| - à 9 h. m. | Nord-ouest |
+| - à 3 h. s. | Nord- |
+| **Force** | - |
+| - à 9 h. m. | faible |
+| - à 3 h. s. | faible |
+| **Direction des nuages** | - |
+| - à 9 h. m. | Sud |
+| - à 3 h. s. | Sud-est |
+| **Nébulosité** |  |
+| - région Ouest (terre) | 10 |
+| - id. Est (mer) | 10 |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro** | 6 |
+| **Agitation de l'eau** | - |
+| **Densité de l'eau au bout de la jetée** | - |
+| **Température id.** |  |

@@ -1,0 +1,32 @@
+```plaintext
+| **Date**         | **Matin**                     | **Soir**                     |
+|------------------|------------------------------|------------------------------|
+| **7 Octobre 1901** |                              |                              |
+| Hauteur Barométrique | 768.4                       | 768.3                        |
+| Direction du vent   | cr.or.0                      | cr.or.0                      |
+| Force               | 2                            | 2                            |
+| Nebulosité          |                             |                              |
+| (Reg. O. (terre))   | 1                            | 0                            |
+| (Reg. E. (mer))     | 0                            | 3                            |
+| Direction des nuages | cr.or.0                      | cr.or.0                      |
+| Pluie tombée        | "                            | "                            |
+| Température de l'air | 11.9                         | 11.6                         |
+| Hauteur de la mer   | 26.5                         | 26.6                         |
+| Agitation de l'eau  | 3 fort                       | 4 faible                     |
+| Densité au bout de la jetée | 1026.7                    | 1026.9                       |
+| Température de l'eau | 18.9                         | 18.6                         |
+| **8 Octobre 1901** |                              |                              |
+| Hauteur Barométrique | 763.2                       | 763.9                        |
+| Direction du vent   | cr. or.                      | cr. or.                      |
+| Force               | 3                            | 4                            |
+| Nebulosité          |                             |                              |
+| (Reg. O. (terre))   | 0                            | 0                            |
+| (Reg. E. (mer))     | 0                            | 1                            |
+| Direction des nuages | cr. or.                      | cr. or.                      |
+| Pluie tombée        | "                            | "                            |
+| Température de l'air | 17.4                         | 17.2                         |
+| Hauteur de la mer   | 24.8                         | 24.9                         |
+| Agitation de l'eau  | 2 T. fort                    | 2 T. fort                    |
+| Densité au bout de la jetée | 1026.9                    | 1026.8                       |
+| Température de l'eau | 18.0                         | 18.4                         |
+```

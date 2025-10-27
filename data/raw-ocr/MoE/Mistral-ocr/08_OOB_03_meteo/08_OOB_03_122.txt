@@ -1,0 +1,16 @@
+# Date: 7 Février: 1902
+
+|  |   |
+| --- | --- |
+|  Kanteur Parométrique | 9" Stéalin 3" Noir  |
+|  Direction Su vent | 7/8, 3  |
+|  Force | 1000  |
+|  Tébuloïde | 10  |
+|  Direction des nuages | 10  |
+|  Brice tomble | 10  |
+|  Température de l'air | 11,6  |
+|  Kanteur de la mer | 32.2  |
+|  Agitation de l'eau | 3 font  |
+|  Densité de l'eau | 1028,7  |
+|  |   |
+|  Température de l'eau | 12.0  |

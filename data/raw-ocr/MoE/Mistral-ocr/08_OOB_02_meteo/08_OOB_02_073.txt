@@ -1,0 +1,17 @@
+# Date: 31 M6ai. 1901
+
+|  |   |   |
+| --- | --- | --- |
+|  Kanteve Praxometrique | 9" M6atin 3" 5vir |   |
+|  Direction du vent | 755,0 | 753,5  |
+|  Force | 12.25 | 7.65  |
+|  5 | 3 | 3 fort  |
+|  Pédbulosité | Reg-0-(1ère) |   |
+|  Direction des nuages | 1 | 1  |
+|  Chine tombée |  |   |
+|  Température de l'air | 18,9 | 19,8  |
+|  Kanteve de la mer | 15,1 | 50,8  |
+|  Agitation de l'eau | 0 | 0  |
+|  Densité de l'eau | 1028,0 | 1027,5  |
+|  |   |   |
+|  Température de l'eau | 17,5 | 32,0  |

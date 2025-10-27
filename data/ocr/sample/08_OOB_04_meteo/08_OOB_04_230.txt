@@ -1,0 +1,159 @@
+# 9. 20 M6ai. 1903
+
+|  Hauteur Barométrique | 202.3  |
+| --- | --- |
+|  Direction du vent | "  |
+|  Force | 1  |
+|  Nébulosité (Reg. O. (terre)) | 10  |
+|  Nébulosité (Reg. E. (mer)) | 10  |
+|  Direction des nuages | 007.0  |
+|  Pluie tombée | 900l/1000.9  |
+|  Température de l'air | 18.5  |
+|  Hauteur de la mer | 18.2  |
+|  Agitation de l'eau | 0  |
+|  Densité au bout de la jetée | 1022.0  |
+|  Température de l'eau | 15.8  |
+
+# 9. 21 M6ai. 1903
+
+|  Hauteur Barométrique | 209.8  |
+| --- | --- |
+|  Direction du vent | 8.07.8  |
+|  Force | 1  |
+|  Nébulosité (Reg. O. (terre)) | 0  |
+|  Nébulosité (Reg. E. (mer)) | 0  |
+|  Direction des nuages | "  |
+|  Pluie tombée | 18.2  |
+|  Température de l'air | 18.2  |
+|  Hauteur de la mer | 68.6  |
+|  Agitation de l'eau | 0  |
+|  Densité au bout de la jetée | 1026.1  |
+|  Température de l'eau | 18.3  |
+
+# 9. 22 M6ai. 1903
+
+|  Hauteur Barométrique | 703.8  |
+| --- | --- |
+|  Direction du vent | 8  |
+|  Force | 2  |
+|  Nébulosité (Reg. O. (terre)) | 10  |
+|  Nébulosité (Reg. E. (mer)) | 10  |
+|  Direction des nuages | cr. o  |
+|  Pluie tombée | 1  |
+|  Température de l'air | 19.7  |
+|  Hauteur de la mer | 62.6  |
+|  Agitation de l'eau | 6  |
+|  Densité au bout de la jetée | 1026.6  |
+|  Température de l'eau | 14.6  |
+
+# 9. 23 M6ai. 1903
+
+|  Hauteur Barométrique | 768.7  |
+| --- | --- |
+|  Direction du vent | 8  |
+|  Force | 2  |
+|  Nébulosité (Reg. O. (terre)) | 10  |
+|  Nébulosité (Reg. E. (mer)) | 10  |
+|  Direction des nuages | "  |
+|  Pluie tombée | 1  |
+|  Température de l'air | 19.7  |
+|  Hauteur de la mer | 62.6  |
+|  Agitation de l'eau | 6  |
+|  Densité au bout de la jetée | 1026.4  |
+|  Température de l'eau | 14.6  |
+
+# 9. 24 M6ai. 1903
+
+|  Hauteur Barométrique | 768.7  |
+| --- | --- |
+|  Direction du vent | 8  |
+|  Force | 2  |
+|  Nébulosité (Reg. O. (terre)) | 10  |
+|  Nébulosité (Reg. E. (mer)) | 10  |
+|  Direction des nuages | "  |
+|  Pluie tombée | 1  |
+|  Température de l'air | 19.7  |
+|  Hauteur de la mer | 62.6  |
+|  Agitation de l'eau | 6  |
+|  Densité au bout de la jetée | 1026.4  |
+|  Température de l'eau | 14.6  |
+
+# 9. 25 M6ai. 1903
+
+|  Hauteur Barométrique | 768.7  |
+| --- | --- |
+|  Direction du vent | 8  |
+|  Force | 2  |
+|  Nébulosité (Reg. O. (terre)) | 10  |
+|  Nébulosité (Reg. E. (mer)) | 10  |
+|  Direction des nuages | "  |
+|  Pluie tombée | 1  |
+|  Température de l'air | 19.7  |
+|  Hauteur de la mer | 62.6  |
+|  Agitation de l'eau | 6  |
+|  Densité au bout de la jetée | 1026.4  |
+|  Température de l'eau | 14.6  |
+
+# 9. 26 M6ai. 1903
+
+|  Hauteur Barométrique | 768.7  |
+| --- | --- |
+|  Direction du vent | 8  |
+|  Force | 2  |
+|  Nébulosité (Reg. O. (terre)) | 10  |
+|  Nébulosité (Reg. E. (mer)) | 10  |
+|  Direction des nuages | "  |
+|  Pluie tombée | 1  |
+|  Température de l'air | 19.7  |
+|  Hauteur de la mer | 62.6  |
+|  Agitation de l'eau | 6  |
+|  Densité au bout de la jetée | 1026.4  |
+|  Température de l'eau | 14.6  |
+
+# 9. 27 M6ai. 1903
+
+|  Hauteur Barométrique | 768.7  |
+| --- | --- |
+|  Direction du vent | 8  |
+|  Force | 2  |
+|  Nébulosité (Reg. O. (terre)) | 10  |
+|  Nébulosité (Reg. E. (mer)) | 10  |
+|  Direction des nuages | "  |
+|  Pluie tombée | 1  |
+|  Température de l'air | 19.7  |
+|  Hauteur de la mer | 62.6  |
+|  Agitation de l'eau | 6  |
+|  Densité au bout de la jetée | 1026.4  |
+|  Température de l'eau | 14.6  |
+
+# 9. 28 M6ai. 1903
+
+|  Hauteur Barométrique | 768.7  |
+| --- | --- |
+|  Direction du vent | 8  |
+|  Force | 2  |
+|  Nébulosité (Reg. O. (terre)) | 10  |
+|  Nébulosité (Reg. E. (mer)) | 10  |
+|  Direction des nuages | "  |
+|  Pluie tombée | 1  |
+|  Température de l'air | 19.7  |
+|  Hauteur de la mer | 62.6  |
+|  Agitation de l'eau | 6  |
+|  Densité au bout de la jetée | 1026.4  |
+|  Température de l'eau | 14.6  |
+
+# 9. 29 M6ai. 1903
+
+|  Hauteur Barométrique | 768.7  |
+| --- | --- |
+|  Direction du vent | 8  |
+|  Force | 2  |
+|  Nébulosité (Reg. O. (terre)) | 10  |
+|  Nébulosité (Reg. E. (mer)) | 10  |
+|  Direction des nuages | "  |
+|  Pluie tombée | 1  |
+|  Température de l'air | 19.7  |
+|  Hauteur de la mer | 62.6  |
+|  Agitation de l'eau | 6  |
+|  Densité au bout de la jetée | 1026.4  |
+|  Température de l'eau | 14.6  |

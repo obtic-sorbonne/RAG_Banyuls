@@ -1,0 +1,15 @@
+```markdown
+# 7 OCTOBRE 1907
+
+| **Date** | **Heure** | **Hauteur Barométrique (mmHg)** | **Direction du Vent** | **Force du Vent** | **Nébulosité (Reg. C. claire)** | **Nébulosité (Reg. 2. (mer))** | **Direction des nuages** | **Pluie tombée (mm)** | **Température de l'air (°C)** | **Hauteur de la mer (m)** | **Agitation de l'eau** | **Densité au bout de la jetée** | **Température de l'eau (°C)** |
+|----------|-----------|----------------------------------|-----------------------|-------------------|---------------------------------|-----------------------------|------------------------|------------------------|-------------------------|------------------------|-----------------------|-----------------------------|-------------------------|
+| 7 octobre 1907 | Matin | 745.2 | E.0 | 1 (faible) | 10 | 10 | E.0 | — | 28.0 | 38.0 | 1 (faible) | 1027.6 | 20.4 |
+| 7 octobre 1907 | Soir | 747.4 | E.0 | 1 (faible) | 10 | 10 | E.0 | 1.0 | 30.4 | 40.3 | 1 (faible) | 1027.0 | 30.4 |
+
+# 8 OCTOBRE 1907
+
+| **Date** | **Heure** | **Hauteur Barométrique (mmHg)** | **Direction du Vent** | **Force du Vent** | **Nébulosité (Reg. C. claire)** | **Nébulosité (Reg. 2. (mer))** | **Direction des nuages** | **Pluie tombée (mm)** | **Température de l'air (°C)** | **Hauteur de la mer (m)** | **Agitation de l'eau** | **Densité au bout de la jetée** | **Température de l'eau (°C)** |
+|----------|-----------|----------------------------------|-----------------------|-------------------|---------------------------------|-----------------------------|------------------------|------------------------|-------------------------|------------------------|-----------------------|-----------------------------|-------------------------|
+| 8 octobre 1907 | Matin | 747.3 | E.0 | 1 (faible) | 10 | 10 | E.0 | 3.628 | 16.7 | 32.8 | 1 (faible) | 1027.6 | 19.8 |
+| 8 octobre 1907 | Soir | 748.8 | E.0 | 1 (faible) | 10 | 10 | E.0 | 1.0 | 17.4 | 39.5 | 1 (faible) | 1027.0 | 19.0 |
+```

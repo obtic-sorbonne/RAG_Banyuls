@@ -1,0 +1,16 @@
+# Date 17 Septembre 1901
+
+|   | 9<sup>th</sup> Matin | 3<sup>rd</sup> Soir  |
+| --- | --- | --- |
+| Hauteur Barométrique | 762,6 | 762,8  |
+| Direction du vent | N.N.O | E  |
+| Force | 2 T. fort | 1 T. fort  |
+| Nébulosité / Reg. O. (terre) | 0 | 0  |
+| Nébulosité / Reg. E. (mer) | 3 | 3  |
+| Direction des nuages | N.N.O | "  |
+| Pluie tombée |  |  |
+| Température de l'air | 18,3 | 18,9  |
+| Hauteur de la mer | 35,6 | 45,7  |
+| Agitation de l'eau | 1,75th | 1 T. fact  |
+| Densité de l'eau | 1,27,5 | 1,27,9  |
+| Température de l'eau | 13,6 | 13,7  |

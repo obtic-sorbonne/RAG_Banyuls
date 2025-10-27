@@ -1,0 +1,60 @@
+| **OBSERVATIONS DU 1902, 11 janvier** |
+| --- |
+| **Nombre de bateaux sortis (pêche à la …)** | 19,8 |
+| **Température de l'air** |  |  |
+| maxima depuis la veille | 19,8 |
+| minima | 7,4 |
+| **Température de l'eau** |  |  |
+| maxima depuis la veille |  |
+| minima |  |
+| **Pluie tombée depuis la veille, en millim.** |  |
+| **Evaporation depuis le 1900, en millim.** |  |
+|  | **à 9 h. m.** | **à 3 h. s.** |
+| **Direction du vent (à terre)** | S.0 | S.S.E. |
+| **Force** | 1 faible | 1 fort |
+| **Direction des nuages** | S.0 | S.S.O. |
+| **Nébulosité** |  |  |
+| région Ouest (terre) | 6 | 6 |
+| id. Est (mer) | 6 | 6 |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.)** | 48,0 | 36,6 |
+| **Agitation de l'eau** | 2 | 2 |
+| **Densité de l'eau au bout de la jetée** | 1028,4 | 1028,8 |
+| **Température** |||
+| - is. Therman Martin |  |  |
+| maxima | 21,0 | 21,1 |
+| minima | 4,8 | 10,8 |
+| - is. Léon |  |  |
+| maxima |  |  |
+| minima |  |  |
+
+| **OBSERVATIONS DU 1902, 13 janvier** |
+| --- |
+| **Nombre de bateaux sortis (pêche à la …)** | 16,7 |
+| **Température de l'air** |  |  |
+| maxima depuis la veille | 16,7 |
+| minima id. | 6,3 |
+| **Température de l'eau** |  |  |
+| maxima depuis la veille |  |
+| minima id. |  |
+| **Pluie tombée depuis la veille, en millim.** |  |
+| **Evaporation depuis le 1900, en millim.** |  |
+|  | **à 9 h. m.** | **à 3 h. s.** |
+| **Direction du vent (à terre)** | S.0 | S.S.E. |
+| **Force** | 1 T. faible | 1 fort |
+| **Direction des nuages** |  |  |
+| **Nébulosité** |  |  |
+| région Ouest (terre) | 0 | 6 |
+| id. Est (mer) | 2 | 6 |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.)** | 42,8 | 37,1 |
+| **Agitation de l'eau** | 1 | 1 |
+| **Densité de l'eau au bout de la jetée** | 1028,4 | 1028,3 |
+| **Température** |||
+| - is. Baromètre mouillé |  |  |
+| maxima |  |  |
+| minima |  |  |
+| - is. Therman Martin |  |  |
+| maxima | 21,0 |  |
+| minima | 3,6 |  |
+| - is. Léon |  |  |
+| maxima |  |  |
+| minima |  |  |

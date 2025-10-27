@@ -1,0 +1,28 @@
+| Nombre de paix | N. 16 Octobre -1905 | 7/16 atin | Soir |
+|---|---|---|---|
+| de bateaux | Hauteur Barometrique | 797.2 | 796.6 |
+|  | Direction du vent | er.cr.o | cr.cr.o |
+|  | Force is | 17 fort | 2 T.fort. |
+|  | Nebulosite Reg. o.(terre) | 10 | 10 |
+|  | (Res. 2-(mer) | W | W |
+|  | Direction des nuags | or.o | N.o |
+|  | Pluie tombée | " | " |
+|  | Température de l'air | 17.0 | 16,3 |
+|  | Hauteur de la mer | 8/.7 | 46,8 |
+|  | Agitation de l'eau | 1 fort | 17. Fort |
+|  | Densité au bout de la jetée | 1028.7 | 1028.8 |
+|  | Température de l'eau | 17.8 | 17./ |
+| Nombre de paix | N. 17 Octobre -1905 | 7/16atin | Soir |
+|---|---|---|---|
+| de bateaux | Hauteur Barometrique | 760.4 | 760,2 |
+|  | Direction du vent | cr.cr.o | crois |
+|  | Force is | 2 | 2 |
+|  | Nebulosite Reg. o.(terre) | 0 | 1 |
+|  | (Res. 2-(mer) | 0 | 0 |
+|  | Direction des nuags | or.cr.o | S.o |
+|  | Pluie tombée | " | " |
+|  | Température de l'air | 16.3 | 16.3 |
+|  | Hauteur de la mer | 41.0 | 3.2 |
+|  | Agitation de l'eau | 3 faible | 3 |
+|  | Densité au bout de la jetée | 1028.7 | 1028.6 |
+|  | Température de l'eau | 18.1 | 18./ |

@@ -1,0 +1,10 @@
+```
+| **Date** | **Heure** | **Haut. Barométrique (mm)** | **Dir. du Vent** | **Force** | **Nébulosité (%)** | **Dir. des Nuages** | **Pluie tombée (mm)** | **Température de l'Air (°C)** | **Hauteur de la Mer (m)** | **Agitation de l'Eau** | **Densité au bout de la jetée (g/cm³)** | **Température de l'Eau (°C)** |
+|----------|-----------|-----------------------------|------------------|-----------|--------------------|--------------------|-----------------------|-----------------------------|--------------------------|------------------------|---------------------------------|-----------------------------|
+| V. 10 Mars 1906 | Matin | 767.9 | cr.cr.o | 3 | Reg. o. (claire) | er.o | " | 12.0 | 67.1 | 2 fort | 1028.4 | 14.6 |
+|          | Soir | 764.9 | cr.cr.o | 3 | 1 | or.o | " | 15.0 | 76.9 | 2 fort | 1028.3 | 14.9 |
+| V. 12 Mars 1906 | Matin | 769.2 | cr.cr.o | 3 fort | Reg. o. (claire) | Ouest | " | 16.0 | 43.0 | 2 | 1028.5 | 14.8 |
+|          | Soir | - | - | 6 | - | - | - | - | - | - | - | - |
+
+**Nombre de jours de bateau : 9**
+```

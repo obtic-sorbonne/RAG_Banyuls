@@ -1,0 +1,33 @@
+# V. 18 9thai. 1903
+
+|  Matin | 9thatin | Soir  |
+| --- | --- | --- |
+|  Hauteur Barométrique | 2/8.2 |   |
+|  Direction du vent | or. or. 0 |   |
+|  Force | 1 font |   |
+|  Nébulosité (Reg. O. (terre)) | 10 |   |
+|  Nébulosité (Reg. E. (mer)) | 10 |   |
+|  Direction des nuages | or. or. 0 |   |
+|  Pluie tombée |  |   |
+|  Température de l'air | 11.9 |   |
+|  Hauteur de la mer | 43.2 |   |
+|  Agitation de l'eau | 1/2 faible |   |
+|  Densité au bout de la jetée | 1022.0 |   |
+|  Température de l'eau | 14.6 |   |
+
+# V. 19 9thai. 1903
+
+|  Matin | 9thatin | Soir  |
+| --- | --- | --- |
+|  Hauteur Barométrique | 260.2 | 262.2  |
+|  Direction du vent | or. 0 | or. or. 0  |
+|  Force | 3 | 2  |
+|  Nébulosité (Reg. O. (terre)) | 10 | 10  |
+|  Nébulosité (Reg. E. (mer)) | 10 | 10  |
+|  Direction des nuages | or. 0 | or. or. 0  |
+|  Pluie tombée | 11.4 | 13.0  |
+|  Température de l'air | 14.3 |   |
+|  Hauteur de la mer | 17.4 | 17.4  |
+|  Agitation de l'eau | 1/2 faible | 1/2 faible  |
+|  Densité au bout de la jetée | 1025.0 | 1025.0  |
+|  Température de l'eau | 14.8 | 11.8  |

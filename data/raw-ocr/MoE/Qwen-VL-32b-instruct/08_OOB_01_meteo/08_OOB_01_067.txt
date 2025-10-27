@@ -1,0 +1,19 @@
+# Date: 08-24 Septembre 1920
+
+|  Item | 10th Year | 3rd Year  |
+| --- | --- | --- |
+|  Bauteur économique | 1929.8 | 1960.5  |
+|  Direction du vent | S. | N.  |
+|  Force | 11.0 | 11.0  |
+|  Nebulosité | 1.0 | 3.0  |
+|  Rég. E. (m²) | 1 | 0.0  |
+|  Direction des images | S. | S.  |
+|  Paine tomatee | 0.4 | 0.4  |
+|  Température de l'air | 24.9 | 24.4  |
+|  Hauteur de la mer | 0.55 | 0.46  |
+|  Afilation de l'eau | 3.3 | 3.3  |
+|  Sensibilité à l'eau (antivite de la jeté) | 1026.9 | 1026.9  |
+|  Afilation de l'eau | 24.2 | 24.5  |
+|  Température de l'eau | 24.2 | 24.5  |
+
+*Désertés.*

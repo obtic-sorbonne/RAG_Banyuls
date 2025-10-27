@@ -1,0 +1,27 @@
+|  V. 11 Janvier - 1908 | Moutier | Soir  |
+| --- | --- | --- |
+|  Hauteur Noxometrique | 1/10.5 | 1/10.3  |
+|  Direction du vent | or.0 | or.0  |
+|  Force | (faible) | 8  |
+|   | 8 | 8  |
+|  Hébulosité | (Reg. 2i. (mer) |   |
+|  Direction des nuages | or.0 | or.0  |
+|  Flux tombé |  |   |
+|  Température de l'air |  | 11.1  |
+|  Hauteur de la mer |  | 11.1  |
+|  Agitation de l'eau |  | 3  |
+|  Densité au bout de la jetée |  | 10.8  |
+|  Température de l'eau |  | 10.8  |
+|  V. 12 Janvier - 1907 | Moutier | Soir  |
+|  Hauteur Noxometrique | 1/13.6 | 1/13.1  |
+|  Direction du vent | or.0 | or.0  |
+|  Force | 11.1 | 11.1  |
+|   | 11.1 | 11.1  |
+|  Hébulosité | (Reg. 2i. (mer) |   |
+|  Direction des nuages | or.0 | or.0  |
+|  Flux tombé |  |   |
+|  Température de l'air |  | 11.5  |
+|  Hauteur de la mer |  | 11.5  |
+|  Agitation de l'eau |  | 3  |
+|  Densité au bout de la jetée |  | 10.89  |
+|  Température de l'eau |  | 10.4  |

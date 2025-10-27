@@ -1,0 +1,31 @@
+| Date         | Matin        |            | Soir         |            |
+|--------------|--------------|------------|--------------|------------|
+| **V. 15 Mars. 1902** | **Observations** | **Valeurs**  | **Valeurs** | **Valeurs** |
+| Hauteur Barométrique | 768.0 | | 767.3 | |
+| Direction du vent | S.O. | | S.S.E. | |
+| Force | 1/5 | |  | |
+| Régl. O. (lune) | 8 | | 10 | |
+| - | - | - | - | - |
+| Nébulosité | Régl. E. (mer) | 1 | 10 | |
+| Direction des nuages | S.O. | | S.S.E. | |
+| Pluie tombée | - | | - | |
+| Température de l'air | 11.9 | | 14.0 | |
+| Hauteur de la mer | 36.4 | | 44.7 | |
+| Agitation de l'eau | 1 | | 1 | |
+| Densité au bout de la jetée | 1027.0 | | 1026.9 | |
+| Température de l'eau | 11.1 | | 11.8 | |
+|--------------|--------------|------------|--------------|------------|
+| **V. 16 Mars. 1902** | **Observations** | **Valeurs**  | **Valeurs** | **Valeurs** |
+| Hauteur Barométrique | 769.4 | | 768.2 | |
+| Direction du vent | S.O. | | S.S.E. | |
+| Force | 1/5 | | 0 | |
+| Régl. O. (lune) | 10 | | 10 | |
+| - | - | - | - | - |
+| Nébulosité | Régl. E. (mer) | 10 | 10 | |
+| Direction des nuages | S.S.E. | | S.S.E. | |
+| Pluie tombée | - | | - | |
+| Température de l'air | 14.1 | | 15.1 | |
+| Hauteur de la mer | 33.3 | | 43.1 | |
+| Agitation de l'eau | 1/7 faible | | 1 | |
+| Densité au bout de la jetée | 1026.8 | | 1026.9 | |
+| Température de l'eau | 11.9 | | 12.1 | |

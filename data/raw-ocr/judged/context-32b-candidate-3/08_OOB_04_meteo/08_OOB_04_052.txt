@@ -1,0 +1,29 @@
+# 9-16 Janvier 1908
+
+|  **Pfandeur** | **Manométrique** | **F80,0** | **F81,7**  |
+| --- | --- | --- | --- |
+|  Direction du vent | or. or. | or. or. | or. or.  |
+|  Force | 15 | 2 | 27.7000  |
+|  Nebulosité | (Reg. O. (lire)) | 0 | 0  |
+|  Direction des nuages |  |  |   |
+|  Nuit tombée |  |  |   |
+|  Température de l'air |  | 8,6 | 14,1  |
+|  Hauteur de la mer |  | 61,8 | 70,1  |
+|  Égitation de l'eau |  | 37.7000 | 3  |
+|  Densité au bout de la jeté |  | 1029,9 | 1028,4  |
+|  Température de l'eau |  | 11,3 | 11,4  |
+
+# 17 Janvier 1908
+
+|  **Pfandeur** | **Manométrique** | **F70,2** | **F58,7**  |
+| --- | --- | --- | --- |
+|  Direction du vent | or. or. | 3.0000 | 3.0000  |
+|  Force | 15 | 1 faible | 1  |
+|  Nebulosité | (Reg. O. (lire)) | 0 | 0  |
+|  Direction des nuages | or. or. | 3.0000 | 3.0000  |
+|  Nuit tombée |  |  |   |
+|  Température de l'air |  | 10,8 | 11,6  |
+|  Hauteur de la mer |  | 68,9 | 61,6  |
+|  Égitation de l'eau |  | 4 faible | 3 faible  |
+|  Densité au bout de la jeté |  | 1029,1 | 1028,0  |
+|  Température de l'eau |  | 11,7 | 11,8  |

@@ -1,0 +1,29 @@
+| V. 2 Avril. 1907 | Matin | Soir |
+|-----------------|-------|------|
+| Hauteur Barométrique | 748.8 | 747.2 |
+| Direction du Vent | O. E. | S. E. |
+| Force | 1 | 2 fort. |
+| Res. o. (cière) | 2 | 10 |
+| Nebulosite | 2 | 10 |
+| Res. xi. (mer) | 2 | 10 |
+| Direction des nuages | S. E. | S. O. |
+| Pluie tombée | " | " |
+| Température de l'air | 12.7 | 17.1 |
+| Hauteur de la mer | 46.2 | 47.2 |
+| Agitation de l'eau | 1 faible | 1 |
+| Densité au bout de la jetée | 1029.2 | 1029.2 |
+| Température de l'eau | 18.3 | 18.6 |
+| V. 3 Avril. 1907 | Matin | Soir |
+| Hauteur Barométrique | 748.3 | 747.6 |
+| Direction du Vent | S. E. | O. E. |
+| Force | 2 fort. | 3 fort. |
+| Res. o. (cière) | 10 | 10 |
+| Nebulosite | 10 | 10 |
+| Res. xi. (mer) | 10 | 10 |
+| Direction des nuages | S. O. | N. O. |
+| Pluie tombée | 1.7 | 20.29 |
+| Température de l'air | 13.6 | 8.4 |
+| Hauteur de la mer | 34.0 | 5 |
+| Agitation de l'eau | 2 faible | 2 fort. |
+| Densité au bout de la jetée | 1029.4 | 3 |
+| Température de l'eau | 18.5 |  |

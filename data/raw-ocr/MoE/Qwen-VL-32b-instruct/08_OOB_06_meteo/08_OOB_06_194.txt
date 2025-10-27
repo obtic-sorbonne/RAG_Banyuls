@@ -1,0 +1,50 @@
+| **Observations du 7 Septembre 19** ** | à 9 h. m.** | **à 3 h. s.** |
+|---|---|---|---|
+| **Nombre de bateaux sortis (pêche à l.)** | 37,3 | |
+| **Température de l'air** |  | |
+|  maxima depuis la veille | 3f.3 | |
+|  minima | 20.7 | |
+| **Température de l'eau** |  | |
+|  maxima depuis la veille |  | |
+|  minima |  | |
+| **Pluie tombée depuis la veille**, en millim. |  | |
+| **Evaporation depuis le 190**, en millim. |  | |
+| **Direction du vent (à terre)** | » | » |
+| **Force** | 0 |  |
+| **Direction des nuages** | » |  |
+| **Nébulosité** |  | |
+|  région Ouest (terre) | 0 |  |
+|  id. Est (mer) | 0 |  |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.)** | 38,2 |  |
+| **Agitation de l'eau** | 1T faible |  |
+| **Densité de l'eau au bout de la jetée** | 102/f |  |
+| **Température** | 24,7 |  |
+|  -Bolare, Matin | 29.7 |  |
+|  -Terrane, Matin | { maxima | <ins>4f.8</ins> |  |
+|  | { minima | 17.7 |  |
+| **Observations du 8 Septembre 19** ** | à 9 h. m.** | **à 3 h. s.** |
+|---|---|---|---|
+| **Nombre de bateaux sortis (pêche à l.)** | 34,3 | |
+| **Température de l'air** |  | |
+|  maxima depuis la veille | 34,3 | |
+|  minima | 20,6 | |
+| **Température de l'eau** |  | |
+|  maxima depuis la veille |  | |
+|  minima |  | |
+| **Pluie tombée depuis la veille**, en millim. |  | |
+| **Evaporation depuis le 190**, en millim. |  | |
+| **Direction du vent (à terre)** | N.E. | S.S.E. |
+| **Force** | 1 | 2 fort. |
+| **Direction des nuages** | » | » |
+| **Nébulosité** |  | |
+|  région Ouest (terre) | 0 | 0 |
+|  id. Est (mer) | 0 | 0 |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.)** | 34,8 | 37.1 |
+| **Agitation de l'eau** | 1 fort. |  |
+| **Densité de l'eau au bout de la jetée** | 102/f | 102/f 4 |
+| **Température** | 24,7 | 36.3 |
+|  -Bolare | 36.7 | 36.2 |
+|  -Terrane, Matin | { maxima | <ins>19.0</ins> | 38.2 |
+|  | { minima |  | 27.8 |
+|  -is - is - lois | { maxima |  |  |
+|  | { minima |  |  |

@@ -1,0 +1,1 @@
+Paramètre 9h Matin 3h Soir Hauteur Barométrique 761 7 762 3 Direction du vent Nord Nord Force 3 3 Nebulosité Reg O locaux 0 0 Reg E mers 0 0 Direction des nnages Nord Nord Pluie tombée 0 0 Température de l air 10 7 13 4 Hauteur de la mer 39 2 31 0 Agitation de l eau 4 3 Densité de l eau 1028 5 1028 9 Température de l eau 13 4 13 5

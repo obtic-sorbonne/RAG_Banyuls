@@ -1,0 +1,31 @@
+| V. 20 Janvier - 1908 | Matin | Soir |
+|----------------------|-------|------|
+| Hauteur Barométrique | 770,4 |      |
+| Direction du Vent    | O     |      |
+| Force                | 2     |      |
+| Nébulosité           | 10    |      |
+| (Reg. 6. Oter.)      |       |      |
+| Nébulosité           | 10    |      |
+| (Reg. 2. (cur.)      |       |      |
+| Direction des nuages | Ouest |      |
+| Pluie tombée         | "     |      |
+| Température de l'air | 10,7  |      |
+| Hauteur de la mer    | 49,9  |      |
+| Agitation de l'eau   | 1 fort|      |
+| Densité au bout de la jetée | 623,1 |      |
+| Température de l'eau | 11,0  |      |
+| V. 22 Janvier - 1908 | Matin | Soir |
+| Hauteur Barométrique | 774,7 | 773,6|
+| Direction du Vent    | Ouest | S.S.E|
+| Force                | 1     | 1 Tr. faible |
+| Nébulosité           | 10    | 10   |
+| (Reg. 6. (ter.)      |       |      |
+| Nébulosité           | 10    | 10   |
+| (Reg. 2. (cur.)      |       |      |
+| Direction des nuages | O.E   | N.W. 8|
+| Pluie tombée         | quelques gouttes | "     |
+| Température de l'air | 10,3  | 12,8 |
+| Hauteur de la mer    | 48,4  | 61,1 |
+| Agitation de l'eau   | 2 fort| 2    |
+| Densité au bout de la jetée | 1027,8 | 1027,7 |
+| Température de l'eau | 13,2  | 12,2 |

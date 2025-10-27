@@ -1,0 +1,18 @@
+# Date. 11 Septembre. 1901
+
+|  |   |   |
+| --- | --- | --- |
+|  9th Matin 3rd Soir |  |   |
+|  Kanteur Barometrique | 753,7 | 751,7  |
+|  Direction du vent | N.N.O | N.N.O  |
+|  Force | 2 T. fort | 2 T. fort  |
+|  Nég. O. (terre) | 10 | 10 E.  |
+|  Nég. E. (mer) | 10 | 10 E.  |
+|  Direction des nuages | N.N.O | N.N.O  |
+|  Flux tombée | 31,12% | 32,7%  |
+|  Température de l'air | 20,5 | 22,7  |
+|  Nég. E. (mer) | 41,7 | 42,2  |
+|  N. N.O | 1 T. fort | 2 T. fort  |
+|  N.N.O | 1025,8 | 1027,0  |
+|  N. N.O |  |   |
+|  Température de l'eau | 20,8 | 21,0  |

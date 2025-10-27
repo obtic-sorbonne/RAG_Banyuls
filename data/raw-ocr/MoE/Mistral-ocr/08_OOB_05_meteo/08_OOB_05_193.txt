@@ -1,0 +1,25 @@
+|  7. 29 Décembre - 1905 | Moatin | Poir  |
+| --- | --- | --- |
+|  Hauteur Maronnetrique | 111.6 | 117.0  |
+|  Direction du vent | 0.0 | 0.0  |
+|  Force | 3 faible | 3 faible  |
+|  Mébulosité (Reg. 2. (mer) | 1 | 10  |
+|  Direction des nuages | 2 | 10  |
+|  Huie tombée | 3 | 6.4  |
+|  Remplirature de l'air | 3.4 | 6.4  |
+|  Hauteur de la mer | 35.6 | 47.7  |
+|  Agitation de l'eau | 3 | 2 font  |
+|  Densité au bout de la jetée | 1028.7 | 1028.7  |
+|  Remplirature de l'eau | 11.2 | 11.2  |
+|  7. 31 Décembre - 1906 | Moatin | Poir  |
+|  Hauteur Maronnetrique | 173.4 | 764.3  |
+|  Direction du vent | 10 | 10  |
+|  Force | 1 faible | 1  |
+|  Mébulosité (Reg. 0. (mer) | 10 | 10  |
+|  Direction des nuages | 10 | 10  |
+|  Huie tombée | quelques | 11  |
+|  Remplirature de l'air | 3.7 | 3.6  |
+|  Hauteur de la mer | 33.8 | 48.7  |
+|  Agitation de l'eau | 2 font | 10 font  |
+|  Densité au bout de la jetée | 1028.7 | 1028.7  |
+|  Remplirature de l'eau | 11.4 | 11.1  |

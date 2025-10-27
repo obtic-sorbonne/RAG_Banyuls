@@ -1,0 +1,20 @@
+# OBSERVATIONS DU 1901 
+
+Nombre de bateaux sortis (pêche à $l$ $\qquad$ ).
+![img-0.jpeg](img-0.jpeg)
+
+Nombre de bateaux sortis (pêche à $l$ $\qquad$ ).
+![img-1.jpeg](img-1.jpeg)
+
+Température de l'air $\left\{\begin{array}{l}\text { maxima depuis la veille. } \\ \text { minima id. }\end{array}\right.$
+Température de l'eau $\left\{\begin{array}{l}\text { maxima depuis la veille. } \\ \text { minima id. }\end{array}\right.$
+17.fube 1 faille
+1685.1 1685.4
+24.4 26.0
+27.8
+31.9
+39.7
+26.8
+
+Nombre de bateaux sortis (pêche à $l$ $\qquad$ ).
+![img-2.jpeg](img-2.jpeg)

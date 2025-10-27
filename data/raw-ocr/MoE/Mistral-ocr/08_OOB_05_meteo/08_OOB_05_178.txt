@@ -1,0 +1,31 @@
+# V. 29 Novembre - 1906
+
+|  Affluence | Pour  |
+| --- | --- |
+|  Hauteur Naramétique | 276,0  |
+|  Direction du Vent | ctant  |
+|  Passer | 1.5  |
+|  Nébulante | Reg. C. (lire)  |
+|  Direction des mages | 2  |
+|  Flue trombe |   |
+|  Température de l'air | 14,3  |
+|  Hauteur de la mer | 19.3  |
+|  Capitation de l'eau | 15.5  |
+|  Densité au bout de la jetée | 1028.6  |
+|  Température de l'eau | 16.4  |
+
+# V. 24 Novembre - 1906
+
+|  Affluence | Pour  |
+| --- | --- |
+|  Hauteur Naramétique | 276.6  |
+|  Direction du Vent |   |
+|  Passer | 1  |
+|  Nébulante | Reg. C. (lire)  |
+|  Direction des mages |   |
+|  Flue trombe |   |
+|  Température de l'air | 14.4  |
+|  Hauteur de la mer | 48.2  |
+|  Capitation de l'eau | 2  |
+|  Densité au bout de la jetée | 1028.6  |
+|  Température de l'eau | 16.9  |

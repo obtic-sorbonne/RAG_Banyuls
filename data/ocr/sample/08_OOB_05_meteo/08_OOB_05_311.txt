@@ -1,0 +1,15 @@
+```markdown
+# 26 OCTOBRE 1907
+
+| **Date**        | **Heure** | **Hauteur barométrique (mmHg)** | **Direction du vent** | **Force** | **Nébulosité (Reg. C. claire)** | **Nébulosité (Reg. 2. (mer))** | **Direction des nuages** | **Pluie tombée (mm)** | **Température de l'air (°C)** | **Hauteur de la mer (cm)** | **Agitation de l'eau** | **Densité au bout de la jetée (g/cm³)** | **Température de l'eau (°C)** |
+|-----------------|-----------|--------------------------------|-----------------------|-----------|--------------------------------|-----------------------------|------------------------|-----------------------|-----------------------------|---------------------------|-----------------------|---------------------------------------|-----------------------------|
+| 26 octobre 1907 | Matin     | 798.2                          | Ouest                 | 3         | 10                            | 10                         | Ouest                  | 1.2                  | 19.0                       | 32.3                     | 2 faible              | 1027.0                                | 17.7                        |
+| 26 octobre 1907 | Soir      | 797.7                          | Ouest                 | 4         | 10                            | 10                         | Ouest                  | 1.2                  | 14.7                       | 32.2                     | 2 fort                | 1026.0                                | 17.3                        |
+
+# 29 OCTOBRE 1907
+
+| **Date**        | **Heure** | **Hauteur barométrique (mmHg)** | **Direction du vent** | **Force** | **Nébulosité (Reg. C. claire)** | **Nébulosité (Reg. 2. (mer))** | **Direction des nuages** | **Pluie tombée (mm)** | **Température de l'air (°C)** | **Hauteur de la mer (cm)** | **Agitation de l'eau** | **Densité au bout de la jetée (g/cm³)** | **Température de l'eau (°C)** |
+|-----------------|-----------|--------------------------------|-----------------------|-----------|--------------------------------|-----------------------------|------------------------|-----------------------|-----------------------------|---------------------------|-----------------------|---------------------------------------|-----------------------------|
+| 29 octobre 1907 | Matin     | 791.9                          | Ouest                 | 2 faible  | 10                            | 1                           | Ouest                  | -                    | 14.7                       | 26.6                     | 1 fort                | 1027.0                                | 17.9                        |
+| 29 octobre 1907 | Soir      | 790.0                          | Ouest                 | 2         | 10                            | 1                           | Ouest                  | -                    | 16.6                       | 16.2                     | 1                     | 1026.7                                | 17.7                        |
+```

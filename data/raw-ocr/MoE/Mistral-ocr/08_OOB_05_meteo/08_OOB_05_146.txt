@@ -1,0 +1,29 @@
+|  9. 2e Septembre. 1906 | Moatin | Poir  |
+| --- | --- | --- |
+|  Hauteur Wavoniehique | 158,1 | 212.8  |
+|  Direction du vent | 8. 5. 8 | 1.5.8  |
+|  Force | 15 | 2  |
+|  15 | 1, fort | 2  |
+|  Mébulosite (Rég. 0. (mer) | 10 | 0  |
+|  Direction des mages | 10 | 1  |
+|  10 | 1.5.0 | 1.5.8  |
+|  Phie tombie |  |   |
+|  Remporature de l'air | 31,1 | 32.0  |
+|  Hauteur de la mer | 13.2 | 18.1  |
+|  1 | 1 | 1, fort  |
+|  1 | 1,032,1 | 1,032.5  |
+|  1 | 21.5 | 23.4  |
+|  9. 5 Septembre. 1906 | Moatin | Poir  |
+|  Hauteur Wavoniehique | 258.2 | 262.2  |
+|  Direction du vent | cr. 5 | 1.5.8  |
+|  Force | 15 | 2  |
+|  15 | 1 | 2  |
+|  15 | 3 | 2  |
+|  Mébulosite (Rég. 0. (mer) | 0 | 0  |
+|  Direction des mages | 0 | 1.8  |
+|  Phie tombie |  |   |
+|  Remporature de l'air | 33.8 | 32.2  |
+|  Hauteur de la mer | 49.2 | 60.4  |
+|  1 | 1, fimb. | 1, fort  |
+|  1 | 1032.6 | 1032.0  |
+|  1 | 23.1 | 24.2  |

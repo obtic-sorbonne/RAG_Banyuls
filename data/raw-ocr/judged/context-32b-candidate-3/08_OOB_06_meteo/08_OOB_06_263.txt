@@ -1,0 +1,48 @@
+```plaintext
+### OBSERVATIONS DU 1902, 16 Mars
+
+| **Nombre de bateaux sortis (pêche à l’………)** |  | **17.1** |
+| **Température de l'air** | maxima depuis la veille | **17.1** |
+|  | minima id. | **8.6** |
+| **Température de l'eau** | maxima depuis la veille |  |
+|  | minima id. |  |
+| **Pluie tombée depuis la veille, en millim.** |  | **0** |
+| **Évaporation depuis le 1900, en millim.** |  |  |
+| **Direction du vent (à terre)** | **à 9 h. m.** | **à 3 h. s.** |
+|  |  | **N. N. O.** | **N. N. O.** |
+| **Force** |  | **4 Fort** | **3 Fort** |
+| **Direction des nuages** |  | **N. N. O.** | **N. N. O.** |
+| **Nébulosité** | région Ouest (terre) | **2** | **3** |
+|  | id. Est (mer) | **2** | **3** |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B. R.)** |  | **41.4** | **416** |
+| **Agitation de l'eau** |  | **3 Faible** | **2 Fort** |
+| **Densité de l'eau au bout de la jetée** |  | **1028.0** | **1027.9** |
+| **Température** | id. Matin maxima | **21.7** |  |
+|  | minima | **7.7** |  |
+|  | id. Soir maxima | **16.7** |  |
+|  | minima | **10.7** |  |
+
+### OBSERVATIONS DU 1902, 18 Mars
+
+| **Nombre de bateaux sortis (pêche à l’………)** |  | **19.3** |
+| **Température de l'air** | maxima depuis la veille | **19.3** |
+|  | minima id. | **7.6** |
+| **Température de l'eau** | maxima depuis la veille |  |
+|  | minima id. |  |
+| **Pluie tombée depuis la veille, en millim.** |  | **0** |
+| **Évaporation depuis le 1900, en millim.** |  |  |
+| **Direction du vent (à terre)** | **à 9 h. m.** | **à 3 h. s.** |
+|  |  | **N. N. O.** | **S. S. O.** |
+| **Force** |  | **1 Fort** | **2 Fort** |
+| **Direction des nuages** |  | **N. O.** | **N. O.** |
+| **Nébulosité** | région Ouest (terre) | **3** | **10** |
+|  | id. Est (mer) | **4** | **10** |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B. R.)** |  | **19.7** |  |
+| **Agitation de l'eau** |  | **1 Fort** | **1 Fort** |
+| **Densité de l'eau au bout de la jetée** |  | **1027.9** | **1027.6** |
+| **Température** | id. Balane |  | **17.0** |
+|  | errane Matin maxima | **24.3** |  |
+|  | minima | **12.0** |  |
+|  | soir maxima |  |  |
+|  | minima |  |  |
+```

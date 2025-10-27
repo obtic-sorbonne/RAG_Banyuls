@@ -1,0 +1,21 @@
+# Salle 24 Janvier 1902
+
+|  |   |
+| --- | --- |
+|  9e Matin 3e Soir |   |
+|  Xanteur Barométrique | 467.4  |
+|  Direction Su vent | Orient  |
+|  Force | 1 faible  |
+|  18 |   |
+|  Débutosité | Reg. C. (ème)  |
+|  8 |   |
+|  Direction des mirages | 8  |
+|  Thue tombe |   |
+|  Température de l'air | 8,8  |
+|  Xanteur de la mer | 42,6  |
+|  17,5 |   |
+|  Agitation de l'eau | 17,5  |
+|  1028,9 |   |
+|  Sensité de l'eau | au large  |
+|  18 |   |
+|  Température de l'eau | 12,0  |

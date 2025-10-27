@@ -1,0 +1,46 @@
+| **Date**           | **Heure** | **Variable**                      | **Valeur**  |
+|--------------------|-----------|-----------------------------------|-------------|
+| 13 juillet 1904    | Matin     | Hauteur barométrique              | 768.3       |
+|                    |           | Direction du vent                | E           |
+|                    |           | Force                            | 2           |
+|                    |           | Nébulosité                       | Légèrement  |
+|                    |           | Direction des nuages             | E           |
+|                    |           | Pluie tombée                     | "          |
+|                    |           | Température de l'air             | 27.2       |
+|                    |           | Hauteur de la mer                | 48.0       |
+|                    |           | Agitation de l'eau               | Faible      |
+|                    |           | Densité au bout de la jetée      | 1027.4     |
+|                    |           | Température de l'eau             | 24.8       |
+| 13 juillet 1904    | Soir      | Hauteur barométrique              | ---         |
+|                    |           | Direction du vent                | ---         |
+|                    |           | Force                            | ---         |
+|                    |           | Nébulosité                       | ---         |
+|                    |           | Direction des nuages             | ---         |
+|                    |           | Pluie tombée                     | ---         |
+|                    |           | Température de l'air             | ---         |
+|                    |           | Hauteur de la mer                | ---         |
+|                    |           | Agitation de l'eau               | ---         |
+|                    |           | Densité au bout de la jetée      | ---         |
+|                    |           | Température de l'eau             | ---         |
+| 14 juillet 1904    | Matin     | Hauteur barométrique              | 768.0       |
+|                    |           | Direction du vent                | E           |
+|                    |           | Force                            | 1           |
+|                    |           | Nébulosité                       | ---         |
+|                    |           | Direction des nuages             | ---         |
+|                    |           | Pluie tombée                     | "          |
+|                    |           | Température de l'air             | 27.4       |
+|                    |           | Hauteur de la mer                | 48.7       |
+|                    |           | Agitation de l'eau               | Petitement faible |
+|                    |           | Densité au bout de la jetée      | 1027.0     |
+|                    |           | Température de l'eau             | 29.7       |
+| 14 juillet 1904    | Soir      | Hauteur barométrique              | 766.6       |
+|                    |           | Direction du vent                | SSE        |
+|                    |           | Force                            | 3           |
+|                    |           | Nébulosité                       | ---         |
+|                    |           | Direction des nuages             | ---         |
+|                    |           | Pluie tombée                     | "          |
+|                    |           | Température de l'air             | 30.9       |
+|                    |           | Hauteur de la mer                | 18.7       |
+|                    |           | Agitation de l'eau               | Forte       |
+|                    |           | Densité au bout de la jetée      | 1026.0     |
+|                    |           | Température de l'eau             | 27.6       |

@@ -1,0 +1,31 @@
+# V. J. Cyril - 1902
+
+|  **Kanteur** | **Barométrique** | **279.2** | **279.2**  |
+| --- | --- | --- | --- |
+|  Direction du vent |  | 2.8 | 2.8  |
+|  Force |  | 1 | 1.0  |
+|  **Nébulosité** | **Reg. O. (terre)** | **10** | **10**  |
+|  **Nébulosité** | **Reg. E. (mer)** | **10** | **10**  |
+|  Direction des nuages |  | 2.8 | 2.8  |
+|  **Pluie tombée** |  |  |   |
+|  Température de l'air |  | 17.4 | 17.6  |
+|  Hauteur de la mer |  | 11.2 | 11.6  |
+|  **Égitation de l'eau** |  | **4** | **4**  |
+|  Densité au bout de la jetée |  | 1028.3 | 1028.0  |
+|  **Température de l'eau** |  | **14.2** | **14.4**  |
+
+# V. J. Cyril - 1902
+
+|  **Kanteur** | **Barométrique** | **203.2** | **260.2**  |
+| --- | --- | --- | --- |
+|  Direction du vent |  | 2.8 | 30.2  |
+|  Force |  | 1 | 1.0  |
+|  **Nébulosité** | **Reg. O. (terre)** | **10** | **10**  |
+|  **Nébulosité** | **Reg. E. (mer)** | **10** | **10**  |
+|  Direction des nuages |  | 30.2 | 30.2  |
+|  **Pluie tombée** |  |  |   |
+|  Température de l'air |  | 16.8 | 17.9  |
+|  Hauteur de la mer |  | 10.0 | 10.6  |
+|  **Égitation de l'eau** |  | **0** | **1.0**  |
+|  Densité au bout de la jetée |  | 1022.8 | 1022.9  |
+|  **Température de l'eau** |  | **14.8** | **16.8**  |

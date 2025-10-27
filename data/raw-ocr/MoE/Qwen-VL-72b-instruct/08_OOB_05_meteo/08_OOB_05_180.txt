@@ -1,0 +1,26 @@
+| V. 28 Novembre 1906 | Matin | Soir |
+|---------------------|-------|------|
+| Hauteur Barométrique | 767,3 | 767,4 |
+| Direction du Vent | vr.o | vr.o |
+| Force | 5 | 5 |
+| Nébulosité | 10 Ang. Cl. (Clair) | 10 légèrement |
+| Régl. 21 (mor) | 10 | 10 légèrement |
+| Direction des nuages | vr.o | vr.o |
+| Pluie tombée | " | " |
+| Température de l'air | 19,2 | 19,1 |
+| Hauteur de la mer | 62,0 | 67,8 |
+| Agitation de l'eau | 3 | 3 faible |
+| Densité au bout de la jetée | 1029,0 | 1028,9 |
+| Température de l'eau | 16,0 | 11,6 |
+| V. 29 Novembre 1906 | Matin | Soir |
+| Hauteur Barométrique | 772,3 |  |
+| Direction du Vent | vr.cr.o |  |
+| Force | 5 | 3 |
+| Nébulosité | 0 Régl. 21 (mor) | 0 |
+| Direction des nuages | " |  |
+| Pluie tombée | " |  |
+| Température de l'air | 19,2 |  |
+| Hauteur de la mer | 67,2 |  |
+| Agitation de l'eau | 2 |  |
+| Densité au bout de la jetée | 1028,9 |  |
+| Température de l'eau | 16,0 |  |

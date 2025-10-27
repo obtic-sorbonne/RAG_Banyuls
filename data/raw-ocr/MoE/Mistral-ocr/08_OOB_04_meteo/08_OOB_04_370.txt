@@ -1,0 +1,27 @@
+|  V. 6 9thai - 1904 | 9thatin | Soir  |
+| --- | --- | --- |
+|  Hauteur Marométrique | 763.1 | 763.0  |
+|  Correction du vent | or.0.0 | or.0.0  |
+|  Force | l'fort | 3  |
+|  (Reg. C. (Vaine)) | 10 | 10  |
+|  (Reg. C. (mer)) | 10 | 10  |
+|  Correction des nuages | or.0.0 | or.0.0  |
+|  Flux Tombe | 4,371 | 4,371  |
+|  Température de l'air | 17.7 | 18.4  |
+|  Hauteur de la mer | 16.1 | 18.8  |
+|  (Agitation de l'eau) | 1 | 3  |
+|  Densité au bout de la jetée | 1038.1 | 1038.0  |
+|  Température de l'eau | 11.6 | 11.1  |
+|  V. 7 9thai - 1907 | 9thatin | Soir  |
+|  Hauteur Marométrique | 719.6 | 718.3  |
+|  Correction du vent | 1.8 | 1.8  |
+|  Force | l'fort | 17.7  |
+|  (Reg. C. (Vaine)) | 0 | 10  |
+|  (Reg. C. (mer)) | 0 | 10  |
+|  Correction des nuages | or.0.0 | 1.8  |
+|  Flux Tombe | 1.31 | 1.6  |
+|  (Température de l'air) | 13.6 | 13.6  |
+|  Hauteur de la mer | 13.7 | 13.7  |
+|  (Agitation de l'eau) | 17.7 | 17.7  |
+|  Densité au bout de la jetée | 1038.3 | 1038.0  |
+|  Température de l'eau | 11.7 | 16.8  |

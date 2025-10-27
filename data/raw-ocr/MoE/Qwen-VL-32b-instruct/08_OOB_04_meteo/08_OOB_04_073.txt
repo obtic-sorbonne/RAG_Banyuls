@@ -1,0 +1,31 @@
+V. 20 Mo.ans. 1902
+
+|  Hauteur | Praxometrique | 280,2  |
+| --- | --- | --- |
+|  Direction | Su vent | 23  |
+|  Force |  | 1  |
+|  Mébulosité | (Reg. O.- (lire) | 3  |
+|   | (Reg. F.- (mer) | 2  |
+|  Direction | des images | 28  |
+|  Pluie | Tombie |   |
+|  Température | de l'air | 12,8  |
+|  Hauteur | de la mer | 10,1  |
+|  Législation | de l'eau | 1  |
+|  Sensité | au bout de la jeté | 102,9  |
+|  Température | de l'eau | 13,3  |
+
+V. 21 Moans. 1902
+
+|  Hauteur | Praxometrique | 411,2  |
+| --- | --- | --- |
+|  Direction | Su vent | Cined  |
+|  Force |  | 27,2  |
+|  Mébulosité | (Reg. O.- (lire) | 10h30  |
+|   | (Reg. F.- (mer) | 10h30  |
+|  Direction | des images | 4,8  |
+|  Pluie | Tombie |   |
+|  Température | de l'air | 13,2  |
+|  Hauteur | de la mer | 42,2  |
+|  Législation | de l'eau | 1,5  |
+|  Sensité | au bout de la jeté | 102,8  |
+|  Température | de l'eau | 12,6  |

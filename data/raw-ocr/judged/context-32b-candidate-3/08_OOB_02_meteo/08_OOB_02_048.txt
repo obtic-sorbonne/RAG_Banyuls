@@ -1,0 +1,16 @@
+Date: 27 Abril 1901
+
+|  **Hanteur Barométrique** | **9th Matin** | **3rd Soir**  |
+| --- | --- | --- |
+|  Direction du vent | Nord | N.N.E  |
+|  Force | 1 | 17. faible  |
+|  Nébulosité / Reg. O. (terre) | 10 | 10  |
+|  Nébulosité / Reg. E. (mer) | 10 | 10  |
+|  Direction des nuages | Nord | Nord  |
+|  Pluie tombée | 0 | quelques gouttes  |
+|  Température de l'air | 11,7 | 11,5  |
+|  Hauteur de la mer | 36,3 | 37,8  |
+|  Agitation de l'eau | 1 fort | 17. faible  |
+|  Densité de l'eau / au bout de la jetée | 1028,2 | 1028,4  |
+|  Densité de l'eau / au large |  |  |
+|  Température de l'eau | 13,6 | 13,1  |

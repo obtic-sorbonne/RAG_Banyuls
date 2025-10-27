@@ -1,0 +1,29 @@
+| V. 15 Octobre - 1907 | Matin | Soir |
+|----------------------|-------|------|
+| Hauteur Barométrique | 756,6 | 758,0 |
+| Direction du Vent    | S. S. O | S. S. O |
+| Force                | 3 fort | 1 |
+| Nébulosité           | 10 | 10 |
+| Reg. O. (mm)         | 10 | 10 |
+| Direction des nuages | Ouest | Ouest |
+| Pluie tombée         | 6,371 | quelques g |
+| Température de l'air | 14,1 | 16,9 |
+| Hauteur de la mer    | 81,6 | 24,0 |
+| Agitation de l'eau   | 17. fort | 2 |
+| Densité au haut de la jetée | 1027,7 | 1026,6 |
+| Température de l'eau | 18,8 | 19,4 |
+
+| V. 16 Octobre - 1907 | Matin | Soir |
+|----------------------|-------|------|
+| Hauteur Barométrique | 747,8 | 749,8 |
+| Direction du Vent    | S. S. O | S. S. O |
+| Force                | 2 | 3 fort |
+| Nébulosité           | 10 | 10 |
+| Reg. O. (mm)         | 10 | 10 |
+| Direction des nuages | S. S. O | S. S. O |
+| Pluie tombée         | 17,29 | 30,29 |
+| Température de l'air | 14,9 | 12,6 |
+| Hauteur de la mer    | 39,0 | impossible à prendre la hauteur, l'eau couvre les bornes |
+| Agitation de l'eau   | 1 fort | 2 |
+| Densité au haut de la jetée | 1026,7 | 1027,3 |
+| Température de l'eau | 19,1 | 19,2 |

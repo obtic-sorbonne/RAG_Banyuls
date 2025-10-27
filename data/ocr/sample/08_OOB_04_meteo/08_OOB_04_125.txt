@@ -1,0 +1,33 @@
+# V. 23 Oct 1902
+
+|  Name | Position | V.  |
+| --- | --- | --- |
+|  Hauteur Barométrique | 766.4 | 77.3  |
+|  Direction du vent | 8.0 | 7.8  |
+|  Force | 15 | 2  |
+|  Nébulosité (Reg. O. (terre)) | 0 | 0  |
+|  Nébulosité (Reg. E. (mer)) | 0 | 0  |
+|  Direction des nuages | 7.8 | 0  |
+|  Pluie tombée | 0 | 0  |
+|  Température de l'air | 22.2 | 27.6  |
+|  Hauteur de la mer | 41.8 | 12.2  |
+|  Agitation de l'eau | 1 faible | 1  |
+|  Densité au bout de la jetée | 1027.4 | 1027.1  |
+|  Température de l'eau | 22.2 | 22.3  |
+
+# V. 24 Oct 1902
+
+|  Name | Position | V.  |
+| --- | --- | --- |
+|  Hauteur Barométrique | 764.0 | 77.0  |
+|  Direction du vent | 0.0 | 0.0  |
+|  Force | 15 | 2  |
+|  Nébulosité (Reg. O. (terre)) | 0 | 0  |
+|  Nébulosité (Reg. E. (mer)) | 10 | 10  |
+|  Direction des nuages | 0.0 | 0.0  |
+|  Pluie tombée | 0.0 | 0.0  |
+|  Température de l'air | 20.0 | 20.0  |
+|  Hauteur de la mer | 38.7 | 38.7  |
+|  Agitation de l'eau | 2 faible | 2  |
+|  Densité au bout de la jetée | 1027.7 | 1027.7  |
+|  Température de l'eau | 21.7 | 21.7  |

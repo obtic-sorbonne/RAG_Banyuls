@@ -1,0 +1,18 @@
+```markdown
+# 15 Août 1907
+
+| **Date et heure**    | **Matin** | **Soir** |
+|---------------------|----------|----------|
+| Hauteur Barométrique | 762.4 mmHg | 762.6 mmHg |
+| Direction du Vent    | S. E. | S. E. |
+| Force               | 1 (faible) | 1 (faible) |
+| Nébulosité (Reg. 0. (Ciel clair)) | 10 | 10 |
+| (Reg. 6. (nu))      | 10 | 10 |
+| Direction des nuages | S. O. | S. O. |
+| Pluie tombée         | —— | —— |
+| Température de l'air | 23.5 °C | 32.2 °C |
+| Hauteur de la mer    | 20.5 cm | 24.0 cm |
+| Agitation de l'eau  | 1 (faible) | 1 (faible) |
+| Densité au bout de la jetée | 1026.0 g/cm³ | 1027.0 g/cm³ |
+| Température de l'eau | 23.0 °C | 23.8 °C |
+```

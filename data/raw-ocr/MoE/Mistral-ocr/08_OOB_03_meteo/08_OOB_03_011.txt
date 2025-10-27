@@ -1,0 +1,17 @@
+# Date 12 Octobre 1901
+
+|  Name | Q# | Mo. | Sour  |
+| --- | --- | --- | --- |
+|  Hauteur Barometrique | 7 | 5.3, 7 | 7 62, 3  |
+|  Direction du vent |  | 5.8, 5 | 8  |
+|  Force |  | 1 | 1  |
+|  Reg. D. (terre) |  | 10 | 10  |
+|  Pédulosite |  |  |   |
+|  Reg. E. (mer) |  | 10 | 10  |
+|  Direction des nuages |  | 8 11 | N.N.O  |
+|  Flux tombe |  | 0,030 | 0,003  |
+|  Température de l'air |  | 13,5 | 13,5  |
+|  Hauteur de la mer |  | 21,1 | 36,7  |
+|  Égitation de l'eau |  | 11/21 | 1/21  |
+|  Densité de l'eau |  | 1027,3 | 1026,7  |
+|  **Tangèrature de l'eau** |  | 17,5 | 17,5  |

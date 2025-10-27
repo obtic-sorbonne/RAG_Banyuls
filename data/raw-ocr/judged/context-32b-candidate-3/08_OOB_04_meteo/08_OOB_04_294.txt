@@ -1,0 +1,19 @@
+```
+# V. 30 Octobre 1903
+
+|  **Position** | **Matin** | **Soir**  |
+| --- | --- | --- |
+|  Hauteur Barométrique | 757.8 | 755.5  |
+|  Direction du vent | nord-est | nord-est  |
+|  Force | 5 | 3  |
+|  Nébulosité | 8 | 7  |
+|  Reg. C. (terre) | 10 | 10  |
+|  Reg. F. (mer) | 10 | 10  |
+|  Direction des nuages | 10 | 10  |
+|  Pluie tombée | 0 | 0  |
+|  Température de l'air | 13.9 | 16.8  |
+|  Hauteur de la mer | 19.1 | 13.5  |
+|  Agitation de l'eau | 1.0 | 1.0  |
+|  Densité au bout de la jetée | 1028.5 | 1028.9  |
+|  Température de l'eau | 16.8 | 16.9  |
+```

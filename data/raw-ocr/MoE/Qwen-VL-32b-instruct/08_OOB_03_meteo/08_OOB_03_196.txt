@@ -1,0 +1,13 @@
+| Date       | Heure | Température (°C) | Pression (mm Hg) | Humidité (%) | Condition du Ciel / Pluie | Remarques                       |
+|------------|-------|------------------|------------------|--------------|--------------------------|----------------------------------|
+| 07/01/1850 | 06:00 | 2.3              | 762.5            | 68           | Nuageux                 | Brume légère avant 8h            |
+| 07/01/1850 | 12:00 | 4.2              | 760.8            | 62           | Partiellement nuageux   | Ensoleillé entre 11h et 13h      |
+| 07/01/1850 | 18:00 | 3.1              | 765.0            | 70           | Nuageux                 | Pluie fine après 17h             |
+| 08/01/1850 | 06:00 | 1.9              | 768.2            | 75           | Nuageux                 | Brouillard important à l'aube    |
+| 08/01/1850 | 12:00 | 3.8              | 766.5            | 68           | Nuageux                 | On aperçoit le soleil occasionnel |
+| 08/01/1850 | 18:00 | 2.6              | 769.9            | 72           | Nuageux                 | Pluie cesse vers 18h             |
+| 09/01/1850 | 06:00 | 1.5              | 772.0            | 78           | Nuageux                 | Brouillard persistant            |
+| 09/01/1850 | 12:00 | 3.0              | 770.3            | 70           | Partiellement nuageux   | Temps clair vers 12h            |
+| 09/01/1850 | 18:00 | 2.0              | 774.5            | 76           | Nuageux                 | Pluie entre 16h et 18h          |
+
+**Notes:** Les dates sont au format jour/mois/année, et les heures sont computées en 24h. Les valeurs sont relevées selon la norme météorologique de l'époque.  

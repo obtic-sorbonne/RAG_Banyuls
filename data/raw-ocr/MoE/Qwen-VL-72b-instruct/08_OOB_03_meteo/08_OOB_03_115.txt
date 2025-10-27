@@ -1,0 +1,16 @@
+| Date | 29 janvier 1902 |
+|---|---|
+| **Paramètres** | **9h Matin** | **15h After-midi** | **21h Soir** |
+| **Hauteur Barométrique** | 769,3 |  | 769,4 |
+| **Direction du vent** | n. N. O |  | ouest |
+| **Force** | faible |  | 1 |
+| **Nébulosité** | Reg. 0. (claire) | 10 | 10 |
+| **Reg. E. (mar)** | 10 |  | 10 |
+| **Direction des nuages** | Onest |  | N. N. O |
+| **Pluie tombée** | quelques g. |  | quelques g. |
+| **Température de l'air** | 10,8 |  | 11,0 |
+| **Hauteur de la mer** | 60,2 |  |  |
+| **Agitation de l'eau** | 2 |  |  |
+| **Densité de l'eau** | p'bout de la jetée | 1029,2 | 1028,9 |
+| **au larg** |  |  |  |
+| **Température de l'eau** | 12,1 |  | 12,0 |

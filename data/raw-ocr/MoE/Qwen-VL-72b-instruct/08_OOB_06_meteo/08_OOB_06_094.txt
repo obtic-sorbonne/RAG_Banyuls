@@ -1,0 +1,37 @@
+| **OBSERVATIONS DU 1960/10** | **Nombre de bateaux sortis (pêche à l.** | **Néant** |
+| --- | --- | --- |
+| Température de l'air maxima depuis la veille | 12.3 |
+| Température de l'air minima id. | 7.3 |
+| Température de l'eau maxima depuis la veille |  |
+| Température de l'eau minima id. |  |
+| Pluie tombée depuis la veille, en millim. | " |
+| Evaporation depuis le 190, en millim. |  |
+| **Direction du vent (à terre)** | **à 9 h. m.** | **à 3 h. s.** |
+| --- | --- | --- |
+| Force | 4/4olk | 2 |
+| Direction des nuages | 0.5.0 | Oud. |
+| Nebulosité région Ouest (terre) | 1 | 10 |
+| Nebulosité Est (mer) | 3 | 10 |
+| Hauteur de la mer, en centimètres, au-dessus du zéro | 14.0 | 0.0 |
+| Agitation de l'eau | 1 | 1 |
+| Densité de l'eau au bout de la jetée | 1029.3 | 1028.0 |
+| Température id. | 13.4 | 13.7 |
+
+| **OBSERVATIONS DU 1960/12** | **Nombre de bateaux sortis (pêche à l.** | **Néant** |
+| --- | --- | --- |
+| Température de l'air maxima depuis la veille | 16.9 |
+| Température de l'air minima id. | 6.6 |
+| Température de l'eau maxima depuis la veille |  |
+| Température de l'eau minima id. |  |
+| Pluie tombée depuis la veille, en millim. | quelques |
+| Evaporation depuis le 190, en millim. |  |
+| **Direction du vent (à terre)** | **à 9 h. m.** | **à 3 h. s.** |
+| --- | --- | --- |
+| Force | 1 | 1/4olk |
+| Direction des nuages | 0.5.0 | 0.5.0 |
+| Nebulosité région Ouest (terre) | 5 | 10 |
+| Nebulosité Est (mer) | 2 | 10 |
+| Hauteur de la mer, en centimètres, au-dessus du zéro | 17.0 | 2.0 |
+| Agitation de l'eau | fait | 1 |
+| Densité de l'eau au bout de la jetée | 1028.3 | 1026.8 |
+| Température id. | 13.2 | 13.6 |

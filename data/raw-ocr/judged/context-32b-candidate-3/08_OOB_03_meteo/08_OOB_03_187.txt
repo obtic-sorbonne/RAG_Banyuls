@@ -1,0 +1,18 @@
+# Date: 16 Mai 1902
+
+| **Paramètre** | **9h Matin** | **15h Bon** |
+|---------------|--------------|-------------|
+| **Hauteur Barométrique (mm)** | 769.3 | 764.6 |
+| **Direction du vent** | croît | S.S.E. |
+| **Force du vent (Beaufort)** | 1 fort | 1 froid |
+| **Nébulosité** | Reg. O. (claire) | 10 | 10 |
+| **- Reg. E. (mer)** | 10 | 10 |
+| **Direction des nuages** | cr.cr.0 | cr.cr.0 |
+| **Pluie tombée** | - | - |
+| **Température de l'air (°C)** | 16.4 | 17.7 |
+| **Hauteur de la mer (m)** | 64.9 | 78.1 |
+| **Agitation de l'eau** | faible | faible |
+| **Densité de l'eau** | - | - |
+| **- au bout de la jetée** | 1027.8 | 1027.6 |
+| **- au large** | - | - |
+| **Température de l'eau (°C)** | 11.2 | 11.8 |

@@ -1,0 +1,37 @@
+```
+N°
+
+Sortie du 2 9<sup>e</sup> 1905
+
+Départ de **Banyuls** Port-Vendres à 8<sup>h</sup>15 heures du matin  
+pour la pêche  
+Arrivée à Banyuls à 11<sup>h</sup>15  
+
+Départ de **Banyuls**  
+à 2<sup>h</sup>10 heures du matin  
+pour Port-Vendres  
+Arrivée à 2<sup>h</sup>50  
+
+Départ de  
+à heures du  
+pour  
+
+Arrivée au mouillage à **Port-Vendres** à 6<sup>h</sup> du matin  
+
+État du temps :  
+
+Passagers à bord :  
+
+Objet de la sortie :  
+Pêcher au Chalut et à la drague  
+(pour 6 envois) Amphitrites.  
+
+Consommation :  
+{  
+20 briquettes de 12 Poids en kilos 240 k.  
+1/2 huile Total en litres 172  
+
+Dépenses :  
+
+Observations :
+```

@@ -1,0 +1,27 @@
+|  V. 27 x 1903 | Matin | Soir  |
+| --- | --- | --- |
+|  Yauteur Marométrique | 7/8.1 |   |
+|  Direction du vent | 1.0 |   |
+|  Force | 1 |   |
+|  Mébulosité | Reg. O. (lire) | 3 kg/m²  |
+|  Direction des nuages |  |   |
+|  Mise tombe |  |   |
+|  Température de l'air | 4.4 |   |
+|  Yauteur de la mer | 42.3 |   |
+|  Régulation de l'eau | 15.6 |   |
+|  Densité au bout de la jetée | 1027.2 |   |
+|  Température de l'eau | 11.6 |   |
+
+|  V. 28 x 1903 | Matin | Soir  |
+| --- | --- | --- |
+|  Yauteur Marométrique | 7/9.3 | 7/8.2  |
+|  Direction du vent | Ouest |   |
+|  Force | 1 |   |
+|  Mébulosité | Reg. O. (lire) | 6 kg/m²  |
+|  Direction des nuages |  |   |
+|  Mise tombe |  |   |
+|  Température de l'air | 4.2 | 7.0  |
+|  Yauteur de la mer | 11.0 | 41.7  |
+|  Régulation de l'eau | 2 faible | 15.6  |
+|  Densité au bout de la jetée | 1027.2 | 1027.0  |
+|  Température de l'eau | 11.8 | 18.1  |

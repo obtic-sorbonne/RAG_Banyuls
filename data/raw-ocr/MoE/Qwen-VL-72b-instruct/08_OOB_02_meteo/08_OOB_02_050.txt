@@ -1,0 +1,17 @@
+| **Éléments observés** | **9h Matin** | **3h Soir** |
+|----------------------|-------------|-------------|
+| **Hauteur Barométrique** | 760,6 | 760,3 |
+| **Direction du vent** | Ouest | " |
+| **Force** | 1 | 0 |
+| **Nébulosité** | | |
+|   Reg. 6 (Terre) | 6 légèrement couvert | 10 |
+|   Reg. E (Mer) | 2 légèrement couvert | 10 |
+| **Direction des nuages** | Ouest | Nord |
+| **Pluie tombée** | quelques gouttes | quelques gouttes |
+| **Température de l'air** | 14,1 | 14,9 |
+| **Hauteur de la mer** | 11,3 | 46,4 |
+| **Agitation de l'eau** | 1 faible | 1 faible |
+|    **au bout de la jetée** | 10 à 28,3 | - |
+| **Densité de l'eau** | | |
+|   **au large** | | |
+| **Température de l'eau** | 13,7 | 14,1 |

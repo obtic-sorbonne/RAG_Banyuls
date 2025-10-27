@@ -1,0 +1,29 @@
+| V. 12 Décembre 1906 | Matin | Soir |
+|---------------------|-------|------|
+| Hauteur Barométrique | 769.3 | 769.3 |
+| Direction du Vent | Ouest | " |
+| Force | 5 | 0 |
+| Nébulosité | Reg. c. (clère) | 10 | 10 |
+| (Reg. x. (nur)) | 10 | 10 |
+| Direction des nuages | Dart | cr. cr. o |
+| Pluie tombée | 9.0 | " |
+| Température de l'air | 9.0 | 12.14 |
+| Hauteur de la mer | 19.6 | 43.1 |
+| Agitation de l'eau | 2 | 1 fort |
+| Densité au bout de la jetée | 1029.4 | 1029.0 |
+| Température de l'eau | 14.0 | 14.1 |
+
+| V. 14 Décembre 1906 | Matin | Soir |
+|---------------------|-------|------|
+| Hauteur Barométrique | 762.3 | 762.3 |
+| Direction du Vent | cr. o | cr. o |
+| Force | 5 | 0 |
+| Nébulosité | Reg. c. (clère) | 10 | 10 |
+| (Reg. x. (nur)) | 10 | 10 |
+| Direction des nuages | cr. o | cr. o |
+| Pluie tombée | 1.0 | quelque g |
+| Température de l'air | 12.6 | 10.6 |
+| Hauteur de la mer | 62.7 | 77.8 |
+| Agitation de l'eau | 2 | 2 |
+| Densité au bout de la jetée | 1029.3 | 1029.4 |
+| Température de l'eau | 13.7 | 13.6 |

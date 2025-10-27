@@ -1,0 +1,18 @@
+| Date | Matin | Soir |
+|------|-------|------|
+| V. 6 Novembre - 1905 | **Hauteur Barométrique** | 7/2.8 |
+|      | Direction du Vent | cr.cr.o |
+|      | Force | 1 |
+|      | Nébulosité { Reg. o (claire) } | w |
+|      |       { Reg. ii (mer) } | w |
+|      | Direction des images | Sud |
+|      | Pluie tombée | 13.62 p |
+|      | Température de l'air | 10.4° |
+|      | Hauteur de la mer | 34.1 |
+|      | Agitation de l'eau | 2 T. fort. |
+|      | Densité au bout de la jetée | 1028./p |
+|      | Température de l'eau | 16.4° |
+
+| Date | Matin | Soir |
+|------|-------|------|
+| V. 7 Novembre - 1905 |   |   |

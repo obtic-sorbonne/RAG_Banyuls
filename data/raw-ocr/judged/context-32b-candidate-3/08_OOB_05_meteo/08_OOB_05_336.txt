@@ -1,0 +1,35 @@
+```markdown
+# 31 OCTOBRE 1907
+
+| **Date**       | **Matin** | **Soir** |
+|----------------|----------|----------|
+| **Hauteur barométrique (mmHg)** | 793.7 | 793.0 |
+| **Direction du vent** | S.O. | S.O. |
+| **Force** | 1/5 | 1/5 |
+| **Nébulosité (Rég. 0. mer)** | 0 | 10 |
+| **Nébulosité (Rég. 2. mer)** | 2 | 10 |
+| **Direction des nuages** | S.O. | S.O. |
+| **Pluie tombée (mm)** | - | - |
+| **Température de l'air (°C)** | 9.3 | 11.2 |
+| **Hauteur de la mer (cm)** | 33.2 | 33.2 |
+| **Agitation de l'eau** | 1 | 1 fort |
+| **Densité au bout de la jetée (g/cm³)** | 1028.3 | 1027.8 |
+| **Température de l'eau (°C)** | 14.8 | 14.2 |
+
+# 2 JANVIER 1908
+
+| **Date**       | **Matin** | **Soir** |
+|----------------|----------|----------|
+| **Hauteur barométrique (mmHg)** | 761.7 | 779.7 |
+| **Direction du vent** | S.O. | S.O. |
+| **Force** | 1/5 | 1/5 |
+| **Nébulosité (Rég. 0. mer)** | 10 | 10 |
+| **Nébulosité (Rég. 2. mer)** | 10 | 10 |
+| **Direction des nuages** | S.O. | S.O. |
+| **Pluie tombée (mm)** | - | - |
+| **Température de l'air (°C)** | 9.6 | 11.7 |
+| **Hauteur de la mer (cm)** | 37.8 | 39.3 |
+| **Agitation de l'eau** | 1 | 1 fort |
+| **Densité au bout de la jetée (g/cm³)** | 1028.7 | 1028.0 |
+| **Température de l'eau (°C)** | 14.6 | 14.0 |
+```

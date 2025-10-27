@@ -1,0 +1,16 @@
+|  Obs. | 9 H. Matin | 3 H. Soir |
+| --- | --- | --- |
+| Hauteur Barométrique | 760,8 | 760,2 |
+| Direction du vent | Nord | Nord |
+| Force | 3 | 3 |
+| Nébulosité | Reg. N. (claire) | 2 lég. cons. | 1 |
+| | Reg. E. (mar.) | 3 lég. cons. | 7 |
+| Direction des nuages | Nord | Nord |
+| Pluie tombée | " | " |
+| Température de l'air | 15,3 | 15,6 |
+| Hauteur de la mer | 54,0 | 39,2 |
+| Agitation de l'eau | 2 | 2 |
+| Densité de l'eau | 1028,8 | 1029,1 |
+| | au bout de la jetée |  |  |
+| | au large |  |  |
+| Température de l'eau | 17,5 | 17,5 |

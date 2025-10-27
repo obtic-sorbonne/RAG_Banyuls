@@ -1,0 +1,27 @@
+|  V. 1* X 1907 | Mbatin | Soir  |
+| --- | --- | --- |
+|  Hauteur Waxometrique | 261,1 | 2/9.3  |
+|  Direction du Vent | 1.0 | "  |
+|  Force - - 5 | 1 | 0  |
+|  Mébulonte (Reg. G. (kine) | 2 | 3  |
+|  Mébulonte (Reg. G. cmr) | 3 | 1  |
+|  Direction des nuages | or.ur.0 | "  |
+|  Neue Tomble | 10.2 | 15.0  |
+|  Densierature de l'air | 42.8 | 49.8  |
+|  Hauteur de la mer | 42.8 | 2/2/16  |
+|  Ggitation de l'eau | 1 | 2/2/16  |
+|  Demite au bout de la jetée | 1024.6 | 1024.1  |
+|  Densierature de l'eau | 1/1/1 | 1/1.4  |
+|  V. 1 X 1907 | Mbatin | Soir  |
+|  Hauteur Waxometrique | 2/7.1 | 2/6.8  |
+|  Direction du Vent | 1.6 | 1.8  |
+|  Force - - 5 | 1 | 1/2/16  |
+|  Mébulonte (Reg. G. (kine) | 10 | 10  |
+|  Mébulonte (Reg. G. cmr) | 10 | 10  |
+|  Direction des nuages | or.ur.0 | or.0  |
+|  Neue tomble | " | quatres  |
+|  Densierature de l'air | 18.6 | 13.2  |
+|  Hauteur de la mer | 39.2 | 36.3  |
+|  Ggitation de l'eau | 1 | 1  |
+|  Demite au bout de la jetée | 1026.8 | 1023.2  |
+|  Densierature de l'eau | 14.2 | 14.8  |

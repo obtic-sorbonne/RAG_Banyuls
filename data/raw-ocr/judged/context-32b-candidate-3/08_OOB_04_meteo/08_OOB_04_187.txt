@@ -1,0 +1,33 @@
+# N° 1er février - 1903
+
+|  Nom | Date  |
+| --- | --- |
+|  Hauteur Barométrique | 761.4  |
+|  Direction du vent | 1.0  |
+|  Force | 1  |
+|  Nébulosité (Reg. O. (terre)) | 10  |
+|  Nébulosité (Reg. E. (mer)) | 10  |
+|  Direction des nuages | 0.1  |
+|  Pluie tombée | 8.4  |
+|  Température de l'air | 6.1  |
+|  Hauteur de la mer | 1  |
+|  Agitation de l'eau | 1  |
+|  Densité au bout de la jetée | 1028.8  |
+|  Température de l'eau | 11.7  |
+
+# N° 2 février - 1903
+
+|  Nom | Date  |
+| --- | --- |
+|  Hauteur Barométrique | 761.4  |
+|  Direction du vent | 1.0  |
+|  Force | 4  |
+|  Nébulosité (Reg. O. (terre)) | 12  |
+|  Nébulosité (Reg. E. (mer)) | 12  |
+|  Direction des nuages | 1.8  |
+|  Pluie tombée | 8.0  |
+|  Température de l'air | 40.0  |
+|  Hauteur de la mer | 40.0  |
+|  Agitation de l'eau | 4  |
+|  Densité au bout de la jetée | 1089.0  |
+|  Température de l'eau | 10.2  |

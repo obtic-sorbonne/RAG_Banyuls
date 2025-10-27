@@ -1,0 +1,29 @@
+|  9. 7 Mbars. 1907 | Mbaru | Poir  |
+| --- | --- | --- |
+|  Nauteur Pracométrique | 108.0 | 107.3  |
+|  Direction du vent | or.0.8 | or.0.0  |
+|  Force | 3 fort | 10  |
+|  (Ches.0. (lire) | 10 | 10  |
+|  Méburborite | 10 | 10  |
+|  (Ches. 20. (nur) | 10 | 10  |
+|  Direction des mages | or.0 | or.0  |
+|  (Sain Pombie) | 3.7/ | 10.0  |
+|  Dempirature de l'air | 8.3 | 10.0  |
+|  Nauteur de la mer | 64.0 | 63.0  |
+|  (Agitation de l'eau) | 4 | 3 fort  |
+|  Densité au bout de la jetée | 1029.0 | 1029.0  |
+|  Dempirature de l'eau | 10.7 | 11.0  |
+|  9. 8 Mbars. 1907 | Matin | Poir  |
+|  Nauteur Pracométrique | 108.0 | 107.3  |
+|  Direction du vent | or.0 | or.0  |
+|  Force | 10 | 1 faible  |
+|  (Ches.0. (terre) | 10 | 10  |
+|  Méburborite | 10 | 10  |
+|  (Ches 20. (nur) | 10 | 10  |
+|  Direction des mages | or.0.8 | or.0.0  |
+|  (Sain Pombie) | 10.1 | 11.1  |
+|  Dempirature de l'air | 10.1/ | 64.0  |
+|  Nauteur de la mer | 69.1/ | 64.0  |
+|  (Agitation de l'eau) | 3 | 3  |
+|  Densité au bout de la jetée | 1029.7 | 1029.9  |
+|  Dempirature de l'eau | 10.1 | 10.7  |

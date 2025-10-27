@@ -1,0 +1,17 @@
+# Date - 30 Abril 1901
+
+|   | 3" Matin | 3" Soir |
+| --- | --- | --- |
+| Hauteur Barométrique | 707.3 | 703.7 |
+| Direction du vent | N.N.E | 340 |
+| Force | 2 faible | 2 faible |
+| Nébulosité / Reg. O. (terre) | 17 | 7 |
+| Nébulosité / Reg. E. (mer) | 0 | 0 |
+| Direction des nuages | 140 | 140 |
+| Pluie tombée | 1.70 | 14.7 |
+| Température de l'air | 18.0 | 14.7 |
+| Hauteur de la mer | 0.2 | 18.2 |
+| Agitation de l'eau | 1 T. Soit | 1 T. Faible |
+| Densité de l'eau / au bout de la jetée | 1027.9 | 1028.1 |
+| Densité de l'eau / au large |  |  |
+| Température de l'eau | 13.0 | 14.0 |

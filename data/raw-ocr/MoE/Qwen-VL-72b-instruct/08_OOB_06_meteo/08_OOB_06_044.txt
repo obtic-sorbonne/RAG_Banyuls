@@ -1,0 +1,41 @@
+OBSERVATIONS DU 1900 12 Juillet
+
+| Nombre de bateaux sortis (pêche à l...) |  |
+| --- | --- |
+| Température de l'air | maxima depuis la veille. | 28.1 |
+|  | minima id. | 17.0 |
+| Température de l'eau | maxima depuis la veille. |  |
+|  | minima id. |  |
+| Pluie tombée depuis la veille, en millim. | quelques g. |
+| Evaporation depuis le 190 , en millim. |  |
+|  | à 9 h. m. | à 3 h. s. |
+| Direction du vent (à terre). | N.N.O | N.O.S.E |
+| Force |  | 1 fort | 1 fort |
+| Direction des nuages |  | N.O | N.O |
+| Nébulosité | région Ouest (terre) | 10 | 10 |
+|  | id. Est (mer) | 10 | 10 |
+| Hauteur de la mer, en centimètres, au-dessus du zéro. | 41.2 | 41.4 |
+| Agitation de l'eau | faible | 1 |
+| Densité de l'eau au bout de la jetée. | 1.027.0 | 1.026.7 |
+| Température id. | 18.7 | 20.0 |
+
+OBSERVATIONS DU 1900 13 Juillet
+
+| Nombre de bateaux sortis (pêche à l...) |  |
+| --- | --- |
+| Température de l'air | maxima depuis la veille. | 33.3 |
+|  | minima id. | 17.7 |
+| Température de l'eau | maxima depuis la veille. |  |
+|  | minima id. |  |
+| Pluie tombée depuis la veille, en millim. | 0 |
+| Evaporation depuis le 190 , en millim. |  |
+|  | à 9 h. m. | à 3 h. s. |
+| Direction du vent (à terre). | S.S.E | S.S.E |
+| Force |  | 1 faible | 1 |
+| Direction des nuages |  | N.N.O | N.N.O |
+| Nébulosité | région Ouest (terre) | 0 | 0 |
+|  | id. Est (mer) | 0 | 2 |
+| Hauteur de la mer, en centimètres, au-dessus du zéro. | 36.8 |  |
+| Agitation de l'eau | faible | 1 faible |
+| Densité de l'eau au bout de la jetée. | 1.027.0 | 1.026.8 |
+| Température id. | 19.7 | 22.6 |

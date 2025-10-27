@@ -1,0 +1,53 @@
+```plaintext
+### OBSERVATIONS DU 1901 3 Juin
+
+| **Nombre de bateaux sortis (pêche à l** | **27.7** |
+| **Température de l'air** |  |
+| - **maxima depuis la veille...** | **27.7** |
+| - **minima id.** | **10.1** |
+| **Température de l'eau** |  |
+| - **maxima depuis la veille...** |  |
+| - **minima id.** |  |
+| **Pluie tombée depuis la veille, en millim.** | quelques gouttes |
+| **Evaporation depuis le 1901, en millim.** |  |
+| **Direction du vent (à terre)** | **à 9 h. m.** | **à 3 h. s.** |
+| **Force** | 1 fort | 2 |
+| **Direction des nuages** | S.S.E. | S.S.W. |
+| **Nébulosité** |  |
+| - **région Ouest (terre)** | 10 | 10 |
+| - **id. Est (mer)** | 0 | 10 |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.)** | **38.2** |  |
+| **Agitation de l'eau** | 1 | 1 fort |
+| **Densité de l'eau au bout de la jetée** | **1027.3** | **1027.3** |
+| **Température id.** | **16.3** | **16.3** |
+| - **id. Balança** | **20.18** | **19.7** |
+| - **id. Terrasse - Matin** | **Maxima 31.3** |  |
+| - **id. Minima** | **12.7** |  |
+| - **id. - Soir** | **Maxima 31.6** | **Minima 15.0** |
+
+### OBSERVATIONS DU 1901 6 Juin
+
+| **Nombre de bateaux sortis (pêche à l'ancien)** | **2** |
+| **Température de l'air** |  |
+| - **maxima depuis la veille...** | **27.3** |
+| - **minima id.** | **13.4** |
+| **Température de l'eau** |  |
+| - **maxima depuis la veille...** |  |
+| - **minima id.** |  |
+| **Pluie tombée depuis la veille, en millim.** | **1.1** |
+| **Evaporation depuis le 1901, en millim.** |  |
+| **Direction du vent (à terre)** | **à 9 h. m.** | **à 3 h. s.** |
+| **Force** | 1 | 1 |
+| **Direction des nuages** | S.S.E. | S.W. |
+| **Nébulosité** |  |
+| - **région Ouest (terre)** | 0 | 10 |
+| - **id. Est (mer)** | 0 | 10 |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.)** | **44.9** | **36.2** |
+| **Agitation de l'eau** | 1 | 1 |
+| **Densité de l'eau au bout de la jetée** | **1027.3** | **1027.3** |
+| **Température id.** | **17.7** | **18.9** |
+| - **id. Balança** | **26.3** | **24.0** |
+| - **id. Terrasse - Matin** | **Maxima 31.3** |  |
+| - **id. Minima** | **12.7** |  |
+| - **id. - Soir** | **Maxima 39.3** | **Minima 23.7** |
+```

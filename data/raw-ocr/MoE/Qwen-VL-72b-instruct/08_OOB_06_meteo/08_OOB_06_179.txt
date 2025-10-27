@@ -1,0 +1,46 @@
+| OBSERVATIONS DU 1901 21 Juillet |
+| --- |
+| **Nombre de bateaux sortis (pêche à l’anchois)** |
+| Température de l'air | maxima depuis la veille | minima | id. |
+| Température de l'eau | maxima depuis la veille | minima | id. |
+| Pluie tombée depuis la veille, en millim |  |
+| Evaporation depuis le 190, en millim |  |
+| Direction du vent (à terre) | à 9 h. m. | à 3 h. s. |
+| Force | E. S. E. | S. S. E. | 1 | 1 fort. |
+| Direction des nuages |  |  |
+| Nébulosité | région Ouest (terre) | 0 | 0 |
+|  | id. Est (mer) | 0 | 0 |
+| Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.) | 49,5 | 49,8 |
+| Agitation de l'eau | faible | 1 |
+| Densité de l'eau au bout de la jetée | 1029,3 | 1024,6 |
+| Température |- iS. Boulogne | 24,0 | 23,8 |
+|  | - iS. Terrasse |  | 24,0 | 23,8 |
+|  |     | id. |  |  |
+|  |     | id. |  |  |
+|  |     | id. |  |  |
+|  |     | maxima | 30,6 | 37,3 |
+|  |     | minima | 22,9 | 22,9 |
+|  |  | 3 |
+| OBSERVATIONS DU 1901 22 Juillet |
+| --- |
+| **Nombre de bateaux sortis (pêche à l…)** |
+| Température de l'air | maxima depuis la veille | prises aux thermomètres du jardin 34,4 |
+|  | minima | 21,9 |
+| Température de l'eau | maxima depuis la veille | minima | id. |
+| Pluie tombée depuis la veille, en millim |  |
+| Evaporation depuis le 190, en millim |  |
+| Direction du vent (à terre) | à 9 h. m. | à 3 h. s. |
+| Force | N.E. | S.S.E. | 1 | 1 fort. |
+| Direction des nuages |  |  |
+| Nébulosité | région Ouest (terre) | 0 | 0 |
+|  | id. Est (mer) | 0 | 0 |
+| Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.) | 48,8 | 55,8 |
+| Agitation de l'eau | faible | 1 |
+| Densité de l'eau au bout de la jetée | 1024,6 | 1024,6 |
+| Température |- iS. Boulogne | 27,7 | 34,7 |
+|  | - iS. Terrasse |  | 27,7 | 34,7 |
+|  |     | id. |  |  |
+|  |     | id. |  |  |
+|  |     | id. |  |  |
+|  |     | maxima | 38,4 | 38,4 |
+|  |     | minima | 19,9 | 19,9 |

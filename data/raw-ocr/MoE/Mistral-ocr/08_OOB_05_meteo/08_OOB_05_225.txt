@@ -1,0 +1,29 @@
+|  V. 29 Mbars. 1907 | Mbatin | Eir  |
+| --- | --- | --- |
+|  Mauteur Moxométrique | 788.6 |   |
+|  Direction du vent | 5.5.8 |   |
+|  Force | 1/201 |   |
+|  Méburôiste |  |   |
+|  (Reg. 2. (nur) | 0 |   |
+|  Direction des nuages |  |   |
+|  Flux tombe |  |   |
+|  Température de l'air | 15.2 |   |
+|  Mauteur de la mer | 64.0 |   |
+|  (Agitation de l'eau) | 1/201 |   |
+|  Densité au bout de la jetée | 1689.4 |   |
+|  (Bempérature de l'eau) | 12.6 |   |
+
+|  V. 30 Mbars. 1907 | Mbatin | Eir  |
+| --- | --- | --- |
+|  Mauteur Moxométrique | 783.2 | 780.4  |
+|  Direction du vent | or. 8 | 5.8  |
+|  Force | 1/201 | 1/201  |
+|  Méburôiste |  |   |
+|  (Reg. 2. (nur) | 0 |   |
+|  Direction des nuages |  |   |
+|  Flux tombe |  |   |
+|  Température de l'air | 11.5 | 19.6  |
+|  Mauteur de la mer | 7.0 | 71.8  |
+|  (Agitation de l'eau) | 1/201 | 1/201  |
+|  Densité au bout de la jetée | 1689.4 | 1688.5  |
+|  (Bempérature de l'eau) | 12.7 | 11.5  |

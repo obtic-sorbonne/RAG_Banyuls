@@ -1,0 +1,63 @@
+### OBSERVATIONS DU 1902 - 6 Mai
+
+| **Nombre de bateaux sortis (pêche à l.)** | 23.9 |
+| --- | --- |
+| **Température de l'air** |  |
+| - maxima depuis la veille | 23.9 | °C |
+| - minima id. | 9.2 | °C |
+| **Température de l'eau** |  |
+| - maxima depuis la veille |  | °C |
+| - minima id. |  | °C |
+| **Pluie tombée depuis la veille, en millim.** | 2.9 | mm |
+| **Évaporation depuis le 1900, en millim.** |  | mm |
+| **Direction du vent (à terre)** |  |  |
+| - à 9 h. m. | S.S.E. |
+| - à 3 h. s. |  | 
+| **Force** |  |  |
+| - à 9 h. m. |  | 
+| - à 3 h. s. |  | 
+| **Direction des nuages** |  |  |
+| - à 9 h. m. | N.O. |
+| - à 3 h. s. |  | 
+| **Nébulosité** |  |  |
+| - région Ouest (terre) | 6 | 0 |
+| - id. Est (mer) | 6 | 0 |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.)** | 37.6 | cm |
+| **Agitation de l'eau** | 1 |  |
+| **Densité de l'eau au bout de la jetée** | 1027.2 |  |
+| **Température** |  |  |
+| - matin (maxima) | 27.2 | °C |
+| - minima | 6.6 | °C |
+
+### OBSERVATIONS DU 1902 - 7 Mai
+
+| **Nombre de bateaux sortis (pêche à l.)** | 23.9 |
+| --- | --- |
+| **Température de l'air** |  |
+| - maxima depuis la veille | 23.9 | °C |
+| - minima id. | 16.7 | °C |
+| **Température de l'eau** |  |
+| - maxima depuis la veille |  | °C |
+| - minima id. |  | °C |
+| **Pluie tombée depuis la veille, en millim.** | 0 | mm |
+| **Évaporation depuis le 1900, en millim.** |  | mm |
+| **Direction du vent (à terre)** |  |  |
+| - à 9 h. m. | N.N.O. |
+| - à 3 h. s. | S.S.E. |
+| **Force** |  |  |
+| - à 9 h. m. |  | 
+| - à 3 h. s. |  | 
+| **Direction des nuages** |  |  |
+| - à 9 h. m. | N.N.O. |
+| - à 3 h. s. | N.N.O. |
+| **Nébulosité** |  |  |
+| - région Ouest (terre) | 3 | 4 |
+| - id. Est (mer) | 3 | 1 |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.)** | 48.9 | 14.3 | cm |
+| **Agitation de l'eau** | 17 (faible) | 1 (faible) |
+| **Densité de l'eau au bout de la jetée** | 1026.0 | 1029.6 |
+| **Température** |  |  |
+| - matin (maxima) | 30.7 | °C |
+| - minima | 19.0 | °C |
+| - maxima (loin) |  | 23.0 | °C |
+| - minima (loin) |  |  |

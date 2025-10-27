@@ -1,0 +1,16 @@
+```plaintext
+| 4. 17 Mars. 1902 | Matin | Soir  |
+| --- | --- | --- |
+| Hauteur Barométrique | 768.1 | 768.1  |
+| Direction du vent | S.W. | S.W.  |
+| Force | 1 | 1  |
+| Nébulosité | Reg. O. (terre) | 8  |
+| Nébulosité | Reg. E. (mer) | 8  |
+| Direction des nuages | 1.0 | 1.0  |
+| Pluie tombée |  |  |
+| Température de l'air | 8.7 | 8.7  |
+| Hauteur de la mer | 44.8 | 44.8  |
+| Agitation de l'eau | 1 | 1  |
+| Densité au bout de la jetée | 1086.9 | 1086.9  |
+| Température de l'eau | 11.8 | 11.8  |
+```

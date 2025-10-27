@@ -1,0 +1,19 @@
+# Date: 23 Août 1901
+
+|  Name | Date | V皿  |
+| --- | --- | --- |
+|  Vauteur Barometrique | 9th Matin 3rd Soir |   |
+|  Direction Su vent | 767.3 | 766.3  |
+|  Force | 8.S.E | 8.S.E  |
+|  Pédutooite | 8. faible | 2. fort  |
+|  Pédutooite | 10.5% | 10  |
+|  Pédutooite | 10.5% | 10  |
+|  Direction des nuages | 8.S.E | 8.S.E  |
+|  Flux lombaire |  |   |
+|  Température de l'air | 23.5 | 24.6  |
+|  Vauteur de la mer | 1.5 | 1.6  |
+|  Législation de l'eau | 1.7 faible | 1.7 fort  |
+|  Densité de l'eau | 10.57 | 10.57  |
+|  Comperature de l'eau | 38.4 | 31.6  |
+
+Vauteur de la mer

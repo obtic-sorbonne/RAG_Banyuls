@@ -1,0 +1,52 @@
+| **OBSERVATIONS DU 1902 3 Février** |
+| --- |
+| **Nombre de bateaux sortis (pêche à l. . . . . . . . .)** | **16.3** |
+| **Température de l'air** |
+|  maxima depuis la veille | 16.3 |
+|  minima id. | 4.9 |
+| **Température de l'eau** |
+|  maxima depuis la veille |  |
+|  minima id. |  |
+| **Pluie tombée depuis la veille, en millim.** |  |
+| **Evaporation depuis le 190**, en millim. |  |
+| **Direction du vent (à terre)** | **à 9 h. m.** | **à 3 h. s.** |
+| Force |  |  |
+| Direction des nuages | **N.N.O.** | **N.N.O.** |
+| **Nébulosité** |  |  |
+|  région Ouest (terre) | 10 | 10 |
+|  id. Est (mer) |  |  |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B.Q.)** | **0.0** | **11.7** |
+| **Agitation de l'eau** | **3 pqs.** | **3** |
+| **Densité de l'eau au bout de la jetée** | **1028.0** | **1020.2** |
+| **Température id.** | **11.0** | **11.3** |
+| **is. Ferranti  Lóir** | **maxima** | **22.9** |
+| **minima** | **4.0** |
+
+---
+
+| **OBSERVATIONS DU 1902 4 Février** |
+| --- |
+| **Nombre de bateaux sortis (pêche à l. . . . . . . . .)** | **13.4** |
+| **Température de l'air** |
+|  maxima depuis la veille | 13.4 |
+|  minima id. | 6.7 |
+| **Température de l'eau** |
+|  maxima depuis la veille |  |
+|  minima id. |  |
+| **Pluie tombée depuis la veille, en millim.** | quelques |
+| **Evaporation depuis le 190**, en millim. |  |
+| **Direction du vent (à terre)** | **à 9 h. m.** | **à 3 h. s.** |
+| Force |  |  |
+| Direction des nuages | **N.N.O.** | **N. O.** |
+| **Nébulosité** |  |  |
+|  région Ouest (terre) | 10 | 10 |
+|  id. Est (mer) | 60 | 60 |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B.Q.)** | **0.0** | **11.6** |
+| **Agitation de l'eau** | **2** | **2** |
+| **Densité de l'eau au bout de la jetée** | **1028.0** | **1027.2** |
+| **Température id.** | **10.9** | **11.3** |
+| **is. Ferranti  Motin** | **maxima** | **24.2** |
+| **minima** | **2.3** |
+| **is.**  | **22.7** |
+| **- is. Lóir** | **maxima** | **6.3** |
+| **minima** |  |

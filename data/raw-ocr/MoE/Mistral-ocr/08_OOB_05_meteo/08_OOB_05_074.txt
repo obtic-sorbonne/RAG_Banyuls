@@ -1,0 +1,27 @@
+|  V. 25 Janvier - 1905 | Mbatin | Jow  |
+| --- | --- | --- |
+|  Hauteur Prorrométrique | 754.8 | 766.8  |
+|  Direction du vent | 1.0 | or. 8  |
+|  Force | 1/20th | 1  |
+|  Nebulosite (Reg. a. (tune) | 10 | 10  |
+|  |   |   |
+|  Direction des mages |  | or. or.  |
+|  Flue Tombe |  |   |
+|  Bemporadine de l'air | 1.6 | 1.18/  |
+|  Hauteur de la mer |  | 8.8  |
+|  Ajustation de l'eau |  | 8  |
+|  Densite au bout de la jetée |  | 8  |
+|  Bemporadine de l'eau |  | 8  |
+|  V. 27 Janvier - 1905 | Mbatin | Jow  |
+|  Hauteur Prorrométrique | 770.0 | 769.6  |
+|  Direction du vent |  | 8th  |
+|  Force | 1/20th | 1/20th  |
+|  Nebulosite (Reg. a. (tune) | 10 | 10  |
+|  |   |   |
+|  Direction des mages | or. or. 0 | or. or. 0  |
+|  Flue Tombe |  |   |
+|  Bemporadine de l'air | 10.0 | 10.8  |
+|  Hauteur de la mer | 4/.8 | 63.8  |
+|  Ajustation de l'eau | 8 | 5  |
+|  Densite au bout de la jetée | 1089.3 | 1089.3  |
+|  Bemporadine de l'eau | 13.1 | 14.0  |

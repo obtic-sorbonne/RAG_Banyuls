@@ -1,0 +1,18 @@
+# Date: 23 Janvier 1902
+
+|  |   |   |
+| --- | --- | --- |
+|  Sauteur Barométrique | 9" Matin 3" Soir |   |
+|  Direction du vent | 70.9,0 | 70.7,7  |
+|  Force | Ouest | 8.8.5  |
+|   | 1 mfaill. | 3 faill.  |
+|  (Treg. O. Terre) | 10 | 10  |
+|  (Treg. E. (mer) |  |   |
+|  Direction des nuages | Ouest | Ouest  |
+|  Phuc tombe |  |   |
+|  Température de l'air | 8,4 | 10,7  |
+|  Sauteur de la mer | 49,1 | 19,0  |
+|  Agitation de l'eau | 3 | 2  |
+|  Sensité de l'eau | au bout de la jetée | 1029,4  |
+|   | au large |   |
+|  Température de l'eau | 12,1 | 12,4  |

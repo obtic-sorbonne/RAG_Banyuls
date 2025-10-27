@@ -1,0 +1,50 @@
+Date.2
+1
+Detobre 1901
+fauteur Barometrique
+Direction su vent
+force15
+5
+1
+Cébulosité
+2
+Reg -O. (Serre)
+D
+(eg-X- (mer)
+Dire tion des nages
+Pluie Lombee
+Temperatinre de l'air
+fauteur de la mer
+Agitation de l'eau
+9
+ensite de l'eau
+1
+1
+aau Targe
+1jort
+"
+14, &
+49.3
+163,  
+55.2
+ifort
+9
+n
+15.7
+8
+7
+16.8
+6
+7
+38
+ifort ?
+de la Jetie. "
+Cemperature de l'eau
+N
+AN0
+De
+6
+5
+171
+4
+Dt

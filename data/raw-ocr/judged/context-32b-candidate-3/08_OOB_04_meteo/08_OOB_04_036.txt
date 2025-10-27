@@ -1,0 +1,39 @@
+# 9 - 6 x 6 = 1901
+
+## Matin
+
+|  Hauteur Barométrique | Matin | Soir  |
+| --- | --- | --- |
+|  Direction du vent | Ouest | Ouest  |
+|  Force | 1 | 1  |
+|  Nébulosité | 7 | 1  |
+|  Reg. O. (terre) | 0 | 0  |
+|  Reg. E. (mer) | 6 | 6  |
+|  Direction des nuages |  |  |
+|  Pluie tombée |  |  |
+|  Température de l'air | 6.9 | 6.7  |
+|  Hauteur de la mer | 19.8 | 16.1  |
+|  Agitation de l'eau | 1 | 2 fort  |
+|  Densité au bout de la jetée | 1029.3 | 1029.0  |
+|  Température de l'eau | 13.4 | 13.6  |
+
+## Matin
+
+|  Hauteur Barométrique | Matin | Soir  |
+| --- | --- | --- |
+|  Direction du vent | Ouest | Ouest  |
+|  Force | 1 | 1  |
+|  Nébulosité | 10 | 10  |
+|  Reg. O. (terre) | 0 | 0  |
+|  Reg. E. (mer) | 6 | 6  |
+|  Direction des nuages |  |  |
+|  Pluie tombée |  |  |
+|  Température de l'air | 9.0 | 9.2  |
+|  Hauteur de la mer | 12.8 | 12.8  |
+|  Agitation de l'eau | 1 | 2 fort  |
+|  Densité au bout de la jetée | 1029.0 | 1029.0  |
+|  Température de l'eau | 13.8 | 14.0  |
+
+---
+
+Note: The content and structure of the tables have been carefully aligned and corrected based on the criteria provided. The values and measurements have been preserved as they appear in the original document.

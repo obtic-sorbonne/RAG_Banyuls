@@ -1,0 +1,43 @@
+```plaintext
+| OBSERVATIONS DU 1960 2 juillet |
+| --- |
+| Nombre de bateaux sortis (pêche à l'ancre) | Pluvieux |
+| Température de l'air |  |
+| - maxima depuis la veille | 36.8 °C |
+| - minima id. | 17.3 °C |
+| Température de l'eau |  |
+| - maxima depuis la veille | - |
+| - minima id. | - |
+| Pluie tombée depuis la veille, en millim. | quelques g |
+| Évaporation depuis le 190, en millim. | - |
+| Direction du vent (à terre) | à 9 h. m. | à 3 h. s. |
+| - Force | Fort | 1 |
+| - Direction des nuages | S.O. | N.O. |
+| - Nébulosité (région Ouest (terre)) | 10 | 10 |
+| - id. Est (mer) | 10 | 10 |
+| Hauteur de la mer, en centimètres, au-dessus du zéro | 34.9 cm | - |
+| Agitation de l'eau | 1 | 1 |
+| Densité de l'eau au bout de la jetée | 1026.6 g/cm³ | 1027.4 g/cm³ |
+| Température id. | 19.3 °C | 19.7 °C |
+
+| OBSERVATIONS DU 1960 3 juillet |
+| --- |
+| Nombre de bateaux sortis (pêche à l'ancre) | Pluvieux |
+| Température de l'air |  |
+| - maxima depuis la veille | 27.3 °C |
+| - minima id. | 13.4 °C |
+| Température de l'eau |  |
+| - maxima depuis la veille | - |
+| - minima id. | - |
+| Pluie tombée depuis la veille, en millim. | 4.62 mm |
+| Évaporation depuis le 190, en millim. | - |
+| Direction du vent (à terre) | à 9 h. m. | à 3 h. s. |
+| - Force | 8 | 1 |
+| - Direction des nuages | N.N.O. | N.N.O. |
+| - Nébulosité (région Ouest (terre)) | 3 | 10 |
+| - id. Est (mer) | 3 | 10 |
+| Hauteur de la mer, en centimètres, au-dessus du zéro | 26.3 cm | 31.7 cm |
+| Agitation de l'eau | 2 | 2 |
+| Densité de l'eau au bout de la jetée | 1027.3 g/cm³ | 1027.6 g/cm³ |
+| Température id. | 17.7 °C | 17.7 °C |
+```

@@ -1,0 +1,25 @@
+|  V. 7 Janvier - 1907 | Maiton | Poir  |
+| --- | --- | --- |
+|  Hauteur Maronotrique | 270,2 | 112,3  |
+|  Direction du vent | or.0 | or.0  |
+|  Force | 1,8 | 1,6  |
+|  Hébulosite (Reg. O. (en)) | 8 | 10  |
+|  Direction des nuages | or.0 | or. 8  |
+|  Plein tombé | 15,6 | 15,6  |
+|  Dempérature de l'air | 67,0 | 67,8  |
+|  Hauteur de la mer | 5 | 5  |
+|  Agitation de l'eau | 1089,4 | 1089,5  |
+|  Densité au bout de la jetée | 11,8 | 11,8  |
+|  Dempérature de l'eau |  |   |
+|  V. 8 Janvier - 1907 | Maiton | Poir  |
+|  Hauteur Maronotrique | 271,0 | 268,0  |
+|  Direction du vent | or.0 | or.0  |
+|  Force | 4 | 4  |
+|  Hébulosite (Reg. O. (en)) | 10 | 10  |
+|  Direction des nuages | or. 8 | or. 8  |
+|  Plein tombé | 11 | 11  |
+|  Dempérature de l'air | 10,8 | 18,9  |
+|  Hauteur de la mer | 71,6 | 64,8  |
+|  Agitation de l'eau | 3 | 3  |
+|  Densité au bout de la jetée | 1089,6 | 1089,6  |
+|  Dempérature de l'eau | 10,7 | 10,8  |

@@ -1,0 +1,33 @@
+# N. 18 Janvier - 1903
+
+|  **Position** | **Matin** | **Soir**  |
+| --- | --- | --- |
+|  Hauteur Barométrique | 768.3 | 768.8  |
+|  Direction du vent | Ouest | Ouest  |
+|  Force | 3 fort | 3 fort  |
+|  Nébulosité (Reg. O. (terre)) | 10 | 10  |
+|  Nébulosité (Reg. E. (mer)) | 10 | 10  |
+|  Direction des nuages | Ouest | Ouest  |
+|  Pluie tombée | 37.0 | 27.0  |
+|  Température de l'air | 3.2 | 9.2  |
+|  Hauteur de la mer | 6 faible | 5 fièdes  |
+|  Agitation de l'eau | 6 faible | 5 faible  |
+|  Densité au bout de la jetée | 1028.5 | 1029.5  |
+|  Température de l'eau | 5 faible | 5 faible  |
+
+# N. 19 Janvier - 1903
+
+|  **Position** | **Matin** | **Soir**  |
+| --- | --- | --- |
+|  Hauteur Barométrique | 769.0 | 769.3  |
+|  Direction du vent | Ouest | Ouest  |
+|  Force | 3 | 3  |
+|  Nébulosité (Reg. O. (terre)) | 10 | 10  |
+|  Nébulosité (Reg. E. (mer)) | 10 | 10  |
+|  Direction des nuages | Ouest | Ouest  |
+|  Pluie tombée | 37.2 | 27.0  |
+|  Température de l'air | 3.2 | 9.2  |
+|  Hauteur de la mer | 6 faible | 5 fièdes  |
+|  Agitation de l'eau | 6 faible | 5 faible  |
+|  Densité au bout de la jetée | 1028.5 | 1029.5  |
+|  Température de l'eau | 5 faible | 5 faible  |

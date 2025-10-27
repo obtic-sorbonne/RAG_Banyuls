@@ -1,0 +1,55 @@
+```plaintext
+### OBSERVATIONS DU 1902, 1er Avril
+
+| **Nombre de bateaux sortis (pêche à l.)** |  |  |
+| **Température de l'air** |  |  |
+| maxima depuis la veille |  | **21.3** |
+| minima id. |  | **9.7** |
+| **Température de l'eau** |  |  |
+| maxima depuis la veille |  |  |
+| minima id. |  |  |
+| **Pluie tombée depuis la veille, en millim.** |  | **1.87** |
+| **Évaporation depuis le 1900, en millim.** |  |  |
+| **Direction du vent (à terre)** | **à 9 h. m.** | **à 3 h. s.** |
+|  | **Nord-Nord-Ouest** | **Nord-Nord-Ouest** |
+| **Force** |  | **7** | **6** |
+| **Direction des nuages** |  | **Nord-Nord-Ouest** | **Nord-Nord-Ouest** |
+| **Nébulosité** |  |  |  |
+| région Ouest (terre) |  | **10** | **8** |
+| id. Est (mer) |  | **10** | **9** |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B. R.)** |  | **237.0** | **297.0** |
+| **Agitation de l'eau** |  | **2** | **3** |
+| **Densité de l'eau au bout de la jetée** |  | **1026.9** | **1028.9** |
+| **Température** |  |  |  |
+| - id. Matin | **Maxima** | **27.0** |  |
+| - id. Matin | **Minima** |  |  |
+| - id. Soir | **Maxima** | **25.8** |  |
+| - id. Soir | **Minima** | **5.6** |  |
+
+### OBSERVATIONS DU 1902, 6 Avril
+
+| **Nombre de bateaux sortis (pêche à l.)** |  |  |
+| **Température de l'air** |  |  |
+| maxima depuis la veille |  | **24.8** |
+| minima id. |  | **9.7** |
+| **Température de l'eau** |  |  |
+| maxima depuis la veille |  |  |
+| minima id. |  |  |
+| **Pluie tombée depuis la veille, en millim.** |  | **9.7** |
+| **Évaporation depuis le 1900, en millim.** |  |  |
+| **Direction du vent (à terre)** | **à 9 h. m.** | **à 3 h. s.** |
+|  | **Nord-Nord-Ouest** | **Nord-Nord-Ouest** |
+| **Force** |  | **10** | **10** |
+| **Direction des nuages** |  | **10 légères** | **10 légères** |
+| **Nébulosité** |  |  |  |
+| région Ouest (terre) |  |  |  |
+| id. Est (mer) |  |  |  |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B. R.)** |  | **13.2** |  |
+| **Agitation de l'eau** |  | **2** | **2** |
+| **Densité de l'eau au bout de la jetée** |  | **1026.9** | **1027.9** |
+| **Température** |  |  |  |
+| - id. Matin | **Maxima** | **27.0** |  |
+| - id. Matin | **Minima** |  |  |
+| - id. Soir | **Maxima** | **25.8** |  |
+| - id. Soir | **Minima** | **5.6** |  |
+```

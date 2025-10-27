@@ -1,0 +1,20 @@
+# Date - 8 Décembre - 1900
+
+|  **9e Matin** | **3e Soir** | **Prix**  |
+| --- | --- | --- |
+|  Hauteur Barométrique | 763,5 | 763,5  |
+|  Direction du vent | Nord | Nord  |
+|  Force | 3 | 3  |
+|  Nébulosité | 6. feyn. couronet | 6. feyn. couronet  |
+|  Rég. E. (mer) | 6. feyn. couronet | 6. feyn. couronet  |
+|  Direction des nuages | Nord | Nord  |
+|  Pluie tombée | 11,5 | 11,5  |
+|  Température de l'air | 14,3 | 14,4  |
+|  Hauteur de la mer | 1,028,0 | 1,028,0  |
+|  Agitation de l'eau | 4. faible | 4. faible  |
+|  Densité de l'eau | 1028,6 | 1028,6  |
+|  Température de l'eau | 14,3 | 14,4  |
+
+Densité de l'eau
+- au bout de la jetée: 1028,6
+- au large: 1028,6

@@ -1,0 +1,29 @@
+| Nombre de paire de bateaux | V. 30 Mai 1907 | Matin | Soir |
+|-----------------------------|----------------|-------|------|
+| Hauteur Barométrique        |                | 769.4 | 768.8|
+| Direction du vent           |                | N.O   | N.O  |
+| Force                       |                | 3     | 1    |
+| Nébulosité                  | Reg. G. (claire) | 0     | 0    |
+|                             | Reg. X. (nuage) | 0     | 0    |
+| Direction des nuages        |                | N.O   | "    |
+| Pluie tombée                |                | "     | "    |
+| Température de l'air        |                | 19.4  | 29.5 |
+| Hauteur de la mer           |                | 50.8  | 67.3 |
+| Agitation de l'eau          |                | 3 fort| 2    |
+| Densité au bout de la jetée |                | 1027.8| 1027.4|
+| Température de l'eau        |                | 16.3  | 17.3 |
+
+| Nombre de paire de bateaux | V. 31 Mai 1907 | Matin | Soir |
+|-----------------------------|----------------|-------|------|
+| Hauteur Barométrique        |                | 760.8 | 798.5|
+| Direction du vent           |                | S.S.E | N.O  |
+| Force                       |                | 1 faible | 1 fort. |
+| Nébulosité                  | Reg. G. (claire) | 0     | 0    |
+|                             | Reg. X. (nuage) | 0     | 0    |
+| Direction des nuages        |                | S.O   | ouest |
+| Pluie tombée                |                | "     | "    |
+| Température de l'air        |                | 22.0  | 27.3 |
+| Hauteur de la mer           |                | 47.2  | 47.2 |
+| Agitation de l'eau          |                | 1     | 1 faible |
+| Densité au bout de la jetée |                | 1027.6| 1027.6|
+| Température de l'eau        |                | 17.0  | 18.0 |

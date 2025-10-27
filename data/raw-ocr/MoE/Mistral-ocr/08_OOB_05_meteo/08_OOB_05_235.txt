@@ -1,0 +1,27 @@
+|  4.23 Quail. 1907 | Nibatin | Biv  |
+| --- | --- | --- |
+|  Hauteur Marométrique | 270.0 | 267.6  |
+|  Direction du vent | crotus | crotus  |
+|  Force | 3.00 | 3.00  |
+|  Nibulonte | 2 | 2  |
+|  (Reg. C. (lire) |  |   |
+|  Direction des nuages | 2 | 3  |
+|  Niv. tomlie |  |   |
+|  Demporature de l'air | 18.7 | 30.8  |
+|  Hauteur de la mer | 62.7 | 67.8  |
+|  Agitation de l'eau | 2 | 27.0  |
+|  Densité au bout de la jetée | 1028.8 | 1028.1  |
+|  Demporature de l'eau | 13.1 | 13.7  |
+|  4.24 Quail. 1907 | Nibatin | Biv  |
+|  Hauteur Marométrique | 267.7 | 267.3  |
+|  Direction du vent | 0.0 | 0.0  |
+|  Force | 3 | 2.00  |
+|  Nibulonte | 0 | 0.00  |
+|  (Reg. C. (lire) |  |   |
+|  Direction des nuages | 0 | 0.00  |
+|  Niv. tomlie |  |   |
+|  Demporature de l'air | 20.4 | 36.3  |
+|  Hauteur de la mer | 67.4 | 67.4  |
+|  Agitation de l'eau | 2 | 3.00  |
+|  Densité au bout de la jetée | 1028.8 | 1028.1  |
+|  Demporature de l'eau | 13.6 | 13.8  |

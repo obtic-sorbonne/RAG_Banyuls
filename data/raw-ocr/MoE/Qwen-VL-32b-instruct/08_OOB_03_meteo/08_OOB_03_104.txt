@@ -1,0 +1,18 @@
+# Salle 11 Janvier 1902
+
+|  |   |   |
+| --- | --- | --- |
+|  Kanteur Pharométrique | 9% Stóalin 3% Soir |   |
+|  Direction Su vent | 770.2 | 778.0  |
+|  Force | N.N.O | N.N.O  |
+|  /S | Sport | Sport  |
+|  Tébuloïde |  |   |
+|  Reg. E. (mer) | 1 | 0  |
+|  Direction Ses nuages | Nomé | Nomé  |
+|  Thrie tombee |  |   |
+|  Température Se l'air | 7.5 | 8.1  |
+|  Kanteur Se la mer | 10.0 | 81.0  |
+|  Agitation Se l'eau | 3 | Sport  |
+|  Sensité Se l'eau | 1028.0 | 1028.3  |
+|  |   |   |
+|  Température Se l'eau | 11.5 | 11.7  |

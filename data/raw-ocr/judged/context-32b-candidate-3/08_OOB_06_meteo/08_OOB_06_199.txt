@@ -1,0 +1,52 @@
+```plaintext
+### OBSERVATIONS DU 1901 20 Septembre
+
+| **Nombre de bateaux sortis (pêche à l.)** | 27,8 |
+| **Température de l'air** |  |  |
+| – maxima depuis la veille | 27,8 |  |
+| – minima id. | 20,8 |  |
+| **Température de l'eau** |  |  |
+| – maxima depuis la veille |  |  |
+| – minima id. |  |  |
+| **Pluie tombée depuis la veille, en millim.** | quelques g. |  |
+| **Evaporation depuis le 1901, en millim.** |  |  |
+| **Direction du vent (à terre)** | **à 9 h. m.** | **à 3 h. s.** |
+| – Force |  |  |
+| – Direction | S-O | N-E |
+| **Direction des nuages** | 60 | 60 |
+| **Nébulosité** |  |  |
+| – région Ouest (terre) | 60 | 60 |
+| – id. Est (mer) |  |  |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.)** | 37,9 | 26,4 |
+| **Agitation de l'eau** | 1/abelle | 1 |
+| **Densité de l'eau au bout de la jetée** | 1027,9 | 1029,7 |
+| **Température** |  |  |
+| – id. Balance | 23,7 | 29,0 |
+| – id. Terre Matin | maxima 36,0 | minima 19,0 |
+| – id. Soir | maxima 36,3 | minima 24,0 |
+
+### OBSERVATIONS DU 1901 21 Septembre
+
+| **Nombre de bateaux sortis (pêche à l.)** | 28,3 |
+| **Température de l'air** |  |  |
+| – maxima depuis la veille | 28,3 |  |
+| – minima id. | 18,8 |  |
+| **Température de l'eau** |  |  |
+| – maxima depuis la veille |  |  |
+| – minima id. |  |  |
+| **Pluie tombée depuis la veille, en millim.** | 0 |  |
+| **Evaporation depuis le 1901, en millim.** |  |  |
+| **Direction du vent (à terre)** | **à 9 h. m.** | **à 3 h. s.** |
+| – Force | 3 |  |
+| – Direction | S-S-E |  |
+| **Direction des nuages** | 60 | 40 |
+| **Nébulosité** |  |  |
+| – région Ouest (terre) | 40 | 40 |
+| – id. Est (mer) |  |  |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.)** | 29,6 |  |
+| **Agitation de l'eau** | 1 |  |
+| **Densité de l'eau au bout de la jetée** | 1026,6 |  |
+| **Température** |  |  |
+| – id. Terre Matin | maxima 28,1 | minima 17,0 |
+| – id. Soir | maxima  | minima  |
+```

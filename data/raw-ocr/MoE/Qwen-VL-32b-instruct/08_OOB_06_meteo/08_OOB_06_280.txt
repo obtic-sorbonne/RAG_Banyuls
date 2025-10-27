@@ -1,0 +1,53 @@
+### OBSERVATIONS DU 1902 - 6 Mai
+
+| Nombre de bateaux sortis (pêche à l…) | 23.9 |
+| --- | --- |
+| Température de l'air |
+| maxima depuis la veille. | 23.9 |
+| minima id. | 9.2 |
+| Température de l'eau |
+| maxima depuis la veille. |  |
+| minima id. |  |
+| Pluie tombée depuis la veille, en millim. | 2.9 |
+| Evaporation depuis le 190…, en millim. |  |
+
+| **Direction du vent (à terre)** | **à 9 h. m.** | **à 3 h. s.** |
+| --- | --- | --- |
+| Force | S.S.E. |  |
+| Direction des nuages | N.O. |  |
+| Nébulosité | région Ouest (terre) | 60 |  |
+| id. Est (mer) | 60 |  |
+| Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.) | 37.6 |  |
+| Agitation de l'eau. | 1 |  |
+| Densité de l'eau au bout de la jetée. | 1027.2 |  |
+| Température |
+| Matin (Maxima) | 27.2 |  |
+| Minima | 6.6 |  |
+
+### OBSERVATIONS DU 1902 - 7 Mai
+
+| Nombre de bateaux sortis (pêche à l…) | 23.9 |
+| --- | --- |
+| Température de l'air |
+| maxima depuis la veille. | 23.9 |
+| minima id. | 16.7 |
+| Température de l'eau |
+| maxima depuis la veille. |  |
+| minima id. |  |
+| Pluie tombée depuis la veille, en millim. | 0 |
+| Evaporation depuis le 190…, en millim. |  |
+
+| **Direction du vent (à terre)** | **à 9 h. m.** | **à 3 h. s.** |
+| --- | --- | --- |
+| Force | N.N.O. | S.S.E. |
+| Direction des nuages | N.N.O. | N.N.O. |
+| Nébulosité | région Ouest (terre) | 3 | 4 |
+| id. Est (mer) | 3 | 1 |
+| Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.) | 48.9 | 14.3 |
+| Agitation de l'eau. | 17 (faible) | 1 (faible) |
+| Densité de l'eau au bout de la jetée. | 1026.0 | 1029.6 |
+| Température |
+| **Matin (Maxima)** | 30.7 | 8.3 |
+| Minima | 19.0 | 34.9 |
+| **Loin (Maxima)** |  | 23.0 |
+| Minima |  |  |

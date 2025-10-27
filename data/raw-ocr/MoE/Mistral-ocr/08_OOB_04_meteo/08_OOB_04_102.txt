@@ -1,0 +1,29 @@
+|  V. 11 Juin - 1902 | Obatin | Soir  |
+| --- | --- | --- |
+|  Hauteur Moarométrique | 2/7.3 | 2/7.3  |
+|  Direction du vent | ex. 00.0 | Soit  |
+|  Force | 3 faible | 1 faible  |
+|  Mécanosité | 1 | 10  |
+|  (Reg. C. (mer)) | 2 | 10  |
+|  Direction des mages | ex. 00.0 | Ouest  |
+|  Flux tombé | quelques-1 | 10  |
+|  Température de l'air | 16.2 | 20.2  |
+|  Hauteur de la mer | 41.0 | 44.4  |
+|  Égitation de l'eau | 2 fort | 3 faible  |
+|  Densité au bout de la jetée | 1025.2 | 1025.9  |
+|  Température de l'eau | 16.1 | 17.0  |
+
+|  V. 12 Juin - 1902 | Obatin | Soir  |
+| --- | --- | --- |
+|  Hauteur Moarométrique | 2/7.6 | 2/3.1  |
+|  Direction du vent |  | Ouest  |
+|  Force |  | 1 fort  |
+|  Mécanosité | (Reg. C. (mer)) | 10  |
+|  (Reg. C. (mer)) |  | 10  |
+|  Direction des mages |  | 11  |
+|  Flux tombé |  | 11  |
+|  Température de l'air |  | 21.6  |
+|  Hauteur de la mer |  | 36.0  |
+|  Égitation de l'eau |  | 1 faible  |
+|  Densité au bout de la jetée |  | 1027.1  |
+|  Température de l'eau |  | 17.2  |

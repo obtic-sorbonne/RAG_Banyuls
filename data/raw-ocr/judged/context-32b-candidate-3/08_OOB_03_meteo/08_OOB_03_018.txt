@@ -1,0 +1,17 @@
+# Date. 8 Octobre 1901
+
+|   | 9th Matin | 3rd Soir  |
+| --- | --- | --- |
+|  Hauteur Barométrique | 753,2 | 753,1  |
+|  Direction du vent | Nord | Nord  |
+|  Force | 3 fort | 3 fort  |
+|  Nébulosité | 0 | 4  |
+|  Reg. O. (terre) | 0 | 0  |
+|  Reg. E. (mer) | 0 | 1  |
+|  Direction des nuages | Nord | Nord  |
+|  Pluie tombée | 11,4 | 17,2  |
+|  Température de l'air | 14,8 | 24,1  |
+|  Hauteur de la mer | 3 r. fort | 3 r. fort  |
+|  Agitation de l'eau | 3 r. fort | 2 r. fort  |
+|  Densité de l'eau | 1025,9 | 1025,8  |
+|  Température de l'eau | 18,0 | 18,4  |

@@ -1,0 +1,28 @@
+|  V. f Décembre 1905 | Maitin | Poir  |
+| --- | --- | --- |
+|  Hauteur Mrarométrique | 754.5 | 260.3  |
+|  Direction du vent | or.0.0 | or.0  |
+|  Force | f/inte | 3 fois  |
+|  Vibrativité | 10 | 10  |
+|  (Rég. 2 (mer) | 10 | 10  |
+|  Direction des nuages | or.0 | or.0  |
+|  Flux tombé | 17.0 | 18.1  |
+|  Température de l'air | 17.0 | 18.1  |
+|  Hauteur de la mer | 10.1 | 13.0  |
+|  (agitation de l'eau) | 10.2 | 13.0  |
+|  Densité au bout de la jetée | 10.29.4 | 10.29.0  |
+|  Température de l'eau | 14.2 | 14.9  |
+|  V. 5 Décembre 1905 | Maitin | Poir  |
+|  Hauteur Mrarométrique | 75.0 | 260.3  |
+|  Direction du vent | or.0 | 260.3  |
+|  Force | 3 | 3  |
+|  (Rég. 0 (lire) | 10 | 10  |
+|  (V. 0 (mer) | 10 | 10  |
+|  (Rég. 2 (mer) | 10 | 10  |
+|  Direction des nuages | or.0 | or.0  |
+|  Flux tombé | 11.0 | 11.0  |
+|  Température de l'air | 34.1 | 38.1  |
+|  Hauteur de la mer | 34.1 | 38.1  |
+|  (agitation de l'eau) | 3 | 1 fois  |
+|  Densité au bout de la jetée | 10.29.6 | 10.29.4  |
+|  Température de l'eau | 14.4 | 14.7  |

@@ -1,0 +1,28 @@
+| V. 12 Aout. 1907 | Matin | Soir |
+|-----------------|-------|------|
+| Hauteur Barometrique | 769,6 |      |
+| Direction du vent | S.E   |      |
+| Force | 15 | 15 |
+| Nébulosité | 60 |      |
+| (Reg. X. (cmr) | 10 |      |
+| Direction des nuages | S.O |      |
+| Pluie tombée | " |      |
+| Température de l'air | 34,3 |      |
+| Hauteur de la mer | 64,0 |      |
+| Agitation de l'eau | 1. faible |      |
+| Densité au bord de la jetée | 1026,4 |      |
+| Température de l'eau | 26,1 |      |
+| V. 13 Aout - 1907 | Matin | Soir |
+|-----------------|-------|------|
+| Hauteur Barometrique | 772,0 | 770,6 |
+| Direction du vent | E.O | E.O |
+| Force | 2 | 1 |
+| Nébulosité | 0 | 0 |
+| (Reg. X. (cmr) | 0 | 0 |
+| Direction des nuages | " | " |
+| Pluie tombée | " | " |
+| Température de l'air | 28,8 | 32,9 |
+| Hauteur de la mer | 12,1 | 66,0 |
+| Agitation de l'eau | 1. faible | 1. faible |
+| Densité au bord de la jetée | 1027,1 | 1026,6 |
+| Température de l'eau | 22,3 | 26,0 |

@@ -1,0 +1,25 @@
+|  V. 2 Juillet - 1905 | Mba | Jovi  |
+| --- | --- | --- |
+|  Hauteur Prarométrique |  | 182.4  |
+|  Direction du vent |  | 1.0  |
+|  Force |  | 2  |
+|  Nébulon | (Reg. O. (min)) | 10  |
+|  Détection des nuages |  | 10  |
+|  Heure tombée |  | 1.0  |
+|  Température de l'air |  | 21.4  |
+|  Hauteur de la mer |  | 1.5  |
+|  Débitation de l'eau |  | 2.1  |
+|  Densité au bout de la pièce |  | 1025.2  |
+|  Température de l'eau |  | 21.5  |
+|  V. 5 Juillet - 1905 | Mba | Jovi  |
+|  Hauteur Prarométrique |  | 157.0  |
+|  Direction du vent |  | 1.0  |
+|  Force |  | 2  |
+|  Nébulon | (Reg. O. (min)) | 10  |
+|  Détection des nuages |  | 0.0  |
+|  Heure tombée |  | 25.5  |
+|  Température de l'air |  | 14.4  |
+|  Hauteur de la mer |  | 1.4  |
+|  Débitation de l'eau |  | 1087.2  |
+|  Densité au bout de la pièce |  | 15.0  |
+|  Température de l'eau |  | 25.0  |

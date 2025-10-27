@@ -1,0 +1,25 @@
+```plaintext
+Sortie du 30 Septembre 1909
+
+Départ de Banyuls à 6h30 heures du matin pour draguer
+Arrivée à
+Départ de 
+Arrivée à
+Départ de 
+Arrivée à
+Arrivée au mouillage à Banyuls à 11h10 du matin
+
+État du temps : beau
+
+Passagers à bord :
+
+Objet de la sortie : pêcher pour les travailleurs
+
+Consommation :  
+{ 3/9 briquettes de 10 k. Poids en kilos 3/0 k.  
+  2/9 huile Total en litres 3/0
+
+Dépenses :  
+
+Observations : Pêche pour les travailleurs du Laboratoire
+```

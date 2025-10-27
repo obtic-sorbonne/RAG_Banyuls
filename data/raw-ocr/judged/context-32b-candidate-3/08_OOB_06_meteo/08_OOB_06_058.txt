@@ -1,0 +1,45 @@
+```plaintext
+| **OBSERVATIONS DU 1er SEPTEMBRE 1906** |
+| --- |
+| **Nombre de bateaux sortis (pêche à l.)** |  |
+| **Température de l'air** |  |
+| - maxima depuis la veille | 28.1 °C |
+| - minima id. | 15.7 °C |
+| **Température de l'eau** |  |
+| - maxima depuis la veille |  |
+| - minima id. |  |
+| **Pluie tombée depuis la veille, en millim.** | 0.0 mm |
+| **Évaporation depuis le 1900, en millim.** |  |
+| **Direction du vent (à terre)** | **à 9 h. m.** | **à 3 h. s.** |
+| **Force** | f | f |
+| **Direction des nuages** | n.n. o. | n.n. o. |
+| **Nébulosité** |  |
+| - région Ouest (terre) | 10 | 10 |
+| - id. Est (mer) | 10 | 10 |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro** | 3.0 cm | 3.0 cm |
+| **Agitation de l'eau** |  |
+| **Densité de l'eau au bout de la jetée** | 10.27.9 g/cm³ | 10.27.9 g/cm³ |
+| **Température id.** | 19.7 °C | 19.7 °C |
+
+| **OBSERVATIONS DU 2 SEPTEMBRE 1906** |
+| --- |
+| **Nombre de bateaux sortis (pêche à l.)** | 21.2 |
+| **Température de l'air** |  |
+| - maxima depuis la veille | 21.2 °C |
+| - minima id. | 16.4 °C |
+| **Température de l'eau** |  |
+| - maxima depuis la veille |  |
+| - minima id. |  |
+| **Pluie tombée depuis la veille, en millim.** |  |
+| **Évaporation depuis le 1900, en millim.** |  |
+| **Direction du vent (à terre)** | **à 9 h. m.** | **à 3 h. s.** |
+| **Force** | f | f |
+| **Direction des nuages** | n.n. o. | n.n. o. |
+| **Nébulosité** |  |
+| - région Ouest (terre) | 10 | 10 |
+| - id. Est (mer) | 10 | 10 |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro** |  |
+| **Agitation de l'eau** | 3 (faible) | 3 (faible) |
+| **Densité de l'eau au bout de la jetée** | 10.27.3 g/cm³ | 10.28.0 g/cm³ |
+| **Température id.** | 19.4 °C | 19.6 °C |
+```

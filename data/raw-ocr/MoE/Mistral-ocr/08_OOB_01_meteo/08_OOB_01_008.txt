@@ -1,0 +1,19 @@
+# Dela. Nació el 2 d'octubre
+
+|  Nom | Dels | Prov. | Dels  |
+| --- | --- | --- | --- |
+|  **Hauru** | 248 | 248 | 248  |
+|  **Hauteur Barométrique** | 719, 2 | 718, 0 | 719, 2  |
+|  **Direction du vent** |  |  |   |
+|  Force | 0 | 1/200 | 1  |
+|  Nebulosita | 3 | 8 | 8  |
+|  **Haj. E. (mer)** | 3 | 9 | 8  |
+|  **Direction des nuages** | 0.50 | 0.50 | 0.50  |
+|  **Pluie tombe** |  |  |   |
+|  **Pompe nature de l'air** | 25, 2 | 25, 6 | 26, 0  |
+|  **Hauteur de l'air** | 0 | 0 | 0  |
+|  **Agitation de l'air** | 0 | 0 | 0  |
+|  **Densité de l'air (au bout de la jeté)** | 1026, 6 |  |   |
+|  **Pompe nature de l'air** | 21, 9 |  |   |
+
+**Observat.** - **Orage** = 114 m. ; **puis**, temps courant, on nagera toute la journée; **p.g. goutte d'pluie** = plusieurs reprises.

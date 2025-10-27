@@ -1,0 +1,15 @@
+| **Date**         | 25 Octobre 1900 |
+| **Heure**        | 9H Matin       | 3H Soir       |
+| **Hauteur Barométrique**                                                                      | 762,7          | 759,8          |
+| **Direction du vent**                                                                         | **Ouest**      | **Nord**       |
+| **Force du vent**                                                                             | **0**          | **1 faible**   |
+| **Nébulosité**                                                                                | **Region O. (telle)** | **10 légèrement couverte** |
+|                                                                                              | **Region E. (mer)** | **0**          | **6 légèrement couverte** |
+| **Direction des nuages**                                                                      | **Ouest**      | **Ouest**      |
+| **Pluie tombée**                                                                              | **---**        | **---**        |
+| **Température de l'air**                                                                      | 16,2°C         | 17,6°C         |
+| **Hauteur de la mer**                                                                         | 37,6           | 47,2           |
+| **Agitation de l'eau**                                                                        | 1. T. faible   | 1. T. faible   |
+| **Densité de l'eau**                                                                         | **Pon Bute della jetée** | 1028,2        |
+|                                                                                              | **Pon Bote de la jetée** | 1028,3        |
+| **Température de l'eau**                                                                      | 17,2°C         | 18,1°C         |

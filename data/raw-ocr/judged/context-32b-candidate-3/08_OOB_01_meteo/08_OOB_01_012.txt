@@ -1,0 +1,21 @@
+# Date: 8. 06 Nov 1900
+
+|  Description |  |  |   |
+| --- | --- | --- | --- |
+|  4/4/1900 | 8/4/1900 | 5/4/1900 |   |
+|  Hauteur barométrique | 463,0 |  | 960,6  |
+|  Direction du vent | 0 |  | 5.5.2  |
+|  Force | 0 |  | 2  |
+|  Nébulosité (Rég. O. (taux)) | 3 |  | 8  |
+|  Direction des nuages | 2 |  | 8  |
+|  Pluie tombée | 5.5.0 |  | 5.5.2  |
+|  Température de l'air | 0,5 |  | 19,5  |
+|  Hauteur de la mer | 0,5 |  | 0,69  |
+|  Densité de l'eau (en bout de la jetée) | 1026,7 |  | 1026,7  |
+|  Température de l'eau | 81,4 |  |   |
+|  Agitation de l'eau | 1,4 |  |   |
+|  1,4 |  |  |   |
+|  1,4 |  |  |   |
+
+**Observat.** - Un jour, plus à partir de 1/4, elle
+Vervant plus forte dans la soirée.

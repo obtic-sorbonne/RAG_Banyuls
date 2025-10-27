@@ -1,0 +1,17 @@
+| **Date**       | 17 octobre 1901 |
+|-----------------|----------------|
+| **Heure**      | 9h Matin       | 3h Soir       |
+| **Hauteur Barométrique** | 757,1          | 757,2          |
+| **Direction du vent**    | N.N.O          | N.N.O          |
+| **Force**       | 1/5 Fort      | 1/5 Fort      |
+| **Nébulosité**  | Reg. 6 (Clair) | 10            | 10            |
+|                 | Reg. 4 (Mer)  | 10            | 10            |
+| **Direction des nuages** | N.N.O          | N.N.O          |
+| **Pluie tombée**       | 0.009          | 0.002          |
+| **Température de l'air** | 15,5          | 16,3          |
+| **Hauteur de la mer**     | 19,9          | 30,3          |
+| **Agitation de l'eau**    | 1T. Fort      | 1T. Fort      |
+| **Densité de l'eau**     |              |              |
+|     **- au bout de la jetée** | 1027,8        | 1027,5        |
+|     **- au large**       |              |              |
+| **Température de l'eau**  | 17,3          | 17,4          |

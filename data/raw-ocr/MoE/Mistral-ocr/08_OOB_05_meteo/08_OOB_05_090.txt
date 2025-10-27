@@ -1,0 +1,27 @@
+|  1. 17 M6ars. 1905- | M6atin | Soir  |
+| --- | --- | --- |
+|  Ajouteur Parometrique | 209.6 | 207.6  |
+|  Direction du rent |  |   |
+|  Force |  |   |
+|  N6bulosite |  |   |
+|  (Reg. 2. (me)) |  |   |
+|  Direction des images |  |   |
+|  Pluie tombée |  |   |
+|  Température de l'air |  |   |
+|  Ajouteur de la mer |  |   |
+|  Oeitation de l'eau |  |   |
+|  Densité au bout de la jetée |  |   |
+|  Température de l'eau |  |   |
+|  1. 19 M6ars. 1905- | M6atin | Soir  |
+|  Ajouteur Parometrique |  | 210.8  |
+|  Direction du rent |  | or. or.  |
+|  Force |  | 6  |
+|  N6bulosite | (Reg. 0. (lim) | 10  |
+|  (Reg. 2. (me)) |  | 10  |
+|  Direction des images |  | or.  |
+|  Pluie tombée |  |   |
+|  Température de l'air |  |   |
+|  Ajouteur de la mer |  |   |
+|  Oeitation de l'eau |  |   |
+|  Densité au bout de la jetée |  |   |
+|  Température de l'eau |  |   |

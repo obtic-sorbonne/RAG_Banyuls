@@ -1,0 +1,36 @@
+```
+Journal Météorologique du Navire "La Belle Poule"
+Période : 26 au 27 Janvier 1906
+
+| Date       | Matin | Soir  |
+|------------|-------|-------|
+| 26 Janvier 1906 |      |      |
+| Hauteur Barométrique (mm) | 764.3 | 766.3 |
+| Direction du vent | S.O | Ov.S |
+| Force | 1/fort | 1 |
+| Nébulosité (Reg. O. Terre) | 10 | 10 |
+| Nébulosité (Reg. E. Mer) | 10 | 10 |
+| Direction des nuages | - | cr.cr.o |
+| Pluie tombée (mm) | quelques g | 1.125 |
+| Température de l'air (°C) | 1.6 | 8.8 |
+| Hauteur de la mer (m) | 3 | 3 |
+| Agitation de l'eau (code) | 0 | 0 |
+| Densité au bout de la jetée (g/cm³) | 3 | 3 |
+| Température de l'eau (°C) | - | - |
+
+| 27 Janvier 1906 | Matin | Soir  |
+| Hauteur Barométrique (mm) | 770.0 | 769.6 |
+| Direction du vent | Crozet | Est |
+| Force | faible | faible |
+| Nébulosité (Reg. O. Terre) | 10 | 10 |
+| Nébulosité (Reg. E. Mer) | 10 | 10 |
+| Direction des nuages | cr.cr.o | cr.cr.o |
+| Pluie tombée (mm) | - | - |
+| Température de l'air (°C) | 10.0 | 10.8 |
+| Hauteur de la mer (m) | 49.8 | 63.8 |
+| Agitation de l'eau (code) | 3 | 3 |
+| Densité au bout de la jetée (g/cm³) | 1029.2 | 1029.3 |
+| Température de l'eau (°C) | 13.9 | 14.0 |
+
+Note Marginale : Aucune remarque particulière pour ces dates.
+```

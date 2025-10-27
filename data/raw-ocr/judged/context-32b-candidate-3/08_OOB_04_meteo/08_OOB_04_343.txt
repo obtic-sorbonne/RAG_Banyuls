@@ -1,0 +1,35 @@
+```
+# 19. 19 février - 1904
+
+|  Matin |  |  |  |
+| --- | --- | --- | --- |
+|  Hauteur Barométrique | 753.5 |  |  |
+|  Direction du vent |  |  |  |
+|  Force | 1 fort |  |  |
+|  Nebulosité | 7 |  |  |
+|  (Reg. O. (terre)) | 10 |  |  |
+|  Reg. E. (mer) | 10 |  |  |
+|  Direction des nuages | 10 |  |  |
+|  Pluie tombée | 0 |  |  |
+|  Température de l'air | 12.4 |  |  |
+|  Hauteur de la mer | 50.6 |  |  |
+|  Agitation de l'eau | 2 fort |  |  |
+|  Densité au bout de la jetée | 1024.8 |  |  |
+|  Température de l'eau | 12.8 |  |  |
+
+|  Soir |  |  |  |
+| --- | --- | --- | --- |
+|  Hauteur Barométrique | 750.0 |  |  |
+|  Direction du vent | 1.2.3 |  |  |
+|  Force | 2 fort |  |  |
+|  Nebulosité | 10 |  |  |
+|  (Reg. O. (terre)) | 10 |  |  |
+|  Reg. E. (mer) | 20 |  |  |
+|  Direction des nuages | 10 |  |  |
+|  Pluie tombée | 0 |  |  |
+|  Température de l'air | 13.1 |  |  |
+|  Hauteur de la mer | 49.9 |  |  |
+|  Agitation de l'eau | 8 fort |  |  |
+|  Densité au bout de la jetée | 1029.0 |  |  |
+|  Température de l'eau | 12.8 |  |  |
+```

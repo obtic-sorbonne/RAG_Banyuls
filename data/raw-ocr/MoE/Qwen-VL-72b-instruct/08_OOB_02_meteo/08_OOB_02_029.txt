@@ -1,0 +1,15 @@
+| **Date** | **Ville** | **Temps de journée** | **Observations** | **Valeurs** |
+|----------|-----------|---------------------|-----------------|------------|
+| 31 Mars 1901 | Nôle | 9 H Malin | Hauteur Barométrique | 754.6 |
+|        |       |            | Direction du vent | Sud |
+|        |       |            | Force | 3 |
+|        |       |            | Nébulosité (Reg. O. (laisse)) | 3 |
+|        |       |            | Nébulosité (Reg. E. (mar)) | 10 |
+|        |       |            | Direction des nuages | Sud-Est |
+|        |       |            | Pluie Tombée | quelques g. |
+|        |       |            | Température de l'air | 14.0 |
+|        |       | 3 H Soir | Hauteur de la mer | 3.0 |
+|        |       |            | Agitation de l'eau | 1.6 |
+|        |       |            | Transparence de l'eau (pâle jetée) | |
+|        |       |            | Transparence de l'eau (au larg) | |
+|        |       |            | Température de l'eau | 11.3 |

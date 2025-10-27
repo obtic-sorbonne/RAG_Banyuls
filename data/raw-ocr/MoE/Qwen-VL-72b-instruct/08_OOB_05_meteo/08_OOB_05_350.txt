@@ -1,0 +1,29 @@
+| Matin Soir | 24 Février 1908 | Matin Soir |
+|------------|-----------------|------------|
+| Hauteur Barométrique | 799.9 | 768.3 |
+| Direction du Vent | ENE.0 | ENE.0 |
+| Force | 6 faible | 6 fort |
+| (Reg. C. Aime) | 10 | 0 |
+| Nébulosité | 40 | 0 |
+| (Reg. X. (mar)) | N.0 | N.0 |
+| Direction des nuages | quelques g | " |
+| Pluie tombée | 6.3 | 5.7 |
+| Température de l'air | 46.9 | 52.6 |
+| Hauteur de la mer | 3 fort | 3 |
+| Agitation de l'eau | 3 | 3 |
+| Vent au haut de la jetée | 3 | 3 |
+| Température de l'eau | 3 | 3 |
+| 25 Février 1908 | Matin Soir |  |
+| Hauteur Barométrique | 768.3 |  |
+| Direction du Vent | ENE.0 |  |
+| Force | 6 fort |  |
+| (Reg. C. Aime) | 0 |  |
+| Nébulosité | 0 |  |
+| (Reg. X. (mar)) | N.0 |  |
+| Direction des nuages | " |  |
+| Pluie tombée | 5.7 |  |
+| Température de l'air | 52.6 |  |
+| Hauteur de la mer | 3 |  |
+| Agitation de l'eau | 3 |  |
+| Vent au haut de la jetée | 3 |  |
+| Température de l'eau | 3 |  |

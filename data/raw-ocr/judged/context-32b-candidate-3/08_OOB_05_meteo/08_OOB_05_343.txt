@@ -1,0 +1,64 @@
+# 12 Janvier 1908
+
+| **Date**         | **Matin** | **Soir** |
+|------------------|----------|----------|
+| **Hauteur barométrique (mmHg)** | 765.0 | 765.0 |
+| **Direction du vent** | S.O. | S.O. |
+| **Force** | 1 | 1 |
+| **Nébulosité (Rég. 0. clair)** | 10 | 10 |
+| **Nébulosité (Rég. 2. nuageux)** | 10 | 10 |
+| **Direction des nuages** | S.O. | S.O. |
+| **Pluie tombée (mm)** | - | - |
+| **Température de l'air (°C)** | 8.5 | 9.5 |
+| **Hauteur de la mer (cm)** | 45.5 | 50.0 |
+| **Agitation de l'eau** | 1 | 1 |
+| **Densité au bout de la jetée (g/cm³)** | 1027.0 | 1027.0 |
+| **Température de l'eau (°C)** | 10.5 | 10.8 |
+
+# 13 Janvier 1908
+
+| **Date**         | **Matin** | **Soir** |
+|------------------|-----------|----------|
+| **Hauteur barométrique (mmHg)** | 769.0 | - |
+| **Direction du vent** | E. | - |
+| **Force** | 15 | - |
+| **Nébulosité (Rég. 0. claire)** | 10 | - |
+| **Direction des nuages** | Est | - |
+| **Pluie tombée (mm)** | 0 | - |
+| **Température de l'air (°C)** | 11.3 | - |
+| **Hauteur de la mer (cm)** | 3 | - |
+| **Agitation de l'eau** | 1 | - |
+| **Densité au bout de la jetée (g/cm³)** | - | - |
+| **Température de l'eau (°C)** | 3 | - |
+
+# 14 Janvier 1908
+
+| **Date**         | **Matin** | **Soir** |
+|------------------|-----------|----------|
+| **Hauteur barométrique (mmHg)** | 772.6 | 772.3 |
+| **Direction du vent** | - | S.8 |
+| **Force** | 0 | 1 fort |
+| **Nébulosité (Rég. 0. claire)** | 10 | 10 |
+| **Direction des nuages** | Sud | Sud |
+| **Pluie tombée (mm)** | - | - |
+| **Température de l'air (°C)** | 11.6 | 11.8 |
+| **Hauteur de la mer (cm)** | 48.3 | 48.4 |
+| **Agitation de l'eau** | 3 | 3 faible |
+| **Densité au bout de la jetée (g/cm³)** | 1028.0 | 1027.7 |
+| **Température de l'eau (°C)** | 12.8 | 12.8 |
+
+# 18 Janvier 1908
+
+| **Date**         | **Matin** | **Soir** |
+|------------------|-----------|----------|
+| **Hauteur barométrique (mmHg)** | 779.4 | - |
+| **Direction du vent** | 10 | - |
+| **Force** | 1,0 | - |
+| **Nébulosité (Rég. 0. claire)** | 1,0 | - |
+| **Direction des nuages** | 1,0 | - |
+| **Pluie tombée (mm)** | 13,0 | - |
+| **Température de l'air (°C)** | 64,1 | - |
+| **Hauteur de la mer (cm)** | 1,0 | - |
+| **Agitation de l'eau** | 1,0 | - |
+| **Densité au bout de la jetée (g/cm³)** | 102,1 | - |
+| **Température de l'eau (°C)** | 12,0 | - |

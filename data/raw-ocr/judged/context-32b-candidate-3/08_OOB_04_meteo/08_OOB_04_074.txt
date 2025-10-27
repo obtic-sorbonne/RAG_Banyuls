@@ -1,0 +1,67 @@
+# 22 Mars 1902
+
+## Matin
+
+|  **Kanteur Barométrique** | **753.2**  |
+| --- | --- |
+|  Direction du vent | SE  |
+|  Force | 4 fort  |
+|  **Nébulosité** | **(Reg. O. (terre))** | **0**  |
+|  | **(Reg. E. (mer))** | **1**  |
+|  Direction des images | SE  |
+|  Pluie tombée | 9.9  |
+|  Température de l'air | 13.5  |
+|  Kanteur de la mer | 42.7  |
+|  Égitation de l'eau | 3  |
+|  Densité au bout de la jetée | 1028.4  |
+|  Température de l'eau | 12.0  |
+
+## Soir
+
+|  **Kanteur Barométrique** | **753.3**  |
+| --- | --- |
+|  Direction du vent | SE  |
+|  Force | 3 fort  |
+|  **Nébulosité** | **(Reg. O. (terre))** | **1**  |
+|  | **(Reg. E. (mer))** | **0**  |
+|  Direction des images | SE  |
+|  Pluie tombée | 9.9  |
+|  Température de l'air | 9.9  |
+|  Kanteur de la mer | 37.4  |
+|  Égitation de l'eau | 3  |
+|  Densité au bout de la jetée | 1028.5  |
+|  Température de l'eau | 18.2  |
+
+# 23 Mars 1902
+
+## Matin
+
+|  **Kanteur Barométrique** | **762.3**  |
+| --- | --- |
+|  Direction du vent | SE  |
+|  Force | 0  |
+|  **Nébulosité** | **(Reg. O. (terre))** | **10**  |
+|  | **(Reg. E. (mer))** | **10**  |
+|  Direction des images | SE  |
+|  Pluie tombée | 1/1  |
+|  Température de l'air | 14.5  |
+|  Kanteur de la mer | 14.9  |
+|  Égitation de l'eau | 1 faible  |
+|  Densité au bout de la jetée | 1028.2  |
+|  Température de l'eau | 12.2  |
+
+## Soir
+
+|  **Kanteur Barométrique** | **762.2**  |
+| --- | --- |
+|  Direction du vent | SE  |
+|  Force | 3 fort  |
+|  **Nébulosité** | **(Reg. O. (terre))** | **10**  |
+|  | **(Reg. E. (mer))** | **10**  |
+|  Direction des images | SE  |
+|  Pluie tombée | 1/1  |
+|  Température de l'air | 17.4  |
+|  Kanteur de la mer | 75.8  |
+|  Égitation de l'eau | 1 fort  |
+|  Densité au bout de la jetée | 1028.1  |
+|  Température de l'eau | 13.2  |

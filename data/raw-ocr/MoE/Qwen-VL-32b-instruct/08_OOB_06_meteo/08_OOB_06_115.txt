@@ -1,0 +1,34 @@
+| **Observations du 1904, 2 février** | **Observations du 1904, 3 février** |
+| --- | --- |
+| **Nombre de bateaux sortis (pêche à la mer)** | **9.9** | **9.3** |
+| **Température de l'air** |  |  |
+| - maxima depuis la veille | **8.7** | **9.3** |
+| - minima id. | **7.7** | **7.9** |
+| **Température de l'eau** |  |  |
+| - maxima depuis la veille |  |  |
+| - minima id. |  |  |
+| **Pluie tombée depuis la veille, en millim.** | **0** | **0** |
+| **Évaporation depuis le 1900, en millim.** |  |  |
+| **Direction du vent (à terre)** | **Ouest** | **Nord-Nord-Ouest** |
+| **Force du vent** | **faible** | **faible** |
+| **Direction des nuages** | **Nord** | **Nord-Nord-Ouest** |
+| **Nébulosité** |  |  |
+| - région Ouest (terre) | **0** | **2** |
+| - région Est (mer) | **2** | **1** |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (Bas-Rhin)** | **22.8** | **38.8** |
+| **Agitation de l'eau** | **2 ferm** | **1 ferm** |
+| **Densité de l'eau au bout de la jetée** | **1029.2** | **1029.3** |
+| **Température de l'eau au bout de la jetée** | **9.0** | **9.5** |
+
+---
+
+| **Observations du 1904, 2 février (Suite)** | **Observations du 1904, 3 février (Suite)** |
+| --- | --- |
+| **Direction du vent (à terre)** | **Sud-Ouest** | **Nord-Nord-Ouest** |
+| **Force du vent** | **fort** | **4** |
+| **Direction des nuages** | **Nord** | **Nord-Nord-Ouest** |
+| **Nébulosité** | **2** | **1** |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (Bas-Rhin)** | **34.3** | **40.6** |
+| **Agitation de l'eau** | **2 ferm** | **2 faible** |
+| **Densité de l'eau au bout de la jetée** | **1027.9** | **1028.3** |
+| **Température de l'eau au bout de la jetée** | **9.7** | **9.9** |

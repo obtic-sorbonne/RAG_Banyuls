@@ -1,0 +1,6 @@
+| Date | Heure | Hauteur Barométrique | Direction du Vent | Force | Nuéboolimité | Direction des nuages | Pluie tombée | Température de l'air | Hauteur de la mer | Agitation de l'eau | Densité au bout de la jetée | Température de l'eau |
+|------|-------|---------------------|-------------------|-------|--------------|----------------------|------------------|---------------------|-----------------|---------------------|--------------------------|-------------------------|
+| 21 juin 1902 | Matin | 761.9 | SW | 4 | 0 | SW | " | 20.0 | 49.9 | 1 faible | 1028.0 | 17.6 |
+| 21 juin 1902 | Soir | 766.2 | SW | 4.8 | 8 ligues | SW | " | 23.3 | 58.2 | 1 T. faible | 1027.2 | 19.8 |
+| 22 juin 1902 | Matin | 761.7 | SW | 0 | 0 | SW | " | 2/6 | 43.3 | 0 | 1027.3 | 19.3 |
+| 22 juin 1902 | Soir | 760.8 | SW | 4.9 | 0 | SW | " | 28.4 | 50.9 | 1 T. faible | 1026.8 | 21.8 |

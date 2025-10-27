@@ -1,0 +1,27 @@
+| Date | Matin | Soir |
+|------|-------|------|
+| 26 Janvier 1904 | Bul. Barométrique | Bul. Barométrique |
+| **Hauteur Barométrique** | 766.4 | 766.0 |
+| **Direction du vent** | cen. O | cen. O |
+| **Force** | 15 | 15 |
+| **Nébulosité** | Reg. 0 (cl.) | léger ext. |
+| L Reg. E (mer) | 1 légère | légère |
+| **Pluie Tombée** | 32.12 | "" |
+| **Température de l'air** | 9.5 | 12.5 |
+| **Hauteur de la mer** | 47.2 | 47.6 |
+| **Agitation de l'eau** | 3 | 2 |
+| **Visibilité au bout de la jetée** | 1027.0 | 1027.6 |
+| **Température de l'eau** | 10.1 | 10.3 |
+|
+| 4 Février 1904 | Bul. Barométrique | Bul. Barométrique |
+| **Hauteur Barométrique** | 712.7 | 711.3 |
+| **Direction du vent** | cen. O | cen. O |
+| **Force** | 15 | 2 fort |
+| **Nébulosité** | Reg. 0 (cl.) | 10 |
+| L Reg. E (mer) | 10 | 10 |
+| **Pluie Tombée** | 1.2 | quelques g. |
+| **Température de l'air** | 10.0 | 11.4 |
+| **Hauteur de la mer** | 11.7 | 36.3 |
+| **Agitation de l'eau** | 2 | 2 |
+| **Visibilité au bout de la jetée** | 1028.5 | 1028.6 |
+| **Température de l'eau** | 11.0 | 11.2 |

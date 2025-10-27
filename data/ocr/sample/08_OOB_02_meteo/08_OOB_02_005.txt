@@ -1,0 +1,16 @@
+# Bâté 7 mars 1901
+
+|  **Nom** | **9" Matin** | **3" Soir**  |
+| --- | --- | --- |
+|  Hauteur Barométrique | 75,3 | 75,8  |
+|  Direction du vent | Nord | Nord  |
+|  Force | 3 | 38,2  |
+|  Nébulosité | 3 | 29,2  |
+|  Reg. E. (mer) | 1 | 10  |
+|  Direction des nuages | 10,0 | 10,0  |
+|  Mise tombée | quelques gouttes | 11  |
+|  Température de l'air | 3,6 | 11,5  |
+|  Hauteur de la mer | 53,6 | 67,3  |
+|  Égitation de l'eau | 1 fort | 1 fort  |
+|  Densité de l'eau | 1 au bout de la jetée | 1 au large  |
+|  Température de l'eau | 11,3 | 11,6  |

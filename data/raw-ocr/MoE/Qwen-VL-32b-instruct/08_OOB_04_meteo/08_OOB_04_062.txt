@@ -1,0 +1,31 @@
+# 9. 11 février - 1902
+
+|  **Pfanteur** | **Nanométrique** | **2/4,0**  |
+| --- | --- | --- |
+|  Direction du vent |  | Ouest  |
+|  Force |  | 1  |
+|  Pénébutosité | (Reg. O - (10m) | 10 kg/m² C  |
+|   | (Reg. F - (10m) | 10 kg/m² C  |
+|  Direction des nuages |  | Ouest  |
+|  Flux lombaire |  | 10,4  |
+|  Permécrature de l'air |  | 22,2  |
+|  Panteur de la mer |  | 1 faible  |
+|  Égitation de l'eau |  | 1 faible  |
+|  Sensibilité au bout de la jetée |  | 1029,9  |
+|  Permécrature de l'eau |  | 11,2  |
+
+# 13 février - 1902
+
+|  **Pfanteur** | **Nanométrique** | **2/4,1**  |
+| --- | --- | --- |
+|  Direction du vent |  | Ouest  |
+|  Force |  | 1 faible  |
+|  Pénébutosité | (Reg. O - (10m) | 10  |
+|   | (Reg. F - (10m) | 10  |
+|  Direction des nuages |  | Ouest  |
+|  Flux lombaire |  | 11,1  |
+|  Permécrature de l'air |  | 31,2  |
+|  Panteur de la mer |  | 2  |
+|  Égitation de l'eau |  | 1029,9  |
+|  Sensibilité au bout de la jetée |  | 11,1  |
+|  Permécrature de l'eau |  | 11,1  |

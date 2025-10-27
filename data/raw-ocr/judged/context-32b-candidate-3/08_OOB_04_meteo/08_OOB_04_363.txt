@@ -1,0 +1,31 @@
+```plaintext
+|  V. 20 Avril 1902 | Matin | Soir  |
+| --- | --- | --- |
+|  Hauteur Barométrique | 768.5 |   |
+|  Direction du vent | or. 8 |   |
+|  Force | 1 |   |
+|  Nébulosité | Reg. O. (terre) | 10  |
+|  Nébulosité | Reg. E. (mer) | 10  |
+|  Direction des nuages | or. 8 |   |
+|  Pluie tombée |  |   |
+|  Température de l'air | 15.7 |   |
+|  Hauteur de la mer | 36.1 |   |
+|  Agitation de l'eau | 2 part. |   |
+|  Densité au bout de la jetée | 1028.0 |   |
+|  Température de l'eau | 14.6 |   |
+
+|  V. 21 Avril 1902 | Matin | Soir  |
+| --- | --- | --- |
+|  Hauteur Barométrique | 761.4 | 760.8  |
+|  Direction du vent | or. 0 | or. 0.0  |
+|  Force | 2 part. | 2  |
+|  Nébulosité | Reg. O. (terre) | 10  |
+|  Nébulosité | Reg. E. (mer) | 10  |
+|  Direction des nuages | or. 0 | or. 0.0  |
+|  Pluie tombée |  |   |
+|  Température de l'air | 16.8 | 20.0  |
+|  Hauteur de la mer | 44.1 | 49.5  |
+|  Agitation de l'eau | 1 part. | 1 part.  |
+|  Densité au bout de la jetée | 1028.0 | 1028.0  |
+|  Température de l'eau | 14.4 | 14.8  |
+```

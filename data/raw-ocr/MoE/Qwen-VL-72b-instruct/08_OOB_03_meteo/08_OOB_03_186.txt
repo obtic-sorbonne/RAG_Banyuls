@@ -1,0 +1,16 @@
+| **Date** | 11 Mai 1902 |
+|---|---|
+| **Mesure** | **9h Matin** | **15h Soir** |
+| **Hauteur Barométrique** | 762.8 | 762.5 |
+| **Direction du vent** | N | S-S-E |
+| **Force** | 2 | 1 fort |
+| **Nébulosité** | O (terre) | 0 / 10 |
+| **Nébulosité** | 1 (mer) | 1 / 10 |
+| **Direction des nuages** | cr.cr.0 | cr.cr.0 |
+| **Pluie Tombée** | " " | quelques g. |
+| **Température de l'air** | 14.4 | 16.7 |
+| **Hauteur de la mer** | 62.2 | 58.7 |
+| **Agitation de l'eau** | 1 fort | 1 T fort |
+| **Densité de l'eau** | **au bout de la jetée** | **au Large** |
+| **Densité de l'eau** | 1027.7 | 1027.6 |
+| **Température de l'eau** | 14.5 | 14.5 |

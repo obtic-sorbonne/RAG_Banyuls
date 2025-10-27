@@ -1,0 +1,36 @@
+```
+Journal Météorologique du Navire "La Belle Poule"
+Période : 15 au 19 Décembre 1905
+
+| Date       | Matin | Soir  |
+|------------|-------|-------|
+| 15 Décembre 1905 |      |      |
+| Hauteur Barométrique (mm) | 770.2 | 770.3 |
+| Direction du vent | E.O | E.Cr.O |
+| Force | 1/5 | 1/Fort |
+| Nébulosité (Reg. O. Terre) | 0 (claire) | 0 (claire) |
+| Nébulosité (Reg. E. Mer) | 7 (couvert) | 0 (claire) |
+| Direction des nuages | E.Cr.E | - |
+| Pluie tombée (mm) | - | - |
+| Température de l'air (°C) | 7.9 | 8.9 |
+| Hauteur de la mer (m) | 48.3 | 49.8 |
+| Agitation de l'eau (code) | 2 Fort | 2 |
+| Densité au bout de la jetée (g/cm³) | 1029.3 | 1029.3 |
+| Température de l'eau (°C) | 17.0 | 14.0 |
+
+| 19 Décembre 1905 | Matin | Soir  |
+| Hauteur Barométrique (mm) | 769.2 | 768.3 |
+| Direction du vent | S.O | - |
+| Force | 1/5 | Faible |
+| Nébulosité (Reg. O. Terre) | 10 (couvert) | 10 (couvert) |
+| Nébulosité (Reg. E. Mer) | 10 (couvert) | 10 (couvert) |
+| Direction des nuages | S.O | S.O |
+| Pluie tombée (mm) | - | - |
+| Température de l'air (°C) | 6.9 | 9.6 |
+| Hauteur de la mer (m) | 44.0 | 46.1 |
+| Agitation de l'eau (code) | 2 Fort | 2 |
+| Densité au bout de la jetée (g/cm³) | 1029.3 | 1029.3 |
+| Température de l'eau (°C) | 14.9 | 14.8 |
+
+Note Marginale : Aucune remarque particulière pour ces dates.
+```

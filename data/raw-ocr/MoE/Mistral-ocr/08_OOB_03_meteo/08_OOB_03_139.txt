@@ -1,0 +1,17 @@
+# Bate. 1 Mars. 1902
+
+|   | 9th Matin | 3rd Jour  |
+| --- | --- | --- |
+|  Hauteur Barometrique | 761,2 | 761,5  |
+|  Direction du vent | 5.5.E | 5.5.E  |
+|  Force | 2 | 2  |
+|  Hébulosité (Reg. O. Terre) | 10 | 10  |
+|  Débulosité (Reg. E. (mer)) | 10 | 10  |
+|  Direction des nuages | 5.5.E | 5.5.E  |
+|  Mise Kombee | 13,0 | 13,4  |
+|  Température de l'air | 40,4 | 42,8  |
+|  Hauteur de la mer | faible | 1 fork  |
+|  Agitation de l'eau | faible | 1 fork  |
+|  Densité de l'eau | au bout de la jetée | 1628,0  |
+|  Densité de l'eau | au Large |   |
+|  Température de l'eau | 11,4 | 11,4  |

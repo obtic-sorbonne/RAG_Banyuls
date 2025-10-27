@@ -1,0 +1,45 @@
+```plaintext
+| **Observations du 1900 20 février** |
+| --- |
+| **Nombre de bateaux sortis (pêche à l.)** |  |
+| **Température de l'air** |  |
+| - maxima depuis la veille | 24.4 °C |
+| - minima id. | 17.4 °C |
+| **Température de l'eau** |  |
+| - maxima depuis la veille |  |
+| - minima id. |  |
+| **Pluie tombée depuis la veille, en millim.** | 22.0 mm |
+| **Évaporation depuis le 1900, en millim.** |  |
+| **Direction du vent (à terre)** | **à 9 h. m.** | **à 3 h. s.** |
+| - Force | 1 | 2 |
+| - Direction des nuages | S.O. | S.O. |
+| **Nébulosité** |  |
+| - région Ouest (terre) | 10 | 10 |
+| - id. Est (mer) | 10 | 10 |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (Bassin St. Radulp)** | 22.0 cm | 33.0 cm |
+| **Agitation de l'eau** | 2 | 2 |
+| **Densité de l'eau au bout de la jetée** | 1028.4 g/cm³ | 1027.8 g/cm³ |
+| **Température id.** | 16.8 °C | 17.4 °C |
+
+| **Observations du 1900 21 février** |
+| --- |
+| **Nombre de bateaux sortis (pêche à l.)** |  |
+| **Température de l'air** |  |
+| - maxima depuis la veille | 21.8 °C |
+| - minima id. | 17.7 °C |
+| **Température de l'eau** |  |
+| - maxima depuis la veille |  |
+| - minima id. |  |
+| **Pluie tombée depuis la veille, en millim.** | quelques mm |
+| **Évaporation depuis le 1900, en millim.** |  |
+| **Direction du vent (à terre)** | **à 9 h. m.** | **à 3 h. s.** |
+| - Force | 3 forts | 3 forts |
+| - Direction des nuages | N.N.O. | N.N.O. |
+| **Nébulosité** |  |
+| - région Ouest (terre) | 10 | 3 |
+| - id. Est (mer) | 10 | 1 |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (Bassin St. Radulp)** | 32.8 cm |  |
+| **Agitation de l'eau** | 2 | 2 forts |
+| **Densité de l'eau au bout de la jetée** | 1028.7 g/cm³ | 1028.9 g/cm³ |
+| **Température id.** | 16.6 °C | 16.9 °C |
+```

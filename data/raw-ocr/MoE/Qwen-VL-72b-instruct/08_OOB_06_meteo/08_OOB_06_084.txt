@@ -1,0 +1,41 @@
+OBSERVATIONS DU 1900 9 9 bre
+
+| | à 9 h. m. | à 3 h. s. |
+|---|---|---|
+| Nombre de bateaux sortis (pêche à l...) | | |
+| Température de l'air | maxima depuis la veille | 16,9 | 13 |
+| | minima id. | 8 | 7,7 |
+| Température de l'eau | maxima depuis la veille | | |
+| | minima id. | | |
+| Pluie tombée depuis la veille, en millim. | | | |
+| Evaporation depuis le 190 ; en millim. | | | |
+| Direction du vent (à terre) | N.N.O | N.O.S.E |
+| Force | 4 | 1 |
+| Direction des nuages | N.O | N.O |
+| Nébulosité | région Ouest (terre) | 10 | 10 |
+| | id. Est (mer) | 10 | 10 |
+| Hauteur de la mer, en centimètres, au-dessus du zéro. (B.R.) | 3453 | 33,5 |
+| Agitation de l'eau | 12 faible | 1 faible |
+| Densité de l'eau au bout de la jetée | 1028,6 | 1027,6 |
+| Température id. | 16,7 | 16,0 |
+
+OBSERVATIONS DU 1900 10 9 bre
+
+| | à 9 h. m. | à 3 h. s. |
+|---|---|---|
+| Nombre de bateaux sortis (pêche à l...) | | |
+| Température de l'air | maxima depuis la veille | 16,9 | |
+| | minima id. | 6,7 | |
+| Température de l'eau | maxima depuis la veille | | |
+| | minima id. | | |
+| Pluie tombée depuis la veille, en millim. | | | |
+| Evaporation depuis le 190 ; en millim. | | | |
+| Direction du vent (à terre) | N.N.O.Greest | S.S.E |
+| Force | 4 | 1 faible |
+| Direction des nuages | N.O | |
+| Nébulosité | région Ouest (terre) | 2 | |
+| | id. Est (mer) | 2 | |
+| Hauteur de la mer, en centimètres, au-dessus du zéro. (B.R.) | 3453 | |
+| Agitation de l'eau | 12 faible | |
+| Densité de l'eau au bout de la jetée | 1028,6 | |
+| Température id. | 14,9 | |

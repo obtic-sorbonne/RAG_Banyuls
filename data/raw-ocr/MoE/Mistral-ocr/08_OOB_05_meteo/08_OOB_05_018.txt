@@ -1,0 +1,31 @@
+|  9. 10
+Søith 1905 | Møtin | Jair  |
+| --- | --- | --- |
+|  Hauteur
+Maronctique | 266,0 | 264,6  |
+|  Direction du vent | 2,0 | 2,2,8  |
+|  Voree | 2 | 3  |
+|  Méculosite | 0 | 0  |
+|  (Reg. de (mer) | 1 | 0  |
+|  Direction des nuages | 0 | 0  |
+|  Flux tombé | 0 | 0  |
+|  Température de l'air | 27,4 | 29,9  |
+|  Hauteur de la mer | 16,1 | 41,6  |
+|  Légitation de l'eau | 1 | 2  |
+|  Densité au bout de la jetée | 1086,1 | 1087,4  |
+|  Température de l'eau | 28,2 | 80,6  |
+|  9. 11
+Søith 1905 | Møtin | Jair  |
+|  Hauteur
+Maronctique | 266,0 | 266,2  |
+|  Direction du vent | ord. | or.ce.  |
+|  Voree | 2,2 | 4  |
+|  Méculosite | Reg. de (mer) | 10  |
+|  (Reg. de (mer) | 2,0 | 10  |
+|  Direction des nuages | 2,0 | 2,0  |
+|  Flux tombé | group. | "  |
+|  Température de l'air | 27,2 | 28,3  |
+|  Hauteur de la mer | 1,1 | 41,9  |
+|  Légitation de l'eau | 1 | 2,2  |
+|  Densité au bout de la jetée | 1087,8 | 1087,4  |
+|  Température de l'eau | 81,8 | 83,1  |

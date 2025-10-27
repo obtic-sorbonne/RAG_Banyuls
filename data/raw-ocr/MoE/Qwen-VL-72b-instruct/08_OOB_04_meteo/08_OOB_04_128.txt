@@ -1,0 +1,26 @@
+| **Date**             | **Paramètre**              | **Matin** | **Soir** |
+|----------------------|---------------------------|-----------|----------|
+| **V. 2 Septembre 1902** | Hauteur Barométrique     | 764,7     | 762,6    |
+|                      | Direction du vent        | Est       | Est      |
+|                      | Force                    | 15        |          |
+|                      | Reg. O. (Ciel)           | lég. clair | lég. clair|
+|                      | Nébulosité (Reg. E. (mer)) | lég. dégr. | lég. dégr.|
+|                      | Direction des images     | Est       |          |
+|                      | Pluie tombée              | "         |          |
+|                      | Température de l'air     | 20,8      | 22,8     |
+|                      | Hauteur de la mer        | 47,3      | 43,3     |
+|                      | Agitation de l'eau       | 1° faible | 1°        |
+|                      | Densité au bout de la jetée | 1027,0    | 1026,2   |
+|                      | Température de l'eau     | 22,0      | 22,6     |
+| **V. 3 Septembre 1902** | Hauteur Barométrique     | 763,7     | 764,4    |
+|                      | Direction du vent        | Ouest     | S.S.E.   |
+|                      | Force                    | 15        |          |
+|                      | Reg. O. (Ciel)           | 0         | 2        |
+|                      | Nébulosité (Reg. E. (mer)) | lég. dégr. | 0        |
+|                      | Direction des images     | Ouest     | S.S.E.   |
+|                      | Pluie tombée              | "         |          |
+|                      | Température de l'air     | 24,1      | 29,0     |
+|                      | Hauteur de la mer        | 42,0      | 39,9     |
+|                      | Agitation de l'eau       | 1° forte  | 1° forte  |
+|                      | Densité au bout de la jetée | 1027,3    | 1027,2   |
+|                      | Température de l'eau     | 21,6      | 22,0     |

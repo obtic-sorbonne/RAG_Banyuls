@@ -1,0 +1,16 @@
+| **Date** | **23 Avril 1901** |
+| **Heure** | **9h Matin** | **3h Soir** |
+| Hauteur Barométrique | 760,6 m.m | 759,8 m.m |
+| Direction du vent | S.S.E | S.S.E |
+| Force | 2 faible | 17 fort |
+| Nébulosité (Reg. O. - Terre) | 10 | 10 |
+| Nébulosité (Reg. E. - Mer) | 10 | 10 |
+| Direction des nuages | S.S.E | S.S.E |
+| Pluie tombée (mm) | 0,625 | 3,400 |
+| Température de l'air (°C) | 13,7 | 12,7 |
+| Hauteur de la mer (m) | 39,9 | 52,4 |
+| Agitation de l'eau | 3 | 3 faible |
+| Densité de l'eau |
+| au bout de la jetée | 1029,1 | 1028,1 |
+| au large |  |  |
+| Température de l'eau (°C) | 13,3 | 13,2 |

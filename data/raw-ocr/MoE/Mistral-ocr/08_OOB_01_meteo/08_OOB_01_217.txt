@@ -1,0 +1,19 @@
+# Sale - 28 Février - 1901
+
+|  Item | 9. Matin | 3. Brix  |
+| --- | --- | --- |
+|  Hauteur Pavonotique | 157,4 | 756,5  |
+|  Direction du vent | 11 | 700  |
+|  Force | 0 | 1  |
+|  Rébulosité | 160,2 C. | 10  |
+|  Rébulosité | 160,2 C. | 10  |
+|  Rég. L. (m. m.) | 160,2 C. | 10  |
+|  Direction des nuages | 11 | 11  |
+|  Mise tombée | 10,3 | 12,3  |
+|  Température de l'air | 54,7 | 50,8  |
+|  Température de l'air | 1,2 | 11,6  |
+|  Hauteur de la mer | 54,7 | 50,8  |
+|  Égitation de l'eau | 1 faible | 1,7 faible  |
+|  Égitation de l'eau | 1 faible | 1,7 faible  |
+|  Sensité de l'eau |  |   |
+|  Comprendre de l'eau | 11,2 | 11,6  |

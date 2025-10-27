@@ -1,0 +1,28 @@
+```plaintext
+### OBSERVATIONS DU 1902 26 JANVIER
+
+| **Nombre de bateaux sortis (pêche à l...)** | 16,6 |
+| **Température de l'air** |  |  |
+| - **maxima depuis la veille** | 16,6 |
+| - **minima id.** | 7,9 |
+| **Température de l'eau** |  |  |
+| - **maxima depuis la veille** | *non mentionnée* |
+| - **minima id.** | *non mentionnée* |
+| **Pluie tombée depuis la veille, en millim.** | quelques g |
+| **Évaporation depuis le 1900, en millim.** | *non mentionnée* |
+| **Direction du vent (à terre)** | **à 9 h. m.** | **N.N.O.** |
+| **Force** | **à 3 h. s.** | *non mentionnée* |
+| **Direction des nuages** | **N.O.** | **N.O.** |
+| **Nébulosité** | **région Ouest (terre)** | **10** |
+| **id. Est (mer)** | **10** |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.)** | **14,8** |
+| **Agitation de l'eau** | **1 fort** |
+| **Densité de l'eau au bout de la jetée** | **1,024,9** |
+| **Température id.** |  |  |
+| - **Matin** | **11,6** |
+| - **Maxima** | **23,4** |
+| - **Minima** | **7,9** |
+| - **Matin** | **11,7** |
+| - **Maxima** | **23,3** |
+| - **Minima** | **9,4** |
+```

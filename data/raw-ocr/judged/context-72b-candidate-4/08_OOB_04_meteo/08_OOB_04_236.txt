@@ -1,0 +1,31 @@
+```plaintext
+# V. 3 Juin 1903
+
+| **Hauteur Barométrique** | 744.4 | 743.6 |
+| **Direction du vent** | Est 0 | Nord 0 |
+| **Force** | 3 fort | 2 |
+| **Nébulosité (terre)** | 10 | 10 |
+| **Nébulosité (mer)** | 10 | 10 |
+| **Direction des nuages** | Est 8 | Nord 0 |
+| **Pluie tombée** | quelques gouttes | quelques gouttes |
+| **Température de l'air** | 19.3 | 21.4 |
+| **Hauteur de la mer** | 43.6 | 31.2 |
+| **Agitation de l'eau** | 2 fort | 2 fort |
+| **Densité au bout de la jetée** | 1027.1 | 1027.2 |
+| **Température de l'eau** | 18.1 | 17.9 |
+
+# V. 4 Juin 1903
+
+| **Hauteur Barométrique** | 746.6 | 760.9 |
+| **Direction du vent** | Nord 0 | Nord 0 |
+| **Force** | 1 | 1 |
+| **Nébulosité (terre)** | 10 | 10 |
+| **Nébulosité (mer)** | 10 | 10 |
+| **Direction des nuages** | Est 0 | Est 0 |
+| **Pluie tombée** | quelques gouttes | quelques gouttes |
+| **Température de l'air** | 17.9 | 16.3 |
+| **Hauteur de la mer** | 38.2 | 38.2 |
+| **Agitation de l'eau** | 1 | 1 |
+| **Densité au bout de la jetée** | 1027.3 | 1027.3 |
+| **Température de l'eau** | 17.6 | 17.7 |
+```

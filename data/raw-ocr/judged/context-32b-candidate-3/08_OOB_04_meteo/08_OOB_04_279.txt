@@ -1,0 +1,17 @@
+V. 23 Septembre 1903
+
+|  Hauteur Barométrique | Matin | Soir  |
+| --- | --- | --- |
+|  Hauteur | 771.16 | 761.70 |
+|  Direction du vent | or. or. | or. or. |
+|  Force | 15 | 1 |
+|  Nébuleuse | 10 | 10 |
+|  Rég. O. (terre) | 10 | 10 |
+|  Rég. F. (mer) | 10 | 10 |
+|  Direction des nuages | or. or. | 0.0 |
+|  Pluie tombée | 0 | 0 |
+|  Température de l'air | 17.6 | 22.1 |
+|  Hauteur de la mer | 32.5 | 37.3 |
+|  Agitation de l'eau | 3 faible | 1 faible |
+|  Densité au bout de la jetée | 1028.1 | 1028.1 |
+|  Température de l'eau | 17.6 | 17.6 |

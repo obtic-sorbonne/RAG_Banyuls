@@ -1,0 +1,29 @@
+|  V. 3 Octobre 1903 | Matin | Soir  |
+| --- | --- | --- |
+|  Hauteur 
+Monométrique | 202.2 | 207.8  |
+|  Direction du vent | or.0 |   |
+|  Force | 1 fort | 0  |
+|  (Reg. O. (lire) | 1600 m² | 0  |
+|  (Reg. E. (mer) | 2400 m² | 1  |
+|  Direction des nuages |  | crant  |
+|  Huie tombe |  |   |
+|  Température de l'air | 20.7 | 33.6  |
+|  Hauteur de la mer | 13.1 | 42.2  |
+|  Régulation de l'eau | 1 | 1  |
+|  Densité au bout de la folie | 1082.8 | 1086.2  |
+|  (température de l'eau) | 18.2 | 18.1  |
+|  V. 4 Octobre 1903 | Matin | Soir  |
+|  Hauteur 
+Monométrique | 202.2 |   |
+|  Direction du vent |  |   |
+|  Force | 160 | (  |
+|  (reg. O. (lire) | 1 faible |   |
+|  (Reg. E. (mer) | 0 |   |
+|  Direction des nuages |  |   |
+|  Huie tombe |  |   |
+|  (température de l'air) | 13.9 |   |
+|  Hauteur de la mer | 48.2 |   |
+|  Régulation de l'eau | 1 T. faible |   |
+|  Densité au bout de la folie | 1086.6 |   |
+|  (température de l'eau) | 18.0 |   |

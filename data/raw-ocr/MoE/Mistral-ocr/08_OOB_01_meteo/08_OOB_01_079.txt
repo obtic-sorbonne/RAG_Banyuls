@@ -1,0 +1,19 @@
+# Date 11 Octobre - 1900
+
+|  Item | Prix | Valeur  |
+| --- | --- | --- |
+|  Hauteur barométrique | 400,3 | 704,1  |
+|  Directeur du vent | 7,1 | 1,1  |
+|  Force | 2 | 1  |
+|  reg. - O. (ton) | 3 | 3  |
+|  Mébulasité |  |   |
+|  reg. - H (mer) | 9 | 3  |
+|  Directeur des nuages | 7,1 | 7,1  |
+|  Phuie tinnée | 1,1 | 1,1  |
+|  Température de l'air | 61,8 | 62,1  |
+|  Hauteur de la mer | 46,1 | 37,8  |
+|  Oglotatur de l'eau | 1 | 6  |
+|  à l'eau de la jeté | 1021,2 | 1021,0  |
+|  Densité |  |   |
+|  (au large) |  |   |
+|  Température de l'eau | 61,1 | 61,3  |

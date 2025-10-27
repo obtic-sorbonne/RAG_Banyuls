@@ -1,0 +1,16 @@
+| **Éléments**                   | **9h Matin**       | **3h Soir**       |
+|--------------------------------|-------------------|-------------------|
+| **Hauteur Barométrique**       | 755.7             | 755.5             |
+| **Direction du Vent**          | Ouest             | Sud               |
+| **Force**                      | 2                 | 4                 |
+| **Nébulosité**                 |                   |                   |
+| Reg. O. (Land)                 | 10                | 10                |
+| Reg. E. (Mer)                  | 10                | 10                |
+| **Direction des nuages**       | Ouest             | Sud               |
+| **Pluie tombée**               |                   |                   |
+| **Température de l'air**       | 13.2              | 14.7              |
+| **Hauteur de la mer**          | 48.3              | 48.8              |
+| **Aquilatation de l'eau**      | 1T. Jaill          | 3 Fort            |
+| **Densité de l'eau**           | à la jetée        |                   |
+|                                | au large         |                   |
+| **Température de l'eau**       | 11.5              | 12.4              |

@@ -1,0 +1,41 @@
+OBSERVATIONS DU 1900 21 Mai
+
+| Nombre de bateaux sortis (pêche à la |  |
+| --- | --- |
+| Température de l'air | maxima depuis la veille. | 20,7 |
+|  | minima id. | 16,3 |
+| Température de l'eau | maxima depuis la veille. |  |
+|  | minima id. |  |
+| Pluie tombée depuis la veille, en millim. |  |
+| Evaporation depuis le 1900, en millim. |  |
+| Direction du vent (à terre). | à 9 h. m. | à 3 h. s. |
+|  | E.S.E |  |
+| Force | 1 |  |
+| Direction des nuages | S.O |  |
+| Nébulosité | région Ouest (terre) | 6 |
+|  | id. Est (mer). | 6 |
+| Hauteur de la mer, en centimètres, au-dessus du zéro. | 48,2 |  |
+| Agitation de l'eau | 1 faible |  |
+| Densité de l'eau au bout de la jetée | 1,025,6 |  |
+| Température id. | 14,7 |  |
+
+OBSERVATIONS DU 1900 23 Mai
+
+| Nombre de bateaux sortis (pêche à la Trainée) | 16 |
+| --- | --- |
+| Température de l'air | maxima depuis la veille. | 23,5 |
+|  | minima id. | 14,6 |
+| Température de l'eau | maxima depuis la veille. |  |
+|  | minima id. |  |
+| Pluie tombée depuis la veille, en millim. | quelques gouttes |
+| Evaporation depuis le 1900, en millim. |  |
+| Direction du vent (à terre). | à 9 h. m. | à 3 h. s. |
+|  | N.N.O |  |
+| Force | 3 fort |  |
+| Direction des nuages | N.N.O |  |
+| Nébulosité | région Ouest (terre) | 10 |
+|  | id. Est (mer). | 10 |
+| Hauteur de la mer, en centimètres, au-dessus du zéro. | 130 |  |
+| Agitation de l'eau | 2 faible |  |
+| Densité de l'eau au bout de la jetée | 1,026,0 |  |
+| Température id. | 14,4 |  |

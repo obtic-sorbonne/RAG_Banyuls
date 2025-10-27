@@ -1,0 +1,1 @@
+plaintext Date Heure Température F Baromètre po Humidité Observations

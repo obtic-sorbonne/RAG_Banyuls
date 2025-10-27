@@ -1,0 +1,28 @@
+| Date           | Matin   | Vers 9h30 | Après-midi   | Vers 18h | Résumé diurne |
+|----------------|---------|-----------|--------------|----------|--------------|
+| 7 août 1907    |         |           |              |          |              |
+| Hauteur barométrique | 767.2 | 767.2 |              |          |              |
+| Direction du vent | S-E    | S-E      |              |          |              |
+| Force          | 1 fort  | 2 fort   |              |          |              |
+| Nébulosité (Reg. clair) | 10   | 60    |              |          |              |
+| (Reg. 2. clair)      | 10   | 60    |              |          |              |
+| Direction des nuages | S-O  | S-O     |              |          |              |
+| Ciel nu        |         |         |              |          |              |
+| Température de l'air | 27.3 | 29.0 |              |          |              |
+| Hauteur de la mer | 49.7 | 92.0 |    |    |              |
+| Agitation de l'eau | 1 faible | 1 faible |              |          |              |
+| Denité au bout de la jetée | 1027.0 | 1027.0 |              |          |              |
+| Température de l'eau | 22.9 | 25.9 |    |    |              |
+| 8 août 1907    |         |           |              |          |              |
+| Hauteur barométrique | 769.3 | 768.6 |              |          |              |
+| Direction du vent | S-E    | S-E      |              |          |              |
+| Force          | 1 fort  | 1-2 fort |              |          |              |
+| Nébulosité (Reg. clair) | 0    | 0     | 1 légères | 0        |              |
+| (Reg. 2. clair)      | 0    | 0     | 1 légères | 0        |              |
+| Direction des nuages |     |     |          |          |              |
+| Plein tombé        |     |     |          |          |              |
+| Température de l'air | 26.4 | 31.3 |    |    |              |
+| Hauteur de la mer | 13.2 | 17.8 |    |    |              |
+| Agitation de l'eau | 1 faible | 1 faible |              |          |              |
+| Denité au bout de la jetée | 1027.3 | 1026.3 |              |          |              |
+| Température de l'eau | 22.1 | 23.3 |    |    |              |

@@ -1,0 +1,32 @@
+```plaintext
+| **Date**         | **Matin**                     | **Soir**                     |
+|------------------|-------------------------------|------------------------------|
+| **V. 13 Novembre 1903** |                           |                              |
+| Hauteur Barométrique (mmHg) | 770.4                  | 766.7                        |
+| Direction du vent | Ouest                        | Ouest                        |
+| Force | faible                          | 1/2 faible                    |
+| Nébulosité | 0 (claire)                    | légère                       |
+| Reg. O. (terre) | 0                         | 0                            |
+| Reg. 2. (mer) | légère + légère             | 2 légère                     |
+| Direction des nuages | -                         | -                            |
+| Pluie tombée | -                            | -                            |
+| Température de l'air (°C) | 12.6                    | 12.4                         |
+| Hauteur de la mer (m) | 42.1                    | 32.0                         |
+| Agitation de l'eau | 3 fort                   | 1 faible                     |
+| Densité au bout de la jetée (g/cm³) | 1028.2              | 1028.2                       |
+| Température de l'eau (°C) | 14.4                    | 15.1                         |
+| **V. 14 Novembre 1903** |                           |                              |
+| Hauteur Barométrique (mmHg) | 768.3                  | 769.3                        |
+| Direction du vent | Ouest                        | Ouest                        |
+| Force | faible                          | faible                       |
+| Nébulosité | légère                       | légère                       |
+| Reg. O. (terre) | 0                         | 0                            |
+| Reg. 2. (mer) | 1 légère                     | 1 légère                     |
+| Direction des nuages | -                         | -                            |
+| Pluie tombée | -                            | -                            |
+| Température de l'air (°C) | 14.4                    | 14.3                         |
+| Hauteur de la mer (m) | -                          | 38.0                         |
+| Agitation de l'eau | 3                          | 1 faible                     |
+| Densité au bout de la jetée (g/cm³) | 1028.2              | 1028.2                       |
+| Température de l'eau (°C) | 15.6                    | 15.6                         |
+```

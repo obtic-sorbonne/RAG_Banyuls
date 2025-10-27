@@ -1,0 +1,16 @@
+# Date: 22 Mours 1902
+
+|  Name | 9th Maitin | 3rd Sivin  |
+| --- | --- | --- |
+|  Xanten Barometrique | 7/7.2 | 7/7.3  |
+|  Direction du vent | cr. cr. | cr. cr.  |
+|  Force | 4 fort | 3 fort  |
+|  Pédbulosité |  | Vejonent  |
+|  Reg. O. (Terre) | 1 | Vejonent  |
+|  Direction des nuages | cr. cr. | cr. cr.  |
+|  Mucie Tombe | quelques. |   |
+|  Température de l'air | 9.9 | 13.6  |
+|  Xanten de la mer | 42.7 | 37.4  |
+|  Régulation de l'eau | 3 | 3  |
+|  Sensité de l'eau | 1029.6 | 1028.4  |
+|  **Température de l'eau** | 12.0 | 12.2  |

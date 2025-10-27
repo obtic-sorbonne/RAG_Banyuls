@@ -1,0 +1,33 @@
+## V. de Septembre 1902
+
+|  Nom | Date | Type  |
+| --- | --- | --- |
+|  Hauteur Ménonctrique | 20/13 | 203.2  |
+|  Direction Su vent | Ouest | 228  |
+|  Force | 1/20/01 | 3  |
+|  (Reg. G. (titre)) | 10 | Signes  |
+|  (Reg. E. (mer)) | 10 | Signes  |
+|  Direction des nuages | Ouest | Ouest  |
+|  (Titre tombe) |  |   |
+|  Rempliration de l'air | 23.9 | 21.1  |
+|  (Tauteur de la mer) | 41.2 | 14.2  |
+|  (Agitation de l'eau) | 1 | 17.20  |
+|  (Bensité au bout de la jeté) | 1022.2 | 1022.2  |
+|  (Rempliration de l'eau) | 22.3 | 22.5  |
+
+## V. de Septembre 1902
+
+|  Nom | Date | Type  |
+| --- | --- | --- |
+|  Hauteur Ménonctrique | 200.4 | 205.2  |
+|  Direction Su vent | est. | est.  |
+|  Force | 3/20/01 | 3/20/01  |
+|  (Reg. G. (titre)) | 10 |   |
+|  (Reg. E. (mer)) | 10 |   |
+|  (Direction des nuages) | est. | est.  |
+|  (Titre tombe) | 8.0 | 9.0  |
+|  (Rempliration de l'air) | 12.1 | 22.0  |
+|  (Tauteur de la mer) | 22.3 | 49.8  |
+|  (Agitation de l'eau) | 3/20/01 | 27.20  |
+|  (Bensité au bout de la jeté) | 1022.3 | 1025.9  |
+|  (Rempliration de l'eau) | 20.1 | 21.3  |

@@ -1,0 +1,47 @@
+| **Observations du 21 Mai 1960** |
+| --- |
+| Nombre de bateaux sortis (pêche à la ligne) | 20.7 |
+| **Température de l'air** |
+| maxima depuis la veille | 20.7 |
+| minima id. | 10.7 |
+| **Température de l'eau** |
+| maxima depuis la veille |  |
+| minima id. |  |
+| Pluie tombée depuis la veille, en millim |  |
+| Évaporation depuis le 190, en millim |  |
+| **Direction du vent (à terre)** | **à 9 h. m.** | **à 3 h. s.** |
+| --- | --- | --- |
+| Direction | E.S.E |  |
+| Force | 1 |  |
+| Direction des nuages | S.O |  |
+| **Nébulosité** | **région Ouest (terre)** | **id. Est (mer)** |
+| --- | --- | --- |
+|  | 10 | 10 |
+| Hauteur de la mer, en centimètres, au-dessus du zéro | 48.7 |  |
+| Agitation de l'eau | 1 faible |  |
+| Densité de l'eau au bout de la jetée | 1027.7 |  |
+| Température | 14.7 |  |
+
+| **Observations du 23 Mai 1960** |
+| --- |
+| Nombre de bateaux sortis (pêche à la trame) | 16 |
+| **Température de l'air** |
+| maxima depuis la veille | 9.8 |
+| minima id. | 11.6 |
+| **Température de l'eau** |
+| maxima depuis la veille |  |
+| minima id. |  |
+| Pluie tombée depuis la veille, en millim | quelque |
+| Évaporation depuis le 190, en millim |  |
+| **Direction du vent (à terre)** | **à 9 h. m.** | **à 3 h. s.** |
+| --- | --- | --- |
+| Direction | N.N.O |  |
+| Force | 3 forte |  |
+| Direction des nuages | Nn.N. |  |
+| **Nébulosité** | **région Ouest (terre)** | **id. Est (mer)** |
+| --- | --- | --- |
+|  | 10 | 10 |
+| Hauteur de la mer, en centimètres, au-dessus du zéro | 13.0 |  |
+| Agitation de l'eau | 2 faible |  |
+| Densité de l'eau au bout de la jetée | 1026.0 |  |
+| Température | 14.4 |  |

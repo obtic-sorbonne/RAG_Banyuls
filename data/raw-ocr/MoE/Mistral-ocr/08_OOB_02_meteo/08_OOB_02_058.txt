@@ -1,0 +1,18 @@
+# Date: 7 Mai 1901
+
+|  Item | 9th matin | 3rd Soir  |
+| --- | --- | --- |
+|  Houteur Barométrique | 7/4.3 | 7/3.8  |
+|  Direction du vent | nous | hier  |
+|  Force | 3 faille | 3 fort  |
+|  Reg. O. (terre) | 7/2.0 | 7/2.0  |
+|  Pébulosite |  |   |
+|  Reg. E. (mer) | 7/2.0 | 7/2.0  |
+|  Direction des nuerges | nous |   |
+|  Huie tombée | 14.8 | 13.0  |
+|  Température de l'air | 38.0 | 53.2  |
+|  Houteur de la mer | 38.0 | 53.2  |
+|  Légitation de l'eau | 3 | 1 fort  |
+|  Densité de l'eau | 10.2/3.3 | 10.2/3.3  |
+|  Densité de l'eau |  |   |
+|  Température de l'eau | 13.5 | 14.4  |

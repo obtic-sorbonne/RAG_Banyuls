@@ -1,0 +1,35 @@
+# 12 février 1903
+
+|  Nom | Prix  |
+| --- | --- |
+|  Hauteur Marométrique | 72.4  |
+|  Direction Su vent | 0.20  |
+|  Force | 1/paise  |
+|  Reg. G. (lume) | 10  |
+|  Pénétroniste | 10  |
+|  Reg. E. (mur) | 10  |
+|  Direction des images | 0.20  |
+|  Mure tombe | 8.7  |
+|  Température de l'air | 52.7  |
+|  Hauteur de la mer | 52.7  |
+|  Gajitation de l'eau | 0  |
+|  Sensite au bout de la folie | 1029.1  |
+|  Température de l'eau | 10.5  |
+
+# 13 février 1903
+
+|  Nom | Prix  |
+| --- | --- |
+|  Hauteur Marométrique | 755.0  |
+|  Direction Su vent | 0.00  |
+|  Force | 3 m/part  |
+|  Reg. G. (lume) | 0  |
+|  Pénétroniste | 0  |
+|  Reg. E. (mur) | 0  |
+|  Direction des images | 1  |
+|  Mure tombe | 4.6  |
+|  Température de l'air | 4.6  |
+|  Hauteur de la mer | 64.9  |
+|  Gajitation de l'eau | 1/part  |
+|  Sensite au bout de la folie | 1029.0  |
+|  Température de l'eau | 10.7  |

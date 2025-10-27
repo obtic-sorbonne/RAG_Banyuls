@@ -1,0 +1,29 @@
+```
+| **Date**          | **Matin**                                                                                       | **Soir**                                                                                      |
+|-------------------|-------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|
+| V. 20 Octobre 1909 | **Hauteur Barométrique** 769.0                                                                 | **Hauteur Barométrique** 768.0                                                                 |
+|                   | Direction du vent cr.cr.o                                                                      | Direction du vent cr.cr.o                                                                      |
+|                   | Force 15                                                                                        | Force faible fort                                                                               |
+|                   | Nébulosité (Rég. o. (terre)) 10                                                                | Nébulosité (Rég. o. (terre)) 10                                                                |
+|                   | Nébulosité (Rég. n. (mer)) 10                                                                  | Nébulosité (Rég. n. (mer)) 10                                                                  |
+|                   | Direction des nuages cr.cr.o                                                                  | Direction des nuages N.C.R.O                                                                   |
+|                   | Pluie tombée 8.62%                                                                             | Pluie tombée quelques g                                                                         |
+|                   | Température de l'air 8.68                                                                      | Température de l'air -                                                                          |
+|                   | Hauteur de la mer 87.2                                                                         | Hauteur de la mer 36.2                                                                         |
+|                   | Agitation de l'eau 2                                                                           | Agitation de l'eau 2 fort                                                                      |
+|                   | Densité au bout de la jetée 1028.9                                                             | Densité au bout de la jetée 1028.6                                                             |
+|                   | Température de l'eau 17.3                                                                      | Température de l'eau 16.9                                                                      |
+
+| V. 21 Octobre 1909 | **Hauteur Barométrique** 760.0                                                                 | **Hauteur Barométrique** 760.0                                                                 |
+|                   | Direction du vent cr.cr.o                                                                      | Direction du vent -                                                                             |
+|                   | Force 15                                                                                        | Force 3                                                                                        |
+|                   | Nébulosité (Rég. o. (terre)) 0                                                                  | Nébulosité (Rég. o. (terre)) 0                                                                  |
+|                   | Nébulosité (Rég. n. (mer)) 0                                                                    | Nébulosité (Rég. n. (mer)) -                                                                   |
+|                   | Direction des nuages cr.cr.o                                                                   | Direction des nuages -                                                                          |
+|                   | Pluie tombée -                                                                                  | Pluie tombée -                                                                                 |
+|                   | Température de l'air 39.0                                                                       | Température de l'air -                                                                          |
+|                   | Hauteur de la mer 39.0                                                                          | Hauteur de la mer 3                                                                              |
+|                   | Agitation de l'eau 3                                                                            | Agitation de l'eau -                                                                            |
+|                   | Densité au bout de la jetée 1028.8                                                              | Densité au bout de la jetée -                                                                   |
+|                   | Température de l'eau 16.4                                                                       | Température de l'eau -                                                                          |
+```

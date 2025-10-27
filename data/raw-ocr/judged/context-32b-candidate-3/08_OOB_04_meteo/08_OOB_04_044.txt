@@ -1,0 +1,31 @@
+V. 23, Xème 1901
+
+|  **Hauteur Barométrique** | **Matin** | **Soir**  |
+| --- | --- | --- |
+|  Direction du vent |  |  |
+|  Force |  | 1/2  |
+|  Nébulosité | (Reg. O. (terre)) | 10  |
+|  Nébulosité | (Reg. E. (mer)) | 10  |
+|  Direction des nuages |  | or.  |
+|  Pluie tombée |  |  |
+|  Température de l'air |  | 9,2  |
+|  Hauteur de la mer |  | 29,5  |
+|  Agitation de l'eau |  | 1  |
+|  Densité au bout de la jetée |  | 1028,2  |
+|  Température de l'eau |  | 11,6  |
+
+V. 24 Xème 1901
+
+|  **Hauteur Barométrique** | **Matin** | **Soir**  |
+| --- | --- | --- |
+|  Direction du vent |  | or.  | or.  |
+|  Force |  | 1  | 2 forl.  |
+|  Nébulosité | (Reg. O. (terre)) | 10  | 2  |
+|  Nébulosité | (Reg. E. (mer)) | 10  | or.  |
+|  Direction des nuages |  | or.  | or.  |
+|  Pluie tombée |  |  | or.  |
+|  Température de l'air |  | 7,5  | 10,2  |
+|  Hauteur de la mer |  | 23,1  | 46,1  |
+|  Agitation de l'eau |  | 1 forl.  | 2  |
+|  Densité au bout de la jetée |  | 1028,2  | 1028,2  |
+|  Température de l'eau |  | 12,4  | 12,1  |

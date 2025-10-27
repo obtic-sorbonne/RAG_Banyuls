@@ -1,0 +1,29 @@
+### Observations du **22 Février 1961**
+
+| **Catégorie**                               | **9 h m**  | **3 h s**  |
+|--------------------------------------------|------------|------------|
+| **Direction du vent (à terre)**             | **N.N.O**  | **O**      |
+| **Force**                                   | **1**      | **2**      |
+| **Direction des nuages**                    | **1°**     | **N.O.**   |
+| **Nébulosité (région Ouest - terre)**       | **0**      | **1°**     |
+| **Nébulosité (id. Est - mer)**              | **1°**     | **2°**     |
+| **Hauteur de la mer (en cm, au-dessus du zéro)** | **53.0**  | **51.0**   |
+| **Agitation de l'eau**                      | **faible** | **faible** |
+| **Densité de l'eau au bout de la jetée**     | **1028.7** | **1028.7** |
+| **Température**                             | **10.4**   | **11.3**   |
+
+---
+
+### Observations du **24 Février 1961**
+
+| **Catégorie**                               | **9 h m**  | **3 h s**  |
+|--------------------------------------------|------------|------------|
+| **Direction du vent (à terre)**             | **N.N.O**  | **S.S.O.** |
+| **Force**                                   | **2°**     | **faible** |
+| **Direction des nuages**                    | **1°**     | **S.S.O.** |
+| **Nébulosité (région Ouest - terre)**       | **0**      | **1°**     |
+| **Nébulosité (id. Est - mer)**              | **1°**     | **1°**     |
+| **Hauteur de la mer (en cm, au-dessus du zéro)** | **58.0**  | **2**      |
+| **Agitation de l'eau**                      | **2**      | **2**      |
+| **Densité de l'eau au bout de la jetée**     | **1028.6** | **11.0**   |
+| **Température**                             | **11.0**   | **11.0**   |

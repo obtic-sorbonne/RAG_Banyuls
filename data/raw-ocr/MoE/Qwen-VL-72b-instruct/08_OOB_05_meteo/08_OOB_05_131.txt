@@ -1,0 +1,27 @@
+| V. 19 Juillet. 1906 | Matin | Soir |
+|-------------------|-------|------|
+| Hauteur Barométrique | 768.6 | 766.2 |
+| Direction du vent | Eros. S | S.S.S |
+| Force | 3 | 3 |
+| Nébulosité | Reg. o. (clère) | 10 | 0 |
+| Direction des nuages | Reg. E. (cour) | Sud | Sud |
+| Pluie Tombée | " | " | " |
+| Température de l'air | 24.1° | 28.0° |
+| Hauteur de la mer | 50.7° | 48.3° |
+| Agitation de l'eau | 1°faible | 1°fort |
+| Densité au bout de la jetée | 1027.5 | 1026.8 |
+| Température de l'eau | 20.1° | 24.2° |
+
+| V. 20 Juillet. 1906 | Matin | Soir |
+|-------------------|-------|------|
+| Hauteur Barométrique | 766.7 | 765.1 |
+| Direction du vent | S.S.S | S.S.S |
+| Force | 1 | 1 |
+| Nébulosité | Reg. E. (clère) | 0 | 0 |
+| Direction des nuages | Reg. E. (cour) | Sud | S.O |
+| Pluie Tombée | " | " | " |
+| Température de l'air | 24.6° | 22.2° |
+| Hauteur de la mer | 50.7° | 53.0° |
+| Agitation de l'eau | 1°faible | 1°faible |
+| Densité au bout de la jetée | 1027.4 | 1026.8 |
+| Température de l'eau | 21.7° | 20.9° |

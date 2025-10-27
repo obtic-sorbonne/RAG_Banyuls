@@ -1,0 +1,45 @@
+| **OBSERVATIONS DU 1902 7 AOUT** |
+| --- |
+| **Nombre de bateaux sortis (pêche à l.)** |  |
+| **Température de l'air** | maxima depuis la veille | 21.7 |
+|  | minima id. | 16.1 |
+| **Température de l'eau** | maxima depuis la veille |  |
+|  | minima id. |  |
+| **Pluie tombée depuis la veille, en millim.** |  |
+| **Évaporation depuis le 190, en millim.** |  |
+| **Direction du vent (à terre)** | **à 9 h. m.** | **à 3 h. s.** |
+| **Force** | 2 |  |
+| **Direction des nuages** | **S.S.O** |  |
+| **Nébulosité** | région Ouest (terre) | **60** |
+|  | id. Est (mer) | **69** |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B.Q.)** | **86** |  |
+| **Agitation de l'eau** | **f. fort** |  |
+| **Densité de l'eau au bout de la jetée** | **127.0** |  |
+| **Température** | **id.** | **20.0** |
+| **- S. Personne matin** | **Maxima** | **34.7** |
+|  | **Minima** | **13.7** |
+
+| **OBSERVATIONS DU 1902 8 AOUT** |
+| --- |
+| **Nombre de bateaux sortis (pêche à l.)** |  |
+| **Température de l'air** | maxima depuis la veille | 22.0 |
+|  | minima id. | 16.2 |
+| **Température de l'eau** | maxima depuis la veille |  |
+|  | minima id. |  |
+| **Pluie tombée depuis la veille, en millim.** | 2.7 |
+| **Évaporation depuis le 190, en millim.** |  |
+| **Direction du vent (à terre)** | **à 9 h. m.** | **à 3 h. s.** |
+| **Force** | 2 | **1. Tiède** |
+| **Direction des nuages** | **S.S.É.** | **Liverpool** |
+| **Nébulosité** | région Ouest (terre) | **10** |
+|  | id. Est (mer) | **10** |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B.Q.)** | **46.6** | **33.2** |
+| **Agitation de l'eau** | **f. fort** | **f. fort** |
+| **Densité de l'eau au bout de la jetée** | **1027.3** | **1027.0** |
+| **Température** | **id.** | **20.0** | **20.2** |
+| **- S. Balanç monin (Acid.)** | 18.2 |  |
+| **- S. Personne matin** | **Maxima** | **24.9** |
+|  | **Minima** | **14.4** |
+|  | **Minima** | **32.0** |
+| **- S. S. Shaw** | **maxima** | **minima** |
+|  | **Minima** | **20.7** |

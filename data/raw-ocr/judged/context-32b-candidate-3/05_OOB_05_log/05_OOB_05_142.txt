@@ -1,0 +1,32 @@
+N°  
+Sortie du ________ 1903  
+
+Départ de ________ à ________ heures du ________  
+Arrivée à ________  
+
+Départ de ________ à ________ heures du ________  
+Arrivée à ________  
+
+Départ de ________ à ________ heures du ________  
+Arrivée à ________  
+
+Arrivée au mouillage à ____ h. du  
+
+État du temps:  
+________  
+
+Passagers à bord:  
+________  
+
+Objet de la sortie:  
+________  
+
+Consommations  
+- Briquettes de ________ Poids en Kilos ________  
+- Huile ________ Total en litres ________  
+
+Dépenses:  
+________  
+
+Observations:  
+________

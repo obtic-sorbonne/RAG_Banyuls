@@ -1,0 +1,16 @@
+# Date de Février 1902
+
+|  **Nom** | **Nom de l'expert** | **Prix**  |
+| --- | --- | --- |
+|  Kanteur Prorométrique | 9th St. Galim. | 3rd Soir  |
+|  Direction Su vent | 761,6 | 7/9,6  |
+|  Force | 1st or. 0 | 1st or. 0  |
+|  Modificatif | 1st or. 0 | 1st or. 0  |
+|  Réduction | 10 | 10 kg/m²  |
+|  Réduction des nuages | 1st or. 0 | 1st or. 0  |
+|  Flux tombé | 1st or. 0 | 1st or. 0  |
+|  Température de l'air | 1st or. 0 | 1st or. 0  |
+|  Kanteur de la mer | 46,2 | 48,3  |
+|  Régulation de l'eau | 1st for. 1 | 1st for. 1  |
+|  Sécurité de l'eau | 1st or. 3 | 1st or. 3  |
+|  Température de l'eau | 11,7 | 12,0  |

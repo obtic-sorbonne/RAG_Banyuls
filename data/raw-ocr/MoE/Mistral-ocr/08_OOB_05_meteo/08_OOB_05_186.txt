@@ -1,0 +1,29 @@
+# V. 18 Décembre 1906
+
+|  Hauteur | Maximum | Prix  |
+| --- | --- | --- |
+|  Direction du Vent | 15.3 | 15.3  |
+|  Force | 15 | 10  |
+|  Mébulosite (Reg. o. (1ane) | 10 | 10  |
+|  Direction des images | 10 | 10  |
+|  Flux tombé | 9.0 | 12.4  |
+|  Température de l'air | 9.0 | 12.4  |
+|  Hauteur de la mer | 9.6 | 13.1  |
+|  Ajustation de l'eau | 2 | 1 font.  |
+|  Densité au bout de la jetée | 1029.4 | 1029.0  |
+|  Température de l'eau | 14.0 | 14.0  |
+
+# V. 14 Décembre 1906
+
+|  Hauteur | Maximum | Prix  |
+| --- | --- | --- |
+|  Direction du Vent | 15.3 | 15.3  |
+|  Force | 15 | 10  |
+|  Mébulosite (Reg. o. (1ane) | 10 | 10  |
+|  Direction des images | 10 | 10  |
+|  Flux tombé | 1.0 | 10.0  |
+|  Température de l'air | 12.6 | 10.6  |
+|  Hauteur de la mer | 62.7 | 10.6  |
+|  Ajustation de l'eau | 2 | 10.0  |
+|  Densité au bout de la jetée | 1029.3 | 1029.4  |
+|  Température de l'eau | 13.7 | 13.6  |

@@ -1,0 +1,55 @@
+| Date       | Observation                        | Valeur |
+|------------|------------------------------------|--------|
+| 1960-06-11 | Nombre de bateaux sortis (pêche à la landine) | 123.7 |
+| 1960-06-11 | Température de l'air, maxima depuis la veille | 23.7 |
+| 1960-06-11 | Température de l'air, minima id. | 11.8 |
+| 1960-06-11 | Température de l'eau, maxima depuis la veille | - |
+| 1960-06-11 | Température de l'eau, minima id. | - |
+| 1960-06-11 | Pluie tombée depuis la veille, en millim. | quelques g |
+| 1960-06-11 | Évaporation depuis le 190, en millim. | - |
+| 1960-06-11 | Direction du vent (à terre), à 9 h. m. | N.N.E. |
+| 1960-06-11 | Direction du vent (à terre), à 3 h. s. | So. |
+| 1960-06-11 | Force du vent à 9 h. m. | 1 |
+| 1960-06-11 | Force du vent à 3 h. s. | 1 |
+| 1960-06-11 | Direction des nuages, à 9 h. m. | So. |
+| 1960-06-11 | Direction des nuages, à 3 h. s. | So. |
+| 1960-06-11 | Nébulosité, région Ouest (terre), à 9 h. m. | 10 |
+| 1960-06-11 | Nébulosité, région Ouest (terre), à 3 h. s. | 10 |
+| 1960-06-11 | Nébulosité, région Est (mer), à 9 h. m. | 10 |
+| 1960-06-11 | Nébulosité, région Est (mer), à 3 h. s. | 10 |
+| 1960-06-11 | Hauteur de la mer, en centimètres, au-dessus du zéro, à 9 h. m. | +2.7 |
+| 1960-06-11 | Hauteur de la mer, en centimètres, au-dessus du zéro, à 3 h. s. | +4.4 |
+| 1960-06-11 | Agitation de l'eau, à 9 h. m. | 1 |
+| 1960-06-11 | Agitation de l'eau, à 3 h. s. | 1 |
+| 1960-06-11 | Densité de l'eau au bout de la jetée, à 9 h. m. | 1026.2 |
+| 1960-06-11 | Densité de l'eau au bout de la jetée, à 3 h. s. | 1026.4 |
+| 1960-06-11 | Température de l'eau au bout de la jetée, à 9 h. m. | 18.2 |
+| 1960-06-11 | Température de l'eau au bout de la jetée, à 3 h. s. | 18.2 |
+
+| Date       | Observation                        | Valeur |
+|------------|------------------------------------|--------|
+| 1960-06-13 | Nombre de bateaux sortis (pêche à l...) | N'ant. |
+| 1960-06-13 | Température de l'air, maxima depuis la veille | 24.6 |
+| 1960-06-13 | Température de l'air, minima id. | 17.2 |
+| 1960-06-13 | Température de l'eau, maxima depuis la veille | - |
+| 1960-06-13 | Température de l'eau, minima id. | - |
+| 1960-06-13 | Pluie tombée depuis la veille, en millim. | quelques g |
+| 1960-06-13 | Évaporation depuis le 190, en millim. | - |
+| 1960-06-13 | Direction du vent (à terre), à 9 h. m. | N.N.0 |
+| 1960-06-13 | Direction du vent (à terre), à 3 h. s. | N.N.0 |
+| 1960-06-13 | Force du vent à 9 h. m. | 1 |
+| 1960-06-13 | Force du vent à 3 h. s. | 1 |
+| 1960-06-13 | Direction des nuages, à 9 h. m. | N.N.E. |
+| 1960-06-13 | Direction des nuages, à 3 h. s. | N.N.E. |
+| 1960-06-13 | Nébulosité, région Ouest (terre), à 9 h. m. | 10 |
+| 1960-06-13 | Nébulosité, région Ouest (terre), à 3 h. s. | 10 |
+| 1960-06-13 | Nébulosité, région Est (mer), à 9 h. m. | 10 |
+| 1960-06-13 | Nébulosité, région Est (mer), à 3 h. s. | 10 |
+| 1960-06-13 | Hauteur de la mer, en centimètres, au-dessus du zéro, à 9 h. m. | 36.6 |
+| 1960-06-13 | Hauteur de la mer, en centimètres, au-dessus du zéro, à 3 h. s. | 38.6 |
+| 1960-06-13 | Agitation de l'eau, à 9 h. m. | 3 |
+| 1960-06-13 | Agitation de l'eau, à 3 h. s. | 3 |
+| 1960-06-13 | Densité de l'eau au bout de la jetée, à 9 h. m. | 1027.6 |
+| 1960-06-13 | Densité de l'eau au bout de la jetée, à 3 h. s. | 1027.0 |
+| 1960-06-13 | Température de l'eau au bout de la jetée, à 9 h. m. | 17.2 |
+| 1960-06-13 | Température de l'eau au bout de la jetée, à 3 h. s. | 17.9 |

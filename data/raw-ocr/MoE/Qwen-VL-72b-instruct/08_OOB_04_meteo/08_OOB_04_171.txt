@@ -1,0 +1,30 @@
+| Date           | Matin                  | Soir                |
+|---------------|-----------------------|-------------------|
+| V. 28 Xbre 1902 |                       |                   |
+| Hauteur Barométrique    | 768.3                |                   |
+| Direction du vent      | Ouest                |                   |
+| Force               | 3                     | Faible            |
+| Reg. 6. (terre)      |                       | 1                 |
+| Nébulosité    |                       |                   |
+| Reg. E. (mer)       | 0                     |                   |
+| Direction des nuages    | Ouest                |                   |
+| Pluie Tombée      |                       |                   |
+| Température de l’air | 7.7                |                   |
+| Hauteur de la mer    | 2.6                |                   |
+| Agitation de l’eau  | 1                     |                   |
+| Densité au bout de la jetée | 1029.3            |                   |
+| Température de l’eau | 13.2                |                   |
+| V. 30 Xbre 1902 |                       |                   |
+| Hauteur Barométrique    | 746.4                | 746.2            |
+| Direction du vent      | er. cr. o           | cr. cr. o        |
+| Force               | 3                     | 3                 |
+| Reg. 6. (terre)      | 10                    | 10                |
+| Nébulosité    |                       |                   |
+| Reg. E. (mer)       | 10                    | 10                |
+| Direction des nuages    | 11                    | or. cr. o        |
+| Pluie Tombée      | quelques g           | quelques g        |
+| Température de l’air | 7.9                | 7.7                |
+| Hauteur de la mer    | 26.9                | 37.4              |
+| Agitation de l’eau  | 1 Paillle            | 2 Poud            |
+| Densité au bout de la jetée | 1029.0            | 1029.3           |
+| Température de l’eau | 12.9                | 12.6              |

@@ -1,0 +1,25 @@
+|  V. 25 Juillet - 1905 | Matin | Prix  |
+| --- | --- | --- |
+|  Hauteur Parométrique | 267.3 | 264.6  |
+|  Direction du vent | av.av. | av.av.  |
+|  Force | 14 | 3  |
+|  Nébulon | (Reg. a. (taux)) | 0  |
+|  Détection des nuages | av.av. | av.av.  |
+|  Chie tombée |  |   |
+|  Température de l'air | 27.2 | 30.8  |
+|  Hauteur de la mer | 14.2 | 42.1  |
+|  Régulation de l'eau | 3 fort | 3  |
+|  Densité au bout de la jetée | 1026.8 | 1025.6  |
+|  Température de l'eau | 24.2 | 24.1  |
+|  V. 26 Juillet - 1905 | Matin | Prix  |
+|  Hauteur Parométrique | 267.1 | 263.8  |
+|  Direction du vent | 2.8 | 2.3.8  |
+|  Force | 1 fort | 3 fort  |
+|  Nébulon | (Reg. a. (taux)) | 0  |
+|  Détection des nuages |  |   |
+|  Chie tombée |  |   |
+|  Température de l'air | 26.4 | 31.2  |
+|  Hauteur de la mer | 13.1 | 44.0  |
+|  Régulation de l'eau | 1 faible | 3  |
+|  Densité au bout de la jetée | 1026.1 | 1025.1  |
+|  Température de l'eau | 21.2 | 24.2  |

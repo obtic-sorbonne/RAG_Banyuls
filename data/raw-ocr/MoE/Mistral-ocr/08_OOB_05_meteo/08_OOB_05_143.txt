@@ -1,0 +1,25 @@
+|  7. 28 Quat. 1906 | Moatin | Poir  |
+| --- | --- | --- |
+|  Hauteur Mrarométrique | 768.7 | 766.3  |
+|  Direction du vent | or. 8 | Est  |
+|  Force | 1 | 1  |
+|  Hébulonie (Reg. a. (ren.) | 0 | 0  |
+|  Direction des nuages | 1 | 1  |
+|  Élue tombei | or. 8 | "  |
+|  Température de l'air | 22.4 | "  |
+|  Hauteur de la mer | 44.3 | 17.0  |
+|  Régitation de l'eau | 1 | 1  |
+|  Densité au bout de la jetée | 1027.2 | 1026.8  |
+|  Température de l'eau | 22.7 | 23.2  |
+|  7. 24 Quat. 1906 | Moatin | Poir  |
+|  Hauteur Mrarométrique | 767.7 | 767.0  |
+|  Direction du vent | or. 0 | Est  |
+|  Force | 2 fork | 1 fork  |
+|  Hébulonie (Reg. a. (ren.) | 10 aigu | 16 aigu  |
+|  Direction des nuages | 10 aigu | 16 aigu  |
+|  Élue tombei | or. 0 | Est  |
+|  Température de l'air | 26.1 | 31.3  |
+|  Hauteur de la mer | 44.0 | 17.7  |
+|  Régulation de l'eau | 1 | 2  |
+|  Densité au bout de la jetée | 1027.8 | 1027.3  |
+|  Température de l'eau | 26.0 | 22.1  |

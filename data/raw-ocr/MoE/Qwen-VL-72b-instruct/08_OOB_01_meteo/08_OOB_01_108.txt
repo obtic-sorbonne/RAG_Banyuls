@@ -1,0 +1,17 @@
+| **Date**     | **11 novembre 1900** | **N/B** | **3h** |
+|--------------|-------------------|---------|--------|
+| Hauteur barométrique | 757,3 hPa |        |        |
+| Direction du vent    | Nord        |        |        |
+| Force                | 2           |        |        |
+| Nebulosité           |             |        |        |
+|                      | Reg. O. (clerc) | 10     |        |
+|                      | Reg. E. (mer)   | 10     |        |
+| Direction des nuages | Nord        |        |        |
+| Pluie tombée         |             |        |        |
+| Température de l'air  | 11,8 °C     |        |        |
+| Hauteur de la mer    | 37,5 cm     |        |        |
+| Agitation de l'eau   |              | 1      |        |
+|                      | au bout de la jetée | 1029,4 cm |        |
+| Densité de l'eau     |              |        |        |
+|                      | au large     |        |        |
+| Température de l'eau | 17,1 °C     |        |        |

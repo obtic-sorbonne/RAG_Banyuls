@@ -1,0 +1,27 @@
+|  N. 17 Janvier - 1907 | Mbatin | Soir  |
+| --- | --- | --- |
+|  Hauteur Marometrique | 113,3 | 116,3  |
+|  Direction du vent | J.O | 120,7  |
+|  Force | 1 | 1 fort  |
+|  Nébulante (Reg. o. (lire) | 0 | 0  |
+|  Nébulante (Reg. x. (mer) | 0 | 0  |
+|  Direction des mages |  |   |
+|  Flux tombé |  |   |
+|  Température de l'air | 4,6 | 10,6  |
+|  Hauteur de la mer | 14,0 | 69,4  |
+|  Capitation de l'eau | 1 | 1  |
+|  Densité au bout de la jetée | 1089,6 | 1089,1  |
+|  Température de l'eau | 11,1 | 18,0  |
+|  N. 18 Janvier - 1907 | Mbatin | Soir  |
+|  Hauteur Marometrique | 111,8 | 111,6  |
+|  Direction du vent | J.O | 120,7  |
+|  Force | 1 | 8 faible  |
+|  Nébulante (Reg. o. (lire) | 10 | 10  |
+|  Nébulante (Reg. x. (mer) | 10 | 10  |
+|  Direction des mages | 100 | 10  |
+|  Flux tombé |  |   |
+|  Température de l'air | 6,3 | 10,0  |
+|  Hauteur de la mer | 16,1 | 63,8  |
+|  Capitation de l'eau | 2 faible | 8 fort  |
+|  Densité au bout de la jetée | 1089,6 | 1089,4  |
+|  Température de l'eau | 18,6 | 18,1  |

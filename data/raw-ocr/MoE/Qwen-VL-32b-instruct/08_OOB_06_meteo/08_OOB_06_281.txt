@@ -1,0 +1,28 @@
+| **Date** | **8 Mai 1902** |  | **Date** | **9 Mai 1902** |
+|---|---|---|---|---|
+| **Nombre de bateaux sortis (pêche à l.)** | 27.6 |  | **Nombre de bateaux sortis (pêche à l.)** | 31.0 |
+| **Température de l'air** |  |  | **Température de l'air** |  |
+| maxima depuis la veille | 27.6 |  | maxima depuis la veille | 31.0 |
+| minima id. | 19.0 |  | minima id. | 22.0 |
+| **Température de l'eau** |  |  | **Température de l'eau** |  |
+| maxima depuis la veille |  |  | maxima depuis la veille |  |
+| minima id. |  |  | minima id. |  |
+| **Pluie tombée depuis la veille, en millim.** | — |  | **Pluie tombée depuis la veille, en millim.** | — |
+| **Evaporation depuis le 190 , en millim.** |  |  | **Evaporation depuis le 190 , en millim.** |  |
+| **Direction du vent (à terre)** |  | **à 9 h. m.** | **à 3 h. s.** | **Direction du vent (à terre)** | **à 9 h. m.** | **à 3 h. s.** |
+| | | N.N.O. | S.S.E. | | N.N.O. | S.S.E. |
+| **Force** | | 1 | |  | 2 | 1 |
+| **Direction des nuages** | | N.N.O. | N.N.O. | | N.O. | N.N.O. |
+| **Nébulosité** | |  |  | | |  |
+| région Ouest (terre) | | 10 | 0 | | 10 | 2 |
+| id. Est (mer) | | 10 | 0 | | 60 | 2 |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (R)** | | 52.0 | 57.0 | | 54.0 | 53.9 |
+| **Agitation de l'eau** | | 1 | | | 1 | 1 |
+| **Densité de l'eau au bout de la jetée** | | 1026.4 | 1027.6 | | 1026.2 | 1026.0 |
+| **Température** |  |  | **Température** |  |
+| - is. Balan. matin et soir | 16.6 | 18.4 | - is. Balan. soir (humide) | 16.7 | 27.0 |
+| - is. Teranne matin | 24.0 | 26.7 | - is. Teranne matin | 37.3 | 44.0 |
+| | 31.8 |  | | 20.6 | 39.0 |
+| | 19.3 |  | | 16.7 | 26.1 |
+| *Maxima* |  |  | *Maxima* |  |  |
+| *Minima* |  |  | *Minima* |  |  |

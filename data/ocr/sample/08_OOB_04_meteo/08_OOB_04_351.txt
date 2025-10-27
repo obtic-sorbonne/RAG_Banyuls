@@ -1,0 +1,31 @@
+```plaintext
+|  9. 13 Mars. 1902 | Matin | Soir  |
+| --- | --- | --- |
+|  Hauteur Barométrique | 7/8.0 |   |
+|  Direction du vent |  |   |
+|  Force | 15 | 8  |
+|  Nebulosité | (Reg. O. (terre)) |   |
+|  Nebulosité | (Reg. E. (mer)) |   |
+|  Direction des nuages |  |   |
+|  Pluie tombée |  |   |
+|  Température de l'air | 8.7 |   |
+|  Hauteur de la mer | 44.8 |   |
+|  Agitation de l'eau | 8 T. for |   |
+|  Densité au bout de la jetée | 1087.4 |   |
+|  Température de l'eau | 11.8 |   |
+
+|  9. 14 Mars. 1902 | Matin | Soir  |
+| --- | --- | --- |
+|  Hauteur Barométrique | 7/7.3 | 7/4.1  |
+|  Direction du vent |  |   |
+|  Force | 15 | 8.4  |
+|  Nebulosité | (Reg. O. (terre)) |   |
+|  Nebulosité | (Reg. E. (mer)) |   |
+|  Direction des nuages |  |   |
+|  Pluie tombée |  |   |
+|  Température de l'air | 14.7 |   |
+|  Hauteur de la mer | 41.7 |   |
+|  Agitation de l'eau | 1 |   |
+|  Densité au bout de la jetée | 1026.9 |   |
+|  Température de l'eau | 13.0 |   |
+```

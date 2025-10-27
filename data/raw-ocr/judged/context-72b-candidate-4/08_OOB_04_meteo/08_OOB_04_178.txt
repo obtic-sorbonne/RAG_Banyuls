@@ -1,0 +1,65 @@
+```plaintext
+# V. 14 Janvier 1903
+
+|  Nom | Date | Type | Prix  |
+| --- | --- | --- | --- |
+|  Hauteur Barométrique | 09h | 769,8 |  |
+|  Direction du vent |  | er.or.o |  |
+|  Force |  | 3 |  |
+|  Nébulosité (Reg. O. (terre)) |  | 0 |  |
+|  Nébulosité (Reg. E. (mer)) |  | 0 |  |
+|  Direction des nuages |  | er.or.o |  |
+|  Pluie tombée |  | " |  |
+|  Température de l'air (°C) |  | -3,10 |  |
+|  Hauteur de la mer (m) |  | 43,9 |  |
+|  Agitation de l'eau |  | 3 |  |
+|  Densité au bout de la jetée |  | 1029,1 |  |
+|  Température de l'eau (°C) |  | 10,4 |  |
+
+|  Nom | Date | Type | Prix  |
+| --- | --- | --- | --- |
+|  Hauteur Barométrique | 21h | 769,1 |  |
+|  Direction du vent |  | er.or.o |  |
+|  Force |  | 3 |  |
+|  Nébulosité (Reg. O. (terre)) |  | 0 |  |
+|  Nébulosité (Reg. E. (mer)) |  | 0 |  |
+|  Direction des nuages |  | er.or.o |  |
+|  Pluie tombée |  | " |  |
+|  Température de l'air (°C) |  | 2,8 |  |
+|  Hauteur de la mer (m) |  | 60,0 |  |
+|  Agitation de l'eau |  | 3 |  |
+|  Densité au bout de la jetée |  | 1028,4 |  |
+|  Température de l'eau (°C) |  | 10,3 |  |
+
+# V. 15 Janvier 1903
+
+|  Nom | Date | Type | Prix  |
+| --- | --- | --- | --- |
+|  Hauteur Barométrique | 09h | 769,7 |  |
+|  Direction du vent |  | er.or.o |  |
+|  Force |  | 0 |  |
+|  Nébulosité (Reg. O. (terre)) |  | 10 |  |
+|  Nébulosité (Reg. E. (mer)) |  | 10 |  |
+|  Direction des nuages |  | er.or.o |  |
+|  Pluie tombée |  | " |  |
+|  Température de l'air (°C) |  | 1,2 |  |
+|  Hauteur de la mer (m) |  | 31,0 |  |
+|  Agitation de l'eau |  | 1 |  |
+|  Densité au bout de la jetée |  | 1029,0 |  |
+|  Température de l'eau (°C) |  | 10,4 |  |
+
+|  Nom | Date | Type | Prix  |
+| --- | --- | --- | --- |
+|  Hauteur Barométrique | 21h | 764,6 |  |
+|  Direction du vent |  | Sud |  |
+|  Force |  | 1 faible |  |
+|  Nébulosité (Reg. O. (terre)) |  | 10 |  |
+|  Nébulosité (Reg. E. (mer)) |  | 10 |  |
+|  Direction des nuages |  | Sud |  |
+|  Pluie tombée |  | quelque g |  |
+|  Température de l'air (°C) |  | 3,0 |  |
+|  Hauteur de la mer (m) |  | 14,4 |  |
+|  Agitation de l'eau |  | 17 |  |
+|  Densité au bout de la jetée |  | 1028,7 |  |
+|  Température de l'eau (°C) |  | 10,5 |  |
+```

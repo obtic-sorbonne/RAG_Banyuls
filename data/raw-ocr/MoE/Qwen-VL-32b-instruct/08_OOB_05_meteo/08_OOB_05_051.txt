@@ -1,0 +1,32 @@
+| **Nombre du jour** | **Matin** | **Soir** |
+|--------------------|-----------|----------|
+| 27 Octobre 1905     |           |          |
+| Hauteur Barométrique | 769.8    | 769.3    |
+| Direction du vent   | croisé    | er. 8    |
+| Force               | w        | fort     |
+| Nebulosité (Reg. o. (clair) à dégagé) | 0      | 0      |
+| Obscuration des images | "       | "        |
+| Pluie tombée         | "       | "        |
+| Température de l'air | 12.3    |          |
+| Hauteur de la mer    | 12.1    | 18.3     |
+| Agitation de l'eau   | forte    | 3 forts  |
+| Densité au bout de la jetée | 1029.3 | 1029.0  |
+| Température de l'eau | 17./    | 18.3     |
+
+| **Nombre du jour** | **Matin** | **Soir** |
+|--------------------|-----------|----------|
+| 28 Octobre 1905     |           |          |
+| Hauteur Barométrique | 766.8    | 766.8    |
+| Direction du vent   | s.s.e.    | s.s.e.   |
+| Force               | fort     | fort     |
+| Pluie tombée         | floconneuse |        |
+| Température de l'air |          |          |
+| Nebulosité (Reg. o. (clair)) | 40     | 40     |
+| (Reg. E. (nuageux)) | 40     | 40     |
+| Obscuration des images | 20.8    | er. 6    |
+| Pluie tombée         | er. 1    | "        |
+| Température de l'air | 14.6    | 14.6     |
+| Hauteur de la mer    | 31.0    | 31.0     |
+| Agitation de l'eau   | 2       | 2        |
+| Densité au bout de la jetée | 1028.9 | 1028.9  |
+| Température de l'eau | 17.6    | 17.6     |

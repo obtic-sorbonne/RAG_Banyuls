@@ -1,0 +1,31 @@
+| V. 2 Mai 1907 | Matin | Soir |
+|---|---|---|
+| Hauteur Barométrique | 768.3 | 767.4 |
+| Direction du Vent | N.O | S.E |
+| Force | 1 fort | 2 |
+| Dégr. C. (terre) | 0 | 0 légère |
+| Nébulosité | 0 | 0 légère |
+| (Reg. E. (mer) | 0 | 0 |
+| Direction des nuages | quelques | " |
+| Pluie tombée | " | " |
+| Température de l'air | 10.5 | 15.6 |
+| Hauteur de la mer | 61.0 | 71.4 |
+| Agitation de l'eau | 17 fort | 17 fort |
+| Densité au bout de la jetée | 1029.3 | 1029.3 |
+| Température de l'eau | 13.2 | 14.2 |
+
+| V. 3 Mai 1907 | Matin | Soir |
+|---|---|---|
+| Hauteur Barométrique | 766.3 | 764.9 |
+| Direction du Vent | S.E | E.N.E |
+| Force | 2 | 1 |
+| Dégr. C. (terre) | 0 | 0 |
+| Nébulosité | 2 | 3 |
+| (Reg. E. (mer) | 2 | 3 |
+| Direction des nuages | " | " |
+| Pluie tombée | " | " |
+| Température de l'air | 17.4 | 20.2 |
+| Hauteur de la mer | 64.1 | 69.0 |
+| Agitation de l'eau | 1 faible | 1 faible |
+| Densité au bout de la jetée | 1028.8 | 1028.8 |
+| Température de l'eau | 17.2 | 17.3 |

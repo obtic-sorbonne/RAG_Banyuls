@@ -1,0 +1,28 @@
+```plaintext
+| **Date**        | **Heure** | **Observations**                       | **Valeur Matin** | **Valeur Soir** |
+|-----------------|-----------|----------------------------------------|------------------|------------------|
+| V. 10 juin 1903 | Matin     | Hauteur Barométrique                  | 769,8            | 760,2            |
+|                 |           | Direction du vent                     | Ouest.0          | Sud.0            |
+|                 |           | Force                                | 1 fort           | 1                |
+|                 |           | Nébulosité (terre)                   | 10               | 10               |
+|                 |           | Nébulosité (mer)                     | 10               | 10               |
+|                 |           | Direction des nuages                 | Ouest.0          | Sud.0            |
+|                 |           | Pluie tombée                          | quelques g      | quelques g       |
+|                 |           | Température de l'air                  | 18.6             | 18.6             |
+|                 |           | Hauteur de la mer                    | 38.3             | 40.0             |
+|                 |           | Agitation de l'eau                    | 1                | 1                |
+|                 |           | Densité au bout de la jetée           | 1026.6           | 1026.6           |
+|                 |           | Température de l'eau                  | 17.4             | 17.8             |
+| V. 11 juin 1903 | Matin     | Hauteur Barométrique                  | 761,4            | -                |
+|                 |           | Direction du vent                     | S.8              | -                |
+|                 |           | Force                                | 1 fort           | -                |
+|                 |           | Nébulosité (terre)                   | 10               | -                |
+|                 |           | Nébulosité (mer)                     | 10               | -                |
+|                 |           | Direction des nuages                 | Ouest.0          | -                |
+|                 |           | Pluie tombée                          | quelques g      | -                |
+|                 |           | Température de l'air                  | 18.8             | -                |
+|                 |           | Hauteur de la mer                    | 36.8             | -                |
+|                 |           | Agitation de l'eau                    | 1                | -                |
+|                 |           | Densité au bout de la jetée           | 1027.0           | -                |
+|                 |           | Température de l'eau                  | 17.6             | -                |
+```

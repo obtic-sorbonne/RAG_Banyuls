@@ -1,0 +1,28 @@
+| V. 1er Février - 1908 | Matin | Soir |
+|-----------------------|-------|------|
+| Hauteur Barométrique  | 763,9 | 761,3 |
+| Direction du Vent     | cr.n.o| cr.o |
+| Force                 | Affaiblie | 3 fort |
+| Nébulosité (Reg. C. Aire) | 10 | 10 |
+| Nébulosité (Reg. X. (mr)) | 10 | 10 |
+| Direction des nuages  | cr.n.o| cr.o |
+| Pluie tombée          | " | " |
+| Température de l'air  | 10,2 | 13,2 |
+| Hauteur de la mer     | 29,2 | 64,7 |
+| Agitation de l'eau    | 3 | 3 |
+| Dernité au Caur de la jetée | 1028,0 | 1028,0 |
+| Température de l'eau  | 11,7 | 11,8 |
+| V. 3 Février - 1908 | Matin | Soir |
+|-----------------------|-------|------|
+| Hauteur Barométrique  | 762,0 | 762,5 |
+| Direction du Vent     | cr.o | cr.o |
+| Force                 | Affaiblie | 6 faible |
+| Nébulosité (Reg. C. Aire) | 2 | 2 |
+| Nébulosité (Reg. X. (mr)) | 2 | 2 |
+| Direction des nuages  | cr.o | cr.o |
+| Pluie tombée          | " | " |
+| Température de l'air  | 4,1 | 4,9 |
+| Hauteur de la mer     | 3 | 3 |
+| Agitation de l'eau    | 4 | 3 fort |
+| Dernité au Caur de la jetée | 3 | 3 |
+| Température de l'eau  |  |  |

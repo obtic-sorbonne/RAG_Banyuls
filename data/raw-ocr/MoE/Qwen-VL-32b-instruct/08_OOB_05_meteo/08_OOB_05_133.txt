@@ -1,0 +1,28 @@
+```markdown
+| Date        | Matin    | Soir    | Paramètres            | Matin    | Soir    |
+|-------------|----------|---------|----------------------|----------|---------|
+| V. 26 juillet 1906 |        |        | Hauteur Barométrique | 762.3    | 762.8    |
+|             |          |         | Direction du vent    | S. E.    | S. E.    |
+|             |          |         | Force                | 1        | 1        |
+|             |          |         | Nébulosité           | Reg. o. (Clair) | 10     |         |
+|             |          |         |                      | Reg. 2. (nu)    | 10     |         |
+|             |          |         | Direction des mers   |          | cr. 0   |
+|             |          |         | Pluie tombée         |          | quelques |
+|             |          |         | Température de l'air | 49.8     |         |
+|             |          |         | Hauteur de la mer    |          | 1        |
+|             |          |         | Agitation de l'eau   |          | 1023.2   |
+|             |          |         | Température de l'eau |          | 22.0     |
+|-------------|----------|---------|----------------------|----------|---------|
+| V. 31 juillet 1906  |        |        | Hauteur Barométrique | 762.2    | 762.6    |
+|             |          |         | Direction du vent    | S. E.    | S. E.    |
+|             |          |         | Force                | 1        | 1        |
+|             |          |         | Nébulosité           | Reg. o. (Clair) | 0      |         |
+|             |          |         |                      | Reg. 2. (nu)    | 0      |         |
+|             |          |         | Direction des mers   |          |          |
+|             |          |         | Pluie tombée         |          |          |
+|             |          |         | Température de l'air | 30.4     |          |
+|             |          |         | Hauteur de la mer    | 38.2     |          |
+|             |          |         | Agitation de l'eau   | 1        |          |
+|             |          |         | Densité au bout de la jetée | 1026.7   |          |
+|             |          |         | Température de l'eau | 23.0     |          |
+```

@@ -1,0 +1,21 @@
+# Date - 11 Janvier - 1901
+
+|  | 9e Matin | 3e Soir |
+| --- | --- | --- |
+|  Hauteur Barométrique | 764,6 | 765,6 |
+|  Direction du vent | Ouest | Ouest |
+|  Force du vent | 4 | 3,5 |
+|  Nébulosité | 10 | 10 |
+|  Rég. E. (terre) | 10 | 10 |
+|  Rég. E. (mer) | 10 | 10 |
+|  Direction des nuages | Ouest | Ouest |
+|  Pluie tombée | 18,5 | 18,5 |
+|  Température de l'air | 26,8 | 11,5 |
+|  Hauteur de la mer | 28,5 | 36,0 |
+|  Agitation de l'eau | 5 jaill. | 5 jaill. |
+|  Densité de l'eau | 1028,2 | 1028,2 |
+|  Température de l'eau | 11,9 | 12,0 |
+
+Densité de l'eau:
+- au bout de la jetée: 1028,2
+- au large: 1028,2

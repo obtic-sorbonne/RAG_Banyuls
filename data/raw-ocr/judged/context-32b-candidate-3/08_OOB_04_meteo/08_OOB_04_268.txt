@@ -1,0 +1,33 @@
+# V. 27 Croist. 1903
+
+|  Niveau | Description  |
+| --- | --- |
+|  Hauteur barométrique | 220.7  |
+|  Direction du vent | 0004  |
+|  Force | 1  |
+|  (Négro. O. (terre)) | 0  |
+|  (Négro. E. (mer)) | 0  |
+|  Direction des nuages | "  |
+|  (Nuit tombée) | "  |
+|  Température de l'air | 28.5  |
+|  Hauteur de la mer | 13.1  |
+|  (Écartation de l'eau) | 1  |
+|  Densité au bout de la jetée | 1029.0  |
+|  Température de l'eau | 20.4  |
+
+# V. 28 Croist. 1903
+
+|  Niveau | Description  |
+| --- | --- |
+|  Hauteur barométrique | 269.6  |
+|  Direction du vent | 269.6  |
+|  Force | 1  |
+|  (Négro. O. (terre)) | 0  |
+|  (Négro. E. (mer)) | 0  |
+|  Direction des nuages | "  |
+|  (Nuit tombée) | "  |
+|  Température de l'air | 23.1  |
+|  Hauteur de la mer | 13.6  |
+|  (Écartation de l'eau) | 0  |
+|  Densité au bout de la jetée | 1029.0  |
+|  Température de l'eau | 21.2  |

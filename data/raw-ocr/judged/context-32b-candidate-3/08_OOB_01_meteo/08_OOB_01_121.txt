@@ -1,0 +1,18 @@
+# Date. 24 Novembre. 1900.
+
+|  | 9\(^{\text{e}}\). Matin | 3\(^{\text{e}}\). Soir  |
+| --- | --- | --- |
+| Hauteur Barométrique | 255,1 | 255,2  |
+| Direction du vent | Nord | Nord  |
+| Force | 4 faible | 4 fort  |
+| Nébulosité | 10. Lég. couvert | 0  |
+| Rég. E. (terre) | 10. Lég. couvert | 0  |
+| Rég. E. (mer) | 10. Lég. couvert | 0  |
+| Direction des nuages | Nord | Nord  |
+| Pluie tombée | 0 | 0  |
+| Température de l'air | 9,5 | 12,5  |
+| Hauteur de la mer | 27,6 | 42,7  |
+| Agitation de l'eau | 3 faible | 3 fort  |
+| Densité de l'eau | 1029,6 | 1029,2  |
+|  |  |  |
+| Température de l'eau | 14,3 | 13,3  |

@@ -1,0 +1,58 @@
+/* Ocean-themed styling */
+.stApp {
+    background-color: #f0f8ff;
+}
+
+/* Header styling */
+h1, h2, h3 {
+    color: #006994;
+}
+
+/* Button styling */
+.stButton>button {
+    background-color: #008CBA;
+    color: white;
+    border-radius: 8px;
+    border: none;
+    padding: 10px 20px;
+}
+
+.stButton>button:hover {
+    background-color: #005f73;
+}
+
+/* Sidebar styling */
+.css-1d391kg {
+    background-color: #e6f2ff;
+}
+
+/* Metric cards */
+.css-1xarl3l {
+    border-left: 4px solid #008CBA;
+}
+
+/* Expander styling */
+.streamlit-expanderHeader {
+    background-color: #e6f7ff;
+    border-radius: 4px;
+}
+
+/* Dataframe styling */
+.dataframe {
+    border: 1px solid #008CBA;
+}
+
+/* Custom classes for ocean theme */
+.ocean-card {
+    background-color: #e6f7ff;
+    border-radius: 8px;
+    padding: 15px;
+    border-left: 4px solid #008CBA;
+    margin-bottom: 15px;
+}
+
+.wave-divider {
+    height: 10px;
+    background: url('wave-pattern.png') repeat-x;
+    margin: 20px 0;
+}

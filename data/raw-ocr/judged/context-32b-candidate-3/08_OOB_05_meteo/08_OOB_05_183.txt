@@ -1,0 +1,31 @@
+```markdown
+| **V. 4 Décembre 1906** | **Matin** | **Soir** |
+|-------------------------|-----------|----------|
+| Hauteur barométrique    | 769.1 mmHg | 766.2 mmHg |
+| Direction du vent       | S. O.      | S. O.     |
+| Force                   | 6          | 6 forts   |
+| Nébulosité (Rey. O. (Céleste)) | 10 | 10 |
+| Nébulosité (Rey. II. (Mer)) | 10 | 10 |
+| Direction des nuages    | c. r. (c. 0) | c. r. (c. 0) |
+| Pluie tombée            | 14.6 g     | 14.6 g    |
+| Température de l'air    | 14.6 °C    | 18.0 °C   |
+| Hauteur de la mer       | 3 m        | 3 m      |
+| Agitation de l'eau      | faible     | faible   |
+| Densité au bout de la jetée | 1029.4 kg/m³ | 1029.4 kg/m³ |
+| Température de l'eau    | 14.3 °C    | 14.3 °C  |
+
+| **V. 5 Décembre 1906** | **Matin** | **Soir** |
+|-------------------------|-----------|----------|
+| Hauteur barométrique    | 769.0 mmHg | 760.3 mmHg |
+| Direction du vent       | S. O.      | S. O.     |
+| Force                   | 3          | 3 forts   |
+| Nébulosité (Rey. O. (Céleste)) | 10 | 10 |
+| Nébulosité (Rey. II. (Mer)) | 10 | 10 |
+| Direction des nuages    | S. O.      | S. O.     |
+| Pluie tombée            | 11.0 g     | 11.0 g    |
+| Température de l'air    | 34.1 °C    | 38.1 °C   |
+| Hauteur de la mer       | 34.1 m     | 38.1 m   |
+| Agitation de l'eau      | 3          | 1 fois   |
+| Densité au bout de la jetée | 1029.6 kg/m³ | 1029.4 kg/m³ |
+| Température de l'eau    | 14.4 °C    | 14.7 °C  |
+```

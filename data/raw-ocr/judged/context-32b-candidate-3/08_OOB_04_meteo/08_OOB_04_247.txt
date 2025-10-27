@@ -1,0 +1,31 @@
+```plaintext
+|  4. 27 Juin. 1903 | Matin | Soir  |
+| --- | --- | --- |
+|  Hauteur Barométrique | 766.7 | 766.2  |
+|  Direction du vent | est | 2.8  |
+|  Force | 1 faible | 1 fort  |
+|  Nébulosité (Reg. O. (terre)) | 6 | 6  |
+|  Nébulosité (Reg. E. (mer)) | 6 | 10 g.m-2.  |
+|  Direction des nuages |  |   |
+|  Pluie tombée | 0 | 0  |
+|  Température de l'air | 23.6 | 18.2  |
+|  Hauteur de la mer | 48.9 | 45.1  |
+|  Agitation de l'eau | 1/20th | 17/20th  |
+|  Densité au bout de la jetée | 1026.7 | 1027.0  |
+|  Température de l'eau | 20.6 | 20.5  |
+
+|  4. 28 Juin. 1903 | Matin | Soir  |
+| --- | --- | --- |
+|  Hauteur Barométrique | 767.2 | 765.8  |
+|  Direction du vent | ex. 8 | 2.8  |
+|  Force | 1 | 4  |
+|  Nébulosité (Reg. O. (terre)) | 0 | 10  |
+|  Nébulosité (Reg. E. (mer)) | 0 | 10  |
+|  Direction des nuages |  | 2.2  |
+|  Pluie tombée | 0 | 0  |
+|  Température de l'air | 24.2 | 22.0  |
+|  Hauteur de la mer | 45.8 | 47.6  |
+|  Agitation de l'eau | 1 | 2  |
+|  Densité au bout de la jetée | 1027.0 | 1027.3  |
+|  Température de l'eau | 21.1 | 21.3  |
+```

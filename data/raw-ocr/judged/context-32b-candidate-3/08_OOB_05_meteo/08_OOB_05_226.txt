@@ -1,0 +1,15 @@
+```markdown
+# V. 2 Avril 1907
+
+| **Date**       | **Heure** | **Altitude Barométrique** | **Direction du Vent** | **Force** | **Nébulosité (Res. 0. (terre))** | **Nébulosité (Res. 2. (mer))** | **Direction des Nuages** | **Pluie Tombée** | **Température de l'Air** | **Hauteur de la Mer** | **Agitation de l'Eau** | **Densité au bout de la Jetée** | **Température de l'Eau** |
+|----------------|-----------|--------------------------|-----------------------|-----------|---------------------------------|--------------------------------|-------------------------|------------------|-------------------------|-----------------------|-----------------------|------------------------------|-------------------------|
+| V. 2 Avril 1907 | **Matin** | 798.8 mmHg               | cr. E                 | 15        | 0 (Clair)                       | Reg. x. (nu)                   | S.E                     | "                | 12.7 °C                | 46.2 cm               | 1 difficile           | 1029.2 g/cm³                 | 13.3 °C                |
+|                | **Soir**  | 799.2 mmHg               | S. E                  | 2 fort.   | 10                              | -                              | S.0                     | "                | 17.1 °C                | -                     | 1 fort.               | 1029.2 g/cm³                 | 13.6 °C                |
+
+# V. 3 Avril 1907
+
+| **Date**       | **Heure** | **Altitude Barométrique** | **Direction du Vent** | **Force** | **Nébulosité (Res. 0. (terre))** | **Nébulosité (Res. 2. (mer))** | **Direction des Nuages** | **Pluie Tombée** | **Température de l'Air** | **Hauteur de la Mer** | **Agitation de l'Eau** | **Densité au bout de la Jetée** | **Température de l'Eau** |
+|----------------|-----------|--------------------------|-----------------------|-----------|---------------------------------|--------------------------------|-------------------------|------------------|-------------------------|-----------------------|-----------------------|------------------------------|-------------------------|
+| V. 3 Avril 1907 | **Matin** | 748.3 mmHg               | Sud                   | 15        | 10 (Clair)                       | Reg. x. (nu)                   | S.O                     | 1.9 mm            | 13.6 °C                | 34.0 cm               | 2 faible              | 1029.4 g/cm³                 | 12.7 °C                |
+|                | **Soir**  | 747.6 mmHg               | cr. 0                 | 3 fort.   | 10                              | -                              | Naus                    | 20.2 mm           | 8.4 °C                 | -                     | 2 fort.               | 1028.9 g/cm³                 | 12.9 °C                |
+```

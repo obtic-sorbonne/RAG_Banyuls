@@ -1,0 +1,16 @@
+# Date. 3 Septembre. 1901
+
+|  | **9<sup>th</sup> Matin** | **3<sup>rd</sup> Soir** |
+| --- | --- | --- |
+| Hauteur Barométrique | 752,5 | 757,3  |
+| Direction du vent | N.N.O. | N.N.O.  |
+| Force | 2 | 2  |
+| Nébulosité Reg. O. (terre) | 10 | 10  |
+| Nébulosité Reg. E. (mer) | 10 | 10  |
+| Direction des nuages | N.N.O. | N.N.O.  |
+| Pluie tombée | 0 | 0  |
+| Température de l'air | 21,9 | 23,3  |
+| Hauteur de la mer | 35,6 | 43,6  |
+| Agitation de l'eau | faible | 1  |
+| Densité de l'eau | 1027,4 | 1027,0  |
+| Température de l'eau | 21,6 | 21,6  |

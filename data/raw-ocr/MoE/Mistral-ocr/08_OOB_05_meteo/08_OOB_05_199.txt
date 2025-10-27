@@ -1,0 +1,25 @@
+|  V. 14 Janvier - 1907 | Nô | Prix  |
+| --- | --- | --- |
+|  Hauteur Marométrique | 772.0 | 771.0  |
+|  Direction du vent | or.0 | or.0  |
+|  Force | 3 | 3  |
+|  Hébulosité (Rig. 0. (time) | 1 | 0  |
+|  Direction des nuages | 8 | 1  |
+|  Flux tombé | or.0 or.0 | "  |
+|  Température de l'air | 10.7 | 14.0  |
+|  Hauteur de la mer | 14.7 | 77.0  |
+|  Définition de l'eau | 3 | 3  |
+|  Densité au bout de la jetée | 1089.6 | 1089.6  |
+|  Température de l'eau | 10.3 | 10.7  |
+|  V. 15 Janvier - 1907 | Nô | Prix  |
+|  Hauteur Marométrique | 774.0 | 773.3  |
+|  Direction du vent | 5.0 | "  |
+|  Force | 1 | 0  |
+|  Hébulosité (Rig. 0. (time) | 0 | 0  |
+|  Direction des nuages | 0 | 0  |
+|  Flux tombé | 1 | 0  |
+|  Température de l'air | 6.2 | 9.3  |
+|  Hauteur de la mer | 11.8 | 71.8  |
+|  Définition de l'eau | 3 fuible | 3 fuible  |
+|  Densité au bout de la jetée | 1089.6 | 1089.6  |
+|  Température de l'eau | 10.8 | 11.3  |

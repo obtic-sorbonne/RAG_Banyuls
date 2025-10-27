@@ -1,0 +1,27 @@
+|  V. 2 Juin. 1908 | Matin | Soir  |
+| --- | --- | --- |
+|  Kanteur Miarométrique | 763.2 | 762.0  |
+|  Direction du vent | or.0r. 8 | 7.88  |
+|  Force | 1 | 8 faible  |
+|  Nebulosité | Reg. O. (terre) | 2  |
+|  Nebulosité | Reg. E. (mer) | 2  |
+|  Direction des nuages | 2.8 | 2.28  |
+|  Flux Tombé |  |   |
+|  Température de l'air | 16.4 | 22.6  |
+|  Kanteur de la mer | 11.6 | 38.6  |
+|  Oligotation de l'eau | 2 | 3 faible  |
+|  Densité au bout de la jetée | 1028.2 | 1028.1  |
+|  Température de l'eau | 11.6 | 11.6  |
+|  V. 3 Juin. 1908 | Matin | Soir  |
+|  Kanteur Miarométrique | 764.6 | 763.4  |
+|  Direction du vent | or.0r.0 | or.0r.0  |
+|  Force | 2 faible | 2  |
+|  Nebulosité | Reg. O. (terre) | 10  |
+|  Nebulosité | Reg. E. (mer) | 10  |
+|  Direction des nuages | 4.5 | or.0r.0  |
+|  Flux Tombé |  |   |
+|  Température de l'air | 21.7 | 24.6  |
+|  Kanteur de la mer | 13.4 | 42.0  |
+|  Oligotation de l'eau | 1 faible | 1 faible  |
+|  Densité au bout de la jetée | 1027.0 | 1026.8  |
+|  Température de l'eau | 16.6 | 18.7  |

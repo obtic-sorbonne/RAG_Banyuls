@@ -1,0 +1,6 @@
+| Date | Heure | Hauteur Barométrique | Direction du vent | Force | Nebulosité | Direction des nuages | Pluie Tombée | Température de l'air | Hauteur de la mer | Agitation de l'eau | Prof. au bout de la jetée | Température de l'eau |
+|------|-------|----------------------|--------------------|-------|--------------|---------------------|-------------------|-----------------------|-------------------|---------------------|--------------------------|--------------------------|
+| 17 Octobre 1901 | Matin | 77.1 | cr.or.o | 15 | 0 | er.cr.o | 0.009 | 15.1 | 19.9 | 1 T. fort | 1027.8 | 17.3 |
+| 17 Octobre 1901 | Soir | 77.2 | cr.or.o | 15 | 0 | er.cr.o | 0.002 | 16.3 | 30.3 | 1 T. fort | 1027.4 | 17.4 |
+| 20 Octobre 1901 | Matin | 76.7 | cr.or.o | 15 | 0 | er.cr.o | 0.006 | 11.9 | 27.7 | 1 fort | 1027.4 | 16.6 |
+| 20 Octobre 1901 | Soir | | | | | | | | | | | |

@@ -1,0 +1,32 @@
+```plaintext
+|   **Date**   | **Matin**  | **Soir**  |
+|:------------:|:----------:|:---------:|
+| **V. 22 Xbre 1902** |          |          |
+| Hauteur Barométrique | 767.3 | 768.6 |
+| Direction du vent | SE, Norte | Nord |  
+| Force | ¼ | ½ |
+| Régl. O. (clère) | 0 | 0 |
+| **Nébulosité** |          |          |
+| **Reg. E. (mer)**  | 1 | 2 |
+| Direction des nuages | SE, Norte | SE, Norte |
+| Pluie tombée | " | " |
+| Température de l'air | 12.3 | 13.1 |
+| Hauteur de la mer | 69.0 | 70.8 |
+| Agitation de l'eau | 3 | 3 |
+| Densité au bout de la jetée | 1028.9 | 1028.1 |
+| Température de l'eau | 12.6 | 12.7 |
+| **V. 24 Xbre 1902** |          |          |
+| Hauteur Barométrique | 774.4 | 774.2 |
+| Direction du vent | 0.5.0 | SE, Norte |
+| Force | ⅕ | Forte |
+| Régl. O. (clère) | 10 | 10 |
+| **Nébulosité** |          |          |
+| **Reg. E. (mer)**  | 10 | 10 |
+| Direction des nuages | SE, Norte | SE, Norte |
+| Pluie tombée | " | " |
+| Température de l'air | 9.0 | 10.4 |
+| Hauteur de la mer | 78.3 | 49.1 |
+| Agitation de l'eau | 1 | 1 Forte |
+| Densité au bout de la jetée | 1028.8 | 1028.6 |
+| Température de l'eau | 13.4 | 13.0 |
+```

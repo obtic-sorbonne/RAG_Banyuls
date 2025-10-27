@@ -1,0 +1,31 @@
+| Date         | Matin            | Motin           | Soir          |
+|--------------|------------------|-----------------|---------------|
+| **V. 22 Avril 1902** |  |  |  |
+
+| **Hauteur Barométrique** | 760.7 | | 769.3 |
+| **Direction du vent** | Eouest | | Cen. 8 |
+| **Force** | 15 | 1 | 1 |
+| **Reg. O. (Terre)** | Lig. O. | | 10 |
+| **Nébulosité** (mer) | **Lég. in. c** | | 10 |
+| **Direction des nuages** | Sud | | Ouest |
+| **Pluie tombée** | " | | " |
+| **Température de l'air** | 17.3 | | 16.6 |
+| **Hauteur Se la mer** | 40.1 | | 46.9 |
+| **Agiitation de l'eau** | 0 | | 0 |
+| **Densité au bout de la jetée** | 1026.5 | | 1026.8 |
+| **Température de l'eau** | 17.4 | | 16.3 |
+
+| **V. 23 Avril 1902** |  |  |  |
+
+| **Hauteur Barométrique** | 769.3 | |  |
+| **Direction du vent** | Cen. C. O. | | **2 faibl**. |
+| **Force** | 15 | |  |
+| **Reg. O. (Terre)** |  | | 10 |
+| **Nébulosité** (mer) | **Lég. E - (mer)** | | 10 |
+| **Direction des nuages** | Or. c. 0 | |  |
+| **Pluie tombée** |  | | 4, 62 |
+| **Température de l'air** | 17.3 | |  |
+| **Hauteur Se la mer** | 40.8 | |  |
+| **Agitation de l'eau** |  | | 1 |
+| **Densité au bout de la jetée** |  | | 1026.4 |
+| **Température de l'eau** |  | | 14.4 |

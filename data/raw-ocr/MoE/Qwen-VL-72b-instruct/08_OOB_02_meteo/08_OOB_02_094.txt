@@ -1,0 +1,17 @@
+| **Métadonnée**                  | **9 H Matin** | **3 H Soir** |
+|---------------------------------|--------------|--------------|
+| Hauteur Barométrique           | 763.2        | 760.2        |
+| Direction du vent              | Nord         | Nord         |
+| Force du vent                  | 3 forts      | 3 faibles    |
+| Nébulosité                     |              |              |
+|   - Reg. Cap Nord (Clair)      | 0            | 0            |
+|   - Reg. Nord-Est (Mouche)     | 0            | 0            |
+| Direction des nuages           | Nord         | Nord         |
+| Pluie tombée                   | --           | --           |
+| Température de l'air           | 20,6 °C      | 24,8 °C      |
+| Hauteur de la mer              | 58.4 m       | 42.2 m       |
+| Agitation de l'eau             | 2 forts      | 2 forts      |
+| Densité de l'eau               |              |              |
+|   - au bout de la jetée        | 1026.7 kg/m³ | 1027.4 kg/m³ |
+|   - à l'Ancre                  |              |              |
+| Température de l'eau           | 20.7 °C      | 21.5 °C      |

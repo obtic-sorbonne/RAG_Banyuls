@@ -1,0 +1,45 @@
+| **Observations du 12 Juin 19** |
+| **Nombre de bateaux sortis (pêche à l’** | 24.8 |
+| **Température de l’air** |  |  |
+| maxima depuis la veille | 24.8 |
+| minima id. | 14.7 |
+| **Température de l’eau** |  |  |
+| maxima depuis la veille |  |
+| minima id. |  |
+| **Pluie tombée depuis la veille, en millim.** | quelques |
+| **Évaporation depuis le 190**, en millim. | |
+| **Direction du vent (à terre)** | à 9 h. m. | à 3 h. s. |
+| **Force** | 1 | 1 |
+| **Direction des nuages** | S. O. | N. O. |
+| **Nébulosité** |  |  |
+| région Ouest (terre) | 40 | 40 |
+| id. Est (mer) | 40 | 40 |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro** | 36.5 | 39.2 |
+| **Agitation de l’eau** | 1 faible | 1 faible |
+| **Densité de l’eau au bout de la jetée** | 1026.9 | 1026.4 |
+| **Température id.** | 19.6 | 19.7 |
+| **id. Balmes** | 24.7 | 23.2 |
+| **Terrasse à Matin** | 39.4 | |
+| **Minima** | 13.4 |  |
+|  |  |  |
+| **Observations du 13 Juin 19** |
+| **Nombre de bateaux sortis (pêche à l’** | 27.8 |
+| **Température de l’air** |  |  |
+| maxima depuis la veille | 27.8 |
+| minima id. | 12.7 |
+| **Température de l’eau** |  |  |
+| maxima depuis la veille |  |
+| minima id. |  |
+| **Pluie tombée depuis la veille, en millim.** | 11.7 |
+| **Évaporation depuis le 190**, en millim. | |
+| **Direction du vent (à terre)** | à 9 h. m. | à 3 h. s. |
+| **Force** | 3 | 2 |
+| **Direction des nuages** | S. O. | Ouest |
+| **Nébulosité** |  |  |
+| région Ouest (terre) | 40 | 40 |
+| id. Est (mer) | 40 | 40 |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro** | 28.9 | 31.3 |
+| **Agitation de l’eau** | 1 | 1 fort. |
+| **Densité de l’eau au bout de la jetée** | 1026.6 | 1026.3 |
+| **Température id.** | 18.7 | 18.6 |
+|  |  |  |

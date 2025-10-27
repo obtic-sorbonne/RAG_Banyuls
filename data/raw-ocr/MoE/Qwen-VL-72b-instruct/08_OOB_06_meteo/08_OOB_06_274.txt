@@ -1,0 +1,46 @@
+| OBSERVATIONS DU 1902 20 avril |
+| --- |
+| Nombre de bateaux sortis (pêche à l...) | 20,2 |
+| Température de l'air maxima depuis la veille | 20,7 |
+| Température de l'air minima id. | 12,9 |
+| Température de l'eau maxima depuis la veille |  |
+| Température de l'eau minima id. |  |
+| Pluie tombée depuis la veille, en millim. | 11 |
+| Évaporation depuis le 190, en millim. |  |
+|  | à 9 h. m. | à 3 h. s. |
+| Direction du vent (à terre) | NN.O |  |
+| Force | 2 Fort. | 0 |
+| Direction des nuages | NN.O | NN.O |
+| Nebulosité |  |  |
+| région Ouest (terre) | 2 | 3 |
+| id. Est (mer) | 1 | 1 |
+| Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.) | 36,2 | 40,0 |
+| Agitation de l'eau | Forte | Faible |
+| Densité de l'eau au bout de la jetée | 1,028,3 | 1,027,6 |
+| Température - is. Balançoire - | 13,0 | 11,8 |
+| id. Terrane Matin | Maxima: 27,7 | Maxima: 27,1 |
+| id. Terrane Matin | Minima: 10,7 | Minima: 29,2 |
+| id. Terrane Soir | Maxima: 38,2 | Maxima: 28,6 |
+| id. Terrane Soir | Minima: 18,8 | Minima: 13,1 |
+| OBSERVATIONS DU 1902 28 avril |
+| --- |
+| Nombre de bateaux sortis (pêche à l...) | 22,9 |
+| Température de l'air maxima depuis la veille | 22,9 |
+| Température de l'air minima id. | 14,4 |
+| Température de l'eau maxima depuis la veille |  |
+| Température de l'eau minima id. |  |
+| Pluie tombée depuis la veille, en millim. | quelque. |
+| Évaporation depuis le 190, en millim. |  |
+|  | à 9 h. m. | à 3 h. s. |
+| Direction du vent (à terre) | Nord |  |
+| Force | 2 Fort. |  |
+| Direction des nuages | NN.O |  |
+| Nebulosité |  |  |
+| région Ouest (terre) | 10 |  |
+| id. Est (mer) | 10 |  |
+| Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.) | 42,2 |  |
+| Agitation de l'eau | Forte |  |
+| Densité de l'eau au bout de la jetée | 1,028,3 |  |
+| Température - is. Terrane Matin | 13,7 |  |
+| id. Terrane Matin | Maxima: 28,6 |  |
+| id. Terrane Matin | Minima: 13,1 |  |

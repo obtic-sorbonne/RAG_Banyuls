@@ -1,0 +1,45 @@
+OBSERVATIONS DU 1900 16 Juin
+
+| Nombre de bateaux sortis (pêche à l'anchois et sardines) | 46 |
+|---|---|
+| Température de l'air | maxima depuis la veille | 31.2 |
+| | minima id. | 14.2 |
+| Température de l'eau | maxima depuis la veille |  |
+| | minima id. |  |
+| Pluie tombée depuis la veille, en millim. |  |
+| Evaporation depuis le 190 , en millim. |  |
+
+| à 9 h. m. | à 3 h. s. |
+|---|---|
+| Direction du vent (à terre) | " | S.S.E |
+| Force | 0 | 1 fort |
+| Direction des nuages | " | Ouest |
+| Nébulosité | région Ouest (terre) | 0 | 10 |
+| | id. Est (mer) | 0 | 10 |
+| Hauteur de la mer, en centimètres, au-dessus du zéro | 36.7 | 40.2 |
+| Agitation de l'eau | 2 | 1 fort |
+| Densité de l'eau au bout de la jetée | 1.027.6 | 1.026.6 |
+| Température id. | 17.2 | 17.7 |
+
+OBSERVATIONS DU 1900 17 Juin
+
+| Nombre de bateaux sortis (pêche à l. |  |
+|---|---|
+| Température de l'air | maxima depuis la veille | 31.2 |
+| | minima id. | 14.2 |
+| Température de l'eau | maxima depuis la veille |  |
+| | minima id. |  |
+| Pluie tombée depuis la veille, en millim. |  |
+| Evaporation depuis le 190 , en millim. |  |
+
+| à 9 h. m. | à 3 h. s. |
+|---|---|
+| Direction du vent (à terre) | S | S.S.E |
+| Force |  | 1 fort |
+| Direction des nuages |  | S.O |
+| Nébulosité | région Ouest (terre) | 0 | 10 |
+| | id. Est (mer) | 0 | 10 |
+| Hauteur de la mer, en centimètres, au-dessus du zéro | 44.0 |  |
+| Agitation de l'eau | 1 fort |  |
+| Densité de l'eau au bout de la jetée | 1.026.7 |  |
+| Température id. | 17.4 |  |

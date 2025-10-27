@@ -1,0 +1,19 @@
+```
+# Date: 18 Février 1902
+
+|   | 9h Matin | 3h Soir  |
+| --- | --- | --- |
+| Hauteur Barométrique | 761,7 | —  |
+| Direction du vent | cr. d. r. 0 | —  |
+| Force | 3 | —  |
+| Nébulosité { Reg. C. (terre) } | 10 | —  |
+| Nébulosité { Reg. E. (mer) } | 10 | —  |
+| Direction des nuages | or. d. r. 0 | —  |
+| Pluie tombée | quelques g [sic?] | —  |
+| Température de l'air | +1 [sic?] | —  |
+| Hauteur de la mer | 48,9 | —  |
+| Agitation de l'eau | 4 | —  |
+| Densité de l'eau { au bout de la jetée } | 1028,3 | —  |
+| Densité de l'eau { au large } | — | —  |
+| Température de l'eau | 10,8 | —  |
+```

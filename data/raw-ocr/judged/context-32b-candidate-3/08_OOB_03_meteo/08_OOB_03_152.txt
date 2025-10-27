@@ -1,0 +1,18 @@
+# Date: 21 Mars 1902
+
+| **Heure** | 9h Matin | 3<sup>e</sup> Soir |
+| --- | --- | --- |
+| **Hauteur Barométrique** | 765.2 | 762.1 |
+| **Direction du vent** | Ouest | Sud |
+| **Force** | 2 | 3 |
+| **Nébulosité** | 7 | 2 |
+| **Reg. O. (terre)** | 10 | 10 |
+| **Reg. E. (mer)** | 10 | 10 |
+| **Direction des nuages** | Ouest | Sud |
+| **Pluie tombée** | 0 | 0 |
+| **Température de l'air** | 13.7 | 17.9 |
+| **Hauteur de la mer** | 14.2 | 10.5 |
+| **Agitation de l'eau** | 2 faible | 1 faible |
+| **Densité de l'eau** | au bout de la jetée | 1028.5 |
+| au large | 1028 | 1028 |
+| **Température de l'eau** | 12.6 | 13.1 |

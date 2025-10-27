@@ -1,0 +1,17 @@
+# Porte. 29 Mars 1902
+
+| **Heure** | 9<sup>e</sup> Matin | 3<sup>e</sup> Soir |
+| --- | --- | --- |
+| **Hauteur Barométrique** | 766.0 | 764.8 |
+| **Direction du vent** | N.O. | N.O. |
+| **Force** | 3 fort | 3 faible |
+| **Nébulosité (Reg. O. - Terre)** | 10 | 10 |
+| **Nébulosité (Reg. E. - Ciel)** | 10 | 10 |
+| **Direction des nuages** | N.O. | N.O. |
+| **Pluie tombée** | 0 | 0 |
+| **Température de l'air** | 16.5 | 11.9 |
+| **Hauteur de la mer** | 60.3 | 67.6 |
+| **Agitation de l'eau** | 2 fort | 2 |
+| **Densité de l'eau** | au bout de la jetée | 1028.3 |
+| au large | 1028.2 |
+| **Température de l'eau** | 13.5 | 13.6 |

@@ -1,0 +1,27 @@
+| V. 19 Juillet 1907 | Matin | Soir |
+|-------------------|-------|------|
+| Hauteur Barométrique | 767.0 | 763.2 |
+| Direction du Vent | S. E | S. O |
+| Force | 1 Fort | 1 |
+| Nébulosité (Reg. O. Clere) | 1 | 10 |
+| Direction des nuages | E.V.N.O | E.N.O.W |
+| Pluie Tombée | " | " |
+| Température de l'air | 27.3 | 31.8 |
+| Hauteur de la mer | 18.6 | 49.0 |
+| Agitation de l'eau | 1 faible | 1 |
+| Densité au bout de la jetée | 1027.4 | 1027.2 |
+| Température de l'eau | 21.7 | 21.6 |
+
+| V. 20 Juillet 1907 | Matin | Soir |
+|-------------------|-------|------|
+| Hauteur Barométrique | 769.7 | 764.2 |
+| Direction du Vent | S. E | S.S.E |
+| Force | 1 | 2 faible |
+| Nébulosité (Reg. O. Clere) | 0 | 10 |
+| Direction des nuages | " | S.O |
+| Pluie Tombée | " | " |
+| Température de l'air | 27.0 | 30.7 |
+| Hauteur de la mer | 19.8 | 47.2 |
+| Agitation de l'eau | 1 T. faible | 1 |
+| Densité au bout de la jetée | 1026.7 | 1026.6 |
+| Température de l'eau | 22.6 | 24.1 |

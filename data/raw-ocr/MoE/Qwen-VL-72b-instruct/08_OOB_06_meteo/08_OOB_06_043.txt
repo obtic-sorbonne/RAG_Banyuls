@@ -1,0 +1,42 @@
+OBSERVATIONS DU 1900 9 juillet
+
+| | à 9 h. m. | à 3 h. s. |
+|---|---|---|
+| Nombre de bateaux sortis (pêche à l'anchois) | 82 | | |
+| Température de l'air | maxima depuis la veille | 36.1 | |
+| | minima id. | 18.9 | |
+| Température de l'eau | maxima depuis la veille | | |
+| | minima id. | | |
+| Pluie tombée depuis la veille, en millim. | quelque | | |
+| Evaporation depuis le 190, en millim. | | | |
+| Direction du vent (à terre) | S.S.E | S.S.E |
+| Force | 2 | 3 fort |
+| Direction des nuages | N.N.O | S.S.E |
+| Nébulosité | région Ouest (terre) | 7 | 4 |
+| | id. Est (mer) | 0 | 0 |
+| Hauteur de la mer, en centimètres, au-dessus du zéro | 44.8 | 86.8 |
+| Agitation de l'eau | 1 | 1 fort |
+| Densité de l'eau au bout de la jetée | 1027.0 | 1027.4 |
+| Température id. | 18.4 | 18.7 |
+
+
+OBSERVATIONS DU 1900 11 juillet
+
+| | à 9 h. m. | à 3 h. s. |
+|---|---|---|
+| Nombre de bateaux sortis (pêche à l'anchois & sardine) | 81 | | |
+| Température de l'air | maxima depuis la veille | 28.3 | |
+| | minima id. | 18.7 | |
+| Température de l'eau | maxima depuis la veille | | |
+| | minima id. | | |
+| Pluie tombée depuis la veille, en millim. | 40.12 | | |
+| Evaporation depuis le 190, en millim. | | | |
+| Direction du vent (à terre) | N.E | S.S.E |
+| Force | 1 | 1 fort |
+| Direction des nuages | N.N.O | Ouest |
+| Nébulosité | région Ouest (terre) | 10 | 10 |
+| | id. Est (mer) | 10 | 4 |
+| Hauteur de la mer, en centimètres, au-dessus du zéro | 49.0 | 38.7 |
+| Agitation de l'eau | 1 | 1 |
+| Densité de l'eau au bout de la jetée | 1026.4 | |
+| Température id. | 19.0 | 20.3 |

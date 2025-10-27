@@ -1,0 +1,16 @@
+# Date 23 Octobre 1901
+
+|  Item | Q. Matin | S. Soir  |
+| --- | --- | --- |
+|  Kanteur Parométrique | 763,8 | 764,7  |
+|  Direction Su vent | N.N.O | N.N.O  |
+|  Force | 3 | 8  |
+|  Pédulroite | 0 | 0  |
+|  Pédultriste | 0 | 0  |
+|  Direction des nuages | N.N.O | N.N.O  |
+|  Flux tombee | 14,3 | 11,3  |
+|  Température de l'air | 44,3 | 31,7  |
+|  Kanteur de la mer | 3 | 3,0  |
+|  Définition de l'eau | 1037,6 | 1037,0  |
+|  Densité de l'eau | 1037,6 | 1037,0  |
+|  Comprendre | 16,9 | 16,9  |

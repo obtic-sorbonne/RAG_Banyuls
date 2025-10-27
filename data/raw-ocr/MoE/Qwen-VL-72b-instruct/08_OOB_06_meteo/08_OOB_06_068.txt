@@ -1,0 +1,45 @@
+OBSERVATIONS DU 1900 24 7bre
+
+| Nombre de bateaux sortis (pêche à l |  |
+| --- | --- |
+| Température de l'air | maxima depuis la veille | 18.7 |
+|  | minima id. | 15.3 |
+| Température de l'eau | maxima depuis la veille |  |
+|  | minima id. |  |
+| Pluie tombée depuis la veille, en millim. |  |  |
+| Evaporation depuis le 190 , en millim. |  |  |
+
+|  | à 9 h. m. | à 3 h. s. |
+| --- | --- | --- |
+| Direction du vent (à terre) | N.N.O. | N.E. |
+| Force | 4 | 3 |
+| Direction des nuages | " | " |
+| Nébulosité | région Ouest (terre) | 0 | 0 |
+|  | id. Est (mer) | 0 | 0 |
+| Hauteur de la mer, en centimètres, au-dessus du zéro (Bassin de Radoub) | 39.8 | 39.2 |
+| Agitation de l'eau | 8 | S'faible |
+| Densité de l'eau au bout de la jetée | 1.027.9 | 1.028.2 |
+| Température id. | 16.4 | 16.6 |
+
+OBSERVATIONS DU 1900 25 7bre
+
+| Nombre de bateaux sortis (pêche à l |  |
+| --- | --- |
+| Température de l'air | maxima depuis la veille | 17.7 |
+|  | minima id. | 16.0 |
+| Température de l'eau | maxima depuis la veille |  |
+|  | minima id. |  |
+| Pluie tombée depuis la veille, en millim. |  |  |
+| Evaporation depuis le 190 , en millim. |  |  |
+
+|  | à 9 h. m. | à 3 h. s. |
+| --- | --- | --- |
+| Direction du vent (à terre) |  | S.S.E. |
+| Force |  | 2 |
+| Direction des nuages |  |  |
+| Nébulosité | région Ouest (terre) | 0 | 0 |
+|  | id. Est (mer) | 0 | 0 |
+| Hauteur de la mer, en centimètres, au-dessus du zéro (Bassin de Radoub) |  | 31.1 |
+| Agitation de l'eau |  | 1 Fort |
+| Densité de l'eau au bout de la jetée |  | 1.028.3 |
+| Température id. |  | 17.9 |

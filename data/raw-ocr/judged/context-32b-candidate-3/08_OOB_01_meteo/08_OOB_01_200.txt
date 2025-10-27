@@ -1,0 +1,18 @@
+# Date - 11 Février - 1901
+
+|  | 9** Matin | 3** Soir  |
+| --- | --- | --- |
+| **Hauteur Barométrique** | 750.3 | 762.7  |
+| **Direction du vent** | Nord | N.N.E  |
+| **Force** | 2 fort | 2  |
+| **Nébulosité (Reg. 6. (terre))** |  |   |
+| **Reg. E. (mer)** |  |   |
+| **Direction des nuages** |  |   |
+| **Pluie tombée** |  |   |
+| **Température de l'air** | 5.2 | 8.4  |
+| **Hauteur de la mer** | 57.0 | 52.2  |
+| **Agitation de l'eau** | 2 | faible  |
+| **Densité de l'eau** | 1028.3 |   |
+| **au bout de la jetée** | 1028.3 |   |
+| **au large** | 1028.3 |   |
+| **Température de l'eau** | 10.3 | 10.0  |

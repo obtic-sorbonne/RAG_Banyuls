@@ -1,0 +1,18 @@
+# Date 31. Février 1901
+
+|   | 3e matin 3e Bovin  |
+| --- | --- |
+|  Hauteur Barometrique | 758,3  |
+|  Direction du vent | Jue  |
+|  Force | 3 faible  |
+|  9e Ebulosité | 0  |
+|  Reg. E. (mer) | 0  |
+|  Direction des nuages | 11  |
+|  Mise tombée | 9,1  |
+|  Température de l'air | 53,1  |
+|  Hauteur de la mer | 53,1  |
+|  Égitation de l'eau | 3 faible  |
+|  Densité de l'eau | 1 an  |
+|  Dempterature de l'eau | 10,7  |
+
+11,0

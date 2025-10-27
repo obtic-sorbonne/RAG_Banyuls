@@ -1,0 +1,29 @@
+```
+| **Nombre du jour de l'année - 2** | **9 Octobre 1905** | **Matin** | **Soir** |
+|---|---|---|---|
+| Hauteur Barométrique (mm) | 766.0 | 764.3 |
+| Direction du vent | or.or.o | S.S.E |
+| Force du vent | is | 1 fort | 17 faible |
+| Nébulosité (%) | 0 | 0 |
+| (Reg. 2° (mur)) | cr.or.o | N.ar.o |
+| Direction des nuages | - | - |
+| Pluie tombée (mm) | - | - |
+| Température de l'air (°C) | 19.5 | 22.5 |
+| Hauteur de la mer (m) | 48.9 | 38.6 |
+| Agitation de l'eau | 2 faible | 2 |
+| Densité au bout de la jetée (kg/m³) | 1028.5 | 1028.2 |
+| Température de l'eau (°C) | 18.2 | 18.5 |
+| **Nombre du jour de l'année - 3** | **10 Octobre 1905** | **Matin** | **Soir** |
+| Hauteur Barométrique (mm) | 763.9 | 760.8 |
+| Direction du vent | or.or.o | S.8 |
+| Force du vent | is | 1 fort | 1 fort |
+| Nébulosité (%) | 0 | 0 |
+| (Reg. 2° (mur)) | cr.or.o | cr.n.v.o |
+| Direction des nuages | - | - |
+| Pluie tombée (mm) | - | - |
+| Température de l'air (°C) | 18.4 | 21.3 |
+| Hauteur de la mer (m) | 48.9 | 38.6 |
+| Agitation de l'eau | 17 fort | 17 fort |
+| Densité au bout de la jetée (kg/m³) | 1028.9 | 1028.8 |
+| Température de l'eau (°C) | 18.7 | 19.2 |
+```

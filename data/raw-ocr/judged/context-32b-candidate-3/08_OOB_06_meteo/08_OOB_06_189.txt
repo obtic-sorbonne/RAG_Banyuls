@@ -1,0 +1,57 @@
+```plaintext
+### OBSERVATIONS DU 22 AOÛT 1901
+
+| **Nombre de bateaux sortis (pêche à l.)** | 32,7 |
+| **Température de l'air** |  |
+| - Maxima depuis la veille | 32,7 |
+| - Minima id. | 21,7 |
+| **Température de l'eau** |  |
+| - Maxima depuis la veille |  |
+| - Minima id. |  |
+| **Pluie tombée depuis la veille, en millim.** |  |
+| **Evaporation depuis le 14 août 1901, en millim.** | 39,9 |
+| **Direction du vent (à terre)** | **à 9 h. m.** | **à 3 h. s.** |
+| - Force | 1 | 2 |
+| - Direction des nuages | S.O. | S.O. |
+| **Nébulosité** |  |  |
+| - région Ouest (terre) | 10 | 10 |
+| - id. Est (mer) | 10 | 10 |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.)** | 20,0 | 16,6 |
+| **Agitation de l'eau** | 1 fort | 1 faible |
+| **Densité de l'eau au bout de la jetée** | 1028,6 | 1028,3 |
+| **Température** |  |  |
+| - S. Terrasse Matin |  |  |
+|   - Maxima | 36,1 |
+|   - Minima | 19,1 |
+| - S. Terrasse Jourrier |  |  |
+|   - Maxima | 38,3 |
+|   - Minima | 26,2 |
+
+### OBSERVATIONS DU 23 AOÛT 1901
+
+| **Nombre de bateaux sortis (pêche à l.)** | 32,7 |
+| **Température de l'air** |  |
+| - Maxima depuis la veille | 32,7 |
+| - Minima id. | 20,8 |
+| **Température de l'eau** |  |
+| - Maxima depuis la veille |  |
+| - Minima id. |  |
+| **Pluie tombée depuis la veille, en millim.** |  |
+| **Evaporation depuis le 14 août 1901, en millim.** |  |
+| **Direction du vent (à terre)** | **à 9 h. m.** | **à 3 h. s.** |
+| - Force | 2 fort | 1 fort |
+| - Direction des nuages | Nord | Nord |
+| **Nébulosité** |  |  |
+| - région Ouest (terre) | 10 | 10 |
+| - id. Est (mer) | 10 | 10 |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.)** | 21,8 | 22,9 |
+| **Agitation de l'eau** | 1 fort | 2 faible |
+| **Densité de l'eau au bout de la jetée** | 1028,8 | 1026,1 |
+| **Température** |  |  |
+| - S. Terrasse Matin |  |  |
+|   - Maxima | 33,8 |
+|   - Minima | 24,9 |
+| - S. Terrasse Jourrier |  |  |
+|   - Maxima | 38,3 |
+|   - Minima | 18,2 |
+```

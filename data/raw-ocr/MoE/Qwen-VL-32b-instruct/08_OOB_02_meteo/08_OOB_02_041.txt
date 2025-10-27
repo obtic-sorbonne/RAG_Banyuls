@@ -1,0 +1,17 @@
+# Date: 20 Jubil. 1901
+
+|   | 9th Mbaatre | 3rd Boix  |
+| --- | --- | --- |
+|  Xantéur Barometrique | 764,6 | 763,6  |
+|  Direction Su vent | Sud | Sud  |
+|  Porex | 3 fort | 3 fort  |
+|  Tébuloisite / Reg. C. (tome) | 0 Regent. 0 | 0  |
+|  Tébuloisite / Reg. E. (mer) | 0 | 0  |
+|  Direction Ses nuages | Sud | Sud  |
+|  Mure tombe | 14,4 | 14,6  |
+|  Température Se l'air | 47,2 | 63,8  |
+|  Xantéur Se la mer | 3 fort | 3 fort  |
+|  Cajitation Se l'eau | 1028,9 | 1028,7  |
+|  Densité Se l'eau / au bout de la jetée |  |   |
+|  Densité Se l'eau / au large |  |   |
+|  Température de l'eau | 13,0 | 13,3  |

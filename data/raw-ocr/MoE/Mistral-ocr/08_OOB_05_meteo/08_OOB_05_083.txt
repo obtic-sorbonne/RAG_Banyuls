@@ -1,0 +1,27 @@
+|  V-24 février 1905 | Mbatin | Joir  |
+| --- | --- | --- |
+|  Hauteur macrométrique | 1/1.0 |   |
+|  Direction du vent | or. 0 |   |
+|  Force | 3 |   |
+|  Hébulonie | 10 |   |
+|  (Reg. E. (me)) | 10 |   |
+|  Direction des nuages | or. 0 |   |
+|  Flux tombé | 1,5 |   |
+|  Température de l'air | 3,4 |   |
+|  Hauteur de la mer | 1 fort |   |
+|  (Agitation de l'eau) |  |   |
+|  Densité au bout de la jetée | 1 fort |   |
+|  (Dempperation de l'eau) |  |   |
+|  V-1er Moars-1905 | Mbatin | Joir  |
+|  Hauteur macrométrique |  | 259,4  |
+|  Direction du vent |  | or. or. 0  |
+|  Force | 3 fort | 2 fort  |
+|  Hébulonie | 10 | 10  |
+|  (Reg. E. (me)) |  | 14,4  |
+|  Direction des nuages |  | 3 fort  |
+|  Flux tombé |  | 5  |
+|  (Dempperation de l'air) |  |   |
+|  Hauteur de la mer |  |   |
+|  (Agitation de l'eau) |  |   |
+|  Densité au bout de la jetée |  |   |
+|  (Dempperation de l'eau) |  |   |

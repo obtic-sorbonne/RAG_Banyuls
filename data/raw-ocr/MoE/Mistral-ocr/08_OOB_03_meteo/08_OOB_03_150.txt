@@ -1,0 +1,16 @@
+# Carte. 19 Mours. 1902
+
+|  Name | 9th Mouton | 3rd Soir  |
+| --- | --- | --- |
+|  Janté Barométrique | 762,6 |   |
+|  Direction du vent | Ouest | 2  |
+|  Force |  |   |
+|  Ménilovité | Reg. O. (lème) | 0  |
+|  Direction des mirages | Ouest | 11  |
+|  Étric Tombe |  |   |
+|  Température de l'air | 14,5 |   |
+|  Janté de la mer | 14,6 |   |
+|  Agitation de l'eau |  | 0  |
+|  Densité de l'eau | au bout de la jetée | 1028,5  |
+|  Comprendre |  |   |
+|  Température de l'eau | 12,5 |   |

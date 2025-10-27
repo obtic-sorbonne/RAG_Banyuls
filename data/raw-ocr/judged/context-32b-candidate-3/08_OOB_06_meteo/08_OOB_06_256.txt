@@ -1,0 +1,45 @@
+```plaintext
+### OBSERVATIONS DU 1902 27 FÉVRIER
+
+| **Nombre de bateaux sortis (pêche à l.)** | *non mentionné* |  |
+| **Température de l'air** |  |  |
+| - maxima depuis la veille | 20,9 |  |
+| - minima id. | 18,1 |  |
+| **Température de l'eau** | *non mentionnée* | *non mentionnée* |
+| **Pluie tombée depuis la veille, en millim.** | *non mentionnée* |  |
+| **Évaporation depuis le 1900, en millim.** | *non mentionnée* |  |
+| **Direction du vent (à terre)** | **à 9 h. m.** | **à 3 h. s.** |  |
+| - Force | 1 forte | 1 forte |  |
+| - Direction des nuages | Nord | Nord |  |
+| **Nébulosité** |  |  |  |
+| - région Ouest (terre) | 0 | *non mentionnée* |  |
+| - id. Est (mer) | 2 | *non mentionnée* |  |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.)** | 43,1 | *non mentionnée* |  |
+| **Agitation de l'eau** | 1 forte | *non mentionnée* |  |
+| **Densité de l'eau au bout de la jetée** | 1027,4 | *non mentionnée* |  |
+| **Température de l'eau** |  |  |  |
+| - matin (maxima) | 23,9 | 12,9 |  |
+| - soir (minima) | 11,8 | 14,0 |  |
+
+### OBSERVATIONS DU 1902 29 FÉVRIER
+
+| **Nombre de bateaux sortis (pêche à l.)** | *non mentionné* |  |
+| **Température de l'air** |  |  |
+| - maxima depuis la veille | 24,8 |  |
+| - minima id. | 8,8 |  |
+| **Température de l'eau** | *non mentionnée* | *non mentionnée* |
+| **Pluie tombée depuis la veille, en millim.** | 11 |  |
+| **Évaporation depuis le 1900, en millim.** | *non mentionnée* |  |
+| **Direction du vent (à terre)** | **à 9 h. m.** | **à 3 h. s.** |  |
+| - Force | 1 | 6 |  |
+| - Direction des nuages | Ouest | Nord |  |
+| **Nébulosité** |  |  |  |
+| - région Ouest (terre) | 10 | 10 |  |
+| - id. Est (mer) | 10 | 10 |  |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.)** | 82,6 et 80,8 | 80,8 |  |
+| **Agitation de l'eau** | 1 | 1 |  |
+| **Densité de l'eau au bout de la jetée** | 1027,2 et 1029,0 | 1029,0 |  |
+| **Température de l'eau** |  |  |  |
+| - matin (maxima) | 24,9 | 12,9 |  |
+| - soir (minima) | 6,7 | 14,0 |  |
+```

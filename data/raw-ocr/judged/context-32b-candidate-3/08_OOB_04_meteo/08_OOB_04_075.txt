@@ -1,0 +1,33 @@
+# 26 Mars 1902
+
+## Matin
+
+|  **Hauteur Barométrique** | **764,4**  |
+| --- | --- |
+|  Direction du vent | or.or.o  |
+|  Force | 4 fort  |
+|  **Nébulosité** | **(Reg. O. (terre))** | **16,5**  |
+|  | **(Reg. E. (mer))** | **16,5**  |
+|  Direction des nuages | or.or.o  |
+|  Pluie tombée | 1/2  |
+|  Température de l'air | 17,0  |
+|  Hauteur de la mer | 64,2  |
+|  Égitation de l'eau | 2 fort  |
+|  Densité au bout de la jetée | 1028,1  |
+|  Température de l'eau | 13,0  |
+
+## Soir
+
+|  **Hauteur Barométrique** | **765,0**  |
+| --- | --- |
+|  Direction du vent | or.or.o  |
+|  Force | 3 fort  |
+|  **Nébulosité** | **(Reg. O. (terre))** | **10,5**  |
+|  | **(Reg. E. (mer))** | **10,5**  |
+|  Direction des nuages | or.or.o  |
+|  Pluie tombée | quelques.  |
+|  Température de l'air | 16,5  |
+|  Hauteur de la mer | 60,3  |
+|  Égitation de l'eau | 2 fort  |
+|  Densité au bout de la jetée | 1028,3  |
+|  Température de l'eau | 13,3  |

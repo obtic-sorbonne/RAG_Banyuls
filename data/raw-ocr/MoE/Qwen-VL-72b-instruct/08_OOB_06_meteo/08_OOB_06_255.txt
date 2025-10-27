@@ -1,0 +1,55 @@
+| **OBSERVATIONS DU 1902 24 Février** |
+|---|
+| **Nombre de bateaux sortis (pêche à l)** |
+| **Température de l'air** |
+| maxima depuis la veille | 19.7 |
+| minima id. | 11.0 |
+| **Température de l'eau** |
+| maxima depuis la veille |  |
+| minima id. |  |
+| **Pluie tombée depuis la veille, en millim.** | 11 |
+| **Evaporation depuis le 190**, en millim. |  |
+| **Direction du vent (à terre)** |
+| **Force** | **à 9 h. m.** | **à 3 h. s.** |
+| | **N.N.O.** | **S.S.É.** |
+| | **1 fort** | **1 Très faib.** |
+| | **S.O.** | **"** |
+| **Direction des nuages** | **S.O.** | **S.** |
+| **Nébulosité** | **région Ouest (terre)** | 60 | 50 |
+| | **id. Est (mer)** | 40 | 60 |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.)** | 29.8 | 38.2 |
+| **Agitation de l'eau** | **1 fort** | **1 fort** |
+| | **h. 27.4** | **h. 27.4** |
+| **Densité de l'eau au bout de la jetée** | 12.0 | 12.3 |
+| **Température id.** |
+| - i5. | - matin | **maxima** | 21.2 |
+| | | **minima** | 9,3 |
+| - i5. | - s**oir** | **maxima** | 27.2 |
+| | | **minima** | 13.0 |
+| **OBSERVATIONS DU 1902 26 Février** |
+| **Nombre de bateaux sortis (pêche à l)** |
+| **Température de l'air** |
+| maxima depuis la veille | 17,0 |
+| minima id. | 9,4 |
+| **Température de l'eau** |
+| maxima depuis la veille |  |
+| minima id. |  |
+| **Pluie tombée depuis la veille, en millim.** |grandgouquant |
+| **Evaporation depuis le 190**, en millim. |  |
+| **Direction du vent (à terre)** |
+| **Force** | **à 9 h. m.** | **à 3 h. s.** |
+| | **N.N.O.** |  |
+| | **3 fort** |  |
+| | **n.m.o.** |  |
+| **Direction des nuages** | **S.S.0.** | None |
+| **Nébulosité** | **région Ouest (terre)** | 10 |  |
+| | **id. Est (mer)** | 40 |  |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.)** | 39.7 | 2 |
+| **Agitation de l'eau** | | 2 |
+| **Densité de l'eau au bout de la jetée** | 1027,2 |  |
+| **Température id.** |
+| - i5. | - matin | **maxima** | 27,3 |
+| | | **minima** | 6,3 |
+| - i5. | - s**oir** | **maxima** | None |
+| | | **minima** | None |
+| |

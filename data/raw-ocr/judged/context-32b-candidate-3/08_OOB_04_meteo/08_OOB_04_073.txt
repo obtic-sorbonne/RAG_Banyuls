@@ -1,0 +1,31 @@
+V. 20 Mars. 1902
+
+|  Hauteur | Praxometrique | 760,2  |
+| --- | --- | --- |
+|  Direction | du vent | 23  |
+|  Force |  | 1  |
+|  Mébulosité | (Reg. O. (terre)) | 3  |
+|   | (Reg. E. (mer)) | 2  |
+|  Direction | des images | 28  |
+|  Pluie | tombée |   |
+|  Température | de l'air | 12,8  |
+|  Hauteur | de la mer | 10,1  |
+|  Égrégation | de l'eau | 1  |
+|  Densité | au bout de la jetée | 1027,9  |
+|  Température | de l'eau | 13,3  |
+
+V. 21 Mars. 1902
+
+|  Hauteur | Praxometrique | 761,2  |
+| --- | --- | --- |
+|  Direction | du vent | Cined  |
+|  Force |  | 2 fort  |
+|  Mébulosité | (Reg. O. (terre)) | 10h30  |
+|   | (Reg. E. (mer)) | 10h30  |
+|  Direction | des images | 4  |
+|  Pluie | tombée |   |
+|  Température | de l'air | 13,2  |
+|  Hauteur | de la mer | 42,2  |
+|  Égrégation | de l'eau | 1 fort  |
+|  Densité | au bout de la jetée | 1028,3  |
+|  Température | de l'eau | 12,6  |

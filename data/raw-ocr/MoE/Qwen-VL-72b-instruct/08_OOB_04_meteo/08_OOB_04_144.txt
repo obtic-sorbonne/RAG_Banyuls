@@ -1,0 +1,6 @@
+| Date       | Heure | Hauteur Barométrique | Direction du vent | Force | Nébulosité | Nuages | Pluie tombée | Température de l'air | Hauteur de la mer | Agitation de l'eau | Vitesse au bout de la jetée | Température de l'eau |
+|------------|-------|----------------------|-------------------|-------|-----------|--------|--------------|---------------------|------------------|-----------------|-----------------------------|---------------------|
+| V. 13 Octobre 1902 | Matin | 770.2 | er. or. o | 4 | **0** | Reg. O. (terre) | quelques g | 17.6 | 46.3 | 3 | 1028.5 | 17.7 |
+|              |       |          |           |   |       | Reg. E. (mur) |         |         |      |         |                       |         |
+| V. 16 Octobre 1902 | Matin | 764.3 | er. or. o | 1/2 fort | **10 légèrem.** | Reg. O. (terre) | **nr** | 16.8 | 36.4 | 1 faible | 1028.4 | 18.2 |
+|              |       |          |           |   |       | Reg. E. (mur) |         |         |      |         |                       |         |

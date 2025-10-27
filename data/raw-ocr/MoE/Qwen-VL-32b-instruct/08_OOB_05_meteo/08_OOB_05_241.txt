@@ -1,0 +1,29 @@
+| **Date**     | **7 Mai 1907** | **Matin**            | **Soir**            |
+|--------------|----------------|----------------------|---------------------|
+| **H. Barométrique** |           | 763.7               | 764.0              |
+| **Dir. du Vent**    | S.E.8     | S.E.8               |                    |
+| **T. (vrais. 15)**  |           | 3                   | 2                  |
+| **Nébulosité**     | **Reg. 2. (clr.)** | 10              | 10                |
+|                   | **Densité 12.2** | 2 fort           | 2 fort            |
+| **Dir. des nuages** |           | S.O.                | S.O.               |
+| **Pluie tombée**   |           |                    | quelques g         |
+| **Temp. de l'air**  |           | 24.8               | 19.9               |
+| **H. de la mer**    |           | 12.2               | 43.2               |
+| **Agitation de l'eau** |      | 2 fort             | 2 fort             |
+| **Densité au bout de la jetée** | | 1028.2 | 1028.6 |
+| **Temp. de l'eau**  |           | 15.8               | 14.9               |
+
+| **Date**     | **8 Mai 1907** | **Matin**            | **Soir**            |
+|--------------|----------------|----------------------|---------------------|
+| **H. Barométrique** |467. | 764.7               | 764.0              |
+| **Dir. du Vent**    | S.E.8     | S.E.8               |                    |
+| **T. (vrais. 15)**  |           | 2                   | 2                  |
+| **Nébulosité**     | **Reg. 2. (clr.)** | 10              | 10                |
+|                   | **Densité 12.7** | 2 fort           | 2 fort            |
+| **Dir. des nuages** |           | S.E.                | S.O.               |
+| **Pluie tombée**   |           | 7.0                 | quelques g         |
+| **Temp. de l'air**  |           | 13.7               | 19.1               |
+| **H. de la mer**    |           | 12.7               | 43.2               |
+| **Agitation de l'eau** |      | 2 fort             | 2 fort             |
+| **Densité au bout de la jetée** | | 1028.7 | 1028.6 |
+| **Temp. de l'eau**  |           | 13.2               | 14.3               |

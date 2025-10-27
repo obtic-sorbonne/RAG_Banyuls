@@ -1,0 +1,35 @@
+# 9.9 Octobre 1901
+
+## Maturité
+
+|  Nom | Date | Type  |
+| --- | --- | --- |
+|  Maturité Parométrique | 26/12 | 263.6  |
+|  Direction du vent | 0005 | 000.3  |
+|  Force | 1/01 | 17.6  |
+|  Subtraviole | Reg. 6 (terre) | 24/01  |
+|  Subtraviole | Reg. 6 (mer) | 24/01  |
+|  Direction des nuages | 0005 | 000.3  |
+|  Huie tombée | 16.3 | 19.1  |
+|  Température de l'air | 63.2 | 11.5  |
+|  Maturité de la mer | 1/01 | 1/01  |
+|  Agitation de l'eau | 1/02 | 102.0  |
+|  Sensibilité au bout de la jetée | 102.0 | 102.0  |
+|  Température de l'eau | 18.3 | 19.0  |
+
+## 10 Octobre 1901
+
+|  Nom | Date | Type  |
+| --- | --- | --- |
+|  Maturité Parométrique | 26/12 | 263.2  |
+|  Direction du vent | 0005 | 000.0  |
+|  Force | 3 | 3/01  |
+|  Subtraviole | Reg. 6 (terre) | 000.0  |
+|  Subtraviole | Reg. 6 (mer) | 000.0  |
+|  Direction des nuages | 0005 | 000.0  |
+|  Huie tombée | 18.6 | 20.6  |
+|  Température de l'air | 64.1 | 19.2  |
+|  Maturité de la mer | 0005 | 000.0  |
+|  Agitation de l'eau | 0005 | 000.0  |
+|  Sensibilité au bout de la jetée | 102.0 | 102.0  |
+|  Température de l'eau | 18.1 | 19.3  |

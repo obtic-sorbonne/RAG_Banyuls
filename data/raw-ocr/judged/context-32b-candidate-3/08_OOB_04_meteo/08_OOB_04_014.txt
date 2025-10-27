@@ -1,0 +1,35 @@
+# 17 Octobre 1901
+
+|  **Nom** | **Matin** | **Soir**  |
+| --- | --- | --- |
+|  Hauteur Barométrique | 77,1 | 77,3  |
+|  Direction du vent | 0.0 | 0.0  |
+|  Force | 1 foot | 11 foot  |
+|  Nébulosité | 8 | 8  |
+|  Reg. G. (terre) | 10 | 10  |
+|  Reg. G. (mer) | 120 | 120  |
+|  Direction des nuages | 0.0 | 0.0  |
+|  Pluie tombée | 0.009 | 0.008  |
+|  Température de l'air | 15.5 | 15.5  |
+|  Hauteur de la mer | 20.2 | 22.0  |
+|  Agitation de l'eau | 13.9 | 13.9  |
+|  Densité au bout de la jetée | 1027.8 | 1027.8  |
+|  Température de l'eau | 15.3 | 15.4  |
+
+# 20 Octobre 1901
+
+|  **Nom** | **Matin** | **Soir**  |
+| --- | --- | --- |
+|  Hauteur Barométrique | 76.7 | 76.7  |
+|  Direction du vent | 0.0 | 0.0  |
+|  Force | 5 foot | 5 foot  |
+|  Nébulosité | 10 | 10  |
+|  Reg. G. (terre) | 10 | 10  |
+|  Reg. G. (mer) | 120 | 120  |
+|  Direction des nuages | 0.0 | 0.0  |
+|  Pluie tombée | 0.006 | 0.006  |
+|  Température de l'air | 11.9 | 11.9  |
+|  Hauteur de la mer | 87.7 | 87.7  |
+|  Agitation de l'eau | 1 foot | 1 foot  |
+|  Densité au bout de la jetée | 1027.4 | 1027.4  |
+|  Température de l'eau | 16.6 | 16.6  |

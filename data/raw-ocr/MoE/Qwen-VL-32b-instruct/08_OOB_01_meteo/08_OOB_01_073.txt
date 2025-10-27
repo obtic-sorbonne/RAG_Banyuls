@@ -1,0 +1,22 @@
+Data: 1. S October 1900.
+
+|   |  | Meunay  |
+| --- | --- | --- |
+|   |  | 3.0.  |
+|  Hausteun baromelirigme |  |   |
+|  Direction 9m rent: |  |   |
+|  Force | 2. | 758,0  |
+|   |  | N.O.  |
+|   | Nebulovite (Rej. O. (Leme)) | 1 faible  |
+|   |  | 2  |
+|   | Direction De, muayen | 3  |
+|   |  | N.O.  |
+|   | Pleuie Eomblei. |   |
+|   | Rempelature D. I.aci | 31,9  |
+|   | Hausteun De la mer | 0,36  |
+|   | Afgilation De l'eau | 0  |
+|   | Demats De l'eau | 109,5  |
+|   |  | 1084,5  |
+|   | Rempelature De l'eau. | 31,7  |
+
+Observat. —

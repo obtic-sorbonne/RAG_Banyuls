@@ -1,0 +1,29 @@
+| Date        | Matin | Soir |
+|-------------|-------|------|
+| **8 mars 1904** |       |      |
+| Hauteur Barométrique | 764.2 | -   |
+| Direction du vent | 0.S.0 | -   |
+| Force | is | 2   |
+| Nébulosité |\_\_\_\_Reg. 6. (terre)| 10 |
+| | (Reg. E. (mer)) | 10 |
+| Direction des nuages | 0.S.0 | -   |
+| Pluie tombée | -   | -   |
+| Température de l'air | 13.3 | -   |
+| Hauteur de la mer | 29.1 | -   |
+| Agitation de l'eau | 2 forts | -   |
+| Densité au bout de la jetée | 1029.2 | -   |
+| Température de l'eau | 12.0 | -   |
+
+| **10 mars 1904** |       |      |
+| Hauteur Barométrique | 763.7 | -   |
+| Direction du vent | Ouest | -   |
+| Force | is | 1   |
+| Nébulosité |\_\_\_\_Reg. 6. (claire)| 2   |
+| | (Reg. E. (mer)) | 1   |
+| Direction des nuages | Ouest | -   |
+| Pluie tombée | 1./ | -   |
+| Température de l'air | 12.2 | -   |
+| Hauteur de la mer | 42.2 | -   |
+| Agitation de l'eau | 1 fort | -   |
+| Densité au bout de la jetée | 1028.3 | -   |
+| Température de l'eau | 10.7 | -   |

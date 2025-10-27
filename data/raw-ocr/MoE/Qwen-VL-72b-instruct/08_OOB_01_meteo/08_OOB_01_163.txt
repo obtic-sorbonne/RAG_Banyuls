@@ -1,0 +1,18 @@
+| **Date** | **5 Janvier 1901** |
+|---|---|
+| **Horaire** | **9h Matin** | **15h-17h** | **18h-20h** | **Soir** |
+| **Haut. Barométrique** | 762.3 | | | 760.0 |
+| **Dir. du Vent** | Nord | | | Nord |
+| **Force du Vent** | 4 | | | 4 (jaïlle) |
+| **Nébulosité** | | | | |
+| Reg. O (Clair) | 0 | | | 0 |
+| Reg. E (mer) | 1 | | | 0 |
+| **Dir. des Nuages** | Nord | | | " |
+| **Pluie tombée** | | | | |
+| **Température de l'air** | 2.4 | | | 3.6 |
+| **Haut. de la Mer** | 31.0 | | | 46.8 |
+| **Agit. de l'Eau** | 6 (jaïlle) | | | 5 (jaïlle) |
+| **Densité de l'Eau** | | | | |
+| Au bout de la jetée | 1029.6 | | | 1029.7 |
+| Au large | | | | |
+| **Température de l'Eau** | 10.6 | | | 11.5 |

@@ -1,0 +1,1146 @@
+{
+  "book_name": "05_OOB_01_log",
+  "pages": [
+    {
+      "page_number": "001",
+      "raw_content": "I. Journal du 9 D\u00e9cembre 1702.",
+      "cleaned_content": "I. Journaldu 9 D\u00e9cembre 1702.",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "002",
+      "raw_content": "\"\"\"\"",
+      "cleaned_content": "\"\"\"\"",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "003",
+      "raw_content": "Le document \u00e0 transcrire est vide. Aucun texte n'est pr\u00e9sent pour \u00eatre transcrit.\n\nR\u00e9sultat : \"\"",
+      "cleaned_content": "Ledocument \u00e0 transcrireestvide. Aucuntexten'estpr\u00e9sentpour \u00eatretranscrit.\n\nR\u00e9sultat : \"\"",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "004",
+      "raw_content": "{<em>Le document est vierge.</em>}",
+      "cleaned_content": "{<em>Ledocumentestvierge.</em>}",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "005",
+      "raw_content": "Journal du Bord\n\nBateau\n\nLe de Lacaze Duthiers.\n\n---\n\nPar un souscripteur qui fournit un nouvel ancre,\nj'ai offert \u00e0 mon ami namurongay son pr\u00e9d\u00e9cesseur\nqui fut profond\u00e9ment immerg\u00e9\nausi profond\u00e9ment incorrigible,\nen la venue \u00e0 Venars en avaitil envoy\u00e9 ses musiques.\n\nFe de Lacaze Duthiers\n\nFait le NVD. 1883.\n\nContres les l'objectif sur ce livre des bords\ncomplique l'embarrass\u00e9 emm\u00e9nag\u00e9 dont L'in\u00e9galit\u00e9 de la p\u00eache\nLe jour m\u00eame l'emportait aux laboratoires de lmutation.\n\n---\n\nLABORATOIRE \"ARAGO\"\nPUBLIQUE\nARCHIVES\nPROPRI\u00c9T\u00c9\nPUBLIQUE",
+      "cleaned_content": "Journaldu Bord\n\nBateau\n\nLede Lacaze Duthiers.\n\n---\n\nParunsouscripteurquifournitunnouvelancre,\nj'aioffert \u00e0 monaminamurongaysonpr\u00e9d\u00e9cesseurquifutprofond\u00e9mentimmerg\u00e9\nausiprofond\u00e9mentincorrigible,\nenlavenue \u00e0 Venarsenavaitilenvoy\u00e9 sesmusiques.\n\nFede Lacaze Duthiers\n\nFaitle NVD. 1883.\n\nContreslesl'objectifsurcelivredesbordscompliquel'embarrass\u00e9 emm\u00e9nag\u00e9 dont L'in\u00e9galit\u00e9 delap\u00eache\nLejourm\u00eamel'emportaitauxlaboratoiresdelmutation.\n\n---\n\nLABORATOIRE \"ARAGO\"\nPUBLIQUE\nARCHIVES\nPROPRI\u00c9T\u00c9\nPUBLIQUE",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "006",
+      "raw_content": "1er Armement fait le 1er Avril 1883\n\nPatron Bonafos Jean  \nMatelots Barbe Bonaventure, Baillys Pierre  \nMousse Baillys Jean  ",
+      "cleaned_content": "1er Armementfaitle 1er Avril 1883\n\nPatron Bonafos Jean  \nMatelots Barbe Bonaventure, Baillys Pierre  \nMousse Baillys Jean",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "007",
+      "raw_content": "1\u02b3\u1d49 Sortie\n\n**Direction :**  \nAu large de l'\u00cele de la Grosse  \nEssai du bateau\n\n\u00c9taient \u00e0 Bord :  \nM. Pruvot, Taumont, Wegmann, Fran\u00e7ois, Joulain  \n\n**R\u00e9sultat \u00e0 rapporter :**  ",
+      "cleaned_content": "1\u02b3\u1d49 Sortie\n\n**Direction :**  \nAulargedel'\u00celedela Grosse  \nEssaidubateau\n\n\u00c9taient \u00e0 Bord :  \nM. Pruvot, Taumont, Wegmann, Fran\u00e7ois, Joulain  \n\n**R\u00e9sultat \u00e0 rapporter :**",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "008",
+      "raw_content": "2<sup>i\u00e8me</sup> Sortie  \n20 avril 1843  \n\nBuls  \nDragage dans le Kontiaul\u00e9  \n\n\u00e9taient \u00e0 bord  \n\nIn. In.  \nBruntot, Wegmann, Francois, Fauret, Joulain  \n\nR\u00e9sultat, on a rapport\u00e9  \nGast\u00e9ropodes Ar\u00e9phales, crustac\u00e9s  \n\nLocalit\u00e9  \nKontiaul\u00e9  ",
+      "cleaned_content": "2<sup>i\u00e8me</sup> Sortie  \n20 avril 1843  \n\nBuls  \nDragagedansle Kontiaul\u00e9  \n\n\u00e9taient \u00e0 bord  \n\nIn. In.  \nBruntot, Wegmann, Francois, Fauret, Joulain  \n\nR\u00e9sultat, ona rapport\u00e9  \nGast\u00e9ropodes Ar\u00e9phales, crustac\u00e9s  \n\nLocalit\u00e9  \nKontiaul\u00e9",
+      "entities": {
+        "dates": [
+          "20 avril 1843"
+        ]
+      }
+    },
+    {
+      "page_number": "009",
+      "raw_content": "3\u00e8me Sortie\n\n28 avril\n\nBul. Dragage au large du Troc - 32 m de profondeur\n\n\u00e9taient \u00e0 bord\n\nM. In. Duval, Fran\u00e7ois, Goulin\n\n---\n\nR\u00e9sultat-on a rapport\u00e9\n- Ann\u00e9lides\n- Gastrochaenae, Amphypora 3.\n\nLocalit\u00e9. au large du Troc 22 Met profondeur\n\n---\n\n",
+      "cleaned_content": "3\u00e8me Sortie\n\n28 avril\n\nBul. Dragageaulargedu Troc - 32 mdeprofondeur\n\n\u00e9taient \u00e0 bord\n\nM. In. Duval, Fran\u00e7ois, Goulin\n\n---\n\nR\u00e9sultat-ona rapport\u00e9\n- Ann\u00e9lides\n- Gastrochaenae, Amphypora 3.\n\nLocalit\u00e9. aulargedu Troc 22 Metprofondeur\n\n---",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "010",
+      "raw_content": "Le\u00efne Sortie\n\n1<sup>er</sup> Mai\n\nBut - P\u00eache au b\u00eanet au larged.Paulilles\n\n\u00e9taient \u00e0 bord\n\nM. M. Prunet, Fran\u00e7ois\n\nR\u00e9sultat on a rapport\u00e9\n\nEdmundes - Helothuries - Ascl\u00e9r\u00e8s  \nC\u00e9phalopodes - Asides - Crustaces\n\nLocalit\u00e9. Paulilles 10 m\u00e8tres de profondeur",
+      "cleaned_content": "Le\u00efne Sortie\n\n1<sup>er</sup> Mai\n\nBut - P\u00eacheaub\u00eanetaularged.Paulilles\n\n\u00e9taient \u00e0 bord\n\nM. M. Prunet, Fran\u00e7ois\n\nR\u00e9sultatona rapport\u00e9\n\nEdmundes - Helothuries - Ascl\u00e9r\u00e8s  \nC\u00e9phalopodes - Asides - Crustaces\n\nLocalit\u00e9. Paulilles 10 m\u00e8tresdeprofondeur",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "011",
+      "raw_content": "5<sup>e</sup> Sortie\n\n5 mai\n\nRus - Re\u00eete au Halut pour avoir des Pedawnsia\n\n\u00e9taient-\u00e0 bord\n\nIn. III. Pruvot, Fran\u00e7ois Vignon\n\nR\u00e9sultat - on a rapport\u00e9\n\nPedawnsia - chinoises\n\nLocalit\u00e9 au large Banguls 35 Mt profondeur",
+      "cleaned_content": "5<sup>e</sup> Sortie\n\n5 mai\n\nRus - Re\u00eeteau Halutpouravoirdes Pedawnsia\n\n\u00e9taient-\u00e0 bord\n\nIn. III. Pruvot, Fran\u00e7ois Vignon\n\nR\u00e9sultat - ona rapport\u00e9\n\nPedawnsia - chinoises\n\nLocalit\u00e9 aularge Banguls 35 Mtprofondeur",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "012",
+      "raw_content": "Gene Sortie\n\n10 Mai\n\nBul - Exploration du port de Port Vendres\n\n\u00c9taient \u00e0 bord\n\nIn. In. de Lagage Frichiers - Privat - Geulin\n\nLocalit\u00e9. Port-vendres\n\nR\u00e9sultat on a rapport\u00e9\n\nSymposium conoides - Ispoigraphy Spallangani\nEobiedus - Pennibranches\n\nLocalit\u00e9. Port-vendres\n\n0004500",
+      "cleaned_content": "Gene Sortie\n\n10 Mai\n\nBul - Explorationduportde Port Vendres\n\n\u00c9taient \u00e0 bord\n\nIn. In. de Lagage Frichiers - Privat - Geulin\n\nLocalit\u00e9. Port-vendres\n\nR\u00e9sultatona rapport\u00e9\n\nSymposiumconoides - Ispoigraphy Spallangani\nEobiedus - Pennibranches\n\nLocalit\u00e9. Port-vendres\n\n0004500",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "013",
+      "raw_content": "7<sup>me</sup> Sortie\n\n20 Mai 1843\n\n**Bul.** Drogage. Terrest. Cap B\u00e9ar\n\n**\u00e9taient \u00e0 bord**\n\nIn. Mr. (12 \u00e9l\u00e8ves de la Famille de Roubaix)\nMm<sup>e</sup> Barth\u00e9l\u00e9my, Trulet, Cartailhac\n\nMm<sup>e</sup>: Pruvot, Frances\n\n**R\u00e9sultat on a rapport\u00e9 Annelides.**\nA c\u00e9phales\n\n**Localit\u00e9.** Cap B\u00e9ar. 4 sel. Profondeur. 00017",
+      "cleaned_content": "7<sup>me</sup> Sortie\n\n20 Mai 1843\n\n**Bul.** Drogage. Terrest. Cap B\u00e9ar\n\n**\u00e9taient \u00e0 bord**\n\nIn. Mr. (12 \u00e9l\u00e8vesdela Famillede Roubaix)\nMm<sup>e</sup> Barth\u00e9l\u00e9my, Trulet, Cartailhac\n\nMm<sup>e</sup>: Pruvot, Frances\n\n**R\u00e9sultatona rapport\u00e9 Annelides.**\nA c\u00e9phales\n\n**Localit\u00e9.** Cap B\u00e9ar. 4 sel. Profondeur. 00017",
+      "entities": {
+        "dates": [
+          "20 Mai 1843"
+        ]
+      }
+    },
+    {
+      "page_number": "014",
+      "raw_content": "8<sup>e</sup> Sortie\n\n21 Mai 1843\n\nBut. Visite du port de Port-Vendres\n\n\u00c9taient \u00e0 bord\n\nIn. M. Isabelle de la Fontaine d'Accountre\n\nM. M. Wignaumann, Francis, Brunot, Tamot.\n\nR\u00e9sultats rapport\u00e9s\n\nAnnelides rosac\u00e9s\nSpongiaires - Vermicules - Planctons\n\nLocalit\u00e9. Port-Vendres.",
+      "cleaned_content": "8<sup>e</sup> Sortie\n\n21 Mai 1843\n\nBut. Visiteduportde Port-Vendres\n\n\u00c9taient \u00e0 bord\n\nIn. M. Isabelledela Fontained'Accountre\n\nM. M. Wignaumann, Francis, Brunot, Tamot.\n\nR\u00e9sultatsrapport\u00e9s\n\nAnnelidesrosac\u00e9s\nSpongiaires - Vermicules - Planctons\n\nLocalit\u00e9. Port-Vendres.",
+      "entities": {
+        "dates": [
+          "21 Mai 1843"
+        ]
+      }
+    },
+    {
+      "page_number": "015",
+      "raw_content": "9<sup>e</sup> Sortie\n\n2<sup>o</sup> Mai 1883\n\nBut  \nR\u00e9cupe pelagique \u00e0 l'Anse du Troc\n\n\u00e9taient \u00e0 bord  \nM<sup>l</sup> de Laage Dulhiers  \net In. In. Prudel, Tanarel, Fran\u00e7ois Wegmann, Joulin  \nTanare  \nM<sup>l</sup> de Laage Dulhiers.\n\nR\u00e9sultat on a rapport\u00e9  \nBerse Forsk\u00e5ll  \nEncharis multicornis  \nSalpa Democratia  \nCestum Veneris  \nArraya Diphyes  \nApolemina  \nAmmeletes  \nOuestaciens pelagiques\n\nLocalit\u00e9  \nAnse du Troc\n\n",
+      "cleaned_content": "9<sup>e</sup> Sortie\n\n2<sup>o</sup> Mai 1883\n\nBut  \nR\u00e9cupepelagique \u00e0 l'Ansedu Troc\n\n\u00e9taient \u00e0 bord  \nM<sup>l</sup> de Laage Dulhierset In. In. Prudel, Tanarel, Fran\u00e7ois Wegmann, Joulin  \nTanare  \nM<sup>l</sup> de Laage Dulhiers.\n\nR\u00e9sultatona rapport\u00e9  \nBerse Forsk\u00e5ll  \nEncharismulticornis  \nSalpa Democratia  \nCestum Veneris  \nArraya Diphyes  \nApolemina  \nAmmeletes  \nOuestacienspelagiques\n\nLocalit\u00e9  \nAnsedu Troc",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "016",
+      "raw_content": "**10<sup>e</sup> Sortie**\n\n**30 Mai 1843**\n\nBut - Tragage pour aneis des ampbyones\n\n\u00c9taisent \u00e0 Bord : l'\u00c9quipage\n\nR\u00e9sultat - 12 ampbyones a\u00e9palles Annelides\n\nLocalit\u00e9 au Large du Triac 16 Mt profondeur",
+      "cleaned_content": "**10<sup>e</sup> Sortie**\n\n**30 Mai 1843**\n\nBut - Tragagepouraneisdesampbyones\n\n\u00c9taisent \u00e0 Bord : l'\u00c9quipage\n\nR\u00e9sultat - 12 ampbyonesa\u00e9palles Annelides\n\nLocalit\u00e9 au Largedu Triac 16 Mtprofondeur",
+      "entities": {
+        "dates": [
+          "30 Mai 1843"
+        ]
+      }
+    },
+    {
+      "page_number": "017",
+      "raw_content": "11<sup>e</sup> Sortie  \n9 Juin 1883  \n\nBut - Dragage pour avis des Gastrotr\u00e8nes  \n\ntaient a Bord - L'\u00e9quipage  \n\nR\u00e9sultat - 2 Gastrotr\u00e8nes - Brachipodes  \n\nLocalit\u00e9 au Large du cap Labeille 30 M\u00e8tres profondeur  \n\n00925  ",
+      "cleaned_content": "11<sup>e</sup> Sortie  \n9 Juin 1883  \n\nBut - Dragagepouravisdes Gastrotr\u00e8nestaienta Bord - L'\u00e9quipage  \n\nR\u00e9sultat - 2 Gastrotr\u00e8nes - Brachipodes  \n\nLocalit\u00e9 au Largeducap Labeille 30 M\u00e8tresprofondeur  \n\n00925",
+      "entities": {
+        "dates": [
+          "9 Juin 1883"
+        ]
+      }
+    },
+    {
+      "page_number": "018",
+      "raw_content": "10 Juin\n\nBut. Dragage pour avoir des Gast\u00e9ropodes\n\nEtat \u00e0 Bord. L'\u00c9quipage\n\nR\u00e9sultat. Pas de Gast\u00e9ropodes & Brachionotes\n\nLocalit\u00e9 au Large du troix 17.Aoue du profondeur",
+      "cleaned_content": "10 Juin\n\nBut. Dragagepouravoirdes Gast\u00e9ropodes\n\nEtat \u00e0 Bord. L'\u00c9quipage\n\nR\u00e9sultat. Pasde Gast\u00e9ropodes & Brachionotes\n\nLocalit\u00e9 au Largedutroix 17.Aoueduprofondeur",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "019",
+      "raw_content": "13<sup>e</sup> Sortie  \n17 Juin  \n\nBut : Tragage pour arbres de Crustac\u00e9s et Brachipodes  \n\nEtaient \u00e0 Bord : L'\u00e9quipage  \n\nR\u00e9sultat :  \n- Brachipodes  \n- Crustac\u00e9s  \n- Ann\u00e9lides  \n\nLocalit\u00e9 :  \nau large de nadies, 25 m<sup>8</sup> de profondeur  ",
+      "cleaned_content": "13<sup>e</sup> Sortie  \n17 Juin  \n\nBut : Tragagepourarbresde Crustac\u00e9set Brachipodes  \n\nEtaient \u00e0 Bord : L'\u00e9quipage  \n\nR\u00e9sultat :  \n- Brachipodes  \n- Crustac\u00e9s  \n- Ann\u00e9lides  \n\nLocalit\u00e9 :  \naulargedenadies, 25 m<sup>8</sup> deprofondeur",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "020",
+      "raw_content": "```\n14\u00b0 Sortie\n\n22 juin 1863\n\nBut - Dragage pour avoir des Gastrod\u00e9eves\n\n\u00c9taient \u00e0 Bord - l'\u00e9quipage\n\nR\u00e9sultat - Nombreuses Gastrod\u00e9es - Brachyo\u00efdes - Ann\u00e9lides\n\nLocalit\u00e9 - au large de Port-Vendres 20 m_de profondeur\n```",
+      "cleaned_content": "```\n14\u00b0 Sortie\n\n22 juin 1863\n\nBut - Dragagepouravoirdes Gastrod\u00e9eves\n\n\u00c9taient \u00e0 Bord - l'\u00e9quipage\n\nR\u00e9sultat - Nombreuses Gastrod\u00e9es - Brachyo\u00efdes - Ann\u00e9lides\n\nLocalit\u00e9 - aulargede Port-Vendres 20 m_deprofondeur\n```",
+      "entities": {
+        "dates": [
+          "22 juin 1863"
+        ]
+      }
+    },
+    {
+      "page_number": "021",
+      "raw_content": "15<sup>me</sup> Sortie  \n28 Juin 1885  \n\nBuk \u2013 p\u00eache au chalut  \n\n\u00e9taient \u00e0 Bord \u2013 l'\u00e9quipage  \n\nR\u00e9sultat  \nPinatilles, holothuries  \n\nLocalit\u00e9  \nCap Cerb\u00e8re \u2013 25 Metres Profondeur  ",
+      "cleaned_content": "15<sup>me</sup> Sortie  \n28 Juin 1885  \n\nBuk \u2013 p\u00eacheauchalut  \n\n\u00e9taient \u00e0 Bord \u2013 l'\u00e9quipage  \n\nR\u00e9sultat  \nPinatilles, holothuries  \n\nLocalit\u00e9  \nCap Cerb\u00e8re \u2013 25 Metres Profondeur",
+      "entities": {
+        "dates": [
+          "28 Juin 1885"
+        ]
+      }
+    },
+    {
+      "page_number": "022",
+      "raw_content": "16<sup>e</sup> Sortie\n\nLe 29 juin 1865\n\nBut \u2013 Dragage\n\n\u00c9taient \u00e0 Bord - L'\u00c9quipage\n\nR\u00e9sultat \u2013 Moyens, amphixuscus.\n\nLocalit\u00e9 \u2013 cap L'al\u00e8e, 26<sup>e</sup> Tirsenduc\n\n00935",
+      "cleaned_content": "16<sup>e</sup> Sortie\n\nLe 29 juin 1865\n\nBut \u2013 Dragage\n\n\u00c9taient \u00e0 Bord - L'\u00c9quipage\n\nR\u00e9sultat \u2013 Moyens, amphixuscus.\n\nLocalit\u00e9 \u2013 cap L'al\u00e8e, 26<sup>e</sup> Tirsenduc\n\n00935",
+      "entities": {
+        "dates": [
+          "29 juin 1865"
+        ]
+      }
+    },
+    {
+      "page_number": "023",
+      "raw_content": "74me Sortie  \nLe 2 juillet 1883  \nBut-Exploration de L'anse des Eulmes  \n\n\u00e9taient \u00e0 Bord- L'\u00e9quipage  \n\nR\u00e9sultat- Bruy\u00e9res, Aldnires.  \n\nLocalit\u00e9- Anse des Eules  ",
+      "cleaned_content": "74me Sortie  \nLe 2 juillet 1883  \nBut-Explorationde L'ansedes Eulmes  \n\n\u00e9taient \u00e0 Bord- L'\u00e9quipage  \n\nR\u00e9sultat- Bruy\u00e9res, Aldnires.  \n\nLocalit\u00e9- Ansedes Eules",
+      "entities": {
+        "dates": [
+          "2 juillet 1883"
+        ]
+      }
+    },
+    {
+      "page_number": "024",
+      "raw_content": "18\u00e9me Sortie\n\nLe 5 juillet 1883\n\nBuk - Bugage\n\nEtaient \u00e0 Bord : L'Equipage\n\nR\u00e9sultat : Diff\u00e9rents cailloux.\n\nLocalit\u00e9 : Cap. Pierre - sit\u00e9 35 Mties Trousondeur\n\n000290",
+      "cleaned_content": "18\u00e9me Sortie\n\nLe 5 juillet 1883\n\nBuk - Bugage\n\nEtaient \u00e0 Bord : L'Equipage\n\nR\u00e9sultat : Diff\u00e9rentscailloux.\n\nLocalit\u00e9 : Cap. Pierre - sit\u00e9 35 Mties Trousondeur\n\n000290",
+      "entities": {
+        "dates": [
+          "5 juillet 1883"
+        ]
+      }
+    },
+    {
+      "page_number": "025",
+      "raw_content": "```\n19<sup>\u00e8me</sup> Sortie\n\nLe 17 juillet 1889\n\nBut - Chalu\n\n\u00c9touffent \u00e0 Bord - L'\u00e9quipage.\n\nR\u00e9sultat-\u00e9pingons, v\u00e9ritable.\n\nLocalit\u00e9 - C\u00e9libre, 40 M<sup>t</sup>s Profondeur.\n```",
+      "cleaned_content": "```\n19<sup>\u00e8me</sup> Sortie\n\nLe 17 juillet 1889\n\nBut - Chalu\n\n\u00c9touffent \u00e0 Bord - L'\u00e9quipage.\n\nR\u00e9sultat-\u00e9pingons, v\u00e9ritable.\n\nLocalit\u00e9 - C\u00e9libre, 40 M<sup>t</sup>s Profondeur.\n```",
+      "entities": {
+        "dates": [
+          "17 juillet 1889"
+        ]
+      }
+    },
+    {
+      "page_number": "026",
+      "raw_content": "20<sup>e</sup> Sortie  \nLe 11 juillet 1880  \n\nBut - Chalu.  \n\n\u00e9taient \u00e0 Bord - L'\u00c9quipage.  \n\nR\u00e9sultat - Spatangles, Halothunies.  \n\nLocalit\u00e9 - cap Guillastreuil, 17 M\u00e8tres Profondeur.  ",
+      "cleaned_content": "20<sup>e</sup> Sortie  \nLe 11 juillet 1880  \n\nBut - Chalu.  \n\n\u00e9taient \u00e0 Bord - L'\u00c9quipage.  \n\nR\u00e9sultat - Spatangles, Halothunies.  \n\nLocalit\u00e9 - cap Guillastreuil, 17 M\u00e8tres Profondeur.",
+      "entities": {
+        "dates": [
+          "11 juillet 1880"
+        ]
+      }
+    },
+    {
+      "page_number": "027",
+      "raw_content": "21<sup>esme</sup> Sortie\n\nLe 17 juillet 1885\n\nBut \u2013 Dragage.\n\n\u00e9taient \u00e0 Bond \u2013 L'Equipage.\n\nR\u00e9sultat \u2013 N\u00e9ant.\n\nLocalit\u00e9 \u2013 Fronti\u00e8re d'Espagne.",
+      "cleaned_content": "21<sup>esme</sup> Sortie\n\nLe 17 juillet 1885\n\nBut \u2013 Dragage.\n\n\u00e9taient \u00e0 Bond \u2013 L'Equipage.\n\nR\u00e9sultat \u2013 N\u00e9ant.\n\nLocalit\u00e9 \u2013 Fronti\u00e8red'Espagne.",
+      "entities": {
+        "dates": [
+          "17 juillet 1885"
+        ]
+      }
+    },
+    {
+      "page_number": "028",
+      "raw_content": "92<sup>e</sup> <i>Sortie</i>  \nLe 21 juillet 1880  \n\nBuk - Chalu  \n\n\u00c9taient \u00e0 Bord - L'\u00c9quipage  \n\nPr\u00e9s DE ST voiles de mer \u00e0 & branches P\u00e9natiles en grande quantit\u00e9.  \n\nLocalit\u00e9 - en face le cap Cerb\u00e8re, \u00e0 5 Mille au large, 70 M\u00e8tres profondeur.  ",
+      "cleaned_content": "92<sup>e</sup> <i>Sortie</i>  \nLe 21 juillet 1880  \n\nBuk - Chalu  \n\n\u00c9taient \u00e0 Bord - L'\u00c9quipage  \n\nPr\u00e9s DE ST voilesdemer \u00e0 & branches P\u00e9natilesengrandequantit\u00e9.  \n\nLocalit\u00e9 - enfacelecap Cerb\u00e8re, \u00e0 5 Milleaularge, 70 M\u00e8tresprofondeur.",
+      "entities": {
+        "dates": [
+          "21 juillet 1880"
+        ]
+      }
+    },
+    {
+      "page_number": "029",
+      "raw_content": "```plaintext\n29<sup>\u00e8m</sup> Sortie\nLe 23 juillet 1886\n\nBuk Bragage\n\n\u00e9taient \u00e0 Bord \u2014 L\u2019\u00e9quipage\n\nR\u00e9sultat \u2014 Argons, bruns, fond de noire, 48 Mt.s profondes.\n\nLocalit\u00e9 \u2014 Cap Bizir, 50 m\u00e8tres profondeur.\n```",
+      "cleaned_content": "```plaintext\n29<sup>\u00e8m</sup> Sortie\nLe 23 juillet 1886\n\nBuk Bragage\n\n\u00e9taient \u00e0 Bord \u2014 L\u2019\u00e9quipage\n\nR\u00e9sultat \u2014 Argons, bruns, fonddenoire, 48 Mt.sprofondes.\n\nLocalit\u00e9 \u2014 Cap Bizir, 50 m\u00e8tresprofondeur.\n```",
+      "entities": {
+        "dates": [
+          "23 juillet 1886"
+        ]
+      }
+    },
+    {
+      "page_number": "030",
+      "raw_content": "21<sup>e</sup> Sortie\n\nLe 25 juillet\n\nBuk-Chalu.\n\n\u00e9taient \u00e0 Bord\u00a0: L'\u00c9quipage.\n\nByrsultat glacialis, \u00c9toile de Mer, Aphrodites.\n\nLocalit\u00e9\u00a0: Cap Iabeille, 40 Profondam.",
+      "cleaned_content": "21<sup>e</sup> Sortie\n\nLe 25 juillet\n\nBuk-Chalu.\n\n\u00e9taient \u00e0 Bord\u00a0: L'\u00c9quipage.\n\nByrsultatglacialis, \u00c9toilede Mer, Aphrodites.\n\nLocalit\u00e9\u00a0: Cap Iabeille, 40 Profondam.",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "031",
+      "raw_content": "Sept\nSortie\n\nLe 27 juillet 1880\n\nPezig-Teulon\n\n\u00e9taient \u00e0 Bord - \u00c9quipage\n\nPr\u00e9cipitat- Algues, Spongiaires, Bryozoaires, Perophores.\n\nLocalit\u00e9 en passe Port-Boeux, 25 M\u00b2 Profondeur.",
+      "cleaned_content": "Sept\nSortie\n\nLe 27 juillet 1880\n\nPezig-Teulon\n\n\u00e9taient \u00e0 Bord - \u00c9quipage\n\nPr\u00e9cipitat- Algues, Spongiaires, Bryozoaires, Perophores.\n\nLocalit\u00e9 enpasse Port-Boeux, 25 M\u00b2 Profondeur.",
+      "entities": {
+        "dates": [
+          "27 juillet 1880"
+        ]
+      }
+    },
+    {
+      "page_number": "032",
+      "raw_content": "26<sup>me</sup> Sortie  \nLe 30 juillet 1825  \n\nBut: Bragage  \n\n\u00c9taient \u00e0 Bord: l'\u00c9quipage  \n\nR\u00e9sultat: Diff\u00e9rents cailloux, contenant  \nDes Argentes.  \n\nLocalit\u00e9: Cap Sabli\u00e8re, de 50 \u00e0 45 M\u00e8tres profondes.  ",
+      "cleaned_content": "26<sup>me</sup> Sortie  \nLe 30 juillet 1825  \n\nBut: Bragage  \n\n\u00c9taient \u00e0 Bord: l'\u00c9quipage  \n\nR\u00e9sultat: Diff\u00e9rentscailloux, contenant  \nDes Argentes.  \n\nLocalit\u00e9: Cap Sabli\u00e8re, de 50 \u00e0 45 M\u00e8tresprofondes.",
+      "entities": {
+        "dates": [
+          "30 juillet 1825"
+        ]
+      }
+    },
+    {
+      "page_number": "033",
+      "raw_content": "```\n27\u00e8me Sortie\nLe 12 Juin 1885\n\nBut - Dragage.\n\n\u00c9tait \u00e0 bord l\u2019\u00c9quipage.\n\nR\u00e9sultat - Gorgonnes, diff\u00e9rents oursins.\n\nLocalit\u00e9 - Au Trie, 45 M\u00e8tres profondeur.\n```",
+      "cleaned_content": "```\n27\u00e8me Sortie\nLe 12 Juin 1885\n\nBut - Dragage.\n\n\u00c9tait \u00e0 bordl\u2019\u00c9quipage.\n\nR\u00e9sultat - Gorgonnes, diff\u00e9rentsoursins.\n\nLocalit\u00e9 - Au Trie, 45 M\u00e8tresprofondeur.\n```",
+      "entities": {
+        "dates": [
+          "12 Juin 1885"
+        ]
+      }
+    },
+    {
+      "page_number": "034",
+      "raw_content": "98<sup>m</sup> Sortie  \nLe 7 Ao\u00fbt 188<sup>S</sup>  \n\nBut chalu.  \n\n\u00c9tais \u00e0 Bord, l'\u00c9quipage.  \n\nR\u00e9sultat: M\u00e9gots. Halothuries.  \n\nGalit\u00e9-au large de Pate Londeh, 40 M\u00e8tres profitente.  ",
+      "cleaned_content": "98<sup>m</sup> Sortie  \nLe 7 Ao\u00fbt 188<sup>S</sup>  \n\nButchalu.  \n\n\u00c9tais \u00e0 Bord, l'\u00c9quipage.  \n\nR\u00e9sultat: M\u00e9gots. Halothuries.  \n\nGalit\u00e9-aulargede Pate Londeh, 40 M\u00e8tresprofitente.",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "035",
+      "raw_content": "29e Sortie  \nLe 7 octobre 1865  \n\nBut - chale.  \n\n\u00c9taient \u00e0 bord - Vatteredge.  \n\nRecevait - Estelles de mer, Barizzatoe.  \n\nSondait - \u00e0 Toellis, de 20 \u00e0 25 brasses Profond.  ",
+      "cleaned_content": "29e Sortie  \nLe 7 octobre 1865  \n\nBut - chale.  \n\n\u00c9taient \u00e0 bord - Vatteredge.  \n\nRecevait - Estellesdemer, Barizzatoe.  \n\nSondait - \u00e0 Toellis, de 20 \u00e0 25 brasses Profond.",
+      "entities": {
+        "dates": [
+          "7 octobre 1865"
+        ]
+      }
+    },
+    {
+      "page_number": "036",
+      "raw_content": "```\nBen Sorti\nLe 9 ao\u00fbt 1869\n\nBut - Bragage.\n\nEtait \u00e0 bord - l\u2019\u00c9quipage.\n\nR\u00e9sultat - Pyrog\u00e8nes, Divers Plombs.\n\nSocialit\u00e9 \u2013 cap Labeille, 25 M\u00e8tres Profondeur.\n```",
+      "cleaned_content": "```\nBen Sorti\nLe 9 ao\u00fbt 1869\n\nBut - Bragage.\n\nEtait \u00e0 bord - l\u2019\u00c9quipage.\n\nR\u00e9sultat - Pyrog\u00e8nes, Divers Plombs.\n\nSocialit\u00e9 \u2013 cap Labeille, 25 M\u00e8tres Profondeur.\n```",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "037",
+      "raw_content": "31 en Batien  \nLe 11 ao\u00fbt 1885  \n\n\u00c9taient \u00e0 Bord - Equipage  \nF. m. Dadag, chef de Cabine  \nSon')  \nP.P.Kortariz)  \ne.\"  \nwomsot)  ",
+      "cleaned_content": "31 en Batien  \nLe 11 ao\u00fbt 1885  \n\n\u00c9taient \u00e0 Bord - Equipage  \nF. m. Dadag, chefde Cabine  \nSon')  \nP.P.Kortariz)  \ne.\"  \nwomsot)",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "038",
+      "raw_content": "Bq** Sontie\n\nDe 13 \u00a0*un\u044f\u0442 1880\n\nReuben Pombertts.\n\nPlaques \u00e0 coudre/courir plat tapis*\n\nReisint fet cuadl\n\nLo.valit\u00e9 18 milles au large du cap B\u00e9an.\n\nNettre sofar groundbreaking.",
+      "cleaned_content": "Bq** Sontie\n\nDe 13 \u00a0*un\u044f\u0442 1880\n\nReuben Pombertts.\n\nPlaques \u00e0 coudre/courirplattapis*\n\nReisintfetcuadl\n\nLo.valit\u00e9 18 millesaulargeducap B\u00e9an.\n\nNettresofargroundbreaking.",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "039",
+      "raw_content": "```plaintext\n36m Botte\nLe 19 ao\u00fbt 1886\n\nEtat de l'\u00e9quipage\nLt. D. Paby\nJ. Boisnet P.\n```\n```",
+      "cleaned_content": "```plaintext\n36m Botte\nLe 19 ao\u00fbt 1886\n\nEtatdel'\u00e9quipage\nLt. D. Paby\nJ. Boisnet P.\n```\n```",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "040",
+      "raw_content": "34. Semaine  \n21 ao\u00fbt 1889  \n\nB\u00e2t Chalu  \n\n\u00c9taient \u00e0 bord. L'\u00c9quipage.  \n\nCasualt Penates. Haloturi dex autins.  \n\nLocalit\u00e9 en passe le cap Oullestrail, 20 m\u00e8tres, profondeur.  ",
+      "cleaned_content": "34. Semaine  \n21 ao\u00fbt 1889  \n\nB\u00e2t Chalu  \n\n\u00c9taient \u00e0 bord. L'\u00c9quipage.  \n\nCasualt Penates. Haloturidexautins.  \n\nLocalit\u00e9 enpasselecap Oullestrail, 20 m\u00e8tres, profondeur.",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "041",
+      "raw_content": "5m. Sortie  \nLe 22 ao\u00fbt 1835  \n\nBut-charge.  \n\nEtaien\u2019t \u00e0 bord  \nEquipage.  \n\nR\u00e9sultat\u2014Provisions, hides, v\u00eatements.  \n\nLocalit\u00e9 en passe le cap Rodelis, so metres Trompandes.  ",
+      "cleaned_content": "5m. Sortie  \nLe 22 ao\u00fbt 1835  \n\nBut-charge.  \n\nEtaien\u2019t \u00e0 bord  \nEquipage.  \n\nR\u00e9sultat\u2014Provisions, hides, v\u00eatements.  \n\nLocalit\u00e9 enpasselecap Rodelis, sometres Trompandes.",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "042",
+      "raw_content": "```\n36\n\nLe 30 Aout 1889\n\nBut - Dragage.\n\n\u00c9taient \u00e0 bord l'\u00e9quipage.\n\nR\u00e9sultat - diff\u00e9rents cailloux, contenant quelques Angioipes.\n\nLocalit\u00e9 - cap labelle, 38 m\u00e8tres profond.\n```",
+      "cleaned_content": "```\n36\n\nLe 30 Aout 1889\n\nBut - Dragage.\n\n\u00c9taient \u00e0 bordl'\u00e9quipage.\n\nR\u00e9sultat - diff\u00e9rentscailloux, contenantquelques Angioipes.\n\nLocalit\u00e9 - caplabelle, 38 m\u00e8tresprofond.\n```",
+      "entities": {
+        "dates": [
+          "30 Aout 1889"
+        ]
+      }
+    },
+    {
+      "page_number": "043",
+      "raw_content": "17e Sortie\n\nLe 21 ao\u00fbt 1867\n\nRut-Hauberts.\n\n\u00c9taient \u00e0 bord l'\u00e9quipage.\n\nR\u00e9sultat \u2013 Breganzoaires, en quantit\u00e9.\n\nSondet entre le cap Labouille et le tronc, 29 m\u00e8tres profondes.",
+      "cleaned_content": "17e Sortie\n\nLe 21 ao\u00fbt 1867\n\nRut-Hauberts.\n\n\u00c9taient \u00e0 bordl'\u00e9quipage.\n\nR\u00e9sultat \u2013 Breganzoaires, enquantit\u00e9.\n\nSondetentrelecap Labouilleetletronc, 29 m\u00e8tresprofondes.",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "044",
+      "raw_content": "Le 25 ao\u00fbt 1886\n\nBut-Hauberts.\n\nEtatant \u00e0 bonnes qu'quipages.\n\nPondt-a an peau ven cruz, cc- jauberts\n\nLocalisit'-cap laberale, 35 M\u00e8tes profond length.",
+      "cleaned_content": "Le 25 ao\u00fbt 1886\n\nBut-Hauberts.\n\nEtatant \u00e0 bonnesqu'quipages.\n\nPondt-aanpeauvencruz, cc- jauberts\n\nLocalisit'-caplaberale, 35 M\u00e8tesprofondlength.",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "045",
+      "raw_content": "39 \u00e8me Bathie.  \nLe 27 ao\u00fbt 1880.  \n\nBut-Pragage.  \n\n\u00c9taient \u00e0 bord-l'\u00c9quipage.  \n\nR\u00e9sultat : plusieurs cailloux, contenant des anciennes  \ndes \u0153ufs (?).  \n\nLocalit\u00e9 - cap Labeille, 50 m\u00e8tres profondeur.  ",
+      "cleaned_content": "39 \u00e8me Bathie.  \nLe 27 ao\u00fbt 1880.  \n\nBut-Pragage.  \n\n\u00c9taient \u00e0 bord-l'\u00c9quipage.  \n\nR\u00e9sultat : plusieurscailloux, contenantdesanciennesdes \u0153ufs (?).  \n\nLocalit\u00e9 - cap Labeille, 50 m\u00e8tresprofondeur.",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "046",
+      "raw_content": "### JOURNAL DE NAVIGATION\n\n**10<sup>e</sup> SORTIE**\n\nLe 2 septembre 1886  \n**Bub-Dragee**  \n\u00c9taient \u00e0 Bord : l\u2019\u00c9quipage  \n\n**R\u00e9sultat :** Gorgones, de plusieurs couleurs, des cailloux avec des acides attach\u00e9s dessus.  \n\nLocalit\u00e9 : Passage Parw-Wendus, 20 M\u00e8tres profond.  ",
+      "cleaned_content": "### JOURNAL DE NAVIGATION\n\n**10<sup>e</sup> SORTIE**\n\nLe 2 septembre 1886  \n**Bub-Dragee**  \n\u00c9taient \u00e0 Bord : l\u2019\u00c9quipage  \n\n**R\u00e9sultat :** Gorgones, deplusieurscouleurs, descaillouxavecdesacidesattach\u00e9sdessus.  \n\nLocalit\u00e9 : Passage Parw-Wendus, 20 M\u00e8tresprofond.",
+      "entities": {
+        "dates": [
+          "2 septembre 1886"
+        ]
+      }
+    },
+    {
+      "page_number": "047",
+      "raw_content": "1. **1ere Sortie**\n\nLe 5 septembre 1880\n\nBut - Chalo.\n\nEtions \u00e0 bord l'\u00c9quipage.\n\nbi\u00e9sultat - ventiles, acidis, Alpiens.\n\nLocalit\u00e9 - en passe Banguls, 15 M\u00e8tres profondeme\n",
+      "cleaned_content": "1. **1ere Sortie**\n\nLe 5 septembre 1880\n\nBut - Chalo.\n\nEtions \u00e0 bordl'\u00c9quipage.\n\nbi\u00e9sultat - ventiles, acidis, Alpiens.\n\nLocalit\u00e9 - enpasse Banguls, 15 M\u00e8tresprofondeme",
+      "entities": {
+        "dates": [
+          "5 septembre 1880"
+        ]
+      }
+    },
+    {
+      "page_number": "048",
+      "raw_content": "12<sup>e</sup> Sortie  \nLe 7 septembre 1889\n\nBut-Chalu  \n\nEtait en bord-Equipage.  \n\nPr\u00e9sultat - haloturies, aursins.  \n\nJournal en passe Polilles, 20 m\u00e8tres profond.",
+      "cleaned_content": "12<sup>e</sup> Sortie  \nLe 7 septembre 1889\n\nBut-Chalu  \n\nEtaitenbord-Equipage.  \n\nPr\u00e9sultat - haloturies, aursins.  \n\nJournalenpasse Polilles, 20 m\u00e8tresprofond.",
+      "entities": {
+        "dates": [
+          "7 septembre 1889"
+        ]
+      }
+    },
+    {
+      "page_number": "049",
+      "raw_content": "4.9 ew  \nsortie  \n____  \n\n**Le 10 septembre 1885**  \n____  \n\n**But - Baggage**  \n____  \n\nEtaient \u00e0 bord - l'\u00c9quipage.  \n____  \n\nR\u00e9sultat - Bryozoaires, gorgonnes.  \n____  \n\nLocalit\u00e9 - cap B\u00e9rar, 6.0 m\u00e8tres profondeur.  \n____  ",
+      "cleaned_content": "4.9 ewsortie  \n____  \n\n**Le 10 septembre 1885**  \n____  \n\n**But - Baggage**  \n____  \n\nEtaient \u00e0 bord - l'\u00c9quipage.  \n____  \n\nR\u00e9sultat - Bryozoaires, gorgonnes.  \n____  \n\nLocalit\u00e9 - cap B\u00e9rar, 6.0 m\u00e8tresprofondeur.  \n____",
+      "entities": {
+        "dates": [
+          "10 septembre 1885"
+        ]
+      }
+    },
+    {
+      "page_number": "050",
+      "raw_content": "14<sup>e</sup> Sortie  \n\nLe 11 Septembre 1889  \n\nBut - Chalu ?  \n\n\u00c9taient \u00e0 bord : Equipage.  \n\nR\u00e9sultat : V\u00e9authites, P\u00e9naultes, oursins.  \n\nLocalit\u00e9 : en passe du cap Cerv\u00e8re, 45 m\u00e8tres profondeur.  ",
+      "cleaned_content": "14<sup>e</sup> Sortie  \n\nLe 11 Septembre 1889  \n\nBut - Chalu ?  \n\n\u00c9taient \u00e0 bord : Equipage.  \n\nR\u00e9sultat : V\u00e9authites, P\u00e9naultes, oursins.  \n\nLocalit\u00e9 : enpasseducap Cerv\u00e8re, 45 m\u00e8tresprofondeur.",
+      "entities": {
+        "dates": [
+          "11 Septembre 1889"
+        ]
+      }
+    },
+    {
+      "page_number": "051",
+      "raw_content": "```\n11e Sortie\nLe 15 septembre 1885\n\nBut : Dragage\n\n\u00c9taient \u00e0 bord : L'\u00c9quipage\n\nR\u00e9sultat : quelques cailloux contenant des\n               acides, et quelques mur\u00e8nes.\n\nLocalit\u00e9 : cap Labeille, 15 m\u00e8tres profondeur.\n```",
+      "cleaned_content": "```\n11e Sortie\nLe 15 septembre 1885\n\nBut : Dragage\n\n\u00c9taient \u00e0 bord : L'\u00c9quipage\n\nR\u00e9sultat : quelquescaillouxcontenantdesacides, etquelquesmur\u00e8nes.\n\nLocalit\u00e9 : cap Labeille, 15 m\u00e8tresprofondeur.\n```",
+      "entities": {
+        "dates": [
+          "15 septembre 1885"
+        ]
+      }
+    },
+    {
+      "page_number": "052",
+      "raw_content": "21\u00e8me Sortie  \nLe 18 rs 1846  \n\nBut : balisage  \n\n\u00c9tais en Bon \u00c9quipage  \n\nR\u00e9sultat : hauntingues, mersins, ventiles.  \n\nLocalit\u00e9 : en passe le cap l'\u00cele, 90 M\u00e8tres profondeur.  ",
+      "cleaned_content": "21\u00e8me Sortie  \nLe 18 rs 1846  \n\nBut : balisage  \n\n\u00c9taisen Bon \u00c9quipage  \n\nR\u00e9sultat : hauntingues, mersins, ventiles.  \n\nLocalit\u00e9 : enpasselecapl'\u00cele, 90 M\u00e8tresprofondeur.",
+      "entities": {
+        "dates": [
+          "18 rs 1846"
+        ]
+      }
+    },
+    {
+      "page_number": "053",
+      "raw_content": "11 en sorti\n\n20 Septembre 1888\n\nVi\u00e9t-Braghetti\n\u00c9taient \u00e0 bord l'Eclipsade\nR\u00e9sultat - V\u00e9hiculaires, Allemand, tamtons.\n\nLocalit\u00e9 - cap Blair, 55 M\u00e8tres profondes.",
+      "cleaned_content": "11 ensorti\n\n20 Septembre 1888\n\nVi\u00e9t-Braghetti\n\u00c9taient \u00e0 bordl'Eclipsade\nR\u00e9sultat - V\u00e9hiculaires, Allemand, tamtons.\n\nLocalit\u00e9 - cap Blair, 55 M\u00e8tresprofondes.",
+      "entities": {
+        "dates": [
+          "20 Septembre 1888"
+        ]
+      }
+    },
+    {
+      "page_number": "054",
+      "raw_content": "1<sup>er</sup> Sortie\n\nLe 22 sept<sup>e</sup>m<sup>b</sup>r<sup>e</sup> 1865\n\nBut\u2014Dragage\n\n\u00c9taient \u00e0 bord\u2014l'\u00e9quipage\n\nR\u00e9sultat des gongonnes attach\u00e9es sur les taillons: Spatangles, en quantit\u00e9s.\n\nLocalit\u00e9\u2014en passe cap 40, 20 M\u00e8tres profondes.",
+      "cleaned_content": "1<sup>er</sup> Sortie\n\nLe 22 sept<sup>e</sup>m<sup>b</sup>r<sup>e</sup> 1865\n\nBut\u2014Dragage\n\n\u00c9taient \u00e0 bord\u2014l'\u00e9quipage\n\nR\u00e9sultatdesgongonnesattach\u00e9essurlestaillons: Spatangles, enquantit\u00e9s.\n\nLocalit\u00e9\u2014enpassecap 40, 20 M\u00e8tresprofondes.",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "055",
+      "raw_content": "4<sup>e</sup> Sortie  \nLe 24 Septembre 1865  \n\nBut-chalo.  \n\nPoint \u00e0 bord - l'\u00c9quipage.  \n\nR\u00e9sultat \u2013 acadis, balatouis, albedus, Renatules.  \n\nNoralit\u00e9 en passe Polilles, 90 m\u00e8tes profondeur.  ",
+      "cleaned_content": "4<sup>e</sup> Sortie  \nLe 24 Septembre 1865  \n\nBut-chalo.  \n\nPoint \u00e0 bord - l'\u00c9quipage.  \n\nR\u00e9sultat \u2013 acadis, balatouis, albedus, Renatules.  \n\nNoralit\u00e9 enpasse Polilles, 90 m\u00e8tesprofondeur.",
+      "entities": {
+        "dates": [
+          "24 Septembre 1865"
+        ]
+      }
+    },
+    {
+      "page_number": "056",
+      "raw_content": "Le 25 Septembre 1880  \n**Put-Drageage.**\n\n**Etaient \u00e0 bord l'\u00c9quipage.**\n\n**R\u00e9sultat du vieux Cerail, une pierre contenant des Gastrosch\u00e9n\u00e9s.**\n\n**Localit\u00e9 : en passe du troc, 17 M\u00e8tres profondes.**",
+      "cleaned_content": "Le 25 Septembre 1880  \n**Put-Drageage.**\n\n**Etaient \u00e0 bordl'\u00c9quipage.**\n\n**R\u00e9sultatduvieux Cerail, unepierrecontenantdes Gastrosch\u00e9n\u00e9s.**\n\n**Localit\u00e9 : enpassedutroc, 17 M\u00e8tresprofondes.**",
+      "entities": {
+        "dates": [
+          "25 Septembre 1880"
+        ]
+      }
+    },
+    {
+      "page_number": "057",
+      "raw_content": "**11<sup>e</sup> Sortie**\n\n31 octobre 1883.\n\n**Dragage**\n\n\u2212\u2212\u2212\u2212\u2212\u2212\u2212\u2212\u2212\u2212\u2212\u2212\u2212\u2212\u2212\u2212\u2212\u2212\u2212\u2212\u2212\u2212\u2212\u2212\u2212\u2212\u2212\n\n**Devant band**, l'\u00e9quipage\n\n**Haut de band**, l'\u00e9quipage\n\n**R\u00e9colte** : Corail vivant, brachiopodes, ann\u00e9lides, algues, sympetrum.\n\n**Localit\u00e9** : Arri\u00e8re du cap des Abeilles. 3<sup>e</sup> pr\u00e9dende.\n\n**Le pr\u00e9parateur**\n\nJqui\n",
+      "cleaned_content": "**11<sup>e</sup> Sortie**\n\n31 octobre 1883.\n\n**Dragage**\n\n\u2212\u2212\u2212\u2212\u2212\u2212\u2212\u2212\u2212\u2212\u2212\u2212\u2212\u2212\u2212\u2212\u2212\u2212\u2212\u2212\u2212\u2212\u2212\u2212\u2212\u2212\u2212\n\n**Devantband**, l'\u00e9quipage\n\n**Hautdeband**, l'\u00e9quipage\n\n**R\u00e9colte** : Corailvivant, brachiopodes, ann\u00e9lides, algues, sympetrum.\n\n**Localit\u00e9** : Arri\u00e8reducapdes Abeilles. 3<sup>e</sup> pr\u00e9dende.\n\n**Lepr\u00e9parateur**\n\nJqui",
+      "entities": {
+        "dates": [
+          "31 octobre 1883"
+        ]
+      }
+    },
+    {
+      "page_number": "058",
+      "raw_content": "3.03 >> 3.63\n  \nM'Sorte\n---\n\n*3 novembre 1883*\n\nChalet\n\n\u00c9lament \u00e0 bord l'\u00e9quipage\n\nRituel. Boissons vins, raquers, oussins\n\nLocalit\u00e9 - au large de Ceuta\n\nLe pr\u00e9parateur\n\nDemi",
+      "cleaned_content": "3.03 >> 3.63\n  \nM'Sorte\n---\n\n*3 novembre 1883*\n\nChalet\n\n\u00c9lament \u00e0 bordl'\u00e9quipage\n\nRituel. Boissonsvins, raquers, oussins\n\nLocalit\u00e9 - aulargede Ceuta\n\nLepr\u00e9parateur\n\nDemi",
+      "entities": {
+        "dates": [
+          "3 novembre 1883"
+        ]
+      }
+    },
+    {
+      "page_number": "059",
+      "raw_content": "S3\u00b0 Sortie  \n6 Novembre 1883.  \n\nCholat  \n\n\u00c9l\u00e9ment \u00e0 bord l'\u00e9quipage  \nRemela! Poissons, Ouressi, Bernard, Lalothumos, Boguet,  \nIpsigraphii asidies  \nZarkropferon Meckelii  \nOleuobranhea Meckelii  \nNouveau nomm\u00e9 Omelide  \nIvolutes Du Cap Bear aux Elmer - 4 J\u00b0m prochains  \n\nLe commandant  \nJeulin  ",
+      "cleaned_content": "S3\u00b0 Sortie  \n6 Novembre 1883.  \n\nCholat  \n\n\u00c9l\u00e9ment \u00e0 bordl'\u00e9quipage  \nRemela! Poissons, Ouressi, Bernard, Lalothumos, Boguet,  \nIpsigraphiiasidies  \nZarkropferon Meckelii  \nOleuobranhea Meckelii  \nNouveaunomm\u00e9 Omelide  \nIvolutes Du Cap Bearaux Elmer - 4 J\u00b0mprochains  \n\nLecommandant  \nJeulin",
+      "entities": {
+        "dates": [
+          "6 Novembre 1883"
+        ]
+      }
+    },
+    {
+      "page_number": "060",
+      "raw_content": "```\n14<sup>e</sup> Sortie\n10 novembre 1883.\n\nDrague\n\n\u00c9taient \u00e0 bord l'\u00e9quipage\n\nR\u00e9sultat - 2 grandes branches de corail - plusieurs petites - Balanophyllies - Brachyopes.\n\nCancelled Cap l'abeille\n\nL'inspecteur\n\n[Signature]\n```",
+      "cleaned_content": "```\n14<sup>e</sup> Sortie\n10 novembre 1883.\n\nDrague\n\n\u00c9taient \u00e0 bordl'\u00e9quipage\n\nR\u00e9sultat - 2 grandesbranchesdecorail - plusieurspetites - Balanophyllies - Brachyopes.\n\nCancelled Capl'abeille\n\nL'inspecteur\n\n[Signature]\n```",
+      "entities": {
+        "dates": [
+          "10 novembre 1883"
+        ]
+      }
+    },
+    {
+      "page_number": "061",
+      "raw_content": "55\u00b0 Sortie  \n14 Novembre 1843  \n\nBut - Chalut.  \n\n\u00c9toient \u00e0 bord - l'\u00e9quipage  \n\nRamena  \n- Amm\u00e9lies - Dursins - holothuries - ascidies - cadii navegiuni.  \n\nLovetti - entre Port Vendas & B.a.guls.  \n\nL'\u00e9quipement  \nJunges.  ",
+      "cleaned_content": "55\u00b0 Sortie  \n14 Novembre 1843  \n\nBut - Chalut.  \n\n\u00c9toient \u00e0 bord - l'\u00e9quipage  \n\nRamena  \n- Amm\u00e9lies - Dursins - holothuries - ascidies - cadiinavegiuni.  \n\nLovetti - entre Port Vendas & B.a.guls.  \n\nL'\u00e9quipement  \nJunges.",
+      "entities": {
+        "dates": [
+          "14 Novembre 1843"
+        ]
+      }
+    },
+    {
+      "page_number": "062",
+      "raw_content": "16<sup>me</sup> Sortie  \n15 Novembre 1863  \nBut - Dragage  \n\nEl\u00e9ment \u00e0 bord - l'\u00e9quipage  \n\nR\u00e9sultat - Nombreux madr\u00e9porodes (Cranie, Anguipora, Cistelle)  \nAnn\u00e9lides Dunnos, Polyn\u00e9es  \nUn tr\u00e8s bel \u00e9chantillon de gorgone violette  \nSymphyllies - polynthiras  \nBalanophyllies - cariothylies - orynqutar\u00e8s  \n\nLocalit\u00e9 - ROOM du cap l'Abulle - profondeur 60 m\u00e8tres  \n\nLe pr\u00e9parateur  \nNoulin  ",
+      "cleaned_content": "16<sup>me</sup> Sortie  \n15 Novembre 1863  \nBut - Dragage  \n\nEl\u00e9ment \u00e0 bord - l'\u00e9quipage  \n\nR\u00e9sultat - Nombreuxmadr\u00e9porodes (Cranie, Anguipora, Cistelle)  \nAnn\u00e9lides Dunnos, Polyn\u00e9es  \nUntr\u00e8sbel \u00e9chantillondegorgoneviolette  \nSymphyllies - polynthiras  \nBalanophyllies - cariothylies - orynqutar\u00e8s  \n\nLocalit\u00e9 - ROOM ducapl'Abulle - profondeur 60 m\u00e8tres  \n\nLepr\u00e9parateur  \nNoulin",
+      "entities": {
+        "dates": [
+          "15 Novembre 1863"
+        ]
+      }
+    },
+    {
+      "page_number": "063",
+      "raw_content": "17arium 1855.\n\nSortie\n\nBut : Cholat\n\n\u00c9l\u00e9ments d\u2019essence : \u2013 l\u2019\u00c9quipage\n\nRemetot Coquelles n. Rare : nombreuses Areha\ntetr\u00e9gorisma \u2013 Polopris \u2013 Verguluros \u2013 Bonnortu, kolothurn, Ann\u00e9lidos \u2013\nCymbophyllies \u2013 Alyssomes \u2013 Bu\u00e9es\n\nLoveloff \u2013 Boule de limonille, cannois \u00e0 3 millieux\nlong.\n\nZippor\u00e9plicu\nNouen",
+      "cleaned_content": "17arium 1855.\n\nSortie\n\nBut : Cholat\n\n\u00c9l\u00e9mentsd\u2019essence : \u2013 l\u2019\u00c9quipage\n\nRemetot Coquellesn. Rare : nombreuses Arehatetr\u00e9gorisma \u2013 Polopris \u2013 Verguluros \u2013 Bonnortu, kolothurn, Ann\u00e9lidos \u2013\nCymbophyllies \u2013 Alyssomes \u2013 Bu\u00e9es\n\nLoveloff \u2013 Bouledelimonille, cannois \u00e0 3 millieuxlong.\n\nZippor\u00e9plicu\nNouen",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "064",
+      "raw_content": "18 Novembre 1843.\n\nUn patron de bateau de Banyuls est venu deman-\nder les aides du Botan Du Laboratoire pour l'aider\n\u00e0 retourner son chalut de la mer\nJ'ai autoris\u00e9 ce patron \u00e0 emmener soi\nhommes au large Toute la nuit\nLe chalut n'a pu \u00eatre rep\u00each\u00e9.\n\nRepar\u00e9tenclt\n[signature illisible]",
+      "cleaned_content": "18 Novembre 1843.\n\nUnpatrondebateaude Banyulsestvenudeman-\nderlesaidesdu Botan Du Laboratoirepourl'aider\n\u00e0 retournersonchalutdelamer\nJ'aiautoris\u00e9 cepatron \u00e0 emmenersoihommesaularge Toutelanuit\nLechalutn'apu \u00eatrerep\u00each\u00e9.\n\nRepar\u00e9tenclt\n[signatureillisible]",
+      "entities": {
+        "dates": [
+          "18 Novembre 1843"
+        ]
+      }
+    },
+    {
+      "page_number": "065",
+      "raw_content": "19<sup>e</sup> Sortie\n\n20 Novembre 1853.\n\nBut - Tragajge pour avoir des ampoures\n\nElement \u00e0 bord - l'\u00e9quipage\n\nRemittart 4 ampoures - 96 g. vers\n\nSosalati au large du cap Labeille\n\nLe recinatier\n\nV mallu",
+      "cleaned_content": "19<sup>e</sup> Sortie\n\n20 Novembre 1853.\n\nBut - Tragajgepouravoirdesampoures\n\nElement \u00e0 bord - l'\u00e9quipage\n\nRemittart 4 ampoures - 96 g. vers\n\nSosalatiaulargeducap Labeille\n\nLerecinatier\n\nV mallu",
+      "entities": {
+        "dates": [
+          "20 Novembre 1853"
+        ]
+      }
+    },
+    {
+      "page_number": "066",
+      "raw_content": "60\u00b0 Sortie  \n\n21 novembre 1813  \n\nBut \u2013 Marche  \n\nCl\u00e9ment Joined l'\u00e9quipage  \n\nRamat \u2013 r. qu'amphionk \u2013 Amphibtinen  \n\nLocalit\u00e9 du long du cap l'Abedlle  \n\nLowlin",
+      "cleaned_content": "60\u00b0 Sortie  \n\n21 novembre 1813  \n\nBut \u2013 Marche  \n\nCl\u00e9ment Joinedl'\u00e9quipage  \n\nRamat \u2013 r. qu'amphionk \u2013 Amphibtinen  \n\nLocalit\u00e9 dulongducapl'Abedlle  \n\nLowlin",
+      "entities": {
+        "dates": [
+          "21 novembre 1813"
+        ]
+      }
+    },
+    {
+      "page_number": "067",
+      "raw_content": "61<sup>e</sup> Sout\u00e9e\n\n22 novembre 1843.\n\nBut - Dragage -  \n\n\u00c9lament \u00e0 l'ordre - l'\u00c9quipage  \n\nRemettre  \n4 amphiasmes  \n\nLoualati - Cap d'Abeille  \n\n[signature illisible]  \nL\u00e9on  \n\nP\u00e9p\u00e9rathon  ",
+      "cleaned_content": "61<sup>e</sup> Sout\u00e9e\n\n22 novembre 1843.\n\nBut - Dragage -  \n\n\u00c9lament \u00e0 l'ordre - l'\u00c9quipage  \n\nRemettre  \n4 amphiasmes  \n\nLoualati - Capd'Abeille  \n\n[signatureillisible]  \nL\u00e9on  \n\nP\u00e9p\u00e9rathon",
+      "entities": {
+        "dates": [
+          "22 novembre 1843"
+        ]
+      }
+    },
+    {
+      "page_number": "068",
+      "raw_content": "62\u00b0 Sant\u00e9  \n23 Novembre 1883.  \nBut  \nOndongoue  \n\nElement d\u2019eau \u2013 \u00c9quipage  \n\nR\u00e9sultat  \n10 amphores \u2013 Annulus  \n\nLondili \u2013 Cap l'Abelle  \n\nA p\u00e9rim\u00e8tre  \nL. Gu\u00e9lin  \n",
+      "cleaned_content": "62\u00b0 Sant\u00e9  \n23 Novembre 1883.  \nBut  \nOndongoue  \n\nElementd\u2019eau \u2013 \u00c9quipage  \n\nR\u00e9sultat  \n10 amphores \u2013 Annulus  \n\nLondili \u2013 Capl'Abelle  \n\nA p\u00e9rim\u00e8tre  \nL. Gu\u00e9lin",
+      "entities": {
+        "dates": [
+          "23 Novembre 1883"
+        ]
+      }
+    },
+    {
+      "page_number": "069",
+      "raw_content": "63<sup>o</sup> Sortie \u2013  \n\n24 Novembre 1843  \n\nP\u00eache p\u00e9lagique \u00e0 hout de la Toulis  \n\n\u00c9l\u00e9ment \u00e0 Bord : Bonafoset Mi Mi Drumo Jaulion  \n\nR\u00e8melot - Ponto - Pteropodes - M\u00e9duses - Cl\u00e9ophores -  \nSolpes - B\u00e9rais - Dykhonophores.  \n\nLocalit\u00e9 : l'\u00eele grand au cap C' Abeille  \n\nLa pr\u00e9paration  \n\nJulaing",
+      "cleaned_content": "63<sup>o</sup> Sortie \u2013  \n\n24 Novembre 1843  \n\nP\u00eachep\u00e9lagique \u00e0 houtdela Toulis  \n\n\u00c9l\u00e9ment \u00e0 Bord : Bonafoset Mi Mi Drumo Jaulion  \n\nR\u00e8melot - Ponto - Pteropodes - M\u00e9duses - Cl\u00e9ophores -  \nSolpes - B\u00e9rais - Dykhonophores.  \n\nLocalit\u00e9 : l'\u00eelegrandaucap C' Abeille  \n\nLapr\u00e9paration  \n\nJulaing",
+      "entities": {
+        "dates": [
+          "24 Novembre 1843"
+        ]
+      }
+    },
+    {
+      "page_number": "070",
+      "raw_content": "64\u1d49 Sortie  \n25 Novembre 1883.  \n\nCoup d'Chalet pour avoir des ourd\u00e9es.  \n\nEtant \u00e0 bord : l'\u00e9quipage  \n\nR\u00e9sultat - Cynthia mammillata - Eunicosmus  \n  ascid\u00e9s agr\u00e9g\u00e9es - Doris - Balia - holothuries.  \n\nLocalit\u00e9, au large de Bouillides  \n\nLe p\u00e9ripatetiam  \n\nPaulin  ",
+      "cleaned_content": "64\u1d49 Sortie  \n25 Novembre 1883.  \n\nCoupd'Chaletpouravoirdesourd\u00e9es.  \n\nEtant \u00e0 bord : l'\u00e9quipage  \n\nR\u00e9sultat - Cynthiamammillata - Eunicosmusascid\u00e9sagr\u00e9g\u00e9es - Doris - Balia - holothuries.  \n\nLocalit\u00e9, aulargede Bouillides  \n\nLep\u00e9ripatetiam  \n\nPaulin",
+      "entities": {
+        "dates": [
+          "25 Novembre 1883"
+        ]
+      }
+    },
+    {
+      "page_number": "071",
+      "raw_content": "6<sup>e</sup> Sortie  \n28 Nov 1883  \n\nCoup d'Chalut pour avoir des Holothuries  \n\n\u00c9quivalent \u00e0 l'entier (l'\u00c9quipage)  \n\nR\u00e9sultats - holothuries (vert grau & noir) - Doris pente de (groupe) plein (telle) - exhib\u00e9s - \u00e9t\u00e9ri\u00e9s.  \n\nLokalit\u00e9s 2 milles au large du cap Bear  \n\nLa Pr\u00e9parateur  \n\n(SEULE Nom)  ",
+      "cleaned_content": "6<sup>e</sup> Sortie  \n28 Nov 1883  \n\nCoupd'Chalutpouravoirdes Holothuries  \n\n\u00c9quivalent \u00e0 l'entier (l'\u00c9quipage)  \n\nR\u00e9sultats - holothuries (vertgrau & noir) - Dorispentede (groupe) plein (telle) - exhib\u00e9s - \u00e9t\u00e9ri\u00e9s.  \n\nLokalit\u00e9s 2 millesaulargeducap Bear  \n\nLa Pr\u00e9parateur  \n\n(SEULE Nom)",
+      "entities": {
+        "dates": [
+          "28 Nov 1883"
+        ]
+      }
+    },
+    {
+      "page_number": "072",
+      "raw_content": "66<sup>e</sup> Sortie  \n99 Novembre 1863.  \n\nBul. Dragage pour avis d'Angiope  \n\nElement \u00e0 bord \u2013 l\u2019\u00c9quipage  \n\nR\u00e9sultat \u2013 Angiope de Lollolot \u2013 Imperitann  \nAmelides  \n\nXoalati \u2013 2.000 m. cap Canelle \u2013 35<sup>e</sup> de profondeur  \n\nLe pr\u00e9parateur  \nJoubin  ",
+      "cleaned_content": "66<sup>e</sup> Sortie  \n99 Novembre 1863.  \n\nBul. Dragagepouravisd'Angiope  \n\nElement \u00e0 bord \u2013 l\u2019\u00c9quipage  \n\nR\u00e9sultat \u2013 Angiopede Lollolot \u2013 Imperitann  \nAmelides  \n\nXoalati \u2013 2.000 m. cap Canelle \u2013 35<sup>e</sup> deprofondeur  \n\nLepr\u00e9parateur  \nJoubin",
+      "entities": {
+        "dates": [
+          "99 Novembre 1863"
+        ]
+      }
+    },
+    {
+      "page_number": "073",
+      "raw_content": "67<sup>e</sup> Sortie\n\n30 Novembre 1863.\n\nDragage dans le Fontanil pour ouvrir des amph\u00e9l\u00e9es.\n\n\u00c9taient \u00e0 bord \u2013 M. Pruv\u00f4t\n\nL'\u00e9quipage\n\nR\u00e9sultat. \u2013 Des amph\u00e9l\u00e9es ouvrales\n\nLe pr\u00e9parateur\n\nBouton",
+      "cleaned_content": "67<sup>e</sup> Sortie\n\n30 Novembre 1863.\n\nDragagedansle Fontanilpourouvrirdesamph\u00e9l\u00e9es.\n\n\u00c9taient \u00e0 bord \u2013 M. Pruv\u00f4t\n\nL'\u00e9quipage\n\nR\u00e9sultat. \u2013 Desamph\u00e9l\u00e9esouvrales\n\nLepr\u00e9parateur\n\nBouton",
+      "entities": {
+        "dates": [
+          "30 Novembre 1863"
+        ]
+      }
+    },
+    {
+      "page_number": "074",
+      "raw_content": "6h Sortie  \n30 novembre 1883.  \n\nBut de la Journ\u00e9e  \nExercices \u00e0 bord de l'\u00c9quipage\n\nVernier - Quelques ampoures, Somni\u00e8re, Vergulance\n\nLocataires - Cap Red\u00e9cis  \n\n\u00c9quipations  \nYoguin  ",
+      "cleaned_content": "6h Sortie  \n30 novembre 1883.  \n\nButdela Journ\u00e9e  \nExercices \u00e0 borddel'\u00c9quipage\n\nVernier - Quelquesampoures, Somni\u00e8re, Vergulance\n\nLocataires - Cap Red\u00e9cis  \n\n\u00c9quipations  \nYoguin",
+      "entities": {
+        "dates": [
+          "30 novembre 1883"
+        ]
+      }
+    },
+    {
+      "page_number": "075",
+      "raw_content": "69<sup>e</sup> Sortie  \n6 D\u00e9cembre 1843  \n\nBut - coup d'horloge  \n\nElaner \u00e0 hauzd l'\u00e9quipage  \n\nR\u00e9sultat - Holothurien, seroples au sud-O  \n\nLandeleti au long du cap Bear  \n\nL' th\u00edparation  \nGarnentin",
+      "cleaned_content": "69<sup>e</sup> Sortie  \n6 D\u00e9cembre 1843  \n\nBut - coupd'horloge  \n\nElaner \u00e0 hauzdl'\u00e9quipage  \n\nR\u00e9sultat - Holothurien, seroplesausud-O  \n\nLandeletiaulongducap Bear  \n\nL' th\u00edparation  \nGarnentin",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "076",
+      "raw_content": "70\u00b0 Latitude\n\n12 D\u00e9cembre 1883\n\nBut-coup d\u2019Eau - Culot\n\nrument \u00e0 cou \u00e0 l\u2019\u00e9quipage\n\nReseullat \u2013 2 Crstomies \u2013 Deni - Octobn - Eledido\nV\u00e9tille - Boig\u00e8re - Pedtimdina - Elothieties\nSablett - Palthykaa\n\nLovalit\u00e9 \u2013 8 muler aan Lavy Muyg e Ablelle\n\nT/Tuposicien\nPomlin",
+      "cleaned_content": "70\u00b0 Latitude\n\n12 D\u00e9cembre 1883\n\nBut-coupd\u2019Eau - Culotrument \u00e0 cou \u00e0 l\u2019\u00e9quipage\n\nReseullat \u2013 2 Crstomies \u2013 Deni - Octobn - Eledido\nV\u00e9tille - Boig\u00e8re - Pedtimdina - Elothieties\nSablett - Palthykaa\n\nLovalit\u00e9 \u2013 8 muleraan Lavy Muyge Ablelle\n\nT/Tuposicien\nPomlin",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "077",
+      "raw_content": "71 Sortie\n\n20 Decembre 1863\n\nLa Doris est all\u00e9e chercher des \u0153ursins \u00e0 l'\u00eele petite\n\nElkement a Bonnau, Bauls, Dew, Baull, Jean, Francis\n\nR\u00e9sultat in s\u0153aux d'\u0153ursins, dont 4 cois antid\u00e9poche\n\nr\u00e9s dans le matin (imm\u00e9diatement)\n\nLa pipinerateur\n\nTerrliers",
+      "cleaned_content": "71 Sortie\n\n20 Decembre 1863\n\nLa Dorisestall\u00e9echercherdes \u0153ursins \u00e0 l'\u00eelepetite\n\nElkementa Bonnau, Bauls, Dew, Baull, Jean, Francis\n\nR\u00e9sultatins\u0153auxd'\u0153ursins, dont 4 coisantid\u00e9pocher\u00e9sdanslematin (imm\u00e9diatement)\n\nLapipinerateur\n\nTerrliers",
+      "entities": {
+        "dates": [
+          "20 Decembre 1863"
+        ]
+      }
+    },
+    {
+      "page_number": "078",
+      "raw_content": "72. ^ Sortie\n\n22 D\u00e9cembre 1883  \n\nCoup. a Charent en large de cap Breon  \n\nQuunit DendO menagon  \n\nRemellakAziarAlelsHunen  \n\nOagun Linrak",
+      "cleaned_content": "72. ^ Sortie\n\n22 D\u00e9cembre 1883  \n\nCoup. a Charentenlargedecap Breon  \n\nQuunit DendO menagon  \n\nRemellakAziarAlelsHunen  \n\nOagun Linrak",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "079",
+      "raw_content": "73\u1d48 jour\n\n22 Novembre 1888\n\nDragueur pontoon, Virgo\n\nChronique d'Equipage\n\nReveliot, Deck Hagugs. & Cistella Mtpetiana\n\nLourdes\n\nCap D'Ajedille\n\nZappevloren\n\nCumall",
+      "cleaned_content": "73\u1d48 jour\n\n22 Novembre 1888\n\nDragueurpontoon, Virgo\n\nChroniqued'Equipage\n\nReveliot, Deck Hagugs. & Cistella Mtpetiana\n\nLourdes\n\nCap D'Ajedille\n\nZappevloren\n\nCumall",
+      "entities": {
+        "dates": [
+          "22 Novembre 1888"
+        ]
+      }
+    },
+    {
+      "page_number": "080",
+      "raw_content": "H.- Sodin\n22 D\u00e9cembre, 1883\n\nBut- Reche pelagogique au Fontaud\u00e9\nElenmis Bert)\nMM. Houssaie, Dumont, Sormin\nRenettot. \"Alepes, Arbibulus, Renoni, Crissi, Mel.\"\nDrissant, Centypheres\nFelatini, Fontaulini, Pavi Edmig.\n\nLa Reposatiou\nMultiplex\n",
+      "cleaned_content": "H.- Sodin\n22 D\u00e9cembre, 1883\n\nBut- Rechepelagogiqueau Fontaud\u00e9\nElenmis Bert)\nMM. Houssaie, Dumont, Sormin\nRenettot. \"Alepes, Arbibulus, Renoni, Crissi, Mel.\"\nDrissant, Centypheres\nFelatini, Fontaulini, Pavi Edmig.\n\nLa Reposatiou\nMultiplex",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "081",
+      "raw_content": "Sortie\n24 D\u00e9cembre 1863.\n\nCoupe de Kambert au cap l'Abeille\n\nClouant \u00e0 la b\u00e2che - L'\u00e9quipage\n\nRemu\u00ebt - quelques gorgones\n\nLocalit\u00e9 - Cap de l'Abeille\n\nCent AWS",
+      "cleaned_content": "Sortie\n24 D\u00e9cembre 1863.\n\nCoupede Kambertaucapl'Abeille\n\nClouant \u00e0 lab\u00e2che - L'\u00e9quipage\n\nRemu\u00ebt - quelquesgorgones\n\nLocalit\u00e9 - Capdel'Abeille\n\nCent AWS",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "082",
+      "raw_content": "```plaintext\n76\u00b0 Sortie\n26 D\u00e9cembre 1883.\n\nCoup d'\u00c9chalut au large d'Angl\u00e8s.\n\n\u00c9taient \u00e0 bord l'\u00e9quipage.\n\nPeniltoque le Chalut est tomb\u00e9 \u00e0 l'arras et ramen\u00e9 que quelques encas.\n\nLoualit\u00e9.\n\nAu large de petit Vendres\n\n\u00e0 Papisateaue\nZouloir\n```",
+      "cleaned_content": "```plaintext\n76\u00b0 Sortie\n26 D\u00e9cembre 1883.\n\nCoupd'\u00c9chalutaularged'Angl\u00e8s.\n\n\u00c9taient \u00e0 bordl'\u00e9quipage.\n\nPeniltoquele Chalutesttomb\u00e9 \u00e0 l'arrasetramen\u00e9 quequelquesencas.\n\nLoualit\u00e9.\n\nAulargedepetit Vendres\n\n\u00e0 Papisateaue\nZouloir\n```",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "083",
+      "raw_content": "77<sup>\u207f</sup>\u00b0 Sortie\n\n8 D\u00e9cembre 1863\n\nBut \u2013 Camp d'cholutanlage pu auis des Turritelles\n\nEtaint dend \u2013 l'Equipage\n\nRemiliat  \n\u2013 Turritelles - Murex - Fusus - Placunoliv tinus testud  \n\u2013 amus - Pliumobranchus \u2013 mechlii - Chabriemens -  \nPogmobranchus - Homothuna - Durum\n\nLocalit\u00e9  \n\u2013 au large d'Elwne\n\nCapitaine  \nJunin",
+      "cleaned_content": "77<sup>\u207f</sup>\u00b0 Sortie\n\n8 D\u00e9cembre 1863\n\nBut \u2013 Campd'cholutanlagepuauisdes Turritelles\n\nEtaintdend \u2013 l'Equipage\n\nRemiliat  \n\u2013 Turritelles - Murex - Fusus - Placunolivtinustestud  \n\u2013 amus - Pliumobranchus \u2013 mechlii - Chabriemens -  \nPogmobranchus - Homothuna - Durum\n\nLocalit\u00e9  \n\u2013 aularged'Elwne\n\nCapitaine  \nJunin",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "210",
+      "raw_content": "60<sup>e</sup> Sortie  \n14 mars 1889  \n\nCoup de chalut \u2014 Coup de drague pour Amphibiones  \n\n\u00c9taient \u00e0 Bord : d'\u00c9quipage  \n\nDexualit\u00e9 : Un Cap B\u00e9ony \u00e0 l'aile de Bangels  \n\nR\u00e9sultat : Polipes, Molusques, Acanorina  \n                                                 Us\u00e9dic comporius Amphibioncs  \n\nSign\u00e9 de Brachouanan  \n[Signature illisible]  ",
+      "cleaned_content": "60<sup>e</sup> Sortie  \n14 mars 1889  \n\nCoupdechalut \u2014 Coupdedraguepour Amphibiones  \n\n\u00c9taient \u00e0 Bord : d'\u00c9quipage  \n\nDexualit\u00e9 : Un Cap B\u00e9ony \u00e0 l'ailede Bangels  \n\nR\u00e9sultat : Polipes, Molusques, Acanorina  \n                                                 Us\u00e9diccomporius Amphibioncs  \n\nSign\u00e9 de Brachouanan  \n[Signatureillisible]",
+      "entities": {
+        "dates": [
+          "14 mars 1889"
+        ]
+      }
+    },
+    {
+      "page_number": "211",
+      "raw_content": "6<sup>e</sup> Sortie\n\n16 Mars 1888\n\nCoup de chalut\n\nLocalit\u00e9 : \u00e0 environ 4 milles NE de Port-Vendres\n\nTr\u00e9ci\u00e9 \u00e0 Bord. l'\u00c9quipage\n\nR\u00e9sultat : Crustac\u00e9s - Mollusques - Nudibranches - Spongiaires\n\nHors de Pr\u00e9parateur\n\n[Signature]",
+      "cleaned_content": "6<sup>e</sup> Sortie\n\n16 Mars 1888\n\nCoupdechalut\n\nLocalit\u00e9 : \u00e0 environ 4 milles NE de Port-Vendres\n\nTr\u00e9ci\u00e9 \u00e0 Bord. l'\u00c9quipage\n\nR\u00e9sultat : Crustac\u00e9s - Mollusques - Nudibranches - Spongiaires\n\nHorsde Pr\u00e9parateur\n\n[Signature]",
+      "entities": {
+        "dates": [
+          "16 Mars 1888"
+        ]
+      }
+    },
+    {
+      "page_number": "212",
+      "raw_content": "62: Dortic  \n17 Mars 1889  \n\nCoup de chalut  \n\u00e9taint \u00e0 bord. L'Equipage  \n\nLocalit\u00e9: 20,244. Sud 0,021. Banques.  \n\nR\u00e9seaux: Parapres moulantes dynamo.  \nVelettes.  \n\nNom du Capitaine  \n[Signature]",
+      "cleaned_content": "62: Dortic  \n17 Mars 1889  \n\nCoupdechalut  \n\u00e9taint \u00e0 bord. L'Equipage  \n\nLocalit\u00e9: 20,244. Sud 0,021. Banques.  \n\nR\u00e9seaux: Parapresmoulantesdynamo.  \nVelettes.  \n\nNomdu Capitaine  \n[Signature]",
+      "entities": {
+        "dates": [
+          "17 Mars 1889"
+        ]
+      }
+    },
+    {
+      "page_number": "213",
+      "raw_content": "63  \nLevi  \n\n30 Mars 1881  \nCoupe du chalut n\u00b0 de 38 -  \n\u00c9l\u00e9ment d\u2019isolement - trop proche  \n\nLavables  \n3 miles au large dans laITE  \n\n f\u00edsag rhebolet - Occlici\u00e8res - Tullongues - Palmiers - Chimodiens  \nRouges -  \nNombreuses crampes au cap l'Abeille  \n\nA pr\u00e9parer  \n[Signature non lisible]  \n",
+      "cleaned_content": "63  \nLevi  \n\n30 Mars 1881  \nCoupeduchalutn\u00b0 de 38 -  \n\u00c9l\u00e9mentd\u2019isolement - tropproche  \n\nLavables  \n3 milesaulargedanslaITE  \n\n f\u00edsagrhebolet - Occlici\u00e8res - Tullongues - Palmiers - Chimodiens  \nRouges -  \nNombreusescrampesaucapl'Abeille  \n\nA pr\u00e9parer  \n[Signaturenonlisible]",
+      "entities": {
+        "dates": [
+          "30 Mars 1881"
+        ]
+      }
+    },
+    {
+      "page_number": "214",
+      "raw_content": "64<sup>e</sup> Sortie\n\n31. Mars 1933\n\n**Coup de chalut**\n\n**Vari\u00e9t\u00e9s \u00e0 bord :** l'\u00c9quipage\n\n**Localit\u00e9 :** au large dans le sud\n\n**R\u00e9sultat :** C\u00e9phalopodes - Mollusques nudibranches\n\n**Nom de l'exp\u00e9dition :**  \n\n_\\[Signature ind\u00e9chiffrable\\]_",
+      "cleaned_content": "64<sup>e</sup> Sortie\n\n31. Mars 1933\n\n**Coupdechalut**\n\n**Vari\u00e9t\u00e9s \u00e0 bord :** l'\u00c9quipage\n\n**Localit\u00e9 :** aulargedanslesud\n\n**R\u00e9sultat :** C\u00e9phalopodes - Mollusquesnudibranches\n\n**Nomdel'exp\u00e9dition :**  \n\n_\\[Signatureind\u00e9chiffrable\\]_",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "215",
+      "raw_content": "```plaintext\n6 j\u00b0 d'ao\u00fbt\n1\u00b0 avril 1889\nComp de Port Faid - Riche poisson\n\u00c9coutill\u00e9s bord : l'\u00c9quipage\nLocalit\u00e9 : convention\nR\u00e9sultats : petite p\u00e2les - radiolaires - Peridinium\nRhigortene\n\n__________\nM. Kendrick\n```",
+      "cleaned_content": "```plaintext\n6 j\u00b0 d'ao\u00fbt\n1\u00b0 avril 1889\nCompde Port Faid - Richepoisson\n\u00c9coutill\u00e9sbord : l'\u00c9quipage\nLocalit\u00e9 : convention\nR\u00e9sultats : petitep\u00e2les - radiolaires - Peridinium\nRhigortene\n\n__________\nM. Kendrick\n```",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "216",
+      "raw_content": "66<sup>e</sup> Sortie  \n3. avril 1989  \n\nCCoup de chalut  \n\nEtriament \u00e0 bord de l'\u00c9quipage  \n\nLocalit\u00e9: \u00e0 3 milles down le soud un fond de Boy Sandy  \n\nR\u00e9sultat:  \nPoulpe, Ech. arectte, Sanctis  \nCethus, Ploerobranchus, Brongies  \nGral revolver  ",
+      "cleaned_content": "66<sup>e</sup> Sortie  \n3. avril 1989  \n\nCCoupdechalut  \n\nEtriament \u00e0 borddel'\u00c9quipage  \n\nLocalit\u00e9: \u00e0 3 millesdownlesoudunfondde Boy Sandy  \n\nR\u00e9sultat:  \nPoulpe, Ech. arectte, Sanctis  \nCethus, Ploerobranchus, Brongies  \nGralrevolver",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "217",
+      "raw_content": "67<sup>e</sup> Sortie  \n7 Avril 1889  \n\nCoup du chalut  \nLocalit\u00e9: Embouchure de L\u00e9ch  \nStraint en bord: l'Equipage  \nR\u00e9sultat: 2 C\u00e9thys - In\u00e9br\u00eates - Murens  \nCrangons  \n\nA ton de Br\u00e9duction  \n\n[Koutier] ",
+      "cleaned_content": "67<sup>e</sup> Sortie  \n7 Avril 1889  \n\nCoupduchalut  \nLocalit\u00e9: Embouchurede L\u00e9ch  \nStraintenbord: l'Equipage  \nR\u00e9sultat: 2 C\u00e9thys - In\u00e9br\u00eates - Murens  \nCrangons  \n\nA tonde Br\u00e9duction  \n\n[Koutier]",
+      "entities": {
+        "dates": [
+          "7 Avril 1889"
+        ]
+      }
+    },
+    {
+      "page_number": "218",
+      "raw_content": "68<sup>e</sup> Sortie  \n10 avril 1899  \n\nCoup de chalut.  \n\nLocalit\u00e9:  au large du cap Arbeboeuf.  \nFaisaient \u00e0 bord: l'\u00e9quipage de M. M\u00fcller  \nR\u00e9sultat: Soulphures. Holothuries. Asterins.  \nVoyage de pr\u00e9paration.  \n\nPierrot  \n",
+      "cleaned_content": "68<sup>e</sup> Sortie  \n10 avril 1899  \n\nCoupdechalut.  \n\nLocalit\u00e9:  aulargeducap Arbeboeuf.  \nFaisaient \u00e0 bord: l'\u00e9quipagede M. M\u00fcller  \nR\u00e9sultat: Soulphures. Holothuries. Asterins.  \nVoyagedepr\u00e9paration.  \n\nPierrot",
+      "entities": {
+        "dates": [
+          "10 avril 1899"
+        ]
+      }
+    },
+    {
+      "page_number": "219",
+      "raw_content": "69 Sortie  \n\nDimanche 12 avril 85  \n\nCoup de chalut  \n\n\u00c9triment \u00e0 bord: L'\u00e9quipage  \n\nLocalit\u00e9. Plateaux de corbeilles.  \n\nR\u00e9sultat. Dynam\u00e9dies - Leichen - Sib\u00e9rines  \n\nCrabes divers - Episques \u00e0 pontoniens  \n\nA fond de r\u00e9paration  \n\nSignature de l'exp\u00e9diteur.  ",
+      "cleaned_content": "69 Sortie  \n\nDimanche 12 avril 85  \n\nCoupdechalut  \n\n\u00c9triment \u00e0 bord: L'\u00e9quipage  \n\nLocalit\u00e9. Plateauxdecorbeilles.  \n\nR\u00e9sultat. Dynam\u00e9dies - Leichen - Sib\u00e9rines  \n\nCrabesdivers - Episques \u00e0 pontoniens  \n\nA fondder\u00e9paration  \n\nSignaturedel'exp\u00e9diteur.",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "220",
+      "raw_content": "```\n'10' Sorti\n20 avril 1845.\nCouplement deuts au large pour des \"umanipples\"\n\nContre-maitre (sous)\nEquipage\n\nGros                             +/- un peu large\n\nP\u00e9roulat                               16 \"umanuples\" - pannolushgeersogemes\nnombrem uxuills          r\u00e9mont\u00e9s\n\nCertification\nPP.\n```\n\n*Le texte est transcrit fid\u00e8lement, avec conservation des \u00e9l\u00e9ments sp\u00e9cifiques tels que les abr\u00e9viations et erreurs d\u2019orthographe propres \u00e0 l'\u00e9poque.*",
+      "cleaned_content": "```\n'10' Sorti\n20 avril 1845.\nCouplementdeutsaulargepourdes \"umanipples\"\n\nContre-maitre (sous)\nEquipage\n\nGros                             +/- unpeularge\n\nP\u00e9roulat                               16 \"umanuples\" - pannolushgeersogemesnombremuxuillsr\u00e9mont\u00e9s\n\nCertification\nPP.\n```\n\n*Letexteesttranscritfid\u00e8lement, avecconservationdes \u00e9l\u00e9mentssp\u00e9cifiquestelsquelesabr\u00e9viationseterreursd\u2019orthographepropres \u00e0 l'\u00e9poque.*",
+      "entities": {
+        "dates": [
+          "20 avril 1845"
+        ]
+      }
+    },
+    {
+      "page_number": "221",
+      "raw_content": "71 Sorhe  \n21 oube 1889  \n\nRecherche mineure Port Saunders  \n\nGlavis ax remis CLUB adjointe  \n\nRenouvel \u00e9 30 peninelle  \n\nLe pr\u00e9parations  \n\nY grenin  ",
+      "cleaned_content": "71 Sorhe  \n21 oube 1889  \n\nRecherchemineure Port Saunders  \n\nGlavisaxremis CLUB adjointe  \n\nRenouvel \u00e9 30 peninelle  \n\nLepr\u00e9parations  \n\nY grenin",
+      "entities": {
+        "dates": [
+          "21 oube 1889"
+        ]
+      }
+    },
+    {
+      "page_number": "222",
+      "raw_content": "E. Sortie\n\n22 avril 1985\n\nCoup de chaleur\n\nVari\u00e9es \u00e0 bord : \u00e9quipage\n\nLocalit\u00e9 : dans le Sud\n\nR\u00e9sultat : Election - 1 victoire - stopper\n\nMottlingues\n\nHans de Schirrich\n\nH. Breton",
+      "cleaned_content": "E. Sortie\n\n22 avril 1985\n\nCoupdechaleur\n\nVari\u00e9es \u00e0 bord : \u00e9quipage\n\nLocalit\u00e9 : dansle Sud\n\nR\u00e9sultat : Election - 1 victoire - stopper\n\nMottlingues\n\nHansde Schirrich\n\nH. Breton",
+      "entities": {
+        "dates": [
+          "22 avril 1985"
+        ]
+      }
+    },
+    {
+      "page_number": "223",
+      "raw_content": "73\u00b0 Sortie\n\n24 avril 1989\n\nCorps de Cholus  \nStation \u00e0 bord: l'\u00c9quipage  \nLocalit\u00e9: Espace Hansen par don uniquely\n\nR\u00e9sultats: Archopores - Eledonies - \u00c9ponges  \nagglom\u00e9r\u00e9es - gorgons\n\nNom de l'\u00e9quipement  \n[M. Coustenau]",
+      "cleaned_content": "73\u00b0 Sortie\n\n24 avril 1989\n\nCorpsde Cholus  \nStation \u00e0 bord: l'\u00c9quipage  \nLocalit\u00e9: Espace Hansenpardonuniquely\n\nR\u00e9sultats: Archopores - Eledonies - \u00c9pongesagglom\u00e9r\u00e9es - gorgons\n\nNomdel'\u00e9quipement  \n[M. Coustenau]",
+      "entities": {
+        "dates": [
+          "24 avril 1989"
+        ]
+      }
+    },
+    {
+      "page_number": "224",
+      "raw_content": "### Contenu du journal de navigation historique :\n\n---\n\n**J. H. Sortie**\n\n**27 avril 1789**\n\n**Coup de chalut**\n\n**\u00c9taient \u00e0 bord :** l'\u00c9quipage\n\n**Locale :** en face la Plage d'Argelli par 2 f. smellung\n\n**R\u00e9sultat :** \u00c9ledones, icheth \u2013 Libicus, Kethys\n\n---\n\n**Nom de l'\u00e9quipement**\n\n**[Signature illisible]**\n\n---\n\n**Fin du document**  ",
+      "cleaned_content": "### Contenudujournaldenavigationhistorique :\n\n---\n\n**J. H. Sortie**\n\n**27 avril 1789**\n\n**Coupdechalut**\n\n**\u00c9taient \u00e0 bord :** l'\u00c9quipage\n\n**Locale :** enfacela Plaged'Argellipar 2 f. smellung\n\n**R\u00e9sultat :** \u00c9ledones, icheth \u2013 Libicus, Kethys\n\n---\n\n**Nomdel'\u00e9quipement**\n\n**[Signatureillisible]**\n\n---\n\n**Findudocument**",
+      "entities": {
+        "dates": [
+          "27 avril 1789"
+        ]
+      }
+    },
+    {
+      "page_number": "225",
+      "raw_content": "**75<sup>e</sup> Sortie**\n\n29 Avril 1885\n\nCoups de chalut et rembarquement de poissons\n\nLocalit\u00e9 : au large de Bengalis et \u00e0 Port-Weilles\n\nArrivent \u00e0 bord : l'\u00c9quipage\n\nR\u00e9mouier - Ispochinno - Moelasque (Poissonnier)\n\nNom du Capitaine : Poiret bernard",
+      "cleaned_content": "**75<sup>e</sup> Sortie**\n\n29 Avril 1885\n\nCoupsdechalutetrembarquementdepoissons\n\nLocalit\u00e9 : aulargede Bengaliset \u00e0 Port-Weilles\n\nArrivent \u00e0 bord : l'\u00c9quipage\n\nR\u00e9mouier - Ispochinno - Moelasque (Poissonnier)\n\nNomdu Capitaine : Poiretbernard",
+      "entities": {
+        "dates": [
+          "29 Avril 1885"
+        ]
+      }
+    },
+    {
+      "page_number": "226",
+      "raw_content": "76e. Sortie  \n1<sup>er</sup> Mai 1889  \n\nCorps de chalut  \nMan\u0153uvres \u00e0 bord. Equipage  \nLocalit\u00e9 : au large de Port-Vendres  \nR\u00e9sultats :  \nGledius \u2013 Gethys \u2013 Suberina  \nDylyceridus \u2013 adamsii \u2013 1. Ditreptus  \n\nH. de Paravy  \nH. Fructus",
+      "cleaned_content": "76e. Sortie  \n1<sup>er</sup> Mai 1889  \n\nCorpsdechalut  \nMan\u0153uvres \u00e0 bord. Equipage  \nLocalit\u00e9 : aulargede Port-Vendres  \nR\u00e9sultats :  \nGledius \u2013 Gethys \u2013 Suberina  \nDylyceridus \u2013 adamsii \u2013 1. Ditreptus  \n\nH. de Paravy  \nH. Fructus",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "227",
+      "raw_content": "77<sup>e</sup> Sortie  \n4 Mai 1889  \n\nCoups de chalut  \nCoviens \u00e0 bord : l'Equipage  \nLocalit\u00e9 : en Fr. (France) Court-Vendre  \nR\u00e9sultat : Eleodorus - Dynamides - Darbites  \n1 Celypris - Dapis - Upion  \n\nle capitaine  \n[Signature]  \n",
+      "cleaned_content": "77<sup>e</sup> Sortie  \n4 Mai 1889  \n\nCoupsdechalut  \nCoviens \u00e0 bord : l'Equipage  \nLocalit\u00e9 : en Fr. (France) Court-Vendre  \nR\u00e9sultat : Eleodorus - Dynamides - Darbites  \n1 Celypris - Dapis - Upionlecapitaine  \n[Signature]",
+      "entities": {
+        "dates": [
+          "4 Mai 1889"
+        ]
+      }
+    },
+    {
+      "page_number": "228",
+      "raw_content": "```plaintext\nEpe Sortie\n\n9. Mars 1915\n\nCoup de balourd\n\nArrivant \u00e0 bord: l'\u00e9quipage\n\nLocalit\u00e9: enfoncement Pontiles.\n\nResultat: Le balourd s'\u00e9tant envol\u00e9 on a d\u00fb migrer de le touer \u00e0 un mur \u00e0 Pontiles et la majeure partie du matignon a \u00e9t\u00e9 perdue; le balourd du matignon a \u00e9t\u00e9 endommag\u00e9.\n2 cathys - Phyllidies - Ignace.\n\nLe pauvreduc\n\nL'hon\n\nTT 004 5 600\n```\n```",
+      "cleaned_content": "```plaintext\nEpe Sortie\n\n9. Mars 1915\n\nCoupdebalourd\n\nArrivant \u00e0 bord: l'\u00e9quipage\n\nLocalit\u00e9: enfoncement Pontiles.\n\nResultat: Lebalourds'\u00e9tantenvol\u00e9 ona d\u00fb migrerdeletouer \u00e0 unmur \u00e0 Pontilesetlamajeurepartiedumatignona \u00e9t\u00e9 perdue; lebalourddumatignona \u00e9t\u00e9 endommag\u00e9.\n2 cathys - Phyllidies - Ignace.\n\nLepauvreduc\n\nL'hon\n\nTT 004 5 600\n```\n```",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "229",
+      "raw_content": "```plaintext\n7 g'dorti\n\n7. Mars 1885\n\nCoupe chalut\n\nVo\u00efvend \u00e0 bord. d'\u00c9quipage\n\nLocalit\u00e9 : au large de Bangui\n\nR\u00e9sultat : 3 pelicans actites. 1 bandeau\n\nle Capitaine\n\nH.[signature]\n```",
+      "cleaned_content": "```plaintext\n7 g'dorti\n\n7. Mars 1885\n\nCoupechalut\n\nVo\u00efvend \u00e0 bord. d'\u00c9quipage\n\nLocalit\u00e9 : aulargede Bangui\n\nR\u00e9sultat : 3 pelicansactites. 1 bandeaule Capitaine\n\nH.[signature]\n```",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "230",
+      "raw_content": "J\u00b0 de Sortie  \n8 Mai 1899  \n\nCorps de chalut  \n\nTravail \u00e0 bord : l'\u00c9quipage  \n\nLocale : Dans le sud et dans le nord  \n\nR\u00e9sultat : C\u00e9thys - Suberites - Poulpes  \n1 admettre  \n\nLe Responsable  \nS. Pontow  ",
+      "cleaned_content": "J\u00b0 de Sortie  \n8 Mai 1899  \n\nCorpsdechalut  \n\nTravail \u00e0 bord : l'\u00c9quipage  \n\nLocale : Danslesudetdanslenord  \n\nR\u00e9sultat : C\u00e9thys - Suberites - Poulpes  \n1 admettre  \n\nLe Responsable  \nS. Pontow",
+      "entities": {
+        "dates": [
+          "8 Mai 1899"
+        ]
+      }
+    },
+    {
+      "page_number": "231",
+      "raw_content": "**9. mai 1828**\n\nle B\u00e2timent est alli \u00e0 Port-Vendres pour  \nchercher de Fusseuelles.  \n\nEtendent des l'\u00c9quipage  \n\nR\u00e9sultat :  \n23 Fusseuelles  \n3 Ba-listis  \n99 Aplyc.  \n\nLe Capitaine  \nA. Boulou",
+      "cleaned_content": "**9. mai 1828**\n\nle B\u00e2timentestalli \u00e0 Port-Vendrespourchercherde Fusseuelles.  \n\nEtendentdesl'\u00c9quipage  \n\nR\u00e9sultat :  \n23 Fusseuelles  \n3 Ba-listis  \n99 Aplyc.  \n\nLe Capitaine  \nA. Boulou",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "232",
+      "raw_content": "82e Fortie\n\n13 mai 1889\n\nCoupe oblique et coupe de Prague\n\nLocalit\u00e9 : Cap larbor\u00e9 - 1/2 bonne des sann\u00e9es\n\nMat\u00e9riel \u00e0 bord : l'\u00e9quipage\n\nR\u00e9sultats :\n\nNombreuses adamina - 3 tethys\n\nAsteria - actinopetes\n\nCranus - 3 immarginules - Onistaecusa\n\nle Pr\u00e9paremen\n\nSignature g\u00ean\u00e9e (illisible)",
+      "cleaned_content": "82e Fortie\n\n13 mai 1889\n\nCoupeobliqueetcoupede Prague\n\nLocalit\u00e9 : Caplarbor\u00e9 - 1/2 bonnedessann\u00e9es\n\nMat\u00e9riel \u00e0 bord : l'\u00e9quipage\n\nR\u00e9sultats :\n\nNombreusesadamina - 3 tethys\n\nAsteria - actinopetes\n\nCranus - 3 immarginules - Onistaecusale Pr\u00e9paremen\n\nSignatureg\u00ean\u00e9e (illisible)",
+      "entities": {
+        "dates": [
+          "13 mai 1889"
+        ]
+      }
+    },
+    {
+      "page_number": "233",
+      "raw_content": "83<sup>e</sup> Sortie\n\n18 Mai 1875\n\nCoup de Chalut\n\nVariens \u00e0 bord : l'\u00c9quipage\n\nLocalit\u00e9 : En face d'Elbe preocup\u00e9 avec \n\nR\u00e9sultat : Electricus-Cethys : nombreux Scales & <sup></sup>\n\net...}\n\n\nLe Capitaine\n\nH. Bouton",
+      "cleaned_content": "83<sup>e</sup> Sortie\n\n18 Mai 1875\n\nCoupde Chalut\n\nVariens \u00e0 bord : l'\u00c9quipage\n\nLocalit\u00e9 : Enfaced'Elbepreocup\u00e9 avec \n\nR\u00e9sultat : Electricus-Cethys : nombreux Scales & <sup></sup>\n\net...}\n\n\nLe Capitaine\n\nH. Bouton",
+      "entities": {
+        "dates": [
+          "18 Mai 1875"
+        ]
+      }
+    },
+    {
+      "page_number": "234",
+      "raw_content": "84<sup>e</sup> Sortie  \n20 mars 1881  \n\nCoup de Chalut  \nLocalit\u00e9: a l'an\u00e9 de Bayonne  \n\u00c9trier sur bord. l'\u00c9quipage  \nR\u00e9sultats: \u00c9lodines - Semeistres, quelques adauxin  \nCatrys - 1 \u00e0 Par\u00e8s.  \n\nLe Pr\u00e9pareuis  \nH. de Santon  ",
+      "cleaned_content": "84<sup>e</sup> Sortie  \n20 mars 1881  \n\nCoupde Chalut  \nLocalit\u00e9: al'an\u00e9 de Bayonne  \n\u00c9triersurbord. l'\u00c9quipage  \nR\u00e9sultats: \u00c9lodines - Semeistres, quelquesadauxin  \nCatrys - 1 \u00e0 Par\u00e8s.  \n\nLe Pr\u00e9pareuis  \nH. de Santon",
+      "entities": {
+        "dates": [
+          "20 mars 1881"
+        ]
+      }
+    },
+    {
+      "page_number": "235",
+      "raw_content": "85\u00b0 Jorlie  \n\n22 Mai 1885  \n\nCoup de Chalut  \n\u00c9taient \u00e0 bord: L'\u00e9quipage  \nLocalit\u00e9: en cap Corbin  \nR\u00e9sultat: 2 Petros - nombreux radisics  \n\nLe Capitaine  \n[Signature]  ",
+      "cleaned_content": "85\u00b0 Jorlie  \n\n22 Mai 1885  \n\nCoupde Chalut  \n\u00c9taient \u00e0 bord: L'\u00e9quipage  \nLocalit\u00e9: encap Corbin  \nR\u00e9sultat: 2 Petros - nombreuxradisics  \n\nLe Capitaine  \n[Signature]",
+      "entities": {
+        "dates": [
+          "22 Mai 1885"
+        ]
+      }
+    },
+    {
+      "page_number": "236",
+      "raw_content": "86e Sortie  \n23 Mai 1885.  \n\nCoup de Faubert  \n\n\u00c9taient \u00e0 bord. L'\u00e9quipage  \n\nLocalit\u00e9 : Bande Dg\u00e9cone  \n\nR\u00e9sultat : 20 Dor\u00e9tiants - 3 \u00c9marginementes - 1 Etonnerens.  \nPurprimers - 1 Dor\u00e9.  \n\nM'Empereur  \nH lieutenant",
+      "cleaned_content": "86e Sortie  \n23 Mai 1885.  \n\nCoupde Faubert  \n\n\u00c9taient \u00e0 bord. L'\u00e9quipage  \n\nLocalit\u00e9 : Bande Dg\u00e9cone  \n\nR\u00e9sultat : 20 Dor\u00e9tiants - 3 \u00c9marginementes - 1 Etonnerens.  \nPurprimers - 1 Dor\u00e9.  \n\nM'Empereur  \nH lieutenant",
+      "entities": {
+        "dates": [
+          "23 Mai 1885"
+        ]
+      }
+    },
+    {
+      "page_number": "237",
+      "raw_content": "Margentie  \n29 mai 1824  \n\nCompagnie Hannibal & corps de Filet Koll  \nLocalit\u00e9 : Basse du Bombin  \nVraiment arr\u00eat\u00e9 : l'\u00c9quipage  \nResum\u00e9o :  \nEmbarqu\u00e9e - gorg\u00e9es  \nles restes des riches pilasges qu'ils  \nnombraium long de aunt-cei blanches  \nomnibuus icq et gler penian et auisiant vengrois et  \nroubers deux pill\u00e9es.  \n\nle Sur-cantera  \nM. (signature)",
+      "cleaned_content": "Margentie  \n29 mai 1824  \n\nCompagnie Hannibal & corpsde Filet Koll  \nLocalit\u00e9 : Bassedu Bombin  \nVraimentarr\u00eat\u00e9 : l'\u00c9quipage  \nResum\u00e9o :  \nEmbarqu\u00e9e - gorg\u00e9eslesrestesdesrichespilasgesqu'ilsnombraiumlongdeaunt-ceiblanchesomnibuusicqetglerpenianetauisiantvengroisetroubersdeuxpill\u00e9es.  \n\nle Sur-cantera  \nM. (signature)",
+      "entities": {
+        "dates": [
+          "29 mai 1824"
+        ]
+      }
+    },
+    {
+      "page_number": "238",
+      "raw_content": "3<sup>e</sup> Armement  \nLe 12 Octobre 1885  \n\nPatron: Bonafos Jean  \nMatelots:  \n- Rocaries Joseph  \n- Cazales Antoine  \nMousse: Bailly Jean  ",
+      "cleaned_content": "3<sup>e</sup> Armement  \nLe 12 Octobre 1885  \n\nPatron: Bonafos Jean  \nMatelots:  \n- Rocaries Joseph  \n- Cazales Antoine  \nMousse: Bailly Jean",
+      "entities": {
+        "dates": [
+          "12 Octobre 1885"
+        ]
+      }
+    },
+    {
+      "page_number": "239",
+      "raw_content": "1<sup>re</sup> Sortie\n\nLe 13 f\u00e9vrier 1892\n\nCoupe de chalut\n\nRaviennent au largue de Port-Vendres\n\n\u00c9taient \u00e0 bord : l'Qui Huawei\n\nR\u00e9sultaient : As\u00e9diers, Compagnon, Orthaux,\n\nH\u00f4tiers, Adamina, etc,\n\nA. pr\u00e9garatien\n\n__________________",
+      "cleaned_content": "1<sup>re</sup> Sortie\n\nLe 13 f\u00e9vrier 1892\n\nCoupedechalut\n\nRaviennentaularguede Port-Vendres\n\n\u00c9taient \u00e0 bord : l'Qui Huawei\n\nR\u00e9sultaient : As\u00e9diers, Compagnon, Orthaux,\n\nH\u00f4tiers, Adamina, etc,\n\nA. pr\u00e9garatien\n\n__________________",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "240",
+      "raw_content": "22 Frimaire 1899\n\nCoups de chalut  \nAu large du Cap l'abeille  \nEtendu \u00e0 bord. L'\u00c9quipage  \nR\u00e9sultat: Asodies - \u00c9ch. Aboutes  \nHolothuries - Crabes\n\nle pr\u00e9paration  \n[Signature]",
+      "cleaned_content": "22 Frimaire 1899\n\nCoupsdechalut  \nAulargedu Capl'abeille  \nEtendu \u00e0 bord. L'\u00c9quipage  \nR\u00e9sultat: Asodies - \u00c9ch. Aboutes  \nHolothuries - Crabeslepr\u00e9paration  \n[Signature]",
+      "entities": {
+        "dates": [
+          "22 Frimaire 1899"
+        ]
+      }
+    },
+    {
+      "page_number": "241",
+      "raw_content": "3<sup>e</sup> Sortie\n\nCoups de Fanaught  \nParage des Cidaris  \n\u00c9taient \u00e0 bord: l'\u00c9quipage  \nR\u00e9sultat: 2 prisonniers \u2013 Doris\n\nle prittirmnari  \nJ. Picture",
+      "cleaned_content": "3<sup>e</sup> Sortie\n\nCoupsde Fanaught  \nParagedes Cidaris  \n\u00c9taient \u00e0 bord: l'\u00c9quipage  \nR\u00e9sultat: 2 prisonniers \u2013 Dorisleprittirmnari  \nJ. Picture",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "242",
+      "raw_content": "L'Esortie  \n27 juin 1899  \n\nTerre-Neuve  \n\nP\u00eache des Cidaris  \n\nEtudiant \u00e0 bord : l'\u00c9quipage  \n\nR\u00e9sultat :  \n2 Cidaris - 1 Eumarginula  \n1 Fissurella - 2 gast\u00e9ropodes  \n\nAm.  \n\nL pr\u00e9sident  \n\nY. Ros Por  ",
+      "cleaned_content": "L'Esortie  \n27 juin 1899  \n\nTerre-Neuve  \n\nP\u00eachedes Cidaris  \n\nEtudiant \u00e0 bord : l'\u00c9quipage  \n\nR\u00e9sultat :  \n2 Cidaris - 1 Eumarginula  \n1 Fissurella - 2 gast\u00e9ropodes  \n\nAm.  \n\nL pr\u00e9sident  \n\nY. Ros Por",
+      "entities": {
+        "dates": [
+          "27 juin 1899"
+        ]
+      }
+    },
+    {
+      "page_number": "243",
+      "raw_content": "5<sup>e</sup> Sortie  \ndu  \n9<sup> </sup> plv 1829  \n\nCharlut.  \n\nLocalit\u00e9. Nord de Port Vendres au large.  \n\n\u00c9taient \u00e0 bord. L'\u00c9quipage.  \n\nR\u00e9sultat. Nickopous Executus Arsenides.  \n\nle pr\u00e9parateur  \nF. Roubot.  ",
+      "cleaned_content": "5<sup>e</sup> Sortiedu  \n9<sup> </sup> plv 1829  \n\nCharlut.  \n\nLocalit\u00e9. Nordde Port Vendresaularge.  \n\n\u00c9taient \u00e0 bord. L'\u00c9quipage.  \n\nR\u00e9sultat. Nickopous Executus Arsenides.  \n\nlepr\u00e9parateur  \nF. Roubot.",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "244",
+      "raw_content": "P. Sortic  \n31 fbr 1879  \n\nChalut  \n\nEn face de Port Vendres  \n\nEt rivant \u00e0 bord: Equipage  \n\nR\u00e9sultat: 1/ Pentecarps (solo) alle  \n\nle pays Agastier  \n\nDerri\u00e8reme Page  \n\no Ilogistre est complet  \n\nde la page 1 \u00e0 476  ",
+      "cleaned_content": "P. Sortic  \n31 fbr 1879  \n\nChalut  \n\nEnfacede Port Vendres  \n\nEtrivant \u00e0 bord: Equipage  \n\nR\u00e9sultat: 1/ Pentecarps (solo) allelepays Agastier  \n\nDerri\u00e8reme Pageo Ilogistreestcompletdelapage 1 \u00e0 476",
+      "entities": {
+        "dates": [
+          "31 fbr 1879"
+        ]
+      }
+    },
+    {
+      "page_number": "245",
+      "raw_content": "(strat\u00e9gie non applicable)",
+      "cleaned_content": "(strat\u00e9gienonapplicable)",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "246",
+      "raw_content": "[Contenu du journal de navigation]",
+      "cleaned_content": "[Contenudujournaldenavigation]",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "247",
+      "raw_content": "En dehors de l'image fournie, le contenu du journal de navigation historique \u00e0 transcrire semble vide de tout texte visible. En cons\u00e9quence, selon les instructions fournies, la r\u00e9ponse est :\n\n**\"\"**",
+      "cleaned_content": "Endehorsdel'imagefournie, lecontenudujournaldenavigationhistorique \u00e0 transcriresemblevidedetouttextevisible. Encons\u00e9quence, selonlesinstructionsfournies, lar\u00e9ponseest :\n\n**\"\"**",
+      "entities": {
+        "dates": []
+      }
+    }
+  ],
+  "metadata": {
+    "years": [
+      "1789",
+      "1813",
+      "1824",
+      "1825",
+      "1843",
+      "1845",
+      "1846",
+      "1853",
+      "1863",
+      "1865",
+      "1875",
+      "1879",
+      "1880",
+      "1881",
+      "1883",
+      "1885",
+      "1886",
+      "1888",
+      "1889",
+      "1899",
+      "1985",
+      "1989"
+    ],
+    "book_name": "05_OOB_01_log"
+  }
+}

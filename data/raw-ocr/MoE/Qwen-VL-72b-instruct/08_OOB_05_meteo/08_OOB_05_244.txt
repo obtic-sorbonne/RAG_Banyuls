@@ -1,0 +1,30 @@
+| Nombre de paix de Bateaux | Matin | Soir |
+|---|---|---|
+| V. 14 Mai 1907 | | |
+| Hauteur Barométrique | 763.0 | |
+| Direction du vent | S. E | |
+| Force | 3 | |
+| Reg. c. (tère) | 60 | |
+| Nébulosité | | |
+| Reg. L. (cmr) | 60 | |
+| Direction des nuages | S. O | |
+| Pluie tombée | " | |
+| Température de l'air | 18.8 | |
+| Hauteur de la mer | 1 fort. | |
+| Agitation de l'eau | 1 | |
+| Densité au bord de la jetée | 1027.4 | |
+| Température de l'eau | 17.1 | |
+| V. 15 Mai 1907 | Matin | Soir |
+| Hauteur Barométrique | 761.3 | 760.6 |
+| Direction du vent | S. E | S. E |
+| Force | 3 | 3 |
+| Reg. c. (tère) | 60 légère | 60 |
+| Nébulosité | | |
+| Reg. L. (cmr) | 60 | 60 |
+| Direction des nuages | S. O | S. O |
+| Pluie tombée | " | " |
+| Température de l'air | 18.7 | 20.3 |
+| Hauteur de la mer | 1 fort. | 1 fort. |
+| Agitation de l'eau | 1 | 1 |
+| Densité au bord de la jetée | 1028.7 | 1028.7 |
+| Température de l'eau | 14.0 | 14.4 |

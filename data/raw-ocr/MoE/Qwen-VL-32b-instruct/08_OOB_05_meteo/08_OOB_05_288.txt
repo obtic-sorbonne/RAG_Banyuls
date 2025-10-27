@@ -1,0 +1,24 @@
+| **Date**      | **Matin** | **Soir** | **Observations** | **Unité** | **Matin** | **Soir** |
+|---------------|-----------|----------|------------------|-----------|-----------|----------|
+| 24 Août 1907  |           |          |                  |           |           |          |
+| Hauteur Barométrique | 767.9 | 766.4 |                  | mmHg     |           |          |
+| Direction du Vent | er.S. | S.E. | 15°/15° Pd |           |           |          |
+| Nebulosité  | 10 | 10 | Reg.c claire |           |           |          |
+| Névés  | 6/0 | 5/4 | Reg.c couv |           |           |          |
+| Température de l'air | 24.4 | 28.8 | °C |         |           |          |
+| Vitesse de la mer | 14.0 | 65.0 | cm/s |           |           |          |
+| Agitation de l'eau | 1 | 1 |           |           |           |          |
+| Vitesse au bord de la jetée | 027.1 | 029.3 | cm/s |           |           |          |
+| Température de l'eau | 21.3 | 23.7 | °C |           |           |          |
+|---------------|-----------|----------|------------------|-----------|-----------|----------|
+| 25 Août 1907  |           |          |                  |           |           |          |
+| Hauteur Barométrique | 768.7 | 767.1 |                  | mmHg     |           |          |
+| Direction du Vent | er.8 | S.1/8 | Nord-Est/15° Pd |           |           |          |
+| Nebulosité  | 0 | 0 | Reg.c claire |           |           |          |
+| Névés  | 0 | 0 | Reg.c couv |           |           |          |
+| Pluie tombée | - | - |                  | cm |           |          |
+| Température de l'air | 23.7 | 29.6 | °C |           |           |          |
+| Vitesse de la mer | 49.7 | 68.0 | cm/s |           |           |          |
+| Agitation de l'eau | faible | faible |                  |           |           |          |
+| Vitesse au bord de la jetée | 1263.9 | 027.0 | cm/s |           |           |          |
+| Température de l'eau | 27.7 | 24.8 | °C |           |           |          |

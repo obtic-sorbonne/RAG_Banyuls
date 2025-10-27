@@ -1,0 +1,30 @@
+# 9. 16 9thai. 1903
+
+|  Hauteur Barométrique | 222,4 | 220,6  |
+| --- | --- | --- |
+|  Direction du vent | cr.cr.0 | 18  |
+|  Force | 3 faible | 1  |
+|  Nébulosité (Reg. O. (terre)) | 0 | 10  |
+|  Nébulosité (Reg. E. (mer)) | 0 | 10  |
+|  Direction des nuages | cr.cr.0 | 20  |
+|  Pluie tombée |  |   |
+|  Température de l'air | 12,0 | 33,8  |
+|  Hauteur de la mer | 81,0 | 68,8  |
+|  Agitation de l'eau | 1 fort | 3 faible  |
+|  Densité au bout de la jetée | 103,3 | 103,0  |
+|  Température de l'eau | 1/1,1 | 1/1,9  |
+
+# 17 9thai. 1903
+
+|  Hauteur Barométrique | 262,3 |   |
+| --- | --- | --- |
+|  Direction du vent | cr. 8 |   |
+|  Force | 1 |   |
+|  Nébulosité (Reg. O. (terre)) |  |   |
+|  Nébulosité (Reg. E. (mer)) |  |   |
+|  Pluie tombée |  |   |
+|  Température de l'air | 16,6 |   |
+|  Pluie tombée | 1/1,6 |   |
+|  Agitation de l'eau | 1 r faible |   |
+|  Densité au bout de la jetée | 103,0 |   |
+|  Température de l'eau | 1/1,4 |   |

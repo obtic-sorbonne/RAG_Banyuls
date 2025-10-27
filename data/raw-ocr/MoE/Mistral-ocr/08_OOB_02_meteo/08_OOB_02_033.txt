@@ -1,0 +1,18 @@
+# Date: 12 Avril 1901
+
+|  Nom | Date | Type  |
+| --- | --- | --- |
+|  Houtan Paronetique | 9" matin | 3" Soir  |
+|  Direction du vent | 755,6 | 756,4  |
+|  Force | Nord | Nord  |
+|  Reg. O. (livre) | 2 jours | 4 fuible  |
+|  Pédon | 10 | 10  |
+|  Reg. E. (mor) |  |   |
+|  Direction des nuages | 1000 | 1000  |
+|  Unie tombe |  | 1,875  |
+|  Température de l'air | 14,0 | 13,7  |
+|  Houtan de la mer | 44,6 | 47,8  |
+|  Opération de l'eau | 1 | 2 fuible  |
+|  Densité de l'eau | 1028,0 | 1027,9  |
+|  |   |   |
+|  Température de l'eau | 13,3 | 12,4  |

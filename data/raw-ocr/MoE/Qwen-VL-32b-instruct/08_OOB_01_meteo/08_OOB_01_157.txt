@@ -1,0 +1,23 @@
+# Date. 30 Dicembre. 1900.
+
+9" Nibalin 3" Soir.
+
+|  |   |
+| --- | --- |
+|  Hantour Marométrique | 700,7  |
+|  Direction du vent | nord  |
+|  Force | 2 fort  |
+|  10 |   |
+|  Pibulosite | 10  |
+|  10 |   |
+|  Direction des nuages | nord  |
+|  Flux lombic |   |
+|  Température de l'air | 16,8  |
+|  1 |   |
+|  Hantour de la mer | 03,1  |
+|  Agitation de l'eau | 1 fort  |
+|  1 | 1089,0  |
+|  Densité de l'eau | 1  |
+|  1 |   |
+|  2 |   |
+|  Température de l'eau | 18,8  |

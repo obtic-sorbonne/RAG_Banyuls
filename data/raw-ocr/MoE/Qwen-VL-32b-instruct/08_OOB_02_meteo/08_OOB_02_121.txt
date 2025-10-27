@@ -1,0 +1,17 @@
+# Date - 10 Juillet - 1901
+
+|  Item | Q.  |
+| --- | --- |
+|  Hauteur Parométrique | 361.2  |
+|  Direction Su vent | N.N.O  |
+|  Force | 3 fort  |
+|  Pég. O. (terre) | 1  |
+|  Ébulovite | 10  |
+|  Direction des nuages | 361.2  |
+|  Puie tombée | N.N.O  |
+|  Température de l'air | 27.3  |
+|  Hauteur de la mer | 50.3  |
+|  Âquitation de l'eau | 3 fort  |
+|  Densité de l'eau | 1027.7  |
+|  Énergie | 1027.5  |
+|  Température de l'eau | 20.1  |

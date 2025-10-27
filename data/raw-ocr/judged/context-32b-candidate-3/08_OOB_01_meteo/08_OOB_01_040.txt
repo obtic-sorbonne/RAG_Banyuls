@@ -1,0 +1,25 @@
+```
+Observations du 15 Septembre 1900
+
+|  Heure  |  Baromètre  |  Direction du vent | Force  |
+| --- | --- | --- | --- |
+|  6 h.  | 0,34  |  |  |
+|  8 h.  | 0,34  |  |  |
+|  8 h 45  | 0,39  |  |  |
+|  9 h 45  | 0,34  |  |  |
+|  6 h.  | 0,31  |  |  |
+|  7 h 45  | 0,32  |  |  |
+|  8 h 45  | 0,34  |  |  |
+|  9 h 46  | 0,40  |  |  |
+|  10 h.  | 0,41  |  |  |
+|  11 h 41  | 0,40  |  |  |
+|  1 h 43  | 0,44  |  |  |
+|  9 h 4 s.  | 0,43  |  |  |
+|  3 h 41  | 0,41  |  |  |
+|  4 h 41  | 0,40  |  |  |
+|  5 h 43  | 0,39  |  |  |
+|  6 h 41  | 0,38  |  |  |
+|  8 h 44  | 0,38 à 0,39  |  |  |
+
+Observat. — a 11 h/7 m. p.p. coup de lumineux. et pleine nébule jusque à 1 heure environ.
+```

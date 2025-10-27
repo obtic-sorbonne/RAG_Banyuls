@@ -1,0 +1,31 @@
+```plaintext
+|  V. 7 Juillet - 1904 | Obatim | Soir  |
+| --- | --- | --- |
+|  Hauteur Barométrique | 767,1 | 767,4  |
+|  Direction du vent |  | 8  |
+|  Force | 0 | 1  |
+|  (Reg. C. (Terre)) | 0 | 0  |
+|  (Reg. C. (Mer)) | 0 | 0  |
+|  Direction des nuages |  |   |
+|  Pluie tombée |  |   |
+|  Température de l'air | 35,1 | 31,1  |
+|  Hauteur de la mer | 19,8 | 46,1  |
+|  (Agitation de l'eau) | 0 | 17 faible  |
+|  Densité au bout de la jetée | 1027,3 | 1026,0  |
+|  Température de l'eau | 34,4 | 37,2  |
+
+|  V. 8 Juillet - 1904 | Obatim | Soir  |
+| --- | --- | --- |
+|  Hauteur Barométrique | 769,6 | 768,4  |
+|  Direction du vent | cr. 8 | 8  |
+|  Force | 1 | 1 fort  |
+|  (Reg. C. (Terre)) | 0 | 0  |
+|  (Reg. C. (Mer)) | 0 | 0  |
+|  Direction des nuages |  |   |
+|  Pluie tombée |  |   |
+|  Température de l'air | 36,4 | 39,8  |
+|  Hauteur de la mer | 18,6 | 46,9  |
+|  (Agitation de l'eau) | 17 faible | 1 faible  |
+|  Densité au bout de la jetée | 1026,2 | 1026,1  |
+|  Température de l'eau | 31,7 | 38,7  |
+```

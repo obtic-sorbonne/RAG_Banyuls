@@ -1,0 +1,29 @@
+|  V. 13 décembre 1907 | Matin | Fair  |
+| --- | --- | --- |
+|  Hauteur Waxomebrique | 707,7 | 708,7  |
+|  Direction du vent | cr.o | cr.o  |
+|  Force | 4 | 3  |
+|  Hébulinite (Reg. G. (terre) | 0 | 4  |
+|  8 | 8 | 8  |
+|  Direction des mages | cr.o | cr.o  |
+|  Plein tombés | 1/1,7 | 1/1,0  |
+|  Température de l'air | 30,3 | 39,0  |
+|  Hauteur de la mer | 2 foot | 2 foot  |
+|  Régilation de l'eau | 1634,4 | 1684,1  |
+|  20min de la part de la jetée | 17,0 | 17,0  |
+|  Température de l'eau | 17,0 | 17,0  |
+
+|  V. 14 décembre 1907 | Matin | Fair  |
+| --- | --- | --- |
+|  Hauteur Waxomebrique | 708,7 | 707,7  |
+|  Direction du vent | cr.o | cr.o  |
+|  Force | 2 foot | 2  |
+|  Hébulinite (Reg. G. (terre) | 166,2 | 0  |
+|  8 | 166,2 | 0  |
+|  Direction des mages | cr.o | cr.o  |
+|  Plein tombés | 1/1,1 | 1/1,4  |
+|  Température de l'air | 16,8 | 39,8  |
+|  Hauteur de la mer | 2 foot | 2 foot  |
+|  Régilation de l'eau | 1681,3 | 1681,3  |
+|  20min de la part de la jetée | 17,4 | 17,4  |
+|  Température de l'eau | 17,4 | 17,4  |

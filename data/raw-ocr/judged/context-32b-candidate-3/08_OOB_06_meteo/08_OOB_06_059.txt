@@ -1,0 +1,23 @@
+```plaintext
+| **OBSERVATIONS DU 9 OCTOBRE 1960** |
+| --- |
+| **Nombre de bateaux sortis (pêche à l.)** | 22,2 |
+| **Température de l'air** |  |
+| - maxima depuis la veille | 22,2 °C |
+| - minima id. | 16,3 °C |
+| **Température de l'eau** |  |
+| - maxima depuis la veille | --- |
+| - minima id. | --- |
+| **Pluie tombée depuis la veille, en millim.** | "1" |
+| **Évaporation depuis le 1900, en millim.** | --- |
+| **Direction du vent (à terre)** | **à 9 h. m.** | **à 3 h. s.** |
+| - Force | N.N.O. | 4 fort. |
+| - Direction des nuages | N.N.O. | --- |
+| - Nébulosité |  |
+| - région Ouest (terre) | 10 | 10 |
+| - id. Est (mer) | 10 | 10 |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro** | --- | --- |
+| **Agitation de l'eau** | 8/jaill. | 8/jaill. |
+| **Densité de l'eau au bout de la jetée** | 1027,4 g/cm³ | 1027,4 g/cm³ |
+| **Température id.** | 18,9 °C | 18,9 °C |
+```

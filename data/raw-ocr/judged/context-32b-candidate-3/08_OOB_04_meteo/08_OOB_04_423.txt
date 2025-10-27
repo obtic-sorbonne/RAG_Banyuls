@@ -1,0 +1,32 @@
+```plaintext
+N. 11 Septembre - 1904 | Matin | Soir  |
+| --- | --- | --- |
+|  Hauteur Praxometrique |  |   |
+|  Direction du vent |  | 10  |
+|  Force |  | 1  |
+|  (Reg. O. (terre)) | Lige |   |
+|  (Reg. E. (mer)) | Lige |   |
+|  Direction des nuages |  | 10  |
+|  (Fluide tombé) |  |   |
+|  Température de l'air |  | 33,1  |
+|  Hauteur de la mer |  | 44,1  |
+|  (Agitation de l'eau) |  | 17,6  |
+|  Densité au bout de la jetée |  | 103,2  |
+|  (Température de l'eau) |  | 38,3  |
+
+N. 12 Septembre - 1904 | Matin | Soir  |
+| --- | --- | --- |
+|  Hauteur Praxometrique |  | 10,6  |
+|  Direction du vent |  | 1,88  |
+|  Force |  | 1,6  |
+|  (Reg. O. (terre)) |  |   |
+|  (Dépôt) |  |   |
+|  (Reg. E. (mer)) |  |   |
+|  Direction des nuages |  | 2,1  |
+|  (Fluide tombé) |  |   |
+|  Température de l'air |  | 34,2  |
+|  Hauteur de la mer |  | 40,1  |
+|  (Agitation de l'eau) |  | 1  |
+|  Densité au bout de la jetée |  | 103,6  |
+|  (Température de l'eau) |  | 31,3  |
+```

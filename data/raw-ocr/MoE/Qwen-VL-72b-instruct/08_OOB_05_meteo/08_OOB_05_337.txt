@@ -1,0 +1,29 @@
+| Matin | V. 3 Janvier 1908 | Soir |
+|-------|-------------------|------|
+| Hauteur Barométrique | 793,1 | 796,0 |
+| Direction du vent | E.S.E | Est |
+| Force | 2 fort | 4 |
+| Deg. C. (Aire) | 10 | 10 |
+| Nébulosité | Reg. X. (mr) |  |
+| Direction des nuages | E.S.E | Est |
+| Pluie tombée | 9, 37/ | 8, 87/ |
+| Température de l'air | 12,3 | 12,1 |
+| Hauteur de la mer | 3 | 3 |
+| Agitation de l'eau | 8 | 8 |
+| Densité au bout de la jetée | 3 | 3 |
+| Température de l'eau | 3 | 3 |
+
+| Matin | V. 4 Janvier 1908 | Soir |
+|-------|-------------------|------|
+| Hauteur Barométrique | 790,3 | 791,3 |
+| Direction du vent | Est | Est |
+| Force | 2 fort | 1 fort |
+| Deg. C. (Aire) | 10 | 10 |
+| Nébulosité | Reg. X. (mr) |  |
+| Direction des nuages | Est | Est |
+| Pluie tombée | 9, 1/ | quelques g. |
+| Température de l'air | 11,4 | 11,7 |
+| Hauteur de la mer | 3 | 3 |
+| Agitation de l'eau | 8 | 9 |
+| Densité au bout de la jetée | 3 | 3 |
+| Température de l'eau | 3 | 3 |

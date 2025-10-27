@@ -1,0 +1,17 @@
+# Date: 20 Août 1901
+
+|  Name | Date | Vade  |
+| --- | --- | --- |
+|  Hauteur Paramebrique | 9th Matin, 3rd Soir | 765,4  |
+|  Direction du vent | N.E | 5.S.E  |
+|  Force | 1st Pont | 17.707  |
+|  Hébulosité | Reg. C. (1ère) | 3djcu  |
+|  Débulosité | Reg. E. (mer) | 3djcu  |
+|  Direction des nuages |  |   |
+|  Huie tombée |  |   |
+|  Température de l'air | 31,3 | 37,9  |
+|  Hauteur de la mer | 47,3 | 53,3  |
+|  Acitution de l'eau | 17.707 | 0  |
+|  Densité de l'eau | au bout de la pièce | 1025,3  |
+|  Densité de l'eau | au charge | 31,7  |
+|  Température de l'eau | 31,7 | 34,0  |

@@ -1,0 +1,31 @@
+| V. 6 Juin 1907 | Matin | Soir |
+|---|---|---|
+| Hauteur Barométrique | 769.3 |  |
+| Direction du vent | cr.n.o |  |
+| Force | 3 fort |  |
+| Nébulosité | Reg. C. (clair) | 40 |
+|  |  |  |
+| Nébulosité | Reg. E. (nu) | 10 |
+| Direction des nuages |  |  |
+| Pluie tombée |  |  |
+| Température de l'air | 19.3 |  |
+| Hauteur de la mer | 195.8 |  |
+| Agitation de l'eau | 2 fort |  |
+| Densité au cours de la jete | 1028.0 |  |
+| Température de l'eau | 16.9 |  |
+|  |  |  |
+| V. 7 Juin 1907 | Matin | Soir |
+|---|---|---|
+| Hauteur Barométrique | 764.7 | 763.8 |
+| Direction du vent | cr.o.s | 8.cr.5 |
+| Force | 2 | 1 fort |
+| Nébulosité | Reg. C. (clair) | 0 |
+|  |  |  |
+| Nébulosité | Reg. E. (nu) | 2 |
+| Direction des nuages |  |  |
+| Pluie tombée |  |  |
+| Température de l'air | 30.4 | 27.3 |
+| Hauteur de la mer | 195.2 |  |
+| Agitation de l'eau | 1 fort | 1 faible |
+| Densité au cours de la jete | 1028.2 |  |
+| Température de l'eau | 17.9 |  |

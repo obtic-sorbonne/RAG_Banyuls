@@ -1,0 +1,31 @@
+# 13 Juillet 1907
+
+|  Hauteur | Niveau | Prix  |
+| --- | --- | --- |
+|  Direction des Pont | A | 707,6  |
+|  Force | 1 | 1,80  |
+|  Nébulosité | 0 | 0  |
+|  Direction des Images | 0 | 0  |
+|  Phie Tombe | 1 | 1  |
+|  Température de l'air | 21,3 | 89,5  |
+|  Hauteur de la mer | 1945 | 71,0  |
+|  Régitalisation de l'eau | 0 | 17,80  |
+|  Densité au bout de la jetée | 1087,6 | 1087,6  |
+|  Température de l'eau | 19,6 | 20,7  |
+
+# 14 Juillet 1907
+
+|  Hauteur | Niveau | Prix  |
+| --- | --- | --- |
+|  Direction des Pont | A | 707,6  |
+|  Force | 1 | 1,80  |
+|  Nébulosité | 0 | 0  |
+|  Direction des Images | 0 | 0  |
+|  Phie Tombe | 1 | 1  |
+|  Température de l'air | 21,3 | 89,5  |
+|  Hauteur de la mer | 1945 | 71,0  |
+|  Régitalisation de l'eau | 0 | 17,80  |
+|  Densité au bout de la jetée | 1087,6 | 1087,6  |
+|  Température de l'eau | 19,6 | 20,7  |
+
+# 15 Juillet 1907

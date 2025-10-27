@@ -1,0 +1,43 @@
+| **1901-03-31** |
+| --- |
+| **Nombre de bateaux sortis (pêche à la trame)** | 38 |
+| **Température de l'air** |
+|   **maxima depuis la veille** | 16.6 |
+|   **minima id.** | 8.0 |
+| **Température de l'eau** |
+|   **maxima depuis la veille** |  |
+|   **minima id.** |  |
+| **Pluie tombée depuis la veille, en millim.** |  |
+| **Evaporation depuis le 190 , en millim.** |  |
+| **Direction du vent (à terre)** | **à 9 h. m.** | **à 3 h. s.** |
+| **Force** | faible | 2 |
+| **Direction des nuages** | S.S.O | S.S.O |
+| **Nébulosité (showers)** |
+|   **région Ouest (terre)** | 10 | 10 |
+|   **id. Est (mer)** | 10 | 10 |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.)** | 17.1 | 9'9 |
+| **Agitation de l'eau** | 2 faibles | 1 ondulante |
+| **Densité de l'eau au bout de la jetée** | 1023.8 | 1023.1 |
+| **Température id.** | 11.6 | 12.0 |
+
+| **1901-04-01** |
+| --- |
+| **Nombre de bateaux sortis (pêche à la trame)** | 38 |
+| **Température de l'air** |
+|   **maxima depuis la veille** | 17.8 |
+|   **minima id.** | 7.2 |
+| **Température de l'eau** |
+|   **maxima depuis la veille** |  |
+|   **minima id.** |  |
+| **Pluie tombée depuis la veille, en millim.** |  |
+| **Evaporation depuis le 190 , en millim.** |  |
+| **Direction du vent (à terre)** | **à 9 h. m.** | **à 3 h. s.** |
+| **Force** | faible | fort |
+| **Direction des nuages** | S.S.O | N.O.O |
+| **Nébulosité (showers)** |
+|   **région Ouest (terre)** | 10 | 10 |
+|   **id. Est (mer)** | 10 | 10 |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.)** | 11.9 |  |
+| **Agitation de l'eau** | 1 faible |  |
+| **Densité de l'eau au bout de la jetée** | 1028.7 |  |
+| **Température id.** | 11.8 |  |

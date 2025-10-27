@@ -1,0 +1,17 @@
+```
+| **Date** | **Matin** | **Soir** |
+|----------|-----------|----------|
+| 9 & 16 mars. 1906 |          |          |
+| Hauteur Barométrique | 774,6 |        |
+| Direction du vent | Sud |      |
+| Force | is | 2 fort  |
+| Nébulosité (Reg. o. (claire)) | 2 |     |
+| Nébulosité (Reg. 2. (mer)) | S.O | " |
+| Direction des nuages | 50 |    |
+| Pluie tombée | - |     |
+| Température de l'air | - | 54,3  |
+| Hauteur de la mer | 64,3 | 1 fort  |
+| Agitation de l'eau | 1 fort  |  |
+| Densité au bout de la jetée | 1029,6 | 1/53  |
+| Température de l'eau | 1/8 | 1/53  |
+```

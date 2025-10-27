@@ -1,0 +1,16 @@
+# Date. 30 Novembre. 1901
+
+|  | 9th Matin | 3rd Soir |
+| --- | --- | --- |
+|  Hauteur Barométrique | 760,8 | 760,8 |
+|  Direction du vent | N.N.O | N.N.O |
+|  Force | 3 | 3 |
+|  Nébulosité { Reg. C. (terre) } | 0 | 0 |
+|  Nébulosité { Reg. E. (mer) } | 0 | 0 |
+|  Direction des nuages | " | " |
+|  Pluie tombée | " | " |
+|  Température de l'air | 9,6 | 9,6 |
+|  Hauteur de la mer | 39,4 | 39,4 |
+|  Agitation de l'eau | 3 | 3 |
+|  Densité de l'eau { au bout de la jetée } | 1029,2 | 1029,2 |
+|  Température de l'eau | 13,3 | 13,3 |

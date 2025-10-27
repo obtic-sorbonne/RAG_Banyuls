@@ -1,0 +1,47 @@
+```plaintext
+| **OBSERVATIONS DU 14 JUIN 1960** |
+| --- |
+| **Nombre de bateaux sortis (pêche à l'ancien)** | **Néant** |
+| **Température de l'air** |  |
+| - maxima depuis la veille | **19.7 °C** |
+| - minima id. | **15.9 °C** |
+| **Température de l'eau** |  |
+| - maxima depuis la veille | **-** |
+| - minima id. | **-** |
+| **Pluie tombée depuis la veille, en millim** | **0 mm** |
+| **Évaporation depuis le 190, en millim** | **-** |
+| **à 9 h. m.** | **à 3 h. s.** |
+| **Direction du vent (à terre)** | **N.N.O.** | **N.N.O.** |
+| **Force** | **4 Beaufort** | **6 Beaufort** |
+| **Direction des nuages** | **N.N.O.** | **N.N.O.** |
+| **Nébulosité** |  |
+| - région Ouest (terre) | **10/8** | **6/8** |
+| - id. Est (mer) | **10/8** | **10/8** |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro** | **31.2 cm** | **31.4 cm** |
+| **Agitation de l'eau** | **5 jort** | **3 jort** |
+| **Densité de l'eau au bout de la jetée** | **1027.3 g/cm³** | **1026.8 g/cm³** |
+| **Température id.** | **16.6 °C** | **17.3 °C** |
+
+| **OBSERVATIONS DU 15 JUIN 1960** |
+| --- |
+| **Nombre de bateaux sortis (pêche à l'ancien)** | **11** |
+| **Température de l'air** |  |
+| - maxima depuis la veille | **21.3 °C** |
+| - minima id. | **14.8 °C** |
+| **Température de l'eau** |  |
+| - maxima depuis la veille | **-** |
+| - minima id. | **-** |
+| **Pluie tombée depuis la veille, en millim** | **-** |
+| **Évaporation depuis le 190, en millim** | **-** |
+| **à 9 h. m.** | **à 3 h. s.** |
+| **Direction du vent (à terre)** | **N.N.O.** | **N.N.E.** |
+| **Force** | **4 Beaufort** | **3/4 Beaufort** |
+| **Direction des nuages** | **-** | **N.N.O.** |
+| **Nébulosité** |  |
+| - région Ouest (terre) | **6/8** | **0/8** |
+| - id. Est (mer) | **0/8** | **1/8** |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro** | **31.2 cm** | **32.7 cm** |
+| **Agitation de l'eau** | **2 jort** | **2 jort** |
+| **Densité de l'eau au bout de la jetée** | **1026.6 g/cm³** | **1026.7 g/cm³** |
+| **Température id.** | **17.0 °C** | **17.5 °C** |
+```

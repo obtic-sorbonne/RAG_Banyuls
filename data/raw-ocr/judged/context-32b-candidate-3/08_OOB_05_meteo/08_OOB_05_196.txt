@@ -1,0 +1,35 @@
+```markdown
+# V. 7 Janvier 1907
+
+| **Date** | **Matin**  | **Soir**  |
+| --- | --- | --- |
+| **Hauteur barométrique** | 770.9 mmHg | 772.3 mmHg |
+| **Direction du vent** | cr. o | cr. o |
+| **Force** | 1 | 1 |
+| **Nébulosité (Reg. C. (terre))** | 2 | 10 |
+| **Nébulosité (Reg. R. (mer))** | 2 | 10 |
+| **Direction des nuages** | v.v. o | cr. 6 |
+| **Pluie tombée** | " | " |
+| **Température de l'air** | 13.6 °C | 13.6 °C |
+| **Hauteur de la mer** | 6.0 m | 6.2 m |
+| **Agitation de l'eau** | 3 | 3 |
+| **Densité au bout de la jetée** | 1029.4 kg/m³ | 1029.3 kg/m³ |
+| **Température de l'eau** | 11.3 °C | 11.2 °C |
+
+# V. 8 Janvier 1907
+
+| **Date** | **Matin**  | **Soir**  |
+| --- | --- | --- |
+| **Hauteur barométrique** | 771.0 mmHg | 768.0 mmHg |
+| **Direction du vent** | cr. o | cr. o |
+| **Force** | 4 | 4 |
+| **Nébulosité (Reg. C. (terre))** | 10 | 10 |
+| **Nébulosité (Reg. R. (mer))** | 10 | 10 |
+| **Direction des nuages** | cr. e. | cr. 8 |
+| **Pluie tombée** | " | " |
+| **Température de l'air** | 10.2 °C | 12.9 °C |
+| **Hauteur de la mer** | 71.6 m | 64.2 m |
+| **Agitation de l'eau** | 3 | 3 |
+| **Densité au bout de la jetée** | 1029.6 kg/m³ | 1029.6 kg/m³ |
+| **Température de l'eau** | 10.7 °C | 10.8 °C |
+```

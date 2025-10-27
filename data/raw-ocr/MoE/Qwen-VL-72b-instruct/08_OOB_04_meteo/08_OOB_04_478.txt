@@ -1,0 +1,28 @@
+|  | 28 Mars 1905 | Matin | Soir |
+| --- | --- | --- | --- |
+| Hauteur Barométrique | 765,5 | 765,5 |  |
+| Direction du vent | N.O. | N.O. |  |
+| Force | 3 faible | 3 |  |
+| Nébulosité (Reg. O. (terre)) | 6 | 4 |  |
+| Nébulosité (Reg. E. (mer)) | 6 | 2 |  |
+| Direction des nuages | N.O. | N.O. |  |
+| Pluie tombée | " | " |  |
+| Température de l'air | 18,0 | 19,0 |  |
+| Hauteur de la mer | 61,7 | 60,9 |  |
+| Agitation de l'eau | 2 faible | 2 faible |  |
+| Densité au bout de la jetée | 1029,0 | 1028,1 |  |
+| Température de l'eau | 14,9 | 14,3 |  |
+|  | 29 Mars 1905 | Matin | Soir |
+| --- | --- | --- | --- |
+| Hauteur Barométrique | 767,8 | 766,5 |  |
+| Direction du vent | S. 8 | S. 8 |  |
+| Force | 3 | 17 faible | 1 fort |
+| Nébulosité (Reg. O. (terre)) | 6 | 6 |  |
+| Nébulosité (Reg. E. (mer)) | 6 | 6 |  |
+| Direction des nuages | " | " |  |
+| Pluie tombée | " | " |  |
+| Température de l'air | 17,8 | 22,6 |  |
+| Hauteur de la mer | 61,9 | 61,1 |  |
+| Agitation de l'eau | 2 faible | 1 |  |
+| Densité au bout de la jetée | 1028,1 | 1028,3 |  |
+| Température de l'eau | 14,9 | 16,1 |  |

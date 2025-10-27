@@ -1,0 +1,35 @@
+# 19 Janvier - 1904
+
+|  **Matin** | **Soir**  |
+| --- | --- |
+|  Hauteur Marométrique | 784,7  |
+|  Direction du vent | or. or. 0  |
+|  Force | 5  |
+|  Reg. O. (terre) | 10  |
+|  Nebulinite | 10  |
+|  Direction des nuages | or. or. 0  |
+|  Thie tombe | 9,7  |
+|  Température de l'air | 9,7  |
+|  Hauteur de la mer | 43,0  |
+|  Régitation de l'eau | 3  |
+|  Sensible au bout de la jeté | 1089,9  |
+|  Température de l'eau | 11,3  |
+
+# 20 Janvier - 1904
+
+|  **Matin** | **Soir**  |
+| --- | --- |
+|  Hauteur Marométrique | 785,6  |
+|  Direction du vent | or. or. 0  |
+|  Force | 4 faible  |
+|  Reg. O. (terre) | 0  |
+|  Nebulinite | 1  |
+|  Direction des nuages | 0  |
+|  Thie tombe | 1,1  |
+|  Température de l'air | 1,1  |
+|  Hauteur de la mer | 10,0  |
+|  Rég. O. (terre) | 4  |
+|  Thie | 1089,8  |
+|  Sensible au bout de la jeté | 11,8  |
+
+# 21 Janvier - 1904

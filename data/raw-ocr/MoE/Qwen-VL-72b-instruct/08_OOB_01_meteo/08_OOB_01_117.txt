@@ -1,0 +1,16 @@
+| **Paramètres**                 | **9h20 - Matin** | **3h - Soir** |
+|--------------------------------|-----------------|---------------|
+| **Hauteur Barométrique**       | 752,4           | 747,4         |
+| **Direction du vent**          | Nord            | Nord          |
+| **Force**                      | 3               | 6 (Fort)      |
+| **Nébulosité - Reg. 0. (terre)** | 10              | 10            |
+| **Nébulosité - Reg. F. (mer)** | 10              | 10            |
+| **Direction des nuages**       | Nord            | Nord          |
+| **Pluie tombée**               | 2,250           | 27,125        |
+| **Température de l'air**       | 5,7             | 4,5           |
+| **Hauteur de la mer**          | 33,3            | 28,6          |
+| **Agitation de l'eau**         | 2               | 4             |
+| **Densité de l'eau**           | 1030,0          | 1030,2        |
+| **Température de l'eau**       | 15,0            | 14,9          |
+
+**Observations** : La neige a fait son apparition aux Abeilles, elle en couvre les deux parties.

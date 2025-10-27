@@ -1,0 +1,27 @@
+|  9.27 Septembre - 1905 | 916atin | Soir  |
+| --- | --- | --- |
+|  Hauteur Maronietrique | 260,7 | 2/8.5  |
+|  Direction du vent | M. 0.0 | 1/8.5  |
+|  Force | 1 post. | 1 post.  |
+|  (Rég. a (hine) | 10 | Reg.  |
+|  (Rég. a (hine) | 10 | Reg.  |
+|  Direction des nuages | 10 | 0  |
+|  Pline tombés | 1/1.0 | 1/1.0  |
+|  Dempperature de l'air | 17.2 | 2/19.4  |
+|  Hauteur de la mer | 68.8 | 46.2  |
+|  Régitaliser de l'eau | 1 | 1/20.0  |
+|  Densité au bout de la jetée | 1028.5 | 1028.5  |
+|  Dempperature de l'eau | 18.4 | 20.1  |
+|  9.28 Septembre - 1905 | 916atin | Soir  |
+|  Hauteur Maronietrique | 2/4.6 | 2/2.6  |
+|  Direction du vent | 1/1.8 | 1/1.8  |
+|  Force | 10 | 1 post.  |
+|  (Rég. a (hine) | 20 | 0  |
+|  (Rég. a (hine) | 20 | 0  |
+|  Direction des nuages | 10 | 1.0  |
+|  Pline tombés | 2.82 | 2/1.5  |
+|  Dempperature de l'air | 18.8 | 2/1.5  |
+|  Hauteur de la mer | 89.1 | 4/1.5  |
+|  Régitaliser de l'eau | 2 | 1/20.0  |
+|  Densité au bout de la jetée | 1028.5 | 1028.5  |
+|  Dempperature de l'eau | 18.1 | 20.0  |

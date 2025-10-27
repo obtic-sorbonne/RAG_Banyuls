@@ -1,0 +1,14 @@
+| **Paramètre** | **9 H Matin** | **3 H Soir** |
+|---|---|---|
+| Hauteur Barométrique | 763.3 mm | 763.5 mm |
+| Direction du vent | Nord | Sud |
+| Force du vent | 2 (moyenne) | 3 (faible) |
+| Nébulosité | 0 (claire) | 2 (égayante) |
+| Direc. du soleil | Sud | Sud |
+| Direc. des nuages | Sud | Sud |
+| Pluie tombée | - | Quelques gouttes |
+| Température de l'air | 17.9 °C | 20.7 °C |
+| Hauteur de la mer | 49.1 cm | 63.1 cm |
+| Agitation de l'eau | Faible | 1 (uite) |
+| Densité de l'eau | 1027.9 kg/m³ | 1027.7 kg/m³ |
+| Temperature de l'eau | 16.0 °C | 18.4 °C |

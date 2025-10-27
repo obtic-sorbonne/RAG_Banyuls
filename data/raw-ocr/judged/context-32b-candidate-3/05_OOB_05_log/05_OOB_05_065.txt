@@ -1,0 +1,39 @@
+```plaintext
+N°
+
+Sortie du 12 Août 1902
+
+Départ de Banyuls
+à 10 heures du matin
+pour livraison à un bateau. Arrivée à Cerbère à 13 h 30
+Départ de Cerbère
+à 4 heures du soir
+pour
+
+Arrivée à
+
+Départ de
+à heures du
+
+Arrivée au mouillage à Banyuls
+à 5 h 15 du soir
+
+État du temps: gale mer. Vent du nord
+
+Passagers à bord: M. Pruvost
+
+Objet de la sortie: livraison à un bateau de pêche
+
+Consommation
+{ 70 briquettes de 5 kilos | Poids en Kilos 350 kils
+  huile 1 litre 1/4          | Total en litres 1 l 1/4
+
+Dépenses
+
+Observations: Nous avons été au recouvrement d'un bateau de
+pêche qui a chaviré. Nous le prenons à la remorque
+et le ramenons dans le port de Cerbère.
+Embarquement de Directeur qui est arrivé jusqu'au
+remorqueur à 3 h 10. Départ de Cerbère à 4 h 30. Arrivée au mouillage
+à Banyuls à 5 h 15
+```

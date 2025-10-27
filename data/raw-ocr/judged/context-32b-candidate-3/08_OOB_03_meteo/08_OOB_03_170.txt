@@ -1,0 +1,16 @@
+# Bate. 7 Avril. 1902
+
+| **Mesure**                           | **9 H Matin** | **3 H Soir** |
+|--------------------------------------|---------------|--------------|
+| **Hauteur Barométrique**             | 753.2         | 752.0        |
+| **Direction du vent**                | Nord          | Nord         |
+| **Force**                            | 1<sup>re</sup> faible | 1<sup>re</sup> faible |
+| **Nébulosité (Reg. O. - Terre)**     | 10            | 10           |
+| **Nébulosité (Reg. E. - Ciel)**      | 10            | 10           |
+| **Direction des nuages**             | Nord-Ouest    | Nord-Ouest   |
+| **Pluie tombée**                     | 0 mm          | 0 mm         |
+| **Température de l'air**             | 12.4 °C       | 13.8 °C      |
+| **Hauteur de la mer**                | 31.8 m        | 31.0 m       |
+| **Agitation de l'eau (à bout de la jetée)** | 3<sup>e</sup> forte | 3<sup>e</sup> forte |
+| **Agitation de l'eau (au large)**    | 1025.2        | 1025.2       |
+| **Température de l'eau**             | 13.8 °C       | 13.8 °C      |

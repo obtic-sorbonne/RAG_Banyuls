@@ -1,0 +1,17 @@
+| Date: 6 Mars 1902 |
+| --- |
+| **Paramètre** | **9h Matin** | **3h Soir** |
+| Hauterur Barometrique | 763,4 | 761,5 |
+| Direction du vent |  | S.E |
+| Force | 1.5 | 0 | 1 |
+| Nébulosité |
+| Reg. O (terre) | 10 | 10 légère |
+| Reg. E (mer) | 10 | 10 légère |
+| Direction des nuages | S.S.E | S.S.E |
+| Pluie tombée |  |  |
+| Température de l'air | 12.4 | 13.5 |
+| Hauteur de la mer | 41.7 | 40.4 |
+| Agitation de l'eau |  |  |
+| au bout de la jetée | 1028.2 | 1028.1 |
+| à L'an Carga |  |  |
+| Température de l'eau | 11,6 | 11.7 |

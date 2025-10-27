@@ -1,0 +1,15 @@
+```markdown
+# 18 Août 1907
+
+| **Date** | **Heure** | **Altitude Barométrique** | **Direction du Vent** | **Force** | **Nébulosité (Règ. c. clair)** | **Direction des nuages** | **Pluie tombée** | **Température de l'air** | **Altitude de la mer** | **Agitation de l'eau** | **Densité au bord de la jetée** | **Température de l'eau** |
+|----------|-----------|---------------------------|------------------------|----------|------------------------------|---------------------------|-----------------|--------------------------|------------------------|-----------------------|----------------------------|---------------------------|
+| 18 août 1907 | Matin    | 769.6 mmHg               | N                      | 10       | 30                          | S.O.                     | ——              | 34.3                    | 64.0                   | 1 (faible)            | 1026.4                    | 26.0                     |
+|          | Soir      | 770.0 mmHg               | NE                     | 9        | 10                          | ——                       | ——              | 32.9                    | 66.0                   | 1 (faible)            | 1026.6                    | 26.0                     |
+
+# 19 Août 1907
+
+| **Date** | **Heure** | **Altitude Barométrique** | **Direction du Vent** | **Force** | **Nébulosité (Règ. c. clair)** | **Direction des nuages** | **Pluie tombée** | **Température de l'air** | **Altitude de la mer** | **Agitation de l'eau** | **Densité au bord de la jetée** | **Température de l'eau** |
+|----------|-----------|---------------------------|------------------------|----------|------------------------------|---------------------------|-----------------|--------------------------|------------------------|-----------------------|----------------------------|---------------------------|
+| 19 août 1907 | Matin    | 772.0 mmHg               | Nord                   | 2        | 0                           | ——                       | ——              | 28.8                     | 12.0                   | 1 (faible)            | 1027.3                    | 22.3                     |
+|          | Soir      | 770.6 mmHg               | NE                     | 1        | 0                           | ——                       | ——              | 32.9                     | 66.0                   | 1 (faible)            | 1026.6                    | 26.0                     |
+```

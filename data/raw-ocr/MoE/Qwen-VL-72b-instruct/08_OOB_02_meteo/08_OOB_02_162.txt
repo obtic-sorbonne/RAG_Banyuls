@@ -1,0 +1,17 @@
+| **Date** | **22 Août 1901** |
+|---|---|---|
+| **Hauteur Barométrique** | **9H Matin** | **3H Soir** |
+| | 766,3 | 765,3 |
+| **Direction du vent** | N.E | S.S.E |
+| **Force** | 15 | 3 |
+| **Nébulosité** | **Reg. O. (Terre)** | 0 | 1 |
+| | **Reg. E. (mer)** | 0 | 0 |
+| **Direction des nuages** |  | S.S.E |
+| **Pluie tombée** |  |  |
+| **Température de l'air** | 20,6 | 25,4 |
+| **Hauteur de la mer** |  |  |
+| & | **sauvage** | 51,8 | 46,8 |
+| **agitation de l'eau** | 1 T. faible | 1 fort |
+| **Densité de l'eau** | **au bout de la jetée** | 1027,2 | 1026,7 |
+| _|**au Trangé**| |||
+| **Température de l'eau** | 21,7 | 23,2 |

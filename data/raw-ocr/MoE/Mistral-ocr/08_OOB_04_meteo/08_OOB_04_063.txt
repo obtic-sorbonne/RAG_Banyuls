@@ -1,0 +1,31 @@
+V- 17 février - 1902
+
+|  Hauteur | Pourcentage | 7/7.4  |
+| --- | --- | --- |
+|  Direction du vent |  | or.  |
+|  Force |  | 1/2006  |
+|  Nebulosite | (Reg. - 0 - (1ere) | 0  |
+|   | (Reg. - 2 - (me) | 0  |
+|  Direction des mages |  | "  |
+|  Mise tombe |  | 8  |
+|  Température de l'air |  | 4,3  |
+|  Hauteur de la mer |  | 40,7  |
+|  Régulation de l'eau |  | 87/2010  |
+|  Densité au bout de la jeté |  | 1088,3  |
+|  Température de l'eau |  | 10,4  |
+
+V- 18 février - 1902
+
+|  Hauteur | Pourcentage | 761,7  |
+| --- | --- | --- |
+|  Direction du vent |  | or.  |
+|  Force |  | 3  |
+|  Nebulosite | (Reg. - 0 - (1ere) | 10  |
+|   | (Reg. - 2 - (me) | 10  |
+|  Direction des mages |  | or.  |
+|  Mise tombe |  | 1/1  |
+|  Température de l'air |  | 11,7  |
+|  Hauteur de la mer |  | 48,9  |
+|  Régulation de l'eau |  | 4  |
+|  Densité au bout de la jeté |  | 1088,3  |
+|  Température de l'eau |  | 10,8  |

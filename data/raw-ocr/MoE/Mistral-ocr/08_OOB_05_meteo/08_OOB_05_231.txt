@@ -1,0 +1,27 @@
+|  N. 13 Avril - 1907 | Mbatin | Prix  |
+| --- | --- | --- |
+|  Hauteur Marométrique | 2/2.3 | 2/0.2  |
+|  Direction du vent | cr.ot. | 5.8  |
+|  Poze | 1/200 | 1/200  |
+|  Mibuliste | Reg. C. (time) | 10  |
+|  Mibuliste | Reg. N. (mur) | 10  |
+|  Direction des mages | 1.0 | 1.0  |
+|  Pule tomlie | 11.8/ | 13.8  |
+|  Température de l'air | 16.8 | 13.8  |
+|  Hauteur de la mer | 38.4 | 42.2  |
+|  Agitation de l'eau | 3 | 3  |
+|  Densité au bout de la jetée | 1029.0 | 1029.9  |
+|  Température de l'eau | 18.2 | 18.2  |
+|  N. 15 Avril - 1907 | Mibatin | Prix  |
+|  Hauteur Marométrique |  | 249.3  |
+|  Direction du vent |  | 5.8  |
+|  Poze | 10 | 1  |
+|  Mibuliste | Reg. C. (time) | 10  |
+|  Mibuliste | Reg. N. (mur) | 10  |
+|  Direction des mages |  | 1.0  |
+|  Pule tomlie |  | 16.7  |
+|  Température de l'air |  | 16.7  |
+|  Hauteur de la mer |  | 18.9  |
+|  Agitation de l'eau |  | 1/2.9  |
+|  Densité au bout de la jetée |  | 1/2.8  |
+|  Température de l'eau |  | 18.8  |

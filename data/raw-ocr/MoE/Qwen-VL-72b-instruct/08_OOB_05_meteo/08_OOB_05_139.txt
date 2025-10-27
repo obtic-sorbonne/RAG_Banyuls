@@ -1,0 +1,29 @@
+| V. 13 Août 1906 | Matin | Soir |
+|-----------------|-------|------|
+| Hauteur Barométrique | 761,7 | 769,7 |
+| Direction du vent | S.S.E | S.S.E |
+| Force | 2 fort | 3 |
+| Nébulosité | Reg. o. (terre) | 0 | 60 |
+| | Reg. x. (mer) | 0 | 60 |
+| Direction des nuages | 14 | Ouest |
+| Pluie tombée | " | " |
+| Température de l'air | 31,2 | 34,6 |
+| Hauteur de la mer | 48,7 | 37,8 |
+| Agitation de l'eau | 1 fort | 2 fort |
+| Densité au haut de la jetée | 1026,6 | 1026,7 |
+| Température de l'eau | 24,8 | 23,8 |
+
+| V. 14 Août 1906 | Matin | Soir |
+|-----------------|-------|------|
+| Hauteur Barométrique | 762,0 | |
+| Direction du vent | S.E. | |
+| Force | 2 | |
+| Nébulosité | Reg. o. (terre) | 10 | |
+| | Reg. x. (mer) | 10 | |
+| Direction des nuages | | Ouest |
+| Pluie tombée | " | " |
+| Température de l'air | 29,8 | |
+| Hauteur de la mer | 48,2 | |
+| Agitation de l'eau | 1 fort | |
+| Densité au haut de la jetée | 1028,0 | |
+| Température de l'eau | 27,3 | |

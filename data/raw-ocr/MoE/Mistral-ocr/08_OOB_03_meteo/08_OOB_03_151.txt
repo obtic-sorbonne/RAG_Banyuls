@@ -1,0 +1,17 @@
+# Sale. 20 Moars. 1902
+
+|  9th Matin. 3rd Soir |   |
+| --- | --- |
+|  Kanteur Barometrique | 760.2  |
+|  Correction du vent | 3.5  |
+|  Force | 1  |
+|  Pédbulosité (Reg. O. (lente) | 3  |
+|  Pédbulosité (Reg. E. (mer) | 2  |
+|  Correction des nuages | 5.5  |
+|  Choc tomboe | 12.8  |
+|  Température de l'air | 12.8  |
+|  Kanteur de la mer | 10.5  |
+|  Crétulation de l'eau | 1027.9  |
+|  Densité de l'eau (au bout de la jette) |   |
+|  L'emportant de l'eau | 13.3  |
+|  Température de l'eau | 13.3  |

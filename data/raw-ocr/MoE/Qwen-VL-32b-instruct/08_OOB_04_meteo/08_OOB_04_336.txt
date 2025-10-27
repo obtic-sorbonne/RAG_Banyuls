@@ -1,0 +1,31 @@
+# 26 Janvier 1904
+
+|  **Pfarrer** | **Nation** | **Loir**  |
+| --- | --- | --- |
+|  Hauteur Waarométrique | 255.4 | 255.0  |
+|  Direction Su vent | 4.0 | 4.0  |
+|  Force | 1 | 1  |
+|  Reg. O. (time) | 0 | 0  |
+|  **Débutante** | **Reg. E. (min)** | **Reg. 2**  |
+|  Direction des nuages | 32.12/ | 32.12/  |
+|  **Prix Tombeie** | 3.1 | 12.1  |
+|  **Démarche** | 42.2 | 42.6  |
+|  **Épidémiologie** | 3 | 3  |
+|  **Densité au bout de la jeté** | 1022.0 | 1021.6  |
+|  **Démarche de l'eau** | 10.1 | 10.3  |
+
+# 4 février 1904
+
+|  **Pfarrer** | **Nation** | **Loir**  |
+| --- | --- | --- |
+|  Hauteur Waarométrique | 212.2 | 211.3  |
+|  Direction Su vent | 4.0 | 4.0  |
+|  Force | 3 | 3 fort  |
+|  Reg. O. (time) | 10 | 10  |
+|  **Débutante** | **Reg. E. (min)** | **10**  |
+|  Direction des nuages | 4.0 | 4.0  |
+|  **Prix Tombeie** | 1.21 | 1.21  |
+|  **Démarche** | 1.21 | 11.4  |
+|  **Épidémiologie** | 10.0 | 11.4  |
+|  **Densité au bout de la jeté** | 1.28.1 | 1.28.6  |
+|  **Démarche de l'eau** | 11.0 | 11.2  |

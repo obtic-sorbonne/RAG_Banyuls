@@ -1,0 +1,33 @@
+# V. 23 Juin - 1903
+
+|  **Position** | **Prix**  |
+| --- | --- |
+|  Hauteur Peur ométrique | 764.0  |
+|  Direction du vent | 2.8  |
+|  Force | 1  |
+|  (Reg. O. (Venne)) | 0  |
+|  (Reg. E. (mer)) | 0  |
+|  Direction des mages | "  |
+|  (Prix Tombé) | "  |
+|  Température de l'air | 12.9  |
+|  Hauteur de la mer | 11.4  |
+|  (Agitation de l'eau) | 1  |
+|  Densité au bout de la jeté | 1029.2  |
+|  (température de l'eau) | 12.4  |
+
+# V. 24 Juin - 1903
+
+|  **Position** | **Prix**  |
+| --- | --- |
+|  Hauteur Peur ométrique | 763.1  |
+|  Direction du vent | or. or.  |
+|  Force | 2  |
+|  (Reg. O. (Venne)) | 10  |
+|  (Prix Tombé) | 3  |
+|  Direction des mages | 0.07.0  |
+|  (Prix Tombé) | "  |
+|  Température de l'air | 20.2  |
+|  Hauteur de la mer | 46.1  |
+|  (Agitation de l'eau) | 1  |
+|  Densité au bout de la jeté | 1027.7  |
+|  (température de l'eau) | 18.8  |

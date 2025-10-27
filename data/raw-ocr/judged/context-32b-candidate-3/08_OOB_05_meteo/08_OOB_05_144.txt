@@ -1,0 +1,30 @@
+```markdown
+| Date         | Matin       | Soir        |
+|--------------|-------------|-------------|
+| **25 Août 1906** |                |             |
+| Hauteur Barométrique | 769.0       | 768.2       |
+| Direction du Vent   | S.S.E.      | S.S.E.      |
+| Force               | 1 faible    | 1 faible    |
+| Nébulosité (Reg. 0 - Claire) | 0         | 0           |
+| Nébulosité (Reg. E - Mer)   | 1         | 1           |
+| Direction des nuages | S.S.E.      | S.S.E.      |
+| Pluie tombée        | -         | -           |
+| Température de l'air (°C) | 22.8      | 23.2        |
+| Hauteur de la mer   | 44.3       | 47.0        |
+| Agitation de l'eau  | 1         | 1           |
+| Densité au bout de la jetée | 1027.5    | 1027.2      |
+| Température de l'eau (°C) | 22.4      | 22.8        |
+| **26 Août 1906** |                |             |
+| Hauteur Barométrique | 766.7       | 766.5       |
+| Direction du Vent   | E. S. E.    | E. S. E.    |
+| Force               | 1 faible    | 1 faible    |
+| Nébulosité (Reg. 0 - Claire) | 0         | 0           |
+| Nébulosité (Reg. E - Mer)   | 1         | 1           |
+| Direction des nuages | E. S. E.    | E. S. E.    |
+| Pluie tombée        | -         | -           |
+| Température de l'air (°C) | 23.2      | 23.7        |
+| Hauteur de la mer   | 12.3       | 60.0        |
+| Agitation de l'eau  | 1         | 1           |
+| Densité au bout de la jetée | 1027.8    | 1027.7      |
+| Température de l'eau (°C) | 21.4      | 22.3        |
+```

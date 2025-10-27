@@ -1,0 +1,8 @@
+```plaintext
+| Date         | Heure | Hauteur Barométrique | Direction du vent | Force | Nébulosité (Rég. O. (terre)) | Nébulosité (Rég. E. (mer)) | Direction des nuages | Pluie tombée | Température de l'air | Hauteur de la mer | Agitation de l'eau | Densité au bout de la jetée | Température de l'eau |
+|--------------|-------|---------------------|-------------------|-------|-----------------------------|-----------------------------|---------------------|-------------|----------------------|-------------------|-------------------|-----------------------------|----------------------|
+| 26 février 1902 | Matin | 744,4              | S.S.8             | 15    | 8 léger                    | 0                           | Ouest               | quelques g | 13,4                 | 31,4              | 1 fort            | 1028,7                      | 11,4                |
+| 26 février 1902 | Soir  | 742,3              | S.S.8             | faible | 0                           | 0                           | —                   | —           | 15,1                 | 42,0              | 1 faible          | 1028,9                      | 11,3                |
+| 28 février 1902 | Matin | 742,6              | Ouest             | 25    | 10                          | 10                          | Ouest               | quelques g | 11,9                 | 22,4              | 1 fort            | 1028,0                      | 10,7                |
+| 28 février 1902 | Soir  | 749,2              | Ouest             | 2 faible | 10                        | 10                          | Ouest               | quelques g | 14,4                 | 23,3              | 1 fort            | 1027,7                      | 11,0                |
+```

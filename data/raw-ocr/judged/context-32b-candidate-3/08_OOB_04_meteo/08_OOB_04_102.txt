@@ -1,0 +1,31 @@
+```
+|  V. 11 Juin - 1902 | Obatin | Soir  |
+| --- | --- | --- |
+|  Hauteur Barométrique | 27.3 | 27.3  |
+|  Direction du vent | ex. 00.0 | Ouest  |
+|  Force | 3 faible | 1 faible  |
+|  Nébulosité | 1 | 10  |
+|  (Reg. O. (mer)) | 2 | 10  |
+|  Direction des nuages | ex. 00.0 | Ouest  |
+|  Pluie tombée | quelques-1 | 20.2  |
+|  Température de l'air | 16.2 | 20.2  |
+|  Hauteur de la mer | 41.0 | 44.4  |
+|  Agitation de l'eau | 2 fort | 3 faible  |
+|  Densité au bout de la jetée | 1025.2 | 1025.9  |
+|  Température de l'eau | 16.1 | 17.0  |
+
+|  V. 12 Juin - 1902 | Obatin | Soir  |
+| --- | --- | --- |
+|  Hauteur Barométrique | 27.6 | 23.1  |
+|  Direction du vent |  | Ouest  |
+|  Force |  | 1 fort  |
+|  Nébulosité | (Reg. O. (terre)) | 10  |
+|  (Reg. O. (mer)) |  | 10  |
+|  Direction des nuages |  | 11  |
+|  Pluie tombée |  | 11  |
+|  Température de l'air |  | 21.6  |
+|  Hauteur de la mer |  | 36.0  |
+|  Agitation de l'eau |  | 1 faible  |
+|  Densité au bout de la jetée |  | 1027.1  |
+|  Température de l'eau |  | 17.2  |
+```

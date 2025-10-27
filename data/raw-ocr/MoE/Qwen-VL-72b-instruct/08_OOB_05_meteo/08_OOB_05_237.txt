@@ -1,0 +1,29 @@
+| Nombre de paire de bateaux | V. 27 Avril 1907 | Matin | Soir |
+|-----------------------------|------------------|-------|------|
+| Hauteur barométrique        |                  | 779.2 | 778.8|
+| Direction du vent           |                  | E. O. | E. O.|
+| Force                       |                  | 4     | 4    |
+| Nébulosité                  | Reg. c. (clère)  | 10    | 10   |
+|                             | Reg. K. (cour.)  | 10    | 10   |
+| Direction des nuages        |                  | S. O. | E. O.|
+| Pluie tombée                |                  | "     | "    |
+| Température de l'air        |                  | 14.3  | 19.3 |
+| Hauteur de la mer           |                  | 47.2  | 56.3 |
+| Agitation de l'eau          |                  | 2 fort| 2 fort|
+| Densité au bord de la jetée |                  | 1029.3| 1029.3|
+| Température de l'eau        |                  | 15.8  | 19.1 |
+|                             |                  |       |      |
+|                             | V. 29 Avril 1907 | Matin | Soir |
+|                             |                  |       |      |
+| Hauteur barométrique        |                  | 762.2 | 762.2|
+| Direction du vent           |                  | E. O. | E. O.|
+| Force                       |                  | 4     | 4    |
+| Nébulosité                  | Reg. c. (clère)  | 10    | 10   |
+|                             | Reg. K. (cour.)  | 10    | 10   |
+| Direction des nuages        |                  | N. O. | E. O.|
+| Pluie tombée                |                  | "     | "    |
+| Température de l'air        |                  | 11.2  | 19.0 |
+| Hauteur de la mer           |                  | 56.7  | 53.4 |
+| Agitation de l'eau          |                  | 2     | 2    |
+| Densité au bord de la jetée |                  | 1029.3| 1029.2|
+| Température de l'eau        |                  | 12.6  | 18.2 |

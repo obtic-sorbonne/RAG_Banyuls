@@ -1,0 +1,31 @@
+```plaintext
+| Date       | Matin       |              | Soir        |              |
+|------------|-------------|--------------|-------------|--------------|
+| V. 8 Xbre 1901 |             |              |             |              |
+| Hauteur Barométrique | 768.4 |              |             |              |
+| Direction du vent | Ouest  |              |             |              |
+| Force        | faible    |              |             |              |
+| Nébulosité  | Reg. O. (Clerre) | légère  |             |              |
+|             | Reg. E. (mer)    | légère  |             |              |
+| Direction des nuages |       |              |             |              |
+| Pluie tombée  |           | "         |             |              |
+| Température de l'air | 11.2  |              |             |              |
+| Hauteur de la mer | ff. 6 |              |             |              |
+| Agitation de l'eau | fort  |              |             |              |
+| Vitesse au bout de la jetée | 1029.1 |              |             |              |
+| Température de l'eau | 13.0 |              |             |              |
+|------------|-------------|--------------|-------------|--------------|
+| V. 9 Xbre 1901 |             |              |             |              |
+| Hauteur Barométrique | 767.6 | 769.2      |             |              |
+| Direction du vent | Ouest  | Ouest       |             |              |
+| Force        | faible    | faible      |             |              |
+| Nébulosité  | Reg. O. (Clerre) | légère  | 10 légère |             |              |
+|             | Reg. E. (mer)    | légère  | 10 légère |             |              |
+| Direction des nuages |       | "        |             |              |
+| Pluie tombée  |           | "        |             |              |
+| Température de l'air | 9.9   | 13.7      |             |              |
+| Hauteur de la mer | ff. 6 | ff. 7      |             |              |
+| Agitation de l'eau | tt. fort | 1      |             |              |
+| Vitesse au bout de la jetée | 1029.1 | 1029.1    |             |              |
+| Température de l'eau | 13.7 | 13.7      |             |              |
+```

@@ -1,0 +1,28 @@
+|  9. 2/ 04. 1904 | Obatin | Soir  |
+| --- | --- | --- |
+|  Hauteur Prazometrique | £60.6 | £19.7  |
+|  Direction du rent | or.00 | or.00  |
+|  Porce | 4 fois | 3 fois  |
+|  (Reg. G. (Rave)) | 3 | 3  |
+|  (Reg. G. (mer)) |  |   |
+|  Direction des nuages | or.00 | or.00  |
+|  (Thie tombe) |  |   |
+|  Remplierature de l'air | 16.7 | 20.1  |
+|  Hauteur de la mer | 16.7 | 47.7  |
+|  (Agitation de l'eau) | 3 fois | 3  |
+|  Sensité au bout de la jetée | 1028.6 | 1028.6  |
+|  Remplierature de l'eau | 13.7 | 14.6  |
+|  1. 2.6 04. 1904 | Obatin | Soir  |
+|  Hauteur Prazometrique | £19.6 | £18.3  |
+|  Direction du rent | or.00 | or.00  |
+|  Porce | 4 | 4 fois  |
+|  (Reg. G. (Rave)) | 3 | 1028.6  |
+|  (Thie tombe) |  |   |
+|  (Reg. G. (mer)) | 3 | 1028.6  |
+|  Direction des nuages | or.00 | or.00  |
+|  (Thie tombe) |  |   |
+|  Remplierature de l'air | 16.3 | 13.0  |
+|  Hauteur de la mer | 10.7 | 41.3  |
+|  (Agitation de l'eau) | 3 fois | 3.7 fois  |
+|  Sensité au bout de la jetée | 1028.6 | 1028.6  |
+|  Remplierature de l'eau | 14.0 | 14.1  |

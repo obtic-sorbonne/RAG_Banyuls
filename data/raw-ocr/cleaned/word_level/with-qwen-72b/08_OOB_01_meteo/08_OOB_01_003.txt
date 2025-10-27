@@ -1,0 +1,1 @@
+N Designation Vitesse à la seconde Vitesse à l heure 0 Calme 0 à 1 50 5 4 1 Faible brise 3 50 12 6 2 Petite brise 6 0 31 6 3 Belle brise 8 0 29 8 4 Forte brise 10 0 36 0 5 Vent frais 12 50 45 0 6 Grand frais 15 0 54 0 7 Grand vent 18 0 64 8 8 Vent violent 21 50 77 4 9 Tempête 25 m 90 0 10 Forte tempête 29 m 104 4 11 Violente tempête 33 50 120 6 12 Ouragan 40 0 144 0

@@ -1,0 +1,45 @@
+```plaintext
+| **Observations du 1960 29 févr.** |
+| --- |
+| **Nombre de bateaux sortis (pêche à l.)** | 29.3 |
+| **Température de l'air** |  |
+| - maxima depuis la veille | 22.3 °C |
+| - minima id. | 16.0 °C |
+| **Température de l'eau** |  |
+| - maxima depuis la veille |  |
+| - minima id. |  |
+| **Pluie tombée depuis la veille, en millim.** | quelques gouttes |
+| **Évaporation depuis le 1900, en millim.** |  |
+| **Direction du vent (à terre)** | **à 9 h. m.** | **à 3 h. s.** |
+| - Force | 0 | 1 |
+| - Direction des nuages | NNW | NE |
+| **Nébulosité** |  |
+| - région Ouest (terre) | 10 | 20 |
+| - id. Est (mer) | 10 | 20 |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.)** | 48.4 | 31.9 |
+| **Agitation de l'eau** | 1 | 1 |
+| **Densité de l'eau au bout de la jetée** | 1027.9 g/cm³ | 1028.0 g/cm³ |
+| **Température id.** | 17.0 °C | 17.0 °C |
+
+| **Observations du 1960 30 mars** |
+| --- |
+| **Nombre de bateaux sortis (pêche à l.)** | 22.1 |
+| **Température de l'air** |  |
+| - maxima depuis la veille | 22.1 °C |
+| - minima id. | 19.4 °C |
+| **Température de l'eau** |  |
+| - maxima depuis la veille |  |
+| - minima id. |  |
+| **Pluie tombée depuis la veille, en millim.** |  |
+| **Évaporation depuis le 1900, en millim.** |  |
+| **Direction du vent (à terre)** | **à 9 h. m.** | **à 3 h. s.** |
+| - Force | 0 | 1 |
+| - Direction des nuages | NNW | SE |
+| **Nébulosité** |  |
+| - région Ouest (terre) | 40 | 40 |
+| - id. Est (mer) | 40 | 40 |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.)** | 39.9 | 38.0 |
+| **Agitation de l'eau** | 1 | 1 |
+| **Densité de l'eau au bout de la jetée** | 1028.3 g/cm³ | 1027.3 g/cm³ |
+| **Température id.** | 17.3 °C | 18.4 °C |
+```

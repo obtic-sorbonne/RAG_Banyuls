@@ -1,0 +1,16 @@
+# Date. 30 Décembre. 1901
+
+|  Nauteur Barometrique | 9e Stbatin 3e Soir  |
+| --- | --- |
+|  Direction Su vent | 767,8  |
+|  Force | N.N.O  |
+|  Reg. O. (Terre) | 1 port  |
+|  10 kg/m² |   |
+|  Pébuloisite |   |
+|  Direction des nuages | 10 kg/m² C  |
+|  Fluie Tombe | N.N.O  |
+|  Température Se l'air | 14,7  |
+|  Nauteur Se la mer | 40,6  |
+|  Agitation Se l'eau | 1  |
+|  Sensité Se l'eau | 1028,7  |
+|  Température Se l'eau | 12,4  |

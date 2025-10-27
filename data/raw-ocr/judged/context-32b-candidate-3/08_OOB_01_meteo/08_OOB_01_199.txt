@@ -1,0 +1,17 @@
+# Porte. 10 Février - 1901.
+
+|  | 9" Matin | 3" Soir  |
+| --- | --- | --- |
+| **Hauteur Barométrique** | 760.7 | 763.7  |
+| **Direction du vent** | Nord | Nord  |
+| **Force** | 8 | 8  |
+| **Nébulosité (Reg. 6. Terre)** | " | "  |
+| **Direction des nuages** | " | "  |
+| **Pluie tombée** | " | "  |
+| **Température de l'air** | 4,7 | 4,7  |
+| **Hauteur de la mer** | 4,3 | 4,3  |
+| **Agitation de l'eau** | 3, faible | 3, faible  |
+| **Densité de l'eau** | 1028,8 | 1028,8  |
+| **au bout de la jetée** | 1028,8 | 1028,8  |
+| **au large** | 1028,8 | 1028,8  |
+| **Température de l'eau** | 10,8 | 10,8  |

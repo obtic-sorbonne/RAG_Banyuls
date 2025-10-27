@@ -1,0 +1,13 @@
+| **Date** | **9h Matin** | **3h Soir** |
+| --- | --- | --- |
+| **Hauter Barométrique** | 763,3 | 762,2 |
+| **Direction du vent** | cr. E | S.S.E |
+| **Force** | 1/5 | 1/7 |
+| **Nébulosité (Reg. L-Bar (terrestre))** | opaç. 1/10 | 10 légère |
+| **Direction des nuages (Reg. L-Bar (marin))** | 0 | 10 légère |
+| **Pluie tombée** | " | " |
+| **Température de l'air** | 14,0°C | 20,3°C |
+| **Hauteur de la mer** | 41,5 | 37,7 |
+| **Agitation de l'eau** | 0 | 1 |
+| **Densité de l'eau** | 1026,3 (bout de la jetée) | 1026,6 (au large) |
+| **Température de l'eau** | 14,8 | 15,7 |

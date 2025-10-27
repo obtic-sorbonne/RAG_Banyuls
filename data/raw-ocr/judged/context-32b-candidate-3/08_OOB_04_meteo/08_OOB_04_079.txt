@@ -1,0 +1,31 @@
+## V. 8 (Avril. 1902) Matin Soir
+
+|  J kanteur | **Barométrique** | **753.2** | **781.4**  |
+| --- | --- | --- | --- |
+|  Direction du vent |  | 241 | 2.28  |
+|  Force |  | 1 | 8  |
+|  Nébulosité | **(Reg. O. (verre))** | **0** | **34.2**  |
+|  Nébulosité | **(Reg. E. (mer))** | **0** | **24.2**  |
+|  Direction des nuages |  |  | **24.2**  |
+|  Pluie tombée |  |  |   |
+|  Température de l'air |  | **13.0** | **15.2**  |
+|  J kanteur de la mer |  | **46.6** | **15.2**  |
+|  Égitation de l'eau |  | **3 faible** | **3 faible**  |
+|  Densité au bout de la jetée |  | **1029.1** | **1027.9**  |
+|  Température de l'eau |  | **14.2** | **14.4**  |
+
+## V. 9 (Avril. 1902) Matin Soir
+
+|  J kanteur | **Barométrique** | **719.9** | **717.7**  |
+| --- | --- | --- | --- |
+|  Direction du vent |  | 241 | 241  |
+|  Force |  | **1 fort** | **3 fort**  |
+|  Nébulosité | **(Reg. O. (verre))** | **10** | **10**  |
+|  Nébulosité | **(Reg. E. (mer))** | **10** | **10**  |
+|  Direction des nuages |  | **241** | **241**  |
+|  Pluie tombée |  |  |   |
+|  Température de l'air |  | **16.0** | **18.7**  |
+|  J kanteur de la mer |  | **37.8** | **49.3**  |
+|  Égitation de l'eau |  | **1** | **17.7**  |
+|  Densité au bout de la jetée |  | **1029.3** | **1028.0**  |
+|  Température de l'eau |  | **13.7** | **13.2**  |

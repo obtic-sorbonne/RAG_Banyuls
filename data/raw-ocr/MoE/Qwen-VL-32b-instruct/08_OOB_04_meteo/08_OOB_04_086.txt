@@ -1,0 +1,30 @@
+V. 22 (Avril - 1902) Matin Soir
+
+|  Hauteur Marométrique | 780,7 | 4/9.3  |
+| --- | --- | --- |
+|  Direction du vent |  | 0,8  |
+|  Force | 1 | 1  |
+|  Nocbulosité | Reg. O. (lire) | 10  |
+|  Nocbulosité | Reg. E. (mw) | 10  |
+|  Direction des images |  | 10  |
+|  Mise tombé |  | 0  |
+|  Température de l'air | 1/1.3 | 15,5  |
+|  Hauteur de la mer | 40,1 | 46,1  |
+|  Régulation de l'eau | 0 | 0  |
+|  Sémite au bout de la jeté | 1026,1 | 1026,8  |
+|  Température de l'eau | 1/1.4 | 15,3  |
+
+V. 23 (Avril - 1902) Matin Soir
+
+|  Hauteur Marométrique | 4/9.3 | 1  |
+| --- | --- | --- |
+|  Direction du vent |  | 0,0  |
+|  Force | 2/2 (aide) | 10  |
+|  Nocbulosité | Reg. O. (lire) | 10  |
+|  Direction des images |  | 0,0  |
+|  Mise tombée |  | 4,63/1  |
+|  Température de l'air | 1/1.2 | 1/1.2  |
+|  Hauteur de la mer | 40,8 | 46,8  |
+|  Régulation de l'eau | 1 | 1  |
+|  Sémite au bout de la jeté | 1026,4 | 1026,4  |
+|  Température de l'eau | 14,4 | 14,4  |

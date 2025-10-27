@@ -1,0 +1,16 @@
+# Date. 11 mai 1901
+
+|  Item | 9" Matin | 3" Soir  |
+| --- | --- | --- |
+|  Kanteur Barométrique | 754,3 | 752,4  |
+|  Direction du vent |  |   |
+|  Force | 15 |   |
+|  Rébulosité | Reg. C. (terre) | 3  |
+|  Débulosité | Reg. E. (mer) | 3  |
+|  Direction des nuages |  |   |
+|  Mue Tombe |  |   |
+|  Température de l'air | 13,8 | 11,3  |
+|  Kanteur de la mer | 08,1 | 08,3  |
+|  Débitation de l'eau | 3 fois | 3  |
+|  Sensibilité de l'eau | 1028,4 | 1028,1  |
+|  Température de l'eau | 13,5 | 14,4  |

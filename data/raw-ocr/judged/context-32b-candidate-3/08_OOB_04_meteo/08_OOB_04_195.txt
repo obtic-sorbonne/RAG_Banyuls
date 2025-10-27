@@ -1,0 +1,16 @@
+```
+V. 26 février - 1903 | Matin | Soir |
+| --- | --- | --- |
+|  Hauteur Barométrique | 768.0 | 762.0 |
+|  Direction du vent | 120.0 | 120.0 |
+|  Force | 15 | 15.0 |
+|  Nébulosité (Reg. O. (terre)) | 10 | 10 |
+|  Nébulosité (Reg. E. (mer)) | 10 | 10 |
+|  Direction des nuages | 120.0 | 120.0 |
+|  Pluie tombée | 0 | 0 |
+|  Température de l'air | 4.8 | 12.8 |
+|  Hauteur de la mer | 27.2 | 50.0 |
+|  Agitation de l'eau | 8 | 8 |
+|  Densité au bout de la jetée | 1028.8 | 1028.8 |
+|  Température de l'eau | 11.2 | 12.1 |
+```

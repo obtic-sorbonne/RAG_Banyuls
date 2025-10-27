@@ -1,0 +1,31 @@
+```plaintext
+| Pêche à la traîne | nombre de pairs de bateaux | Quantité de poisson pêché (kg) |
+|---|---|---|
+| du 4 Avril -1905 | 36 | 872 |
+| V. 4 Avril -1905 | Matin | Soir |
+| Hauteur Barométrique | 761,6 | 764,3 |
+| Direction du vent | O.O.S.E. | S.S.E. |
+| Force | 2 fort. | 1 fort. légèrement |
+| Nébulosité Reg. G. (terre) | 2 | 2 |
+| Reg. E. (mer) | 0 | Légèrement c. |
+| Direction des nuages | O.O.S.E. | N.N.O. |
+| Pluie tombée | 2,0 | " |
+| Température de l'air | 16,2 | 19,1 |
+| Hauteur de la mer | 47,3 | 48,3 |
+| Agitation de l'eau | 2 faible | 2 faible |
+| Densité au bout de la jetée | 1028,2 | 1028,0 |
+| Température de l'eau | 17,3 | 16,2 |
+| V. 5 Avril -1905 | Matin | Soir |
+| Hauteur Barométrique | 764,9 | 764,3 |
+| Direction du vent | O.O.S.E. | O.O.S.E. |
+| Force | 2 | 2 fort. |
+| Nébulosité Reg. G. (terre) | 10 | 1 |
+| Reg. E. (mer) | 10 | 1 |
+| Direction des nuages | O.O.S.E. | N.N.O. |
+| Pluie tombée | quelques gouttes | " |
+| Température de l'air | 19,6 | 20,0 |
+| Hauteur de la mer | 46,2 | 46,8 |
+| Agitation de l'eau | 1 fort. | 3 faible |
+| Densité au bout de la jetée | 1028,2 | 1028,0 |
+| Température de l'eau | 19,2 | 19,9 |
+```

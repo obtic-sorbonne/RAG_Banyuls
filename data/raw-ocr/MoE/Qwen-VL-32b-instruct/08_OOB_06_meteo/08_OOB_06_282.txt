@@ -1,0 +1,43 @@
+| **OBSERVATIONS DU 19°2 10 Mai** |
+| --- |
+| Nombre de bateaux sortis (pêche à l...) | 29.9 |
+| TemPERATURE DE L'AIR | maxima depuis la veille | 29.9 |
+|  | minima id. | 16.9 |
+| TemPERATURE DE L'EAU | maxima depuis la veille |  |
+|  | minima id. |  |
+| Pluie tombée depuis la veille, en millim. |  |
+| Evaporation depuis le 190, en millim. |  |
+| **à 9 h. m.** | **à 3 h. s.** |
+| Direction du vent (à terre) | N.N.E | S.S.E. |
+| Force | I. faible | I. |
+| Direction des nuages | n.n.o | n.n.o |
+| Nébulosité | région Ouest (terre) | 10 | 10 |
+|  | id. Est (mer) | 10 | 10 |
+| Hauteur de la mer, en centimètres, au-dessus du zéro (B.Q.) | 48.0 | 46.1 |
+| Agitation de l'eau | I. faible | I. faible |
+| Densité de l'eau au bout de la jetée | 1026.1 | 1026.5 |
+| - is. - je. - matin… (humide) | 20.9 | 29.4 |
+| - is. - je. - matin (Maxima) | 31.0 | 39.8 |
+| - is. - je. - soir (Minima) | 13.7 | 23.0 |
+
+| **OBSERVATIONS DU 19°2 11 Mai** |
+| --- |
+| Nombre de bateaux sortis (pêche à l...) | 32.7 |
+| TemPERATURE DE L'AIR | maxima depuis la veille | 32.7 |
+|  | minima id. | 17.9 |
+| TemPERATURE DE L'EAU | maxima depuis la veille |  |
+|  | minima id. |  |
+| Pluie tombée depuis la veille, en millim. |  |
+| Evaporation depuis le 190, en millim. |  |
+| **à 9 h. m.** | **à 3 h. s.** |
+| Direction du vent (à terre) | O.S. E | S.S.E. |
+| Force | I. | 2. |
+| Direction des nuages | 11 | 11 |
+| Nébulosité | région Ouest (terre) | 0 | 8 légèrement(Mosa) |
+|  | id. Est (mer) | 0 | 8 légèrement(Mosa) |
+| Hauteur de la mer, en centimètres, au-dessus du zéro (B.Q.) | 44.7 | 41.9 |
+| Agitation de l'eau | II. faible | II. faible |
+| Densité de l'eau au bout de la jetée | 1024.1 | 1021.4 |
+| - is. - je. matin et soir | 29.4 | 29.9 |
+| - is. - je. matin (Maxima) | 38.9 | 34.9 |
+| - is. - je. soir (Minima) | 15.6 | 25.7 |

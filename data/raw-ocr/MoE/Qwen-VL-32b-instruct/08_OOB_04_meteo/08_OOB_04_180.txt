@@ -1,0 +1,31 @@
+# N. 18 Janvier - 1903
+
+|  **Pfandem** | **Ponent**  |
+| --- | --- |
+|  Sélection du vent | 2.59.0  |
+|  Force | 2.59.0  |
+|  **Sélection** | **10**  |
+|  **Rey. 2. (mur)** | **10**  |
+|  Sélection des mages | 2.59.0  |
+|  **Prix tombé** | **27.0**  |
+|  **Sempliration de l'air** | **9.2**  |
+|  **Pandem de la mer** | **5 fièdes**  |
+|  **Cagitation de l'eau** | **5 fièdes**  |
+|  **Densité au bout de la jetée** | **5 fièdes**  |
+|  **Sempliration de l'eau** | **5 fièdes**  |
+
+# N. 19 Janvier - 1903
+
+|  **Pfandem** | **Ponent**  |
+| --- | --- |
+|  Sélection du vent | 2.59.0  |
+|  Force | 2.59.0  |
+|  **Sélection** | **10**  |
+|  **Rey. 0. (mur)** | **10**  |
+|  Sélection des mages | 2.59.0  |
+|  **Prix tombé** | **27.0**  |
+|  **Sempliration de l'air** | **9.2**  |
+|  **Pandem de la mer** | **5 fièdes**  |
+|  **Cagitation de l'eau** | **5 fièdes**  |
+|  **Densité au bout de la jetée** | **5 fièdes**  |
+|  **Sempliration de l'eau** | **5 fièdes**  |

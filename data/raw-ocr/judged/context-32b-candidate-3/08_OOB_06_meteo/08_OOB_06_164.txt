@@ -1,0 +1,53 @@
+```plaintext
+### OBSERVATIONS DU 1901, 9 juin
+
+| **Nombre de bateaux sortis (pêche à la...)** | **9** |
+| **Température de l'air** |  |
+| - **maxima depuis la veille** | **36,2** |
+| - **minima id.** | **16,1** |
+| **Température de l'eau** |  |
+| - **maxima depuis la veille** |  |
+| - **minima id.** |  |
+| **Pluie tombée depuis la veille, en millim.** |  |
+| **Evaporation depuis le 1901, en millim.** |  |
+| **Direction du vent (à terre)** | **à 9 h. m.** | **à 3 h. s.** |
+| - **Force** | **1 faible** | **1 faible** |
+| - **Direction des nuages** | **S.O.** | **S.O.** |
+| **Nébulosité** |  |
+| - **région Ouest (terre)** | **10** | **10** |
+| - **id. Est (mer)** | **10** | **10** |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.)** | **34,0** | **29,8** |
+| **Agitation de l'eau** | **Très faible** | **Faible** |
+| **Densité de l'eau au bout de la jetée** | **1026,6** | **1029,8** |
+| **Température id.** |  |
+| - **id. Balança** | **24,3** | **24,3** |
+| - **id. terrasse - Matin** | **Maxima 31,7** | **Maxima 37,0** |
+| - **id. Minima** | **16,1** | **26,2** |
+| - **id. - Soir** | **Maxima 37,0** | **Minima 26,2** |
+
+### OBSERVATIONS DU 1901, 10 juin
+
+| **Nombre de bateaux sortis (pêche à la...)** | **7** |
+| **Température de l'air** |  |
+| - **maxima depuis la veille** | **28,7** |
+| - **minima id.** | **14,6** |
+| **Température de l'eau** |  |
+| - **maxima depuis la veille** |  |
+| - **minima id.** |  |
+| **Pluie tombée depuis la veille, en millim.** | **14,62** |
+| **Evaporation depuis le 1901, en millim.** |  |
+| **Direction du vent (à terre)** | **à 9 h. m.** | **à 3 h. s.** |
+| - **Force** | **1 faible** | **1 faible** |
+| - **Direction des nuages** | **N.O.** | **N.O.** |
+| **Nébulosité** |  |
+| - **région Ouest (terre)** | **10** | **10** |
+| - **id. Est (mer)** | **10** | **10** |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.)** | **33,1** | **29,9** |
+| **Agitation de l'eau** | **Faible** | **Faible** |
+| **Densité de l'eau au bout de la jetée** | **1029,6** | **1029,3** |
+| **Température id.** |  |
+| - **id. Balança** | **19,6** | **19,6** |
+| - **id. terrasse - Matin** | **Maxima 36,9** | **Maxima 33,0** |
+| - **id. Minima** | **14,6** | **Minima 14,6** |
+| - **id. - Soir** | **Maxima 30,7** | **Minima 14,6** |
+```

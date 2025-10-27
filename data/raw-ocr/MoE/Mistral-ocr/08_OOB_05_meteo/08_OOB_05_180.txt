@@ -1,0 +1,27 @@
+|  1. 28 Novembre - 1905 | Nobilier | Poir  |
+| --- | --- | --- |
+|  Hauteur Nouvellique | 202.3 | 202.4  |
+|  Direction du Taut | 10.0 | 10.0  |
+|  Force | 1.0 | 1.0  |
+|  Nibulonite (Reg. C. (tien) | 10 | 10 Cajoune  |
+|  Nibulonite (Reg. 2. (mor) | 10 | 10 Cajoune  |
+|  Direction des mages | 10.0 | 10.0  |
+|  Flue Tombe |  |   |
+|  Dempierature de l'air | 11.2 | 11.1  |
+|  Hauteur de la mer | 12.0 | 12.8  |
+|  Capitalien de l'eau | 3 | 3 Jatte  |
+|  Densité au bout de la jetée | 1029.0 | 1028.9  |
+|  Dempierature de l'eau | 16.0 | 11.6  |
+|  1. 29 Novembre - 1906 | Nobilier | Poir  |
+|  Hauteur Nouvellique | 222.3 |   |
+|  Direction du Taut | 10.0 |   |
+|  Force | 5 |   |
+|  Nibulonite (Reg. C. (tien) | 0 |   |
+|  Nibulonite (Reg. 2 (mor) | 0 |   |
+|  Direction des mages |  |   |
+|  Flue Tombe |  |   |
+|  Dempierature de l'air | 11.2 |   |
+|  Hauteur de la mer | 18.2 |   |
+|  Capitalien de l'eau | 2 |   |
+|  Densité au bout de la jetée | 1028.9 |   |
+|  Dempierature de l'eau | 16.0 |   |

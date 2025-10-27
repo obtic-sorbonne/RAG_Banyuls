@@ -1,0 +1,7 @@
+```plaintext
+| Date              | Horaire | Hauteur Barométrique | Direction du vent | Force | Nébulosité (Reg. O. - Terre) | Nébulosité (Reg. E. - Mer) | Direction des nuages | Pluie Tombée | Température de l'air | Hauteur de la mer | Agitation de l'eau | Densité au bout de la jetée | Température de l'eau |
+|-------------------|---------|---------------------|-------------------|-------|------------------------------|---------------------------|----------------------|--------------|----------------------|-------------------|--------------------|------------------------------|----------------------|
+| V. 30 Avril 1902  | Matin   | 761,4               | er. cr. o         | 6     | 0 (basse)                   | 0 (moyenne)               | Ouest                | quelques g  | 14,6                | 49,0              | 3                  | 102,8                        | 14,6                |
+| V. 1er Mai 1902   | Matin   | 762,6               | er. cr. o         | faible| 1 (basse)                    | 2 légères                 | Ouest                |              | 14,4                | 50,6              | 3                  | 102,1                        | 14,1                |
+| V. 1er Mai 1902   | Soir    |                     |                   |       |                             |                           |                     |              | 14,3                |                  |                    |                             | 14,3                |
+```

@@ -1,0 +1,17 @@
+| **Données**                          | **9h Matin** | **3h Soir** |
+|--------------------------------------|-------------|-------------|
+| **Hauteur Barométrique**             | 762,4       | 760,8       |
+| **Direction du vent**                | N.N.O       | S.S.E       |
+| **Force**                            | 2           | 2 faible    |
+| **Nébulosité**                       |             |             |
+|   - Rég. O. (lère)                  | 0           | 0           |
+|   - Rég. E. (mer)                    | 0           | 0           |
+| **Direction des nuages**             |             | N.N.O       |
+| **Pluie tombée**                     |             |             |
+| **Température de l'air**             | 17,7        | 20,1        |
+| **Hauteur de la mer**                | 38,9        | 50,0        |
+| **Agitation de l'eau**               | 2           | 1 T. fort   |
+| **Densité de l'eau**                 |             |             |
+|   - Au bout de la jetée             | 1027,8      | 1027,5      |
+|   - Au large                        |             |             |
+| **Température de l'eau**             | 19,3        | 19,8        |

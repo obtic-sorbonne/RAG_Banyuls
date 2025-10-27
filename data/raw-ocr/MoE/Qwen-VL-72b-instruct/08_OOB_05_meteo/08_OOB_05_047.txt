@@ -1,0 +1,8 @@
+| Nombre de bateaux | Nombre de paix | V. 18 Octobre 1905 Matin | V. 18 Octobre 1905 Soir |
+|---|---|---|---|
+| & | & | Hauteur Barométrique<br>Direction du vent<br>Force<br>Nébulosité<br>Direcction des nuags<br>Pluie tombée<br>Température de l'air<br>Hauteur de la mer<br>Oscitation de l'eau<br>Densité au bout de la jetée<br>Température de l'eau | 764.3<br>cr.cr.o<br>is<br>Rég.O.(terre)<br>L.Rég.E.(mer)<br>"<br>S<br>40.9<br>3 faible<br>1028.4<br>18.0 |
+| & | & | & | 763.3<br>CNOS<br>d.fort<br>8 fort<br>1<br>cr.<br>cr.8<br>S<br>44.8<br>3 faible<br>1028.9<br>18.0 |
+| Nombre de bateaux | Nombre de paix | V. 19 Octobre 1905 Matin | V. 19 Octobre 1905 Soir |
+|---|---|---|---|
+| & | & | Hauteur Barométrique<br>Direction du vent<br>Force<br>Nébulosité<br>Direcction des nuags<br>Pluie tombée<br>Température de l'air<br>Hauteur de la mer<br>Oscitation de l'eau<br>Densité au bout de la jetée<br>Température de l'eau | 763.0<br>I.S.E<br>is<br>Rég.O.(terre)<br>L.Rég.E.(mer)<br>"<br>M<br>42.9<br>IT.FORT<br>1028.9<br>19.2 |
+| & | & | & | 1.8.8<br>2<br>0<br>0<br>"<br>W<br>17.4fort |

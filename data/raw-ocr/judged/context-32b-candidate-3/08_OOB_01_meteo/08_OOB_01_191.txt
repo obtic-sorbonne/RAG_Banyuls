@@ -1,0 +1,19 @@
+# Date. 2 Février. 1901
+
+|  | 7 h. 1/1 matin | 3 h. Soir |
+| --- | --- | --- |
+| **Hauteur Barométrique** | 753,2 | 757,4 |
+| **Direction du vent** | Ouest | Sud |
+| **Force** | 2, fort | 1, fort |
+| **Nébulosité** | 0 | 10 |
+| **Rég. E. (terre)** | 0 | 10 |
+| **Rég. E. (mer)** | 0 | 10 |
+| **Direction des nuages** | 1000 | 9000 |
+| **Pluie tombée** | 0 | 0 |
+| **Température de l'air** | 7,0 | 3,1 |
+| **Hauteur de la mer** | 45,3 | 55,4 |
+| **Agitation de l'eau** | 1, fort | 1, faible |
+| **Densité de l'eau** | 1028,4 | 1028,4 |
+| **au bout de la jetée** | 1028,4 | 1028,4 |
+| **au large** | 1028,4 | 1028,4 |
+| **Température de l'eau** | 12,1 | 18,1 |

@@ -1,0 +1,31 @@
+```plaintext
+| **Date**         | **V. 21 Octobre 1901** | **Matin** | **Soir** |
+|------------------|-----------------------|-----------|----------|
+| Hauteur Barométrique | 788.6 | 788.7 |
+| Direction du vent | S.S.E. | S.S. |
+| Force | 1/5 | 2 fort |
+| Nebulosité (Terre) | Reg. 6. (Claire) | 0 | 2 |
+| Nebulosité (Mer) | Reg. E. (mer) | 0 | 1 |
+| Direction des nuages | S.S.E. | Sud |
+| Pluie tombée | 9.37 | " |
+| Température de l'air | 13.2 | 10.8 |
+| Hauteur de la mer | 37.1 | 25.2 |
+| Agitation de l'eau | 1 faible | 1 fort |
+| Densité au bout de la jetée | 1027.4 | 1027.7 |
+| Température de l'eau | 17.4 | 17.2 |
+
+| **Date**         | **V. 22 Octobre 1901** | **Matin** | **Soir** |
+|------------------|-----------------------|-----------|----------|
+| Hauteur Barométrique | 788.4 | 788.6 |
+| Direction du vent | E. cr. o | E. cr. 8 |
+| Force | 2 | 1 fort |
+| Nebulosité (Terre) | Reg. 6. (Claire) | 0 | 0 |
+| Nebulosité (Mer) | Reg. E. (mer) | 2 | 0 |
+| Direction des nuages | E. cr. o | E. cr. 8 |
+| Pluie tombée | " | " |
+| Température de l'air | 13.2 | 11.9 |
+| Hauteur de la mer | 38.2 | 22.1 |
+| Agitation de l'eau | 1 faible | 1 fort |
+| Densité au bout de la jetée | 1027.9 | 1027.4 |
+| Température de l'eau | 17.2 | 17.3 |
+```

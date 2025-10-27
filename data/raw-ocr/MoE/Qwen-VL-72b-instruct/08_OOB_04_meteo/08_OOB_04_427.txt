@@ -1,0 +1,28 @@
+|  | Matin | Soir |
+| --- | --- | --- |
+| Hauteur Barométrique | 766,0 | 761,3 |
+| Direction du vent | cr.o.s | s.e |
+| Force | i5 | 1 |
+| Nébulosité Reg. O. (terre) | o | o |
+| Reg. E. (mer) | o | o |
+| Direction des nuages | " | " |
+| Pluie tombée | " | " |
+| Température de l'air | 20,4 | 23,9 |
+| Hauteur de la mer | 49,7 | 36,7 |
+| Agitation de l'eau | 1 | 1 |
+| Densité au bout de la jetée | 1027,4 | 1027,5 |
+| Température de l'eau | 19,7 | 20,1 |
+|  |  |  |
+| 4 Octobre -1904 | Matin | Soir |
+| Hauteur Barométrique | 766,8 |  |
+| Direction du vent | cr.o.s.o |  |
+| Force | i5 |  |
+| Nébulosité Reg. O. (terre) |  | 3 légèrement |
+| Reg. E. (mer) |  | 3 légèrement |
+| Direction des nuages | " |  |
+| Pluie tombée | " |  |
+| Température de l'air | 21,1 |  |
+| Hauteur de la mer | 53,0 |  |
+| Agitation de l'eau | faible |  |
+| Densité au bout de la jetée | 1027,3 |  |
+| Température de l'eau | 20,3 |  |

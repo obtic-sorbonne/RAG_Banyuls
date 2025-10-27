@@ -1,0 +1,28 @@
+| V. 14 Aout. 1907 | Matin | Soir |
+|-----------------|-------|------|
+| Hauteur Barometrique | 769,3 |      |
+| Direction du vent | S. cr. E |      |
+| Force | 15 |      |
+| Nébulosité | 0 |      |
+| (Reg. xi. (cm)) | 0 |      |
+| Direction des nuages | " |      |
+| Pluie tombée | " |      |
+| Température de l'air | 27,9 |      |
+| Hauteur de la mer | 11,6 |      |
+| Agitation de l'eau | 1 T. faible |      |
+| Densité au bous de la jetée | 1027,4 |      |
+| Température de l'eau | 24,2 |      |
+| V. 16 Aout. 1907 | Matin | Soir |
+|-----------------|-------|------|
+| Hauteur Barometrique | 762,3 |      |
+| Direction du vent | N. cr. O |      |
+| Force | 15 |      |
+| Nébulosité | 10 |      |
+| (Reg. xi. (cm)) | 60 |      |
+| Direction des nuages | N. cr. O |      |
+| Pluie tombée | quelques |      |
+| Température de l'air | 21,2 |      |
+| Hauteur de la mer | 12,9 |      |
+| Agitation de l'eau | 2 T. forte |      |
+| Densité au bous de la jetée | 1027,9 |      |
+| Température de l'eau | 21,6 |      |

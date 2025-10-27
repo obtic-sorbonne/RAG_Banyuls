@@ -1,0 +1,41 @@
+| **Observations du 1960 13** |
+| **Données**                                   | **Valeurs**                |
+| Nombre de bateaux sortis (pêche à l.)          | 23.0                      |
+| Température de l'air                           | maxima depuis la veille   | 23.0                      |
+|                                              | minima id.                | 14.4                      |
+| Température de l'eau                          | maxima depuis la veille   | -                         |
+|                                              | minima id.                | -                         |
+| Pluie tombée depuis la veille, en millim.     | -                         |
+| Evaporation depuis le 190°, en millim.         | -                         |
+| Direction du vent (à terre)                   | à 9 h. m.                | N.N.O.                    |
+|                                              | à 3 h. s.                | N.O.                      |
+| Force                                        | -                         |
+| Direction des nuages                         | n.n.o.                    |
+| Nébulosité                                   | région Ouest (terre)      | 10                        |
+|                                              | id. Est (mer)             | 10                        |
+| Hauteur de la mer, en centimètres, au-dessus du zéro (Bassin de Rabat) | 29.4                      |
+| Agitation de l'eau                            | 9/jeu vagues              |
+| Densité de l'eau au bout de la jetée           | 1027,6                     |
+| Température                                  | 18.0                      |
+
+---
+
+| **Observations du 1960 14** |
+| **Données**                                   | **Valeurs**                |
+| Nombre de bateaux sortis (pêche à l.)          | 21.6                      |
+| Température de l'air                           | maxima depuis la veille   | 21.6                      |
+|                                              | minima id.                | 14.2                      |
+| Température de l'eau                          | maxima depuis la veille   | -                         |
+|                                              | minima id.                | -                         |
+| Pluie tombée depuis la veille, en millim.     | quelques g                |
+| Evaporation depuis le 190°, en millim.         | -                         |
+| Direction du vent (à terre)                   | à 9 h. m.                | N.O.                      |
+|                                              | à 3 h. s.                | Nord                      |
+| Force                                        | 4                         |
+| Direction des nuages                         | -                         |
+| Nébulosité                                   | région Ouest (terre)      | 2                         |
+|                                              | id. Est (mer)             | 10                        |
+| Hauteur de la mer, en centimètres, au-dessus du zéro (Bassin de Rabat) | 42,0 / 29,4               |
+| Agitation de l'eau                            | 2                         |
+| Densité de l'eau au bout de la jetée           | 1028,7                    |
+| Température                                  | 17.9                      |

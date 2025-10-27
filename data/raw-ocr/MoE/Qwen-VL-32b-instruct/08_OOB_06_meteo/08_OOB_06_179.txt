@@ -1,0 +1,51 @@
+| **OBSERVATIONS DU 1901 21 juillet** |
+| --- |
+| **Nombre de bateaux sortis (pêche à l'anchoris)** | 84 |
+| **Température de l'air** |  |  |
+|     |maxima depuis la veille| |
+|     |minima id.| |
+| **Température de l'eau** |  |  |
+|     |maxima depuis la veille| |
+|     |minima id.| |
+| **Pluie tombée depuis la veille, en millim.** | |
+| **Evaporation depuis le 1900, en millim.** | |
+| **Direction du vent (à terre)** | à 9 h. m. | à 3 h. s. |
+| **----- Force** | N-E | S-S-E fort. |
+| **Direction des nuages** |山水 |山水 |
+| **Nébulosité** |  |  |
+|     |région Ouest (terre)| 0 | 0 |
+|     |id. Est (mer)| 0 | 0 |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.)** | 49,5 | - |
+| **Agitation de l'eau** | faible |  |
+| **Densité de l'eau au bout de la jetée** | 1021,3 |  |
+| **Température** |  |  |
+|     |- iS. Bulaux | 30,6 | 37,3 |
+|     |- iS. Ferron **Matin** |  |  |
+|         |Maxima| 49,9 | |
+|         |minima| 22,9 | |
+|  | **Minima** |  |
+|  | S 19.9 | |
+| **OBSERVATIONS DU 1901 22 juillet** |
+| **Nombre de bateaux sortis (pêche à l'anchoris)** |  |
+| **Température de l'air** |  |  |
+|     |maxima depuis la veille (prises aux thermomètres du jardin)| 34.4 | |
+|     |minima id.| 21.9 | |
+| **Température de l'eau** |  |  |
+|     |maxima depuis la veille| |
+|     |minima id.| |
+| **Pluie tombée depuis la veille, en millim.** | |
+| **Evaporation depuis le 1900, en millim.** | |
+| **Direction du vent (à terre)** | à 9 h. m. | à 3 h. s. |
+| **----- Force** | N-E | S-S-E fort. |
+| **Direction des nuages** |山水 |山水 |
+| **Nébulosité** |  |  |
+|     |région Ouest (terre)| 0 | 0 |
+|     |id. Est (mer)| 0 | 0 |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.)** | 48,8 | 53,8 |
+| **Agitation de l'eau** | faible | 1 |
+| **Densité de l'eau au bout de la jetée** | 1024,6 |  |
+| **Température** |  |  |
+|     |- iS. Bulaux | 23,8 | 31,7 |
+|     |- iS. Ferron **Matin** | | |
+|         |Maxima| 58,4 | |
+|         |minima| 19,9 | |

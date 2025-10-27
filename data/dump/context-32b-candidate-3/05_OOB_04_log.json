@@ -1,0 +1,1444 @@
+{
+  "book_name": "05_OOB_04_log",
+  "pages": [
+    {
+      "page_number": "001",
+      "raw_content": "```\nGunnar du Bord\nIV\n```",
+      "cleaned_content": "```\nGunnardu Bord\nIV\n```",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "002",
+      "raw_content": "\"\"",
+      "cleaned_content": "\"\"",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "003",
+      "raw_content": "```\n```",
+      "cleaned_content": "```\n```",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "004",
+      "raw_content": "\"\"",
+      "cleaned_content": "\"\"",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "005",
+      "raw_content": "```\nETAT DE NAVIGATION\n\nAu large de la Baie de Seine  \nPort: 45  \n\n\u00c9TAT DE L'\u00c9QUIPAGE :  \nL'\u00e9quipage complet.  \n\nR\u00c9SULTAT :  \nP\u00eache pour 1 quartier-ma\u00eetre  \n\nRemarques :  \nChalut  \n\n[Signature]  \nM. Darlu  \n5 Nov 1890\n```",
+      "cleaned_content": "```\nETAT DE NAVIGATION\n\nAulargedela Baiede Seine  \nPort: 45  \n\n\u00c9TAT DE L'\u00c9QUIPAGE :  \nL'\u00e9quipagecomplet.  \n\nR\u00c9SULTAT :  \nP\u00eachepour 1 quartier-ma\u00eetre  \n\nRemarques :  \nChalut  \n\n[Signature]  \nM. Darlu  \n5 Nov 1890\n```",
+      "entities": {
+        "dates": [
+          "5 Nov 1890"
+        ]
+      }
+    },
+    {
+      "page_number": "006",
+      "raw_content": "```\nM. Darlu\n6 Nov 1890\n\nChalut  \nau large de Boulogne  \nR\u00e9sultat op\u00e9rations: P\u00eache  \npour 1 quartier-ma\u00eetre  \n\n[Signature]\n```",
+      "cleaned_content": "```\nM. Darlu\n6 Nov 1890\n\nChalutaulargede Boulogne  \nR\u00e9sultatop\u00e9rations: P\u00eachepour 1 quartier-ma\u00eetre  \n\n[Signature]\n```",
+      "entities": {
+        "dates": [
+          "6 Nov 1890"
+        ]
+      }
+    },
+    {
+      "page_number": "007",
+      "raw_content": "M\u00b0 d'Ortice  \n19 Juillet 1890  \n\nChalut.  \n\nLocalit\u00e9 : au large de la Baie de Bourgneuf, port 45  \n\u00c9tat \u00e0 bord: l'\u00e9quipage complet.  \nM\u00b0 L\u00e9on Marchal  \n\nR\u00e9sultat : Eleodinae Meroschenkoi - Crangonyx antarcticus - Orphnoides.",
+      "cleaned_content": "M\u00b0 d'Ortice  \n19 Juillet 1890  \n\nChalut.  \n\nLocalit\u00e9 : aulargedela Baiede Bourgneuf, port 45  \n\u00c9tat \u00e0 bord: l'\u00e9quipagecomplet.  \nM\u00b0 L\u00e9on Marchal  \n\nR\u00e9sultat : Eleodinae Meroschenkoi - Crangonyxantarcticus - Orphnoides.",
+      "entities": {
+        "dates": [
+          "19 Juillet 1890"
+        ]
+      }
+    },
+    {
+      "page_number": "008",
+      "raw_content": "12<sup>e</sup> Vartie  \n16 Xbre 1890  \n\nChalut  \n\nLocalit\u00e9 : Bois, presq. 40 m\u00e8tres  \n\nRemarques : crustac\u00e9s vivants",
+      "cleaned_content": "12<sup>e</sup> Vartie  \n16 Xbre 1890  \n\nChalut  \n\nLocalit\u00e9 : Bois, presq. 40 m\u00e8tres  \n\nRemarques : crustac\u00e9svivants",
+      "entities": {
+        "dates": [
+          "16 Xbre 1890"
+        ]
+      }
+    },
+    {
+      "page_number": "009",
+      "raw_content": "```\n13<sup>e</sup> varit\u00e9\n28 Nov. 1790\n\nRecherche des amphores\nPour des esclaves \u00e0 vendre en\nMarseillanques.\n```",
+      "cleaned_content": "```\n13<sup>e</sup> varit\u00e9\n28 Nov. 1790\n\nRecherchedesamphores\nPourdesesclaves \u00e0 vendreen\nMarseillanques.\n```",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "010",
+      "raw_content": "```\n14<sup>e</sup> Partie\n22 Novembre 1790\n\nRecherche des amphores\nR\u00e9sultats &amp; Pluvious\n\nSubstantus\n```",
+      "cleaned_content": "```\n14<sup>e</sup> Partie\n22 Novembre 1790\n\nRecherchedesamphores\nR\u00e9sultats &amp; Pluvious\n\nSubstantus\n```",
+      "entities": {
+        "dates": [
+          "22 Novembre 1790"
+        ]
+      }
+    },
+    {
+      "page_number": "011",
+      "raw_content": "```\n15<sup>e</sup> Sortie  \n23 Novembre 1890  \n\nChalut  \n\nLocalit\u00e9 : Large du Cap de S\u00e9ranne  \nR\u00e9sultats : Ascension du ciel  \nRemarques : Prise de crustac\u00e9s?  \n/ Signature / \n```",
+      "cleaned_content": "```\n15<sup>e</sup> Sortie  \n23 Novembre 1890  \n\nChalut  \n\nLocalit\u00e9 : Largedu Capde S\u00e9ranne  \nR\u00e9sultats : Ascensionduciel  \nRemarques : Prisedecrustac\u00e9s?  \n/ Signature / \n```",
+      "entities": {
+        "dates": [
+          "23 Novembre 1890"
+        ]
+      }
+    },
+    {
+      "page_number": "012",
+      "raw_content": "```\n16<sup>e</sup> Sortie  \n5 Janvier 1891  \n\nChalut  \n\nLocalit\u00e9 : S.mille N.E. du cap B\u00e9ar  \n\nR\u00e9sultats : S\u00e9ones, Volgula impura,  \nSpirographa, Bernard et Adamsia  \n\nPour M<sup>lle</sup> Bouho  \n\nP. Quiles.\n```",
+      "cleaned_content": "```\n16<sup>e</sup> Sortie  \n5 Janvier 1891  \n\nChalut  \n\nLocalit\u00e9 : S.mille N.E. ducap B\u00e9ar  \n\nR\u00e9sultats : S\u00e9ones, Volgulaimpura,  \nSpirographa, Bernardet Adamsia  \n\nPour M<sup>lle</sup> Bouho  \n\nP. Quiles.\n```",
+      "entities": {
+        "dates": [
+          "5 Janvier 1891"
+        ]
+      }
+    },
+    {
+      "page_number": "013",
+      "raw_content": "```\nN\u00b0 Sortie\n31 janvier 1891\n\nChalut\n\nLocalit\u00e9 : large du Cap B\u00e9ar par 4 h. p. m.\n\nR\u00e9sultat = Cynthia Phallus\n2 centaines 1 liquide - N\u00e9m\u00e9n\u00e9es - \u00c9lectones\n\n[Signature]\n```",
+      "cleaned_content": "```\nN\u00b0 Sortie\n31 janvier 1891\n\nChalut\n\nLocalit\u00e9 : largedu Cap B\u00e9arpar 4 h. p. m.\n\nR\u00e9sultat = Cynthia Phallus\n2 centaines 1 liquide - N\u00e9m\u00e9n\u00e9es - \u00c9lectones\n\n[Signature]\n```",
+      "entities": {
+        "dates": [
+          "31 janvier 1891"
+        ]
+      }
+    },
+    {
+      "page_number": "014",
+      "raw_content": "```\n18<sup>e</sup> Sortie  \n7 F\u00e9vrier 1891  \n\nChalut  \nau large de la Baie de Biscaye  \n\nR\u00e9sultats : \u00c9chouage - casse\n```",
+      "cleaned_content": "```\n18<sup>e</sup> Sortie  \n7 F\u00e9vrier 1891  \n\nChalutaulargedela Baiede Biscaye  \n\nR\u00e9sultats : \u00c9chouage - casse\n```",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "015",
+      "raw_content": "```\n19<sup>e</sup> Sortie  \n17 f\u00e9vrier 1891  \n\nChalut.  \nLigne de la c\u00f4te de Biscaye.  \n\nR\u00e9sultat : ophtalmie - Elidomyl Verbiusly  \n\n[Signature]\n```",
+      "cleaned_content": "```\n19<sup>e</sup> Sortie  \n17 f\u00e9vrier 1891  \n\nChalut.  \nLignedelac\u00f4tede Biscaye.  \n\nR\u00e9sultat : ophtalmie - Elidomyl Verbiusly  \n\n[Signature]\n```",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "016",
+      "raw_content": "```\n20<sup>e</sup> Sortie  \n19 f\u00e9vrier 1891  \n\nCharles.  \nJourn\u00e9e du Coup Bien  \nR\u00e9sultat : Glodon, Challons  \n1. Remenais.\n\n[Signature]\n```",
+      "cleaned_content": "```\n20<sup>e</sup> Sortie  \n19 f\u00e9vrier 1891  \n\nCharles.  \nJourn\u00e9edu Coup Bien  \nR\u00e9sultat : Glodon, Challons  \n1. Remenais.\n\n[Signature]\n```",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "017",
+      "raw_content": "21<sup>e</sup> Sortie  \n20 f\u00e9vrier 1891  \n\nChalon  \nEmilien du Cap Corbi\u00e8re  \nJean Rome  \n\nR\u00e9sultats : Electra \u2013 Eching  \nacutus \u2013 fragumes \u2013 Paris  \nCentauria \u2013 Eminens  \nNotatina sum hydromics  \nneminis",
+      "cleaned_content": "21<sup>e</sup> Sortie  \n20 f\u00e9vrier 1891  \n\nChalon  \nEmiliendu Cap Corbi\u00e8re  \nJean Rome  \n\nR\u00e9sultats : Electra \u2013 Echingacutus \u2013 fragumes \u2013 Paris  \nCentauria \u2013 Eminens  \nNotatinasumhydromicsneminis",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "018",
+      "raw_content": "```\n22<sup>e</sup> Sortie  \n22 mars 1791  \n\nLambert  \nParagu du Cidaris  \nR\u00e9sultat : Cidaris  \nPetits & grands.  \n\n[Signature]\n```",
+      "cleaned_content": "```\n22<sup>e</sup> Sortie  \n22 mars 1791  \n\nLambert  \nParagudu Cidaris  \nR\u00e9sultat : Cidaris  \nPetits & grands.  \n\n[Signature]\n```",
+      "entities": {
+        "dates": [
+          "22 mars 1791"
+        ]
+      }
+    },
+    {
+      "page_number": "019",
+      "raw_content": "```\n23<sup>e</sup> Sortie\n9 Mars 1791\n\nHaulbut.\n\nEntre le cap Ridere, et le\ncap Cerbine. Carbone.\npar 3 pm\n\nR\u00e9sultat : gorgones,\nsymphadines. Muric\u00e9es.\n```",
+      "cleaned_content": "```\n23<sup>e</sup> Sortie\n9 Mars 1791\n\nHaulbut.\n\nEntrelecap Ridere, etlecap Cerbine. Carbone.\npar 3 pm\n\nR\u00e9sultat : gorgones,\nsymphadines. Muric\u00e9es.\n```",
+      "entities": {
+        "dates": [
+          "9 Mars 1791"
+        ]
+      }
+    },
+    {
+      "page_number": "020",
+      "raw_content": "```\n24<sup>e</sup> Sortie  \n24 mars 1791  \n\nChalus  \nam large de Port Vendres  \n\nReboulant : Elegans, Paris  \nArn\u00e9s, convenablement\n```",
+      "cleaned_content": "```\n24<sup>e</sup> Sortie  \n24 mars 1791  \n\nChalusamlargede Port Vendres  \n\nReboulant : Elegans, Paris  \nArn\u00e9s, convenablement\n```",
+      "entities": {
+        "dates": [
+          "24 mars 1791"
+        ]
+      }
+    },
+    {
+      "page_number": "021",
+      "raw_content": "```\n19<sup>e</sup> Sortie\n20 mars 1791\nChalut\nHarpon de la bale\nR\u00e9sultat: P\u00eachons aujourd'hui.\n```",
+      "cleaned_content": "```\n19<sup>e</sup> Sortie\n20 mars 1791\nChalut\nHarpondelabale\nR\u00e9sultat: P\u00eachonsaujourd'hui.\n```",
+      "entities": {
+        "dates": [
+          "20 mars 1791"
+        ]
+      }
+    },
+    {
+      "page_number": "022",
+      "raw_content": "```\n26<sup>e</sup> Sortie  \n27 Mars 1791  \n\nChalut  \nLargu\u00e9 du b\u00e2ti  \n\nR\u00e9sultat : le chalut a \u00e9t\u00e9 rapport\u00e9 \u00e0 terme pour la cl\u00f4ture de l'exercice de p\u00eache.\n```",
+      "cleaned_content": "```\n26<sup>e</sup> Sortie  \n27 Mars 1791  \n\nChalut  \nLargu\u00e9 dub\u00e2ti  \n\nR\u00e9sultat : lechaluta \u00e9t\u00e9 rapport\u00e9 \u00e0 termepourlacl\u00f4turedel'exercicedep\u00eache.\n```",
+      "entities": {
+        "dates": [
+          "27 Mars 1791"
+        ]
+      }
+    },
+    {
+      "page_number": "023",
+      "raw_content": "```\n27<sup>e</sup> journ\u00e9e  \n28 Mars 1791  \n\nVoyage du S.S. Imp\u00e9riale en Machine  \nen commission de l'Exposition  \nde Li\u00e8ge.  \nCap. l'Indiville\n\n[Signature]\n```",
+      "cleaned_content": "```\n27<sup>e</sup> journ\u00e9e  \n28 Mars 1791  \n\nVoyagedu S.S. Imp\u00e9rialeen Machineencommissiondel'Expositionde Li\u00e8ge.  \nCap. l'Indiville\n\n[Signature]\n```",
+      "entities": {
+        "dates": [
+          "28 Mars 1791"
+        ]
+      }
+    },
+    {
+      "page_number": "024",
+      "raw_content": "```\n28<sup>e</sup> Sortie\n30 mars 1791\n\nLib\u00e9ration du chalut &\nPuits Vendres pour \nSartheim.\n\nM. M. Briand, employ\u00e9,\nAndre Desmier.\n```",
+      "cleaned_content": "```\n28<sup>e</sup> Sortie\n30 mars 1791\n\nLib\u00e9rationduchalut &\nPuits Vendrespour \nSartheim.\n\nM. M. Briand, employ\u00e9,\nAndre Desmier.\n```",
+      "entities": {
+        "dates": [
+          "30 mars 1791"
+        ]
+      }
+    },
+    {
+      "page_number": "025",
+      "raw_content": "29<sup>e</sup> Sortie  \n31 mars 1791  \n\nChalut  \nPuits Vendres pour Sartheim.  \n\nR\u00e9sultat : le chalut a \u00e9t\u00e9 rapport\u00e9 \u00e0 terme pour la cl\u00f4ture de l'exercice de p\u00eache.\n\nM. M. Briand, employ\u00e9,  \nAndre Desmier.",
+      "cleaned_content": "29<sup>e</sup> Sortie  \n31 mars 1791  \n\nChalut  \nPuits Vendrespour Sartheim.  \n\nR\u00e9sultat : lechaluta \u00e9t\u00e9 rapport\u00e9 \u00e0 termepourlacl\u00f4turedel'exercicedep\u00eache.\n\nM. M. Briand, employ\u00e9,  \nAndre Desmier.",
+      "entities": {
+        "dates": [
+          "31 mars 1791"
+        ]
+      }
+    },
+    {
+      "page_number": "026",
+      "raw_content": "3<sup>e</sup> Fortun\u00e9e  \n23 avril 1891  \n\nChalut  \nParages des P\u00eacheries.  \n\nR\u00e9sultat : poudrines de bannes vendues \u00e0 un franc",
+      "cleaned_content": "3<sup>e</sup> Fortun\u00e9e  \n23 avril 1891  \n\nChalut  \nParagesdes P\u00eacheries.  \n\nR\u00e9sultat : poudrinesdebannesvendues \u00e0 unfranc",
+      "entities": {
+        "dates": [
+          "23 avril 1891"
+        ]
+      }
+    },
+    {
+      "page_number": "027",
+      "raw_content": "```\n31<sup>e</sup> Fortun\u00e9e\n27 avril 1891\n\nChalut.\nParages du P\u00e9cou\u00efnous.\nR\u00e9sultat : bonne p\u00eache.\n\nSignature :\n```",
+      "cleaned_content": "```\n31<sup>e</sup> Fortun\u00e9e\n27 avril 1891\n\nChalut.\nParagesdu P\u00e9cou\u00efnous.\nR\u00e9sultat : bonnep\u00eache.\n\nSignature :\n```",
+      "entities": {
+        "dates": [
+          "27 avril 1891"
+        ]
+      }
+    },
+    {
+      "page_number": "028",
+      "raw_content": "```\n39<sup>e</sup> Sortie\n1<sup>er</sup> Mai 1891\n\nChalus.\nParoisse de Neuvicq.\nR\u00e9sultat : Homme sauv\u00e9.\n\nS. Brunet\n```",
+      "cleaned_content": "```\n39<sup>e</sup> Sortie\n1<sup>er</sup> Mai 1891\n\nChalus.\nParoissede Neuvicq.\nR\u00e9sultat : Hommesauv\u00e9.\n\nS. Brunet\n```",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "029",
+      "raw_content": "```\n33<sup>e</sup> Jour\nSamedi 17 mai 1891\n\nChaleur.\nParage des M\u00e9minins\nR\u00e9sultats : bonne navigation.\n\nA. Bismarck\n```",
+      "cleaned_content": "```\n33<sup>e</sup> Jour\nSamedi 17 mai 1891\n\nChaleur.\nParagedes M\u00e9minins\nR\u00e9sultats : bonnenavigation.\n\nA. Bismarck\n```",
+      "entities": {
+        "dates": [
+          "17 mai 1891"
+        ]
+      }
+    },
+    {
+      "page_number": "030",
+      "raw_content": "```\n3<sup>e</sup> journ\u00e9e  \n6 mai 1891  \n\nChalut.  \nPoussage du M\u00e9nestrel  \nR\u00e9sultat : bonne p\u00eache\n```",
+      "cleaned_content": "```\n3<sup>e</sup> journ\u00e9e  \n6 mai 1891  \n\nChalut.  \nPoussagedu M\u00e9nestrel  \nR\u00e9sultat : bonnep\u00eache\n```",
+      "entities": {
+        "dates": [
+          "6 mai 1891"
+        ]
+      }
+    },
+    {
+      "page_number": "031",
+      "raw_content": "```plaintext\n3<sup>e</sup> Sortie  \n19 mai 1891  \n\nChalut  \nRivage du M\u00e9nilles  \nRemplac\u00e9: remis en \u00e9tat.\n```",
+      "cleaned_content": "```plaintext\n3<sup>e</sup> Sortie  \n19 mai 1891  \n\nChalut  \nRivagedu M\u00e9nilles  \nRemplac\u00e9: remisen \u00e9tat.\n```",
+      "entities": {
+        "dates": [
+          "19 mai 1891"
+        ]
+      }
+    },
+    {
+      "page_number": "032",
+      "raw_content": "```\n36<sup>e</sup> Sortie\n14 Mai 1891\n\nChalut\nRivi\u00e8re du M\u00e9doc\nVitesse: bonne navigable\n1. Surnomm\u00e9 \"Maison\"\n```",
+      "cleaned_content": "```\n36<sup>e</sup> Sortie\n14 Mai 1891\n\nChalut\nRivi\u00e8redu M\u00e9doc\nVitesse: bonnenavigable\n1. Surnomm\u00e9 \"Maison\"\n```",
+      "entities": {
+        "dates": [
+          "14 Mai 1891"
+        ]
+      }
+    },
+    {
+      "page_number": "033",
+      "raw_content": "```\n3<sup>e</sup> Sortie  \n19 mai 1891  \n\nChalut  \nPomasse du M\u00e9doc  \nRemplac\u00e9 : Bonne-venture\n\n[Signature]\n```",
+      "cleaned_content": "```\n3<sup>e</sup> Sortie  \n19 mai 1891  \n\nChalut  \nPomassedu M\u00e9doc  \nRemplac\u00e9 : Bonne-venture\n\n[Signature]\n```",
+      "entities": {
+        "dates": [
+          "19 mai 1891"
+        ]
+      }
+    },
+    {
+      "page_number": "034",
+      "raw_content": "```\n3<sup>e</sup> Sortie  \n18 mai 1891  \n\nChalut  \nLocalit\u00e9. Imelle Nord et sud.  \n\nR\u00e9sultat: Coup de salicornies.\n```",
+      "cleaned_content": "```\n3<sup>e</sup> Sortie  \n18 mai 1891  \n\nChalut  \nLocalit\u00e9. Imelle Nordetsud.  \n\nR\u00e9sultat: Coupdesalicornies.\n```",
+      "entities": {
+        "dates": [
+          "18 mai 1891"
+        ]
+      }
+    },
+    {
+      "page_number": "035",
+      "raw_content": "```\n3<sup>e</sup> Sortie  \n19 mai 1891  \n\nChalut  \nPiratage des Maoris\n\nRemarques: Bons signaux\n```",
+      "cleaned_content": "```\n3<sup>e</sup> Sortie  \n19 mai 1891  \n\nChalut  \nPiratagedes Maoris\n\nRemarques: Bonssignaux\n```",
+      "entities": {
+        "dates": [
+          "19 mai 1891"
+        ]
+      }
+    },
+    {
+      "page_number": "036",
+      "raw_content": "```\nA. J. Dorlin\n29 mai 1891\n\nChalut.\nSoud\u00e9s E.N.E. Coups Bornes pour gouvernail Edub\u00f4me Rochers.\n\nR\u00e9sultat : fonds doux, sableux, limon, remous faibles.\nRelevons abondants cethyra hydromines.\n\nCidamis, E. aemites, Palmaria.\n```",
+      "cleaned_content": "```\nA. J. Dorlin\n29 mai 1891\n\nChalut.\nSoud\u00e9s E.N.E. Coups Bornespourgouvernail Edub\u00f4me Rochers.\n\nR\u00e9sultat : fondsdoux, sableux, limon, remousfaibles.\nRelevonsabondantscethyrahydromines.\n\nCidamis, E. aemites, Palmaria.\n```",
+      "entities": {
+        "dates": [
+          "29 mai 1891"
+        ]
+      }
+    },
+    {
+      "page_number": "037",
+      "raw_content": "```\nS.V. Hortense\n27 mai 91\n\nChalut.\nE.N.E. du cap Vert \u00e0 8 m.\n\nNouvelles Bonne-esp\u00e9rance\n```",
+      "cleaned_content": "```\nS.V. Hortense\n27 mai 91\n\nChalut.\nE.N.E. ducap Vert \u00e0 8 m.\n\nNouvelles Bonne-esp\u00e9rance\n```",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "038",
+      "raw_content": "```\nS.T. Sortie  \n24 Mars 1891  \n\nChalut  \nBarrage des Moulins  \nGrandes eaux\n\nSignature\n```",
+      "cleaned_content": "```\nS.T. Sortie  \n24 Mars 1891  \n\nChalut  \nBarragedes Moulins  \nGrandeseaux\n\nSignature\n```",
+      "entities": {
+        "dates": [
+          "24 Mars 1891"
+        ]
+      }
+    },
+    {
+      "page_number": "039",
+      "raw_content": "S.D.: Vienne  \n2 juillet 1911  \n\nCher Monsieur,  \n\nRendez-vous imminent.  \n\nBien amicalement,  \n\n[Signature]",
+      "cleaned_content": "S.D.: Vienne  \n2 juillet 1911  \n\nCher Monsieur,  \n\nRendez-vousimminent.  \n\nBienamicalement,  \n\n[Signature]",
+      "entities": {
+        "dates": [
+          "2 juillet 1911"
+        ]
+      }
+    },
+    {
+      "page_number": "040",
+      "raw_content": "```\nS.S. Portine  \n3 mai 1791  \n\nChalut  \nR\u00e9gion de M\u00e9rim\u00e9niq  \nHamm cetimini\n\n[Signature]\n```",
+      "cleaned_content": "```\nS.S. Portine  \n3 mai 1791  \n\nChalut  \nR\u00e9gionde M\u00e9rim\u00e9niq  \nHammcetimini\n\n[Signature]\n```",
+      "entities": {
+        "dates": [
+          "3 mai 1791"
+        ]
+      }
+    },
+    {
+      "page_number": "041",
+      "raw_content": "```\nCampagne  \n1791-92.  \n\nle Bateau en arm\u00e9  \nle 1<sup>er</sup> Octobre.\n```",
+      "cleaned_content": "```\nCampagne  \n1791-92.  \n\nle Bateauenarm\u00e9  \nle 1<sup>er</sup> Octobre.\n```",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "042",
+      "raw_content": "```\nSeptembre 1891\n\nP. Durand\n\nFaubert et Blanque\nVocatit\u00e9: 90 mm de fond ENE.\nR\u00e9sultat: petites \u00e9caill\u00e9es \u00e9spargn\u00e9es.\n```",
+      "cleaned_content": "```\nSeptembre 1891\n\nP. Durand\n\nFaubertet Blanque\nVocatit\u00e9: 90 mmdefond ENE.\nR\u00e9sultat: petites \u00e9caill\u00e9es \u00e9spargn\u00e9es.\n```",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "043",
+      "raw_content": "```\n9 fev 1791\n\n2<sup>e</sup> Fortie\n\nNE Cap Bear 3 milles Kpm\n\nR\u00e9sultat: gasteropetron, Norris,\n1 Abouys. 1 Brimons, lygr.fen.\n\u00e9ponges tiuerny - Nominis\nM. Bonh\u00f4te. \u00e9mud. &c.\n\n[Signature]\n```",
+      "cleaned_content": "```\n9 fev 1791\n\n2<sup>e</sup> Fortie\n\nNE Cap Bear 3 milles Kpm\n\nR\u00e9sultat: gasteropetron, Norris,\n1 Abouys. 1 Brimons, lygr.fen.\n\u00e9pongestiuerny - Nominis\nM. Bonh\u00f4te. \u00e9mud. &c.\n\n[Signature]\n```",
+      "entities": {
+        "dates": [
+          "9 fev 1791"
+        ]
+      }
+    },
+    {
+      "page_number": "044",
+      "raw_content": "```\n3<sup>e</sup> Sortie\n\n20. Nov. 1791\n\nGastner\n\nPurg. & Park Venstre 3, 0 m\n\nR\u00e9sultat: munitions diverse, \u00e9ponges 2.500\n```",
+      "cleaned_content": "```\n3<sup>e</sup> Sortie\n\n20. Nov. 1791\n\nGastner\n\nPurg. & Park Venstre 3, 0 m\n\nR\u00e9sultat: munitionsdiverse, \u00e9ponges 2.500\n```",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "045",
+      "raw_content": "```\n4\u00b0 Sortie\n\nDrague au Corps l'Arbeille\nla Drague est rest\u00e9e un jour\n```",
+      "cleaned_content": "```\n4\u00b0 Sortie\n\nDragueau Corpsl'Arbeillela Dragueestrest\u00e9eunjour\n```",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "046",
+      "raw_content": "S<sup>\u00b0</sup> Sortie  \nPour d\u00e9gager la drague  \nR\u00e9sultat nul.",
+      "cleaned_content": "S<sup>\u00b0</sup> Sortie  \nPourd\u00e9gagerladrague  \nR\u00e9sultatnul.",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "047",
+      "raw_content": "```\n6<sup>e</sup> Sortie  \n22 Fvr. 91  \n\nChalut  \n\nM. Vinnov \u00e9tait \u00e0 bord  \n\nR\u00e9sum\u00e9: Aichopius Cynthia, conchales\n\n[Signature]\n```",
+      "cleaned_content": "```\n6<sup>e</sup> Sortie  \n22 Fvr. 91  \n\nChalut  \n\nM. Vinnov \u00e9tait \u00e0 bord  \n\nR\u00e9sum\u00e9: Aichopius Cynthia, conchales\n\n[Signature]\n```",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "048",
+      "raw_content": "```\n7<sup>e</sup> Sortie\n13 nov. 91\n\nChalut\n\n6 milles est de la baie de Burung\n\nR\u00e9sultat: ascidies diverses.\nDiagona -\nPalnipus - Cidaris - Ostrofractu\nSalicornaria [sic?]\n\n[Signature]\n```",
+      "cleaned_content": "```\n7<sup>e</sup> Sortie\n13 nov. 91\n\nChalut\n\n6 millesestdelabaiede Burung\n\nR\u00e9sultat: ascidiesdiverses.\nDiagona -\nPalnipus - Cidaris - Ostrofractu\nSalicornaria [sic?]\n\n[Signature]\n```",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "049",
+      "raw_content": "```\n8<sup>e</sup> Sortie\n29 juil. 1891\n\nChalut\nen face de Collivier.\nPour 3 onces.\n\nR\u00e9sultat: Molgules en\npoquets - Cynthus -\nDalyelegans\nAlyonidiariae.\n```",
+      "cleaned_content": "```\n8<sup>e</sup> Sortie\n29 juil. 1891\n\nChalutenfacede Collivier.\nPour 3 onces.\n\nR\u00e9sultat: Molgulesenpoquets - Cynthus -\nDalyelegans\nAlyonidiariae.\n```",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "050",
+      "raw_content": "```\n9<sup>e</sup> Sortie\n\nBragn\nCay. l'abeille\n\nR\u00e9sultat: Caillons \u00e0 argile\n```",
+      "cleaned_content": "```\n9<sup>e</sup> Sortie\n\nBragn\nCay. l'abeille\n\nR\u00e9sultat: Caillons \u00e0 argile\n```",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "051",
+      "raw_content": "```\n10<sup>e</sup> Sortie\n28 octobre 1891\n\nChalut\n\u00e0 3 milles de Port Vendres\nR\u00e9sultat : Mollusques\n```",
+      "cleaned_content": "```\n10<sup>e</sup> Sortie\n28 octobre 1891\n\nChalut\n\u00e0 3 millesde Port Vendres\nR\u00e9sultat : Mollusques\n```",
+      "entities": {
+        "dates": [
+          "28 octobre 1891"
+        ]
+      }
+    },
+    {
+      "page_number": "052",
+      "raw_content": "```\n12<sup>e</sup> Sortie\n29 Nov. 1891\n\nBrigade sur la c\u00f4te.\nRecherches anciennes de p\u00eacheries\nde Cypsoye - \u00e9ponges\nTurques\n```",
+      "cleaned_content": "```\n12<sup>e</sup> Sortie\n29 Nov. 1891\n\nBrigadesurlac\u00f4te.\nRecherchesanciennesdep\u00eacheriesde Cypsoye - \u00e9ponges\nTurques\n```",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "053",
+      "raw_content": "```\n14<sup>e</sup> Sortie\n\n4 D\u00e9cembre 1891\n\nRecherches d'\u00e9ponges\n\nR\u00e9sultat: \u00c9ponges diverses, holothuries\n\nF. Cluets\n```",
+      "cleaned_content": "```\n14<sup>e</sup> Sortie\n\n4 D\u00e9cembre 1891\n\nRecherchesd'\u00e9ponges\n\nR\u00e9sultat: \u00c9pongesdiverses, holothuries\n\nF. Cluets\n```",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "054",
+      "raw_content": "13<sup>e</sup> Sortie  \n11 Janvier 92.  \n\nChalut  \nEst de St Magne sur  \n90 m du fond.  \n\nR\u00e9sultat: Echinusser  \nnombreux - mouphines  \n\u00e9ponges diverses\n\nF. Cluets",
+      "cleaned_content": "13<sup>e</sup> Sortie  \n11 Janvier 92.  \n\nChalut  \nEstde St Magnesur  \n90 mdufond.  \n\nR\u00e9sultat: Echinussernombreux - mouphines  \n\u00e9pongesdiverses\n\nF. Cluets",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "055",
+      "raw_content": "```\n16<sup>e</sup> Sortie\n\n27 Juin 92\n\nD'argue\n\nCyneis un coin forbin\u00e9\n\nAmphiveres - Cynidiana\n\nM\u00e9talliques L. B\u00e9nigni\n```",
+      "cleaned_content": "```\n16<sup>e</sup> Sortie\n\n27 Juin 92\n\nD'argue\n\nCyneisuncoinforbin\u00e9\n\nAmphiveres - Cynidiana\n\nM\u00e9talliques L. B\u00e9nigni\n```",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "056",
+      "raw_content": "```\n15<sup>e</sup> Sortie\n\n16 f\u00e9vrier 1892\n\nRecherches d'\u00c9ponges\n\nR\u00e9sultat : \u00c9ponges diverses, aridies, holothuries\naldyrae\n\nPar M. Rouko\n\nF. Cluets\n```",
+      "cleaned_content": "```\n15<sup>e</sup> Sortie\n\n16 f\u00e9vrier 1892\n\nRecherchesd'\u00c9ponges\n\nR\u00e9sultat : \u00c9pongesdiverses, aridies, holothuriesaldyrae\n\nPar M. Rouko\n\nF. Cluets\n```",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "057",
+      "raw_content": "```\n17<sup>e</sup> Sortie\n17 F\u00e9vrier 1892\n\nCoup de Chalut \u00e0 l'ancre du Port Vendres\n\nR\u00e9sultats : Sponges, vari\u00e9s, Gorgones,\nholothuries, symposium, Bernard\nIoantkes (?) 'Holothif\u00e8re'\nCorallies\n\nPour M. Rouko\n\nF. Cluets\n```",
+      "cleaned_content": "```\n17<sup>e</sup> Sortie\n17 F\u00e9vrier 1892\n\nCoupde Chalut \u00e0 l'ancredu Port Vendres\n\nR\u00e9sultats : Sponges, vari\u00e9s, Gorgones,\nholothuries, symposium, Bernard\nIoantkes (?) 'Holothif\u00e8re'\nCorallies\n\nPour M. Rouko\n\nF. Cluets\n```",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "058",
+      "raw_content": "```\n17<sup>e</sup> sortie\n22 f\u00e9vrier 1892\n\nCoup de chalut N.E. du cap B\u00e9ar  \n80 m\u00e8tres de profondeur  \n\nR\u00e9sultats : Coquillages, Sponges  \n\nPour M. Pincho  \nF. Guide\n```",
+      "cleaned_content": "```\n17<sup>e</sup> sortie\n22 f\u00e9vrier 1892\n\nCoupdechalut N.E. ducap B\u00e9ar  \n80 m\u00e8tresdeprofondeur  \n\nR\u00e9sultats : Coquillages, Sponges  \n\nPour M. Pincho  \nF. Guide\n```",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "059",
+      "raw_content": "```\n18<sup>e</sup> Sortie\n23 f\u00e9vrier 1892\n\nCoup de chalut S.E. du cap Cerb\u00e8re  \n90 m\u00e8tres de profondeur  \n\nR\u00e9sultat : Hydrom\u00e9duses, \u00e9ponges, c\u00e9tones, p\u00e9nic\u00e9s  \n\nPar M. Procho  \nP. Quiles\n```",
+      "cleaned_content": "```\n18<sup>e</sup> Sortie\n23 f\u00e9vrier 1892\n\nCoupdechalut S.E. ducap Cerb\u00e8re  \n90 m\u00e8tresdeprofondeur  \n\nR\u00e9sultat : Hydrom\u00e9duses, \u00e9ponges, c\u00e9tones, p\u00e9nic\u00e9s  \n\nPar M. Procho  \nP. Quiles\n```",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "060",
+      "raw_content": "```\n19<sup>e</sup> Sortie\n\n1<sup>er</sup> Mars 1892\n\nChalut.\n\n8 milles N. cap B\u00e9ar\n\nR\u00e9sultat: adansia, coquilles\nde Pinna hydrela\n\n[Signature]\n```",
+      "cleaned_content": "```\n19<sup>e</sup> Sortie\n\n1<sup>er</sup> Mars 1892\n\nChalut.\n\n8 milles N. cap B\u00e9ar\n\nR\u00e9sultat: adansia, coquillesde Pinnahydrela\n\n[Signature]\n```",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "061",
+      "raw_content": "20<sup>e</sup> Sortie  \n17 mars 1892  \n\nChalut  \n8 milles N. Port Vendres  \n\nR\u00e9sultat: Pommiers, Syringa, j'ajoute mon \u00e9rable et  \nMagnolaires divers (subjonction  \nVerniculatum)  \nArcevis - arboriculteur",
+      "cleaned_content": "20<sup>e</sup> Sortie  \n17 mars 1892  \n\nChalut  \n8 milles N. Port Vendres  \n\nR\u00e9sultat: Pommiers, Syringa, j'ajoutemon \u00e9rableet  \nMagnolairesdivers (subjonction  \nVerniculatum)  \nArcevis - arboriculteur",
+      "entities": {
+        "dates": [
+          "17 mars 1892"
+        ]
+      }
+    },
+    {
+      "page_number": "062",
+      "raw_content": "```\n15 mars 1892  \n21<sup>e</sup> Sortie  \n\nLe bateau est rentr\u00e9 dans un port.\n```",
+      "cleaned_content": "```\n15 mars 1892  \n21<sup>e</sup> Sortie  \n\nLebateauestrentr\u00e9 dansunport.\n```",
+      "entities": {
+        "dates": [
+          "15 mars 1892"
+        ]
+      }
+    },
+    {
+      "page_number": "063",
+      "raw_content": "```\n22<sup>e</sup> Sortie\n16 Mars 1892\n\nRecherche des \u00e9paves \u00e0 Port Vendres\n```",
+      "cleaned_content": "```\n22<sup>e</sup> Sortie\n16 Mars 1892\n\nRecherchedes \u00e9paves \u00e0 Port Vendres\n```",
+      "entities": {
+        "dates": [
+          "16 Mars 1892"
+        ]
+      }
+    },
+    {
+      "page_number": "064",
+      "raw_content": "```\n23<sup>e</sup> Sortie\n17 mars 1892\n\nChalus\ngouille N. cap. Besset\ngouille de fond\n\nR\u00e9sultats hydrographiques :\nM\u00e9andrinis - Phal\u00e9nias\nRemont\u00e9es, Vendsilly\n1 Kortnovekenni\n1 Bahamoglossus\nGroseilliers sous mousses Delle\n```",
+      "cleaned_content": "```\n23<sup>e</sup> Sortie\n17 mars 1892\n\nChalusgouille N. cap. Bessetgouilledefond\n\nR\u00e9sultatshydrographiques :\nM\u00e9andrinis - Phal\u00e9nias\nRemont\u00e9es, Vendsilly\n1 Kortnovekenni\n1 Bahamoglossus\nGroseillierssousmousses Delle\n```",
+      "entities": {
+        "dates": [
+          "17 mars 1892"
+        ]
+      }
+    },
+    {
+      "page_number": "065",
+      "raw_content": "```\n24\u00b0 Sortie\n19 mars 1792\n\nCharlier\nDuguay-Trouin & de Baudus\n\nR\u00e9sultat : Hymin\n& N\u00e9mi\u00e9nis.\nBirgum - Redon\nPensacola - Dal\u00e4r.\n```",
+      "cleaned_content": "```\n24\u00b0 Sortie\n19 mars 1792\n\nCharlier\nDuguay-Trouin & de Baudus\n\nR\u00e9sultat : Hymin\n& N\u00e9mi\u00e9nis.\nBirgum - Redon\nPensacola - Dal\u00e4r.\n```",
+      "entities": {
+        "dates": [
+          "19 mars 1792"
+        ]
+      }
+    },
+    {
+      "page_number": "066",
+      "raw_content": "```\n2<sup>e</sup> Sortie  \n22 mars 1792  \n\nCherbourg  \n8 milles E du Cap Cerb\u00e8re  \n\nR\u00e9sultat : Monbrancq  \nMemento-dies\n```",
+      "cleaned_content": "```\n2<sup>e</sup> Sortie  \n22 mars 1792  \n\nCherbourg  \n8 milles E du Cap Cerb\u00e8re  \n\nR\u00e9sultat : Monbrancq  \nMemento-dies\n```",
+      "entities": {
+        "dates": [
+          "22 mars 1792"
+        ]
+      }
+    },
+    {
+      "page_number": "067",
+      "raw_content": "```\n26<sup>e</sup> Sortie\n23 mars 1792\n\nChalut\n\nR\u00e9sultat: Aprotongen Beroudaris Echim\u00e9 flanquen.\n```",
+      "cleaned_content": "```\n26<sup>e</sup> Sortie\n23 mars 1792\n\nChalut\n\nR\u00e9sultat: Aprotongen Beroudaris Echim\u00e9 flanquen.\n```",
+      "entities": {
+        "dates": [
+          "23 mars 1792"
+        ]
+      }
+    },
+    {
+      "page_number": "068",
+      "raw_content": "```\n27\u00b0 Sortie\n24 mars 1792\n\nChalut\n\nN.E. du cap Bieu\nhydrocines \u00e0 M\u00e9om\u00e9nie.\n```",
+      "cleaned_content": "```\n27\u00b0 Sortie\n24 mars 1792\n\nChalut\n\nN.E. ducap Bieuhydrocines \u00e0 M\u00e9om\u00e9nie.\n```",
+      "entities": {
+        "dates": [
+          "24 mars 1792"
+        ]
+      }
+    },
+    {
+      "page_number": "069",
+      "raw_content": "27<sup>e</sup> Sortie  \n2 avril 1797  \n\nPendant l'on cour d'amille  \n\nR\u00e9sultat: \u00e9chou\u00e9es",
+      "cleaned_content": "27<sup>e</sup> Sortie  \n2 avril 1797  \n\nPendantl'oncourd'amille  \n\nR\u00e9sultat: \u00e9chou\u00e9es",
+      "entities": {
+        "dates": [
+          "2 avril 1797"
+        ]
+      }
+    },
+    {
+      "page_number": "070",
+      "raw_content": "```\n29<sup>e</sup> Sortie\n11 avril 1792\n\nChalut\nE. de Vaugelas, Cap.\n\nRecherche-Pholettes\nVestilles- hydriques\nInde... I. Virginies\n```",
+      "cleaned_content": "```\n29<sup>e</sup> Sortie\n11 avril 1792\n\nChalut\nE. de Vaugelas, Cap.\n\nRecherche-Pholettes\nVestilles- hydriques\nInde... I. Virginies\n```",
+      "entities": {
+        "dates": [
+          "11 avril 1792"
+        ]
+      }
+    },
+    {
+      "page_number": "071",
+      "raw_content": "```\n30<sup>e</sup> Sortie\n13 avril 92\n\nLondres\nCorps venu.\nR\u00e9sultat: Corail - bryozo\u00efdes\n```",
+      "cleaned_content": "```\n30<sup>e</sup> Sortie\n13 avril 92\n\nLondres\nCorpsvenu.\nR\u00e9sultat: Corail - bryozo\u00efdes\n```",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "072",
+      "raw_content": "```\n31<sup>e</sup> Sortie  \n18 avril 92  \n\nChalut.  \n\nau large de la Lune  \n\nR\u00e9sultat : ophtalmes,  \nC\u00e9ramique Vueselles  \n\n[Signature]\n```",
+      "cleaned_content": "```\n31<sup>e</sup> Sortie  \n18 avril 92  \n\nChalut.  \n\naulargedela Lune  \n\nR\u00e9sultat : ophtalmes,  \nC\u00e9ramique Vueselles  \n\n[Signature]\n```",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "073",
+      "raw_content": "```\n32<sup>e</sup> Sortie  \n23 avril 92  \n\nBruges  \nCap l'abeille  \n\nR\u00e9sultat: amphiphores,  \nCruches \u00e0 huile &c.\n```",
+      "cleaned_content": "```\n32<sup>e</sup> Sortie  \n23 avril 92  \n\nBruges  \nCapl'abeille  \n\nR\u00e9sultat: amphiphores,  \nCruches \u00e0 huile &c.\n```",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "074",
+      "raw_content": "```\n33<sup>e</sup> Sortie\n28 avril 1892.\n\nChalut\n\nME. La Cog. Bouv. 80\n\nR\u00e9sultat: hybrides et m\u00e9moires, Pratiques, Chargures\n```",
+      "cleaned_content": "```\n33<sup>e</sup> Sortie\n28 avril 1892.\n\nChalut\n\nME. La Cog. Bouv. 80\n\nR\u00e9sultat: hybridesetm\u00e9moires, Pratiques, Chargures\n```",
+      "entities": {
+        "dates": [
+          "28 avril 1892"
+        ]
+      }
+    },
+    {
+      "page_number": "075",
+      "raw_content": "```\n34<sup>e</sup> Sortie\n4 Mai 1892\n\nChalut\nVoyage des P\u00eacheries\nR\u00e9sultat: Hydraines - Remont\u00e9es - Chenaux\n```",
+      "cleaned_content": "```\n34<sup>e</sup> Sortie\n4 Mai 1892\n\nChalut\nVoyagedes P\u00eacheries\nR\u00e9sultat: Hydraines - Remont\u00e9es - Chenaux\n```",
+      "entities": {
+        "dates": [
+          "4 Mai 1892"
+        ]
+      }
+    },
+    {
+      "page_number": "076",
+      "raw_content": "```\n35<sup>e</sup> Sortie  \n10 mai 1892  \n\nChalut  \nP\u00eachages du M\u00e9andre  \nR\u00e9sultat : hydromel\n\n[Signature]\n```",
+      "cleaned_content": "```\n35<sup>e</sup> Sortie  \n10 mai 1892  \n\nChalut  \nP\u00eachagesdu M\u00e9andre  \nR\u00e9sultat : hydromel\n\n[Signature]\n```",
+      "entities": {
+        "dates": [
+          "10 mai 1892"
+        ]
+      }
+    },
+    {
+      "page_number": "077",
+      "raw_content": "```\n36<sup>e</sup> Sortie\n26 mai 92\nParages du M\u00e9oum\u00e9huis\n```",
+      "cleaned_content": "```\n36<sup>e</sup> Sortie\n26 mai 92\nParagesdu M\u00e9oum\u00e9huis\n```",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "078",
+      "raw_content": "37<sup>e</sup> Sortie  \n27 Mai 1892  \nParages des Ant. gibiers",
+      "cleaned_content": "37<sup>e</sup> Sortie  \n27 Mai 1892  \nParagesdes Ant. gibiers",
+      "entities": {
+        "dates": [
+          "27 Mai 1892"
+        ]
+      }
+    },
+    {
+      "page_number": "079",
+      "raw_content": "37<sup>e</sup> Sortie  \n28 mai 92  \n\nRamoins des ant. journ\u00e9es.",
+      "cleaned_content": "37<sup>e</sup> Sortie  \n28 mai 92  \n\nRamoinsdesant. journ\u00e9es.",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "080",
+      "raw_content": "```\n39<sup>e</sup> Sortie\n1 juin 97\nRomagnieu et Ph\u00e9bding\n```",
+      "cleaned_content": "```\n39<sup>e</sup> Sortie\n1 juin 97\nRomagnieuet Ph\u00e9bding\n```",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "081",
+      "raw_content": "```\n40<sup>e</sup> Sortie\n3 juin 97\n\nRougis-dents et Phukang\n```",
+      "cleaned_content": "```\n40<sup>e</sup> Sortie\n3 juin 97\n\nRougis-dentset Phukang\n```",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "082",
+      "raw_content": "```\n41<sup>e</sup> Sortie\n3 mai 1892\n\nRangun via Phuket.\n```",
+      "cleaned_content": "```\n41<sup>e</sup> Sortie\n3 mai 1892\n\nRangunvia Phuket.\n```",
+      "entities": {
+        "dates": [
+          "3 mai 1892"
+        ]
+      }
+    },
+    {
+      "page_number": "083",
+      "raw_content": "```\n42<sup>e</sup> Sortie\n6 mai 1892\nParang des vahs. pivoalag\n```",
+      "cleaned_content": "```\n42<sup>e</sup> Sortie\n6 mai 1892\nParangdesvahs. pivoalag\n```",
+      "entities": {
+        "dates": [
+          "6 mai 1892"
+        ]
+      }
+    },
+    {
+      "page_number": "084",
+      "raw_content": "43<sup>e</sup> Sortie  \n7 mai 92  \n\nPruajes du val. Rhinong",
+      "cleaned_content": "43<sup>e</sup> Sortie  \n7 mai 92  \n\nPruajesduval. Rhinong",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "085",
+      "raw_content": "```\n44<sup>e</sup> Sortie  \n8 mai 1892  \n\nTerrages des anciens Chalans\n```",
+      "cleaned_content": "```\n44<sup>e</sup> Sortie  \n8 mai 1892  \n\nTerragesdesanciens Chalans\n```",
+      "entities": {
+        "dates": [
+          "8 mai 1892"
+        ]
+      }
+    },
+    {
+      "page_number": "086",
+      "raw_content": "```\nCampagne\n1892 - 1893\n\nLe Bateau est arm\u00e9 le\n```",
+      "cleaned_content": "```\nCampagne\n1892 - 1893\n\nLe Bateauestarm\u00e9 le\n```",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "087",
+      "raw_content": "```\n1<sup>e</sup> Sortie\n6 Octobre 1892\n\nChalut\n\nE.N.E. du Cap B\u00e9ar\nProfondeur 60 m\u00e8tres\n\nR\u00e9sultat: \u00c9ponges, holothuries, \u00e9toiles de mer\nAtridies\n\nPour M. Roubaud\n\nH. Guille\n```",
+      "cleaned_content": "```\n1<sup>e</sup> Sortie\n6 Octobre 1892\n\nChalut\n\nE.N.E. du Cap B\u00e9ar\nProfondeur 60 m\u00e8tres\n\nR\u00e9sultat: \u00c9ponges, holothuries, \u00e9toilesdemer\nAtridies\n\nPour M. Roubaud\n\nH. Guille\n```",
+      "entities": {
+        "dates": [
+          "6 Octobre 1892"
+        ]
+      }
+    },
+    {
+      "page_number": "088",
+      "raw_content": "```\n2<sup>e</sup> Sortie\n\n9 Octobre 1892\n\nChalut\n\nCap B\u00e9ar\nProfondeur 45 m\u00e8tres\n\nR\u00e9sultat: \u00c9ponges, Oxyures\n\nPour M. Rouho\n\nF. Gu\u00e9d\u00e9z\n```",
+      "cleaned_content": "```\n2<sup>e</sup> Sortie\n\n9 Octobre 1892\n\nChalut\n\nCap B\u00e9ar\nProfondeur 45 m\u00e8tres\n\nR\u00e9sultat: \u00c9ponges, Oxyures\n\nPour M. Rouho\n\nF. Gu\u00e9d\u00e9z\n```",
+      "entities": {
+        "dates": [
+          "9 Octobre 1892"
+        ]
+      }
+    },
+    {
+      "page_number": "089",
+      "raw_content": "```\n3<sup>e</sup> Sortie\n11 Octobre 1892\n\nChalut\nEst de Banyuls\nProfondeur 80 m\u00e8tres\nR\u00e9sultat : Ankedon, Mollugo, oursins\n\nPour M. Roche\nH. Emile\n```",
+      "cleaned_content": "```\n3<sup>e</sup> Sortie\n11 Octobre 1892\n\nChalut\nEstde Banyuls\nProfondeur 80 m\u00e8tres\nR\u00e9sultat : Ankedon, Mollugo, oursins\n\nPour M. Roche\nH. Emile\n```",
+      "entities": {
+        "dates": [
+          "11 Octobre 1892"
+        ]
+      }
+    },
+    {
+      "page_number": "090",
+      "raw_content": "4<sup>e</sup> Sortie  \n12 Octobre 1892  \n\nChalut  \nCap B\u00e9ar  \n\nProfondeur: 45 m\u00e8tres  \n\nR\u00e9sultat: \u00c9ponges, Gorgones  \n\nPour M. Rouho  \n\nF. Gu\u00e9d\u00e9z",
+      "cleaned_content": "4<sup>e</sup> Sortie  \n12 Octobre 1892  \n\nChalut  \nCap B\u00e9ar  \n\nProfondeur: 45 m\u00e8tres  \n\nR\u00e9sultat: \u00c9ponges, Gorgones  \n\nPour M. Rouho  \n\nF. Gu\u00e9d\u00e9z",
+      "entities": {
+        "dates": [
+          "12 Octobre 1892"
+        ]
+      }
+    },
+    {
+      "page_number": "091",
+      "raw_content": "```\n5<sup>e</sup> Sortie\n14 Octobre 1892\nDragage au lieu dit\nCaillalanque\nProfondeur 25 m\u00e8tres\nR\u00e9sultat: Ost\u00e9ries, \u00e9ponges\nPar M. Rouha\n\nF. Quinet\n```",
+      "cleaned_content": "```\n5<sup>e</sup> Sortie\n14 Octobre 1892\nDragageaulieudit\nCaillalanque\nProfondeur 25 m\u00e8tres\nR\u00e9sultat: Ost\u00e9ries, \u00e9ponges\nPar M. Rouha\n\nF. Quinet\n```",
+      "entities": {
+        "dates": [
+          "14 Octobre 1892"
+        ]
+      }
+    },
+    {
+      "page_number": "092",
+      "raw_content": "```\n6<sup>e</sup> Sortie  \n19 Octobre 1892  \n\nChalut  \n\nEst du Cap Bear  \n\nProfondeur : 80 m\u00e8tres  \n\nR\u00e9sultat : \u00c9ponges  \n\nPar M. Roubaud  \n\nF. Emile\n```",
+      "cleaned_content": "```\n6<sup>e</sup> Sortie  \n19 Octobre 1892  \n\nChalut  \n\nEstdu Cap Bear  \n\nProfondeur : 80 m\u00e8tres  \n\nR\u00e9sultat : \u00c9ponges  \n\nPar M. Roubaud  \n\nF. Emile\n```",
+      "entities": {
+        "dates": [
+          "19 Octobre 1892"
+        ]
+      }
+    },
+    {
+      "page_number": "093",
+      "raw_content": "```\n7<sup>e</sup> Sortie\n20 Octobre 1892\n\nChalut\n\nEst du Cap l'Abeille\n\nProfondeur : 60 m\u00e8tres\n\nR\u00e9sultat : Holothuries, Vollenques divers\n\nPar W. Rouha\n\nF. Emile\n```",
+      "cleaned_content": "```\n7<sup>e</sup> Sortie\n20 Octobre 1892\n\nChalut\n\nEstdu Capl'Abeille\n\nProfondeur : 60 m\u00e8tres\n\nR\u00e9sultat : Holothuries, Vollenquesdivers\n\nPar W. Rouha\n\nF. Emile\n```",
+      "entities": {
+        "dates": [
+          "20 Octobre 1892"
+        ]
+      }
+    },
+    {
+      "page_number": "094",
+      "raw_content": "8<sup>e</sup> Sortie  \n21 Octobre 1892  \n\nChalut  \nCap Cerb\u00e8re  \nProfondeur 75 m\u00e8tres  \n\nR\u00e9sultats : Oursins, \u00c9toiles, Mollusques  \n\nPar M. Rouher  \n\nH. Quillet",
+      "cleaned_content": "8<sup>e</sup> Sortie  \n21 Octobre 1892  \n\nChalut  \nCap Cerb\u00e8re  \nProfondeur 75 m\u00e8tres  \n\nR\u00e9sultats : Oursins, \u00c9toiles, Mollusques  \n\nPar M. Rouher  \n\nH. Quillet",
+      "entities": {
+        "dates": [
+          "21 Octobre 1892"
+        ]
+      }
+    },
+    {
+      "page_number": "095",
+      "raw_content": "```\n9<sup>e</sup> Sortie\n22 Octobre 1892\nMagage\nCap Oullestreil\nProfondeur 75 m\u00e8tres\n\nR\u00e9sultat : \u00c9ponges,\n\nPour M<sup>r</sup> Roubaud\nF. Emile\n```",
+      "cleaned_content": "```\n9<sup>e</sup> Sortie\n22 Octobre 1892\nMagage\nCap Oullestreil\nProfondeur 75 m\u00e8tres\n\nR\u00e9sultat : \u00c9ponges,\n\nPour M<sup>r</sup> Roubaud\nF. Emile\n```",
+      "entities": {
+        "dates": [
+          "22 Octobre 1892"
+        ]
+      }
+    },
+    {
+      "page_number": "096",
+      "raw_content": "```\n10<sup>e</sup> Sortie\n23 Octobre 1892\nPlongage\n\nBa\u00efo de Paulilles\nProfondeur : 20 m\u00e8tres\n\nR\u00e9sultat : \u00c9ponges, Coquillages\n\nPour M. Douha\nF. Cunier\n```",
+      "cleaned_content": "```\n10<sup>e</sup> Sortie\n23 Octobre 1892\nPlongage\n\nBa\u00efode Paulilles\nProfondeur : 20 m\u00e8tres\n\nR\u00e9sultat : \u00c9ponges, Coquillages\n\nPour M. Douha\nF. Cunier\n```",
+      "entities": {
+        "dates": [
+          "23 Octobre 1892"
+        ]
+      }
+    },
+    {
+      "page_number": "097",
+      "raw_content": "```\n12<sup>e</sup> Sortie  \n29 Octobre 1892  \n\nM\u00eame dragage que le pr\u00e9c\u00e9dent  \n\nPar M. Giouko  \n\nP. Cintet\n```",
+      "cleaned_content": "```\n12<sup>e</sup> Sortie  \n29 Octobre 1892  \n\nM\u00eamedragagequelepr\u00e9c\u00e9dent  \n\nPar M. Giouko  \n\nP. Cintet\n```",
+      "entities": {
+        "dates": [
+          "29 Octobre 1892"
+        ]
+      }
+    },
+    {
+      "page_number": "098",
+      "raw_content": "```\n19<sup>e</sup> Sortie\n\n28 Octobre 1892\n\nMagage\nCap Rederis\n\nProfondeur : 30 m\u00e8tres\n\nR\u00e9sultat : Gorgones, \u00e9toiles de mer\n\nPour M. Roubaud\n\n[Signature]\n```",
+      "cleaned_content": "```\n19<sup>e</sup> Sortie\n\n28 Octobre 1892\n\nMagage\nCap Rederis\n\nProfondeur : 30 m\u00e8tres\n\nR\u00e9sultat : Gorgones, \u00e9toilesdemer\n\nPour M. Roubaud\n\n[Signature]\n```",
+      "entities": {
+        "dates": [
+          "28 Octobre 1892"
+        ]
+      }
+    },
+    {
+      "page_number": "099",
+      "raw_content": "13<sup>e</sup> Sortie  \n2 Novembre 1892  \nPort Vendres  \nChalut  \nProfondeur : 40 m\u00e8tres  \nR\u00e9sultats : Ostr\u00e9ides, \u00c9ponges  \n\nPour M. Rouhe  \nF. Quilet",
+      "cleaned_content": "13<sup>e</sup> Sortie  \n2 Novembre 1892  \nPort Vendres  \nChalut  \nProfondeur : 40 m\u00e8tres  \nR\u00e9sultats : Ostr\u00e9ides, \u00c9ponges  \n\nPour M. Rouhe  \nF. Quilet",
+      "entities": {
+        "dates": [
+          "2 Novembre 1892"
+        ]
+      }
+    },
+    {
+      "page_number": "100",
+      "raw_content": "```\n14<sup>e</sup> Sortie\n3 Novembre 1892\nChalut\nN. du Cap Bear\nProfondeur 70 m\u00e8tres\nR\u00e9sultat : Plumulaires, Actinies, Mollusques\n\nPour M. Prouho\nF. Quillot\n```",
+      "cleaned_content": "```\n14<sup>e</sup> Sortie\n3 Novembre 1892\nChalut\nN. du Cap Bear\nProfondeur 70 m\u00e8tres\nR\u00e9sultat : Plumulaires, Actinies, Mollusques\n\nPour M. Prouho\nF. Quillot\n```",
+      "entities": {
+        "dates": [
+          "3 Novembre 1892"
+        ]
+      }
+    },
+    {
+      "page_number": "101",
+      "raw_content": "```\n15<sup>e</sup> Sortie\n6 Novembre 1892\nChalut\nE. N.E. du Cap B\u00e9ar\nProfondeur : 60 m\u00e8tres\nR\u00e9sultats : \u00c9ponges, \u00c9toiles, Oursins, Holothuries.\nPour M. Pouher\nF. Quil\u00e8s\n```",
+      "cleaned_content": "```\n15<sup>e</sup> Sortie\n6 Novembre 1892\nChalut\nE. N.E. du Cap B\u00e9ar\nProfondeur : 60 m\u00e8tres\nR\u00e9sultats : \u00c9ponges, \u00c9toiles, Oursins, Holothuries.\nPour M. Pouher\nF. Quil\u00e8s\n```",
+      "entities": {
+        "dates": [
+          "6 Novembre 1892"
+        ]
+      }
+    },
+    {
+      "page_number": "102",
+      "raw_content": "```\n16<sup>e</sup> Sortie\n\n9 Novembre 1892\n\nMagage\n\nCap Bear\n\nProfondeur : 45 M\u00e8tres\n\nR\u00e9sultats : \u00c9ponges, Bryozoaires,\n\nPour W. Rouha\n\nF. Cuillot\n```",
+      "cleaned_content": "```\n16<sup>e</sup> Sortie\n\n9 Novembre 1892\n\nMagage\n\nCap Bear\n\nProfondeur : 45 M\u00e8tres\n\nR\u00e9sultats : \u00c9ponges, Bryozoaires,\n\nPour W. Rouha\n\nF. Cuillot\n```",
+      "entities": {
+        "dates": [
+          "9 Novembre 1892"
+        ]
+      }
+    },
+    {
+      "page_number": "103",
+      "raw_content": "```\n17<sup>e</sup> Sortie\n13 D\u00e9cembre 1892\nChalut\nN.E. du Cap B\u00e9ar\nProfondeur 70 m\u00e8tres\nR\u00e9sultat : N\u00e9ant\n\nF. Emile\n```",
+      "cleaned_content": "```\n17<sup>e</sup> Sortie\n13 D\u00e9cembre 1892\nChalut\nN.E. du Cap B\u00e9ar\nProfondeur 70 m\u00e8tres\nR\u00e9sultat : N\u00e9ant\n\nF. Emile\n```",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "104",
+      "raw_content": "```\n18<sup>e</sup> Sortie\n16 D\u00e9cembre 1892\n\nChalut\nN.E. du Cap B\u00e9ar\nProfondeur 80 m\u00e8tres\n\nR\u00e9sultat : Plumulaires avec Avicules, \u00c9ponges Hernaropsis\n\n[H. Cunet]\n```",
+      "cleaned_content": "```\n18<sup>e</sup> Sortie\n16 D\u00e9cembre 1892\n\nChalut\nN.E. du Cap B\u00e9ar\nProfondeur 80 m\u00e8tres\n\nR\u00e9sultat : Plumulairesavec Avicules, \u00c9ponges Hernaropsis\n\n[H. Cunet]\n```",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "105",
+      "raw_content": "```\n19<sup>e</sup> Sortie\n20 D\u00e9cembre 1892\n\nMagage\nPuits del' H. Grone\nProfondeur : 16 M\u00e8tres\n\n[Signature]\n```",
+      "cleaned_content": "```\n19<sup>e</sup> Sortie\n20 D\u00e9cembre 1892\n\nMagage\nPuitsdel' H. Grone\nProfondeur : 16 M\u00e8tres\n\n[Signature]\n```",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "106",
+      "raw_content": "```\n20<sup>e</sup> Sortie\n\n22 D\u00e9cembre 1892\n\nTrayage\n\n7h Petile\n\nProfondeur 12 m\u00e8tres\n\n[H. Guitt\u00e9]\n```",
+      "cleaned_content": "```\n20<sup>e</sup> Sortie\n\n22 D\u00e9cembre 1892\n\nTrayage\n\n7h Petile\n\nProfondeur 12 m\u00e8tres\n\n[H. Guitt\u00e9]\n```",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "107",
+      "raw_content": "```\n21<sup>e</sup> Sortie\n\n24 D\u00e9cembre 1892\n\nChagage\nCap Down\nProfondeur : 12 m\u00e8tres\n\nF. Cuite\n```",
+      "cleaned_content": "```\n21<sup>e</sup> Sortie\n\n24 D\u00e9cembre 1892\n\nChagage\nCap Down\nProfondeur : 12 m\u00e8tres\n\nF. Cuite\n```",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "108",
+      "raw_content": "```\n22<sup>e</sup> Sortie\n\n29 D\u00e9cembre 1892\n\nChagage\nCroc\nProfondeur : 15 m\u00e8tres\n\nF. Guillet\n```",
+      "cleaned_content": "```\n22<sup>e</sup> Sortie\n\n29 D\u00e9cembre 1892\n\nChagage\nCroc\nProfondeur : 15 m\u00e8tres\n\nF. Guillet\n```",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "109",
+      "raw_content": "```\n23<sup>e</sup> Sortie\n\n7 janvier 1893\n\nCoup de chalut et de traque\nE. de la baie de Banyuls\n\nProfondeur : 45 m\u00e8tres\n\nRencontres :\n\u00c9ponges diverses, Hernapia,\nHolothuries, Pennatules, V\u00e9rilles,\nCardium norvegicum, Amphid\u00e9lus,\nAmphioxus\n\nF. Cuvier\n```",
+      "cleaned_content": "```\n23<sup>e</sup> Sortie\n\n7 janvier 1893\n\nCoupdechalutetdetraque\nE. delabaiede Banyuls\n\nProfondeur : 45 m\u00e8tres\n\nRencontres :\n\u00c9pongesdiverses, Hernapia,\nHolothuries, Pennatules, V\u00e9rilles,\nCardiumnorvegicum, Amphid\u00e9lus,\nAmphioxus\n\nF. Cuvier\n```",
+      "entities": {
+        "dates": [
+          "7 janvier 1893"
+        ]
+      }
+    },
+    {
+      "page_number": "110",
+      "raw_content": "```\n24<sup>e</sup> Sortie\n\n8 janvier 1893\n\nDragage au Croc\n\nPar 17 m\u00e8tres de profondeur\n\nR\u00e9sultat\n\n[Signature]\n```",
+      "cleaned_content": "```\n24<sup>e</sup> Sortie\n\n8 janvier 1893\n\nDragageau Croc\n\nPar 17 m\u00e8tresdeprofondeur\n\nR\u00e9sultat\n\n[Signature]\n```",
+      "entities": {
+        "dates": [
+          "8 janvier 1893"
+        ]
+      }
+    },
+    {
+      "page_number": "111",
+      "raw_content": "```\n29<sup>e</sup> Sortie\n10 janvier 1893\n\nDragage au Cap Oullestrail\n16 m\u00e8tres de profondeur\n\nR\u00e9sultat :\n\n[Signature]\n```",
+      "cleaned_content": "```\n29<sup>e</sup> Sortie\n10 janvier 1893\n\nDragageau Cap Oullestrail\n16 m\u00e8tresdeprofondeur\n\nR\u00e9sultat :\n\n[Signature]\n```",
+      "entities": {
+        "dates": [
+          "10 janvier 1893"
+        ]
+      }
+    },
+    {
+      "page_number": "112",
+      "raw_content": "```\n26<sup>e</sup> Sortie\n11 janvier 1893\nChalut\nE du Cap B\u00e9ar\nProfondeur : 80 m\u00e8tres\n\nR\u00e9sultat : Eledone, Cynthia microcosmus, Pallania manillata, hydr\u00e9es vari\u00e9es, Spargus vari\u00e9s,\nNeurobranchus, Pleurophyllidis, Doris bleuines, Gobies, Lamellaria, Adamia, Echinus gloria.\n```",
+      "cleaned_content": "```\n26<sup>e</sup> Sortie\n11 janvier 1893\nChalut\nE du Cap B\u00e9ar\nProfondeur : 80 m\u00e8tres\n\nR\u00e9sultat : Eledone, Cynthiamicrocosmus, Pallaniamanillata, hydr\u00e9esvari\u00e9es, Spargusvari\u00e9s,\nNeurobranchus, Pleurophyllidis, Dorisbleuines, Gobies, Lamellaria, Adamia, Echinusgloria.\n```",
+      "entities": {
+        "dates": [
+          "11 janvier 1893"
+        ]
+      }
+    },
+    {
+      "page_number": "113",
+      "raw_content": "```\n27<sup>e</sup> Sortie\n17 Janvier 1893\nChalut\nN.O. du Cap Bear\nProfondeur : 30 m\u00e8tres\nR\u00e9sultats : Cynthia microcoma, Eleonora terpuliana,\nEponges, Comatules, Stiela glomerata.\nP. Quittet\n```",
+      "cleaned_content": "```\n27<sup>e</sup> Sortie\n17 Janvier 1893\nChalut\nN.O. du Cap Bear\nProfondeur : 30 m\u00e8tres\nR\u00e9sultats : Cynthiamicrocoma, Eleonoraterpuliana,\nEponges, Comatules, Stielaglomerata.\nP. Quittet\n```",
+      "entities": {
+        "dates": [
+          "17 Janvier 1893"
+        ]
+      }
+    },
+    {
+      "page_number": "114",
+      "raw_content": "```\n28<sup>e</sup> Sortie\n29 janvier 1893\n\nChalut\nE de Banyuls\nProfondeur : 75 m\u00e8tres\n\nR\u00e9sultat: \u00c9l\u00e9ones, petites t\u00eates, \u00c9ponges diverses,\nThallusia manillata, capro apes, Boris Diazona,\nPlumularia, Hiera glomerata, Hennius ocellaris\n\nP. Guite\n```",
+      "cleaned_content": "```\n28<sup>e</sup> Sortie\n29 janvier 1893\n\nChalut\nE de Banyuls\nProfondeur : 75 m\u00e8tres\n\nR\u00e9sultat: \u00c9l\u00e9ones, petitest\u00eates, \u00c9pongesdiverses,\nThallusiamanillata, caproapes, Boris Diazona,\nPlumularia, Hieraglomerata, Henniusocellaris\n\nP. Guite\n```",
+      "entities": {
+        "dates": [
+          "29 janvier 1893"
+        ]
+      }
+    },
+    {
+      "page_number": "115",
+      "raw_content": "```\n29<sup>e</sup> Sortie  \n28 Janvier 1893  \n\nTrois mailles  \nPierrefitte (Cap)  \n\n50 m. de profondeur,  \nR\u00e9sultat : Bombreas Symposidium, Sponges vari\u00e9es.\n\nF. Lemaire\n```",
+      "cleaned_content": "```\n29<sup>e</sup> Sortie  \n28 Janvier 1893  \n\nTroismailles  \nPierrefitte (Cap)  \n\n50 m. deprofondeur,  \nR\u00e9sultat : Bombreas Symposidium, Spongesvari\u00e9es.\n\nF. Lemaire\n```",
+      "entities": {
+        "dates": [
+          "28 Janvier 1893"
+        ]
+      }
+    },
+    {
+      "page_number": "116",
+      "raw_content": "```\n30<sup>e</sup> Torti\n\n31 Janvier 1893\n\nChalut\nBroc\n\nProfondeur : 15 m\u00e8tres\n\nR\u00e9sultat : Sponges,\n\n[K. Guite]\n```",
+      "cleaned_content": "```\n30<sup>e</sup> Torti\n\n31 Janvier 1893\n\nChalut\nBroc\n\nProfondeur : 15 m\u00e8tres\n\nR\u00e9sultat : Sponges,\n\n[K. Guite]\n```",
+      "entities": {
+        "dates": [
+          "31 Janvier 1893"
+        ]
+      }
+    },
+    {
+      "page_number": "117",
+      "raw_content": "```\n31<sup>e</sup> Sortie\n2 F\u00e9vrier 1893\n\nPhalut\nN\u00b0 du Cap T\u00e9ar\n\nProfondeur : 50 m\u00e8tres\n\nR\u00e9sultats :\nEledone, Sepia, Volgula impura,\nGnathia microcornus, Polycorona, Sponges,\nHomarus vallaris, Crino\u00efdes,\n\n[Signature]\n```",
+      "cleaned_content": "```\n31<sup>e</sup> Sortie\n2 F\u00e9vrier 1893\n\nPhalut\nN\u00b0 du Cap T\u00e9ar\n\nProfondeur : 50 m\u00e8tres\n\nR\u00e9sultats :\nEledone, Sepia, Volgulaimpura,\nGnathiamicrocornus, Polycorona, Sponges,\nHomarusvallaris, Crino\u00efdes,\n\n[Signature]\n```",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "118",
+      "raw_content": "```\n82<sup>e</sup> Sortie\n\n3 F\u00e9vrier 1893\n\nBaque\n\nCap L'Abeille\n\nProfondeur : 7 m\u00e8tres\n\nRemetait Cailloux \u00e0 M\u00e9lob\u00e9sies\n\nF. Emile\n```",
+      "cleaned_content": "```\n82<sup>e</sup> Sortie\n\n3 F\u00e9vrier 1893\n\nBaque\n\nCap L'Abeille\n\nProfondeur : 7 m\u00e8tres\n\nRemetait Cailloux \u00e0 M\u00e9lob\u00e9sies\n\nF. Emile\n```",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "119",
+      "raw_content": "```\n38<sup>e</sup> Sortie\n8 F\u00e9vrier 1893\n\nChalut\n\nE. de Canet\n\nProfondeur : 60 m\u00e8tres\n\nR\u00e9sultat : \u00c9ponges, c\u00e9phalopodes, tuniciers,\nconchilaires, Doris Lamellaria.\n\nF. Quiles\n```",
+      "cleaned_content": "```\n38<sup>e</sup> Sortie\n8 F\u00e9vrier 1893\n\nChalut\n\nE. de Canet\n\nProfondeur : 60 m\u00e8tres\n\nR\u00e9sultat : \u00c9ponges, c\u00e9phalopodes, tuniciers,\nconchilaires, Doris Lamellaria.\n\nF. Quiles\n```",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "120",
+      "raw_content": "```\n34<sup>e</sup> Sortie\n\n13 F\u00e9vrier 1893\n\nP\u00eache p\u00e9lagique\n\nBa\u00efo de Baquels\n\nBomb\u00e9es larves\n\n\u00c9tait \u00e0 bord M<sup>r</sup> Racovitza\n\nF. Quiles\n```",
+      "cleaned_content": "```\n34<sup>e</sup> Sortie\n\n13 F\u00e9vrier 1893\n\nP\u00eachep\u00e9lagique\n\nBa\u00efode Baquels\n\nBomb\u00e9eslarves\n\n\u00c9tait \u00e0 bord M<sup>r</sup> Racovitza\n\nF. Quiles\n```",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "121",
+      "raw_content": "```\n35<sup>e</sup> Sortie\n14 F\u00e9vrier 1893\n\nRaque\nBoc\n\nProfondeur : 5 m\u00e8tres\n\nRemetait Algues et autres diverses.\n\nF. Emile\n```",
+      "cleaned_content": "```\n35<sup>e</sup> Sortie\n14 F\u00e9vrier 1893\n\nRaque\nBoc\n\nProfondeur : 5 m\u00e8tres\n\nRemetait Alguesetautresdiverses.\n\nF. Emile\n```",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "122",
+      "raw_content": "```\n36<sup>e</sup> Sortie\n16 F\u00e9vrier 1893\n\nChalut\nE. de Banyuls\n\nProfondeur : 70 m\u00e8tres\n\nR\u00e9sultat :\nGorgonies, S\u00e9diments, Calamars, orb\u00e9s,\ndivers, Bernardia, Lamellaria, Molgula,\nNephopus, Holothuria,\n\nSignature\nF. Quiles\n```",
+      "cleaned_content": "```\n36<sup>e</sup> Sortie\n16 F\u00e9vrier 1893\n\nChalut\nE. de Banyuls\n\nProfondeur : 70 m\u00e8tres\n\nR\u00e9sultat :\nGorgonies, S\u00e9diments, Calamars, orb\u00e9s,\ndivers, Bernardia, Lamellaria, Molgula,\nNephopus, Holothuria,\n\nSignature\nF. Quiles\n```",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "123",
+      "raw_content": "```\n37<sup>e</sup> Sortie\n18 f\u00e9vrier 1893\n\nChalut\nN.E. du cap B\u00e9ar\n\nProfondeur : 80 m\u00e8tres\n\nR\u00e9sultats : S\u00e9pions, Calmars, Thallusia,\nCucumaria, Bernardia, Cynophica, etc.\n\nF. Quiles\n```",
+      "cleaned_content": "```\n37<sup>e</sup> Sortie\n18 f\u00e9vrier 1893\n\nChalut\nN.E. ducap B\u00e9ar\n\nProfondeur : 80 m\u00e8tres\n\nR\u00e9sultats : S\u00e9pions, Calmars, Thallusia,\nCucumaria, Bernardia, Cynophica, etc.\n\nF. Quiles\n```",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "124",
+      "raw_content": "38<sup>e</sup> Sortie  \n3 Mars 1893  \n\nChalut et Drague  \n\nP\u00e2le travers du Beech  \n\nProfondeur : 25 m\u00e8tres  \n\nR\u00e9sultats : S\u00e9rubes, Bernard, Aphrodiles,  \nOupennulaires, Holothuries, Mur\u00e8s, \u00c9ponges\n\nF. Quiles",
+      "cleaned_content": "38<sup>e</sup> Sortie  \n3 Mars 1893  \n\nChalutet Drague  \n\nP\u00e2letraversdu Beech  \n\nProfondeur : 25 m\u00e8tres  \n\nR\u00e9sultats : S\u00e9rubes, Bernard, Aphrodiles,  \nOupennulaires, Holothuries, Mur\u00e8s, \u00c9ponges\n\nF. Quiles",
+      "entities": {
+        "dates": [
+          "3 Mars 1893"
+        ]
+      }
+    },
+    {
+      "page_number": "125",
+      "raw_content": "```\n39<sup>e</sup> Sortie\n21 Mars 1893\n\nChalut\nParle travers du B\u0153uf\n\nProfondeur : 60 m\u00e8tres\n\nR\u00e9sultats :\nHolothuries, Lepulien, Ditotch, Palama,\nMallengues, Elmeriz\n\nF. Quiles\n```",
+      "cleaned_content": "```\n39<sup>e</sup> Sortie\n21 Mars 1893\n\nChalut\nParletraversdu B\u0153uf\n\nProfondeur : 60 m\u00e8tres\n\nR\u00e9sultats :\nHolothuries, Lepulien, Ditotch, Palama,\nMallengues, Elmeriz\n\nF. Quiles\n```",
+      "entities": {
+        "dates": [
+          "21 Mars 1893"
+        ]
+      }
+    },
+    {
+      "page_number": "126",
+      "raw_content": "```\nCampagne  \n1893 - 1894\n```",
+      "cleaned_content": "```\nCampagne  \n1893 - 1894\n```",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "127",
+      "raw_content": "```\n100<sup>e</sup> Sortie\n\n16 D\u00e9cembre 1893\n\nChalut\n\nEst du Cap Re\u00e1n\n\nProfondeur: 20 m\u00e8tres\n\nR\u00e9sultat: Bombus ophiurus, Eledonea, Schinus, Asterias.\n\nBouguer In\u00e9. 16 D\u00e9cembre 1893\nT. Qu\u00e9tel\n```",
+      "cleaned_content": "```\n100<sup>e</sup> Sortie\n\n16 D\u00e9cembre 1893\n\nChalut\n\nEstdu Cap Re\u00e1n\n\nProfondeur: 20 m\u00e8tres\n\nR\u00e9sultat: Bombusophiurus, Eledonea, Schinus, Asterias.\n\nBouguer In\u00e9. 16 D\u00e9cembre 1893\nT. Qu\u00e9tel\n```",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "128",
+      "raw_content": "```\n2\u00e8me Sortie\n\n23 D\u00e9cembre 1893\n\nOrage\n\nCap d'Abeille\n\nProfondeur : 37 m\u00e8tres\n\nR\u00e9sultat : Pomelat & Cailloux calcaires h\u00e9rabiques\n\nBanguba Ima\n23 D\u00e9cembre 1893\nF. Quinet\n```",
+      "cleaned_content": "```\n2\u00e8me Sortie\n\n23 D\u00e9cembre 1893\n\nOrage\n\nCapd'Abeille\n\nProfondeur : 37 m\u00e8tres\n\nR\u00e9sultat : Pomelat & Caillouxcalcairesh\u00e9rabiques\n\nBanguba Ima\n23 D\u00e9cembre 1893\nF. Quinet\n```",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "129",
+      "raw_content": "```\n3e Sortie\n\n27 D\u00e9cembre 1893\n\nDragage\n\nCap l'Abeille\n\nProfondeur : 34 m\u00e8tres\n\nR\u00e9sultat: cailloux alluvions o-holoc\u00e9niques\n\nBamako /mes. 27 D\u00e9cembre 1893\nP. Leclede\n```",
+      "cleaned_content": "```\n3e Sortie\n\n27 D\u00e9cembre 1893\n\nDragage\n\nCapl'Abeille\n\nProfondeur : 34 m\u00e8tres\n\nR\u00e9sultat: caillouxalluvionso-holoc\u00e9niques\n\nBamako /mes. 27 D\u00e9cembre 1893\nP. Leclede\n```",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "130",
+      "raw_content": "1<sup>e</sup> Sortie  \n28 D\u00e9cembre 1893  \n\nCrois Mailla.  \nCap Pierrefitte  \n\nProfondeur : 4 m\u00e8tres  \n\nRosettes : Rouette, Muricea, Sympodium  \nMa\u00efa, Langouste  \n\nBangulo Tms. 28 D\u00e9cembre 1893  \nF. Quitel",
+      "cleaned_content": "1<sup>e</sup> Sortie  \n28 D\u00e9cembre 1893  \n\nCrois Mailla.  \nCap Pierrefitte  \n\nProfondeur : 4 m\u00e8tres  \n\nRosettes : Rouette, Muricea, Sympodium  \nMa\u00efa, Langouste  \n\nBangulo Tms. 28 D\u00e9cembre 1893  \nF. Quitel",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "131",
+      "raw_content": "5<sup>me</sup> Sortie  \n11 Janvier 1894  \n\nPrague et Chalut  \n\nPrague : subcap l'Abeille 400-45 m\u00e8tres  \n\nChalut : dans l'Est de Banyuls par b\u00f4metres de fond  \n\nR\u00e9sultat: \u00c9l\u00e9odes, \u00c9pines vari\u00e9es, cailloux du cap l'Abeille, Bernard de diff\u00e9rents apcs.  \n\n1 coup de Fauberl a \u00e9t\u00e9 donn\u00e9 dans la baie de Cailloloc par 3 m\u00e8tres de fond. A \u00e9t\u00e9 pris 1 Arbatia  \n\nBanyuls /mes/ 11 janvier 1894  \n\nF. Quinet",
+      "cleaned_content": "5<sup>me</sup> Sortie  \n11 Janvier 1894  \n\nPragueet Chalut  \n\nPrague : subcapl'Abeille 400-45 m\u00e8tres  \n\nChalut : dansl'Estde Banyulsparb\u00f4metresdefond  \n\nR\u00e9sultat: \u00c9l\u00e9odes, \u00c9pinesvari\u00e9es, caillouxducapl'Abeille, Bernarddediff\u00e9rentsapcs.  \n\n1 coupde Fauberla \u00e9t\u00e9 donn\u00e9 danslabaiede Caillolocpar 3 m\u00e8tresdefond. A \u00e9t\u00e9 pris 1 Arbatia  \n\nBanyuls /mes/ 11 janvier 1894  \n\nF. Quinet",
+      "entities": {
+        "dates": [
+          "11 Janvier 1894",
+          "11 janvier 1894"
+        ]
+      }
+    },
+    {
+      "page_number": "132",
+      "raw_content": "```\n6<sup>e</sup> Sortie  \n18 Janvier 1894  \n\nChalut  \n\nCap l'Abeille, 16. du C. Be\u00e1  \n\nProfondeur: 40 m\u00e8tres  \n\nR\u00e9sultat: Comatale, Cynthia microcoma,  \nSiphographe Molgula infima, Thalluria mamillata,  \nDru, Pleurobranchus Espella Bernard, 'Jenceu' caramote, Ophioglypha,  \nHichopus, Promie, Pina, No\u00eblilles etc.  \n\nBanyuls /mes/ 18 Janvier 1894  \n\n[Signature]\n```",
+      "cleaned_content": "```\n6<sup>e</sup> Sortie  \n18 Janvier 1894  \n\nChalut  \n\nCapl'Abeille, 16. du C. Be\u00e1  \n\nProfondeur: 40 m\u00e8tres  \n\nR\u00e9sultat: Comatale, Cynthiamicrocoma,  \nSiphographe Molgulainfima, Thalluriamamillata,  \nDru, Pleurobranchus Espella Bernard, 'Jenceu' caramote, Ophioglypha,  \nHichopus, Promie, Pina, No\u00eblillesetc.  \n\nBanyuls /mes/ 18 Janvier 1894  \n\n[Signature]\n```",
+      "entities": {
+        "dates": [
+          "18 Janvier 1894",
+          "18 Janvier 1894"
+        ]
+      }
+    },
+    {
+      "page_number": "133",
+      "raw_content": "```\n7<sup>e</sup> Sortie\n6 F\u00e9vrier 1894\n\nG\u00e9rardias\n\nMagage de Touches d'Algue\n\nProfondeur: 1/2 m\u00e8tres\n\nF. Sautet\n```",
+      "cleaned_content": "```\n7<sup>e</sup> Sortie\n6 F\u00e9vrier 1894\n\nG\u00e9rardias\n\nMagagede Touchesd'Algue\n\nProfondeur: 1/2 m\u00e8tres\n\nF. Sautet\n```",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "134",
+      "raw_content": "```\n7<sup>e</sup> Sortie\n7 F\u00e9vrier 1894\n\nBagage\nCap l'Abeille\nProfondeur: 35 m\u00e8tres\nCailloux \u00e0 Melob\u00e9sic\u00e9s\n\nF. Quittet\n```",
+      "cleaned_content": "```\n7<sup>e</sup> Sortie\n7 F\u00e9vrier 1894\n\nBagage\nCapl'Abeille\nProfondeur: 35 m\u00e8tres\nCailloux \u00e0 Melob\u00e9sic\u00e9s\n\nF. Quittet\n```",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "135",
+      "raw_content": "```\n9<sup>e</sup> Sortie\n\n12 F\u00e9vrier 1894\n\nMagage\n\nPlage d'Angl\u00e8s\n\nProfondeur: 12 m\u00e8tres\n\nPomelat: Mares Brandaris, Orthopecten\nAmphibius; Bernard\n\nF. Cluizel\n```",
+      "cleaned_content": "```\n9<sup>e</sup> Sortie\n\n12 F\u00e9vrier 1894\n\nMagage\n\nPlaged'Angl\u00e8s\n\nProfondeur: 12 m\u00e8tres\n\nPomelat: Mares Brandaris, Orthopecten\nAmphibius; Bernard\n\nF. Cluizel\n```",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "136",
+      "raw_content": "```\n10<sup>e</sup> journ\u00e9e\n\n15 F\u00e9vrier 1894\n\nChalut\n\nM.E. de Cap R\u00e9ar\n\nR\u00e9sultat : S\u00e9d\u00e9e\n\nF. Guille\n```",
+      "cleaned_content": "```\n10<sup>e</sup> journ\u00e9e\n\n15 F\u00e9vrier 1894\n\nChalut\n\nM.E. de Cap R\u00e9ar\n\nR\u00e9sultat : S\u00e9d\u00e9e\n\nF. Guille\n```",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "137",
+      "raw_content": "```\n11<sup>e</sup> Sortie\n\n16 F\u00e9vrier 1894\n\nDragage au Cap d'Abeille\n\nProfondeur 35 m\u00e8tres\n\nR\u00e9m\u00e9tat & Cailloux \u00e0 M\u00e9lob\u00e9ci\u00e9s\n\nF. Guille\n```",
+      "cleaned_content": "```\n11<sup>e</sup> Sortie\n\n16 F\u00e9vrier 1894\n\nDragageau Capd'Abeille\n\nProfondeur 35 m\u00e8tres\n\nR\u00e9m\u00e9tat & Cailloux \u00e0 M\u00e9lob\u00e9ci\u00e9s\n\nF. Guille\n```",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "138",
+      "raw_content": "```\n12<sup>e</sup> Sortie\n\n24 F\u00e9vrier 1894\n\nBranzol de gouvernail du Roland\nPort Kedra\n\nA. Quitt\u00e9\n```",
+      "cleaned_content": "```\n12<sup>e</sup> Sortie\n\n24 F\u00e9vrier 1894\n\nBranzoldegouvernaildu Roland\nPort Kedra\n\nA. Quitt\u00e9\n```",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "139",
+      "raw_content": "```\n13e Sortie\n\n7 Nov. 1894\n\nPort Vendres\n\nApprovisionnements de Charbon\n\nF. Quinet\n```",
+      "cleaned_content": "```\n13e Sortie\n\n7 Nov. 1894\n\nPort Vendres\n\nApprovisionnementsde Charbon\n\nF. Quinet\n```",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "140",
+      "raw_content": "```\nM^e Sortie\n\n9 Mars 1894\n\nChalut\n\nEn face Banyuls\n\nProfondeur : 45 m\u00e8tres,\n\nPomestal : Eledone, Alytes, Pennatules,\nVorstilla, Nephopus, Anthopecten, Cacumaria,\nEpine vives, Plumulavia, Pagure, S. m\u00e9lo,\nThallonia mamillata, 1 S\u00e9pia\n\nF. Quinet\n```",
+      "cleaned_content": "```\nM^e Sortie\n\n9 Mars 1894\n\nChalut\n\nEnface Banyuls\n\nProfondeur : 45 m\u00e8tres,\n\nPomestal : Eledone, Alytes, Pennatules,\nVorstilla, Nephopus, Anthopecten, Cacumaria,\nEpinevives, Plumulavia, Pagure, S. m\u00e9lo,\nThalloniamamillata, 1 S\u00e9pia\n\nF. Quinet\n```",
+      "entities": {
+        "dates": [
+          "9 Mars 1894"
+        ]
+      }
+    },
+    {
+      "page_number": "141",
+      "raw_content": "```\n15<sup>e</sup> Sortie\n\n10 Mars 1894\n\nApprovisionnement de charbon \u00e0  \nPort Vendres\n\nF. Quitt\u00e9\n```",
+      "cleaned_content": "```\n15<sup>e</sup> Sortie\n\n10 Mars 1894\n\nApprovisionnementdecharbon \u00e0  \nPort Vendres\n\nF. Quitt\u00e9\n```",
+      "entities": {
+        "dates": [
+          "10 Mars 1894"
+        ]
+      }
+    },
+    {
+      "page_number": "142",
+      "raw_content": "```\nLe 23 Octobre 1894 le quartier-ma\u00eetre de man\u0153uvre du 2<sup>e</sup> guerre a \u00e9t\u00e9 d\u00e9l\u00e9gu\u00e9 pour commander les embarcations du Laboratoire.\n\nSortie  \n26 Octobre 1894  \nDragage au cap l'Abeille\n\nSortie  \n20 Novembre 1894  \nPort-Vendres  \nFait du charbon\n\nSortie  \n27 Novembre 1894  \nDragage au cap l'Abeille  \nP\u00eache d'\u00e9ponges pour M. Tossent (Aximelles)\n\nSortie  \n29 Novembre 1894  \nChalutage devant Anglet : (Cynthia, Spinoque, \nMalluson, Molgues)  \nDragu\u00e9e Paulillot (b Amphioxus)\n```",
+      "cleaned_content": "```\nLe 23 Octobre 1894 lequartier-ma\u00eetredeman\u0153uvredu 2<sup>e</sup> guerrea \u00e9t\u00e9 d\u00e9l\u00e9gu\u00e9 pourcommanderlesembarcationsdu Laboratoire.\n\nSortie  \n26 Octobre 1894  \nDragageaucapl'Abeille\n\nSortie  \n20 Novembre 1894  \nPort-Vendres  \nFaitducharbon\n\nSortie  \n27 Novembre 1894  \nDragageaucapl'Abeille  \nP\u00eached'\u00e9pongespour M. Tossent (Aximelles)\n\nSortie  \n29 Novembre 1894  \nChalutagedevant Anglet : (Cynthia, Spinoque, \nMalluson, Molgues)  \nDragu\u00e9e Paulillot (b Amphioxus)\n```",
+      "entities": {
+        "dates": [
+          "23 Octobre 1894",
+          "26 Octobre 1894",
+          "20 Novembre 1894",
+          "27 Novembre 1894",
+          "29 Novembre 1894"
+        ]
+      }
+    },
+    {
+      "page_number": "143",
+      "raw_content": "```\nSortie\n9 D\u00e9cembre 1894\nChalut au large du cap B\u00e9ar\n\nSortie\n10 D\u00e9cembre 1894\nDragage avec l'Abeille\n\nSortie\n13 D\u00e9cembre 1894\nDragage au cap l'Abeille : amphi\u00e9es.\n\nSortie\n15 D\u00e9cembre 1894\nChalut - dragage \u00e0 Paulilles - 15 amphies.\nBr\u00fbl\u00e9 le mot de taffe cul.\n\nSortie\n17 D\u00e9cembre 1894\nOblig\u00e9s de rentrer apr\u00e8s avoir touch\u00e9 le cap B\u00e9ar\n\u00e0 cause du vent du Nord.\n\nSortie\n18 D\u00e9cembre 1894\nChalut : 3 \u00e9dons et mollusques riches.\n```",
+      "cleaned_content": "```\nSortie\n9 D\u00e9cembre 1894\nChalutaulargeducap B\u00e9ar\n\nSortie\n10 D\u00e9cembre 1894\nDragageavecl'Abeille\n\nSortie\n13 D\u00e9cembre 1894\nDragageaucapl'Abeille : amphi\u00e9es.\n\nSortie\n15 D\u00e9cembre 1894\nChalut - dragage \u00e0 Paulilles - 15 amphies.\nBr\u00fbl\u00e9 lemotdetaffecul.\n\nSortie\n17 D\u00e9cembre 1894\nOblig\u00e9sderentrerapr\u00e8savoirtouch\u00e9 lecap B\u00e9ar\n\u00e0 causeduventdu Nord.\n\nSortie\n18 D\u00e9cembre 1894\nChalut : 3 \u00e9donsetmollusquesriches.\n```",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "144",
+      "raw_content": "```\nSortie\n22 D\u00e9cembre 1894\nChalutage en face Collioure - 99 ascidies, Eledon\n\nSortie\n24 D\u00e9cembre 1894\nChalut (P\u00eache peu fructueuse)\n```",
+      "cleaned_content": "```\nSortie\n22 D\u00e9cembre 1894\nChalutageenface Collioure - 99 ascidies, Eledon\n\nSortie\n24 D\u00e9cembre 1894\nChalut (P\u00eachepeufructueuse)\n```",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "145",
+      "raw_content": "```\n1895\n\nSortie  \n2 F\u00e9vrier 1895  \nChalutage au cap l'Abeille  \n\nSortie  \n20 F\u00e9vrier 1895  \nChalutage \u00e0 Paulilles  \n\u00c9lectones et Seiche  \n\nSortie  \n21 F\u00e9vrier 1895  \nChalutage du cap Corbi\u00e8re au For\u00e9toul ;  \nle chalut \u00e9tant renvers\u00e9, et vide  \nChalutage du Cap l'Abeille \u00e0 Paulilles  \nForges  \n\nSortie  \n22 F\u00e9vrier 1895  \nChalut en face Collioure et Port-Vendres  \nForges et brassage d'acides  \n\n8 Mars 1895  \nSortie de la G\u00e9n\u00e9ralit\u00e9 : all\u00e9e \u00e0 Port-Vendres, poudre des Spingophores et des Cornatules.\n```",
+      "cleaned_content": "```\n1895\n\nSortie  \n2 F\u00e9vrier 1895  \nChalutageaucapl'Abeille  \n\nSortie  \n20 F\u00e9vrier 1895  \nChalutage \u00e0 Paulilles  \n\u00c9lectoneset Seiche  \n\nSortie  \n21 F\u00e9vrier 1895  \nChalutageducap Corbi\u00e8reau For\u00e9toul ;  \nlechalut \u00e9tantrenvers\u00e9, etvide  \nChalutagedu Capl'Abeille \u00e0 Paulilles  \nForges  \n\nSortie  \n22 F\u00e9vrier 1895  \nChalutenface Collioureet Port-Vendres  \nForgesetbrassaged'acides  \n\n8 Mars 1895  \nSortiedela G\u00e9n\u00e9ralit\u00e9 : all\u00e9e \u00e0 Port-Vendres, poudredes Spingophoresetdes Cornatules.\n```",
+      "entities": {
+        "dates": [
+          "8 Mars 1895"
+        ]
+      }
+    },
+    {
+      "page_number": "146",
+      "raw_content": "```\nSortie\n21 Mars 1895\n\u00c9tat Port-Vendres : fait du charbon.\n\nSortie\n9 Juin 1895\n\u00c0 l'est de Bougada, recherches d'\u00c9toilelle pour M. Racovita\n\nLe 17 Juin 1895\nLe patron Queno quitte la merve du laboratoire. Joseph Rouvier est nomm\u00e9 patron du Laboratoire (au mois d'Octobre)\n\nSortie\n26 Juin 1895\n\u00c9tat Port-Vendres : fait du charbon\nA bord : A. Robert & M\u00b0 Rochet.\n```",
+      "cleaned_content": "```\nSortie\n21 Mars 1895\n\u00c9tat Port-Vendres : faitducharbon.\n\nSortie\n9 Juin 1895\n\u00c0 l'estde Bougada, recherchesd'\u00c9toilellepour M. Racovita\n\nLe 17 Juin 1895\nLepatron Quenoquittelamervedulaboratoire. Joseph Rouvierestnomm\u00e9 patrondu Laboratoire (aumoisd'Octobre)\n\nSortie\n26 Juin 1895\n\u00c9tat Port-Vendres : faitducharbon\nA bord : A. Robert & M\u00b0 Rochet.\n```",
+      "entities": {
+        "dates": [
+          "21 Mars 1895",
+          "9 Juin 1895",
+          "17 Juin 1895",
+          "26 Juin 1895"
+        ]
+      }
+    },
+    {
+      "page_number": "147",
+      "raw_content": "```plaintext\nCampagne 1895-96\n\n1<sup>re</sup> Sortie  \n19 Octobre 1895  \nP\u00eache d'Amphioxus  \n\n2<sup>e</sup> Sortie  \n16 Novembre 1895  \nChalut : Cynthia, 9 Ophiurs, deux Trochus gigyphimus, 1 petit Torpeda, 1 Pleurophyllidium, 2 Doris, 2 Holothurio tubulosa.  \n\n3<sup>e</sup> Sortie  \n23 Novembre 1895  \nChalut, vent du nord assez fort, 9 Holothuria, Elasmithalamellosia, 1 Doris, 1 Idalia elegans, 1 Tritonia.  \n\n4<sup>e</sup> Sortie  \n28 Novembre 1895  \nD\u00e9p. 8\u00bd nautiques \u00e0 4 h. Chalut : 4 Pleurobranches, 7 Doris, Scaphandres, etc.  \n\n5<sup>e</sup> Sortie  \n30 Novembre 1895  \nChalut (Doris, Scaphandres, 2 Trochus granulates).  \n\nSortie  \n2 D\u00e9cembre 1895  \nChalut.  \n\n1896  \n\n1<sup>re</sup> Sortie  \n19 Janvier 1896  \n\u00c9t\u00e9 chercher des tuyaux \u00e0 Port-Vieux  \n\n2<sup>e</sup> Sorte  \n20 Janvier 1896  \nP\u00eache d'Amphioxus.\n```",
+      "cleaned_content": "```plaintext\nCampagne 1895-96\n\n1<sup>re</sup> Sortie  \n19 Octobre 1895  \nP\u00eached'Amphioxus  \n\n2<sup>e</sup> Sortie  \n16 Novembre 1895  \nChalut : Cynthia, 9 Ophiurs, deux Trochusgigyphimus, 1 petit Torpeda, 1 Pleurophyllidium, 2 Doris, 2 Holothuriotubulosa.  \n\n3<sup>e</sup> Sortie  \n23 Novembre 1895  \nChalut, ventdunordassezfort, 9 Holothuria, Elasmithalamellosia, 1 Doris, 1 Idaliaelegans, 1 Tritonia.  \n\n4<sup>e</sup> Sortie  \n28 Novembre 1895  \nD\u00e9p. 8\u00bd nautiques \u00e0 4 h. Chalut : 4 Pleurobranches, 7 Doris, Scaphandres, etc.  \n\n5<sup>e</sup> Sortie  \n30 Novembre 1895  \nChalut (Doris, Scaphandres, 2 Trochusgranulates).  \n\nSortie  \n2 D\u00e9cembre 1895  \nChalut.  \n\n1896  \n\n1<sup>re</sup> Sortie  \n19 Janvier 1896  \n\u00c9t\u00e9 chercherdestuyaux \u00e0 Port-Vieux  \n\n2<sup>e</sup> Sorte  \n20 Janvier 1896  \nP\u00eached'Amphioxus.\n```",
+      "entities": {
+        "dates": [
+          "19 Octobre 1895",
+          "16 Novembre 1895",
+          "23 Novembre 1895",
+          "28 Novembre 1895",
+          "30 Novembre 1895",
+          "19 Janvier 1896",
+          "20 Janvier 1896"
+        ]
+      }
+    },
+    {
+      "page_number": "148",
+      "raw_content": "```plaintext\n9<sup>e</sup> Sortie\n27 Janvier 1896\nChalut.\n\n10<sup>e</sup> Sortie\n4 F\u00e9vrier 1896\nChalut : 99 Troches, 2 Pleurophyllidis, Bryozoa,\n1 Aureliana augusta et autres actinies dont on avait pour\nobjet de tirer des actines pour M<sup>lle</sup> Fauvet.\n\n11<sup>e</sup> Sortie\n16 Mars 1896\nSortie pour avoir du Murex pour la d'Anaya,\nArrofats de Gorgones, par un seul Murex.\n\n12<sup>e</sup> Sortie\n9 Mai 1896\nSortie pour avoir des Eponges pour la Minchini.\nDragage au cap d'Abeille. Avec la dague.\n\n13<sup>e</sup> Sortie\n15 Mai 1896\nChalut le matin (Electraea, Lamellaria)\ndix-huit lapins m\u00fbrs (Eponges) venus \u00e0 4 h.\n\n14<sup>e</sup> Sortie\n8 Juin 1896\nChalut.\n```",
+      "cleaned_content": "```plaintext\n9<sup>e</sup> Sortie\n27 Janvier 1896\nChalut.\n\n10<sup>e</sup> Sortie\n4 F\u00e9vrier 1896\nChalut : 99 Troches, 2 Pleurophyllidis, Bryozoa,\n1 Aurelianaaugustaetautresactiniesdontonavaitpourobjetdetirerdesactinespour M<sup>lle</sup> Fauvet.\n\n11<sup>e</sup> Sortie\n16 Mars 1896\nSortiepouravoirdu Murexpourlad'Anaya,\nArrofatsde Gorgones, parunseul Murex.\n\n12<sup>e</sup> Sortie\n9 Mai 1896\nSortiepouravoirdes Epongespourla Minchini.\nDragageaucapd'Abeille. Avecladague.\n\n13<sup>e</sup> Sortie\n15 Mai 1896\nChalutlematin (Electraea, Lamellaria)\ndix-huitlapinsm\u00fbrs (Eponges) venus \u00e0 4 h.\n\n14<sup>e</sup> Sortie\n8 Juin 1896\nChalut.\n```",
+      "entities": {
+        "dates": [
+          "27 Janvier 1896",
+          "16 Mars 1896",
+          "9 Mai 1896",
+          "15 Mai 1896",
+          "8 Juin 1896"
+        ]
+      }
+    },
+    {
+      "page_number": "149",
+      "raw_content": "```\n1896-97\n\n1\u02b3\u1d49 Sortie\n7 Octobre 1896\nEto clouera Port-Vendres du p\u00e9niche fort du baspin\n\n2\u1d48\u1d49 Sortie\n19 Novembre 1896\nSortie pour avoir des Eichinus actus pour l'Friant\nLe bateau part \u00e0 7\u02b0 entr\u00e9 \u00e0 15\u02b0 Chalut :\ngromme d'Eichinus, 20 Electres, 1 Peachia, 1 Lifond,\n2 Pleurophyllidis, 1 Trochus granulatus - Quelques fus\u00e9s de Collionides, pr\u00e8s du rocher.\n\n3\u1d49 Sortie\n25 Novembre 1896\nSorte \u00e0 6\u02b0 entre Collioure et Argel\u00e8s, dom\u2019 2 vents\nde douze et long chabot vers locap. Beaux. Retour\n\u00e0 9\u02b0 plus vent du Nord - Nombreux Gorgons,\nSponges - Fleurebanches membranacees, 3 Anis,\n99 oursins\n\n4\u1d49 Sortie\n7 D\u00e9cembre 1896\nSortie pour chercher des Spiographe : d\u00e9part 7\u00bd\nPort Vendre - Salle Tot vendra 1\u02b0 Chalut -\nSpiographes, \u00c9pules, oursons nombreux, Doris tr\u00e8s\nnombreuses, Cornatelles - 2 Plaumonches manbaniers,\n\n1897.\n5\u1d49 Sortie\n11 Janvier 1897\nCharles. D\u00e9part \u00e0 7\u02b0 sortie \u00e0 12\u02b0\n```",
+      "cleaned_content": "```\n1896-97\n\n1\u02b3\u1d49 Sortie\n7 Octobre 1896\nEtoclouera Port-Vendresdup\u00e9nichefortdubaspin\n\n2\u1d48\u1d49 Sortie\n19 Novembre 1896\nSortiepouravoirdes Eichinusactuspourl'Friant\nLebateaupart \u00e0 7\u02b0 entr\u00e9 \u00e0 15\u02b0 Chalut :\ngrommed'Eichinus, 20 Electres, 1 Peachia, 1 Lifond,\n2 Pleurophyllidis, 1 Trochusgranulatus - Quelquesfus\u00e9sde Collionides, pr\u00e8sdurocher.\n\n3\u1d49 Sortie\n25 Novembre 1896\nSorte \u00e0 6\u02b0 entre Collioureet Argel\u00e8s, dom\u2019 2 ventsdedouzeetlongchabotverslocap. Beaux. Retour\n\u00e0 9\u02b0 plusventdu Nord - Nombreux Gorgons,\nSponges - Fleurebanchesmembranacees, 3 Anis,\n99 oursins\n\n4\u1d49 Sortie\n7 D\u00e9cembre 1896\nSortiepourchercherdes Spiographe : d\u00e9part 7\u00bd\nPort Vendre - Salle Totvendra 1\u02b0 Chalut -\nSpiographes, \u00c9pules, oursonsnombreux, Doristr\u00e8snombreuses, Cornatelles - 2 Plaumonchesmanbaniers,\n\n1897.\n5\u1d49 Sortie\n11 Janvier 1897\nCharles. D\u00e9part \u00e0 7\u02b0 sortie \u00e0 12\u02b0\n```",
+      "entities": {
+        "dates": [
+          "7 Octobre 1896",
+          "19 Novembre 1896",
+          "25 Novembre 1896",
+          "11 Janvier 1897"
+        ]
+      }
+    },
+    {
+      "page_number": "150",
+      "raw_content": "6<sup>e</sup> Sortie  \n12 Janvier 1897  \nSortie pour avoir des Amphibians. D\u00e9part \u00e0 8h30.  \nDragu\u00e9 \u00e0 9<sup>e</sup> Chalut \u2013 Retour \u00e0 15.\n\n7<sup>e</sup> Sortie  \n26 Janvier 1897  \nChalut : d\u00e9fectueux et autre \u00e0 4h30.\n\n8<sup>e</sup> Sortie  \n9 F\u00e9vrier 1897  \nSortie \u00e0 7h30, retour \u00e0 2h30.  \nChalut : Pennatules, V\u00e9r\u00e9tells, 3 Philine et grand nombre de Scaphebades.\n\n9<sup>e</sup> Sortie  \n19 Mars 1897  \nSortie pour avoir des Ophiures et des Murex. D\u00e9part \u00e0 6h30. Dragu\u00e9 11<sup>e</sup>, retourn\u00e9 \u00e0 4h30 ; 50 Murex, pas d'Ophiures.\n\n10<sup>e</sup> Sortie  \n20 Mars 1897  \nSortie pour avoir des Ophiures. D\u00e9part \u00e0 2h30.  \nRetour \u00e0 5h30. Des millions d\u2019Ophiures mais aucun autre animal.\n\n11<sup>e</sup> Sortie  \n18 Mai 1897  \nSorte pour avoir des Brachiopodes par M. de Laage.  \nD\u00e9part \u00e0 7h, retours au milieu \u2013 dragu\u00e9s avec abeilles.  \nNombreux Poulpes des Argiopea et des Polycera torsa, en train de se d\u00e9velopper. Belle p\u00eache aux amphibiens : 7 amphibois.\n\n12<sup>e</sup> Sortie  \n1 Juin 1897  \nSorte pour le large, passons \u00e0 Molgats.  \nD\u00e9part 6h30, retour \u00e0 3 heures du matin. Dragu\u00e9 et tir\u00e9 7 chaluts \u2013 Muchaus, Crino\u00efdes et B\u00e9nards, Stichopus etc., 2 jours.",
+      "cleaned_content": "6<sup>e</sup> Sortie  \n12 Janvier 1897  \nSortiepouravoirdes Amphibians. D\u00e9part \u00e0 8h30.  \nDragu\u00e9 \u00e0 9<sup>e</sup> Chalut \u2013 Retour \u00e0 15.\n\n7<sup>e</sup> Sortie  \n26 Janvier 1897  \nChalut : d\u00e9fectueuxetautre \u00e0 4h30.\n\n8<sup>e</sup> Sortie  \n9 F\u00e9vrier 1897  \nSortie \u00e0 7h30, retour \u00e0 2h30.  \nChalut : Pennatules, V\u00e9r\u00e9tells, 3 Philineetgrandnombrede Scaphebades.\n\n9<sup>e</sup> Sortie  \n19 Mars 1897  \nSortiepouravoirdes Ophiuresetdes Murex. D\u00e9part \u00e0 6h30. Dragu\u00e9 11<sup>e</sup>, retourn\u00e9 \u00e0 4h30 ; 50 Murex, pasd'Ophiures.\n\n10<sup>e</sup> Sortie  \n20 Mars 1897  \nSortiepouravoirdes Ophiures. D\u00e9part \u00e0 2h30.  \nRetour \u00e0 5h30. Desmillionsd\u2019Ophiuresmaisaucunautreanimal.\n\n11<sup>e</sup> Sortie  \n18 Mai 1897  \nSortepouravoirdes Brachiopodespar M. de Laage.  \nD\u00e9part \u00e0 7h, retoursaumilieu \u2013 dragu\u00e9savecabeilles.  \nNombreux Poulpesdes Argiopeaetdes Polyceratorsa, entraindesed\u00e9velopper. Bellep\u00eacheauxamphibiens : 7 amphibois.\n\n12<sup>e</sup> Sortie  \n1 Juin 1897  \nSortepourlelarge, passons \u00e0 Molgats.  \nD\u00e9part 6h30, retour \u00e0 3 heuresdumatin. Dragu\u00e9 ettir\u00e9 7 chaluts \u2013 Muchaus, Crino\u00efdeset B\u00e9nards, Stichopusetc., 2 jours.",
+      "entities": {
+        "dates": [
+          "12 Janvier 1897",
+          "26 Janvier 1897",
+          "19 Mars 1897",
+          "20 Mars 1897",
+          "18 Mai 1897",
+          "1 Juin 1897"
+        ]
+      }
+    },
+    {
+      "page_number": "151",
+      "raw_content": "\"\"",
+      "cleaned_content": "\"\"",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "152",
+      "raw_content": "\"\"",
+      "cleaned_content": "\"\"",
+      "entities": {
+        "dates": []
+      }
+    },
+    {
+      "page_number": "153",
+      "raw_content": "\"\"",
+      "cleaned_content": "\"\"",
+      "entities": {
+        "dates": []
+      }
+    }
+  ],
+  "metadata": {
+    "years": [
+      "1790",
+      "1791",
+      "1792",
+      "1797",
+      "1890",
+      "1891",
+      "1892",
+      "1893",
+      "1894",
+      "1895",
+      "1896",
+      "1897",
+      "1911"
+    ],
+    "book_name": "05_OOB_04_log"
+  }
+}

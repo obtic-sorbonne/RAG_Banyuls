@@ -1,0 +1,29 @@
+| V. 26 Septembre - 1907 | Matin | Soir |
+|---|---|---|
+| Hauteur Barométrique | 759,3 | 757,4 |
+| Direction du Vent | S.O | S.O |
+| Force | 15 | 25 |
+| (Reg. C. Aire) | 3 | 10 |
+| Nébulosité |  |  |
+| (Reg. K. (mur)) | 3 | 10 |
+| Direction des nuages | S.O | S.O |
+| Pluie tombée | " | " |
+| Température de l'air | 23,0 | 27,1 |
+| Hauteur de la mer | 24,6 | 33,4 |
+| Agitation de l'eau | 3 | 3 |
+| Densité au bout de la jetée | 1027,9 | 1027,6 |
+| Température de l'eau | 19,9 | 20,3 |
+| V. 27 Septembre - 1907 | Matin | Soir |
+| Hauteur Barométrique | 759,6 | 759,2 |
+| Direction du Vent | S.O | S.O |
+| Force | 15 | 25 |
+| (Reg. C. (terre)) | 10 | 10 |
+| Nébulosité |  |  |
+| (Reg. K. (mur)) | 10 | 10 |
+| Direction des nuages | S.O | S.O |
+| Pluie tombée | 8,29 | 1,77 |
+| Température de l'air | 24,1 | 24,2 |
+| Hauteur de la mer | 18,8 | 3 |
+| Agitation de l'eau | 4 | 3 T. fort |
+| Densité au bout de la jetée | 1027,4 |  |
+| Température de l'eau | 20,4 | 3 |

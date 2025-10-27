@@ -1,0 +1,28 @@
+| Date       | Matin   | Soir    | Description                                                                                 | Valeurs                |
+|------------|---------|---------|---------------------------------------------------------------------------------------------|-----------------------|
+| V. 16 Xbre 1907 |         |         |                                                                                             |                       |
+|            |         |         | Hauteur barométrique                                                                      | 767.4 | 767.4          |
+|            |         |         | Direction du vent                                                                         | cr.0 | cr.0           |
+|            |         |         | Force                                                                                     | 2 fort | 1             |
+|            |         |         | Nébulosité (Reg. O. Cieure)                                                               | 0 | 0              |
+|            |         |         | Nébulosité (Reg. O. (mur))                                                                | 2 | 0              |
+|            |         |         | Direction des mers                                                                        | cr.0 | "             |
+|            |         |         | Pluie tombée                                                                               | 1.7 | "             |
+|            |         |         | Température de l'air                                                                       | 11.0 | 12.0           |
+|            |         |         | Hauteur de la mer                                                                         | 01.9 | 10.6           |
+|            |         |         | Agitation de l'eau                                                                         | 2 | 2              |
+|            |         |         | Densité au bout de la jetée                                                                | 1029.1 | 1028.9        |
+|            |         |         | Température de l'eau                                                                       | 1.0 | 1.3            |
+| V. 18 Xbre 1907 |         |         |                                                                                             |                       |
+|            |         |         | Hauteur barométrique                                                                      | 778.2 |                |
+|            |         |         | Direction du vent                                                                         | Sud |                |
+|            |         |         | Force                                                                                     | 3 faible |              |
+|            |         |         | Nébulosité (Reg. O. Cieure)                                                               | 10 |                |
+|            |         |         | Nébulosité (Reg. O. (mur))                                                                | 9.0 |                |
+|            |         |         | Direction des mers                                                                        | " |                 |
+|            |         |         | Pluie tombée                                                                               | " |                 |
+|            |         |         | Température de l'air                                                                       | 18.8 |                |
+|            |         |         | Hauteur de la mer                                                                         | 13.3 |                |
+|            |         |         | Agitation de l'eau                                                                         | 2 |                 |
+|            |         |         | Densité au bout de la jetée                                                                | 1028.6 |               |
+|            |         |         | Température de l'eau                                                                       | 1.3 |                |

@@ -1,0 +1,15 @@
+# Date: 11 Juillet 1901
+
+|  Item | Q. | Statin | % Soix  |
+| --- | --- | --- | --- |
+|  Kauteur Mavometrique |  | 701,4 | 700,8  |
+|  Direction Su vent |  | N.N.O | N.N.O  |
+|  Force |  | 4 fort | 4  |
+|  Ébulosité | Reg. D. (terre) | 0 | 0  |
+|  Dircetion des nuages |  | 0 | 0  |
+|  Mure tombe |  | N.N.O | N.N.O  |
+|  Température de l'air |  | 27,6 | 27,5  |
+|  Kauteur de la mer |  | 63,8 | 44,9  |
+|  Épilation de l'eau |  | 4 fucth | 3 fort  |
+|  Densité de l'eau |  | 1027,5 | 1027,2  |
+|  Comprendre de l'eau |  | 19,7 | 20,5  |

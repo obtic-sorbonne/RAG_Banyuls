@@ -1,0 +1,28 @@
+| Date       | Matin | Soir |
+|------------|-------|------|
+| 7 Mai 1907 |       |      |
+| Hauteur Barométrique | 763,7 | 763,8 |
+| Direction du Vent | S.E.8 | S.E.8 |
+| Force | 3 | 3 |
+| Nébulosité (Reg. C. Clère) | 40 | 40 |
+| Nébulosité (Reg. L. (mr)) | 40 | 40 |
+| Direction des nuages | S.O. | S.O. |
+| Pluie tombée | " | " |
+| Température de l'air | 24,8 | 24,8 |
+| Hauteur de la mer | 12,2 | 12,2 |
+| Agitation de l'eau | 2 fort | 2 fort |
+| Densité au bout de la jetée | 628,2 | 628,2 |
+| Température de l'eau | 13,8 | 13,8 |
+| 8 Mai 1907 |       |      |
+| Hauteur Barométrique | 766,7 | 764,0 |
+| Direction du Vent | S.E.8 | S.E.8 |
+| Force | 2 | 2 fort |
+| Nébulosité (Reg. C. Clère) | 40 | 40 |
+| Nébulosité (Reg. L. (mr)) | 40 | 40 |
+| Direction des nuages | S.O. | S.O. |
+| Pluie tombée | 7,5 | quelque g |
+| Température de l'air | 13,0 | 19,1 |
+| Hauteur de la mer | 11,7 | 13,2 |
+| Agitation de l'eau | 3 | 2 fort |
+| Densité au bout de la jetée | 628,1 | 628,6 |
+| Température de l'eau | 13,2 | 14,3 |

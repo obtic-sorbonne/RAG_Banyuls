@@ -1,0 +1,30 @@
+```plaintext
+| **Date**       | **Matin** | **Soir**  |
+|----------------|-----------|-----------|
+| **V. 11 Mai 1904** |
+| Hauteur Barométrique | 767,4 | 766,8    |
+| Direction du vent    | cr.cr.o | cr.cr.o |
+| Force                | 1/5 | 1        |
+| Nébulosité (Reg. 0. (Ciel)) | 0 | 10      |
+| Nébulosité (Reg. 2. (Mer))  | 10 | 10      |
+| Direction des nuages | cr.cr.o | cr.cr.o |
+| Pluie tombée         | "" | ""       |
+| Température de l'air | 20,0 | 21,4    |
+| Hauteur de la mer    | 67,0 | 61,7    |
+| Agitation de l'eau   | 17 faible | 1 faible |
+| Densité au bout de la jetée | 1028,3 | 1028,1 |
+| Température de l'eau | 16,9 | 17,7    |
+| **V. 14 Mai 1904** |
+| Hauteur Barométrique | 769,8 | 767,7   |
+| Direction du vent    | S.E | S.E     |
+| Force                | 1 | 1       |
+| Nébulosité (Reg. 0. (Ciel)) | 0 | 0      |
+| Nébulosité (Reg. 2. (Mer))  | 0 | 0      |
+| Direction des nuages | "" | ""      |
+| Pluie tombée         | 17,0 | 37,6    |
+| Température de l'air | 17,0 | 27,6    |
+| Hauteur de la mer    | 67,7 | 67,7    |
+| Agitation de l'eau   | 17,4 faible | 10,28,1 |
+| Densité au bout de la jetée | 1027,0 | 1027,7 |
+| Température de l'eau | 18,0 | 19,7    |
+```

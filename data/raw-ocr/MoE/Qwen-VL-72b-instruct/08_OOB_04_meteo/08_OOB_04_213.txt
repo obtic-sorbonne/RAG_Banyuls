@@ -1,0 +1,30 @@
+| Date       | Matin | Soir |
+|------------|-------|------|
+| V. 14 Avril 1903 |   |    |
+| Hauteur Barométrique | 761.7 |   |
+| Direction du vent |   | cnw |
+| Force |   | 3 |
+| Reg. O. (terre) |   | légere-mi(c) |
+| Nebulosit |   |    |
+| Reg. ? (mer) |   | lég-mi(c) |
+| Direction des nuages |   |  |
+| Pluie tombée |   | " |
+| Température de l'air |   | 14.3 |
+| Hauteur de la mer |   | 49.2 |
+| Agitation de l'eau |   | 3 |
+| Ve(r)site au bout de la jété |   | 1029.2 |
+| Température de l'eau |   | 12.1 |
+| V. 15 Avril 1903 |   |    |
+| Hauteur Barométrique | 764.4 | 763.4 |
+| Direction du vent | or & | 8.18 |
+| Force | is | 1 fort | 1T. Pbl |
+| Reg. O. (terre) |   | 0 | 0 |
+| Nebulosit |   |    |
+| Reg. ? (mer) |   | 0 | 0 |
+| Direction des nuages |   | " | " |
+| Pluie tombée |   | " | " |
+| Température de l'air |   | 14.4 | 13.7 |
+| Hauteur de la mer |   | 50.2 | 19.7 |
+| Agitation de l'eau |   | 3 | 2 fort |
+| Ve(r)site au bout de la jété |   | 1029.2 | 1029.1 |
+| Température de l'eau |   | 12.6 | 12.9 |

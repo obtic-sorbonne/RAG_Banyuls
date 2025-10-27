@@ -1,0 +1,33 @@
+# 9.9 Août - 1902
+
+|  Nom | Date | Dépôt  |
+| --- | --- | --- |
+|  Hauteur Paromatique | 1902 | 1902  |
+|  Direction du vent | 1902 | 1902  |
+|  Force | 3 fois | 3  |
+|  Nebulosi | 0 | 3  |
+|  Nég. B. (mw) | 0 | 0  |
+|  Direction des mages | 1902 | 1902  |
+|  Phie Tombe | 0 | 0  |
+|  Température de l'air | 21,0 | 24,8  |
+|  Hauteur de la mer | 45,1 | 19,1  |
+|  Égitation de l'eau | 3 | 3 fois  |
+|  Densité au bout de la jetée | 10,21,6 | 10,21,0  |
+|  Température de l'eau | 21,8 | 22,2  |
+
+# 10.10 Août - 1902
+
+|  Nom | Date | Dépôt  |
+| --- | --- | --- |
+|  Hauteur Paromatique | 1902 | 1902  |
+|  Direction du vent | 1902 | 1902  |
+|  Force | 3 fois | 3  |
+|  Nebulosi | 0 | 3  |
+|  Nég. B. (mw) | 0 | 0  |
+|  Direction des mages | 1902 | 1902  |
+|  Phie Tombe | 0 | 0  |
+|  Température de l'air | 21,3 | 21,3  |
+|  Hauteur de la mer | 4,9 | 4,9  |
+|  Égitation de l'eau | 2 fois | 2 fois  |
+|  Densité au bout de la jetée | 10,21,3 | 10,21,0  |
+|  Température de l'eau | 21,4 | 21,4  |

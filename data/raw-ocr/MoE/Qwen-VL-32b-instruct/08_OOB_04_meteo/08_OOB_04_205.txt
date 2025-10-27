@@ -1,0 +1,31 @@
+V. 21 Mear. 1903
+
+|  Hauteur Marometrique |  | 172.7  |
+| --- | --- | --- |
+|  Direction du vent |  | 3.6  |
+|  Force |  | 3 fort  |
+|  Nébulosité | (Reg. C. (tire) | 0  |
+|   | (Reg. F. (mer) |   |
+|  Direction des nuages |  |   |
+|  Prise tombe |  |   |
+|  Température de l'air |  | 15.0  |
+|  Hauteur de la mer |  | 68.7  |
+|  Oligilatation de l'eau |  | 1  |
+|  Densité au bout de la jetée |  | 102.8  |
+|  Température de l'eau |  | 12.5  |
+
+V. 23 Mear. 1903
+
+|  Hauteur Marometrique | 170.6 | 167.2  |
+| --- | --- | --- |
+|  Direction du vent |  |   |
+|  Force |  | 3  |
+|  Nébulosité | (Reg. C. (tire) | 2  |
+|   | (Reg. F. (mer) |   |
+|  Direction des nuages |  |   |
+|  Prise tombe |  |   |
+|  Température de l'air | 16.7 |   |
+|  Hauteur de la mer | 69.1 | 67.4  |
+|  Oligilatation de l'eau | 1/feuille | 1/fort  |
+|  Densité au bout de la jetée | 102.9 | 102.9  |
+|  Température de l'eau | 12.4 | 13.9  |

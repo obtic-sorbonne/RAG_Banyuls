@@ -1,0 +1,65 @@
+```plaintext
+### OBSERVATIONS DU 1902 27 avril
+
+| **Nombre de bateaux sortis (pêche à l.)** |  |
+| --- | --- |
+| **Température de l'air** |  |
+| - maxima depuis la veille | 18.6 | °C |
+| - minima id. | 11.9 | °C |
+| **Température de l'eau** |  |
+| - maxima depuis la veille |  | °C |
+| - minima id. |  | °C |
+| **Pluie tombée depuis la veille, en millim.** | 3.0 | mm |
+| **Évaporation depuis le 1900, en millim.** |  | mm |
+| **Direction du vent (à terre)** |  |
+| - à 9 h. m. | N.N.E. |
+| - à 3 h. s. | Est |
+| **Force** |  |
+| - à 9 h. m. | fort |
+| - à 3 h. s. | orn. fort |
+| **Direction des nuages** |  |
+| - à 9 h. m. | E. N.E. |
+| - à 3 h. s. | c'est. |
+| **Nébulosité** |  |
+| - région Ouest (terre) | 10 |
+| - id. Est (mer) | 10 |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.)** | 40.7 | cm |
+| **Agitation de l'eau** | 1 fort. |
+| **Densité de l'eau au bout de la jetée** | 1028.3 | 
+| **Température** |  |
+| - à 9 h. matin (maxima) | 21.7 | °C |
+| - minima | 10.7 | °C |
+
+### OBSERVATIONS DU 1902 29 avril
+
+| **Nombre de bateaux sortis (pêche à l.)** |  |
+| --- | --- |
+| **Température de l'air** |  |
+| - maxima depuis la veille | 21.6 | °C |
+| - minima id. | 18.3 | °C |
+| **Température de l'eau** |  |
+| - maxima depuis la veille |  | °C |
+| - minima id. |  | °C |
+| **Pluie tombée depuis la veille, en millim.** | 74.9 | mm |
+| **Évaporation depuis le 1900, en millim.** |  | mm |
+| **Direction du vent (à terre)** |  |
+| - à 9 h. m. | N.N.O. |
+| - à 3 h. s. | N.N.O. |
+| **Force** |  |
+| - à 9 h. m. | 6 |
+| - à 3 h. s. | 6 |
+| **Direction des nuages** |  |
+| - à 9 h. m. | N.N.O. |
+| - à 3 h. s. | S.S.O. |
+| **Nébulosité** |  |
+| - région Ouest (terre) | 10 |
+| - id. Est (mer) | 10 |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.)** | 30.7 | cm |
+| **Agitation de l'eau** | 3 HAILLE |
+| **Densité de l'eau au bout de la jetée** | 1029.7 | 
+| **Température** |  |
+| - à 9 h. matin (maxima) | 18.3 | °C |
+| - minima | 18.3 | °C |
+| -  | 21.6 | °C |
+| -  | 6.2 | °C |
+```

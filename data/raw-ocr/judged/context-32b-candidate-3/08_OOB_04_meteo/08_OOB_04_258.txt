@@ -1,0 +1,32 @@
+```plaintext
+|  V. 5 (Août-1903) | Matin | Soir  |
+| --- | --- | --- |
+|  Hauteur Barométrique | 708.4 | 707.5  |
+|  Direction du vent | or.0r.8 | 8.7.8  |
+|  Force | fort | 1 r.f. 12h  |
+|  Nébulosité | 0 | 0  |
+|  (Reg. 2. (mer)) |  |   |
+|  Direction des nuages |  |   |
+|  Flux tombé |  |   |
+|  Température de l'air | 16.1 | 31.2  |
+|  Hauteur de la mer | 17.2 | 48.6  |
+|  Agitation de l'eau | fort | 1 r.f. 12h  |
+|  Densité au bout de la jetée | 102.4.7 | 102.4.6  |
+|  Température de l'eau | 16.6 | 28.0  |
+
+|  V. 6 (Août-1903) | Matin | Soir  |
+| --- | --- | --- |
+|  Hauteur Barométrique | 709.2 | 707.6  |
+|  Direction du vent | or.0r.0 | 8.7.8  |
+|  Force |  |   |
+|  (Reg. 0. (mer)) |  |   |
+|  Nébulosité |  |   |
+|  (Reg. 2. (mer)) |  |   |
+|  Direction des nuages | or.0r.0 |   |
+|  Flux tombé |  |   |
+|  Température de l'air | 17.6 | 31.8  |
+|  Hauteur de la mer | 14.7 | 11.8  |
+|  Agitation de l'eau | fort | 1 fuite  |
+|  Densité au bout de la jetée | 102.4 | 102.4.0  |
+|  Température de l'eau | 28.0 | 28.1  |
+```

@@ -1,0 +1,16 @@
+| **Date**         | 24 Septembre 1900 |
+|-------------------|------------------|
+| **Heure**        | 9 h.        | 3 h.    |
+| **Hauteur barométrique** | 767,0  | 755,1  |
+| **Direction du vent**   | nue      | N.E.    |
+| **Force du vent**  |            | très faible  |
+| **Nébulosité (niveau rare)** |            | nuage épaisse  |
+| **Direction des nuages**  |            |            |
+| **Pluie tombée**          |            |            |
+| **Température de l'air**  | 20,5 °C | 22,5 °C |
+| **Hauteur de la mer**     | 0,39     | 0,29    |
+| **Agitation de l'eau**    | 0        | 0       |
+| **Densité de l'eau (bout de la jetée)** | 1026,0 |            |
+| **Densité de l'eau (au large)** |    | 1025,6 |
+| **Température de l'eau**  |            | 21,4 °C |
+| **Observateur**          |            |            |

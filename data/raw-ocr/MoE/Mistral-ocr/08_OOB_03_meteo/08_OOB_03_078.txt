@@ -1,0 +1,19 @@
+# Date: 11 Décembre 1901
+
+|  Item | Qty | Price  |
+| --- | --- | --- |
+|  Hauteur Barométrique | 9" Moatin | 3" Sour  |
+|  Direction Su vent | 7/8,7 | 760.3  |
+|  Force | 3.5 | N.N.O  |
+|  17. faible | 3 foot |   |
+|  10. sgn-c | 10 |   |
+|  Mébulusite |  |   |
+|  Reg.-E. (mer) | 10.6 | 10  |
+|  Direction des mirages | N.O | N.O  |
+|  Muie tombée |  |   |
+|  Température de l'air | 13,9 | 11.2  |
+|  Hauteur de la mer | 46,9 | 64,9  |
+|  Égitation de l'eau | 17. faible | 3  |
+|  Densité de l'eau | 1023.0 | 1029.1  |
+|  |   |   |
+|  Température de l'eau | 13,6 | 13.1  |

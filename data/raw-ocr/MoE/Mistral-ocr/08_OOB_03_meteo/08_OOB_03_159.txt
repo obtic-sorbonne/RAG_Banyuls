@@ -1,0 +1,17 @@
+# Date: 3 Avril 1902
+
+|  Item | 9th Station | 3rd Soir  |
+| --- | --- | --- |
+|  Hauteur Barometrique | 750.4 | 750.2  |
+|  Direction du vent | 80.4 | 8.1.F  |
+|  Force | 17.600.00 | 1.600.00  |
+|  Robulosité | 10 | 10  |
+|  Reg. E. (mer) | 10 | 10  |
+|  Direction des nuages | 50.0 | 5.1.F  |
+|  Chie tombée | 1.05 | 1.3.5  |
+|  Température de l'air | 14.7 | 13.6  |
+|  Hauteur de la mer | 40.8 | 39.7  |
+|  Régulation de l'eau | 17.600.00 | 1.600.00  |
+|  Densité de l'eau | 1.529.5 | 1.028.3  |
+|  L'ame |  |   |
+|  Température de l'eau | 13.6 | 14.3  |

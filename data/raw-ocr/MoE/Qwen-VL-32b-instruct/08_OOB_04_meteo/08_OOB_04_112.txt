@@ -1,0 +1,35 @@
+# V. & Juillet 1908
+
+|  **Position** | **Nom** | **Prix**  |
+| --- | --- | --- |
+|  Hauteur Parométrique | 707.2 | 707.2  |
+|  Direction du vent | or. 3 | 7.8  |
+|  Force | 17.6 | 3.6  |
+|  (Reg. O. (terre)) |  |   |
+|  Nebulosite |  |   |
+|  (Reg. E. (mur)) |  |   |
+|  Direction des nuages |  |   |
+|  Flux lombaire |  |   |
+|  Température de l'air | 23.1 | 27.6  |
+|  Hauteur de la mer | 44.0 | 17.5  |
+|  Écartation de l'eau | 17.6 | 17.6  |
+|  Densité au bout de la jetée | 1024.6 | 1024.6  |
+|  Température de l'eau | 25.1 | 25.2  |
+
+# V. & Juillet 1908
+
+|  **Position** | **Nom** | **Prix**  |
+| --- | --- | --- |
+|  Hauteur Parométrique | 707.2 | 707.2  |
+|  Direction du vent | or. 3 | 7.8  |
+|  Force | 17.6 | 3.6  |
+|  (Reg. O. (terre)) |  |   |
+|  Nebulosite |  |   |
+|  (Reg. E. (mur)) |  |   |
+|  Direction des nuages |  |   |
+|  Flux lombaire |  |   |
+|  Température de l'air | 25.1 | 27.6  |
+|  Hauteur de la mer | 44.0 | 17.5  |
+|  Écartation de l'eau | 17.6 | 17.6  |
+|  Densité au bout de la jetée | 1024.6 | 1024.6  |
+|  Température de l'eau | 25.1 | 25.2  |

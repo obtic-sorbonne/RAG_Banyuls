@@ -1,0 +1,28 @@
+| V. 25 Avril -1905 | Matin | Soir |
+| --- | --- | --- |
+| Hauteur Barometrique | 766.2 | 764.7 |
+| Direction du vent | S.S | S.S.S |
+| Force | iS | Faible Fort |
+| Nebulosité | Reg.O.(lire) Légère ent.e | 6 légère ent.e |
+| (Reg.E.(mer)) | légère ent.e | / |
+| Direction des nuages | cr.8 | Ouest |
+| Pluie tombée | " | " |
+| Température de l'air | 13.2 | 18.2 |
+| Hauteur de la mer | 16.2 | 19.1 |
+| Agitation de l'eau | faible | fort |
+| Densité au bout de la jetée | 1029.2 | 1028.7 |
+| Température de l'eau | 14.8 | 19.6 |
+| V. 26 Avril -1905 | Matin | Soir |
+| --- | --- | --- |
+| Hauteur Barometrique | 766.1 | 764.7 |
+| Direction du vent | cr.8 | S.8 |
+| Force | is | 1 fort- |
+| Nebulosité | Reg.o.(levee) légère ent.e | o |
+| (Reg.E.(mer)) | légère ent.e | o |
+| Direction des nuages | cr.o | " |
+| Pluie tombée | " | " |
+| Température de l'air | 13.6 | 20.4 |
+| Hauteur de la mer | 16.3 | 11.3 |
+| Agitation de l'eau | faible | 1 |
+| Densité au bout de la jetée | 1029.3 | 1028.4 |
+| Température de l'eau | 15.2 | 18.2 |

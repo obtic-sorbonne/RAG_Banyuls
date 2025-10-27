@@ -1,0 +1,58 @@
+| **OBSERVATIONS DU 1904 - 7 JUIN** |
+| --- |
+| Nombre de bateaux sortis (pêche à l'ancor) | 2 |
+| Température de l'air |  |
+| maxima depuis la veille | 34.7 |
+| minima id. | 14.7 |
+| Température de l'eau |  |
+| maxima depuis la veille |  |
+| minima id. |  |
+| Pluie tombée depuis la veille, en millim |  |
+| Evaporation depuis le 190, en millim |  |
+| Direction du vent (à terre) |  |
+| à 9 h. m. | à 3 h. s. |
+| Force |  |  |
+| **E. N. E** | **S.T. J. à l.** |
+| Direction des nuages |  |  |
+| Nébulosité |  |  |
+| région Ouest (terre) | 0 |  |
+| id. Est (mer) | 0 | 96,0 |
+| Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.) |  |  |
+| Agitation de l'eau |  | 1 |
+| Densité de l'eau au bout de la jetée | 602.9 | 19,2 |
+| Température |  |  |
+| id. |  |  |
+| Balançoire | 31,8 |  |
+| Terrasse |  |  |
+| Matin | 34,0 |  |
+| Minima | 14,3 |  |
+
+| **OBSERVATIONS DU 1901 - 8 JUIN** |
+| --- |
+| Nombre de bateaux sortis (pêche à l'ancor) | 2 |
+| Température de l'air |  |
+| maxima depuis la veille | 33.8 |
+| minima id. | 14.2 |
+| Température de l'eau |  |
+| maxima depuis la veille |  |
+| minima id. |  |
+| Pluie tombée depuis la veille, en millim |  |
+| Evaporation depuis le 24 Mai 1904, en millim | 26 |
+| Direction du vent (à terre) |  |
+| à 9 h. m. | à 3 h. s. |
+| Force | S.S.E | S.S. E. |
+| | 2 | 1 fort |
+| Direction des nuages |  |  |
+| Nébulosité |  |  |
+| région Ouest (terre) | 0 | 2 |
+| id. Est (mer) | 0 | 2 |
+| Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.) | 48.0 | 33,9 |
+| Agitation de l'eau | 1 | 1 |
+| Densité de l'eau au bout de la jetée | 602.6 | 602,8 |
+| Température |  |  |
+| id. | 19,6 | 19,8 |
+| Balançoire | 28,3 | 31,0 |
+| Terrasse |  |  |
+| Matin (Maxima) | 33,0 |  |
+| Minima | 14,8 |  |
+| Matin (maxima) (Minima) |  | 28,1 |

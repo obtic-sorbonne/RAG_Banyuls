@@ -1,0 +1,31 @@
+```plaintext
+|  V. 20 (Avril - 1905) | Moutin | Joir  |
+| --- | --- | --- |
+|  Hauteur Barométrique | 3/2.1 |   |
+|  Direction du vent | v.v.o |   |
+|  Force | 3 |   |
+|  (Res. G. (terre)) | 10 |   |
+|  Nébulosité |  |   |
+|  (Res. K. (mer)) | 10 |   |
+|  Direction des nuages | v.o |   |
+|  Pluie tombée | 13.1 |   |
+|  Température de l'air | 12.2 |   |
+|  Hauteur de la mer | 5 |   |
+|  Agitation de l'eau | 3 |   |
+|  Densité au bout de la jetée | 1028.3 |   |
+|  Température de l'eau | 5 |   |
+|  V. 22 (Avril - 1905) | Moutin | Joir  |
+|  Hauteur Barométrique | 3/4.3 | 380.5  |
+|  Direction du vent | v.v.o | v.v.o  |
+|  Force | 5 | 6  |
+|  (Res. G. (terre)) | 10 | 3  |
+|  Nébulosité |  |   |
+|  (Res. K. (mer)) | 10 | 2  |
+|  Direction des nuages | v.o | v.o  |
+|  Pluie tombée |  |   |
+|  Température de l'air | 11.3 | 13.1  |
+|  Hauteur de la mer | 3 | 3/2.1  |
+|  Agitation de l'eau | 3 | 3/2.1  |
+|  Densité au bout de la jetée | 1028.5 | 1028.5  |
+|  Température de l'eau | 5 | 5  |
+```

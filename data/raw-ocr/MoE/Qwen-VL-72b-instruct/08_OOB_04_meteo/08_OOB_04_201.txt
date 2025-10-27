@@ -1,0 +1,22 @@
+| **Lieu** | **Profondeur (mètres)** | **Température (°C)** |
+|----------|-----------------------|----------------------|
+| **À l'entrée de la baie** | 50 | 11.4 |
+|                      | 30 | 11.5 |
+|                      | 20 | 11.8 |
+|                      | 10 | 11.8-5 |
+|                      | Surface | 11.9 |
+| **En cours de route** | Surface tous les 3 milles | 11.9 |
+|                      | 1<sup>er</sup> | 11.9 |
+|                      | 2<sup>me</sup> | 11.82 |
+|                      | 3<sup>me</sup> | 11.9 |
+|                      | 4<sup>me</sup> | 11.82 |
+|                      | 5<sup>me</sup> | — |
+| **Au-delà du plateau (Sondages)** | 200 | 12.4 |
+|                      | 150 | 12.2 |
+|                      | 100 | 12.1 |
+|                      | 75 | 12.1 |
+|                      | 50 | 11.9 |
+|                      | 30 | 11.9 |
+|                      | 20 | 11.7 |
+|                      | 10 | 11.7 |
+|                      | Surface | 11.6-8 |

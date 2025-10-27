@@ -1,0 +1,16 @@
+# Date. 24 Mars 1901
+
+|  | 9" Matin | 3" Soir |
+| --- | --- | --- |
+| Hauteur Barométrique | 762.0 | 761.0 |
+| Direction du vent | Nord | Nord |
+| Force | 8 | 7 |
+| % Ébulosité / Reg. O. (Livre) | 0 | 0 |
+| Rég. E. (Mer) | 0 | 0 |
+| Direction des nuages | Nord | Nord |
+| Pluie tombée | 12 | 8.3 |
+| Température de l'air | 8.4 | 8.4 |
+| Hauteur de la mer | 50.8 | 50.8 |
+| Agitation de l'eau | 4 | 4 |
+| Densité de l'eau / au bont de la jetée | 10.4 | 10.4 |
+| Température de l'eau | 10.4 | 10.4 |

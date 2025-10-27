@@ -1,0 +1,31 @@
+| V. 15 Novembre 1907 | Matin | Soir |
+|---------------------|-------|------|
+| Hauteur Barométrique | 769.3 | 768.8 |
+| Direction du Vent | N.O | S.O |
+| Force | 1 | faible |
+| Régl. 6. (Air) | 2 | 10 |
+| Nébulosité | 2 | 10 |
+| Régl. 21. (mer) | 2 | 10 |
+| Direction des vagues | S.O | S.O |
+| Pluie Tombée | " | " |
+| Température de l'air | 13.1 | 14.1 |
+| Hauteur de la mer | 49.3 | 33.4 |
+| Agitation de la mer | 3 | faible |
+| Ventité au tour de la jetée | 1026.0 | 1026.0 |
+| Température de l'eau | 17.1 | 17.6 |
+
+| V. 16 Novembre 1907 | Matin | Soir |
+|---------------------|-------|------|
+| Hauteur Barométrique | 769.1 | 768.2 |
+| Direction du Vent | S.O | S.O |
+| Force | 1 faible | 1 fort |
+| Régl. 6. (Air) | 10 légère | 10 |
+| Nébulosité | 10 légère | 10 |
+| Régl. 21. (mer) | 10 légère | 10 |
+| Direction des vagues | S.O | S.O |
+| Pluie Tombée | " | " |
+| Température de l'air | 11.7 | 16.2 |
+| Hauteur de la mer | 44.4 | 32.2 |
+| Agitation de la mer | 2 fort | 3 |
+| Ventité au tour de la jetée | 1026.0 | 1026.0 |
+| Température de l'eau | 17.0 | 17.9 |

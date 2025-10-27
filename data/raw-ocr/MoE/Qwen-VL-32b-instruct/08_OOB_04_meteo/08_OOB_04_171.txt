@@ -1,0 +1,29 @@
+|  4.28 x 1902 | Mtatin | Soir  |
+| --- | --- | --- |
+|  Hauteur Travonctrique | 758.3 |   |
+|  Direction du vent | Ouest |   |
+|  Force | 1 faille |   |
+|  9bébulosite | Reg. O. (time) |   |
+|   | 0 |   |
+|  Direction des images | Ouest |   |
+|  Huie tombé |  |   |
+|  Température de l'air | 7.7 |   |
+|  Hauteur de la mer | 12.5 |   |
+|  Égitation de l'eau | 1 |   |
+|  Densité au bout de la jeté | 1029.3 |   |
+|  Température de l'eau | 13.2 |   |
+
+|  4.30 x 1902 | Mtatin | Soir  |
+| --- | --- | --- |
+|  Hauteur travonctrique | 745.4 | 745.2  |
+|  Direction du vent | or. or. | or.or.  |
+|  Force | 1 faille | 3  |
+|  9bébulosite | 10 | 10  |
+|  9bébulosite | Reg. E. (mer) | 10  |
+|  Direction des images | 10 | or.or.  |
+|  Huie tombé | quelques. 2 | quelques. 2  |
+|  Température de l'air | 7.9 | 7.7  |
+|  Hauteur de la mer | 26.9 | 37.4  |
+|  Égitation de l'eau | 1 faille | 2 font  |
+|  Densité au bout de la jeté | 1029.0 | 1029.3  |
+|  Température de l'eau | 18.9 | 12.6  |

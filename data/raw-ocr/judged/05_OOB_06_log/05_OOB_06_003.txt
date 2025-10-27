@@ -1,0 +1,18 @@
+```plaintext
+NOM DE L'INSTITUT  ÉCOLE COMMUNALE D                 DATE
+(jour, mois, année)
+NOM DE L'ÉLÈVE       COURS
+
+Né le _________ ENTRÉ A L'ÉCOLE    Titre du Devoir : _________
+Année
+1903
+Mercredi 7 janvier 1903
+
+Allumé les feux à bord du Roland.
+
+Appareillé à 6 heures
+Briguettes 1 de 8 kilos
+Huile 2 litres 900
+But de la Sortie: Draguages au large de Coudoune, en regagnant la Côte de Béarn.
+Rentrés à 10 heures 30.
+```

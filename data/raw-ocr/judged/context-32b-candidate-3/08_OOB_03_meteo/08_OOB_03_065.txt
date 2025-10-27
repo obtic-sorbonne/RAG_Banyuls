@@ -1,0 +1,16 @@
+# Date: 8 Novembre 1901
+
+|  Item | 9th Novembre  |
+| --- | --- |
+|  Kanteur Barométrique | 734,6  |
+|  Direction du vent | N.O.  |
+|  Force | 4  |
+|  Nébulosité { Reg. C. (terre) } | 0  |
+|  Nébulosité { Reg. E. (mer) } | 0  |
+|  Direction des nuages | "  |
+|  Pluie tombée | "  |
+|  Température de l'air | 3,5  |
+|  Hauteur de la mer | 22,3  |
+|  Agitation de l'eau | 3  |
+|  Densité de l'eau { au bout de la jetée } | 1029,1  |
+|  Température de l'eau | 12,6  |

@@ -1,0 +1,31 @@
+| V. 23 Mai 1907 | Matin | Soir |
+|----------------|-------|------|
+| Hauteur Barométrique | 768,8 | 768,9 |
+| Direction du Vent | S. E | S. E |
+| Force | 2 | 1 forte |
+| Reg. O. (Terre) | 10 | 10 |
+| Nébulosité | 10 | 10 |
+| Reg. D. (Ciel) | 10 | 10 |
+| Direction des nuages | S. O | S. O |
+| Pluie Tombée | 8,125 | " |
+| Température de l'air | 17,3 | 21,3 |
+| Hauteur de la mer | 3 | 3 |
+| Agitation de l'eau | 3 | 3 |
+| Densité au bout de la jetée | 1028,6 | 1028,6 |
+| Température de l'eau | 14,1 | 14,1 |
+
+| V. 24 Mai 1907 | Matin | Soir |
+|----------------|-------|------|
+| Hauteur Barométrique | 761,7 | 762,0 |
+| Direction du Vent | S. O | E. N. O. |
+| Force | 1 | 1 faible |
+| Reg. O. (Terre) | 10 | 10 |
+| Nébulosité | 10 | 10 |
+| Reg. D. (Ciel) | 10 | 10 |
+| Direction des nuages | S. O | S. O |
+| Pluie Tombée | quelques g | " |
+| Température de l'air | 21,9 | 24,0 |
+| Hauteur de la mer | 40,1 | 42,1 |
+| Agitation de l'eau | 2 faible | 2 forte |
+| Densité au bout de la jetée | 1028,2 | 1028,9 |
+| Température de l'eau | 14,7 | 19,2 |

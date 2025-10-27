@@ -1,0 +1,29 @@
+|  X. 31 X line. 1903 | Stbation | Soir  |
+| --- | --- | --- |
+|  1/auteur P/arométrique | 7/0.5 | 7/8.6  |
+|  Direction du vent | 0.0 | 0.0  |
+|  Force | 3 | 2  |
+|  (Reg. O. (Verve) | 10 | 2  |
+|  2/bebutosité |  |   |
+|  (Reg. E. (mer) | 10 | 2  |
+|  Direction des nuages | 2.8 | 2.8  |
+|  3/luie tombe | 12.12/ |   |
+|  4/remforcative de l'air | 3.4 | 3.5  |
+|  5/auteur de la mer |  |   |
+|  6/agitation de l'eau |  |   |
+|  7/entrée au bout de la jetée |  |   |
+|  8/remforcative de l'eau |  |   |
+|  9. 2 Janvier 1904 | Station | Soir  |
+|  1/auteur P/arométrique | 704.2 |   |
+|  Direction du vent | 0.0 |   |
+|  Force | 1/port |   |
+|  (Reg. O. (Verve) | 10 |   |
+|  2/bebutosité |  |   |
+|  (Reg. E. (mer) | 10 |   |
+|  Direction des nuages | 0.0 |   |
+|  3/luie tombe |  |   |
+|  4/remforcative de l'air | 3.8 |   |
+|  5/auteur de la mer | 39.0 |   |
+|  6/agitation de l'eau | 17.12/ |   |
+|  7/entrée au bout de la jetée | 10.27/ |   |
+|  8/remforcative de l'eau | 11.8 |   |

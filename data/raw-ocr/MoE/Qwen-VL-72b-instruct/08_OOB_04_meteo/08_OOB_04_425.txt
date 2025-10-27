@@ -1,0 +1,27 @@
+|V. 28 Septembre 1904|Matin|Soir|
+|---|---|---|
+|Hauteur Barométrique|764,7||
+|Direction du vent|N.O.| |
+|Force|3||
+|Nébulosité Reg. O. (Terre)|3||
+||Reg. E. (mer)|3|
+|Direction des nuages|N.O.| |
+|Pluie tombée|quelques g||
+|Température de l'air|18,0||
+|Hauteur de la mer|34,9||
+|Agitation de l'eau|1 fort||
+|Visibilité au bout de la jetée|1027,8||
+|Température de l'eau|20,0||
+|V. 27 Septembre 1904|Matin|Soir|
+|Hauteur Barométrique|764,7|763,6|
+|Direction du vent|N.N.O.|N.N.O.|
+|Force|3 faible|2 fort|
+|Nébulosité Reg. O. (Terre)|très ent.|lo|
+||Reg. E. (mer)|||
+|Direction des nuages|N.N.O.|N.O.|
+|Pluie tombée|"|"|
+|Température de l'air|17,9|21,4|
+|Hauteur de la mer|37,9|47,7|
+|Agitation de l'eau|2|2 fort|
+|Visibilité au bout de la jetée|1027,8|1027,2|
+|Température de l'eau|19,5|20,0|

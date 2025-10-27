@@ -1,0 +1,71 @@
+```plaintext
+### OBSERVATIONS DU 1902 8 Mai
+
+Nombre de bateaux sortis (pêche à l.) | 27.6 |
+--- | --- |
+Température de l'air |  |
+- maxima depuis la veille | 27.6 | °C |
+- minima id. | 19.0 | °C |
+Température de l'eau |  |
+- maxima depuis la veille | — | °C |
+- minima id. | — | °C |
+Pluie tombée depuis la veille, en millim. | — | mm |
+Evaporation depuis le 1900, en millim. | — | mm |
+Direction du vent (à terre) |  |  |
+- à 9 h. m. | N.N.O. |
+- à 3 h. s. | S.S.E. |
+Force |  |  |
+- à 9 h. m. | 1 | 
+- à 3 h. s. | 1 | 
+Direction des nuages |  |  |
+- à 9 h. m. | N.N.O. |
+- à 3 h. s. | N.N.O. |
+Nébulosité |  |  |
+- région Ouest (terre) | 10 | 0 |
+- id. Est (mer) | 10 | 0 |
+Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.) | 52.0 | 57.0 | cm |
+Agitation de l'eau | 1 | 1 |
+Densité de l'eau au bout de la jetée | 1026.4 | 1027.6 |
+Température |  |  |
+- is. Balan. matin | 16.6 | 18.4 | °C |
+- is. Teranne matin | 24.0 | 26.7 | °C |
+- is. Teranne soir | 31.8 | 19.3 | °C |
+- is. Teranne minima | 20.6 | 16.7 | °C |
+Maxima |  |  |
+Minima |  |  |
+
+### OBSERVATIONS DU 1902 9 Mai
+
+Nombre de bateaux sortis (pêche à l.) | 31.0 |
+--- | --- |
+Température de l'air |  |
+- maxima depuis la veille | 31.0 | °C |
+- minima id. | 22.0 | °C |
+Température de l'eau |  |
+- maxima depuis la veille | — | °C |
+- minima id. | — | °C |
+Pluie tombée depuis la veille, en millim. | — | mm |
+Evaporation depuis le 1900, en millim. | — | mm |
+Direction du vent (à terre) |  |  |
+- à 9 h. m. | N.N.O. |
+- à 3 h. s. | S.S.E. |
+Force |  |  |
+- à 9 h. m. | 2 | 
+- à 3 h. s. | 1 | 
+Direction des nuages |  |  |
+- à 9 h. m. | N.O. |
+- à 3 h. s. | N.N.O. |
+Nébulosité |  |  |
+- région Ouest (terre) | 10 | 2 |
+- id. Est (mer) | 60 | 2 |
+Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.) | 54.0 | 53.9 | cm |
+Agitation de l'eau | 1 | 1 |
+Densité de l'eau au bout de la jetée | 1026.2 | 1026.0 |
+Température |  |  |
+- is. Balan. soir (humide) | 16.7 | 27.0 | °C |
+- is. Teranne matin | 37.3 | 44.0 | °C |
+- is. Teranne minima | 20.6 | 39.0 | °C |
+- is. Teranne soir | 16.7 | 26.1 | °C |
+Maxima |  |  |
+Minima |  |  |
+```

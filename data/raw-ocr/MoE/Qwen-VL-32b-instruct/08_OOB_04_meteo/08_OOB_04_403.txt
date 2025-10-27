@@ -1,0 +1,30 @@
+|  V. 26 Juillet. 1904 | Obatin | Soir  |
+| --- | --- | --- |
+|  Hauteur Prawometrique | 76/4 |   |
+|  Direction Su vent | croul |   |
+|  Force | 2 |   |
+|  (Reg. O. (Lier) | 4 digs, |   |
+|  (Reg. O. (mer) |  |   |
+|  Direction des mages |  |   |
+|  Flue Tombe |  |   |
+|  (Reg. 2.- (mer) |  |   |
+|  (Comprendre de l'air) |  |   |
+|  Hauteur de la mer | 23,6 |   |
+|  (Agitation de l'eau) | 46,0 |   |
+|  200mite au bout de la jette | 1026,1 |   |
+|  (Comprendre de l'eau) | 23,6 |   |
+
+|  V. 27 Juillet. 1904 | Obatin | Soir  |
+| --- | --- | --- |
+|  Hauteur Prawometrique | 76/5 | 76/2  |
+|  Direction Su vent | croul | 2.8  |
+|  Force | 0 | 1  |
+|  (Reg. O. (Lier) |  |   |
+|  (Reg. 2.- (mer) |  |   |
+|  Direction des mages | 1.80 | 10  |
+|  Flue Tombe |  | 2.8  |
+|  (Comprendre de l'air) | 24,1 | 23,1  |
+|  Hauteur de la mer | 41,1 | 18,8  |
+|  (Agitation de l'eau) | 1,608 |   |
+|  200mite au bout de la jette | 1026,9 | 1026,1  |
+|  (Comprendre de l'eau) | 23,8 | 26,4  |

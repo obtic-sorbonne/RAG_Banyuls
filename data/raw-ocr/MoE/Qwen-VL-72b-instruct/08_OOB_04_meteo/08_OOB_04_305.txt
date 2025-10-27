@@ -1,0 +1,31 @@
+| Date | Matin | Soir |
+|---|---|---|
+| **Hauteur Barométrique** | 794.3 | 792.6 |
+| **Direction du vent** | Ouest | " - " |
+| **Force** | 5 | faible |
+| **Nébulosité** |   |   |
+| Reg. 0. (Clair) | 1 | 0 |
+| Reg. 2. (Mer) | 1 | 2 |
+| **Direction des nuages** | Ouest | " - " |
+| **Pluie tombée** | " - " | " - " |
+| **Température de l'air** | 11.1 | 13.5 |
+| **Hauteur de la mer** | 4.7 | 5.7 |
+| **Agitation de l'eau** | 2 | 2 faible |
+| **Vitesse au bout de la jetée** | 1029.2 | 1029.0 |
+| **Température de l'eau** | 14.7 | 14.8 |
+
+| Date | Matin | Soir |
+|---|---|---|
+| **Hauteur Barométrique** | 769.7 | 767.3 |
+| **Direction du vent** | cr.o | cr.o |
+| **Force** | 1 | 1 fort |
+| **Nébulosité** |   |   |
+| Reg. 0. (Clair) | 10 | 10 |
+| Reg. 2. (Mer) | 10 | 10 |
+| **Direction des nuages** | cr. cr.o | cr. cr.o |
+| **Pluie tombée** | " - " | " - " |
+| **Température de l'air** | 15.0 | 16.7 |
+| **Hauteur de la mer** | 5.4 | 5.2 |
+| **Agitation de l'eau** | 1 | 1 fort |
+| **Vitesse au bout de la jetée** | 1029.0 | 1028.9 |
+| **Température de l'eau** | 14.5 | 14.6 |

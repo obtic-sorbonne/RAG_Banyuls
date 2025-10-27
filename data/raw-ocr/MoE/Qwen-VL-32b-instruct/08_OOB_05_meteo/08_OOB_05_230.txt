@@ -1,0 +1,24 @@
+| **Date** | **Heure** | **Matin** | **Soir** |
+|----------|-----------|-----------|----------|
+| **R. 11 Avril. 1907** | **Hauteur Barométrique** | 7/9.2 | 7/6.4 |
+| | **Direction du Vent** | Nord | Sud-Est |
+| | **Force** | 1 fort | 2 |
+| | **Nébulosité** | Reg. 0. (Clair) | Reg. 0. (Clair) |
+| | **Direction des nuages** | S.O. | S.O. |
+| | **Pluie Tombée** | " | " |
+| | **Température de l'air** | 12.8 | 17.2 |
+| | **Hauteur de la mer** | 7/8.2 | 7/8.6 |
+| | **Agitation de l'eau** | 1 | 1 |
+| | **Densité au bord de la jetée** | 1028.8 | 1028.7 |
+| | **Température de l'eau** | 18.0 | 14.0 |
+| **R. 12 Avril. 1907** | **Hauteur Barométrique** | 7/2.6 | 7/2.3 |
+| | **Direction du Vent** | Sud-Est | Sud-Est |
+| | **Force** | 2 fort | 2 |
+| | **Nébulosité** | Reg. 0. (Clair) | Reg. 0. (Clair) |
+| | **Direction des nuages** | Sud | S.O. |
+| | **Pluie Tombée** | 2.375 cm | 34.375 cm |
+| | **Température de l'air** | 13.1 | 18.6 |
+| | **Hauteur de la mer** | 39.2 | S |
+| | **Agitation de l'eau** | 1 fort | 2 |
+| | **Densité au bord de la jetée** | 1028.6 | 3 |
+| | **Température de l'eau** | 12.4 | 🟩 |

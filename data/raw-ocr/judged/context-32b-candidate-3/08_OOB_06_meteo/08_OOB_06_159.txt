@@ -1,0 +1,53 @@
+```plaintext
+### OBSERVATIONS DU 1901 24 Mai
+
+| **Nombre de bateaux sortis (pêche à la Trame)** | **20.3** |
+| **Température de l'air** |  |
+| - **maxima depuis la veille** | **20.3** |
+| - **minima id.** | **14.6** |
+| **Température de l'eau** |  |
+| - **maxima depuis la veille** |  |
+| - **minima id.** |  |
+| **Pluie tombée depuis la veille, en millim.** | **10.0** |
+| **Évaporation depuis le 1<sup>er</sup> Mai 1901, en millim.** | **10.0** |
+| **Direction du vent (à terre)** | **à 9 h. m.** | **à 3 h. s.** |
+| - **Force** | **0** | **0** |
+| - **Direction des nuages** | **N.N.O.** | **N.N.O.** |
+| **Nébulosité** |  |
+| - **région Ouest (terre)** | **lég. ns.** | **0** |
+| - **id. Est (mer)** | **lég. eu** | **2** |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.)** | **50.2** | **42.7** |
+| **Agitation de l'eau** | **1** | **2** |
+| **Densité de l'eau au bout de la jetée** | **1028.0** | **1027.8** |
+| **Température id.** |  |
+| - **id. Balança** | **27.3** |
+| - **id. terrasse - Matin** | **Maxima 23.9** | **Maxima 31.0** |
+| - **id. Minima** | **16.3** | **21.9** |
+| - **id. - Soir** |  |
+
+### OBSERVATIONS DU 1901 25 Mai
+
+| **Nombre de bateaux sortis (pêche à la Trame)** | **22** |
+| **Température de l'air** |  |
+| - **maxima depuis la veille** | **25.1** |
+| - **minima id.** | **13.7** |
+| **Température de l'eau** |  |
+| - **maxima depuis la veille** |  |
+| - **minima id.** |  |
+| **Pluie tombée depuis la veille, en millim.** |  |
+| **Évaporation depuis le 1901, en millim.** |  |
+| **Direction du vent (à terre)** | **à 9 h. m.** | **à 3 h. s.** |
+| - **Force** | **0** |  |
+| - **Direction des nuages** | **S.O.** | **N.N.O.** |
+| **Nébulosité** |  |
+| - **région Ouest (terre)** | **lég. ns.** | **lég. eu.** |
+| - **id. Est (mer)** | **lég. eu** | **lég. eu** |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.)** | **44.2** |  |
+| **Agitation de l'eau** | **1-2 file** |  |
+| **Densité de l'eau au bout de la jetée** | **1047.3** |  |
+| **Température id.** |  |
+| - **id. Balança** | **31.0** |
+| - **id. terrasse - Matin** | **Maxima 28.2** |
+| - **id. Minima** | **13.8** |
+| - **id. - Soir** |  |
+```

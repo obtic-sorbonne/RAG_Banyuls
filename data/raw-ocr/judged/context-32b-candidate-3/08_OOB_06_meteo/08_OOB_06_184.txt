@@ -1,0 +1,53 @@
+### Observations météorologiques - 1901
+
+#### Observations du 7 août 1901
+
+| **Nombre de bateaux sortis (pêche à l.)** | 33.4 |
+| **Température de l'air** |  |
+| – maxima depuis la veille | 33.4 |
+| – minima id. | 22.0 |
+| **Température de l'eau** |  |
+| – maxima depuis la veille |  |
+| – minima id. |  |
+| **Pluie tombée depuis la veille, en millim.** |  |
+| **Evaporation depuis le 1901, en millim.** |  |
+| **Direction du vent (à terre)** | **à 9 h. m.** | **à 3 h. s.** |
+| – Force | faible |  |
+| – Direction des nuages | **S. S. O.** | **N. O.** |
+| **Nébulosité** |  |
+| – région Ouest (terre) | légère | loisible |
+| – id. Est (mer) | légère | loisible |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.)** | 32.0 | 29.2 |
+| **Agitation de l'eau** | faible |  |
+| **Densité de l'eau au bout de la jetée** | 1023.7 | 1023.0 |
+| **Température id.** |  |
+| – iS. Balrances | 26.3 | 26.4 |
+| – iS. Terrane Matin | **Maxima** | 36.3 |  |
+|  | **Minima** | 20.0 | 38.2 |
+| – iS. Terrane Soir | **Maxima** | 27.3 |  |
+|  | **Minima** |  |  |
+
+#### Observations du 8 août 1901
+
+| **Nombre de bateaux sortis (pêche à l.)** | 33.7 |
+| **Température de l'air** |  |
+| – maxima depuis la veille | 33.4 |
+| – minima id. | 26.7 |
+| **Température de l'eau** |  |
+| – maxima depuis la veille |  |
+| – minima id. |  |
+| **Pluie tombée depuis la veille, en millim.** |  |
+| **Evaporation depuis le 31 juillet 1901, en millim.** | 71.17 |
+| **Direction du vent (à terre)** | **à 9 h. m.** | **à 3 h. s.** |
+| – Force | faible |  |
+| – Direction des nuages | **N. E.** |  |
+| **Nébulosité** |  |
+| – région Ouest (terre) | faible |  |
+| – id. Est (mer) | faible |  |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.)** | 39.8 |  |
+| **Agitation de l'eau** | faible |  |
+| **Densité de l'eau au bout de la jetée** | 1026.0 |  |
+| **Température id.** |  |
+| – iS. Balrances | 21.4 |  |
+| – iS. Terrane Matin | **Maxima** | 46.3 |  |
+|  | **Minima** | 19.2 |  |

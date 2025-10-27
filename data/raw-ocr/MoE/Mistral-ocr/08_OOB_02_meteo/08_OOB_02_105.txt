@@ -1,0 +1,24 @@
+# Date. 23 Juin. 1901
+
+|  Nauteur | Nautre  |
+| --- | --- |
+|  9. Nauteur Barometrique | *9.1.1.1.1*  |
+|  Direction du vent | *10.3.1.1*  |
+|  Force | *10.3.1.1*  |
+|  1/2 |   |
+|  9. Tebulosite | *10.3.1.1*  |
+|  Reg. E. (mer) | *10.3.1.1*  |
+|  Direction des nuages | *Jus*  |
+|  1/2 |   |
+|  9. Nuit tombée | *10.3.1.1*  |
+|  Température de l'air | *25.6*  |
+|  1/2 |   |
+|  9. Nautre de la mer | *11.9*  |
+|  1/2 |   |
+|  1/2 |   |
+|  9. Épitation de l'eau | *10.3.1.1*  |
+|  1/2 |   |
+|  1/2 |   |
+|  Densité de l'eau | *10.3.1.1*  |
+|  au Range |   |
+|  Température de l'eau | *20.2*  |

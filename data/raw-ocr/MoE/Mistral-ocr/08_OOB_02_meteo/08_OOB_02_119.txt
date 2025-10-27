@@ -1,0 +1,15 @@
+Date: 8 Juillet 1901
+
+|   | 9th Station | 3rd Sour  |
+| --- | --- | --- |
+|  Kanteve Pervométrique | 705.9 | 704.5  |
+|  Direction du vent | N.E | 88.5  |
+|  Force | 17.62lh | 1.62h  |
+|  Robulosite | Reg.0-(terre) | 10  |
+|  Dircetion des miages | 10 | 0  |
+|  Muc tombé | N.E | "  |
+|  Température de l'air | 19.7 | 31.7  |
+|  Kanteve de la mer | 14.7 | 54.3  |
+|  Régulation de l'eau | 1.62lh | 17.62lh  |
+|  Densité de l'eau | au bout de la jetée | 1037.5  |
+|  Température de l'eau | 30.5 | 38.3  |

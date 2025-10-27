@@ -1,0 +1,29 @@
+| N°. 16 Mars. 1907 | Matin | Soir |
+|-------------------|-------|------|
+| Hauteur Barométrique | 769.0 |      |
+| Direction du Vent | S. et S |      |
+| Force | 1 |        |
+| Nébulosité (Res. 0. (Terre)) | 0 |      |
+| Nébulosité (Res. 2. (mer)) | 0 |      |
+| Direction des nuages | " |      |
+| Pluie tombée | " |      |
+| Température de l'air | 10.2 |      |
+| Hauteur de la mer | 17.2 |      |
+| Agitation de l'eau | 2 faible |      |
+| Densité au bord de la jetée | 1029.7 |      |
+| Température de l'eau | 10.7 |      |
+
+| N°. 18 Mars. 1907 | Matin | Soir |
+|-------------------|-------|------|
+| Hauteur Barométrique | 767.5 | 766.4 |
+| Direction du Vent | croix | S. E |
+| Force | 1 fort | 1 fort |
+| Nébulosité (Res. 0. (Terre)) | 10 |      |
+| Nébulosité (Res. 2. (mer)) | 10 |      |
+| Direction des nuages | croix | croix |
+| Pluie tombée | " | " |
+| Température de l'air | 19.2 | 18.7 |
+| Hauteur de la mer | 19.7 | 16.0 |
+| Agitation de l'eau | 1 fort | 1 |
+| Densité au bord de la jetée | 1029.7 | 1029.4 |
+| Température de l'eau | 11.7 | 12.2 |

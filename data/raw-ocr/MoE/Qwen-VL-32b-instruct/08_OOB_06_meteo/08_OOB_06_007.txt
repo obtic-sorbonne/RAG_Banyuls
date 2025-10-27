@@ -1,0 +1,54 @@
+| **Observations du 1960/14 Avril** |
+| --- |
+| **Nombre de bateaux sortis (pêche à la ligne)** | Neant |
+| **Température de l'air** |  |
+| maxima depuis la veille | 21.8 |
+| minima id. | 14.7 |
+| **Température de l'eau** |  |
+| maxima depuis la veille |  |
+| minima id. |  |
+| **Pluie tombée depuis la veille, en millim.** | quelques |
+| **Evaporation depuis le 190, en millim.** |  |
+| **Direction du vent (à terre):** |  |
+|  | **à 9 h. m.** | **à 3 h. s.** |
+| Direction | E.S.E | S.O |
+| Force | 2 fort | 1 fort |
+| Direction des nuages |  |  |
+| Région Ouest (terre) | 10 | 10 |
+| id. Est (mer) | 10 | 10 |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro** |  |
+|  | 66,4 | 60,2 |
+| **Agitation de l'eau** |  |
+|  | 8 fort | 3 faible |
+| **Densité de l'eau au bout de la jetée** |  |
+|  | 1028,2 |  |
+| **Température id.** |  |
+|  | 12,1 |  |
+
+| **Observations du 1960/15 Avril** |
+| --- |
+| **Nombre de bateaux sortis (pêche à la traine)** | 34 |
+| **Température de l'air** |  |
+| maxima depuis la veille | 21.3 |
+| minima id. | 9.3 |
+| **Température de l'eau** |  |
+| maxima depuis la veille |  |
+| minima id. |  |
+| **Pluie tombée depuis la veille, en millim.** | " |
+| **Evaporation depuis le 190, en millim.** |  |
+| **Direction du vent (à terre):** |  |
+|  | **à 9 h. m.** | **à 3 h. s.** |
+| Direction | Sud | Ouest |
+| Force | 2 faible | 3 |
+| Direction des nuages |  |  |
+| Région Ouest (terre) | 1 | 10 |
+| id. Est (mer) | 1 | 10 |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro** |  |
+|  | 54,8 | 50,7 |
+| **Agitation de l'eau** |  |
+|  | 2 faible | 1 |
+| **Densité de l'eau au bout de la jetée** |  |
+|  | 1028,2 | 1028,7 |
+| **Température id.** |  |
+|  | 12,2 | 12,3 |
+|

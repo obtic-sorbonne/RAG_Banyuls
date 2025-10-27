@@ -1,0 +1,33 @@
+# 2. 31 Octobre 1902
+
+|  Hauteur Barométrique | Matin | Soir  |
+| --- | --- | --- |
+|  Direction du vent | or. 3 | or. or. 3  |
+|  Force | faible | faible  |
+|  Rég. O. (terre) | 20% | 2  |
+|  Nébulosité |  |  |
+|  Rég. E. (mer) |  |  |
+|  Direction des nuages |  | or. or. 0  |
+|  Pluie tombée |  |  |
+|  Température de l'air | 12.6 | 19.3  |
+|  Hauteur de la mer | 56.1 | 49.4  |
+|  Agitation de l'eau | 0 | 10 faible  |
+|  Densité au bout de la jetée | 1029.2 | 1029.4  |
+|  Température de l'eau | 19.0 | 19.0  |
+
+# 4. 22 Octobre 1902
+
+|  Hauteur Barométrique | Matin | Soir  |
+| --- | --- | --- |
+|  Direction du vent | or. or. 0 |  |
+|  Force | 4 fois |  |
+|  Rég. O. (terre) | 10 |  |
+|  Nébulosité |  |  |
+|  Rég. E. (mer) |  |  |
+|  Direction des nuages | or. or. 0 |  |
+|  Pluie tombée | quelques. 9 |  |
+|  Température de l'air | 15.3 |  |
+|  Hauteur de la mer | 42.1 |  |
+|  Agitation de l'eau | 3 |  |
+|  Densité au bout de la jetée | 1029.0 |  |
+|  Température de l'eau | 12.6 |  |

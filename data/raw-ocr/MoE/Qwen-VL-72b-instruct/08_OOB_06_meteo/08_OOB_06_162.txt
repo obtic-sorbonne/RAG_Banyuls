@@ -1,0 +1,48 @@
+| **Observations du 19__ 3 juin** |
+| --- |
+| **Nombre de bateaux sortis (pêche à l.** | **27** |
+| **Température de l'air** |  | **maxima depuis la veille** | **27** |
+|  | **minima id.** | **13** |
+| **Température de l'eau** | **maxima depuis la veille** |  |
+|  | **minima id.** |  |
+| **Pluie tombée depuis la veille, en millim.** | quelques g |
+| **Evaporation depuis le** 190**, en millim.** |  |
+| **Direction du vent (à terre)** | **S.S.O.** | **S.S.E.** |
+| **Force** | **1 fort** | **2** |
+| **Direction des nuages** | **Nords.** | **S.S.O.** |
+| **Nébulosité** | **région Ouest (terre)** | **10** | **10** |
+|  | **id. Est (mer)** | **10** | **10** |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro** _(B.R.)_ | **68,2** | **38,2** |
+| **Agitation de l'eau** | **1** | **1 fort** |
+| **Densité de l'eau au bout de la jetée** | **1027,3** | **1027,9** |
+| **Température** |  |  |  |
+| **Id. Bafana** |  | **20,8** | **19,7** |
+| **Id. Terrasse Matin** | **maxima** | **21,3** |  |
+|  | **minima** | **19,7** | **31,6** |
+| **Id. loir** | **maxima** | **16** |  |
+|  | **minima** | **15** | **15,0** |
+
+
+| **Observations du 190 6 juin** |
+| --- |
+| **Nombre de bateaux sortis (pêche à l.** | **2** |
+| **Température de l'air** |  | **maxima depuis la veille** | **27,3** |
+|  | **minima id.** | **13,4** |
+| **Température de l'eau** | **maxima depuis la veille** |  |
+|  | **minima id.** |  |
+| **Pluie tombée depuis la veille, en millim.** | **11** |
+| **Evaporation depuis le** 190**, en millim.** |  |
+| **Direction du vent (à terre)** | **S.S.E.** | **E.S.E.** |
+| **Force** | **0** | **1** |
+| **Direction des nuages** | **Nords.** | **S.O.** |
+| **Nébulosité** | **région Ouest (terre)** | **0** | **10** |
+|  | **id. Est (mer)** | **0** | **10** |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro** _(B.R.)_ | **44,9** | **36,2** |
+| **Agitation de l'eau** | **1** | **1** |
+| **Densité de l'eau au bout de la jetée** | **1027,9** | **1029,8** |
+| **Température** |  |  |  |
+| **Id. Bafana** |  | **26,3** | **34,0** |
+| **Id. Terrasse Matin** | **maxima** | **29,3** |  |
+|  | **minima** | **22,7** | **39,3** |
+| **Id. loir** | **maxima** | **23,7** |  |
+|  | **minima** | **25,7** | **23,7** |

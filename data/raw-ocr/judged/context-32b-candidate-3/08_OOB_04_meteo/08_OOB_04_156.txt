@@ -1,0 +1,37 @@
+```plaintext
+V. 23 Novembre 1902
+
+|  V. 23 Novembre 1902 | Matin | Soir  |
+| --- | --- | --- |
+|  Hauteur Barométrique | 761.1 | 764.6  |
+|  Direction du vent | or.or.o | f.o  |
+|  Force | 1 | 1  |
+|  Nébulosité | 10 | 10  |
+|  (Reg. O. (terre)) | 10 | 10  |
+|  (Reg. E. (mer)) | 10 | 10  |
+|  Direction des nuages | or.or.o | f.o  |
+|  Pluie tombée | 13.2 | 13.0  |
+|  Température de l'air | 14.2 | 14.3  |
+|  Hauteur de la mer | 11.1 | 49.2  |
+|  (Agitation de l'eau) | 1 | 1  |
+|  Densité au bout de la jetée | 1028.7 | 1028.2  |
+|  Température de l'eau | 14.9 | 14.5  |
+
+V. 24 Novembre 1902
+
+|  V. 24 Novembre 1902 | Matin | Soir  |
+| --- | --- | --- |
+|  Hauteur Barométrique | 764.6 | 760.7  |
+|  Direction du vent | f.o | 5.0  |
+|  Force | 1 | 1  |
+|  Nébulosité | 10 | 10  |
+|  (Reg. O. (terre)) | 10 | 10  |
+|  (Reg. E. (mer)) | 10 | 10  |
+|  Direction des nuages | f.o | 5.0  |
+|  Pluie tombée | 13.0 | 13.0  |
+|  Température de l'air | 14.3 | 14.3  |
+|  Hauteur de la mer | 49.2 | 35.4  |
+|  (Agitation de l'eau) | 1 | 1  |
+|  Densité au bout de la jetée | 1028.2 | 1028.2  |
+|  Température de l'eau | 14.5 | 14.6  |
+```

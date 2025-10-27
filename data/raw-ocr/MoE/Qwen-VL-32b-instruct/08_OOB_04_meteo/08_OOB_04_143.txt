@@ -1,0 +1,31 @@
+|  V. 10 Octobre - 1908 | Matin | Soir  |
+| --- | --- | --- |
+|  Hauteur Maronndrique | 3/5.3 | 3/4.3  |
+|  Direction du vent | 0.7.0 | 7.0  |
+|  Force | 1 | 8 fort  |
+|  Reg. G. (lire) | 1 | 10  |
+|  Nébulosité |  |   |
+|  Reg. E. (mer) | 1 | 10  |
+|  Direction des nuages | 0.7.0 | 7.0  |
+|  Flux tombeau |  |   |
+|  Dempirative de l'air | 20.3 | 23.7  |
+|  Hauteur de la mer | 20.7 | 12.3  |
+|  Régulation de l'eau | 3 fort | 27 fort  |
+|  Densité au bout de la jetée | 1028.3 | 1024.8  |
+|  Dempirative de l'eau | 18.2 | 18.3  |
+
+|  V. 11 Octobre - 1908 | Matin | Soir  |
+| --- | --- | --- |
+|  Hauteur Maronndrique | 3/5.2 | 3/4.5  |
+|  Direction du vent | or.0.0 | or.0  |
+|  Force | 2 | 4 fort  |
+|  Reg. G. (lire) | 10 | 10  |
+|  Nébulosité |  |   |
+|  Reg. E. (mer) | 10 | 10  |
+|  Direction des nuages | or.0.0 | or.0.0  |
+|  Flux tombeau | quelques.0 | quelques.0  |
+|  Dempirative de l'air | 18.0 | 19.3  |
+|  Hauteur de la mer | 24.2 | 4.4  |
+|  Régulation de l'eau | 2 faible | 2 fort  |
+|  Densité au bout de la jetée | 1028.0 | 1028.0  |
+|  Dempirative de l'eau | 18.4 | 18.0  |

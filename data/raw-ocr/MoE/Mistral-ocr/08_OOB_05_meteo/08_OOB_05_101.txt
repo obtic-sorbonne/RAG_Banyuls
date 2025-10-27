@@ -1,0 +1,18 @@
+# V. 10 (Lundi - 1906)
+
+|  **Nom** | **Nom** | **Nom**  |
+| --- | --- | --- |
+|  **Hauteur Maronetrique** | **Hauteur Maronetrique** | **Hauteur**  |
+|  **Direction du rent.** | **Horse** | **Horse**  |
+|  **Meibutsoite** | **Ress. C. (lune)** | **Ress. C. (lune)**  |
+|  **Direction des mages** | **Ress. C. (meilleur** | **Ress. C. (meilleur**  |
+|  **Sémi tombés** | **Ress. C. (lune)** | **Ress. C. (lune)**  |
+|  **Dempérature de l'air** | **Dempérature de l'air** | **Dempérature de l'air**  |
+|  **Hauteur de la mer** | **Hauteur de la mer** | **Hauteur de la mer**  |
+|  **Oxidation de l'eau** | **Oxidation de l'eau** | **Oxidation de l'eau**  |
+|  **Densité au bout de la jetée** | **Densité au bout de la jetée** | **Densité au bout de la jetée**  |
+|  **Dempérature de l'eau** | **Dempérature de l'eau** | **Dempérature de l'eau**  |
+
+**Nombre de jours de Bateaux**
+
+

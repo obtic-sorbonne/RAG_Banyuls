@@ -1,0 +1,33 @@
+|  V. 29 Avril - 1904 | Obatin | Soir  |
+| --- | --- | --- |
+|  Hauteur Marométrique | 766.0 | 764.1  |
+|  Direction du vent | or.0.0 | or. 8  |
+|  Force | 3 | 1 faible  |
+|  (Reg. o. (lire) |  | 86.0  |
+|  Débulosité |  |   |
+|  (Reg. x. (mer) | 8 | 86.0  |
+|  Direction des nuages | or.0.0 |   |
+|  (lire tombé) |  |   |
+|  Température de l'air | 17.1 | 88.4  |
+|  Hauteur de la mer | 17.3 | 68.0  |
+|  (Agitation de l'eau) | 2 | 1 fort  |
+|  Densité au bout de la jetée | 1028.7 | 1028.7  |
+|  (lire) |  | 14.9  |
+|  Température de l'eau | 13.7 | 14.9  |
+
+|  V. 30 Avril - 1904 | Obatin | Soir  |
+| --- | --- | --- |
+|  Hauteur Marométrique | 764.7 | 763.6  |
+|  Direction du vent | 5.0.5 | 7.8  |
+|  Force | 1 faible | 2 faible  |
+|  (Reg. o. (lire) | 36.0 | 0  |
+|  Débulosité |  |   |
+|  (Reg. x. (mer) | 86.0 | 8  |
+|  Direction des nuages |  |   |
+|  (lire tombé) |  |   |
+|  Température de l'air | 16.4 | 88.4  |
+|  Hauteur de la mer | 49.4 | 60.3  |
+|  (Agitation de l'eau) | 16.3 | 16.3  |
+|  Densité au bout de la jetée | 1028.6 | 1028.4  |
+|  (lire) |  | 17.7  |
+|  (lire) |  |   |

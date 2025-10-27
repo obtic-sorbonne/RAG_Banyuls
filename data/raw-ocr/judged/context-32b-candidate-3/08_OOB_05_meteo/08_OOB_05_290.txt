@@ -1,0 +1,33 @@
+```markdown
+# 2 Septembre 1907
+
+| **Date**       | **Matin** | **Soir** |
+|---------------|-----------|----------|
+| Hauteur barométrique | 767.8 | 763.7 |
+| Direction du vent | N | S |
+| Force | 2 | 1 |
+| Nébulosité (Reg. c. clair) | 10 | 10 |
+| Direction des nuages | O.-S. | S.-O. |
+| Pluie tombée | quelques g | quelques g |
+| Température de l'air | 24.0 °C | 23.3 °C |
+| Hauteur de la mer | 33.7 cm | 42.3 cm |
+| Agitation de l'eau | 1 (fort) | 1 (fort) |
+| Densité au bout de la jetée | 1027.9 g/cm³ | 1027.9 g/cm³ |
+| Température de l'eau | 21.7 °C | 22.3 °C |
+
+# 3 Septembre 1907
+
+| **Date**       | **Matin** | **Soir** |
+|---------------|-----------|----------|
+| Hauteur barométrique | 762.6 | 762.6 |
+| Direction du vent | N | N |
+| Force | 2 | 1 |
+| Nébulosité (Reg. clair) | 10 | 10 |
+| Direction des nuages | O.-S. | O.-S. |
+| Pluie tombée | —— | —— |
+| Température de l'air | 23.6 °C | 23.6 °C |
+| Hauteur de la mer | 43.2 cm | 43.2 cm |
+| Agitation de l'eau | 1 (fort) | 1 (fort) |
+| Densité au bout de la jetée | 1027.6 g/cm³ | 1027.6 g/cm³ |
+| Température de l'eau | 21.9 °C | 21.9 °C |
+```

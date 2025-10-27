@@ -1,0 +1,14 @@
+| Paramètre                                   | 9h Matin | 14h Soir |
+|---------------------------------------------|---------|---------|
+| Hauteur Barométrique                       | 758.0   | 757.4   |
+| Direction du vent                          | Nord    | Nord    |
+| Force                                      | 3       | 3       |
+| Nébulosité (1ère)                          | 10      | 10      |
+| Nébulosité (2ème)                          | 10      | 10      |
+| Direction des nuages                       | Ouest   | Nord    |
+| Pluie tombée                               | —       | —       |
+| Température de l'air                       | 7.9     | 9.9     |
+| Hauteur de la mer (à la jeter)             | 2.1     | 60.4    |
+| Agitation de l'eau                         | 2 Jeils | 3       |
+| Densité de l'eau (au large)                | —       | —       |
+| Température de l'eau                       | 11.3    | 11.4    |

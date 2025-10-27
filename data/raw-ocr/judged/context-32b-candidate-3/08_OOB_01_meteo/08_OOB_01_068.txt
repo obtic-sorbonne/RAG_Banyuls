@@ -1,0 +1,18 @@
+# Date: 3. 30 Septembre 1900
+
+|  Item |  |  |
+| --- | --- | --- |
+|  Hauteur barométrique | 763,3 |  |
+|  Direction du vent | S.E. |  |
+|  Force | 5.10 |  |
+|  Nebulosité | 3 |  |
+|  Rég. E. (m²) | 8.5.0. |  |
+|  Direction des nuages | L. |  |
+|  Plein tombée | 6,66 |  |
+|  Température de l'air | 19,9 |  |
+|  Hauteur de la mer | 0,45 |  |
+|  Agitation de l'eau | 2 |  |
+|  Densité de l'eau (au bout de la jetée) | 1026,5 |  |
+|  Température de l'eau | 81,2 |  |
+
+Frescat.

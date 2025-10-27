@@ -1,0 +1,13 @@
+```
+Journal Météorologique du Navire "La Belle Poule"
+Période : 6 au 7 Septembre 1905
+
+Date       | Heure | Hauteur Barométrique (mm) | Direction du vent | Force | Nébulosité (Reg. o. Terre) | Nébulosité (Reg. d. Mer) | Direction des nuages | Pluie tombée (mm) | Température de l'air (°C) | Hauteur de la mer (m) | Agitation de l'eau (code) | Densité au bout de la jetée (g/cm³) | Température de l'eau (°C)
+-----------|-------|---------------------------|-------------------|-------|---------------------------|---------------------------|---------------------|-------------------|--------------------------|-----------------------|--------------------------|------------------------------------|-------------------------
+6 Septembre 1905 | Matin | 765.6                    | S.E.              | is    | 10                        | 10                        | S.S.O               | -                 | 24.2                     | 13.1                  | 2                        | 1027.8                             | 23.8
+6 Septembre 1905 | Soir  | 764.6                    | S.E.              | 2 fort | 10                        | 10                        | S.S.O               | -                 | 26.7                     | 42.3                  | 2                        | 1027.6                             | 23.9
+7 Septembre 1905 | Matin | 764.7                    | S.S.O             | is    | 10 légère                 | 10 légère                 | S.S.O               | -                 | 27.2                     | 12.8                  | 1 fort                   | 1027.8                             | 23.4
+7 Septembre 1905 | Soir  | 762.7                    | S.S.O             | 2 faible | 10                        | 10                        | S.S.O               | -                 | 27.6                     | 39.8                  | 2 fort                   | 1027.6                             | 23.0
+
+Note Marginale : Aucune remarque particulière pour ces dates.
+```

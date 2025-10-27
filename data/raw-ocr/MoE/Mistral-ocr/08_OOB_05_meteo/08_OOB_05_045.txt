@@ -1,0 +1,25 @@
+|  1. 13 Octobre 1908 | Mbatin | Jair  |
+| --- | --- | --- |
+|  Fauteur Marométrique | 708.2 | 700.2  |
+|  Direction du vent | or.0.0 | or.0.0  |
+|  Force | 3 | 3  |
+|  (Ebuthiste) | 0 | 165.0  |
+|  Direction des nuages | 255.0 | 165.0  |
+|  Flux tombe | 14.0 | 10.7  |
+|  Température de l'air | 11.0 | 19.8  |
+|  Fauteur de la mer | 3.6 | 3.7  |
+|  Opération de l'eau | 29.0 | 1028.2  |
+|  Densité au bout de la jetée | 13.0 | 19.3  |
+|  Température de l'eau | 13.0 | 19.3  |
+|  1. 14 Octobre 1908 | Mbatin | Jair  |
+|  Fauteur Marométrique | 704.8 | 704.2  |
+|  Direction du vent | or.0.0 | or.0.0  |
+|  Force | 1.0 | 27.0  |
+|  (Ebuthiste) | 105.0 | 10  |
+|  Direction des nuages | 105.0 | 10  |
+|  Flux tombe | 1.6 | 1.0  |
+|  Température de l'air | 1.0 | 18.3  |
+|  Fauteur de la mer | 11.7 | 64.8  |
+|  Opération de l'eau | 2.6 | 3.0  |
+|  Densité au bout de la jetée | 1028.2 | 1028.1  |
+|  Température de l'eau | 19.0 | 19.0  |

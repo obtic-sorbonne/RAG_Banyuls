@@ -1,0 +1,26 @@
+| **Date**       | **Matin**                              | **Soir**                           |
+|----------------|---------------------------------------|------------------------------------|
+| **V. 9 Mai 1904** |
+| Hauteur Barométrique | 761,4                              | 761,4                             |
+| Direction du vent    | LO                                  | SO                                |
+| Force                 | 1/5                                 | 1                                 |
+| Nébulosité          | Reg. 6 (ciel) |-| Reg. 2 (mer)      | 10                                | 10                               |
+| Direction des nuages |                                      | SO                                |
+| Pluie tombée         |                                      | quelques g                       |
+| Température de l'air | 18,7                               | 16,0                              |
+| Hauteur de la mer    | 11,8                               | 1027,9                           |
+| Agitation de l'eau   | fièb                               | 17. faible                        |
+| Vitesse au bout de la jetée | 1027,9                           | 1027,0                           |
+| Température de l'eau |                                      |                                  |
+| **V. 10 Mai 1904** |
+| Hauteur Barométrique | 766,3                              | 764,8                             |
+| Direction du vent    | cr. 8                              | cr. 8                             |
+| Force                 | 1/5                                 | 1                                 |
+| Nébulosité          | Reg. 6 (terre) |-| Reg. 2 (mer)     | 10                                | 3                                |
+| Direction des nuages |                                      | 6. cu. 0                          |
+| Pluie tombée         |                                      |                                  |
+| Température de l'air | 17,2                               | 21,0                              |
+| Hauteur de la mer    | 63,8                               | 57,6                              |
+| Agitation de l'eau   | 17. faible                       | 17. faible                        |
+| Vitesse au bout de la jetée | 1028,2                           | 1028,0                           |
+| Température de l'eau | 14,6                               | 18,8                              |

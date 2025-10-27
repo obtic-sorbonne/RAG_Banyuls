@@ -1,0 +1,28 @@
+|Nombre de faire de bateaux|V. 15 Septembre -1905|Matin|Soir|
+|---|---|---|---|
+||Hauteur Barometrique|768.7|769.4|
+||Direction du vent|"|S.O|
+||Force|is|o|faible|
+||Reg. O. (lire)|W|CO||
+||Nébulosité|(Reg. E. cour.)|WO|10||
+||Direction des nuages|S.o|S.o||
+||Pluie tombée|quelques g|quelques g||
+||Température de l'air|19.9|18.4||
+||Hauteur de la mer|22.0|18.3||
+||Agitation de l'eau|1 T.Faible|1||
+||Densité au bout de la jetée|1028.2|1028.0||
+||Température de l'eau|21.2|21.0||
+|Nombre de faire de bateaux|V. 16 Septembre -1905|Matin|Soir|
+|---|---|---|---|
+||Hauteur Barometrique|766.3|769.8|
+||Direction du vent|cr.cr.o|crorc|
+||Force|is|fort|1|
+||Reg. G. (lire)|WO|WO||
+||Nébulosité|(Reg. E. (mer))|WO|WO||
+||Direction des nuages|S.o|S.o||
+||Pluie tombée|peu|quelque.g||
+||Température de l'air|18.4|20.3||
+||Hauteur de la mer|40.|54.6||
+||Agitation de l'eau|1|faible||
+||Densité au bout de la jetée|1028.1|1028.2||
+||Température de l'eau|21.4|21.0||

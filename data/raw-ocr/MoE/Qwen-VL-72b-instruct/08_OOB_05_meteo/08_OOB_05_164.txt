@@ -1,0 +1,27 @@
+| V. 22 Octobre 1906 | Matin | Soir |
+|-------------------|-------|------|
+| Hauteur Barométrique | 767.3 | 768.8 |
+| Direction du Vent | S.E.S | S.S.E |
+| Force | 1 fort | 2 fort |
+| Nébulosité | 0 | 3 |
+| Reg. É. (Terre) | 2 | 2 |
+| Direction des nuages | S.S.O | S.O |
+| Pluie tombée | " | " |
+| Température de l'air | 20.8 | 23.2 |
+| Hauteur de la mer | 28.2 | 36.8 |
+| Agitation de l'eau | 2 faible | 1 T. fort |
+| Densité au bout de la jetée | 1028.6 | 1028.4 |
+| Température de l'eau | 19.2 | 19.4 |
+| V. 23 Octobre 1906 | Matin | Soir |
+| Hauteur Barométrique | 768.2 | 768.8 |
+| Direction du Vent | S.E | S.E |
+| Force | 1 fort | 0 |
+| Nébulosité | 10 | 0 |
+| Reg. É. (Terre) | 10 | 0 |
+| Direction des nuages | S.O | S.O |
+| Pluie tombée | " | " |
+| Température de l'air | 21.7 | 23.2 |
+| Hauteur de la mer | 38.8 | 38.8 |
+| Agitation de l'eau | 1 | 1 |
+| Densité au bout de la jetée | 1027.8 | 1027.8 |
+| Température de l'eau | 19.1 | 19.1 |

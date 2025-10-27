@@ -1,0 +1,19 @@
+# Date. 24 Octobre. 1900.
+
+|  Hauteur Barométrique | 9e Matin | 3e Soir  |
+| --- | --- | --- |
+|  Hauteur Barométrique | 707,2 | 705,4  |
+|  Direction du vent | Ouest | Ouest  |
+|  Force | 1 faible | 1.7 faible  |
+|  Nébulosité | 0 | 3  |
+|  Rég. E. (terre) | 5.0 | 500  |
+|  Direction des nuages | 2,375 | 10.8  |
+|  Pluie tombée | 13,9 | 10.8  |
+|  Température de l'air | 38,2 | 50,0  |
+|  Hauteur de la mer | 3 | 2 fort  |
+|  Agitation de l'eau | 1028,7 | 1028,0  |
+|  Densité de l'eau (au bout de la jetée) |  |  |
+|  Densité de l'eau (au large) |  |  |
+|  Température de l'eau | 17,2 | 18,0  |
+
+Observat. —

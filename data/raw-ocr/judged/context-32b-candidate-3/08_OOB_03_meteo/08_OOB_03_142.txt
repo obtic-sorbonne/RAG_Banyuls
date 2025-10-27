@@ -1,0 +1,17 @@
+# Date: 8 Mars 1902
+
+|   | 9h Matin | 15h Soir |
+| --- | --- | --- |
+| Hauteur Barométrique | 754,8 | 756,6 |
+| Direction du vent | cr. cr. 0 | N.cr. 0 |
+| Force du vent | 1 | 1 fort |
+| Nébulosité { Reg. O. (terre) } | 6 | 0 |
+| Nébulosité { Reg. E. (mer) } | 0 | 0 |
+| Direction des nuages | cr. cr. 0 | cr. cr. 0 |
+| Pluie tombée | " | " |
+| Température de l'air | 13,0 | 16,0 |
+| Hauteur de la mer | 43,4 | 44,4 |
+| Agitation de l'eau | 3 fort | 4 fort |
+| Densité de l'eau { au bout de la jetée } | 1028,4 | — |
+| Densité de l'eau { au large } | — | — |
+| Température de l'eau | 11,3 | 11,5 |

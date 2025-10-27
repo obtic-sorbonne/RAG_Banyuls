@@ -1,0 +1,24 @@
+| **Date** | **Heure** | **Paramètre** | **Valeur Matin** | **Valeur Soir** |
+|----------|-----------|---------------|------------------|-----------------|
+| V. 6 Avril 1906 | Matin | Hauteur Barométrique | 768.2 | - |
+|              |         | Direction du vent | Est | - |
+|              |         | Force | 5 | 2 |
+|              |         | Nébulosité (Reg. c.) | 40 | - |
+|              |         | Nébulosité (Reg. 2) | 40 | - |
+|              |         | Pluie tombée | - | - |
+|              |         | Température de l'air | 10.8 | - |
+|              |         | Hauteur de la mer | S | - |
+|              |         | Agitation de l'eau | 7 | - |
+|              |         | Densité au bout de la jetée | S | - |
+|              |         | Température de l'eau | - | - |
+| V. 9 Avril 1906 | Matin | Hauteur Barométrique | 766.9 | 766.9 |
+|              |         | Direction du vent | Ouest | cr.n.8 |
+|              |         | Force | 5 | 1 fort. 1 |
+|              |         | Nébulosité (Reg. c.) | 3 | 2 |
+|              |         | Nébulosité (Reg. 2) | 0 | 0 |
+|              |         | Pluie tombée | cr.cr.8 | cr.cr.8 |
+|              |         | Température de l'air | 8.7° | " |
+|              |         | Hauteur de la mer | 12.1 | 16.0 |
+|              |         | Agitation de l'eau | S | 90.8 |
+|              |         | Densité au bout de la jetée | 1 | 1 |
+|              |         | Température de l'eau | S | 3 |

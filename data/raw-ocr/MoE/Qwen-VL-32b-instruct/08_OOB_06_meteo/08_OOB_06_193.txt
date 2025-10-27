@@ -1,0 +1,48 @@
+| OBSERVATIONS DU 1901 9 Septembre |
+| --- |
+| **Nombre de bateaux sortis (pêche à l.)** | 31.3 |
+| **Température de l'air** | **maxima depuis la veille** | 31.3 |
+|  | **minima id.** | 19.9 |
+| **Température de l'eau** | **maxima depuis la veille** |  |
+|  | **minima id.** |  |
+| **Pluie tombée depuis la veille, en millim.** | 11 |
+| **Evaporation depuis le 190 , en millim.** |  |
+| **Direction du vent (à terre)** | **à 9 h. m.** | **à 3 h. s.** |
+| **Force** | 1 | 1 |
+| **Direction des nuages** | " | " |
+| **Nébulosité** | **région Ouest (terre)** | 0 | 0 |
+|  | **id. Est (mer)** | 0 | 0 |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.)** | 39.7 | 34.4 |
+| **Agitation de l'eau** | 1 T faible | 1 faible |
+| **Densité de l'eau au bout de la jetée** | 102.9/5 | 102/5.4 |
+| **Tempéréature** | **id.** | 24.4 | 26.0 |
+|  | **s-Balanc Matin** | 27.8 |  |
+|  | **s-Terrane Matin** | 31.9 | 17.4 |
+|  | **s-Terrane Loir** | 39.7 | 26.8 |
+|  | **s-** | **maxima** | 39.7 |  |
+|  | **s-** | **minima** | 26.8 |  |
+| OBSERVATIONS DU 1901 6 Septembre |
+| --- |
+| **Nombre de bateaux sortis (pêche à l.)** | 36.2 |
+| **Température de l'air** | **maxima depuis la veille** | 36.2 |
+|  | **minima id.** | 25.5 |
+| **Température de l'eau** | **maxima depuis la veille** |  |
+|  | **minima id.** |  |
+| **Pluie tombée depuis la veille, en millim.** |  |
+| **Evaporation depuis le 190 , en millim.** |  |
+| **Direction du vent (à terre)** | **à 9 h. m.** | **à 3 h. s.** |
+| **Force** | 1 fort | 1 fort |
+| **Direction des nuages** | " | " |
+| **Nébulosité** | **région Ouest (terre)** | 0 | 0 |
+|  | **id. Est (mer)** | 0 | 0 |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.)** | 39.9 | 36.0 |
+| **Agitation de l'eau** | 1 faible | 1 faible |
+| **Densité de l'eau au bout de la jetée** | 102.6/8 | 102/6.0 |
+| **Température** | **id.** | 24.3 | 29.8 |
+|  | **-l-Balanc Soir** | 39.8 | 38.4 |
+|  | **-l-Terrane** | 23.7 | 46.8 |
+|  | **-l-** | **maxima** | 32.9 |  |
+|  | **-l-** | **minima** |  |  |
+
+|  |  |  |
+| --- | --- | --- |

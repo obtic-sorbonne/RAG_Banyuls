@@ -1,0 +1,27 @@
+|  1. 1st Septembre 1907 | Moutin | Soir  |
+| --- | --- | --- |
+|  Hauteur Maronctique | 758.0 | 767.0  |
+|  Direction du vent | or.0.0 | or.0.0  |
+|  Force | 3 fort. | 2  |
+|  1 Reg. 6. (1me) | 3 | 10  |
+|  1 Reg. 2. (1me) |  |   |
+|  Direction des nuages | or.0.0 | or.0.0  |
+|  Flux tombé |  |   |
+|  Température de l'air | 21.7 | 33.8  |
+|  Hauteur de la mer | 10.8 | 10.2  |
+|  Régulation de l'eau | 1 fort. | 1087.8  |
+|  Densité au bout de la jetée | 1087.8 | 1087.6  |
+|  Température de l'eau | 21.4 | 21.4  |
+|  2 Septembre 1907 | Moutin | Soir  |
+|  Hauteur Maronctique | 758.0 | 756.6  |
+|  Direction du vent | or.0.0 | or.0.0  |
+|  Force | 3 fort. | 3 fort.  |
+|  1 Reg. 6. (1me) | 2 | 2  |
+|  1 Reg. 2. (1me) |  |   |
+|  Direction des nuages | or.0.0 | or.0.0  |
+|  Flux tombé |  |   |
+|  Température de l'air | 20.6 | 34.1  |
+|  Hauteur de la mer | 17.3 | 12.9  |
+|  Régulation de l'eau | 3 faible | 3  |
+|  Densité au bout de la jetée | 1087.1 | 1087.1  |
+|  Température de l'eau | 31.2 | 21.1  |

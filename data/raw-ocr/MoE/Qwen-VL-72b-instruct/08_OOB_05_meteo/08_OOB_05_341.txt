@@ -1,0 +1,28 @@
+| Date       | Matin | Soir |
+|------------|-------|------|
+| V. 13 Janvier. 1908 | 769.0 |      |
+| Hauteur Barométrique |        |      |
+| Direction du vent | E.S.E |      |
+| Force | 5 | 1 fort |
+| Nébulosité | Reg. O. (Aure) | 60 |
+| (Reg. N. (nu)) | 10 |      |
+| Direction des nuages | Est |      |
+| Pluie tombée | C.I |      |
+| Température de l'air | 11.3 |      |
+| Hauteur de la mer | 3 |      |
+| Agitation de l'eau | 1 |      |
+| Vessité au haut de la jetée | 3 |      |
+| Température de l'eau |      |      |
+| V. 14 Janvier. 1908 | 772.6 | 772.3 |
+| Hauteur Barométrique |        |      |
+| Direction du vent | S.E | S.E |
+| Force | 0 | 1 fort |
+| Nébulosité | Reg. O. (Clair) | 60 |
+| (Reg. N. (nu)) | 10 | 10 |
+| Direction des nuages | Sud | Sud |
+| Pluie tombée | " | " |
+| Température de l'air | 11.6 | 11.8 |
+| Hauteur de la mer | 48.1 | 48.1 |
+| Agitation de l'eau | 3 | 3 faible |
+| Vessité au haut de la jetée | 428.9 | 427.7 |
+| Température de l'eau | 12.18 | 12.8 |

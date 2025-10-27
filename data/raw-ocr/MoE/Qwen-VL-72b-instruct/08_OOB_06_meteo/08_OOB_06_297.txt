@@ -1,0 +1,9 @@
+| Date | Nombre de bateaux sortis | Température de l'air (°C) | Température de l'eau (°C) | Pluie (mm) | Évaporation (mm) | Direction du vent (à terre) | Force | Direction des nuages | Nébulosité (Ouest / Est) | Hauteur de la mer (cm) | Agitation de l'eau | Densité de l'eau (g/cm³) | Température (°C) |
+|------|--------------------------|--------------------------|--------------------------|------------|------------------|--------------------------|--------|----------------------|--------------------------|------------------|----------------------|---------------------------|------------------|
+| 1902/08/01 | - | maxima: 31.3<br>minima: 19.8 | - | - | - | Ouest | 4<br>4 | Sud-Ouest<br>Sud | 6/6<br>6/6 | 33.2<br>32.4 | 1<br>1 | 1026.8<br>1026.8 | matin: 21.2<br>soir: 21.2 |
+| 1902/08/02 | - | maxima: 32.4<br>minima: 16.8 | - | 6.620 | - | Nord-Ouest<br>Nord-Nord-Ouest | 4<br>4 | Sud<br>Sud-Ouest | 6/6<br>6/6 | 26.1<br>36.3 | 2<br>2 | 1027.1<br>1026.9 | matin: 20.9<br>soir: 20.4 |
+
+| Date | Température de l'air (°C) |
+|------|--------------------------|
+| 1902/08/01 | matin: 29.3<br>soir: 32.3 | maxima: 32.3<br>minima: 17.9 |
+| 1902/08/02 | matin: 39.7<br>soir: 25.8 | maxima: 39.7<br>minima: 17.4 |

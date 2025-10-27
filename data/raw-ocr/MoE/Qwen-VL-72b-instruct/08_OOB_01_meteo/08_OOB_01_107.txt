@@ -1,0 +1,14 @@
+| **Observations** | **9h Matin** | **3h Soir** |
+|-------------------|--------------|--------------|
+| Hauteur Barométrique | 759,8 | 759,6 |
+| Direction du vent | Nord | Nord |
+| Force | 3 (jaible) | 4 (jaible) |
+| Nébulosité (Reg-O.) | 10 légèrement couvert | 10 |
+| Nébulosité (Reg-E.) | 10 légèrement couvert | 10 |
+| Direction des nuages | Nord | Nord |
+| Pluie tombée | " | " |
+| Température de l'air | 16,1 | 13,4 |
+| Hauteur de la mer | 22,9 | 41,4 |
+| Agitation de l'eau | 1 (fort) | 3 (jaible) |
+| Densité de l'eau (au bout de la jetée) | 1028,7 | 1029,2 |
+| Température de l'eau | 17,3 | 16,9 |

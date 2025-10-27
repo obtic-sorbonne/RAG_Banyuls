@@ -1,0 +1,29 @@
+|  V. 10 Juin - 1903 | Obatin | Soir  |
+| --- | --- | --- |
+|  Hauteur Barometrique | 7/9.8 | 760.2  |
+|  Direction du vent | or.0 | 2.0  |
+|  Force | 1 fort | 1  |
+|  Obébutonite (Chez. O. (rare)) | 10 | 10  |
+|  Obébutonite (Chez. K. (mer)) | 10 | 10  |
+|  Direction des nuages | or.0 | 2.0  |
+|  Flux tombé | quelques.g | quelques.g  |
+|  Sémolarité de l'air | 18.6 | 17.6  |
+|  Hauteur de la mer | 38.3 | 40.1  |
+|  Cagitation de l'eau | 1 | 1  |
+|  Densité au bout de la jeté | 1026.6 | 1025.6  |
+|  Sémolarité de l'eau | 17.4 | 17.8  |
+
+|  V. 11 Juin - 1903 | Obatin | Soir  |
+| --- | --- | --- |
+|  Hauteur Barometrique | 761.4 |   |
+|  Direction du vent | 2.8 |   |
+|  Force | 1 fort |   |
+|  Obébutonite (Chez. O. (rare)) | 10 |   |
+|  Obébutonite (Chez. K. (mer)) | 10 |   |
+|  Direction des nuages | or.0 |   |
+|  Flux tombé | quelques.g |   |
+|  Sémolarité de l'air | 18.8 |   |
+|  Hauteur de la mer | 36.8 |   |
+|  Cagitation de l'eau | 1 |   |
+|  Densité au bout de la jeté | 1027.0 |   |
+|  Sémolarité de l'eau | 17.6 |   |

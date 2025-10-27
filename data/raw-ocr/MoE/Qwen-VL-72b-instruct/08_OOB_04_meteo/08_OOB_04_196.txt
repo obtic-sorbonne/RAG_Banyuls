@@ -1,0 +1,8 @@
+```
+| Date       | Heure | Hauteur Barométrique | Direction du vent | Force | Nebulosité | Pluie Tombée | Température de l'air | Hauteur de la mer | Agitation de l'eau | Densité au bout de la jetée | Température de l'eau |
+|------------|-------|----------------------|-------------------|-------|------------|-------------|----------------------|------------------|-------------------|---------------------------|----------------------|
+| 916 mars. 1903 | Matin | 794.8 | er. o. | 3 | Reg. 0. (claire) | 1.925 | 12.4 | 68.3 | Forte | 1028.7 | 11.4 |
+| 916 mars. 1903 | Soir | - | 4 Joel | - | 10 | - | - | - | 1 Forte | - | - |
+| 916 mars. 1903 | Matin | 769.0 | er. cr. o. | 3 | Reg. 0. (claire) | quelque g | 11.6 | 71.8 | 2 Fortes | 1029.4 | 11.4 |
+| 916 mars. 1903 | Soir | 769.5 | cr. cr. o. | 3 | 0 | 11 | 13.5 | 74.2 | 2 T. Fortes | 1028.9 | 11.7 |
+```

@@ -1,0 +1,8 @@
+```
+| Date       | Heure   | Hauteur Barométrique (mmHg) | Direction du vent | Force | Reg. 6. (Ciel clair) | Nébulosité | Direction des nuages | Pluie tombée | Température de l'air (°C) | Hauteur de la mer (m) | Agitation de l'eau | Densité au bout de la jetée (kg/m³) | Température de l'eau (°C) |
+|------------|---------|-----------------------------|-------------------|-------|----------------------|------------|----------------------|--------------|-----------------------|---------------------|---------------------|--------------------------------|--------------------------|
+| **27 Avril 1903** | **Matin** | 794.1 | cor. o | 3 faible | 10 | 10 | cor. o | quelques g | 12.7 | 43.9 | 1 fort | 1029.6 | 12.8 |
+|            | **Soir**  | 799.4 | cor. cr. 8 | 1 | 10 | 10 | s. o | quelques g | 16.5 | 51.1 | 1 fort | 1028.8 | 13.3 |
+| **28 Avril 1903** | **Matin** | 799.7 | cor. 8 | 1 faible | 10 | 10 | cor. |  | 19.9 | 41.4 | 1 T. faible | 1029.2 | 13.7 |
+|            | **Soir**  | 799.2 | s. 8 | 2 | 7 | 10 | s. |  | 21.6 | 52.8 | 1 | 1029.2 | 11.3 |
+```

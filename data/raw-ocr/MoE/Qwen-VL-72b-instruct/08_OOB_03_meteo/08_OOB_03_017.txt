@@ -1,0 +1,18 @@
+| **Date** | 07 Octobre 1901 |
+| --- | --- |
+| **Heure** | **Matin (9h)** | **Soir (3h)** |
+| **Hauteur Barométrique (mm)** | 758.4 | 758.3 |
+| **Direction du Vent** | N.N.O | N.N.O |
+| **Force du Vent** | faible | faible |
+| **Métrologie** |  |  |
+|  | Reg. O. (terre) | 1 | 0 |
+|  | Reg. E. (mer) | 0 | 3 |
+| **Direction des Nuages** | N.N.O | N.N.O |
+| **Pluie Tombée (mm)** | " | " |
+| **Température de l'Air (°C)** | 15.9 | 15.6 |
+| **Hauteur de la Mer (m)** | --- | --- |
+| **Agitation de l'Eau** | 3 (forte) | 4 (faible) |
+| **Densité de l'Eau** |  |  |
+|  | Au bout de la jetée | 1026.7 | 1026.9 |
+|  | Au large |  |  |
+| **Température de l'Eau (°C)** | 18.5 | 18.6 |

@@ -1,0 +1,35 @@
+```plaintext
+# 21 Juin - 1904
+
+|  **Position** | **Matin** | **Soir**  |
+| --- | --- | --- |
+|  Hauteur Barométrique | 766.6 | 766.4  |
+|  Direction du vent | 00.00 | 00.00  |
+|  Force | 1/20 | 1  |
+|  Nébulosité | 0 | 0  |
+|  (Reg. 2. (mer)) | 0 | 0  |
+|  Direction des nuages | 00.00 | 00.00  |
+|  Pluie Tombée |  |  |
+|  Température de l'air | 27.0 | 27.0  |
+|  Hauteur de la mer | 10.6 | 41.6  |
+|  Agitation de l'eau | 1 faible | 1 faible  |
+|  Densité au bout de la jetée | 1027.4 | 1027.0  |
+|  Température de l'eau | 21.5 | 22.7  |
+
+# 22 Juin - 1904
+
+|  **Position** | **Matin** | **Soir**  |
+| --- | --- | --- |
+|  Hauteur Barométrique | 763.7 | 763.7  |
+|  Direction du vent | 20.8 | 1.78  |
+|  Force | 1 | 1  |
+|  Nébulosité | 0 | 10  |
+|  (Reg. 0. (mer)) | 0 | 10  |
+|  Direction des nuages | 0 | 10  |
+|  Pluie Tombée |  |  |
+|  Température de l'air | 26.4 | 27.6  |
+|  Hauteur de la mer | 16.5 | 47.7  |
+|  Agitation de l'eau | 1 faible | 1 faible  |
+|  Densité au bout de la jetée | 1027.0 | 1027.2  |
+|  Température de l'eau | 28.2 | 21.2  |
+```

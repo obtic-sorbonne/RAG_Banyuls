@@ -1,0 +1,27 @@
+|  V. 11 Décembre 1905 | M6atin | Soir  |
+| --- | --- | --- |
+|  Hauteur Pbarométrique | 222.8 | 222.8  |
+|  Direction du vent | oraw | oraw  |
+|  Poze - is | 1 fort | 1  |
+|  Mébulointe (Ries. 0. (10m) | 20 | 20  |
+|  Mébulointe (Ries. 20. (10m) | 20 | 20  |
+|  Direction des mages | 8. or. 8 | 8. or. 8  |
+|  Pluie tombée | goulgun. 3 | 10  |
+|  Température de l'air | 10.8 | 11.5  |
+|  Hauteur de la mer | 3 r. fort | 4  |
+|  Cautation de l'eau | 5 | 5  |
+|  Permite au bout de la jetée |  |   |
+|  Température de l'eau | 5 | 5  |
+|  N. 12 Décembre 1905 | M6atin | Soir  |
+|  Hauteur Pbarométrique | 275.2 | 275.0  |
+|  Direction du vent | oraw | or. 0.0  |
+|  Poze - is | 8 | 1  |
+|  Mébulointe (Ries. 0. (10m) | 0 | 1  |
+|  Mébulointe (Ries. 20. (10m) | 0 | 1  |
+|  Direction des mages | 11 | 11  |
+|  Pluie tombée | 11 | 11  |
+|  Température de l'air | 2.5 | 2.5  |
+|  Hauteur de la mer | 6 | 6  |
+|  Cautation de l'eau | 4 | 4  |
+|  Permite au bout de la jetée | 5 | 5  |
+|  Température de l'eau | 5 | 5  |

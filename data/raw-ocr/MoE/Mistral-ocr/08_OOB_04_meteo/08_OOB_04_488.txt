@@ -1,0 +1,29 @@
+|  V. 20 (Avril - 1905) | Moutin | Joir  |
+| --- | --- | --- |
+|  Hauteur Prazometrique | 3/2.1 |   |
+|  Direction du vent | v.v.o |   |
+|  Force | 3 |   |
+|  (Res. G. (hers) | 10 |   |
+|  Mécbulonie |  |   |
+|  (Res. K. (mer) | 10 |   |
+|  Direction des mages | v.o |   |
+|  Heure tombée | 13.12/ |   |
+|  Température de l'air | 12.2 |   |
+|  Hauteur de la mer | 5 |   |
+|  Capitation de l'eau | 3 |   |
+|  Permis au bout de la jetée |  |   |
+|  Température de l'eau | 5 |   |
+|  V. 22 (Avril - 1905) | Moutin | Joir  |
+|  Hauteur Prazometrique | 3/4.3 | 380.5  |
+|  Direction du vent | v.v.o | v.v.o  |
+|  Force | 5 | 6  |
+|  (Res. G. (hers) | 10 | 3  |
+|  Mécbulonie |  |   |
+|  (Res. K. (mer) | 10 | 2  |
+|  Direction des mages | v.o | v.o  |
+|  Heure tombée |  |   |
+|  Température de l'air | 4.3 | 13.1  |
+|  Hauteur de la mer | 3 | 3/2.1  |
+|  Capitation de l'eau | 3 | 3/2.1  |
+|  Permis au bout de la jetée |  |   |
+|  Température de l'eau | 5 | 5  |

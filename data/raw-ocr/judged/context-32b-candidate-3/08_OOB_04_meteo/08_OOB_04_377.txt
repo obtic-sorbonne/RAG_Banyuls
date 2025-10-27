@@ -1,0 +1,31 @@
+```plaintext
+|  V. 24 Moai - 1904 | Moatin | Soir  |
+| --- | --- | --- |
+|  Hauteur Paromatique | 763.8 |   |
+|  Direction du vent | cr. 8 |   |
+|  Force | 1 |   |
+|  Mécanisme (Reg. G. (terre)) | 10 |   |
+|  Mécanisme (Reg. L. (mer)) | 10 |   |
+|  Direction des mages |  |   |
+|  Phie tombe |  |   |
+|  Température de l'air | 13.6 |   |
+|  Hauteur de la mer | 67.0 |   |
+|  Cigitation de l'eau | 1/2 à 8 |   |
+|  Densité au bout de la jetée | 18.7 |   |
+|  Température de l'eau | 18.7 |   |
+
+|  V. 27 Moai - 1904 | Moatin | Soir  |
+| --- | --- | --- |
+|  Hauteur Paromatique | 763.8 |   |
+|  Direction du vent | cr. 8 |   |
+|  Force | 1 |   |
+|  Mécanisme (Reg. G. (terre)) | 10 |   |
+|  Mécanisme (Reg. L. (mer)) | 10 |   |
+|  Direction des mages | 2.0 |   |
+|  Phie tombe |  |   |
+|  Température de l'air | 31.8 |   |
+|  Hauteur de la mer | 1.0 |   |
+|  Cigitation de l'eau | 1/2 à 8 |   |
+|  Densité au bout de la jetée | 1027.0 |   |
+|  Température de l'eau | 19.1 |   |
+```

@@ -1,0 +1,27 @@
+|  4.4 mai - 1905 | Moatin | Jous.  |
+| --- | --- | --- |
+|  Hauteur Paronctique | 262.1 | 255.1  |
+|  Direction du vent | v.v.o. | v.v.o.  |
+|  Poree | 2 | 1 fort  |
+|  Pécouloiste | 10 | 10  |
+|  (Reg. E. (mer)) |  |   |
+|  Direction des mages | M.11.0 | v.v.o.  |
+|  Pluie tombe | 1,62 | 1,52  |
+|  Température de l'air | 9,3 | 11,2  |
+|  Hauteur de la mer | 1/0.0 | 52.3  |
+|  Régitation de l'eau | 1 fort. | 1  |
+|  Bénéficiaire au bout de la jetée | 1028,1 | 1028,8  |
+|  Température de l'eau | 14,8 | 14,2  |
+|  4.5 mai - 1905 | Moatin | Jous.  |
+|  Hauteur Paronctique | 252.1 | 250.5  |
+|  Direction du vent | v.v.o. | v.v.o.  |
+|  Poree | 4 | 4  |
+|  Pécouloiste | 2 | 10  |
+|  (Reg. E. (mer)) |  |   |
+|  Direction des mages | v.v.o. | v.v.o.  |
+|  Pluie tombe | quelques | 14.8  |
+|  Température de l'air | 12.2 | 14.8  |
+|  Hauteur de la mer | 48.2 | 18.0  |
+|  Régitation de l'eau | 3 | 3  |
+|  Bénéficiaire au bout de la jetée | 1028,2 | 1028,6  |
+|  Température de l'eau | 11.0 | 11.1  |

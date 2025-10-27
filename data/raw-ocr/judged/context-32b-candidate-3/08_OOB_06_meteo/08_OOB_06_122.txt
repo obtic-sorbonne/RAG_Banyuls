@@ -1,0 +1,45 @@
+```plaintext
+| **OBSERVATIONS DU 1934 - 20 Février** |
+| --- |
+| **Nombre de bateaux sortis (pêche à l. minuit)** | [pas renseigné] |
+| **Température de l'air** |  |  |
+| - maxima depuis la veille | [pas renseigné] |
+| - minima id. | [pas renseigné] |
+| **Température de l'eau** |  |  |
+| - maxima depuis la veille | [pas renseigné] |
+| - minima id. | [pas renseigné] |
+| **Pluie tombée depuis la veille, en millim.** | 11.0 |
+| **Evaporation depuis le 1900, en millim.** | [pas renseigné] |
+| **Direction du vent (à terre)** | **à 9 h. m.** | **à 3 h. s.** |
+| - Force | N.N.O. | N.N.O. |
+| - Direction des nuages | N.O. | O. |
+| **Nébulosité** |  |  |
+| - région Ouest (terre) | 30 | 20 |
+| - id. Est (mer) | 19.3 | 61.0 |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.)** | 19.3 | 61.0 |
+| **Agitation de l'eau** | 2 (forte) | 2 |
+| **Densité de l'eau au bout de la jetée** | 1028.3 | 1028.3 |
+| **Température id.** | 11.0 | 11.0 |
+
+| **OBSERVATIONS DU 1934 - 21 Février** |
+| --- |
+| **Nombre de bateaux sortis (pêche à l. minuit)** | [pas renseigné] |
+| **Température de l'air** |  |  |
+| - maxima depuis la veille | [pas renseigné] |
+| - minima id. | [pas renseigné] |
+| **Température de l'eau** |  |  |
+| - maxima depuis la veille | [pas renseigné] |
+| - minima id. | [pas renseigné] |
+| **Pluie tombée depuis la veille, en millim.** | [pas renseigné] |
+| **Evaporation depuis le 1900, en millim.** | [pas renseigné] |
+| **Direction du vent (à terre)** | **à 9 h. m.** | **à 3 h. s.** |
+| - Force | N.N.O. | N.N.O. |
+| - Direction des nuages | N.E. | N.E. |
+| **Nébulosité** |  |  |
+| - région Ouest (terre) | légère | légère |
+| - id. Est (mer) | légère | légère |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.)** | 59.6 | 61.0 |
+| **Agitation de l'eau** | 2 | 2 |
+| **Densité de l'eau au bout de la jetée** | 1029.3 | 1029.0 |
+| **Température id.** | 10.0 | 11.0 |
+```

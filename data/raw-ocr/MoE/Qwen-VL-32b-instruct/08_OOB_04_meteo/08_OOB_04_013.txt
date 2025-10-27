@@ -1,0 +1,26 @@
+# V. 16 Octobre 1901
+
+|  **Pauleur** | **Pharométrique** | **V. 17.1** | **V. 17.2**  |
+| --- | --- | --- | --- |
+|  Direction du vent | or. or. |  |   |
+|  Force | 1/20h |  |   |
+|  Pénéclovite | Reg. G. (Terre) | 10 | 10  |
+|  Pénéclovite | Reg. L. (mer) | 10 | 10  |
+|  Direction des nuages | or. or. |  |   |
+|  Phuie tombée |  |  |   |
+|  Température de l'air | 17.4 |  |   |
+|  Hauteur de la mer | 27.8 |  |   |
+|  Égitation de l'eau | 2 |  |   |
+|  Sensible au bout de la jolie | 1027.2 |  |   |
+|  Température de l'eau | 17.7 |  |   |
+|  **V. 16 Octobre 1901** | **P. 17.1** | **V. 17.2** |   |
+|  Hauteur |  |  |   |
+|  Pénéclovite | Reg. G. (Terre) | 10 | 10  |
+|  Pénéclovite | Reg. L. (mer) | 10 | 10  |
+|  Direction des nuages | or. or. |  |   |
+|  Phuie tombée |  |  |   |
+|  Température de l'air | 17.7 |  |   |
+|  Hauteur de la mer | 28.7 |  |   |
+|  Égitation de l'eau | 2 |  |   |
+|  Sensible au bout de la jolie | 1027.4 |  |   |
+|  Température de l'eau | 17.7 |  |   |

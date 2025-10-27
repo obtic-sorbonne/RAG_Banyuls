@@ -1,0 +1,17 @@
+# Date: 7 Juillet 1901
+
+|  Item | Price  |
+| --- | --- |
+|  Yauteur Parométrique | 9% Stépatin 3% Soir  |
+|  Direction Su vent | 704,0  |
+|  Force | 100%  |
+|  Tributosite | 1 faible  |
+|  Reg. D. (mne) | 15,0  |
+|  Direction des nuages | "  |
+|  Tune tombée | "  |
+|  Température de l'air | 24,2  |
+|  Yauteur de la mer | 52,2  |
+|  Écartation de l'eau | 1 faible  |
+|  Densité de l'eau | 102,7  |
+|  en Range |   |
+|  Température de l'eau | 20,1  |

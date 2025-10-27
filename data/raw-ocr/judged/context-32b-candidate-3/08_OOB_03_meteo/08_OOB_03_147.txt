@@ -1,0 +1,18 @@
+# Date: 14 Mars 1902
+
+| **Heure** | 9h Matin | 3<sup>e</sup> Soir |
+| --- | --- | --- |
+| **Hauteur Barométrique** | 768.5 | 767.8 |
+| **Direction du vent** | 1 | 1 |
+| **Force** | 1 fort | 5.2 |
+| **Nébulosité** | 10 | 10 |
+| **Reg. O. (terre)** | 10 kgm. | 10 kgm. |
+| **Reg. E. (mer)** |  |  |
+| **Direction des nuages** | 10 kgm. | 10 kgm. |
+| **Pluie tombée** |  |  |
+| **Température de l'air** | 13.2 | 12.7 |
+| **Hauteur de la mer** | 37.5 | 33.3 |
+| **Agitation de l'eau** | 1 faible | 1 faible |
+| **Densité de l'eau** | 1027.9 | 1027.8 |
+| au large |  |  |
+| **Température de l'eau** | 12.3 | 12.7 |

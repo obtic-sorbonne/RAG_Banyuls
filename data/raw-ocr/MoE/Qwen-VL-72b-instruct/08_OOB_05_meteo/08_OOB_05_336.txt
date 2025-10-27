@@ -1,0 +1,29 @@
+| V. 31 Xbre 1907 | Matin | Soir |
+|----------------|-------|------|
+| Hauteur Barométrique | 7/3.7 | 7/3.0 |
+| Direction du Vent | S.O | O.R.O |
+| Force | 1 faible | 1 |
+| Nébulosité (Deg. C. Aire) | 0 | 10 |
+| Nébulosité (Reg. E. Cour) | 2 | 10 |
+| Direction des nuages | S.O | N.O |
+| Pluie Tombée | " | " |
+| Température de l'air | 9.3 | 11.2 |
+| Hauteur de la mer | 33.2 | 33.2 |
+| Agitation de l'eau | 1 | 1 fort |
+| Densité au bord de la jetée | 1028.3 | 1027.8 |
+| Température de l'eau | 14.8 | 14.8 |
+
+| V. 2 Janvier 1908 | Matin | Soir |
+|-------------------|-------|------|
+| Hauteur Barométrique | 761.1 | 769.7 |
+| Direction du Vent | S.O | S.E |
+| Force | 1 faible | 1 fort |
+| Nébulosité (Deg. C. Aire) | 10 | 10 |
+| Nébulosité (Reg. E. Cour) | 10 | 10 |
+| Direction des nuages | S.O | S.O |
+| Pluie Tombée | " | " |
+| Température de l'air | 9.6 | 11.7 |
+| Hauteur de la mer | 33.8 | 33.3 |
+| Agitation de l'eau | 1 | 1 fort |
+| Densité au bord de la jetée | 1028.1 | 1028.0 |
+| Température de l'eau | 14.6 | 14.0 |

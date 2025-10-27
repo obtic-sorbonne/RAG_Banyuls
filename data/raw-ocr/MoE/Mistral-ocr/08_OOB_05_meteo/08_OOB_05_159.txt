@@ -1,0 +1,27 @@
+|  7. 10 Octobre - 1905 | Mbatin | Poir  |
+| --- | --- | --- |
+|  Hauteur Worométrique | 754,8 | 762,2  |
+|  Direction du vent | 1,8 | 1,8  |
+|  Force | 3 fort | 3 fort  |
+|  Mibutivité | 10 | 10  |
+|  Direction des images | 10 | 10  |
+|  Pluie tombée | gristine, 3 | gristine, 3  |
+|  Demporaine de l'air | 38,3 | 34,0  |
+|  Hauteur de la mer | 37,3 | 34,0  |
+|  Cessation de l'eau | 17,60 | 3  |
+|  Densité au bout de la jetée | 10,28,3 | 10,28,3  |
+|  Demporaine de l'eau | 18,7 | 18,7  |
+
+|  7. 11 Octobre - 1905 | Mbatin | Poir  |
+| --- | --- | --- |
+|  Hauteur Worométrique | 7,8,7 | 760,3  |
+|  Direction du vent | 10,0 | 10,0  |
+|  Force | 37,60 | 3  |
+|  Mibutivité | 10 | 10  |
+|  Direction des images | 8,7,8 | 10  |
+|  Pluie tombée | 4,2,0 | 11,7  |
+|  Demporaine de l'air | 13,8 | 14,3  |
+|  Hauteur de la mer | 3 | 3  |
+|  Cessation de l'eau | 1 fort | 3 fort  |
+|  Densité au bout de la jetée | 6 | 6  |
+|  Demporaine de l'eau | 7 | 7  |

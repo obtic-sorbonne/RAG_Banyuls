@@ -1,0 +1,49 @@
+```plaintext
+### OBSERVATIONS DU 1902 23 Mars
+
+| **Nombre de bateaux sortis (pêche à l.)** |  | **17.9** |
+| **Température de l'air** | maxima depuis la veille | **17.9** |
+|  | minima id. | **10.3** |
+| **Température de l'eau** | maxima depuis la veille |  |
+|  | minima id. |  |
+| **Pluie tombée depuis la veille, en millim.** | **quelques gouttes** |  |
+| **Évaporation depuis le 1900, en millim.** |  |  |
+| **Direction du vent (à terre)** | **à 9 h. m.** | **Nord-Ouest** |
+|  | **à 3 h. s.** | **Nord-Ouest** |
+| **Force** |  | **3 forts** |
+| **Direction des nuages** |  | **Nord-Ouest** |
+| **Nébulosité** | région Ouest (terre) | **10** |
+|  | id. Est (mer) | **10** |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B. R.)** |  | **58.2** |
+| **Agitation de l'eau** |  | **2** |
+| **Densité de l'eau au bout de la jetée** |  | **1.028.0** |
+| **Température** |  |  |
+| - id. Matin | **12.6** |  |
+| - id. Midi | **21.3** |  |
+| - id. Soir | **12.6** |  |
+| - id. Nuit | **8.1** |  |
+
+### OBSERVATIONS DU 1902 24 Mars
+
+| **Nombre de bateaux sortis (pêche à l.)** |  | **22.9** |
+| **Température de l'air** | maxima depuis la veille | **22.9** |
+|  | minima id. | **14.1** |
+| **Température de l'eau** | maxima depuis la veille |  |
+|  | minima id. |  |
+| **Pluie tombée depuis la veille, en millim.** |  |  |
+| **Évaporation depuis le 1900, en millim.** |  |  |
+| **Direction du vent (à terre)** | **à 9 h. m.** | **Nord** |
+|  | **à 3 h. s.** | **Nord** |
+| **Force** |  | **1 fort** |
+| **Direction des nuages** |  | **Nord** |
+| **Nébulosité** | région Ouest (terre) | **0** |
+|  | id. Est (mer) | **0** |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B. R.)** |  | **57.4** |
+| **Agitation de l'eau** |  | **1 fort** |
+| **Densité de l'eau au bout de la jetée** |  | **1.028.0** |
+| **Température** |  |  |
+| - id. Matin |  |  |
+| - id. Midi |  |  |
+| - id. Soir |  |  |
+| - id. Nuit | **18.7** |  |
+```

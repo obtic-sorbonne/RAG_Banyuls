@@ -1,0 +1,31 @@
+# V. 23 (Noir - 1903) Matin Soir
+
+|  Hanteur | Pourrente |   |
+| --- | --- | --- |
+|  Direction du vent | 20.8 |   |
+|  Force | 2 |   |
+|  Reg. O. (lire) | 2 |   |
+|  Substante | Reg. E. (mer) |   |
+|  Direction des mays | 27.6 |   |
+|  Mise tombée |  |   |
+|  Température de l'air | 28.8 |   |
+|  Hanteur de la mer | 40.1 |   |
+|  Écartation de l'eau | 1 |   |
+|  Densité au bout de la jetée | 10.2 |   |
+|  Température de l'eau | 31.4 |   |
+
+# V. 24 (Noir - 1903) Matin Soir
+
+|  Hanteur | Pourrente |   |
+| --- | --- | --- |
+|  Direction du vent | 20.7 | 20.8  |
+|  Force | 1 | 2  |
+|  Reg. O. (lire) | 1 |   |
+|  Substante | Reg. E. (mer) |   |
+|  Direction des mays | 20.0 | 10.0  |
+|  Mise tombée |  |   |
+|  Température de l'air | 24.8 | 24.8  |
+|  Hanteur de la mer | 41.8 | 14.2  |
+|  Écartation de l'eau | 1 | 1  |
+|  Densité au bout de la jetée | 10.2 | 10.2  |
+|  Température de l'eau | 30.8 | 30.6  |

@@ -1,0 +1,569 @@
+2025-09-08 16:14:21,621 - INFO - Initialized LLM Judge with provider: openrouter
+2025-09-08 16:14:21,646 - INFO - Processing book: 08_OOB_04_meteo | Type: meteo
+2025-09-08 16:14:21,657 - INFO - Processing data/raw-ocr/judged/context-32b-candidate-3/08_OOB_04_meteo/08_OOB_04_001.txt
+2025-09-08 16:14:21,657 - INFO - Prompt
+ 
+## Historical Document Transcription Review ##
+
+You are an expert archivist specializing in 18th-19th century maritime documents. 
+Your task is to evaluate multiple OCR transcriptions of the same page and produce 
+a single authoritative version optimized for historical research and RAG systems.
+
+You are processing a historical weather register. Pay special attention to:
+- Numerical data and measurement units
+- Tabular structures and alignment
+- Meteorological symbols and abbreviations
+- Consistency across daily records
+Maintain exact numerical values and table formatting.
+
+### Context from Previous Pages ###
+No previous pages available
+
+### Context from Next Pages ###
+--- Next Page 1 ---
+.
+
+--- Next Page 2 ---
+.
+
+--- Next Page 3 ---
+![img-0.jpeg](img-0.jpeg)
+des
+Observations
+
+
+### OCR Candidates for Current Page ###
+=== Candidate from Qwen-VL-32b-instruct ===
+.
+
+=== Candidate from Mistral-ocr ===
+.
+
+=== Candidate from Kraken-ocr ===
+2
+1
+*Io
+D 38
+(o
+
+### Evaluation Guidelines ###
+1. Accuracy: Select the most faithful representation of the original document
+2. Completeness: Prefer versions with less missing text
+3. Consistency: Maintain flow with previous pages (dates, terminology)
+4. Formatting: Preserve original line breaks, paragraphs, and layout
+5. Error Handling: Only correct obvious OCR errors (e.g., 'mαrina' → 'marina')
+6. Ambiguity: Mark uncertain readings with [sic?] but preserve original
+7. Context Awareness: Use both previous and next pages to resolve ambiguities
+
+### Output Requirements ###
+- Return ONLY the final curated text
+- Maintain original language (French)
+- Preserve historical spellings
+- Include all marginal notes in context
+- Never add explanatory text
+- For tables: maintain alignment with monospace formatting
+- If the page is empty or empty content return""
+
+
+2025-09-08 16:14:21,657 - INFO - Skipping existing data/raw-ocr/judged/context-32b-candidate-3/08_OOB_04_meteo/08_OOB_04_001.txt
+2025-09-08 16:14:23,175 - INFO - Processing data/raw-ocr/judged/context-32b-candidate-3/08_OOB_04_meteo/08_OOB_04_002.txt
+2025-09-08 16:14:23,175 - INFO - Prompt
+ 
+## Historical Document Transcription Review ##
+
+You are an expert archivist specializing in 18th-19th century maritime documents. 
+Your task is to evaluate multiple OCR transcriptions of the same page and produce 
+a single authoritative version optimized for historical research and RAG systems.
+
+You are processing a historical weather register. Pay special attention to:
+- Numerical data and measurement units
+- Tabular structures and alignment
+- Meteorological symbols and abbreviations
+- Consistency across daily records
+Maintain exact numerical values and table formatting.
+
+### Context from Previous Pages ###
+--- Previous Page 1 ---
+```
+2
+1
+10
+D 38
+```
+
+### Context from Next Pages ###
+--- Next Page 1 ---
+.
+
+--- Next Page 2 ---
+![img-0.jpeg](img-0.jpeg)
+des
+Observations
+
+--- Next Page 3 ---
+V- 27 Septembre-1901 (Quite)
+
+|  Nauteur Barométrique | Matin | Soir  |
+| --- | --- | --- |
+|  Direction du vent | 767.7 | 767.6  |
+|  Force | 3.7 | 3.7  |
+|  Nœbutosité | 1.6 | 0.6  |
+|  Reg. D. (mer) | 2.6 | 2.6  |
+|  Direction des nuages | 0.0 | 0.0  |
+|  Unic tombé | 20.0 | 21.6  |
+|  Température de l'air | 47.6 | 48.4  |
+|  Nauteur de la mer | 3 | 3  |
+|  Égitation de l'eau | 1087.8 | 1086.9  |
+|  Sensité au bout de la jolie | 17.7 | 17.7  |
+|  Température de l'eau | 17.7 | 17.7  |
+
+V- 30 Septembre-1901
+
+|  Nauteur Barométrique | Matin | Soir  |
+| --- | --- | --- |
+|  Direction du vent | 769.4 | 769.8  |
+|  Force | 1.7 | 1.7  |
+|  Nœbutosité | 10 | 10  |
+|  Reg. D. (mer) | 10 | 10  |
+|  Direction des nuages | 21.5 | 21.5  |
+|  Unic tombé | 0.078 | 0.011  |
+|  Température de l'air | 18.6 | 18.4  |
+|  Nauteur de la mer | 34.7 | 48.8  |
+|  Égitation de l'eau | 3.7 | 3.7  |
+|  Sensité au bout de la jolie | 1087.7 | 1087.0  |
+|  Température de l'eau | 17.7 | 18.0  |
+
+
+### OCR Candidates for Current Page ###
+=== Candidate from Qwen-VL-32b-instruct ===
+.
+
+=== Candidate from Mistral-ocr ===
+.
+
+=== Candidate from Kraken-ocr ===
+ef
+7
+
+"
+E.
+1E.
+M.
+DAI
+A
+DE
+DES
+Ds
+ACE
+E
+
+
+ 
+
+2
+C
+7288
+1-
+3
+
+Mte"
+Sulte mb^os
+mo .M- ..
+I.
+ERlIE
+I
+7
+D
+D
+
+### Evaluation Guidelines ###
+1. Accuracy: Select the most faithful representation of the original document
+2. Completeness: Prefer versions with less missing text
+3. Consistency: Maintain flow with previous pages (dates, terminology)
+4. Formatting: Preserve original line breaks, paragraphs, and layout
+5. Error Handling: Only correct obvious OCR errors (e.g., 'mαrina' → 'marina')
+6. Ambiguity: Mark uncertain readings with [sic?] but preserve original
+7. Context Awareness: Use both previous and next pages to resolve ambiguities
+
+### Output Requirements ###
+- Return ONLY the final curated text
+- Maintain original language (French)
+- Preserve historical spellings
+- Include all marginal notes in context
+- Never add explanatory text
+- For tables: maintain alignment with monospace formatting
+- If the page is empty or empty content return""
+
+
+2025-09-08 16:14:23,175 - INFO - Skipping existing data/raw-ocr/judged/context-32b-candidate-3/08_OOB_04_meteo/08_OOB_04_002.txt
+2025-09-08 16:14:24,681 - INFO - Processing data/raw-ocr/judged/context-32b-candidate-3/08_OOB_04_meteo/08_OOB_04_003.txt
+2025-09-08 16:14:24,681 - INFO - Prompt
+ 
+## Historical Document Transcription Review ##
+
+You are an expert archivist specializing in 18th-19th century maritime documents. 
+Your task is to evaluate multiple OCR transcriptions of the same page and produce 
+a single authoritative version optimized for historical research and RAG systems.
+
+You are processing a historical weather register. Pay special attention to:
+- Numerical data and measurement units
+- Tabular structures and alignment
+- Meteorological symbols and abbreviations
+- Consistency across daily records
+Maintain exact numerical values and table formatting.
+
+### Context from Previous Pages ###
+--- Previous Page 1 ---
+```
+2
+1
+10
+D 38
+```
+
+--- Previous Page 2 ---
+```
+V- 29 Septembre-1901
+
+|  Nauteur Barométrique | Matin | Soir  |
+| --- | --- | --- |
+|  Direction du vent | 769.3 | 769.0  |
+|  Force | 2.1 | 2.1  |
+|  Nœbutosité | 2.0 | 1.0  |
+|  Reg. D. (mer) | 3.0 | 3.0  |
+|  Direction des nuages | 0.0 | 0.0  |
+|  Unic tombé | 0.0 | 0.0  |
+|  Température de l'air | 19.4 | 19.2  |
+|  Nauteur de la mer | 3 | 3  |
+|  Égitation de l'eau | 1088.0 | 1087.2  |
+|  Sensité au bout de la jolie | 17.7 | 17.7  |
+|  Température de l'eau | 17.7 | 17.7  |
+```
+
+### Context from Next Pages ###
+--- Next Page 1 ---
+![img-0.jpeg](img-0.jpeg)
+des
+Observations
+
+--- Next Page 2 ---
+V- 27 Septembre-1901 (Quite)
+
+|  Nauteur Barométrique | Matin | Soir  |
+| --- | --- | --- |
+|  Direction du vent | 767.7 | 767.6  |
+|  Force | 3.7 | 3.7  |
+|  Nœbutosité | 1.6 | 0.6  |
+|  Reg. D. (mer) | 2.6 | 2.6  |
+|  Direction des nuages | 0.0 | 0.0  |
+|  Unic tombé | 20.0 | 21.6  |
+|  Température de l'air | 47.6 | 48.4  |
+|  Nauteur de la mer | 3 | 3  |
+|  Égitation de l'eau | 1087.8 | 1086.9  |
+|  Sensité au bout de la jolie | 17.7 | 17.7  |
+|  Température de l'eau | 17.7 | 17.7  |
+
+V- 30 Septembre-1901
+
+|  Nauteur Barométrique | Matin | Soir  |
+| --- | --- | --- |
+|  Direction du vent | 769.4 | 769.8  |
+|  Force | 1.7 | 1.7  |
+|  Nœbutosité | 10 | 10  |
+|  Reg. D. (mer) | 10 | 10  |
+|  Direction des nuages | 21.5 | 21.5  |
+|  Unic tombé | 0.078 | 0.011  |
+|  Température de l'air | 18.6 | 18.4  |
+|  Nauteur de la mer | 34.7 | 48.8  |
+|  Égitation de l'eau | 3.7 | 3.7  |
+|  Sensité au bout de la jolie | 1087.7 | 1087.0  |
+|  Température de l'eau | 17.7 | 18.0  |
+
+--- Next Page 3 ---
+# 7. 1er Octobre. 1901
+
+|  Kauteur Maronctique | Matin | Soir  |
+| --- | --- | --- |
+|  Direction du vent | 703.7 | 702.3  |
+|  Force | 8.5.8 | 84  |
+|  (Reg. O. (terre)) | 1 | 1 faible  |
+|  (Reg. E. (mer)) | 10 | 10  |
+|  Direction des nuages | 84 | 0.000  |
+|  Flux tombee | 0.020 | 0.003  |
+|  Température de l'air | 18,5 | 18,5  |
+|  Kauteur de la mer | 81,1 | 80,2  |
+|  (F. (f. 1) | 4 fort | 1 fort  |
+|  (F. (f. 2) | 1087,5 | 1025,7  |
+|  Température de l'eau | 17,5 | 17,5  |
+
+|  Kauteur Maronctique | Matin | Soir  |
+| --- | --- | --- |
+|  Direction du vent | 703.4 | 703.3  |
+|  Force | 7.5.8 | 7.5.8  |
+|  (Reg. O. (terre)) | 10 | 10  |
+|  (Reg. E. (mer)) | 10 | 10  |
+|  Direction des nuages | 0.002 | 0.003  |
+|  Flux tombee | 0.002 | 0.003  |
+|  Température de l'air | 18,4 | 17,8  |
+|  Kauteur de la mer | 84,1 | 89,3  |
+|  (F. (f. 1) | 4 | 3  |
+|  (F. (f. 2) | 1087,1 | 1026,6  |
+|  Température de l'eau | 17,8 | 17,3  |
+
+
+### OCR Candidates for Current Page ###
+=== Candidate from Qwen-VL-32b-instruct ===
+.
+
+=== Candidate from Mistral-ocr ===
+.
+
+=== Candidate from Kraken-ocr ===
+N
+BE
+EETRTES
+Do
+PBE
+E
+2
+(EE
+NE
+M 
+EEIRE
+ERES
+Bineaelle ui .
+BMR 
+BEE
+PNBAE
+ERE
+2
+E
+BETOIE
+MR
+(S M
+EETES
+NE EEUS
+ERTES
+CE
+2
+ATES
+
+### Evaluation Guidelines ###
+1. Accuracy: Select the most faithful representation of the original document
+2. Completeness: Prefer versions with less missing text
+3. Consistency: Maintain flow with previous pages (dates, terminology)
+4. Formatting: Preserve original line breaks, paragraphs, and layout
+5. Error Handling: Only correct obvious OCR errors (e.g., 'mαrina' → 'marina')
+6. Ambiguity: Mark uncertain readings with [sic?] but preserve original
+7. Context Awareness: Use both previous and next pages to resolve ambiguities
+
+### Output Requirements ###
+- Return ONLY the final curated text
+- Maintain original language (French)
+- Preserve historical spellings
+- Include all marginal notes in context
+- Never add explanatory text
+- For tables: maintain alignment with monospace formatting
+- If the page is empty or empty content return""
+
+
+2025-09-08 16:14:24,682 - INFO - Skipping existing data/raw-ocr/judged/context-32b-candidate-3/08_OOB_04_meteo/08_OOB_04_003.txt
+2025-09-08 16:14:26,197 - INFO - Processing data/raw-ocr/judged/context-32b-candidate-3/08_OOB_04_meteo/08_OOB_04_004.txt
+2025-09-08 16:14:26,197 - INFO - Prompt
+ 
+## Historical Document Transcription Review ##
+
+You are an expert archivist specializing in 18th-19th century maritime documents. 
+Your task is to evaluate multiple OCR transcriptions of the same page and produce 
+a single authoritative version optimized for historical research and RAG systems.
+
+You are processing a historical weather register. Pay special attention to:
+- Numerical data and measurement units
+- Tabular structures and alignment
+- Meteorological symbols and abbreviations
+- Consistency across daily records
+Maintain exact numerical values and table formatting.
+
+### Context from Previous Pages ###
+--- Previous Page 1 ---
+```
+2
+1
+10
+D 38
+```
+
+--- Previous Page 2 ---
+```
+V- 29 Septembre-1901
+
+|  Nauteur Barométrique | Matin | Soir  |
+| --- | --- | --- |
+|  Direction du vent | 769.3 | 769.0  |
+|  Force | 2.1 | 2.1  |
+|  Nœbutosité | 2.0 | 1.0  |
+|  Reg. D. (mer) | 3.0 | 3.0  |
+|  Direction des nuages | 0.0 | 0.0  |
+|  Unic tombé | 0.0 | 0.0  |
+|  Température de l'air | 19.4 | 19.2  |
+|  Nauteur de la mer | 3 | 3  |
+|  Égitation de l'eau | 1088.0 | 1087.2  |
+|  Sensité au bout de la jolie | 17.7 | 17.7  |
+|  Température de l'eau | 17.7 | 17.7  |
+```
+
+--- Previous Page 3 ---
+```
+V- 28 Septembre-1901
+
+|  Nauteur Barométrique | Matin | Soir  |
+| --- | --- | --- |
+|  Direction du vent | 768.5 | 768.2  |
+|  Force | 2.4 | 2.4  |
+|  Nœbutosité | 1.8 | 1.2  |
+|  Reg. D. (mer) | 2.8 | 2.8  |
+|  Direction des nuages | 0.0 | 0.0  |
+|  Unic tombé | 0.0 | 0.0  |
+|  Température de l'air | 20.0 | 19.8  |
+|  Nauteur de la mer | 3 | 3  |
+|  Égitation de l'eau | 1088.1 | 1087.4  |
+|  Sensité au bout de la jolie | 17.7 | 17.7  |
+|  Température de l'eau | 17.7 | 17.7  |
+```
+
+### Context from Next Pages ###
+--- Next Page 1 ---
+V- 27 Septembre-1901 (Quite)
+
+|  Nauteur Barométrique | Matin | Soir  |
+| --- | --- | --- |
+|  Direction du vent | 767.7 | 767.6  |
+|  Force | 3.7 | 3.7  |
+|  Nœbutosité | 1.6 | 0.6  |
+|  Reg. D. (mer) | 2.6 | 2.6  |
+|  Direction des nuages | 0.0 | 0.0  |
+|  Unic tombé | 20.0 | 21.6  |
+|  Température de l'air | 47.6 | 48.4  |
+|  Nauteur de la mer | 3 | 3  |
+|  Égitation de l'eau | 1087.8 | 1086.9  |
+|  Sensité au bout de la jolie | 17.7 | 17.7  |
+|  Température de l'eau | 17.7 | 17.7  |
+
+V- 30 Septembre-1901
+
+|  Nauteur Barométrique | Matin | Soir  |
+| --- | --- | --- |
+|  Direction du vent | 769.4 | 769.8  |
+|  Force | 1.7 | 1.7  |
+|  Nœbutosité | 10 | 10  |
+|  Reg. D. (mer) | 10 | 10  |
+|  Direction des nuages | 21.5 | 21.5  |
+|  Unic tombé | 0.078 | 0.011  |
+|  Température de l'air | 18.6 | 18.4  |
+|  Nauteur de la mer | 34.7 | 48.8  |
+|  Égitation de l'eau | 3.7 | 3.7  |
+|  Sensité au bout de la jolie | 1087.7 | 1087.0  |
+|  Température de l'eau | 17.7 | 18.0  |
+
+--- Next Page 2 ---
+# 7. 1er Octobre. 1901
+
+|  Kauteur Maronctique | Matin | Soir  |
+| --- | --- | --- |
+|  Direction du vent | 703.7 | 702.3  |
+|  Force | 8.5.8 | 84  |
+|  (Reg. O. (terre)) | 1 | 1 faible  |
+|  (Reg. E. (mer)) | 10 | 10  |
+|  Direction des nuages | 84 | 0.000  |
+|  Flux tombee | 0.020 | 0.003  |
+|  Température de l'air | 18,5 | 18,5  |
+|  Kauteur de la mer | 81,1 | 80,2  |
+|  (F. (f. 1) | 4 fort | 1 fort  |
+|  (F. (f. 2) | 1087,5 | 1025,7  |
+|  Température de l'eau | 17,5 | 17,5  |
+
+|  Kauteur Maronctique | Matin | Soir  |
+| --- | --- | --- |
+|  Direction du vent | 703.4 | 703.3  |
+|  Force | 7.5.8 | 7.5.8  |
+|  (Reg. O. (terre)) | 10 | 10  |
+|  (Reg. E. (mer)) | 10 | 10  |
+|  Direction des nuages | 0.002 | 0.003  |
+|  Flux tombee | 0.002 | 0.003  |
+|  Température de l'air | 18,4 | 17,8  |
+|  Kauteur de la mer | 84,1 | 89,3  |
+|  (F. (f. 1) | 4 | 3  |
+|  (F. (f. 2) | 1087,1 | 1026,6  |
+|  Température de l'eau | 17,8 | 17,3  |
+
+--- Next Page 3 ---
+# 3.3 Octobre. 1901 - Matin Soir
+
+|  Nom | Date | Type  |
+| --- | --- | --- |
+|  Xanten Paromatique | 266,1 | 264,2  |
+|  Direction du vent | 0005 | 000,0  |
+|  Force | 1 foot | 3  |
+|  Pég. G. (erre) | 1 | 4  |
+|  Débutosité |  |   |
+|  1 Reg. E. (mer) | 2 | 2  |
+|  Direction des nuages | 0,005 | 0,005  |
+|  Fluc tombée | 0,005 | 0,005  |
+|  Température de l'air | 17,2 | 18,1  |
+|  1/2 2 1/2 2 1/2 2 1/2 2 1/2 2 1/2 2 1/2 2 1/2 2 1/2 2 1/2 2 1/2 2 1/2 2 1/2 2 1/2 2 1/2 2 1/2 2 1/2  |
+|  2 1/2 2 1/2 2 1/2...
+
+
+### OCR Candidates for Current Page ###
+=== Candidate from Qwen-VL-32b-instruct ===
+![img-0.jpeg](img-0.jpeg)
+des
+Observations
+
+=== Candidate from Mistral-ocr ===
+![img-0.jpeg](img-0.jpeg)
+des
+Observations
+
+=== Candidate from Kraken-ocr ===
+1
+2
+1
+1
+1.
+D
+D
+des
+
+Dmnu
+2
+Veandiré
+6
+D
+1
+9
+C
+secralioras
+D
+CTET SIILLEAMREA enred PMPAP NmubmnN Cue
+
+### Evaluation Guidelines ###
+1. Accuracy: Select the most faithful representation of the original document
+2. Completeness: Prefer versions with less missing text
+3. Consistency: Maintain flow with previous pages (dates, terminology)
+4. Formatting: Preserve original line breaks, paragraphs, and layout
+5. Error Handling: Only correct obvious OCR errors (e.g., 'mαrina' → 'marina')
+6. Ambiguity: Mark uncertain readings with [sic?] but preserve original
+7. Context Awareness: Use both previous and next pages to resolve ambiguities
+
+### Output Requirements ###
+- Return ONLY the final curated text
+- Maintain original language (French)
+- Preserve historical spellings
+- Include all marginal notes in context
+- Never add explanatory text
+- For tables: maintain alignment with monospace formatting
+- If the page is empty or empty content return""
+
+
+2025-09-08 16:14:26,197 - INFO - Skipping existing data/raw-ocr/judged/context-32b-candidate-3/08_OOB_04_meteo/08_OOB_04_004.txt

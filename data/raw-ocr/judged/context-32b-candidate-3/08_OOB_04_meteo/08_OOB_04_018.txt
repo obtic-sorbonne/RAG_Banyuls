@@ -1,0 +1,35 @@
+# V. 27 Octobre 1901
+
+|  Nom | Matin | Soir  |
+| --- | --- | --- |
+|  Hauteur Barométrique | 70.5 | 70.5  |
+|  Direction du vent | 0.0 | 0.0  |
+|  Force | 15 | 15  |
+|  Nébulosité | 10 | 10  |
+|  Reg. G. (terre) | 10 | 10  |
+|  Reg. G. (mer) | 10 | 10  |
+|  Direction des nuages | 0.0 | 0.0  |
+|  Pluie tombée | 0.0 | 0.0  |
+|  Température de l'air | 18.7 | 18.7  |
+|  Hauteur de la mer | 34.7 | 34.7  |
+|  Agitation de l'eau | 3 | 3  |
+|  Densité au bout de la jetée | 1027.0 | 1027.0  |
+|  Température de l'eau | 15.3 | 15.3  |
+
+# V. 28 Octobre 1901
+
+|  Nom | Matin | Soir  |
+| --- | --- | --- |
+|  Hauteur Barométrique | 70.5 | 70.5  |
+|  Direction du vent | 0.0 | 0.0  |
+|  Force | 15 | 15  |
+|  Nébulosité | 0 | 0  |
+|  Reg. G. (terre) | 0 | 0  |
+|  Reg. G. (mer) | 0 | 0  |
+|  Direction des nuages | 0.0 | 0.0  |
+|  Pluie tombée | 0.0 | 0.0  |
+|  Température de l'air | 13.0 | 13.0  |
+|  Hauteur de la mer | 33.8 | 33.8  |
+|  Agitation de l'eau | 3.5 | 3.5  |
+|  Densité au bout de la jetée | 1027.4 | 1027.4  |
+|  Température de l'eau | 15.1 | 15.1  |

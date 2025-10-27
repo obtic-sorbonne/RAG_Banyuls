@@ -1,0 +1,16 @@
+# Date: 4 Avril 1902
+
+| **Mesure** | **9 H Matin** | **3 H Soir** |
+| --- | --- | --- |
+| **Hauteur Barométrique** | 762.5 | 762.6 |
+| **Direction du vent** | Est | S.S.E. |
+| **Force** | 1<sup>re</sup> faible | 3<sup>e</sup> moyenne |
+| **Nébulosité (Reg. O. - Terre)** | 10 | 10 |
+| **Nébulosité (Reg. E. - Ciel)** | 10 | 10 |
+| **Direction des nuages** | Est | S.S.E. |
+| **Pluie tombée** | 1.0 mm | 0 mm |
+| **Température de l'air** | 17.6 °C | 17.2 °C |
+| **Hauteur de la mer** | 49.4 m | 46.6 m |
+| **Agitation de l'eau (à bout de la jetée)** | 1<sup>e</sup> faible | 1<sup>e</sup> faible |
+| **Agitation de l'eau (au large)** | 1027.8 | 1027.8 |
+| **Température de l'eau** | 13.2 °C | 14.5 °C |

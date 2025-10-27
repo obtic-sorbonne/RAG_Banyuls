@@ -1,0 +1,43 @@
+### Transcription du registre d'observations météorologiques
+
+---
+
+#### **Vendredi 26 mai 1904**
+
+| **Paramètres**                  | **Matin**         | **Soir**          |
+|---------------------------------|-------------------|-------------------|
+| Hauteur Barométrique            | 762.9             | 762.3             |
+| Direction du vent               | S. E.             | S. E.             |
+| Force                           | 1                 | 2                 |
+| Nébulosité                      |                   |                   |
+|   - Reg. 0. (ciel)              | 0                 | 10                |
+|   - Reg. 2. (nuages)            | 2                 | 10                |
+| Direction des nuages            |                   | cr. O.            |
+| Pluie tombée                    |                   | quelques g.       |
+| Température de l'air            | 19.8              | 22.3              |
+| Hauteur de la mer               | 12.7              | 12.3              |
+| Agitation de l'eau              | 1 fort            | 1 fort            |
+| Densité au bout de la jetée     | 1027.7            | 1027.7            |
+| Température de l'eau            | 17.7              | 17.7              |
+
+---
+
+#### **Dimanche 28 mai 1904**
+
+| **Paramètres**                  | **Matin**         | **Soir**          |
+|---------------------------------|-------------------|-------------------|
+| Hauteur Barométrique            | 768.1             | 766.4             |
+| Direction du vent               | cr. nord-ouest    | S. S. E.          |
+| Force                           | 1 fort            | 1                 |
+| Nébulosité                      |                   |                   |
+|   - Reg. 0. (ciel)              | légère            | 10                |
+|   - Reg. 2. (nuages)            | légère            | cr. O.            |
+| Direction des nuages            | cr. O.            |                   |
+| Pluie tombée                    |                   |                   |
+| Température de l'air            | 23.6              | 29.0              |
+| Hauteur de la mer               | 11.6              | 11.3              |
+| Agitation de l'eau              | faible            | 1 faible          |
+| Densité au bout de la jetée     | 1028.0            | 1027.3            |
+| Température de l'eau            | 18.6              | 20.0              |
+
+---

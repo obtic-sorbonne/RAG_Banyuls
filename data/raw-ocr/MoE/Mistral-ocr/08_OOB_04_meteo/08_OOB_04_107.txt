@@ -1,0 +1,29 @@
+|  4. 21 Juin. 1902 | Matin | Soir  |
+| --- | --- | --- |
+|  Hanteur Mrawmedrique | 261,3 | 266,2  |
+|  Direction Su vent | crant | 11,5  |
+|  Force | 17, part | 1  |
+|  Mébularité | Reg. O. (rare) | 8,5  |
+|  Mébularité | Reg. E. (mer) | 0  |
+|  Direction des images | crant | cr. 4.0  |
+|  Mise tombe |  |   |
+|  Comprendre de l'air | 20,0 | 88,3  |
+|  Hanteur de la mer | 49,3 | 18,2  |
+|  Régulation de l'eau | 1,5ube | 17,5  |
+|  Densité au bout de la jetée | 1088,0 | 1082,2  |
+|  Comprendre de l'eau | 12,6 | 19,8  |
+
+|  4. 21 Juin. 1902 | Matin | Soir  |
+| --- | --- | --- |
+|  Hanteur Mrawmedrique | 261,2 | 260,3  |
+|  Direction Su vent |  | 2,28  |
+|  Force |  | 1,5  |
+|  Mébularité | Reg. O. (rare) | 0  |
+|  Mébularité | Reg. E. (mer) | 0  |
+|  Direction des images |  |   |
+|  Mise tombe |  |   |
+|  Comprendre de l'air | 21,6 | 28,4  |
+|  Hanteur de la mer | 43,3 | 10,3  |
+|  Régulation de l'eau |  | 17,5  |
+|  Densité au bout de la jetée | 1082,3 | 1086,8  |
+|  Comprendre de l'eau | 19,3 | 21,8  |

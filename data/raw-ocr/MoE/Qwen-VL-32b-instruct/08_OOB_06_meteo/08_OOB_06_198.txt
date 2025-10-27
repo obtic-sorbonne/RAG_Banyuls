@@ -1,0 +1,53 @@
+| **Observations du 18 septembre 1901** |
+| --- |
+| **Nombre de bateaux sortis (pêche à l.)** | 26,8 |
+| **Température de l'air** |  |
+| maxima depuis la veille | 26,8 |
+| minima id. | 14,3 |
+| **Température de l'eau** |  |
+| maxima depuis la veille |  |
+| minima id. |  |
+| **Pluie tombée depuis la veille, en millim.** | 3,79 |
+| **Evaporation depuis le 11 juillet 1901, en millim.** | 4,44 |
+| **Direction du vent (à terre)** | Nord |  |
+| **Force** | 4 |  |
+| **Direction des nuages** | Nord |  |
+| **Nébulosité** |  |  |
+| région Ouest (terre) | 10 |  |
+| id. Est (mer) | 10 |  |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro** | 2 |  |
+| **Agitation de l'eau** | 2 |  |
+| **Densité de l'eau au bout de la jetée** | 1,26/7 | 24,0 |
+| **Température id.** |  |  |
+| terrestre Matin (maxima) | 31,6 | 8,1 |
+| (minima) |  |  |
+| terrestre Lever (maxima) | 31,6 |  |
+| (minima) |  | 24,0 |
+
+---
+
+| **Observations du 19 septembre 1901** |
+| --- |
+| **Nombre de bateaux sortis (pêche à l.)** | 29,8 |
+| **Température de l'air** |  |
+| maxima depuis la veille | 29,8 |
+| minima id. | 16,0 |
+| **Température de l'eau** |  |
+| maxima depuis la veille |  |
+| minima id. |  |
+| **Pluie tombée depuis la veille, en millim.** |  |
+| **Evaporation depuis le 1901, en millim.** |  |
+| **Direction du vent (à terre)** | S.S.东方 | S.S.东方 |
+| **Force** | 10° (faible) | 10° (fort) |
+| **Direction des nuages** | 19° p.p.e | 19° p.p.e |
+| **Nébulosité** |  |  |
+| région Ouest (terre) | 2 légères | 2 légères |
+| id. Est (mer) | 3 légères | 2 |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro** | 46,0 | 29,4 |
+| **Agitation de l'eau** | 2 faibles | 1 faible |
+| **Densité de l'eau au bout de la jetée** | 1,22/7 | 1,21/7 |
+| **Température id.** | 23,8 | 24.0 |
+| terrestre Matin (maxima) | 34,1 | 24,8 |
+| (minima) | 11,4 |  |
+| terrestre Lever (maxima) | 34,3 | 24,0 |
+| (minima) |  | 24,8 |

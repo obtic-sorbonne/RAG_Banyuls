@@ -1,0 +1,15 @@
+```markdown
+# 25 Avril 1907
+
+| **Date**       | **Horaire** | **Hauteur Barométrique** | **Direction du Vent** | **Force** | **Réglage** | **Nébulosité (0/10)** | **Direction des nuages** | **Pluie Tombée** | **Température de l'air** | **Hauteur de la mer (cm)** | **Agitation de l'eau** | **Densité au bout de la jetée** | **Température de l'eau** |
+|----------------|-------------|--------------------------|-----------------------|-----------|-------------|-----------------------|--------------------------|------------------|--------------------------|---------------------------|-----------------------|-------------------------------|--------------------------|
+| 25 Avril 1907  | **Matin**   | 766.6 mmHg               | Nord                  | 8 faible  | Reg. C. (Clair) | 0                    | Nord                     | -                | 20.7 °C                  | 66.2 cm                   | 3 faible              | 1028.7 g/cm³                 | 13.7 °C                 |
+| 25 Avril 1907  | **Soir**    | 767.6 mmHg               | Nord                  | 2 faible  | Reg. C. (Clair) | 0                    | Nord                     | -                | 20.2 °C                  | 69.4 cm                   | 3 faible              | 1028.7 g/cm³                 | 14.2 °C                 |
+
+# 26 Avril 1907
+
+| **Date**       | **Horaire** | **Hauteur Barométrique** | **Direction du Vent** | **Force** | **Réglage** | **Nébulosité (0/10)** | **Direction des nuages** | **Pluie Tombée** | **Température de l'air** | **Hauteur de la mer (cm)** | **Agitation de l'eau** | **Densité au bout de la jetée** | **Température de l'eau** |
+|----------------|-------------|--------------------------|-----------------------|-----------|-------------|-----------------------|--------------------------|------------------|--------------------------|---------------------------|-----------------------|-------------------------------|--------------------------|
+| 26 Avril 1907  | **Matin**   | 769.0 mmHg               | Sud                   | 1 faible  | Reg. C. (Clair) | 1                     | Nord                     | -                | 20.0 °C                  | 59.4 cm                   | 1                     | 1028.6 g/cm³                 | 14.7 °C                 |
+| 26 Avril 1907  | **Soir**    | 769.0 mmHg               | Sud                   | 1 faible  | Reg. C. (Clair) | 0                     | Nord                     | -                | 28.0 °C                  | 61.8 cm                   | 1 faible              | 1028.2 g/cm³                 | 17.8 °C                 |
+```

@@ -1,0 +1,65 @@
+```plaintext
+### OBSERVATIONS DU 1902 21 Mai
+
+| **Nombre de bateaux sortis (pêche à l.)** | 21.0 |
+| --- | --- |
+| **Température de l'air** |  |
+| maxima depuis la veille | 21.0 | °C |
+| minima id. | 19.6 | °C |
+| **Température de l'eau** |  |
+| maxima depuis la veille | — | °C |
+| minima id. | — | °C |
+| **Pluie tombée depuis la veille, en millim.** | 4.629 | mm |
+| **Evaporation depuis le 1900, en millim.** | — | mm |
+| **Direction du vent (à terre)** |  |
+| - à 9 h. m. | Sud |
+| - à 3 h. s. | Sud |
+| **Force** |  |
+| - à 9 h. m. | Fort |
+| - à 3 h. s. | Fort |
+| **Direction des nuages** |  |
+| - à 9 h. m. | Sud |
+| - à 3 h. s. | Sud |
+| **Nébulosité** |  |
+| - région Ouest (terre) | 10 |
+| - id. Est (mer) | 10 |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.)** | 30.2 | cm |
+| **Agitation de l'eau** | 1 (forte) |
+| **Densité de l'eau au bout de la jetée** | 1027.7 |
+| **Température de l'air** |  |
+| - matin (maxima) | 23.6 | °C |
+| - minima | 12.7 | °C |
+
+### OBSERVATIONS DU 1902 24 Mai
+
+| **Nombre de bateaux sortis (pêche à l.)** | 22.7 |
+| --- | --- |
+| **Température de l'air** |  |
+| maxima depuis la veille | 22.7 | °C |
+| minima id. | 14.7 | °C |
+| **Température de l'eau** |  |
+| maxima depuis la veille | — | °C |
+| minima id. | — | °C |
+| **Pluie tombée depuis la veille, en millim.** | 33.10 | mm |
+| **Evaporation depuis le 1900, en millim.** | — | mm |
+| **Direction du vent (à terre)** |  |
+| - à 9 h. m. | N.M.O. |
+| - à 3 h. s. | N.M.O. |
+| **Force** |  |
+| - à 9 h. m. | Faible |
+| - à 3 h. s. | Faible |
+| **Direction des nuages** |  |
+| - à 9 h. m. | N.N.O. |
+| - à 3 h. s. | N.N.O. |
+| **Nébulosité** |  |
+| - région Ouest (terre) | 6 |
+| - id. Est (mer) | 6 |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.)** | 12.6 | 46.3 | cm |
+| **Agitation de l'eau** | 2 | 2 |
+| **Densité de l'eau au bout de la jetée** | 1027.8 | 1027.8 |
+| **Température de l'air** |  |
+| - matin (maxima) | 27.0 | °C |
+| - minima | 16.0 | °C |
+| - matin (maxima) | 38.9 | °C |
+| - minima | 8.7 | °C |
+```

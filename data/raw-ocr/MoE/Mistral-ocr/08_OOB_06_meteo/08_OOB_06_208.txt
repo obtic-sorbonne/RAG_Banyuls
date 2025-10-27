@@ -1,0 +1,45 @@
+# OBSERVATIONS DU 1901 18 aetate 1911 
+
+Nombre de bateaux sortis (pêche à $l$ $\qquad$ ).
+Température de l'air $\left\{\begin{array}{l}\text { maxima depuis la veille. } \\ \text { minima id. }\end{array}\right.$
+$23,1$
+$14,6$
+Température de l'eau $\left\{\begin{array}{l}\text { maxima depuis la veille. } \\ \text { minima id. }\end{array}\right.$
+Pluie tombée depuis la veille, en millim.
+$87,9 \%$
+Evaporation depuis le $\qquad$ 190 , en millim.
+à 9 h. m.
+à 3 h. s.
+Direction du vent (à terre).
+Force
+Direction des nuages
+Nèbulosité $\left\{\begin{array}{l}\text { région Ouest (terre) } \\ \text { id. Est (mer) }\end{array}\right.$
+$6 \quad 3$
+Hauteur de la mer, en centimètres, au-dessus du zéro.
+Agitation de l'eau
+Densité de l'eau au bout de la jetée
+Température id.
+![img-0.jpeg](img-0.jpeg)
+
+## OBSERVATIONS DU 1901 17 Oetobre
+
+Nombre de bateaux sortis (pêche à $l$ $\qquad$ ).
+Température de l'air $\left\{\begin{array}{l}\text { maxima depuis la veille. } \\ \text { minima id. }\end{array}\right.$
+$17,3$
+$1 / 30$
+Température de l'eau $\left\{\begin{array}{l}\text { maxima depuis la veille. } \\ \text { minima id. }\end{array}\right.$
+Pluie tombée depuis la veille, en millim.
+Evaporation depuis le $\qquad$ 190 , en millim.
+à 9 h. m .
+à 3 h. s.
+Direction du vent (à terre).
+Force
+Direction des nuages
+Nèbulosité $\left\{\begin{array}{l}\text { région Ouest (terre) } \\ \text { id. Est (mer) }\end{array}\right.$
+$17,3$
+$1 / 30$
+Hauteur de la mer, en centimètres, au-dessus du zéro.
+Agitation de l'eau
+Densité de l'eau au bout de la jetée
+Température id.
+![img-1.jpeg](img-1.jpeg)

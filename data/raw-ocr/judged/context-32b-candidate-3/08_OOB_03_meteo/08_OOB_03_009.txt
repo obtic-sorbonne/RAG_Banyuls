@@ -1,0 +1,18 @@
+# Date 27 Septembre 1901
+
+|   | 9th Matin | 3rd Soir  |
+| --- | --- | --- |
+|  Hauteur Barométrique | 767.7 | 767.2  |
+|  Direction du vent | N.N.O | N.N.O  |
+|  Force | 3 fort | 27 fort  |
+|  Nébulosité | 8 | 8  |
+|  Reg. O. (terre) | 10 | 10  |
+|  Reg. E. (mer) | 10 | 10  |
+|  Direction des nuages | N.N.O | N.N.O  |
+|  Pluie tombée | 0.0 | 0.0  |
+|  Température de l'air | 20.0 | 21.6  |
+|  Hauteur de la mer | 47.6 | 49.4  |
+|  Agitation de l'eau | 3 | 3  |
+|  Densité de l'eau | 1027.2 | 1026.9  |
+|  |   |   |
+|  Température de l'eau | 17.1 | 17.7  |

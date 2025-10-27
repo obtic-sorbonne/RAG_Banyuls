@@ -1,0 +1,16 @@
+| **Date** | 06 Juillet 1901 |
+|---|---|
+| **9H Matin** | **3H Soir** |
+| **Hauteur Barométrique** | 765.3 | 765.0 |
+| **Direction du vent** | N.N.O | N-Ost |
+| **Force** | 3 | 2 Fort. |
+| **Nébulosité (Nord)** | 0 | 0 |
+| **Nébulosité (Est - mer)** | 0 | 0 |
+| **Direction des nuages** | N.N.O | N-Ost |
+| **Pluie tombée** | — | — |
+| **Température de l'air (°C)** | 24.6 | 25.0 |
+| **Hauteur de la mer (m)** | 54.9 | 62.3 |
+| **Agitation de l'eau** | 2 | 1 Fort. |
+| **Densité de l'eau (au bout de la jetée)** | 1027.9 | 1027.6 |
+| **Densité de l'eau (au large)** | — | — |
+| **Température de l'eau (°C)** | 19.3 | 20.0 |

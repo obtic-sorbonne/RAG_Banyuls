@@ -1,0 +1,31 @@
+| V. 28 Janvier 1908 | Matin | Soir |
+|-------------------|-------|------|
+| Hauteur Barométrique | 766,7 | 764,2 |
+| Direction du Vent | cr.o | Est |
+| Force | 3 | 1. faible |
+| Reg. C. (clère) | 10 | 10 |
+| Nébulosité | 10 | 10 |
+| Reg. D. (nue) | 10 | 10 |
+| Direction des nuages | cr.o | cr.o |
+| Pluie tombée | " | " |
+| Température de l'air | 14,7 | 16,9 |
+| Hauteur de la mer | 72,7 | 89,2 |
+| Agitation de l'eau | 2 | 2 faible |
+| Déviation au bout de la jetée | 627,0 | 628,0 |
+| Température de l'eau | 11,6 | 13,0 |
+| is au niveau | 13,6 | 13,6 |
+| V. 29 Janvier 1908 | Matin | Soir |
+|-------------------|-------|------|
+| Hauteur Barométrique | 758,3 | 756,0 |
+| Direction du Vent | cr.o | cr.o |
+| Force | 3 fort | 2 fort |
+| Reg. C. (clère) | 10 | 10 |
+| Nébulosité | 10 | 10 |
+| Reg. D. (nue) | cr.o | cr.o |
+| Direction des nuages |  |  |
+| Pluie tombée | quelques g | " |
+| Température de l'air | 9,8 | 11,8 |
+| Hauteur de la mer | 76,7 | 46,8 |
+| Agitation de l'eau | 2 | 2 fort |
+| Déviation au bout de la jetée | 427,4 | 1027,1 |
+| Température de l'eau | 11,7 | 12,0 |

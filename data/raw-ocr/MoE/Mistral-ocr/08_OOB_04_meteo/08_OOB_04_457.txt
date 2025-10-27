@@ -1,0 +1,27 @@
+|  9. 24 Décembre 1907 | Matin | Jour  |
+| --- | --- | --- |
+|  Hauteur Parométrique | 755.3 | 754.0  |
+|  Direction du vent | 7.0 | or. 0.0  |
+|  Force | 1/paible | 1/paible  |
+|  966 Butosité |  | 5  |
+|  (Reg. 0. (min) | 2 | 2  |
+|  Direction des nuages | 7.0 | 7.0  |
+|  Flue tombée |  |   |
+|  Température de l'air | 10.0 | 12.1  |
+|  Hauteur de la mer | 42.9 | 17.4  |
+|  Oxyitation de l'eau | 2/paible | 2/paible  |
+|  Densité au bout de la jetée | 1029.3 | 1029.0  |
+|  Température de l'eau | 14.1 | 14.3  |
+|  9. 27 Décembre 1907 | Matin | Jour  |
+|  Hauteur Parométrique | 79.8 | 753.0  |
+|  Direction du vent | or. 0 | or. 0  |
+|  Force | 3 | 3/port  |
+|  966 Butosité |  | 1  |
+|  (Reg. 0. (min) | 10 | 1  |
+|  Direction des nuages | or. 0 | or. 0  |
+|  Flue tombée | 4.27 | 1  |
+|  Température de l'air | 12.0 | 12.5  |
+|  Hauteur de la mer | 37.9 | 47.7  |
+|  Oxyitation de l'eau | 2/port | 3  |
+|  Densité au bout de la jetée | 1029.2 | 1029.2  |
+|  Température de l'eau | 13.5 | 13.4  |

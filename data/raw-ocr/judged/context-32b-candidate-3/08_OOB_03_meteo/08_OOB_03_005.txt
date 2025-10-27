@@ -1,0 +1,17 @@
+# Date. 21 Septembre. 1901
+
+|  |   |   |
+| --- | --- | --- |
+|  Hauteur Barométrique | 9. "Matin" 3. "Soir" |   |
+|  Direction du vent | 7/2.3 | 7/4.6  |
+|  Force | 15. | 15  |
+|  Pébulosité | 17. | 17 fort  |
+|  Reg. O. (terre) | 10 | 10  |
+|  Reg. E. (mer) | 10 | 10  |
+|  Direction des nuages | Ouest | Ouest  |
+|  Unic tombe | 0.7119 | 0.7119  |
+|  Température de l'air | 19.4 | 18.2  |
+|  Hauteur de la mer | 28.9 | 23.4  |
+|  Agitation de l'eau | 4 | 4  |
+|  Densité de l'eau | 1027.7 | 1027.6  |
+|  Température de l'eau |  |  |

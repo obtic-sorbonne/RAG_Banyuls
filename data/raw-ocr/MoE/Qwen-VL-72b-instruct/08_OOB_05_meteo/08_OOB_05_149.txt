@@ -1,0 +1,29 @@
+V. 12 Septembre 1906 | Matin | Soir
+--- | --- | ---
+Hauteur Barométrique | 767,9 | 766,2
+Direction du vent | cr.cr.o | cr.n.o
+Force | 3 fort | 3
+Nébulosité | Reg. o. (Clare) | 2 | 10
+| Reg. n. (mur) | 0 | 10
+Direction des nuages | cr.cr.o | cr.n.o
+Pluie tombée | | |
+Température de l'air | 22,0 | 21,7
+Hauteur de la mer | ff.f | 47,0
+Agitation de l'eau | L'fort | 2 T.fort
+Vensité au bout de la jetée | 1028,2 | 1027,0
+Température de l'eau | 21,7 | 22,0
+
+V. 13 Septembre 1906 | Matin | Soir
+--- | --- | ---
+Hauteur Barométrique | 766,2 | 764,6
+Direction du vent | cr.o | s.s.e
+Force | 1 fort | 1 fort
+Nébulosité | Reg. o. (Clare) | 0 | 0
+| Reg. n. (mur) | 0 | 1
+Direction des nuages | cr.n.o | |
+Pluie tombée | | |
+Température de l'air | 21,5 | 26,5
+Hauteur de la mer | f2.f | 42,5
+Agitation de l'eau | 2 faible | 2
+Vensité au bout de la jetée | 1027,8 | 1027,4
+Température de l'eau | 21,8 | 22,0

@@ -1,0 +1,16 @@
+# Date - 10 Juillet - 1901
+
+|  Item | 9e Matin | 3e Soir  |
+| --- | --- | --- |
+|  Hauteur Barométrique | 761,2 | 761,8  |
+|  Direction du vent | N.N.O | N.N.O  |
+|  Force | 3 fort | 3 fort  |
+|  Nébulosité / Reg. O. (terre) | 1 | 1  |
+|  Nébulosité / Reg. E. (mer) | 10 | 10  |
+|  Direction des nuages | 10 | 10  |
+|  Pluie tombée | 0 | 0  |
+|  Température de l'air | 27,3 | 26,2  |
+|  Hauteur de la mer | 50,3 | 48,2  |
+|  Agitation de l'eau | 3 fort | 2 faible  |
+|  Densité de l'eau / au bout de la jetée | 1037,7 | 1037,6  |
+|  Température de l'eau | 20,1 | 20,7  |

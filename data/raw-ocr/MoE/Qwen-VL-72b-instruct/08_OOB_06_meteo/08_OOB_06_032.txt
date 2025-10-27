@@ -1,0 +1,41 @@
+OBSERVATIONS DU 1900 14 Juin
+
+| Nombre de bateaux sortis (pêche à l |  |  |
+| --- | --- | --- |
+| Température de l'air | maxima depuis la veille | 19.7 |
+|  | minima id. | 14.9 |
+| Température de l'eau | maxima depuis la veille |  |
+|  | minima id. |  |
+| Pluie tombée depuis la veille, en millim. |  | 0 |
+| Evaporation depuis le 1900, en millim. |  |  |
+|  | à 9 h. m. | à 3 h. s. |
+| Direction du vent (à terre) | N.N.O | N.N.O |
+| Force | 7 | 6 |
+| Direction des nuages | N.N.O | N.N.O |
+| Nébulosité | région Ouest (terre) | 6 | 6 |
+|  | id. Est (mer) | 6 | 6 |
+| Hauteur de la mer, en centimètres, au-dessus du zéro | 31.3 | 31.4 |
+| Agitation de l'eau | 5 fort | 5 |
+| Densité de l'eau au bout de la jetée | 627.3 | 626.8 |
+| Température id. | 16.6 | 17.3 |
+
+OBSERVATIONS DU 1900 15 Juin
+
+| Nombre de bateaux sortis (pêche à la Sarcline) |  |  |
+| --- | --- | --- |
+| Température de l'air | maxima depuis la veille | 21.3 |
+|  | minima id. | 14.8 |
+| Température de l'eau | maxima depuis la veille |  |
+|  | minima id. |  |
+| Pluie tombée depuis la veille, en millim. |  | 0 |
+| Evaporation depuis le 1900, en millim. |  |  |
+|  | à 9 h. m. | à 3 h. s. |
+| Direction du vent (à terre) | N.N.O | N.N.E |
+| Force | 4 | 3 fort |
+| Direction des nuages | N.N.O | N.N.O |
+| Nébulosité | région Ouest (terre) | 6 | 6 |
+|  | id. Est (mer) | 0 | 1 |
+| Hauteur de la mer, en centimètres, au-dessus du zéro | 31.7 | 31.5 |
+| Agitation de l'eau | 2 fort | 2 |
+| Densité de l'eau au bout de la jetée | 626.6 | 626.7 |
+| Température id. | 17.0 | 17.5 |

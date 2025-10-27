@@ -1,0 +1,33 @@
+# V. 16 Janvier - 1903
+
+|  Nom | Date | Type  |
+| --- | --- | --- |
+|  Hauteur Paramétrique | 2621 | 265.4  |
+|  Direction du vent | 1/20/02 | 1/20/02  |
+|  Force | 15 | 1/20/02  |
+|  Néelution | Reg. O. (1er) | 10  |
+|  Néelution | Reg. E. (1er) | 10  |
+|  Direction des mages | 1/20/02 | 1/20/02  |
+|  Flux tombé | 3, 120 | gn/2m.  |
+|  Température de l'air | 2, 2 | 9.9  |
+|  Hauteur de la mer | 3/1/02 | 11.3  |
+|  Égitation de l'eau | 3 | 3  |
+|  Densité au bout de la jetée | 1029.0 | 1029.2  |
+|  Température de l'eau | 11.3 | 11.6  |
+
+# V. 17 Janvier - 1903
+
+|  Nom | Date | Type  |
+| --- | --- | --- |
+|  Hauteur Paramétrique | 2621 | 265.2  |
+|  Direction du vent | 1/20/02 | 1/20/02  |
+|  Force | 1/20/02 | 1/20/02  |
+|  Néelution | Reg. O. (1er) | 10  |
+|  Néelution | Reg. E. (1er) | 10  |
+|  Direction des mages | 1/20/02 | 1/20/02  |
+|  Flux tombé | 12, 9/1/02 | 11.3/1  |
+|  Température de l'air | 9.1/1/02 | 9.2  |
+|  Hauteur de la mer | 3/1.6 | 1/1.6  |
+|  Égitation de l'eau | 1/1.6 | 1/1.6  |
+|  Densité au bout de la jetée | 1 | 1/1  |
+|  Température de l'eau | 1 | 1  |

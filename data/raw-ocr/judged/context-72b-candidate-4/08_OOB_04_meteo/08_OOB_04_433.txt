@@ -1,0 +1,31 @@
+```plaintext
+| V. 19 Octobre 1904 | Matin | Soir |
+|---|---|---|
+| Hauteur Barométrique | 771,2 | 770,2 |
+| Direction du vent | cr.cr.o | " |
+| Force | 1 | 0 |
+| Nébulosité Reg. O. (terre) | 0 | 0 |
+| Nébulosité Reg. E. (mer) | 0 | 0 |
+| Direction des nuages | " | " |
+| Pluie tombée | " | " |
+| Température de l'air | 18,7 | 20,7 |
+| Hauteur de la mer | 35,7 | 46,1 |
+| Agitation de l'eau | 2 faible | 2 fort |
+| Densité au bout de la jetée | 1028,4 | 1028,2 |
+| Température de l'eau | 18,1 | 18,2 |
+
+| V. 20 Octobre 1904 | Matin | Soir |
+|---|---|---|
+| Hauteur Barométrique | 772,0 | 769,2 |
+| Direction du vent | cr.cr.o | cr.cr.o |
+| Force | 1 | 1 fort |
+| Nébulosité Reg. O. (terre) | légèrement couvert | légèrement couvert |
+| Nébulosité Reg. E. (mer) | légèrement couvert | légèrement couvert |
+| Direction des nuages | " | " |
+| Pluie tombée | " | " |
+| Température de l'air | 16,1 | 19,6 |
+| Hauteur de la mer | 38,6 | 51,7 |
+| Agitation de l'eau | 1 faible | 1 |
+| Densité au bout de la jetée | 1028,2 | 1028,0 |
+| Température de l'eau | 18,0 | 19,2 |
+```

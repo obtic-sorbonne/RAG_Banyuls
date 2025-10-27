@@ -1,0 +1,11 @@
+| **Date**       | **Nombre de bateaux sortis** | **Température de l'air (°C)** | **Température de l'eau (°C)** | **Pluie tombée depuis la veille (mm)** | **Evaporation depuis le 190 (mm)** | **Direction du vent (à terre)** | **Force du vent** | **Direction des nuages** | **Nébulosité (%)** | **Hauteur de la mer (cm)** | **Agitation de l'eau** | **Densité de l'eau au bout de la jetée** | **Température (°C)** |
+|----------------|-----------------------------|-------------------------------|-------------------------------|--------------------------------------|------------------------------------|-----------------------------|---------------------|---------------------------|-----------------------|--------------------------|-----------------------|----------------------------|------------------------|
+| **1902-04-27** |                             | Maxima : 19.3<br>Minima : 10.0 | Maxima : __<br>Minima : __     | 3.0                                 |                                    | Nord                      | 1 fort.              | S.S.O.                 | Ouest : 10<br>Est : 10 | 40.7                    | 1 fort.               | 1028.3                  | Balanç Matin : 12.0<br>Terrasse Matin : 13.6<br>Soir : 26.4<br>Minima : 7.0<br>Minima : 11.9 |
+| **1902-04-26** |                             | Maxima : 17.2<br>Minima : 11.8 | Maxima : __<br>Minima : __     | quelques g                         |                                    | Sud                        | 1 fort.              | S.S.O.                 | Ouest : 10<br>Est : 10 | 39.0                    | 1 fort.               | 1028.9                  | Balanç Matin : 14.7<br>Terrasse Matin : 18.9<br>Soir : 26.9<br>Minima : 9.9<br>Minima : 13.4 |
+
+---
+
+Nota :  
+- "Matin" et "Soir" sont des notes manuscrites pour préciser les horaires des observations.  
+- Les valeurs manquantes ("__") indiquent que les données n'étaient pas pourvues.  
+- Les unités et symboles sont normalisés pour cohérence.

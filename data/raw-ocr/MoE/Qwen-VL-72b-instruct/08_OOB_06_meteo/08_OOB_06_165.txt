@@ -1,0 +1,50 @@
+```
+| Date        | 1901-06-12       |
+|-------------|------------------|
+| Nombre de bateaux sortis | 24.8           |
+| Température de l'air |               |
+|   - Maxima depuis la veille | 24.8          |
+|   - Minima id. | 14.7          |
+| Température de l'eau |               |
+|   - Maxima depuis la veille | (non rempli)  |
+|   - Minima id. | (non rempli)  |
+| Pluie tombée depuis la veille, en millim | quelques |
+| Evaporation depuis le 1900, en millim | (non rempli) |
+| Direction du vent (à terre) | N.E          | N.O         |
+| Force | 1              | 1              |
+| Direction des nuages | S.O          | N.O         |
+| Nébulosité |              |              |
+|   - Région Ouest (terre) | 60           | 60           |
+|   - Est (mer) | 60           | 60           |
+| Hauteur de la mer, en centimètres, au-dessus du zéro | 35.9 | 39.7 |
+| Agitation de l'eau | 1 faible     | 1 faible     |
+| Densité de l'eau au bout de la jetée | 1029.7 | 1029.4 |
+| Température | 24.7 | 23.2 |
+| - Balour | 24.7 | 23.2 |
+| - Terrane Matin (Maxima / Minima) | 39.4 / 13.4 | 39.4 / 13.4 |
+
+
+| Date        | 1901-06-13       |
+|-------------|------------------|
+| Nombre de bateaux sortis | 21.8           |
+| Température de l'air |               |
+|   - Maxima depuis la veille | 27.8          |
+|   - Minima id. | 12.7          |
+| Température de l'eau |               |
+|   - Maxima depuis la veille | (non rempli)  |
+|   - Minima id. | (non rempli)  |
+| Pluie tombée depuis la veille, en millim | 11.7         |
+| Evaporation depuis le 1900, en millim | (non rempli) |
+| Direction du vent (à terre) | N.N.O        | N.O         |
+| Force | 3              | 2              |
+| Direction des nuages | S.O          | Ouest        |
+| Nébulosité |              |              |
+|   - Région Ouest (terre) | 60           | 60           |
+|   - Est (mer) | 60           | 60           |
+| Hauteur de la mer, en centimètres, au-dessus du zéro | 28.9 | 81.3 |
+| Agitation de l'eau | 1              | 1 fort.     |
+| Densité de l'eau au bout de la jetée | 1029.6 | 1026.3 |
+| Température | 18.7 | 18.6 |
+| - Balour |                |               |
+| - Terrane Matin (Maxima / Minima) |                 |                |
+```

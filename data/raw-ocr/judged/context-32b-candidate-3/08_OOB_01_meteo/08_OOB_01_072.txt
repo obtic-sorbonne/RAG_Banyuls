@@ -1,0 +1,18 @@
+# Date: 1. 4 Octobre 1900
+
+|  Item |  |  |
+| --- | --- | --- |
+|  Hauteur barométrique |  | 764,1  |
+|  Direction du vent |  | S.  |
+|  Force |  | 2  |
+|  Nebulosité | Reg. E. (m²) | 5  |
+|  Direction des nuages |  | S.  |
+|  Pluie tombée |  | 0  |
+|  Température de l'air |  | 21,0  |
+|  Hauteur de la mer |  | 0,33  |
+|  Agitation de l'eau |  | 1  |
+|  Densité de l'eau (au bout de la jetée) |  | 1025,2  |
+|  Densité de l'eau (au large) |  | 1025,2  |
+|  Température de l'eau |  | 21,3  |
+
+Observat. —

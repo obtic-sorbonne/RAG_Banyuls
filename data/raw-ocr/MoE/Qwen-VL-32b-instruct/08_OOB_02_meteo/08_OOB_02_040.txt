@@ -1,0 +1,17 @@
+# Diale. 19 April. 1901
+
+|   | 9. Otto | 3. Bovin  |
+| --- | --- | --- |
+|  Harnieur Pervométrique | 755,1 | 754,7  |
+|  Direction Su vent | Est | Sud  |
+|  Force | 1 faible | 3  |
+|  9. Ebulosite | 0 | 0  |
+|  9. Ebulosite | Reg. E. (mer) | 0  |
+|  Direction des nuages | Sud | Sud  |
+|  Pinc lombric | 18,4 | 14,4  |
+|  Température de l'air | 18,4 | 64,4  |
+|  Harnieur de la mer | 49,9 | 3 faible  |
+|  Agitation de l'eau | 3 | 1688,7  |
+|  Bensite de l'eau | 1038,1 |   |
+|  1 an Énergie |  |   |
+|  Température de l'eau | 13,3 | 12,9  |

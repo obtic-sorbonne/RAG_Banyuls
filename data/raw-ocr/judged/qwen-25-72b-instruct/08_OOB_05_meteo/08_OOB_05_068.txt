@@ -1,0 +1,36 @@
+```
+Journal Météorologique du Navire "La Belle Poule"
+Période : 13 au 14 Décembre 1905
+
+| Date       | Matin | Soir  |
+|------------|-------|-------|
+| 13 Décembre 1905 |      |      |
+| Hauteur Barométrique (mm) | 771,6 | - |
+| Direction du vent | cr.cr.o | - |
+| Force | 1/5 | 2 fort. |
+| Nébulosité (Reg. o. Terre) | 0 (claire) | - |
+| Nébulosité (Reg. E. Mer) | 0 (claire) | - |
+| Direction des nuages | - | - |
+| Pluie tombée (mm) | - | - |
+| Température de l'air (°C) | 8,1 | - |
+| Hauteur de la mer (m) | 91,9 | - |
+| Agitation de l'eau (code) | 3 fort. | - |
+| Densité au bout de la jetée (g/cm³) | 1029,0 | - |
+| Température de l'eau (°C) | 15,1 | - |
+
+| 14 Décembre 1905 | Matin | Soir  |
+| Hauteur Barométrique (mm) | 769,0 | 766,9 |
+| Direction du vent | cr.o | cr.cr.o |
+| Force | 1/5 | 1 fort. |
+| Nébulosité (Reg. o. Terre) | 0 (claire) | légèrement couvert |
+| Nébulosité (Reg. E. Mer) | 0 (claire) | 0 (claire) |
+| Direction des nuages | W.E | - |
+| Pluie tombée (mm) | - | - |
+| Température de l'air (°C) | 8,0 | 12,9 |
+| Hauteur de la mer (m) | 47,7 | 61,8 |
+| Agitation de l'eau (code) | de faible | 3 faible |
+| Densité au bout de la jetée (g/cm³) | 1029,4 | 1029,9 |
+| Température de l'eau (°C) | 14,4 | 14,2 |
+
+Note Marginale : Aucune remarque particulière pour ces dates.
+```

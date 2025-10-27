@@ -1,0 +1,29 @@
+|  V. 12 Octobie. 1907 | Matin | Soir  |
+| --- | --- | --- |
+|  Hauteur Maronitrique | 767.3 | 767.8  |
+|  Direction du vent | 800 | 800  |
+|  Force | 8 fort | 8 faible  |
+|  (Reg. G. (tome) | 10 | 10  |
+|  Nebulivite | 10 | 10  |
+|  (Reg. X. cour.) | 300 | 300  |
+|  Direction des nuages | 9.12/ | 9.12/  |
+|  Flux tombé | 20/3 | 21.0  |
+|  Température de l'air | 3 | 3  |
+|  Hauteur de la mer | 3 | 3  |
+|  Égitation de l'eau | 5 | 5  |
+|  Densité au bout de la jeté | 5 | 5  |
+|  Température de l'eau | 5 | 5  |
+|  V. 14 Octobie. 1907 | Matin | Soir  |
+|  Hauteur Maronitrique | 7/8.7 | 7/7.6  |
+|  Direction du vent | 1 | 1.0  |
+|  Force | 1 | 1 fort  |
+|  (Reg. G. (tome) | 1 | 1  |
+|  Nebulivite | 2 | 2  |
+|  (Reg. X. cour.) | 305 | 305  |
+|  Direction des nuages | 47.12/ | 47.12/  |
+|  Flux tombé | 16.1/ | 16.1/  |
+|  Température de l'air | 51.8 | 18.1  |
+|  Hauteur de la mer | 3 fort | 18.1  |
+|  Égitation de l'eau | 1026.7 | 1026.7  |
+|  Densité au bout de la jeté | 30.1 | 19.8  |
+|  Température de l'eau |  |   |

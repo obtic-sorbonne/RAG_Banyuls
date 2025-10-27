@@ -1,0 +1,29 @@
+|  9. f. Novembre - 1907 | Matin | Jour  |
+| --- | --- | --- |
+|  J. Jauteur Morsométrique | 403,0 | 403,0  |
+|  Direction du vent | 1.58 | 1.8  |
+|  Force | 2.50 | 2  |
+|  Frig. o. (tome) | 10 | 10  |
+|  Nebulonte | 10 | 10  |
+|  (Reg. x. (min) |  |   |
+|  Direction des mages | 6.58 | 6.8  |
+|  Flue tombe |  |   |
+|  Compristine de l'air | 14,0 | 18,0  |
+|  J. Jauteur de la mer | 24,2 | 34,0  |
+|  (Agitation de l'eau) | 3.50 | 3  |
+|  Comité au bout de la jetée | 1024,5 | 1024,5  |
+|  Compristine de l'eau | 18,1 | 18,2  |
+|  1. f. Novembre - 1907 | Matin | Jour  |
+|  J. Jauteur Morsométrique | 403,5 | 401,4  |
+|  Direction du vent | 1.5 | 5.0  |
+|  Force | 1 | 1,50  |
+|  F. Reg. o. (tome) | 10 | 10  |
+|  Nebulonte | 10 | 10  |
+|  (Reg. x. (min) |  |   |
+|  Direction des mages | 88,4 | 88,4  |
+|  Flue tombe |  | 88,4  |
+|  Compristine de l'air | 14,0 | 18,3  |
+|  J. Jauteur de la mer |  |   |
+|  (Agitation de l'eau) |  |   |
+|  Comité au bout de la jetée |  |   |
+|  Compristine de l'eau |  |   |

@@ -1,0 +1,14 @@
+| V. 13 Juillet. 1907 | Matin | Soir |
+|---------------------|-------|------|
+| Hauteur Barométrique | 769.0 | 767.6 |
+| Direction du Vent    | croix | S.E  |
+| Force                | 1     | 1 fort |
+| Nébulosité (Reg. n°. 4ème) | 0 | 0 |
+| Direction des nuages | "     | "    |
+| Pluie tombée         | "     | "    |
+| Température de l'air | 21.3  | 28.3 |
+| Hauteur de la mer    | 19.83 | 71.0 |
+| Agitation de l'eau   | 2     | 1 fort |
+| Densité au bout de la jetée | 4027.6 | 4027.1 |
+| Température de l'eau | 19.6  | 20.7 |
+| V. 14 Juillet. 1907 |       |      |

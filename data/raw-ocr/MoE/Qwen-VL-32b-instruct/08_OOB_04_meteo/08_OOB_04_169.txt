@@ -1,0 +1,33 @@
+# V. 22 X 1902
+
+|  Name | Position | Soir  |
+| --- | --- | --- |
+|  Hauteur Maroncheur | 282.3 | 258.6  |
+|  Direction Su vent | or. or. | or. or.  |
+|  Force | 4 | 3  |
+|  Reg. O. (lire) | 0 | 0  |
+|  (Reg. O. (mur) |  |   |
+|  Direction So mago | or. or. | or. or.  |
+|  (lire tombe) |  |   |
+|  Température de l'air | 12.3 | 13.1  |
+|  Hauteur de la mer | 67.0 | 70.8  |
+|  (Agitation de l'eau) | 3 | 3  |
+|  Densité au bout de la jeté | 1028.7 | 1028.1  |
+|  (température de l'eau) | 13.6 | 12.2  |
+
+# V. 24 X 1902
+
+|  Name | Position | Soir  |
+| --- | --- | --- |
+|  Hauteur Maroncheur | 224.4 | 224.2  |
+|  Direction Su vent | o. o. | or. or.  |
+|  Force | 1 | 1  |
+|  Reg. O. (lire) | 10 | 10  |
+|  (Reg. O. (mur) |  |   |
+|  (lire tombe) |  |   |
+|  (lire tombe) |  |   |
+|  Température de l'air | 9.0 | 10.4  |
+|  Hauteur de la mer | 78.3 | 49.1  |
+|  (Agitation de l'eau) | 1 | 1  |
+|  Densité au bout de la jeté | 1028.8 | 1028.6  |
+|  (température de l'eau) | 13.4 | 13.1  |

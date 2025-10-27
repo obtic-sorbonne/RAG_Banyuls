@@ -1,0 +1,62 @@
+bres
+C1 X2 1903
+Fauteur Barometrique ----
+1
+Mâtin, Soir
+" "
+Direction du vent ------: N. ct^ o
+For e ------id "
+Nebutosite
+Reg. O. (tenre)
+Reg-K- (mer)
+Dire tion des nuages ------
+8
+Oline Rombée -----
+Bemperature de l'air -
+fauteur de la mer --
+Agitation de l'eau --
+-----
+10
+105
+"6,&
+tfort
+densité au bout de la fetée ----- 1030., 2
+Demperature de l'eau ~ -..~
+X12 X 2 1903
+fauteur Barometrique ---
+4
+direction du vent --
+For e ----5 --
+Netntosite
+Reg-O. (Verre)
+RReg. de - Coner)
+Direétion Ses nuages -----
+6
+Tlrne Tombée -----
+O
+Demperatue de lais ~
+ftanteur de la mer ---
+Agitation de l'eau ---
+18,6
+satid
+5
+6.50
+Jait
+5
+et. a
+8.)
+855
+sGaible
+densite au Cout de la Jelee --.--. 1050,.
+Demberatine de l'eau ----
+6
+et ctec
+Eort
+10
+Crc.
+12.7
+91.1
+1fort
+30
+2,2
+13,6

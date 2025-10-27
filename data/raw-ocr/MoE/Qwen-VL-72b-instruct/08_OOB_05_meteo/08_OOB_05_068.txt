@@ -1,0 +1,28 @@
+| V. 13 Décembre 1905 | Matin | Soir |
+|---|---|---|
+| Hauteur Barométrique | 771,6 | - |
+| Direction du vent | cr.cr.o | - |
+| Force | is | 2 fort. |
+| Nébulosité | Reg. o. (terre) | 0 |
+| | Reg. E. (mer) | 0 |
+| Direction des nuages | " | " |
+| Pluie tombée | " | " |
+| Température de l'air | 8,1 | - |
+| Hauteur de la mer | 91,9 | - |
+| Agitation de l'eau | - | 3 fort. |
+| Visibilité au bout de la jetée | - | 1029,0 |
+| Température de l'eau | - | 15,1 |
+| V. 14 Décembre 1905 | Matin | Soir |
+|---|---|---|
+| Hauteur Barométrique | 769,0 | 766,9 |
+| Direction du vent | cr.o | cr.cr.o |
+| Force | is | 1 fort |
+| Nébulosité | Reg. o. (terre) | légèrement e |
+| | Reg. E. (mer) | 0 |
+| Direction des nuages | W.E | " |
+| Pluie tombée | " | " |
+| Température de l'air | 8,0 | 12,9 |
+| Hauteur de la mer | 47,7 | 61,8 |
+| Agitation de l'eau | de faible | 3 faible |
+| Visibilité au bout de la jetée | 1029,4 | 1029,9 |
+| Température de l'eau | 14,4 | 14,2 |

@@ -1,0 +1,16 @@
+# Date. 31 Novembre. 1901
+
+|   | 9th Matin | 3rd Soir  |
+| --- | --- | --- |
+|  Kanteur Barométrique | 755,4 | 755,5  |
+|  Direction du vent | N.N.O | N.N.O  |
+|  Force | 3, faible | 3, faible  |
+|  Nébulosité { Reg. C. (terre) } | 10 | 10  |
+|  Nébulosité { Reg. E. (mer) } | 10 | 10  |
+|  Direction des nuages | E.S.E | E.S.E  |
+|  Pluie tombée | - | -  |
+|  Température de l'air | 3,3 | 3,4  |
+|  Hauteur de la mer | 35,3 | 40,0  |
+|  Agitation de l'eau | 3 | 4  |
+|  Densité de l'eau { au bout de la jetée } | 1029,3 | 1029,7  |
+|  Température de l'eau | 13,3 | 13,5  |

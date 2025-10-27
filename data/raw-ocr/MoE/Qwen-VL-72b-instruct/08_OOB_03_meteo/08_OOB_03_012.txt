@@ -1,0 +1,16 @@
+| Date | 2 Octobre 1901 |
+|------|-------------|
+| **Métrique** | **9<sup>e</sup> Matin** | **15<sup>e</sup> Soir** |
+| Hauteur Barométrique | 766.1 | 764.7 |
+| Direction du vent | Nord | N.N.O. |
+| Force | 15 | Fort | 3 |
+| Nebulosité | Reg.-O. (terre) | 1 | 4 |
+| | Reg.-E. (mer) | 2 | 2 |
+| Direction des nuages | Nord | N.N.O. |
+| Pluie tombée | 0<sup>m</sup>006 | 0 |
+| Température de l'air | 15.7 | 19.1 |
+| Hauteur de la mer | 40.8 | 38.1 |
+| Agitation de l'eau | 1 | 2 |
+| Densité de l'eau | au bout de la jetée | 1026.6 | 1022.9 |
+| | au large |
+| Température de l'eau | 18.8 | 19.3 |

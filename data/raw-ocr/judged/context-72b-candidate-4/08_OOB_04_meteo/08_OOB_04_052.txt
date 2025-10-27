@@ -1,0 +1,32 @@
+```plaintext
+| **Date**      | **Matin** | **Soir** |
+|---------------|-----------|----------|
+| **v. 16 janvier 1902** |       |        |
+| Hauteur Barométrique | 780.0 | 776.2   |
+| Direction du vent | E.S.O. | E.S.O.  |
+| Force | 3 | 2 |
+| Reg. O. (Clair) | 0 | 0 |
+| **Nébulosité** |       |        |
+|_Reg. E. (Mer)_ | 1 | 2 légères |
+| Direction des nuages | — | — |
+| Pluie tombée | — | — |
+| Température de l'air | 8.6 | 14.1 |
+| Hauteur de la mer | 61.8 | 70.0 |
+| Agitation de l'eau | 3 faible | 3 |
+| Densité au bout de la jetée | 1028.9 | 1028.4 |
+| Température de l'eau | 11.3 | 11.4 |
+| **v. 17 janvier 1902** |       |        |
+| Hauteur Barométrique | 770.2 | 768.7 |
+| Direction du vent | E.O. | N.O. 2. |
+| Force | 3 | 1 faible |
+| Reg. O. (Clair) | 0 | 0 |
+| **Nébulosité** |       |        |
+|_Reg. E. (Mer)_ | 3 légères | 2 légères |
+| Direction des nuages | E.S.O. | E.S.O. |
+| Pluie tombée | — | — |
+| Température de l'air | 10.8 | 11.6 |
+| Hauteur de la mer | 60.9 | 61.6 |
+| Agitation de l'eau | 4 faible | 3 faible |
+| Densité au bout de la jetée | 1029.1 | 1029.0 |
+| Température de l'eau | 11.7 | 11.8 |
+```

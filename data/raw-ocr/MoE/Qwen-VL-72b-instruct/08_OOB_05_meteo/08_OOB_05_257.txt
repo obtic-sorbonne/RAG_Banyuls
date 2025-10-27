@@ -1,0 +1,29 @@
+V. 13 Juin. 1907
+| Matin | Soir |
+|-------|------|
+| Hauteur Barométrique | 764,5 | 763,0 |
+| Direction du Vent | cr-ro | cr-ro |
+| Force | 4 force | 4 force |
+| Nébulosité (Reg. à l'œil) | 10 | 10 |
+| Direction des nuages | cr-o | cr-o |
+| Pluie tombée | 16,1 | " |
+| Température de l'air | 15,7 | 19,1 |
+| Hauteur de la mer | 53,2 | 62,9 |
+| Agitation de l'eau | 3 | 3 |
+| Vensité au bout de la jetée | 1028,1 | 1028,3 |
+| Température de l'eau | 16,3 | 16,6 |
+
+V. 14 Juin. 1907
+| Matin | Soir |
+|-------|------|
+| Hauteur Barométrique | 763,3 | 763,1 |
+| Direction du Vent | cr-o | cr-o |
+| Force | 7 | 6 |
+| Nébulosité (Reg. à l'œil) | 10 | 10 |
+| Direction des nuages | cr-o | cr-o |
+| Pluie tombée | " | " |
+| Température de l'air | 16,8 | 21,7 |
+| Hauteur de la mer | 59,1 | 68,0 |
+| Agitation de l'eau | 4 force | 4 faible |
+| Vensité au bout de la jetée | 1028,6 | 1028,0 |
+| Température de l'eau | 16,4 | 16,8 |

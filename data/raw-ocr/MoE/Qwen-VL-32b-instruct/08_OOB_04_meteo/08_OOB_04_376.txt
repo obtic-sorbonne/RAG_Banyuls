@@ -1,0 +1,29 @@
+|  7.22 9thai - 1904 | 9thatin | Soir  |
+| --- | --- | --- |
+|  Yanteur Praxometrique | 763.0 |   |
+|  Direction du vent | cr. 8 |   |
+|  Force | 1 fort |   |
+|  966 butosite | Reg. 0 (tine) | 10  |
+|   | 10 |   |
+|  2eirection des nuages |  |   |
+|  9hui tombé |  |   |
+|  6empérative de l'air | 84.6 |   |
+|  Yanteur de la mer | 18.5 |   |
+|  6agitation de l'eau | faible |   |
+|  2einsité au bout de la jeté | 1087.7 |   |
+|  6empérative de l'eau | 19.8 |   |
+
+|  7.23 9thai - 1904 | 9thatin | Soir  |
+| --- | --- | --- |
+|  Yanteur Praxometrique | 761.6 |   |
+|  Direction du vent | cr. 0 |   |
+|  Force | 4 fort |   |
+|  966 butosite | 10 |   |
+|   | 10 |   |
+|  2eirection des nuages |  |   |
+|  9hui tombé |  |   |
+|  6empérative de l'air |  |   |
+|  Yanteur de la mer |  |   |
+|  6agitation de l'eau |  |   |
+|  2einsité au bout de la jeté |  |   |
+|  6empérative de l'eau |  |   |

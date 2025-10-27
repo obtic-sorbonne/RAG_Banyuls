@@ -1,0 +1,33 @@
+```markdown
+# 24 DÉCEMBRE 1907
+
+| **Date**         | **Matin** | **Soir** |
+|------------------|----------|----------|
+| **Hauteur barométrique (mmHg)** | 770.1 | 769.2 |
+| **Direction du Vent** | S.E.E. | S.S.E. |
+| **Force** | 0 | 1 |
+| **Nébulosité (Rég. 0. clair)** | 2 | 0 |
+| **Nébulosité (Rég. 2. nuageux)** | 4 | 2 |
+| **Pluie tombée (mm)** | - | - |
+| **Température de l'air (°C)** | 12.0 | 14.8 |
+| **Hauteur de la mer (cm)** | 33.0 | 48.0 |
+| **Agitation de l'eau** | fort | fort |
+| **Densité au bout de la jetée (g/cm³)** | 1028.8 | 1028.7 |
+| **Température de l'eau (°C)** | 14.7 | 14.4 |
+
+# 27 DÉCEMBRE 1907
+
+| **Date**         | **Matin** | **Soir** |
+|------------------|----------|----------|
+| **Hauteur barométrique (mmHg)** | 746.8 | 746.8 |
+| **Direction du Vent** | S.O. | S.O. |
+| **Force** | 2 | 2 |
+| **Nébulosité (Rég. 0. clair)** | 10 | 10 |
+| **Nébulosité (Rég. 2. nuageux)** | 10 | 10 |
+| **Pluie tombée (mm)** | 2.2 | - |
+| **Température de l'air (°C)** | 13.1 | 20.1 |
+| **Hauteur de la mer (cm)** | 20.1 | - |
+| **Agitation de l'eau** | 2 | 2 |
+| **Densité au bout de la jetée (g/cm³)** | 1024.9 | - |
+| **Température de l'eau (°C)** | 13.1 | - |
+```

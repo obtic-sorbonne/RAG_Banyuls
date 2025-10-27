@@ -1,0 +1,56 @@
+```plaintext
+| OBSERVATIONS DU 1902 30 Juillet |
+| --- |
+| **Nombre de bateaux sortis (pêche à la ligne)** |  |
+| **Température de l'air** |  |
+| - maxima depuis la veille | 29.6 | °C |
+| - minima id. | 19.9 | °C |
+| **Température de l'eau** |  |
+| - maxima depuis la veille |  | °C |
+| - minima id. |  | °C |
+| **Pluie tombée depuis la veille, en millim.** |  | mm |
+| **Évaporation depuis le 190, en millim.** |  | mm |
+| **Direction du vent (à terre)** | **à 9 h. m.** | **à 3 h. s.** |
+| - Direction | S.O. | N.E. |
+| - Force | Très faible |  |
+| **Direction des nuages** | N.O. | N.O. |
+| **Nébulosité** |  |
+| - région Ouest (terre) | 10 | 60 |
+| - id. Est (mer) | 10 | 10 |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.)** | 32.0 | 84.0 |
+| **Agitation de l'eau** | faible | forte |
+| **Densité de l'eau au bout de la jetée** | 1026.6 | 1026.2 |
+| **Température** |  |
+| - id. jetée (matin) | 20.7 | °C |
+| - id. jetée (soir) | 21.7 | °C |
+
+| OBSERVATIONS DU 1902 31 Juillet |
+| --- |
+| **Nombre de bateaux sortis (pêche à la ligne)** |  |
+| **Température de l'air** |  |
+| - maxima depuis la veille | 27.8 | °C |
+| - minima id. | 19.6 | °C |
+| **Température de l'eau** |  |
+| - maxima depuis la veille |  | °C |
+| - minima id. |  | °C |
+| **Pluie tombée depuis la veille, en millim.** |  | mm |
+| **Évaporation depuis le 190, en millim.** |  | mm |
+| **Direction du vent (à terre)** | **à 9 h. m.** | **à 3 h. s.** |
+| - Direction | S.S.O. | S.S.E. |
+| - Force | fort |  |
+| **Direction des nuages** |  |  |
+| **Nébulosité** |  |
+| - région Ouest (terre) | 0 | 0 |
+| - id. Est (mer) | 0 | 0 |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.)** | 30.4 | 89.8 |
+| **Agitation de l'eau** |  | 1 forte |
+| **Densité de l'eau au bout de la jetée** | 1027.2 | 1026.6 |
+| **Température** |  |
+| - id. Balleux (matin et soir) | 21.1 | °C |
+| - id. Balleux (soir) | 21.7 | °C |
+| - id. Madras (matin) | 24.3 | °C |
+| - id. Madras (soir) | 31.9 | °C |
+| - id. Madras (soir) | Maxima | 39.3 | °C |
+| - id. Madras (soir) | Minima | 13.0 | °C |
+| - id. Loir (matin) | Minima | 28.7 | °C |
+```

@@ -1,0 +1,33 @@
+```plaintext
+|  V. 16 Novembre. 1902 | Matin | Soir  |
+| --- | --- | --- |
+|  Hauteur Barométrique | 766.6 | 766.0  |
+|  Direction du vent | cr. or. o | cr. or. o  |
+|  Force | 1 | 1  |
+|  (Reg. O. (terre)) | 10 | 10  |
+|  Nébulosité |  |  |
+|  (Reg. E. (mer)) | 10 | 10  |
+|  Direction des nuages | est. est. o | est. est. o  |
+|  Pluie tombée | quelques. 2 | quelques. 2  |
+|  Température de l'air | 18.2 | 18.2  |
+|  Hauteur de la mer | 29.2 | 41.8  |
+|  (Agitation de l'eau) | 3 | 3 fort  |
+|  Densité au bout de la jetée | 1028.8 | 1028.6  |
+|  Température de l'eau | 11.8 | 11.8  |
+
+|  V. 17 Novembre. 1902 | Matin | Soir  |
+| --- | --- | --- |
+|  Hauteur Barométrique |  | 760.2  |
+|  Direction du vent |  | cr. or. o  |
+|  Force |  | 2 fort  |
+|  (Reg. O. (terre)) |  | 10  |
+|  Nébulosité |  | 10  |
+|  (Reg. E. (mer)) |  | 10  |
+|  Direction des nuages |  | cr. or. o  |
+|  Pluie tombée |  | 11.0  |
+|  Température de l'air |  | 11.0  |
+|  Hauteur de la mer |  | 10.2  |
+|  (Agitation de l'eau) |  | 3  |
+|  Densité au bout de la jetée |  | 1028.2  |
+|  Température de l'eau |  | 11.1  |
+```

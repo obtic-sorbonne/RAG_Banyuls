@@ -1,0 +1,20 @@
+# OBSERVATIONS DU 194 
+
+Nombre de bateaux sortis (pêche à $l$ $\qquad$ ) $\qquad$ Panne
+Température de l'air $\left\{\begin{array}{l}\text { maxima depuis la veille. } \\ \text { minima id. }\end{array}\right.$
+Température de l'eau $\left\{\begin{array}{l}\text { maxima depuis la veille. } \\ \text { minima id. }\end{array}\right.$
+Pluie tombée depuis la veille, en millim.
+Evaporation depuis le $\qquad$ 190 , en millim.
+
+Direction du vent (à terre).
+Force
+Direction des nuages
+Nébulosité $\left\{\begin{array}{l}\text { région Ouest (terre) } \\ \text { id. Est (mer) }\end{array}\right.$
+Hauteur de la mer, en centimètres, au-dessus du zéro. (A. R. $)$
+Agitation de l'eau.
+Densité de l'eau au bout de la jetée.
+Température id.
+
+## OBSERVATIONS DU 190
+
+![img-0.jpeg](img-0.jpeg)

@@ -1,0 +1,30 @@
+| Date       | Matin | Soir |
+|------------|-------|------|
+| V. 23 Octobre 1902 |       |      |
+| Hauteur Barométrique | 770.7 | 768.9 |
+| Direction du vent | or or. | or or. |
+| Force        | 5   | 6    |
+| Hibulosité   |       |      |
+| Reg. O. (l une) | 0     | 0    |
+| Reg. É. (mer) | 2     | 0    |
+| Direction des nuages | cr or.0 | cr or.0 |
+| Pluie tombée |        |      |
+| Température de l'air | 17.2 | 17.7 |
+| Hauteur de la mer | 60.5 | 64.3 |
+| Agitation de l'eau | 4   | 4  |
+| Densité au bout de la jetée | 1029.2 | 1028.9 |
+| Température de l'eau | 17.0 | 17.0 |
+| V. 27 Octobre 1902 |       |      |
+| Hauteur Barométrique | 760.7 |      |
+| Direction du vent | or or. |      |
+| Force        | 5   | fort |
+| Hibulosité   |       |      |
+| Reg. O. (l une) | 0     |      |
+| Reg. É. (mer) | 0     |      |
+| Direction des nuages | cr or.0 |    |
+| Pluie tombée |        |      |
+| Température de l'air | 18.4 |      |
+| Hauteur de la mer | 37.2 |      |
+| Agitation de l'eau | forte |      |
+| Densité au bout de la jetée | 1029.2 |      |
+| Température de l'eau | 16.4 |      |

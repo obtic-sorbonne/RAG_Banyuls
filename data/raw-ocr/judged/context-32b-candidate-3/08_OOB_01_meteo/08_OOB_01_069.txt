@@ -1,0 +1,17 @@
+Dale: 8. 1° Octobre 1900
+
+|   |  | thrues  |
+| --- | --- | --- |
+|   |  | 9h.m.  |
+|  Bracten barométrique |  | 765,1  |
+|  Direction du vent |  | S.  |
+|  Force |  | 2  |
+|  Nebulosité | (Reg. 0. (mm²)) | 0  |
+|  Direction des nuages |  | 0  |
+|  Plein tombée |  | 0  |
+|  Température de l'air |  | 21,8  |
+|  Hauteur de la mer |  | 0,41  |
+|  Agitation de l'eau |  | 0  |
+|  Densité de l'eau | (au bout de la jetée) | 1026,0  |
+|  Température de l'eau |  | 21,6  |
+|  Observat. |  |   |

@@ -1,0 +1,43 @@
+| **Observations du 1960-09-09** |
+| --- |
+| **Nombre de bateaux sortis (pêche à l. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . )** | **18.8** |
+| **Température de l'air** |  |
+| maxima depuis la veille | **18.8** |
+| minima id. | **10.0** |
+| **Température de l'eau** |  |
+| maxima depuis la veille |  |
+| minima id. |  |
+| **Pluie tombée depuis la veille, en millim.** |  |
+| **Evaporation depuis le 190**, en millim. |  |
+| **Direction du vent (à terre)** | **N.O.** |
+| **Force** | **3** |
+| **Direction des nuages** | **N.N.O.** |
+| **Nébulosité** |  |
+| région Ouest (terre) | **10** |
+| id. Est (mer) | **10** |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.)** | **22.8** |
+| **Agitation de l'eau** | **1 fort** |
+| **Densité de l'eau au bout de la jetée** | **1027.4** |
+| **Température id.** | **16.6** |
+
+| **Observations du 1960-09-10** |
+| --- |
+| **Nombre de bateaux sortis (pêche à l. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . )** | **18.2** |
+| **Température de l'air** |  |
+| maxima depuis la veille | **18.2** |
+| minima id. | **9.7** |
+| **Température de l'eau** |  |
+| maxima depuis la veille |  |
+| minima id. |  |
+| **Pluie tombée depuis la veille, en millim.** | **quelqu.** |
+| **Evaporation depuis le 190**, en millim. |  |
+| **Direction du vent (à terre)** | **6uest** | **N.N.O.** |
+| **Force** | **1** | **5 fort.** |
+| **Direction des nuages** | **S.O.** | **N.N.O.** |
+| **Nébulosité** | |  |
+| région Ouest (terre) | **10** | **10** |
+| id. Est (mer) | **10** | **10** |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.)** | **55** | **18.2** |
+| **Agitation de l'eau** | **1 faible** | **1 fort.** |
+| **Densité de l'eau au bout de la jetée** | **1027.6** | **1028.0** |
+| **Température id.** | **16.7** | **16.3** |

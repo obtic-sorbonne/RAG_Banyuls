@@ -1,0 +1,30 @@
+```
+| **Date**       | **Matin** | **Soir**  |
+|----------------|-----------|-----------|
+| **21 Juin 1906** |           |            |
+| **Hauteur barométrique** | 768.7 | 768.2  |
+| **Direction du vent**     | cr.cro.0 | Nord  |
+| **Force**         | 3       | 0        |
+| **Nébulosité (Reg. C. (Clair))** | 0 | 0        |
+| **(Rég. O. (terre))** |  |  |
+| **Direction des nuages** |  |  |
+| **Pluie tombée**   |  |  |
+| **Température de l'air** | 27.0 |  | 
+| **Hauteur de la mer** | 14.2 |  | 
+| **Agitation de l'eau**  | 2 T.port. |  | 
+| **Densité au bout de la jetée** | 1027.7 |  | 
+| **Température de l'eau** | 19.4 | 19.3  |
+| **22 Juin 1906** |           |            |
+| **Hauteur barométrique** | 766.2 | 766.0  |
+| **Direction du vent**     | cr.cro.0 | cr.cro.0  |
+| **Force**         | 3       | 0        |
+| **Nébulosité (Reg. O. (terre))** | 10 | 0        |
+| **(Rég. N. (nu))** | 10 | 0        |
+| **Direction des nuages** | Ouest |  |
+| **Pluie tombée**   |  |  |
+| **Température de l'air** | 28.4 |  | 
+| **Hauteur de la mer** | 10.0 | 11.3  | 
+| **Agitation de l'eau**  | 2 |  | 
+| **Densité au bout de la jetée** | 1027.6 | 1027.2  | 
+| **Température de l'eau** | 19.9 | 21.6  |
+```

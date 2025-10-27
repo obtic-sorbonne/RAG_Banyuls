@@ -1,0 +1,16 @@
+# Dâte. 24 Avril. 1901
+
+|  **Kanteur Barométrique** | **9th Matin** | **3rd Soir**  |
+| --- | --- | --- |
+|  Direction du vent | Nord | N.N.E  |
+|  Force | 2 | 1  |
+|  Nébulosité | 10 | 2 kg/m² C.  |
+|  Rég. O. (Vare) | 10 | 10  |
+|  Direction des nuages | Nord | Nord  |
+|  Prue tombe | 0 | 0  |
+|  Température de l'air | 14,0 | 14,7  |
+|  Kanteur de la mer | 4/5 | 48,8  |
+|  Agitation de l'eau | 1 fort | 2 faible  |
+|  Densité de l'eau / au bout de la jetée | 1028,1 | 1027,8  |
+|  Densité de l'eau / au large |  |  |
+|  Température de l'eau | 18,3 | 18,3  |

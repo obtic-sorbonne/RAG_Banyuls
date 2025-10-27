@@ -1,0 +1,31 @@
+```plaintext
+| V. 5 Septembre 1902 | Matin | Soir |
+|---------------------|-------|------|
+| Hauteur Barométrique | 766.3 | 763.6 |
+| Direction du vent    | E.S.E | S.S.E |
+| Force                | 1 fort | 2 |
+| Nébulosité (Reg. 0. Claire) | 0 | 1 |
+| Nébulosité (Reg. 2. Mer)   | 0 | 0 |
+| Direction des nuages | Sud | Sud |
+| Pluie tombée         |   |   |
+| Température de l'air | 21.3 | 27.6 |
+| Hauteur de la mer    | 97.8 | 40.8 |
+| Agitation de l'eau   | 1 | 1 fort |
+| Densité au bout de la jetée | 1027.9 | 1027.4 |
+| Température de l'eau | 21.7 | 21.8 |
+
+| V. 6 Septembre 1902 | Matin | Soir |
+|---------------------|-------|------|
+| Hauteur Barométrique | 764.7 | 763.9 |
+| Direction du vent    | E.S.E | S.E |
+| Force                | 1 faible | 2 fort |
+| Nébulosité (Reg. 0. Claire) | 10 | 10 |
+| Nébulosité (Reg. 2. Mer)   | 10 | 10 |
+| Direction des nuages | S.S.O | S.O |
+| Pluie tombée         |   |   |
+| Température de l'air | 24.6 | 28.6 |
+| Hauteur de la mer    | 92.7 | 38.7 |
+| Agitation de l'eau   | 1 faible | 1 fort |
+| Densité au bout de la jetée | 1027.9 | 1027.9 |
+| Température de l'eau | 21.6 | 22.4 |
+```

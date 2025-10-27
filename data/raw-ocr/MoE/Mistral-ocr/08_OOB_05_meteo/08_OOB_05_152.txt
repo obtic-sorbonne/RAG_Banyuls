@@ -1,0 +1,27 @@
+|  7. 80 Septembre - 1906 | Mbatin | Soir  |
+| --- | --- | --- |
+|  Hantier Marométrique | 208.4 |   |
+|  Direction du vent | cr.cr. |   |
+|  Force | 3 |   |
+|  Nébulotte | 0 |   |
+|  (Reg. 20.- (nur) |  |   |
+|  Direction des nuages |  |   |
+|  Fluie tombée |  |   |
+|  Dempérature de l'air | 19.2 |   |
+|  Hauteur de la mer | 18.9 |   |
+|  Oxyitation de l'eau | 1 |   |
+|  Densité au bout de la jetée | 1028.5 |   |
+|  Dempérature de l'eau | 19.1 |   |
+|  7. 81 Septembre - 1906 | Mbatin | Soir  |
+|  Hantier Marométrique | 208.0 | 208.2  |
+|  Direction du vent | cr.cr. | cr. 8  |
+|  Force | 2 | 1 fort  |
+|  Nébulotte | 0 | 10  |
+|  (Reg. 20.- (nur) |  |   |
+|  Direction des nuages |  | cr.cr.  |
+|  Fluie tombée |  |   |
+|  Dempérature de l'air | 21.6 | 21.3  |
+|  Hauteur de la mer | 46.2 | 160.0  |
+|  Oxyitation de l'eau | 1 faible | 1 fort  |
+|  Densité au bout de la jetée | 1028.5 | 1028.4  |
+|  Dempérature de l'eau | 19.6 | 20.2  |

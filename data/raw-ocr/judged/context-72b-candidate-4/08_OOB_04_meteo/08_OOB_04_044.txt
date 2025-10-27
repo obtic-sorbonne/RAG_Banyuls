@@ -1,0 +1,40 @@
+```plaintext
+| **Date**       | **Matin**                     | **Soir**                    |
+|----------------|-------------------------------|-----------------------------|
+| **V. 23 Xbre 1901** |                             |                             |
+| Hauteur Barométrique | 758.2                   |                             |
+| Direction du vent    | Ouest                    |                             |
+| Force                | 1 (faible)               | 2 (fort)                    |
+| Nébulosité           | Reg. O. (terre) 10       | Reg. E. (mer) 10            |
+| Direction des nuages | Ouest                    |                             |
+| Pluie tombée         | -                        | -                           |
+| Température de l'air | 9.2                      |                             |
+| Hauteur de la mer    | 29.5                     |                             |
+| Agitation de l'eau   | 1 (faible)                |                             |
+| Densité au bout de la jetée | 1028.2             |                             |
+| Température de l'eau | 11.6                     |                             |
+| **V. 24 Xbre 1901** |                             |                             |
+| Hauteur Barométrique | 757.2                   | 757.2                      |
+| Direction du vent    | Ouest                    | Ouest                       |
+| Force                | 1 (faible)               | 2 (fort)                    |
+| Nébulosité           | Reg. O. (terre) 10       | Reg. E. (mer) 10            |
+| Direction des nuages | Ouest                    | Ouest                       |
+| Pluie tombée         | quelques g               | -                           |
+| Température de l'air | 7.5                      | 10.2                        |
+| Hauteur de la mer    | 23.1                     | 46.1                        |
+| Agitation de l'eau   | 1 (faible)               | 2                           |
+| Densité au bout de la jetée | 1028.2              | 1028.2                     |
+| Température de l'eau | 12.4                     | 12.1                        |
+| **V. 27 Xbre 1901** |                             |                             |
+| Hauteur Barométrique | 799.7                   | 797.2                      |
+| Direction du vent    | cr. O                    | cr. cr. O                  |
+| Force                | 1 (faible)               | 2 (fort)                    |
+| Nébulosité           | Reg. O. (terre) 10       | Reg. E. (mer) 2             |
+| Direction des nuages | cr. O                    | cr. cr. O                  |
+| Pluie tombée         | -                        | -                           |
+| Température de l'air | 7.8                      | 10.2                        |
+| Hauteur de la mer    | 23.1                     | 44.1                        |
+| Agitation de l'eau   | 1 (faible)               | 2                           |
+| Densité au bout de la jetée | 1028.7              | 1028.7                     |
+| Température de l'eau | 12.4                     | 12.5                        |
+```

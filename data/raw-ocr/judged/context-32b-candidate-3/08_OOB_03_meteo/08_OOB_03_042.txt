@@ -1,0 +1,16 @@
+# Date: 5 Novembre 1901
+
+|   | 9. Mai 3" Soir |  |   |
+| --- | --- | --- | --- |
+|  Hauteur Barométrique | 759,4 | 758,5 |   |
+|  Direction du vent | Nord | 8.8, 2 |   |
+|  Force | 1 | 1, fort |   |
+|  Nébulosité | Reg. - C. (1ère) | 0 | 0  |
+|  Nébulosité | Reg. - E. (mer) | 2 | 3  |
+|  Direction des nuages | Sud | Sud |   |
+|  Pluie tombée |  |  |   |
+|  Température de l'air | 13,0 | 11,1 |   |
+|  Hauteur de la mer | 10,3 | 38,9 |   |
+|  Agitation de l'eau | 3 faible | 1, fort |   |
+|  Densité de l'eau | au bout de la jetée | 1025,2 | 1025,8  |
+|  Température de l'eau | 11,4 | 11,4 |   |

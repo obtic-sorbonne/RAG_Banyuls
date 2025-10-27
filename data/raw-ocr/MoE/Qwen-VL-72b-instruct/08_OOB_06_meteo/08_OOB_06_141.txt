@@ -1,0 +1,45 @@
+| **OBSERVATIONS DU 1901 11 avril** |
+| --- |
+| **Nombre de bateaux sortis (pêche à la granade)** | **Complet** | **38** |
+| **Température de l'air** |  |  |
+| - maxima depuis la veille |  | **10.7** |
+| - minima id. |  | **2.0** |
+| **Température de l'eau** |  |  |
+| - maxima depuis la veille |  |  |
+| - minima id. |  |  |
+| **Pluie tombée depuis la veille, en millim.** |  |  |
+| **Evaporation depuis le 1900**, en millim. |  |  |
+|  | **à 9 h. m.** | **à 3 h. s.** |
+| **Direction du vent (à terre)** | **N.N.O.** |  |
+| **Force** | 1 et 2 |  |
+| **Direction des nuages** | **N.N.O.** |  |
+| **Nébulosité** |  |  |
+| - région Ouest (terre) | **40** |  |
+| - id. Est (mer) | **60** |  |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.)** | **20.0** |  |
+| **Agitation de l'eau** | 1 et 2 |  |
+| **Densité de l'eau au bout de la jetée** | **1028.3** |  |
+| **Température** | **40.7** |  |
+
+| **OBSERVATIONS DU 1901 12 avril** |
+| --- |
+| **Nombre de bateaux sortis (pêche à la granade)** | **Complet** | **38** |
+| **Température de l'air** |  |  |
+| - maxima depuis la veille |  | **15.7** |
+| - minima id. |  | **4.6** |
+| **Température de l'eau** |  |  |
+| - maxima depuis la veille |  |  |
+| - minima id. |  |  |
+| **Pluie tombée depuis la veille, en millim.** |  |  |
+| **Evaporation depuis le 1900**, en millim. |  |  |
+|  | **à 9 h. m.** | **à 3 h. s.** |
+| **Direction du vent (à terre)** | **E.N.E.** | **S.S.O.** |
+| **Force** | 1 et 2 | 1 et 2 |
+| **Direction des nuages** | **S. O.** | **N.O.** |
+| **Nébulosité** |  |  |
+| - région Ouest (terre) | **3** | **0** |
+| - id. Est (mer) | **2** | **6** |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.)** | **21.8** | **38.3** |
+| **Agitation de l'eau** | **1** | **1** |
+| **Densité de l'eau au bout de la jetée** | **1028.7** | **1027.7** |
+| **Température** | **11.9** | **11.6** |

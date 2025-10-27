@@ -1,0 +1,8 @@
+```plaintext
+| Date              | Heure | Hauteur Barométrique | Direction du vent | Force | Rég. O. (Terre) | Rég. E. (Mer) | Pluie tombée | Température de l'air | Hauteur de la mer | Agitation de l'eau | Densité au bout de la jetée | Température de l'eau |
+|-------------------|-------|---------------------|-------------------|-------|-----------------|---------------|--------------|---------------------|------------------|-------------------|-----------------------------|---------------------|
+| **11 Octobre 1903** | Matin | 761.3              |                   | 15    | 10              | 10            | "           | 18.7                | 38.8             | 1 T. fort         | 1027.6                      | 18.6                |
+| 11 Octobre 1903   | Soir  |                    |                   |       |                 |               |             |                     |                  |                   |                             |                     |
+| **12 Octobre 1903** | Matin | 794.7              | Ouest             | 15    | 10              | 10            | "           | 17.9                | 29.3             | 1 fort            | 1028.1                      | 18.5                |
+| 12 Octobre 1903   | Soir  | 794.2              | Cloué             | 1     | 10              | 10            | "           | 20.7                | 31.8             | 2 faible          | 1028.3                      | 18.6                |
+```

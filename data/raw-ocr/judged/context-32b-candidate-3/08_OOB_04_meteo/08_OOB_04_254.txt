@@ -1,0 +1,31 @@
+```plaintext
+|  V. 25 Juillet - 1903 | Matin | Soir  |
+| --- | --- | --- |
+|  Hauteur Francométrique | 465.2 | 466.4  |
+|  Direction du vent | or. 8 | 1/8  |
+|  Force | 1 | 1/201  |
+|  Nébulosité (Reg. O. (terre)) | 0 | 0  |
+|  Nébulosité (Reg. E. (mer)) | 0 | 0  |
+|  Direction des nuages | or. or. 0 | or. 0  |
+|  Flux tombé | 11 | 2/16  |
+|  Température de l'air | 81.9 | 85.4  |
+|  Hauteur de la mer | 12.3 | 13.3  |
+|  Agitation de l'eau | 1/2012 | 1/2012  |
+|  Densité au bout de la jetée | 1086.2 | 1086.5  |
+|  Température de l'eau | 81.3 | 83.4  |
+
+|  V. 26 Juillet - 1903 | Matin | Soir  |
+| --- | --- | --- |
+|  Hauteur Francométrique | 462.5 |   |
+|  Direction du vent | or. or. 0 |   |
+|  Force | 8/2012 |   |
+|  Nébulosité (Reg. O. (terre)) | 10 |   |
+|  Nébulosité (Reg. E. (mer)) | 10 |   |
+|  Direction des nuages | or. or. 0 |   |
+|  Flux tombé | 11 |   |
+|  Température de l'air | 86.0 |   |
+|  Hauteur de la mer | 45.9 |   |
+|  Agitation de l'eau | 1/2012 |   |
+|  Densité au bout de la jetée | 1084.5 |   |
+|  Température de l'eau | 81.6 |   |
+```

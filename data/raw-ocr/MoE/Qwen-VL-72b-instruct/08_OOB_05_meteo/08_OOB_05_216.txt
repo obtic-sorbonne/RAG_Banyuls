@@ -1,0 +1,27 @@
+| V. 7 Mars. 1907 | Matin | Soir |
+|-----------------|-------|------|
+| Hauteur Barometrique | 768,6 | 767,3 |
+| Direction du vent | or. vr. E | or. vr. o |
+| Force | 3 forts | 5 |
+| Nebulosite | Reg. Xi. (clère) | 10 | 10 |
+| Direction des nuages | vr. o | N. o |
+| Pluie Tombée | 3,77 | " |
+| Température de l'air | 8,2 | 10,0 |
+| Hauteur de la mer | 64,0 | 63,0 |
+| Agitation de l'eau | 4 | 3 forts |
+| Vensité au bout de la jetée | 1029,6 | 1027,6 |
+| Température de l'eau | 10,7 | 11,0 |
+
+| V. 8 Mars. 1907 | Matin | Soir |
+|-----------------|-------|------|
+| Hauteur Barometrique | 768,6 | 767,3 |
+| Direction du vent | vr. o | vr. o |
+| Force | 5 | 5 |
+| Nebulosite | Reg. o. (terre) | 10 | 10 |
+| Direction des nuages | vr. vr. E | vr. vr. o |
+| Pluie Tombée | " | " |
+| Température de l'air | 10,1 | 14,1 |
+| Hauteur de la mer | 69,1 | 64,0 |
+| Agitation de l'eau | 3 | 3 |
+| Vensité au bout de la jetée | 1029,7 | 1028,9 |
+| Température de l'eau | 10,7 | 10,7 |

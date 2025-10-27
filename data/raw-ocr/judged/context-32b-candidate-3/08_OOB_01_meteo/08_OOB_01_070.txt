@@ -1,0 +1,18 @@
+# Date: M. 2 Octobre 1900
+
+|   |  | Recency  |
+| --- | --- | --- |
+| Hauteur barométrique |  | 767.8  |
+| Direction du vent |  | S.  |
+| Force |  | 2  |
+| Nebulosité | Reg. E. (m²) | 8  |
+| Direction des nuages |  | S.  |
+| Pluie tombée |  | 15  |
+| Température de l'air |  | 23° 1.  |
+| Hauteur de la mer |  | 0.46  |
+| Agitation de l'eau |  | 2  |
+| Densité de l'eau (au bout de la jetée) |  | 1025.7  |
+| Densité de l'eau (au large) |  | 1025.7  |
+| Température de l'eau |  | 21° 2  |
+
+*Thuvat: - Vident naze c matri de 6^re preur.*

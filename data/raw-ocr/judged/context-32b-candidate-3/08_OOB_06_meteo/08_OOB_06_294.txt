@@ -1,0 +1,58 @@
+```plaintext
+### OBSERVATIONS DU 1902 4 JUILLET
+
+| **Nombre de bateaux sortis (pêche à l.)** | 22.4 |
+| --- | --- |
+| **Température de l'air** |  |
+| - maxima depuis la veille | 22.4 | °C |
+| - minima id. | 15.9 | °C |
+| **Température de l'eau** |  |
+| - maxima depuis la veille |  | °C |
+| - minima id. |  | °C |
+| **Pluie tombée depuis la veille, en millim.** |  | mm |
+| **Évaporation depuis le 190, en millim.** |  | mm |
+| **Direction du vent (à terre)** | **à 9 h. m.** | **à 3 h. s.** |
+| - Direction | O.S.O. | N.O. |
+| - Force | 2 | 1 |
+| **Direction des nuages** | N.E. | S.S.O. |
+| **Nébulosité** |  |  |
+| - région Ouest (terre) | 10 |  |
+| - id. Est (mer) | 10 |  |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.)** | 55.7 | cm |
+| **Agitation de l'eau** | Fort | 1 |
+| **Densité de l'eau au bout de la jetée** | 1026.5 | 18.7 |
+| **Température** |  |  |
+| - id. Balanz (matin) | Maxima 20.7 | °C |
+| - id. Balanz (soir) | Maxima 24.3 | °C |
+| - id. Balanz (soir) | Minima 20.2 | °C |
+| - id. Perrault (matin) | Maxima 27.0 | °C |
+| - id. Perrault (soir) | Maxima 38.0 | °C |
+| - id. Perrault (soir) | Minima 14.0 | °C |
+
+### OBSERVATIONS DU 1902 9 JUILLET
+
+| **Nombre de bateaux sortis (pêche à l.)** |  |
+| --- | --- |
+| **Température de l'air** |  |
+| - maxima depuis la veille | 20.6 | °C |
+| - minima id. | 14.0 | °C |
+| **Température de l'eau** |  |
+| - maxima depuis la veille |  | °C |
+| - minima id. |  | °C |
+| **Pluie tombée depuis la veille, en millim.** |  | mm |
+| **Évaporation depuis le 190, en millim.** |  | mm |
+| **Direction du vent (à terre)** | **à 9 h. m.** | **à 3 h. s.** |
+| - Direction | N.N.O. |  |
+| - Force |  |  |
+| **Direction des nuages** | N.N.O. |  |
+| **Nébulosité** |  |  |
+| - région Ouest (terre) | 10 |  |
+| - id. Est (mer) | 10 |  |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.)** |  |  |
+| **Agitation de l'eau** | Fort |  |
+| **Densité de l'eau au bout de la jetée** | 1027.3 |  |
+| **Température** |  |  |
+| - id. Perrault (matin) | Maxima 22.0 | °C |
+| - id. Perrault (soir) | Minima 17.5 | °C |
+| - id. Perrault (soir) | Maxima 11.9 | °C |
+```

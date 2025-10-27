@@ -1,0 +1,27 @@
+|  8. 3 Javembre. 1906 | Nibatin | Joir  |
+| --- | --- | --- |
+|  Hauteur Prorométrique | 4/2.6 | 4/8.3  |
+|  Détection du vent |  | 1/2.8  |
+|  Force |  | 2.  |
+|  Nibulinite |  | 2.  |
+|  (Aus. E. (me)) |  | 2.  |
+|  Détection des nuages |  | 2.  |
+|  Pluie Tombée |  | 2.  |
+|  Température de l'air |  | 12.1  |
+|  Hauteur de la mer |  | 33.0  |
+|  Crétation de l'eau |  | 2.  |
+|  Densité au bout de la jolie |  | 10.29.1  |
+|  Température de l'eau |  | 16.4  |
+|  9. 4 Jarembre. 1906 | Nibatin | Joir  |
+|  Hauteur Prorométrique |  | 4/3.4  |
+|  Détection du vent |  | 2.  |
+|  Force |  | 1/2.4  |
+|  Nibulinite |  | 1.  |
+|  (Aus. E. (me)) |  | 1.  |
+|  Détection des nuages |  | 2.  |
+|  Pluie Tombée |  | 2.  |
+|  Température de l'air |  | 20.64.1  |
+|  Hauteur de la mer |  | 1.  |
+|  Crétation de l'eau |  | 2.  |
+|  Densité au bout de la jolie |  | 1.  |
+|  Température de l'eau |  | 10  |

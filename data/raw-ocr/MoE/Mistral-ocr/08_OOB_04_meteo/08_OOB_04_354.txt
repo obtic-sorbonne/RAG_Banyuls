@@ -1,0 +1,35 @@
+# V. 19 Mars 1904
+
+|  **Position** | **Prix**  |
+| --- | --- |
+|  Hauteur Prazometrique | 766,2  |
+|  Direction du vent | 70,0  |
+|  Force | 4 faille  |
+|  Reg. O. (lire) | 8  |
+|  Nebulosite | 3  |
+|  Reg. E. (mer) | 3  |
+|  Direction des nuages | 12,7  |
+|  Flux tombe | 40,7  |
+|  Température de l'air | 12,7  |
+|  Hauteur de la mer | 40,7  |
+|  Égitation de l'eau | 3  |
+|  Densité au bout de la folie | 102,8,2  |
+|  Température de l'eau | 12,2  |
+
+# V. 21 Mars 1904
+
+|  **Position** | **Prix**  |
+| --- | --- |
+|  Hauteur Prazometrique | 763,7  |
+|  Direction du vent | 72,8  |
+|  Force | 1 fort  |
+|  Reg. O. (lire) | 0  |
+|  Nebulosite | 0  |
+|  Reg. E. (mer) | 0  |
+|  Direction des nuages | 14,7  |
+|  Flux tombe | 41,7  |
+|  Température de l'air | 17,6  |
+|  Hauteur de la mer | 17,6  |
+|  Égitation de l'eau | 102,8,9  |
+|  Densité au bout de la folie | 18,8  |
+|  Température de l'eau | 18,8  |

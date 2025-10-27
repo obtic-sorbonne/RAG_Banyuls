@@ -1,0 +1,33 @@
+# 12 Jubars. 1902
+
+|  Name | Pk | Tka | Tioir  |
+| --- | --- | --- | --- |
+|  Kanteur Praxometrique |  | 760.6 |   |
+|  Direction du vent |  |  |   |
+|  Force |  | 0 |   |
+|  Mébbulosité | (Reg. O. (tare)) | 10 |   |
+|   | (Reg. E. (mer)) | 10 |   |
+|  Direction des images |  |  |   |
+|  Mise tombée |  |  |   |
+|  Température de l'air |  | 11.8 |   |
+|  Kanteur de la mer |  | 34.9 |   |
+|  Égitation de l'eau |  | 1 fort |   |
+|  Densité au bout de la jeté |  | 1028.8 |   |
+|  Température de l'eau |  | 11.9 |   |
+
+# 13 Jubars. 1902
+
+|  Name | Pk | Tka | Tioir  |
+| --- | --- | --- | --- |
+|  Kanteur Praxometrique |  | 763.8 | 764.5  |
+|  Direction du vent |  | court | 30%  |
+|  Force |  | 1 | 15 fois  |
+|  Mébbulosité | (Reg. O. (tare)) | 10 | 10  |
+|   | (Reg. E. (mer)) | 10 | 10  |
+|  Direction des images |  | court | court  |
+|  Mise tombée |  |  |   |
+|  Température de l'air |  | 13.3 | 13.6  |
+|  Kanteur de la mer |  | 33.1 | 11.6  |
+|  Égitation de l'eau |  | 15 fois |   |
+|  Densité au bout de la jeté |  | 1027.0 | 1027.9  |
+|  Température de l'eau |  | 11.9 |   |

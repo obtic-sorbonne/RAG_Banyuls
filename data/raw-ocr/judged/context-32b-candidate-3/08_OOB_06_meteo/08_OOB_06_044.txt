@@ -1,0 +1,49 @@
+```plaintext
+| **Observations du 12 juillet 1960** |  |  |
+| :--- | :--- | :--- | 
+| Nombre de bateaux sortis (pêche à l'ancre) | 28 |  |  
+| Température de l'air |  |  |
+| - maxima depuis la veille | **28.1 °C** |  |  
+| - minima id. | **27.0 °C** |  |  
+| Température de l'eau |  |  |
+| - maxima depuis la veille | **-** |  |  
+| - minima id. | **-** |  |  
+| Pluie tombée depuis la veille, en millim. | **quelques gouttes** |  |  
+| Évaporation depuis le 190, en millim. | **-** |  |  
+| Direction du vent (à terre) |  |  |
+| - à 9 h. m. | **N.N.O.** |  |  
+| - à 3 h. s. | **N.N.O.** |  |  
+| Force | **1 fort** | **1 faible** |  
+| Direction des nuages | **N.O.** | **N.O.** |  
+| Nébulosité |  |  |
+| - région Ouest (terre) | **10** | **10** |  
+| - id. Est (mer) | **10** | **10** |  
+| Hauteur de la mer, en centimètres, au-dessus du zéro | **49.0 cm** | **41.4 cm** |  
+| Agitation de l'eau | **1 fort** | **1** |  
+| Densité de l'eau au bout de la jetée | **1027.0 g/cm³** | **1026.1 g/cm³** |  
+| Température id. | **18.7 °C** | **20.0 °C** |  
+
+| **Observations du 13 juillet 1960** |  |  |
+| :--- | :--- | :--- |  
+| Nombre de bateaux sortis (pêche à l'ancre) | **33** |  |  
+| Température de l'air |  |  |
+| - maxima depuis la veille | **33.2 °C** |  |  
+| - minima id. | **17.1 °C** |  |  
+| Température de l'eau |  |  |
+| - maxima depuis la veille | **-** |  |  
+| - minima id. | **-** |  |  
+| Pluie tombée depuis la veille, en millim. | **-** |  |  
+| Évaporation depuis le 190, en millim. | **-** |  |  
+| Direction du vent (à terre) |  |  |
+| - à 9 h. m. | **S.S.E.** |  |  
+| - à 3 h. s. | **S.S.E.** |  |  
+| Force | **1** | **1** |  
+| Direction des nuages | **N.N.O.** | **N.N.O.** |  
+| Nébulosité |  |  |
+| - région Ouest (terre) | **0** | **0** |  
+| - id. Est (mer) | **0** | **2** |  
+| Hauteur de la mer, en centimètres, au-dessus du zéro | **56.8 cm** | **-** |  
+| Agitation de l'eau | **1 faible** | **1 faible** |  
+| Densité de l'eau au bout de la jetée | **1026.5 g/cm³** | **1026.3 g/cm³** |  
+| Température id. | **19.7 °C** | **22.6 °C** |  
+```

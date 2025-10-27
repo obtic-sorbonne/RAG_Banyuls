@@ -1,0 +1,16 @@
+# Date: 28 Juillet 1901
+
+|  **Position** | **3e Matin** | **3e Soir**  |
+| --- | --- | --- |
+|  Hauteur Barométrique | 763,2 | 762,3  |
+|  Direction du vent | N.N.O | N.N.O  |
+|  Force | 2 | 8  |
+|  Nébulosité / Reg. O. (terre) | 10 | 10  |
+|  Nébulosité / Reg. E. (mer) | 10 | 10  |
+|  Direction des nuages | Ouest | Ouest  |
+|  Pluie tombée | 0 | 0  |
+|  Température de l'air | 21,5 | 29,5  |
+|  Hauteur de la mer | 15,4 | 16,5  |
+|  Agitation de l'eau | 1 | 2  |
+|  Densité de l'eau / au bout de la jetée | 1027,5 | 1027,5  |
+|  Température de l'eau | 21,5 | 29,5  |

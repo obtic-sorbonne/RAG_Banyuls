@@ -1,0 +1,30 @@
+| Pêche à la traîne | nombre de jours | Quantité de poisson |
+|------------------|-----------------|---------------------|
+| du 15 Avril - 1905 |                 |                     |
+|                   | Matin           | Soir                |
+| Hanteur Barometrique | 760,8          | ——                  |
+| Direction du vent | or. S           |                     |
+| Force            | is              |                     |
+| Nebulosite       | Reg. G. (légère)|                     |
+|                   | Reg. E. (mer)   |                     |
+| Direction des nuages | /               |                     |
+| Pluie tombée     | "               |                     |
+| Température de l'air | 14.6         |                     |
+| Hauteur de la mer | 0.7             |                     |
+| Agitation de l'eau | Fort           |                     |
+| Remonte au bout de la jetée | 1028.7 |                    |
+| Température de l'eau | 19.9        |                     |
+| du 18 Avril - 1905 |                 |                     |
+|                   | Matin           | Soir                |
+| Hanteur Barometrique | 7/4.9         | 7/4.2               |
+| Direction du vent | or.cr.o         | or.cr.o             |
+| Force            | id              | 3                   |
+| Nebulosite       | Reg.G.(léger)    | Légère cuti         |
+|                   | Reg.E.(mer)      |                     |
+| Direction des nuages | cr.c          | cr.o                |
+| Pluie tombée     | 2./             | "                   |
+| Température de l'air | 18.2         |                     |
+| Hauteur de la mer | 49.1            |                     |
+| Agitation de l'eau | 2              | 2 fort              |
+| Remonte au bout de la jetée | 1028.7 |                    |
+| Température de l'eau | 14.9        |                     |

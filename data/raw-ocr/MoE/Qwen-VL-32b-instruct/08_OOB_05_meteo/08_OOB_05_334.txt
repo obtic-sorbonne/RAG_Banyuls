@@ -1,0 +1,29 @@
+| Date         | Matin     | Soir     | Matin     | Soir     |
+|--------------|-----------|----------|-----------|----------|
+| V. 24 Xbre 1907 |           |          |           |          |
+| ------------ | --------- | -------- | --------- | -------- |
+| Hauteur Barométrique | 770.1 | 769.2 |           |          |
+| Direction du Vent | S.E.E | S.S.E |           |          |
+| Force | 0     | 1      |           |          |
+| Nebulosité (Res. 0. clair) | 2     | 0      |           |          |
+| Direction des Murs (Res. 2. (nuv)) | 4     | 2      |           |          |
+| Pluie Tombée |          |          |           |          |
+| Température de l'Air | 12.0 | 14.8 |           |          |
+| Hauteur de la mer | 33.0 | 48.0 |           |          |
+| Agitation de l'Eau | fort | fort |           |          |
+| Densité au bout de la Jette | 102.8 h | 102.7 |           |          |
+| Température de l'Eau | 14.7 | 14.4 |           |          |
+| ------------ | --------- | -------- | --------- | -------- |
+| V. 27 Xbre 1907 |           |          |           |          |
+| ------------ | --------- | -------- | --------- | -------- |
+| Hauteur Barométrique | 746,8 |         | 746,8 |         |
+| Direction du Vent | S.O. 14 | S.O | 14 | 2        |
+| Force |          |          |           |          |
+| Nebulosité (Res. 0. clair) | 10    |          | 10    |          |
+| Direction des Murs (Res. 2. (nuv)) |      |          | 10    |          |
+| Pluie Tombée |      |          | 2.2/ |          |
+| Température de l'Air | 13.1 |          | 20.1 |          |
+| Hauteur de la mer |      |          | 20.1 |          |
+| Agitation de l'Eau | 2     |          | 2     |          |
+| Densité au bout de la Jette |      |          | 1024.9 |          |
+| Température de l'Eau |      |          | 13.1 |          |

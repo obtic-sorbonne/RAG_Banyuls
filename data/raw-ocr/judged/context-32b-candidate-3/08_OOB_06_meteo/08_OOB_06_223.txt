@@ -1,0 +1,52 @@
+### OBSERVATIONS DU 1901 27 Novembre
+
+| **Nombre de bateaux sortis (pêche à l.)** | 17.1 |
+| **Température de l'air** |  |  |
+| - **maxima depuis la veille** | 17.1 °C |
+| - **minima id.** | 12.3 °C |
+| **Température de l'eau** |  |  |
+| - **maxima depuis la veille** | *non mentionnée* |
+| - **minima id.** | *non mentionnée* |
+| **Pluie tombée depuis la veille, en millim.** | quelques g |
+| **Evaporation depuis le 1901, en millim.** | *non mentionnée* |
+| **Direction du vent (à terre)** |  |  |
+| - **à 9 h. m.** | N.N.O. |
+| - **à 3 h. s.** | N.O. |
+| - **Force** | 1 fort | 2 forts |
+| - **Direction des nuages** | N.N.E. | N.E. |
+| **Nébulosité** |  |  |
+| - **région Ouest (terre)** | 10 | 10 |
+| - **id. Est (mer)** | 10 | 10 |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.)** | 6.0 | 1.0 |
+| **Agitation de l'eau** | 1 fort | 1 fort |
+| **Densité de l'eau au bout de la jetée** | 1028.3 | 1028.5 |
+| **Température id.** |  |  |
+| - **Matin** | 14.7 °C | 14.7 °C |
+| - **Terrane Matin** | **Maxima** | 29.8 °C | 24.8 °C |
+| - **Minima** | 4.7 °C | 11.0 °C |
+
+### OBSERVATIONS DU 1901 28 Novembre
+
+| **Nombre de bateaux sortis (pêche à l.)** | 17.0 |
+| **Température de l'air** |  |  |
+| - **maxima depuis la veille** | 20.0 °C |
+| - **minima id.** | 10.7 °C |
+| **Température de l'eau** |  |  |
+| - **maxima depuis la veille** | *non mentionnée* |
+| - **minima id.** | *non mentionnée* |
+| **Pluie tombée depuis la veille, en millim.** | 1.0 mm |
+| **Evaporation depuis le 1901, en millim.** | *non mentionnée* |
+| **Direction du vent (à terre)** |  |  |
+| - **à 9 h. m.** | Sud |
+| - **à 3 h. s.** | Sud |
+| - **Force** | 1 fort | 1 fort |
+| - **Direction des nuages** | Sud | Sud |
+| **Nébulosité** |  |  |
+| - **région Ouest (terre)** | 10 | 10 |
+| - **id. Est (mer)** | 10 | 10 |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.)** | 6.8 |  |
+| **Agitation de l'eau** | 2 fort | 1 fort |
+| **Densité de l'eau au bout de la jetée** | 1027.9 | 1027.8 |
+| **Température id.** |  |  |
+| - **Matin** | 18.4 °C | 18.7 °C |
+| - **Terrane Soir** | **Maxima** | 29.6 °C | 12.8 °C |

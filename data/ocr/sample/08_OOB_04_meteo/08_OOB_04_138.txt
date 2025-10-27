@@ -1,0 +1,35 @@
+# 8. 24 Septembre 1902
+
+|  Matin |  | Soir  |
+| --- | --- | --- |
+|  Hauteur Barométrique | 707.4 | 707.2  |
+|  Direction du vent | or | or  |
+|  Force | 3 | 3  |
+|  Nébulosité | 10 | 10  |
+|  Rég. O. (terre) | 10 | 10  |
+|  Rég. E. (mer) | 10 | 10  |
+|  Direction des nuages | or | or  |
+|  Pluie tombée | quelques. 9 | quelques. 9  |
+|  Température de l'air | 18.2 | 20.4  |
+|  Hauteur de la mer | 42.1 | 38.1  |
+|  Agitation de l'eau | 3 | 3  |
+|  Densité au bout de la jetée | 1029.2 | 1027.8  |
+|  Température de l'eau | 20.1 | 20.1  |
+
+# 9. 25 Septembre 1902
+
+|  Matin |  | Soir  |
+| --- | --- | --- |
+|  Hauteur Barométrique | 708.7 | 707.4  |
+|  Direction du vent | or | or  |
+|  Force | 2 fort | 2  |
+|  Nébulosité | 10 | 10  |
+|  Rég. O. (terre) | 10 | 10  |
+|  Rég. E. (mer) | 10 | 10  |
+|  Direction des nuages | or | or  |
+|  Pluie tombée | quelques. 9 | quelques. 9  |
+|  Température de l'air | 11.7 | 16.3  |
+|  Hauteur de la mer | 48.0 | 43.6  |
+|  Agitation de l'eau | 2 fort | 2 fort  |
+|  Densité au bout de la jetée | 1027.9 | 1027.8  |
+|  Température de l'eau | 20.1 | 19.8  |

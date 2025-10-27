@@ -1,0 +1,31 @@
+```plaintext
+|  9. 4 Juillet 1903 | Matin | Soir  |
+| --- | --- | --- |
+|  Hauteur Barométrique | 202,9 | 200,2  |
+|  Direction du vent | or. or. 0 | 1,8  |
+|  Force | 1 fort | 1 fort  |
+|  Nébulosité (Reg. O. (terre)) | 4 | 0  |
+|  Nébulosité (Reg. E. (mer)) | 0 | 0  |
+|  Direction des nuages | or. or. 0 | or. 0  |
+|  Pluie tombée | 21,3 | 22,5  |
+|  Température de l'air | 17,4 | 44,4  |
+|  Hauteur de la mer | 1 faible | 1 r faible  |
+|  Agitation de l'eau | 1022,2 | 1026,1  |
+|  Densité au bout de la jetée | 21,3 | 24,1  |
+|  Température de l'eau |  |   |
+
+|  9. 6 Juillet 1903 | Matin | Soir  |
+| --- | --- | --- |
+|  Hauteur Barométrique | 201,8 | 204,2  |
+|  Direction du vent | or. or. 0 | or. or. 0  |
+|  Force | 3 | 3 fort  |
+|  Nébulosité (Reg. O. (terre)) | 1 | 10  |
+|  Nébulosité (Reg. E. (mer)) | 4 | 10  |
+|  Direction des nuages | 0110,4 | or. or. 0  |
+|  Pluie tombée | 21,21 | 24,1  |
+|  Température de l'air | 21,8 | 24,1  |
+|  Hauteur de la mer | 16,8 | 46,5  |
+|  Agitation de l'eau | 1 fort | 2  |
+|  Densité au bout de la jetée | 1022,1 | 1022,2  |
+|  Température de l'eau | 21,3 | 21,3  |
+```

@@ -1,0 +1,56 @@
+| **OBSERVATIONS DU 1901 24 Mai** |
+| --- |
+| **Nombre de bateaux sortis (pêche à l'_____)** | 20.3 |
+| **Température de l'air** |
+| maxima depuis la veille... | 20.3 |
+| minima id. | 14.6 |
+| **Température de l'eau** |
+| maxima depuis la veille... |  |
+| minima id. |  |
+| **Pluie tombée depuis la veille, en millim.** | " 0 " |
+| **Evaporation depuis le 17 Mai 1901, en millim.** | " 11 " |
+| **Direction du vent (à terre) à 9 h. m.** | NNE |
+| **Force** | 2 fort |
+| **Direction des nuages** | NNE |
+| **Nébulosité** | 10 légères |
+| région Ouest (terre) | 10 légères |
+| id. Est (mer) | 2 |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.)** | **50.2** |
+| **Agitation de l'eau** | 1 |
+| **Densité de l'eau au bout de la jetée** | 1028.0 |
+| **Température id.** | 19.6 |
+| **- is-** |  |
+| Balano | **27.3** |
+| **- is-** |  |
+| Terrane - Matin | Maximam 23.9 |
+| Minimina 15.3 |  |
+| **- is- - Soir -** | Maximam 31.0 |
+| Minimina 21.9 |  |
+| **OBSERVATIONS DU 1901 25 Mai** |
+| --- |
+| **Nombre de bateaux sortis (pêche à la Crance)** | 24.2 |
+| **Température de l'air** |
+| maxima depuis la veille... | 25.1 |
+| minima id. | 13.7 |
+| **Température de l'eau** |
+| maxima depuis la veille... |  |
+| minima id. |  |
+| **Pluie tombée depuis la veille, en millim.** |  |
+| **Evaporation depuis le ______ 1901, en millim.** |  |
+| **Direction du vent (à terre) à 9 h. m.** |  |
+| **Force** | 0 |
+| **Direction des nuages** | S.O |
+| **Nébulosité** | 10 légères |
+| région Ouest (terre) | 10 légères |
+| id. Est (mer) | 10 légères |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.)** | **44.2** |
+| **Agitation de l'eau** | 1 T.joie |
+| **Densité de l'eau au bout de la jetée** | 1047.3 |
+| **Température id.** | 16.6 |
+| **- is-** |  |
+| Balano | **31.0** |
+| **- is-** |  |
+| Terrane - Matin | Maximam 28.2 |
+| Minimina 13.8 |  |
+| **- is- - Soir -** |  |
+

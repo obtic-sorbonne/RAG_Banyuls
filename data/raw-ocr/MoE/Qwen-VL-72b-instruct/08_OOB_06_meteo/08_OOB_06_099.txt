@@ -1,0 +1,63 @@
+### Observations du 1960-11-22
+
+| **Observations** | **Valeurs** |
+|------------------|-------------|
+| **Nombre de bateaux sortis (pêche à l)** | Néant |
+| **Température de l'air** | |
+| &nbsp; maxima depuis la veille | 8.4 |
+| &nbsp; minima depuis la veille | 3.7 |
+| **Température de l'eau** | |
+| &nbsp; maxima depuis la veille | - |
+| &nbsp; minima depuis la veille | - |
+| **Pluie tombée depuis la veille, en millim.** | - |
+| **Evaporation depuis le 1900, en millim.** | - |
+| **Vent (à 9 h m.)** | Ouest |
+| **Vent (à 3 h s.)** | N.N.O |
+| **Météo** | 1 |
+| **Direction des nuages** | N.N.O |
+| **Nébulosité** | 10 |
+| **Région Ouest (terre)** | 10 |
+| **Région Est (mer)** | 3 |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.)** | |
+| &nbsp; à 9 h m. | 31.8 |
+| &nbsp; à 3 h s. | 20.9 |
+| **Agitation de l'eau** | 2 faibl |
+| **Densité de l'eau au bout de la jetée** | |
+| &nbsp; à 9 h m. | 1026.6 |
+| &nbsp; à 3 h s. | 1026.8 |
+| **Température** | |
+| &nbsp; à 9 h m. | 11.4 |
+| &nbsp; à 3 h s. | 12.6 |
+
+---
+
+### Observations du 1960-11-23
+
+| **Observations** | **Valeurs** |
+|------------------|-------------|
+| **Nombre de bateaux sortis (pêche à l)** | Néant |
+| **Température de l'air** | |
+| &nbsp; maxima depuis la veille | 9.3 |
+| &nbsp; minima depuis la veille | 9.0 |
+| **Température de l'eau** | |
+| &nbsp; maxima depuis la veille | - |
+| &nbsp; minima depuis la veille | - |
+| **Pluie tombée depuis la veille, en millim.** | - |
+| **Evaporation depuis le 1900, en millim.** | - |
+| **Vent (à 9 h m.)** | S.O |
+| **Vent (à 3 h s.)** | S.S.E |
+| **Météo** | 1 uml. |
+| **Direction des nuages** | - |
+| **Nébulosité** | 0 |
+| **Région Ouest (terre)** | 0 |
+| **Région Est (mer)** | 0 |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.)** | |
+| &nbsp; à 9 h m. | 44.4 |
+| &nbsp; à 3 h s. | 36.2 |
+| **Agitation de l'eau** | 2 faibl |
+| **Densité de l'eau au bout de la jetée** | |
+| &nbsp; à 9 h m. | 1027.9 |
+| &nbsp; à 3 h s. | 1027.7 |
+| **Température** | |
+| &nbsp; à 9 h m. | 11.4 |
+| &nbsp; à 3 h s. | 12.3 |

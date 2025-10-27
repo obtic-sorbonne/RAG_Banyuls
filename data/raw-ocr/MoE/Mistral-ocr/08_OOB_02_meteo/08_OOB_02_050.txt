@@ -1,0 +1,18 @@
+# Date. 29 Jtoril. 1901
+
+|  |   |   |
+| --- | --- | --- |
+|  Hanteur Praxometrique | 9. "Moatin 3" Soir |   |
+|  Direction du vent | 750,5 | 750,3  |
+|  Force | Ouest | 11  |
+|   | 1 | 0  |
+|  Tributosité / Reg. - E. (mer) | 5 h/jei. | 10  |
+|  Direction des nuages | Ouest | 10  |
+|  Mise tombée | Ouest | 100  |
+|  Température de l'air |  |   |
+|  Hanteur de la mer | 14,1 | 14,9  |
+|  Agitation de l'eau | 11,3 | 46,4  |
+|   | 1 faible | 1 faible  |
+|  Sensité de l'eau | 1028,3 |   |
+|  |   |   |
+|  Température de l'eau | 13,1 | 14,1  |

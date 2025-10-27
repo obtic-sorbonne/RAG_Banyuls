@@ -1,0 +1,24 @@
+| Date       |         |                       | Matin |                     Loir |
+|------------|---------|-----------------------|-------|-----------------------------|
+| V. 19 Août 1904 | Hauteur Barométrique     |       | 764.6                      |                             |
+|             | Direction du Vent         |       | est. cr.                    |                             |
+|             | Force                      | i5    |                             | 2 parm                      |
+|             | Nebulosité (Reg. E. (Clau))|       | 0                           |                             |
+|             | Direction des nuages      |       |                             |                             |
+|             | Pluie Tombée               |       |                             |                             |
+|             | Température de l'air      |       | 24.0                       |                             |
+|             | Hauteur de la mer         |       | 49.7                       |                             |
+|             | Agitation de l'eau        |       | 17. fort                   |                             |
+|             | Densité au bout de la jetée|       | 1026.7                     |                             |
+|             | Température de l'eau      |       | 20                          |                             |
+| V. 20 Août 1904 | Hauteur Barométrique     |       | 764.8                      | 765.4                        |
+|             | Direction du Vent         |       | 8st                         | 1.1.8                        |
+|             | Force                      | i5    |                             | faible                       |
+|             | Nebulosité (Reg. O. (Clau))|       | 0                           | 10                            |
+|             | Direction des nuages      |       |                             | 10                            |
+|             | Pluie Tombée               |       |                             | quelques g.                  |
+|             | Température de l'air      |       | 24.9                       | 25.2                         |
+|             | Hauteur de la mer         |       | 32.8                       | 36.2                         |
+|             | Agitation de l'eau        |       | 1                           | 1. forl                      |
+|             | Densité au bout de la jetée|       | 1026.0                     |                             |
+|             | Température de l'eau      |       | 25.6                       | 24.8                         |

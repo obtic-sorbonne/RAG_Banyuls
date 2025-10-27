@@ -1,0 +1,18 @@
+| **Date** | 24 Mai 1901 |
+|---|---|
+| **9 H Malin** | **3 H Soir** |
+| **Hauteur Barométrique** | 762.7 | 762.6 |
+| **Direction du vent** | Nord | S.S.E |
+| **Force** | 2 faible | 7 fort |
+| **Nébulosité** | | |
+| **Reg. Ø. (Terre)** | légèrement concentrée | 2 |
+| **Reg. E. (mer)** | légèrement concentrée | 2 |
+| **Direction des nuages** | Nord | Sud |
+| **Pluie tombée** | // | // |
+| **Température de l'air** | 17.4 | 19.5 |
+| **Hauteur de la mer** | 49.4 | 49.2 |
+| **Agitation de l'eau** | 2 faible | 1/2 fort |
+| **Densité de l'eau** | | |
+| **au bout de la jetée** | 1027.9 | 1028.2 |
+| **au Large** | | |
+| **Température de l'eau** | 17.9 | 17.3 |

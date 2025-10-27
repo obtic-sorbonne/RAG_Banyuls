@@ -1,0 +1,59 @@
+### Observations du 1960, 4 août
+
+| Nombre de bateaux sortis (pêche à l…) | 33.0 |
+|---|---|
+| Température de l'air |  |
+|   maxima depuis la veille | 33.0 |
+|   minima id. | 17.3 |
+| Température de l'eau |  |
+|   maxima depuis la veille | – |
+|   minima id. | – |
+| Pluie tombée depuis la veille, en millim. | quelques-5 |
+| Évaporation depuis le 190, en millim. | – |
+| Direction du vent (à terre) |  |
+|   à 9 h. m. | Nord.6 |
+|   à 3 h. s. | Ns |
+| Force |  |
+|   – à 9 h. m. | 1 |
+|   – à 3 h. s. | 0 |
+| Direction des nuages |  |
+|   à 9 h. m. | Ss.0 |
+|   à 3 h. s. | Ns.0 |
+| Nuélosité |  |
+|   région Ouest (terre) | 0 |
+|   id. Est (mer) | 0 |
+| Hauteur de la mer, en centimètres, au-dessus du zéro | 1 |
+| Agitation de l'eau | faible |
+| Densité de l'eau au bout de la jetée | 1027.3 | 1026.3 |
+| Température de l'eau au bout de la jetée | 20.4 | 21.4 |
+
+---
+
+### Observations du 1960, 5 août
+
+| Nombre de bateaux sortis (pêche à l…) | 26.3 |
+|---|---|
+| Température de l'air |  |
+|   maxima depuis la veille | 26.3 |
+|   minima id. | 16.3 |
+| Température de l'eau |  |
+|   maxima depuis la veille | – |
+|   minima id. | – |
+| Pluie tombée depuis la veille, en millim. | quelques-9 |
+| Évaporation depuis le 190, en millim. | – |
+| Direction du vent (à terre) |  |
+|   à 9 h. m. | N.N.0 |
+|   à 3 h. s. | N.N.0 |
+| Force |  |
+|   – à 9 h. m. | 2-fort |
+|   – à 3 h. s. | 2 |
+| Direction des nuages |  |
+|   à 9 h. m. | Ns.0 |
+|   à 3 h. s. | Ns.0 |
+| Nuélosité |  |
+|   région Ouest (terre) | 10 |
+|   id. Est (mer) | 10 |
+| Hauteur de la mer, en centimètres, au-dessus du zéro | 1 |
+| Agitation de l'eau | faible |
+| Densité de l'eau au bout de la jetée | 1028.0 | 1026.6 |
+| Température de l'eau au bout de la jetée | 18.8 | 19.2 |

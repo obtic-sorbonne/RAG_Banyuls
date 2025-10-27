@@ -1,0 +1,63 @@
+### Observations du 1902 11 juin
+
+| Observations                          | Valeur              |
+|---------------------------------------|---------------------|
+| Nombre de bateaux sortis (pêche à l)  | 20.8                |
+| **Température de l'air**              |                     |
+| - maxima depuis la veille             | 20.8                |
+| - minima id.                          | 14.7                |
+| **Température de l'eau**              |                     |
+| - maxima depuis la veille             |                     |
+| - minima id.                          |                     |
+| **Pluie tombée depuis la veille, en millim.** | quelques        |
+| **Évaporation depuis le 190, en millim.** |                     |
+
+| **Direction du vent (à terre)**       | **à 9 h. m.** | **à 3 h. s.** |
+|---------------------------------------|---------------|---------------|
+| Direction                             | Sud           | Sud           |
+| Force                                 | 2             |               |
+| **Direction des nuages**              |               |               |
+| - à 9 h. m.                           |               |               |
+| - à 3 h. s.                           |               |               |
+| **Nébulosité**                        |               |               |
+| - région Ouest (terre)                | 10            |               |
+| - id. Est (mer)                       | 40            |               |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B.A.)** | 26.5 |               |
+| **Agitation de l'eau**                | 1             |               |
+| **Densité de l'eau au bout de la jetée** | 1027.2       |               |
+| **Température**                       |               |               |
+| - id. Balaize (matin)                 | Maxima 26.4   |               |
+| - id. Balaize (matin)                 | Minima 12.4   |               |
+
+---
+
+### Observations du 1902 12 juin
+
+| Observations                          | Valeur              |
+|---------------------------------------|---------------------|
+| Nombre de bateaux sortis (pêche à l)  | 21.0                |
+| **Température de l'air**              |                     |
+| - maxima depuis la veille             | 21.0                |
+| - minima id.                          | 12.9                |
+| **Température de l'eau**              |                     |
+| - maxima depuis la veille             |                     |
+| - minima id.                          |                     |
+| **Pluie tombée depuis la veille, en millim.** | 24.2               |
+| **Évaporation depuis le 190, en millim.** |                     |
+
+| **Direction du vent (à terre)**       | **à 9 h. m.** | **à 3 h. s.** |
+|---------------------------------------|---------------|---------------|
+| Direction                             | S.S.O.        | N.N.O.        |
+| Force                                 | 3             | 3             |
+| **Direction des nuages**              |               |               |
+| - à 9 h. m.                           | S.S.O.        |               |
+| - à 3 h. s.                           | N.N.O.        |               |
+| **Nébulosité**                        |               |               |
+| - région Ouest (terre)                | 2             |               |
+| - id. Est (mer)                       | 2             |               |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B.A.)** | 14.3 |               |
+| **Agitation de l'eau**                | 1 forte       | 1             |
+| **Densité de l'eau au bout de la jetée** | 1027.3       |               |
+| **Température**                       |               |               |
+| - id. Balaize (matin)                 | Maxima 26.6   |               |
+| - id. Balaize (matin)                 | Minima 11.7   |               |

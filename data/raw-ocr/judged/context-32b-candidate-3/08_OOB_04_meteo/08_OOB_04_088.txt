@@ -1,0 +1,36 @@
+```
+226
+Avril 1902
+
+## Matin
+|  **Pfandeur Barométrique** | **752,7**  |
+| --- | --- |
+|  Direction du vent | S.E  |
+|  Force | 2  |
+|  Nébulosité | 7  |
+|  | **(Reg. O. (terre))** | **10**  |
+|  | **(Reg. E. (mer))** | **6**  |
+|  Direction des nuages | N.E  |
+|  Pluie tombée | 7  |
+|  Température de l'air | 18,6  |
+|  Hauteur de la mer | 34,5  |
+|  Égitation de l'eau | 3  |
+|  Densité au bout de la jetée | 1028,6  |
+|  Température de l'eau | 17,3  |
+
+## Soir
+|  **Pfandeur Barométrique** | **752,1**  |
+| --- | --- |
+|  Direction du vent | N.E  |
+|  Force | 1  |
+|  Nébulosité | 10  |
+|  | **(Reg. O. (terre))** | **10**  |
+|  | **(Reg. E. (mer))** | **10**  |
+|  Direction des nuages | N.E  |
+|  Pluie tombée | quelques  |
+|  Température de l'air | 15,0  |
+|  Hauteur de la mer | 10,0  |
+|  Égitation de l'eau | 3  |
+|  Densité au bout de la jetée | 1028,1  |
+|  Température de l'eau | 15,0  |
+```

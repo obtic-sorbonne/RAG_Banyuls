@@ -1,0 +1,27 @@
+| V. 17 Septembre 1906 | Matin | Soir |
+|----------------------|-------|------|
+| Hauteur Barometrique | 768,4 | 766,8 |
+| Direction du vent    | E.O.  | E.S.E. |
+| Force                | 4 fort | 3 fort |
+| Nebulosité           | Reg. O. (Clère) | 0 | 2 |
+|                      | Reg. E. (mer) | 0 | 0 |
+| Direction des nuages | E.O. | Ouest |
+| Pluie tombée         | Quelques gouttes |  |
+| Temperature de l'air | 18,7 | 22,3 |
+| Hauteur de la mer    | 14,3 | 08,0 |
+| Agitation de l'eau   | 3 | 3 |
+| Densité au bout de la jetée | 1028,3 | 1027,8 |
+| Temperature de l'eau | 20,0 | 20,4 |
+| V. 18 Septembre 1906 | Matin | Soir |
+| Hauteur Barometrique | 767,6 | 764,3 |
+| Direction du vent    | E.E.O. | E.S.E. |
+| Force                | 3 | 1 |
+| Nebulosité           | Reg. O. (Clère) | 1 | 10 |
+|                      | Reg. E. (mer) | 2 | 10 |
+| Direction des nuages | E.O. | E.O. |
+| Pluie tombée         | " | " |
+| Temperature de l'air | 18,3 | 22,7 |
+| Hauteur de la mer    | 18,0 | 17,2 |
+| Agitation de l'eau   | 1 fort | 2 |
+| Densité au bout de la jetée | 1028,1 | 1028,2 |
+| Temperature de l'eau | 20,0 | 20,5 |

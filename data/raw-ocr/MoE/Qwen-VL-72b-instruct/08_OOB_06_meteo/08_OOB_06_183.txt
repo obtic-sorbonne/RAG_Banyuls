@@ -1,0 +1,117 @@
+### Observations du **1901** 3 août
+
+| **Nombre de bateaux sortis (pêche à l'____)** | |
+|---|---|
+| 34.1 |
+
+**Température de l'air**  
+| maxima depuis la veille | 34.1 |
+| minima id. | 27.2 |
+
+**Température de l'eau**  
+| maxima depuis la veille |  |
+| minima id. |  |
+
+**Pluie tombée depuis la veille, en millim.** |  |
+
+**Évaporation depuis le 1901, en millim.** |  |
+
+**Direction du vent (à terre)**  
+| À 9 h. m. | N.N.O |
+| À 3 h. s. | Nord |
+
+**Force**  
+| À 9 h. m. | 2 |
+| À 3 h. s. | 2 |
+
+**Direction des nuages**  
+| À 9 h. m. | 11 |
+| À 3 h. s. | 11 |
+
+**Nébulosité**  
+| région Ouest (terre) | 0 |
+| id. Est (mer) | 0 |
+
+**Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.)**  
+| À 9 h. m. | 40.0 |
+| À 3 h. s. | 30.0 |
+
+**Agitation de l'eau**  
+| À 9 h. m. | 1 |
+| À 3 h. s. | 1 fort. |
+
+**Densité de l'eau au bout de la jetée**  
+| À 9 h. m. | 1024.8 |
+| À 3 h. s. | 1023.8 |
+
+**Température id.**  
+| À 9 h. m. | 26.1 |
+| À 3 h. s. | 26.2 |
+
+**Terre Matin (maxima)** | 29.6  
+**Terre Matin (minima)** | 33.7  
+**Terre Matin (maxima)** | 29.1  
+**Terre Matin (minima)** | 40.0  
+
+**Terre Matin (maxima)** | 32.4  
+
+---
+
+### Observations du **1901** 4 août
+
+| **Nombre de bateaux sortis (pêche à l'____)** | |
+|---|---|
+| 33.4 |
+
+**Température de l'air**  
+| maxima depuis la veille | 33.4 |
+| minima id. | 25.1 |
+
+**Température de l'eau**  
+| maxima depuis la veille |  |
+| minima id. |  |
+
+**Pluie tombée depuis la veille, en millim.** |  |
+
+**Évaporation depuis le 1901, en millim.** |  |
+
+**Direction du vent (à terre)**  
+| À 9 h. m. | N.N.O |
+| À 3 h. s. | N.N.O |
+
+**Force**  
+| À 9 h. m. | 2 fort. |
+| À 3 h. s. | 2 fort. |
+
+**Direction des nuages**  
+| À 9 h. m. | 11 |
+| À 3 h. s. | N.N.O |
+
+**Nébulosité**  
+| région Ouest (terre) | 0 |
+| id. Est (mer) | 3 |  
+
+**Nébulosité**  
+| région Ouest (terre) | 0 |
+| id. Est (mer) | 0 |
+
+**Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.)**  
+| À 9 h. m. | 41.8 |
+| À 3 h. s. | 30.2 |
+
+**Agitation de l'eau**  
+| À 9 h. m. | 1 |
+| À 3 h. s. | 1 fort. |
+
+**Densité de l'eau au bout de la jetée**  
+| À 9 h. m. | 1024.0 |
+| À 3 h. s. | 1023.8 |
+
+**Température id.**  
+| À 9 h. m. | 29.4 |
+| À 3 h. s. | 26.0 |
+
+**Terre Matin (maxima)** | 39.8  
+**Terre Matin (minima)** | 28.7  
+**Terre Matin (maxima)** | 38.2  
+**Terre Matin (minima)** | 29.2  

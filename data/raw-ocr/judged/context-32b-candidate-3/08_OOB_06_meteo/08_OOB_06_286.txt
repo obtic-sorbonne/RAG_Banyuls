@@ -1,0 +1,64 @@
+```plaintext
+### OBSERVATIONS DU 1902 1er juin
+
+| **Nombre de bateaux sortis (pêche à l.)** |  |
+| --- | --- |
+| **Température de l'air** |  |
+| - maxima depuis la veille | 23.7 | °C |
+| - minima id. | 14.2 | °C |
+| **Température de l'eau** |  |
+| - maxima depuis la veille |  | °C |
+| - minima id. |  | °C |
+| **Pluie tombée depuis la veille, en millim.** | 2.0 | mm |
+| **Évaporation depuis le 1900, en millim.** |  | mm |
+| **Direction du vent (à terre)** |  |  |
+| - à 9 h. m. | S.O. |
+| - à 3 h. s. |  |
+| **Force** |  |  |
+| - à 9 h. m. | 2 |
+| - à 3 h. s. |  |
+| **Direction des nuages** |  |  |
+| - à 9 h. m. | S.O. |
+| - à 3 h. s. |  |
+| **Nébulosité** |  |  |
+| - région Ouest (terre) | 10 |
+| - id. Est (mer) | 10 |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.)** | 27.0 | cm |
+| **Agitation de l'eau** | 1 |  |
+| **Densité de l'eau au bout de la jetée** | 1028.4 |  |
+| **Température de l'eau au bout de la jetée** |  |  |
+| - matin (maxima) | 31.9 | °C |
+| - matin (minima) | 11.4 | °C |
+
+### OBSERVATIONS DU 1902 2 juin
+
+| **Nombre de bateaux sortis (pêche à l.)** |  |
+| --- | --- |
+| **Température de l'air** |  |
+| - maxima depuis la veille | 23.1 | °C |
+| - minima id. | 11.7 | °C |
+| **Température de l'eau** |  |
+| - maxima depuis la veille |  | °C |
+| - minima id. |  | °C |
+| **Pluie tombée depuis la veille, en millim.** | quelques | mm |
+| **Évaporation depuis le 1900, en millim.** |  | mm |
+| **Direction du vent (à terre)** |  |  |
+| - à 9 h. m. | Nord |
+| - à 3 h. s. |  |
+| **Force** |  |  |
+| - à 9 h. m. | 1 |
+| - à 3 h. s. | 0 |
+| **Direction des nuages** |  |  |
+| - à 9 h. m. | N.N.O. |
+| - à 3 h. s. | N.N.O. |
+| **Nébulosité** |  |  |
+| - région Ouest (terre) | 10 |
+| - id. Est (mer) | 10 |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.)** | 28.0 | 37.7 | cm |
+| **Agitation de l'eau** | 1 | 1 |
+| **Densité de l'eau au bout de la jetée** | 1027.7 | 1028.0 |
+| **Température de l'eau au bout de la jetée** |  |  |
+| - matin | 11.6 | 17.8 | °C |
+| - soir (maxima) | 23.0 |  | °C |
+| - soir (minima) |  | 9.7 | °C |
+```

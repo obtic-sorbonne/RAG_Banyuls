@@ -1,0 +1,27 @@
+|  V. 2 Juillet. 1904 | Obatin | fori  |
+| --- | --- | --- |
+|  Hauteur Wrarametrique | 766,5 | 766,0  |
+|  Direction du vent | er.cr.0 | P.P.8  |
+|  Force | 8 fose | 1 r.facto  |
+|  Obetintivele | (Reg. O. (min) | 10  |
+|  (Reg. E. (min) | 8 | 10  |
+|  deiriction des mass | er.cr.0 | P.0  |
+|  Fluis Nombre | 22,1 | 22,4  |
+|  Remplirative de l'air | 10,0 | 17,6  |
+|  Hauteur de la mer | 1 fort | 15 fort  |
+|  Régitalion de l'eau | 1022,4 | 1022,4  |
+|  deemite au bout de la jetée | 21,5 | 21,2  |
+|  Remplirative de l'eau |  |   |
+|  V. 24 Juillet. 1904 | Obatin | fori  |
+|  Hauteur Warametrique | 761,8 | 764,2  |
+|  deiriction du vent | P.8 | P.P.6  |
+|  Force | 1 fort | 1 fort  |
+|  Obetintivele | (Reg. O. (min) | 8  |
+|  (Reg. E. (min) | 1 | 1  |
+|  deiriction des nuages |  | bund  |
+|  Fluis Nombre | gusben 2 | 28,0  |
+|  Remplirative de l'air | 24,2 | 28,0  |
+|  Hauteur de la mer | 47,7 | 11,5  |
+|  Régitalion de l'eau | 1 fuibe | 1 fuibe  |
+|  deemite au bout de la jetée | 1026,6 | 1026,4  |
+|  Remplirative de l'eau | 24,4 | 24,1  |

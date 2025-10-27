@@ -1,0 +1,17 @@
+# Date 25 Février 1901
+
+|  | 9<sup>e</sup> matin | 3<sup>e</sup> soir |
+| --- | --- | --- |
+| **Hauteur barométrique** | 758,3 | 757,0 |
+| **Direction du vent** | Nord | Nord |
+| **Force** | 1 faible | 2 faible |
+| **Nébulosité (Reg. U. (terre))** | 0 | 0 |
+| **Nébulosité (Reg. E. (mer))** | 0 | 0 |
+| **Direction des nuages** | 11 | 11 |
+| **Pluie tombée** | 0 | 0 |
+| **Température de l'air** | 8,7 | 11,2 |
+| **Hauteur de la mer** | 54,8 | 58,0 |
+| **Agitation de l'eau** | 3,9 | 3,9 |
+| **Densité de l'eau** | au bout de la jetée |  |
+| **au large** | 1028,5 | 1028,5 |
+| **Température de l'eau** | 10,5 | 10,7 |

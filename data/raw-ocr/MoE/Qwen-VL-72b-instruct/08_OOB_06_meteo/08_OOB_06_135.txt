@@ -1,0 +1,59 @@
+### OBSERVATIONS DU 1981 27 Mars
+
+| **Nombre de bateaux sortis (pêche à l...)** | **Néant** |
+| --- | --- |
+| **Température de l'air** |  |
+| maxima depuis la veille | 12.8 |
+| minima id. | 2.1 |
+| **Température de l'eau** |  |
+| maxima depuis la veille |  |
+| minima id. |  |
+| **Pluie tombée depuis la veille, en millim.** | 6.21 |
+| **Evaporation depuis le 190, en millim.** |  |
+| **Direction du vent (à terre)** |  |
+| à 9 h. m. | E.S.E. |
+| à 3 h. s. | E.S.E. |
+| **Force** |  |
+| à 9 h. m. | faible |
+| à 3 h. s. | faible |
+| **Direction des nuages** |  |
+| à 9 h. m. | E.S.E. |
+| à 3 h. s. | E.S.E. |
+| **Nébulosité** |  |
+| région Ouest (terre) | 10 |
+| id. Est (mer) | 10 |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B.P.)** | 27.8 |
+| **Agitation de l'eau** | 2 |
+| **Densité de l'eau au bout de la jetée** | 1028.0 |
+| **Température** | 10.7 |
+
+---
+
+### OBSERVATIONS DU 1981 28 Mars
+
+| **Nombre de bateaux sortis (pêche à l...)** | **Néant** |
+| --- | --- |
+| **Température de l'air** |  |
+| maxima depuis la veille | 12.2 |
+| minima id. | 7.4 |
+| **Température de l'eau** |  |
+| maxima depuis la veille |  |
+| minima id. |  |
+| **Pluie tombée depuis la veille, en millim.** | 18.92 |
+| **Evaporation depuis le 190, en millim.** |  |
+| **Direction du vent (à terre)** |  |
+| à 9 h. m. |  |
+| à 3 h. s. | Nord |
+| **Force** |  |
+| à 9 h. m. |  |
+| à 3 h. s. |  |
+| **Direction des nuages** |  |
+| à 9 h. m. |  |
+| à 3 h. s. | E.S.E. |
+| **Nébulosité** |  |
+| région Ouest (terre) | 10 |
+| id. Est (mer) | 10 |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro** |  |
+| **Agitation de l'eau** | 8 |
+| **Densité de l'eau au bout de la jetée** |  |
+| **Température** |  |

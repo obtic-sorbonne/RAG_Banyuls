@@ -1,0 +1,10 @@
+|  8. 22 Avit 1905 | Mabin | Joir  |
+| --- | --- | --- |
+|  Sauteur Maronitrique | 266.4 | 207.4  |
+|  Direction du rent | P.P. 2 | "  |
+|  Force | 1/201. | 0  |
+|  (1) 20.0 (tien) | 201.4.0 | 10  |
+|  (2) 20.0 (tien) | 201.4.0 | 10  |
+|  Direction des mages | 201.4.0 | 10  |
+|  (2) 20.0 (tien) | 201.4.0 | 10  |
+|  (3) 20.0 (tien) | 201.4.0 | 10  |

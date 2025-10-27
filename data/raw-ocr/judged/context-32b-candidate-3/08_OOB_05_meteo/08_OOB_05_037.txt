@@ -1,0 +1,8 @@
+```
+| **Date** | **Heure** | **Hauteur Barométrique (mm)** | **Direction du vent** | **Force du vent** | **Nébulosité (%)** | **Direction des nuages** | **Pluie tombée (mm)** | **Température de l'air (°C)** | **Hauteur de la mer (m)** | **Agitation de l'eau** | **Densité au bout de la jetée (kg/m³)** | **Température de l'eau (°C)** |
+|----------|-----------|----------------------------------|-----------------------|--------------------|------------------------|-------------------------|-----------------------------|-------------------------------|-----------------------------|----------------------|---------------------------------|------------------------------|
+| 25 Septembre 1905 | Matin | 760.9 | cr. 8 | is | légère | S.O. | - | 19.0 | 47.6 | faible | 1027.8 | 20.8 |
+| 25 Septembre 1905 | Soir | 760.3 | ouest | fort | légère | S.O. | - | 19.7 | 39.5 | faible | 1027.8 | 20.7 |
+| 26 Septembre 1905 | Matin | 769.9 | cr.cr.o | is | claire | S.O. | 12.37 | 19.8 | 49.7 | faible | 1028.8 | 20.3 |
+| 26 Septembre 1905 | Soir | 769.5 | croisé | fort | claire | S.O. | - | 19.6 | 39.2 | 2 | 1028.3 | 20.2 |
+```

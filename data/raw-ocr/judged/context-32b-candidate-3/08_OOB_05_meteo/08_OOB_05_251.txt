@@ -1,0 +1,33 @@
+```markdown
+# 30 Mai 1907
+
+| **Date et heure**    | **Matin** | **Soir** |
+|---------------------|----------|----------|
+| Hauteur Barométrique | 767.4 mmHg | 765.8 mmHg |
+| Direction du vent    | Nord-Est | Nord-Est |
+| Force               | 3        | 1         |
+| Hébulosité (Reg. G. (Terre)) | 0 | 0         |
+| Direction des nuages | 0         | 0         |
+| Pluie tombée         | 0         | 0         |
+| Température de l'air | 19.2 °C  | 37.1 °C   |
+| Hauteur de la mer    | 10.8 cm  | 67.3 cm   |
+| Agitation de l'eau  | 3 fort   | 3         |
+| Densité au bout de la jetée | 1027.8 g/cm³ | 1027.4 g/cm³ |
+| Température de l'eau | -16.3 °C | 17.3 °C   |
+
+# 31 Mai 1907
+
+| **Date et heure**    | **Matin** | **Soir** |
+|---------------------|----------|----------|
+| Hauteur Barométrique | 760.8 mmHg | 778.1 mmHg |
+| Direction du vent    | Ouest    | Nord-Est  |
+| Force               | 11 fin.  | 1 fort   |
+| Hébulosité (Reg. G. (Terre)) | 10       | 10       |
+| Direction des nuages | 0         | 10       |
+| Pluie tombée         | 0         | 0         |
+| Température de l'air | 38.0 °C  | 37.3 °C   |
+| Hauteur de la mer    | 47.2 cm  | 17.3 cm   |
+| Agitation de l'eau  | 1         | 1         |
+| Densité au bout de la jetée | 1027.6 g/cm³ | 1027.6 g/cm³ |
+| Température de l'eau | 17.0 °C  | 18.0 °C   |
+```

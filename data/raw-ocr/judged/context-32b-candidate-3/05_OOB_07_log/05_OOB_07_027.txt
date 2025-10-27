@@ -1,0 +1,35 @@
+```plaintext
+N°
+
+Sortie du 1 Juillet 1909
+
+Départ de Banyuls à 3½ heures du matin. 
+pour Palamos              Arrivée aux Medes à 8¼ Matin.
+Départ des Medes          à 9½ heures du matin.
+pour le grand fond        Arrivée à 
+Départ de grands fonds    à 3 heures du soir
+pour Palamos
+Arrivée au mouillage à Palamos à 5¼ h du soir.
+
+État du temps : Matin, bise du Nord fraîche. Soir 
+petite bise du Sud. Beau.
+Passagers à bord : Mᵐᵉ Racovitza, Tager, Jeannell, Chatton.
+Objet de la sortie : Pêche pelagique dans le grand fond.
+
+Consommation {
+24¼ briquettes de 4 Poids en kilos 900
+6 huile                             Total en litres 6
+
+Dépenses
+
+Observations: Parti de Banyuls à 3h40' nous passons
+au cap Creux à 5½’ à Cadagués à 5¾’
+Mouillons aux Medes pour laisser tomber le houle
+à 8h20'
+En route pour le grand fond à 10h20' premier 
+tonnage 160' 2°140' 3°1060' descendant le grand
+filet 950' de cable à Mitrai 40' relevé à 2h20'
+En route à 8h après avoir changé un clopit
+de pompe à air qui est brisé.
+Nous sinons à l'hôtel de Palamos.
+```

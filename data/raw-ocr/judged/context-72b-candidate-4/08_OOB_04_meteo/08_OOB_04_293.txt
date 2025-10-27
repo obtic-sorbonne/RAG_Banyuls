@@ -1,0 +1,32 @@
+```plaintext
+| **Date**       | **Matin**                     | **Soir**                     |
+|----------------|-------------------------------|------------------------------|
+| **V. 28 Octobre 1903** |                             |                              |
+| Hauteur Barométrique | 793.0                 | 792.5                        |
+| Direction du vent    | cr. 0                  | cr. 0                         |
+| Force               | 15                    | 2                            |
+| Reg. O. (claire)    | 10                    | 10                           |
+| Nébulosité          |                       |                              |
+| Reg. E. (mer)       | 10                    | 10                           |
+| Direction des nuages | cr. 0                 | Sud                          |
+| Pluie tombée        | 13.0                  | 4.29                         |
+| Température de l'air | 14.2                  | 13.6                         |
+| Hauteur de la mer   | 22.0                  | 17.7                         |
+| Agitation de l'eau | 1 T. fort             | 1 fort                       |
+| Densité au bout de la jetée | 1028.5        | 1028.9                        |
+| Température de l'eau | 17.3                  | 17.1                         |
+| **V. 29 Octobre 1903** |                            |                             |
+| Hauteur Barométrique | 793.3                 | 796.1                        |
+| Direction du vent    | cr. 0                  | N. 0                         |
+| Force               | 15                    | 4                            |
+| Reg. O. (claire)    | 10 légèrement          | 10 légèrement                |
+| Nébulosité          |                       |                              |
+| Reg. E. (mer)       | 10 légèrement          | 10 légèrement                |
+| Direction des nuages | Sud                   | Ouest                        |
+| Pluie tombée        | quelques g            |                              |
+| Température de l'air | 14.4                  | 16.1                         |
+| Hauteur de la mer   | 25.0                  | 19.2                         |
+| Agitation de l'eau | 2                     | 3 fort                       |
+| Densité au bout de la jetée | 1029.2        | 1028.8                        |
+| Température de l'eau | 17.0                  | 16.9                         |
+```

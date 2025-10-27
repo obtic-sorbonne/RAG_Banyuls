@@ -1,0 +1,35 @@
+```markdown
+# 9 OCTOBRE 1902
+
+| **Date**         | **Matin** | **Soir** |
+|------------------|----------|----------|
+| **Hauteur Barométrique (mmHg)** | 767.2 | 767.2 |
+| **Direction du Vent** | cr. o | cr. o |
+| **Force** | 3 | 2 |
+| **Nébulosité (Rég. A. terres)** | 10 | 10 |
+| **Nébulosité (Rég. E. mer)** | 10 | 10 |
+| **Direction des nuages** | cr. o | cr. o |
+| **Pluie tombée (mm)** | 2.0 | - |
+| **Température de l'air (°C)** | 16.0 | 17.0 |
+| **Hauteur de la mer (cm)** | 36.8 | 46.9 |
+| **Agitation de l'eau** | 2 | faible |
+| **Densité au bout de la jetée (g/cm³)** | 1027.7 | 1027.6 |
+| **Température de l'eau (°C)** | 11.2 | 11.3 |
+
+# 10 OCTOBRE 1902
+
+| **Date**         | **Matin** | **Soir** |
+|------------------|----------|----------|
+| **Hauteur Barométrique (mmHg)** | 763.1 | 764.0 |
+| **Direction du Vent** | cr. o | cr. o |
+| **Force** | 2 | 1 |
+| **Nébulosité (Rég. A. terres)** | 10 | 10 |
+| **Nébulosité (Rég. E. mer)** | 10 | 10 |
+| **Direction des nuages** | cr. o | S. o |
+| **Pluie tombée (mm)** | - | - |
+| **Température de l'air (°C)** | 17.2 | 16.8 |
+| **Hauteur de la mer (cm)** | 37.3 | 40.2 |
+| **Agitation de l'eau** | 1 | 1 |
+| **Densité au bout de la jetée (g/cm³)** | 1027.6 | 1027.7 |
+| **Température de l'eau (°C)** | 19.0 | 19.4 |
+```

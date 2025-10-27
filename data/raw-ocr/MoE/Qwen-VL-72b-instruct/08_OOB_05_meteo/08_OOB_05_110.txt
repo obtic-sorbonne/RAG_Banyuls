@@ -1,0 +1,23 @@
+V. 11 Mai 1906 Matin Soir
+
+| Matin | Soir |
+|-------|------|
+|       |      |
+
+V. 12 Mai 1906 Matin Soir
+
+| Matin | Soir |
+|-------|------|
+| Hauteur Barométrique | 779.0 |
+| Direction du vent | S. E |
+| Force | 3 faible |
+| Reg. G. (mètre) | 40 |
+| Nébulosité |  |
+| Reg. E. (mètre) |  |
+| Direction des nuages | Lues |
+| Pluie tombée |  |
+| Température de l'air | 17.8 |
+| Hauteur de la mer | 41.5 |
+| Agitation de l'eau | 1 faible |
+| Densité au bout de la jetée | 228.2 |
+| Température de l'eau | 18.0 |

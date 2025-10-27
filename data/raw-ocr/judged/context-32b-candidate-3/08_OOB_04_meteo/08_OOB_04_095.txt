@@ -1,0 +1,67 @@
+# 27 Mai - 1902
+
+## Matin
+|  **Pfandeur Barométrique** | **753,2**  |
+| --- | --- |
+|  Direction du vent | cr. ct.  |
+|  Force | 2  |
+|  **Nébulosité** | **10**  |
+|  | **(Reg. O. (terre))** | **10**  |
+|  | **(Reg. E. (mer))** | **10**  |
+|  Direction des nuages | cr. ct.  |
+|  **Pluie tombée** | **quelques**  |
+|  **Température de l'air** | **21,4**  |
+|  **Hauteur de la mer** | **15,1**  |
+|  **Égitation de l'eau** | **3**  |
+|  Densité au bout de la jetée | 1028,1  |
+|  **Température de l'eau** | **16,7**  |
+
+## Soir
+|  **Pfandeur Barométrique** | **762,0**  |
+| --- | --- |
+|  Direction du vent | 6  |
+|  Force | 3  |
+|  **Nébulosité** | **10**  |
+|  | **(Reg. O. (terre))** | **10**  |
+|  | **(Reg. E. (mer))** | **10**  |
+|  Direction des nuages | 1  |
+|  **Pluie tombée** | **quelques**  |
+|  **Température de l'air** | **24,0**  |
+|  **Hauteur de la mer** | **62,9**  |
+|  **Égitation de l'eau** | **3**  |
+|  Densité au bout de la jetée | 1027,1  |
+|  **Température de l'eau** | **19,5**  |
+
+# 28 Mai - 1902
+
+## Matin
+|  **Pfandeur Barométrique** | **752,9**  |
+| --- | --- |
+|  Direction du vent | fr.  |
+|  Force | 1  |
+|  **Nébulosité** | **10**  |
+|  | **(Reg. O. (terre))** | **10**  |
+|  | **(Reg. E. (mer))** | **10**  |
+|  Direction des nuages | fr.  |
+|  **Pluie tombée** | **quelques**  |
+|  **Température de l'air** | **16,1**  |
+|  **Hauteur de la mer** | **11,1**  |
+|  **Égitation de l'eau** | **3**  |
+|  Densité au bout de la jetée | 1028,2  |
+|  **Température de l'eau** | **11,0**  |
+
+## Soir
+|  **Pfandeur Barométrique** | **762,0**  |
+| --- | --- |
+|  Direction du vent | 7  |
+|  Force | 3  |
+|  **Nébulosité** | **10**  |
+|  | **(Reg. O. (terre))** | **10**  |
+|  | **(Reg. E. (mer))** | **10**  |
+|  Direction des nuages | 7  |
+|  **Pluie tombée** | **quelques**  |
+|  **Température de l'air** | **17,1**  |
+|  **Hauteur de la mer** | **11,2**  |
+|  **Égitation de l'eau** | **3**  |
+|  Densité au bout de la jetée | 1027,6  |
+|  **Température de l'eau** | **11,7**  |

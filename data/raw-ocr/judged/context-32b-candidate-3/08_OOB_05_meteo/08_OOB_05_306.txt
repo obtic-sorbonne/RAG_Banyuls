@@ -1,0 +1,15 @@
+```markdown
+# 15 OCTOBRE 1907
+
+| **Date**        | **Heure** | **Hauteur barométrique (mmHg)** | **Direction du vent** | **Force** | **Nébulosité (Reg. C. claire)** | **Nébulosité (Reg. 2. (mer))** | **Direction des nuages** | **Pluie tombée (mm)** | **Température de l'air (°C)** | **Hauteur de la mer (m)** | **Agitation de l'eau** | **Densité au bout de la jetée** | **Température de l'eau (°C)** |
+|-----------------|-----------|--------------------------------|-----------------------|-----------|--------------------------------|-----------------------------|------------------------|-----------------------|----------------------------|------------------------|-----------------------|-----------------------------|-----------------------------|
+| V. 15 Octobre 1907 | Matin    | 766.6                          | N. 0                  | 3         | 10                            | 10                         | Ouest                  | -                    | 14.9                       | 8.9                     | 1 T. jour             | 1027.7                      | 18.8                        |
+| V. 15 Octobre 1907 | Soir     | 768.0                          | S. 8                  | 1         | 10                            | 10                         | Ouest                  | -                    | 16.9                       | 24.0                    | 2                      | 1026.6                      | 19.4                        |
+
+# 16 OCTOBRE 1907
+
+| **Date**        | **Heure** | **Hauteur barométrique (mmHg)** | **Direction du vent** | **Force** | **Nébulosité (Reg. C. claire)** | **Nébulosité (Reg. 2. (mer))** | **Direction des nuages** | **Pluie tombée (mm)** | **Température de l'air (°C)** | **Hauteur de la mer (m)** | **Agitation de l'eau** | **Densité au bout de la jetée** | **Température de l'eau (°C)** |
+|-----------------|-----------|--------------------------------|-----------------------|-----------|--------------------------------|-----------------------------|------------------------|-----------------------|----------------------------|------------------------|-----------------------|-----------------------------|-----------------------------|
+| V. 16 Octobre 1907 | Matin    | 747.8                          | S. S. 0               | 2         | 10                            | 10                         | Sud                    | 17.29                | 15.1                       | 29.0                    | 1 fort                | 1026.7                      | 19.1                        |
+| V. 16 Octobre 1907 | Soir     | 749.8                          | N. 0                  | 3         | 10                            | 10                         | Sud                    | 30.29                | 13.6                       | impossible si plage     | 2                      | 1027.3                      | 19.2                        |
+```

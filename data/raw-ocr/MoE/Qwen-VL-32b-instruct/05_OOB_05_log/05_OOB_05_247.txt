@@ -1,0 +1,25 @@
+Sortie du 3 Novembre 1905
+
+Départ de Barcelone à 9h10 heures du m pour Port Bon. Arrivée à 9h50 du m
+
+Départ de Port Bon à 10h40 heures du m pour Barcelone. Arrivée à ________________________________________
+
+Depart de ________________________________________ pour ________________________________________
+
+Arrivée au mouillage à Barcelone à 11h30 h du m
+
+Etat du temps: Beau.
+
+Passagers à bord: Excursion Espagnole
+
+Objet de la sortie: Mené l'Excursion à Port Bon qui rentre à Barcelone.
+
+Consommation 
+{
+    18 brûquettes de 1/2 Poids en Kilos 9 10 k.
+    1 huile Total en litres 1
+}
+
+Dépenses
+
+Observations:

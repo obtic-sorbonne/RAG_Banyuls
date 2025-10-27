@@ -1,0 +1,49 @@
+```plaintext
+### OBSERVATIONS DU 1902 12 MARS
+
+| **Nombre de bateaux sortis (pêche à l…)** |  | **13.3** |
+| **Température de l'air** | maxima depuis la veille | **13.3** |
+|  | minima id. | **6.6** |
+| **Température de l'eau** | maxima depuis la veille |  |
+|  | minima id. |  |
+| **Pluie tombée depuis la veille, en millim.** | **1.77** |
+| **Évaporation depuis le 1900, en millim.** |  |  |
+| **Direction du vent (à terre)** | **à 9 h. m.** | **à 3 h. s.** |
+|  |  | **N. N. O.** | **N. E.** |
+| **Force** |  | **1 Fort** | **1 Fort** |
+| **Direction des nuages** |  | **N. N. O.** |  |
+| **Nébulosité** | région Ouest (terre) | **3** |  |
+|  | id. Est (mer) | **8** |  |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B. R.)** |  | **37.1** |  |
+| **Agitation de l'eau** |  | **1 Fort** |  |
+| **Densité de l'eau au bout de la jetée** |  | **1028.0** |  |
+| **Température** |  |  |  |
+|  | - is. Balaire (Humide) matin | **21.3** |  |
+|  | - is. Balaire matin (Minima) | **4.1** |  |
+|  | - is. Balaire soir (Maxima) | **23.4** |  |
+|  | - is. Balaire soir (Minima) | **12.7** |  |
+
+### OBSERVATIONS DU 1902 13 MARS
+
+| **Nombre de bateaux sortis (pêche à l…)** |  | **17.6** |
+| **Température de l'air** | maxima depuis la veille | **17.6** |
+|  | minima id. | **11.0** |
+| **Température de l'eau** | maxima depuis la veille |  |
+|  | minima id. |  |
+| **Pluie tombée depuis la veille, en millim.** | **0** |
+| **Évaporation depuis le 1900, en millim.** |  |  |
+| **Direction du vent (à terre)** | **à 9 h. m.** | **à 3 h. s.** |
+|  |  | **N. N. O.** | **Nord** |
+| **Force** |  | **3** | **1** |
+| **Direction des nuages** |  | **N. N. O.** |  |
+| **Nébulosité** | région Ouest (terre) | **6** |  |
+|  | id. Est (mer) | **1** |  |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B. R.)** |  | **49.2** |  |
+| **Agitation de l'eau** |  | **1 Fort** |  |
+| **Densité de l'eau au bout de la jetée** |  | **1027.9** |  |
+| **Température** |  |  |  |
+|  | - is. Balaire (Humide) matin | **16.8** |  |
+|  | - is. Balaire matin (Minima) | **6.9** |  |
+|  | - is. Balaire soir (Maxima) | **24.7** |  |
+|  | - is. Balaire soir (Minima) | **14.2** |  |
+```

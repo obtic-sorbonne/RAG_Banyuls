@@ -1,0 +1,31 @@
+```
+|  1. 13 Janvier 1904 | Matin | Soir  |
+| --- | --- | --- |
+|  Hauteur Barométrique | 767.5 | 763.1  |
+|  Direction du vent | 7.0 | 7.3.0  |
+|  Force | 1 | 1 faible  |
+|  (Reg. G. (1ère)) | 10 | 10  |
+|  (Reg. E. (mer)) | 10 | 10  |
+|  Direction des nuages | Est | 11.1.0  |
+|  (Pluie tombée) |  |   |
+|  Température de l'air | 11.4 | 13.7  |
+|  Hauteur de la mer | 48.1 | 49.1  |
+|  (Égitation de l'eau) | 0 | 17.6  |
+|  Densité au bout de la jetée | 1088.5 | 1088.1  |
+|  (Température de l'eau) | 11.2 | 18.0  |
+
+|  1. 16 Janvier 1904 | Matin | Soir  |
+| --- | --- | --- |
+|  Hauteur Barométrique |  | 760.5  |
+|  Direction du vent |  | 11.1.0  |
+|  Force | 11 | 11  |
+|  (Reg. G. (1ère)) |  |   |
+|  (Reg. E. (mer)) |  | 10  |
+|  Direction des nuages |  | 11.1.0  |
+|  (Pluie tombée) |  |   |
+|  (Température de l'air) |  | 9.8  |
+|  (Hauteur de la mer) |  | 61.1  |
+|  (Égitation de l'eau) |  | 2.6.1.1  |
+|  Densité au bout de la jetée |  | 1088.7  |
+|  (Température de l'eau) |  | 11.7  |
+```

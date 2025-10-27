@@ -1,0 +1,18 @@
+# Date. 13 Octobre. 1901
+
+| 9" Matin | 3" Soir |
+| --- | --- |
+| Hauteur Barométrique | 760,7 | 758,3 |
+| Direction du vent | Nord | Nord |
+| Force | 1 faible | 1 faible |
+| Nébulosité | 0 | 16,3 |
+| Reg. O. (terre) | 0 | 0 |
+| Reg. E. (mer) | 0 | 0 |
+| Direction des nuages | Sud | Sud |
+| Pluie tombée | 0 | 0 |
+| Température de l'air | 15,3 | 15,0 |
+| Hauteur de la mer | 45,3 | 48,0 |
+| Agitation de l'eau | 1 faible | 1 faible |
+| Densité de l'eau | 1027,3 | 1027,3 |
+| | |
+| Température de l'eau | 18,0 | 18,1 |

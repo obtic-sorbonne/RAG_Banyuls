@@ -1,0 +1,17 @@
+| **Date**          | **19 Février 1902** |
+|-------------------|---------------------|
+| **Heure**        | **9h Matin**        | **3h Soir**      |
+| **Hauteur Barométrique** | 760,7           | 757,7           |
+| **Direction du vent**   | S.S.E            | S.S.E           |
+| **Force**         | 2                  | 2 Fort          |
+| **Nébulosité**          |                  |                 |
+| **Reg. O. (terre)**     | 01               | 10              |
+| **Reg. E. (mer)**       | 0                | 10              |
+| **Direction des nuages**| Sud              | Ouest           |
+| **Pluie tombée**       | quelques g       | 11              |
+| **Température de l'air**| 8.4              | 10.2            |
+| **Hauteur de la mer**   | 36.9             | 37.2            |
+| **Agitation de l'eau**  | 1                | 1 fort          |
+| **Densité de l'eau**    | 1028.3           | 1028.5          |
+| **au large**           |                  |                 |
+| **Température de l'eau**| 10.7             | 10.6            |

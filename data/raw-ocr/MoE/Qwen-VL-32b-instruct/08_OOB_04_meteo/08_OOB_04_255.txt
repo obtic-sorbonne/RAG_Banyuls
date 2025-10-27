@@ -1,0 +1,27 @@
+|  V. 27 Juillet. 1903 | Matin | Soir  |
+| --- | --- | --- |
+|  Hantier Marométrique | 755.4 | 757.5  |
+|  Direction du vent | or.0.0 | or.0.0  |
+|  Force | 3 fort | 1 fort  |
+|  (Reg. O. (lins) | 3 | 3  |
+|  (Rey. E. (mer) |  |   |
+|  Direction des nuages | or.0.0 | or.0.0  |
+|  (Préc. Tombé) | quelques. 5 |   |
+|  Température de l'air | 21.2 | 29.8  |
+|  Hantier de la mer | 12.2 | 54.1  |
+|  Régulation de l'eau | 3 | 2  |
+|  Densité au bout de la fête | 1022.8 | 1022.4  |
+|  Température de l'eau | 20.4 | 20.2  |
+|  V. 28 Juillet. 1903 | Matin | Soir  |
+|  Hantier Marométrique | 755.2 | 757.8  |
+|  Direction du vent | or.0 | 77.8  |
+|  Force | 2 | 1 fort  |
+|  (Reg. O. (lins) | 0 | 2  |
+|  (Rey. E. (mer) |  |   |
+|  Direction des nuages | 54.0 | 0  |
+|  (Préc. Tombé) |  |   |
+|  Température de l'air | 24.2 | 29.1  |
+|  Hantier de la mer | 12.8 | 57.5  |
+|  Régulation de l'eau | 1 fort | 1 fort  |
+|  Densité au bout de la fête | 1022.2 | 1022.4  |
+|  Température de l'eau | 21.0 | 23.0  |

@@ -1,0 +1,45 @@
+### OBSERVATIONS DU 1901 10 Février
+
+| Nombre de bateaux sortis (pêche à l…) |                                                                                          |          |
+| --- | --- | --- |
+| Température de l'air |        maxima depuis la veille | +4 |          |
+|  |        minima id. | +4 |          |
+| Température de l'eau |        maxima depuis la veille |  |          |
+|  |        minima id. |  |          |
+| Pluie tombée depuis la veille, en millim. |                                                                                          | "        |
+| Évaporation depuis le 1900, en millim. |                                                                                          |          |
+
+| **Direction du vent (à terre)** | **à 9 h. m.** | **à 3 h. s.** |
+| --- | --- | --- |
+| Force | I | I Just |
+| Direction des nuages | Sud | Sud SO |
+| Nébulosité | **région Ouest (terre)** | 3 | 10 |
+|  | **id. Est (mer)** | 3 | 10 |
+| Hauteur de la mer, en centimètres, au-dessus du zéro (B.Q.) | 38.9 | 48.8 |
+| Agitation de l'eau | 1 faib | 1 faib |
+| Densité de l'eau au bout de la jetée | 1029.0 | 1028.1 |
+| Température | 8.8 | 9/2 |
+
+---
+
+### OBSERVATIONS DU 1901 11 Février
+
+| Nombre de bateaux sortis (pêche à l…) |                                                                                          |          |
+| --- | --- | --- |
+| Température de l'air |        maxima depuis la veille |  |          |
+|  |        minima id. |  |          |
+| Température de l'eau |        maxima depuis la veille |  |          |
+|  |        minima id. |  |          |
+| Pluie tombée depuis la veille, en millim. |                                                                                          | "        |
+| Évaporation depuis le 1900, en millim. |                                                                                          |          |
+
+| **Direction du vent (à terre)** | **à 9 h. m.** | **à 3 h. s.** |
+| --- | --- | --- |
+| Force |  | I |
+| Direction des nuages | 0.9.0 | 0.9.0 |
+| Nébulosité | **région Ouest (terre)** | 10 |  |
+|  | **id. Est (mer)** | 10 |  |
+| Hauteur de la mer, en centimètres, au-dessus du zéro (B.Q.) | 31.6 |  |
+| Agitation de l'eau | 2 |  |
+| Densité de l'eau au bout de la jetée | 1028.9 |  |
+| Température |  | 9.6 |

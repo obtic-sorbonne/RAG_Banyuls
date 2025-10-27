@@ -1,0 +1,21 @@
+# Salle 11, 3 Mars 1902
+
+|  Item | Qté  |
+| --- | --- |
+|  Kanteur Parométrique | 9" Matin  |
+|  Direction Su vent | 768.7  |
+|  Force | 768.7  |
+|  Rég. O. (Force) | 16  |
+|  Pédbulosité | 16  |
+|  Rég. E. (mer) | 10  |
+|  Direction des nuages | 10  |
+|  Fluc Tombé | 10  |
+|  Température de l'air | 16.1  |
+|  Kanteur de la mer | 16.9  |
+|  Égulation de l'eau | 16.9  |
+|  Densité de l'eau | 16.8  |
+|  Le température de l'eau | 16.2  |
+
+9" Matin 3" Suir
+
+766.6 8.5.2 16 100% 100% 10% 10% 16.1 16.9 16.8 16.2

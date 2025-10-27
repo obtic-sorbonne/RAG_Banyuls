@@ -1,0 +1,16 @@
+| **Date** | **1er Mai 1902** |
+|----------|------------------|
+| **Heure** | **9h Matin** | **3h Soir** |
+| **Haut. Barométrique** | **762,6** | **/** |
+| **Dir. du vent** | **cr. cr.** | **cr. cr.** |
+| **Force** | **/5** | **/Je** |
+| **Nébulo.** | **Reg. O (terre)** | ** milf** |
+| | **Reg. E (mer)** | **- Légère** |
+| **Dir. des ourag.** | **cr. cr.** | **cr. cr.** |
+| **Pluie tombée** | **/** | **/** |
+| **Température de l'air** | **14.4** | **/** |
+| **Haut de la mer** | **1026.1** | **/** |
+| **Densité de l'eau** | **au bout de la jetée** | **/** |
+| | **au Large** | **70.6** |
+| **Agitation de l'eau** | **3** | **/** |
+| **Température de l'eau** | **14.1** | **/** |

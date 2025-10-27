@@ -1,0 +1,60 @@
+```plaintext
++----------------------------+--------------+----------------+
+| OBSERVATIONS DU 1902 9 Juillet                   |              |              |
++----------------------------+--------------+----------------+
+| Nombre de bateaux sortis (pêche à l--)            |              |              |
+| Température de l'air                               |              |              |
+|   maxima depuis la veille                          |       20.6   |              |
+|   minima id.                                       |       14.0   |              |
+| Température de l'eau                               |              |              |
+|   maxima depuis la veille                          |              |              |
+|   minima id.                                       |              |              |
+| Pluie tombée depuis la veille, en millim            |       "      |              |
+| Evaporation depuis le 190, en millim                |              |              |
++----------------------------+---------+---------+----------+---------+
+| Direction du vent (à terre)  | N.N.O. |        |          |         |
+| Force                        |        |        |          |         |
+| Direction des nuages         | N.N.O. |        |          |         |
+|                             |        |        |          |         |
+| Nebulosité                   |        |        |          |         |
+|   région Ouest (terre)       | 10     |        |          |         |
+|   id. Est (mer)              | 10     |        |          |         |
+| Hauteur de la mer, en centimètres, au-dessus du zéro |          |          |      |    |
+| Agitation de l'eau           | Fort   |        |          |         |
+| Densité de l'eau au bout de la jetée              | 1027.3   |        |          |         |
+| Température                  |        |        |          |         |
+| is. Perrault                 | Matin  | Maxima | 22.0     | 17.5    |
+|                              |       | Minima | 11.9     |         |
++----------------------------+---------+---------+----------+----------+
+
++----------------------------+--------------+----------------+
+| OBSERVATIONS DU 1902 4 Juillet                   |              |              |
++----------------------------+--------------+----------------+
+| Nombre de bateaux sortis (pêche à l--)            |       22.4   |              |
+| Température de l'air                               |              |              |
+|   maxima depuis la veille                          |       22.4   |              |
+|   minima id.                                       |       15.9   |              |
+| Température de l'eau                               |              |              |
+|   maxima depuis la veille                          |              |              |
+|   minima id.                                       |              |              |
+| Pluie tombée depuis la veille, en millim            |       "      |              |
+| Evaporation depuis le 190, en millim                |              |              |
++----------------------------+---------+---------+----------+----------+
+| Direction du vent (à terre)  |  O.S.O. | N.O.   |          |         |
+| Force                        | 2      |        |          |  1      |
+| Direction des nuages         | N.E.   | S.S.O. |          | S.S.O.  |
+|                             |        |        |          |         |
+| Nebulosité                   | 10     | 10     |          | 10      |
+|   région Ouest (terre)       |        |        |          |         |
+|   id. Est (mer)              | 10     |        |          |         |
+| Hauteur de la mer, en centimètres, au-dessus du zéro |          |     55.7     |          |
+|                             |        |        |          |         |
+| Agitation de l'eau           | Fort   |        |          | 1      |
+| Densité de l'eau au bout de la jetée              | 1026.5   | 1026.9   |          | 18.7   |
+| Température                  |        |        |          |         |
+| is. Balanz                   | Matin  | Maxima | 20.7     | 24.3    |
+|                              |        | Minima |          | 20.2    |
+| is. Perrault                 | Matin  | Maxima | 27.0     | 38.0    |
+|                              |        | Minima | 14.5     | 14.0    |
++----------------------------+---------+---------+----------+----------+
+```

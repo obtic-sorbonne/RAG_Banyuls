@@ -1,0 +1,38 @@
+# Note tous les jours à 9ᵉ m. et à 3ᵉ s.:
+
+## 1. Nautique barométrique
+
+- **Méthode**
+- **Millimètre**, mise au petit baromètre annexe 3.
+
+## 2. Direction du vent
+
+- **Marquée selon les aires du compas** N., N.N.E., N.E., E.N.E., E., E.S.E., etc.
+
+## 3. Force du vent
+
+- **Comptée de 0 (calme) à 12 (ouragans)**, selon l'échelle de Beaufort.
+
+|  No. | Désignation | Vitesse à la seconde | Vitesse à l'heure  |
+| --- | --- | --- | --- |
+|  0 | Calme | 0 à 1,70 | 3,4  |
+|  1 | Faible brise | 1,70 | 6,1  |
+|  2 | Petite brise | 3,40 | 12,2  |
+|  3 | Belle brise | 5,50 | 19,8  |
+|  4 | Forte brise | 8,00 | 28,8  |
+|  5 | Vent frais | 10,8 | 39,3  |
+|  6 | Grand frais | 13,9 | 50,0  |
+|  7 | Grand vent | 17,2 | 62,0  |
+|  8 | Vent violent | 20,8 | 75,3  |
+|  9 | Tempête | 24,5 | 88,1  |
+|  10 | Forte tempête | 28,5 | 102,9  |
+|  11 | Violente tempête | 32,7 | 118,5  |
+|  12 | Ouragan | 37,0 | 133,6  |
+
+Dans notre région, les vents les plus violents ne dépassent pas le 70° 8 (75 kilomètres à l'heure). Elles comprennent, une seule fois, ma note 76 N.E. (n° 7) à Perpignan (24 décembre 1882).
+
+Les forts coups de mistral doivent être notés n° 7.
+
+## 4. Nébulosité
+
+- **La région O. (terre)** est la partie du ciel qui se trouve à gauche de la jetée, la région.

@@ -1,0 +1,6 @@
+| Date | Heure | Hauteur Barométrique (mm) | Direction du vent | Force du vent | Regn. O. (clée) | Regn. L. (mer) | Direction des nuages | Pluie Tombée | Température de l'air (°C) | Hauteur de la mer (m) | Agitation de l'eau | Densité au bout de la jte (g/cm³) | Tempéraline Fr l'eau (°C) |
+|------|-------|--------------------------|--------------------|---------------|---------------------|-----------------------|------------------------|---------------|-----------------------------|---------------------|---------------------|--------------------------------|-----------------------------|
+| 5 Novembre 1903 | Matin | 767.1 | ond. criss. | 1 | 2 | 2 | ond. criss. | " | 13.7 | 3p. 8 | 2 | 1029.6 | 11.9 |
+| 5 Novembre 1903 | Soir | 766.7 | " | " | 0 | 0 | " | " | 11.9 | 4p. 9 | 2 | 1028.7 | 16.1 |
+| 6 Novembre 1903 | Matin | 770.2 | ond.ross. | 1 | légère | légère | ond. criss. | " | 13.0 | 3p. 3 | 2 | 1028.7 | 11.8 |
+| 6 Novembre 1903 | Soir | 769.7 | ond.ross. | 1 | légère | légère | 8p. criss. | " | 11.4 | 4p. 6 | 2 | 1028.3 | 16.0 |

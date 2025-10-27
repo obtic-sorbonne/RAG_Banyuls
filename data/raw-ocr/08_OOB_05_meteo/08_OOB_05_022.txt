@@ -1,0 +1,29 @@
+| V. 20 Août.1905 | Matin | Soir |
+|---|---|---|
+| Hauteur Barometrique | 768.7 | - |
+| Direction du vent | crois | - |
+| Force | is | 1 fort. |
+| Nébulosite | Reg.s.c.(terre) | o |
+| (Reg.xi.(mer)) | o | - |
+| Direction des nuages | " | - |
+| Pluie Tombée | " | - |
+| Température de l'air | 25.8 | - |
+| Hauteur de la mer | 49,4 | - |
+| Casitation de l'eau | / | - |
+| Densité au bout de la jetée | 1027.1 | - |
+| Température de l'eau | 25.1 | - |
+
+| V. 21 Août.1905 | Matin | Soir |
+|---|---|---|
+| Hauteur Barometrique | 767.7 | 767.0 |
+| Direction du vent | cr./s | s.s.e |
+| Force | is | 2 fort- |
+| Nébulosite | Reg.s.c.(terre) | légèrement c. |
+| (Reg.xi.(mer)) | légèrement c. | o |
+| Direction des nuages | Ouest | Sud |
+| Pluie Tombée | " | " |
+| Température de l'air | 26.6 | 29.2 |
+| Hauteur de la mer | 50.0 | 50.7 |
+| Casitation de l'eau | 1 fort. | 17.fort- |
+| Densité au bout de la jetée | 1027.3 | 1026.7 |
+| Température de l'eau | 24.2 | 25.7 |

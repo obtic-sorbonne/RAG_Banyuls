@@ -1,0 +1,33 @@
+```markdown
+| V. 31 Octobre 1906 | Matin | Soir |
+|------------------|-------|------|
+| Hauteur Barométrique | 743.7 | 741.3 |
+| Direction du Vent | cr. o | ov. o |
+| Force | 6 | 6 |
+| Nébulosité | 10 | 10 |
+| (Reg. c. (clère)) | 10 | 10 |
+| (Reg. h. (mer)) | 10 | 10 |
+| Direction des nuages | cr. cr. o | er. cr. o |
+| Pluie Tombée | 7.29 | 8.29 |
+| Température de l'air | 7.79 | — |
+| Hauteur de la mer | 3 | 3 |
+| Agitation de l'eau | 27. fort | 2 fort |
+| Densité au bout de la jetée | 1028.0 | 1028.0 |
+| Température de l'eau | — | — |
+
+| V. 2 Novembre 1906 | Matin | Soir |
+|------------------|-------|------|
+| Hauteur Barométrique | 774.4 | — |
+| Direction du Vent | s. 8 | 1 fort |
+| Force | 15 | — |
+| Nébulosité | 10 | — |
+| (Reg. c. (clère)) | 10 | — |
+| (Reg. h. (mer)) | 10 | — |
+| Direction des nuages | Ouest | — |
+| Pluie Tombée | — | — |
+| Température de l'air | 14.2 | — |
+| Hauteur de la mer | 3 | — |
+| Agitation de l'eau | 2 faible | — |
+| Densité au bout de la jetée | 1028.0 | — |
+| Température de l'eau | — | — |
+```

@@ -1,0 +1,21 @@
+| Date | Année | Mois | Jour |
+|---|---|---|---|
+| 22 | 1902 | Avril |  |
+
+| Heure | 9h Matin | 3h Soir |
+|---|---|---|
+
+| Hauteur Barométrique | 760.7 | 759.3 |
+| Direction du vent | N'Est | N'Est |
+| Force | 1 | 1 |
+| Humidité | Reg. O. (Cl.ue) | Légère |
+| Nébulosité | 10 | 10 |
+| Direction des nuages | Sud | Ouest |
+| Pluie tombée |  |  |
+| Température de l'air | 15.3 | 16.6 |
+| Hauteur de la mer | 40.1 | 46.5 |
+| Température de l'air |  |  |
+| Agitation de l'eau | 0 | 0 |
+| Densité de l'eau | au bout du jeté | au Large |
+| au jeté 1026.7 | 1026.8 |
+| Température de l'eau | 15.4 | 16.3 |

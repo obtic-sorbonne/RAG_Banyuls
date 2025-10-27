@@ -1,0 +1,16 @@
+# Date - 28 mars 1901
+
+|  | 9" Matin | 3" Soir |
+| --- | --- | --- |
+| Hauteur Barométrique | 758,9 | 756,6 |
+| Direction du vent | Nord | N.E |
+| Force | 5 fort | 3 |
+| Rég. O. (terre) | 10 | 10 |
+| Nébulosité / Rég. E. (mer) | 40% | 40% |
+| Direction des nuages | Nord | Nord |
+| Pluie tombée | 9,3 | 6,7 |
+| Température de l'air | 6,9 | 11,9 |
+| Hauteur de la mer | 52,9 | 51,9 |
+| Agitation de l'eau | 4 | 3 |
+| Densité de l'eau / au bout de la jetée | 10,3 | 10,3 |
+| Température de l'eau | 9,8 | 10,6 |

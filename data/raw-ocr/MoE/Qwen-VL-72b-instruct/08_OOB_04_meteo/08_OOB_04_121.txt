@@ -1,0 +1,26 @@
+| Date       | Matin        |                 |                 |         | Soir       |                 |                 |           |
+|------------|--------------|-----------------|-----------------|---------|-------------|-----------------|-----------------|-----------|
+| 16 Août 1902 |  | Hauteur Barométrique | 763.7 |  |  |  |  |  |
+|  |  | Direction du vent | Sud |  |  |  |  |  |
+|  |  | Force | ⅛ |  |  |  |  |  |
+|  |  | Nébulosité | Reg. O. (lum.) | 3 lignes |  |  |  |  |
+|  |  |  | Reg. E. (mur) | 1 |  |  |  |  |
+|  |  | Direction des nuages | Sud |  |  |  |  |  |
+|  |  | Pluie Tombée | "" |  |  |  |  |  |
+|  |  | Température de l'air | 24.9 |  |  |  |  |  |
+|  |  | Hauteur de la mer | 49.0 |  |  |  |  |  |
+|  |  | Agitation de l'eau | 1 T. faible |  |  |  |  |  |
+|  |  | Densité au bout de la jetée | 1026.9 |  |  |  |  |  |
+|  |  | Température de l'eau | 22.2 |  |  |  |  |  |
+| 17 Août 1902 |  | Hauteur Barométrique | 766.8 |  |  | 764.7 |  |  |
+|  |  | Direction du vent | S. E. |  |  | S. S. E. |  |  |
+|  |  | Force | ⅛ |  |  | 2 forts |  |  |
+|  |  | Nébulosité | Reg. O. (lum.) | 0 |  | 6 |  |  |
+|  |  |  | Reg. E. (mur) | 0 |  | 0 |  |  |
+|  |  | Direction des nuages | Sud |  |  | Sud |  |  |
+|  |  | Pluie Tombée | "" |  |  | "" |  |  |
+|  |  | Température de l'air | 23.3 |  |  | 26.6 |  |  |
+|  |  | Hauteur de la mer | 48.1 |  |  | 47.8 |  |  |
+|  |  | Agitation de l'eau | 1 T. faible |  |  | 1 fort |  |  |
+|  |  | Densité au bout de la jetée | 1027.1 |  |  | 1027.0 |  |  |
+|  |  | Température de l'eau | 22.4 |  |  | 21.8 |  |  |

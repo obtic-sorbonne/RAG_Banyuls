@@ -1,0 +1,17 @@
+| **Paramètres**                  | **9h Matin** | **3h Soir** |
+|---------------------------------|-------------|-------------|
+| Hauteur Barométrique            | 762.3       | 760.8       |
+| Direction du vent               | NORD        | SUD         |
+| Force                           | 2 faible    | 2 faible    |
+| Nébulosité                      |             |             |
+|   - Reg. O. (terre)             | 2 légère    | 10          |
+|   - Reg. E. (mer)               | 1 légère    | 10          |
+| Direction des nuages            | SUD         | NORD        |
+| Pluie tombée                    |             |             |
+| Température de l'air            | 23.2        | 26.3        |
+| Hauteur de la mer               | 43.0        | 53.5        |
+| Agitation de l'eau              | 1 T. faible | 0           |
+|   - au bout-Sala jétai          | 1028.4      | 1036.0      |
+|   - au Large                    |             |             |
+| Densité de l'eau                |             |             |
+| Température de l'eau            | 23.1        | 22.4        |

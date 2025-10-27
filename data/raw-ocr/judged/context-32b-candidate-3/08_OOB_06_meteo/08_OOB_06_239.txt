@@ -1,0 +1,54 @@
+```plaintext
+### OBSERVATIONS DU 1902, 11 JANVIER
+
+| **Nombre de bateaux sortis (pêche à la …)** | 19,8 |
+| **Température de l'air** |  |  |
+| - maxima depuis la veille | 19,8 |
+| - minima id. | 7,4 |
+| **Température de l'eau** |  |  |
+| - maxima depuis la veille | *non mentionnée* |
+| - minima id. | *non mentionnée* |
+| **Pluie tombée depuis la veille, en millim.** | *non mentionnée* |
+| **Evaporation depuis le 1900, en millim.** | *non mentionnée* |
+| **Direction du vent (à terre)** |  |  |
+| - à 9 h. m. | S.0 |
+| - à 3 h. s. | S.S.E. |
+| - Force | 1 faible | 1 fort |
+| - Direction des nuages | S.0 | S.S.O. |
+| **Nébulosité** |  |  |
+| - région Ouest (terre) | 6 | 6 |
+| - id. Est (mer) | 6 | 6 |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.)** | 48,0 | 36,6 |
+| **Agitation de l'eau** | 2 | 2 |
+| **Densité de l'eau au bout de la jetée** | 1028,4 | 1028,8 |
+| **Température id.** |  |  |
+| - is. Therman Martin (maxima - minima) | 21,0 / 4,8 | 21,1 / 10,8 |
+| - is. Léon (maxima - minima) |  |  |
+
+### OBSERVATIONS DU 1902, 13 JANVIER
+
+| **Nombre de bateaux sortis (pêche à la …)** | 16,7 |
+| **Température de l'air** |  |  |
+| - maxima depuis la veille | 16,7 |
+| - minima id. | 6,3 |
+| **Température de l'eau** |  |  |
+| - maxima depuis la veille | *non mentionnée* |
+| - minima id. | *non mentionnée* |
+| **Pluie tombée depuis la veille, en millim.** | *non mentionnée* |
+| **Evaporation depuis le 1900, en millim.** | *non mentionnée* |
+| **Direction du vent (à terre)** |  |  |
+| - à 9 h. m. | S.0 |
+| - à 3 h. s. | S.S.E. |
+| - Force | 1 T. faible | 1 fort |
+| - Direction des nuages | S.0 | S.S.O. |
+| **Nébulosité** |  |  |
+| - région Ouest (terre) | 0 | 6 |
+| - id. Est (mer) | 2 | 6 |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.)** | 42,8 | 37,1 |
+| **Agitation de l'eau** | 1 | 1 |
+| **Densité de l'eau au bout de la jetée** | 1028,4 | 1028,3 |
+| **Température id.** |  |  |
+| - is. Baromètre mouillé (maxima - minima) |  |  |
+| - is. Therman Martin (maxima - minima) | 21,0 / 3,6 |  |
+| - is. Léon (maxima - minima) |  |  |
+```

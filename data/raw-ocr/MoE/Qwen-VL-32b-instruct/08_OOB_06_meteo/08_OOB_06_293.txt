@@ -1,0 +1,33 @@
+| Date           | Observations                | Valeur                                      |
+|----------------|----------------------------|---------------------------------------------|
+| **1902-06-29** | Nombre de bateaux sortis   |                                            |
+|                | Température de l'air       | max: (non fournie), min: (non fournie)      |
+|                | Température de l'eau       | max: (non fournie), min: (non fournie)      |
+|                | Pluie tombée depuis la veille | quelques g                               |
+|                | Evaporation depuis le 190 (en mm) |                                         |
+|                | Direction du vent (à 9h)  | N-E                                       |
+|                | Direction du vent (à 3h)  | N-E                                       |
+|                | Force                     | Fort                                      |
+|                | Direction des nuages      | N-E                                       |
+|                | Nebulosité - région Ouest | 10                                        |
+|                | Nebulosité - région Est   | 10                                        |
+|                | Hauteur de la mer (cm)    | 1                                         |
+|                | Agitation de l'eau        | 1                                         |
+|                | Densité eau (jetée)       | 18.9                                      |
+|                | Température (jetée)       | 18.6                                      |
+|                |                        |                                            |
+| **1902-07-02** | Nombre de bateaux sortis   | (non fournie)                             |
+|                | Température de l'air       | max: 28.2°C, min: 16.6°C                   |
+|                | Température de l'eau       | max: (non fournie), min: (non fournie)      |
+|                | Pluie tombée depuis la veille | 11 mm                                     |
+|                | Evaporation depuis le 20 mai 1902 (en mm) | 90 mm                              |
+|                | Direction du vent (à 9h)  | S                                         |
+|                | Direction du vent (à 3h)  | Ouest                                     |
+|                | Force                     | 0                                         |
+|                | Direction des nuages      | (non fournie)                             |
+|                | Nebulosité - région Ouest | 10                                        |
+|                | Nebulosité - région Est   | 10                                        |
+|                | Hauteur de la mer (cm)    | (non fournie)                             |
+|                | Agitation de l'eau        | Fort                                      |
+|                | Densité eau (jetée)       | 1027.8                                    |
+|                | Température (jetée)       | 18.1                                      |

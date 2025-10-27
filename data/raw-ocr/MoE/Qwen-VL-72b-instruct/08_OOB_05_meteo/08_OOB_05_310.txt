@@ -1,0 +1,32 @@
+| V. 24 Octobre 1907 | Matin | Soir |
+|-------------------|-------|------|
+| Hauteur Barométrique | 762,6 | 762,2 |
+| Direction du Vent | N.O | N.O |
+| Force | 4 | 4 |
+| Nébulosité | 3 | 3 |
+| (Reg. G. Aire) | | |
+| Nébulosité | 3 | 3 |
+| (Reg. H. Cour) | | |
+| Direction des nuages | N.O | N.O |
+| Pluie tombée | 3,79 | " |
+| Température de l'air | 14,6 | 16,2 |
+| Hauteur de la mer | 24,9 | 33,2 |
+| Agitation de l'eau | 3 | 3 fort |
+| Ventité au bout de la jetée | 1024,7 | 1021,3 |
+| Température de l'eau | 17,8 | 17,9 |
+| V. 25 Octobre 1907 | Matin | Soir |
+|-------------------|-------|------|
+| Hauteur Barométrique | 761,7 | 762,9 |
+| Direction du Vent | N.O | N.O |
+| Force | faible | 1 |
+| Nébulosité | 2 | 2 |
+| (Reg. G. Aire) | | |
+| Nébulosité | 2 | 2 |
+| (Reg. H. Cour) | | |
+| Direction des nuages | N.O | N.O |
+| Pluie tombée | " | " |
+| Température de l'air | 14,8 | 17,0 |
+| Hauteur de la mer | 29,7 | 42,1 |
+| Agitation de l'eau | 3 | 3 fort |
+| Ventité au bout de la jetée | 1021,1 | 1026,7 |
+| Température de l'eau | 17,6 | 18,0 |

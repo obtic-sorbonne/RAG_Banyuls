@@ -1,0 +1,50 @@
+# V. 21e février - 1907
+
+|  Nom | Prix  |
+| --- | --- |
+|  Hauteur Maronctique | 4/1,3  |
+|  Direction du vent | 3/5  |
+|  Force | 3  |
+|  Rég. O. (tire) | 0  |
+|  Ébulosité | 0  |
+|  (Reg. F.- (mor) | 0  |
+|  Direction des nuages | "  |
+|  Pluie tombée | 18,0  |
+|  Comptabilité de l'air | 46,8  |
+|  Hauteur de la mer | 3  |
+|  Régénération de l'eau | 1089,4  |
+|  Densité au bout de la jeté | 11,3  |
+|  Comptabilité de l'eau | 11,3  |
+
+# V. 27 février - 1907
+
+|  Nom | Prix  |
+| --- | --- |
+|  Hauteur Maronctique | 4/9,3  |
+|  Direction du vent | 4,5  |
+|  Force | 3  |
+|  Rég. O. (tire) | 2  |
+|  Ébulosité | 0  |
+|  (Reg. F.- (mor) | 0  |
+|  Direction des nuages | 4,5  |
+|  Pluie tombée | 10,2  |
+|  Comptabilité de l'air | 47,1  |
+|  Hauteur de la mer | 3  |
+|  Régénération de l'eau | 1089,4  |
+|  Densité au bout de la jeté | 10,6  |
+
+# V. 28 février - 1907
+
+|  Nom | Prix  |
+| --- | --- |
+|  Hauteur Maronctique | 4/1,3  |
+|  Direction du vent | 3/5  |
+|  Ébulosité | 0  |
+|  (Reg. F.- (mor) | 0  |
+|  Direction des nuages | 4,5  |
+|  Pluie tempête | 10,2  |
+|  Pluie tempête | 41,8  |
+|  Régénération de l'eau | 3  |
+|  Densité au bout de la jeté | 10,6  |
+
+# V. 29 février - 1907

@@ -1,0 +1,17 @@
+# Date. 30 Novembre. 1900.
+
+|   | 0e Matin | 3e Soir  |
+| --- | --- | --- |
+|  Hauteur Barométrique | 745,1 | 745,3  |
+|  Direction du vent | Nord | Nord  |
+|  Force | 6 fort | 6 fort  |
+|  Nébulosité | 10 | 10  |
+|  Rég. E. (mer) | 10 | 10  |
+|  Direction des nuages | Nord | Nord  |
+|  Pluie tombée | 0 | 0  |
+|  Température de l'air | 10,4 | 10,4  |
+|  Hauteur de la mer | 88,8 | 85,5  |
+|  Agitation de l'eau | 5 | 5 fort  |
+|  Densité de l'eau | 1028,8 | 1028,1  |
+|  |   |   |
+|  Température de l'eau | 12,8 | 13,0  |

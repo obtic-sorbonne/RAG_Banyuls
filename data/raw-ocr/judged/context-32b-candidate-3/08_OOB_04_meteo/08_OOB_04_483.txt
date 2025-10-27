@@ -1,0 +1,16 @@
+```plaintext
+|  2. 8 avril 1905 | Matin | Soir |
+| --- | --- | --- |
+|  Hauteur Barométrique | 765.0 | 761.8  |
+|  Direction du vent | N.E. | N.E.  |
+|  Force | 2.5 | 3  |
+|  Nébulosité | Reg. 1 (terre) | Reg. 1 (terre)  |
+|  (Reg. 1 (mer)) | 11 | 10  |
+|  Direction des nuages | N.E. | N.E.  |
+|  Pluie tombée |  | 20.6  |
+|  Température de l'air | 16.8 | 19.8  |
+|  Hauteur de la mer | 47 | 13  |
+|  Agitation de l'eau | 2 | 3  |
+|  Densité au bout de la jetée | 1028.6 | 1028.3  |
+|  Température de l'eau | 16.8 | 11.6  |
+```

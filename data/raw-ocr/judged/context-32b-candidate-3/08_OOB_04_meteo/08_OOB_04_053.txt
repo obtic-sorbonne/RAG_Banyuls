@@ -1,0 +1,38 @@
+# 9. 18 Janvier - 1902
+
+|  **Hauteur Maronctrique** | **Direction du vent** | **Date**  |
+| --- | --- | --- |
+|  25.8.4 | Ouest | 25.0.0  |
+|  17.6.0 | Ouest | 17.6.0  |
+|  10.3.0 | Ouest | 10.3.0  |
+
+## Mébulosité
+
+- **Reg. O. (1ère)** - 0
+- **Reg. E. (1ère)** - 1
+- **Force** - 10 léger
+- **Direction des nuages** - Ouest
+
+## Thie tombe
+
+- **Température de l'air** - 10.3
+- **Hauteur de la mer** - 10.3
+- **Agitation de l'eau** - 1 léger
+- **Densité au bout de la jetée** - 1028.6
+- **Température de l'eau** - 12.2
+
+## Soir
+
+- **Hauteur Maronctrique** - 767.4
+- **Direction du vent** - Ouest
+- **Force** - 10 léger
+- **Mébulosité**
+  - **Reg. O. (1ère)** - 10
+  - **Reg. E. (1ère)** - 10
+- **Direction des nuages** - Ouest
+- **Thie tombe** - 1
+- **Température de l'air** - 10.8
+- **Hauteur de la mer** - 70.3
+- **Agitation de l'eau** - 1 léger
+- **Densité au bout de la jetée** - 1028.8
+- **Température de l'eau** - 11.6

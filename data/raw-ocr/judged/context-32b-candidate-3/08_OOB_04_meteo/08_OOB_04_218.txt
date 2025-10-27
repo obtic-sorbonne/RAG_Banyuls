@@ -1,0 +1,35 @@
+```plaintext
+# 4. 85 (Avril 1903
+
+|  Nom | Position | Soir  |
+| --- | --- | --- |
+|  Hauteur Barométrique | 757.6 | 757.1  |
+|  Direction du vent | court | or. 8  |
+|  Force | 8 | 3  |
+|  Nébulosité (Reg. O. (terre)) | 0 | 10  |
+|  Nébulosité (Reg. E. (mer)) | 0 | 10  |
+|  Direction des nuages | court | court  |
+|  Pluie tombée | 8.0° | quelques  |
+|  Température de l'air | 18.4 | 18.4  |
+|  Hauteur de la mer | 38.6 | 38.0  |
+|  Agitation de l'eau | 1 | 1 m³/vol  |
+|  Densité au bout de la jetée | 1023.1 | 1023.1  |
+|  Température de l'eau | 18.4 | 18.0  |
+
+# 4. 86 (Avril 1903
+
+|  Nom | Position | Soir  |
+| --- | --- | --- |
+|  Hauteur Barométrique | 756.0 | or. 8  |
+|  Direction du vent | or. 8 |   |
+|  Force | 1 |   |
+|  Nébulosité (Reg. O. (terre)) | 0 |   |
+|  Nébulosité (Reg. E. (mer)) | 0 |   |
+|  Direction des nuages | 8.0° | or. 8  |
+|  Pluie tombée | 18.8 |   |
+|  Température de l'air | 18.8 |   |
+|  Hauteur de la mer | 38.0 |   |
+|  Agitation de l'eau | 1 m³/vol |   |
+|  Densité au bout de la jetée | 1023.1 |   |
+|  Température de l'eau | 18.6 |   |
+```

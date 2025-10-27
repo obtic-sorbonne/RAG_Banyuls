@@ -1,0 +1,18 @@
+```markdown
+# 26 Mars 1907
+
+| **Date**       | **Matin** | **Soir** |
+|----------------|-----------|----------|
+| **Hauteur barométrique** | 762.0 mmHg | - |
+| **Direction du vent** | Ouest (O) | - |
+| **Force** | 0 | - |
+| **Nébulosité (Res. O. (terre))** | 0 | - |
+| **Nébulosité (Res. 2. (mer))** | 0 | - |
+| **Direction des nuages** | - | - |
+| **Pluie tombée** | - | - |
+| **Température de l'air** | 11.8 °C | - |
+| **Hauteur de la mer** | 40.5 cm | - |
+| **Agitation de l'eau** | 1 forte | - |
+| **Densité au bout de la jetée** | 1029.5 g/cm³ | - |
+| **Température de l'eau** | 12.7 °C | - |
+```

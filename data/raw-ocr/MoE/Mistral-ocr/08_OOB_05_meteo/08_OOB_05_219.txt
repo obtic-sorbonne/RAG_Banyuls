@@ -1,0 +1,29 @@
+|  V. 1st Mbars. 1907 | Mbaru | Sur  |
+| --- | --- | --- |
+|  Hantew Warometrique | 766,8 | 70/0  |
+|  Direction du vent | cr.v.o | cr.o  |
+|  Force | 4 / 20 | 6/20  |
+|  (Res. o. (tene) | 10 | 10  |
+|  Mibulivite |  |   |
+|  (Res. F. (nur) | 10 | 10  |
+|  Direction des nuages | cr.v.o | cr.0.0  |
+|  Fluie tombée |  |   |
+|  Température de l'air | 10,0 | 14,3  |
+|  Hanteur de la mer | 63,7 | 9/8  |
+|  Agitation de l'eau | 3 | 3  |
+|  Densité au bout de la jetée | 1029,3 | 1029,4  |
+|  Température de l'eau | 10,6 | 11,8  |
+|  V. 1f Mbars. 1907 | Mbaru | Sur  |
+|  Hantew Warometrique | 770,1 | 718,3  |
+|  Direction du vent | cr.v. | cr. 3  |
+|  Force | 1,8 | 2  |
+|  (Res. o. (tene) | 2 | 10  |
+|  Mibulivite |  |   |
+|  (Res. F. (nur) | 1 | 10  |
+|  Direction des nuages | cr.v.o | cr.0.0  |
+|  Fluie tombée |  |   |
+|  Température de l'air | 1,8 | 14,0  |
+|  Hanteur de la mer | 71,4 | 76,8  |
+|  Agitation de l'eau | 3 | 3  |
+|  Densité au bout de la jetée | 1029,7 | 1029,9  |
+|  Température de l'eau | 10,6 | 10,8  |

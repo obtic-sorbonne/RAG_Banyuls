@@ -1,0 +1,17 @@
+```
+| Date         | Heure | Matin | Soir |
+|--------------|-------|-------|------|
+| 13 Mai 1906  |       |       |      |
+| Hauteur Barométrique | 760.8 | 765.2 |
+| Direction du vent | cr. 8 | cr. 8 |
+| Force | 15 faible | 1 faible |
+| Nébulosité (Reg. G. Terre) | 10 | 10 |
+| Nébulosité (Reg. E. mer) | 10 | 10 |
+| Direction des nuages | Sud | cr. 8 |
+| Pluie tombée | quelques gouttes | quelques gouttes |
+| Température de l'air | 16.6° | 12.0° |
+| Hauteur de la mer | 41.0 | 41.5 |
+| Agitation de l'eau | 3 | 1 |
+| Densité au bout de la jetée | 428.4 | 428.4 |
+| Température de l'eau | 17.8 | 17.8 |
+```

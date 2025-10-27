@@ -1,0 +1,15 @@
+|         | 9h Malin | 3h Soir |
+|---------|----------|---------|
+| Date    | 19 Juin 1901 |         |
+| Hauteur Barométrique | 765.7 mm | 765.4 mm |
+| Direction du vent | N.N.O | N.N.O |
+| Force | 5 S fort | 5 S fort + légère |
+| Nebulosité (Reg. O. - Terre) | 1 |         |
+| Nebulosité (Reg. E. - Mer) | 3 | 1 |
+| Direction des nuages | N.N.O | N.N.O |
+| Pluie tombée |          |         |
+| Température de l'air | 17.4 °C | 20.4 °C |
+| Hauteur de la mer | 72.3 cm | 67.2 cm |
+| Agitation de l'eau (au bout de la jetée) | 3 fort | 4 faible |
+| Densité de l'eau (au Large) | 1027.7 g/cm³ | 1027.8 g/cm³ |
+| Température de l'eau | 19.0 °C | 19.2 °C |

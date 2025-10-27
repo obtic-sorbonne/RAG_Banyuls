@@ -1,0 +1,44 @@
+| **Date**         | **Matin** | **Soir**  |
+|------------------|-----------|-----------|
+| **Hauteur Barométrique** |
+| 25 Mai 1907     | 762.2     | 768.0     |
+| **Direction du Vent**    |
+| Force            | cr.or.0   | Ouest     |
+| 15               | 2         | 1.7 Faibles     |
+| **Nébulosité**   |
+| (Reg. 0. Claire) | 10        | 10        |
+| **Direction des nuages** |
+|                 | cr.0      | S.O.      |
+| **Pluie tombée**        |
+|                 | quelques s | 11        |
+| **Température de l'air** |
+|                 | 18.2       | 21.6      |
+| **Hauteur de la mer**    |
+|                 | 42'.0      | 41.8      |
+| **Agitation de l'eau**    |
+|                 | 2          | 1.7bler   |
+| **Densité au bout de la jatte** |
+|                 | 1028.0     | 1028.8    |
+| **Température de l'eau**  |
+|                 | 1.70       | 1.79      |
+| **Hauteur Barométrique** |
+| 27 Mai 1907     | 762.2     | 761.0     |
+| **Direction du Vent**    |
+| Force            | cr.or.0   | 3 S.O    |
+| 15               | 2         | 1 fort    |
+| **Nébulosité**   |
+| (Reg. 0. Claire) | 10         | 10 légère |
+| **Direction des nuages**  |
+|                 | 11         | 11        |
+| **Pluie tombée**          |
+|                 | 11         | 11        |
+| **Température de l'air**  |
+|                 | 24.0       | 26.6      |
+| **Hauteur de la mer**     |
+|                 | 39.1       | 47.9      |
+| **Agitation de l'eau**     |
+|                 | 1 fort     | 1 faible   |
+| **Densité au bout de la jatte** |
+|                 | 1027.3     | 1026.6    |
+| **Température de l'eau**   |
+|                 | 16.9       | 19.2      |

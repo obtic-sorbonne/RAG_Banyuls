@@ -1,0 +1,18 @@
+# Date / 7 Octobre - 1900
+
+|   | 81 m | 3.2.2.  |
+| --- | --- | --- |
+|  Hauteur barométrique | 772.3 | 771.5  |
+|  Directing du vent | 8 | 8  |
+|  Force - - w | 1 | 3  |
+|  (Rég. ... D (ton) | 1 | 3  |
+|  (Reg. ... B (mer) | 1 | 0  |
+|  Directing des mages | 8 | 8  |
+|  Plein timbie |  |   |
+|  Température de l'air | 22.3 | 22.8  |
+|  Hauteur de la mer | 33.8 | 33.2  |
+|  Agitation de l'eau | 0 | 1  |
+|  (au bout de la jolie | 1022.4 | 1025.5  |
+|  Densité de l'eau) |  |   |
+|  (au large) |  |   |
+|  Température de l'eau | 21.1 | 22.1  |

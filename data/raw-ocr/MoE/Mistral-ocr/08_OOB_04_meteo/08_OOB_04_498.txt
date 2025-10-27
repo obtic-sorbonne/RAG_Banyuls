@@ -1,0 +1,29 @@
+|  V. 16 mai - 1905 | Maitin | Soir  |
+| --- | --- | --- |
+|  Hauteur Barométrique | 1/9.0 | 260,1  |
+|  Direction du vent | cr. cr. 0 | 11 cr. 0  |
+|  Force | 4 fort. | 3  |
+|  16 | 16 | 16  |
+|  16 | 16 | 16  |
+|  16 | 16 | 16  |
+|  Direction des nuages | cr. 0 | 11 cr. 0  |
+|  Flux tombé | gnefner | 0  |
+|  Température de l'air | 17,4 | 80,3  |
+|  Hauteur de la mer | 13.0 | 41.3  |
+|  Gritation de l'eau | 2 fort. | 8  |
+|  Densité au bout de la jetée | 1028.8 | 1028.2  |
+|  Température de l'eau | 14.8 | 14.8  |
+|  V. 17 mai - 1905 | Maitin | Soir  |
+|  Hauteur Barométrique | 264,0 | 264,1  |
+|  Direction du vent | 1.8 | 11  |
+|  Force | faible | 0  |
+|  16 | 16 | 16  |
+|  16 | 16 | 16  |
+|  16 | 16 | 16  |
+|  Direction des nuages | cr. 0 | gnefner  |
+|  Flux tombé | 8,0 | 16,1  |
+|  Température de l'air | 12,2 | 12.2  |
+|  Hauteur de la mer | 10.0 | 12.2  |
+|  Gritation de l'eau | 1 faible | 12 faible  |
+|  Densité au bout de la jetée | 1028.4 | 1028.6  |
+|  Température de l'eau | 11,1 | 11.2  |

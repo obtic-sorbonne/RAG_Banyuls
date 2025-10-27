@@ -1,0 +1,16 @@
+# Date 26 Février 1901
+
+|  |   |   |
+| --- | --- | --- |
+|  Hauteur Parométrique | 9" Malin. 3" Soir |   |
+|  Direction du vent | 753,7 |   |
+|  Force | 2 | 3 fort  |
+|  Nébulosité | Reg. O. (line) | 1,9  |
+|  Nébulosité | Reg. E. (mer) |   |
+|  Direction des nuages | 11 | 1  |
+|  Flux tombée | 11 | 11  |
+|  Température de l'air | 9,2 | 18,0  |
+|  Hauteur de la mer | 54,8 | 49,4  |
+|  Égitation de l'eau | 1 | 11,3  |
+|  Densité de l'eau | au barge | 11,3  |
+|  Température de l'eau | 40,9 | 11,0  |

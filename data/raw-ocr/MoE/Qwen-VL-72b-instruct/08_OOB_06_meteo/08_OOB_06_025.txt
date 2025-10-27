@@ -1,0 +1,41 @@
+OBSERVATIONS DU 1900 28 Mai
+
+| Nombre de bateaux sortis (pêche à la Truite) | 18 |
+|---|---|
+| Température de l'air | maxima depuis la veille | 20.6 |
+| | minima id. | 14.3 |
+| Température de l'eau | maxima depuis la veille | |
+| | minima id. | |
+| Pluie tombée depuis la veille, en millim. | quelques |
+| Evaporation depuis le 1900, en millim. | |
+| | à 9 h. m. | à 3 h. s. |
+| Direction du vent (à terre) | N.N.O | N.O |
+| Force | 2 fort | 2 |
+| Direction des nuages | N.N.O | N.N.O |
+| Nébulosité | région Ouest (terre) | 60 | 2 |
+| | id. Est (mer) | 60 | 2 |
+| Hauteur de la mer, en centimètres, au-dessus du zéro | 46.8 | 84.8 |
+| Agitation de l'eau | 1 | 1 |
+| Densité de l'eau au bout de la jetée | 1026.3 | 1022.3 |
+| Température id. | 17.0 | 17.5 |
+
+OBSERVATIONS DU 1900 30 Mai
+
+| Nombre de bateaux sortis (pêche à la Truite) | |
+|---|---|
+| Température de l'air | maxima depuis la veille | 20.6 |
+| | minima id. | 14.6 |
+| Température de l'eau | maxima depuis la veille | |
+| | minima id. | |
+| Pluie tombée depuis la veille, en millim. | 11 |
+| Evaporation depuis le 7 Mai 1900, en millim. | 27.4 mm |
+| | à 9 h. m. | à 3 h. s. |
+| Direction du vent (à terre) | Nord | |
+| Force | 3 fort | |
+| Direction des nuages | Nord | |
+| Nébulosité | région Ouest (terre) | 60 | |
+| | id. Est (mer) | 60 | |
+| Hauteur de la mer, en centimètres, au-dessus du zéro | 39.8 | 2 |
+| Agitation de l'eau | 2 | |
+| Densité de l'eau au bout de la jetée | 1027.6 | |
+| Température id. | 17.2 | |

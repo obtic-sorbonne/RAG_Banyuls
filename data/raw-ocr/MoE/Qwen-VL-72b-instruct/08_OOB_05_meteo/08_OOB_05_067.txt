@@ -1,0 +1,28 @@
+|  | Matin | Soir |
+| --- | --- | --- |
+| V.11 Décembre 1905 |  |  |
+| Hauteur Barométrique | 772.8 | 772.7 |
+| Direction du vent | Eroux | Eroux |
+| Force -- is | 1 fort | 1 |
+| Nebulosité | Reg. o. (lère) | Légère |
+|  | Reg. xi- (mer) | 20 |
+| Direction des nuages | S. or. & | Est. |
+| Pluie tombée | quelques gouttes | " |
+| Température de l'air | 60.8 | 11./° |
+| Hauteur de la mer | 3 | 3 |
+| Agitation de l'eau | 3 T. fort | 4 |
+| Sensité au cours de la jete | 3 | 3 |
+| Température de l'eau |  |  |
+| V.12 Décembre 1905 | Matin | Soir |
+| Hauteur Barométrique | 779.7 | 779.0 |
+| Direction du vent | Eroux | Or. N.O |
+| Force -- is | 2 | 1 |
+| Nebulosité | Reg. a. (lère) | 0 | 1 |
+|  | Reg. Xi- (mer) | 0 | 1 |
+| Direction des nuages | " | " |
+| Pluie tombée | " | " |
+| Température de l'air | 7.9 | 9.3 |
+| Hauteur de la mer | 3 | 3 |
+| Agitation de l'eau | 4 | 4 |
+| Sensité au cours de la jetée | 3 | 3 |
+| Température de l'eau |  |  |

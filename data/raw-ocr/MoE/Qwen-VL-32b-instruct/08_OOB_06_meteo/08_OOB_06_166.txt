@@ -1,0 +1,52 @@
+| **Observations du 1901 14 juin** |
+| --- |
+| **Nombre de bateaux sortis (pêche à l.)** | 23.9 |
+| **Température de l'air** |
+| *maxima depuis la veille* | 29.9 |
+| *minima id.* | 13.2 |
+| **Température de l'eau** |
+| *maxima depuis la veille* | - |
+| *minima id.* | - |
+| **Pluie tombée depuis la veille, en millim.** | 6.29 |
+| **Evaporation depuis le 190, en millim.** | - |
+| **Direction du vent (à terre)** | - | - |
+| *à 9 h. m.* | NNW | EST |
+| *à 3 h. s.* | - | - |
+| **Force** | 4 fort. | 1 faible |
+| **Direction des nuages** | NNW | NNW |
+| **Nébulosité** |  |  |
+| *région Ouest (terre)* | 0 | 10 |
+| *id. Est (mer)* | 2 | 10 |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.)** | 40.8 | 41.2 |
+| **Agitation de l'eau** | 2 | 1 fort. |
+| **Densité de l'eau au bout de la jetée** | 1026.9 | 1026.4 |
+| **Température id.** | 18.0 | 18.9 |
+| **is. - Ferrante Mathis (maxima)** | 39.1 | - |
+| **is. - Ferrante Mathis (minima)** | 13.2 | - |
+
+| **Observations du 1901 15 juin** |
+| --- |
+| **Nombre de bateaux sortis (pêche à l.)** | 32.7 |
+| **Température de l'air** |
+| *maxima depuis la veille* | 32.7 |
+| *minima id.* | 14.4 |
+| **Température de l'eau** |
+| *maxima depuis la veille* | - |
+| *minima id.* | - |
+| **Pluie tombée depuis la veille, en millim.** | - |
+| **Evaporation depuis le 190, en millim.** | - |
+| **Direction du vent (à terre)** | - | - |
+| *à 9 h. m.* | ESE | ESE |
+| *à 3 h. s.* | - | - |
+| **Force** | 1 fort. | 1 fort. |
+| **Direction des nuages** | SO | NNW |
+| **Nébulosité** |  |  |
+| *région Ouest (terre)* | 10 | 10 |
+| *id. Est (mer)* | 10 | 10 |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.)** | 38.0 | 48.8 |
+| **Agitation de l'eau** | 1 | 1 fort. |
+| **Densité de l'eau au bout de la jetée** | 1026.9 | 1026.0 |
+| **Température id.** | 18.8 | 18.9 |
+| **is. - Balano** | 20.6 | - |
+| **is. - Ferrante Mathis (maxima)** | 38.8 | - |
+| **is. - Ferrante Mathis (minima)** | 11.6 | - |

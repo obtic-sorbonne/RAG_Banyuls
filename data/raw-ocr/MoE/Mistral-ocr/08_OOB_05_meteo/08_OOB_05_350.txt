@@ -1,0 +1,35 @@
+# P. 4 Pervier - 1908
+
+|  **Position** | **Prix**  |
+| --- | --- |
+|  Hauteur Basométrique | 79,1  |
+|  Direction du vent | 6,0  |
+|  Force | 6 fuites  |
+|  (Reg. C. Crème) | 10  |
+|  Hebistante | 10  |
+|  (Reg. Fr. (min)) | 10  |
+|  Direction des mages | 6,5  |
+|  Flux tombé | quelques  |
+|  Température de l'air | 6,5  |
+|  Hebistante de la mer | 166,1  |
+|  (Agitation de l'eau) | 3 feet  |
+|  Permise au bout de la jetée | 5  |
+|  Température de l'eau | 5  |
+
+# P. 5 Pervier - 1908
+
+|  **Position** | **Prix**  |
+| --- | --- |
+|  Hauteur Basométrique | 766,3  |
+|  Direction du vent | 6 feet  |
+|  Force | 6 feet  |
+|  (Reg. C. Crème) | 0  |
+|  Hebistante | 0  |
+|  (Reg. Fr. (min)) | 0  |
+|  Direction des mages | 6,5  |
+|  Flux tombé | 1,2  |
+|  Température de l'air | 1,2  |
+|  Hebistante de la mer | 1,2  |
+|  (Agitation de l'eau) | 3  |
+|  Permise au bout de la jetée | 5  |
+|  Température de l'eau | 5  |

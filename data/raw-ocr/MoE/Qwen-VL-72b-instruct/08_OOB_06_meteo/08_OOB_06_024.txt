@@ -1,0 +1,41 @@
+OBSERVATIONS DU 1960 26 Mai
+
+| | à 9 h. m. | à 3 h. s. |
+|---|---|---|
+| Nombre de bateaux sortis (pêche à la Traine) | 18 | | |
+| Température de l'air | maxima depuis la veille. | 21.9 | |
+| | minima id. | 16.3 | |
+| Température de l'eau | maxima depuis la veille. | | |
+| | minima id. | | |
+| Pluie tombée depuis la veille, en millim. | n | | |
+| Evaporation depuis le 190, en millim. | | | |
+| Direction du vent (à terre) | N.N.O | E.S.E |
+| Force | 1 | 1 |
+| Direction des nuages | S.S.E | S.S.E |
+| Nébulosité | région Ouest (terre) | 10 | 10 |
+| | id. Est (mer) | 10 | 10 |
+| Hauteur de la mer, en centimètres, au-dessus du zéro | 32.8 | 41.9 |
+| Agitation de l'eau | 1 faible | 1 faible |
+| Densité de l'eau au bout de la jetée | 1026.1 | 1026.2 |
+| Température id. | 19.6 | 19.6 |
+
+OBSERVATIONS DU 1960 27 Mai
+
+| | à 9 h. m. | à 3 h. s. |
+|---|---|---|
+| Nombre de bateaux sortis (pêche à l | | | |
+| Température de l'air | maxima depuis la veille. | 21.9 | |
+| | minima id. | 12.8 | |
+| Température de l'eau | maxima depuis la veille. | | |
+| | minima id. | | |
+| Pluie tombée depuis la veille, en millim. | 23.127 | | |
+| Evaporation depuis le 190, en millim. | | | |
+| Direction du vent (à terre) | N.N.O | E.S.E |
+| Force | 1 | 1 |
+| Direction des nuages | N.N.O | Ouest |
+| Nébulosité | région Ouest (terre) | 10 | 10 |
+| | id. Est (mer) | 10 | 10 |
+| Hauteur de la mer, en centimètres, au-dessus du zéro | 49.8 | 49.8 |
+| Agitation de l'eau | 1 faible | 1 faible |
+| Densité de l'eau au bout de la jetée | 1026.4 | 1026.0 |
+| Température id. | 19.6 | 17.6 |

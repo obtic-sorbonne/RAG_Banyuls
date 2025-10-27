@@ -1,0 +1,27 @@
+| V. 13 Mars. 1906 | Matin | Soir |
+|---|---|---|
+| Hauteur Barometrique | 76<sup>o</sup>.2 |  |
+| Direction du vent | cr.cr.o |  |
+| Force | is | 4 |
+| Nébulosité | Reg. o (terre) <br>Reg. xi (mer) | lo<br>lo |
+| Direction des nuages | cr.cr.o |  |
+| Pluie tombée | quelques.g |  |
+| Température de l'air | 9.<sup>o</sup> |  |
+| Hauteur de la mer | ff.2 |  |
+| Agitation de l'eau | 3 |  |
+| Densité au bout de la jetée | 1029.8 |  |
+| Température de l'eau | 18.<sup>o</sup> |  |
+
+| V. 14 Mars. 1906 | Matin | Soir |
+|---|---|---|
+| Hauteur Barometrique |  |  |
+| Direction du vent |  |  |
+| Force | is |  |
+| Nébulosité | Reg. o (terre)<br>Reg. xi (mer) |  |
+| Direction des nuages |  |  |
+| Pluie tombée |  |  |
+| Température de l'air |  |  |
+| Hauteur de la mer |  |  |
+| Agitation de l'eau |  |  |
+| Densité au bout de la jetée |  |  |
+| Température de l'eau |  |  |

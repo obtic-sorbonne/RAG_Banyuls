@@ -1,0 +1,15 @@
+```markdown
+# 7 Mai 1907
+
+| **Date**       | **Heure** | **Hauteur Barométrique** | **Direction du Vent** | **Force** | **Nébulosité (0/10)** | **Réglage**  | **Direction des nuages** | **Pluie tombée** | **Température de l'air** | **Hauteur de la mer (cm)** | **Agitation de l'eau** | **Densité au bout de la jetée** | **Température de l'eau** |
+|----------------|-----------|--------------------------|-----------------------|-----------|-----------------------|---------------|--------------------------|------------------|--------------------------|----------------------------|-----------------------|-------------------------------|--------------------------|
+| 7 Mai 1907     | **Matin** | 763.7 mmHg               | Sud-Est               | 3         | 10 (Couvert)           | Reg. C. (Terre) | Sud-Ouest                | 0                | 24.8 °C                  | 12.2 cm                    | 2 fort               | 1028.2 g/cm³                 | 15.8 °C                 |
+| 7 Mai 1907     | **Soir**  | 764.0 mmHg               | Sud-Est               | 2         | 10 (Couvert)           | Reg. C. (Mer)   | Sud-Ouest                | quelques         | 19.9 °C                  | 43.2 cm                    | 2 fort               | 1028.6 g/cm³                 | 14.9 °C                 |
+
+# 8 Mai 1907
+
+| **Date**       | **Heure** | **Hauteur Barométrique** | **Direction du Vent** | **Force** | **Nébulosité (0/10)** | **Réglage**  | **Direction des nuages** | **Pluie tombée** | **Température de l'air** | **Hauteur de la mer (cm)** | **Agitation de l'eau** | **Densité au bout de la jetée** | **Température de l'eau** |
+|----------------|-----------|--------------------------|-----------------------|-----------|-----------------------|---------------|--------------------------|------------------|--------------------------|----------------------------|-----------------------|-------------------------------|--------------------------|
+| 8 Mai 1907     | **Matin** | 764.7 mmHg               | Sud-Est               | 2         | 10 (Couvert)           | Reg. C. (Terre) | Sud-Ouest                | 7.0 mm           | 13.7 °C                  | 12.7 cm                    | 2 fort               | 1028.7 g/cm³                 | 13.2 °C                 |
+| 8 Mai 1907     | **Soir**  | 764.0 mmHg               | Sud-Est               | 2         | 10 (Couvert)           | Reg. C. (Mer)   | Sud-Ouest                | quelques         | 19.1 °C                  | 43.2 cm                    | 2 fort               | 1028.6 g/cm³                 | 14.3 °C                 |
+```

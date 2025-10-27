@@ -1,0 +1,18 @@
+# Data: D. 9. Septembre 1900
+
+|  Horaires: | 94 m. | 34.5  |
+| --- | --- | --- |
+|  Hauteur barométrique | 767.0 | 764.6  |
+|  Direction du vent | N.O. | N.O.  |
+|  Force | 3 | 1  |
+|  Nébulosité (Reg. O. (tome)) | 2 | 8  |
+|  D. (m.) | 0. | 6  |
+|  Direction des nuages | N.O. | 0.  |
+|  Pluie tombée | 0.30 | "  |
+|  Température de l'air | 23.1 | 25.4  |
+|  Hauteur de la mer | 0.44 | 0.44  |
+|  Agitation de l'eau | 2 | 1  |
+|  Densité de l'eau (au bout du jet) | 1026.5 | 1026.4  |
+|  Température de l'eau | 22.0 | 22.2  |
+
+Observ.

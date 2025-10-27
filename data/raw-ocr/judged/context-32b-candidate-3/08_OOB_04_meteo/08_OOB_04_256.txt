@@ -1,0 +1,35 @@
+```plaintext
+# 9. 30 Juillet 1903
+
+|  Nom | Date  |
+| --- | --- |
+|  Hauteur Barométrique | 703.8  |
+|  Direction du vent | or.0r.0  |
+|  Force | 8.000  |
+|  (Reg. O. (terre)) | 10  |
+|  (Reg. F. (mer)) | 10  |
+|  Direction des nuages | or.0r.0  |
+|  Pluie tombée | quelques.9  |
+|  Température de l'air | 8.1.7  |
+|  Hauteur de la mer | 11.0  |
+|  Régulation de l'eau | 1.000  |
+|  Densité au bout de la jetée | 1.08.9  |
+|  Température de l'eau | 8.0.4  |
+
+# 31 Juillet 1903
+
+|  Nom | Date  |
+| --- | --- |
+|  Hauteur Barométrique | 707.8  |
+|  Direction du vent | or.0r.0  |
+|  Force | 10  |
+|  (Reg. O. (terre)) | 0  |
+|  (Reg. F. (mer)) | 0  |
+|  Direction des nuages | or.0r.0  |
+|  Pluie tombée | 8.0  |
+|  Température de l'air | 19.9  |
+|  Hauteur de la mer | 68.0  |
+|  Régulation de l'eau | 8.000  |
+|  Densité au bout de la jetée | 9.08.8  |
+|  Température de l'eau | 8.0.0  |
+```

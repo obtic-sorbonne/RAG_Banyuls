@@ -1,0 +1,8 @@
+```markdown
+# 11 Mai 1907
+
+| **Date**       | **Heure** | **Hauteur Barométrique** | **Direction du Vent** | **Force** | **Nébulosité (0/10)** | **Réglage**  | **Direction des nuages** | **Pluie tombée** | **Température de l'air** | **Hauteur de la mer (cm)** | **Agitation de l'eau** | **Densité au bout de la jetée** | **Température de l'eau** |
+|----------------|-----------|--------------------------|-----------------------|-----------|-----------------------|---------------|--------------------------|------------------|--------------------------|----------------------------|-----------------------|-------------------------------|--------------------------|
+| 11 Mai 1907    | **Matin** | 764.2 mmHg               | Sud-Ouest             | 8         | 10 (Couvert)           | Reg. C. (Terre) | Sud-Ouest                | 0                | 17.2 °C                  | 50.2 cm                    | 1 faible              | 1027.2 g/cm³                 | 15.6 °C                 |
+| 11 Mai 1907    | **Soir**  | 762.1 mmHg               | Sud-Ouest             | 8         | 10 (Couvert)           | Reg. C. (Mer)   | Sud-Ouest                | 0                | 19.5 °C                  | 50.2 cm                    | 1 faible              | 1027.2 g/cm³                 | 16.0 °C                 |
+```

@@ -1,0 +1,31 @@
+# V. 27 Octobre 1907
+
+|  **Nation** | **Prix**  |
+| --- | --- |
+|  Hauteur Praxometrique | 761,3  |
+|  Direction du vent | or.  |
+|  Force | 15  |
+|  Nocbulosité | Reg. O. (min)  |
+|  Direction des nuages | Reg. E. (min)  |
+|  Pluie tombée |   |
+|  Température de l'air | 31,9  |
+|  Hauteur de la mer | 49,3  |
+|  Égitation de l'eau | 3 fort  |
+|  Densité au bout de la jetée | 1028,4  |
+|  Température de l'eau | 17,8  |
+
+# V. 28 Octobre 1907
+
+|  **Nation** | **Prix**  |
+| --- | --- |
+|  Hauteur Praxometrique | 760,2  |
+|  Direction du vent | or. 8  |
+|  Force | 1  |
+|  Nocbulosité | Reg. O. (min)  |
+|  Direction des nuages | 2  |
+|  Pluie tombée |   |
+|  Température de l'air | 17,3  |
+|  Hauteur de la mer | 45,3  |
+|  Égitation de l'eau | 3 fort  |
+|  Densité au bout de la jetée | 1028,7  |
+|  Température de l'eau | 18,2  |

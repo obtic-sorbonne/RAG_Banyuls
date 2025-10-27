@@ -1,0 +1,8 @@
+```plaintext
+| Date       | Heure   | Hauteur Barométrique | Direction du vent | Force | Nébulosité (Reg. O. - Terre) | Nébulosité (Reg. E. - Mer) | Direction des nuages | Pluie Tombée | Température de l'air | Hauteur de la mer | Agitation de l'eau | Densité au bout de la jetée | Température de l'eau |
+|------------|---------|---------------------|-------------------|-------|------------------------------|---------------------------|----------------------|--------------|----------------------|------------------|--------------------|------------------------------|----------------------|
+| 14 Mai 1902 | Matin   | 759.0               | cr. cr. o         | 2     | 10                           | 10                        | cr. cr. o            | quelques g  | 13.4                 | 6.6              | 1 fort             | 1027.7                      | 14.1                 |
+|            | Soir    | 799.0               | cr. cr. o         | 3     | 10                           | 10                        | cr. cr. o            |              | 16.9                 | 6.9              | 1 fort             | 1027.5                      | 14.3                 |
+| 15 Mai 1902 | Matin   | 762.8               | cr. cr. o         | 2     | 0                            | 1                         | "                   |              | 14.4                 | 6.2              | 1 fort             | 1027.7                      | 14.7                 |
+|            | Soir    | 762.0               | S. 8.8            | 1 fort | 10                           | 10                        | cr. cr. o            | quelques g  | 16.7                 | 8.7              | 1 fort             | 1027.6                      | 14.5                 |
+```

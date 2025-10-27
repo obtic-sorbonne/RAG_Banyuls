@@ -1,0 +1,23 @@
+| Date                      | Heure               | Description                                | Valeur        |
+|--------------------------|---------------------|--------------------------------------------|---------------|
+| 16 Avril 1902           |                     |                                          |               |
+|                          | **9<sup>e** Matin**  | **3<sup>e)** Soir**                        |               |
+| Hauteur Barométrique     |                     | 779,4                                      |               |
+| Direction du vent       |                     | sud-est/sud                               |               |
+| Force                   |                     | 4/fort                                      |               |
+| Nébulosité **deg. O. (Clair)** |                     | 10                                        |               |
+| **1 Reg. E. - (mer)**   |                     | 10                                        |               |
+| Direction des nuages    |                     | sud-est/sud                               |               |
+| Pluie tombée             |                     | 4,12/ (en mm)                              |               |
+| Température de l'air     |                     | 11,9                                     |               |
+| Hauteur de la mer        |                     | 40,2                                      |               |
+| Agitation de l'eau      |                     | 3                                         |               |
+| Densité de l'eau **au bout de la jetée** |      | 1026,8                                    |               |
+| **au Large**            |                     |                                           |               |
+| Température de l'eau    |                     | 13,6                                     |               |
+
+**Remarques complémentaires :**
+- La hauteur barométrique est donnée en mmHg.
+- La pluie tombée est exprimée en millimètres (mm).
+- Les directions des vents et des nuages sont indiquées dans un format relatif.
+- Les densités de l'eau sont rapportées en kg/m³.

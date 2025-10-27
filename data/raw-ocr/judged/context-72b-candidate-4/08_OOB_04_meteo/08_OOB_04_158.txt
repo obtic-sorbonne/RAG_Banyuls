@@ -1,0 +1,28 @@
+```plaintext
+| **Date**          | **Matin** | **Soir** |
+|-------------------|-----------|----------|
+| **V. 27 Novembre 1902** | **Hauteur Barométrique** | 754.5 | 751.5 |
+|                     | **Direction du vent** | er. cr. o | er. cr. o |
+|                     | **Force** | 3 | 3 fort |
+|                     | **Nébulosité (Reg. O. - Terre)** | 3 | 10 |
+|                     | **Nébulosité (Reg. E. - Mer)** | 4 | 10 |
+|                     | **Direction des nuages** | or. cr. o | or. cr. o |
+|                     | **Pluie tombée** | - | quelques g |
+|                     | **Température de l'air** | 12.6 | 12.5 |
+|                     | **Hauteur de la mer** | 46.4 | 45.9 |
+|                     | **Agitation de l'eau** | 1 | 3 fort |
+|                     | **Densité au bout de la jetée** | 1029.4 | 1029.0 |
+|                     | **Température de l'eau** | 14.7 | 14.7 |
+| **V. 28 Novembre 1902** | **Hauteur Barométrique** | 754.1 | 754.5 |
+|                     | **Direction du vent** | 0. cr. 0 | er. cr. o |
+|                     | **Force** | 1 | 1 fort |
+|                     | **Nébulosité (Reg. O. - Terre)** | 10 | 10 |
+|                     | **Nébulosité (Reg. E. - Mer)** | 10 | 10 |
+|                     | **Direction des nuages** | 0. cr. 0 | er. cr. o |
+|                     | **Pluie tombée** | - | - |
+|                     | **Température de l'air** | 12.2 | 12.3 |
+|                     | **Hauteur de la mer** | 36.6 | 43.3 |
+|                     | **Agitation de l'eau** | 1 faible | 1 |
+|                     | **Densité au bout de la jetée** | 1028.9 | 1028.6 |
+|                     | **Température de l'eau** | 15.2 | 15.4 |
+```

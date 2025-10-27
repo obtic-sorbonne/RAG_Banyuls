@@ -1,0 +1,30 @@
+| V. 1er Octobre 1906 | Matin | Soir |
+|---------------------|-------|------|
+| Hauteur Barométrique | 768.0 |      |
+| Direction du vent    | cr. E |      |
+| Force                | 15    |      |
+| Reg. o. (Air)        | faible |      |
+| Nébulosité           | 60    |      |
+| Reg. K. (mer)        |       |      |
+| Direction des images | croix |      |
+| Pluie tombée         | "     |      |
+| Température de l'air | 21.5  |      |
+| Hauteur de la mer    | 17.50 |      |
+| Agitation de l'eau   | 1     |      |
+| Vensité au bout de la jetée | 1028.0 |      |
+| Température de l'eau | 19.7  |      |
+| V. 2 Octobre 1906 | Matin | Soir |
+|---------------------|-------|------|
+| Hauteur Barométrique | 767.9 | 766.3 |
+| Direction du vent    | cr. E | cr. S |
+| Force                | 1     | 1     |
+| Reg. o. (Air)        | faible | faible |
+| Nébulosité           | 10 légère | 60 |
+| Reg. K. (mer)        | légère | croix |
+| Direction des images | croix | cr.d.S |
+| Pluie tombée         | "     | "     |
+| Température de l'air | 20.6  | 22.0  |
+| Hauteur de la mer    | 14.0  | 19.1  |
+| Agitation de l'eau   | 1     | 1     |
+| Vensité au bout de la jetée | 1028.0 | 1027.8 |
+| Température de l'eau | 19.9  | 20.6  |

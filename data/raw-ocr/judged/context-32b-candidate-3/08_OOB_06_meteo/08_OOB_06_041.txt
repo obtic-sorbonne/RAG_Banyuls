@@ -1,0 +1,45 @@
+```plaintext
+| **OBSERVATIONS DU 1960 5 JUILLET** |
+| --- |
+| **Nombre de bateaux sortis (pêche à la trahine)** | **4** |
+| **Température de l'air** |  |
+| - maxima depuis la veille | **19.7 °C** |
+| - minima id. | **14.1 °C** |
+| **Température de l'eau** |  |
+| - maxima depuis la veille | **-** |
+| - minima id. | **-** |
+| **Pluie tombée depuis la veille, en millim.** | **-** |
+| **Évaporation depuis le 05, en millim.** | **-** |
+| **Direction du vent (à terre)** | **à 9 h. m.** | **à 3 h. s.** |
+| **Force** | **N.N.O.** | **N.N.O.** |
+| **Direction des nuages** | **N.O.** | **N.E.** |
+| **Nébulosité** |  |
+| - région Ouest (terre) | **10** | **10** |
+| - id. Est (mer) | **10** | **10** |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro** | **23.5 cm** | **24.6 cm** |
+| **Agitation de l'eau** | **3** | **2.5** |
+| **Densité de l'eau au bout de la jetée** | **1027.1 g/cm³** | **1027.5 g/cm³** |
+| **Température id.** | **16.7 °C** | **17.5 °C** |
+
+| **OBSERVATIONS DU 1960 6 JUILLET** |
+| --- |
+| **Nombre de bateaux sortis (pêche à l'ancorée)** | **82** |
+| **Température de l'air** |  |
+| - maxima depuis la veille | **21.4 °C** |
+| - minima id. | **13.9 °C** |
+| **Température de l'eau** |  |
+| - maxima depuis la veille | **-** |
+| - minima id. | **-** |
+| **Pluie tombée depuis la veille, en millim.** | **-** |
+| **Évaporation depuis le 22 Juin 1960, en millim.** | **8.0 mm** |
+| **Direction du vent (à terre)** | **à 9 h. m.** | **à 3 h. s.** |
+| **Force** | **S.S.E.** | **S.S.E.** |
+| **Direction des nuages** | **N.N.O.** | **N.O.** |
+| **Nébulosité** |  |
+| - région Ouest (terre) | **10** | **10** |
+| - id. Est (mer) | **10** | **10** |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro** | **28.8 cm** | **29.0 cm** |
+| **Agitation de l'eau** | **1 fort** | **1.0** |
+| **Densité de l'eau au bout de la jetée** | **1027.2 g/cm³** | **1026.7 g/cm³** |
+| **Température id.** | **17.6 °C** | **19.2 °C** |
+```

@@ -1,0 +1,13 @@
+| **Date**      | **18 août 1901**                                                                 |
+|---------------|------------------------------------------------------------------------------|
+| **Hauteur Barométrique** |                                                                                                   |
+| **Direction du vent**   |                                                                                                   |
+| **Force**               |                                                                                                   |
+| **Nébulosité**          | **Reg. 6. (clére)** <br> (Reg. E. (max))                                  |
+| **Direction des nuages** |                                                                                                   |
+| **Pluie tombée**        |                                                                                                   |
+| **Température de l'air** |                                                                                                   |
+| **Hauteur de la mer**   |                                                                                                   |
+| **Agitation de l'eau**  | **au bout de la jizée** <br> **au large**                                   |
+| **Densité de l'eau**    |                                                                                                   |
+| **Température de l'eau**|                                                                                                   |

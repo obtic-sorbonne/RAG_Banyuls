@@ -1,0 +1,45 @@
+```plaintext
+| **Observations du 1960 6 août** |
+| --- |
+| **Nombre de bateaux sortis (pêche à l’ancre)** | **33** |
+| **Température de l'air** |  |
+| - maxima depuis la veille | **26.3 °C** |
+| - minima id. | **16.3 °C** |
+| **Température de l'eau** |  |
+| - maxima depuis la veille | **-** |
+| - minima id. | **-** |
+| **Pluie tombée depuis la veille, en millim.** | **11 mm** |
+| **Évaporation depuis le 190, en millim.** | **-** |
+| **Direction du vent (à terre)** | **à 9 h. m.** | **à 3 h. s.** |
+| **Force** | **2 fort** | **1 fort** |
+| **Direction des nuages** | **N.N.O.** | **N.N.O.** |
+| **Nébulosité** |  |
+| - région Ouest (terre) | **60** | **60** |
+| - id. Est (mer) | **60** | **60** |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro** | **1 cm** | **1 cm** |
+| **Agitation de l'eau** | **1 fort** | **2 faible** |
+| **Densité de l'eau au bout de la jetée** | **1023.9 g/cm³** | **1026.9 g/cm³** |
+| **Température id.** | **19.3 °C** | **19.3 °C** |
+
+| **Observations du 1960 8 août** |
+| --- |
+| **Nombre de bateaux sortis (pêche à l’ancre)** | **33** |
+| **Température de l'air** |  |
+| - maxima depuis la veille | **29.3 °C** |
+| - minima id. | **19.7 °C** |
+| **Température de l'eau** |  |
+| - maxima depuis la veille | **-** |
+| - minima id. | **-** |
+| **Pluie tombée depuis la veille, en millim.** | **quelques gouttes** |
+| **Évaporation depuis le 190, en millim.** | **-** |
+| **Direction du vent (à terre)** | **à 9 h. m.** | **à 3 h. s.** |
+| **Force** | **1** | **2** |
+| **Direction des nuages** | **S.O.** | **S.O.** |
+| **Nébulosité** |  |
+| - région Ouest (terre) | **60** | **60** |
+| - id. Est (mer) | **60** | **60** |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro** | **1 cm** | **1 cm** |
+| **Agitation de l'eau** | **-** | **-** |
+| **Densité de l'eau au bout de la jetée** | **1026.6 g/cm³** | **1026.6 g/cm³** |
+| **Température id.** | **20.7 °C** | **20.4 °C** |
+```

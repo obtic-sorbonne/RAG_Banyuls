@@ -1,0 +1,27 @@
+|  9. 26 Janvier 1901 | Moatin | Jour  |
+| --- | --- | --- |
+|  Hauteur Barometrique | 371.1 |   |
+|  Direction du vent | av. 0.0 |   |
+|  Force | 1/2012 |   |
+|  Gébulosité | (RCS. C. (tane) |   |
+|   |  | 0  |
+|  Direction des mages | av. 0.0 |   |
+|  Heure tombée |  |   |
+|  Température de l'air | 10.8 |   |
+|  Hauteur de la mer | 13.1 |   |
+|  Agitation de l'eau | 1/2012 |   |
+|  Densité au bout de la jetée | 10.29.4 |   |
+|  Température de l'eau | 11.8 |   |
+|  9. 30 Janvier 1901 | Moatin | Jour  |
+|  Hauteur Barometrique | 374.2 |   |
+|  Direction du vent | av. 0 |   |
+|  Force | 3 T. Port. |   |
+|  Gébulosité | (RCS. C. (tane) |   |
+|   |  | 0  |
+|  Direction des mages | av. 0 |   |
+|  Heure tombée |  |   |
+|  Température de l'air | 11.6 |   |
+|  Hauteur de la mer | 1/2012 |   |
+|  Agitation de l'eau | 3 T. Port. |   |
+|  Densité au bout de la jetée | 10.29.4 |   |
+|  Température de l'eau | 11.8 |   |

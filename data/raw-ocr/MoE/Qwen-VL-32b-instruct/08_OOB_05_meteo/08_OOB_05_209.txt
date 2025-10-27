@@ -1,0 +1,28 @@
+| Date           | Matin       | Soir       |
+|----------------|-------------|------------|
+| 6 Février 1907 |             |            |
+| Hauteur barométrique | 762,8 | —          |
+| Direction du vent | S.O.    | —          |
+| Force           | 1         | —          |
+| Nébulosité (%) (Hiz.) | 10    | —          |
+| Nébulosité (%) (Reg.) | 10    | —          |
+| Direction des nuages | S.O. | —          |
+| Pluie tombée     | —         | —          |
+| Température de l'air | -2/10 | —          |
+| Hauteur de la mer | 63,2    | —          |
+| Agitation de l'eau | 2       | —          |
+| Vitesse au bout de la jetée | 1630,1 | —          |
+| Température de l'eau | 11,6   | —          |
+| 7 Février 1907 |             |            |
+| Hauteur barométrique | 766,4 | 769,4      |
+| Direction du vent | cr. 0  | cr. 0      |
+| Force           | 2         | 1          |
+| Nébulosité (%) (Hiz.) | 10    | 10         |
+| Nébulosité (%) (Reg.) | 10    | 10         |
+| Direction des nuages | cr. 0 | cr. 0      |
+| Pluie tombée     | —         | quelqueغ     |
+| Température de l'air | 4,6   | —          |
+| Hauteur de la mer | 17,7    | —          |
+| Agitation de l'eau | 1       | 2 for.     |
+| Vitesse au bout de la jetée | 1629,7 | —          |
+| Température de l'eau | 11,4   | —          |

@@ -1,0 +1,30 @@
+# Date. 18 mars 1901
+
+|  | 9" Matin | 3" Soir |
+| --- | --- | --- |
+| Hauteur Barométrique | 748,3 | 744,7 |
+| Direction du vent | Ouest | Ouest |
+| Force | 3 | 3 |
+| Nébulosité | 10 | 10 |
+| Reg. E. (mer) | 3 | 3 |
+| Direction des nuages | Ouest | Ouest |
+| Pluie tombée | 0 | 0 |
+| Température de l'air | 12,4 | 13,5 |
+| Hauteur de la mer | 40,0 | 57,1 |
+| Agitation de l'eau | 3 | 2 |
+| Densité de l'eau | 1,02 | 1,02 |
+| Température de l'eau | 10,9 | 10,9 |
+
+Séminaire Barométrique Direction du vent Force mm 11 cm 9.16.2 11.16.1 11.16.2 11.16.3 11.16.4
+
+Sélection de images 11.3 11.3 11.3 11.3 11.3 11.3 11.3 11.3
+
+Écrivant de l'air 12.4 13.5
+
+Hauteur de la mer 40.0 57.1 57.1 57.1 57.1
+
+Agitation de l'eau 3 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2
+
+Densité de l'eau 1.02 1.02 1.02 1.02 1.02 1.02 1.02 1.02
+
+Séminaire de l'eau

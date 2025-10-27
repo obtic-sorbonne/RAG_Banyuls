@@ -1,0 +1,6 @@
+| Date         | Heure | Hauteur Barométrique | Direction du vent | Force | Reg. O. (Terre) | Nebulosité Reg. E. (mer) | Direction des nuages | Pluie tombée | Température de l'air | Hauteur de la mer | Agitation de l'eau | Vitesse au bout de la jetée | Température de l'eau |
+|--------------|-------|---------------------|--------------------|-------|------------------|-------------------------|----------------------|--------------|------------------------|-------------------|----------------------|--------------------------|------------------------|
+| V. 11 Mars 1904 | Matin | 769.4 | cr.cr. E | 1 | 2 (dégust.) | 2 (dégust.) | Nuc | "quelque g." | 12.0 | 48.9 | 1 jaillle | 1027.8 | 11.3 |
+| V. 11 Mars 1904 | Soir | 763.3 | s.8 | faible | 10 | 10 | cr. o | " " | 17.6 | 48.0 | 1 T. faible | 1026.8 | 11.8 |
+| V. 12 Mars 1904 | Matin | 761.6 | Est | 1 | 10 | 10 | ur. o | " " | 10.8 | 47.1 | 3 fort | 1026.9 | 11.4 |
+| V. 12 Mars 1904 | Soir | 769.2 | s.8 | faible | 3 | 2 | Nculd | " " | 11.7 | 49.3 | 2 fort | 1027.6 | 11.4 |

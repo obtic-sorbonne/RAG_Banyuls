@@ -1,0 +1,32 @@
+```
+| Date/Heure       | Matin | Soir    |
+|------------------|-------|---------|
+| **28 juin 1906** |       |         |
+| Hauteur barométrique |       | 761.6   |
+| Direction du vent  |       | S.S.E.  |
+| Force             |       | 3       |
+| Nébulosité        |       | Claire  |
+| (Reg. 0.)        |       | 0       |
+| (Reg. E.)        |       | 1       |
+| Direction des nuages |     | Sud     |
+| Pluie tombée      |       |         |
+| Température de l'air |     | 20.6 °C |
+| Hauteur de la mer |       | 10.6 m  |
+| Agitation de l'eau |      | 2       |
+| Densité au bout de la jetée | | 1029.0 |
+| Température de l'eau |     | 21.0 °C |
+| **30 juin 1906** |       |         |
+| Hauteur barométrique |       | 767.0   |
+| Direction du vent  |       | E.S.E.  |
+| Force             |       | 2 Port. |
+| Nébulosité        |       | Claire  |
+| (Reg. 0.)        |       | 10%     |
+| (Reg. E.)        |       | 10%     |
+| Direction des nuages |     | Ouest   |
+| Pluie tombée      |       | quelques g |
+| Température de l'air |     | 20.0 °C |
+| Hauteur de la mer |       | 63 cm   |
+| Agitation de l'eau |      | 1       |
+| Densité au bout de la jetée | | 1029.8 |
+| Température de l'eau |     | 18.4 °C |
+```

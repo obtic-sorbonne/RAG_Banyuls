@@ -1,0 +1,180 @@
+| Date | Matin | Afternoon | Soir |
+|------|-------|----------|------|
+| h.t. |  |  |  |
+| Volume d'eau |  |  |  |
+| Temp. maxim. |  |  |  |
+| Direction V. |  |  |  |
+| Volume |  |  |  |
+| Pression des vapeurs absorbées |  |  |  |
+| Réduction h.t. maxim |  |  |  |
+| Direction V. |  |  |  |
+| Volume d'eau |  |  |  |
+| Direction V. |  |  |  |
+| Volume d'eau |  |  |  |
+| Pression Sr. |  |  |  |
+| H.t. |  |  |  |
+| Volume d'eau |  |  |  |
+| Direction V. |  |  |  |
+| Volume |  |  |  |
+| Degré Fahrenheit |  |  |  |
+| Température de l'air |  |  |  |
+| Pression |  |  |  |
+| H.t. maxim |  |  |  |
+| H.t. min. |  |  |  |
+| Volume |  |  |  |
+| Volume d'eau |  |  |  |
+| Température |  |  |  |
+| H.t. |  |  |  |
+| Volume d'eau |  |  |  |
+| Direction V. |  |  |  |
+| Volume |  |  |  |
+| Pression |  |  |  |
+| H.t. |  |  |  |
+| Volume d'eau |  |  |  |
+| Direction V. |  |  |  |
+| Volume |  |  |  |
+| Température |  |  |  |
+| H.t. |  |  |  |
+| Volume d'eau |  |  |  |
+| Direction V. |  |  |  |
+| Volume |  |  |  |
+| H.t. |  |  |  |
+| Volume d'eau |  |  |  |
+| Direction V. |  |  |  |
+| Volume |  |  |  |
+| H.t. maxim |  |  |  |
+| H.t. min. |  |  |  |
+| Volume d'eau |  |  |  |
+| Direction V. |  |  |  |
+| Volume |  |  |  |
+| Volume d'eau |  |  |  |
+| Température |  |  |  |
+| H.t. |  |  |  |
+| Volume d'eau |  |  |  |
+| Direction V. |  |  |  |
+| Volume |  |  |  |
+| Volume d'eau |  |  |  |
+| Température |  |  |  |
+| H.t. |  |  |  |
+| Volume d'eau |  |  |  |
+| Volume |  |  |  |
+| Volume d'eau |  |  |  |
+| Direction V. |  |  |  |
+| Volume |  |  |  |
+| Volume d'eau |  |  |  |
+| Température |  |  |  |
+| H.t. |  |  |  |
+| Volume d'eau |  |  |  |
+| Direction V. |  |  |  |
+| Volume |  |  |  |
+| Pression |  |  |  |
+| H.t. |  |  |  |
+| Volume d'eau |  |  |  |
+| Direction V. |  |  |  |
+| Volume |  |  |  |
+| Volume d'eau |  |  |  |
+| Température |  |  |  |
+| H.t. maxim |  |  |  |
+| Volume d'eau |  |  |  |
+| Direction V. |  |  |  |
+| Volume |  |  |  |
+| Volume d'eau |  |  |  |
+| Température |  |  |  |
+| H.t. |  |  |  |
+| Volume d'eau |  |  |  |
+| Direction V. |  |  |  |
+| Volume |  |  |  |
+| Volume d'eau |  |  |  |
+| Température |  |  |  |
+| H.t. maxim |  |  |  |
+| Volume d'eau |  |  |  |
+| Direction V. |  |  |  |
+| Volume |  |  |  |
+| Volume d'eau |  |  |  |
+| Température |  |  |  |
+| H.t. |  |  |  |
+| Volume d'eau |  |  |  |
+| Direction V. |  |  |  |
+| Volume |  |  |  |
+| Volume d'eau |  |  |  |
+| Température |  |  |  |
+| H.t. |  |  |  |
+| Volume d'eau |  |  |  |
+| Direction V. |  |  |  |
+| Volume |  |  |  |
+| Volume d'eau |  |  |  |
+| Température |  |  |  |
+| H.t. maxim |  |  |  |
+| Volume d'eau |  |  |  |
+| Direction V. |  |  |  |
+| Volume |  |  |  |
+| Volume d'eau |  |  |  |
+| Température |  |  |  |
+| H.t. |  |  |  |
+| Volume d'eau |  |  |  |
+| Direction V. |  |  |  |
+| Volume |  |  |  |
+| Volume d'eau |  |  |  |
+| Température |  |  |  |
+| H.t. maxim |  |  |  |
+| Volume d'eau |  |  |  |
+| Direction V. |  |  |  |
+| Volume |  |  |  |
+| Volume d'eau |  |  |  |
+| Température |  |  |  |
+| H.t. |  |  |  |
+| Volume d'eau |  |  |  |
+| Direction V. |  |  |  |
+| Volume |  |  |  |
+| Volume d'eau |  |  |  |
+| Température |  |  |  |
+| H.t. maxim |  |  |  |
+| Volume d'eau |  |  |  |
+| Direction V. |  |  |  |
+| Volume |  |  |  |
+| Volume d'eau |  |  |  |
+| Température |  |  |  |
+| H.t. |  |  |  |
+| Volume d'eau |  |  |  |
+| Direction V. |  |  |  |
+| Volume |  |  |  |
+| Volume d'eau |  |  |  |
+| Température |  |  |  |
+| H.t. maxim |  |  |  |
+| Volume d'eau |  |  |  |
+| Direction V. |  |  |  |
+| Volume |  |  |  |
+| Volume d'eau |  |  |  |
+| Température |  |  |  |
+| H.t. |  |  |  |
+| Volume d'eau |  |  |  |
+| Direction V. |  |  |  |
+| Volume |  |  |  |
+| Volume d'eau |  |  |  |
+| Température |  |  |  |
+| H.t. maxim |  |  |  |
+| Volume d'eau |  |  |  |
+| Direction V. |  |  |  |
+| Volume |  |  |  |
+| Volume d'eau |  |  |  |
+| Température |  |  |  |
+| H.t. |  |  |  |
+| Volume d'eau |  |  |  |
+| Direction V. |  |  |  |
+| Volume |  |  |  |
+| Volume d'eau |  |  |  |
+| Température |  |  |  |
+| H.t. maxim |  |  |  |
+| Volume d'eau |  |  |  |
+| Direction V. |  |  |  |
+| Volume |  |  |  |
+| Volume d'eau |  |  |  |
+| Température |  |  |  |
+| H.t. |  |  |  |
+| Volume d'eau |  |  |  |
+| Direction V. |  |  |  |
+| Volume |  |  |  |
+| Volume d'eau |  |  |  |
+| Température |  |  |  |
+| H.t. maxim |  |  |  |
+| Volume d'eau

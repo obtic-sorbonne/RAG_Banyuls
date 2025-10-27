@@ -1,0 +1,27 @@
+|  V. 15 Octobie - 1907 | Nibation | Soir  |
+| --- | --- | --- |
+|  Nautour Mésométrique | 7/8.8 | 7/8.0  |
+|  Direction du vent | 1/1.0 | 1/8.0  |
+|  Force | 3 fort | 1  |
+|  Nébulonite | 10 | 10  |
+|  Nég. o. (min) | 10 | 10  |
+|  Direction des mages | Ouest | Ouest  |
+|  Pline tombés | 1,37/1 | 1,87/1  |
+|  Compristine de l'air | 14.1/1 | 16.9  |
+|  Nautour de la mer | 3/1.8 | 34.0  |
+|  Agitation de l'eau | 17.7/1 | 3  |
+|  Densité au bout de la jetée | 16.7/1.7 | 16.7/1.8  |
+|  Compristine de l'eau | 18.8 | 19.4  |
+|  V. 16 Octobie - 1907 | Nibation | Soir  |
+|  Nautour Mésométrique | 747.3 | 747.8  |
+|  Direction du vent | 1.5.0 | 1.5.0  |
+|  Force | 3 | 3 fort  |
+|  Nébulonite | 10 | 10  |
+|  Nég. o. (min) | 10 | 10  |
+|  Direction des mages | Est | Est  |
+|  Pline tombés | 17.3/1 | 30.3/1  |
+|  Compristine de l'air | 1/1.3/1 | 18.8  |
+|  Nautour de la mer | 39.0 | 39.0  |
+|  Agitation de l'eau | 1 fort | 1 fort  |
+|  Densité au bout de la jetée | 10.38.7 | 10.38.3  |
+|  Compristine de l'eau | 19.1 | 19.2  |

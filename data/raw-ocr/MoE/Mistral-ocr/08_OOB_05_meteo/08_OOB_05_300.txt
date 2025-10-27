@@ -1,0 +1,29 @@
+|  7. 26 Septembre 1907 | Moatin | Soir  |
+| --- | --- | --- |
+|  Hauteur Wavometrique | 4/8,3 | 4/7,4  |
+|  Direction du vent | 1,0 | 1,3  |
+|  Force | 1 fort | 3 fort  |
+|  (Reg. O. (tence) | 3 | 10  |
+|  Nebulisite | 3 | 10  |
+|  (Reg. X. (mur) | 3 | 10  |
+|  Direction des nuages | 1,0 | 1,0  |
+|  (Tunic tombe) |  |   |
+|  Température de l'air | 23,0 | 24,1  |
+|  Hauteur de la mer | 24,6 | 33,4  |
+|  (Agitation de l'eau) | 3 | 3  |
+|  Densité au bout de la jetée | 10,4 | 10,3  |
+|  Température de l'eau | 19,1 | 20,3  |
+|  7. 27 Septembre 1907 | Moatin | Soir  |
+|  Hauteur Wavometrique | 4/7,6 | 4/7,3  |
+|  Direction du vent | 1,0 | 1,0  |
+|  Force | 1 | 3  |
+|  (Reg. O. (tence) | 10 | 10  |
+|  Nebulisite | 10 | 10  |
+|  (Reg. X. (mur) | 10 | 10  |
+|  Direction des nuages | 1,0 | 1,0  |
+|  (Tunic tombe) | 8,2 | 1,4  |
+|  Température de l'air | 24,1 | 34,8  |
+|  Hauteur de la mer | 13,8 | 3  |
+|  (Agitation de l'eau) | 4 | 37 fort  |
+|  Densité au bout de la jetée | 10,4 | 5  |
+|  Température de l'eau | 20,4 | 5  |

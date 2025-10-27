@@ -1,0 +1,31 @@
+# 7.21 Novembre 1901
+
+|  **Pfanteur Parométrique** | **784,7** | **783,1**  |
+| --- | --- | --- |
+|  Direction du vent | or.0.0 | or.0.0  |
+|  Force | 3 faible | 3  |
+|  **Touboisiste** | 0 | 10  |
+|  **Reg. 0. (m)** | 0 | 10  |
+|  Direction des nuages | or.0.0 | or.0.0  |
+|  **Mue tombé** | 11,7 | 12,0  |
+|  **Comperature de l'air** | 4,1,9 | 32,7  |
+|  **Panteur de la mer** | 1,1,9 | 3,2,7  |
+|  **Agitation de l'eau** | 2 | 2 fois  |
+|  **Consiste au bout de la jeté** | 1028,2 | 1028,2  |
+|  **Comperature de l'eau** | 14,7 | 11,1  |
+
+# 7.22 Novembre 1901
+
+|  **Pfanteur Parométrique** | **782,7** | **782,2**  |
+| --- | --- | --- |
+|  Direction du vent | or.0.0 | or.0.0  |
+|  Force | 3 | 3 faible  |
+|  **Touboisiste** | 10,9 | 10,9  |
+|  **Reg. 0. (m)** | 10,9 | 10,9  |
+|  Direction des nuages | or.0.0 | or.0.0  |
+|  **Mue tombé** | 12,4 | 13,4  |
+|  **Comperature de l'air** | 40,3 | 30,1  |
+|  **Panteur de la mer** | 3 fois | 3 fois  |
+|  **Agitation de l'eau** | 2 fois | 3 fois  |
+|  **Consiste au bout de la jeté** | 1028,4 | 1028,4  |
+|  **Comperature de l'eau** | 11,0 | 11,0  |

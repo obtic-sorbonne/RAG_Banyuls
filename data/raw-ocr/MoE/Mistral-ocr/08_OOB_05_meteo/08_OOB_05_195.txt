@@ -1,0 +1,25 @@
+|  V. A. Jazurier - 1907 | Mbaatin | Poir  |
+| --- | --- | --- |
+|  Hauteur Noxometrique | 266.0 | 263.8  |
+|  Direction du vent | cr.0 | cr.0  |
+|  Nocce | 4 | 10  |
+|  Nébubosite (Reg. C. (lame) | 10 | 10  |
+|  Direction des nuages | cr.0 | cr.0  |
+|  Plein tombic | 8.3 | 8.3  |
+|  Dempirature de l'air | 14.9 | 64.1  |
+|  Hauteur de la mer | 8 fort | 3  |
+|  Capitution de l'eau | 629.1 | 629.1  |
+|  Densité au bout de la jetée | 12.1 | 11.8  |
+|  Dempirature de l'eau |  |   |
+|  V. J. Jazurier - 1907 | Mbaatin | Poir  |
+|  Hauteur Noxometrique | 274.6 | 274.3  |
+|  Direction du vent | cr.0 | cr.0  |
+|  Nocce | 10 | 6  |
+|  Nébubosite (Reg. C. (lame) | 10 | 10  |
+|  Direction des nuages | cr. 3 | cr. 8  |
+|  Plein tombic | 11.8 | 9.3  |
+|  Dempirature de l'air | 23.8 | 63.6  |
+|  Hauteur de la mer | 3 | 3 fort  |
+|  Capitution de l'eau | 1029.6 | 1029.6  |
+|  Densité au bout de la jetée | 11.4 | 11.2  |
+|  Dempirature de l'eau |  |   |

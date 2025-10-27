@@ -1,0 +1,29 @@
+| **V.** | **14 Février - 1902** | **Matin** | **Soir** |
+|---|---|---|---|
+| **Hauteur Barométrique** | 750.0 | - |
+| **Direction du vent** | S.O. | - |
+| **Force** | 4.5 | faible |
+| **Nébulosité** | O. (Clame) | 10 | - |
+| | Reg. 2. (mer) | 10 | - |
+| **Direction des nuages** | S.0 | - |
+| **Pluie tombée** | - | - |
+| **Température de l'air** | 1.7 | - |
+| **Hauteur de la mer** | 32.2 | - |
+| **Agitation de l'eau** | Fort | - |
+| **Vitesse au bout de la jetée** | 1 | 1029.1 | - |
+| **Température de l'eau** | 11.4 | - | - |
+
+| **V.** | **15 Février - 1902** | **Matin** | **Soir** |
+|---|---|---|---|
+| **Hauteur Barométrique** | 757.0 | 756.3 |
+| **Direction du vent** | S.0 | Cr.0 |
+| **Force** | 4.5 | Fort | 2 |
+| **Nébulosité** | O. (clame) | 10 | 10 |
+| | Reg. E. (mer) | 10 | 10 |
+| **Direction des nuages** | Ouest | Cr.0 | quelque q. |
+| **Pluie tombée** | - | - |
+| **Température de l'air** | 9.2 | 12.4 |
+| **Hauteur de la mer** | 44.2 | 38.2 |
+| **Agitation de l'eau** | Fort | 1 | 1 |
+| **Vitesse au bout de la jetée** | 1029.1 | 1029.4 |
+| **Température de l'eau** | 11.1 | 11.3 | |

@@ -1,0 +1,27 @@
+| V. 8 Octobre 1906 | Matin | Soir |
+|-------------------|-------|------|
+| Hauteur Barométrique | 769,6 | 769,6 |
+| Direction du vent | S. E | S. E |
+| Force | 1 fort | 1 fort |
+| Nébulosité | Reg. 0. (clère) | 10 légère |
+| Reg. 0. (mer) | 10 légère | Ouest |
+| Direction des nuages | | |
+| Pluie tombée | | |
+| Température de l'air | 23,2 | 23,2 |
+| Hauteur de la mer | 44,1 | 44,1 |
+| Agitation de l'eau | 1 | 1 |
+| Vensite au bout de la jetée | 4028,2 | 4028,2 |
+| Température de l'eau | 20,4 | 20,4 |
+| V. 9 Octobre 1906 | Matin | Soir |
+| Hauteur Barométrique | 769,7 | 769,7 |
+| Direction du vent | S. E | S. E |
+| Force | 1 fort | 1 fort |
+| Nébulosité | Reg. 0. (clère) | 10 |
+| Reg. 0. (mer) | 10 | S. O |
+| Direction des nuages | | |
+| Pluie tombée | | |
+| Température de l'air | 23,1 | 23,1 |
+| Hauteur de la mer | 44,1 | 44,1 |
+| Agitation de l'eau | 1 faible | 1 faible |
+| Vensite au bout de la jetée | 4028,4 | 4028,4 |
+| Température de l'eau | 19,8 | 19,8 |

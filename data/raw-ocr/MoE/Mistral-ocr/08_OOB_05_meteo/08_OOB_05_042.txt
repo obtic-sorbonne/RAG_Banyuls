@@ -1,0 +1,26 @@
+|  0.6 Octobre 1905 | Mbatin | Joir  |
+| --- | --- | --- |
+|  Fauteur P'arométrique | 267.2 | 267.6  |
+|  Direction du vent | 11.11.0 | 11.11.0  |
+|  Force | 3 fort. | 3 n.fore  |
+|  0 | 10 | 4  |
+|  0.7 Octobre 1905 | Mbatin | Joir  |
+|  Direction des mages | 11.11.0 | 11.11.0  |
+|  Heure Tombre | gendy.10.3 | 11.8  |
+|  Température de l'air | 16.3 | 17.8  |
+|  Fauteur de la mer | 13.1 | 14.2  |
+|  Oxyitation de l'eau | 3 | 3.fore  |
+|  Densité au bout de la jetée | 10.29.8 | 10.28.1  |
+|  Température de l'eau | 18.3 | 18.3  |
+|  0.7 Octobre 1905 | Mbatin | Joir  |
+|  Fauteur P'arométrique | 268.4 | 266.8  |
+|  Direction du vent | 11.11.0 | 11.11.0  |
+|  Force | 3 n.fore | 2  |
+|  0 | 0 | 0  |
+|  0.7 Octobre 1905 | Mbatin | Joir  |
+|  Heure Tombre | 14.3 | 18.2  |
+|  Température de l'air | 68.3 | 68.2  |
+|  Fauteur de la mer | 4 | 3 n.fore  |
+|  Oxyation de l'eau | 10.29.2 | 10.28.2  |
+|  Densité au bout de la jetée | 12.9 | 12.2  |
+|  Température de l'eau |  |   |

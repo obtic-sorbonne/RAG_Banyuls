@@ -1,0 +1,48 @@
+| **Observations du 1902 22 Février** |
+| --- |
+| Nombre de bateaux sortis (pêche à l…) | 18.8 |
+| Température de l'air |  |
+|  - maxima depuis la veille | 18.8 |
+|  - minima id. | 7.7 |
+| Température de l'eau |  |
+|  - maxima depuis la veille |  |
+|  - minima id. |  |
+| Pluie tombée depuis la veille, en millim. |  |
+| Évaporation depuis le 190, en millim. |  |
+| Direction du vent (à terre) | S.S.O |  |
+| Force | faible |  |
+| Direction des nuages |  |  |
+| Nébulosité |  |  |
+|  - région Ouest (terre) | 3 légères |  |
+|  - id. Est (mer) | 1 |  |
+| Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.) | 31.0 |  |
+| Agitation de l'eau | 1 | 1 |
+| Densité de l'eau au bout de la jetée | 1027.9 | 1027.4 |
+| Température id. |  |  |
+|  - is. Bolavan matin | 12.4 | 12.2 |
+|  - is. Pennane matin (maxima) | 24.9 | 24.9 |
+|  - is. œ. Loir (minima) | 1.6 | 1.6 |
+| Observations du 1902 23 Février |
+| --- |
+| Nombre de bateaux sortis (pêche à l…) | 19.8 |
+| Température de l'air |  |
+|  - maxima depuis la veille | 19.8 |
+|  - minima id. | 7.7 |
+| Température de l'eau |  |
+|  - maxima depuis la veille |  |
+|  - minima id. |  |
+| Pluie tombée depuis la veille, en millim. |  |
+| Évaporation depuis le 190, en millim. |  |
+| Direction du vent (à terre) | S.S.O | S.S.O |
+| Force | 1 | 2 |
+| Direction des nuages | S.S.O | Sud |
+| Nébulosité |  |  |
+|  - région Ouest (terre) | 10 | 10 |
+|  - id. Est (mer) | 10 | 10 |
+| Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.) | 34.3 | 39.0 |
+| Agitation de l'eau | faible | 1 |
+| Densité de l'eau au bout de la jetée | 1027.2 | 1027.4 |
+| Température id. |  |  |
+|  - is. Bolavan matin | 13.7 | 12.4 |
+|  - is. Pennane matin (maxima) | 24.9 | 27.3 |
+|  - is. œ. Loir (minima) | 4.9 | 15.0 |

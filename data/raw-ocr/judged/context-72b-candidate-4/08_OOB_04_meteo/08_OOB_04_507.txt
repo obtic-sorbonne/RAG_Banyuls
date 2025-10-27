@@ -1,0 +1,31 @@
+```plaintext
+| 14 Juin - 1905 | Matin | Soir |
+| --- | --- | --- |
+| Hauteur Barométrique | 767.3 | 760.3 |
+| Direction du vent | Nord | Ouest |
+| Force | 1 | 2 |
+| Nébulosité (Reg. 6 (terre)) | 10 | 10 |
+| (Reg. 6 (mer)) | 10 | 10 |
+| Direction des nuages | S.O | O.N.E. |
+| Pluie tombée | 20,9 | quelques gouttes |
+| Température de l'air | 20,9 | 19,4 |
+| Hauteur de la mer | 44,1 | 33,0 |
+| Agitation de l'eau | 17 faible | faible |
+| Densité au bout de la jetée | 1028,0 | 1027,9 |
+| Température de l'eau | 19,1 | 19,8 |
+
+| 15 Juin - 1905 | Matin | Soir |
+| --- | --- | --- |
+| Hauteur Barométrique | 769.5 | 760.0 |
+| Direction du vent | S.S.E | S.S.E |
+| Force | 1 | 2 faible |
+| Nébulosité (Reg. 6 (terre)) | légère | légère |
+| (Reg. 6 (mer)) | légère | légère |
+| Direction des nuages | O.N.E. | S.O |
+| Pluie tombée | quelques gouttes | quelques gouttes |
+| Température de l'air | 19,3 | 26,0 |
+| Hauteur de la mer | 42,1 | 39,7 |
+| Agitation de l'eau | 1 faible | 1 faible |
+| Densité au bout de la jetée | 1028,1 | 1028,2 |
+| Température de l'eau | 19,2 | 19,4 |
+```

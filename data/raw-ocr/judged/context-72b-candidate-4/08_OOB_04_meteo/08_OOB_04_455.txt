@@ -1,0 +1,31 @@
+```plaintext
+| V. 21 Décembre - 1904 | Matin | Soir |
+|-----------------------|-------|------|
+| Hauteur Barométrique  | 772.0 | 772.0 |
+| Direction du vent     | O.S.  | S.O. |
+| Force                 | 1     | 1    |
+| Nébulosité (Reg. O. (terre)) | 10  | 10  |
+| (Reg. E. (mer))       | 10  | 10  |
+| Direction des nuages  | S.E. | S.O. |
+| Pluie tombée          | "     | "    |
+| Température de l'air  | 10.6  | 12.6 |
+| Hauteur de la mer     | 49.6  | 48.8 |
+| Agitation de l'eau    | 3     | 2    |
+| Densité au bout de la jetée | 1029.6 | 1029.2 |
+| Température de l'eau  | 14.4  | 14.4 |
+
+| V. 23 Décembre - 1904 | Matin | Soir |
+|-----------------------|-------|------|
+| Hauteur Barométrique  | 770.6 |      |
+| Direction du vent     | S.S.E |      |
+| Force                 | 2     |      |
+| Nébulosité (Reg. O. (terre)) | 10  |      |
+| (Reg. E. (mer))       | 10  |      |
+| Direction des nuages  | S.S.E |      |
+| Pluie tombée          | quelques g |      |
+| Température de l'air  | 13.0  |      |
+| Hauteur de la mer     | 48.5  |      |
+| Agitation de l'eau    | 2 faible |      |
+| Densité au bout de la jetée | 1029.5 |      |
+| Température de l'eau  | 13.9  |      |
+```

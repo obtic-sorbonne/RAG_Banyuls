@@ -1,0 +1,32 @@
+9.9 Moars. 1907
+
+|  |   |   |
+| --- | --- | --- |
+|  Hauteur |  | Moarin  |
+|  Direction du vent |  | 770.4  |
+|  Force |  | 27.0  |
+|   |  | 7  |
+|  Nébulonité | (Reg. O. (en) | 2  |
+|   |  | 2  |
+|  Direction des mass |  | 2  |
+|  Flux tombé |  | 10  |
+|  Température de l'air |  | 12.6  |
+|  Hauteur de la mer |  | 76.9  |
+|  (Agitation de l'eau) |  | 3  |
+|  Densité au bout de la jetée |  | 1029.4  |
+|  Température de l'eau |  | 10.1  |
+|  10th |  | Moarin  |
+|  7th |  | 760.7  |
+|  Hauteur |  | 260.7  |
+|  Direction du vent |  | 27.0  |
+|  Force |  | 6  |
+|   |  | 6  |
+|  Nébulonité | (Reg. O. (en) | 10  |
+|   |  | 10  |
+|  Direction des mass |  | 10  |
+|  Flux tombé |  | 11.3  |
+|  Température de l'air |  | 11.3  |
+|  Hauteur de la mer |  | 73.2  |
+|  (Agitation de l'eau) |  | 2  |
+|  Densité au bout de la jetée |  | 1028.6  |
+|  Température de l'eau |  | 11.4  |

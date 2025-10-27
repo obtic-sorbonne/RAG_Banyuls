@@ -1,0 +1,16 @@
+# Date: 26 Mars 1901
+
+|            | 9" Matin | 3" Soir |
+|------------|----------|---------|
+| Hauteur Barométrique | 774,6 | 753,5  |
+| Direction du vent | Nord | Nord  |
+| Force | 4 faible | 4 faible  |
+| Rég. O. (terre) | 10 | 10  |
+| Nébulosité / Rég. E. (mer) | 10 | 10  |
+| Direction des nuages | Nord | Nord  |
+| Pluie tombée | 9,8 | 10,4  |
+| Température de l'air | 42,8 | 49,6  |
+| Hauteur de la mer | 42,8 | 49,6  |
+| Agitation de l'eau | 3 faible | 3  |
+| Densité de l'eau / au bout de la jetée | 10,4 | 10,4  |
+| Température de l'eau | 3,8 | 43,6  |

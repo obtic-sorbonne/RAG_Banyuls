@@ -1,0 +1,48 @@
+# 9. 30 X 1901
+
+## Matin Soir
+
+|  Maturité | Négatif | Précision  |
+| --- | --- | --- |
+|  Maturité |  |   |
+|  Direction du vent | or. or. | Force  |
+|  |   |   |
+|  Mébulosité |  |   |
+|  (Reg. 5 - (mor)) |  |   |
+|  Direction des nuages | or. or. | Force  |
+|  |   |   |
+|  Ménéphant |  |   |
+|  (14,7) |  |   |
+|  Ménéphant de la mer | 40,6 |   |
+|  (1028,7) |  |   |
+|  Ménéphant de l'eau | 12,4 |   |
+
+## 1901
+
+|  Maturité | Négatif | Précision  |
+| --- | --- | --- |
+|  Maturité |  |   |
+|  Direction du vent | 771,8 | 771,0  |
+|  Force |  |   |
+|  (14,7) |  |   |
+|  Mébulosité |  |   |
+|  (Reg. 5 - (mor)) |  |   |
+|  Direction des nuages |  |   |
+|  (1028,7) |  |   |
+|  Ménéphant de l'eau | 9,6 | 12,6  |
+|  (1028,7) |  |   |
+|  Ménéphant de la mer | 46,9 | 48,2  |
+|  (1028,7) |  |   |
+|  Ménéphant de l'eau | 1,8 | 11,7  |
+
+## 1901
+
+|  Maturité | Négatif | Précision  |
+| --- | --- | --- |
+|  Maturité |  |   |
+|  Direction du vent |  |   |
+|  Force |  |   |
+|  (14,7) |  |   |
+|  Ménéphant de l'eau |  |   |
+|  (1028,7) |  |   |
+|  Ménéphant de l'eau | 11,8 | 11,7  |

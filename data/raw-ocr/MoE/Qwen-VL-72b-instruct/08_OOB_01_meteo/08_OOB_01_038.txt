@@ -1,0 +1,18 @@
+| **Heures** | **Niveau de la mer** | **Vitesse** | **Direction** | **Hauteur barométrique** |
+| --- | --- | --- | --- | --- |
+| 6h | 0<sup>m</sup> 30 | - | - | - |
+| 8h 55m | 0<sup>m</sup> 39 | - | - | - |
+| 9h 10m | 0<sup>m</sup> 41 | 0 | faible | 768.4 |
+| 10h 30m | 0<sup>m</sup> 42 | - | - | - |
+| 11h 20m | 0<sup>m</sup> 43 | - | - | - |
+| midi | 0<sup>m</sup> 43 | - | - | - |
+| 1h 30s | 0<sup>m</sup> 39 | E | faible | 768.6 |
+| 2h 1s | 0<sup>m</sup> 36 | - | - | - |
+| 3h 20s | 0<sup>m</sup> 39 | nul | " | 767.4 |
+| 4h 30s | 0<sup>m</sup> 33 - 0<sup>m</sup> 34 | - | - | - |
+| 5h 4s | 0<sup>m</sup> 35 - 0<sup>m</sup> 36 | - | - | - |
+
+**N. B.**  
+L'amplitude des oscillations due à la forte mer  
+a qui a sévi toute la journée embrouilla les chiffres,  
+toute précision et a forcé d'indescriptible, obstructions à l'en-tête.

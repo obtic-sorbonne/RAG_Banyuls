@@ -1,0 +1,44 @@
+| Observations du 9 juin 1960 |
+| --- |
+| Nombre de bateaux sortis (pêche à la sardine) | 11 |
+| Température de l'air |
+| - maxima depuis la veille | 22,8 |
+| - minima id. | 14,7 |
+| Température de l'eau |
+| - maxima depuis la veille | - |
+| - minima id. | - |
+| Pluie tombée depuis la veille, en millim | - |
+| Évaporation depuis le 19 h 00, en millim | - |
+| Direction du vent (à terre) | N.E | N.E |
+| Force | 1 fort | 1 fort |
+| Direction des nuages | N.O | Ouest |
+| Nébulosité |
+| - région Ouest (terre) | 10 | 10 |
+| - région Est (mer) | 10 | 10 |
+| Hauteur de la mer, en centimètres, au-dessus du zéro | 47,9 | 36,0 |
+| Agitation de l'eau | 1 | 1 |
+| Densité de l'eau au bout de la jetée | 1029,8 | 1028,3 |
+| Température id. | 17,1 | 20,7 |
+
+
+| Observations du 10 juin 1960 |
+| --- |
+| Nombre de bateaux sortis (pêche à la sardine) | 1/ |
+| Température de l'air |
+| - maxima depuis la veille | 24,6 |
+| - minima id. | 14,7 |
+| Température de l'eau |
+| - maxima depuis la veille | - |
+| - minima id. | - |
+| Pluie tombée depuis la veille, en millim | 2,9 |
+| Évaporation depuis le 19 h 00, en millim | - |
+| Direction du vent (à terre) | N.N.O | - |
+| Force | 2 | 0 |
+| Direction des nuages | N.O | N.O |
+| Nébulosité |
+| - région Ouest (terre) | 10 | 10 |
+| - région Est (mer) | 10 | 10 |
+| Hauteur de la mer, en centimètres, au-dessus du zéro | 48,2 | 34,3 |
+| Agitation de l'eau | 1 fort | 1 fort |
+| Densité de l'eau au bout de la jetée | 1027,1 | 1026,8 |
+| Température id. | 17,6 | 17,8 |

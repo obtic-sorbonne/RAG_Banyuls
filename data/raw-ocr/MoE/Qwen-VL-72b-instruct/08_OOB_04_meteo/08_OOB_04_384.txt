@@ -1,0 +1,28 @@
+| **Date** | **Matin** | **Soir** |
+|----------|-----------|----------|
+| **V. 9 juin 1904** | | |
+| Hauteur Barométrique | 766.7 | 767.2 |
+| Direction du vent | S.S.E | O.ocl.O |
+| Force | 1fort | 1 |
+| Nébulosité | Reg. 0 (clène) | 10 | 10 |
+| **(Reg. 2. (mur)**) | | |
+| Direction des nuages | S.0. | Oocl.O |
+| Pluie tombée | quelques g | 16,27 |
+| Température de l'air | 23,6 | 20,9 |
+| Hauteur de la mer | 37,7 | 31.2 |
+| Agitation de l'eau | 1 | 1 |
+| Densité au bout de la jetée | 1027.4 | 1026.6 |
+| Température de l'eau | 20.2 | 20.4 |
+| **V. 10 juin 1904** | | |
+| Hauteur Barométrique | 761.4 | 760,1 |
+| Direction du vent | Est | S.S.E. |
+| Force | 1fort (faible) | 1fort |
+| Nébulosité | Reg. 0 (clène) | 10 | 10 |
+| **(Reg. 2. (mur)**) | | |
+| Direction nuage | S.0. | Oucl |
+| Pluie tombée | | |
+| Température de l'air | 22.3 | 23,1 |
+| Hauteur de la mer | 43,8 | 36,7 |
+| Agitation de l'eau | faible | 1faible |
+| Densité au bout de la jetée | 1027.7 | 1027.7 |
+| Température de l'eau | 20.8 | 21.2 |

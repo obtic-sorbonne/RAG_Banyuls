@@ -1,0 +1,16 @@
+| **Date** | 30 août 1900 |
+|---|---|
+| **Heure** | **8h m.** | **3h s.** |
+| **Hauteur barométrique** | **768,6** | **767,8** |
+| **Direction du Vent** | **N.O.** | **E.** |
+| **Force id.** | **4** | **1** |
+| **Nébulosité (Reg. O. (tem))** | **0** | **1** |
+| **(Reg. E. (mer))** | **0** | **0** |
+| **Direction des nuages** | — | — |
+| **Pluie tombée:** | — | — |
+| **Température de l'air** | **22,3** | **23,4** |
+| **Hauteur de la mer** | **0 m. 30** | — |
+| **Agitation de l'eau** | **2** | **1** |
+| **Densité de l'eau (amb. objets / au large)** | **1007,0** | — |
+| **Température de l'eau** | **20,6** | — |
+| **Observ.** | — | — |

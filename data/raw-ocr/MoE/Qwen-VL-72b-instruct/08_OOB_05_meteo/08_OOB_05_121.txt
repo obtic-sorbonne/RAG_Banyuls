@@ -1,0 +1,30 @@
+| Date       | Matin | Soir |
+|------------|-------|------|
+| 19 Juin 1906 |       |      |
+| Hauteur Barométrique | 768.1 |      |
+| Direction du vent | cr.c.r.o |      |
+| Force | 3 |      |
+| Régl. 6 (Clère) | 2 |      |
+| Nébulosité | 0 |      |
+| Régl. 6 (mr) | 0 |      |
+| Direction des nuages | cravx |      |
+| Pluie tombée |      |      |
+| Température de l'air | 27.8 |      |
+| Hauteur de la mer | 12.0 |      |
+| Agitation de l'eau | 2 |      |
+| Vensité au bout de la jetée | 10.27.7 |      |
+| Température de l'eau | 19.8 |      |
+| 20 Juin 1906 |       |      |
+| Hauteur Barométrique | 769.6 | 768.7 |
+| Direction du vent | cr.c.r.o | cr.o |
+| Force | 3 | 4 fort |
+| Régl. 6 (Clère) | 0 | 2 |
+| Nébulosité | 2 | 0 |
+| Régl. 6 (mr) | 2 | 0 |
+| Direction des nuages | cravx | cravx |
+| Pluie tombée |      |      |
+| Température de l'air | 24.7 | 29.2 |
+| Hauteur de la mer | 14.2 | 19.0 |
+| Agitation de l'eau | 3 | 3 |
+| Vensité au bout de la jetée | 10.27.8 | 10.27.9 |
+| Température de l'eau | 19.8 | 19.8 |

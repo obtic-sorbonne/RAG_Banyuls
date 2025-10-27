@@ -1,0 +1,22 @@
+# Date - 9 janvier - 1901
+
+9e Matin 3e Soir
+
+|  **Hauteur Barométrique** | 762,4 | 760,8  |
+| --- | --- | --- |
+|  **Direction du vent** | Sud-Ouest | Sud-Ouest  |
+|  **Force** | 1 | 1  |
+|  **Nébulosité** | 10 | 10  |
+|  **Reg. E. (mer)** | 10 | 10  |
+|  **Direction des nuages** | Ouest | Ouest  |
+|  **Pluie tombée** | 18 mm | 18 mm  |
+|  **Température de l'air** | 12,1 | 12,3  |
+|  **Hauteur de la mer** | 22,0 | 32,5  |
+|  **Agitation de l'eau** | 4 fois | 3 fois  |
+|  **Densité de l'eau** | 1023,2 | 1023,2  |
+|  |  |  |
+|  **Température de l'eau** | 11,5 | 11,5  |
+
+Densité de l'eau
+- au bout de la jetée: 1023,2
+- au large: 1023,2

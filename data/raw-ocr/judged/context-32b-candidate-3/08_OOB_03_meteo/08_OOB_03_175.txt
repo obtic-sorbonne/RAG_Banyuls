@@ -1,0 +1,20 @@
+# Date: 20 Avril 1902
+
+| **Mesure**                           | **9<sup>e</sup> Matin** | **3<sup>e</sup> Soir** |
+|--------------------------------------|------------------------|------------------------|
+| **Hauteur Barométrique (mm)**        | 766.8                  | 766.8                  |
+| **Direction du vent**                | S. S. E.               | S. S. E.               |
+| **Force du vent**                    | 1                      | 1                      |
+| **Nébulosité**                       | 10 (dijome)            | 10 (dijome)            |
+| **Direction des nuages**             | Ouest                  | Ouest                  |
+| **Pluie tombée**                     | -                      | -                      |
+| **Température de l'air (°C)**        | 16.8                   | 16.8                   |
+| **Hauteur de la mer (m)**            | 4.1                    | 4.1                    |
+| **Agitation de l'eau**               | 0                      | 0                      |
+| **Densité de l'eau**                 | 1027.3                 | 1027.3                 |
+| **- au bout de la jetée**            | 1027.3                 | 1027.3                 |
+| **- au large**                       |                        |                        |
+| **Température de l'eau (°C)**        | 14.3                   | 14.3                   |
+
+**Remarque additionnelle :**  
+- Hauteur à l'extérieur de la jetée : 1027.3 m.

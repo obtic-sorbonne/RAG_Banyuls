@@ -1,0 +1,27 @@
+| V. 24 Octobre 1906 | Matin | Soir |
+|-------------------|-------|------|
+| Hauteur Barométrique | 768.2 | 767.1 |
+| Direction du Vent | Or. 8 | " |
+| Force | 1 T. faible | 0 |
+| Nébulosité | Reg. E. (clère) | 40 | 40 |
+| Direction des nuages | Ouest | Ouest |
+| Pluie tombée | " | " |
+| Température de l'air | 21.0 | 22.0 |
+| Hauteur de la mer | 46.0 | 40.2 |
+| Agitation de l'eau | 1 faible | 1. faible |
+| Visibilité au bout de la jetée | 1028.0 | 1028.1 |
+| Température de l'eau | 19.4 | 19.1 |
+
+| V. 25 Octobre 1906 | Matin | Soir |
+|-------------------|-------|------|
+| Hauteur Barométrique | 767.0 | 766.9 |
+| Direction du Vent | Or. 0 | Or. 0 |
+| Force | 2 fort | 2 |
+| Nébulosité | Reg. E. (clère) | 10 | 10 |
+| Direction des nuages | Or. 0 | S. 0 |
+| Pluie tombée | " | quelques g |
+| Température de l'air | 21.0 | 19.2 |
+| Hauteur de la mer | 48.2 | 38.8 |
+| Agitation de l'eau | 1 | 2 fort |
+| Visibilité au bout de la jetée | 1028.1 | 1028.6 |
+| Température de l'eau | 19.4 | 19.2 |

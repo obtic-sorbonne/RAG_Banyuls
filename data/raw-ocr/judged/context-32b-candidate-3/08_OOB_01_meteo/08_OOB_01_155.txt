@@ -1,0 +1,22 @@
+```
+# Date. 28 Décembre. 1900.
+
+|  **3e Matin** | **3e Soir**  |
+| --- | --- |
+|  Hauteur Barométrique | 781,0 | 780,3  |
+|  Direction du vent | Nord | Nord  |
+|  Force | 3 faible | 4 fort  |
+|  Nébulosité | 10 | 10  |
+|  Rég. E. (mer) | 0 | 0  |
+|  Direction des nuages | Nord | Nord  |
+|  Pluie tombée | 18,4 | 18,4  |
+|  Température de l'air | 15,3 | 13,3  |
+|  Hauteur de la mer | 47,0 | 43,2  |
+|  Agitation de l'eau | 1,2 faible | 3 fort  |
+|  Densité de l'eau | 1029,2 | 1029,1  |
+|  Température de l'eau | 15,3 | 13,3  |
+
+Densité de l'eau
+- au bout de la jetée: 1029,2
+- au large: 1029,1
+```

@@ -1,0 +1,51 @@
+```plaintext
+### OBSERVATIONS DU 1901, 16 JUIN
+
+| **Nombre de bateaux sortis (pêche à l.)** | **81.1** |
+| **Température de l'air** |  |
+| - **maxima depuis la veille** |  |
+| - **minima id.** |  |
+| **Température de l'eau** |  |
+| - **maxima depuis la veille** |  |
+| - **minima id.** |  |
+| **Pluie tombée depuis la veille, en millim.** |  |
+| **Évaporation depuis le 1901, en millim.** |  |
+| **Direction du vent (à terre)** | **à 9 h. m.** | **à 3 h. s.** |
+| - **Force** | **2** | **2** |
+| - **Direction des nuages** | **S.O.** | **S.O.** |
+| **Nébulosité** |  |
+| - **région Ouest (terre)** | **10** | **10** |
+| - **id. Est (mer)** | **40** | **40** |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.)** | **39.2** | **48.9** |
+| **Agitation de l'eau** | **1** | **1** |
+| **Densité de l'eau au bout de la jetée** | **1026.2** | **1026.2** |
+| **Température id.** | **19.0** | **18.9** |
+| - **id. Balan** | **21.3** | **29.0** |
+| - **id. Terrasse** | **Maxima 29.1** | **Maxima 30.0** |
+| - **id. Minima** | **22.3** | **Minima 22.3** |
+
+### OBSERVATIONS DU 1901, 17 JUIN
+
+| **Nombre de bateaux sortis (pêche à l.)** |  |
+| **Température de l'air** |  |
+| - **maxima depuis la veille** |  |
+| - **minima id.** |  |
+| **Température de l'eau** |  |
+| - **maxima depuis la veille** |  |
+| - **minima id.** |  |
+| **Pluie tombée depuis la veille, en millim.** |  |
+| **Évaporation depuis le 1901, en millim.** |  |
+| **Direction du vent (à terre)** | **à 9 h. m.** | **à 3 h. s.** |
+| - **Force** | **1** | **3 faible** |
+| - **Direction des nuages** | **S.O.** | **S.O.** |
+| **Nébulosité** |  |
+| - **région Ouest (terre)** | **0** | **0** |
+| - **id. Est (mer)** | **1** | **2** |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.)** | **31.8** | **40.8** |
+| **Agitation de l'eau** | **1** | **2** |
+| **Densité de l'eau au bout de la jetée** | **1026.9** | **1026.9** |
+| **Température id.** | **18.9** | **18.3** |
+| - **id. Balan** | **24.7** | **29.1** |
+| - **id. Terrasse** | **Maxima 43.7** | **Maxima 29.8** |
+| - **id. Minima** | **10.1** | **Minima 29.8** |
+```

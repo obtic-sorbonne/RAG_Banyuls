@@ -1,0 +1,16 @@
+| **Date**       | 28 Avril 1902 |
+|----------------|---------------|
+| **Heure**      | 9h Matin      | **3h Soir** |
+| **Hauteur Barométrique** | 772.2 |           |
+| **Direction du vent**    | cr. 8 |           |
+| **Force**         | 1                   | **1**         |
+| **Nébulosité**    | Reg. O. (clair) | **10**      |
+|                   | Reg. E. (mar)   | **10**      |
+| **Direction des nuages** | Ouest             |               |
+| **Pluie tombée** | quelques g.     |               |
+| **Température de l'air** | 17.1 |               |
+| **Hauteur de la mer** | 29.3 |               |
+| **Agitation de l'eau**  | 1                   |           |
+| **Densité de l'eau**    | au bout de la jetée | 1029.7 | **10** | **3** |
+|                        | au Large           |         |        |
+| **Température de l'eau**| 17.4 |               |           |   |   |

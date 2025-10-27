@@ -1,0 +1,31 @@
+```plaintext
+|  9. 18 Juin - 1904 | Matin | Soir  |
+| --- | --- | --- |
+|  Hauteur Barométrique | 444.1 |   |
+|  Direction du vent | or. 8 |   |
+|  Force | 1 |   |
+|  Nébulosité | 8 bign. |   |
+|  (Reg. 20. (mor)) | 8 bign. |   |
+|  Direction des nuages | or. |   |
+|  Pluie Tombée |  |   |
+|  Température de l'air | 23.2 |   |
+|  Hauteur de la mer | 41.8 |   |
+|  Régulation de l'eau | 15.6 |   |
+|  Densité au bout de la jetée | 1024.1 |   |
+|  Température de l'eau | 20.7 |   |
+
+|  9. 20 Juin - 1904 | Matin | Soir  |
+| --- | --- | --- |
+|  Hauteur Barométrique | 766.2 | 766.0  |
+|  Direction du vent | or. |   |
+|  Force | 1 port |   |
+|  Nébulosité | 10 | 10  |
+|  (Reg. 20. (mor)) | 10 | 10  |
+|  Direction des nuages | or. | or.  |
+|  Pluie Tombée | 22.8 | 23.4  |
+|  Température de l'air | 14.8 | 43.4  |
+|  Hauteur de la mer | 15.6 | 1028.1  |
+|  Régulation de l'eau | 15.6 | 1028.1  |
+|  Densité au bout de la jetée | 1028.3 | 1028.1  |
+|  Température de l'eau | 20.2 | 19.0  |
+```

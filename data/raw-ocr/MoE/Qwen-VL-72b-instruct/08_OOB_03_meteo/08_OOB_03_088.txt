@@ -1,0 +1,17 @@
+| **Date** | 23 Décembre 1901 |
+| --- | --- |
+| **Temp.** | 9h Matin | 3h Soir |
+| **Hautéur Barométrique** | 753.4 | 755.8 |
+| **Direction du vent** | N.N.O | N.N.O |
+| **Force du Vent** | 4 Foit | 4 |
+| **Nébulosité** | Reg. O. Clère | 10 | 10 Dégr. |
+|  | Reg. E. Clère | 10 | 10 Dégr. |
+| **Direction des nuages** | N.O.S | N.O.S |
+| **Pluie Tombée** | — | — |
+| **Température de l'air** | 9.1 | 10.7 |
+| **Hautéur de la mer** | 16.3 | 22.9 |
+| **Agitation de l'eau** | 3 Foit | 3 Foit |
+| **Densité de l'eau** | 10.28.4 | 10.28.8 |
+|  | au bout de la jetée |  |  |
+|  | en l'air |  |  |
+| **Température de l'eau** | 11.0 | 11.2 |

@@ -1,0 +1,15 @@
+| **Date** | **4 Décembre 1900** |
+|---|---|
+| **Heure** | 9h Matin | 3h Soir |
+| **Hauteur Barométrique (mmHg)** | 765,8 | 765,0 |
+| **Direction du vent** | Ouest | Ouest |
+| **Force du vent (unité non précisée)** | 1 Faible | 1 |
+| **Nébulosité (Reg. O. = Occident, Reg. E. = Est)** | 10 (légèrement) | 10 (légèrement couverte) |
+| **Direction des nuages** | Nord | Nord |
+| **Pluie tombée** | quelques gouttes | - |
+| **Température de l'air (°C)** | 11,0 | 13,8 |
+| **Hauteur de la mer (m)** | 39,0 | 34,1 |
+| **Agitation de l'eau** | 1 T (Très) faible | 1 T (Très) faible |
+| **Densité de l'eau (m au bout de la jetée)** | 1028,7 | 1027,8 |
+| **Densité de l'eau (m au large)** | - | - |
+| **Température de l'eau (°C)** | 13,3 | 13,5 |

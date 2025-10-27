@@ -1,0 +1,17 @@
+| Nombre de paires de bateaux | 25 Mars 1907 | Matin | Soir |
+|-----------------------------|--------------|-------|------|
+| Hauteur Barometrique         |              | 709.0 |      |
+| Direction du Vent            |              | S. E  |      |
+| Force                        |              | 2     |      |
+| Nébulosité                   | (Res. o. (terre)) | 3     |      |
+|                              | (Res. xi. (mer))  | 1     |      |
+| Direction des images         |              | Courant |      |
+| Pluie tombée                 |              | 1     |      |
+| Température de l'air         |              | 14.8  |      |
+| Hauteur de la mer            |              | 1 fort |      |
+| Agitation de l'eau           |              |       |      |
+| Venditi au bout de la jetée  |              | 1029.3 |      |
+| Température de l'eau         |              | 12.7  |      |
+|                              |              |       |      |
+|                              | 26 Mars 1907 |       |      |
+|                              | Nombre de paires de bateaux 18 |       |      |

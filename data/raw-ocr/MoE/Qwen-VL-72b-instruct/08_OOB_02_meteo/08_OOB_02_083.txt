@@ -1,0 +1,20 @@
+| **Élément** | **9h Matin** | **3h Soir** |
+|---|---|---|
+| **Hauteur Barométrique** | 764.3 | 762.2 |
+| **Direction du vent** | n° | Sud |
+| **Force** | 0 | 3 |
+| **Nébulosité** | | |
+| - Reg. O. (terre) | 10 | 0 |
+| - Reg. E. (mer) | 10 | 1/4-2/8 |
+| **Direction des nuages** | Sud | Sud |
+| **Pluie tombée** | " | " |
+| **Température de l'air** | 20.4 | 23.0 |
+| **Hauteur de la mer** | 46.2 | 47.4 |
+| **Agitation de l'eau** | 1/8 à 2/8 | 1/8 à 2/8 |
+| - au bout de la jetée | 1027.4 | 1026.7 |
+| - au large |  |  |
+| **Densité de l'eau** |  | |
+| **Température de l'eau** | 19.8 | 20.7 |
+
+**Date**: 1° Juin 1901
+

@@ -1,0 +1,29 @@
+|  V. 10 Janvier. 190 f | Moatin | Soir  |
+| --- | --- | --- |
+|  Hanlieu Praxometrique | 275.0 |   |
+|  Direction du vent | 14.0 |   |
+|  Force | 4 fort. |   |
+|  Néeluitosité | 10 |   |
+|  (Reg. 2. (min) | 10 |   |
+|  Direction des mages | 14.0 |   |
+|  Heuè tombé | 11 |   |
+|  Dempèrature de l'air | 9.6 |   |
+|  Hanlieu de la mer | 61.1 |   |
+|  Oeigitation de l'eau | 3 |   |
+|  Donnée au bout de la jetée | 1029.4 |   |
+|  Dempèrature de l'eau | 13.5 |   |
+
+|  V. 12 Janvier. 190 f | Moatin | Soir  |
+| --- | --- | --- |
+|  Hanlieu Praxometrique | 270.3 |   |
+|  Direction du vent | 14.0 |   |
+|  Force | 3 |   |
+|  Néeluitosité | 10 |   |
+|  (Reg. 2. (min) | 0 |   |
+|  Direction des mages | 11 |   |
+|  Heuè tombé | 11 |   |
+|  Dempèrature de l'air | 10.6 |   |
+|  Hanlieu de la mer | 12.8 |   |
+|  Oeigitation de l'eau | 1 fort. |   |
+|  Donnée au bout de la jetée | 1029.4 |   |
+|  Dempèrature de l'eau | 13.5 |   |

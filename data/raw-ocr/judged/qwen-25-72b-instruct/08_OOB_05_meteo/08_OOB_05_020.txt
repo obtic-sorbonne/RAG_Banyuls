@@ -1,0 +1,13 @@
+```
+Journal Météorologique du Navire "La Belle Poule"
+Période : 16 au 17 Août 1905
+
+Date       | Heure | Hauteur Barométrique (mm) | Direction du vent | Force | Nébulosité (%) | Direction des nuages | Pluie tombée (mm) | Température de l'air (°C) | Hauteur de la mer (m) | Agitation de l'eau (code) | Densité au bout de la jetée (g/cm³) | Température de l'eau (°C)
+-----------|-------|---------------------------|-------------------|-------|----------------|---------------------|-------------------|--------------------------|-----------------------|--------------------------|------------------------------------|-------------------------
+16 Août 1905 | Matin | 766.6                    | N.O.              | 2     | 10             | O.N.O.              | quelques gouttes  | 23.0                     | 48.7                  | 1                        | 1027.4                             | 23.8
+16 Août 1905 | Soir  | 769.7                    | N.N.O.            | 2     | 10             | E.S.E.              | 2.1               | 22.0                     | 57.2                  | 1 fort                   | 1027.0                             | 23.1
+17 Août 1905 | Matin | 766.0                    | N.N.O.            | 2     | 1              | N.N.O.              | 19.0              | 21.2                     | 44.7                  | 3 faible                 | 1027.0                             | 23.0
+17 Août 1905 | Soir  | 766.0                    | N.N.O.            | 2     | 2              | N.N.O.              | -                 | 22.1                     | 56.1                  | 3 faible                 | 1026.9                             | 23.3
+
+Note Marginale : Aucune remarque particulière pour ces dates.
+```

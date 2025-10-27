@@ -1,0 +1,15 @@
+| **Date** | **14 Mai 1901** |
+|----------|----------------|
+| **Heure** | **9h Matin** | **3h Soir** |
+| **Hauteur Barométrique** | 765,8 | 764,6 |
+| **Direction du vent** | Sud | Sud |
+| **Force du vent** | 2 fort | 3 faible |
+| **Nébulosité** | légere couv. | 0 |
+| **Régime du vent (tourelle ou mer)** | légèrement couvert | - |
+| **Régime des nuages** | Sud | Sud |
+| **Pluie tombée** | " | " |
+| **Température de l'air** | 17,4 | 19,7 |
+| **Hauteur de la mer** | 63,6 | 56,4 |
+| **Agitation de l'eau** | faible | faible |
+| **Densité de l'eau** | 1028,6 | 1028,3 |
+| **Température de l'eau** | 14,3 | 16,7 |

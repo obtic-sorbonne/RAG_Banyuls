@@ -1,0 +1,51 @@
+| **Observations du 1901 (8 Décembre)** |
+| --- |
+| **Nombre de bateaux sortis (pêche à l])** | 14/8 |
+| **Température de l'air** |  |
+| &nbsp; &nbsp; maxima depuis la veille | 14.6° |
+| &nbsp; &nbsp; minima id. | 8.7° |
+| **Température de l'eau** |  |
+| &nbsp; &nbsp; maxima depuis la veille |  |
+| &nbsp; &nbsp; minima id. |  |
+| **Pluie tombée depuis la veille, en millim.** | quelques... |
+| **Évaporation depuis le 1901, en millim.** |  |
+| **Direction du vent (à terre)** | nn.o | s.s.e |
+| **Force** | 2 | 11/4 |
+| **Direction des nuages** | nn.o | s.s.e |
+| **Nébulosité** |  |  |
+| &nbsp; &nbsp; région Ouest (terre) | 6 | 2 |
+| &nbsp; &nbsp; id. Est (mer) | 6 | 1 |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.)** | 1°.0 |  |
+| **Agitation de l'eau** | 2 faible | 1 fort |
+| **Densité de l'eau au bout de la jetée** | 627,7 | 6027,8 |
+| **Température** |  |  |
+| &nbsp; &nbsp; Temps Motin | Maxima | 21.7 | 24.2 |
+| &nbsp; &nbsp; &nbsp; &nbsp; Minima | 6.7° | 9.8 |
+| &nbsp; &nbsp; Jour | Maxima | 24.0 |  |
+| &nbsp; &nbsp; &nbsp; &nbsp; Minima | 4.1 | 10.8 |
+|
+| **Observations du 1901 (9 Décembre)** |
+| --- |
+| **Nombre de bateaux sortis (pêche à l**)&nbsp; | 12.7 |
+| **Température de l'air** |  |
+| &nbsp; &nbsp; maxima depuis la veille |  |
+| &nbsp; &nbsp; minima id. | 7.2 |
+| **Température de l'eau** |  |
+| &nbsp; &nbsp; maxima depuis la veille |  |
+| &nbsp; &nbsp; minima id. |  |
+| **Pluie tombée depuis la veille, en millim.** |  |
+| **Évaporation depuis le 1901, en millim.** |  |
+| **Direction du vent (à terre)** | nn.o | n.n.o |
+| **Force** | 4 | 2 fort |
+| **Direction des nuages** | nn.o | n.n.o |
+| **Nébulosité** |  |  |
+| &nbsp; &nbsp; région Ouest (terre) | 10 | 2 |
+| &nbsp; &nbsp; id. Est (mer) | 6 | 2 |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.)** | 16.0 | 35.0 |
+| **Agitation de l'eau** | 2 petite | 2 forte |
+| **Densité de l'eau au bout de la jetée** | 627,1 | 6027,6 |
+| **Température** |  |  |
+| &nbsp; &nbsp; Temps Motin | Maxima | 24.0 | 23.6 |
+| &nbsp; &nbsp; &nbsp; &nbsp; Minima | 4.1 | 10.8 |
+| &nbsp; &nbsp; Jour | Maxima |  |  |
+| &nbsp; &nbsp; &nbsp; &nbsp; Minima |  |  |

@@ -1,0 +1,28 @@
+| **Date**       | **Matin**                       | **Soir**                    |
+|---------------|--------------------------------|----------------------------|
+| **16 février 1902** |                                |                              |
+| H. Barom.     | 763.0                           |                            |
+| Dir. du vent  | cr. o                           |                            |
+| Force         | 1/2     (fort)                  | 1/2    (fort)               |
+| Nébulo.       | Reg. 6 (terre) 10               |                            |
+|               | Reg. 2 (mer) 10                 |                            |
+| Dir. nuages   | cr. o                           |                            |
+| Pluie tombée  | —                              |                            |
+| Temp. de l'air | 10.0                            |                            |
+| H. de la mer  | 49,8                            |                            |
+| Agité de l'eau | 1 forte                         |                            |
+| Densité à la jetée | 1029,3                         |                            |
+| Temp. de l'eau | 11,4                            |                            |
+| **18 février 1902** |                                |                              |
+| Matin         | 781,0                           | 782.0                       |
+| Dir. du vent  | cr. o                           | cr. o                       |
+| Force         | 2    (fort)                     | 2    (fort)                 |
+| Nébulo.       | Reg. 6 (terre) 10               | Reg. 6 (terre) 10           |
+|               | Reg. 2 (mer) 10                 | Reg. 2 (mer) 10             |
+| Dir. nuages   | cr. o                           | cr. o                       |
+| Pluie tombée  | quelque g                      | —                          |
+| Temp. de l'air | 10,2                            | 12,2                        |
+| H. de la mer  | 30,2                            | 32,3                        |
+| Agité de l'eau | 2 fort                          | 2 fort                      |
+| Densité à la jetée | 1029,4                         | 1029,3                      |
+| Temp. de l'eau | 11,6                            | 11,6                        |

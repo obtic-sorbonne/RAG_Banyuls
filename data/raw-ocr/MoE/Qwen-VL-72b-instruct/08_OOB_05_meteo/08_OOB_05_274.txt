@@ -1,0 +1,31 @@
+| V. 22 Juillet 1907 | Matin | Soir |
+|---|---|---|
+| Hauteur Barométrique | 764,3 | 763,3 |
+| Direction du Vent | E.N.E. | E.S.E. |
+| Force | 3 | 1 faible |
+| Reg. à (terre) | 60 | 60 |
+| Nébulosité |  |  |
+| Reg. à (terre) | 60 | 60 |
+| Reg. à (mer) | 60 | 60 |
+| Direction des nuages | Ouest | E.N.E. |
+| Pluie tombée | quelques g | " |
+| Température de l'air | 24,6 | 27,9 |
+| Hauteur de la mer | 18,7 | 49,1 |
+| Agitation de l'eau | 1 forte | 2 faible |
+| Densité au bord de la jetée | 1027,4 | 1027,4 |
+| Température de l'eau | 20,1 | 20,0 |
+| V. 23 Juillet 1907 | Matin | Soir |
+| Hauteur Barométrique | 763,9 | 761,8 |
+| Direction du Vent | S.S.E. | S.S.E. |
+| Force | 2 | 2 |
+| Reg. à (terre) | 60 | 60 |
+| Nébulosité |  |  |
+| Reg. à (terre) | 3 légère | 10 |
+| Reg. à (mer) | 3 légère | 10 |
+| Direction des nuages | E.N.E. | Ouest |
+| Pluie tombée | " | " |
+| Température de l'air | 25,8 | 27,0 |
+| Hauteur de la mer | 19,1 | 48,8 |
+| Agitation de l'eau | 1 faible | 1 |
+| Densité au bord de la jetée | 1027,4 | 1027,8 |
+| Température de l'eau | 21,2 | 22,7 |

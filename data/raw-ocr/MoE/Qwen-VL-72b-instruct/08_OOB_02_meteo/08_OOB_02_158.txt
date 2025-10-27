@@ -1,0 +1,16 @@
+| **Date** | 19 août 1901 |
+|---------|---------------|
+| **Heure** | 9h Matin | 3h Soir |
+| **Haut. Barométriq.** | |-| |-|
+| **Dir. du Vent** | |-| |-|
+| **Force** | 15 |-| |-|
+| **Nébulosité** | Reg. O. (Terre) | |-| |-|
+| |-| Reg. E. (mer) | |-| |-|
+| **Dir. des Mスマges** | |-| |-| |-|
+| **Pluie tombée** | |-| |-| |-|
+| **T. de l'air** | |-| |-| |-|
+| **Haut. de la mer** | |-| |-| |-|
+| **Agitation de l'eau** | |-| |-| |-|
+| **Densité de l'eau** | |-| |-| au bout de la jetée |
+| |-| |-| au large |-| |
+| **T. de l'eau** | |-| |-| |-|

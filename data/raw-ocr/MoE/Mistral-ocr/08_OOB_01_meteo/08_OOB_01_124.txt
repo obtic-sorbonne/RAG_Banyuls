@@ -1,0 +1,17 @@
+# Date - 27 Novembre - 1900
+
+|   | 3e Matin | 3e Soir  |
+| --- | --- | --- |
+|  Manteur Praxometrique | 75,3 | 75,8  |
+|  Direction du vent |  |   |
+|  Force | 0 | 1  |
+|  Pédbulosité | Reg. E. (Livre) | 10  |
+|  Pédbulosité | Reg. E. (mer) | 10  |
+|  Direction des nuages |  | Ind  |
+|  Phuie tombie |  |   |
+|  Température de l'air | 11,7 | 18,2  |
+|  Manteur de la mer | 30,3 | 37,0  |
+|  Agitation de l'eau |  | 1. Guide  |
+|  Densité de l'eau | 1027,7 | 1027,9  |
+|  |   |   |
+|  Température de l'eau | 14,0 | 14,3  |

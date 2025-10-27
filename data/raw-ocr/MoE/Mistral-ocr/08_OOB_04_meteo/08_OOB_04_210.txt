@@ -1,0 +1,33 @@
+# 9.3 Avril. 1903
+
+|  Nom | Date  |
+| --- | --- |
+|  Hauteur Marométrique | 1/7.8  |
+|  Direction du vent | cr.o  |
+|  Force | 1  |
+|  Débitosité | 10  |
+|  (Reg. E - (mw) | 10  |
+|  Direction des nuages | cr. 5  |
+|  Mise tombie | gnech.  |
+|  Température de l'air | 11.3  |
+|  Hauteur de la mer | cr. 0  |
+|  Égitation de l'eau | 5/0.0  |
+|  Densité au bout de la jetée | 1029.2  |
+|  Température de l'eau | 11.8  |
+
+# 10.3 Avril. 1903
+
+|  Nom | Date  |
+| --- | --- |
+|  Hauteur Marométrique | 104.6  |
+|  Direction du vent | cr. 0  |
+|  Force | 3 fort  |
+|  Débitosité | 10  |
+|  (Reg. E - (mw) | 10  |
+|  Direction des nuages | cr. 0  |
+|  Mise tombie |   |
+|  Température de l'air | 16.1  |
+|  Hauteur de la mer | 66.9  |
+|  Égitation de l'eau | 5 fort  |
+|  Densité au bout de la jetée | 1029.0  |
+|  Température de l'eau | 16.3  |

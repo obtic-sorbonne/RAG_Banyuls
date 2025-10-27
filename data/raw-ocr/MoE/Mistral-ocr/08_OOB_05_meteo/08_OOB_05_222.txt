@@ -1,0 +1,27 @@
+# 21 Jours 1907
+
+|  **Nom** | **Prix**  |
+| --- | --- |
+|  Manteur Barométrique | 470.5  |
+|  Direction du vent | 1.5  |
+|  **Prix** | **Prix**  |
+|  Mébulante (Reg. 2.0 mm) | 0  |
+|  Direction des images | 16.4  |
+|  **Prix Tombe** | **15.2**  |
+|  Température de l'air | 370.5  |
+|  Maintien de la mer | 16.2  |
+|  **Aviation de l'eau** | **370.5**  |
+|  Sécurité au bout de la jetée | 16.28  |
+|  Température de l'eau | 12.6  |
+
+# 22 Jours 1907
+
+|  **Nom** | **Prix**  |
+| --- | --- |
+|  Membre de paires de bateaux | 1  |
+
+# 23 Jours 1907
+
+|  **Nom** | **Prix**  |
+| --- | --- |
+|  Membre de paires de bateaux | 1  |

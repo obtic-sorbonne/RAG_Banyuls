@@ -1,0 +1,20 @@
+# Date. 19 Novembre-1900.
+
+|  9" Matin | 3" Soir  |
+| --- | --- |
+|  Hauteur Barométrique | 759,9 | 758,6  |
+|  Direction du vent |  |  |
+|  Force | 1 | 1  |
+|  Nébulosité | 3 | 2 part  |
+|  Rég. E. (terre) | 3 | 2 reys. courri  |
+|  Rég. E. (mer) | 3 | 2 reys. courri  |
+|  Direction des nuages | 3 | 2 reys. courri  |
+|  Pluie tombée | 0,300 | 0,300  |
+|  Température de l'air | 10,2 | 11,1  |
+|  Hauteur de la mer | 42,1 | 43,6  |
+|  Agitation de l'eau | 2 part | 2 part  |
+|  Densité de l'eau (au bout de la jetée) | 1029,2 | 1029,8  |
+|  Densité de l'eau (au large) | 1029,2 | 1029,8  |
+|  Température de l'eau | 15,9 | 15,2  |
+
+Observat. —

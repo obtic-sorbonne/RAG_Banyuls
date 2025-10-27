@@ -1,0 +1,54 @@
+2
+L.
+
+Mate -28 Pevrier 1902
+fanteur Barometrique
+Direction Su vent
+For e- 1I
+N
+V
+Lébntosité
+panmn
+Reg-C- (terre)
+1
+1
+A Reg-F- (mer)
+Direction des niages
+Phie Nomber
+Cemberature de l'air
+1
+fanteur de la mer
+Agitation de l'eau
+255
+l au Carge
+Cemperature de l'eau
+1
+SN Natin, S^b Soir
+752,+
+"
+Cuest. Crest
+2 ffaible ? 2fort
+10
+10
+Crest
+19.
+7.
+11,3
+22.4
+7
+1
+8
+10
+10.
+Crsest.
+7
+18
+14, &
+4
+1.3
+sfort
+s au bout de la plie. 1028, 0^i P
+Densite de leau
+T
+1
+10, 0

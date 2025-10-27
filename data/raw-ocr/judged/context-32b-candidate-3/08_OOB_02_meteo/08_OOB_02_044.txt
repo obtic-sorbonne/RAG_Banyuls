@@ -1,0 +1,17 @@
+# Dâlé. 23 Avril. 1901
+
+|  **Item** | **9th Matin** | **3rd Soir**  |
+| --- | --- | --- |
+|  Hauteur Barométrique | 760,6 | 760,6  |
+|  Direction du vent | S.E. | S.E.  |
+|  Force | 2 faible | 1  |
+|  Ébulosité / Rég. O. (terre) | 10 | 10  |
+|  Rég. E. (mer) | 10 | 10  |
+|  Direction des nuages | S.E. | S.E.  |
+|  Pluie tombée | 0,625 | 3,400  |
+|  Température de l'air | 13,7 | 13,7  |
+|  Hauteur de la mer | 33,3 | 33,3  |
+|  Agitation de l'eau | 3 | 3  |
+|  Densité de l'eau / au bout de la jetée | 1029,1 | 1029,1  |
+|  Densité de l'eau / au large |  |  |
+|  Température de l'eau | 13,5 | 13,5  |

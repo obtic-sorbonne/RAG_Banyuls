@@ -1,0 +1,22 @@
+# Dälle. 2de Août. 1901
+
+|  **Sauteur** | **Prix** | **Valeur**  |
+| --- | --- | --- |
+|  Kauteur Pervométrique | 3.45€ | 3.45€  |
+|  Direction du vent | 750.5 | 754.5  |
+|  Force | 5.55€ | 5.55€  |
+|  /T. faible | 2.50€ | 2.50€  |
+|  /T. faible | 10 | 10 kg/m² |   |
+|  Tributosite |  |   |
+|  Reg. T. (mw) | 10 | 10 kg/m²  |
+|  Direction des nuages | 5.55€ | 5.55€  |
+|  Flux tombee |  |   |
+|  Température de l'air | 22.8 | 26.0  |
+|  /T. faible | 26.0 | 26.0  |
+|  /T. faible | 26.0 | 26.0  |
+|  Taux de la mer |  |   |
+|  Régulation de l'eau | 1,25€ | 1,25€  |
+|  /T. faible | 1,25€ | 1,25€  |
+|  Sensité de l'eau |  |   |
+|  Au large |  |   |
+|  Température de l'eau | 22.1 | 23.6  |

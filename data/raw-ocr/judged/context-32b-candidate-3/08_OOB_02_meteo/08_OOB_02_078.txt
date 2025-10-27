@@ -1,0 +1,16 @@
+# Date: 27 Mai 1901
+
+|  Name | 2nd Matin | 3rd Soir  |
+| --- | --- | --- |
+|  Hauteur Barométrique | 760,8 |  |
+|  Direction du vent | N.E. |  |
+|  Force | 2 fort |  |
+|  Nébulosité / Reg. E. (mer) | 1 |  |
+|  Direction des nuages |  |  |
+|  Pluie tombée | 1 goutte |  |
+|  Température de l'air | 19,3 | 19,9  |
+|  Hauteur de la mer | 13,4 | 53,5  |
+|  Agitation de l'eau | 1 faible | 17 faible  |
+|  Densité de l'eau | 1028,1 | 1028,1  |
+|  Au large |  |  |
+|  Température de l'eau | 19,3 | 17,4  |

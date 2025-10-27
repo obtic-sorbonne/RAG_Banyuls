@@ -1,0 +1,47 @@
+```plaintext
+| **OBSERVATIONS DU 21 JUIN 1960** |
+| --- |
+| **Nombre de bateaux sortis (pêche à l'ancre & sandrine)** | **38** |
+| **Température de l'air** |  |
+| - maxima depuis la veille | **38.4 °C** |
+| - minima id. | **18.3 °C** |
+| **Température de l'eau** |  |
+| - maxima depuis la veille | **-** |
+| - minima id. | **-** |
+| **Pluie tombée depuis la veille, en millim.** | **0 mm** |
+| **Évaporation depuis le 30 mai 1960, en millim.** | **19.0 mm** |
+| **à 9 h. m.** | **à 3 h. s.** |
+| **Direction du vent (à terre)** | **E SE** | **S SE** |
+| **Force** | **1** | **2** |
+| **Direction des nuages** | **N NO** | **N NO** |
+| **Nébulosité** |  |
+| - région Ouest (terre) | **0** | **3** |
+| - id. Est (mer) | **0** | **3** |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro** | **37.0 cm** | **42.3 cm** |
+| **Agitation de l'eau** | **1 (faible)** | **1** |
+| **Densité de l'eau au bout de la jetée** | **1027.7 g/cm³** | **1027.6 g/cm³** |
+| **Température id.** | **20.8 °C** | **20.7 °C** |
+
+| **OBSERVATIONS DU 22 JUIN 1960** |
+| --- |
+| **Nombre de bateaux sortis (pêche à l'ancre & sandrine)** | **30** |
+| **Température de l'air** |  |
+| - maxima depuis la veille | **30.6 °C** |
+| - minima id. | **18.8 °C** |
+| **Température de l'eau** |  |
+| - maxima depuis la veille | **-** |
+| - minima id. | **-** |
+| **Pluie tombée depuis la veille, en millim.** | **quelques g** |
+| **Évaporation depuis le 30 mai 1960, en millim.** | **14.7 mm** |
+| **à 9 h. m.** | **à 3 h. s.** |
+| **Direction du vent (à terre)** | **N NO** | **N NO** |
+| **Force** | **2** | **1 (faible)** |
+| **Direction des nuages** | **Orient** | **Orient** |
+| **Nébulosité** |  |
+| - région Ouest (terre) | **10** | **10** |
+| - id. Est (mer) | **10** | **10** |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro** | **49.2 cm** | **38.6 cm** |
+| **Agitation de l'eau** | **1 (faible)** | **1 (faible)** |
+| **Densité de l'eau au bout de la jetée** | **1027.2 g/cm³** | **1027.6 g/cm³** |
+| **Température id.** | **18.7 °C** | **18.4 °C** |
+```

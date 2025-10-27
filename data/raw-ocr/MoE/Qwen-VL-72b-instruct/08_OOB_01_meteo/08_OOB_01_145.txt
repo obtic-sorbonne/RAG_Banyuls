@@ -1,0 +1,16 @@
+| Date | 18 Décembre 1900 |
+|---|---|
+| Heure | 9h (Matin) | 4h (Soir) |
+| **Haut. Barométrique** (mm Hg) | 771,3 | 770,1 |
+| **Dir. du Vent** | Sud | Sud-Est |
+| **Force** | 1 (faible) | 2 (faible) |
+| **Nébulosité** | | |
+| Reg. O. (Terre) | 0 | 0 |
+| Reg. E. (Mer) | 0 | 1 |
+| **Dir. des Nuages** | Sud | — |
+| **Pluie tombée** | Non | Non |
+| **Temp. de l'Air** (°C) | 11,4 | 12,8 |
+| **Haut. de la Mer** (m) | 19,3 | 15,4 |
+| **Agit. de l'Eau** | 1. T. foille | 1 fort |
+| **Densité de l'Eau** (g/cm³) | au bout de la jetée: 1029,2 | au Large: 1028,9 |
+| **Temp. de l'Eau** (°C) | 13,6 | 14,1 |

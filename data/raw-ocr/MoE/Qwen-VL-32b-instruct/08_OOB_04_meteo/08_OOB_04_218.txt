@@ -1,0 +1,33 @@
+# 4. 85 (April 1903
+
+|  Name | Position | Sour  |
+| --- | --- | --- |
+|  Hauteur Marométrique | 4/7.6 | 7/7.1  |
+|  Direction du vent | court | or. 8  |
+|  Force | 8 | 3  |
+|  Nécbulosité | 0 | 10  |
+|  Nécbulosité | 0 | 10  |
+|  Direction des mages | court | court  |
+|  Pluie tombée | 8.0° | quelques  |
+|  Rempliration de l'air | 18.4 | 18.4  |
+|  Hauteur de la mer | 48.6 | 48.0  |
+|  Crétation de l'eau | 1 | 1 m³/vol  |
+|  Densité au bout de la jeté | 1089.1 | 1089.1  |
+|  Rempliration de l'eau | 18.4 | 18.0  |
+
+# 9. 86 (April 1903
+
+|  Name | Position | Sour  |
+| --- | --- | --- |
+|  Hauteur Marométrique | 4/6.0 | or. 8  |
+|  Direction du vent | or. 8 |   |
+|  Force | 1 |   |
+|  Nécbulosité | 0 |   |
+|  Nécbulosité | 0 |   |
+|  Direction des mages | 8.0° | or. 8  |
+|  Pluie tombée | 18.8 |   |
+|  Rempliration de l'air | 18.8 |   |
+|  Hauteur de la mer | 48.0 |   |
+|  Crétation de l'eau | 1 m³/vol |   |
+|  Densité au bout de la jeté | 1089.1 |   |
+|  Rempliration de l'eau | 18.6 |   |

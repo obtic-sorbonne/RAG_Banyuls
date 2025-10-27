@@ -1,0 +1,31 @@
+| Date          | Matin            | Soir             |
+|---------------|------------------|------------------|
+| 1er juin 1904 |                  |                  |
+| Hauteur Barr. | 769,0           | 768,6            |
+| Dir. du vent  |    nord         |    criss        |
+| Force         |       4         |    2 forts      |
+| Reg. 6 (toue) |       0         |       2         |
+| Nuage        |       /         |       /         |
+| Reg. 2 (mer) |       1         |       0         |
+| Direction des ombres | coord. O | coord. O        |
+| Pluie tombée |                |                |
+| Température de l'air | 21,4    | 22,2            |
+| Hauteur de la mer | 48,6     | 39,6            |
+| Agitation de l'eau | 2 forts   | 2 forts         |
+| Vitesse au bout de la jetée | 1027,7  | 1027,7         |
+| Température de l'eau | 18,8     | 19,3            |
+|---------------|------------------|------------------|
+| 2 juin 1904   |                  |                  |
+| Hauteur Barr. | 768,8           | 767,7            |
+| Dir. du vent    | coord. O | coord. O          |
+| Force         |       3         |       3         |
+| Reg. 6 (toue) |      10         |      10         |
+| Nuage         |       /         |       /         |
+| Reg. 2 (mer) |      10         |      10         |
+| Direction des ombres | coord. O | coord. O        |
+| Pluie tombée |                |                |
+| Température de l'air | 18,9    | 23,6            |
+| Hauteur de la mer | 39,7     | 36,2            |
+| Agitation de l'eau | 2 forts   |    2            |
+| Vitesse au bout de la jetée | 1028,0  | 1027,7        |
+| Température de l'eau | 18,7     | 18,7            |

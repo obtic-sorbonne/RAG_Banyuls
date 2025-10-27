@@ -1,0 +1,35 @@
+```plaintext
+# 21 Janvier 1904
+
+|  **Matin** | **Soir**  |
+| --- | --- |
+|  Hauteur Barométrique | 766.6 | 767.2 |
+|  Direction du vent | or. o | or. o |
+|  Force | 3 | 3 |
+|  Nébulosité (Terre) | 3 lignes | 10 lignes |
+|  Nébulosité (Mer) | 2 lign. c | 10 lign. e |
+|  Direction des nuages | or. 8 | ctous |
+|  Pluie tombée | " | " |
+|  Température de l'air | 3.3 | 3.6 |
+|  Hauteur de la mer | 12.0 | 6.6 |
+|  Agitation de l'eau | 4 | 4 |
+|  Densité au bout de la jetée | 1029.5 | 1030.2 |
+|  Température de l'eau | 10.4 | 10.4 |
+
+# 23 Janvier 1904
+
+|  **Matin** | **Soir**  |
+| --- | --- |
+|  Hauteur Barométrique | 769.8 | 769.4 |
+|  Direction du vent | cr. o | or. o |
+|  Force | 2 | 1 |
+|  Nébulosité (Terre) | 10 | 10 |
+|  Nébulosité (Mer) | 10 | 10 |
+|  Direction des nuages | E. h | E. h |
+|  Pluie tombée | " | quelque g |
+|  Température de l'air | 6.3 | 7.2 |
+|  Hauteur de la mer | 49.1 | 47.1 |
+|  Agitation de l'eau | 4 | 4 |
+|  Densité au bout de la jetée | 1029.7 | 1029.7 |
+|  Température de l'eau | 10.5 | 10.4 |
+```

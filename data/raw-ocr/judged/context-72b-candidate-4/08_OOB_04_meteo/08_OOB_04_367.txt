@@ -1,0 +1,31 @@
+```plaintext
+| Date           | Matin |          |  | Soir |               |
+|----------------|-------|----------|  |------|---------------|
+| **V. 29 Avril 1904** |       |          |  |     |               |
+| Hauteur Barométrique | 766.0 |          |  | 764.1 |               |
+| Direction du vent    | or.c.c |          |  | or.8 |               |
+| Force               | 3      |          |  | 1 faible  |           |
+| Nebulosité          | 0      | Reg. 6 (terre) |  | 0 |               |
+|                     | 2      | Reg. E (mer) |  | 2 léger |           |
+| Direction des nuages | or.c.c |          |  | " | "             |
+| Pluie tombée        | "      |          |  | " | "             |
+| Température de l'air | 17.1   |          |  | 22.4 |               |
+| Hauteur de la mer   | 17.3   |          |  | 62.0 |               |
+| Agitation de l'eau  | 2      |          |  | 1 fort |           |
+| Densité au bout de la jetée | 1028.7 |          |  | 1028.7 |         |
+| Température de l'eau | 13.7   |          |  | 14.9 |               |
+|----------------|-------|----------|  |------|---------------|
+| **V. 30 Avril 1904** |       |          |  |     |               |
+| Hauteur Barométrique | 764.7 |          |  | 763.6 |             |
+| Direction du vent    | S.Or.S |          |  | S.8 |               |
+| Force               | 1 faible |          |  | 2 faible |           |
+| Nebulosité          | 3 léger | Reg. 6 (terre) |  | 2 |             |
+|                     | 2 léger | Reg. E (mer) |  | 2 |             |
+| Direction des nuages | "      |          |  | " | "             |
+| Pluie tombée        | "      |          |  | " | "             |
+| Température de l'air | 16.4   |          |  | 22.4 |               |
+| Hauteur de la mer   | 49.4   |          |  | 60.3 |               |
+| Agitation de l'eau  | 1 faible |          |  | 1 faible |           |
+| Densité au bout de la jetée | 1028.6 |          |  | 1028.4 |         |
+| Température de l'eau | 15.0   |          |  | 17.9 |               |
+```

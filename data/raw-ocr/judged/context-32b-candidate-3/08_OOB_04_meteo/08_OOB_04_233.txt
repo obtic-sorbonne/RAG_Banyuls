@@ -1,0 +1,31 @@
+V. 28 Mai 1903
+
+|  Hantéur Barométrique | 7/7.4 | 760.2  |
+| --- | --- | --- |
+|  Direction du vent | 8 | 8  |
+|  Force | 1 | 1 faible  |
+|  Nébulosité (Reg. O. (terre)) | 10 | 10  |
+|  Nébulosité (Reg. E. (mer)) | 10 | 10  |
+|  Direction des nuages | " | "  |
+|  Pluie tombée |  |  |
+|  Température de l'air | 21.5 | 21.7  |
+|  Hauteur de la mer | 36.8 | 13.3  |
+|  Agitation de l'eau | 3 | 3  |
+|  Densité au bout de la jetée | 1027.4 | 1027.5  |
+|  Température de l'eau | 17.1 | 17.4  |
+
+V. 29 Mai 1903
+
+|  Hantéur Barométrique | 7/9.3 | 7/7.3  |
+| --- | --- | --- |
+|  Direction du vent | 8 | 8  |
+|  Force | 1 | 0  |
+|  Nébulosité (Reg. O. (terre)) | 10 | 10  |
+|  Nébulosité (Reg. E. (mer)) | 10 | 10  |
+|  Direction des nuages | " | "  |
+|  Pluie tombée |  |  |
+|  Température de l'air | 21.2 | 22.0  |
+|  Hauteur de la mer | 36.5 | 48.2  |
+|  Agitation de l'eau | 3 | 3  |
+|  Densité au bout de la jetée | 1027.3 | 1027.3  |
+|  Température de l'eau | 17.8 | 17.9  |

@@ -1,0 +1,43 @@
+|  V. 10 Mbars. 1906 | Mbalin | Soir  |
+| --- | --- | --- |
+|  Hanteur Marométrique | 767.1 | 764.7  |
+|  Direction du vent | or.0.0 | or.or.0  |
+|  Force | 3 | 3  |
+|  (Res.0. (tome) | 10 | 1  |
+|  (Res.0. (tome) | 10 | 3  |
+|  (Res. X. (mer) |  |   |
+|  Direction des nuage | or.0 | or.0  |
+|  (Puie tombée) | 12.0 | 13.0  |
+|  (Dempotative de l'air) | 12.0 | 13.0  |
+|  (Hanteur de la mer) | 67.1 | 78.1  |
+|  (Aqitation de l'eau) | 3.10 | 3.10  |
+|  Densité au bout de la jetée | 1628.4 | 1628.3  |
+|  (Dempotative de l'eau) | 14.6 | 14.1  |
+|  V. 12 Mbars. 1906 | Mbalin | Soir  |
+|  Hanteur Marométrique | 716.2 |   |
+|  Direction du vent | or.0.0 |   |
+|  (Force) | 3.10 |   |
+|  (Res.0. (tome) | 10 |   |
+|  (H. 12 (m. 10) |  |   |
+|  (D. 12. (m. 10) |  |   |
+|  Direction des nuage | 16 |   |
+|  (P. 16.0 |  |   |
+|  (P. 16.0 |  |   |
+|  (Res.0. (tome) |  |   |
+|  (Res. X. (mer) |  |   |
+|  Direction des nuage |  |   |
+|  (P. 16.0 |  |   |
+|  (P. 16.0 |  |   |
+|  (Res.0. (tome) |  |   |
+|  (Res.0. (tome) |  |   |
+|  (Res. X. (mer) |  |   |
+|  Direction des nuage |  |   |
+|  (P. 16.0 |  |   |
+|  (P. 16.0 |  |   |
+|  (Res.0. (tome) |  |   |
+|  (Res.0. (tome) |  |   |
+|  (Res. X. (mer) |  |   |
+|  Direction des nuage |  |   |
+|  (P. 16.0 |  |   |
+|  (P. 16.0 |  |   |
+|  (Res.0. (tome) |  |   |

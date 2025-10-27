@@ -1,0 +1,31 @@
+```plaintext
+| **Date**       | **Matin** | **Soir** |
+|----------------|----------|----------|
+| **26 Janvier 1902** |
+| Hauteur Barométrique | 761.4 | —— |
+| Direction du vent | er. cr. o | —— |
+| Force | 15 | —— |
+| Nébulosité | Reg. O. (clairs) | 0 |
+| Reg. E. (mers) | 0 | 0 |
+| Direction des nuages | er. cr. o | —— |
+| Pluie tombée | quelques g | —— |
+| Température de l'air | 8.6 | —— |
+| Hauteur de la mer | 11.6 | —— |
+| Agitation de l'eau | 2 | —— |
+| Densité au bout de la jetée | 1028.8 | —— |
+| Température de l'eau | 10.7 | —— |
+| **27 Janvier 1902** |
+| Hauteur Barométrique | 761.4 | 763.6 |
+| Direction du vent | er. cr. o | —— |
+| Force | 15 | 0 |
+| Nébulosité | —— | 1 T. faible |
+| Reg. O. (clairs) | 10 | 10 |
+| Reg. E. (mers) | 10 | 10 |
+| Direction des nuages | Nord | er. cr. o |
+| Pluie tombée | —— | —— |
+| Température de l'air | 7.8 | 10.2 |
+| Hauteur de la mer | 11.6 | 70.3 |
+| Agitation de l'eau | 1 T. faible | 1 T. faible |
+| Densité au bout de la jetée | 1029.0 | 1029.2 |
+| Température de l'eau | 12.2 | 11.5 |
+```

@@ -1,0 +1,35 @@
+```plaintext
+# V. H. Septembre - 1903
+
+|  Hauteur Barométrique | Matin | Soir  |
+| --- | --- | --- |
+|  766.4 | 764.8  |
+|  Direction du vent | 8.00 | 7.78  |
+|  Force | 1/2 | 8/2  |
+|  (Reg. O. (terre)) | 1.50 | 1.50  |
+|  (Reg. E. (mer)) | 1.50 | 1.78  |
+|  Direction des nuages | 23.5 | 21.6  |
+|  (Cluie tombée) | 1.78 | 1.78  |
+|  Température de l'air | 102.0 | 102.6  |
+|  Hauteur de la mer | 21.6 | 22.5  |
+|  (Agitation de l'eau) | 1.02 | 1.02  |
+|  Densité au bout de la jetée | 2.16 | 2.21  |
+|  Température de l'eau | 1.02 | 1.02  |
+
+# V. H. Septembre - 1903
+
+|  Hauteur Barométrique | Matin | Soir  |
+| --- | --- | --- |
+|  766.7 | 764.8  |
+|  Direction du vent | 8.00 | 7.78  |
+|  Force | 1/2 | 8/2  |
+|  (Reg. O. (terre)) | 1.50 | 1.50  |
+|  (Reg. E. (mer)) | 2.50 | 2.50  |
+|  Direction des nuages | 23.5 | 21.6  |
+|  (Cluie tombée) | 1.78 | 1.78  |
+|  Température de l'air | 102.0 | 102.6  |
+|  Hauteur de la mer | 21.6 | 22.5  |
+|  (Agitation de l'eau) | 1.02 | 1.02  |
+|  Densité au bout de la jetée | 2.16 | 2.21  |
+|  Température de l'eau | 1.02 | 1.02  |
+```

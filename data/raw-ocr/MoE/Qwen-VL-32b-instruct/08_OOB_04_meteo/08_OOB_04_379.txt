@@ -1,0 +1,26 @@
+|  V. 30 mai - 1904 | Obatin | Soir  |
+| --- | --- | --- |
+|  Yauteur Marométrique | 202,8 | 201.0  |
+|  Direction Su vent | 00,8 | 2.2.8  |
+|  Force | 1 | 2  |
+|  Débülüsite | Reg. a (tene) | 0  |
+|  Débülüsite | Reg. E. (mer) | 0  |
+|  Direction des mages | 0 | 1  |
+|  Thie Tombé | 0 | 2.0  |
+|  Température de l'air | 81,9 | 88,2  |
+|  Yauteur de la mer | 46,4 | 11,2  |
+|  Régulation de l'eau | 17,62 | 1,62  |
+|  Densité au bout de la jete | 108,6 | 1086,6  |
+|  Température de l'eau | 81,0 | 88,6  |
+|  V. 31 mai - 1904 | Obatin | Soir  |
+|  Yauteur Marométrique | 206,3 | 207,2  |
+|  Direction Su vent | 200,8 | 201.8  |
+|  Force | 3 | 1,62  |
+|  Débülüsite | Reg. a (tene) | 0  |
+|  Direction des mages | 40 | 2  |
+|  Thie Tombé | 0 | 2.0  |
+|  Température de l'air | 80,9 | 87,2  |
+|  Yauteur de la mer | 46,5 | 60,8  |
+|  Régulation de l'eau | 1,62 | 1  |
+|  Densité au bout de la jete | 108,2 | 1082,0  |
+|  Température de l'eau | 18,2 | 30,4  |

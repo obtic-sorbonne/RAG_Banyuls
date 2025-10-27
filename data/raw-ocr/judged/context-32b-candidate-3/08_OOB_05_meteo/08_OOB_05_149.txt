@@ -1,0 +1,30 @@
+```markdown
+| Date           | Matin       | Soir        |
+|----------------|-------------|-------------|
+| **12 Septembre 1906** |            |             |
+| Hauteur barométrique | 767.9      | 766.2       |
+| Direction du vent   | E. S. O.   | Nord        |
+| Force              | 3 (frais)  | 3           |
+| Nébulosité (Reg. 0 - Claire) | 2         | 10         |
+| Nébulosité (Reg. E - Mêlée) | 0         | 10         |
+| Direction des nuages | E. S. O.  | E. S. O.    |
+| Pluie tombée       | "         | "           |
+| Température de l'air (°C) | 22.0      | 25.7        |
+| Hauteur de la mer  | 11.9       | 47.0        |
+| Agitation de l'eau | Forte      | 2 T. Forte  |
+| Densité au bout de la jetée | 1028.2    | 1027.8      |
+| Température de l'eau (°C) | 21.0      | 22.0        |
+| **13 Septembre 1906** |            |             |
+| Hauteur barométrique | 766.2      | 764.6       |
+| Direction du vent   | E. S.      | S. S. E.    |
+| Force              | Fort       | Fort        |
+| Nébulosité (Reg. 0 - Claire) | 0         | 0           |
+| Nébulosité (Reg. E - Mêlée) | 0         | 1           |
+| Direction des nuages | C. S. O.  | "           |
+| Pluie tombée       | "         | "           |
+| Température de l'air (°C) | 21.0      | 26.5        |
+| Hauteur de la mer  | 22.5       | 42.5        |
+| Agitation de l'eau | 2 faibles  | 2           |
+| Densité au bout de la jetée | 1027.8    | 1027.4      |
+| Température de l'eau (°C) | 21.8      | 22.0        |
+```

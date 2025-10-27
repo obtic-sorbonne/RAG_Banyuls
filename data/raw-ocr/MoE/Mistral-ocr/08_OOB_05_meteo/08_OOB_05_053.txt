@@ -1,0 +1,31 @@
+|  V. 30 Octobre 1905 | Moatin | Soir  |
+| --- | --- | --- |
+|  Hauteur Barometrique | 4/7.5 | 4/6.5  |
+|  Direction du vent | 2.0 | crans  |
+|  Force | 3 | 1/2.5  |
+|  (Fus. a (tans) | 10 | 10  |
+|  (Ebuthésite) |  |   |
+|  (Fus. E.-(min) | 10 | 10  |
+|  Direction des mays | a. cr. 0 | 2.0  |
+|  (Puie tombe) |  |   |
+|  (Denyocrature de l'air) | 13.5 | 1/1.3  |
+|  Hauteur de la mer | 24.3 | 48.5  |
+|  (Rejetation de l'eau) | 1/2.5 | 15.5  |
+|  (Densité au bout de la jetée) | 16.8 | 16.8.0  |
+|  (Denyocrature de l'eau) | 18.8 | 12.8  |
+
+|  V. 31 Octobre 1905 | Moatin | Soir  |
+| --- | --- | --- |
+|  Hauteur Barometrique | 4/8.4 |   |
+|  Direction du vent | cr. cr. 0 |   |
+|  Force | 1/2.5 |   |
+|  (Fus. a (tans) | 10 |   |
+|  (Ebuthésite) |  |   |
+|  (Fus. E.-(min) | 10 |   |
+|  Direction des mays | Orient |   |
+|  (Puie tombe) | gen. gen. 3 |   |
+|  Denyocrature de l'air | 1/1.0 |   |
+|  Hauteur de la mer | 24.4 |   |
+|  (Rejetation de l'eau) | 15.5 |   |
+|  Densité au bout de la jetée | 16.88.5 |   |
+|  (Denyocrature de l'eau) | 22.5 |   |

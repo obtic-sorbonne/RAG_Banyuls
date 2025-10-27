@@ -1,0 +1,22 @@
+| Date            | 13 septembre 1900    |
+|------------------|---------------------|
+| Heures          | 3h.s.              |
+
+| Paramètre                     | Valeur de référence | Valeur actuelle |
+|-------------------------------|--------------------|-----------------|
+| Hauteur barométrique          | 768,1              | 768,4           |
+| Direction du vent             | E                  | E               |
+| Force                          | 5                  | 1 (fort)      |
+| Nébulo-sité (Ouest)           | 1                  | 5               |
+| Nébulo-sité (Est)              | 1                  | 1               |
+| Direction de l'IMAGE          | S.-E.              |                 |
+| Pluie tombée                   | –                  | –               |
+| Température de l'air          | 21,7°C             | 23,0°C          |
+| Hauteur de la mer             | 0,61              | 0,77            |
+| Agitation de l'eau (Jetée)    | 4                  | 4               |
+| Agitation de l'eau (Largue)  | 1026,6             | 1026,6          |
+| Température de l'eau         | 21,6°C             | 21,6°C          |
+
+| Observations              |
+|---------------------------|
+| Cette nuit fut couverte de nuages. Vers 2 heures du matin, la mer insista fortement puis se calma un peu. Streaming de vent. La mer est redevenue tousjours forte à partir de 8 heures. Cette nuit fut marquée par un afflux dû au vent fort de sud-sud-ouest qui fit remonter les eaux puis les décolla de la terre au matin, causant des vagues importantes. La mer a continué à être forte toute la journée. |

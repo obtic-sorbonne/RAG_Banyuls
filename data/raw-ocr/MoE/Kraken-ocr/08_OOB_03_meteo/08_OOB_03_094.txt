@@ -1,0 +1,40 @@
+1
+6
+7 25
+ale - 3 Jansier -1301.
+fauteur Barometrique
+Direction du vent
+Force –
+Enlosi
+5
+"5
+1
+lReg-E- (mer)
+direction des nuages
+Fline tombée
+Tsemperatie de l'air
+3
+farteur de la mer
+Agitation de l'eau
+Densite de l'eai
+
+1
+Cau Farge
+Cemperature de l'eau
+ADE-
+S Matin
+.
+H.N,8
+8 Gort
+2
+MN,0
+17.5
+61, 
+3 gaible
+eu bout de la Jetee 1028, &
+16
+
+12,1
+19
+2.
+ v

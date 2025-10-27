@@ -1,0 +1,17 @@
+| Date        | 21 septembre 1901 |
+|-------------|-------------------|
+| **Paramètres**                        | **9<sup>e</sup> Matin** | **3<sup>e</sup> Soir** |
+| **Haut. Barométrique**                | 752,3                  | 754,6                 |
+| **Direction du vent**                | Ouest                  | Nord                  |
+| **Force du vent (Bft)**              | 1 T (faible)           | 1 T (fort)            |
+| **Nébulosité** (Reg. O. - Terre)     | 10                     | 10                    |
+| **            ** (Reg. E. - Mer)     | 10                     | 10                    |
+| **Direction des nuages**            | Ouest                  | Ouest                 |
+| **Pluie tombée**                    | 0", 119                | ", ", 119             |
+| **Température de l'air**            | 19,2 °C                | 18,2 °C               |
+| **Haut. de la mer**                  | 28,9                   | 23,4                  |
+| **Agitation de l'eau**               | 4 (fort)               | 4 (fort)              |
+| **Densité de l'eau**                 |                       |                       |
+| **      au bout de la jetée**       | 1027,7                 | 1027,6                |
+| **      au large**                  |                       |                       |
+| **Température de l'eau**             | 17,9 °C                | 18,4 °C               |

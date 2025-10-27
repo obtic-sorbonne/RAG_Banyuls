@@ -1,0 +1,51 @@
+| Observations du **27 Juillet** |
+| --- |
+| **Nombre de bateaux sortis (pêche à l.)** | 94 |
+| **Température de l'air** |
+| maxima depuis la veille | 34.4 |
+| minima id. | 22.6 |
+| **Température de l'eau** |
+| maxima depuis la veille |  |
+| minima id. |  |
+| **Pluie tombée depuis la veille, en millim.** |  |
+| **Evaporation depuis le 190, en millim.** |  |
+| **Direction du vent (à terre)** | XΣ | ΣΣ.σ |
+| **Force** | 2 |  |
+| **Direction des nuages** | Σ,Σ |  |
+| **Nébulosité** |  |  |
+| région Ouest (terre) | 10 |  |
+| id. Est (mer) | 10 |  |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.)** | 43.8 |  |
+| **Agitation de l'eau** | 1 |  |
+| **Densité de l'eau au bout de la jetée** | 1021.6 | 23.6 |
+| **Température** |  |  |
+| - iS. Balanc |  | 26.7 |
+| - iS. Terrasse Matin (Maxim.) | | 36.0 |
+| - 𝗍еninoу (Minim.) | | 21.0 |
+
+---
+
+| Observations du **28 Juillet** |
+| --- |
+| **Nombre de bateaux sortis (pêche à l.)** | 90.6 |
+| **Température de l'air** |
+| maxima depuis la veille | 30.6 |
+| minima id. | 21.7 |
+| **Température de l'eau** |
+| maxima depuis la veille |  |
+| minima id. |  |
+| **Pluie tombée depuis la veille, en millim.** | quelques |
+| **Evaporation depuis le 190, en millim.** |  |
+| **Direction du vent (à terre)** | Σ Sud |  |
+| **Force** | 1 |  |
+| **Direction des nuages** | Σ.Σ |  |
+| **Nébulosité** |  |  |
+| région Ouest (terre) | 10 |  |
+| id. Est (mer) | 10 |  |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.)** | 55.2 |  |
+| **Agitation de l'eau** | 1 |  |
+| **Densité de l'eau au bout de la jetée** | 1026.6 |  |
+| **Température** |  |  |
+| - iS. Balanc |  | 30.11 |
+| - iS. Terrasse Matin (Maxim.) | | 38.0 |
+| - 𝗍еninoу (Minim.) | | 19.7 |

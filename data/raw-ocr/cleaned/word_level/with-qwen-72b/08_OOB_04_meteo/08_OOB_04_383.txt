@@ -1,0 +1,1 @@
+Date Heure Haut Barométrique mmHg Dir vent Force Vent Nébulosité mer Dir Nuages Pluie Tombée mm Temp Air C Haut Mer m Agt Eau Véni Jetée m Temp Eau C 7 juin 1902 Matin 763 3 S S E i5 Reg G Clair S S E 21 8 29 3 Forti 1027 4 19 9 Soir 1 légénte 8 juin 1902 Matin 758 9 S S E i8 Reg G Clair S S E 21 8 44 3 Forti 1027 1 18 8 Soir 758 0 S S E 0 légénte Est 26 6 39 0 Forti 1026 9 20 9

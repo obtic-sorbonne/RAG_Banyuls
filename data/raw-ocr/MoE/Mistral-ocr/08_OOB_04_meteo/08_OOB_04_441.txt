@@ -1,0 +1,29 @@
+|  9. 10 Novembre 1904 | Moatin | Soir  |
+| --- | --- | --- |
+|  Hauteur Psarométrique | 758.0 | 766.6  |
+|  Direction du vent | or.0.0 | or.0.0  |
+|  Force | 5 | 2 fort  |
+|  Débulosité | 40 | 0  |
+|  (Reg. D.-(mer) |  |   |
+|  Direction des nuages | 40 | 1  |
+|  (Mme Tombe) |  |   |
+|  Bénéficiaire de l'air | 18,6 | 20,8  |
+|  Hauteur de la mer | 1/1/2 | 20,1  |
+|  Régulation de l'eau | 2/1/2 | 20,1  |
+|  Densité au bout de la jetée | 1029,0 | 1028,6  |
+|  Bénéficiaire de l'eau | 1/1,0 | 15,8  |
+
+|  11 Novembre 1904 | Moatin | Soir  |
+| --- | --- | --- |
+|  Hauteur Psarométrique |  | 767.2  |
+|  Direction du vent |  | or.0.0  |
+|  Force |  | 1 fort  |
+|  Débulosité | (Reg. D.-(mer) | 2  |
+|  (Reg. D.-(mer) |  |   |
+|  Direction des nuages |  | 11  |
+|  (Mme Tombe) |  |   |
+|  Bénéficiaire de l'air |  | 20,0  |
+|  Hauteur de la mer |  | 15,6  |
+|  Régulation de l'eau |  | 1 fort  |
+|  Densité au bout de la jetée |  | 1028,6  |
+|  Bénéficiaire de l'eau |  | 1/1,3  |

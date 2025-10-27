@@ -1,0 +1,18 @@
+# Date. 19 Septembre. 1901
+
+9. Matin 3. Soir
+
+|  | 9<sup>th</sup> Matin | 3<sup>rd</sup> Soir  |
+| --- | --- | --- |
+| Hauteur Barométrique | 752,8 |  |
+| Direction du vent | N.E. |  |
+| Force | 8 | 8  |
+| Nébulosité / Reg. O. (terre) | 0 | 0  |
+| Nébulosité / Reg. E. (mer) |  |  |
+| Direction des nuages | N.E. |  |
+| Pluie tombée | 38,0 |  |
+| Température de l'air | 41,5 |  |
+| Hauteur de la mer | 38,5 |  |
+| Agitation de l'eau | 108,5 |  |
+| Densité de l'eau | 30,2 | 30,2  |
+| Température de l'eau | 30,2 | 30,2  |

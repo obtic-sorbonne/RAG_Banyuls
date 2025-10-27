@@ -1,0 +1,30 @@
+```plaintext
+| **Date**       | **Matin**                     | **Soir**                     |
+|----------------|-------------------------------|------------------------------|
+| V. 23 Octobre 1903 |                             |                              |
+| Hauteur Barométrique | 762.6                 | 761.1                        |
+| Direction du vent | cr. o                      | cn. o                        |
+| Force            | 2 fortes                    | 2                            |
+| Rég. O. (terre)  | 10                         | 10                           |
+| Rég. E. (mer)    | 10                         | 10                           |
+| Direction des nuages | cr. o                   | cr. o                        |
+| Pluie tombée     | quelques g                 | 1.37                         |
+| Température de l'air | 16.6                    | 16.1                         |
+| Hauteur de la mer | 34.0                      | 42.3                         |
+| Agitation de l'eau | 1 faible                  | 1                            |
+| Densité au bout de la jetée | 1028.5           | 1028.4                       |
+| Température de l'eau | 17.8                    | 17.6                         |
+| V. 24 Octobre 1903 |                             |                              |
+| Hauteur Barométrique | 763.2                 | 763.4                        |
+| Direction du vent | cr. o                      | 3. N. 8                      |
+| Force            | 2                          | 1                            |
+| Rég. O. (terre)  | 10 légèrement               | 10 légèrement                |
+| Rég. E. (mer)    | 10 légèrement dégagée      | 10 légèrement                |
+| Direction des nuages | cr. ou. 0                | cr. ou. 0                     |
+| Pluie tombée     | "                          | "                            |
+| Température de l'air | 19.0                    | 17.6                         |
+| Hauteur de la mer | 43.8                      | 16.4                         |
+| Agitation de l'eau | 1 faible                  | 1 faible                     |
+| Densité au bout de la jetée | 1028.9           | 1028.6                       |
+| Température de l'eau | 17.6                    | 18.0                         |
+```

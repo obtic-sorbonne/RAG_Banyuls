@@ -1,0 +1,46 @@
+# V. 12 Novembre 1906
+
+|  **Plaeitier** | **Neur** | **Prix**  |
+| --- | --- | --- |
+|  Hauteur |  | 768,4  |
+|  **Dérention** |  | 17,0  |
+|  **Force** |  | 1  |
+|  **Nébulonité** | (Reg. N. Cour.) | 14,2  |
+|  **Dérention des** |  | 81,8  |
+|  **sujetation des** |  | 17,2  |
+|  **Prix tombe** |  | 14,2  |
+|  **Démarche** |  | 81,8  |
+|  **Démarche de** |  | 17,2  |
+
+# V. 13 Novembre 1906
+
+|  **Plaeitier** | **Neur** | **Prix**  |
+| --- | --- | --- |
+|  Hauteur |  | 766,8  |
+|  **Dérention** |  | 8,8,8  |
+|  **Force** |  | 1  |
+|  **Nébulonité** | (Reg. N. Cour.) | 1  |
+|  **Dérention des** |  | 14,2  |
+|  **sujetation des** |  | 8,8,4  |
+|  **Prix tombe** |  | 2,9  |
+|  **Démarche** |  | 8,8,4  |
+|  **Démarche de** |  | 2,9  |
+|  **Démarche de** |  | 14,2  |
+|  **sujetation de** |  | 8,8,4  |
+|  **Démarche de** |  | 2,9  |
+|  **Démarche de** |  | 14,2  |
+
+# V. 18 Novembre 1906
+
+|  **Plaeitier** | **Neur** | **Prix**  |
+| --- | --- | --- |
+|  Hauteur |  | 766,8  |
+|  **Dérention** |  | 8,8,8  |
+|  **Force** |  | 1  |
+|  **Nébulonité** | (Reg. N. Cour.) | 14,2  |
+|  **Dérention des** |  | 8,8,4  |
+|  **sujetation des** |  | 2,9  |
+|  **Prix tombe** |  | 2,9  |
+|  **Démarche** |  | 8,8,4  |
+|  **Démarche de** |  | 2,9  |
+|  **sujetation de** |  | 2,9  |

@@ -1,0 +1,17 @@
+| **Date** | **13 Avril 1901** |
+| **Heure** | 9<sup>e</sup> Matin | 3<sup>e</sup> Soir |
+| ---------------------------------- | ---------------- | ---------------- |
+| **Hauteur Barométrique** | 763.3 | 764.7 |
+| **Direction du vent** | Nord | Nord |
+| **Force** | 6 (Fort) | 4 (T. Fort) |
+| **Nébulosité** | | |
+| **Reg. O. (Terre)** | 0 | 1 |
+| **Reg. E. (mer)** | 2 | 1 |
+| **Direction des nuages** | Nord | Nord |
+| **Pluie tombée** | " | " |
+| **Température de l'air** | 11.5°C | 13.4°C |
+| **Hauteur de la mer** | 66.9 | 68.1 |
+| **Agitation de l'eau** | 4 au bout de la jetée | 8 au bout de la jetée |
+| **Densité de l'eau** | 1028.5 | 1028.6 |
+| **au large** | | |
+| **Température de l'eau** | 12.2°C | 12.9°C |

@@ -1,0 +1,29 @@
+|  V. 20. 04bai. 1904 | Moatin | Soir  |
+| --- | --- | --- |
+|  Hauteur Paromatique | 703.2 | 761.6  |
+|  Direction du vent | 8.8.8 | 3.8  |
+|  Force | 1 | 8 fort  |
+|  (Reg. 6. (16me)) |  |   |
+|  Débutasite |  |   |
+|  (Reg. 2. (mer) |  |   |
+|  Direction des nuages |  |   |
+|  Phie tombe |  |   |
+|  Température de l'air | 21.3 | 23.7  |
+|  Hauteur de la mer | 17.8 | 11.8  |
+|  Régulation de l'eau | 17.8/10 | 1027.0  |
+|  Bénéité au bout de la jetée | 1027.3 | 1027.0  |
+|  Température de l'eau | 30.4 | 20.1  |
+|  V. 21. 04bai. 1904 | Moatin | Soir  |
+|  Hauteur Paromatique | 764.6 |   |
+|  Direction du vent | or.0r. 8 |   |
+|  Force | 8 fort |   |
+|  (1) Reg. 6. (16me) |  |   |
+|  Débutasite |  |   |
+|  (Reg. 2. (mer) |  |   |
+|  Direction des nuages | or.0r. 8 |   |
+|  Phie tombe | gnech. 1027.0 |   |
+|  Température de l'air | 21.1 |   |
+|  Hauteur de la mer | 17.7 |   |
+|  Régulation de l'eau | 17.7 |   |
+|  Bénéité au bout de la jetée | 1027.7 |   |
+|  Température de l'eau | 18.7 |   |

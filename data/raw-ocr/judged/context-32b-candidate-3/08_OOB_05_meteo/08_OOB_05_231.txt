@@ -1,0 +1,15 @@
+```markdown
+# 13 Avril 1907
+
+| **Date**       | **Heure** | **Hauteur Barométrique** | **Direction du Vent** | **Force** | **Nébulosité (0/10)** | **Direction des nuages** | **Pluie tombée** | **Température de l'air** | **Hauteur de la mer (cm)** | **Agitation de l'eau** | **Densité au bord de la jetée** | **Température de l'eau** |
+|----------------|-----------|--------------------------|-----------------------|-----------|-----------------------|--------------------------|------------------|--------------------------|---------------------------|-----------------------|-------------------------------|--------------------------|
+| 13 Avril 1907  | **Matin** | 752.3 mmHg               | Nord-Ouest             | 1          | 10 (Clair)            | Sud-Ouest                | 11.29 mm         | 10.8 °C                  | 38.4                      | 3                     | 1029.0 g/cm³                 | 12.7 °C                 |
+| 13 Avril 1907  | **Soir**  | 750.3 mmHg               | Sud-Est                | 1          | 10 (Noir)             | Sud-Ouest                | -                | 13.5 °C                  | 47.7                      | 2                     | 1028.9 g/cm³                 | 12.7 °C                 |
+
+# 15 Avril 1907
+
+| **Date**       | **Heure** | **Hauteur Barométrique** | **Direction du Vent** | **Force** | **Nébulosité (0/10)** | **Direction des nuages** | **Pluie tombée** | **Température de l'air** | **Hauteur de la mer (cm)** | **Agitation de l'eau** | **Densité au bord de la jetée** | **Température de l'eau** |
+|----------------|-----------|--------------------------|-----------------------|-----------|-----------------------|--------------------------|------------------|--------------------------|---------------------------|-----------------------|-------------------------------|--------------------------|
+| 15 Avril 1907  | **Matin** | 749.3 mmHg               | Sud-Est               | 1          | 10 (Clair)            | Sud-Ouest                | -                | 16.7 °C                  | 29.9                      | 1 faible              | 1028.5 g/cm³                 | 13.8 °C                 |
+| 15 Avril 1907  | **Soir**  | -                        | -                     | -          | 10 (Noir)             | -                        | -                | -                        | -                         | -                     | -                             | -                       |
+```

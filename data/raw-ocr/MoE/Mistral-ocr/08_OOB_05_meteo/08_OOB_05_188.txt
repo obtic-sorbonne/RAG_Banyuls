@@ -1,0 +1,31 @@
+|  V. 18 Décembre 1906 | Moatin | Bois  |
+| --- | --- | --- |
+|  Hauteur Ménoménique | 766,7 |   |
+|  Direction du Vent | or. 0 |   |
+|  Force | 3 font. |   |
+|  (Res. C. (lème)) | 3 |   |
+|  (Mébulonte) |  |   |
+|  (Res. 2 (min) |  |   |
+|  Direction des nuages | or. 8 |   |
+|  (Brie tombé) |  |   |
+|  Température de l'air | 3,4 |   |
+|  Hauteur de la mer | 3,7 |   |
+|  (Aoptation de l'eau) | 3 font. |   |
+|  Densité au bout de la jetée | 1029,6 |   |
+|  (Dempetature de l'eau) | 12,6 |   |
+
+|  V. 19 Décembre 1906 | Moatin | Bois  |
+| --- | --- | --- |
+|  Hauteur Ménoménique | 768,4 | 767,6  |
+|  Direction du vent | or. 0.8 | or. 0.0  |
+|  Force | 2 font. | 1  |
+|  (Res. C. (lème)) | 0 | 6  |
+|  (Mébulonte) |  |   |
+|  (Res. 2 (min) |  |   |
+|  Direction des nuages |  | or. 0  |
+|  (Brie tombé) |  |   |
+|  Température de l'air | 7,7 | 7,7  |
+|  Hauteur de la mer | 38,2 | 71,6  |
+|  (Aoptation de l'eau) | 3 font. | 3  |
+|  Densité au bout de la jetée | 1029,2 | 1029,1  |
+|  (Dempetature de l'eau) | 12,2 | 12,4  |

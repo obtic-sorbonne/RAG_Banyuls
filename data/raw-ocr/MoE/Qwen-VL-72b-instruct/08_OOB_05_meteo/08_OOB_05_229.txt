@@ -1,0 +1,29 @@
+| Nombre de pairs de Bateaux | V. 9 Avril. 1907 | Matin | Soir |
+|---|---|---|---|
+| Hauteur Barométrique | | 760.9 | 796.8 |
+| Direction du vent | | N | S |
+| Force | | 0 | 1 Fort |
+| Reg. 0. (Terre) | | 10 | 10 |
+| Nébulosité | | Reg. X. (Ciel) | |
+| | | 10 | 10 |
+| Direction des nuages | | cr.0 | cr.0 |
+| Pluie tombée | | " | " |
+| Température de l'air | | 18.4 | 17.9 |
+| Hauteur de la mer | | 91.6 | 91.3 |
+| Agitation de l'eau | | 1 Faible | 1 Faible |
+| Densité au bout de la jetée | | 1029.0 | 1028.9 |
+| Température de l'eau | | 12.4 | 13.7 |
+| | V. 10 Avril. 1907 | Matin | Soir |
+| Hauteur Barométrique | | 799.1 | 798.8 |
+| Direction du vent | | cr.0 | cr.0 |
+| Force | | 4 | 4 Fort |
+| Reg. 0. (Terre) | | 10 Légère | 2 |
+| Nébulosité | | Reg. X. (Ciel) | |
+| | | 10 Légère | 2 |
+| Direction des nuages | | cr.0 | cr.0 |
+| Pluie tombée | | " | " |
+| Température de l'air | | 13.3 | 16.7 |
+| Hauteur de la mer | | 91.8 | 94.7 |
+| Agitation de l'eau | | 2 Fort | 3 |
+| Densité au bout de la jetée | | 1029.0 | 1028.6 |
+| Température de l'eau | | 12.4 | 12.9 |

@@ -1,0 +1,18 @@
+# Date: 4 Janvier 1902
+
+|   | 9th Britain | 3rd Swin  |
+| --- | --- | --- |
+|  Hauteur Ptaarométrique | 769.3 | 768.2  |
+|  Direction Su vent | N.N.O | S.E.  |
+|  Force | 1/20th | 1  |
+|  Reg. G. (1ère) | 0 | 0  |
+|  Pédbulosité |  |   |
+|  Reg. E. (mer) | 1 | 0  |
+|  Direction des nuages | 11 | 11  |
+|  Mente tombe | 11 | 11  |
+|  Température de l'air | 11.3 | 11.6  |
+|  Hauteur de la mer | 18.9 | 14.7  |
+|  Égitation de l'eau | 26.9 | 27.2  |
+|  Densité de l'eau | 1028.5 | 1028.5  |
+|  Comprendre |  |   |
+|  1ère Égitation |  |   |

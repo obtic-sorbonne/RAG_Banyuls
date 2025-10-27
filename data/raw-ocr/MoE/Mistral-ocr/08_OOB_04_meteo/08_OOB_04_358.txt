@@ -1,0 +1,27 @@
+|  V. 8 (Avril. 1904) | Obatin | Soir  |
+| --- | --- | --- |
+|  Hauteur Prazometrique | 767,3 | 766,1  |
+|  Correction du vent | or.0 | or.0  |
+|  Force | 5 | 5  |
+|  Débutosite | Reg. O. (terre) | 10  |
+|  Ébéditosite | Reg. E. (mur) | 10  |
+|  Correction des nuages | or.0 | or.0  |
+|  Flue Tombe |  |   |
+|  Comprendre de l'air | 17,0 | 22,1  |
+|  Hauteur de la mer | 72,2 | 70,0  |
+|  Égitation de l'eau | 2 | 2 font  |
+|  Densité au bout de la jetie | 1029,1 | 1029,0  |
+|  Comprendre de l'eau | 12,1 | 15,1  |
+|  V. 9 (Avril. 1904) | Obatin | Soir  |
+|  Hauteur Prazometrique | 766,5 |   |
+|  Correction du vent | or.0 |   |
+|  Force | 1,7 |   |
+|  Débutosite | Reg. O. (terre) | 0  |
+|  Ébéditosite | Reg. E. (mur) | 0  |
+|  Correction des nuages |  |   |
+|  Flue Tombe |  |   |
+|  Comprendre de l'air | 18,1 |   |
+|  Hauteur de la mer | 6,0 |   |
+|  Égitation de l'eau |  |   |
+|  Densité au bout de la jetie | 1028,1 |   |
+|  Comprendre de l'eau | 15,6 |   |

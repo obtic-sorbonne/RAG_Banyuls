@@ -1,0 +1,19 @@
+# Dáte & Juin 1901
+
+|  **Nom** | **Nom de l'exercice** | **Prix**  |
+| --- | --- | --- |
+|  Xantur Marométrique | Direction du vent | 761,6  |
+|  **Prix** |  | 55,5  |
+|  **Total** |  | 576,6  |
+|  **Reg. O. (livre)** | Reg. O. (livre) | 3  |
+|  **Décision des nuages** |  | 3  |
+|  **Prix tombe** |  | 3  |
+|  **Température de l'air** |  | 22,3  |
+|  **Température de la mer** |  | 47,4  |
+|  **Éligitation de l'eau** |  | 1,9  |
+|  **Densité de l'eau** |  | 102,7  |
+|  **Densité de l'eau** |  | 33,7  |
+
+**Température de l'eau**
+
+32,7 33,7

@@ -1,0 +1,31 @@
+```plaintext
+|  V. 4 Août - 1904 | Obatin | Jour  |
+| --- | --- | --- |
+|  Hauteur Barométrique | 770.0 | 758.7  |
+|  Direction du vent | 7.8.8 | 7.8.8  |
+|  Force | 2 | 3  |
+|  (Reg. O. (1ere)) | 0 | 3  |
+|  (Reg. O. (mer)) |  |   |
+|  Direction des mages | 7.8.8 | 7.8.8  |
+|  (Chute tombée) |  |   |
+|  Température de l'air | 37.8 | 30.7  |
+|  Hauteur de la mer | 48.7 | 47.0  |
+|  (Agitation de l'eau) | (faible) | (fort)  |
+|  Densité au bout de la jetée | 1026.7 | 1026.7  |
+|  Température de l'eau | 37.5 | 37.4  |
+
+|  V. 5 Août - 1904 | Obatin | Jour  |
+| --- | --- | --- |
+|  Hauteur Barométrique | 769.1 | 768.1  |
+|  Direction du vent | 6.8.8 | 84  |
+|  Force | 6 | 1  |
+|  (Reg. O. (1ere)) | 3 | 3  |
+|  (Reg. O. (mer)) |  |   |
+|  Direction des mages | 0 | 0  |
+|  (Chute tombée) |  |   |
+|  Température de l'air | 37.2 | 31.8  |
+|  Hauteur de la mer | 11.1 | 44.2  |
+|  (Agitation de l'eau) | (fort) | (fort)  |
+|  Densité au bout de la jetée | 1026.1 | 1021.9  |
+|  Température de l'eau | 34.5 | 35.5  |
+```

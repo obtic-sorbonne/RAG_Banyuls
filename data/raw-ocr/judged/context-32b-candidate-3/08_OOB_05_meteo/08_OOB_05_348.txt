@@ -1,0 +1,35 @@
+```markdown
+# 30 Janvier 1908
+
+| **Date**         | **Matin** | **Soir** |
+|------------------|-----------|----------|
+| **Hauteur barométrique (mmHg)** | 760.3 | 761.8 |
+| **Direction du vent** | cr. 0 | cr. 0 |
+| **Force** | 5 | 3 |
+| **Nébulosité (Reg. 0. claire)** | 0 | 3 |
+| **Nébulosité (Reg. 2° (mûr))** | 0 | 2 |
+| **Direction des nuages** | cr. 8 | cr. 7 |
+| **Pluie tombée (mm)** | - | - |
+| **Température de l'air (°C)** | 1.8 | 7.0 |
+| **Hauteur de la mer (cm)** | 12.6 | 12.6 |
+| **Agitation de l'eau** | 3 fort | 3 fort |
+| **Densité au bord de la jetée (g/cm³)** | 1029.0 | 1028.2 |
+| **Température de l'eau (°C)** | 3 | 3 |
+
+# 31 Janvier 1908
+
+| **Date**         | **Matin** | **Soir** |
+|------------------|-----------|----------|
+| **Hauteur barométrique (mmHg)** | 764.8 | 769.3 |
+| **Direction du vent** | cr. 0 | cr. 0 |
+| **Force** | 5 | 3 |
+| **Nébulosité (Reg. 0. claire)** | 0 | 6 |
+| **Nébulosité (Reg. 2° (mûr))** | 2 | 3 |
+| **Direction des nuages** | cr. 8 | cr. 8 |
+| **Pluie tombée (mm)** | - | - |
+| **Température de l'air (°C)** | 1.8 | 9.4 |
+| **Hauteur de la mer (cm)** | 18.9 | 60.2 |
+| **Agitation de l'eau** | 3 fort | 3 fort |
+| **Densité au bord de la jetée (g/cm³)** | 1029.0 | 1028.2 |
+| **Température de l'eau (°C)** | 11.3 | 11.9 |
+```

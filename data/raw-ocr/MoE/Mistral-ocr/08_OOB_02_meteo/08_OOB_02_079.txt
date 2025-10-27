@@ -1,0 +1,18 @@
+# Date: 28 Mai 1901
+
+|  Item | 9th Matin | 3rd Soir  |
+| --- | --- | --- |
+|  Hauteur Pervométrique | 751.3 | 750.7  |
+|  Direction du vent |  |   |
+|  Force | 1 fort | 3  |
+|   | 10 | 10  |
+|  Tébulosité |  |   |
+|  Rég. E. (mer) | 10 | 10  |
+|  Direction des nuages |  |   |
+|  Huie tombe | 11 | 11  |
+|  Température de l'air | 18.3 | 18.7  |
+|  Hauteur de la mer | 53.2 | 44.3  |
+|  Agitation de l'eau | 0 | 1 faille  |
+|  Sensité de l'eau | au bout de la foire | 1028.5  |
+|  Sensité de l'eau | au Large |   |
+|  Température de l'eau | 15.4 | 17.2  |

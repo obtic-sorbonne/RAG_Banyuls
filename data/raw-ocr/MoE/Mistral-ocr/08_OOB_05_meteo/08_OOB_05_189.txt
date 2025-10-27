@@ -1,0 +1,28 @@
+|  V. 20 Décembre - 1906 | Mboation | Poir  |
+| --- | --- | --- |
+|  Hauteur Moasométrique | 170.2 | 170.1  |
+|  Direction du vent | v.v.o | v.v.o  |
+|  Force | 1. fort | 1. fort  |
+|  (Reg. C. (tane) | 0 | 2  |
+|  (Ebutoirie) |  |   |
+|  (Reg. R. (mur) | 2 | 2  |
+|  Direction des images |  | 2  |
+|  (Prix tombé |  |   |
+|  Température de l'air | 1.4 | 1.8  |
+|  Hauteur de la mer | 43.2 | 47.8  |
+|  (Agitation de l'eau) | 3 | 3.6  |
+|  Densité au bout de la jetée | 1029.6 | 1029.6  |
+|  (Dempérature de l'eau) | 12.6 | 12.4  |
+|  V. 21 Décembre - 1905 | Mboation | Poir  |
+|  Hauteur Moasométrique | 170.4 | 188.3  |
+|  Direction du vent | v.v. | v.v.  |
+|  Force | 1. fort | 2  |
+|  (Ebutoirie) | 10 | 10  |
+|  (Reg. R. (mur) | 10 | 10  |
+|  Direction des images | v.v. | v.v.  |
+|  (Prix tombé) | 3.7 | 3.2  |
+|  (Dempérature de l'air) | 3.6 | 1.2  |
+|  Hauteur de la mer | 4. fort | 4  |
+|  (Agitation de l'eau) |  |   |
+|  Densité au bout de la jetée |  |   |
+|  (Dempérature de l'eau) |  |   |

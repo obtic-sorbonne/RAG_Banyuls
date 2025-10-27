@@ -1,0 +1,11 @@
+|  1. 18 (Avril - 1906) | Moatin | Jair  |
+| --- | --- | --- |
+|  Hauteur Pracométrique Direction du vent Force — — — | 7/4.3 3/4.0 3/3.0 3/3.0 3/3.0 | 7/4.0 3/4.0 3/3.0  |
+|  Nebulosité (Abs. E. (min)) Direction des mages — — — | 0 0 0 0 0 0 0 | 0 0 0 0 0 0 0  |
+|  Mise tombée Température de l'air Hauteur de la mer 15.0 14.5 13.6 12.6 11.1 10.9 10.8 10.7 10.8 10.9 | 1/0 1/1.1 1/1.1 1/1.1 1/1.1 | 1/1.1 1/1.1 1/1.1  |
+|  Permité au bout de la jetée Température de l'eau | 14.8 14.9 14.9 | 14.9 14.9  |
+|  1. 19 (Avril - 1906) | Moatin | Jair  |
+|  Hauteur Pracométrique Direction du vent Force — — — | 7/4.3 3/4.0 3/3.0 3/3.0 3/3.0 | 7/4.0 3/4.0 3/3.0  |
+|  Nebulosité (Abs. E. (min)) Direction des mages — — — | 10 10 10 10 10 10 10 | 10 10 10 10 10  |
+|  Mise tombée Température de l'air Hauteur de la mer 15.0 14.5 13.6 12.6 11.1 10.9 10.8 10.7 10.8 10.9 | 10.9 10.6 10.6 10.6 10.6 10.6 | 10.6 10.6 10.6 10.6  |
+|  Permité au bout de la jetée Température de l'eau | 14.8 14.8 14.8 | 14.8 14.8 14.8  |

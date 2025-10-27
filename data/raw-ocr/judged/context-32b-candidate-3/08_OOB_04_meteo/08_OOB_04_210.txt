@@ -1,0 +1,33 @@
+# 9.3 Avril. 1903
+
+|  Nom | Date  |
+| --- | --- |
+|  Hauteur Barométrique | 753.8  |
+|  Direction du vent | or.0  |
+|  Force | 1  |
+|  Nébulosité (Reg. O. (terre)) | 10  |
+|  Nébulosité (Reg. E. (mer)) | 10  |
+|  Direction des nuages | cr.5  |
+|  Pluie tombée | gnech.  |
+|  Température de l'air | 11.3  |
+|  Hauteur de la mer | 19  |
+|  Agitation de l'eau | 5  |
+|  Densité au bout de la jetée | 1028.2  |
+|  Température de l'eau | 11.8  |
+
+# 10.3 Avril. 1903
+
+|  Nom | Date  |
+| --- | --- |
+|  Hauteur Barométrique | 764.6  |
+|  Direction du vent | or.0  |
+|  Force | 3 fort  |
+|  Nébulosité (Reg. O. (terre)) | 10  |
+|  Nébulosité (Reg. E. (mer)) | 10  |
+|  Direction des nuages | or.0  |
+|  Pluie tombée |   |
+|  Température de l'air | 16.1  |
+|  Hauteur de la mer | 66.9  |
+|  Agitation de l'eau | 5 fort  |
+|  Densité au bout de la jetée | 1029.0  |
+|  Température de l'eau | 16.3  |

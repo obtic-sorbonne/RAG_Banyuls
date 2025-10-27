@@ -1,0 +1,29 @@
+```markdown
+| V. 6 Septembre 1906 | Matin | Soir |
+|---------------------|-------|------|
+| Hauteur barométrique | 768.1 | 762.0 |
+| Direction du vent    | E. S. | S. S. E. |
+| Force                | 1     | 1 port  |
+| Nébulosité (Reg. 0 - Claire) | 3 légère | 1 |
+| Nébulosité (Reg. E - Mêlée) | 3 légère | 1 |
+| Direction des nuages | E. S. O. | S. S. E. |
+| Pluie tombée         | - | - |
+| Température de l'air (°C) | 23.2 | 23.2 |
+| Hauteur de la mer    | 42.4 | 60.0 |
+| Agitation de l'eau   | 1 faible | 1 |
+| Densité au bout de la jetée | 1027.1 | 1027.2 |
+| Température de l'eau (°C) | 26.6 | 27.0 |
+| V. 7 Septembre 1906 | Matin | Soir |
+| Hauteur barométrique | 768.3 | 768.1 |
+| Direction du vent    | - | S. S. E. |
+| Force                | 0 | 3 faibles |
+| Nébulosité (Reg. 0 - Claire) | 0 | 0 |
+| Nébulosité (Reg. E - Mêlée) | - | - |
+| Direction des nuages | - | - |
+| Pluie tombée         | - | - |
+| Température de l'air (°C) | 26.6 | 38.0 |
+| Hauteur de la mer    | 42.0 | 12.1 |
+| Agitation de l'eau   | 1 faible | 1 faible |
+| Densité au bout de la jetée | 1027.5 | 1027.1 |
+| Température de l'eau (°C) | 23.2 | 24.5 |
+```

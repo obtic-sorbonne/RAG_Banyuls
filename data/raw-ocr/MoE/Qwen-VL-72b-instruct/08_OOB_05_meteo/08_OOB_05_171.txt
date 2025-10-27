@@ -1,0 +1,27 @@
+| V. 7 Novembre 1906 | Matin | Soir |
+|---|---|---|
+| Hauteur Barométrique | 749.3 | 746.7 |
+| Direction du Vent | S.E.S | S.E.O |
+| Force | 1 fort | 3 |
+| Nebulosite | Reg. O. (Terre) | 10 | 10 |
+|  | Reg. X. (mer) | 10 | 10 |
+| Direction des nuages | S.E.O | S.E.O |
+| Pluie tombée | quelques g | 1.8 |
+| Température de l'air | 16.9 | 11.0 |
+| Hauteur de la mer | 18.2 | 3 |
+| Agitation de l'eau | 2 faible | 17. fort |
+| Vensité au bout de la jetée | 1029.0 |  |
+| Température de l'eau | 17.4 | 5 |
+| V. 8 Novembre 1906 | Matin | Soir |
+| Hauteur Barométrique |  | 796.0 |
+| Direction du Vent |  | S.E.S |
+| Force | 15 | 1 |
+| Nebulosite | Reg. O. (lune) | 10 | 10 |
+|  | Reg. X. (mer) | 10 | ouvr |
+| Direction des nuages |  |  |
+| Pluie tombée |  | 3 et 1 |
+| Température de l'air |  | 13.3 |
+| Hauteur de la mer |  | 27.8 |
+| Agitation de l'eau |  | 1 fort |
+| Vensité au bout de la jetée |  | 1028.4 |
+| Température de l'eau |  | 17.8 |

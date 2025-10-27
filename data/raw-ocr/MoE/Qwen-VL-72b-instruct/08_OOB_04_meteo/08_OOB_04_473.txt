@@ -1,0 +1,32 @@
+| Pêche à la traîne | nombre de jaires de bateaux | Quantité de poisson pêché | valeur du poisson |
+|---|---|---|---|
+| 2 | Km. CO : 6f. | | |
+| g° au 16 mars - 1905 | Matin | Soir | |
+| Hauteur Barométrique | 794.0 | 793.8 | |
+| Direction du venti | cr.cr.o | cr.o | |
+| Force id | 2 | 1 faible | |
+| Nébulosité Reg.o (lère) | 10 légère ent.c | 10 | |
+| Nébulosité Reg.E.(mer) | 10 légère ent.c | 10 | |
+| Direction des nuags | cr.o | s.o | |
+| Pluie tombée | " | 2.0 | |
+| Température de l'air | 13.6 | 13.7 | |
+| Hauteur de la mer | 4-6/ | 89.1 | |
+| Agitation de l'eau | 2 faible | 1 | |
+| Densité au bout de la jetée | 1029.8 | 1029.7 | |
+| Température de l'eau | 12.2 | 12.8 | |
+| g° au 17 mars - 1905 | Matin | Soir | |
+| Hauteur Barométrique | 762.3 | 761.0 | |
+| Direction du venti | s.s | s.s.s | |
+| Force id | 1 faible | 1 fort | |
+| Nébulosité Reg.o (terre) | 10 | 10 | |
+| Nébulosité Reg.E.(mer) | 10 | 10 | |
+| Direction des nuags | s.o | s.o | |
+| Pluie tombée | 9.57/ | " | |
+| Température de l'air | 13.4 | 15.0 | |
+| Hauteur de la mer | 17/.1 | 18.9 | |
+| Agitation de l'eau | 1 | 1 faible | |
+| Densité au bout de la jetée | 1029.7 | 1029.6 | |
+| Température de l'eau | 12.2 | 13.1 | |
+| du 17 mars - 1905 | | | |
+| Pêche à la traîne | nombre de jaires de bateaux | Quantité de poisson pêché | valeur du poisson |
+| | 810 | km: 90.f. | |

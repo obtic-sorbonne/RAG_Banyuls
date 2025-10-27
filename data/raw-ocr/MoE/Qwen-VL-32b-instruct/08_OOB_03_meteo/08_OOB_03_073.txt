@@ -1,0 +1,17 @@
+# Date: 6 Décembre 1901
+
+|   | 9th Britain | 3rd Soir  |
+| --- | --- | --- |
+|  Mauteur Pearsonodrique | 757.8 | 754.7  |
+|  Direction Su vent | N.N.O | N.N.O  |
+|  Force | 3 | 27 fort  |
+|  Rébulosité [Reg. O. (tenue)] | 0 | 0  |
+|  Débulosité [Reg. E. (men)] | 0 | 0  |
+|  Direction des nuages | 11 | 11  |
+|  Mise tombé | 11 | 10.7  |
+|  Comprendre de l'air | 8.2 | 10.7  |
+|  Mauteur de la mer | 48.3 | 48.3  |
+|  Crattation de l'eau | 27 fort | 3  |
+|  Densité de l'eau [au bout de la jolie] | 1029.2 | 1029.1  |
+|  Densité de l'eau [au large] |  |   |
+|  Comprendre de l'eau | 13.2 | 13.4  |

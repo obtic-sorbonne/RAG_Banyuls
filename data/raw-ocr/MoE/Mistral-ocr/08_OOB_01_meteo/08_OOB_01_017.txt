@@ -1,0 +1,17 @@
+# Date of 30 April 1900
+
+|  Name | 84 m. | 34.1  |
+| --- | --- | --- |
+|  Bauteur barométrique | 768,6 | 767,8  |
+|  Direction du vent | N.O. | E.  |
+|  Force | 4 | 1  |
+|  Pesticide (Fig. 0. (tome) | 0 | 1  |
+|  Direction des nuages | 0 | 0  |
+|  Flux tombei |  |   |
+|  Température à l'air | 88,3 | 83,4  |
+|  Bauteur à l'eau | 0,0 | 1  |
+|  Âgitation à l'eau | 2 | 1  |
+|  Densité de l'eau (au fond du jet) | 10,0 | 0  |
+|  Température de l'eau | 10,0 | 0  |
+
+*Meur.*

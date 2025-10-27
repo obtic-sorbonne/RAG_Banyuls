@@ -1,0 +1,16 @@
+```
+|  9. 2 Décembre 1903 | Matin | Soir  |
+| --- | --- | --- |
+|  Hauteur Barométrique | 756.4 | 760.0  |
+|  Direction du vent | Est | Est  |
+|  Force | 2 | 4  |
+|  Rég. O. (terre) | 10 | 10  |
+|  Rég. F. (mer) | 10 | 10  |
+|  Direction des nuages | Est | Est  |
+|  Pluie tombée | 5.2 | 6.8  |
+|  Température de l'air | 10.5 | 11.3  |
+|  Hauteur de la mer | 38.0 | 38.0  |
+|  Agitation de l'eau | 2 | 3  |
+|  Densité au bout de la jetée | 1023.8 | 1023.8  |
+|  Température de l'eau | 14.5 | 14.1  |
+```

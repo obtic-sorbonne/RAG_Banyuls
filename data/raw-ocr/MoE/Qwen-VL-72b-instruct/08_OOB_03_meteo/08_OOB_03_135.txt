@@ -1,0 +1,17 @@
+| **Date:** 26 Février 1902 |
+| --- |
+| **Paramètres** | **9H Matin** | **3H Soir** |
+| --- | --- | --- |
+| **Haut. Barométrique** | 754.4 | 752.3 |
+| **Direction du vent** | S.S.E | S.S.E |
+| **Force** | faible | forte |
+| **Nébulosité** | Reg. 0 (Terre) | légère |
+|  | Reg. 0 (mer) | 0 |
+| **Direction des nuages** | cour. | " |
+| **Pluie tombée** | " | " |
+| **Température de l'air** | 13.4 | 15.1 |
+| **Haut. de la mer** | 31.4 | 42.0 |
+| **Agitation de l'eau** | 1 fort | 1 faible |
+| **Densité de l'eau** |  |  |
+| **Long. am.** | 1028.7 | 1028.9 |
+| **Température de l'eau** | 11.4 | 11.3 |

@@ -1,0 +1,32 @@
+```plaintext
+| **Date**                     | **Matin** | **Soir** |
+|------------------------------|-----------|----------|
+| **V. 11 juillet 1904**       |           |          |
+| Hauteur Barométrique         | 763.6     | 761.7    |
+| Direction du vent            | cer. E    | S.E.E    |
+| Force du vent                | 1         | 1        |
+| Nébulosité (Reg. 0. (terre)) | 10 légère | 3        |
+| Nébulosité (Reg. 2. (mer))   | 10 légère | 1        |
+| Direction des nuages         | C         | S.O.     |
+| Pluie tombée                 |           |          |
+| Température de l'air         | 29.6      | 32.4     |
+| Hauteur de la mer            | 10.7      | 12.2     |
+| Agitation de l'eau           | 1 (Faible)| 1 (Faible)|
+| Densité au bout de la jetée  | 1023.2    | 1026.0   |
+| Température de l'eau         | 24.7      | 27.8     |
+
+| **V. 12 juillet 1904**       | **Matin** | **Soir** |
+|------------------------------|-----------|----------|
+| Hauteur Barométrique         | 765.1     | 764.7    |
+| Direction du vent            | cr. E     | S. E     |
+| Force du vent                | 1         | 1        |
+| Nébulosité (Reg. 0. (terre)) | légère    | légère   |
+| Nébulosité (Reg. 2. (mer))   | légère    | 0        |
+| Direction des nuages         | S.L.O.    | S.6      |
+| Pluie tombée                 |           |          |
+| Température de l'air         | 27.7      | 33.9     |
+| Hauteur de la mer            | 11.6      | 12.1     |
+| Agitation de l'eau           | Faible    | Faible   |
+| Densité au bout de la jetée  | 1026.7    | 1026.2   |
+| Température de l'eau         | 25.3      | 27.4     |
+```

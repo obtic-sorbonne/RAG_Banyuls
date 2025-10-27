@@ -1,0 +1,35 @@
+```
+| Date        | Matin     | Soir    |
+|-------------|-----------|---------|
+| V. 11 Avril 1903 |          |         |
+| Hauteur Barométrique | 762,2  | 759,7  |
+| Direction du vent  | cr. o   | cr. o  |
+| Force            | 3      | 4 T. Fort |
+| Reg. O. (terre)  | 0      | 0      |
+| Nébulosité       |        |        |
+| Reg. E. (mer)    | 2 légères | 2 légères |
+| Direction des nuages | cr. o  | cr. o  |
+| Pluie tombée     | "      | "      |
+| Température de l'air | 14,4  | 18,7  |
+| Hauteur de la mer | 48,0   | 48,7   |
+| Agitation de l'eau | 2     | 2 Fort |
+| Densité au bout de la jetée | 1029,4 | 1029,3 |
+| Température de l'eau | 12,1  | 12,7  |
+
+| Date        | Matin     | Soir    |
+|-------------|-----------|---------|
+| V. 13 Avril 1903 |          |         |
+| Hauteur Barométrique | 759,6  |         |
+| Direction du vent  | cr. o   | cr. o  |
+| Force            | 3      | 9      |
+| Reg. O. (terre)  | 2      |         |
+| Nébulosité       |        |        |
+| Reg. E. (mer)    | 0      |         |
+| Direction des nuages | cr. o  | cr. o  |
+| Pluie tombée     | "      |         |
+| Température de l'air | 16,8  |         |
+| Hauteur de la mer | 48,5   |         |
+| Agitation de l'eau | 3     |         |
+| Densité au bout de la jetée | 1029,2 |         |
+| Température de l'eau | 12,6  |         |
+```

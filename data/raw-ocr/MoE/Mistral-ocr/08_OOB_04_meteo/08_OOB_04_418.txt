@@ -1,0 +1,27 @@
+|  V. 5 Septembre 1902 | Nibatin | Soir  |
+| --- | --- | --- |
+|  Yauteur Praxomebrique | 255.3 | 253.5  |
+|  Direction du rent | 8.3.8 | 2.2.8  |
+|  Force - - - is | 1 fort | 2  |
+|  Nieboutosite | (Reg. G. (tence) | 1  |
+|  Direction des mages |  |   |
+|  Flue Tombe |  | 0  |
+|  Bempierature de l'air | 81.3 | 37.5  |
+|  Yauteur de la mer | 17.8 | 40.8  |
+|  Cagitation de l'eau |  | 1 fort  |
+|  Bensite au bout de la jetie | 10.37.1 | 10.37.4  |
+|  Bempierature de l'eau | 81.7 | 81.8  |
+
+|  V. 6 Septembre 1902 | Nibatin | Soir  |
+| --- | --- | --- |
+|  Yauteur Praxomebrique | 254.2 | 253.1  |
+|  Direction du rent | or. 8 | 2.8  |
+|  Force - - - is | 1 faible | 3 fort  |
+|  Nieboutosite | (Reg. G. (tence) | 10  |
+|  Direction des mages | 220 | 10  |
+|  Flue Tombe |  | 28.6  |
+|  Bempierature de l'air | 24.6 | 38.6  |
+|  Yauteur de la mer | 12.7 | 38.7  |
+|  Cagitation de l'eau | 1 faible | 1 fort  |
+|  Bensite au bout de la jetie | 10.37.1 | 10.37.1  |
+|  Bempierature de l'eau | 81.6 | 88.4  |

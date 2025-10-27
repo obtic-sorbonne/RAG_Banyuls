@@ -1,0 +1,17 @@
+# Date 16 octobre - 1900
+
+|   | 8. m | 3. s.  |
+| --- | --- | --- |
+|  Hauteur barométrique | 731,8 | 730,4  |
+|  Direction du vent | N-E | 8  |
+|  Force | 1 | 2  |
+|  Habulosité (Preg. - O) | 1 | 2  |
+|  Preg. - E | 1 | 0  |
+|  Direction des nuages | 8 | 8  |
+|  Pluie tombe |  |   |
+|  Température de l'air | 21,2 | 22,5  |
+|  Hauteur de la mer | 30,8 | 40,0  |
+|  Agitation de l'eau | 1 faible | 1  |
+|  Densité (au bout de la jetée) | 1022,5 | 1022,2  |
+|  (au large) |  |   |
+|  Température de l'eau | 31,2 | 28,1  |

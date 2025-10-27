@@ -1,0 +1,35 @@
+# 9.20 Avril - 1902
+
+## Matin Soir
+
+|  Matin | Pour  |
+| --- | --- |
+|  Hanteur Praxometrique | 285,3  |
+|  Direction du vent | 2,25  |
+|  Force | 1  |
+|  Mébulointe (Reg. G. (lire)) | 10  |
+|  Mébulointe (Reg. E. (nur)) | 10  |
+|  Direction des images | cross  |
+|  Mise tombe |   |
+|  Température de l'air | 16,8  |
+|  Maturité de la mer | 47,1  |
+|  Législation de l'eau | 0  |
+|  Densité au bout de la jetée | 102,4  |
+|  Température de l'eau | 14,3  |
+
+## 10.21 Avril - 1902
+
+|  Matin | Pour  |
+| --- | --- |
+|  Hanteur Praxometrique | 285,3  |
+|  Direction du vent | or.ct.  |
+|  Force | 1  |
+|  Mébulointe (Reg. G. (lire)) | 0  |
+|  Mébulointe (Reg. E. (nur)) | 0  |
+|  Direction des images |   |
+|  Mise tombe | quelques  |
+|  Température de l'air | 16,6  |
+|  Maturité de la mer | 47,1  |
+|  Législation de l'eau | 15 fois  |
+|  Densité au bout de la jetée | 102,4  |
+|  Température de l'eau | 17,3  |

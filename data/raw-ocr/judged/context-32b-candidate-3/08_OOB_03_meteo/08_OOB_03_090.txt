@@ -1,0 +1,17 @@
+# Date 27 Décembre 1901
+
+|  | 9e Britain | 3e Bois  |
+| --- | --- | --- |
+|  Hauteur Barométrique | 755,2 | 757,2  |
+|  Direction du vent | N.O | N.N.O  |
+|  Force | 1 | 2 fort  |
+|  Nébulosité { Reg. C. (terre) } | 10 | 1  |
+|  Nébulosité { Reg. E. (mer) } | 10 | 2  |
+|  Direction des nuages | N.O | N.N.O  |
+|  Pluie tombée | - | -  |
+|  Température de l'air | 7,3 | 10,2  |
+|  Hauteur de la mer | 23,1 | 44,5  |
+|  Agitation de l'eau | 1 fort | 2  |
+|  Densité de l'eau { au bout de la jetée } | 1029,7 | 1029,7  |
+|  Densité de l'eau { au large } | - | -  |
+|  Température de l'eau | 12,4 | 12,5  |

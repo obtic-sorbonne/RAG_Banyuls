@@ -1,0 +1,26 @@
+```
+Sortie du 23 1903
+
+Départ de Barcelone à 1 heure du matin pour les Baléares
+Arrivée à Palmas à 3<sup>e</sup> h. du soir
+
+Départ de Palmas à 4<sup>e</sup> h. du matin pour Mahon
+Arrivée à Mahon à 6<sup>e</sup> h. du soir
+
+Départ de Mahon à 8<sup>e</sup> h. du matin pour Palmas
+Arrivée au mouillage à 1<sup>e</sup> h. du soir
+
+État du temps: Calme et clair
+
+Passagers à bord: M<sup>°</sup> Lucien L. Pruvot, M<sup>°</sup> Grumel, M<sup>°</sup> Antone Buer, M<sup>°</sup> Menkovitch, M<sup>°</sup> Motz, et deux autres passagers
+
+Objet de la sortie: En route pour les Baléares
+
+Consommation
+- Briquettes de 10 Poids en Kilos | 200
+- Huile                     Total en litres | 5
+
+Dépenses:  
+
+Observations: Partis de Barcelone à 1 heure du matin, la mer était calme et le temps clair. Nous avons fait une halte à Palmas à 3<sup>e</sup> h. du soir. Nous avons repris notre route à 4<sup>e</sup> h. du matin, arrivant à Mahon à 6<sup>e</sup> h. du soir. Nous avons de nouveau levé l'ancre à 8<sup>e</sup> h. du matin pour Palmas, où nous sommes arrivés à 1<sup>e</sup> h. du soir. Aucun incident notable à signaler.
+```

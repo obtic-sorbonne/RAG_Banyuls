@@ -1,0 +1,6 @@
+| **Date** | **Heure** | **Hauteur Barométrique (mmHg)** | **Direction du Vent** | **Force du Vent** | **Nébulosité (%)** | **Direction des Nuages** | **Pluie Tombée (mm)** | **Température de l'Air (°C)** | **Hauteur de la Mer (m)** | **Agitation de l'Eau (unités)** | **Densité au Bord de la Jetée (kg/m³)** | **Température de l'Eau (°C)** |
+|----------|-----------|----------------------------------|----------------------|--------------------|-----------------------|----------------------------|-----------------------------|------------------------------|-----------------------------|---------------------------------|-----------------------------------|------------------------------------|
+| 13 Octobre 1905 | Matin | 768.2 | or.cr.o | is | 0 | cr.cr.o | - | 14.0 | 11.0 | 3 T.jour | 1029.0 | 19.0 |
+| 13 Octobre 1905 | Soir | 766.2 | cr.cr.o | 3 | 1 segment | " " | - | 16.3 | 9.8 | 3 T.jour | 1028.2 | 19.3 |
+| 14 Octobre 1905 | Matin | 764.8 | cr.cr.o | 1 jour | 10 légère | cr.cr.o | - | 17.0 | 11.2 | 2 | 1028.2 | 19.0 |
+| 14 Octobre 1905 | Soir | 764.2 | cr.cr.o | 2 T.jour | 10 | cr.cr.o | - | 18.3 | 64.8 | 3 jours | 1028.1 | 18.6 |

@@ -1,0 +1,17 @@
+# Date: 22 Décembre - 1901
+
+|  | 9e Matin | 3e Soir |
+| --- | --- | --- |
+|  Hauteur Barométrique | 742,2 | 742,2 |
+|  Direction du vent | Ouest | Ouest |
+|  Force | 1 faible | 1 faible |
+|  Nébulosité { Reg. C. (terre) } | 3 | 3 |
+|  Nébulosité { Reg. E. (mer) } | 4 | 4 |
+|  Direction des nuages | Sud | Sud |
+|  Pluie tombée | - | - |
+|  Température de l'air | 4,5 | 4,5 |
+|  Hauteur de la mer | 23,6 | 23,6 |
+|  Agitation de l'eau | 1 | 1 |
+|  Densité de l'eau { au bout de la jetée } | 1028,7 | 1028,7 |
+|  Densité de l'eau { au large } | - | - |
+|  Température de l'eau | 12,1 | 12,1 |

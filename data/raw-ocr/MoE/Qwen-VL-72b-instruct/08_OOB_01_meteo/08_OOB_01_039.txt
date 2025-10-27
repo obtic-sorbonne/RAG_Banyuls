@@ -1,0 +1,19 @@
+| **Date**          | V. 14 Septembre 1900 |
+|---|---|
+| **Heure**         | 9 h m.       |            |
+| **Haut. barométrique** | 768,4    | 767,4    |
+| ** Direction du vent** | 0.         | nul      |
+| ** Force**        | 1/8 barne    | "        |
+| ** Nébulosité**   | Rég. O. (tenu) | 10      |
+|                   | Rég. E. (mos)  | 9       | 10      |
+| ** Direction des nuages** | E         | S. E.   |
+| ** Pluie tombée** | "           | 13 mill. |
+| ** Température de l'air** | 19°,3    | 19°,1   |
+|---|---|---|
+| **Hauteur de la mer**    | 0,42       | 0,35    |
+| **Agitation de l'eau**   | 3          | 4       |
+| **Densité de l'eau**     | autour 8,6 g/cm³ | 8,6 g/cm³ |
+| **Température de l'eau** | 21°,3     | 21°,3   |
+|---|---|---|
+| **Observat.** | a 9 h m. faible puis changea par le | |
+| **  **        | vent d'Est. | |

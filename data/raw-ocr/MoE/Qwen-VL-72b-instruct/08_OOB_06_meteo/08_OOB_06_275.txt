@@ -1,0 +1,50 @@
+| **Observations du 1902, 23 avril** |
+| --- |
+| **Nombre de bateaux sortis (pêche à la...)** |  |
+| **Température de l'air** |  |
+| maxima depuis la veille | 18.6 |
+| minima id. | 12.2 |
+| **Température de l'eau** |  |
+| maxima depuis la veille |  |
+| minima id. |  |
+| **Pluie tombée depuis la veille, en millim.** | quelques |
+| **Evaporation depuis le 190**, en millim. |  |
+| **Direction du vent (à terre)** | S.S.O | S.O |
+| **Force** | 1/4art | 1ail |
+| **Direction des nuages** | m.n.o | m.n.o |
+| **Nébulosité** |  |  |
+| région Ouest (terre) | 10 | 10 |
+| id. Est (mer) | 10 | 40 |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.)** | 43.4 | 49.6 |
+| **Agitation de l'eau** | 1 | 1 faible |
+| **Densité de l'eau au bout de la jetée** | 1028.2 | 1028.4 |
+| **Température** |  |  |
+| Balais matin (Humid.) | 14.9 | 17.9 |
+| Terre matin | maxima minima | 19.6 10.2 | 22.7 14.8 |
+| Terre soir | maxima minima | 22.7 9.7 | 22.0 19.9 |
+|
+| **Observations du 1902, 24 avril** |
+| --- |
+| **Nombre de bateaux sortis (pêche à la...)** |  |
+| **Température de l'air** |  |
+| maxima depuis la veille | 19.7 |
+| minima id. | 11.7 |
+| **Température de l'eau** |  |
+| maxima depuis la veille |  |
+| minima id. |  |
+| **Pluie tombée depuis la veille, en millim.** | quelques |
+| **Evaporation depuis le 190**, en millim. |  |
+| **Direction du vent (à terre)** | S.S.O | S.S.O |
+| **Force** | 1/4art | 1/4art |
+| **Direction des nuages** | Sud | S.S.O |
+| **Nébulosité** |  |  |
+| région Ouest (terre) | 10 | 10 |
+| id. Est (mer) | 40 | 40 |
+| **Hauteur de la mer, en centimètres, au-dessus du zéro (B.R.)** | 39.4 | 39.1 |
+| **Agitation de l'eau** | 1 | 1 |
+| **Densité de l'eau au bout de la jetée** | 1028.2 | 1028.4 |
+| **Température** |  |  |
+| Balais matin | 13.6 | 13.8 |
+| Terre matin | maxima minima | 22.7 9.7 | 22.0 19.9 |
+| Terre soir | maxima minima | 22.7 9.7 | 22.0 19.9 |
+|

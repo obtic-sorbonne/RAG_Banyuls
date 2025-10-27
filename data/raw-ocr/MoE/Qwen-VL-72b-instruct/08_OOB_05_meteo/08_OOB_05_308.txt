@@ -1,0 +1,27 @@
+| V. 19 Octobre 1907 | Matin | Soir |
+|-------------------|-------|------|
+| Hauteur Barométrique | 762,3 | 762,3 |
+| Direction du Vent | S.S.O | S.S.E |
+| Force | 3 fort | 2 fort |
+| Nébulosité | Reg. C. (tère) | 10 | 10 |
+| Nébulosité | Reg. Z. (mer) | 10 | 10 |
+| Direction des nuages | S.O | S.O |
+| Pluie tombée | " | " |
+| Température de l'air | 19.3 | 18.8 |
+| Hauteur de la mer | 40.0 | 32.8 |
+| Agitation de la mer | 2 faible | 2 |
+| Densité au bord de la jetée | 1028.1 | 1027.7 |
+| Température de la mer | 19.1 | 19.1 |
+| V. 21 Octobre 1907 | Matin | Soir |
+| Hauteur Barométrique | 764.9 | 763.2 |
+| Direction du Vent | S.S.E | S.E |
+| Force | 2 | 2 |
+| Nébulosité | Reg. C. (tère) | 10 | 10 |
+| Nébulosité | Reg. Z. (mer) | 10 | 10 |
+| Direction des nuages | S.S.E | S.E |
+| Pluie tombée | 17.1 | quelques g |
+| Température de l'air | 20.6 | 20.0 |
+| Hauteur de la mer | 27.6 | 32.6 |
+| Agitation de la mer | 2 | 2 fort |
+| Densité au bord de la jetée | 1026.6 | 1027.6 |
+| Température de la mer | 19.1 | 19.6 |

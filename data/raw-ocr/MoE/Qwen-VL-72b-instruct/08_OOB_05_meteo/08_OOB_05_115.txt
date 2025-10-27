@@ -1,0 +1,33 @@
+| V. 24 916 mai - 1906 | Matin | Soir |
+|----------------------|-------|------|
+| Hauteur Barométrique | 762,8 |      |
+| Direction du vent    | cr.cr.8 |      |
+| Force                | 1     |      |
+| Nébulosité           | 2     |      |
+| Reg. c. (terre)      |       |      |
+| Nébulosité           | 9     |      |
+| Reg. E. (mer)        |       |      |
+| Direction des mags   | cr.o. |      |
+| Pluie tombée         | quelques g |      |
+| Température de l'air | 18,8  |      |
+| Hauteur de la mer    | 97,2  |      |
+| Agitation de l'eau   | 1     |      |
+| Densité au bout de la jetée | 1028,0 |      |
+| Température de l'eau | 17,7  |      |
+
+| V. 25 916 mai - 1906 | Matin | Soir |
+|----------------------|-------|------|
+| Hauteur Barométrique | 768,0 | 767,8 |
+| Direction du vent    | cr.o. | cr.cr.8 |
+| Force                | 2 fort | 2 fort |
+| Nébulosité           | 10    | 10    |
+| Reg. c. (terre)      |       |       |
+| Nébulosité           | 10    | 10    |
+| Reg. E. (mer)        |       |       |
+| Direction des mags   | cr.o. | cr.o. |
+| Pluie tombée         | quelques g |       |
+| Température de l'air | 18,9  | 22,7  |
+| Hauteur de la mer    | 47,8  | 48,6  |
+| Agitation de l'eau   | 2 faible | 2    |
+| Densité au bout de la jetée | 1028,0 | 1027,8 |
+| Température de l'eau | 16,0  | 16,6  |

@@ -1,0 +1,28 @@
+|  V. 6 mai - 1905 | Matin | Joir  |
+| --- | --- | --- |
+|  Hauteur Maronitrique | 260,6 | 262,0  |
+|  Direction du vent | 2,0 | 4,0  |
+|  Force | 1 | 1  |
+|  Nébulonite / | 10 | 10  |
+|  (Rez. 2. (mer) |  |   |
+|  Direction des nuages | 2,0 | 10  |
+|  Flue tombe | 8,12 | 4,0  |
+|  Température de l'air | 10,6 | 12,9  |
+|  Hauteur de la mer | 49,0 | 6,0  |
+|  Agitation de l'eau | 1 faible | 1 faible  |
+|  Émite au bout de la jetée | 1028,6 | 1029,4  |
+|  Température de l'eau | 14,8 | 1,0  |
+
+|  V. 8 mai - 1905 | Matin | Joir  |
+| --- | --- | --- |
+|  Hauteur Maronitrique | 264,0 | 262,2  |
+|  Direction du vent | 2,0 | 2,8  |
+|  Force | 2 | 1  |
+|  Nébulonite / (Rez. 2. (mer) |  |   |
+|  Direction des nuages | 10 | 10  |
+|  Flue tombe | 18,1 | 4,0  |
+|  Température de l'air | 14,4 | 12,6  |
+|  Hauteur de la mer | 48,8 | 19,6  |
+|  Agitation de l'eau | 1 fort | 1  |
+|  Émite au bout de la jetée | 1028,1 | 1028,3  |
+|  Température de l'eau | 16,0 | 12,1  |

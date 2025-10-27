@@ -1,0 +1,61 @@
+| **Date**         | **Heure** | **Éléments observés**              | **Valeurs** |
+|------------------|----------|------------------------------------|------------|
+| 24 Mai 1902     | Matin    |                                    |            |
+|                  |          | Hauteur Barométrique             | 770.2      |
+|                  |          | Direction du vent                | er. cr. o  |
+|                  |          | Force                            | 15         |
+|                  |          | Nebulosité                       |            |
+|                  |          |   - Reg. O. (terre)              | 0          |
+|                  |          |   - Reg. E. (mer)                 | 0          |
+|                  |          | Direction des nuages             | er. cr. o  |
+|                  |          | Pluie tombée                      | "          |
+|                  |          | Température de l'air             | 20.5       |
+|                  |          | Hauteur de la mer                 | 71.5       |
+|                  |          | Agitation de l'eau                | 3          |
+|                  |          | Densité au bout de la jetée       | 1028.4     |
+|                  |          | Température de l'eau             | 14.7       |
+| 24 Mai 1902     | Soir     |                                    |            |
+|                  |          | Hauteur Barométrique             | 760.0      |
+|                  |          | Direction du vent                | er. cr. o  |
+|                  |          | Force                            | faible     |
+|                  |          | Nebulosité                       |            |
+|                  |          |   - Reg. O. (terre)              | 0          |
+|                  |          |   - Reg. E. (mer)                 | 0          |
+|                  |          | Direction des nuages             | er. cr. o  |
+|                  |          | Pluie tombée                      | "          |
+|                  |          | Température de l'air             |            |
+|                  |          | Hauteur de la mer                 |            |
+|                  |          | Agitation de l'eau                |            |
+|                  |          | Densité au bout de la jetée       |            |
+|                  |          | Température de l'eau             |            |
+| **Date**         | **Heure** | **Éléments observés**              | **Valeurs** |
+|------------------|----------|------------------------------------|------------|
+| 26 Mai 1902     | Matin    |                                    |            |
+|                  |          | Hauteur Barométrique             | 768.2      |
+|                  |          | Direction du vent                | er. cr. o  |
+|                  |          | Force                            | 8 jour     |
+|                  |          | Nebulosité                       |            |
+|                  |          |   - Reg. O. (terre)              | légère     |
+|                  |          |   - Reg. E. (mer)                 | légère     |
+|                  |          | Direction des nuages             | crux       |
+|                  |          | Pluie tombée                      | "          |
+|                  |          | Température de l'air             | 21.7       |
+|                  |          | Hauteur de la mer                 | 8 jour     |
+|                  |          | Agitation de l'eau                | fort       |
+|                  |          | Densité au bout de la jetée       | 1027.9     |
+|                  |          | Température de l'eau             | 15.8       |
+| 26 Mai 1902     | Soir     |                                    |            |
+|                  |          | Hauteur Barométrique             | 766.8      |
+|                  |          | Direction du vent                | crux       |
+|                  |          | Force                            | 2 jour     |
+|                  |          | Nebulosité                       |            |
+|                  |          |   - Reg. O. (terre)              | légère     |
+|                  |          |   - Reg. E. (mer)                 | légère     |
+|                  |          | Direction des nuages             | crux       |
+|                  |          | Pluie tombée                      | "          |
+|                  |          | Température de l'air             | 23.9       |
+|                  |          | Hauteur de la mer                 | 868.9      |
+|                  |          | Agitation de l'eau                | tout       |
+|                  |          |   - fort                         |            |
+|                  |          | Densité au bout de la jetée       | 1027.9     |
+|                  |          | Température de l'eau             | 16.4       |
