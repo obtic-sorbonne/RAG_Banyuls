@@ -42,6 +42,6 @@ This project transforms ~2,900 pages of 18th-20th century oceanographic document
 | Qwen-VL-32B | 49.89% | 42.48% | 50.11% |
 | **Our Method** | **32.98%** | **38.36%** | **67.02%** |
 
-*34% relative improvement over best single model*
+*17% relative improvement over best single model*
 
 ##  Project Structure
