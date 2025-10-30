@@ -44,4 +44,61 @@ This project transforms ~2,900 pages of 18th-20th century oceanographic document
 
 *17% relative improvement over best single model*
 
-##  Project Structure
+
+
+## ⚡ Quick Start
+
+### Prerequisites
+
+- Python 3.9+
+- 16GB+ RAM (for embedding models)
+
+### Installation
+
+1. **Clone repository**
+```bash
+git clone https://github.com/obtic-sorbonne/RAG_Banyuls.git
+cd RAG_Banyuls
+
+pip install -r requirements.txt
+```
+
+2. **Install dependencies**
+```bash
+pip install -r requirements.txt
+```
+
+3. **Configure dependencies**
+   
+Edit configuration with your API keys and paths
+
+4. **Process sample data**
+
+Edit and run
+``` bash
+python ocr.py
+python collect.py
+```
+5. **Launch web interface**
+
+```bash
+streamlit run app/app.py
+```
+
+
+# Citation
+```bibtex
+@article{wenjun2025oceanographic,
+  title={Valorizing Historical Oceanographic Documents: An End-to-End RAG Pipeline with Advanced OCR Correction},
+  author={Li Wenjun and Alrahabi Motasem and Castellon Clément},
+  journal={arXiv preprint},
+  year={2025}
+}
+```
+
+
+
+
+  
+
+
