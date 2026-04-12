@@ -88,11 +88,13 @@ streamlit run app/app.py
 
 # Citation
 ```bibtex
-@article{wenjun2025oceanographic,
-  title={Valorizing Historical Oceanographic Documents: An End-to-End RAG Pipeline with Advanced OCR Correction},
-  author={Li Wenjun and Alrahabi Motasem and Castellon Clément},
-  journal={arXiv preprint},
-  year={2025}
+@inproceedings{li2026shiplogs,
+  title={From Ship Logs to Searchable Knowledge: A Multi-Model OCR and RAG Pipeline for Historical Oceanographic Records (1883--1912)},
+  author={Li, Wenjun and Castellon, Cl{\'e}ment and Alrahabi, Motasem},
+  booktitle={DH2026: The 36th Annual Conference of the Alliance of Digital Humanities Organizations (ADHO)},
+  address={Daejeon, South Korea},
+  year={2026},
+  note={Forthcoming}
 }
 ```
 
