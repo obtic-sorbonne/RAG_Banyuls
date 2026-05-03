@@ -4,7 +4,7 @@ sentence-transformers==4.1.0
 tokenizers==0.21.2
 transformers @ git+https://github.com/huggingface/transformers@539c6c2fa8abc9bb97218ac0b3c3d143ba800e05
 openai==1.93.0
-
+deeplake==4.3.1
 chromadb==1.0.13
 
 mistralai==1.8.2
