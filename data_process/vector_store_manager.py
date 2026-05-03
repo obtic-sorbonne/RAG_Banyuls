@@ -4,8 +4,6 @@ from typing import List, Dict
 
 import chromadb
 from chromadb.config import Settings
-# from deeplake.core.vectorstore.deeplake_vectorstore import VectorStore
-import deeplake
 
 from .chunking_strategies import PageChunker, RecordChunker
 from .embedding_generator import EmbeddingGenerator

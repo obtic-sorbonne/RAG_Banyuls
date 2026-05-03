@@ -8,7 +8,7 @@ vector:
   embedding_model: "sentence-transformers/paraphrase-multilingual-mpnet-base-v2"
   embedding_dim: 768
 
-  vector_store_type: "deeplake"
+  vector_store_type: "chromadb"
 
   deeplake_path: "al://wenjun/OOB-DEV-RAG"
 

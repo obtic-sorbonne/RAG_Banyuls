@@ -6,7 +6,6 @@ PyYAML==6.0.2
 openai==1.93.0
 mistralai==1.8.2
 chromadb==1.0.13
-deeplake==4.3.1
 
 # Embeddings / NLP
 sentence-transformers==4.1.0
