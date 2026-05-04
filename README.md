@@ -85,6 +85,12 @@ python collect.py
 streamlit run app/app.py
 ```
 
+6. **Online Demo**
+
+```bash
+https://rag-oob.streamlit.app/
+```
+
 
 # Citation
 ```bibtex
